@@ -35,6 +35,14 @@ A curated list of Rust code and resources.
 
 *   [mikwielgus/undoredo (⭐116)](https://github.com/mikwielgus/undoredo) \[[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no\_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 
+### Libraries / Reverse engineering
+
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
+
+### Libraries / Virtualization
+
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Applications / Database
@@ -46,7 +54,7 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [ogulcancelik/herdr (⭐10k)](https://github.com/ogulcancelik/herdr) - Terminal multiplexer designed for AI coding agents. Run multiple agents in one terminal with real terminal views, agent state detection (blocked/working/done), workspaces, tabs, and persistent sessions. Single Rust binary with detach/reattach support.
-*   [tover0314-w/opentypeless (⭐295)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
+*   [tover0314-w/opentypeless (⭐334)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
 
 ### Applications / Text processing
 
@@ -2988,7 +2996,7 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [RisingWaveLabs/RisingWave (⭐9.1k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions)
-*   [SurrealDB (⭐32k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐33k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
 
@@ -3560,7 +3568,7 @@ A curated list of Rust code and resources.
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐2.2k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐32k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐33k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.3k)](https://github.com/symisc/unqlite)
         *   [zitsen/unqlite.rs (⭐114)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)

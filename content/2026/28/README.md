@@ -1,12 +1,26 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2026
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [autofix (⭐0)](https://github.com/deXterbed/zsh-autofix) - When a command fails, captures its `stderr` and asks a local [Ollama](https://ollama.com) model for a fix, shown as ghost-text you can accept with `Tab`. Silent on success.
+*   [how2 (⭐0)](https://github.com/yizhixiaokong/how2) - Quickly inspect aliases, functions, and docs of [oh-my-zsh](https://ohmyz.sh/) plugins, with tab completion.
+*   [shui (⭐0)](https://github.com/kud/shui) - Fluid terminal UI for ZSH — a design system for the shell
+*   [v (⭐0)](https://github.com/teaVeloper/v) - An editor wrapper around a fast file finder.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [bluebird (⭐0)](https://github.com/bedirisinghe/bluebird-prompt) - A lightweight ZSH prompt featuring a clean Powerline-style design and Nerd Font support. Includes decorators for username, current directory, and `git` branch.
+*   [gozilla-lite (⭐0)](https://github.com/jannik-el/gozilla-lite) - Based on [oh-my-zsh](https://ohmyz.sh)'s built-in [gozilla (⭐188k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gozilla) theme. Includes decorators for the current directory, `git` branch, and a live `git` status in the right-hand prompt.
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -100,19 +114,27 @@
 
 *   [YAML (⭐485) (⭐485)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [3. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+
+### Arch-based distros / Desktop
+
+*   [Crystal Linux](https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
+
+### Arch-based distros / Specific purpose
+
+*   [Archphile](https://archphile.org/) - *(Raspberry Pi/ARM/Audio)* - Yet another linux audio distribution for embedded boards.
 
 ### Other projects / Other
 
-*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
+*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 
-## [3. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [4. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Gallery / PGFPlots
 
 *   [OpenTikZ (⭐170)](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [5. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Libraries / Java
 
@@ -127,13 +149,13 @@
 
 *   💰 [Cygon](https://www.cygon.tech/) - Fast and easy game environment prototyping.
 
-## [5. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [6. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Platforms
 
 *   [Hivekeep (⭐31)](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 
-## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
@@ -150,7 +172,7 @@
 *   [RasRobot 4WD TB6612FNG checklist (⭐0)](https://github.com/willoc2023/rasrobot-tb6612fng-4wd) - Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.
 *   [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/raspberry-pi) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
-## [7. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [8. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
@@ -160,7 +182,7 @@
 
 *   [Blocks Beyond the Stars (⭐21)](https://github.com/marceld23/BlocksBeyondTheStars) - Block-based 3D space crafting sandbox with procedurally generated planets, block-by-block ship & base building and self-hostable multiplayer (Unity client, .NET server).
 
-## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 
@@ -174,7 +196,7 @@
 
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Authentication
 
@@ -201,38 +223,44 @@
 
 *   [Blazor Community Standup: WebMCP in Action with Blazor](https://www.youtube.com/watch?v=D0oq45aH0RQ) - July 7, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Yanislav Ivanov from Telerik joins us to show how Blazor components use WebMCP to expose actions directly to AI agents, enabling natural language prompts to drive real UI interactions.
 *   [Building for the agentic web with .NET 11](https://www.youtube.com/watch?v=vQ0y8ExNsmQ) - June 2, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) The demands on modern web apps are increasing. Users expect more performance, airtight security, and even agentic capabilities. What does the next generation of web apps look like on .NET? In .NET 11, ASP.NET Core and Blazor are getting faster and more secure at the core, closely integrated with Aspire for distributed app development, and a new set of building blocks — agents, tools, skills, and components — for building agentic web apps. Get ready to build for the modern agentic web.
+*   [Blazor Community Standup: ASP.NET Core & Blazor Roadmap for .NET 11](https://www.youtube.com/watch?v=XY_mM2FkxHE) - February 10, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Join us for a walkthrough of the ASP.NET Core & Blazor roadmap for .NET 11. We’ll discuss the expected improvements for this release and share progress on current work.
+*   [Building Agentic UI with Blazor](https://www.youtube.com/watch?v=81k75c4U95s) - December 4, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) AI is changing the way we use software by introducing natural language, voice, and vision as core interaction modes. This shift calls for a fresh approach to UI design that empowers users through intelligent multi-modal interfaces. This talk will cover how to create agentic UIs with Blazor, using the latest AI-driven interaction patterns. We’ll share practical examples and design methods based on Microsoft’s Human-AI design principles, discuss modern agent-user interaction protocols such as AG-UI, and show how to integrate conversation interfaces into your current websites using NLWeb.
+*   [Be Authentic with Blazor and Microsoft Entra External ID](https://www.youtube.com/watch?v=JQXDkh6-_Bk) - November 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Blazor developers love it for its fast web application building, and for building complicated applications in easily manageable modules. Blazor is a little less loved when it comes to authentication though. In this session we hope to change that! Being demo-heavy, we will first set up Microsoft Entra External ID, then we'll implement authentication in a Blazor Web Application using that External ID setup. Allowing external users - whether customers or collaborators - to access our application with RBAC security. By the end of this session, you'll have a template that you can use with your own code - and will have learned some of the traps that I have fallen into.
+*   [Build better web apps with Blazor in .NET 10](https://www.youtube.com/watch?v=V0Af7y7aMBE) - November 12, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development with Blazor in .NET 10! Learn how Blazor makes it easier to build secure web apps with built-in WebAuthN and passkeys support and scaffolding for adding Entra ID authentication. See how you can more easily monitor your Blazor apps and diagnose issues with improved diagnostics. Discover performance improvements that make your Blazor apps load faster and be more responsive. Finally, learn about new features and improvements that address top pain points in Blazor development, including faster Hot Reload, component state persistence, QuickGrid enhancements, simplified integration testing, and much more.
 *   [The Future of Web Development with ASP.NET Core & Blazor in .NET 10](https://www.youtube.com/watch?v=xZ26KwGHWE0) - August 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development, focusing on new features in ASP.NET Core & Blazor in .NET 10. Learn how ASP.NET Core in makes it easier to build secure AI infused web apps with the latest AI libraries and security standards, like WebAuthn & Passkey support. See how you can more easily monitor and diagnose issues with improved diagnostics and telemetry and boost developer productivity with .NET Aspire. We will also take a look into the future of Blazor for building web apps, Minimal API validation, OpenAPI generations, and more.
+*   [Modernizing your desktop: From WinForms to Blazor, Azure, and AI](https://www.youtube.com/watch?v=95M-4YLGsVE) - April 28, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Got an older tech stack that’s about as fresh as last week’s leftovers? Fear not—modernizing your desktop apps is easier than you think! In this session, we’ll show you how to shift from WinForms to Blazor using .NET, land your apps in Azure for simpler, cloud-based maintenance, and even sprinkle in some AI magic to future-proof your solutions. We’ll share practical tips, real-world examples, and a few cautionary tales—no stale code left behind! Join us for a lively exploration of how to bring your legacy applications roaring into the future.
+*   [Unboxing Blazor in .NET 10 Preview 2](https://www.youtube.com/watch?v=yBw_KOz1vCA) - April 2, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Dan shares the latest enhancements for web developers in .NET 10 Preview 2.
 
 ### Tooling / Others
 
 *   [Ghostly Hosting (⭐2)](https://github.com/Nix1983/Ghostly-Hosting) - ![stars](https://img.shields.io/github/stars/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=86400) An interactive CLI tool that turns a fresh Ubuntu VPS into a production-ready hosting environment for Blazor Server apps with automatic SSL, DNS, GitHub deployments, and nginx reverse-proxy.
 
-## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / USENIX Security
 
 *   [IDFuzz: Intelligent Directed Grey-box Fuzzing, 2025](https://www.usenix.org/system/files/usenixsecurity25-chen-yiyang.pdf)
 
-## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [Waypoint](https://www.waypointtransit.com/) - An AI proprietary platform for city planning that helps planners automate routine workflows, connect planning data sources, and run geospatial analyses, permitting reviews, corridor studies, safety audits, and custom reports.
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [GATO: Godot Accessibility Toolkit (⭐3)](https://github.com/Nokorpo/gato-godot-accessibility-toolkit) - A collection of demos and addons to promote accessibility in Godot games.
 *   [Goblend (⭐81)](https://github.com/Togira123/Goblend-Export-Addon) - Export Blender scenes to Godot with one click, including materials, collisions and nested scenes.
 
-## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Development
 
 *   [Argon (⭐167)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
 
-## [14. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [15. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Image Editing
 
@@ -242,19 +270,19 @@
 
 *   [MonkeyEatingMango](https://monkeyeatingmango.com/) - Your complete trip, planned in minutes with routes, attractions, budgets, and food guide. `#free`
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Robotics
 
 *   [FusionCore (⭐275)](https://github.com/manankharwar/fusioncore) - ROS 2 UKF sensor fusion library fusing GPS, IMU, and wheel odometry with adaptive noise and outlier rejection for robust outdoor localization. \[Apache2]
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [17. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Front-ends / Meet Magento
 
 *   [MageObsidian (⭐1)](https://github.com/mage-obsidian/module-modern-frontend) - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 
-## [17. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [18. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Web Development
 
@@ -278,7 +306,7 @@
 *   [Full Stack Developer Roadmap](https://www.geeksforgeeks.org/blogs/full-stack-developer-roadmap/) - Article mapping a full-stack learning path across frontend, backend, databases, version control, and projects. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 *   [SQL Roadmap](https://www.geeksforgeeks.org/blogs/sql-roadmap/) - Article covering a structured SQL learning path from fundamentals to advanced querying and database skills. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
-## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [19. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
@@ -297,7 +325,7 @@
 
 *   [nika (⭐25)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
-## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [20. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -305,7 +333,7 @@
 *   [pixviper (⭐0)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
 *   [vsnap (⭐0)](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
 
-## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -316,7 +344,7 @@
 *   [cl-marshal (⭐65)](https://github.com/wlbr/cl-marshal) - Simple and fast serialization of all kinds of Common Lisp data structures. MIT.
     *   Only minimal changes required to make your CLOS objects serializable.
 
-## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
@@ -326,7 +354,7 @@
 
 *   [gitl (⭐0)](https://github.com/akomyagin/gitl) - AI review of git commit ranges with risk scoring (low/medium/high), changelog generation, and multi-repo activity digest. GitHub Action included.
 
-## [22. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / AI and Agents
 
@@ -341,7 +369,7 @@
 
 *   [fiftyone (⭐11k)](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models.
 
-## [23. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [24. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/) / Core & Updates
 
@@ -453,26 +481,26 @@
 *   [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
 *   [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
 
-## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [25. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [VibeKit.bot](https://vibekit.bot) - Build, host, and keep improving an app entirely from your phone. Each app gets a persistent AI coding agent that ships to a live domain, with BYOK for Claude/OpenAI or pay-as-you-go — driven from your phone or CLI.
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [markstream-vue (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 
-## [26. Awesome Git](/content/dictcp/awesome-git/week/README.md)
+## [27. Awesome Git](/content/dictcp/awesome-git/week/README.md)
 
 ### Client
 
 *   [Rebased (⭐4.6k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 *   [gitj (Git Journey) (⭐1)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
-## [27. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [28. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -540,7 +568,7 @@
 *   [*Swift? Не вопрос. Создай свое приложение* - Антон Разгуляев](https://www.litres.ru/book/anton-razgulyaev-33353260/swift-ne-vopros-sozday-svoe-prilozhenie-71730088/)
 *   [*Head First. Изучаем Swift* - Мэннинг Д., Баттфилд-Эддисон П.](https://www.piter.com/collection/head-first-oreilly/product/head-first-izuchaem-swift)
 
-## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -592,7 +620,7 @@
 
 *   [OSINT-BIBLE (⭐582)](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 
-## [29. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [30. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -600,25 +628,25 @@
 *   [BDE Score (⭐1)](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
 *   [Verified Supplement Evidence (⭐0)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
-## [30. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [31. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### CAD
 
 *   [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
-## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Geographical / Spatial
 
 *   [PyCanopy](https://github.com/pranav-walimbe) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
 
-## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
 *   [typed\_env\_config (⭐2)](https://github.com/systatum/typed_env_config) - Load type-safe configuration from YAML/dotenv with ENV overrides
 
-## [33. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [34. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Build
 
@@ -628,7 +656,7 @@
 
 *   [OfficeFloor (⭐67)](https://github.com/officefloor/OfficeFloor) - Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -657,7 +685,15 @@
 
 *   [mikwielgus/undoredo (⭐116)](https://github.com/mikwielgus/undoredo) \[[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no\_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### Libraries / Reverse engineering
+
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
+
+### Libraries / Virtualization
+
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
+
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -675,6 +711,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/st0012/cctop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Profisor (⭐0)](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yefga/Profisor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -684,7 +721,7 @@
 
 *   [Battery Hog (⭐2)](https://github.com/luke-fairbanks/BatteryHog) - Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luke-fairbanks/BatteryHog) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [36. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [37. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Fitness
 
@@ -750,13 +787,25 @@
 *   [GitStory (⭐177)](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 *   [PGIS (⭐1)](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Manufacturing
+
+*   [LinuxCNC](https://www.linuxcnc.org/) - Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ([Source Code (⭐2.4k)](https://github.com/LinuxCNC/linuxcnc)) `GPL-2.0/LGPL-3.0` `C/deb`
+
+### Software / Polls and Events
+
+*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐48)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
+
+### Software / Task Management & To-do Lists
+
+*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code (⭐5.1k)](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
 
 ### Software / URL Shorteners
 
 *   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -775,7 +824,7 @@
 
 *   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
 
-## [39. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [40. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Hamsters / Hamster Books
 
@@ -798,13 +847,13 @@
 *   [What Can Hamsters Eat - PetMD](https://www.petmd.com/exotic/what-can-hamsters-eat) - Quick list of food items that hamsters can & cannot eat.
 *   [Hamster Diet - Elmbrook Humane Society (EBHS)](https://ebhs.org/wp-content/uploads/2021/07/Hamster-Diet-final.pdf) - Practical guide for hamster diet.
 
-## [40. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [41. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### More resources
 
 *   [AI Web Design Codex (⭐4)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP / Diagnostics
 
@@ -814,7 +863,7 @@
 
 *   [lewistg/pesto.nvim (⭐1)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
-## [42. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [43. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
@@ -836,7 +885,7 @@
 
 *   [SchemaCrawler](https://www.schemacrawler.com/) - Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.
 
-## [43. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [44. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Skills
 
@@ -849,7 +898,7 @@
 *   [Claude Code Observability Stack (⭐456)](https://github.com/ColeMurray/claude-code-otel) by [Cole Murray](https://github.com/ColeMurray) - A Dockerized OpenTelemetry-to-Grafana observability stack for Claude Code that implements Anthropic's observability guidance, surfacing session activity, performance, token usage, and cost in prebuilt dashboards.\ <img src="https://img.shields.io/github/created-at/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Multi-Agent Observability (⭐1.5k)](https://github.com/disler/claude-code-hooks-multi-agent-observability) by [disler](https://github.com/disler) - A real-time dashboard that captures Claude Code hook events across concurrent agents — tracing every tool call, task handoff, and lifecycle event through a Bun/SQLite/WebSocket/Vue stack, with session tracking and live filtering.\ <img src="https://img.shields.io/github/created-at/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [44. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [45. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -880,7 +929,7 @@
 
 *   [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
 
-## [45. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [46. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Integration Software / Firmwares for ESP based Devices
 
@@ -890,7 +939,7 @@
 
 *   [Feezal (⭐10)](https://github.com/feezal/feezal) - Dashboard editor powered by Web Components and MQTT
 
-## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -904,7 +953,7 @@
 
 *   [gitfetch (⭐389)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
-## [47. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [48. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 6\. WSLC
 

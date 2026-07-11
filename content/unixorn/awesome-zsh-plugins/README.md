@@ -6,6 +6,20 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Jul 11, 2026](/content/2026/07/11/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [autofix (⭐0)](https://github.com/deXterbed/zsh-autofix) - When a command fails, captures its `stderr` and asks a local [Ollama](https://ollama.com) model for a fix, shown as ghost-text you can accept with `Tab`. Silent on success.
+*   [how2 (⭐0)](https://github.com/yizhixiaokong/how2) - Quickly inspect aliases, functions, and docs of [oh-my-zsh](https://ohmyz.sh/) plugins, with tab completion.
+*   [shui (⭐0)](https://github.com/kud/shui) - Fluid terminal UI for ZSH — a design system for the shell
+*   [v (⭐0)](https://github.com/teaVeloper/v) - An editor wrapper around a fast file finder.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [bluebird (⭐0)](https://github.com/bedirisinghe/bluebird-prompt) - A lightweight ZSH prompt featuring a clean Powerline-style design and Nerd Font support. Includes decorators for username, current directory, and `git` branch.
+*   [gozilla-lite (⭐0)](https://github.com/jannik-el/gozilla-lite) - Based on [oh-my-zsh](https://ohmyz.sh)'s built-in [gozilla (⭐188k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gozilla) theme. Includes decorators for the current directory, `git` branch, and a live `git` status in the right-hand prompt.
+
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -282,7 +296,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [aws-vault (blimmer) (⭐95)](https://github.com/blimmer/zsh-aws-vault) - Plugin for [aws-vault (⭐9k)](https://github.com/99designs/aws-vault). Includes tab completions.
 *   [aws-vault (zsh-contrib) (⭐1)](https://github.com/zsh-contrib/zsh-aws) - [aws-vault (⭐9k)](https://github.com/99designs/aws-vault) integration with per-window AWS profile support in `tmux`.
-*   [eza (zsh-contrib) (⭐2)](https://github.com/zsh-contrib/zsh-eza) - Plugin for [eza (⭐22k)](https://github.com/eza-community/eza) with Catppuccin and Rose Pine theming, smart defaults, and full alias support.
+*   [eza (zsh-contrib) (⭐2)](https://github.com/zsh-contrib/zsh-eza) - Plugin for [eza (⭐23k)](https://github.com/eza-community/eza) with Catppuccin and Rose Pine theming, smart defaults, and full alias support.
 *   [gcloud (johnstonskj) (⭐0)](https://github.com/johnstonskj/zsh-gcloud-plugin) - Adds the gcloud SDK to your `$PATH`.
 *   [lacy (⭐18)](https://github.com/lacymorrow/lacy) - Detects natural language vs shell commands and routes accordingly. Commands execute normally, questions go to your AI agent (Claude Code, Gemini, OpenCode, Codex). Real-time color indicator and first-word syntax highlighting update on every keystroke. Also supports Bash 4+.
 *   [op (⭐1)](https://github.com/zsh-contrib/zsh-op) - Seamless [1Password](https://1password.com/) CLI integration. Manage environment variables and SSH keys from 1Password with automatic caching, fast shell initialization, and a configuration-driven workflow.
@@ -839,7 +853,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [justfile (⭐2)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐34k)](https://github.com/casey/just).
+*   [justfile (⭐2)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐35k)](https://github.com/casey/just).
 *   [tio (⭐0)](https://github.com/JBarberU/zsh-tio) - Add tab completions for tio
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -977,7 +991,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐81k)](https://github.com/junegunn/fzf), [bat (⭐59k)](https://github.com/sharkdp/bat) and [ripgrep (⭐66k)](https://github.com/BurntSushi/ripgrep).
+*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐81k)](https://github.com/junegunn/fzf), [bat (⭐60k)](https://github.com/sharkdp/bat) and [ripgrep (⭐66k)](https://github.com/BurntSushi/ripgrep).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1518,7 +1532,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza-ls (⭐2)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing [eza (⭐22k)](https://github.com/eza-community/eza), to act as a drop-in replacement for `ls` and `tree`.
+*   [eza-ls (⭐2)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing [eza (⭐23k)](https://github.com/eza-community/eza), to act as a drop-in replacement for `ls` and `tree`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1896,7 +1910,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (mohamedelashri) (⭐9)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐22k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
+*   [eza (mohamedelashri) (⭐9)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐23k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
 
 ## [Feb 05, 2024](/content/2024/02/05/README.md)
 
@@ -1944,7 +1958,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zeza (⭐5)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐22k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐5)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐23k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
@@ -2055,7 +2069,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [exa (zap-zsh) (⭐20)](https://github.com/zap-zsh/exa) - Overrides common commands to use [ogham/exa (⭐24k)](https://github.com/ogham/exa) instead.
 *   [exa-ls (zpm-zsh) (⭐105)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
-*   [eza (twopizza9621536) (⭐7)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
+*   [eza (twopizza9621536) (⭐7)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐23k)](https://github.com/eza-community/eza).
 *   [run-scripts (⭐6)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
@@ -2185,8 +2199,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐116)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐23k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐116)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐23k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2414,7 +2428,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cmd-time (⭐6)](https://github.com/TomfromBerlin/zsh-cmd-time) - Collects the execution time of commands and exports the result to a variable that can be used elsewhere. It is similar to the built-in [REPORTTIME](http://zsh.sourceforge.net/Doc/Release/Parameters.html) function, but it is also slightly different. Unlike when you set `REPORTTIME`, it considers user and sytem time, not just CPU time.
 *   [coffee-time (⭐2)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
 *   [gpt (⭐24)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
 *   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐34)](https://github.com/pndurette/zsh-lux) plugin.
@@ -2944,7 +2957,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bat (⭐74)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐59k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐74)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐60k)](https://github.com/sharkdp/bat) users.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2964,7 +2977,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yt-dlp (⭐10)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐173k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐10)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐177k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -3097,7 +3110,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd-plugin (⭐10)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐43k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐10)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐44k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 
 ## [Oct 01, 2022](/content/2022/10/01/README.md)
 
@@ -4551,7 +4564,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [functional (⭐140)](https://github.com/Tarrasch/zsh-functional) - ZSH higher order functions.
 *   [fuzzy-search-and-edit (⭐34)](https://github.com/seletskiy/zsh-fuzzy-search-and-edit) - ZSH plugin for fuzzy searching files and instantly opening a matched file on matched line.
 *   [fz (⭐572)](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z (⭐17k)](https://github.com/rupa/z)'s tab completion and lets you easily jump around among directories in your history.
-*   [fzf-finder (⭐23)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐81k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐59k)](https://github.com/sharkdp/bat) and [fd (⭐43k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
+*   [fzf-finder (⭐23)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐81k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐60k)](https://github.com/sharkdp/bat) and [fd (⭐44k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
 *   [fzf-history-search (⭐468)](https://github.com/joshskidmore/zsh-fzf-history-search) - Replaces `Ctrl+R` with an [fzf (⭐81k)](https://github.com/junegunn/fzf)-driven history search that includes date/times.
 *   [fzf-marks (⭐513)](https://github.com/urbainvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in `bash` and `zsh`, using the fuzzy finder [fzf (⭐81k)](https://github.com/junegunn/fzf).
 *   [fzf-pass (⭐7)](https://github.com/smeagol74/zsh-fzf-pass) - Better handling of passwords using [fzf (⭐81k)](https://github.com/junegunn/fzf) and [pass](https://www.passwordstore.org/).

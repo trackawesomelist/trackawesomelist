@@ -8,6 +8,18 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
+### Software / Manufacturing
+
+*   [LinuxCNC](https://www.linuxcnc.org/) - Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ([Source Code (⭐2.4k)](https://github.com/LinuxCNC/linuxcnc)) `GPL-2.0/LGPL-3.0` `C/deb`
+
+### Software / Polls and Events
+
+*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐48)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
+
+### Software / Task Management & To-do Lists
+
+*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code (⭐5.1k)](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
+
 ### Software / URL Shorteners
 
 *   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
@@ -42,7 +54,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [sE2EEnd (⭐1)](https://github.com/sE2EEnd/sE2EEnd) - End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`
+*   [sE2EEnd (⭐5)](https://github.com/sE2EEnd/sE2EEnd) - End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -258,7 +270,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [LLMKube](https://llmkube.com) - Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. ([Source Code (⭐161)](https://github.com/defilantech/LLMKube)) `Apache-2.0` `Go/Docker/K8S`
+*   [LLMKube](https://llmkube.com) - Kubernetes operator for self-hosted LLM inference with pluggable runtimes (llama.cpp, vLLM, TGI, Ollama, vllm-swift), multi-GPU sharding, NVIDIA CUDA + Apple Silicon Metal support, and OpenAI-compatible API. ([Source Code (⭐161)](https://github.com/defilantech/LLMKube)) `Apache-2.0` `Go/Docker/K8S`
 
 ### Software / Task Management & To-do Lists
 
@@ -419,10 +431,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Search Engines
 
 *   [Meme Search (⭐688)](https://github.com/neonwatty/meme-search) - AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. `Apache-2.0` `Docker`
-
-### Software / Software Development - Low Code
-
-*   [autokitteh](https://autokitteh.com/) - Durable workflow automation in just a few lines of code. ([Source Code (⭐1.1k)](https://github.com/autokitteh/autokitteh)) `Apache-2.0` `Go/Docker`
 
 ### Software / Software Development - Project Management
 
@@ -934,7 +942,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / DNS
 
-*   [blocky](https://0xerr0r.github.io/blocky/latest/) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (alternative to Pi-hole). ([Source Code (⭐6.7k)](https://github.com/0xERR0R/blocky)) `Apache-2.0` `Go/Docker`
+*   [blocky](https://0xerr0r.github.io/blocky/latest/) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (alternative to Pi-hole). ([Source Code (⭐6.8k)](https://github.com/0xERR0R/blocky)) `Apache-2.0` `Go/Docker`
 
 ### Software / Polls and Events
 
@@ -2091,7 +2099,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Feature Toggle
 
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐2k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐2.1k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -2306,7 +2314,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [PocketBase](https://pocketbase.io/) - Backend for your next SaaS and Mobile app in one file. ([Source Code (⭐59k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
+*   [PocketBase](https://pocketbase.io/) - Backend for your next SaaS and Mobile app in one file. ([Source Code (⭐60k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 

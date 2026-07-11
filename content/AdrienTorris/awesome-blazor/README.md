@@ -6,6 +6,17 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jul 11, 2026](/content/2026/07/11/README.md)
+
+### Videos / Others
+
+*   [Blazor Community Standup: ASP.NET Core & Blazor Roadmap for .NET 11](https://www.youtube.com/watch?v=XY_mM2FkxHE) - February 10, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Join us for a walkthrough of the ASP.NET Core & Blazor roadmap for .NET 11. We’ll discuss the expected improvements for this release and share progress on current work.
+*   [Building Agentic UI with Blazor](https://www.youtube.com/watch?v=81k75c4U95s) - December 4, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) AI is changing the way we use software by introducing natural language, voice, and vision as core interaction modes. This shift calls for a fresh approach to UI design that empowers users through intelligent multi-modal interfaces. This talk will cover how to create agentic UIs with Blazor, using the latest AI-driven interaction patterns. We’ll share practical examples and design methods based on Microsoft’s Human-AI design principles, discuss modern agent-user interaction protocols such as AG-UI, and show how to integrate conversation interfaces into your current websites using NLWeb.
+*   [Be Authentic with Blazor and Microsoft Entra External ID](https://www.youtube.com/watch?v=JQXDkh6-_Bk) - November 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Blazor developers love it for its fast web application building, and for building complicated applications in easily manageable modules. Blazor is a little less loved when it comes to authentication though. In this session we hope to change that! Being demo-heavy, we will first set up Microsoft Entra External ID, then we'll implement authentication in a Blazor Web Application using that External ID setup. Allowing external users - whether customers or collaborators - to access our application with RBAC security. By the end of this session, you'll have a template that you can use with your own code - and will have learned some of the traps that I have fallen into.
+*   [Build better web apps with Blazor in .NET 10](https://www.youtube.com/watch?v=V0Af7y7aMBE) - November 12, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development with Blazor in .NET 10! Learn how Blazor makes it easier to build secure web apps with built-in WebAuthN and passkeys support and scaffolding for adding Entra ID authentication. See how you can more easily monitor your Blazor apps and diagnose issues with improved diagnostics. Discover performance improvements that make your Blazor apps load faster and be more responsive. Finally, learn about new features and improvements that address top pain points in Blazor development, including faster Hot Reload, component state persistence, QuickGrid enhancements, simplified integration testing, and much more.
+*   [Modernizing your desktop: From WinForms to Blazor, Azure, and AI](https://www.youtube.com/watch?v=95M-4YLGsVE) - April 28, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Got an older tech stack that’s about as fresh as last week’s leftovers? Fear not—modernizing your desktop apps is easier than you think! In this session, we’ll show you how to shift from WinForms to Blazor using .NET, land your apps in Azure for simpler, cloud-based maintenance, and even sprinkle in some AI magic to future-proof your solutions. We’ll share practical tips, real-world examples, and a few cautionary tales—no stale code left behind! Join us for a lively exploration of how to bring your legacy applications roaring into the future.
+*   [Unboxing Blazor in .NET 10 Preview 2](https://www.youtube.com/watch?v=yBw_KOz1vCA) - April 2, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Dan shares the latest enhancements for web developers in .NET 10 Preview 2.
+
 ## [Jul 09, 2026](/content/2026/07/09/README.md)
 
 ### Authentication
@@ -292,28 +303,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [ASP.NET Community Standup - Modern Blazor Auth with OIDC](https://www.youtube.com/watch?v=PPX-yEXfnPM\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t) - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 13, 2024 - See how to connect a Blazor app to Microsoft Entra using OIDC and the BFF pattern.
 *   [.NET Data Community Standup - Database concurrency and EF Core: ASP.NET and Blazor - Episode 2](https://www.youtube.com/watch?v=xVyYrtetDeA\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t) - January 24, 2024 - In the last episode, we dug deep into the underpinnings of optimistic concurrency handling in EF Core. In this episode, we continue that journey to cover disconnected scenarios. That is, where the entity travels to a client and then back to the server before being updated in the database. We’ll look at the different patterns for doing updates like this in ASP.NET Core and Blazor apps and see how concurrency tokens work with each of these. We’ll also look at how `ExecuteUpdate` can be used with concurrency tokens, and take a look at ETag concurrency in Azure Cosmos DB.
 
-## [Dec 26, 2023](/content/2023/12/26/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor Experiments + eShop Q\&A](https://www.youtube.com/watch?v=fkDSaIti_KU) - ![duration](https://img.shields.io/badge/Duration:%20-65%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. [Community links](https://www.theurlist.com/blazor-standup-2023-12).
-
-## [Nov 30, 2023](/content/2023/11/30/README.md)
-
-### Videos / Others
-
-*   [.NET Conf: Integrating Blazor with existing .NET web apps](https://www.youtube.com/watch?v=dE-XCUVCkkE) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2023 - ASP.NET's RazorComponent model is intuitive and brings productivity to web development. In this session we'll learn how RazorComponents aren't just for Blazor apps and how we can integrate the best part of Blazor with existing ASP.NET applications using: Razor Pages, MVC, and even other front-end technologies.
-*   [.NET Conf: Building beautiful Blazor apps with Tailwind CSS](https://www.youtube.com/watch?v=QIdedo8iI4Y) - ![duration](https://img.shields.io/badge/Duration:%20-39%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2023 - Tailwind CSS has been growing in popularity for some time. It’s fast becoming one of the top frameworks to use when styling applications. It offers a different approach to the traditional frameworks like Bootstrap—utility based styling. Rather than using prebuilt components—which result in your application looking like a lot of others on the web—you can tailor your design by applying small focused CSS classes resulting in a unique style for your app. In this code focused talk, you will learn how to bring the power of Tailwind CSS to your Blazor applications. We’ll start off with a brief introduction to Tailwind. Then we’ll get into some code and see how we can integrate Tailwind with Blazor. For the rest of the time, we’ll explore the various features of Tailwind and see just how beautiful we can make our Blazor app.
-*   [.NET Conf: Blazor Puzzles and Answers](https://www.youtube.com/watch?v=fxGEVS2Gcyo) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2023 - The Blazor Puzzle podcast team of Carl Franklin and Jeff Fritz have a collection of puzzles and brain-teasers for you in this code-focused session about the latest features of the Blazor framework. We'll fix bugs, build cool features, and even write a unit test or two.
-*   [.NET Conf: Blazor-testing from A to Z](https://www.youtube.com/watch?v=aorfcDeHUpw) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2023 - Discuss and showcase the different Blazor testing strategies, libraries, and tools available to us, so whether you are building a website, web app, or a reusable Blazor component library, you can pick the ones that yield the most bang for the buck. Specifically, this session covers end-2-end testing, component testing, unit testing, Playwright, bUnit, snapshot testing, semantic markup comparison, emulating user interactions, and how and when to use test doubles (e.g., mocks).
-
-## [Nov 16, 2023](/content/2023/11/16/README.md)
-
-### Videos / Others
-
-*   [.NET Conf: Full stack web UI with Blazor in .NET 8](https://www.youtube.com/watch?v=YwZdtLEtROA) - ![duration](https://img.shields.io/badge/Duration:%20-56%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 15, 2023 - In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor's convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you'll see how you can use Blazor's new server-side rendering support to power your web apps from the server for maximum performance and scalability. You'll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation & form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
-*   [Building Hybrid User Interfaces with Blazor Hybrid \[Pt 4\] | Blazor Hybrid for Beginners](https://www.youtube.com/watch?v=pWDf1AnJ4ds) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2023 - Let's start to build out a full application with Blazor Hybrid inside of .NET MAUI. Join James as he walks through building out a full to do application with web components.
-
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
 ### AI
@@ -353,40 +342,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Cledev.OpenAI (⭐125)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
 
-### Videos / Others
-
-*   [Blazor on .NET 8 - Ten Reasons why Blazor on .NET 8 is a Game Changer](https://www.youtube.com/watch?v=VWwZrDA8om0) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 10, 2023 - 10 reasons why the new enhancements and new features about Blazor released with .NET 8 are an absolute game changer.
-
-## [Oct 26, 2023](/content/2023/10/26/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - New Blazor updates in .NET 8 RC2](https://www.youtube.com/watch?v=C2y9tXcbweg) - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 10, 2023 - About what Blazor has to offer in .NET 8 RC2. [Community links](https://www.theurlist.com/aspnet-community-standup-2023-10-10).
-
-## [Sep 29, 2023](/content/2023/09/29/README.md)
-
-### Videos / Others
-
-*   [Beautiful Blazor UI Everywhere with Telerik](https://www.youtube.com/watch?v=PQe-q8faMOI) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 22, 2023 - Becky is joined by Sam Basu from Progress showing off the latest controls for Blazor and Blazor Hybrid apps with Telerik UI.
-*   [New Blazor Rendering Mode Features in .NET 8.0](https://www.youtube.com/watch?v=VDyN8SnevzI) - ![duration](https://img.shields.io/badge/Duration:%20-11%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 14, 2023 - In this video we'll explore how to integrate the new Blazor Server Side rendering capabilities in .NET 8.0 with the traditional Blazor WebAssembly and Blazor Server (SignalR) hosting models for a rich client-side experience. We'll explore the differences between these different options, how to seamlessly implement each option where it makes sense, and discuss different architecture approaches with Blazor in ASP.NET Core 8.0.
-*   [What's New in Blazor for .NET 8](https://www.youtube.com/watch?v=QD2-DwuOfKM) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 4, 2023 - Come find out about the future of Blazor in .NET 8! We'll explore all the upcoming features and improvements, including our effort to create a unified full stack web UI programming model that combines the strengths of client and server. We hope to see you there.
-*   [What is the Future of Blazor? Should I Learn Blazor?](https://www.youtube.com/watch?v=OUUlO8fQOfE) - ![duration](https://img.shields.io/badge/Duration:%20-23%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 27, 2023 - Should I learn a JavaScript framework or concentrate on mastering Blazor? What is the future of Blazor? Is Microsoft invested in making Blazor great? We will answer these questions in today's Dev Questions episode.
-*   [Burke Learns Blazor - Let's build the API!](https://www.youtube.com/watch?v=9OSpY3Yi5ic) - ![duration](https://img.shields.io/badge/Duration:%20-103%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 30 - Last week we got the API started - let's finish it up and start on the UI. [Url list](https://www.theurlist.com/burke-learns-blazor).
-*   [Running Blazor in Production, Lessons Learned](https://www.youtube.com/watch?v=6ctA95pZJoc) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - Since we started using Blazor in 2019, it's been an excellent tool for our team of C# developers. Even when Blazor was brand new, we used it in our latest project, which really helped us. Seeing other people in our field, I can say that Blazor was a key to our project's success. Our journey with Blazor has mostly been easy, but we have still learned a lot along the way. In this video, I will share some tips and lessons we have picked up. I will also discuss how to make smart choices and avoid problems when you're changing your existing project to use Blazor.
-*   [Running Blazor in production, lessons learned - Jimmy Engström - NDC London 2023](https://www.youtube.com/watch?v=bZdYpYQb958) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 19, 2023 - We have been running Blazor in production for over two years now. Everyone in our team is a C# developer, so when we went into our latest project Blazor was a natural choice, even though Blazor was only a week old. Looking at my peers working in the same space, I am convinced that it saved our project by switching to Blazor. Even though it has been mostly smooth sailing we have learned a lot during the years. In this session, Jimmy Engström will give you some of the tips, tricks, and learnings we have collected over the years, when to choose what, and how to avoid pitfalls converting your exiting project to Blazor.
-
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
 ### Games
 
 *   [Blazor Puzzle #3 - File not found (⭐0)](https://github.com/BlazorPuzzle/Puzzle-3) ![stars](https://img.shields.io/github/stars/BlazorPuzzle/Puzzle-3?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorPuzzle/Puzzle-3?style=flat-square\&cacheSeconds=86400)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Full Stack Blazor Tips and Updates](https://www.youtube.com/watch?v=47CZqb53nCM) - ![duration](https://img.shields.io/badge/Duration:%20-104%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 12, 2023 - Discover how full stack Blazor apps work and how they differ from traditional Blazor Server and WebAssembly apps. We'll also explore some of the new full stack UI features that Blazor offers in .NET 8 RC1. [Community links](https://www.theurlist.com/blazor-standup-2023-09).
-*   [The Blazor Puzzle : Puzzle 3](https://www.youtube.com/watch?v=QMw9GgiU_Ng) - ![duration](https://img.shields.io/badge/Duration:%20-11%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2023 - Carl Franklin and Jeff Fritz offer Blazor-based problems to be solved and give away prizes to lucky winners. [Source code (⭐0)](https://github.com/BlazorPuzzle/Puzzle-3).
-*   [How to Authenticate a Blazor Server App with Azure AD](https://www.youtube.com/watch?v=pjnDFnOiMwk) - ![duration](https://img.shields.io/badge/Duration:%20-8%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 7, 2023 - This short video is about how to create a new Blazor Server application and authenticate it using Azure AD.
-*   [Burke Learns Blazor - API Updates](https://www.youtube.com/watch?v=70gh038Z9kA) - ![duration](https://img.shields.io/badge/Duration:%20-95%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 25, 2023 - We're going to update the API to use the Cosmos client and maybe do some updates on the Edit form. And Burke shows off the signature move that won him the "Pop 'n' Lock" championship.
 
 ## [Jul 18, 2023](/content/2023/07/18/README.md)
 
@@ -395,41 +355,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BlazorInteropGenerator (⭐28)](https://github.com/surgicalcoder/BlazorInteropGenerator) - ![GitHub stars](https://img.shields.io/github/stars/surgicalcoder/BlazorInteropGenerator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/surgicalcoder/BlazorInteropGenerator?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/design/foundations/icons/) Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime.
 *   [RazorPageRouteGenerator (⭐18)](https://github.com/surgicalcoder/RazorPageRouteGenerator) - ![GitHub stars](https://img.shields.io/github/stars/surgicalcoder/RazorPageRouteGenerator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/surgicalcoder/RazorPageRouteGenerator?style=flat-square\&cacheSeconds=86400) Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters.
 
-## [Jul 09, 2023](/content/2023/07/09/README.md)
-
-### Videos / Others
-
-*   [Burke Learns Blazor](https://www.youtube.com/watch?v=qONPW7N_r8k) - ![duration](https://img.shields.io/badge/Duration:%20-117%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 7, 2023 - Finishing the API and starting the UI. [Community links](https://www.theurlist.com/burke-learns-blazor).
-*   [Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21](https://www.youtube.com/watch?v=cYDs7WyOxcE) - ![duration](https://img.shields.io/badge/Duration:%20-126%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent).
-*   [The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview](https://www.youtube.com/watch?v=6iUNRitiJTQ) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?
-
-## [Jul 05, 2023](/content/2023/07/05/README.md)
-
-### Videos / Others
-
-*   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
-
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
 ### Others
 
 *   [Blazor.MediaCaptureStreams (⭐92)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
-
-### Videos / Others
-
-*   [Burke learns Blazor by porting a Vue.js app to Blazor](https://www.youtube.com/watch?v=fetGhhVYsLY) - ![duration](https://img.shields.io/badge/Duration:%20-86%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 15, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. [Community links](https://www.theurlist.com/burke-learns-blazor).
-
-## [Jun 23, 2023](/content/2023/06/23/README.md)
-
-### Videos / Others
-
-*   [Creating a Twitter Clone with Blazor Spark](https://www.youtube.com/watch?v=B3giEe1imjY) - ![duration](https://img.shields.io/badge/Duration:%20-42%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 21, 2023 - Learn how to utilize the Blazor Spark framework by building a Twitter clone.
-
-## [Jun 16, 2023](/content/2023/06/16/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Featured community project: Blazor Studio](https://www.youtube.com/watch?v=tOHihL9Lf7Y) - ![duration](https://img.shields.io/badge/Duration:%20-69%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 14, 2023 - Chat about Blazor Studio, this month's featured Blazor community project. [Community links](https://aka.ms/AAl2w0l).
 
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
@@ -442,18 +372,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Others
 
 *   [Netflix microfrontend like (⭐30)](https://github.com/piral-samples/netflix-demo) - ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) A netflix-like portal application with pilets. This sample demonstrates the use of piral to build a dynamic app consisting of various micro frontends. [Demo](https://notflix-demo.samples.piral.cloud/browse).
-
-### Videos / Others
-
-*   [On .NET Live - Micro Frontends with Blazor](https://www.youtube.com/watch?v=t8w_OTkafNE) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 22, 2023 - Have you ever considered writing microservices in Blazor? In this week's episode, community MVP Florian Rappl joins us to talk about micro frontends. He'll show us how to break a Blazor UI into modules for maintainability and development by decoupled teams. ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) [Sample repo (⭐30)](https://github.com/piral-samples/netflix-demo). [Demo](https://notflix-demo.samples.piral.cloud/browse).
-
-## [May 26, 2023](/content/2023/05/26/README.md)
-
-### Videos / Others
-
-*   [What's new in .NET 8 for Web frontends backends and futures?](https://www.youtube.com/watch?v=pJGDPEk45Jc) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - Join this session to explore new features in .NET 8 for web frontends, backends, and future development. Discover how .NET 8 enhances web app development with better performance, new APIs, and modern development support. Get guidance on leveraging these tools for scalable, efficient cloud apps. Suitable for both experienced and new .NET developers, this session offers valuable insights into the latest developments in .NET 8 for web development.
-*   [Full stack web in .NET 8 with Blazor](https://www.youtube.com/watch?v=iDLWv3xM1s0) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - Learn how ASP.NET Blazor in .NET 8 allows you to use a single powerful component model to handle all of your web UI needs, including server-side rendering, client-side rendering, streaming rendering, progressive enhancement, and much more.
-*   [Blazor + .NET MAUI – the perfect “hybrid”](https://www.youtube.com/watch?v=kjKpZAgXLFY) - ![duration](https://img.shields.io/badge/Duration:%20-18%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios.
 
 ## [May 24, 2023](/content/2023/05/24/README.md)
 
@@ -469,55 +387,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [BlazorInputTags (⭐15)](https://github.com/MarvinKlein1508/BlazorInputTags) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/BlazorInputTags?style=flat-square\&cacheSeconds=86400) A simple to use blazor component for both Blazor Server and WebAssembly which adds a basic tag editor to your app. [Demo](https://marvinklein1508.github.io/BlazorInputTags).
 
-### Videos / Others
-
-*   [How to Create a PDF Document in Blazor Using the .NET PDF Library](https://build.microsoft.com/en-US/sessions/b559a882-92b9-43b6-9b50-312be2ccadfe?source=sessions) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) May 23, 2023 - .NET Build session: How to Create a PDF Document in Blazor Using the .NET PDF Library. PDFs are an ideal format for sharing and archiving documents, but creating a viewer from scratch requires a deep understanding of PDF specifications and programming languages. What benefit does a PDF viewer provide for your business? It makes it easy to send a report to stakeholders, send an invoice to a customer, or generate a receipt in a retail shop. In this demo, we’ll show how you can easily add a PDF viewer to your app with text, images, and a table in the PDF document.
-*   [Blazor + .NET MAUI – the perfect “hybrid”](https://build.microsoft.com/en-US/sessions/7ac85686-2fee-4ce5-82d0-c239a005eb7e?source=sessions) - ![duration](https://img.shields.io/badge/Duration:%20-18%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) May 23, 2023 - Microsoft Build session: Blazor + .NET MAUI – the perfect “hybrid”. In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios.
-*   [This Will Skyrocket Your Blazor Development Productivity](\[https://www.youtube.com/watch?v=HSfrSNpshg0]\(https://www.youtube.com/watch?v=VnU1Ixgl-vw\)) - ![duration](https://img.shields.io/badge/Duration:%20-4%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 23, 2023 - Developing Blazor is fun. However, there are a lot of different things that take quite some time when added together. For instance creating isolated CSS files, creating isolated JS files, creating code behind files and others. However, Jimmy Engstrom has created a Visual Extension that solves exactly this problems. Using this extension, your productivity will get a substantial boost. In this video, I'll show you everything you need to know to use this extension in your day to day Blazor development.
-*   [Build a Connect Four game in your browser with .NET](https://www.youtube.com/watch?v=S9OICr6Qxpc) - ![duration](https://img.shields.io/badge/Duration:%20-1%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 1, 2023 - Learn C#, F#, and .NET with free self-guided learning from [Microsoft Learn](https://aka.ms/learndotnet). [Connect4 lesson on Microsoft Learn](https://learn.microsoft.com/fr-fr/training/modules/dotnet-connect-four/).
-
-## [May 11, 2023](/content/2023/05/11/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor .NET 8 Updates](https://www.youtube.com/watch?v=MaLjiR9YSbs\&list=PLdo4fOcmZ0oVJyHcoDsVwlShX1tcxydYP\&index=92) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 10, 2023 - Come check out some of the progress the Blazor team has made for .NET 8. [Community links](https://gist.github.com/MackinnonBuck/ebd4072c40eca01c177e8ab7e180c392).
-*   [Building "Next Tech Event" using Blazor and RavenDB Part 16](https://www.youtube.com/watch?app=desktop\&v=crAfcbzpUqg) - ![duration](https://img.shields.io/badge/Duration:%20-130%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 9, 2023 - Part 16 of our new project, "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we made the attendee page look better, and with our close personal friend Chat GPT, we did a better-looking temperature view. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400) .
-*   [ASP.NET Community Standup - Blazor and Data API Builder](https://www.youtube.com/watch?v=7W6h4PuQom8) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 11, 2023 - Learn about Data API Builder and how it can be used in Blazor app development. [Community links](https://www.theurlist.com/blazor-community-standup-2023-04-11).
-
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor App Testing with Playwright](https://www.youtube.com/watch?v=lJa3YlUliEs) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - March 14, 2023 - Learn how to use Playwright to implement end-to-end testing for your Blazor application. [Community links](https://www.theurlist.com/blazor-standup-2023-03-14).
 
 ### Podcasts / Others
 
 *   [Chris Sainty: Blazor in Action - Azure DevOps Episode 238](http://azuredevopspodcast.clear-measure.com/chris-sainty-blazor-in-action-episode-238) - March 27, 2023 - Chris is a Microsoft MVP, author, and software engineer with over 17 years of experience with ASP.NET. Passionate about sharing his knowledge with the community, he regularly writes both for his own blog as well as others — such as Visual Studio magazine, Progress Telerik, and StackOverflow. This passion for blogging led to his first book, Blazor in Action, a practical guide to building Blazor applications. He also maintains several popular open-source projects under the GitHub organization, Blazored. When not tapping on a keyboard, Chris is a keen speaker, having delivered talks at both user groups and conferences all over the world. Duration: 41 minutes.
 *   [.NET Rocks - Blazor United with Javier Nelson and Steve Sanderson](https://www.dotnetrocks.com/details/1838) - March 23, 2023 - What if you didn't have to choose between client-side and server-side Blazor? Carl and Richard talk to Javier Nelson and Steve Sanderson about Blazor United in its early stages of development, providing flexibility at the web component level for client- and server-side rendering. At the simplest level, Blazor United offers server-side rendering when a site is first hit so that you can load the larger client-side components over time. But deeper is the idea that some elements on your web page benefit from being client-side, and some from being server-side, and why should you have to choose only one? Duration: 53 minutes.
-
-## [Feb 23, 2023](/content/2023/02/23/README.md)
-
-### Videos / Others
-
-*   [Steve Sanderson on Blazor United](https://www.youtube.com/watch?v=QvZcbqT0oIo) - ![duration](https://img.shields.io/badge/Duration:%20-50%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - Carl talks to Steve Sanderson, creator of Blazor, to answer questions about Blazor United, coming in .NET 8.
-
-## [Feb 22, 2023](/content/2023/02/22/README.md)
-
-### Videos / Others
-
-*   [Exploring OpenAI with Blazor](https://www.youtube.com/watch?v=ULHxywqxMPk) - ![duration](https://img.shields.io/badge/Duration:%20-54%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications.
-
-## [Feb 15, 2023](/content/2023/02/15/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor United in .NET 8](https://www.youtube.com/watch?v=kIH_Py8ytlY\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-83%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 14, 2023 - The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly. [Community links](https://www.theurlist.com/blazor-standup-2023-02-14).
-
-## [Feb 14, 2023](/content/2023/02/14/README.md)
-
-### Videos / Others
-
-*   [On .NET Live - Mapping with GeoBlazor](https://www.youtube.com/watch?v=fw8gGB2y1UM) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 7, 2023 - Do you need to display mapping data in your Blazor apps? In this week's episode, community member Tim Purdum joins the panel to show us GeoBlazor, a versatile web mapping API that you can implement without having to write a single line of JavaScript.
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
@@ -534,12 +409,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [Blazor Hotkeys2 (⭐140)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [CodeBeam.GoogleApis.Blazor (⭐9)](https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=86400) An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.
 
-## [Jan 26, 2023](/content/2023/01/26/README.md)
-
-### Videos / Others
-
-*   [Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8.
-
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
 ### Templates
@@ -550,12 +419,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### 2D/3D Rendering engines / Database
 
 *   [DexieNET (⭐50)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.
-
-## [Jan 11, 2023](/content/2023/01/11/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Exploring new and experimental features in Blazor](https://www.youtube.com/watch?v=fQ1Bg-u_YLw\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-73%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 10, 2023 - It show what it's like to build a .NET 7 Blazor app using both new and currently experimental features. Featuring: Daniel Roth, Jon Galloway, Mackinnon Buck. [Community links](https://www.theurlist.com/aspnet-community-standup-2023-01).
 
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 

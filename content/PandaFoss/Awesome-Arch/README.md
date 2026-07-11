@@ -8,9 +8,17 @@
 
 ## [Jul 11, 2026](/content/2026/07/11/README.md)
 
+### Arch-based distros / Desktop
+
+*   [Crystal Linux](https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
+
+### Arch-based distros / Specific purpose
+
+*   [Archphile](https://archphile.org/) - *(Raspberry Pi/ARM/Audio)* - Yet another linux audio distribution for embedded boards.
+
 ### Other projects / Other
 
-*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
+*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 
 ## [Sep 23, 2024](/content/2024/09/23/README.md)
 
@@ -22,8 +30,6 @@
 
 ### Arch-based distros / Desktop
 
-*   [Crystal Linux](Https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
-*   [CachyOS](https://cachyos.org) - A GNU/Linux distribution built on Arch Linux, it features the optimized linux-cachyos kernel utilizing the advanced BORE Scheduler for unparalleled performance.
 *   [XeroLinux](https://xerolinux.xyz/) - A well-maintained hobbyist Arch based distro, built using ArcoLinux's ALCI scripts that is meant to provide you with a stable base, making it simpler to install ArchLinux (using Calamares) with a well optimized & customized KDE Plasma.
 
 ### Arch-based distros / Specific purpose
@@ -195,15 +201,15 @@
 
 ### Arch-based distros / Specific purpose
 
-*   [BlackArch Linux](https://blackarch.org/) - *(Security/Forensics)* - An Arch Linux-based distribution designed for penetration testers and security researchers.
 *   [ArchStrike](https://archstrike.org/) - *(Security)* - A distribution for security professionals and researchers based on Arch Linux.
-*   [SystemRescueCd](http://www.system-rescue-cd.org/) - *(Data Rescue)* - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
-*   [LinHES](http://www.linhes.org/) - *(MythTV)* - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
-*   [UBOS](https://ubos.net/) - *(Server)* - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
-*   [TalkingArch](https://talkingarch.tk/) - *(Assistive)* - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
 *   [BBQLinux](http://bbqlinux.org/) - *(Android Developers)* - A user-friendly Linux distribution made for Android developers.
-    It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
+*   [BlackArch Linux](https://blackarch.org/) - *(Security/Forensics)* - An Arch Linux-based distribution designed for penetration testers and security researchers.
+*   [LinHES](http://www.linhes.org/) - *(MythTV)* - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
 *   [RaspArch](https://sourceforge.net/projects/rasparch/) - *(Raspberry Pi/ARM)* - A “remaster” of Arch Linux ARM.
+*   [SystemRescueCd](http://www.system-rescue-cd.org/) - *(Data Rescue)* - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
+*   [TalkingArch](https://talkingarch.tk/) - *(Assistive)* - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
+*   [UBOS](https://ubos.net/) - *(Server)* - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
+    It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
 
 ### SystemD-free Arch-based distros / Specific purpose
 

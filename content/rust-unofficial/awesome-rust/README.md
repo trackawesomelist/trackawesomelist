@@ -16,6 +16,14 @@ A curated list of Rust code and resources.
 
 *   [pkgx (⭐9.8k)](https://github.com/pkgxdev/pkgx) - Run anything. A composable package manager that makes the entire open source ecosystem available to your scripts.
 
+### Libraries / Reverse engineering
+
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
+
+### Libraries / Virtualization
+
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
+
 ## [Jul 10, 2026](/content/2026/07/10/README.md)
 
 ### Development tools / Embedded
@@ -82,7 +90,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tover0314-w/opentypeless (⭐295)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
+*   [tover0314-w/opentypeless (⭐334)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
@@ -3481,7 +3489,7 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [RisingWaveLabs/RisingWave (⭐9.1k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions)
-*   [SurrealDB (⭐32k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐33k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
 
@@ -4132,7 +4140,7 @@ A curated list of Rust code and resources.
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐2.2k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐32k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐33k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.3k)](https://github.com/symisc/unqlite)
         *   [zitsen/unqlite.rs (⭐114)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)

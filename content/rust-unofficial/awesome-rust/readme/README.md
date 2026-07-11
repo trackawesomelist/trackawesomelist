@@ -323,7 +323,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [Skytable (⭐2.7k)](https://github.com/skytable/skytable) - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
 *   [sled](https://crates.io/crates/sled) - A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/actions/workflows/test.yml/badge.svg)](https://github.com/spacejam/sled/actions?workflow=Rust)
 *   [SQLSync (⭐2.9k)](https://github.com/orbitinghail/sqlsync) - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
-*   [SurrealDB (⭐32k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐33k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 *   [tabularis (⭐3.4k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 *   [TerminusDB (⭐382)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/actions/workflows/test.yml/badge.svg)](https://github.com/terminusdb/terminusdb-store/actions)
 *   [tikv (⭐17k)](https://github.com/tikv/tikv) - A distributed KV database in Rust
@@ -563,7 +563,7 @@ See also [A comparison of operating systems written in Rust (⭐859)](https://gi
 *   [tassiovirginio/try-rs (⭐272)](https://github.com/tassiovirginio/try-rs) \[[try-rs](https://crates.io/crates/try-rs)] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.
 *   [thClaws/thClaws (⭐1.1k)](https://github.com/thClaws/thClaws) - Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes. [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](https://github.com/thClaws/thClaws)
 *   [tinyhumansai/openhuman (⭐34k)](https://github.com/tinyhumansai/openhuman) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
-*   [tover0314-w/opentypeless (⭐295)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
+*   [tover0314-w/opentypeless (⭐334)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
 *   [tw93/Pake (⭐58k)](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.
 *   [xingkongliang/skills-manager (⭐2.5k)](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
 *   [yashs662/rust\_kanban (⭐267)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
@@ -1629,7 +1629,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐2.2k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐32k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐33k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.3k)](https://github.com/symisc/unqlite)
         *   [zitsen/unqlite.rs (⭐114)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
@@ -2151,6 +2151,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Reverse engineering
 
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
 *   [idalib (⭐285)](https://github.com/idalib-rs/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 *   [objdiff (⭐473)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 
@@ -2261,6 +2262,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) - CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 *   [oxidecomputer/propolis (⭐254)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 *   [saurvs/hypervisor-rs (⭐69)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
 *   [wasmi-labs/wasmi (⭐2.1k)](https://github.com/wasmi-labs/wasmi) - A lightweight runtime for WebAssembly
 
 ### Web programming

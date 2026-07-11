@@ -1,19 +1,64 @@
 # Awesome List Updates on Jul 11, 2026
 
-9 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [Profisor (⭐0)](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yefga/Profisor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Manufacturing
+
+*   [LinuxCNC](https://www.linuxcnc.org/) - Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ([Source Code (⭐2.4k)](https://github.com/LinuxCNC/linuxcnc)) `GPL-2.0/LGPL-3.0` `C/deb`
+
+### Software / Polls and Events
+
+*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐48)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
+
+### Software / Task Management & To-do Lists
+
+*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code (⭐5.1k)](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Videos / Others
+
+*   [Blazor Community Standup: ASP.NET Core & Blazor Roadmap for .NET 11](https://www.youtube.com/watch?v=XY_mM2FkxHE) - February 10, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Join us for a walkthrough of the ASP.NET Core & Blazor roadmap for .NET 11. We’ll discuss the expected improvements for this release and share progress on current work.
+*   [Building Agentic UI with Blazor](https://www.youtube.com/watch?v=81k75c4U95s) - December 4, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) AI is changing the way we use software by introducing natural language, voice, and vision as core interaction modes. This shift calls for a fresh approach to UI design that empowers users through intelligent multi-modal interfaces. This talk will cover how to create agentic UIs with Blazor, using the latest AI-driven interaction patterns. We’ll share practical examples and design methods based on Microsoft’s Human-AI design principles, discuss modern agent-user interaction protocols such as AG-UI, and show how to integrate conversation interfaces into your current websites using NLWeb.
+*   [Be Authentic with Blazor and Microsoft Entra External ID](https://www.youtube.com/watch?v=JQXDkh6-_Bk) - November 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Blazor developers love it for its fast web application building, and for building complicated applications in easily manageable modules. Blazor is a little less loved when it comes to authentication though. In this session we hope to change that! Being demo-heavy, we will first set up Microsoft Entra External ID, then we'll implement authentication in a Blazor Web Application using that External ID setup. Allowing external users - whether customers or collaborators - to access our application with RBAC security. By the end of this session, you'll have a template that you can use with your own code - and will have learned some of the traps that I have fallen into.
+*   [Build better web apps with Blazor in .NET 10](https://www.youtube.com/watch?v=V0Af7y7aMBE) - November 12, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development with Blazor in .NET 10! Learn how Blazor makes it easier to build secure web apps with built-in WebAuthN and passkeys support and scaffolding for adding Entra ID authentication. See how you can more easily monitor your Blazor apps and diagnose issues with improved diagnostics. Discover performance improvements that make your Blazor apps load faster and be more responsive. Finally, learn about new features and improvements that address top pain points in Blazor development, including faster Hot Reload, component state persistence, QuickGrid enhancements, simplified integration testing, and much more.
+*   [Modernizing your desktop: From WinForms to Blazor, Azure, and AI](https://www.youtube.com/watch?v=95M-4YLGsVE) - April 28, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Got an older tech stack that’s about as fresh as last week’s leftovers? Fear not—modernizing your desktop apps is easier than you think! In this session, we’ll show you how to shift from WinForms to Blazor using .NET, land your apps in Azure for simpler, cloud-based maintenance, and even sprinkle in some AI magic to future-proof your solutions. We’ll share practical tips, real-world examples, and a few cautionary tales—no stale code left behind! Join us for a lively exploration of how to bring your legacy applications roaring into the future.
+*   [Unboxing Blazor in .NET 10 Preview 2](https://www.youtube.com/watch?v=yBw_KOz1vCA) - April 2, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Dan shares the latest enhancements for web developers in .NET 10 Preview 2.
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [autofix (⭐0)](https://github.com/deXterbed/zsh-autofix) - When a command fails, captures its `stderr` and asks a local [Ollama](https://ollama.com) model for a fix, shown as ghost-text you can accept with `Tab`. Silent on success.
+*   [how2 (⭐0)](https://github.com/yizhixiaokong/how2) - Quickly inspect aliases, functions, and docs of [oh-my-zsh](https://ohmyz.sh/) plugins, with tab completion.
+*   [shui (⭐0)](https://github.com/kud/shui) - Fluid terminal UI for ZSH — a design system for the shell
+*   [v (⭐0)](https://github.com/teaVeloper/v) - An editor wrapper around a fast file finder.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [bluebird (⭐0)](https://github.com/bedirisinghe/bluebird-prompt) - A lightweight ZSH prompt featuring a clean Powerline-style design and Nerd Font support. Includes decorators for username, current directory, and `git` branch.
+*   [gozilla-lite (⭐0)](https://github.com/jannik-el/gozilla-lite) - Based on [oh-my-zsh](https://ohmyz.sh)'s built-in [gozilla (⭐188k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gozilla) theme. Includes decorators for the current directory, `git` branch, and a live `git` status in the right-hand prompt.
+
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
 *   [gatevay (⭐0)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
 *   [pixviper (⭐0)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
@@ -23,7 +68,15 @@
 
 *   [pkgx (⭐9.8k)](https://github.com/pkgxdev/pkgx) - Run anything. A composable package manager that makes the entire open source ecosystem available to your scripts.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+### Libraries / Reverse engineering
+
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
+
+### Libraries / Virtualization
+
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
+
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -117,25 +170,33 @@
 
 *   [YAML (⭐485) (⭐485)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [8. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+
+### Arch-based distros / Desktop
+
+*   [Crystal Linux](https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
+
+### Arch-based distros / Specific purpose
+
+*   [Archphile](https://archphile.org/) - *(Raspberry Pi/ARM/Audio)* - Yet another linux audio distribution for embedded boards.
 
 ### Other projects / Other
 
-*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
+*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 
-## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [9. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Gallery / PGFPlots
 
 *   [OpenTikZ (⭐170)](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
 
-## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Java
 
@@ -150,7 +211,7 @@
 
 *   💰 [Cygon](https://www.cygon.tech/) - Fast and easy game environment prototyping.
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### iOS
 
@@ -202,7 +263,7 @@
 *   [*Swift? Не вопрос. Создай свое приложение* - Антон Разгуляев](https://www.litres.ru/book/anton-razgulyaev-33353260/swift-ne-vopros-sozday-svoe-prilozhenie-71730088/)
 *   [*Head First. Изучаем Swift* - Мэннинг Д., Баттфилд-Эддисон П.](https://www.piter.com/collection/head-first-oreilly/product/head-first-izuchaem-swift)
 
-## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 

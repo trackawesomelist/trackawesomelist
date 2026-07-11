@@ -367,40 +367,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [IDFuzz: Intelligent Directed Grey-box Fuzzing, 2025](https://www.usenix.org/system/files/usenixsecurity25-chen-yiyang.pdf)
 
-#### [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-##### Authentication
-
-*   [CodeBeam.UltimateAuth (⭐13)](https://github.com/CodeBeamOrg/UltimateAuth) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=86400) A modern authentication framework for .NET that unifies sessions, cookies and tokens into a single model, with built-in support for Blazor Server and WebAssembly applications. [Docs](https://ultimateauth.com).
-
-##### ToDos
-
-*   [OpenHabitTracker (⭐255)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
-
-##### Component bundles
-
-*   [Blazor Blueprint (⭐509)](https://github.com/blazorblueprintui/ui) - ![stars](https://img.shields.io/github/stars/blazorblueprintui/ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorblueprintui/ui?style=flat-square\&cacheSeconds=86400) A shadcn/ui inspired component library for Blazor with 75+ styled components, 15 headless primitives, and 1,640+ icons. Features a two-tier architecture with unstyled primitives for full control and pre-styled components for rapid development. Compatible with existing shadcn themes from shadcn/ui and tweakcn. [Documentation and Demo](https://blazorblueprintui.com).
-*   [FluentUI Blazor (⭐4.8k)](https://github.com/microsoft/fluentui-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=86400) Microsoft's official FluentUI Web Components for Blazor. ([Samples & demo](https://www.fluentui-blazor.net/)).
-
-##### Routing & Navigation / Modal, Toast & Notifications
-
-*   [Blazouter (⭐67)](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square\&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
-
-##### Routing & Navigation / Others
-
-*   [ActualLab.Fusion (⭐165)](https://github.com/ActualLab/Fusion) - ![GitHub stars](https://img.shields.io/github/stars/ActualLab/Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ActualLab/Fusion?style=flat-square\&cacheSeconds=86400) Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples (⭐17)](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
-
-##### Videos / Others
-
-*   [Blazor Community Standup: WebMCP in Action with Blazor](https://www.youtube.com/watch?v=D0oq45aH0RQ) - July 7, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Yanislav Ivanov from Telerik joins us to show how Blazor components use WebMCP to expose actions directly to AI agents, enabling natural language prompts to drive real UI interactions.
-*   [Building for the agentic web with .NET 11](https://www.youtube.com/watch?v=vQ0y8ExNsmQ) - June 2, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) The demands on modern web apps are increasing. Users expect more performance, airtight security, and even agentic capabilities. What does the next generation of web apps look like on .NET? In .NET 11, ASP.NET Core and Blazor are getting faster and more secure at the core, closely integrated with Aspire for distributed app development, and a new set of building blocks — agents, tools, skills, and components — for building agentic web apps. Get ready to build for the modern agentic web.
-*   [The Future of Web Development with ASP.NET Core & Blazor in .NET 10](https://www.youtube.com/watch?v=xZ26KwGHWE0) - August 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development, focusing on new features in ASP.NET Core & Blazor in .NET 10. Learn how ASP.NET Core in makes it easier to build secure AI infused web apps with the latest AI libraries and security standards, like WebAuthn & Passkey support. See how you can more easily monitor and diagnose issues with improved diagnostics and telemetry and boost developer productivity with .NET Aspire. We will also take a look into the future of Blazor for building web apps, Minimal API validation, OpenAPI generations, and more.
-
-##### Tooling / Others
-
-*   [Ghostly Hosting (⭐2)](https://github.com/Nix1983/Ghostly-Hosting) - ![stars](https://img.shields.io/github/stars/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=86400) An interactive CLI tool that turns a fresh Ubuntu VPS into a production-ready hosting environment for Blazor Server apps with automatic SSL, DNS, GitHub deployments, and nginx reverse-proxy.
-
-#### [29. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [28. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### [Capgo plugins](https://capgo.app/) / Core & Updates
 
@@ -512,7 +479,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
 *   [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
 
-#### [30. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+#### [29. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ##### Reconnaissance / OSINT - Open-Source Intelligence
 
@@ -526,13 +493,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
 
-#### [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / URL Shorteners
-
-*   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
-
-#### [32. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [30. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### General Search
 
@@ -584,7 +545,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OSINT-BIBLE (⭐582)](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 
-#### [33. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [31. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Datasets / Book Deals (Affiliated)
 
@@ -592,7 +553,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [BDE Score (⭐1)](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
 *   [Verified Supplement Evidence (⭐0)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
-#### [34. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+#### [32. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ##### Browser-Based / Arcade
 
@@ -602,34 +563,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Blocks Beyond the Stars (⭐21)](https://github.com/marceld23/BlocksBeyondTheStars) - Block-based 3D space crafting sandbox with procedurally generated planets, block-by-block ship & base building and self-hostable multiplayer (Unity client, .NET server).
 
-#### [35. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Reading and Writing Tools / Note-taking
-
-*   [OATS (⭐12)](https://github.com/ariso-ai/oats) - Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ariso-ai/oats) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Terminal Apps / Databases
-
-*   [tty7 (⭐24)](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/tty7) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### AI Tools / Other Tools
-
-*   [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mm7894215/TokenTracker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Prevail](https://prevail.sh) - Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fru-dev3/prevail-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Menu Bar Tools
-
-*   [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/st0012/cctop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Productivity
-
-*   [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wox-launcher/Wox) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / System Related Tools
-
-*   [Battery Hog (⭐2)](https://github.com/luke-fairbanks/BatteryHog) - Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luke-fairbanks/BatteryHog) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### Tools
 
@@ -646,7 +580,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [RasRobot 4WD TB6612FNG checklist (⭐0)](https://github.com/willoc2023/rasrobot-tb6612fng-4wd) - Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.
 *   [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/raspberry-pi) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
-#### [37. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [34. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Databases Implemented in Go
 
@@ -656,13 +590,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [gitl (⭐0)](https://github.com/akomyagin/gitl) - AI review of git commit ranges with risk scoring (low/medium/high), changelog generation, and multi-repo activity digest. GitHub Action included.
 
-#### [38. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+#### [35. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ##### Platforms
 
 *   [Hivekeep (⭐31)](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 
-#### [39. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+#### [36. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ##### Commands & Extensions
 
@@ -681,7 +615,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [nika (⭐25)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
-#### [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+#### [37. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ##### iOS
 
@@ -749,7 +683,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [*Swift? Не вопрос. Создай свое приложение* - Антон Разгуляев](https://www.litres.ru/book/anton-razgulyaev-33353260/swift-ne-vopros-sozday-svoe-prilozhenie-71730088/)
 *   [*Head First. Изучаем Swift* - Мэннинг Д., Баттфилд-Эддисон П.](https://www.piter.com/collection/head-first-oreilly/product/head-first-izuchaem-swift)
 
-#### [41. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+#### [38. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ##### Libraries / Java
 
@@ -764,7 +698,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   💰 [Cygon](https://www.cygon.tech/) - Fast and easy game environment prototyping.
 
-#### [42. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [39. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -783,19 +717,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
 
-#### [43. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+#### [40. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ##### Gallery / PGFPlots
 
 *   [OpenTikZ (⭐170)](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
-#### [44. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
-
-##### Other projects / Other
-
-*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
-
-#### [45. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [41. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / AI Gateway
 
@@ -889,7 +817,128 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YAML (⭐485) (⭐485)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [46. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [42. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Command-line
+
+*   [gatevay (⭐0)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
+*   [pixviper (⭐0)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
+*   [vsnap (⭐0)](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
+
+#### [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [autofix (⭐0)](https://github.com/deXterbed/zsh-autofix) - When a command fails, captures its `stderr` and asks a local [Ollama](https://ollama.com) model for a fix, shown as ghost-text you can accept with `Tab`. Silent on success.
+*   [how2 (⭐0)](https://github.com/yizhixiaokong/how2) - Quickly inspect aliases, functions, and docs of [oh-my-zsh](https://ohmyz.sh/) plugins, with tab completion.
+*   [shui (⭐0)](https://github.com/kud/shui) - Fluid terminal UI for ZSH — a design system for the shell
+*   [v (⭐0)](https://github.com/teaVeloper/v) - An editor wrapper around a fast file finder.
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [bluebird (⭐0)](https://github.com/bedirisinghe/bluebird-prompt) - A lightweight ZSH prompt featuring a clean Powerline-style design and Nerd Font support. Includes decorators for username, current directory, and `git` branch.
+*   [gozilla-lite (⭐0)](https://github.com/jannik-el/gozilla-lite) - Based on [oh-my-zsh](https://ohmyz.sh)'s built-in [gozilla (⭐188k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gozilla) theme. Includes decorators for the current directory, `git` branch, and a live `git` status in the right-hand prompt.
+
+#### [44. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+##### Authentication
+
+*   [CodeBeam.UltimateAuth (⭐13)](https://github.com/CodeBeamOrg/UltimateAuth) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=86400) A modern authentication framework for .NET that unifies sessions, cookies and tokens into a single model, with built-in support for Blazor Server and WebAssembly applications. [Docs](https://ultimateauth.com).
+
+##### ToDos
+
+*   [OpenHabitTracker (⭐255)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
+
+##### Component bundles
+
+*   [Blazor Blueprint (⭐509)](https://github.com/blazorblueprintui/ui) - ![stars](https://img.shields.io/github/stars/blazorblueprintui/ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorblueprintui/ui?style=flat-square\&cacheSeconds=86400) A shadcn/ui inspired component library for Blazor with 75+ styled components, 15 headless primitives, and 1,640+ icons. Features a two-tier architecture with unstyled primitives for full control and pre-styled components for rapid development. Compatible with existing shadcn themes from shadcn/ui and tweakcn. [Documentation and Demo](https://blazorblueprintui.com).
+*   [FluentUI Blazor (⭐4.8k)](https://github.com/microsoft/fluentui-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=86400) Microsoft's official FluentUI Web Components for Blazor. ([Samples & demo](https://www.fluentui-blazor.net/)).
+
+##### Routing & Navigation / Modal, Toast & Notifications
+
+*   [Blazouter (⭐67)](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square\&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
+
+##### Routing & Navigation / Others
+
+*   [ActualLab.Fusion (⭐165)](https://github.com/ActualLab/Fusion) - ![GitHub stars](https://img.shields.io/github/stars/ActualLab/Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ActualLab/Fusion?style=flat-square\&cacheSeconds=86400) Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples (⭐17)](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
+
+##### Videos / Others
+
+*   [Blazor Community Standup: WebMCP in Action with Blazor](https://www.youtube.com/watch?v=D0oq45aH0RQ) - July 7, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Yanislav Ivanov from Telerik joins us to show how Blazor components use WebMCP to expose actions directly to AI agents, enabling natural language prompts to drive real UI interactions.
+*   [Building for the agentic web with .NET 11](https://www.youtube.com/watch?v=vQ0y8ExNsmQ) - June 2, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) The demands on modern web apps are increasing. Users expect more performance, airtight security, and even agentic capabilities. What does the next generation of web apps look like on .NET? In .NET 11, ASP.NET Core and Blazor are getting faster and more secure at the core, closely integrated with Aspire for distributed app development, and a new set of building blocks — agents, tools, skills, and components — for building agentic web apps. Get ready to build for the modern agentic web.
+*   [Blazor Community Standup: ASP.NET Core & Blazor Roadmap for .NET 11](https://www.youtube.com/watch?v=XY_mM2FkxHE) - February 10, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Join us for a walkthrough of the ASP.NET Core & Blazor roadmap for .NET 11. We’ll discuss the expected improvements for this release and share progress on current work.
+*   [Building Agentic UI with Blazor](https://www.youtube.com/watch?v=81k75c4U95s) - December 4, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) AI is changing the way we use software by introducing natural language, voice, and vision as core interaction modes. This shift calls for a fresh approach to UI design that empowers users through intelligent multi-modal interfaces. This talk will cover how to create agentic UIs with Blazor, using the latest AI-driven interaction patterns. We’ll share practical examples and design methods based on Microsoft’s Human-AI design principles, discuss modern agent-user interaction protocols such as AG-UI, and show how to integrate conversation interfaces into your current websites using NLWeb.
+*   [Be Authentic with Blazor and Microsoft Entra External ID](https://www.youtube.com/watch?v=JQXDkh6-_Bk) - November 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Blazor developers love it for its fast web application building, and for building complicated applications in easily manageable modules. Blazor is a little less loved when it comes to authentication though. In this session we hope to change that! Being demo-heavy, we will first set up Microsoft Entra External ID, then we'll implement authentication in a Blazor Web Application using that External ID setup. Allowing external users - whether customers or collaborators - to access our application with RBAC security. By the end of this session, you'll have a template that you can use with your own code - and will have learned some of the traps that I have fallen into.
+*   [Build better web apps with Blazor in .NET 10](https://www.youtube.com/watch?v=V0Af7y7aMBE) - November 12, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development with Blazor in .NET 10! Learn how Blazor makes it easier to build secure web apps with built-in WebAuthN and passkeys support and scaffolding for adding Entra ID authentication. See how you can more easily monitor your Blazor apps and diagnose issues with improved diagnostics. Discover performance improvements that make your Blazor apps load faster and be more responsive. Finally, learn about new features and improvements that address top pain points in Blazor development, including faster Hot Reload, component state persistence, QuickGrid enhancements, simplified integration testing, and much more.
+*   [The Future of Web Development with ASP.NET Core & Blazor in .NET 10](https://www.youtube.com/watch?v=xZ26KwGHWE0) - August 14, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Explore the future of web development, focusing on new features in ASP.NET Core & Blazor in .NET 10. Learn how ASP.NET Core in makes it easier to build secure AI infused web apps with the latest AI libraries and security standards, like WebAuthn & Passkey support. See how you can more easily monitor and diagnose issues with improved diagnostics and telemetry and boost developer productivity with .NET Aspire. We will also take a look into the future of Blazor for building web apps, Minimal API validation, OpenAPI generations, and more.
+*   [Modernizing your desktop: From WinForms to Blazor, Azure, and AI](https://www.youtube.com/watch?v=95M-4YLGsVE) - April 28, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Got an older tech stack that’s about as fresh as last week’s leftovers? Fear not—modernizing your desktop apps is easier than you think! In this session, we’ll show you how to shift from WinForms to Blazor using .NET, land your apps in Azure for simpler, cloud-based maintenance, and even sprinkle in some AI magic to future-proof your solutions. We’ll share practical tips, real-world examples, and a few cautionary tales—no stale code left behind! Join us for a lively exploration of how to bring your legacy applications roaring into the future.
+*   [Unboxing Blazor in .NET 10 Preview 2](https://www.youtube.com/watch?v=yBw_KOz1vCA) - April 2, 2025 - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Dan shares the latest enhancements for web developers in .NET 10 Preview 2.
+
+##### Tooling / Others
+
+*   [Ghostly Hosting (⭐2)](https://github.com/Nix1983/Ghostly-Hosting) - ![stars](https://img.shields.io/github/stars/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Nix1983/Ghostly-Hosting?style=flat-square\&cacheSeconds=86400) An interactive CLI tool that turns a fresh Ubuntu VPS into a production-ready hosting environment for Blazor Server apps with automatic SSL, DNS, GitHub deployments, and nginx reverse-proxy.
+
+#### [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Manufacturing
+
+*   [LinuxCNC](https://www.linuxcnc.org/) - Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ([Source Code (⭐2.4k)](https://github.com/LinuxCNC/linuxcnc)) `GPL-2.0/LGPL-3.0` `C/deb`
+
+##### Software / Polls and Events
+
+*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐48)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
+
+##### Software / Task Management & To-do Lists
+
+*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code (⭐5.1k)](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
+
+##### Software / URL Shorteners
+
+*   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
+
+#### [46. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+
+##### Arch-based distros / Desktop
+
+*   [Crystal Linux](https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
+
+##### Arch-based distros / Specific purpose
+
+*   [Archphile](https://archphile.org/) - *(Raspberry Pi/ARM/Audio)* - Yet another linux audio distribution for embedded boards.
+
+##### Other projects / Other
+
+*   [tarman (⭐38)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
+
+#### [47. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Reading and Writing Tools / Note-taking
+
+*   [OATS (⭐12)](https://github.com/ariso-ai/oats) - Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ariso-ai/oats) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Terminal Apps / Databases
+
+*   [tty7 (⭐24)](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/tty7) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### AI Tools / Other Tools
+
+*   [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mm7894215/TokenTracker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Prevail](https://prevail.sh) - Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fru-dev3/prevail-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Menu Bar Tools
+
+*   [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/st0012/cctop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Profisor (⭐0)](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yefga/Profisor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Productivity
+
+*   [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wox-launcher/Wox) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / System Related Tools
+
+*   [Battery Hog (⭐2)](https://github.com/luke-fairbanks/BatteryHog) - Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luke-fairbanks/BatteryHog) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [48. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Audio and Music
 
@@ -918,13 +967,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mikwielgus/undoredo (⭐116)](https://github.com/mikwielgus/undoredo) \[[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no\_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 
-#### [47. Awesome V](/content/vlang/awesome-v/README.md)
+##### Libraries / Reverse engineering
 
-##### Command-line
+*   [binlex (⭐590)](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
 
-*   [gatevay (⭐0)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
-*   [pixviper (⭐0)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
-*   [vsnap (⭐0)](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
+##### Libraries / Virtualization
+
+*   [smol-machines/smolvm (⭐4.3k)](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
 
 ---
 
@@ -932,14 +981,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ## Top 50 Awesome List
 
-1. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 305K 📝 07&#x2F;08) - An opinionated list of Python frameworks, libraries, tools, and resources
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 303K 📝 07&#x2F;06) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 303K 📝 07&#x2F;11) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 305K 📝 07&#x2F;08) - An opinionated list of Python frameworks, libraries, tools, and resources
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 177K 📝 07&#x2F;10) - A curated list of awesome Go frameworks, libraries and software
 4. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 445K 📝 07&#x2F;01) - A collective list of free APIs
 5. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 391K 📝 06&#x2F;30) - :books: Freely available programming books
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 128K 📝 07&#x2F;11) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-7. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
-8. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 107K 📝 07&#x2F;10) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 107K 📝 07&#x2F;11) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+8. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 58K 📝 07&#x2F;11) - A curated list of Rust code and resources.
 10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 72K 📝 07&#x2F;08) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 11. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 07&#x2F;07) - 🎉 A curated list of awesome things related to Vue.js
@@ -948,17 +997,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 14. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 47K 📝 07&#x2F;06) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 15. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 30K 📝 07&#x2F;10) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 16. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 27K 📝 07&#x2F;10) - :scream: A curated list of amazingly awesome OSINT
-17. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 07&#x2F;03) - :whale: A curated list of Docker resources and projects
-18. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17K 📝 07&#x2F;10) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 07&#x2F;06) - Collections of awesome neovim plugins.
-20. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 07&#x2F;07) - 🖥 📊 🕹 🛠 A curated list of command line apps
-21. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 07&#x2F;05) - A curated list of awesome READMEs
-22. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 14K 📝 07&#x2F;09) - 🐶 A curated list of Web Security materials and resources.
-23. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 19K 📝 07&#x2F;05) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-24. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source](https://github.com/vsouza/awesome-ios) ⭐ 53K 📝 06&#x2F;25) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-25. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 07&#x2F;04) - A collection of ZSH frameworks, plugins, themes and tutorials.
-26. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 10K 📝 07&#x2F;09) - A curated list of free/libre plugins, scripts and add-ons for Godot
-27. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.4K 📝 07&#x2F;09) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 07&#x2F;11) - A collection of ZSH frameworks, plugins, themes and tutorials.
+18. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 07&#x2F;03) - :whale: A curated list of Docker resources and projects
+19. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17K 📝 07&#x2F;10) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+20. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 07&#x2F;06) - Collections of awesome neovim plugins.
+21. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 07&#x2F;07) - 🖥 📊 🕹 🛠 A curated list of command line apps
+22. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 07&#x2F;05) - A curated list of awesome READMEs
+23. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 14K 📝 07&#x2F;09) - 🐶 A curated list of Web Security materials and resources.
+24. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 19K 📝 07&#x2F;05) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+25. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source](https://github.com/vsouza/awesome-ios) ⭐ 53K 📝 06&#x2F;25) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+26. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.4K 📝 07&#x2F;11) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+27. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 10K 📝 07&#x2F;09) - A curated list of free/libre plugins, scripts and add-ons for Godot
 28. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 73K 📝 06&#x2F;18) - A curated list of awesome Machine Learning frameworks, libraries and software.
 29. [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 8.8K 📝 07&#x2F;06) - A curated list of data engineering tools for software developers
 30. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source](https://github.com/markets/awesome-ruby) ⭐ 14K 📝 07&#x2F;01) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
@@ -1193,7 +1242,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Terminals](/content/cdleon/awesome-terminals/README.md) - ([Source ⭐ 2.8K, 📝 06&#x2F;29 ](https://github.com/cdleon/awesome-terminals)) - Terminal Emulators
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 9.9K, 📝 05&#x2F;21 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 6.5K, 📝 07&#x2F;06 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
-- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 18K, 📝 07&#x2F;04 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 18K, 📝 07&#x2F;11 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [awsm.fish](/content/jorgebucaran/awsm.fish/README.md) - ([Source ⭐ 4.8K, 📝 01&#x2F;25 ](https://github.com/jorgebucaran/awsm.fish)) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md) - ([Source ⭐ 965, 📝 24&#x2F;02&#x2F;02 ](https://github.com/tvvocold/FOSS-for-Dev)) - A hub of Free and open-source software for developers
 - [Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md) - ([Source ⭐ 7.1K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/arslanbilal/git-cheat-sheet)) - :octocat: git and git flow cheat sheet
@@ -1234,7 +1283,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3.2K, 📝 25&#x2F;07&#x2F;29 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
-- [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 9.4K, 📝 07&#x2F;09 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 9.4K, 📝 07&#x2F;11 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Awesome Browserify](/content/browserify/awesome-browserify/README.md) - ([Source ⭐ 82, 📝 17&#x2F;01&#x2F;04 ](https://github.com/browserify/awesome-browserify)) - :crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.
 - [Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md) - ([Source ⭐ 182, 📝 25&#x2F;11&#x2F;24 ](https://github.com/componently-com/awesome-building-blocks-for-web-apps)) - Standalone features to be integrated into web applications
 - [Awesome Canvas](/content/raphamorim/awesome-canvas/README.md) - ([Source ⭐ 1.8K, 📝 06&#x2F;14 ](https://github.com/raphamorim/awesome-canvas)) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
@@ -1522,7 +1571,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;19 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 920, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 303K, 📝 07&#x2F;06 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 303K, 📝 07&#x2F;11 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;20 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1611,7 +1660,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 433, 📝 04&#x2F;05 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 107K, 📝 07&#x2F;10 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 107K, 📝 07&#x2F;11 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 14, 📝 06&#x2F;21 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 5.3K, 📝 07&#x2F;04 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 66K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
