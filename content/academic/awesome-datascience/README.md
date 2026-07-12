@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jul 12, 2026](/content/2026/07/12/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026) - Structured reference dataset of 156 peptide and peptide-adjacent compounds, each with a regulatory status bucket, category, route, half-life, molecular weight, CAS number, reference count, and PubChem/DrugBank/Wikidata IDs. CSV and JSON, no login, CC BY 4.0.
+
 ## [Jul 10, 2026](/content/2026/07/10/README.md)
 
 ### Datasets / Book Deals (Affiliated)
