@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [jargo (⭐20)](https://github.com/gojargo/jargo) - Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.
 
+### Audio and Music
+
+*   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
+
+### Server Applications
+
+*   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Databases Implemented in Go
@@ -87,7 +95,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [pii-shield (⭐161)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
-*   [Sentinel (⭐1)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
+*   [Sentinel (⭐4)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
 
 ### Server Applications
 
@@ -145,7 +153,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [sqlh (⭐6)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
+*   [sqlh (⭐14)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
 
 ### Logging
 

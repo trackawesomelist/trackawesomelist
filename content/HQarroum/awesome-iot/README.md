@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Jul 13, 2026](/content/2026/07/13/README.md)
+
+### Software / Middlewares
+
+*   [IoT DC3 (⭐650)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (Modbus, OPC UA, Siemens S7, BACnet, MQTT, CoAP), AI-powered operations, and microservice architecture. ([Docs](https://docs.dc3.site))
+
 ## [Jul 05, 2026](/content/2026/07/05/README.md)
 
 ### Software / Libraries and Tools
@@ -206,7 +212,7 @@
 
 ### Software / Frameworks
 
-*   [AREG SDK (⭐355)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+*   [AREG SDK (⭐356)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 
 ## [Oct 21, 2021](/content/2021/10/21/README.md)
 

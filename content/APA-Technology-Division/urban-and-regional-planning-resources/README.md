@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Jul 13, 2026](/content/2026/07/13/README.md)
+
+### Platforms and Software Resources / AI in Planning Tools and Platforms
+
+*   [Unsloth](https://unsloth.ai/) - An open-source framework that enables the running and training of models on local hardware.
+
 ## [Jul 09, 2026](/content/2026/07/09/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / Weekly / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### Software / Middlewares
+
+*   [IoT DC3 (⭐650)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (Modbus, OPC UA, Siemens S7, BACnet, MQTT, CoAP), AI-powered operations, and microservice architecture. ([Docs](https://docs.dc3.site))
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Software / Libraries and Tools
@@ -187,7 +193,7 @@
 
 ### Software / Frameworks
 
-*   [AREG SDK (⭐355)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+*   [AREG SDK (⭐356)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 *   [Macchina.io](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)

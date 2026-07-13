@@ -263,6 +263,7 @@ Please take a quick gander at the [contribution guidelines (⭐178k)](https://gi
 *   [flac (⭐357)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
 *   [gaad (⭐136)](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 *   [go-mpris (⭐22)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
+*   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
 *   [GoAudio (⭐422)](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
 *   [gosamplerate (⭐38)](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 *   [id3v2 (⭐369)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
@@ -914,7 +915,7 @@ additional ordered map implementations.
 *   [sq (⭐201)](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
 *   [sqlc (⭐18k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 *   [sqlf (⭐189)](https://github.com/leporo/sqlf) - Fast SQL query builder.
-*   [sqlh (⭐6)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
+*   [sqlh (⭐14)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
 *   [sqlingo (⭐456)](https://github.com/lqs/sqlingo) - A lightweight DSL to build SQL in Go.
 *   [sqrl (⭐285)](https://github.com/elgris/sqrl) - SQL query builder, fork of Squirrel with improved performance.
 *   [Squalus](https://gitlab.com/qosenergy/squalus) - Thin layer over the Go SQL package that makes it easier to perform queries.
@@ -2448,7 +2449,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [secret (⭐33)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 *   [secureio (⭐33)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
-*   [Sentinel (⭐1)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
+*   [Sentinel (⭐4)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
 *   [simple-scrypt (⭐203)](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 *   [ssh-vault (⭐508)](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt using ssh keys.
 *   [sslmgr (⭐32)](https://github.com/adrianosela/sslmgr) - SSL certificates made easy with a high level wrapper around acme/autocert.
@@ -2522,6 +2523,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [SFTPGo (⭐12k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [Trickster (⭐2.1k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 *   [wd-41 (⭐153)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
+*   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
 *   [Wish (⭐5.3k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 **[⬆ back to top](#contents)**
