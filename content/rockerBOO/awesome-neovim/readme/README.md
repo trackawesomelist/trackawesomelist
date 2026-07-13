@@ -127,7 +127,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 **(requires Neovim 0.5)**
 
-*   [nvim-pio (⭐3)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+*   [nvim-pio (⭐4)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 *   [romus204/referencer.nvim (⭐47)](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 *   [Dan7h3x/signup.nvim (⭐65)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
@@ -1058,7 +1058,7 @@ then it is not supported:
 *   [vyfor/cord.nvim (⭐665)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 *   [iamt4nk/smm.nvim (⭐32)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
 *   [sanjay-np/nvim-yt-player (⭐16)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
-*   [T-b-t-nchos/FMP7.nvim (⭐2)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
+*   [T-b-t-nchos/FMP7.nvim (⭐3)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
 
 <!--lint disable double-link -->
 
@@ -1352,7 +1352,7 @@ then it is not supported:
 *   [MunifTanjim/nui.nvim (⭐2.1k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 *   [nvim-mini/mini.nvim#mini.doc (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-doc.md) - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
 *   [milisims/nvim-luaref (⭐127)](https://github.com/milisims/nvim-luaref) - A reference for built-in Lua functions.
-*   [DrKJeff16/nvim-luaref (⭐2)](https://github.com/DrKJeff16/nvim-luaref) - Forked from `milisims/nvim-luaref`, adds built-in Lua 5.1 help docs.
+*   [DrKJeff16/nvim-luaref (⭐3)](https://github.com/DrKJeff16/nvim-luaref) - Forked from `milisims/nvim-luaref`, adds built-in Lua 5.1 help docs.
 *   [nvim-mini/mini.nvim#mini.test (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md) - Module of `mini.nvim` with framework for writing extensive plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
 *   [ray-x/guihua.lua (⭐192)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 *   [anuvyklack/animation.nvim (⭐47)](https://github.com/anuvyklack/animation.nvim) - Create animations.
@@ -1660,7 +1660,7 @@ then it is not supported:
 *   [tigion/swap.nvim (⭐18)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 *   [XXiaoA/atone.nvim (⭐183)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
 *   [nemanjamalesija/smart-paste.nvim (⭐165)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
-*   [neur1n/hyphen.nvim (⭐2)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
+*   [neur1n/hyphen.nvim (⭐5)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 
 ### Comment
 
@@ -1692,7 +1692,7 @@ then it is not supported:
 *   [malbertzard/inline-fold.nvim (⭐89)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 *   [netmute/foldchanged.nvim (⭐3)](https://github.com/netmute/foldchanged.nvim) - Adds a `FoldChanged` User event.
 *   [netmute/foldsigns.nvim (⭐6)](https://github.com/netmute/foldsigns.nvim) - Adds fold markers to sign column to make folds more visible while editing.
-*   [fold-logging.nvim (⭐6)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
+*   [fold-logging.nvim (⭐8)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
 
 <!--lint disable double-link -->
 
@@ -1904,6 +1904,7 @@ then it is not supported:
 *   [aikhe/wrapped.nvim (⭐180)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
 *   [gisketch/triforce.nvim (⭐296)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [QuentinGruber/pomodoro.nvim (⭐50)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+*   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 *   [gaborvecsei/usage-tracker.nvim (⭐144)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your usage and visualize statistics easily.
 *   [SunnyTamang/pendulum.nvim (⭐14)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 *   [ptdewey/pendulum-nvim (⭐112)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
