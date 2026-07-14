@@ -1460,6 +1460,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [fastnum (⭐255)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
 *   [GSL](http://www.gnu.org/software/gsl/)
     *   [GuillaumeGomez/rust-GSL (⭐202)](https://github.com/GuillaumeGomez/rust-GSL) - GSL bindings
+*   [jolars/basin (⭐107)](https://github.com/jolars/basin) \[[basin](https://crates.io/crates/basin)] - Numerical optimization library with first-order, derivative-free, nonlinear least-squares, evolutionary, and constrained solvers, generic over linear-algebra backends [![CI](https://github.com/jolars/basin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jolars/basin/actions/workflows/ci.yml)
 *   [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
     *   [stainless-steel/lapack (⭐91)](https://github.com/blas-lapack-rs/lapack) - LAPACK bindings
 *   Parallel

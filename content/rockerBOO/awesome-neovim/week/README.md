@@ -8,6 +8,14 @@ Collections of awesome neovim plugins.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
+### File Explorer / Markdown and LaTeX
+
+*   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+
+### Editing Support / Comment
+
+*   [celeste3z/celeste\_comment.nvim (⭐1)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
+
 ### Workflow / Stats Tracking
 
 *   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
