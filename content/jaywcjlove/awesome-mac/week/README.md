@@ -10,6 +10,7 @@
 
 ### Utilities / Menu Bar Tools
 
+*   [MacTools (⭐649)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggbond268/MacTools) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Tactile](https://tactile.masn.studio/) - Adds subtle trackpad haptic taps over clickable elements, with optional visual cues for accessibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Mason363/Tactile) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
@@ -417,7 +418,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Mocker (⭐270)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mocker (⭐301)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screenshot Tools
 
@@ -3650,10 +3651,6 @@
 ### Utilities / Password Management
 
 *   [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
-
-### Podcasts / Pirated software download site blocklist
-
-*   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 ## [Jun 18 - Jun 24, 2018](/content/2018/25/README.md)
 

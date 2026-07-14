@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Jul 14, 2026](/content/2026/07/14/README.md)
+
+### C / General-Purpose Machine Learning
+
+*   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
+
 ## [Jul 12, 2026](/content/2026/07/12/README.md)
 
 ### Python / General-Purpose Machine Learning
@@ -729,7 +735,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐781)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐780)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [Dec 29, 2021](/content/2021/12/29/README.md)
 
@@ -784,7 +790,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapley (⭐226)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐227)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 *   [breze (⭐95)](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks.
 *   [Opytimizer (⭐634)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
 
@@ -1423,7 +1429,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐715)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐716)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [May 15, 2020](/content/2020/05/15/README.md)
 

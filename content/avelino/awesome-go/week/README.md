@@ -17,6 +17,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
 
+### Project Layout
+
+*   [go-ddd (⭐575)](https://github.com/sklinkert/go-ddd) - Domain-Driven Design template with CQRS, value objects, idempotent commands, and a transactional outbox.
+
+### Security
+
+*   [Crenox (⭐4)](https://github.com/crenoxhq/crenox) - Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.
+
 ### Server Applications
 
 *   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
@@ -44,7 +52,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [llm-box (⭐2)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
-*   [skillreaper (⭐31)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
+*   [skillreaper (⭐43)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
 ### File Handling
 
@@ -100,7 +108,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [pii-shield (⭐161)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
-*   [Sentinel (⭐4)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
 
 ### Server Applications
 
@@ -178,7 +185,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Webhooks Server / Libraries for creating HTTP middlewares
 
-*   [HookRun (⭐2)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
+*   [HookRun (⭐3)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -215,7 +222,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Continuous Integration
 
-*   [PikoCI (⭐147)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+*   [PikoCI (⭐156)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
 
 ### Database Tools
 
@@ -227,7 +234,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Performance
 
-*   [go-perfstat (⭐0)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
+*   [go-perfstat (⭐1)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
 
 ### Security
 
@@ -235,7 +242,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [spec (⭐112)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+*   [spec (⭐115)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -575,7 +582,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [chroma16 (⭐3)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
+*   [chroma16 (⭐5)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
 *   [lazyenv (⭐54)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ### Embeddable Scripting Languages
@@ -600,7 +607,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Selenium and browser control tools
 
-*   [bonk (⭐11)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
+*   [bonk (⭐13)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -706,7 +713,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [vizb (⭐71)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐77)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 

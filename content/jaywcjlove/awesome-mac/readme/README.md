@@ -173,7 +173,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Mac App Download Sites](#mac-app-download-sites)
     *   [Genuine Sites](#genuine-sites)
     *   [Pirated software download site blocklist](#pirated-software-download-site-blocklist)
-*   [Podcasts](#podcasts)
 *   [Contributors](#contributors)
 *   [License](#license)
 
@@ -557,7 +556,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Cocoa-Way (⭐972)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 *   [GhostVM (⭐599)](https://github.com/groundwater/GhostVM) - Virtualization tool for creating and managing isolated macOS virtual machine workspaces. ![Freeware][Freeware Icon]
 *   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
-*   [Mocker (⭐270)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
+*   [Mocker (⭐301)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 *   [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 *   [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
 *   [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS.
@@ -1231,6 +1230,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [KeyStats](https://keystats.vercel.app) - Menu bar tracker for daily keystrokes, clicks, movement, and scrolling. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 *   [Later](https://getlater.app/) - Save all your Mac apps for later with one click. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 *   [LuxShot (⭐48)](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
+*   [MacTools (⭐649)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - Menu bar app that masks sensitive information in the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 *   [MeetingBar](https://meetingbar.onrender.com) - Menu bar app for your calendar meetings  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
 *   [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - A monthly calendar right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383?platform=mac)
@@ -1643,10 +1643,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 *   AppKed：~~`http://www.macbed.com`~~
 *   Softasm：~~`https://softasm.com/`~~
 *   Appstorrent：~~`http://appstorrent.ru/`~~
-
-## Podcasts
-
-*   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 **[⬆ back to top](#contents)**
 

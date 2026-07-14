@@ -2,9 +2,15 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 462 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 468 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -189,11 +195,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [PlayCanvas Engine (⭐16k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
-*   [PlayCanvas React (⭐509)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐98)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas React (⭐514)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐101)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
-*   [Texture Tool (⭐14)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐780)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [Texture Tool (⭐15)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐786)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ### Community
 

@@ -8,6 +8,10 @@
 
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
+### Utilities / Menu Bar Tools
+
+*   [MacTools (⭐649)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggbond268/MacTools) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / General Tools
 
 *   [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/peetzweg/opendisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -559,7 +563,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Mocker (⭐270)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mocker (⭐301)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 25, 2026](/content/2026/03/25/README.md)
 
@@ -4147,12 +4151,6 @@
 ### Reading and Writing Tools / Office
 
 *   [LibreOffice](https://www.libreoffice.org) - Free, open-source office software used and tested daily by a large community. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.libreoffice.org/about-us/source-code/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [Jun 30, 2018](/content/2018/06/30/README.md)
-
-### Podcasts / Pirated software download site blocklist
-
-*   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 ## [Jun 28, 2018](/content/2018/06/28/README.md)
 

@@ -249,7 +249,7 @@ Please take a quick gander at the [contribution guidelines (⭐178k)](https://gi
 *   [OllamaFarm (⭐100)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 *   [otellix (⭐33)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 *   [routex (⭐21)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
-*   [skillreaper (⭐31)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
+*   [skillreaper (⭐43)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 *   [trpc-agent-go (⭐1.5k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 *   [web-researcher-mcp (⭐38)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 *   [zenflow (⭐31)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
@@ -402,7 +402,7 @@ Please take a quick gander at the [contribution guidelines (⭐178k)](https://gi
 *   [bubble-table (⭐576)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 *   [bubbles (⭐8.7k)](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
 *   [bubbletea (⭐44k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
-*   [chroma16 (⭐3)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
+*   [chroma16 (⭐5)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
 *   [crab-config-files-templating (⭐8)](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 *   [ctc (⭐54)](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method.
 *   [fx (⭐21k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
@@ -589,7 +589,7 @@ Please take a quick gander at the [contribution guidelines (⭐178k)](https://gi
 *   [goveralls (⭐797)](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
 *   [muffet (⭐2.6k)](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives (⭐3.7k)](https://github.com/lycheeverse/lychee#features).
 *   [overalls (⭐116)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
-*   [PikoCI (⭐147)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+*   [PikoCI (⭐156)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
 *   [roveralls (⭐21)](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
 *   [woodpecker (⭐7.4k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
@@ -1931,6 +1931,7 @@ additional ordered map implementations.
 *   [ardanlabs/service (⭐4.1k)](https://github.com/ardanlabs/service) - A [starter kit (⭐4.1k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
 *   [cookiecutter-golang (⭐738)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-blueprint (⭐8.9k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
+*   [go-ddd (⭐575)](https://github.com/sklinkert/go-ddd) - Domain-Driven Design template with CQRS, value objects, idempotent commands, and a transactional outbox.
 *   [go-module (⭐40)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 *   [go-rest-api-boilerplate (⭐58)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
 *   [go-sample (⭐140)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
@@ -2291,7 +2292,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *   [ebpf-go (⭐7.9k)](https://github.com/cilium/ebpf) - Provides utilities for loading, compiling, and debugging eBPF programs.
 *   [go-instrument (⭐298)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
-*   [go-perfstat (⭐0)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
+*   [go-perfstat (⭐1)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
 *   [jaeger (⭐23k)](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 *   [mm-go (⭐194)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
 *   [otelinji (⭐28)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
@@ -2415,6 +2416,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [certificates (⭐38)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
 *   [CertMagic (⭐5.6k)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 *   [Coraza (⭐3.7k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Crenox (⭐4)](https://github.com/crenoxhq/crenox) - Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.
 *   [dongle (⭐1.1k)](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding\&decoding and encryption\&decryption.
 *   [dotlock (⭐3)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 *   [encid (⭐7)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
@@ -2450,7 +2452,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [secret (⭐33)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 *   [secureio (⭐33)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
-*   [Sentinel (⭐4)](https://github.com/sentinel-cli/sentinel) - Local pre-commit secret scanner using an Aho-Corasick automaton.
 *   [simple-scrypt (⭐203)](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 *   [ssh-vault (⭐508)](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt using ssh keys.
 *   [sslmgr (⭐32)](https://github.com/adrianosela/sslmgr) - SSL certificates made easy with a high level wrapper around acme/autocert.
@@ -2681,7 +2682,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 ### Selenium and browser control tools
 
-*   [bonk (⭐11)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
+*   [bonk (⭐13)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
 *   [cdp (⭐793)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 *   [chromedp (⭐13k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
 *   [playwright-go (⭐3.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -2893,7 +2894,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [simples3 (⭐205)](https://github.com/rhnvrm/simples3) - Simple no frills AWS S3 Library using REST with V4 Signing written in Go.
 *   [slack (⭐5k)](https://github.com/slack-go/slack) - Slack API in Go.
 *   [smite (⭐11)](https://github.com/sergiotapia/smitego) - Go package to wraps access to the Smite game API.
-*   [spec (⭐112)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+*   [spec (⭐115)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 *   [spotify (⭐53)](https://github.com/rapito/go-spotify) - Go Library to access Spotify WEB API.
 *   [steam (⭐33)](https://github.com/sostronk/go-steam) - Go Library to interact with Steam game servers.
 *   [stripe (⭐2.6k)](https://github.com/stripe/stripe-go) - Go client for the Stripe API.
@@ -3320,7 +3321,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ## Webhooks Server
 
-*   [HookRun (⭐2)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
+*   [HookRun (⭐3)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
 *   [webhook (⭐12k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 *   [webhooked (⭐43)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 *   [WebhookX (⭐294)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
@@ -3703,7 +3704,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [kvbench (⭐27)](https://github.com/jimrobinson/kvbench) - Key/Value database benchmark.
 *   [skynet (⭐1.1k)](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 *   [speedtest-resize (⭐246)](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
-*   [vizb (⭐71)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐77)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 **[⬆ back to top](#contents)**
 

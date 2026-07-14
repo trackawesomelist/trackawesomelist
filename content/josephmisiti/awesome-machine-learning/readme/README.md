@@ -223,6 +223,7 @@ Further resources:
 *   [cONNXr (⭐219)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 *   [libonnx (⭐650)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 *   [onnx-c](https://github.com/onnx/onnx-c) - A lightweight C library for ONNX model inference, optimized for performance and portability across platforms.
+*   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 *   [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
 
 <a name="c-computer-vision"></a>
@@ -1284,16 +1285,16 @@ Further resources:
 *   [Aim (⭐6.2k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
 *   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
 *   *   [TopFreePrompts by LucyBrain](https://topfreeprompts.com) -> 10,000+ professional AI prompts across 23 categories with systematic training for automating ML workflows and analysis.
-*   [ChemicalX (⭐781)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐780)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 *   [Microsoft ML for Apache Spark (⭐5.2k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
-*   [Shapley (⭐226)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐227)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 *   [igel (⭐3.1k)](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
 *   [ML Model building (⭐36)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
 *   [ML/DL project template (⭐1.3k)](https://github.com/PyTorchLightning/deep-learning-project-template)
 *   [PyTorch Frame (⭐793)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
 *   [PyTorch Geometric (⭐24k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
 *   [PyTorch Geometric Temporal (⭐3k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
-*   [Little Ball of Fur (⭐715)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐716)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 *   [Karate Club (⭐2.3k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 *   [Auto\_ViML (⭐547)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
 *   [PyOD (⭐9.9k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.

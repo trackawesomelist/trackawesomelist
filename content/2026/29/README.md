@@ -1,24 +1,72 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2026
 
-20 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+
+### System Tools / Menu Bar
+
+*   [aqua5230/usage (⭐254)](https://github.com/aqua5230/usage) — Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls ☆`250`
+
+## [2. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Projects / Data Analysis
+
+*   [percentify (⭐310)](https://github.com/data-centt/percentify) - Exploratory stats and data-quality diagnostics/profiler, that supports both pandas and Polars DataFrames inputs.
+
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+
+## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+
+### Development
+
+*   [cover\_me (⭐0)](https://github.com/verizonconnect/cover_me) - code coverage tool for mysql stored procedures and functions
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### C / General-Purpose Machine Learning
+
+*   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
+
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Community
+
+*   [The Ultimate Terraform Cheatsheet for DevOps Engineers](https://atulcodes.hashnode.dev/ultimate-terraform-cheatsheet-devops)
+
+### Self-Hosted Registries / Miscellaneous
+
+*   [terramantle.dev](https://terramantle.dev) - A registry that focuses on module & state insights, tackling dependency management
+
+### Managed Registries / Miscellaneous
+
+*   [Terramantle](https://terramantle.dev) - A private Terraform/OpenTofu registry with deep module insights, dependency mapping, and state visibility.
+
+### Tools / Community providers
+
+*   [Shieldly (⭐1)](https://github.com/shieldly-io/cli) - AI-powered security analysis for Terraform-generated IAM policies and CloudFormation, explaining why a permission is risky and how to fix it. Free tier, CLI and GitHub Action.
+
+## [7. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
 *   [codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 
-## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Networking
 
 *   [netr (⭐1)](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -32,7 +80,7 @@
 
 *   [Will Be Done](https://will-be-done.app/) - Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). ([Demo](https://demo.will-be-done.app/), [Source Code (⭐97)](https://github.com/will-be-done/will-be-done)) `AGPL-3.0` `Docker/Nodejs`
 
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Cheat Sheets
 
@@ -42,47 +90,52 @@
 
 *   [kubectl-tmux-exec (⭐142)](https://github.com/predatorray/kubectl-tmux-exec) A kubectl plugin that uses tmux to control multiple Kubernetes pods' shells simultaneously, broadcasting commands to all selected containers at once.
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### AI / Agents
 
 *   [faf-cli (⭐30)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 
-## [6. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [12. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Finance & Blockchain / Payment APIs
 
 *   [brunovenceslau/ynab.go (⭐78)](https://github.com/brunovenceslau/ynab.go) — Client for YNAB API ☆`78`
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+### Web Development / Web Frameworks
+
+*   [uadmin/uadmin (⭐354)](https://github.com/uadmin/uadmin) — The web framework for Golang ☆`354`
+
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Internationalization
 
 *   [rails-i18n-manager (⭐225)](https://github.com/westonganger/rails_i18n_manager) - Web interface to manage i18n translations helping to facilitate the editors of your translations.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
+*   [MacTools (⭐649)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggbond268/MacTools) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Tactile](https://tactile.masn.studio/) - Adds subtle trackpad haptic taps over clickable elements, with optional visual cues for accessibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Mason363/Tactile) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
 *   [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/peetzweg/opendisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [15. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Platforms
 
 *   [IoT DC3 (⭐650)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
 
-## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [Unsloth](https://unsloth.ai/) - An open-source framework that enables the running and training of models on local hardware.
 
-## [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [17. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Racing
 
@@ -92,7 +145,7 @@
 
 *   [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
 
-## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [18. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Animation
 
@@ -106,13 +159,13 @@
 
 *   :money\_with\_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 
-## [13. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [19. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Alternative Clients
 
 *   [Claude Overlay (⭐31)](https://github.com/shengyanlin/claude-overlay) by [shengyanlin](https://github.com/shengyanlin) - A frameless, always-on-top floating chat window for Claude Code on Windows. It captures every monitor and lets Claude read the screen to answer questions in context, and drives the user's existing claude CLI login through the Agent SDK, with image paste, model switching, live streaming, and a context-usage statusline.\ <img src="https://img.shields.io/github/created-at/shengyanlin/claude-overlay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/shengyanlin/claude-overlay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/shengyanlin/claude-overlay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/shengyanlin/claude-overlay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [14. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [20. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
@@ -126,7 +179,7 @@
 
 *   [Awesome AI Testing (⭐29)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -137,6 +190,14 @@
 
 *   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
 
+### Project Layout
+
+*   [go-ddd (⭐575)](https://github.com/sklinkert/go-ddd) - Domain-Driven Design template with CQRS, value objects, idempotent commands, and a transactional outbox.
+
+### Security
+
+*   [Crenox (⭐4)](https://github.com/crenoxhq/crenox) - Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.
+
 ### Server Applications
 
 *   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
@@ -145,7 +206,7 @@
 
 *   [Andurel (⭐213)](https://github.com/mbvlabs/andurel) - Rails-inspired full-stack Go web framework with scaffolding, database tooling, and server-rendered or Inertia frontends.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Image processing
 
@@ -167,19 +228,19 @@
 
 *   [jolars/basin (⭐107)](https://github.com/jolars/basin) \[[basin](https://crates.io/crates/basin)] - Numerical optimization library with first-order, derivative-free, nonlinear least-squares, evolutionary, and constrained solvers, generic over linear-algebra backends [![CI](https://github.com/jolars/basin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jolars/basin/actions/workflows/ci.yml)
 
-## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [LLMGraph](https://llmgraph.ai) - Low/no-code visual builder for LLM workflows: build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy in one click to a REST API and chat widget.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Domain
 
 *   [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File Explorer / Markdown and LaTeX
 
@@ -193,7 +254,7 @@
 
 *   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
