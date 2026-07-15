@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [redpierrot/ballerina.nvim (⭐2)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
+
 ### File Explorer / Markdown and LaTeX
 
 *   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.

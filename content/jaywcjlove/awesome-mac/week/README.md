@@ -12,6 +12,10 @@
 
 *   [Agent Teams AI](https://agentteams.live/) - Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/777genius/agent-teams-ai) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Clipboard Tools
+
+*   [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history manager with search, tags, and image support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hukdoesn/Nimclip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / Menu Bar Tools
 
 *   [MacTools (⭐649)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggbond268/MacTools) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -59,7 +63,7 @@
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
-*   [Edmund (⭐77)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Edmund (⭐111)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Developer Tools / IDEs
 

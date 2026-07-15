@@ -8,9 +8,17 @@ A curated list of Rust code and resources.
 
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 
+### Applications / Web Servers
+
+*   [hyperlane-dev/hyperlane (⭐118)](https://github.com/hyperlane-dev/hyperlane) \[[hyperlane](https://crates.io/crates/hyperlane)] - A lightweight, high-performance, cross-platform Rust HTTP server library built on Tokio; built-in support for middleware, WebSocket, SSE, and raw TCP. [![CI](https://github.com/hyperlane-dev/hyperlane/actions/workflows/rust.yml/badge.svg)](https://github.com/hyperlane-dev/hyperlane/actions)
+
 ### Libraries / Artificial Intelligence
 
 *   [bigduu/Bamboo-agent (⭐12)](https://github.com/bigduu/Bamboo-agent) \[[bamboo-agent](https://crates.io/crates/bamboo-agent)] - Local-first AI agent harness & runtime — persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.
+
+### Libraries / GUI
+
+*   [euv-dev/euv (⭐7)](https://github.com/euv-dev/euv) \[[euv](https://crates.io/crates/euv)] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly. [![CI](https://github.com/euv-dev/euv/actions/workflows/rust.yml/badge.svg)](https://github.com/euv-dev/euv/actions)
 
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
@@ -1411,7 +1419,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [GoPlasmatic/datalogic-rs (⭐73)](https://github.com/GoPlasmatic/datalogic-rs) \[[datalogic-rs](https://crates.io/crates/datalogic-rs)] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.
+*   [GoPlasmatic/datalogic-rs (⭐73)](https://github.com/GoPlasmatic/datalogic-rs) \[[datalogic-rs](https://crates.io/crates/datalogic-rs)] - High-performance, type-safe JSONLogic evaluation engine for business rules and dynamic filtering, with official bindings for Node, WASM, Python, Go, Java, .NET and PHP [![CI](https://github.com/GoPlasmatic/datalogic-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GoPlasmatic/datalogic-rs/actions/workflows/ci.yml)
 *   [pathwaycom/pathway (⭐63k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 
 ### Libraries / Database

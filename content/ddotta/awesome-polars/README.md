@@ -6,6 +6,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 15, 2026](/content/2026/07/15/README.md)
+
+### Polars plugins / AI
+
+*   [polars-skills (⭐42)](https://github.com/polars-inc/skills) - Official AI agent skills by [@polars-inc](https://github.com/polars-inc).
+*   [polars-mcp (⭐12)](https://github.com/r-brink/polars-mcp) - A local MCP server for live API lookup against your installed Polars version by [@r-brink](https://github.com/r-brink).
+
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
 ### Polars plugins / Geographical / Spatial
@@ -204,7 +211,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Miscellaneous
 
-*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐170)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐173)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 

@@ -227,7 +227,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
-*   [Edmund (⭐77)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+*   [Edmund (⭐111)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [EME (⭐2.1k)](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 *   [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 *   [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
@@ -1192,6 +1192,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [SnippetCraft](https://getsnippetcraft.com) - System-wide text expansion, snippet management, and clipboard history for macOS.
 *   [Flycut (⭐2.7k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 *   [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
+*   [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history manager with search, tags, and image support. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [OneClip](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 *   [uPaste](https://okaapps.com/product/1503649026) - Clipboard history and snippets manager for organizing reusable copied content. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922\&ct=github)
 *   [Yippy (⭐391)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]

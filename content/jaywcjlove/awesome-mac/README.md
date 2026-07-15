@@ -12,6 +12,10 @@
 
 *   [Agent Teams AI](https://agentteams.live/) - Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/777genius/agent-teams-ai) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Clipboard Tools
+
+*   [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history manager with search, tags, and image support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hukdoesn/Nimclip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
 ### Utilities / Menu Bar Tools
@@ -113,7 +117,7 @@
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
-*   [Edmund (⭐77)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Edmund (⭐111)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 

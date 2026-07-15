@@ -6,6 +6,12 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Jul 15, 2026](/content/2026/07/15/README.md)
+
+### Creative Media
+
+*   [Vox director skill (⭐148)](https://github.com/Alisa0808/vox-director) by [Alisa Qian](https://github.com/Alisa0808) - Vox Director is an open-source skill that turns a one-line topic into a finished Vox-style paper-collage explainer or ad video. It automates the full pipeline — script, collage keyframes, motion, voice-over, music, and captions — on the Atlas Cloud API plus local ffmpeg, with two human approval gates for the beat map and visual style.\ <img src="https://img.shields.io/github/created-at/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
 ### Alternative Clients

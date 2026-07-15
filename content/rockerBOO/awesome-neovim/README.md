@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [redpierrot/ballerina.nvim (⭐2)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
+
 ### Editing Support / Scrollbar
 
 *   [ntk148v/yankdown.nvim (⭐11)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.

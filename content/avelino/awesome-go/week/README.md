@@ -12,6 +12,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [GoModel (⭐995)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 *   [jargo (⭐20)](https://github.com/gojargo/jargo) - Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.
+*   [semantic-search (⭐0)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
 
 ### Audio and Music
 
@@ -31,6 +32,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Server Applications
 
+*   [relay (⭐9)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
 *   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
 
 ### Web Frameworks

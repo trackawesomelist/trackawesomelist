@@ -8,9 +8,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 
+### Artificial Intelligence
+
+*   [semantic-search (⭐0)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
+
 ### Database Schema Migration
 
 *   [db-migrator.go (⭐19)](https://github.com/raoptimus/db-migrator.go) - CLI for versioned database schema migrations with support for PostgreSQL, MySQL, ClickHouse, Tarantool, and Apache Iceberg.
+
+### Server Applications
+
+*   [relay (⭐9)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
 
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 

@@ -188,6 +188,8 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 #### AI
 
 *   [polar\_llama (⭐28)](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
+*   [polars-skills (⭐42)](https://github.com/polars-inc/skills) - Official AI agent skills by [@polars-inc](https://github.com/polars-inc).
+*   [polars-mcp (⭐12)](https://github.com/r-brink/polars-mcp) - A local MCP server for live API lookup against your installed Polars version by [@r-brink](https://github.com/r-brink).
 
 #### Language
 
@@ -250,7 +252,7 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 
 *   [polars-finance (⭐61)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [polars\_encryption (⭐11)](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
-*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐170)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐173)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 *   [polars\_istr (⭐17)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
 *   [polars\_hash (⭐89)](https://github.com/ion-elgreco/polars-hash) - Python package that provides stable hashing functionality across different Polars versions by [@ion-elgreco](https://github.com/ion-elgreco).
 *   [polars\_ta (⭐255)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
