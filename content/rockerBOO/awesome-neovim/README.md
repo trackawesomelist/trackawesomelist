@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 15, 2026](/content/2026/07/15/README.md)
+
+### Editing Support / Scrollbar
+
+*   [ntk148v/yankdown.nvim (⭐11)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
+
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
 ### File Explorer / Markdown and LaTeX
@@ -1162,7 +1168,7 @@ Collections of awesome neovim plugins.
     *   [mikavilpas/blink-ripgrep.nvim (⭐117)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐23)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐7)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐12)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐47k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐12)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐48k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐83)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐16)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐38)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -5872,10 +5878,6 @@ Collections of awesome neovim plugins.
 *   [kdheepak/lazygit.nvim (⭐2.3k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [Jun 12, 2021](/content/2021/06/12/README.md)
-
-### Plugin Manager
-
-*   [NTBBloodbath/cheovim (⭐349)](https://github.com/NTBBloodbath/cheovim) - A configuration switcher written in Lua. Inspired by [chemacs (⭐657)](https://github.com/plexus/chemacs).
 
 ### Colorscheme / Markdown and LaTeX
 

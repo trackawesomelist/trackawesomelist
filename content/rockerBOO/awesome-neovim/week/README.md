@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
+### Editing Support / Scrollbar
+
+*   [ntk148v/yankdown.nvim (⭐11)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
+
 ### Editing Support / Comment
 
 *   [celeste3z/celeste\_comment.nvim (⭐1)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
@@ -958,7 +962,7 @@ Collections of awesome neovim plugins.
     *   [mikavilpas/blink-ripgrep.nvim (⭐117)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐23)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐7)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐12)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐47k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐12)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐48k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐83)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐16)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐38)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -4937,10 +4941,6 @@ Collections of awesome neovim plugins.
 *   [matbme/JABS.nvim (⭐283)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
-
-### Plugin Manager
-
-*   [NTBBloodbath/cheovim (⭐349)](https://github.com/NTBBloodbath/cheovim) - A configuration switcher written in Lua. Inspired by [chemacs (⭐657)](https://github.com/plexus/chemacs).
 
 ### Programming Languages Support / Markdown and LaTeX
 
