@@ -42,6 +42,7 @@ A curated list of the best resources in the Nix community.
     *   [Arduino](#arduino)
     *   [Clojure](#clojure)
     *   [Crystal](#crystal)
+    *   [Elixir](#elixir)
     *   [Elm](#elm)
     *   [Gleam](#gleam)
     *   [Haskell](#haskell)
@@ -161,14 +162,14 @@ A curated list of the best resources in the Nix community.
 *   [nix-du (⭐482)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 *   [nix-index (⭐1.3k)](https://github.com/nix-community/nix-index) - Quickly locate Nix packages with specific files.
 *   [nix-init (⭐1.4k)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
-*   [nix-melt (⭐307)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐308)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 *   [nix-output-monitor (⭐1.6k)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 *   [nix-prefetch (⭐149)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐1k)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 *   [nixfmt (⭐1.5k)](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 *   [nixos-cli (⭐388)](https://github.com/nix-community/nixos-cli) - Configurable all-in-one CLI for common NixOS tools with an emphasis on improved user experience.
 *   [nixpkgs-hammering (⭐333)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
-*   [nurl (⭐752)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐761)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 *   [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 *   [optnix](https://git.sr.ht/~watersucks/optnix) - A terminal-based options searcher for Nix module systems.
 *   [statix (⭐927)](https://github.com/oppiliappan/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
@@ -234,6 +235,10 @@ A curated list of the best resources in the Nix community.
 ### Crystal
 
 *   [crystal2nix (⭐19)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+
+### Elixir
+
+*   [deps\_nix (⭐56)](https://github.com/code-supply/deps_nix) - Converts Mix dependencies to Nix derivations.
 
 ### Elm
 
@@ -314,12 +319,12 @@ A curated list of the best resources in the Nix community.
 
 ### Zig
 
-*   [zig2nix (⭐180)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
-*   [zon2nix (⭐118)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zig2nix (⭐183)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
+*   [zon2nix (⭐119)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
 
-*   [base16.nix (⭐283)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐938)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐283)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐947)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 *   [Home Manager (⭐10k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 *   [impermanence (⭐1.8k)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 *   [musnix (⭐929)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
@@ -331,7 +336,7 @@ A curated list of the best resources in the Nix community.
 *   [NixOS-WSL (⭐3k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 *   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
 *   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
-*   [Self Host Blocks (⭐463)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+*   [Self Host Blocks (⭐470)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 *   [Stylix (⭐2.3k)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
 
@@ -354,7 +359,7 @@ A curated list of the best resources in the Nix community.
 *   [nixpkgs-wayland (⭐618)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 *   [NUR (⭐1.9k)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 *   [System Manager (⭐1.6k)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
-*   [zig-overlay (⭐521)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
+*   [zig-overlay (⭐528)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
 ## Distributions
 

@@ -23,6 +23,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Operating system
 
+*   [rgc (⭐0)](https://github.com/tailsmails/rgc) - A lightweight, concurrent resource garbage collector for V.
 *   [vcomp (⭐0)](https://github.com/tailsmails/vcomp) - A lightweight Linux Seccomp (Secure Computing Mode) BPF filter wrapper for vlang.
 
 ### Scientific computing
@@ -811,9 +812,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Graphics
 
 *   [V Earcut (⭐15)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐2.6k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
-*   [V\_sokol\_gp (⭐4)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 *   [viup (⭐46)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 *   [vsdl (⭐13)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
+*   [V\_sokol\_gp (⭐4)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 *   [vsdl2 (⭐48)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 
 ### IRC

@@ -274,6 +274,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Splat Labs](https://www.splatlabs.ai/) - Capture, host and share immersive Gaussian splat digital twins.
 *   [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
 *   [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
+*   [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
 *   [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 *   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 *   [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.

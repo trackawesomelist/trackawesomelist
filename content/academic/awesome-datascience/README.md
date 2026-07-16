@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jul 16, 2026](/content/2026/07/16/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [College ROI Dataset (⭐0)](https://github.com/thomasthinks/college-roi-data) - Lifetime return-on-investment estimates for 29,700 US bachelor's programs across 3,392 colleges, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.
+
 ## [Jul 12, 2026](/content/2026/07/12/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -54,13 +60,13 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [torchvista (⭐751)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
+*   [torchvista (⭐757)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
 
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐1)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
+*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐2)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
 
 ## [May 31, 2026](/content/2026/05/31/README.md)
 
@@ -78,7 +84,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [II-Commons (⭐11)](https://github.com/Intelligent-Internet/II-Commons-Skills) - Daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
+*   [II-Commons (⭐14)](https://github.com/Intelligent-Internet/II-Commons-Skills) - Daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
 
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
@@ -96,7 +102,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [ML/AI Interview Prep (⭐1)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
+*   [ML/AI Interview Prep (⭐2)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 
 ## [May 17, 2026](/content/2026/05/17/README.md)
 
@@ -118,7 +124,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [Chunk Tuner (⭐1)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
+*   [Chunk Tuner (⭐2)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
 
 ### Free Courses
 
@@ -128,7 +134,7 @@
 
 ### Tools
 
-*   [CAJAL (⭐17)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
+*   [CAJAL (⭐19)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
@@ -140,7 +146,7 @@
 
 ### Tools
 
-*   [DeepAlpha (⭐29)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
+*   [DeepAlpha (⭐36)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
 
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
@@ -158,7 +164,7 @@
 
 ### Tools
 
-*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐7)](https://github.com/unitedideas/nothumansearch)
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐9)](https://github.com/unitedideas/nothumansearch)
 
 ### Books / Visualization Tools
 
@@ -221,7 +227,7 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [latamdata-py (⭐1)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+*   [latamdata-py (⭐2)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -233,7 +239,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Evidence Synthesis (⭐13)](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
+*   [Awesome Evidence Synthesis (⭐17)](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
@@ -385,7 +391,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Data Analysis (⭐1.5k)](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
+*   [Awesome Data Analysis (⭐1.7k)](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
 
 ## [Oct 16, 2025](/content/2025/10/16/README.md)
 
@@ -455,7 +461,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐698)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐702)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -666,7 +672,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐59k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐60k)](https://github.com/ultralytics/ultralytics)
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
@@ -781,7 +787,7 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐559)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [MLSys-NYU-2022 (⭐558)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 *   [Hands-on Train and Deploy ML (⭐887)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
@@ -1556,19 +1562,19 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐953)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐955)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐491)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐707)](https://github.com/larsmans/seqlearn)
+*   [seqlearn (⭐706)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐524)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐437)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-crfsuite (⭐439)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐774)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.6k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐384)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
+*   [scikit-posthocs (⭐385)](https://github.com/maximtrp/scikit-posthocs)
+*   [pystruct (⭐668)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.9k)](https://github.com/uber/causalml)
@@ -1582,7 +1588,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐101k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐102k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
@@ -1600,8 +1606,8 @@
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐736)](https://github.com/itdxer/neupy)
-*   [tfdeploy (⭐354)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐702)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tfdeploy (⭐353)](https://github.com/riga/tfdeploy)
+*   [tensorflow-upstream (⭐703)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1616,7 +1622,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐487)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐583)](https://github.com/google/qkeras)
+*   [qkeras (⭐584)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -1695,7 +1701,7 @@
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 *   [Open Data Sources (⭐518)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐348)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐349)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -1719,7 +1725,7 @@
 *   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.5k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.8k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐1.1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 *   [Awesome Computer Vision Models (⭐543)](https://github.com/nerox8664/awesome-computer-vision-models)
 *   [Awesome Monte Carlo Tree Search (⭐713)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)

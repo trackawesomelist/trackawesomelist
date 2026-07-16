@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### Programming Languages / Elixir
+
+*   [deps\_nix (⭐56)](https://github.com/code-supply/deps_nix) - Converts Mix dependencies to Nix derivations.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### NixOS Modules / Zig
@@ -51,11 +57,11 @@
 
 ### Programming Languages / Zig
 
-*   [zig2nix (⭐180)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
+*   [zig2nix (⭐183)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 
 ### Overlays / Webinterface
 
-*   [zig-overlay (⭐521)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
+*   [zig-overlay (⭐528)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -222,7 +228,7 @@
 ### NixOS Modules / Zig
 
 *   [nix-mineral (⭐531)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
-*   [Self Host Blocks (⭐463)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+*   [Self Host Blocks (⭐470)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
@@ -334,7 +340,7 @@
 
 ### Programming Languages / Zig
 
-*   [zon2nix (⭐118)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zon2nix (⭐119)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -354,7 +360,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐307)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐308)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -427,7 +433,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nurl (⭐752)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐761)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
 ### Development / Discovery
 
@@ -552,7 +558,7 @@
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐283)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐938)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐283)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐947)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 

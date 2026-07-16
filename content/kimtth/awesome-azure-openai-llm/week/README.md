@@ -2,9 +2,17 @@
 
 A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kimtth/awesome-azure-openai-llm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) · ⭐ 402 · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kimtth/awesome-azure-openai-llm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kimtth/awesome-azure-openai-llm](https://github.com/kimtth/azure-openai-llm-wiki) · ⭐ 403 · 🏷️ LLM
 
 [ [Daily](/content/kimtth/awesome-azure-openai-llm/README.md) / Weekly / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
+
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### 4\. Datasets, Evaluation, and Extras
+
+*   **Extras**
+    *   [LLM for Robotics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#llm-for-robotics)
+    *   [Awesome Demo](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#awesome-demo)
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -24,6 +32,7 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Domain-Specific and Specialized LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#domain-specific-and-specialized-llms)
 *   **Training & Optimization**
     *   [Large Language Model Training and Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-training-and-optimization)
+    *   [Pre-training and Data Preparation](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#pre-training-and-data-preparation)
     *   [Architecture and Inference Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#architecture-and-inference-patterns)
     *   [Post-training and Fine-Tuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#post-training-and-fine-tuning)
 *   **Impact & Products**
@@ -96,7 +105,7 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Cache](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#cache)
     *   [Data & Analytics Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#data--analytics-agents)
     *   [Data Processing & OCR](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#data-processing--ocr)
-    *   [Desktop AI assistant](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#desktop-ai-assistant)
+    *   [Desktop AI Assistant](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#desktop-ai-assistant)
     *   [Memory](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#memory)
     *   [Model Gateway](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-gateway)
     *   [Model Serving & Local Runtimes](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-serving--local-runtimes)
@@ -119,17 +128,13 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
 *   **Prompting**
     *   [Prompt Engineering and Visual Prompts](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#prompt-engineering-and-visual-prompts)
 
-### 4\. Tools, Datasets, and Evaluation
+### 4\. Datasets, Evaluation, and Extras
 
-*   **Tools**
-    *   [General AI Tools and Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#general-ai-tools-and-extensions)
-    *   [LLM for Robotics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#llm-for-robotics)
-    *   [Awesome Demo](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#awesome-demo)
 *   **Data**
     *   [Datasets for LLM Training](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#datasets-for-llm-training)
 *   **Evaluation**
     *   [Evaluating Large Language Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#evaluating-large-language-models)
-    *   [LLM Evalution Benchmarks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#llm-evalution-benchmarks)
+    *   [LLM Evaluation Benchmarks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#llm-evaluation-benchmarks)
     *   [LLMOps: Large Language Model Operations](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/tools_extra.md#llmops-large-language-model-operations)
 
 ### 5\. Best Practices
