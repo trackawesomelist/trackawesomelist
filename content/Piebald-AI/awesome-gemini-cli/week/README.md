@@ -12,11 +12,15 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [PickySteve (⭐9)](https://github.com/KernelLord/pickysteve) - Skill router and context picker for coding agents: a local model (via Ollama, offline by default) routes each prompt to the right skill via hybrid BM25 + embedding retrieval, cross-encoder rerank, and an LLM judge, then assembles a minimal context bundle for the execution model. Built-in prompt-injection gate scans every retrieved document, fail-closed. Ships an MCP stdio server and an OpenAI-compatible proxy; one-command installer wires 18 coding agents including Gemini CLI. MIT.
 
+### Documentation & Examples
+
+*   [Antigravity CLI Tips (⭐4)](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Commands & Extensions
 
-*   [llm-box (⭐2)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
+*   [llm-box (⭐7)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
 
 ### Development Tools & Utilities
 

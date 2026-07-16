@@ -36,6 +36,10 @@ A curated list of Rust code and resources.
 
 *   [jolars/basin (⭐107)](https://github.com/jolars/basin) \[[basin](https://crates.io/crates/basin)] - Numerical optimization library with first-order, derivative-free, nonlinear least-squares, evolutionary, and constrained solvers, generic over linear-algebra backends [![CI](https://github.com/jolars/basin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jolars/basin/actions/workflows/ci.yml)
 
+### Libraries / Data structures
+
+*   [jeromefroe/lru-rs (⭐823)](https://github.com/jeromefroe/lru-rs) \[[lru](https://crates.io/crates/lru)] - An implementation of an LRU cache with O(1) `put`, `get`, `get_mut`, and `pop` operations. [![crates.io](https://img.shields.io/crates/v/lru.svg)](https://crates.io/crates/lru)
+
 ### Libraries / GUI
 
 *   [euv-dev/euv (⭐7)](https://github.com/euv-dev/euv) \[[euv](https://crates.io/crates/euv)] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly. [![CI](https://github.com/euv-dev/euv/actions/workflows/rust.yml/badge.svg)](https://github.com/euv-dev/euv/actions)
@@ -83,7 +87,7 @@ A curated list of Rust code and resources.
 
 *   [Goldziher/scythe (⭐51)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   [NoKV-Lab/NoKV (⭐446)](https://github.com/NoKV-Lab/NoKV) - AI-native distributed filesystem. [![Rust](https://github.com/NoKV-Lab/NoKV/workflows/Rust/badge.svg)](https://github.com/NoKV-Lab/NoKV/actions/workflows/rust.yml)
-*   [VelesDB (⭐72)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
+*   [VelesDB (⭐75)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
 
 ### Applications / Productivity
 
@@ -384,7 +388,7 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [Muvon/octocode (⭐427)](https://github.com/Muvon/octocode) \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml)
-*   [yvgude/lean-ctx (⭐3k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
+*   [yvgude/lean-ctx (⭐3.3k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
 
 ### Libraries / Artificial Intelligence
 

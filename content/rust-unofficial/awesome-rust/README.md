@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 16, 2026](/content/2026/07/16/README.md)
+
+### Libraries / Data structures
+
+*   [jeromefroe/lru-rs (⭐823)](https://github.com/jeromefroe/lru-rs) \[[lru](https://crates.io/crates/lru)] - An implementation of an LRU cache with O(1) `put`, `get`, `get_mut`, and `pop` operations. [![crates.io](https://img.shields.io/crates/v/lru.svg)](https://crates.io/crates/lru)
+
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 
 ### Applications / Web Servers
@@ -124,7 +130,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [VelesDB (⭐72)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
+*   [VelesDB (⭐75)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
 
 ### Applications / Productivity
 
@@ -487,7 +493,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [yvgude/lean-ctx (⭐3k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
+*   [yvgude/lean-ctx (⭐3.3k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
 
 ### Libraries / Caching
 

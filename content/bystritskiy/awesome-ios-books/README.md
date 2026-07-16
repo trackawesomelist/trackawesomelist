@@ -2,9 +2,45 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 685 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 692 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Jul 16, 2026](/content/2026/07/16/README.md)
+
+### iOS
+
+*   [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
+
+### Swift
+
+*   [*Swift Style, Second Edition* by Erica Sadun](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
+
+### UI
+
+*   [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
+
+### SwiftUI
+
+*   [*Integrating SwiftUI into UIKit Apps* by Natalia Panferova](https://books.nilcoalescing.com/integrating-swiftui)
+*   [*A SwiftUI Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
+
+### ARKit
+
+*   [*Computer Vision and Augmented Reality in iOS* by Ahmed Fathi Bekhit](https://link.springer.com/book/10.1007/978-1-4842-7462-0)
+
+### Game Development
+
+*   [*Beginning iOS Game Center and GameKit* by Kyle Richter, Beau G. Bolle](https://link.springer.com/book/10.1007/978-1-4842-7756-0)
+
+### Testing
+
+*   [*Modularizing Legacy Projects Using TDD* by Khaled El-Morabea, Hassaan El-Garem](https://link.springer.com/book/10.1007/978-1-4842-7428-6)
+
+### macOS
+
+*   [*macOS Daemonology* by Volodymyr Vashurkin](https://link.springer.com/book/10.1007/978-1-4842-7277-0)
+*   [*Interprocess Communication with macOS* by Hem Dutt](https://link.springer.com/book/10.1007/978-1-4842-7045-5)
 
 ## [Jul 11, 2026](/content/2026/07/11/README.md)
 
