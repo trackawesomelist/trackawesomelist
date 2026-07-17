@@ -8,6 +8,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
+### Fundamentals / Utility
+
+*   [bare-devcontainer/templates (⭐0)](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/zig).
+
 ### Network & Web / Network
 
 *   [zig-nostr/nostr (⭐4)](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.

@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
+### Command-line
+
+*   [vin32 (⭐0)](https://github.com/tailsmails/vin32) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
+
 ### Utility
 
 *   [vop (⭐0)](https://github.com/tailsmails/vop) - A message-passing object protocol providing dynamic property management and closure-based state encapsulation.

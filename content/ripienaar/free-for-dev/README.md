@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
 
+### Docker Related
+
+*   [Appish](https://appi.sh/) - Host Docker containers for demos with just a docker push. Free tier includes 1 slot with 2-hour sessions.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Generative AI

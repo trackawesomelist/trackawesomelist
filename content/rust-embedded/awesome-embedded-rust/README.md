@@ -6,6 +6,20 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Jul 17, 2026](/content/2026/07/17/README.md)
+
+### Tools / Paid and commercially available materials
+
+*   [scope (⭐37)](https://github.com/matheuswhite/scope-rs) Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
+
+### no-std crates / WIP
+
+*   [🤖 krypteia](https://codeberg.org/cslashm/krypteia): Pure-Rust `no_std` post-quantum (ML-KEM/ML-DSA/SLH-DSA) and classical cryptography, side-channel hardened, zero-dependency. [![crates.io](https://img.shields.io/crates/v/krypteia-quantica.svg)](https://crates.io/crates/krypteia-quantica)
+
+### Firmware projects / WIP
+
+*   [🤖 RS-Key (⭐89)](https://github.com/TheMaxMur/RS-Key): no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+
 ## [Jul 05, 2026](/content/2026/07/05/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
@@ -24,7 +38,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [embassy (⭐9.4k)](https://github.com/embassy-rs/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐9.5k)](https://github.com/embassy-rs/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 *   [embedded-3dgfx](https://crates.io/crates/embedded-3dgfx): 3D engine based on `embedded-graphics` with optional physics effects. [![crates.io](https://img.shields.io/crates/v/embedded-3dgfx.svg)](https://crates.io/crates/embedded-3dgfx)
 *   [embedded-gui](https://crates.io/crates/embedded-gui): GUI library taking inspiration from the Pebble smartwatches and LVGL. [![crates.io](https://img.shields.io/crates/v/embedded-gui.svg)](https://crates.io/crates/embedded-gui)
 
@@ -300,7 +314,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [wtx (⭐362)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐373)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [Aug 04, 2024](/content/2024/08/04/README.md)
 
@@ -921,7 +935,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.5k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 

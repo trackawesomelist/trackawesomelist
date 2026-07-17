@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
+### Command-line
+
+*   [vin32 (⭐0)](https://github.com/tailsmails/vin32) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
+
 ### Eventing
 
 *   [rxv (⭐16)](https://github.com/ulises-jeremias/rxv) - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.

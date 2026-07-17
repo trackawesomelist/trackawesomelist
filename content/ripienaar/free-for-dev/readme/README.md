@@ -79,7 +79,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Visitor Session Recording](#visitor-session-recording)
 *   [Web Hosting](#web-hosting)
 *   [Commenting Platforms](#commenting-platforms)
-*   [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
 *   [Remote Desktop Tools](#remote-desktop-tools)
 *   [Other Free Resources](#other-free-resources)
 
@@ -1558,6 +1557,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Docker Related
 
+*   [Appish](https://appi.sh/) - Host Docker containers for demos with just a docker push. Free tier includes 1 slot with 2-hour sessions.
 *   [Container Registry Service](https://container-registry.com/) - Harbor based Container Management Solution. The free tier offers 1 GB of storage for private repositories.
 *   [Docker Hub](https://hub.docker.com) - One free private repository and unlimited public repositories to build and store Docker images
 *   [quay.io](https://quay.io/) - Build and store container images with unlimited free public repositories

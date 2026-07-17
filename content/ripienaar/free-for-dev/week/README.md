@@ -24,6 +24,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [HeyRetro](https://heyretro.io/) - Real-time sprint retrospective platform with voting, timers, surveys, guest collaboration, and ice-breaker games. The forever-free plan includes one board per month, anonymous surveys, and guest link sharing.
 
+### Docker Related
+
+*   [Appish](https://appi.sh/) - Host Docker containers for demos with just a docker push. Free tier includes 1 slot with 2-hour sessions.
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### APIs, Data, and ML
