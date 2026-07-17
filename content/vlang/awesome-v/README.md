@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jul 17, 2026](/content/2026/07/17/README.md)
+
+### Utility
+
+*   [vop (⭐0)](https://github.com/tailsmails/vop) - A message-passing object protocol providing dynamic property management and closure-based state encapsulation.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Operating system

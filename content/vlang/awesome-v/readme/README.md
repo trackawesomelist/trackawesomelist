@@ -416,6 +416,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vdotenv (⭐44)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 *   [vhs (⭐4)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 *   [VInstall (⭐45)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+*   [vop (⭐0)](https://github.com/tailsmails/vop) - A message-passing object protocol providing dynamic property management and closure-based state encapsulation.
 *   [votp (⭐19)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ### Web

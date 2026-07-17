@@ -45,7 +45,7 @@ Or inside [Claude Code](https://claude.com/claude-code), use the plugin marketpl
 /plugin install awesome-web-security
 ```
 
-For [Codex (⭐95k)](https://github.com/openai/codex), swap `-a claude-code` → `-a codex`.
+For [Codex (⭐99k)](https://github.com/openai/codex), swap `-a claude-code` → `-a codex`.
 
 Then ask any web-security question and the skill activates on topics like XSS, SQLi, SSRF, JWT, OAuth, recon, WAF evasion, deserialization, SAML, CTF write-ups, and more. See [`skills/awesome-web-security/SKILL.md`](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/skills/awesome-web-security/SKILL.md) for the full trigger list.
 
@@ -776,6 +776,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [grayhatwarfare](https://buckets.grayhatwarfare.com/) - Public buckets by [grayhatwarfare](http://www.grayhatwarfare.com/).
 *   [TIDoS-Framework (⭐1.9k)](https://github.com/theInfectedDrake/TIDoS-Framework) - A comprehensive web application audit framework to cover up everything from Reconnaissance and OSINT to Vulnerability Analysis by [@\_tID](https://github.com/theInfectedDrake).
 *   [numasec (⭐417)](https://github.com/FrancescoStabile/numasec) - AI-driven penetration-testing platform that coordinates 10 agents and 38 vulnerability scanners covering OWASP Top 10, by [@FrancescoStabile](https://github.com/FrancescoStabile).
+*   [ARS3NAL (⭐159)](https://github.com/inflictx/Arsenal) - Offline-first, self-hosted pentest & bug-bounty arsenal - searchable payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vulnerability checklists, with a live static demo - by [@inflictx](https://github.com/inflictx).
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
 
 <a name="tools-offensive"></a>
@@ -843,7 +844,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 *   [bXSS (⭐576)](https://github.com/LewisArdern/bXSS) - bXSS is a simple Blind XSS application adapted from [cure53.de/m](https://cure53.de/m) by [@LewisArdern](https://github.com/LewisArdern).
 *   [malware-jail (⭐476)](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
-*   [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
+*   [repo-supervisor (⭐654)](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
 *   [retire.js (⭐4.2k)](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS).
 *   [sqlchop](https://sqlchop.chaitin.cn/) - SQL injection detection engine by [chaitin](http://chaitin.com).
 *   [xsschop](https://xsschop.chaitin.cn/) - XSS detection engine by [chaitin](http://chaitin.com).
@@ -881,9 +882,9 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [reverse-shell (⭐2k)](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service by [@lukechilds](https://github.com/lukechilds).
 *   [Reverse-Shell-Manager (⭐244)](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 *   [webshell (⭐11k)](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
-*   [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
+*   [Webshell-Sniper (⭐423)](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 *   [Weevely (⭐3.5k)](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
-*   [nano](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
+*   [nano (⭐449)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 *   [PhpSploit (⭐2.5k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by [@nil0x42](https://github.com/nil0x42).
 
 <a name="tools-disassembler"></a>

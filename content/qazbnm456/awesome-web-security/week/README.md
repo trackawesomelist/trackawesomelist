@@ -6,6 +6,12 @@
 
 [ [Daily](/content/qazbnm456/awesome-web-security/README.md) / Weekly / [Overview](/content/qazbnm456/awesome-web-security/readme/README.md) ]
 
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### Penetration Testing / Sub Domain Enumeration
+
+*   [ARS3NAL (⭐159)](https://github.com/inflictx/Arsenal) - Offline-first, self-hosted pentest & bug-bounty arsenal - searchable payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vulnerability checklists, with a live static demo - by [@inflictx](https://github.com/inflictx).
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
@@ -628,7 +634,7 @@
 
 ### Webshell / Server-Side Request Forgery
 
-*   [nano](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
+*   [nano (⭐449)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
 ## [Oct 08 - Oct 14, 2018](/content/2018/41/README.md)
 
@@ -1117,7 +1123,7 @@
 
 *   [bXSS (⭐576)](https://github.com/LewisArdern/bXSS) - bXSS is a simple Blind XSS application adapted from [cure53.de/m](https://cure53.de/m) by [@LewisArdern](https://github.com/LewisArdern).
 *   [malware-jail (⭐476)](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
-*   [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
+*   [repo-supervisor (⭐654)](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
 *   [retire.js (⭐4.2k)](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS).
 *   [sqlchop](https://sqlchop.chaitin.cn/) - SQL injection detection engine by [chaitin](http://chaitin.com).
 *   [xsschop](https://xsschop.chaitin.cn/) - XSS detection engine by [chaitin](http://chaitin.com).
@@ -1136,7 +1142,7 @@
 *   [reverse-shell (⭐2k)](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service by [@lukechilds](https://github.com/lukechilds).
 *   [Reverse-Shell-Manager (⭐244)](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 *   [webshell (⭐11k)](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
-*   [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
+*   [Webshell-Sniper (⭐423)](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 *   [Weevely (⭐3.5k)](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 
 ### Disassembler / Server-Side Request Forgery

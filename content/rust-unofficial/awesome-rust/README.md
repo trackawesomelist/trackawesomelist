@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 17, 2026](/content/2026/07/17/README.md)
+
+### Applications
+
+*   [Tura-AI/tura (⭐94)](https://github.com/Tura-AI/tura) - A local coding agent for terminal, desktop GUI, and command-line workflows, with persistent task state and evidence-backed verification. [![CI](https://github.com/Tura-AI/tura/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Tura-AI/tura/actions/workflows/ci.yml)
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Libraries / Data structures
@@ -107,7 +113,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Goldziher/scythe (⭐51)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [Goldziher/scythe (⭐56)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 
 ### Applications / Text processing
 
@@ -115,7 +121,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [xberg-io/liter-llm (⭐221)](https://github.com/xberg-io/liter-llm) \[[liter-llm](https://crates.io/crates/liter-llm)] - Universal LLM API client for 142+ providers with a unified interface, streaming, and native bindings for 11 languages.
+*   [xberg-io/liter-llm (⭐232)](https://github.com/xberg-io/liter-llm) \[[liter-llm](https://crates.io/crates/liter-llm)] - Universal LLM API client for 142+ providers with a unified interface, streaming, and native bindings for 11 languages.
 
 ### Libraries / Parsing
 
@@ -123,7 +129,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Text processing
 
-*   [xberg-io/html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
+*   [xberg-io/html-to-markdown (⭐808)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
 *   [xberg-io/xberg (⭐8.6k)](https://github.com/xberg-io/xberg) \[[xberg](https://crates.io/crates/xberg)] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.
 
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
@@ -296,7 +302,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Parsing
 
-*   [run-llama/liteparse (⭐11k)](https://github.com/run-llama/liteparse) \[[liteparse](https://crates.io/crates/liteparse)] - Fast and light PDF parsing library with spatial text extraction, bounding boxes, flexible OCR (Tesseract/HTTP servers), and multi-language bindings (Rust, Node.js, Python, WASM). Built on PDFium with CLI tool `lit`. [![CI](https://github.com/run-llama/liteparse/actions/workflows/ci.yml/badge.svg)](https://github.com/run-llama/liteparse/actions/workflows/ci.yml)
+*   [run-llama/liteparse (⭐12k)](https://github.com/run-llama/liteparse) \[[liteparse](https://crates.io/crates/liteparse)] - Fast and light PDF parsing library with spatial text extraction, bounding boxes, flexible OCR (Tesseract/HTTP servers), and multi-language bindings (Rust, Node.js, Python, WASM). Built on PDFium with CLI tool `lit`. [![CI](https://github.com/run-llama/liteparse/actions/workflows/ci.yml/badge.svg)](https://github.com/run-llama/liteparse/actions/workflows/ci.yml)
 
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
@@ -394,11 +400,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [splashboard (⭐199)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
+*   [splashboard (⭐201)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
 
 ### Development tools / Workflow Automation
 
-*   [reflex-search/reflex (⭐63)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
+*   [reflex-search/reflex (⭐67)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
 
 ### Development tools / FFI
 
@@ -415,7 +421,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Geospatial
 
-*   [georust/geojson (⭐340)](https://github.com/georust/geojson) \[[geojson](https://crates.io/crates/geojson)] - Library for serializing and deserializing the GeoJSON vector GIS file format.
+*   [georust/geojson (⭐341)](https://github.com/georust/geojson) \[[geojson](https://crates.io/crates/geojson)] - Library for serializing and deserializing the GeoJSON vector GIS file format.
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
@@ -511,7 +517,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Asynchronous
 
-*   [nextest-rs/future-queue (⭐70)](https://github.com/nextest-rs/future-queue) \[[future-queue](https://crates.io/crates/future-queue)] - Stream adaptors for running futures concurrently with weighted concurrency limits and optional per-group limits.
+*   [nextest-rs/future-queue (⭐72)](https://github.com/nextest-rs/future-queue) \[[future-queue](https://crates.io/crates/future-queue)] - Stream adaptors for running futures concurrently with weighted concurrency limits and optional per-group limits.
 
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
@@ -607,7 +613,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [s00d/switchshuttle (⭐124)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
+*   [s00d/switchshuttle (⭐125)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
 
 ### Applications / System tools
 
@@ -810,13 +816,13 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [armgabrielyan/deadbranch (⭐223)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
+*   [armgabrielyan/deadbranch (⭐225)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 
 ## [Mar 14, 2026](/content/2026/03/14/README.md)
 
 ### Applications / System tools
 
-*   [anylinuxfs-gui (⭐145)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
+*   [anylinuxfs-gui (⭐154)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 
 ### Libraries / Artificial Intelligence
 
@@ -1052,7 +1058,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [openai/codex (⭐95k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐99k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
@@ -2932,7 +2938,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [mrjackwills/oxker (⭐1.7k)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
+*   [mrjackwills/oxker (⭐1.8k)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
 
 ## [Aug 11, 2023](/content/2023/08/11/README.md)
 
@@ -4560,7 +4566,7 @@ A curated list of Rust code and resources.
 *   Miscellaneous
     *   [cargonauts (⭐180)](https://github.com/cargonauts-rs/cargonauts) - A web framework intended for building maintainable, well-factored web apps.
     *   [edezhic/prest (⭐66)](https://github.com/edezhic/prest) \[[prest](https://crates.io/crates/prest)] - Progressive RESTful framework aimed to simplify fullstack development
-    *   [Goldziher/spikard (⭐104)](https://github.com/Goldziher/spikard) \[[spikard](https://crates.io/crates/spikard)] - Multi-language web toolkit with a Rust core and bindings for Python, TypeScript, Ruby, and PHP.
+    *   [Goldziher/spikard (⭐111)](https://github.com/Goldziher/spikard) \[[spikard](https://crates.io/crates/spikard)] - Multi-language web toolkit with a Rust core and bindings for Python, TypeScript, Ruby, and PHP.
     *   [hominee/dyer (⭐126)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [osohq/oso (⭐3.5k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
     *   [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) \[[soup](https://crates.io/crates/soup)] - A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
@@ -4576,7 +4582,7 @@ A curated list of Rust code and resources.
     *   [utkarshkukreti/select.rs (⭐1k)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
     *   [Utoipa (⭐4k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
     *   [Utoipauto (⭐195)](https://github.com/ProbablyClem/utoipauto) - Rust Macros to automate the addition of Paths/Schemas to Utoipa [![crates.io](https://img.shields.io/crates/v/utoipauto.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipauto)
-    *   [xberg-io/crawlberg (⭐118)](https://github.com/xberg-io/crawlberg) \[[crawlberg](https://crates.io/crates/crawlberg)] - High-performance web crawling and scraping engine with HTML-to-Markdown conversion, headless-Chrome fallback, and bindings for 11 languages.
+    *   [xberg-io/crawlberg (⭐140)](https://github.com/xberg-io/crawlberg) \[[crawlberg](https://crates.io/crates/crawlberg)] - High-performance web crawling and scraping engine with HTML-to-Markdown conversion, headless-Chrome fallback, and bindings for 11 languages.
 
 ### Resources / Web programming
 

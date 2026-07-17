@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Jul 17, 2026](/content/2026/07/17/README.md)
+
+### Business logic
+
+*   [Stoplight (⭐620)](https://github.com/bolshakov/stoplight) - A circuit breaker implementation for Ruby that prevents cascading failures when external dependencies (databases, APIs, third-party services) start failing.
+
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
 ### Internationalization
@@ -21,10 +27,10 @@
 ### AI and LLMs
 
 *   [anthropic-sdk-ruby (⭐353)](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
-*   [openai-ruby (⭐438)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
+*   [openai-ruby (⭐440)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
 *   [RubyLLM (⭐4.2k)](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
 *   Model Context Protocol (MCP)
-    *   [ruby-sdk (⭐856)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
+    *   [ruby-sdk (⭐862)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
     *   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for better agentic Rails development, runtime-level tools for your agent to talk to your running app.
 
 ### API Builder and Discovery
@@ -46,7 +52,7 @@
 ### Automation
 
 *   [Huginn (⭐50k)](https://github.com/huginn/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
-*   [Neovim (⭐366)](https://github.com/neovim/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐367)](https://github.com/neovim/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Breadcrumbs
 
@@ -83,14 +89,14 @@
 ### Code Formatting
 
 *   [RuboCop (⭐13k)](https://github.com/rubocop/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐875)](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rails (⭐876)](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
     *   [Rubocop Rspec (⭐856)](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
     *   [Rubocop Performance (⭐739)](https://github.com/rubocop/rubocop-performance) - A RuboCop extension focused on code performance checks.
 *   [Standard (⭐2.9k)](https://github.com/standardrb/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ### Code Highlighting
 
-*   [pygments.rb (⭐579)](https://github.com/pygments/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [pygments.rb (⭐580)](https://github.com/pygments/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.4k)](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Coding Style Guides
@@ -179,7 +185,7 @@
 ### Encryption
 
 *   [bcrypt-ruby (⭐2k)](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
-*   [RbNaCl (⭐985)](https://github.com/RubyCrypto/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐984)](https://github.com/RubyCrypto/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Environment Management
 
@@ -217,7 +223,7 @@
 
 ### GraphQL
 
-*   [graphql-client (⭐77)](https://github.com/github-community-projects/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+*   [graphql-client (⭐78)](https://github.com/github-community-projects/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 
 ### HTML/XML Parsing
 
@@ -247,7 +253,7 @@
 
 ### Networking
 
-*   [RubyDNS (⭐727)](https://github.com/socketry/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐728)](https://github.com/socketry/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### Optimizations
 
@@ -346,12 +352,12 @@
 ### Type Signatures and Type Checking
 
 *   [RBS (⭐2.2k)](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
-*   [rbs-inline (⭐352)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
-*   [Sord (⭐334)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
+*   [rbs-inline (⭐354)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
+*   [Sord (⭐336)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
 *   [Spoom (⭐264)](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
 *   [Steep (⭐1.5k)](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
 *   [Tapioca (⭐867)](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
-*   [Typeprof (⭐827)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
+*   [Typeprof (⭐829)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
 *   Runtime Typing
     *   [dry-types (⭐897)](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
     *   [Literal (⭐339)](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
@@ -372,7 +378,7 @@
 
 ### WebSocket
 
-*   [CableReady (⭐771)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐772)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.3k)](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [May 20, 2026](/content/2026/05/20/README.md)
@@ -1212,7 +1218,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐865)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐866)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -3076,7 +3082,7 @@
             *   [Emoji-RSpec (⭐172)](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
             *   [Fuubar (⭐963)](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter.
     *   [Aruba (⭐965)](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
-    *   [Bacon (⭐425)](https://github.com/leahneukirchen/bacon) - A small RSpec clone.
+    *   [Bacon (⭐424)](https://github.com/leahneukirchen/bacon) - A small RSpec clone.
     *   [Capybara (⭐10k)](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
     *   [Cucumber (⭐5.2k)](https://github.com/cucumber/cucumber-ruby) - BDD that talks to domain experts first and code second.
     *   [Cutest (⭐152)](https://github.com/djanowski/cutest) - Isolated tests in Ruby.

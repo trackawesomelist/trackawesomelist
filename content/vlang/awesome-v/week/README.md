@@ -35,6 +35,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vtl.datasets (⭐166)](https://github.com/vlang/vtl/tree/main/datasets#readme) - Datasets module for VTL providing built-in datasets for ML benchmarking and tutorials.
 *   [vtl.nn (⭐166)](https://github.com/vlang/vtl/tree/main/nn#readme) - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
 
+### Utility
+
+*   [vop (⭐0)](https://github.com/tailsmails/vop) - A message-passing object protocol providing dynamic property management and closure-based state encapsulation.
+
 ### GitHub Actions / Vim
 
 *   [setup-v (⭐33)](https://github.com/vlang/setup-v) - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
