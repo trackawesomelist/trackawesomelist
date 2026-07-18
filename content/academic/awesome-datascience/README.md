@@ -6,6 +6,41 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jul 18, 2026](/content/2026/07/18/README.md)
+
+### Tutorials
+
+*   [Understand and Know Machine Learning Engineering by Building Solid Projects](https://mlzoomcamp.com/)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Glue](https://docs.glueviz.org/en/latest/index.html)
+*   [Wrangler](https://vis.stanford.edu/wrangler/)
+*   [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+### Books / Visualization Tools
+
+*   [Mining Massive Datasets](https://www.mmds.org/) - free e-book comprehended by an online course
+*   [Advances in Genetic Programming, Vol. 3](https://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3/) - Free Download
+*   [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Greg Reda](https://www.gregreda.com/) - Greg Reda Personal Blog
+*   [Drew Conway](https://drewconway.com/) - Personal Web Page
+*   [Noah Iliinsky](https://complexdiagrams.com/) - Personal Blog
+*   [Clare Corthell](https://datasciencemasters.org/) - The Open Source Data Science Masters
+*   [Datawrangling](https://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
+*   [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
+
+### Podcasts / Book Deals (Affiliated)
+
+*   [Partially Derivative](https://partiallyderivative.com/)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Open data Index](https://index.okfn.org/)
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -515,33 +550,13 @@
 
 *   [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science)
 
-### Deep Learning Packages / Visualization Tools
-
-*   [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-### Books / Visualization Tools
-
-*   [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
-*   [Advances in Genetic Programming, Vol. 3](http://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3/) - Free Download
-*   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
-
 ### Bloggers / Book Deals (Affiliated)
 
-*   [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
-*   [Drew Conway](http://drewconway.com/) - Personal Web Page
-*   [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
-*   [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
 *   [Data Scientist](https://datascientists.com/) is building the data scientist culture.
-*   [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
-
-### Podcasts / Book Deals (Affiliated)
-
-*   [Partially Derivative](http://partiallyderivative.com/)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [NASA SocioEconomic Data and Applications Center - SEDAC](https://earthdata.nasa.gov/centers/sedac-daac)
-*   [Open data Index](http://index.okfn.org/)
 
 ## [Dec 18, 2024](/content/2024/12/18/README.md)
 
@@ -959,7 +974,6 @@
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 *   [Minimum Viable Study Plan for Machine Learning Interviews (⭐13k)](https://github.com/khangich/machine-learning-interview)
-*   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
 
@@ -1166,7 +1180,6 @@
 
 ### Bloggers / Book Deals (Affiliated)
 
-*   [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 *   [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
 
 ### Datasets / Book Deals (Affiliated)
@@ -1259,7 +1272,6 @@
 *   [d3plus](https://d3plus.org/)
 *   [dygraphs](https://dygraphs.com/)
 *   [exhibit](https://www.simile-widgets.org/exhibit/)
-*   [Glue](http://docs.glueviz.org/en/latest/index.html)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
 *   [Openrefine](https://openrefine.org/)
@@ -1666,7 +1678,6 @@
 *   [plot.ly](https://plot.ly/)
 *   [Seaborn](https://seaborn.pydata.org/)
 *   [vida](https://vida.io/)
-*   [Wrangler](http://vis.stanford.edu/wrangler/)
 *   [Redash](https://redash.io/)
 
 ### Books / Visualization Tools

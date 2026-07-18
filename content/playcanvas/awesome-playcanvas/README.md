@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jul 18, 2026](/content/2026/07/18/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables

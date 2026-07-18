@@ -11,6 +11,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+*   [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
 *   [Splat Labs](https://www.splatlabs.ai/) - Capture, host and share immersive Gaussian splat digital twins.
 *   [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
 *   [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
