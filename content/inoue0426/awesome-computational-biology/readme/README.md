@@ -319,6 +319,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [sciPENN (⭐18)](https://github.com/jlakkis/sciPENN) — RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
 *   [MOGONET (⭐184)](https://github.com/txWang/MOGONET) — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
 *   [AutoZyme (⭐40)](https://github.com/ElliotXie/autozyme) — Autonomous agentic framework that speeds up bioinformatics software (e.g. Scanpy, Seurat) on CPUs while preserving the original results.
+*   [SeqBench](https://seqbench.com/) — Web-based molecular biology sequence workbench for primer design, cloning simulation (Gibson, Golden Gate, restriction digest), CRISPR guide RNA design, and sequence analysis, with a public REST API, OpenAPI 3.1 spec, and MCP server.
 
 ***
 

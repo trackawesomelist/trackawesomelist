@@ -6,6 +6,22 @@ List of useful Quick Look plugins for developers
 
 [ [Daily](/content/sindresorhus/quick-look-plugins/README.md) / Weekly / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
 
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### License
+
+### [Burrete (⭐38)](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually (⭐38)](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Plugins
@@ -34,11 +50,11 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 ### Plugins
 
-### [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown)
+### [FluxMarkdown (⭐1.1k)](https://github.com/xykong/flux-markdown)
 
 > Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
 
-Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐70)](https://github.com/xykong/flux-markdown/releases/latest)
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐1.1k)](https://github.com/xykong/flux-markdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
 
@@ -70,11 +86,11 @@ Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-lo
 
 ### Plugins
 
-### [QLMarkdown (⭐2.4k)](https://github.com/sbarex/QLMarkdown)
+### [QLMarkdown (⭐3.2k)](https://github.com/sbarex/QLMarkdown)
 
 > Preview Markdown files
 
-Run `brew install --cask qlmarkdown` or [download manually (⭐2.4k)](https://github.com/sbarex/QLMarkdown/releases/latest)
+Run `brew install --cask qlmarkdown` or [download manually (⭐3.2k)](https://github.com/sbarex/QLMarkdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLMarkdown.png)](https://github.com/sbarex/QLMarkdown)
 
@@ -133,22 +149,15 @@ Run `brew install suspicious-package` or [download manually](https://www.mothers
 Run `brew install apparency` or [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
-
-### License
-
-### [SourceCodeSyntaxHighlight (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [SourceCodeSyntaxHighlight (⭐4.2k)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 > Preview many different source code files
 
-Run `brew install --cask --no-quarantine syntax-highlight` or [download manually (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
+Run `brew install --cask --no-quarantine syntax-highlight` or [download manually (⭐4.2k)](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
 
 [![](https://user-images.githubusercontent.com/8471055/118415204-5f53fc80-b6a9-11eb-93d8-b88c442c5744.png)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 **Note:** This might overwrite some other Quick Look plugins.
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
@@ -174,13 +183,13 @@ And run this to remove the attributes:
 
 ### Plugins
 
-### [WebP (⭐288)](https://github.com/dchest/webp-quicklook)
+### [WebP (⭐289)](https://github.com/dchest/webp-quicklook)
 
 > Preview WebP images
 
 > NOTE: This is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize`.
 
-Run `brew install webpquicklook` or [download manually (⭐288)](https://github.com/dchest/webp-quicklook/releases/latest)
+Run `brew install webpquicklook` or [download manually (⭐289)](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
@@ -202,11 +211,11 @@ Run `brew install qlstephen` or [download manually (⭐2.8k)](https://github.com
 [Download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
-### [ProvisionQL (⭐2.4k)](https://github.com/ealeksandrov/ProvisionQL)
+### [ProvisionQL (⭐2.5k)](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
 
-Run `brew install provisionql` or [download manually (⭐2.4k)](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
+Run `brew install provisionql` or [download manually (⭐2.5k)](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -214,11 +223,11 @@ Run `brew install provisionql` or [download manually (⭐2.4k)](https://github.c
 
 ### Plugins
 
-### [QLVideo (⭐3.3k)](https://github.com/Marginal/QLVideo)
+### [QLVideo (⭐3.5k)](https://github.com/Marginal/QLVideo)
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
 
-Run `brew install qlvideo` or [download manually (⭐3.3k)](https://github.com/Marginal/QLVideo/releases/latest)
+Run `brew install qlvideo` or [download manually (⭐3.5k)](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 

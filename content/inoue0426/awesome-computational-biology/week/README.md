@@ -13,6 +13,10 @@ Awesome list of computational biology.
 *   [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) — DeepSpot-M predicted transcriptome-wide ST for TCGA H\&E (FF + FFPE; 28,664 slides / 32 cancer types; gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 *   [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) — DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k 10x Xenium samples (\~13.3M cells) (gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 
+### Preprocessing Tools
+
+*   [SeqBench](https://seqbench.com/) — Web-based molecular biology sequence workbench for primer design, cloning simulation (Gibson, Golden Gate, restriction digest), CRISPR guide RNA design, and sequence analysis, with a public REST API, OpenAPI 3.1 spec, and MCP server.
+
 ### Single-cell Foundation Models / Spatial Foundation Models
 
 *   [DeepSpot (⭐88)](https://github.com/ratschlab/DeepSpot) — Deep learning model predicting spatial transcriptomics from H\&E images at spot and single-cell resolution.

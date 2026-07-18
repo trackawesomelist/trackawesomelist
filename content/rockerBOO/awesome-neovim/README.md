@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 18, 2026](/content/2026/07/18/README.md)
+
+### Color / Markdown and LaTeX
+
+*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+
+### Code Runner / Quickfix
+
+*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Colorscheme / Colorscheme Creation
@@ -68,7 +78,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [dominic-righthere/markdown-pipetable.nvim (⭐3)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐6)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
 

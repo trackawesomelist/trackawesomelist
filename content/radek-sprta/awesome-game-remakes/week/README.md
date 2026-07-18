@@ -8,13 +8,41 @@ Actively maintained open-source game remakes.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
+### Action
+
+*   [OpenChaos (⭐0)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
+*   [Sunny-Survival-Remake-Code (⭐0)](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
+
+### Arcade
+
+*   [atomiks (⭐2)](https://github.com/carstene1ns/atomiks) - A remake of the classic Atomix game for modern platforms.
+*   [blips (⭐1)](https://github.com/joyrider3774/blips) - A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell. It is a Puzzle game which is a variation of sokoban written in SDL 3 based on my old gp2x version.
+*   [galaxy-eggbert (⭐0)](https://github.com/openeggbert/galaxy-eggbert) - 3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.
+*   [guardian (⭐0)](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
+*   [GradiusRemake (⭐0)](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
+*   [Maze-Runner-FPS (⭐0)](https://github.com/IbsYoussef/Maze-Runner-FPS) - Remake of classic Maze Runner game from the 70s -- written in Rust
+*   [Metal-Slug-Remake (⭐2)](https://github.com/ahmadraza2730/Metal-Slug-Remake) - A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004).
+*   [O21 (⭐31)](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
+*   [OrbitalDecay (⭐0)](https://github.com/LeineckerGames/OrbitalDecay) - This is a 3D remake of the old Lunar Lander game
+*   [wedges-trial (⭐1)](https://github.com/begiedz/wedges-trial) - \[WIP] Browser logic puzzle game inspired by Gothic's Remake lockpicking mechanism.
+
+### Online
+
+*   [starcup (⭐6)](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
+*   [Heart-of-Africa-Remake (⭐1)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
+
 ### Racing
 
 *   [OutRun (⭐84)](https://github.com/ZgzInfinity/OutRun) - A new version of the game Out Run of 1986 for PC using SFML and C++
 
 ### Simulator
 
+*   [darknova2 (⭐0)](https://github.com/deadjim/darknova2) - Dark Nova ]\[ — cross-platform space trading game (Space Trader remake)
 *   [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
+
+### Strategy
+
+*   [rebellion2 (⭐11)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 

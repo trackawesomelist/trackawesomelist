@@ -16,9 +16,17 @@ Collections of awesome neovim plugins.
 
 *   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
+### Color / Markdown and LaTeX
+
+*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+
 ### Colorscheme / Colorscheme Creation
 
 *   [Senal-D-A-Gunaratna/matugen.nvim (⭐12)](https://github.com/Senal-D-A-Gunaratna/matugen.nvim) - Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.
+
+### Code Runner / Quickfix
+
+*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 
 ### Editing Support / Scrollbar
 
@@ -54,7 +62,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [dominic-righthere/markdown-pipetable.nvim (⭐3)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐6)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
 ### Project / Markdown and LaTeX
 

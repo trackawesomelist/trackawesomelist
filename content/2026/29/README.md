@@ -1,12 +1,114 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2026
 
-47 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [1. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+
+### Learn / Books
+
+*   [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf): Sutton and Barto's foundational treatment of reinforcement learning concepts and algorithms.
+*   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/): The continuously updated NLP reference by Dan Jurafsky and James Martin.
+
+### Learn / Courses
+
+*   [Fast.ai Practical Deep Learning](https://course.fast.ai/): A code-first introduction to deep learning.
+*   [Karpathy's Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): Build neural networks and language models from first principles.
+*   [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/): Build language models from data preparation through evaluation and deployment.
+*   [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/): Deep learning foundations and applications.
+*   [Made With ML](https://madewithml.com/): An open course on designing, developing, deploying, and iterating on production ML systems.
+
+### Learn / Foundational papers
+
+*   [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556): Showed how model size and training data should scale together under a compute budget.
+*   [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401): Combined parametric language models with external retrieval for knowledge-intensive tasks.
+*   [LoRA](https://arxiv.org/abs/2106.09685): Introduced low-rank adaptation for parameter-efficient model fine-tuning.
+*   [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155): Established the instruction tuning and RLHF recipe used by InstructGPT.
+*   [ReAct](https://arxiv.org/abs/2210.03629): Combined reasoning traces with actions for tool-using language-model agents.
+*   [Direct Preference Optimization](https://arxiv.org/abs/2305.18290): Reframed preference alignment as a simple classification objective without explicit reward modelling.
+
+### Build AI systems / Guides and playbooks
+
+*   [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents): Anthropic's practical patterns and tradeoffs for agentic systems.
+*   [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): OpenAI's guide to models, tools, instructions, orchestration, and guardrails.
+
+### Build AI systems / LLM application engineering
+
+*   [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Techniques for defining success criteria, testing prompts, and improving model behaviour.
+*   [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents): How to select, structure, and manage the context available to long-running agents.
+*   [12-Factor Agents (⭐24k)](https://github.com/humanlayer/12-factor-agents): Practical principles for building controllable LLM applications around deterministic software.
+*   [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/): Risks and mitigations for developing and deploying generative AI applications.
+
+### Build AI systems / Agent frameworks
+
+*   [Pydantic AI](https://ai.pydantic.dev/): Typed agent development built around Pydantic.
+*   [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview): Low-level orchestration for long-running, stateful agents.
+*   [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.
+*   [Google Agent Development Kit](https://google.github.io/adk-docs/): Google's framework for developing and evaluating agents.
+*   [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/): Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows.
+
+### Build AI systems / Durable and asynchronous agents
+
+*   [Effective Harnesses for Long-Running Agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents): Patterns for agents that make progress across multiple context windows and recover from failure.
+*   [Running Agents](https://openai.github.io/openai-agents-python/running_agents/): Lifecycle, session, exception, and durable-execution patterns in the OpenAI Agents SDK.
+*   [Human-in-the-Loop](https://openai.github.io/openai-agents-python/human_in_the_loop/): Pause, inspect, approve, reject, and resume tool calls without losing agent state.
+*   [Gemini and Temporal Durable Agent](https://ai.google.dev/gemini-api/docs/temporal-example): A concrete implementation of durable execution, retries, and human approval for an agent workflow.
+
+### Build AI systems / Retrieval and data
+
+*   [LlamaIndex](https://docs.llamaindex.ai/): Data ingestion, indexing, retrieval, and agent workflows.
+*   [Haystack](https://docs.haystack.deepset.ai/): Modular pipelines for retrieval and generative AI applications.
+
+### Build AI systems / Evals and reliability
+
+*   [Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents): A practical method for building task suites, graders, transcripts, and evaluation harnesses.
+*   [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
+*   [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
+
+### Build AI systems / Deployment and observability
+
+*   [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
+*   [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
+*   [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
+
+### Agentic software engineering / Coding agents
+
+*   [GitHub Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent): An asynchronous agent that works from GitHub issues and opens pull requests.
+
+### Agentic software engineering / Software factories and agent orchestration
+
+*   [Harness Engineering](https://openai.com/index/harness-engineering/): OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.
+*   [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
+*   [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
+
+### Contributing / Software factories and agent orchestration
+
+*   serve software developers learning or practising AI engineering;
+*   provide technical or practical value beyond a product homepage;
+*   be current and maintained, unless its value is foundational and durable;
+*   add something meaningfully different from the existing entries;
+*   use a factual description supported by a primary source.
+
+## [2. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+
+### License
+
+### [Burrete (⭐38)](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually (⭐38)](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
@@ -20,7 +122,7 @@
 
 *   [🤖 RS-Key (⭐89)](https://github.com/TheMaxMur/RS-Key): no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 
-## [2. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Encoding & Codecs
 
@@ -1518,7 +1620,7 @@
 *   [Awesome Live Stream (⭐472)](https://github.com/liwf616/awesome-live-stream) - WebRTC && Nginx && DASH && Quic 学习资料收集，持续更新中.
 *   [Streaming Onboarding (⭐572)](https://github.com/Eyevinn/streaming-onboarding) - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding.
 
-## [3. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [5. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
@@ -1528,19 +1630,19 @@
 
 *   [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-month-spinner-picker (⭐0)](https://github.com/jlc488/vue-month-spinner-picker) - iOS-style drum-roll month picker for Vue 3. Inertia scrolling, bottom sheet modal, min/max constraints, i18n and theming via CSS variables. Zero dependencies.
 
-## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Penetration Testing / Sub Domain Enumeration
 
 *   [ARS3NAL (⭐159)](https://github.com/inflictx/Arsenal) - Offline-first, self-hosted pentest & bug-bounty arsenal - searchable payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vulnerability checklists, with a live static demo - by [@inflictx](https://github.com/inflictx).
 
-## [6. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [8. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -1550,19 +1652,19 @@
 
 *   [zig-nostr/nostr (⭐4)](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
 
-## [7. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [9. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [SQL-exercise (⭐1.5k)](https://github.com/XD-DENG/SQL-exercise)
 
-## [8. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [10. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Misc Tools
 
 *   [Spectre (⭐64)](https://github.com/thomasbuilds/Spectre) - Radio frequency scanner with recon and offensive capabilities. Monitors cellular, Wi-Fi, Bluetooth LE, and GNSS on-device, with a BLE GATT inspector, iBeacon broadcaster, and local-network discovery.
 
-## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -1598,7 +1700,7 @@
 *   [*macOS Daemonology* by Volodymyr Vashurkin](https://link.springer.com/book/10.1007/978-1-4842-7277-0)
 *   [*Interprocess Communication with macOS* by Hem Dutt](https://link.springer.com/book/10.1007/978-1-4842-7045-5)
 
-## [10. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [12. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
@@ -1608,7 +1710,7 @@
 
 *   [prism\_demo (⭐1)](https://github.com/ramlaxmanyadav/prism_demo) - Sample app for testing and previewing the Prism ActiveAdmin theme; a minimal Rails app pre-wired with active\_admin\_prism and seeded with dummy data.
 
-## [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 4\. Datasets, Evaluation, and Extras
 
@@ -1621,18 +1723,22 @@
 *   **Security**
     *   [Security and Governance](https://github.com/kimtth/azure-openai-llm-wiki/blob/main/README.md/section/best_practices.md#security-and-governance)
 
-## [12. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Elixir
 
 *   [deps\_nix (⭐56)](https://github.com/code-supply/deps_nix) - Converts Mix dependencies to Nix derivations.
 
-## [13. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [15. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Benchmarks & Datasets
 
 *   [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) — DeepSpot-M predicted transcriptome-wide ST for TCGA H\&E (FF + FFPE; 28,664 slides / 32 cancer types; gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 *   [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) — DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k 10x Xenium samples (\~13.3M cells) (gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+
+### Preprocessing Tools
+
+*   [SeqBench](https://seqbench.com/) — Web-based molecular biology sequence workbench for primer design, cloning simulation (Gibson, Golden Gate, restriction digest), CRISPR guide RNA design, and sequence analysis, with a public REST API, OpenAPI 3.1 spec, and MCP server.
 
 ### Single-cell Foundation Models / Spatial Foundation Models
 
@@ -1641,52 +1747,56 @@
 *   [DeepSpot-M (⭐30)](https://github.com/ratschlab/DeepSpotM) — Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.
 *   [AESTETIK (⭐25)](https://github.com/ratschlab/aestetik) — Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [College ROI Dataset (⭐0)](https://github.com/thomasthinks/college-roi-data) - Lifetime return-on-investment estimates for 29,700 US bachelor's programs across 3,392 colleges, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.
 
-## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / AI
 
 *   [polars-skills (⭐42)](https://github.com/polars-inc/skills) - Official AI agent skills by [@polars-inc](https://github.com/polars-inc).
 *   [polars-mcp (⭐12)](https://github.com/r-brink/polars-mcp) - A local MCP server for live API lookup against your installed Polars version by [@r-brink](https://github.com/r-brink).
 
-## [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [Cynative (⭐100)](https://github.com/cynative/cynative) - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, K8s, GitHub and GitLab.
 *   [VanGuard (⭐150)](https://github.com/ridgelinecyberdefence/vanguard) - Cross-platform incident response toolkit with 28 pre-built use cases in a single zero-install binary. Collects memory, disk, network, and cloud artifacts with automated timeline generation.
 
-## [17. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [19. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Web
 
 *   [Konsumr](https://konsumr.com) - Free manga collection tracker with edition-level volume tracking (Standard, Deluxe, Omnibus, Box Sets), release calendar, episode-by-episode anime tracking, and AniList / MyAnimeList import. \[English]
 
-## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### People Investigations / GitHub
 
 *   [VerifiedHer](https://verifiedher.com) - Free registry of online creators and influencers answering "is she real?" — per-person pages with sourced verdicts (real / AI persona / unverified), documented official accounts, and known impersonations.
 
-## [19. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+### Domain and IP Research / GitHub
+
+*   [Argos OSINT](https://argos-osint.com) - Free Spanish-language OSINT platform: 31 client-side tools + 7 step-by-step guides + 10 curated OSINT prompts for Claude/LLM. Covers WHOIS/RDAP, DoH DNS, subdomain enumeration (crt.sh), unified domain dashboard, IP geolocation, IP reputation via Shodan InternetDB, email header analyzer (SPF/DKIM/DMARC), SPF/DMARC auditor, pwned password check via HIBP k-anonymity, EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat analyzer, JWT decoder, regex/color/UA parser/QR/base64/hash/URL cleaner. No signup, PWA installable, all processing in-browser.
+
+## [21. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Pocket Starforged](https://akavel.itch.io/pocket-starforged) - Pocket-sized cards and foldable reference sheets for playing Starforged on-the-go
 
-## [20. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [22. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### 人工智能
 
 *   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐0)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
 *   [遊戲策劃實務即用的 AI · Claude Code 活用法 (⭐0)](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
 
-## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [23. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -1700,13 +1810,13 @@
 
 *   [Antigravity CLI Tips (⭐4)](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
 
-## [22. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [24. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / Menu Bar
 
 *   [aqua5230/usage (⭐254)](https://github.com/aqua5230/usage) — Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls ☆`254`
 
-## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Data Analysis
 
@@ -1716,7 +1826,7 @@
 
 *   [hatch (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
 
-## [24. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [26. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
@@ -1725,19 +1835,19 @@
 *   [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
 *   [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
 
-## [25. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [27. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Development
 
 *   [cover\_me (⭐0)](https://github.com/verizonconnect/cover_me) - code coverage tool for mysql stored procedures and functions
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
 *   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 
-## [27. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -1755,13 +1865,17 @@
 
 *   [Shieldly (⭐1)](https://github.com/shieldly-io/cli) - AI-powered security analysis for Terraform-generated IAM policies and CloudFormation, explaining why a permission is risky and how to fix it. Free tier, CLI and GitHub Action.
 
-## [28. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [30. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+
+### Dating
+
+*   [Mistress.to](https://mistress.to) - Mistress.to is an Immersive femdom AI companion featuring interactive audio voice calls, text chat, and high-quality image and video generation. `#freemium`
 
 ### Developer Tools
 
 *   [codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 
-## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -1802,7 +1916,7 @@
 
 *   [setup-v (⭐33)](https://github.com/vlang/setup-v) - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1824,7 +1938,7 @@
 
 *   [Will Be Done](https://will-be-done.app/) - Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). ([Demo](https://demo.will-be-done.app/), [Source Code (⭐97)](https://github.com/will-be-done/will-be-done)) `AGPL-3.0` `Docker/Nodejs`
 
-## [31. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [33. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Cheat Sheets
 
@@ -1834,13 +1948,13 @@
 
 *   [kubectl-tmux-exec (⭐142)](https://github.com/predatorray/kubectl-tmux-exec) A kubectl plugin that uses tmux to control multiple Kubernetes pods' shells simultaneously, broadcasting commands to all selected containers at once.
 
-## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### AI / Agents
 
 *   [faf-cli (⭐30)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 
-## [33. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [35. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Finance & Blockchain / Payment APIs
 
@@ -1850,7 +1964,7 @@
 
 *   [uadmin/uadmin (⭐354)](https://github.com/uadmin/uadmin) — The web framework for Golang ☆`354`
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Business logic
 
@@ -1860,7 +1974,7 @@
 
 *   [rails-i18n-manager (⭐225)](https://github.com/westonganger/rails_i18n_manager) - Web interface to manage i18n translations helping to facilitate the editors of your translations.
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
@@ -1893,19 +2007,42 @@
 
 *   [StrokeMouse](https://strokemouse.com) - Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Licoy/StrokeMouse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [36. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [38. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Platforms
 
 *   [IoT DC3 (⭐650)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
 
-## [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [Unsloth](https://unsloth.ai/) - An open-source framework that enables the running and training of models on local hardware.
 
-## [38. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [40. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Action
+
+*   [OpenChaos (⭐0)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
+*   [Sunny-Survival-Remake-Code (⭐0)](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
+
+### Arcade
+
+*   [atomiks (⭐2)](https://github.com/carstene1ns/atomiks) - A remake of the classic Atomix game for modern platforms.
+*   [blips (⭐1)](https://github.com/joyrider3774/blips) - A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell. It is a Puzzle game which is a variation of sokoban written in SDL 3 based on my old gp2x version.
+*   [galaxy-eggbert (⭐0)](https://github.com/openeggbert/galaxy-eggbert) - 3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.
+*   [guardian (⭐0)](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
+*   [GradiusRemake (⭐0)](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
+*   [Maze-Runner-FPS (⭐0)](https://github.com/IbsYoussef/Maze-Runner-FPS) - Remake of classic Maze Runner game from the 70s -- written in Rust
+*   [Metal-Slug-Remake (⭐2)](https://github.com/ahmadraza2730/Metal-Slug-Remake) - A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004).
+*   [O21 (⭐31)](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
+*   [OrbitalDecay (⭐0)](https://github.com/LeineckerGames/OrbitalDecay) - This is a 3D remake of the old Lunar Lander game
+*   [wedges-trial (⭐1)](https://github.com/begiedz/wedges-trial) - \[WIP] Browser logic puzzle game inspired by Gothic's Remake lockpicking mechanism.
+
+### Online
+
+*   [starcup (⭐6)](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
+*   [Heart-of-Africa-Remake (⭐1)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
 ### Racing
 
@@ -1913,9 +2050,14 @@
 
 ### Simulator
 
+*   [darknova2 (⭐0)](https://github.com/deadjim/darknova2) - Dark Nova ]\[ — cross-platform space trading game (Space Trader remake)
 *   [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
 
-## [39. Magictools](/content/ellisonleao/magictools/week/README.md)
+### Strategy
+
+*   [rebellion2 (⭐11)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
+
+## [41. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Animation
 
@@ -1929,7 +2071,7 @@
 
 *   :money\_with\_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 
-## [40. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [42. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Alternative Clients
 
@@ -1939,7 +2081,7 @@
 
 *   [Vox director skill (⭐148)](https://github.com/Alisa0808/vox-director) by [Alisa Qian](https://github.com/Alisa0808) - Vox Director is an open-source skill that turns a one-line topic into a finished Vox-style paper-collage explainer or ad video. It automates the full pipeline — script, collage keyframes, motion, voice-over, music, and captions — on the Atlas Cloud API plus local ffmpeg, with two human approval gates for the beat map and visual style.\ <img src="https://img.shields.io/github/created-at/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Alisa0808/vox-director?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [41. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
@@ -1953,7 +2095,7 @@
 
 *   [Awesome AI Testing (⭐29)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
-## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1964,6 +2106,10 @@
 ### Audio and Music
 
 *   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
+
+### Standard CLI
+
+*   [OpenCLI (⭐41)](https://github.com/bcdxn/opencli) - OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.
 
 ### Database Schema Migration
 
@@ -1982,11 +2128,15 @@
 *   [relay (⭐9)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
 *   [whois (⭐62)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
 
+### Third-party APIs
+
+*   [sonarqube-client-go (⭐6)](https://github.com/BoxBoxJason/sonarqube-client-go) - Go client library and command-line client for the SonarQube Web API.
+
 ### Web Frameworks
 
 *   [Andurel (⭐213)](https://github.com/mbvlabs/andurel) - Rails-inspired full-stack Go web framework with scaffolding, database tooling, and server-rendered or Inertia frontends.
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -2032,13 +2182,13 @@
 
 *   [euv-dev/euv (⭐7)](https://github.com/euv-dev/euv) \[[euv](https://crates.io/crates/euv)] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly. [![CI](https://github.com/euv-dev/euv/actions/workflows/rust.yml/badge.svg)](https://github.com/euv-dev/euv/actions)
 
-## [44. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [46. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [LLMGraph](https://llmgraph.ai) - Low/no-code visual builder for LLM workflows: build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy in one click to a REST API and chat widget.
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Education and Career Development
 
@@ -2060,7 +2210,7 @@
 
 *   [Appish](https://appi.sh/) - Host Docker containers for demos with just a docker push. Free tier includes 1 slot with 2-hour sessions.
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -2070,9 +2220,17 @@
 
 *   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
+### Color / Markdown and LaTeX
+
+*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+
 ### Colorscheme / Colorscheme Creation
 
 *   [Senal-D-A-Gunaratna/matugen.nvim (⭐12)](https://github.com/Senal-D-A-Gunaratna/matugen.nvim) - Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.
+
+### Code Runner / Quickfix
+
+*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 
 ### Editing Support / Scrollbar
 
@@ -2086,7 +2244,7 @@
 
 *   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

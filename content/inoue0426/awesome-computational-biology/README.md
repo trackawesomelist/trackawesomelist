@@ -6,6 +6,12 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Jul 18, 2026](/content/2026/07/18/README.md)
+
+### Preprocessing Tools
+
+*   [SeqBench](https://seqbench.com/) — Web-based molecular biology sequence workbench for primer design, cloning simulation (Gibson, Golden Gate, restriction digest), CRISPR guide RNA design, and sequence analysis, with a public REST API, OpenAPI 3.1 spec, and MCP server.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Benchmarks & Datasets

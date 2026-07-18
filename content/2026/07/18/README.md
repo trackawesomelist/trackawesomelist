@@ -1,12 +1,24 @@
-# Track Awesome Artificial Intelligence Updates Weekly
+# Awesome List Updates on Jul 18, 2026
 
-A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 15K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / Weekly / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
-## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Dating
+
+*   [Mistress.to](https://mistress.to) - Mistress.to is an Immersive femdom AI companion featuring interactive audio voice calls, text chat, and high-quality image and video generation. `#freemium`
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [Argos OSINT](https://argos-osint.com) - Free Spanish-language OSINT platform: 31 client-side tools + 7 step-by-step guides + 10 curated OSINT prompts for Claude/LLM. Covers WHOIS/RDAP, DoH DNS, subdomain enumeration (crt.sh), unified domain dashboard, IP geolocation, IP reputation via Shodan InternetDB, email header analyzer (SPF/DKIM/DMARC), SPF/DMARC auditor, pwned password check via HIBP k-anonymity, EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat analyzer, JWT decoder, regex/color/UA parser/QR/base64/hash/URL cleaner. No signup, PWA installable, all processing in-browser.
+
+## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Learn / Books
 
@@ -92,60 +104,81 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 *   add something meaningfully different from the existing entries;
 *   use a factual description supported by a primary source.
 
-## [May 25 - May 31, 2026](/content/2026/21/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
-### Learn / Books
+### Standard CLI
 
-*   [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch): Implement transformers in PyTorch with Sebastian Raschka.
-*   [Hands-On Large Language Models](https://www.llm-book.com/): A visual and practical guide by Jay Alammar and Maarten Grootendorst.
-*   [LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079): LLMOps, fine-tuning, serving, and production workflows.
-*   [The 100-Page Language Models Book](https://www.thelmbook.com/): A concise, technical introduction by Andriy Burkov.
-*   [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/): A probability-grounded treatment by Christopher and Hugh Bishop.
-*   [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Theory, intuition, and practical notebooks by Simon Prince.
+*   [OpenCLI (⭐41)](https://github.com/bcdxn/opencli) - OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.
 
-### Agentic software engineering / Coding agents
+### Third-party APIs
 
-*   [Claude Code](https://code.claude.com/): A terminal agent with hooks, subagents, skills, and repository-level instructions.
-*   [Codex CLI (⭐99k)](https://github.com/openai/codex): An open-source terminal agent with sandbox and approval controls.
-*   [Gemini CLI (⭐106k)](https://github.com/google-gemini/gemini-cli): An open-source terminal agent built around Gemini and extensible tools.
-*   [Cursor CLI](https://cursor.com/cli): A terminal agent connected to Cursor's editor and cloud workflows.
-*   [Aider](https://aider.chat/): An open-source pair programmer with Git integration and broad model support.
-*   [OpenCode](https://opencode.ai/): An open-source, provider-independent terminal agent with a client-server architecture.
-*   [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
-*   [Cline (⭐65k)](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
-*   [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
+*   [sonarqube-client-go (⭐6)](https://github.com/BoxBoxJason/sonarqube-client-go) - Go client library and command-line client for the SonarQube Web API.
 
-## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+## [5. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
-### Learn / Books
+### Preprocessing Tools
 
-*   [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/): The broad reference for classical AI, including search, reasoning, planning, learning, and robotics.
-*   [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Scalable, maintainable machine learning systems by Chip Huyen.
-*   [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/): Building applications with foundation models by Chip Huyen.
-*   [Deep Learning](https://www.deeplearningbook.org/): Mathematical foundations by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+*   [SeqBench](https://seqbench.com/) — Web-based molecular biology sequence workbench for primer design, cloning simulation (Gibson, Golden Gate, restriction digest), CRISPR guide RNA design, and sequence analysis, with a public REST API, OpenAPI 3.1 spec, and MCP server.
 
-### Learn / Courses
+## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
-*   [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1): Transformers, fine-tuning, datasets, and modern NLP tooling.
-*   [Full Stack Deep Learning](https://fullstackdeeplearning.com/): The full lifecycle of building and shipping AI products.
-*   [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118): An introductory path through generative AI concepts and Google Cloud tooling.
-*   [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/): Focused courses on current generative AI engineering techniques.
+### Action
 
-### Learn / Foundational papers
+*   [OpenChaos (⭐0)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
+*   [Sunny-Survival-Remake-Code (⭐0)](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
 
-*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Introduced the Transformer architecture.
-*   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361): Explored relationships between model performance, data, and compute.
-*   [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): Demonstrated in-context learning at scale.
-*   [Constitutional AI](https://arxiv.org/abs/2212.08073): A method for training helpful and harmless AI assistants using written principles.
+### Arcade
 
-### Build AI systems / LLM application engineering
+*   [atomiks (⭐2)](https://github.com/carstene1ns/atomiks) - A remake of the classic Atomix game for modern platforms.
+*   [blips (⭐1)](https://github.com/joyrider3774/blips) - A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell. It is a Puzzle game which is a variation of sokoban written in SDL 3 based on my old gp2x version.
+*   [galaxy-eggbert (⭐0)](https://github.com/openeggbert/galaxy-eggbert) - 3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.
+*   [guardian (⭐0)](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
+*   [GradiusRemake (⭐0)](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
+*   [Maze-Runner-FPS (⭐0)](https://github.com/IbsYoussef/Maze-Runner-FPS) - Remake of classic Maze Runner game from the 70s -- written in Rust
+*   [Metal-Slug-Remake (⭐2)](https://github.com/ahmadraza2730/Metal-Slug-Remake) - A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004).
+*   [O21 (⭐31)](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
+*   [OrbitalDecay (⭐0)](https://github.com/LeineckerGames/OrbitalDecay) - This is a 3D remake of the old Lunar Lander game
+*   [wedges-trial (⭐1)](https://github.com/begiedz/wedges-trial) - \[WIP] Browser logic puzzle game inspired by Gothic's Remake lockpicking mechanism.
 
-*   [OpenAI Cookbook](https://cookbook.openai.com/): Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns.
+### Online
 
-### Build AI systems / Retrieval and data
+*   [starcup (⭐6)](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
+*   [Heart-of-Africa-Remake (⭐1)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
-*   [Docling (⭐63k)](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
+### Simulator
 
-### Build AI systems / Evals and reliability
+*   [darknova2 (⭐0)](https://github.com/deadjim/darknova2) - Dark Nova ]\[ — cross-platform space trading game (Space Trader remake)
 
-*   [OpenAI Evals (⭐19k)](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
+### Strategy
+
+*   [rebellion2 (⭐11)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Color / Markdown and LaTeX
+
+*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+
+### Code Runner / Quickfix
+
+*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+
+## [8. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+
+### License
+
+### [Burrete (⭐38)](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually (⭐38)](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+---
+
+- Next: [Jul 17, 2026](/content/2026/07/17/README.md)
