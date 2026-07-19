@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 19, 2026](/content/2026/07/19/README.md)
+
+### Software / Travel Organization
+
+*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐268)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
 ### Software / Automation
@@ -66,7 +72,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐45)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 19, 2026](/content/2026/07/19/README.md)
+
+### Applications
+
+*   [Livediff (⭐211)](https://github.com/SoCkEt7/Livediff) \[[livediff](https://crates.io/crates/livediff)] - Real-time terminal file diff monitoring TUI. [![Release](https://github.com/SoCkEt7/Livediff/actions/workflows/release.yml/badge.svg)](https://github.com/SoCkEt7/Livediff/actions/workflows/release.yml)
+
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
 ### Applications

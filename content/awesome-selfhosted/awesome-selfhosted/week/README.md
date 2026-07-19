@@ -28,6 +28,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Will Be Done](https://will-be-done.app/) - Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). ([Demo](https://demo.will-be-done.app/), [Source Code (⭐97)](https://github.com/will-be-done/will-be-done)) `AGPL-3.0` `Docker/Nodejs`
 
+### Software / Travel Organization
+
+*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐268)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Software / Manufacturing
@@ -50,7 +54,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐45)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 
 ### Software / Money, Budgeting & Management
 

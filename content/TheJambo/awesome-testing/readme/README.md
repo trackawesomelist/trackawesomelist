@@ -69,6 +69,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [voicetest (⭐26)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 *   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 *   [Evaliphy (⭐18)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+*   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 *   [nika (⭐25)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Service Virtualization
@@ -124,6 +125,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [playwright-bdd (⭐722)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
+*   [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
+
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 
 *   [tapflow (⭐157)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
@@ -142,6 +145,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 
 *   [DATAMIMIC CE (⭐37)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
+*   [JSON Validation Test Cases (⭐0)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 *   [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 *   [Synth (⭐1.5k)](https://github.com/getsynth/synth) - Open-source test data generator.
 *   [Touca (⭐511)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
@@ -181,7 +185,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 
-*   [Jumpstarter (⭐194)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐202)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 *   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 *   [ai-natural-language-tests (⭐22)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐26)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
@@ -189,6 +193,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Screen Recording & Session Replays
 
 *   [Captura (⭐11k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
+*   [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
 ### Mind Mapping & Documentation
 
@@ -250,7 +255,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐481k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐486k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐4.9k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Jul 19, 2026](/content/2026/07/19/README.md)
+
+### MCP Servers
+
+*   [Find MCP](https://github.com/agentage/find-mcp) - Search 17,000+ MCP servers synced from the official MCP registry (registry.modelcontextprotocol.io). Remote Streamable HTTP (`https://catalog.agentage.io/mcp`, no auth for search) or stdio (`npx -y @agentage/find-mcp`). Works with Gemini CLI: `gemini mcp add --transport http find-mcp https://catalog.agentage.io/mcp`.
+
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
 ### Commands & Extensions
@@ -131,7 +137,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [authsome (⭐61)](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
+*   [authsome](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
 
 ## [May 31, 2026](/content/2026/05/31/README.md)
 

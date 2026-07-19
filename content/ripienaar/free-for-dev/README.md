@@ -6,6 +6,28 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 19, 2026](/content/2026/07/19/README.md)
+
+### Search
+
+*   [searchly.com](https://www.searchly.com/) - Free 2 indices and 20 MB storage
+
+### Managed Data Services
+
+*   [BackupDrill](https://backupdrill.com) - Backs up Supabase projects to your own S3/R2/B2 bucket, then runs scheduled restore drills to prove backups restore. Provides a free plan with weekly backups for one project and one restore drill on your first backup.
+
+### Data Visualization on Maps
+
+*   [maps.stamen.com](https://maps.stamen.com/) - Free map tiles and tile hosting.
+
+### IDE and Code Editing
+
+*   [Brackets](https://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+
+### Payment and Billing Integration
+
+*   [Qonversion](https://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
+
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
 ### Monitoring
@@ -1187,7 +1209,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.8k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.9k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
@@ -1502,10 +1524,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
 
-### Payment and Billing Integration
-
-*   [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
-
 ## [May 18, 2024](/content/2024/05/18/README.md)
 
 ### Education and Career Development
@@ -1797,7 +1815,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐250)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (<https://github.com/unknownhad/AWSAttacks>). Full list is available via API
 
 ### Other Free Resources
 
@@ -1836,7 +1854,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
 *   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
@@ -3302,12 +3319,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Alwaysdata](https://www.alwaysdata.com/) - 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
 
-## [Nov 15, 2021](/content/2021/11/15/README.md)
-
-### Data Visualization on Maps
-
-*   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
-
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 
 ### APIs, Data, and ML
@@ -4621,12 +4632,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 *   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
-
-## [Feb 26, 2020](/content/2020/02/26/README.md)
-
-### Search
-
-*   [searchly.com](http://www.searchly.com/) - Free 2 indices and 20 MB storage
 
 ## [Feb 24, 2020](/content/2020/02/24/README.md)
 

@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Accesserty Pulse](https://accesserty.com/en/pulse) - Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.
 
+### Search
+
+*   [searchly.com](https://www.searchly.com/) - Free 2 indices and 20 MB storage
+
 ### Education and Career Development
 
 *   [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
@@ -24,9 +28,25 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
 
+### Managed Data Services
+
+*   [BackupDrill](https://backupdrill.com) - Backs up Supabase projects to your own S3/R2/B2 bucket, then runs scheduled restore drills to prove backups restore. Provides a free plan with weekly backups for one project and one restore drill on your first backup.
+
 ### Issue Tracking and Project Management
 
 *   [HeyRetro](https://heyretro.io/) - Real-time sprint retrospective platform with voting, timers, surveys, guest collaboration, and ice-breaker games. The forever-free plan includes one board per month, anonymous surveys, and guest link sharing.
+
+### Data Visualization on Maps
+
+*   [maps.stamen.com](https://maps.stamen.com/) - Free map tiles and tile hosting.
+
+### IDE and Code Editing
+
+*   [Brackets](https://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+
+### Payment and Billing Integration
+
+*   [Qonversion](https://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
 
 ### Docker Related
 
@@ -984,7 +1004,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.8k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.9k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -1249,10 +1269,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
 
-### Payment and Billing Integration
-
-*   [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
-
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### Education and Career Development
@@ -1495,7 +1511,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐250)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (<https://github.com/unknownhad/AWSAttacks>). Full list is available via API
 
 ### Other Free Resources
 
@@ -1536,7 +1552,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
 *   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
 
 ### Analytics, Events and Statistics
@@ -2773,10 +2788,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Alwaysdata](https://www.alwaysdata.com/) - 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
 
-### Data Visualization on Maps
-
-*   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
-
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
 ### APIs, Data, and ML
@@ -3866,10 +3877,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
-
-### Search
-
-*   [searchly.com](http://www.searchly.com/) - Free 2 indices and 20 MB storage
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 

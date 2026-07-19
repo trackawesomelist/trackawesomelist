@@ -114,6 +114,7 @@ See [Contributing](#contributing).
     *   [Task Management & To-do Lists](#task-management--to-do-lists)
     *   [Ticketing](#ticketing)
     *   [Time Tracking](#time-tracking)
+    *   [Travel Organization](#travel-organization)
     *   [URL Shorteners](#url-shorteners)
     *   [Video Surveillance](#video-surveillance)
     *   [VPN](#vpn)
@@ -1217,6 +1218,8 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 
 [Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
 
+*Related: [Travel Organization](#travel-organization)*
+
 *See also: [awesome-openstreetmap (⭐955)](https://github.com/osmlab/awesome-openstreetmap), [awesome-gis (⭐5.4k)](https://github.com/sshuair/awesome-gis)*
 
 *   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://demo.adventurelog.app/signup), [Source Code (⭐3.4k)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
@@ -1426,7 +1429,7 @@ Software that does not fit in another section.
 *   [penpot](https://penpot.app/) - Web-based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐55k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 *   [POMjs](https://password.oppetmoln.se/) - Random password generator. ([Source Code (⭐47)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 *   [Pønskelisten (⭐193)](https://github.com/aunefyren/poenskelisten) - Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐45)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 *   [Reactive Resume](https://rxresu.me/) - One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ([Demo](https://rxresu.me/), [Source Code (⭐39k)](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Docker/Nodejs`
 *   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐72k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
 *   [Revive Adserver](https://www.revive-adserver.com/) - Ad serving system. Formerly known as OpenX Adserver and phpAdsNew. ([Source Code (⭐1.5k)](https://github.com/revive-adserver/revive-adserver)) `GPL-2.0` `PHP`
@@ -2047,6 +2050,16 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐1.6k)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 *   [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code (⭐4.4k)](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 *   [Ziit](https://ziit.app) - The Swiss army knife of code time tracking (alternative to WakaTime). ([Source Code (⭐240)](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
+
+### Travel Organization
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+Travel organization software to record bookings, view itinerary, plan activities and track expenses.
+
+*Related: [Booking and Scheduling](#booking-and-scheduling), [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)*
+
+*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐268)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
 ### URL Shorteners
 
