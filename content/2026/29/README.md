@@ -2358,17 +2358,6 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Offline Browsing / GitHub
-
-*   [HTTrack](https://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-*   [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
-*   [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
-*   [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
-*   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
-*   [WebAssistant](https://www.proxy-offline-browser.com/download.html)
-*   [Website Ripper Copier](https://www.tensons.com/products/websiterippercopier)
-
 ### Main National Search Engines
 
 *   [Alleba (Philippines)](https://www.alleba.com) - Philippines search engine
@@ -2995,6 +2984,16 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Torch](https://www.torchbrowser.com)
 *   [UCBrowser](https://www.ucweb.com)
 
+### Offline Browsing / GitHub
+
+*   [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
+*   [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
+*   [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
+*   [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
+*   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
+*   [WebAssistant](https://www.proxy-offline-browser.com/download.html)
+*   [Website Ripper Copier](https://www.tensons.com/products/websiterippercopier)
+
 ### Social Network Analysis / GitHub
 
 *   [Sentinel Visualizer](https://www.fmsasg.com)
@@ -3061,7 +3060,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### System Tools / Menu Bar
 
-*   [aqua5230/usage (⭐254)](https://github.com/aqua5230/usage) — Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls ☆`254`
+*   [aqua5230/usage (⭐254)](https://github.com/aqua5230/usage) — Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls ☆`256`
 
 ## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -3122,6 +3121,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Developer Tools
 
 *   [codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
 
 ## [35. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -3171,6 +3171,18 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [HomeButler](https://homebutler.dev) - Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations. ([Source Code (⭐164)](https://github.com/Higangssh/homebutler)) `MIT` `Docker/Go`
 
+### Software / Communication - Social Networks and Forums
+
+*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
+
+### Software / Database Management
+
+*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver). ([Source Code](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [snowshare](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
+
 ### Software / File Transfer - Web-based File Managers
 
 *   [ClyoCloud](https://code.weexnes.dev/ClyoCloud) - A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. `MIT` `Nodejs`
@@ -3182,6 +3194,14 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Software / Media Management
 
 *   [youtube-dl-nas](https://hyeonsangjeon.github.io/youtube-dl-nas/) `⚠` - Authenticated yt-dlp download queue for video, audio and subtitles, with history, mobile sharing and NAS file management (fork of youtube-dl-server). ([Source Code (⭐167)](https://github.com/hyeonsangjeon/youtube-dl-nas)) `MIT` `Python/Docker`
+
+### Software / Media Streaming - Video Streaming
+
+*   [Tiramisu](https://github.com/MrRobotoGit/tiramisu) - BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`
+
+### Software / Proxy
+
+*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -3213,6 +3233,10 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [brunovenceslau/ynab.go (⭐78)](https://github.com/brunovenceslau/ynab.go) — Client for YNAB API ☆`78`
 
+### Networking / Protocols
+
+*   [ccding/go-stun (⭐720)](https://github.com/ccding/go-stun) — A go implementation of the STUN client (RFC 3489 and RFC 5389) ☆`721`
+
 ### Web Development / Web Frameworks
 
 *   [uadmin/uadmin (⭐354)](https://github.com/uadmin/uadmin) — The web framework for Golang ☆`354`
@@ -3228,6 +3252,14 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [rails-i18n-manager (⭐225)](https://github.com/westonganger/rails_i18n_manager) - Web interface to manage i18n translations helping to facilitate the editors of your translations.
 
 ## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Utilities / General Tools
+
+*   [HTTrack](https://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AirServer](https://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+*   [Memo](https://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1212409035?platform=mac)
+*   [Numi](https://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/peetzweg/opendisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Text Editors
 
@@ -3469,13 +3501,6 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [eZip](https://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [muCommander](https://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucommander/mucommander) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / General Tools
-
-*   [AirServer](https://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-*   [Memo](https://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1212409035?platform=mac)
-*   [Numi](https://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/peetzweg/opendisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Utilities / To-Do Lists
 
 *   [2Do](https://www.2doapp.com/) - Nice todo app.
@@ -3667,6 +3692,8 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Third-party APIs
 
+*   [httpsms-go](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
+*   [lemonsqueezy-go](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
 *   [sonarqube-client-go (⭐6)](https://github.com/BoxBoxJason/sonarqube-client-go) - Go client library and command-line client for the SonarQube Web API.
 
 ### Web Frameworks
@@ -3749,6 +3776,10 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
 
+### Email
+
+*   [Suped](https://www.suped.com/) - A user-friendly DMARC monitoring platform. The free plan covers one domain with up to 1,000 emails per month.
+
 ### Generative AI
 
 *   [Transcript LOL](https://transcript.lol/) - Converts audio or video to text using AI. Generates summaries and other insights using LLMs. The free tier includes 2 transcriptions per day. You can upload files, record voice notes, or use links from YouTube, Instagram etc. The free version also supports WhatsApp, Telegram and importing files directly from cloud storages - Google Drive, Dropbox, Box and OneDrive. No API key needed. Sign up and ready to use. Also has apps for mobiles, desktops and chromebooks.
@@ -3772,6 +3803,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### IDE and Code Editing
 
 *   [Brackets](https://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+*   [Codeground](https://codeground.ai/) - Free browser IDE and playgrounds for 15+ languages plus Postgres, MySQL, MongoDB, and Redis. Shareable snippets, coding interviews, and cloud workspaces. Free playgrounds need no install.
 
 ### Payment and Billing Integration
 
@@ -3791,6 +3823,10 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [redpierrot/ballerina.nvim (⭐2)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 
+### Syntax / Markdown and LaTeX
+
+*   [bird-chinese-community/BIRD.nvim](https://github.com/bird-chinese-community/BIRD.nvim) - Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files.
+
 ### File Explorer / Markdown and LaTeX
 
 *   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
@@ -3802,6 +3838,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Colorscheme / Markdown and LaTeX
 
 *   [ntk148v/lauds (⭐1)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+*   [alsi-lawr/neotheme.nvim](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 
 ### Colorscheme / Colorscheme Creation
 

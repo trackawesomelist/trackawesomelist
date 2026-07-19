@@ -15,6 +15,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 ### Developer Tools
 
 *   [codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
@@ -730,60 +731,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 *   [Google AI Studio](https://aistudio.google.com/prompts/new_chat) - An experimental AI chatbot by Google. `#free`
 
-### Available Tools / 🚀 Multi-Model AI Orchestrator
-
-*   **Features:**
-    *   Intelligent model selection based on query analysis
-    *   Real-time comparison of multiple AI models
-    *   Cost optimization and performance metrics
-    *   Auto-routing to optimal models
-    *   Side-by-side response comparison
-    *   Quality scoring and recommendations
-*   **Use Cases:**
-    *   Finding the best AI model for specific tasks
-    *   Cost optimization for AI usage
-    *   Quality comparison across different models
-    *   Automated model selection for workflows
-    *   Performance benchmarking
-*   **Tags:** `AI`, `Multi-Model`, `Comparison`, `Optimization`, `Orchestration`
-
-### Available Tools / 🎨 Visual AI Workflow Builder
-
-*   **Features:**
-    *   Drag-and-drop visual workflow designer
-    *   Real-time workflow execution and monitoring
-    *   Pre-built workflow templates
-    *   Node-based architecture with AI processing
-    *   Visual connection system between nodes
-    *   Export/import workflow capabilities
-    *   Performance analytics and optimization
-*   **Use Cases:**
-    *   Complex AI automation workflows
-    *   Data processing pipelines
-    *   Content generation workflows
-    *   Multi-step AI processes
-    *   Business process automation
-    *   Custom AI application development
-*   **Tags:** `AI`, `Visual`, `Workflows`, `Drag-and-Drop`, `Automation`
-
-### Available Tools / 🔄 Real-time Data Fusion Engine
-
-*   **Features:**
-    *   Real-time data streaming from multiple sources
-    *   AI-powered pattern detection and anomaly identification
-    *   Live dashboard with customizable widgets
-    *   Data source management and monitoring
-    *   Intelligent insights generation
-    *   Export and sharing capabilities
-*   **Use Cases:**
-    *   Real-time business intelligence
-    *   Market monitoring and analysis
-    *   Social media sentiment tracking
-    *   IoT data processing
-    *   Financial data analysis
-    *   News and information aggregation
-*   **Tags:** `AI`, `Real-time`, `Data`, `Fusion`, `Analytics`
-
 ## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
 
 ### Developer Tools
@@ -815,52 +762,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 ### Summarizer
 
 *   [SummaryTube](https://summarytube.com/) - AI Youtube Video Summarizer. Get key AI insights, extract key moments and transcription. `#freemium`
-
-### Available Tools / 🔧 n8n Workflow Builder
-
-*   **Features:**
-    *   AI-powered workflow generation
-    *   Complex automation logic
-    *   Integration with popular services
-    *   Error handling and retry mechanisms
-    *   Conditional branching and data transformation
-*   **Use Cases:**
-    *   Business process automation
-    *   Data synchronization between systems
-    *   API integrations and webhooks
-    *   Email marketing automation
-    *   Social media management
-*   **Tags:** `AI`, `Automation`, `Workflows`, `Integration`, `n8n`
-
-### Available Tools / 🧠 Agent Builder MCP
-
-*   **Features:**
-    *   Model Context Protocol (MCP) integration
-    *   Advanced reasoning capabilities
-    *   Tool usage and function calling
-    *   Memory management (short-term and long-term)
-    *   Multi-step task execution
-*   **Use Cases:**
-    *   Personal AI assistants
-    *   Task automation agents
-    *   Research and analysis bots
-    *   Customer service automation
-    *   Content generation workflows
-*   **Tags:** `AI`, `Agents`, `MCP`, `Reasoning`, `Tools`
-
-### API Configuration / Custom API Keys
-
-*   **Open Settings**: Click the settings icon in any tool
-*   **Enable Custom API**: Toggle "Use Custom API Key"
-*   **Enter Your Key**: Paste your API key in the secure field
-*   **Save Configuration**: Your settings are stored locally
-
-### Getting Started / Custom API Keys
-
-*   **Navigate to AI Workspace**: Click the "AI Workspace" button in the header
-*   **Choose a Tool**: Select from available built-in tools
-*   **Configure Settings**: Set up custom API keys if desired
-*   **Start Creating**: Use the AI-powered interface to generate content
 
 ## [Sep 22 - Sep 28, 2025](/content/2025/38/README.md)
 

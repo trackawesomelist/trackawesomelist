@@ -101,9 +101,6 @@ Use these hashtags in search to filter out the tools
 *   [Weather](#weather)
 *   [Writing](#writing)
 *   [Trending 2025 AI Tools](#trending-2025-ai-tools)
-*   [Available Tools](#available-tools)
-*   [API Configuration](#api-configuration)
-*   [Getting Started](#getting-started)
 
 ## 3D
 
@@ -454,6 +451,7 @@ Use these hashtags in search to filter out the tools
 *   [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 *   [Lovable](https://lovable.dev/) - Generating full-stack apps via Supabase/GitHub. \`\`
 *   [MarsX](https://www.marsx.dev/) - MicroApps and no-code software development. \`\`
+*   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
@@ -1249,142 +1247,6 @@ Use these hashtags in search to filter out the tools
 *   [Poe](https://poe.com/) - Platform to access multiple AI models in one place `#freemium`
 *   [Hugging Face Chat](https://huggingface.co/chat) - Open-source AI chat interface with multiple models `#free`
 *   [You.com](https://you.com/) - AI search engine with chat capabilities and real-time information `#freemium`
-
-**[⬆️ Back to Top](#table-of-contents)**
-
-# AI Workspace Tools
-
-The AI Workspace provides built-in AI-powered tools that run directly in your browser, offering powerful functionality without requiring external API keys (though custom API keys are supported for enhanced usage).
-
-## Available Tools
-
-### 🚀 Multi-Model AI Orchestrator
-
-**Intelligently route queries to the best AI models and compare responses in real-time**
-
-*   **Features:**
-    *   Intelligent model selection based on query analysis
-    *   Real-time comparison of multiple AI models
-    *   Cost optimization and performance metrics
-    *   Auto-routing to optimal models
-    *   Side-by-side response comparison
-    *   Quality scoring and recommendations
-
-*   **Use Cases:**
-    *   Finding the best AI model for specific tasks
-    *   Cost optimization for AI usage
-    *   Quality comparison across different models
-    *   Automated model selection for workflows
-    *   Performance benchmarking
-
-*   **Tags:** `AI`, `Multi-Model`, `Comparison`, `Optimization`, `Orchestration`
-
-### 🎨 Visual AI Workflow Builder
-
-**Create complex AI workflows with drag-and-drop interface and real-time execution**
-
-*   **Features:**
-    *   Drag-and-drop visual workflow designer
-    *   Real-time workflow execution and monitoring
-    *   Pre-built workflow templates
-    *   Node-based architecture with AI processing
-    *   Visual connection system between nodes
-    *   Export/import workflow capabilities
-    *   Performance analytics and optimization
-
-*   **Use Cases:**
-    *   Complex AI automation workflows
-    *   Data processing pipelines
-    *   Content generation workflows
-    *   Multi-step AI processes
-    *   Business process automation
-    *   Custom AI application development
-
-*   **Tags:** `AI`, `Visual`, `Workflows`, `Drag-and-Drop`, `Automation`
-
-### 🔄 Real-time Data Fusion Engine
-
-**Combine multiple data sources with AI-powered insights and real-time analysis**
-
-*   **Features:**
-    *   Real-time data streaming from multiple sources
-    *   AI-powered pattern detection and anomaly identification
-    *   Live dashboard with customizable widgets
-    *   Data source management and monitoring
-    *   Intelligent insights generation
-    *   Export and sharing capabilities
-
-*   **Use Cases:**
-    *   Real-time business intelligence
-    *   Market monitoring and analysis
-    *   Social media sentiment tracking
-    *   IoT data processing
-    *   Financial data analysis
-    *   News and information aggregation
-
-*   **Tags:** `AI`, `Real-time`, `Data`, `Fusion`, `Analytics`
-
-### 🔧 n8n Workflow Builder
-
-**Generate advanced n8n workflows with AI-powered automation, integrations, and complex logic flows**
-
-*   **Features:**
-    *   AI-powered workflow generation
-    *   Complex automation logic
-    *   Integration with popular services
-    *   Error handling and retry mechanisms
-    *   Conditional branching and data transformation
-
-*   **Use Cases:**
-    *   Business process automation
-    *   Data synchronization between systems
-    *   API integrations and webhooks
-    *   Email marketing automation
-    *   Social media management
-
-*   **Tags:** `AI`, `Automation`, `Workflows`, `Integration`, `n8n`
-
-### 🧠 Agent Builder MCP
-
-**Create sophisticated AI agents with Model Context Protocol (MCP) for advanced reasoning and tool usage**
-
-*   **Features:**
-    *   Model Context Protocol (MCP) integration
-    *   Advanced reasoning capabilities
-    *   Tool usage and function calling
-    *   Memory management (short-term and long-term)
-    *   Multi-step task execution
-
-*   **Use Cases:**
-    *   Personal AI assistants
-    *   Task automation agents
-    *   Research and analysis bots
-    *   Customer service automation
-    *   Content generation workflows
-
-*   **Tags:** `AI`, `Agents`, `MCP`, `Reasoning`, `Tools`
-
-## API Configuration
-
-### Default API Keys
-
-The AI Workspace tools use default API keys for basic functionality, allowing you to try the tools immediately without setup.
-
-### Custom API Keys
-
-For enhanced usage and higher rate limits, you can configure your own API keys:
-
-1.  **Open Settings**: Click the settings icon in any tool
-2.  **Enable Custom API**: Toggle "Use Custom API Key"
-3.  **Enter Your Key**: Paste your API key in the secure field
-4.  **Save Configuration**: Your settings are stored locally
-
-## Getting Started
-
-1.  **Navigate to AI Workspace**: Click the "AI Workspace" button in the header
-2.  **Choose a Tool**: Select from available built-in tools
-3.  **Configure Settings**: Set up custom API keys if desired
-4.  **Start Creating**: Use the AI-powered interface to generate content
 
 **[⬆️ Back to Top](#table-of-contents)**
 

@@ -1,23 +1,41 @@
 # Awesome List Updates on Jul 19, 2026
 
-12 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
 
-### Offline Browsing / GitHub
+### Networking / Protocols
 
-*   [HTTrack](https://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-*   [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
-*   [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
-*   [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
-*   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
-*   [WebAssistant](https://www.proxy-offline-browser.com/download.html)
-*   [Website Ripper Copier](https://www.tensons.com/products/websiterippercopier)
+*   [ccding/go-stun (⭐720)](https://github.com/ccding/go-stun) — A go implementation of the STUN client (RFC 3489 and RFC 5389) ☆`721`
+
+## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Developer Tools
+
+*   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Third-party APIs
+
+*   [httpsms-go](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
+*   [lemonsqueezy-go](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Syntax / Markdown and LaTeX
+
+*   [bird-chinese-community/BIRD.nvim](https://github.com/bird-chinese-community/BIRD.nvim) - Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [alsi-lawr/neotheme.nvim](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
+
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Main National Search Engines
 
@@ -643,6 +661,16 @@
 *   [Torch](https://www.torchbrowser.com)
 *   [UCBrowser](https://www.ucweb.com)
 
+### Offline Browsing / GitHub
+
+*   [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
+*   [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
+*   [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
+*   [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
+*   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
+*   [WebAssistant](https://www.proxy-offline-browser.com/download.html)
+*   [Website Ripper Copier](https://www.tensons.com/products/websiterippercopier)
+
 ### Social Network Analysis / GitHub
 
 *   [Sentinel Visualizer](https://www.fmsasg.com)
@@ -674,7 +702,7 @@
 
 *   [Bellingcat's Online Investigation Toolkit](https://bit.ly/bcattools)
 
-## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / AI & LLM Testing
 
@@ -692,7 +720,7 @@
 
 *   [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
-## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Forums
 
@@ -798,7 +826,7 @@
 *   [The Definitive Security Data Science and Machine Learning Guide](https://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/) - Written by JASON TROS.
 *   [The bug bounty program that changed my life](https://10degres.net/the-bug-bounty-program-that-changed-my-life/) - Written by [Gwen](https://10degres.net/).
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Caching
 
@@ -1014,7 +1042,7 @@
 
 *   [TheServerSide.com](https://www.theserverside.com)
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
@@ -1333,13 +1361,20 @@
 
 *   [Inqlude](https://inqlude.org/) - The Qt library archive.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [Livediff (⭐211)](https://github.com/SoCkEt7/Livediff) \[[livediff](https://crates.io/crates/livediff)] - Real-time terminal file diff monitoring TUI. [![Release](https://github.com/SoCkEt7/Livediff/actions/workflows/release.yml/badge.svg)](https://github.com/SoCkEt7/Livediff/actions/workflows/release.yml)
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / General Tools
+
+*   [HTTrack](https://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AirServer](https://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+*   [Memo](https://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1212409035?platform=mac)
+*   [Numi](https://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Text Editors
 
@@ -1567,12 +1602,6 @@
 *   [eZip](https://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [muCommander](https://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucommander/mucommander) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / General Tools
-
-*   [AirServer](https://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-*   [Memo](https://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1212409035?platform=mac)
-*   [Numi](https://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Utilities / To-Do Lists
 
 *   [2Do](https://www.2doapp.com/) - Nice todo app.
@@ -1630,7 +1659,7 @@
 *   AppKed：~~`https://www.macbed.com`~~
 *   Appstorrent：~~`https://appstorrent.ru/`~~
 
-## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [12. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Encoding Tools
 
@@ -1718,17 +1747,41 @@
 
 *   [PeerTube (GitHub) (⭐15k)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video hosting platform using WebRTC P2P in-browser delivery to offload server bandwidth, including live streaming support.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
+
+### Software / Database Management
+
+*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver). ([Source Code](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [snowshare](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
+
+### Software / Media Streaming - Video Streaming
+
+*   [Tiramisu](https://github.com/MrRobotoGit/tiramisu) - BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`
+
+### Software / Proxy
+
+*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Travel Organization
 
 *   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐268)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Search
 
 *   [searchly.com](https://www.searchly.com/) - Free 2 indices and 20 MB storage
+
+### Email
+
+*   [Suped](https://www.suped.com/) - A user-friendly DMARC monitoring platform. The free plan covers one domain with up to 1,000 emails per month.
 
 ### Managed Data Services
 
@@ -1741,12 +1794,13 @@
 ### IDE and Code Editing
 
 *   [Brackets](https://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+*   [Codeground](https://codeground.ai/) - Free browser IDE and playgrounds for 15+ languages plus Postgres, MySQL, MongoDB, and Redis. Shareable snippets, coding interviews, and cloud workspaces. Free playgrounds need no install.
 
 ### Payment and Billing Integration
 
 *   [Qonversion](https://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
 
-## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 
@@ -1760,7 +1814,7 @@
 
 *   [Nika (⭐25)](https://github.com/supernovae-st/nika) - Intent-as-code workflow engine for AI data pipelines: reviewable YAML DAGs statically checked (schema, permits, cost floor) before execution, with tamper-evident run traces.
 
-## [12. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [16. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### MCP Servers
 
