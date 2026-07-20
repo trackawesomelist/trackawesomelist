@@ -24,6 +24,10 @@
 
 *   [q](https://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
+### AI / Agents
+
+*   [agentty (⭐82)](https://github.com/1ay1/agentty) - C++ agent TUI.
+
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
 ### AI / Agents
@@ -942,7 +946,7 @@
 ### Utilities / Network Utilities
 
 *   [acmetool (⭐2.1k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐915)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [certificate-ripper (⭐919)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 

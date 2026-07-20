@@ -6,6 +6,16 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Jul 20, 2026](/content/2026/07/20/README.md)
+
+### Archive of Icons
+
+*   [Icons8](https://icons8.com/icons) - 1,500,000+ free icons in over 130 styles including iOS 17 Outlined, Fluency, and Glyph Neue. SVG and PNG.
+
+### Tools
+
+*   [fontglyph](https://fontglyph.com/) - Converts a library of your SVG and PNG to a web optimized Icon font, entirely in-browser.
+
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
 ### Tools
@@ -125,13 +135,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐21k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐417)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐419)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 
@@ -165,12 +175,12 @@ A curated list of awesome Web Font Icons
 ### Generic
 
 *   [Material Design Icons (⭐11k)](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
-*   [Evil Icons](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
+*   [Evil Icons (⭐5k)](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
 *   [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
 
 ### Merchants
 
-*   [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐123)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
@@ -207,13 +217,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
+*   [SuperTinyIcons (⭐15k)](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
 
 ## [Oct 04, 2020](/content/2020/10/04/README.md)
 
 ### Merchants
 
-*   [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.7k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
@@ -254,7 +264,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐722)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐727)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 10, 2019](/content/2019/05/10/README.md)
 
@@ -268,7 +278,6 @@ A curated list of awesome Web Font Icons
 
 *   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
 *   [svg-icon (⭐1.1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
-*   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 *   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
 ### Generic

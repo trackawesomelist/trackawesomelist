@@ -6,6 +6,12 @@ List of curated, practical information resources to care for dogs, cats, fishes,
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / Weekly / [Overview](/content/omkar-foss/awesome-animal-care/readme/README.md) ]
 
+## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
+
+### Fishes / Fish Care & Treatment
+
+*   [GallonMath](https://gallonmath.com/) - Free aquarium calculators for tank volume, stocking level, heater size, substrate amount and salinity.
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Hamsters / Hamster Books
