@@ -6,6 +6,21 @@ A curated list of roadmaps.
 
 [ [Daily](/content/liuchong/awesome-roadmaps/README.md) / Weekly / [Overview](/content/liuchong/awesome-roadmaps/readme/README.md) ]
 
+## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
+
+### AI / Machine Learning / Data Science
+
+*   [AI, Governance & GTM Career Roadmaps (⭐9)](https://github.com/Hardik-369/ROADMAP) - Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Forward Deployed Engineer Roadmap (⭐11)](https://github.com/thecoder8890/forward-deployed-engineer-roadmap) - Roadmap of a Forward Deployed Engineer who partners with customers to design, build, and deploy production-ready enterprise systems. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+
+### Tools & Resources
+
+*   [TutorialSearch](https://tutorialsearch.io/?q=roadmaps) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories. <img alt="Search tool" src="https://img.shields.io/badge/Type-Tool-0A66C2">
+
+### Articles & Books
+
+*   [AI Agents in Depth (⭐6.7k)](https://github.com/bojieli/ai-agent-book) - Open-source book on AI agent design and engineering, with bilingual (Chinese/English) text and per-chapter code covering context engineering, tools, evaluation, and multi-agent systems. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Book" src="https://img.shields.io/badge/Format-Book-6F42C1"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Web Development
@@ -21,7 +36,7 @@ A curated list of roadmaps.
 *   [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Free hands-on AI agents course covering agent fundamentals, smolagents, LangGraph, LlamaIndex, use cases, and evaluation challenges. <img alt="Course" src="https://img.shields.io/badge/Format-Course-0A66C2">
 *   [LLM Systems Engineering Roadmap (⭐167)](https://github.com/h9-tec/llm-systems-engineering-roadmap) - Practical LLM systems roadmap covering internals, inference, RAG, agents, evaluation, and production architecture. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
-### Articles
+### Articles & Books
 
 *   [Backend Developer Roadmap](https://www.geeksforgeeks.org/websites-apps/backend-developer-roadmap/) - Article covering a backend learning path across web fundamentals, programming languages, databases, APIs, security, and frameworks. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 *   [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic engineering article covering practical patterns for workflows, autonomous agents, evaluation, and agent-computer interfaces. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
@@ -47,13 +62,13 @@ A curated list of roadmaps.
 ### Web Development
 
 *   [Angular Developer Roadmap (Alternative) (⭐156)](https://github.com/saifaustcse/angular-developer-roadmap) - Alternative Angular roadmap focused on what to learn next across the ecosystem. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - ASP.NET Core roadmap with a maintained visual path and multilingual documentation. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [ASP.NET Core Developer Roadmap (⭐20k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - ASP.NET Core roadmap with a maintained visual path and multilingual documentation. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [Frontend Developer Roadmap (⭐4)](https://github.com/Yousha/Frontend-Developer-Roadmap) - Frontend developer roadmap with a visual path across core web technologies, frameworks, and tooling. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [Frontend Development Roadmap (⭐4.7k)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/public/2024_FE_roadmap.pdf) - Frontend interview checklist and roadmap published as a PDF. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="PDF roadmap" src="https://img.shields.io/badge/Format-PDF-B30B00?logo=adobeacrobatreader&logoColor=white">
 
 ### Mobile Development
 
-*   [Android Developer Roadmap (Alternative)](https://github.com/skydoves/android-developer-roadmap) - Alternative Android roadmap with comprehensive learning paths across the Android ecosystem. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Android Developer Roadmap (Alternative) (⭐7.8k)](https://github.com/skydoves/android-developer-roadmap) - Alternative Android roadmap with comprehensive learning paths across the Android ecosystem. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Infrastructure / Operations
 
@@ -78,13 +93,13 @@ A curated list of roadmaps.
 *   [Mathematics Roadmap (⭐3.5k)](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - Comprehensive mathematics roadmap spanning foundations, core fields, and advanced topics. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [System Design Roadmap (⭐471)](https://github.com/moshafiei/system-design-master-plan) - System design and architecture roadmap focused on large-scale design topics. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
-### Articles
+### Articles & Books
 
 *   [The VM Lifecycle: How We Got Here, and Where We're Going](https://www.rapid7.com/blog/post/2022/03/16/the-vm-lifecycle-how-we-got-here-and-where-were-going/) - Roadmap-style article explaining the vulnerability management lifecycle, its phases, and how mature VM programs evolve over time. <img alt="Year 2023" src="https://img.shields.io/badge/Year-2023-yellow"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
-### Articles
+### Articles & Books
 
 *   [Data Analytics Roadmap](https://www.appliedaicourse.com/blog/data-analytics-roadmap/) - Blog article covering a data analytics learning path, skills, and tooling. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
@@ -92,7 +107,7 @@ A curated list of roadmaps.
 
 ### Mobile Development
 
-*   [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Android learning roadmap with visual maps, study notes, and companion material. <img alt="Year 2020" src="https://img.shields.io/badge/Year-2020-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Android Developer Roadmap (⭐4.1k)](https://github.com/mobile-roadmap/android-developer-roadmap) - Android learning roadmap with visual maps, study notes, and companion material. <img alt="Year 2020" src="https://img.shields.io/badge/Year-2020-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### AI / Machine Learning / Data Science
 
@@ -106,7 +121,7 @@ A curated list of roadmaps.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
-### Articles
+### Articles & Books
 
 *   [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Blog article outlining a Java full-stack learning path and related career topics. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
@@ -162,7 +177,7 @@ A curated list of roadmaps.
 
 ### Game Development
 
-*   [Game Programming Roadmap](https://github.com/miloyip/game-programmer) - Study path for game programmers with an emphasis on core engineering topics. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellow"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Game Programming Roadmap (⭐19k)](https://github.com/miloyip/game-programmer) - Study path for game programmers with an emphasis on core engineering topics. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellow"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### AI / Machine Learning / Data Science
 
@@ -176,7 +191,7 @@ A curated list of roadmaps.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
-### Articles
+### Articles & Books
 
 *   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - Medium article with a step-by-step Android learning roadmap and supporting resources. <img alt="Year 2018" src="https://img.shields.io/badge/Year-2018-yellow"> <img alt="Medium article" src="https://img.shields.io/badge/Medium-Article-000000?logo=medium">
 
@@ -184,4 +199,4 @@ A curated list of roadmaps.
 
 ### Web Development
 
-*   [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React roadmap that links the framework to its surrounding ecosystem and tooling. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [React Developer Roadmap (⭐19k)](https://github.com/adam-golab/react-developer-roadmap) - React roadmap that links the framework to its surrounding ecosystem and tooling. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">

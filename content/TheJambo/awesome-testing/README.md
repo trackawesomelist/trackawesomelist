@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jul 20, 2026](/content/2026/07/20/README.md)
+
+### Software / Accessibility & Usability Testing
+
+*   [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
+
 ## [Jul 19, 2026](/content/2026/07/19/README.md)
 
 ### Software / AI & LLM Testing

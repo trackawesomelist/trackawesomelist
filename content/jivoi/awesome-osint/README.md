@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jul 20, 2026](/content/2026/07/20/README.md)
+
+### Image Analysis / GitHub
+
+*   [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
+
 ## [Jul 19, 2026](/content/2026/07/19/README.md)
 
 ### Main National Search Engines
