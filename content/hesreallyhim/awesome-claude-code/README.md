@@ -6,6 +6,12 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Jul 21, 2026](/content/2026/07/21/README.md)
+
+### Creative Media / Obsidian
+
+*   [claude-replay (⭐758)](https://github.com/es617/claude-replay) by [es617](https://github.com/es617) - An outstanding, creative library that converts Claude Code session transcripts into self-contained, embeddable HTML replays - interactive playback with speed control, a local editor, collapsible tool-call and thinking blocks, redaction for private information - the output is fantastic. Also supports other providers.\ <img src="https://img.shields.io/github/created-at/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
 ### Documentation, Knowledge & Learning / Obsidian

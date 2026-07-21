@@ -258,6 +258,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 *   [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 *   [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
+*   [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 *   [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 *   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 *   [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
