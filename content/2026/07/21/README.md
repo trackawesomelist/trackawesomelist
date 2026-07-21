@@ -1,24 +1,123 @@
 # Awesome List Updates on Jul 21, 2026
 
-9 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+### Data transfer
+
+*   [dlvr.sh](https://dlvr.sh/) - CLI for temporary file delivery: upload local files, create controlled share links, download shares, and manage deliveries from scripts and automation.
+
+## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
+
+### Learning Guides
+
+*   [Official tutorial](https://elm-lang.org/docs) — General information and in-depth guide with examples.
+*   [Exercism Elm Track](https://exercism.io/languages/elm) - Collection of Elm exercises.
+*   [Learn you an Elm](https://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
+*   [Beginning Elm](https://elmprogramming.com/) - A gentle introduction to the Elm programming language.
+*   [Elm patterns](https://sporto.github.io/elm-patterns/index.html) - A collection of common patterns in Elm.
+*   [Elm Maybe - Dealing with null/Nothing](https://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
+
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
+
+*   [Elm For Beginners - Video Course](https://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
+*   [Elm FAQ](https://faq.elm-community.org/) - Elm FAQ from [Elm Community](https://elm-community.org/).
+
+### Articles / Why Elm?
+
+*   [Side-effects of Elm in production](https://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html?utm_campaign=Elm%20Weekly\&utm_medium=email\&utm_source=Revue%20newsletter) - An experience report from Bellroy
+*   [How Elm Made Our Work Better](https://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
+*   [Blazing Fast HTML](https://elm-lang.org/blog/blazing-fast-html) - Virtual DOM in Elm.
+*   [Elm from a Business Perspective](https://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
+
+### Conference Videos / Miscellaneous videos
+
+*   [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](https://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
+
+### News / Miscellaneous videos
+
+*   [Elm Weekly](https://www.elmweekly.nl/) - A weekly newsletter about Elm
+
+### Podcasts / Individual Podcast episodes
+
+*   [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
+*   [The Web Platform Podcast 15](https://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
+*   [The Web Platform Podcast 76](https://thewebplatformpodcast.com/76-the-elm-programming-language) - The Elm Programming Language.
+*   [The Web Platform Podcast 108](https://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
+*   [Full Stack Radio 44](https://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
+
+### Code generators / Individual Podcast episodes
+
+*   [HTML to Elm](https://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
+
+### Libraries / Individual Podcast episodes
+
+*   [Elm Search](https://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
+
+### Static site generators / Outdated Boilerplates
+
+*   [Elm Pages](https://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+
+### Showcase generators / Outdated Boilerplates
+
+*   [Elm Book](https://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+
+### Examples / Other editors
+
+*   [Builtwithelm](https://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
+*   [Elm SPA Example](https://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code (⭐3.3k)](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) / [Video](https://youtu.be/RN2_NchjrJQ)
+*   [Elm Playground](https://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
+
+### Community and Support / Games
+
+*   [IRC](https://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
+
+## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+### AI
+
+*   [Heym (⭐761)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+
+### Automation
+
+*   [Orion (⭐7)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / File Transfer - Web-based File Managers
+
+*   [ClyoCloud](https://clyo.cloud/) - A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. ([Source Code](https://code.weexnes.dev/ClyoCloud)) `AGPL-3.0` `Nodejs`
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Colorscheme / Markdown and LaTeX
+
+*   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Rust / Natural Language Processing
+
+*   [shimmytok (⭐21)](https://github.com/Michael-A-Kuykendall/shimmytok) - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
+
+## [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Creative Media / Obsidian
 
 *   [claude-replay (⭐758)](https://github.com/es617/claude-replay) by [es617](https://github.com/es617) - An outstanding, creative library that converts Claude Code session transcripts into self-contained, embeddable HTML replays - interactive playback with speed control, a local editor, collapsible tool-call and thinking blocks, redaction for private information - the output is fantastic. Also supports other providers.\ <img src="https://img.shields.io/github/created-at/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / API Testing
 
 *   \[funapi] (<https://funapi.dev>) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
@@ -32,7 +131,7 @@
 
 *   [Michael-A-Kuykendall/crabcamera (⭐166)](https://github.com/Michael-A-Kuykendall/crabcamera) \[[crabcamera](https://crates.io/crates/crabcamera)] - Tauri plugin providing desktop camera access with automated quality validation and hardware controls.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -135,7 +234,7 @@
 
 *   [YAML (⭐488) (⭐485)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Learning
 
@@ -153,7 +252,7 @@
 
 *   [flake-edit (⭐64)](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with auto-follows and update functionality directly from the CLI.
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [12. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Encoding & Codecs
 
@@ -341,7 +440,7 @@
 
 *   [HLS Adaptive Streaming Tutorial with CloudFront & JW Player](https://www.miracletutorials.com/hls-adaptive-streaming-tutorial-with-cloudfront-jw-player) - A step-by-step HLS adaptive streaming tutorial with CloudFront & JW Player in two parts. It is easier than you think. This tutorial presumes you have.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
@@ -363,13 +462,13 @@
 
 *   [TrainRouter](https://trainrouter.com/) - Interactive world atlas of 744 notable train routes (high-speed, scenic and night trains) with facts and photos for each route; the underlying data is open (CC BY 4.0).
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 
-## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [15. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 
