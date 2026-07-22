@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Jul 22, 2026](/content/2026/07/22/README.md)
+
+### Misc / Other
+
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
 ### Streaming / Runner

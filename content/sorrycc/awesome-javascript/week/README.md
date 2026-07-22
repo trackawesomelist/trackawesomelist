@@ -12,6 +12,10 @@
 
 *   [Markstream (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
+### Misc / Other
+
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### QA Tools / Runner

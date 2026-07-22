@@ -2,15 +2,26 @@
 
 Curated list of audiovisual projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stingalleman/awesome-audiovisual/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) · ⭐ 169 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stingalleman/awesome-audiovisual/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) · ⭐ 263 · 🏷️ Media
 
 [ [Daily](/content/stingalleman/awesome-audiovisual/README.md) / Weekly / [Overview](/content/stingalleman/awesome-audiovisual/readme/README.md) ]
+
+## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
+
+### Audio / Audio Software
+
+*   [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
+### Tools / Audio tools
+
+*   [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
+*   [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Tools / Audio tools
 
-*   [Ontime (⭐391)](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
+*   [Ontime (⭐914)](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
 *   [stagetimer.io](https://stagetimer.io) - Browser-based remote-controlled countdown timer.  `⚠ freemium`.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
@@ -55,11 +66,11 @@ Curated list of audiovisual projects
 
 ### Libraries and frameworks / Monitoring
 
-*   [node-dmx (⭐293)](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
+*   [node-dmx (⭐322)](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### Libraries and frameworks / ArtNet Libraries
 
-*   [artnet4j (⭐93)](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
+*   [artnet4j (⭐110)](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
 
 ### Graphics / ArtNet Libraries
 
@@ -77,11 +88,11 @@ Curated list of audiovisual projects
 
 ### Tools / Timecode
 
-*   [Time MIDI sender (⭐1)](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
+*   [Time MIDI sender (⭐2)](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
 
 ### Resources / ArtNet Libraries
 
-*   [awesome-linuxaudio (⭐1.3k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
+*   [awesome-linuxaudio (⭐1.8k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
@@ -92,8 +103,8 @@ Curated list of audiovisual projects
 *   [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. `⚠ freemium`.
 *   [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free. `⚠ freemium`.
 *   [Hog 4 software](https://www.highend.com/products/consoles/) - Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free. `⚠ freemium`.
-*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code (⭐916)](https://github.com/mcallegari/qlcplus) `✓ open-source`.
-*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code (⭐530)](https://github.com/smeighan/xLights) `✓ open-source`.
+*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code (⭐1.5k)](https://github.com/mcallegari/qlcplus) `✓ open-source`.
+*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code (⭐732)](https://github.com/smeighan/xLights) `✓ open-source`.
 
 ### Lighting / Visualizers
 
@@ -104,14 +115,14 @@ Curated list of audiovisual projects
 ### Audio / Audio Software
 
 *   [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
-*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code (⭐3.7k)](https://github.com/Ardour/ardour) `✓ open-source`.
-*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code (⭐204)](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
+*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code (⭐5.1k)](https://github.com/Ardour/ardour) `✓ open-source`.
+*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code (⭐299)](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
 *   [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 *   [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
 
 ### Tools / Audio tools
 
-*   [Livescript (⭐5)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
+*   [Livescript (⭐7)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 
 ### Tools / CADs
 
@@ -119,31 +130,31 @@ Curated list of audiovisual projects
 
 ### Tools / Timecode
 
-*   [TCgenerator (⭐3)](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
-*   [Timecode (⭐37)](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
+*   [TCgenerator (⭐4)](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
+*   [Timecode (⭐62)](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
 *   [TimelordMTC](https://timelord-mtc.com/) - Advanced timecode management tool. `⚠ not free`.
-*   [M2Q (⭐8)](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
+*   [M2Q (⭐15)](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
 
 ### Tools / Monitoring
 
-*   [AES67 WebMeter (⭐8)](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
-*   [meters.lv2 (⭐181)](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
+*   [AES67 WebMeter (⭐12)](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
+*   [meters.lv2 (⭐223)](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
 *   [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more. `✓ open-source`.
 
 ### Libraries and frameworks / Monitoring
 
-*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code (⭐632)](https://github.com/OpenLightingProject/ola)
+*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code (⭐742)](https://github.com/OpenLightingProject/ola)
 
 ### Misc/other / GrandMA2 tutorials
 
-*   [Blender ArtNet (⭐37)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
-*   [MIDI Monster (⭐481)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
+*   [Blender ArtNet (⭐42)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
+*   [MIDI Monster (⭐597)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### Libraries and frameworks / ArtNet Libraries
 
-*   [artnet (⭐120)](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`.
+*   [artnet (⭐126)](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`.
 
 ### Resources / ArtNet Libraries
 
