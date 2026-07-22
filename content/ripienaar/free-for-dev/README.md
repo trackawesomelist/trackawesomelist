@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jul 22, 2026](/content/2026/07/22/README.md)
 
+### Tools for Teams and Collaboration
+
+*   [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (\~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, 30-day history, Gmail threading, canned responses and push notifications.
+
 ### Monitoring
 
 *   [Accesserty Pulse](https://accesserty.com/en/pulse) - Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.

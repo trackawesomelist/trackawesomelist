@@ -1,12 +1,35 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2026
 
-31 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Ducksss/codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) — Manage named Codex homes and separate ChatGPT windows ☆`64`
+
+### Productivity / Clipboard
+
+*   [hukdoesn/Nimclip (⭐45)](https://github.com/hukdoesn/Nimclip) — Native local-only clipboard history manager for macOS ☆`45`
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Utilities
+
+*   [LAN Orangutan (⭐447)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+
+## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### FPS
+
+*   [FnQ3 (⭐5)](https://github.com/themuffinator/FnQ3) - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+*   [FnQL (⭐6)](https://github.com/themuffinator/FnQL) - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
+
+## [4. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Audio / Audio Software
 
@@ -17,7 +40,7 @@
 *   [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
 *   [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
 
-## [2. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Building Images / Base Images
 
@@ -47,7 +70,7 @@
 
 *   [dockup (⭐3)](https://github.com/paulo-amaral/dockup) - TUI to install, harden and maintain container runtimes: Docker Engine + Compose v2, NVIDIA Container Toolkit, Podman and Apple container, with a CIS-inspired security audit.
 
-## [3. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides
 
@@ -112,7 +135,7 @@
 
 *   [IRC](https://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 
-## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -122,7 +145,7 @@
 
 *   [Orion (⭐7)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -132,13 +155,26 @@
 
 *   [polluSensWeb](https://wespeakenglish.github.io/polluSensWeb/) - Web-based serial interface and charting tool for visualizing and logging data from UART pollution sensors (PM2.5, VOC, etc). Features live data acquisition, dynamic charts, CSV export, and webhook integration. ([Demo](https://wespeakenglish.github.io/polluSensWeb/), [Source Code (⭐11)](https://github.com/WeSpeakEnglish/polluSensWeb), [Clients (⭐11)](https://github.com/WeSpeakEnglish/polluSensWeb/releases)) `MIT` `Javascript`
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / Natural Language Processing
 
 *   [shimmytok (⭐21)](https://github.com/Michael-A-Kuykendall/shimmytok) - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [samyama-ai/samyama-graph (⭐78)](https://github.com/samyama-ai/samyama-graph) - Rust-native graph-vector database for GraphRAG, knowledge graphs, vector search, and graph analytics.
+
+### Applications / Security tools
+
+*   [timescale/rsigma (⭐111)](https://github.com/timescale/rsigma) \[[rsigma](https://crates.io/crates/rsigma)] - A complete detection engineering toolkit for the Sigma detection standard, with a parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP [![CI](https://github.com/timescale/rsigma/actions/workflows/ci.yml/badge.svg)](https://github.com/timescale/rsigma/actions/workflows/ci.yml)
+
+### Applications / Utilities
+
+*   [artob/edky (⭐8)](https://github.com/artob/edky) \[[edky](https://crates.io/crates/edky)] - A command-line utility to convert Ed25519 public keys between various encoding formats (Base58, Base64, IPFS, iroh, libp2p, OpenSSH, etc). [![Build Status](https://github.com/artob/edky/actions/workflows/rust.yaml/badge.svg)](https://github.com/artob/edky/blob/master/.github/workflows/rust.yaml)
+*   [tareqmy/gitwig (⭐53)](https://github.com/tareqmy/gitwig) \[[CRATE](https://crates.io/crates/gitwig)] - A mouse-drivable git TUI and multi-repo dashboard.
 
 ### Applications / Video
 
@@ -146,13 +182,14 @@
 
 ### Libraries / Artificial Intelligence
 
+*   [Michael-A-Kuykendall/shimmy (⭐5.7k)](https://github.com/Michael-A-Kuykendall/shimmy) \[[shimmy](https://crates.io/crates/shimmy)] - Pure-Rust WebGPU inference engine with an OpenAI-compatible API and native GGUF support.
 *   [Michael-A-Kuykendall/shimmytok (⭐21)](https://github.com/Michael-A-Kuykendall/shimmytok) \[[shimmytok](https://crates.io/crates/shimmytok)] - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
 
 ### Libraries / Peripherals
 
 *   [Michael-A-Kuykendall/crabcamera (⭐166)](https://github.com/Michael-A-Kuykendall/crabcamera) \[[crabcamera](https://crates.io/crates/crabcamera)] - Tauri plugin providing desktop camera access with automated quality validation and hardware controls.
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -255,7 +292,7 @@
 
 *   [YAML (⭐488) (⭐485)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [12. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -273,7 +310,7 @@
 
 *   [flake-edit (⭐64)](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with auto-follows and update functionality directly from the CLI.
 
-## [10. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [13. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Encoding & Codecs
 
@@ -461,7 +498,7 @@
 
 *   [HLS Adaptive Streaming Tutorial with CloudFront & JW Player](https://www.miracletutorials.com/hls-adaptive-streaming-tutorial-with-cloudfront-jw-player) - A step-by-step HLS adaptive streaming tutorial with CloudFront & JW Player in two parts. It is easier than you think. This tutorial presumes you have.
 
-## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
@@ -483,23 +520,25 @@
 
 *   [TrainRouter](https://trainrouter.com/) - Interactive world atlas of 744 notable train routes (high-speed, scenic and night trains) with facts and photos for each route; the underlying data is open (CC BY 4.0).
 
-## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
+*   [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
 
-## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [16. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
 *   [Better Agent (⭐24)](https://github.com/ofekron/better-agent) - Local workspace for persistent Gemini CLI, Claude Code, and Codex sessions with detached execution, restart recovery, parallel forks, delegation, and approval gates. Source-available; free for non-commercial use.
+*   [Agentlas OS (⭐971)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
 
 ### :tada: New
 
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 
-## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [17. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Command Line Tools
 
@@ -509,13 +548,13 @@
 
 *   [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for developing python code for the Arduino. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/arduino/arduino-ide)
 
-## [15. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [18. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IDEs / SRAM
 
 *   [ESP IDE](https://espide.eu/) - A browser-based MicroPython IDE for ESP32 and RPi Pico boards with Blockly and text-based programming.
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Streaming / Runner
 
@@ -525,20 +564,24 @@
 
 *   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Finance / Audio Record and Process
+
+*   [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P\&L. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fatwang2/Pulse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
 *   [TypeCue](https://typecue.app) - Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexpolonsky/TypeCue) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [18. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [21. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Basic linear algebra
 
 *   [Eigen](https://libeigen.gitlab.io/) - C++ template library for linear algebra.
     (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 
-## [19. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [22. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -548,19 +591,19 @@
 
 *   [fontglyph](https://fontglyph.com/) - Converts a library of your SVG and PNG to a web optimized Icon font, entirely in-browser.
 
-## [20. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [23. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Fishes / Fish Care & Treatment
 
 *   [GallonMath](https://gallonmath.com/) - Free aquarium calculators for tank volume, stocking level, heater size, substrate amount and salinity.
 
-## [21. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [24. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
 *   [Reactiflux Discord Channel](https://www.reactiflux.com/)
 
-## [22. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [25. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Documentation, Knowledge & Learning / Obsidian
 
@@ -584,13 +627,13 @@
 *   [ccusage (⭐17k)](https://github.com/ccusage/ccusage) by [ryoppippi](https://github.com/ryoppippi) - A zero-install CLI (npx ccusage) that analyzes Claude Code token usage and cost from local JSONL logs — daily, monthly, per-session, and 5-hour-block breakdowns, a live monitoring mode, and per-model cost estimates. Runs entirely locally, with JSON output for scripting.\ <img src="https://img.shields.io/github/created-at/ccusage/ccusage?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ccusage/ccusage?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ccusage/ccusage?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [ClaudeBar (⭐1.3k)](https://github.com/tddworks/ClaudeBar) by [tddworks](https://github.com/tddworks) - A macOS menu-bar app that surfaces remaining usage quota for Claude, Codex, Gemini, Copilot, and other AI coding providers at a glance, with burn-rate, dollar-balance, and reset-countdown indicators plus a lightweight live-session indicator. Swift 6 with a layered Domain/Infrastructure architecture.\ <img src="https://img.shields.io/github/created-at/tddworks/ClaudeBar?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/tddworks/ClaudeBar?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/tddworks/ClaudeBar?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/tddworks/ClaudeBar?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Image Analysis / GitHub
 
 *   [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
 
-## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -600,7 +643,7 @@
 
 *   [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Storage and Media Processing
 
@@ -609,6 +652,10 @@
 ### APIs, Data, and ML
 
 *   [Inngest](https://www.inngest.com) - Durable execution and event-driven workflows for TypeScript, Python, and Go. Hobby plan is free with 50k executions/month, 5 concurrent steps, 500k events ingested, and no credit card required.
+
+### Tools for Teams and Collaboration
+
+*   [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (\~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, 30-day history, Gmail threading, canned responses and push notifications.
 
 ### CI and CD
 
@@ -676,13 +723,13 @@
 
 *   [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
 
-## [26. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [29. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Special
 
 *   [GeoIcons (⭐9)](https://github.com/getgeoicons/geoicons#readme) - Geographic map icons as tree-shakable SVG components. ([Website](https://geoicons.io))
 
-## [27. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [30. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### AI / Machine Learning / Data Science
 
@@ -697,7 +744,7 @@
 
 *   [AI Agents in Depth (⭐6.7k)](https://github.com/bojieli/ai-agent-book) - Open-source book on AI agent design and engineering, with bilingual (Chinese/English) text and per-chapter code covering context engineering, tools, evaluation, and multi-agent systems. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Book" src="https://img.shields.io/badge/Format-Book-6F42C1"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -707,13 +754,17 @@
 
 *   [JulOuellet/bzl.nvim (⭐1)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 
-## [29. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
+### Keybinding / Tree-sitter Based
+
+*   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+
+## [32. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
 
 ### Tools / Node
 
 *   [AgentBox (⭐236)](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### oh-my-zsh
 
@@ -732,7 +783,7 @@
 *   [last-pwd (⭐1)](https://github.com/itssimmons/zsh-lastpwd) - Remembers the last directory you were in and restores it the next time you open a terminal.
 *   [orthocal (⭐0)](https://github.com/darthtrevino/omz-orthocal) - Displays today's Orthodox feast, saints, fasting, and scripture reading information in your ZSH prompt using the [Orthocal.info](https://orthocal.info/) API.
 
-## [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -740,11 +791,15 @@
 
 ### Entertainment / Video
 
-*   [capcut-cli (⭐139)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
+*   [capcut-cli (⭐191)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 
 ### Entertainment / Games
 
 *   [Dwarf Fortress](https://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [confluence-cli (⭐243)](https://github.com/pchuri/confluence-cli) - Confluence client.
 
 ### Data Manipulation / Columns
 

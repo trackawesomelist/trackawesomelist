@@ -14,11 +14,15 @@
 
 ### Entertainment / Video
 
-*   [capcut-cli (⭐139)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
+*   [capcut-cli (⭐191)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 
 ### Entertainment / Games
 
 *   [Dwarf Fortress](https://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [confluence-cli (⭐243)](https://github.com/pchuri/confluence-cli) - Confluence client.
 
 ### Data Manipulation / Columns
 
@@ -38,15 +42,15 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [feeling (⭐24)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
+*   [feeling (⭐28)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [filecast (⭐58)](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
+*   [filecast (⭐64)](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
 
 ### Version Control / GitHub
 
-*   [gitfetch (⭐389)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
+*   [gitfetch (⭐390)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -231,11 +235,11 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [kanban (⭐138)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐151)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### Data Manipulation / Processors
 
-*   [mq (⭐955)](https://github.com/harehare/mq) - Jq-like markdown processor.
+*   [mq (⭐980)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### AI / Agents
 
@@ -364,7 +368,7 @@
 
 ### Version Control / Git
 
-*   [lazygit (⭐80k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+*   [lazygit (⭐81k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [gibr (⭐111)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### Images / Emoji
@@ -374,7 +378,7 @@
 
 ### Screensavers / Image Conversion
 
-*   [gitlogue (⭐4.8k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+*   [gitlogue (⭐4.9k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ### AI / Agents
 
@@ -434,7 +438,7 @@
 
 ### Utilities / Science
 
-*   [periodic-table-cli (⭐297)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+*   [periodic-table-cli (⭐298)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -484,7 +488,7 @@
 
 ### Entertainment / Books
 
-*   [hygg (⭐334)](https://github.com/kruserr/hygg) - Document reader.
+*   [hygg (⭐341)](https://github.com/kruserr/hygg) - Document reader.
 
 ### Development / Public localhost
 
@@ -540,7 +544,7 @@
 
 ### Files and Directories / Files
 
-*   [scc (⭐8.5k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+*   [scc (⭐8.6k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 
 ## [Sep 01 - Sep 07, 2025](/content/2025/35/README.md)
 
@@ -629,7 +633,7 @@
 
 ### Files and Directories / File Managers
 
-*   [yazi (⭐40k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐41k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -681,7 +685,7 @@
 
 ### Productivity / Testing
 
-*   [fjira (⭐271)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐272)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Productivity / Finance
 
@@ -778,10 +782,10 @@
 *   [bcal (⭐697)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 *   [bitwise (⭐717)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐385)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐723)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐724)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 *   [is-up-cli (⭐364)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐39)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [diff2html-cli (⭐595)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [diff2html-cli (⭐598)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
@@ -846,7 +850,7 @@
 
 ### Utilities / Calendars
 
-*   [kill-tabs (⭐392)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+*   [kill-tabs (⭐393)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐5.1k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Utilities / Network Utilities
@@ -921,7 +925,7 @@
 
 *   [neovim (⭐101k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐685)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐45k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
+*   [helix (⭐46k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -1076,7 +1080,7 @@
 ### Utilities / Security
 
 *   [pass](https://www.passwordstore.org) - Password manager.
-*   [gopass (⭐7k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
+*   [gopass (⭐7.1k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 *   [xiringuito (⭐1.2k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 *   [ots (⭐1.8k)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
@@ -1090,7 +1094,7 @@
 
 ### Productivity / Finance
 
-*   [ticker (⭐6.1k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐6.2k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
@@ -1114,7 +1118,7 @@
 
 ### Files and Directories / Search
 
-*   [rare (⭐352)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐356)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -1146,7 +1150,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [rename-cli (⭐171)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+*   [rename-cli (⭐172)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 
 ### Files and Directories / Disk Usage
 
@@ -1154,7 +1158,7 @@
 
 ### Files and Directories / Files
 
-*   [unix-permissions (⭐142)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+*   [unix-permissions (⭐143)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 *   [entr (⭐5.6k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 *   [organize-cli (⭐369)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 
@@ -1284,7 +1288,7 @@
 
 *   [alder (⭐250)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [tre (⭐1.2k)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐52)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [ll (⭐53)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
@@ -1503,7 +1507,7 @@
 ### Development / Chat
 
 *   [legit (⭐587)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
-*   [mklicense (⭐203)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+*   [mklicense (⭐204)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
 
@@ -1524,7 +1528,7 @@
 *   [doing (⭐1.3k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐47)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐907)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐908)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐14)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐7.2k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
@@ -1714,7 +1718,7 @@
 
 *   [The Fuck (⭐97k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [tldr (⭐63k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐509)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [Wat (⭐508)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [Apr 24 - Apr 30, 2017](/content/2017/17/README.md)
 

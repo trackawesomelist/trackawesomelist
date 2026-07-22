@@ -6,6 +6,13 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Jul 22, 2026](/content/2026/07/22/README.md)
+
+### FPS
+
+*   [FnQ3 (⭐5)](https://github.com/themuffinator/FnQ3) - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+*   [FnQL (⭐6)](https://github.com/themuffinator/FnQL) - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
+
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
 ### Action
@@ -157,7 +164,7 @@ Actively maintained open-source game remakes.
 *   [singularity (⭐0)](https://github.com/addictgamer/singularity-game-fork) - A simulation of a true AI. Survive, grow, and learn.
 *   [thinker (⭐145)](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
 *   [triplea (⭐1.5k)](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
-*   [Zero-K (⭐813)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+*   [Zero-K (⭐818)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
 
 ## [Jun 18, 2026](/content/2026/06/18/README.md)
 
@@ -178,7 +185,6 @@ Actively maintained open-source game remakes.
 *   [qk1 (⭐7)](https://github.com/qwx9/qk1) - quake 1 and quakeworld port for plan9.
 *   [q2tools-220 (⭐73)](https://github.com/qbism/q2tools-220) - Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes.
 *   [qfusion (⭐78)](https://github.com/Warsow/qfusion) - This is Warsow's fork of qfusion, the id Tech 2 derived game engine.
-*   [QL-SRP](https://github.com/themuffinator/QL-SRP) - Source Reconstruction Project for QUAKE LIVE \[WIP]
 *   [realice (⭐9)](https://github.com/FWGS/realice) - Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.
 *   [REBLIVION (⭐3)](https://github.com/themuffinator/REBLIVION) - Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.
 *   [spearmint (⭐272)](https://github.com/clover-moe/spearmint) - Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.
@@ -274,7 +280,7 @@ Actively maintained open-source game remakes.
 
 *   [DOOM64-EX-Plus-Enhanced (⭐37)](https://github.com/Styd051/DOOM64-EX-Plus-Enhanced) - fork of the Doom 64 EX+ engine, Its main goal is to show what the Doom 64 engine would have looked like if it hadn't been limited by the N64 console.
 *   [EDGE-classic (⭐98)](https://github.com/edge-classic/EDGE-classic) - Cross-Platform OpenGL Doom Source Port with powerful modding features.
-*   [quakeforge (⭐63)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
+*   [quakeforge (⭐66)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
 *   [SeriousSamAlphaRemake (⭐31)](https://github.com/tx00100xt/SeriousSamAlphaRemake) - Serious Sam Alpha Remake open source project based.
 
 ### Platformer
@@ -739,7 +745,7 @@ Actively maintained open-source game remakes.
 *   [KeeperRL (⭐986)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [openage (⭐14k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 *   [OpenLoco (⭐1.7k)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
-*   [OpenTTD (⭐8k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
+*   [OpenTTD (⭐8.1k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
 *   [Sourcehold (⭐278)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 *   [VCMI (⭐5.7k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 *   [Wargus (⭐424)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.

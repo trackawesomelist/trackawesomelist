@@ -12,6 +12,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 
+### Agent Orchestration & CLI Tools
+
+*   [Agentlas OS (⭐971)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
+
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Agent Orchestration & CLI Tools

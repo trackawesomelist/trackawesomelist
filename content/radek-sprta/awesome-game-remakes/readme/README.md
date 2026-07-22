@@ -16,6 +16,8 @@ Most games require original asssets. The ones not requiring paid assets are mark
 
 If you are also interested in clones and similar games (0 A.D. etc.), take a look at [Open Source Game Clones](https://osgameclones.com/).
 
+If you are looking for game archive file formats see: [Awesome Game File Format Reversing (⭐174)](https://github.com/VelocityRa/awesome-game-file-format-reversing/)
+
 ***
 
 ## Contents
@@ -121,6 +123,8 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [ezQuake (⭐405)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
 *   [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower\_playing\_cards:
 *   [Freedoom (⭐1.3k)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine. :flower\_playing\_cards:
+*   [FnQ3 (⭐5)](https://github.com/themuffinator/FnQ3) - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+*   [FnQL (⭐6)](https://github.com/themuffinator/FnQL) - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 *   [ew-progs](https://code.idtech.space/two-guys/ew-progs) - Eternal War: Shadows of Light's progs source code.
 *   [ew-engine](https://code.idtech.space/two-guys/ew-engine) - Eternal War: Shadows of Light's engine source code.
@@ -156,8 +160,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [qfusion (⭐78)](https://github.com/Warsow/qfusion) - This is Warsow's fork of qfusion, the id Tech 2 derived game engine.
 *   [quake3-rust-edition (⭐5)](https://github.com/Oli97430/quake3-rust-edition) - id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.
 *   [Quake3e (⭐1.5k)](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
-*   [quakeforge (⭐63)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
-*   [QL-SRP](https://github.com/themuffinator/QL-SRP) - Source Reconstruction Project for QUAKE LIVE \[WIP]
+*   [quakeforge (⭐66)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 *   [Raze (⭐864)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 *   [RBDOOM-3-BFG (⭐1.8k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
@@ -364,7 +367,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [opensage-adk (⭐0)](https://github.com/luann8331/opensage-adk) - Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks
 *   [OpenSC2K (⭐5.1k)](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
 *   [OpenTPW (⭐154)](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
-*   [OpenTTD (⭐8k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
+*   [OpenTTD (⭐8.1k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
 *   [OpenXcom (⭐2.2k)](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
 *   [OutpostHD (⭐138)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
 *   [Ozymandias (⭐2)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
@@ -407,5 +410,5 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [Warzone 2100 (⭐3.9k)](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game. :flower\_playing\_cards:
 *   [WazzaP's Boss Generals Mod (⭐2)](https://github.com/ItsWazzaP/wazzaps-boss-generals) - The official repository of WazzaP's Boss Generals mod for C\&C Generals Zero Hour
 *   [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
-*   [Zero-K (⭐813)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+*   [Zero-K (⭐818)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
 

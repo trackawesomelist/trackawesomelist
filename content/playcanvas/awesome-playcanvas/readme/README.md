@@ -279,6 +279,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
 *   [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 *   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
+*   [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
 *   [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.

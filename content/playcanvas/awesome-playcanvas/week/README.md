@@ -11,6 +11,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
+*   [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 

@@ -1,24 +1,94 @@
 # Awesome List Updates on Jul 22, 2026
 
-6 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Ducksss/codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) — Manage named Codex homes and separate ChatGPT windows ☆`64`
+
+### Productivity / Clipboard
+
+*   [hukdoesn/Nimclip (⭐45)](https://github.com/hukdoesn/Nimclip) — Native local-only clipboard history manager for macOS ☆`45`
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Utilities
+
+*   [LAN Orangutan (⭐447)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Database
+
+*   [samyama-ai/samyama-graph (⭐78)](https://github.com/samyama-ai/samyama-graph) - Rust-native graph-vector database for GraphRAG, knowledge graphs, vector search, and graph analytics.
+
+### Applications / Security tools
+
+*   [timescale/rsigma (⭐111)](https://github.com/timescale/rsigma) \[[rsigma](https://crates.io/crates/rsigma)] - A complete detection engineering toolkit for the Sigma detection standard, with a parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP [![CI](https://github.com/timescale/rsigma/actions/workflows/ci.yml/badge.svg)](https://github.com/timescale/rsigma/actions/workflows/ci.yml)
+
+### Applications / Utilities
+
+*   [artob/edky (⭐8)](https://github.com/artob/edky) \[[edky](https://crates.io/crates/edky)] - A command-line utility to convert Ed25519 public keys between various encoding formats (Base58, Base64, IPFS, iroh, libp2p, OpenSSH, etc). [![Build Status](https://github.com/artob/edky/actions/workflows/rust.yaml/badge.svg)](https://github.com/artob/edky/blob/master/.github/workflows/rust.yaml)
+*   [tareqmy/gitwig (⭐53)](https://github.com/tareqmy/gitwig) \[[CRATE](https://crates.io/crates/gitwig)] - A mouse-drivable git TUI and multi-repo dashboard.
+
+### Libraries / Artificial Intelligence
+
+*   [Michael-A-Kuykendall/shimmy (⭐5.7k)](https://github.com/Michael-A-Kuykendall/shimmy) \[[shimmy](https://crates.io/crates/shimmy)] - Pure-Rust WebGPU inference engine with an OpenAI-compatible API and native GGUF support.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Finance / Audio Record and Process
+
+*   [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P\&L. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fatwang2/Pulse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [5. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### FPS
+
+*   [FnQ3 (⭐5)](https://github.com/themuffinator/FnQ3) - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+*   [FnQL (⭐6)](https://github.com/themuffinator/FnQL) - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
+
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Keybinding / Tree-sitter Based
+
+*   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [confluence-cli (⭐243)](https://github.com/pchuri/confluence-cli) - Confluence client.
+
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
 *   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Internet of Things (IoT)
 
 *   [polluSensWeb](https://wespeakenglish.github.io/polluSensWeb/) - Web-based serial interface and charting tool for visualizing and logging data from UART pollution sensors (PM2.5, VOC, etc). Features live data acquisition, dynamic charts, CSV export, and webhook integration. ([Demo](https://wespeakenglish.github.io/polluSensWeb/), [Source Code (⭐11)](https://github.com/WeSpeakEnglish/polluSensWeb), [Clients (⭐11)](https://github.com/WeSpeakEnglish/polluSensWeb/releases)) `MIT` `Javascript`
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (\~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, 30-day history, Gmail threading, canned responses and push notifications.
 
 ### Monitoring
 
@@ -77,7 +147,7 @@
 *   [Xitoring.com](https://xitoring.com/) - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
 *   [UptimeRobot](https://uptimerobot.com/) - Free uptime monitoring for hobby projects. Includes 50 monitors with 5-minute check intervals, supports HTTP, ping, port, and keyword monitoring.
 
-## [4. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Audio / Audio Software
 
@@ -88,7 +158,7 @@
 *   [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
 *   [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
 
-## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [13. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Building Images / Base Images
 
@@ -118,11 +188,15 @@
 
 *   [dockup (⭐3)](https://github.com/paulo-amaral/dockup) - TUI to install, harden and maintain container runtimes: Docker Engine + Compose v2, NVIDIA Container Toolkit, Podman and Apple container, with a CIS-inspired security audit.
 
-## [6. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### :tada: New
 
 *   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
+
+### Agent Orchestration & CLI Tools
+
+*   [Agentlas OS (⭐971)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
 
 ---
 
