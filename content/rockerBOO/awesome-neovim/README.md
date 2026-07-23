@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+
 ### Colorscheme / Markdown and LaTeX
 
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.

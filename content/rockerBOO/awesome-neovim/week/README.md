@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.

@@ -2,11 +2,13 @@
 
 An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 10 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 29 · 🏷️ Development Environment
 
 [ [Daily](/content/totpero/awesome-qgis/README.md) / [Weekly](/content/totpero/awesome-qgis/week/README.md) / Overview ]
 
 ---
+
+[<img src="https://qgis.org/styleguide/visual/qgis-logo.svg" align="center" width="850">](https://qgis.org/)
 
 # Awesome QGIS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -33,11 +35,12 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 ## Official Resources
 
 *   [QGIS Official Website](https://qgis.org/) - Main project website with downloads, news, and documentation.
-*   [GitHub Repository](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
+*   [GitHub Repository (⭐14k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
 *   [Visual Changelogs](https://qgis.org/project/visual-changelogs/) - Illustrated changelogs for each QGIS release.
 *   [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
 *   [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
 *   [Visual Style Guide](https://qgis.org/styleguide/) - Official branding and visual identity guidelines.
+*   [UPGIS](https://upgis.com/) - Chinese GIS community portal with mapping and developer discussions.
 
 ## Documentation
 
@@ -59,6 +62,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 *   [Shape Tools](https://plugins.qgis.org/plugins/shapetools/) - Create geodesic shapes, measure bearings, and flip coordinates.
 *   [Point Sampling Tool](https://plugins.qgis.org/plugins/pointsamplingtool/) - Sample raster and polygon values at point locations.
 *   [GeoCoding](https://plugins.qgis.org/plugins/GeoCoding/) - Forward and reverse address lookup via Nominatim and Google.
+*   [Zornade Italian Parcel Downloader](https://plugins.qgis.org/plugins/zornade_parcel_downloader/) - Download enriched Italian cadastral parcels with 110+ attribute fields (terrain, demographics, land use, OMI valuation, hydrogeological risk) via the free Zornade API.
 
 ### Basemaps and Web Services
 
@@ -186,6 +190,6 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 
 ## Related Lists
 
-*   [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS (⭐5.4k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐5.2k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
 

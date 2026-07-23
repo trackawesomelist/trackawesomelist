@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jul 23, 2026](/content/2026/07/23/README.md)
+
+### Fundamentals / Utility
+
+*   [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
+
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
 ### Fundamentals / Utility
@@ -1383,7 +1389,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Language Essentials / File Format Processing
 
-*   [ziglibs/known-folders (⭐318)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐320)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [tiehuis/zig-regex (⭐251)](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
 *   [jecolon/ziglyph (⭐214)](https://github.com/jecolon/ziglyph) - Unicode text processing for the Zig programming language.
 *   [kubkon/zig-yaml (⭐295)](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
@@ -1456,7 +1462,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Systems Programming / Compilers and Interpreters
 
 *   [buzz (⭐1.5k)](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language.
-*   [fubark/cyber (⭐1.4k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
+*   [fubark/cyber (⭐1.5k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## [Dec 19, 2023](/content/2023/12/19/README.md)
 

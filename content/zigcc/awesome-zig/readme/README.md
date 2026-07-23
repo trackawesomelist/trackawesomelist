@@ -186,6 +186,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [mtxr/claude-switch (⭐4)](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
 *   [copyleftdev/whatthediff (⭐0)](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 *   [bare-devcontainer/templates (⭐0)](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/zig).
+*   [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 
 ### Linker
 
@@ -271,7 +272,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### File Format Processing
 
-*   [ziglibs/known-folders (⭐318)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐320)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [tiehuis/zig-regex (⭐251)](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
 *   [shaik-abdul-thouhid/ezi-gex (⭐3)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 *   [zoptia/zoptia0regex (⭐0)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
@@ -409,7 +410,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [buzz (⭐1.5k)](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language.
 *   [dawk](https://codeberg.org/triallax/dawk) - Reasonably fast POSIX-compliant AWK implementation with good diagnostics.
 *   [Element 0 (⭐27)](https://github.com/Element0Lang/element-0) - A small embeddable Lisp dialect written in Zig.
-*   [fubark/cyber (⭐1.4k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
+*   [fubark/cyber (⭐1.5k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 *   [Fun (⭐22)](https://github.com/omdxp/fun) - A statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
 *   [fury (⭐15)](https://github.com/fury-lang/fury) - A gradual, safe systems language.
 *   [squeek502/zua (⭐210)](https://github.com/squeek502/zua) - An implementation of Lua 5.1 in Zig, for learning purposes.

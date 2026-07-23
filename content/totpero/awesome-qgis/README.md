@@ -2,9 +2,19 @@
 
 An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 10 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 29 · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/totpero/awesome-qgis/week/README.md) / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
+
+## [Jul 23, 2026](/content/2026/07/23/README.md)
+
+### Official Resources
+
+*   [UPGIS](https://upgis.com/) - Chinese GIS community portal with mapping and developer discussions.
+
+### Plugins / Data Management
+
+*   [Zornade Italian Parcel Downloader](https://plugins.qgis.org/plugins/zornade_parcel_downloader/) - Download enriched Italian cadastral parcels with 110+ attribute fields (terrain, demographics, land use, OMI valuation, hydrogeological risk) via the free Zornade API.
 
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
@@ -162,5 +172,5 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 
 ### Related Lists / Field and Mobile
 
-*   [Awesome GIS (⭐5.2k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial (⭐4.8k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS (⭐5.4k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐5.2k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
