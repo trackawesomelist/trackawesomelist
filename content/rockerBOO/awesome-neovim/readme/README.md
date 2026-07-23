@@ -894,6 +894,7 @@ then it is not supported:
 *   [marekh19/meowsoot.nvim (⭐30)](https://github.com/marekh19/meowsoot.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 *   [ntk148v/lauds (⭐1)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 *   [alsi-lawr/neotheme.nvim (⭐4)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
+*   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 <!--lint disable double-link -->
 
@@ -1912,6 +1913,7 @@ then it is not supported:
 *   [gisketch/triforce.nvim (⭐296)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [QuentinGruber/pomodoro.nvim (⭐50)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 *   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
+*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 *   [gaborvecsei/usage-tracker.nvim (⭐144)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your usage and visualize statistics easily.
 *   [SunnyTamang/pendulum.nvim (⭐14)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 *   [ptdewey/pendulum-nvim (⭐112)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 23, 2026](/content/2026/07/23/README.md)
+
+### BaaS
+
+*   [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
+
 ## [Jul 22, 2026](/content/2026/07/22/README.md)
 
 ### Tools for Teams and Collaboration

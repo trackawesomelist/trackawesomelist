@@ -6,6 +6,18 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jul 23, 2026](/content/2026/07/23/README.md)
+
+### Software / Test Data Management
+
+*   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+*   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+    plugin. 6 locales.
+
+### Software / Screen Recording & Session Replays
+
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Software / API Testing
@@ -116,7 +128,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐464)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐489)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 

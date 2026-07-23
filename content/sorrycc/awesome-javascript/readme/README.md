@@ -578,6 +578,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [PleaseJS (⭐2.3k)](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 *   [TinyColor (⭐5.2k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 *   [Vibrant.js (⭐4.6k)](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+*   [color-space (⭐367)](https://github.com/colorjs/color-space) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
 
 ## I18n And L10n
 
@@ -658,7 +659,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Streaming
 
 *   [Tailor (⭐1.7k)](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
-*   [Markstream (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
+*   [Markstream (⭐2.8k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
 ## Vision Detection
 

@@ -77,7 +77,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [DeepfakeHTTP (⭐525)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
-*   [fakecloud (⭐464)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐489)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 *   [mockd (⭐132)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 *   [MockServer (⭐4.9k)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 *   [WireMock (⭐7.3k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
@@ -145,8 +145,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Data Management
 
+*   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 *   [DATAMIMIC CE (⭐37)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 *   [JSON Validation Test Cases (⭐0)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
+*   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+    plugin. 6 locales.
 *   [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 *   [Synth (⭐1.5k)](https://github.com/getsynth/synth) - Open-source test data generator.
 *   [Touca (⭐511)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
@@ -196,6 +199,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Captura (⭐11k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 *   [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ### Mind Mapping & Documentation
 

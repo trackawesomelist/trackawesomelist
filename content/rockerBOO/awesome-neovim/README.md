@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 23, 2026](/content/2026/07/23/README.md)
+
+### Colorscheme / Markdown and LaTeX
+
+*   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
+
+### Workflow / Stats Tracking
+
+*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
+
 ## [Jul 22, 2026](/content/2026/07/22/README.md)
 
 ### Keybinding / Tree-sitter Based

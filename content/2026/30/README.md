@@ -556,13 +556,13 @@
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
+### Color / Runner
+
+*   [color-space (⭐367)](https://github.com/colorjs/color-space) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
+
 ### Streaming / Runner
 
-*   [Markstream (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
-
-### Misc / Other
-
-*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+*   [Markstream (⭐2.8k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -635,9 +635,19 @@
 
 ## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
+### Software / Screen Recording & Session Replays
+
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+
 ### Software / API Testing
 
 *   \[funapi] (<https://funapi.dev>) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+
+### Software / Test Data Management
+
+*   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+*   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+    plugin. 6 locales.
 
 ### Software / Accessibility & Usability Testing
 
@@ -723,6 +733,10 @@
 
 *   [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
 
+### BaaS
+
+*   [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
+
 ## [29. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Special
@@ -749,6 +763,7 @@
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix
 
@@ -757,6 +772,10 @@
 ### Keybinding / Tree-sitter Based
 
 *   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+
+### Workflow / Stats Tracking
+
+*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 
 ## [32. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
 

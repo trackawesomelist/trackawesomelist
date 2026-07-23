@@ -82,6 +82,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
 
+### BaaS
+
+*   [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
+
 ### Storage and Media Processing
 
 *   [dlvr.sh](https://dlvr.sh/) - Temporary file delivery for agents and automation. Free tier includes 10 deliveries every 24 hours with API, MCP, and CLI access.

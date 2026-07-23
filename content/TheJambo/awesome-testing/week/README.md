@@ -12,9 +12,19 @@ A curated list of testing resources
 
 *   \[funapi] (<https://funapi.dev>) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
+### Software / Test Data Management
+
+*   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+*   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+    plugin. 6 locales.
+
 ### Software / Accessibility & Usability Testing
 
 *   [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
+
+### Software / Screen Recording & Session Replays
+
+*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -104,7 +114,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐464)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐489)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 

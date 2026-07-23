@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix
 
@@ -19,6 +20,10 @@ Collections of awesome neovim plugins.
 ### Keybinding / Tree-sitter Based
 
 *   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+
+### Workflow / Stats Tracking
+
+*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
