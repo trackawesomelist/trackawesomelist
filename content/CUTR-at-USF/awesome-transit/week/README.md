@@ -12,12 +12,20 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [Ohtli](https://ohtli.codeandomexico.org/). Free-access tool for creating and managing GTFS transit data, especially for cities where public transport information still exists mostly as operational knowledge instead of structured digital systems. Built around OpenStreetMap, it helps map routes, stops, and service patterns quickly, turning fragmented information into standardized transit feeds that can be used by maps, trip planners, and rider information systems.
 
+### GTFS Analysis Tools / Rust
+
+*   [GTFS Scorecard (⭐1)](https://github.com/ChelseaKR/gtfs-scorecard) - Daily, open-source GTFS and GTFS-Realtime quality scoring for a curated registry of 1,700+ feed records with 1,100+ published scorecards, rider-focused fix guidance, agency and program views, trend history, a read API, pre-publish checks, and a GitHub Action.
+
 ### Crowdsourced transit data / Rust
 
 *   [Hub de Datos de Transporte Público en México](https://github.com/MobilityData/awesome-transit/blob/master/README.md/hdtp.codeandomexico.org/). An open platform created by Codeando México to help Mexican and Latin America cities publish standardized public transport data. Through GTFS feeds, mapping workflows, and open methodologies, the project turns fragmented transit information into reusable digital infrastructure that can power trip planners, accessibility tools, research, and mobility analysis.
 
 ### Web Apps (open source) / Rust
 
+*   [Instabus (⭐75)](https://github.com/luqmaan/instabus) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages. No longer maintained; the instabus.org domain no longer points at the project.
+*   [Is SEPTA Fucked?](https://www.isseptafucked.com/) - Status dashboard for SEPTA (Philadelphia) showing whether Regional Rail, Metro, and bus service is currently disrupted.
+*   [Is Metro Burning?](https://ismetroburning.com/) - Similar at-a-glance status board for WMATA (D.C. Metro).
+*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A [message feed with Vehicle Position entities](https://codeberg.org/dancingCycle/dede-obc-adapter) in the GTFS-Realtime format or the Dede app can be used as data source/ as provider to the [Dede server](https://codeberg.org/dancingCycle/dede-server). The result is presented either on the [Dede web front end](https://codeberg.org/dancingCycle/dede-front-end) or [Dede display](https://codeberg.org/dancingCycle/dede-display).
 *   [BUS DATA](https://pinniped.page/projects/bus-data) - Visual bus tracker for London Transit (London, Ontario, Canada) with extra facts and figures. Source [on GitHub (⭐8)](https://github.com/ObsidianSeal/pinniped.page).
 
 ### Web Apps (closed source) / Rust
@@ -36,7 +44,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### Native Apps (open source) / Rust
 
-*   [Home Assistant (⭐88k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
+*   [Home Assistant (⭐89k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -534,10 +542,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### GTFS Libraries / Python
 
 *   [gtfs\_functions (⭐140)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
-
-### Web Apps (open source) / Rust
-
-*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app](https://github.com/dancesWithCycles/dede-android) can be used as data source.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -1456,7 +1460,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### Web Apps (open source) / Rust
 
 *   [GTFS-realtime Alerts Producer Web Application (⭐2)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
-*   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 *   [OpenTripPlanner Client GWT (⭐12)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
 *   [Transit-Map (⭐371)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).

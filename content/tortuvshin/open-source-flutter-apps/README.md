@@ -6,63 +6,52 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
-## [Jun 08, 2026](/content/2026/06/08/README.md)
+## [Jul 24, 2026](/content/2026/07/24/README.md)
 
-### What is included
+### Why Open Apps?
 
-*   mobile apps
-*   web apps
-*   desktop apps
-*   developer tools with app-like structure
-*   full-stack products
-*   apps useful for studying architecture, UI, data flow, auth, state management, testing, deployment, or product structure
-*   simple demos
-*   tutorials
-*   boilerplates
-*   starter templates
-*   package-only libraries
-*   abandoned repos with no learning value
-*   repos with unclear license or purpose
+*   **Real applications, not toy projects** — complete products with meaningful
+    scope, structure, and a clear license.
+*   **Practical discovery** — browse by category, platform, stack, activity, and
+    maturity.
+*   **Useful learning signals** — understand what a project is best for, how
+    difficult it is, and what architectural ideas it demonstrates.
+*   **Fresh repository metadata** — scheduled automation refreshes activity and
+    contributor data through reviewable pull requests.
+*   **Open, portable data** — every catalog entry is a human-readable YAML file
+    in this repository.
 
-### What you can do with it
+### What belongs in the directory?
 
-*   find real apps to study
-*   compare how different projects are structured
-*   discover apps worth contributing to
-*   look for implementation examples from working products
-*   find open-source alternatives by category
-*   explore projects beyond GitHub stars and trending pages
+*   tutorials, snippets, or one-screen demos;
+*   boilerplates and starter templates;
+*   package-only libraries and SDKs;
+*   archived projects with no enduring learning value;
+*   repositories with an unclear license or purpose.
 
-### How apps are reviewed
+### Local development / Requirements
 
-*   Is this a real app?
-*   Can a developer understand what it does?
-*   Is the codebase useful to study?
-*   Is the license clear?
-*   Is the project active, mature, or historically useful?
-*   Does it have enough documentation or structure?
-*   Would this help someone build or improve a real product?
+*   [Node.js](https://nodejs.org/) 20 or newer
+*   [pnpm](https://pnpm.io/) 10.12.1 (the version is pinned in `package.json`)
 
-### App data
+### Add or update an app / Useful commands
 
-*   name
-*   description
-*   category
-*   platform
-*   tech stack
-*   license
-*   GitHub stars
-*   forks
-*   contributors
-*   last commit date
-*   activity score
-*   maturity score
-*   learning score
-*   contribution score
-*   documentation score
-*   review notes
+*   Create or edit `data/apps/<slug>.yml`.
+*   Keep human-owned fields under `app`, `stack`, and `curation`.
+*   Do not hand-edit automation-owned `github` or `health` fields.
+*   Run `pnpm validate:data`, `pnpm test`, and `pnpm build`.
+*   Open a focused pull request.
 
-### For AI tools
+### Automation / Useful commands
 
-*   <https://open-apps.dev.mn/llms.txt>
-*   <https://open-apps.dev.mn/llms-full.txt>
+*   pull requests that touch catalog data run schema validation, data generation,
+    and unit tests;
+*   app activity and GitHub-shaped metadata are refreshed daily;
+*   repository contributor statistics are refreshed weekly;
+*   stale-app candidates are reported weekly for curator review.
+
+### AI-readable catalog / Useful commands
+
+*   [`llms.txt`](https://open-apps.dev.mn/llms.txt) — a compact guide to the site;
+*   [`llms-full.txt`](https://open-apps.dev.mn/llms-full.txt) — the expanded
+    catalog for AI assistants and retrieval tools.

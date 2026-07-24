@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Jul 24, 2026](/content/2026/07/24/README.md)
+
+### Web
+
+*   [visual.hcker.news](https://hn.is-ai-good-yet.com) – Hacker News with preview thumbnails, Open Graph metadata, descriptions, and position trends
+
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 
 ### Android / Nevix
@@ -37,7 +43,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐82)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐84)](https://github.com/Livinglist/Gem)
 
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
@@ -261,7 +267,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐576)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -344,7 +350,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### macOS / Nevix
 
-*   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
+*   [HNReader (⭐195)](https://github.com/mattrighetti/HNReaderApp)
 
 ### iOS / Nevix
 
@@ -408,7 +414,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Emacs / Nevix
 
-*   [Hacker News Emacs Client (⭐258)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐260)](https://github.com/clarete/hackernews.el)
 
 ### Command Line / Nevix
 
@@ -491,7 +497,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Resources / Nevix
 
-*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐124)](https://github.com/antontarasenko/hacker-news-groups)
 
 ## [Nov 07, 2018](/content/2018/11/07/README.md)
 

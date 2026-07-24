@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jul 24, 2026](/content/2026/07/24/README.md)
+
+### Customer Support
+
+*   [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. `#paid`
+
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
 ### Developer Tools

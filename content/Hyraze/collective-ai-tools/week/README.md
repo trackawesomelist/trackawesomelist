@@ -8,6 +8,10 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
+### Customer Support
+
+*   [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. `#paid`
+
 ### Developer Tools
 
 *   [Better Agent (⭐24)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`

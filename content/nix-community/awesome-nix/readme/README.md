@@ -99,6 +99,7 @@ A curated list of the best resources in the Nix community.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 
 *   [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+*   [Nix Software](https://nixsoftware.org/en/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
 *   [nix-search-tv (⭐272)](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 *   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 *   [NüschtOS Search (⭐162)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
@@ -144,6 +145,7 @@ A curated list of the best resources in the Nix community.
 
 ## Virtualisation
 
+*   [agent-sandbox.nix (⭐117)](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 *   [extra-container (⭐298)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
 *   [microvm (⭐2.8k)](https://github.com/microvm-nix/microvm.nix) - NixOS-based MicroVMs.
 *   [nixos-shell (⭐905)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
@@ -319,8 +321,8 @@ A curated list of the best resources in the Nix community.
 
 ### Zig
 
-*   [zig2nix (⭐183)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
-*   [zon2nix (⭐119)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zig2nix (⭐185)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
+*   [zon2nix (⭐122)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
 
@@ -336,7 +338,7 @@ A curated list of the best resources in the Nix community.
 *   [NixOS-WSL (⭐3k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 *   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
 *   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
-*   [Self Host Blocks (⭐470)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+*   [Self Host Blocks (⭐478)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 *   [Stylix (⭐2.3k)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
 
@@ -361,7 +363,7 @@ A curated list of the best resources in the Nix community.
 *   [NUR (⭐1.9k)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 *   [rust-overlay (⭐1.5k)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 *   [System Manager (⭐1.6k)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
-*   [zig-overlay (⭐528)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
+*   [zig-overlay (⭐532)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
 ## Distributions
 

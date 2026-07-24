@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
+
+### Web
+
+*   [visual.hcker.news](https://hn.is-ai-good-yet.com) – Hacker News with preview thumbnails, Open Graph metadata, descriptions, and position trends
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Android / Nevix
@@ -37,7 +43,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐82)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐84)](https://github.com/Livinglist/Gem)
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -259,7 +265,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐576)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -361,7 +367,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### macOS / Nevix
 
-*   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
+*   [HNReader (⭐195)](https://github.com/mattrighetti/HNReaderApp)
 *   [touchHNews (⭐193)](https://github.com/mrmekon/toucHNews)
 
 ### iOS / Nevix
@@ -383,7 +389,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Emacs / Nevix
 
-*   [Hacker News Emacs Client (⭐258)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐260)](https://github.com/clarete/hackernews.el)
 
 ### Command Line / Nevix
 
@@ -466,7 +472,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Resources / Nevix
 
-*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐124)](https://github.com/antontarasenko/hacker-news-groups)
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 

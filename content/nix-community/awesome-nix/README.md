@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jul 24, 2026](/content/2026/07/24/README.md)
+
+### Resources / Discovery
+
+*   [Nix Software](https://nixsoftware.org/en/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
+
+### Virtualisation / Discovery
+
+*   [agent-sandbox.nix (⭐117)](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
+
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Resources / Learning
@@ -75,11 +85,11 @@
 
 ### Programming Languages / Zig
 
-*   [zig2nix (⭐183)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
+*   [zig2nix (⭐185)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 
 ### Overlays / Webinterface
 
-*   [zig-overlay (⭐528)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
+*   [zig-overlay (⭐532)](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -242,7 +252,7 @@
 
 ### NixOS Modules / Zig
 
-*   [Self Host Blocks (⭐470)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+*   [Self Host Blocks (⭐478)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
@@ -366,7 +376,7 @@
 
 ### Programming Languages / Zig
 
-*   [zon2nix (⭐119)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zon2nix (⭐122)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## [Jul 02, 2023](/content/2023/07/02/README.md)
 
