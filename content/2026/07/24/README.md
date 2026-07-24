@@ -1,30 +1,43 @@
 # Awesome List Updates on Jul 24, 2026
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Virtualization
+
+*   [Berthly](https://berthly.net) - Native GUI for Apple's container tool, with menu bar monitoring and drag-and-drop image builds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/henrywang/Berthly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [NotForm (⭐9)](https://github.com/favorodera/notform) - Headless, composable form validation for Vue.js. Bring your own UI and schema (Zod, Valibot, ArkType, or any Standard-Schema compliant validator).
+*   [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region, as tree-shakable Vue 3 components.
+
+## [3. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
 
 ### Web
 
 *   [visual.hcker.news](https://hn.is-ai-good-yet.com) – Hacker News with preview thumbnails, Open Graph metadata, descriptions, and position trends
 
-## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [4. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### Customer Support
 
 *   [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. `#paid`
 
-## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
+## [5. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
 ### Task Runners
 
 *   [npm-run-all2 (⭐429)](https://github.com/bcomnes/npm-run-all2) - Fully featured task runner.
 
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Discovery
 
@@ -34,7 +47,7 @@
 
 *   [agent-sandbox.nix (⭐117)](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 
-## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Why Open Apps?
 
@@ -84,7 +97,7 @@
 *   [`llms-full.txt`](https://open-apps.dev.mn/llms-full.txt) — the expanded
     catalog for AI assistants and retrieval tools.
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Analysis Tools / Rust
 
@@ -97,7 +110,7 @@
 *   [Is Metro Burning?](https://ismetroburning.com/) - Similar at-a-glance status board for WMATA (D.C. Metro).
 *   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A [message feed with Vehicle Position entities](https://codeberg.org/dancingCycle/dede-obc-adapter) in the GTFS-Realtime format or the Dede app can be used as data source/ as provider to the [Dede server](https://codeberg.org/dancingCycle/dede-server). The result is presented either on the [Dede web front end](https://codeberg.org/dancingCycle/dede-front-end) or [Dede display](https://codeberg.org/dancingCycle/dede-display).
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### IDE and editors
 
