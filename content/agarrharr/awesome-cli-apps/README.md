@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jul 25, 2026](/content/2026/07/25/README.md)
+
+### Files and Directories / Disk Usage
+
+*   [darya (⭐147)](https://github.com/mrkatebzadeh/darya) - A disk usage explorer TUI with live treemap.
+
 ## [Jul 22, 2026](/content/2026/07/22/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management

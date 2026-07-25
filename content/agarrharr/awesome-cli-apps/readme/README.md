@@ -648,6 +648,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 *   [dutree (⭐875)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 *   [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+*   [darya (⭐147)](https://github.com/mrkatebzadeh/darya) - A disk usage explorer TUI with live treemap.
 
 ### Files
 

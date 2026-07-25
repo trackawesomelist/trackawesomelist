@@ -14,6 +14,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
+*   [getprovenant/provenant (⭐37)](https://github.com/getprovenant/provenant) \[[provenant-cli](https://crates.io/crates/provenant-cli)] - Fast license, copyright, package, and SBOM scanner that emits CycloneDX and SPDX with a complete, closed dependency inventory; static and offline. [![CI](https://github.com/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/getprovenant/provenant/actions/workflows/check.yml)
 *   [timescale/rsigma (⭐111)](https://github.com/timescale/rsigma) \[[rsigma](https://crates.io/crates/rsigma)] - A complete detection engineering toolkit for the Sigma detection standard, with a parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP [![CI](https://github.com/timescale/rsigma/actions/workflows/ci.yml/badge.svg)](https://github.com/timescale/rsigma/actions/workflows/ci.yml)
 
 ### Applications / Text processing
@@ -603,7 +604,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [verifyfetch (⭐153)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
+*   [verifyfetch (⭐155)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
 
 ### Libraries / Text search
 
@@ -673,7 +674,7 @@ A curated list of Rust code and resources.
 ### Libraries / Data structures
 
 *   [alrevuelta/rs-merkle-tree (⭐228)](https://github.com/alrevuelta/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
-*   [ashvardanian/NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/NumKong (⭐1.9k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ### Libraries / Email
 

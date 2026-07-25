@@ -28,6 +28,10 @@
 
 *   [q](https://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
+### Files and Directories / Disk Usage
+
+*   [darya (⭐147)](https://github.com/mrkatebzadeh/darya) - A disk usage explorer TUI with live treemap.
+
 ### AI / Agents
 
 *   [agentty (⭐82)](https://github.com/1ay1/agentty) - C++ agent TUI.

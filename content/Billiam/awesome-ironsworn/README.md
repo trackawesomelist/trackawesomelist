@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Jul 25, 2026](/content/2026/07/25/README.md)
+
+### Tools / Starforged
+
+*   [Elven Ironsworn](https://elvenvtt.com/listing/23050226-68bd-49ea-8418-77682066f1fe) - ElvenVTT module with Ironsworn moves, oracles, assets and progress tracks
+
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 
 ### Resources / Starforged

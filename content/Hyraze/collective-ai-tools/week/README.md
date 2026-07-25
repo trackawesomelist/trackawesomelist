@@ -14,6 +14,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 ### Developer Tools
 
+*   [Agent Island (⭐69)](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex sessions on macOS and Windows, with live state and your-turn alerts. `#free` `#opensource`
 *   [Better Agent (⭐24)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)

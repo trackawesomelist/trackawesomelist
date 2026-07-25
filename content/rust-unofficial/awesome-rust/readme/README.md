@@ -601,6 +601,7 @@ See also [A comparison of operating systems written in Rust (⭐862)](https://gi
 *   [EFForg/rayhunter (⭐5.3k)](https://github.com/EFForg/rayhunter) - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml)
 *   [entropic-security/xgadget (⭐124)](https://github.com/entropic-security/xgadget) \[[xgadget](https://crates.io/crates/xgadget)] - Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions)
 *   [epi052/feroxbuster (⭐7.9k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool.
+*   [getprovenant/provenant (⭐37)](https://github.com/getprovenant/provenant) \[[provenant-cli](https://crates.io/crates/provenant-cli)] - Fast license, copyright, package, and SBOM scanner that emits CycloneDX and SPDX with a complete, closed dependency inventory; static and offline. [![CI](https://github.com/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/getprovenant/provenant/actions/workflows/check.yml)
 *   [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml)
 *   [Inspektor (⭐285)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 *   [kpcyrd/authoscope (⭐419)](https://github.com/kpcyrd/authoscope) - A scriptable network authentication cracker
@@ -1543,7 +1544,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [schnorrkel (⭐334)](https://github.com/paritytech/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 *   [sorairolake/abcrypt (⭐26)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 *   [sorairolake/scryptenc-rs (⭐9)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
-*   [verifyfetch (⭐153)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
+*   [verifyfetch (⭐155)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
 
 ### Data processing
 
@@ -1573,7 +1574,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Data structures
 
 *   [alrevuelta/rs-merkle-tree (⭐228)](https://github.com/alrevuelta/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
-*   [ashvardanian/NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/NumKong (⭐1.9k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 *   [becheran/grid (⭐103)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] - Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 *   [billyevans/tst (⭐27)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] - Ternary search tree collection
 *   [contain-rs](https://github.com/contain-rs) - Extension of Rust's std::collections

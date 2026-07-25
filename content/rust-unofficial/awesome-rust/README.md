@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 25, 2026](/content/2026/07/25/README.md)
+
+### Applications / Security tools
+
+*   [getprovenant/provenant (⭐37)](https://github.com/getprovenant/provenant) \[[provenant-cli](https://crates.io/crates/provenant-cli)] - Fast license, copyright, package, and SBOM scanner that emits CycloneDX and SPDX with a complete, closed dependency inventory; static and offline. [![CI](https://github.com/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/getprovenant/provenant/actions/workflows/check.yml)
+
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
 ### Applications / Text processing
@@ -757,7 +763,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [verifyfetch (⭐153)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
+*   [verifyfetch (⭐155)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
 
 ### Libraries / Text search
 
@@ -843,7 +849,7 @@ A curated list of Rust code and resources.
 ### Libraries / Data structures
 
 *   [alrevuelta/rs-merkle-tree (⭐228)](https://github.com/alrevuelta/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
-*   [ashvardanian/NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/NumKong (⭐1.9k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 

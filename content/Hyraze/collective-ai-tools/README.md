@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jul 25, 2026](/content/2026/07/25/README.md)
+
+### Developer Tools
+
+*   [Agent Island (⭐69)](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex sessions on macOS and Windows, with live state and your-turn alerts. `#free` `#opensource`
+
 ## [Jul 24, 2026](/content/2026/07/24/README.md)
 
 ### Customer Support

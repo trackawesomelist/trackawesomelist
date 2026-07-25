@@ -32,9 +32,17 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
 
+### Hardware / Rust
+
+*   [CharlieBoard (⭐40)](https://github.com/tomunderwood99/CharlieBoard) - Open-source MBTA display using WS2812B LEDs on a Raspberry Pi Zero 2W, with real-time vehicle positions, geographically accurate PCB map, and a web control interface.
+
 ### Transit Map Aggregation / General GIS Applications for making transit visualizations
 
 *   [TrainRouter](https://trainrouter.com/) - Interactive world atlas of 744 notable train routes (high-speed, scenic and night trains) with facts and photos for each route; the underlying data is open (CC BY 4.0).
+
+### Related lists / General GIS Applications for making transit visualizations
+
+*   [awesome-europe (⭐119)](https://github.com/GeiserX/awesome-europe#transport-and-mobility) - Curated list of open source projects for the EU / EEA, with a transport and mobility section that overlaps this list (HAFAS, NeTEx, ETCS, SIRI, Transitous, OpenTripPlanner EU deployments).
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -298,7 +306,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [APDS](https://www.allianceforparkingdatastandards.org/) - Alliance for Parking Data Standards: formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/). APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.
 *   [DATEX](https://datex2.eu/) - EU data standard for road traffic and travel information.
 *   [GBFS](https://gbfs.org/) - General Bikeshare Feed Specification: open data standard for real-time information about bikeshare, scootershare, mopedshare, and carshare.
-*   [MDS (⭐744)](https://github.com/openmobilityfoundation/mobility-data-specification) - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+*   [MDS (⭐745)](https://github.com/openmobilityfoundation/mobility-data-specification) - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 *   [TODS](https://ods.calitp.org/) - Transit Operational Data Standard: standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
 *   [TOMP (⭐110)](https://github.com/TOMP-WG/TOMP-API) - Transport Operator Mobility-as-a-service Provider API: API standard for use by transport operators and mobility-as-a-service providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
@@ -737,7 +745,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### GTFS Analysis Tools / Rust
 
-*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐393)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐235)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐393)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐236)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
 
 ### Academic papers / General GIS Applications for making transit visualizations
 

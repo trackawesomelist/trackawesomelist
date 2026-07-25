@@ -12,7 +12,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 <p align="center"><img src="https://github.com/vlang/awesome-v/raw/master/media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord\&logo=discord\&logoColor=white)](https://discord.gg/dwFTsR7fK2)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
@@ -71,6 +71,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
     *   [Syntax highlighting](#syntax-highlighting)
     *   [Tutorials](#tutorials)
     *   [Videos](#videos)
+    *   [Contributors](#contributors)
 
 ## Applications
 
@@ -88,19 +89,19 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [crepl (⭐35)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 *   [dnshammer (⭐5)](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 *   [envelop (⭐4)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
-*   [fastgit (⭐2)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [fastgit (⭐3)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
 *   [fdup (⭐8)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 *   [gatevay (⭐0)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
 *   [github-releases (⭐8)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 *   [HN-top (⭐24)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-*   [httest (⭐1)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
+*   [httest (⭐3)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 *   [klonol (⭐20)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 *   [lagger (⭐3)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [lsv (⭐72)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 *   [minimax-v (⭐8)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
 *   [mushroomtek (⭐4)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 *   [musicc (⭐2)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
-*   [netprint (⭐3)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [netprint (⭐5)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
 *   [newfolder (⭐3)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
 *   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 *   [PhoneSnatchProof (⭐4)](https://github.com/tailsmails/PhoneSnatchProof) - An FS that encrypts your app data and keeps them on RAM (with a backup).
@@ -132,6 +133,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vsqlite (⭐9)](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
 *   [vtrace (⭐0)](https://github.com/tailsmails/vtrace) - An automated execution tracer and step-by-step source code instrumenter for the V programming language.
 *   [vzcc (⭐29)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [waterjail (⭐1)](https://github.com/tailsmails/waterjail) - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
 *   [zilch (⭐4)](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
 ### Editors
@@ -166,7 +168,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [Aixt (⭐90)](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V.
 *   [cotowali (⭐618)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
-*   [monkey\_v (⭐39)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
+*   [monkey\_v (⭐38)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 *   [papyrus-compiler (⭐51)](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
 *   [stas (⭐60)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 *   [v (⭐38k)](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
@@ -241,7 +243,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Automation
 
 *   [v-webdriver (⭐20)](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
-*   [vrobot (⭐54)](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
+*   [vrobot (⭐53)](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
 
 ### Command line interface (CLI) / Terminal / Shell
 
@@ -393,7 +395,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [bobatea (⭐19)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
+*   [bobatea (⭐22)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
 *   [iUI (⭐157)](https://github.com/isaiahpatton/ui) - Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 *   [mui (⭐114)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [V UI (⭐2.5k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
@@ -414,7 +416,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [structlog (⭐1)](https://github.com/gechandesu/structlog) - Structured logs library for V.
 *   [V-crypto (⭐5)](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
 *   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
-*   [vanadium (⭐3)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
+*   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 *   [vdotenv (⭐44)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 *   [vhs (⭐4)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 *   [VInstall (⭐45)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
@@ -540,11 +542,19 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [Learn V in Y Minutes (⭐61)](https://github.com/v-community/learn_v_in_y_minutes)
 *   [V by Example (⭐179)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 *   [V for Node Devs (⭐29)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
-*   [V learning notes (⭐177)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+*   [V learning notes (⭐176)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 *   [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
 
 ### Videos
 
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+### Contributors
+
+<a href="https://github.com/ulises-jeremias/awesome-v/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=ulises-jeremias/awesome-v"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
 
