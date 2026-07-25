@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 25, 2026](/content/2026/07/25/README.md)
+
+### PaaS
+
+*   [Cohesivity](https://cohesivity.ai) - Headless backend and services, purpose built for AI agents. Includes hosting, databases, storage, LLMs, and third-party APIs. Agentic signup. Free tier includes 10 projects, 100K edge requests, 10 GB object storage, 100 emails, and 5 USD/month in credits for AI and search.
+
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
 ### Mobile App Distribution and Feedback
@@ -246,7 +252,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐1.4k)](https://github.com/future-agi/future-agi)
+*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐1.5k)](https://github.com/future-agi/future-agi)
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
@@ -2291,7 +2297,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Mailjet](https://www.mailjet.com/) - 6,000 emails/month free (200 emails daily sending limit)
-*   [Mailtrap.io](https://mailtrap.io/) - Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
+*   [Mailtrap.io](https://mailtrap.io/) - Email API and SMTP with 4,000 emails/month free, limited to 150 emails/day. Email Marketing includes 500 contacts and 1,500 emails/month. Email Sandbox includes 50 test emails/month, one sandbox, and up to 10 stored emails.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
 
