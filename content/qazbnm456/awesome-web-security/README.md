@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/qazbnm456/awesome-web-security/week/README.md) / [Overview](/content/qazbnm456/awesome-web-security/readme/README.md) ]
 
+## [Jul 26, 2026](/content/2026/07/26/README.md)
+
+### SSL/TLS
+
+*   [State of TLS on the public web](https://securemonk.io/insights/state-of-tls) - Live-data research across thousands of scanned hosts: protocol adoption, the TLS-versus-headers maturity gap, ECDSA drawing even with RSA, certificate lifetimes against the CA/B Forum 47-day schedule, and the end of OCSP stapling. Figures recompute from the scan corpus on each load.
+
+### Deserialization
+
+*   [Altus iX Developer XAML Deserialization RCE](https://0day-rubbish.com/blog/altus-ix-developer-xaml-rce) - Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by [0day Rubbish (⭐51)](https://github.com/Exploit-Garbage/0day-Rubbish).
+
+### Application / Server-Side Request Forgery
+
+*   [The Next.js security-headers pitfall](https://poszo.com/security/nextjs-headers-pitfall) - Shows how a correct-looking Next.js headers() block can overwrite route-specific rules or differ from final CDN responses, with an inventory, merge, preview, deployed-route verification, and rollback workflow.
+
 ## [Jul 19, 2026](/content/2026/07/19/README.md)
 
 ### Forums
@@ -126,11 +140,11 @@
 
 ### Scanning / Sub Domain Enumeration
 
-*   [Vigolium (⭐765)](https://github.com/vigolium/vigolium) - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision, maintained by [@j3ssie](https://github.com/j3ssie).
+*   [Vigolium (⭐916)](https://github.com/vigolium/vigolium) - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision, maintained by [@j3ssie](https://github.com/j3ssie).
 
 ### Penetration Testing / Sub Domain Enumeration
 
-*   [Darkmoon (⭐696)](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
+*   [Darkmoon (⭐775)](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
 
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
@@ -140,7 +154,7 @@
 
 ### Application / Server-Side Request Forgery
 
-*   [OWASP Juice Shop (⭐13k)](https://github.com/juice-shop/juice-shop) - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) and the [@owasp\_juiceshop](https://twitter.com/owasp_juiceshop) team.
+*   [OWASP Juice Shop (⭐14k)](https://github.com/juice-shop/juice-shop) - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) and the [@owasp\_juiceshop](https://twitter.com/owasp_juiceshop) team.
 
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
@@ -160,24 +174,24 @@
 
 ### Penetration Testing / Sub Domain Enumeration
 
-*   [numasec (⭐417)](https://github.com/FrancescoStabile/numasec) - AI-driven penetration-testing platform that coordinates 10 agents and 38 vulnerability scanners covering OWASP Top 10, by [@FrancescoStabile](https://github.com/FrancescoStabile).
+*   [numasec (⭐446)](https://github.com/FrancescoStabile/numasec) - AI-driven penetration-testing platform that coordinates 10 agents and 38 vulnerability scanners covering OWASP Top 10, by [@FrancescoStabile](https://github.com/FrancescoStabile).
 
 ### Leaking / Server-Side Request Forgery
 
-*   [keyFinder (⭐691)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively scans web pages for leaked API keys, tokens, and credentials across 10 attack surfaces using 80+ detection patterns and Shannon-entropy analysis, by [@momenbasel](https://github.com/momenbasel).
+*   [keyFinder (⭐693)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively scans web pages for leaked API keys, tokens, and credentials across 10 attack surfaces using 80+ detection patterns and Shannon-entropy analysis, by [@momenbasel](https://github.com/momenbasel).
 
 ### Preventing / Server-Side Request Forgery
 
-*   [FCaptcha (⭐167)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis, vision-AI agent detection, headless-browser fingerprinting, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
-*   [Pompelmi (⭐656)](https://github.com/pompelmi/pompelmi) - In-process file-upload security middleware for Node.js that scans untrusted uploads before storage to detect malware, MIME spoofing, and risky archives, maintained by [pompelmi](https://github.com/pompelmi).
+*   [FCaptcha (⭐177)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis, vision-AI agent detection, headless-browser fingerprinting, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
+*   [Pompelmi (⭐662)](https://github.com/pompelmi/pompelmi) - In-process file-upload security middleware for Node.js that scans untrusted uploads before storage to detect malware, MIME spoofing, and risky archives, maintained by [pompelmi](https://github.com/pompelmi).
 *   [WebDecoy (⭐1)](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress bot-detection plugin combining WebDriver detection, headless-browser fingerprinting, behavioral analysis, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
 *   [CrowdSec](https://www.crowdsec.net/) - Open-source collaborative IPS written in Go that analyzes visitor behavior and shares threat signals across a community of operators, maintained by [CrowdSec](https://github.com/crowdsecurity).
 *   [Laravel CSP Generator](https://csp-generator.shakiltech.com) - Interactive Content Security Policy builder for Laravel that outputs ready-to-use PHP middleware with nonce support and violation reporting, by [@itxshakil](https://github.com/itxshakil).
-*   [verifyfetch (⭐153)](https://github.com/hamzaydia/verifyfetch) - Browser-side integrity verification and resumable downloads for large files using SRI hashes, defending against CDN compromise and supply-chain attacks, by [@hamzaydia](https://github.com/hamzaydia).
+*   [verifyfetch (⭐155)](https://github.com/hamzaydia/verifyfetch) - Browser-side integrity verification and resumable downloads for large files using SRI hashes, defending against CDN compromise and supply-chain attacks, by [@hamzaydia](https://github.com/hamzaydia).
 
 ### Miscellaneous / Server-Side Request Forgery
 
-*   [htb-writeups (⭐151)](https://github.com/momenbasel/htb-writeups) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
+*   [htb-writeups (⭐172)](https://github.com/momenbasel/htb-writeups) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
@@ -188,11 +202,11 @@
 ### Scanning / Sub Domain Enumeration
 
 *   [Trust Scan (⭐4)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
-*   [ZeroTrust (⭐4)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
+*   [ZeroTrust (⭐5)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 
 ### Application / Server-Side Request Forgery
 
-*   [OopsSec Store (⭐29)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
+*   [OopsSec Store (⭐31)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
 
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
@@ -333,11 +347,11 @@
 ### Digests
 
 *   [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
-*   [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
+*   [Hacker101](https://www.hacker101.com/) - Written by [hackerone](http://web.archive.org/web/20200630164946/https://www.hackerone.com/start-hacking).
 *   [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) - Written by [Mark Robinson](https://www.sneakymonkey.net/).
 *   [PayloadsAllTheThings (⭐79k)](https://github.com/swisskyrepo/PayloadsAllTheThings/) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 *   [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
-*   [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](https://bitvijays.github.io/aboutme.html).
+*   [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](http://web.archive.org/web/20230519134723/https://bitvijays.github.io/aboutme.html).
 *   [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) - Written by [Netsparker](https://www.netsparker.com/).
 
 ### AWS
@@ -354,7 +368,7 @@
 
 ### Cheetsheets
 
-*   [Capture the Flag CheatSheet (⭐136)](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) - Written by [@uppusaikiran](https://github.com/uppusaikiran).
+*   [Capture the Flag CheatSheet (⭐137)](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) - Written by [@uppusaikiran](https://github.com/uppusaikiran).
 *   [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) - Written by [@brutelogic](https://twitter.com/brutelogic).
 
 ### Offensive / XSS - Cross-Site Scripting
@@ -373,7 +387,7 @@
 
 ### SSL/TLS
 
-*   [Practical introduction to SSL/TLS (⭐631)](https://github.com/Hakky54/mutual-tls-ssl) - Written by [@Hakky54](https://github.com/Hakky54).
+*   [Practical introduction to SSL/TLS (⭐635)](https://github.com/Hakky54/mutual-tls-ssl) - Written by [@Hakky54](https://github.com/Hakky54).
 
 ## [Mar 22, 2020](/content/2020/03/22/README.md)
 
@@ -385,7 +399,7 @@
 
 ### Prototype Pollution
 
-*   [Prototype pollution attack in NodeJS application (⭐539)](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf) - Written by [@HoLyVieR](https://github.com/HoLyVieR).
+*   [Prototype pollution attack in NodeJS application (⭐540)](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf) - Written by [@HoLyVieR](https://github.com/HoLyVieR).
 
 ### XSS
 
@@ -515,7 +529,7 @@
 
 ### Offensive / XXE
 
-*   [dtd-finder (⭐662)](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs by [@GoSecure](https://github.com/GoSecure).
+*   [dtd-finder (⭐663)](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs by [@GoSecure](https://github.com/GoSecure).
 
 ### Others / Server-Side Request Forgery
 
@@ -546,7 +560,7 @@
 
 ### DNS Rebinding / Server-Side Request Forgery
 
-*   [DNS Rebind Toolkit (⭐501)](https://github.com/brannondorsey/dns-rebind-toolkit) - DNS Rebind Toolkit is a frontend JavaScript framework for developing DNS Rebinding exploits against vulnerable hosts and services on a local area network (LAN) by [@brannondorsey](https://github.com/brannondorsey).
+*   [DNS Rebind Toolkit (⭐502)](https://github.com/brannondorsey/dns-rebind-toolkit) - DNS Rebind Toolkit is a frontend JavaScript framework for developing DNS Rebinding exploits against vulnerable hosts and services on a local area network (LAN) by [@brannondorsey](https://github.com/brannondorsey).
 *   [dref (⭐493)](https://github.com/mwrlabs/dref) - DNS Rebinding Exploitation Framework. Dref does the heavy-lifting for DNS rebinding by [@mwrlabs](https://github.com/mwrlabs).
 *   [Singularity of Origin (⭐1.3k)](https://github.com/nccgroup/singularity) - It includes the necessary components to rebind the IP address of the attack server DNS name to the target machine's IP address and to serve attack payloads to exploit vulnerable software on the target machine by [@nccgroup](https://github.com/nccgroup).
 *   [Whonow DNS Server (⭐661)](https://github.com/brannondorsey/whonow) - A malicious DNS server for executing DNS Rebinding attacks on the fly by [@brannondorsey](https://github.com/brannondorsey).
@@ -556,7 +570,7 @@
 ### Clickjacking
 
 *   [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/) - Written by [Imperva](https://www.imperva.com/).
-*   [X-Frame-Options: All about Clickjacking? (⭐90)](https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true) - Written by [Mario Heiderich](https://www.slideshare.net/x00mario).
+*   [X-Frame-Options: All about Clickjacking? (⭐89)](https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true) - Written by [Mario Heiderich](https://www.slideshare.net/x00mario).
 *   [Clickjackings in Google worth 14981.7$](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a) - Written by [@raushanraj\_65039](https://medium.com/@raushanraj_65039).
 
 ### Miscellaneous / Server-Side Request Forgery
@@ -732,7 +746,7 @@
 
 ### Scanning / Sub Domain Enumeration
 
-*   [JoomlaScan (⭐259)](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
+*   [JoomlaScan (⭐260)](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
 *   [wpscan (⭐9.7k)](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
 
 ## [Oct 22, 2018](/content/2018/10/22/README.md)
@@ -773,7 +787,7 @@
 ### Offensive / XSS - Cross-Site Scripting
 
 *   [beef (⭐11k)](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project by [beefproject](https://beefproject.com).
-*   [JShell (⭐532)](https://github.com/s0md3v/JShell) - Get a JavaScript shell with XSS by [@s0md3v](https://github.com/s0md3v).
+*   [JShell (⭐531)](https://github.com/s0md3v/JShell) - Get a JavaScript shell with XSS by [@s0md3v](https://github.com/s0md3v).
 
 ### Webshell / Server-Side Request Forgery
 
@@ -804,7 +818,7 @@
 
 ### Fuzzing / Sub Domain Enumeration
 
-*   [FuzzDB (⭐8.9k)](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+*   [FuzzDB (⭐9k)](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 
 ## [Sep 12, 2018](/content/2018/09/12/README.md)
 
@@ -946,7 +960,7 @@
 
 ### Database
 
-*   [uxss-db (⭐705)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
+*   [uxss-db (⭐706)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 
 ## [Apr 23, 2018](/content/2018/04/23/README.md)
 
@@ -970,7 +984,7 @@
 
 ### Penetration Testing / Sub Domain Enumeration
 
-*   [Astra (⭐2.6k)](https://github.com/flipkart-incubator/astra) - Automated Security Testing For REST API's by [@flipkart-incubator](https://github.com/flipkart-incubator).
+*   [Astra (⭐2.7k)](https://github.com/flipkart-incubator/astra) - Automated Security Testing For REST API's by [@flipkart-incubator](https://github.com/flipkart-incubator).
 
 ### Leaking / Server-Side Request Forgery
 
@@ -1191,7 +1205,7 @@
 
 ### Auditing
 
-*   [A2SV (⭐636)](https://github.com/hahwul/a2sv) - Auto Scanning to SSL Vulnerability by [@hahwul](https://github.com/hahwul).
+*   [A2SV (⭐635)](https://github.com/hahwul/a2sv) - Auto Scanning to SSL Vulnerability by [@hahwul](https://github.com/hahwul).
 *   [prowler (⭐14k)](https://github.com/Alfresco/prowler) - Tool for AWS security assessment, auditing and hardening by [@Alfresco](https://github.com/Alfresco).
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
@@ -1210,11 +1224,11 @@
 
 ### Reconnaissance / Sub Domain Enumeration
 
-*   [AQUATONE (⭐5.9k)](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
+*   [AQUATONE (⭐6k)](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
 *   [Certificate Search](https://crt.sh/) - Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID to search certificate(s) by [@crtsh](https://github.com/crtsh).
 *   [Certificate Transparency (⭐887)](https://github.com/google/certificate-transparency) - Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system by [@google](https://github.com/google).
 *   [domain\_analyzer (⭐1.9k)](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco).
-*   [EyeWitness (⭐60)](https://github.com/ChrisTruncer/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible by [@ChrisTruncer](https://github.com/ChrisTruncer).
+*   [EyeWitness (⭐61)](https://github.com/ChrisTruncer/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible by [@ChrisTruncer](https://github.com/ChrisTruncer).
 *   [GSDF (⭐184)](https://github.com/We5ter/GSDF) - Domain searcher named GoogleSSLdomainFinder by [@We5ter](https://github.com/We5ter).
 *   [subDomainsBrute (⭐3.6k)](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters by [@lijiejie](https://github.com/lijiejie).
 *   [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) - Searching for domain information by [VirusTotal](https://www.virustotal.com/).
@@ -1244,16 +1258,16 @@
 ### Leaking / Server-Side Request Forgery
 
 *   [CSS-Keylogging (⭐3.2k)](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS by [@maxchehab](https://github.com/maxchehab).
-*   [DVCS-Pillage (⭐329)](https://github.com/evilpacket/DVCS-Pillage) - Pillage web accessible GIT, HG and BZR repositories by [@evilpacket](https://github.com/evilpacket).
+*   [DVCS-Pillage (⭐330)](https://github.com/evilpacket/DVCS-Pillage) - Pillage web accessible GIT, HG and BZR repositories by [@evilpacket](https://github.com/evilpacket).
 *   [dvcs-ripper (⭐1.8k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG... by [@kost](https://github.com/kost).
 *   [gitleaks (⭐28k)](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys by [@zricethezav](https://github.com/zricethezav).
-*   [GitMiner (⭐2.1k)](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
+*   [GitMiner (⭐2.2k)](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
 *   [HTTPLeaks (⭐2.1k)](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests by [@cure53](https://github.com/cure53).
 
 ### Detecting / Server-Side Request Forgery
 
-*   [bXSS (⭐576)](https://github.com/LewisArdern/bXSS) - bXSS is a simple Blind XSS application adapted from [cure53.de/m](https://cure53.de/m) by [@LewisArdern](https://github.com/LewisArdern).
-*   [malware-jail (⭐476)](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
+*   [bXSS (⭐577)](https://github.com/LewisArdern/bXSS) - bXSS is a simple Blind XSS application adapted from [cure53.de/m](https://cure53.de/m) by [@LewisArdern](https://github.com/LewisArdern).
+*   [malware-jail (⭐477)](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
 *   [repo-supervisor (⭐654)](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
 *   [retire.js (⭐4.2k)](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS).
 *   [sqlchop](https://sqlchop.chaitin.cn/) - SQL injection detection engine by [chaitin](https://chaitin.com).
@@ -1271,7 +1285,7 @@
 ### Webshell / Server-Side Request Forgery
 
 *   [reverse-shell (⭐2k)](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service by [@lukechilds](https://github.com/lukechilds).
-*   [Reverse-Shell-Manager (⭐244)](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
+*   [Reverse-Shell-Manager (⭐245)](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 *   [webshell (⭐11k)](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
 *   [Webshell-Sniper (⭐423)](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 *   [Weevely (⭐3.5k)](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
@@ -1334,7 +1348,7 @@
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
-*   [awesome-bug-bounty (⭐5.7k)](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
+*   [awesome-bug-bounty (⭐5.8k)](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 *   [bug-bounty-reference (⭐4.2k)](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
 *   [EQGRP (⭐4.2k)](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
 *   [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) - Written by [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).

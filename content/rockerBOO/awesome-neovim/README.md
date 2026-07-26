@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Jul 26, 2026](/content/2026/07/26/README.md)
 
+### LSP
+
+*   [Senal-D-A-Gunaratna/swapson.nvim (⭐4)](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
+
 ### Git / GitHub
 
 *   [mesirendon/nvim-ghrelease (⭐4)](https://github.com/mesirendon/nvim-ghrelease) - Create a new GitHub release based on current releases of the repo.
+
+### Editing Support / Scrollbar
+
+*   [yaocccc/visual-multi.nvim (⭐6)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
@@ -2281,10 +2289,6 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Markdown and LaTeX
 
 *   [Thiago4532/mdmath.nvim (⭐228)](https://github.com/Thiago4532/mdmath.nvim) - A Markdown equation previewer, using kitty Graphics Protocol.
-
-### Colorscheme / Markdown and LaTeX
-
-*   [neko-night/nvim](https://github.com/neko-night/nvim) - ***`[TS][LSP][L/D][Lua]`*** A buffet of colorschemes for every taste and mood.
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 

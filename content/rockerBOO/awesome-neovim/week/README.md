@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
+### LSP
+
+*   [Senal-D-A-Gunaratna/swapson.nvim (⭐4)](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
+
 ### Programming Languages Support / Diagnostics
 
 *   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
@@ -28,6 +32,10 @@ Collections of awesome neovim plugins.
 ### Keybinding / Tree-sitter Based
 
 *   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+
+### Editing Support / Scrollbar
+
+*   [yaocccc/visual-multi.nvim (⭐6)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 
 ### Workflow / Stats Tracking
 
@@ -1935,10 +1943,6 @@ Collections of awesome neovim plugins.
 ### Search / Markdown and LaTeX
 
 *   [wsdjeg/flygrep.nvim (⭐19)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
-
-### Colorscheme / Markdown and LaTeX
-
-*   [neko-night/nvim](https://github.com/neko-night/nvim) - ***`[TS][LSP][L/D][Lua]`*** A buffet of colorschemes for every taste and mood.
 
 ### Media / Cursorline
 
