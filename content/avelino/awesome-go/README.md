@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 26, 2026](/content/2026/07/26/README.md)
+
+### Generators
+
+*   [apispec (⭐82)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
+
 ## [Jul 25, 2026](/content/2026/07/25/README.md)
 
 ### Maps
@@ -95,7 +101,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [gedb (⭐23)](https://github.com/vinicius-lino-figueiredo/gedb) - MongoDB-like embedded database, written in pure-go. Supports indexing and complex queries.
+*   [gedb (⭐24)](https://github.com/vinicius-lino-figueiredo/gedb) - MongoDB-like embedded database, written in pure-go. Supports indexing and complex queries.
 
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
@@ -173,7 +179,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [sqlex (⭐56)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
+*   [sqlex (⭐54)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
 
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
@@ -269,7 +275,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [trpc-agent-go (⭐1.5k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
+*   [trpc-agent-go (⭐1.6k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 
 ### Logging
 
@@ -281,7 +287,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [govy (⭐48)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐52)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 
 ## [Jun 08, 2026](/content/2026/06/08/README.md)
 
@@ -350,7 +356,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [memsh (⭐10)](https://github.com/amjadjibon/memsh) - Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.
+*   [memsh (⭐11)](https://github.com/amjadjibon/memsh) - Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.
 
 ### Game Development
 
@@ -554,7 +560,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [macwifi (⭐7)](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
+*   [macwifi (⭐6)](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
 
 ### Mock
 
@@ -826,7 +832,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [lazyenv (⭐54)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐56)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
@@ -970,7 +976,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [relica (⭐17)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐20)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Job Scheduler
 
@@ -1997,7 +2003,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [cimgui-go (⭐528)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐74k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐528)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐75k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
 
 ### Messaging
 

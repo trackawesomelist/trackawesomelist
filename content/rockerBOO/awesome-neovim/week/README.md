@@ -21,6 +21,10 @@ Collections of awesome neovim plugins.
 
 *   [JulOuellet/bzl.nvim (⭐1)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 
+### Git / GitHub
+
+*   [mesirendon/nvim-ghrelease (⭐4)](https://github.com/mesirendon/nvim-ghrelease) - Create a new GitHub release based on current releases of the repo.
+
 ### Keybinding / Tree-sitter Based
 
 *   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
@@ -104,7 +108,7 @@ Collections of awesome neovim plugins.
 
 *   [jjuchara/obsidian-tasks.nvim (⭐4)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
@@ -185,7 +189,7 @@ Collections of awesome neovim plugins.
 
 *   [nvim-mini/mini.nvim#mini.input (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md) - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [ChuYanLon/chad46 (⭐6)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 
@@ -1076,7 +1080,7 @@ Collections of awesome neovim plugins.
 
 *   [salorak/libtmux.nvim (⭐9)](https://github.com/salorak/libtmux.nvim) - Thin wrapper for using the `tmux` API.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Nvim.app](https://nvim.app) - A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 
@@ -1268,7 +1272,7 @@ Collections of awesome neovim plugins.
 
 *   [nvim-mini/MiniMax (⭐446)](https://github.com/nvim-mini/MiniMax) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [akrawchyk/awesome-vim#tools (⭐2.1k)](https://github.com/akrawchyk/awesome-vim#tools) - A short list of Vim plugins and helpful guides.
 *   [Weyaaron/nvim-training (⭐127)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
@@ -2905,7 +2909,7 @@ Collections of awesome neovim plugins.
 
 *   [drybalka/clean.nvim (⭐41)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 
@@ -3674,7 +3678,7 @@ Collections of awesome neovim plugins.
 
 *   [aaronhallaert/advanced-git-search.nvim (⭐391)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Dotfyle](https://dotfyle.com) - A site for sharing and discovering configurations and plugins.
 
@@ -4377,7 +4381,7 @@ Collections of awesome neovim plugins.
 
 *   [CosmicNvim/cosmic-ui (⭐171)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 
@@ -4462,7 +4466,7 @@ Collections of awesome neovim plugins.
 
 *   [Olical/conjure (⭐2.1k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 

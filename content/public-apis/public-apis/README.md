@@ -6,6 +6,170 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jul 26, 2026](/content/2026/07/26/README.md)
+
+### Development
+
+- API: [QR Code Crafter](https://qrcodecrafter.com/qr-code-api)
+
+  Description: Generate static QR codes in SVG, PNG, JPG, WebP, PDF, or EPS
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [TechRole Index](https://techrole.ru/open-data-daily)
+
+  Description: Russian IT profession, vacancy publication and salary aggregates
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### News
+
+- API: [Newsflash](https://newsflash.sh/docs)
+
+  Description: Deduplicated news events from 260+ sources with corroboration/confidence scores for AI agents
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Open Data
+
+- API: [MostExpensiveWatches](https://mostexpensivewatches.net/api)
+
+  Description: Documented luxury watch auction records, live listings, valuations and price indices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Photography
+
+- API: [Tinify.dev](https://tinify.dev/developers)
+
+  Description: Image compression, resize and crop API with usage metadata
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Science & Math
+
+- API: [Tallytopia](https://tallytopia.com/api-docs)
+
+  Description: Calculators for finance, health, math, space and sports with step-by-step results
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [FOFA](https://en.fofa.info/api)
+
+  Description: Search engine for Internet connected assets and devices
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Hybrid Analysis](https://www.hybrid-analysis.com/docs/api/v2)
+
+  Description: File and URL malware analysis powered by Falcon Sandbox
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check)
+
+  Description: SSL certificate validity, domain WHOIS status, and DNS record checks for any domain
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [PostLake](https://postlake.dev/docs/)
+
+  Description: One API to publish, schedule, and read analytics across every major social network
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Text Analysis
+
+- API: [Langbly](https://langbly.com/docs)
+
+  Description: Context-aware text translation and language detection for 100+ languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [Meltema](https://meltema.com/docs)
+
+  Description: Multi-model weather: GFS, ECMWF AIFS/IFS and a 31-member GEFS ensemble, keyless point forecasts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Jul 25, 2026](/content/2026/07/25/README.md)
 
 ### Art & Design

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 26, 2026](/content/2026/07/26/README.md)
+
+### Git / GitHub
+
+*   [mesirendon/nvim-ghrelease (⭐4)](https://github.com/mesirendon/nvim-ghrelease) - Create a new GitHub release based on current releases of the repo.
+
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -132,7 +138,7 @@ Collections of awesome neovim plugins.
 
 *   [Rimkomatic/vimtagger.nvim (⭐6)](https://github.com/Rimkomatic/vimtagger.nvim) - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
@@ -217,7 +223,7 @@ Collections of awesome neovim plugins.
 
 ## [Jun 12, 2026](/content/2026/06/12/README.md)
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [ChuYanLon/chad46 (⭐6)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 
@@ -1315,7 +1321,7 @@ Collections of awesome neovim plugins.
 
 *   [nxhung2304/lastplace.nvim (⭐28)](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Nvim.app](https://nvim.app) - A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 
@@ -1504,7 +1510,7 @@ Collections of awesome neovim plugins.
 
 *   [azratul/live-share.nvim (⭐265)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [akrawchyk/awesome-vim#tools (⭐2.1k)](https://github.com/akrawchyk/awesome-vim#tools) - A short list of Vim plugins and helpful guides.
 *   [Weyaaron/nvim-training (⭐127)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
@@ -3429,7 +3435,7 @@ Collections of awesome neovim plugins.
 
 ## [Jan 31, 2024](/content/2024/01/31/README.md)
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 
@@ -4400,7 +4406,7 @@ Collections of awesome neovim plugins.
 
 *   [sQVe/bufignore.nvim (⭐19)](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers matching specified ignore sources.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Dotfyle](https://dotfyle.com) - A site for sharing and discovering configurations and plugins.
 
@@ -5227,7 +5233,7 @@ Collections of awesome neovim plugins.
 
 *   [CosmicNvim/cosmic-ui (⭐171)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality.
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 
@@ -5328,7 +5334,7 @@ Collections of awesome neovim plugins.
 
 *   [Olical/conjure (⭐2.1k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
-### Resource / OS-specific
+### External Resource / OS-specific
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 

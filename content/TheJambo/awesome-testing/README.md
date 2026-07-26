@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jul 26, 2026](/content/2026/07/26/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Kane CLI](https://www.testmuai.com/kane-cli/) - Natural-language browser testing from the terminal, locally or in CI, with export to Playwright and shareable run evidence.
+
 ## [Jul 23, 2026](/content/2026/07/23/README.md)
 
 ### Software / Test Data Management
@@ -62,7 +68,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [nika (⭐25)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐36)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 

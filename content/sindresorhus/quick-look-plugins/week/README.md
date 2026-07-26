@@ -6,9 +6,25 @@ List of useful Quick Look plugins for developers
 
 [ [Daily](/content/sindresorhus/quick-look-plugins/README.md) / Weekly / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
 
-## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### License
+
+### [Preview3MF (⭐3)](https://github.com/cavoco/Preview3MF)
+
+> Preview 3MF 3D-printing models — real 3D rendering plus Finder thumbnails
+
+Run `brew install --cask cavoco/tap/preview3mf` or [download manually (⭐3)](https://github.com/cavoco/Preview3MF/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
+
+### Plugins
 
 ### [Burrete (⭐38)](https://github.com/SergeiNikolenko/Burrete)
 
@@ -17,10 +33,6 @@ List of useful Quick Look plugins for developers
 [Download manually (⭐38)](https://github.com/SergeiNikolenko/Burrete/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 

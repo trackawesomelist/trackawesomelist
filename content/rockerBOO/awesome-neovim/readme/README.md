@@ -93,7 +93,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
     *   [OS-specific](#os-specific)
 *   [Wishlist](#wishlist)
 *   [UI](#ui)
-*   [Resource](#resource)
+*   [External Resource](#external-resource)
 
 ## Plugin Manager
 
@@ -1474,6 +1474,7 @@ then it is not supported:
 *   [claydugo/browsher.nvim (⭐16)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
 *   [gh-tui-tools/gh-review.nvim (⭐21)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 *   [justinmk/guh.nvim (⭐142)](https://github.com/justinmk/guh.nvim) - View any GitHub object, including CI logs.
+*   [mesirendon/nvim-ghrelease (⭐4)](https://github.com/mesirendon/nvim-ghrelease) - Create a new GitHub release based on current releases of the repo.
 
 <!--lint disable double-link -->
 
@@ -2070,7 +2071,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist (⭐252)](ht
 
 <!--lint enable double-link -->
 
-## Resource
+## External Resource
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 *   [akrawchyk/awesome-vim#tools (⭐2.1k)](https://github.com/akrawchyk/awesome-vim#tools) - A short list of Vim plugins and helpful guides.
