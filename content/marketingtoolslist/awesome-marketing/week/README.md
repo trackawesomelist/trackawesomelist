@@ -2,9 +2,15 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 204 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 414 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / Weekly / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### Online Resources and Courses / Digital Asset Management (DAM)
+
+*   **[Awesome Lead Generation (⭐53)](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -39,7 +45,7 @@ A curated list of awesome marketing tools and resources
 
 ### Online Resources and Courses / Digital Asset Management (DAM)
 
-*   **[Awesome AI Marketing (⭐71)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+*   **[Awesome AI Marketing (⭐137)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -63,12 +69,6 @@ A curated list of awesome marketing tools and resources
 ### Email Marketing / Email Automation
 
 *   [Touchlead](https://touchlead.app) - Review - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
-
-## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
-
-### Online Resources and Courses / Digital Asset Management (DAM)
-
-*   **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 

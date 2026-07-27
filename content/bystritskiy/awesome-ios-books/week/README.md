@@ -6,6 +6,41 @@
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### iOS
+
+*   [*Building iOS 17 Apps with Xcode Storyboards* by Neil Smyth](https://pragprog.com/titles/d-nsxcode/building-ios-17-apps-with-xcode-storyboards/)
+
+### Swift
+
+*   [*A Swift Kickstart, Second Edition* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/)
+
+### UI
+
+*   [*UI Design for iOS App Development* by Bear Cahill](https://link.springer.com/book/10.1007/978-1-4842-6449-2)
+
+### SwiftUI
+
+*   [*Elevate SwiftUI Skills by Building Projects* by Frahaan Hussain](https://www.packtpub.com/en-us/product/elevate-swiftui-skills-by-building-projects-9781803237442)
+
+### Combine
+
+*   [*A Combine Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dscombine/a-combine-kickstart/)
+
+### Architecture
+
+*   [*iOS Development at Scale* by Eric Vennaro](https://link.springer.com/book/10.1007/978-1-4842-9456-7)
+
+### Machine Learning
+
+*   [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
+
+### Interview
+
+*   [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
+*   [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
+
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
 ### iOS
@@ -489,7 +524,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐690)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐696)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)

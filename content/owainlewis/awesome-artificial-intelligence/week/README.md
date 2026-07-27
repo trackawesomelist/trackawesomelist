@@ -6,6 +6,16 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 [ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / Weekly / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### Learn / Books
+
+*   [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp): A project-based introduction to building and deploying machine learning systems by Alexey Grigorev.
+
+### Build AI systems / Speech and audio
+
+*   [FunASR (⭐19k)](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
+
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
 ### Learn / Books

@@ -18,7 +18,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 |                                                                           Awesome                                                                           | Books |  Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  165  | July 16, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  174  | July 27, 2026 |
 
 ## How to Find a Book
 
@@ -78,6 +78,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
 *   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 *   [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
+*   [*Building iOS 17 Apps with Xcode Storyboards* by Neil Smyth](https://pragprog.com/titles/d-nsxcode/building-ios-17-apps-with-xcode-storyboards/)
 
 ## Objective-C
 
@@ -109,6 +110,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 *   [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
 *   [*Swift Style, Second Edition* by Erica Sadun](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
+*   [*A Swift Kickstart, Second Edition* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/)
 
 ## Functional Swift
 
@@ -123,6 +125,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 *   [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
 *   [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
+*   [*UI Design for iOS App Development* by Bear Cahill](https://link.springer.com/book/10.1007/978-1-4842-6449-2)
 
 ## SwiftUI
 
@@ -145,6 +148,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*The Mystery of the Mutating Mannequin* by Daniel H Steinberg](https://pragprog.com/titles/d-dsflow/the-mystery-of-the-mutating-mannequin/)
 *   [*Integrating SwiftUI into UIKit Apps* by Natalia Panferova](https://books.nilcoalescing.com/integrating-swiftui)
 *   [*A SwiftUI Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
+*   [*Elevate SwiftUI Skills by Building Projects* by Frahaan Hussain](https://www.packtpub.com/en-us/product/elevate-swiftui-skills-by-building-projects-9781803237442)
 
 ## Combine
 
@@ -153,6 +157,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
 *   [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
 *   [*Asynchronous Programming with SwiftUI and Combine* by Peter Friese](https://link.springer.com/book/10.1007/978-1-4842-8572-5)
+*   [*A Combine Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dscombine/a-combine-kickstart/)
 
 ## Architecture
 
@@ -166,6 +171,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
 *   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
 *   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
+*   [*iOS Development at Scale* by Eric Vennaro](https://link.springer.com/book/10.1007/978-1-4842-9456-7)
 
 ## Multithreading
 
@@ -211,6 +217,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
 *   [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
 *   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
+*   [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
 
 ## Metal
 
@@ -282,6 +289,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 *   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
 *   [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
+*   [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
+*   [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
 
 ## 🇷🇺 Russian books
 
@@ -300,7 +309,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Contributing and License
 
-*   [See the guide (⭐690)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐696)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History
