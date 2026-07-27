@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 27, 2026](/content/2026/07/27/README.md)
+
+### Security
+
+*   [secretgenerator (⭐9)](https://github.com/rafaelperoco/secretgenerator) - CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs.
+
 ## [Jul 26, 2026](/content/2026/07/26/README.md)
 
 ### Databases Implemented in Go

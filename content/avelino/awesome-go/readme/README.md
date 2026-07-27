@@ -816,8 +816,8 @@ additional ordered map implementations.
 *   [LinDB (⭐3.1k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 *   [lotusdb (⭐2.3k)](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with lsm and b+tree.
 *   [lynxdb (⭐281)](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
-*   [Milvus (⭐45k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [MemHop (⭐3)](https://github.com/qyiun666/MemHop) - Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16 vector + entity), single .meh file, pure Go, zero infrastructure.
+*   [Milvus (⭐45k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [minisql (⭐46)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
 *   [moss (⭐1k)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [nanotdb (⭐136)](https://github.com/aymanhs/nanotdb) - A lightweight, zero-dependency, append-only Time-Series Database and Dashboard optimized for low-power hardware.
@@ -2457,6 +2457,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [redact (⭐2)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 *   [SafeDep/vet (⭐1.1k)](https://github.com/safedep/vet) - Protect against malicious open source packages.
 *   [secret (⭐33)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secretgenerator (⭐9)](https://github.com/rafaelperoco/secretgenerator) - CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 *   [secureio (⭐33)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
 *   [simple-scrypt (⭐203)](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
