@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Jul 28, 2026](/content/2026/07/28/README.md)
+
+### Web
+
+*   [Hacker News Times](https://hackernewstimes.com/) – A newspaper-style Hacker News reader with built-in article reader and weekly newsletter
+
 ## [Jul 24, 2026](/content/2026/07/24/README.md)
 
 ### Web

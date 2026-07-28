@@ -2,7 +2,7 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.3K · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / [Weekly](/content/lvwzhen/tools/week/README.md) / Overview ]
 
@@ -118,7 +118,7 @@ Tools Online
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 *   [colourco.de](http://colourco.de)
 *   [flatuicolorpicker](http://www.flatuicolorpicker.com/)
-*   [krmp.cc (⭐2)](https://github.com/dadleyy/krmp.cc)
+*   [krmp.cc (⭐3)](https://github.com/dadleyy/krmp.cc)
 *   [Image Color Picker](https://image-color.com)
 *   [Respresso](https://respresso.io/)
 *   [Branding Colors](https://branition.com/colors)
@@ -199,6 +199,7 @@ Tools Online
 ### Tools collection
 
 *   [SmallDev.tools](https://smalldev.tools/)
+*   *   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 *   [WebToolkit Pro](https://wtkpro.site/)
 *   [FreeToolBox](https://www.freetoolbox.site/)
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)

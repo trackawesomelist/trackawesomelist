@@ -2,9 +2,15 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.3K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
+
+## [Jul 28, 2026](/content/2026/07/28/README.md)
+
+### Tools collection
+
+*   *   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 
 ## [May 09, 2026](/content/2026/05/09/README.md)
 
@@ -236,7 +242,7 @@ Tools Online
 
 ### Color
 
-*   [krmp.cc (⭐2)](https://github.com/dadleyy/krmp.cc)
+*   [krmp.cc (⭐3)](https://github.com/dadleyy/krmp.cc)
 
 ## [Oct 16, 2016](/content/2016/10/16/README.md)
 
