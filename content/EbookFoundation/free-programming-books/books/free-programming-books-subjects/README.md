@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Jul 28, 2026](/content/2026/07/28/README.md)
+
+### Artificial Intelligence
+
+*   [The Agentic AI Hub](https://daily.dev/agentic-ai-hub/) - daily.dev (HTML) (CC BY)
+
+### Software Architecture / Mathematics For Computer Science
+
+*   [Software Architecture in the AI & Cloud Era](https://oleksiyp.github.io/arch-book/) - Oleksiy Pylypenko (HTML) (CC BY-NC-SA)
+
 ## [Jul 24, 2026](/content/2026/07/24/README.md)
 
 ### IDE and editors

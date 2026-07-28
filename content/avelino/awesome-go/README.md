@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 28, 2026](/content/2026/07/28/README.md)
+
+### Database Tools
+
+*   [xsql (⭐3)](https://github.com/zx06/xsql) - AI-first cross-database CLI tool with read-only protection and structured JSON output.
+
+### Networking
+
+*   [proxq (⭐0)](https://github.com/psyb0t/docker-proxq) - Asynchronous reverse proxy that queues each request in Redis and returns a job ID to poll for the response, with path-prefix routing, retries, and caching.
+
 ## [Jul 27, 2026](/content/2026/07/27/README.md)
 
 ### Configuration
