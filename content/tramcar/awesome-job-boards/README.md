@@ -1,8 +1,31 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.7K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.8K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Jul 29, 2026](/content/2026/07/29/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobster](https://www.aijobster.work/) - Jobs from leading AI companies, across all group.
+*   [caio.pro](https://caio.pro) - C-level AI leadership jobs (Chief AI Officer, VP of AI, Head of AI/ML, Chief Data Officer), every listing AI-verified and enriched.
+
+### Big Data
+
+*   [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
+
+### Blockchain
+
+*   [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
+
+### Remote / Scala
+
+*   [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
+
+### Tech / Canada
+
+*   [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles
 
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
@@ -73,10 +96,6 @@
 *   [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
 
 ## [Mar 16, 2025](/content/2025/03/16/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 
 ### Design
 
@@ -191,12 +210,6 @@
 ### Various / United Kingdom
 
 *   [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
-
-## [Nov 15, 2022](/content/2022/11/15/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 

@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
+### Suggested Awesome Lists / Useful References
+
+*   [Awesome Behave (⭐0)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
+
 ### QA and Testing Road Map / Useful References
 
 *   [QALadder](https://qaladder.org) - A free, sequenced roadmap from manual QA to SDET, with a 150-question interview bank, browser-based practice labs, and QA tools.
@@ -58,7 +62,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome AI Testing (⭐29)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
+*   [Awesome AI Testing (⭐42)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -70,7 +74,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [postman2pytest (⭐16)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
+*   [postman2pytest (⭐18)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
 
 ### Software / Service Virtualization
 
@@ -78,7 +82,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [tapflow (⭐157)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+*   [tapflow (⭐259)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -136,7 +140,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [Tenro (⭐6)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+*   [Tenro (⭐7)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -164,7 +168,7 @@ A curated list of testing resources
 
 ### Software / Test Management
 
-*   [skipper (⭐2)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
+*   [skipper (⭐3)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -191,7 +195,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐132)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐133)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Software / Accessibility & Usability Testing
 
@@ -200,7 +204,7 @@ A curated list of testing resources
 
 ### Blogs / A/B Testing
 
-*   [And others (⭐113)](https://github.com/ChristoWolf/awesome-testing-blogs)
+*   [And others (⭐115)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -210,17 +214,17 @@ A curated list of testing resources
 
 ### Software / Visual Testing
 
-*   [Sherlo (⭐81)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+*   [Sherlo (⭐82)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐29)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐31)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [voicetest (⭐26)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [voicetest (⭐28)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -228,7 +232,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [flutter-skill (⭐325)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐335)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / A/B Testing
@@ -287,7 +291,7 @@ A curated list of testing resources
 ### Software / API Testing
 
 *   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
-*   [Swagger Coverage Tool (⭐25)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+*   [Swagger Coverage Tool (⭐26)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
 
@@ -337,7 +341,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐722)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐740)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
@@ -375,7 +379,7 @@ A curated list of testing resources
 
 *   [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
-*   [Foundry (⭐10k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+*   [Foundry (⭐11k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
 *   [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
 *   [Robot Framework Solidity Testing Toolkit (⭐13)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
@@ -516,7 +520,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐793)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐795)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -612,7 +616,7 @@ A curated list of testing resources
 
 *   [Falsehoods (⭐28k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐978)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐979)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 

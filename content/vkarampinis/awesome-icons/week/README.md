@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### Map / Countries
+
+*   [GeoIcons](http://geoicons.io/) - Country and region map-outline icons as tree-shakable SVG components for React, Vue, Angular, and vanilla JS.
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Archive of Icons

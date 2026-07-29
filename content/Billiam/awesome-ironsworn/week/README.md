@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### Translations / Starforged
+
+*   [German materials by Fabian G.](https://sirfgee.itch.io/ironsworn-starforged-fanmade-german) - Starforged reference guide, assets and playkit in German
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Tools / Starforged
@@ -84,7 +90,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Translations / Starforged
 
-*   [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - the Core Oracles of Ironsworn: Starforged in Polish
+*   [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - The Core Oracles of Ironsworn: Starforged in Polish
 
 ### Tools / Starforged
 

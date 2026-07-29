@@ -53,7 +53,8 @@ made by you on those sites when using these links*
 
 ### Starforged
 
-*   [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - the Core Oracles of Ironsworn: Starforged in Polish
+*   [German materials by Fabian G.](https://sirfgee.itch.io/ironsworn-starforged-fanmade-german) - Starforged reference guide, assets and playkit in German
+*   [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - The Core Oracles of Ironsworn: Starforged in Polish
 
 ## Tools
 

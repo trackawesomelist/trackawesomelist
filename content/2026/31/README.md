@@ -1,31 +1,162 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2026
 
-25 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+
+### Backup
+
+*   [autorestic](https://autorestic.vercel.app/) - A wrapper around the [restic](https://restic.net/) backup tool, with the goal of simplifying the setup and usage through the use of config files.
+*   [backhub (⭐71)](https://github.com/Tanq16/backhub) - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
+*   [borg](https://www.borgbackup.org/) - Encrypted backups with a clean and simple interface, easy to use and set up, possibility to mount the backup archive with FUSE and inspect it as a regular file system.
+*   [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
+*   [bupstash (⭐925)](https://github.com/andrewchambers/bupstash) - Secure, encrypted backups with efficient deduplication, client-side encryption, offline decryption, search-tagged data protection, strong privacy, robust performance on slow networks, memory-safe security against attacks, incremental backups, and minimal RAM usage for production use.
+*   [Crestic](https://nils-werner.github.io/crestic/) - Configurable Restic Wrapper.
+*   [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows uploading the backup onto untrusted servers.
+*   [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.
+*   [gwbackupy (⭐50)](https://github.com/smartondev/gwbackupy) - Open source Google Workspace™ backup solution.
+*   [Kopia](https://kopia.io/) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression, and data deduplication. CLI and GUI included.
+*   [paperbackup (⭐145)](https://github.com/intra2net/paperbackup) - Create a PDF with barcodes to backup text files on paper.
+*   [qbak (⭐6)](https://github.com/andreas-glaser/qbak) - A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
+*   [rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data.
+*   [Restic](https://restic.net/) - A backup program that is fast, efficient, and secure.
+*   [rsnapshot](https://rsnapshot.org) -  A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required.
+*   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+*   [thread-safe (⭐53)](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.
+*   [Zaloha.sh (⭐67)](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories.
+*   [zbackup](http://zbackup.org/) - A globally-deduplicating backup tool, based on the ideas found in rsync.
+*   [ZnapZend](https://www.znapzend.org) - ZFS centric backup tool creates snapshots and sends them to backup volumes. It manages local and remote copies by thinning them out as time progresses.
+
+### Office tools
+
+*   [bashform (⭐48)](https://github.com/devmegablaster/bashform) - Create and share forms in the terminal over SSH.
+*   [DeckTape (⭐2.4k)](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
+*   [ggl (⭐6)](https://github.com/taraqfarhan/ggl) - Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line).
+*   [gpa-calculator (⭐4)](https://github.com/kitesi/gpa-calculator) - GPA calculator CLI app that stores data in local files; written in Go.
+*   [Lotus 1-2-3 for Linux (⭐1.3k)](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
+*   [mdp (⭐5.3k)](https://github.com/visit1985/mdp) - A command-line based Markdown presentation tool.
+*   [patat (⭐2.7k)](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
+*   [PDFjuicer (⭐42)](https://github.com/dmikhr/pdfjuicer) - CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing.
+*   [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
+*   [presenterm (⭐8.6k)](https://github.com/mfontanini/presenterm) - A terminal slideshow tool.
+*   [pysentation (⭐263)](https://github.com/mimseyedi/pysentation) - pysentation is a CLI for displaying Python presentations.
+*   [qpdf (⭐5.2k)](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer that allows performing several types of operations on PDF files, such as splitting, merging, etc.
+*   [sc-im (⭐5.7k)](https://github.com/andmarti1424/sc-im) - (Spreadsheet Calculator Improvised) - an `ncurses` spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Nevertheless, a nice piece of software."
+*   [sent](https://tools.suckless.org/sent/) - Simple plain-text presentation tool.
+*   [SheetsUI (⭐241)](https://github.com/zaphar/sheetsui) - A console based (TUI) spreadsheet application.
+*   [Slideck (⭐54)](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal.
+*   [Slides (⭐12k)](https://github.com/maaslalani/slides) - Terminal based presentation tool.
+*   [SSH-Slides (⭐135)](https://github.com/ivantsepp/ssh-slides) - SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+*   [Teapot](https://www.syntax-k.de/projekte/teapot/) - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
+*   [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) - a ncurses Ruby program that allows producing nice text-based presentation with simple markup language.
+*   [tui-slides (⭐83)](https://github.com/Chleba/tui-slides) - TerminalpPresentation program with modern TUI.
+*   [tuitorial (⭐529)](https://github.com/basnijholt/tuitorial) - Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
+
+### Learning and didactic tools
+
+*   [bashquest (⭐10)](https://github.com/toolleeo/bashquest) - Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
+
+## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+
+### Research & Scientific Inquiry / Obsidian
+
+*   [My Claude Code Setup (⭐1.4k)](https://github.com/pedrohcgs/claude-code-my-workflow) by [Pedro H. C. Sant'Anna](https://github.com/pedrohcgs) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. Great use of orchestration patterns and great documentation.\ <img src="https://img.shields.io/github/created-at/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Skills / Obsidian
+
+*   [Caveman (⭐94k)](https://github.com/JuliusBrussee/caveman) by [Julius Brussee](https://github.com/JuliusBrussee) - A plugin that conserves message tokens by communicating in fragmented "caveman speak" - sort of a clever form of compression. Now accompanied by a whole caveman ecosystem including a memory system, caveman spec kit, and a caveman agent.\ <img src="https://img.shields.io/github/created-at/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobster](https://www.aijobster.work/) - Jobs from leading AI companies, across all group.
+*   [caio.pro](https://caio.pro) - C-level AI leadership jobs (Chief AI Officer, VP of AI, Head of AI/ML, Chief Data Officer), every listing AI-verified and enriched.
+
+### Big Data
+
+*   [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
+
+### Blockchain
+
+*   [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
+
+### Remote / Scala
+
+*   [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
+
+### Tech / Canada
+
+*   [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles
+
+## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [openSquat (⭐978)](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
+
+### Threat Intelligence / GitHub
+
+*   [MalwareIntel](https://malwareintel.es) - Free threat intelligence platform aggregating 70+ CTI feeds into a knowledge graph. 273K+ IOCs, 4200+ malware families, 3632 detection rules (Sigma/YARA), Sigma-to-SIEM converter, and detection packages bundling TTPs + IOCs + rules per family.
+
+## [5. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Map / Countries
+
+*   [GeoIcons](http://geoicons.io/) - Country and region map-outline icons as tree-shakable SVG components for React, Vue, Angular, and vanilla JS.
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Reezn.io](https://reezn.io/) - Spec-driven development workflow for teams: shifts review left so problems get caught before code is written, instead of piling up in code review. Builds a knowledge graph of your business as you go, which the AI agents use for later features. Free plan: 3 seats, 1 project, 5 features/month.
+
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Translations / Starforged
+
+*   [German materials by Fabian G.](https://sirfgee.itch.io/ironsworn-starforged-fanmade-german) - Starforged reference guide, assets and playkit in German
+
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Entertainment / Music
+
+*   [tunein-cli (⭐101)](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
+
+### Files and Directories / Search
+
+*   [Vexor (⭐231)](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
+
+## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### MCP Servers
+
+*   [emem (⭐52)](https://github.com/Vortx-AI/emem) - Shared, verifiable Earth memory for AI agents. Ed25519-signed, BLAKE3 content-addressed facts about any place on Earth — air quality, vegetation, flood, fire, elevation, deforestation. 104 tools, no API key, no signup. Remote Streamable HTTP. Install: `gemini extensions install https://emem.dev/gemini-extension.json`.
+
+## [10. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
 
 ### Web
 
 *   [Hacker News Times](https://hackernewstimes.com/) – A newspaper-style Hacker News reader with built-in article reader and weekly newsletter
 
-## [2. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Libraries
 
 *   [parens-8](https://codeberg.org/wellspring-labs/parens-8) - Bypass the Lua token limit with a tiny Lua interpreter/VM.
 *   [p8-canvas](https://codeberg.org/wellspring-labs/p8-canvas) - A high performance infinite canvas/texture library.
 
-## [3. Tools](/content/lvwzhen/tools/week/README.md)
+## [12. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Tools collection
 
 *   *   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 
-## [4. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -93,31 +224,35 @@
 
 *   [TraderHarness (⭐14)](https://github.com/HephaestLab/TraderHarness) - Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.
 
-## [5. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
+## [14. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
 
 ### Editors, Customizers and IDEs
 
 *   [smkent/bdbox (⭐5)](https://github.com/smkent/bdbox) - Workshop for previewing, parameterizing, and exporting build123d models (OCP CAD Viewer included) - [docs](https://smkent.github.io/bdbox/) [![PyPI](https://img.shields.io/pypi/v/bdbox)](https://pypi.org/project/bdbox/) [![CI](https://github.com/smkent/bdbox/actions/workflows/ci.yaml/badge.svg)](https://github.com/smkent/bdbox/actions/workflows/ci.yaml)
 
-## [6. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [15. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Suggested Awesome Lists / Useful References
+
+*   [Awesome Behave (⭐0)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
 
 ### QA and Testing Road Map / Useful References
 
 *   [QALadder](https://qaladder.org) - A free, sequenced roadmap from manual QA to SDET, with a 150-question interview bank, browser-based practice labs, and QA tools.
 
-## [7. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [16. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [ZigDash](https://gitlab.com/tamamg/zigdash) - Free, open-source Material 3 MQTT dashboard for Android, built for Zigbee2MQTT with automatic device discovery.
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [emalderson/ThePhish (⭐1.4k)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 
-## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [18. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Documentation
 
@@ -132,7 +267,7 @@
 
 *   [Resource Hints](https://www.w3.org/TR/2023/DISC-resource-hints-20230314/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (\<link>). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Cursorline
 
@@ -142,7 +277,7 @@
 
 *   [TheLazyCat00/termfile-nvim (⭐2)](https://github.com/TheLazyCat00/termfile-nvim) - Turn files into persistent terminal sessions that flawlessly allow for background work.
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [20. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Artificial Intelligence
 
@@ -152,25 +287,25 @@
 
 *   [Software Architecture in the AI & Cloud Era](https://oleksiyp.github.io/arch-book/) - Oleksiy Pylypenko (HTML) (CC BY-NC-SA)
 
-## [12. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / Menu Bar
 
 *   [emgeorrk/pulse (⭐25)](https://github.com/emgeorrk/pulse) — Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats ☆`25`
 
-## [13. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [22. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### System Utilities
 
 *   [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
 
-## [14. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
+## [23. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### Online Resources and Courses / Digital Asset Management (DAM)
 
 *   **[Awesome Lead Generation (⭐53)](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 
-## [15. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Learn / Books
 
@@ -180,35 +315,39 @@
 
 *   [FunASR (⭐19k)](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
 *   [zerx-lab/FluxDown (⭐1.1k)](https://github.com/zerx-lab/FluxDown) - A multi-protocol download manager with a Rust/Tokio engine, supporting HTTP/FTP, BitTorrent, eD2K, HLS and DASH, with IDM-style dynamic segmentation, browser extensions and an aria2-compatible JSON-RPC endpoint.
 
+### Development tools / Workflow Automation
+
+*   [sstraus/tuicommander (⭐108)](https://github.com/sstraus/tuicommander) - Desktop workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs, PR management and an MCP proxy hub [![CI](https://github.com/sstraus/tuicommander/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sstraus/tuicommander/actions/workflows/ci.yml)
+
 ### Libraries / Parsing
 
 *   [ophi-dev/antlr-rust-runtime (⭐11)](https://github.com/ophi-dev/antlr-rust-runtime) \[[antlr-rust-runtime](https://crates.io/crates/antlr-rust-runtime)] - ANTLR v4 runtime with a pure-Rust parser generator: generates parsers directly from `.g4` grammars (no Java required), validated against the official ANTLR conformance testsuite. [![build badge](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml)
 
-## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [PIrateRF (⭐271)](https://github.com/psyb0t/piraterf) - Turns a Raspberry Pi Zero W into a portable, browser-controlled RF transmitter with its own WiFi hotspot, supporting a dozen modes including FM broadcast, FT8, RTTY, POCSAG, and Morse. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
-## [18. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [27. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Boardgame
 
 *   [Duet (Veiled Dominion) (⭐0)](https://github.com/Loptr-Lab/duet-solo-hackathon) - Open-source asymmetric chess variant with an inverted win condition — the game ends when your transformed piece loses control, not when your immobile king is threatened. Includes an AI opponent, remote multiplayer, and an optional fog-of-war mode.
 
-## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Backend-as-a-Service
 
 *   [Nhost](https://nhost.io/) - Open-source backend with a Postgres database, instant GraphQL API, authentication, storage, and serverless functions. [![nhost](https://img.shields.io/github/stars/nhost/nhost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/nhost/nhost)
 
-## [20. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [29. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -243,7 +382,7 @@
 *   [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
 *   [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
 
-## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [30. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -253,7 +392,7 @@
 
 *   [A short & simple Composer tutorial](https://dev-metal.com/composer-tutorial/)
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -300,13 +439,13 @@
 
 *   [gofindimpl (⭐2)](https://github.com/psyb0t/gofindimpl) - Find all structs that implement a given Go interface across a codebase.
 
-## [23. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [32. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other
 
 *   [Beam-TV (⭐6)](https://github.com/TAGISWILD/beam-tv) - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Network Analysis
 
@@ -320,7 +459,7 @@
 
 *   [Crisp](https://didriksg.github.io/Crisp/) - Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/didriksg/Crisp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
