@@ -6,6 +6,29 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jul 29, 2026](/content/2026/07/29/README.md)
+
+### Chatbots
+
+*   [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows. `#free`
+
+### Developer Tools
+
+*   [LangChain](https://www.langchain.com/) - Open-source framework for building LLM-powered applications and agents, with 1000+ integrations. `#free` `#opensource`
+*   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
+
+### Image Generator
+
+*   [GPT Image 2](https://gptimage2.asia/) - Generate and edit AI images for marketing, ecommerce, social media, and branded visuals. `#freemium` `#design`
+
+### Video
+
+*   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
+
+### Writing
+
+*   [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Generates complete fiction drafts from a premise with genre, tone, length, and point-of-view controls. `#free`
+
 ## [Jul 25, 2026](/content/2026/07/25/README.md)
 
 ### Developer Tools
@@ -40,7 +63,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 ### Developer Tools
 
-*   [codex-profiles (⭐54)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [codex-profiles (⭐71)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 
 ## [Jul 08, 2026](/content/2026/07/08/README.md)
 
@@ -127,7 +150,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐186k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐191k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
@@ -755,11 +778,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 *   [Blackbox AI](https://www.blackbox.ai/) - AI-powered code completion and generation that works in over 20 languages. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 
-### Trending 2025 AI Tools
-
-*   [SORA2](http://sora.chatgpt.com/) - Advanced multimodal model by OpenAI supporting video generation `#free`
-*   [Openai Agent Builder](https://platform.openai.com/agent-builder) - designing, deploying, and managing autonomous AI agents with No Code `Freemium`
-
 ## [Oct 03, 2025](/content/2025/10/03/README.md)
 
 ### Audio & Speech
@@ -810,30 +828,15 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 ## [Sep 15, 2025](/content/2025/09/15/README.md)
 
-### Trending 2025 AI Tools
-
-*   [Character.AI](https://character.ai/) - Create and chat with AI characters with distinct personalities `#freemium`
-*   [Poe](https://poe.com/) - Platform to access multiple AI models in one place `#freemium`
-*   [You.com](https://you.com/) - AI search engine with chat capabilities and real-time information `#freemium`
-*   [Notion AI](https://www.notion.so/product/ai) - AI writing assistant integrated into Notion workspace `#freemium`
-*   [Perplexity Pro](https://www.perplexity.ai/) - AI-powered search engine with real-time information and source citations `#freemium`
-*   [Arc Browser](https://arc.net/) - AI-powered browser with intelligent tab management and smart features `#free`
-*   [Gamma](https://gamma.app/) - AI-powered presentation and document creation platform `#freemium`
-*   [Tavily](https://tavily.com/) - AI-powered research assistant for finding and summarizing information `#freemium`
-*   [Cursor](https://cursor.sh/) - AI-powered code editor with advanced code generation capabilities `#freemium`
-*   [Replit Agent](https://replit.com/) - AI coding assistant that can build entire applications `#freemium`
-*   [Claude Desktop](https://claude.ai/) - Desktop application for Anthropic's Claude AI assistant `#freemium`
-*   [ChatGPT Desktop](https://openai.com/chatgpt) - Desktop application for OpenAI's ChatGPT `#freemium`
-*   [Bard Advanced](https://bard.google.com/) - Google's advanced AI assistant with enhanced capabilities `#free`
-*   [Pi AI](https://pi.ai/) - Personal AI assistant focused on emotional intelligence and conversation `#free`
-*   [Hugging Face Chat](https://huggingface.co/chat) - Open-source AI chat interface with multiple models `#free`
-
 ### Chatbots
 
+*   [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them. `#freemium`
 *   [Claude 3.5 Sonnet](https://claude.ai/) - Anthropic's most advanced AI assistant with enhanced reasoning and coding capabilities `#freemium`
 *   [DeepSeek-V3](https://www.deepseek.com/) - Advanced reasoning model with 128K context length and strong coding abilities `#freemium`
 *   [Gemini 2.0](https://gemini.google.com/) - Google's latest multimodal AI model with advanced reasoning and creative capabilities `#free`
 *   [GPT-4o](https://openai.com/gpt-4o) - OpenAI's flagship model with vision, audio, and text capabilities in a single model `#freemium`
+*   [Poe](https://poe.com/) - Platform that lets you chat with multiple AI models in one place. `#freemium`
+*   [You.com](https://you.com/) - AI search engine with chat capabilities and real-time information. `#freemium`
 
 ### Developer Tools
 
@@ -844,6 +847,11 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 *   [Continue](https://continue.dev/) - Open-source AI code assistant that works with any LLM `#free`
 *   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
+
+### Productivity
+
+*   [Notion AI](https://www.notion.so/product/ai) - AI-powered workspace with writing, planning, and organization features. `#freemium`
+*   [Uizard](https://uizard.io) - With this AI tool you can create a beautiful website and app `#paid`
 
 ### Image Generator
 
@@ -889,10 +897,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 ### Presentations
 
 *   [gamma.app](https://gamma.app) - Gamma is a new platform that allows users to create polished documents, presentations, and webpages in seconds using AI. `#freemium`
-
-### Productivity
-
-*   [Uizard](https://uizard.io) - With this AI tool you can create a beautiful website and app `#paid`
 
 ### Video
 

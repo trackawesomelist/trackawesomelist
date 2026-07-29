@@ -17,11 +17,13 @@
 
 ### Blockchain
 
+*   [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market industry, roles from Polymarket, Kalshi, quant trading firms and more.
 *   [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
 
 ### Remote / Scala
 
 *   [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
+*   [4DayJob](https://www.4dayjob.com/) - 4-day work week and remote job board with 1,000+ listings across 10 categories
 
 ### Tech / Canada
 

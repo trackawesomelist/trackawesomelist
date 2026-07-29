@@ -6,6 +6,65 @@ The list of continuous integration services and tools
 
 [ Daily / [Weekly](/content/ligurio/awesome-ci/week/README.md) / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
 
+## [Jul 29, 2026](/content/2026/07/29/README.md)
+
+- Name: [Bitrise](https://bitrise.io/)
+
+  Description: Mobile Continuous Integration and Delivery.
+
+  Features: [Source code (⭐894)](https://github.com/bitrise-io/bitrise) is available
+
+  Supported repositories: GitHub, BitBucket, Gitlab, Custom
+
+  Documentation: [Documentation](https://devcenter.bitrise.io/)
+
+  Price: [Free with limitations](https://www.bitrise.io/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise.svg)](https://github.com/bitrise-io/bitrise)
+
+
+- Name: [Chrono CI](https://www.chronoci.com/)
+
+  Description: Continuous Integration Security
+
+  Features: Languages: Ruby on Rails, Python, Node.js, Solidity C, Java, Go
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://www.chronoci.com/docs)
+
+  Price: [Free for 100 tests per month](https://www.chronoci.com/pricing)
+
+
+- Name: [Coverity](https://www.coverity.com)
+
+  Description: Code analysis, test analysis
+
+  Features: Languages: C/C++, Java, C#
+
+  Supported repositories: 
+
+  Documentation: None
+
+  Price: [Free for opensource projects](https://softwareintegrity.coverity.com/free-trial-coverity.html)
+
+  Stars: 
+
+
+- Name: [Crow CI](https://crowci.dev)
+
+  Description: Lightweight, fast and extensible. FOSS. Golang + Vue
+
+  Features: Self-hostable, multi-forge, Docker & Kubernetes backends, DAG support, secret storage, HA
+
+  Supported repositories: Forgejo, GitHub, GitLab, Gitea, Bitbucket, Bitbucket Datacenter
+
+  Documentation: [Documentation](https://crowci.dev)
+
+  Price: [Open Source](https://codeberg.org/crowci)
+
+
+
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
 - Name: [PikoCI](https://pikoci.com)
@@ -22,7 +81,7 @@ The list of continuous integration services and tools
 
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
-- Name: [gitlab-ci-local (⭐3.9k)](https://github.com/firecow/gitlab-ci-local)
+- Name: [gitlab-ci-local (⭐4k)](https://github.com/firecow/gitlab-ci-local)
 
   Description: Run your GitLab CI/CD pipelines locally instead of pushing to test your .gitlab-ci.yml
 
@@ -30,9 +89,9 @@ The list of continuous integration services and tools
 
   Supported repositories: GitLab
 
-  Documentation: [Documentation (⭐3.9k)](https://github.com/firecow/gitlab-ci-local#readme)
+  Documentation: [Documentation (⭐4k)](https://github.com/firecow/gitlab-ci-local#readme)
 
-  Price: [Open Source (⭐3.9k)](https://github.com/firecow/gitlab-ci-local) (MIT)
+  Price: [Open Source (⭐4k)](https://github.com/firecow/gitlab-ci-local) (MIT)
 
   Stars: [![Stars](https://img.shields.io/github/stars/firecow/gitlab-ci-local.svg)](https://github.com/firecow/gitlab-ci-local)
 
@@ -40,7 +99,7 @@ The list of continuous integration services and tools
 
 ## [Aug 01, 2025](/content/2025/08/01/README.md)
 
-- Name: [Semaphore CE (⭐1.5k)](https://github.com/semaphoreio/semaphore)
+- Name: [Semaphore CE (⭐1.6k)](https://github.com/semaphoreio/semaphore)
 
   Description: Self-Hosted, Open-Source CI/CD platform
 
@@ -53,22 +112,6 @@ The list of continuous integration services and tools
   Price: Free OSS (Apache-2)
 
   Stars: [![Stars](https://img.shields.io/github/stars/semaphoreio/semaphore.svg)](https://github.com/semaphoreio/semaphore)
-
-
-
-## [Jul 30, 2025](/content/2025/07/30/README.md)
-
-- Name: [Crow CI](http://crowci.dev)
-
-  Description: Lightweight, fast and extensible. FOSS. Golang + Vue
-
-  Features: Self-hostable, multi-forge, Docker & Kubernetes backends, DAG support, secret storage, HA
-
-  Supported repositories: Forgejo, GitHub, GitLab, Gitea, Bitbucket, Bitbucket Datacenter
-
-  Documentation: [Documentation](https://crowci.dev)
-
-  Price: [Open Source](https://codeberg.org/crowci)
 
 
 
@@ -123,7 +166,7 @@ The list of continuous integration services and tools
 
 ## [May 16, 2024](/content/2024/05/16/README.md)
 
-- Name: [Laminar CI](https://github.com/ohwgiles/laminar)
+- Name: [Laminar CI (⭐352)](https://github.com/ohwgiles/laminar)
 
   Description: Fast and lightweight Continuous Integration
 
@@ -177,7 +220,7 @@ The list of continuous integration services and tools
 
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
-- Name: [Pipelight](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐977)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -187,7 +230,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐977)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 
@@ -255,7 +298,7 @@ The list of continuous integration services and tools
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐590)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -355,11 +398,11 @@ The list of continuous integration services and tools
 
   Description: Hosted continuous integration service for open source and private projects.
 
-  Features: Languages: C, C++, Clojure, D, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. [Source code](https://github.com/travis-ci/travis-ci) is available.
+  Features: Languages: C, C++, Clojure, D, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. [Source code (⭐8.5k)](https://github.com/travis-ci/travis-ci) is available.
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation](http://docs.travis-ci.com/user/getting-started/)
+  Documentation: [Documentation](https://docs.travis-ci.com/user/getting-started/)
 
   Price: [Pricing](https://travis-ci.com/pricing)
 
@@ -413,7 +456,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
-  Documentation: [Documentation](http://docs.appcircle.io/)
+  Documentation: [Documentation](https://docs.appcircle.io/)
 
   Price: [Free with limitations](https://appcircle.io/pricing)
 
@@ -436,19 +479,6 @@ The list of continuous integration services and tools
   Price: [Free for 1 container on Linux, Windows, and Arm](https://circleci.com/pricing)
 
 
-- Name: [Cirrus CI](https://cirrus-ci.org/)
-
-  Description: Bring-Your-Own-Infrastructure CI with modern cloud technologies, matrix builds and simple-yet-powerful configuration
-
-  Features: Virtualization: docker/native, OS: linux/macos/windows/freebsd, ISA:several gpus/arm
-
-  Supported repositories: GitHub, Gitlab(community cirrus-run)
-
-  Documentation: [Documentation](https://cirrus-ci.org/)
-
-  Price: [Free for Open Source, per-second billing for private projects](https://cirrus-ci.org/pricing/)
-
-
 
 ## [Sep 15, 2021](/content/2021/09/15/README.md)
 
@@ -465,22 +495,6 @@ The list of continuous integration services and tools
   Price: Free
 
   Stars: 
-
-
-
-## [Sep 03, 2021](/content/2021/09/03/README.md)
-
-- Name: [Chrono CI](http://www.chronoci.com/)
-
-  Description: Continuous Integration Security
-
-  Features: Languages: Ruby on Rails, Python, Node.js, Solidity C, Java, Go
-
-  Supported repositories: GitHub
-
-  Documentation: [Documentation](http://www.chronoci.com/docs)
-
-  Price: [Free for 100 tests per month](http://www.chronoci.com/pricing)
 
 
 
@@ -508,11 +522,11 @@ The list of continuous integration services and tools
 
   Description: Continuous Integration service
 
-  Features: [Source code (⭐36k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
+  Features: [Source code (⭐38k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
 
   Supported repositories: GitHub, GitLab, Gitea, BitBucket, Google Code, Custom
 
-  Documentation: [Documentation](http://docs.drone.io/)
+  Documentation: [Documentation](https://docs.drone.io/)
 
   Price: [Pricing (enterprise)](https://drone.io/enterprise/) - free self hosting - Open Source
 
@@ -530,9 +544,9 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐715)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐713)](https://github.com/flowci/docs)
 
-  Price: [Open Source](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐403)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -558,7 +572,7 @@ The list of continuous integration services and tools
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
 
-- Name: [minci (⭐33)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐32)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 
@@ -606,7 +620,7 @@ The list of continuous integration services and tools
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
-- Name: [Abstruse CI (⭐956)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐958)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -614,7 +628,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐956)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐958)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -644,9 +658,9 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, BitBucket
 
-  Documentation: [Documentation](http://www.appveyor.com/docs)
+  Documentation: [Documentation](https://www.appveyor.com/docs)
 
-  Price: [Free with limitations](http://www.appveyor.com/pricing)
+  Price: [Free with limitations](https://www.appveyor.com/pricing)
 
   Stars: 
 
@@ -709,21 +723,6 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Bitrise](http://bitrise.io/)
-
-  Description: Mobile Continuous Integration and Delivery.
-
-  Features: [Source code (⭐889)](https://github.com/bitrise-io/bitrise) is available
-
-  Supported repositories: GitHub, BitBucket, Gitlab, Custom
-
-  Documentation: [Documentation](http://devcenter.bitrise.io/)
-
-  Price: [Free with limitations](https://www.bitrise.io/pricing)
-
-  Stars: [![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise.svg)](https://github.com/bitrise-io/bitrise)
-
-
 - Name: [Buddy](https://buddy.works)
 
   Description: Continuous Integration and Deployment
@@ -743,7 +742,7 @@ The list of continuous integration services and tools
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐991)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐1k)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -792,7 +791,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, Custom
 
-  Documentation: [Documentation](http://docs.codeclimate.com/)
+  Documentation: [Documentation](https://docs.codeclimate.com/)
 
   Price: [14-day Trial](https://codeclimate.com/pricing)
 
@@ -837,7 +836,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, BitBucket
 
-  Documentation: [Documentation](https://www.codeship.io/documentation) [Free ebook](http://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/)
+  Documentation: [Documentation](https://www.codeship.io/documentation) [Free ebook](https://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/)
 
   Price: [Free for opensource projects or 100 builds per month](https://www.codeship.io/pricing)
 
@@ -874,21 +873,6 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Coverity](http://www.coverity.com)
-
-  Description: Code analysis, test analysis
-
-  Features: Languages: C/C++, Java, C#
-
-  Supported repositories: 
-
-  Documentation: None
-
-  Price: [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html)
-
-  Stars: 
-
-
 - Name: [Ebert](https://ebertapp.io/)
 
   Description: Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
@@ -904,7 +888,7 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Evergreen (⭐446)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐448)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -912,7 +896,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐446)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐448)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -1004,7 +988,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation](https://jenkins.io/doc/)
 
-  Price: [Open Source](https://github.com/jenkinsci/jenkins)
+  Price: [Open Source (⭐26k)](https://github.com/jenkinsci/jenkins)
 
   Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
 
@@ -1024,7 +1008,7 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Previs](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐322)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -1032,7 +1016,7 @@ The list of continuous integration services and tools
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐322)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 
