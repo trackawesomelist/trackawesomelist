@@ -6,6 +6,16 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 30, 2026](/content/2026/07/30/README.md)
+
+### Misc
+
+*   [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
+
+### Reports Generation
+
+*   [PDFShift](https://pdfshift.io/) - HTML/Url to PDF conversion API.
+
 ## [Jul 27, 2026](/content/2026/07/27/README.md)
 
 ### Backend-as-a-Service

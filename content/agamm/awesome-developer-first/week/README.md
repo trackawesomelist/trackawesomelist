@@ -12,6 +12,14 @@ A curated list of awesome developer-first tools products.
 
 *   [Nhost](https://nhost.io/) - Open-source backend with a Postgres database, instant GraphQL API, authentication, storage, and serverless functions. [![nhost](https://img.shields.io/github/stars/nhost/nhost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/nhost/nhost)
 
+### Misc
+
+*   [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
+
+### Reports Generation
+
+*   [PDFShift](https://pdfshift.io/) - HTML/Url to PDF conversion API.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Analytics

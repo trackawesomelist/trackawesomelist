@@ -57,7 +57,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [Network & Web](#network--web)
     *   [Network](#network)
     *   [Browser](#browser)
-    *   [Runtime](#runtime)
     *   [Web Framework](#web-framework)
     *   [Web3 Framework](#web3-framework)
     *   [WebAssembly](#webassembly)
@@ -261,6 +260,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 *   [OrlovEvgeny/zigquery (⭐9)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 *   [tree-sitter/zig-tree-sitter (⭐118)](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+*   [eoan-ermine/zig-strparse (⭐1)](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
 
 ### Logging Processing
 
@@ -476,10 +476,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Browser
 
 *   [lightpanda-io/browser (⭐33k)](https://github.com/lightpanda-io/browser) - Headless browser designed for AI and automation.
-
-### Runtime
-
-*   [oven-sh/bun (⭐95k)](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 ### Web Framework
 

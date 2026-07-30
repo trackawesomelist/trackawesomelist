@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [Illusionna/LocalTransfer (⭐493)](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 
+### Language Essentials / Parser Library
+
+*   [eoan-ermine/zig-strparse (⭐1)](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Fundamentals / Utility
@@ -1465,10 +1469,6 @@ A collaborative list of awesome Zig libraries and resources.
 *   [mstroecker/zig-robotstxt (⭐2)](https://github.com/mstroecker/zig-robotstxt) - Lightweight Docker image for serving a disallow robots.txt file using the Zig programming language.
 *   [remeh/statsd-zig (⭐5)](https://github.com/remeh/statsd-zig) - Basic DogStatsD UDP/UDS server supporting gauges and counters and sending these metrics to Datadog.
 *   [gernest/url (⭐7)](https://github.com/gernest/url) - This is RFC 3986 compliant url parser for Zig.
-
-### Network & Web / Runtime
-
-*   [oven-sh/bun (⭐95k)](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 ### Network & Web / Web Framework
 

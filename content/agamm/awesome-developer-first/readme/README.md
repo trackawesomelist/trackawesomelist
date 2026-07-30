@@ -404,6 +404,7 @@ For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome
 *   [Actyx](https://www.actyx.com/) - Developer-first factory building.
 *   [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/dailydotdev/daily)
 *   [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
+*   [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
 *   [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
 *   [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 *   [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
@@ -482,6 +483,7 @@ For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome
 *   [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 *   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 *   [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
+*   [PDFShift](https://pdfshift.io/) - HTML/Url to PDF conversion API.
 
 ## Scraping
 
