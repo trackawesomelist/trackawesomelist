@@ -120,7 +120,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 **(requires Neovim 0.5)**
 
-*   [nvim-pio (⭐4)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+*   [nvim-pio (⭐12)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 *   [romus204/referencer.nvim (⭐48)](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 *   [Dan7h3x/signup.nvim (⭐65)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
@@ -634,7 +634,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [vodchella/hodur.nvim (⭐22)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 *   [A7Lavinraj/fyler.nvim (⭐756)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
 *   [adriancmiranda/glimpse.nvim (⭐9)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
-*   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+*   [ingur/fzf-oil.nvim (⭐67)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
 <!--lint disable double-link -->
 
@@ -1062,7 +1062,7 @@ then it is not supported:
 *   [vyfor/cord.nvim (⭐677)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 *   [iamt4nk/smm.nvim (⭐32)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
 *   [sanjay-np/nvim-yt-player (⭐16)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
-*   [T-b-t-nchos/FMP7.nvim (⭐3)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
+*   [T-b-t-nchos/FMP7.nvim (⭐4)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
 
 <!--lint disable double-link -->
 
@@ -1534,7 +1534,7 @@ then it is not supported:
 
 *   [RutaTang/compter.nvim (⭐29)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 *   [zdcthomas/yop.nvim (⭐87)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
-*   [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+*   [chrisgrieser/nvim-recorder (⭐288)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 *   [sontungexpt/bim.nvim (⭐13)](https://github.com/sontungexpt/bim.nvim) - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 *   [folke/which-key.nvim (⭐7.2k)](https://github.com/folke/which-key.nvim) - Shows a popup with possible keybindings of the command you started typing.
 *   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
@@ -1672,6 +1672,7 @@ then it is not supported:
 *   [nemanjamalesija/smart-paste.nvim (⭐167)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 *   [neur1n/hyphen.nvim (⭐5)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 *   [ntk148v/yankdown.nvim (⭐11)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
+*   [Chiarandini/smart-enter.nvim (⭐3)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 *   [yaocccc/visual-multi.nvim (⭐6)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 
 ### Comment
@@ -1693,7 +1694,7 @@ then it is not supported:
 *   [LucasTavaresA/SingleComment.nvim (⭐9)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
 *   [Zeioth/dooku.nvim (⭐51)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 *   [georgeharker/comment-tasks.nvim (⭐19)](https://github.com/georgeharker/comment-tasks.nvim) - Keep your task manager up to date from TODO and FIXME comments in code.
-*   [celeste3z/celeste\_comment.nvim (⭐1)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
+*   [celeste3z/celeste\_comment.nvim (⭐8)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
 
 ### Folding
 

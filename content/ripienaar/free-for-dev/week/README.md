@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [telemetry.dev](https://telemetry.dev) - Observability for AI/LLM apps built on OpenTelemetry. Traces model calls and tool steps with tokens, cost, latency and errors; send OTLP over HTTP from any language or use the TypeScript SDKs. Free plan includes 10,000 spans/month, 7-day retention, 1 project and 2 seats, no credit card.
 
+### Payment and Billing Integration
+
+*   [Codex](https://www.codex.io) - Real-time crypto and prediction market data API for pricing, charts, transactions, wallet balances, and trending data. The free tier offers 10,000 requests for free per month, with credit card or crypto authentication required.
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### APIs, Data, and ML
@@ -442,12 +446,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Forms
 
 *   [FluidForms](https://fluidforms.ai/) - Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
-
-## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
-
-### APIs, Data, and ML
-
-*   [SikkerAPI](https://sikkerapi.com) - Free IP Reputation & Threat Intelligence, powered by a globally distributed high interaction honeypot network and community reported abuse incidents. 1,000 free IP lookups, TAXII indicators & reports per day, pull 5,000 fresh IPs from our blacklists daily and monitor your own CIDR ranges (/16) free free.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -1208,12 +1206,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)
 
-## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
-
-### Generative AI
-
-*   [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
-
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Generative AI
@@ -1450,10 +1442,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
 
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [btunnel](https://www.btunnel.in/) - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
-
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### Tools for Teams and Collaboration
@@ -1534,10 +1522,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
-
-### APIs, Data, and ML
-
-*   [BrowserCat](https://www.browsercat.com) - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.
 
 ### Security and PKI
 
@@ -3655,7 +3639,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available, including 1,000 free rows per sheet.
 *   [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
 
 ### CI and CD
@@ -4002,7 +3985,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [onesignal.com](https://onesignal.com/) - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
 *   [paraio.com](https://paraio.com) - Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
-*   [pushbots.com](https://pushbots.com/) - Push notification service. Free for up to 1.5 million pushes/month
 *   [pusher.com](https://pusher.com/beams) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
 *   [tyk.io](https://tyk.io/) - API management with authentication, quotas, monitoring and analytics. Free cloud offering
 *   [zapier.com](https://zapier.com/) - Connect the apps you use to automate tasks. Five zaps every 15 minutes and 100 tasks/month
@@ -4087,7 +4069,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [JDoodle](https://www.jdoodle.com) - Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
 *   [jetbrains.com](https://jetbrains.com/products.html) - Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
 *   [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
-*   [mockable.io](https://www.mockable.io/) - Mockable is a simple configurable service to mock out RESTful API or SOAP web services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
 *   [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
 *   [wakatime.com](https://wakatime.com/) - Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
 

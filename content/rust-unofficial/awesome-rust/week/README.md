@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
+### Applications / Observability
+
+*   [rustrak/rustrak (⭐75)](https://github.com/rustrak/rustrak) - Ultra-lightweight error tracking server compatible with Sentry SDKs.
+
 ### Applications / Operating systems
 
 *   [NON-OS/nonos-micro-kernel (⭐83)](https://github.com/NON-OS/nonos-micro-kernel) - A capability-based, RAM-resident microkernel where every program is a signed capsule that must prove itself before the kernel will run it, and drivers run in userspace.

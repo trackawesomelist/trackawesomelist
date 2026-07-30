@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 30, 2026](/content/2026/07/30/README.md)
+
+### Applications / Observability
+
+*   [rustrak/rustrak (⭐75)](https://github.com/rustrak/rustrak) - Ultra-lightweight error tracking server compatible with Sentry SDKs.
+
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
 ### Applications / Operating systems

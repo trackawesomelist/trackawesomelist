@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [TheLazyCat00/termfile-nvim (⭐2)](https://github.com/TheLazyCat00/termfile-nvim) - Turn files into persistent terminal sessions that flawlessly allow for background work.
 
+### Editing Support / Scrollbar
+
+*   [Chiarandini/smart-enter.nvim (⭐3)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### LSP
@@ -63,7 +67,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Markdown and LaTeX
 
-*   [ingur/fzf-oil.nvim (⭐17)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+*   [ingur/fzf-oil.nvim (⭐67)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
 ### Color / Markdown and LaTeX
 
@@ -88,7 +92,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Comment
 
-*   [celeste3z/celeste\_comment.nvim (⭐1)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
+*   [celeste3z/celeste\_comment.nvim (⭐8)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
 
 ### Workflow / Stats Tracking
 
@@ -134,7 +138,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [nvim-pio (⭐4)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+*   [nvim-pio (⭐12)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 *   [hasansujon786/nvim-navbuddy (⭐80)](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
 *   [Zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/Zeioth/none-ls-autoload.nvim) - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
 *   [Crysthamus/nvim-file-operations (⭐14)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
@@ -189,7 +193,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [T-b-t-nchos/FMP7.nvim (⭐3)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
+*   [T-b-t-nchos/FMP7.nvim (⭐4)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
 
 ### Code Runner / Quickfix
 
@@ -3989,7 +3993,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+*   [chrisgrieser/nvim-recorder (⭐288)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 
 ### Editing Support / Scrollbar
 

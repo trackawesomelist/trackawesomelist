@@ -2453,6 +2453,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [leakhound (⭐17)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
 *   [lego (⭐9.8k)](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 *   [luks.go (⭐98)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+*   [mcprobe (⭐3)](https://github.com/tamish560/mcprobe) - Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.
 *   [memguard (⭐2.7k)](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 *   [multikey (⭐13)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 *   [nacl (⭐554)](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.

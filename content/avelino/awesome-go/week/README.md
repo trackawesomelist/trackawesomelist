@@ -44,6 +44,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
+*   [mcprobe (⭐3)](https://github.com/tamish560/mcprobe) - Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.
 *   [secretgenerator (⭐9)](https://github.com/rafaelperoco/secretgenerator) - CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs.
 
 ### Web Frameworks
