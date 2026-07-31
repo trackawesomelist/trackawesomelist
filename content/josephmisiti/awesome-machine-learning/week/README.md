@@ -12,6 +12,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [Leanpass (⭐4)](https://github.com/Terminay/LeanPass) - A lightweight, NumPy-only autodiff library for small ML projects and learning how backpropagation works. It is 700x times lighter than Pytorch and 900x times lighter than TensorFlow.
 
+### Tools / Neural Networks
+
+*   [BESSER Neural Network Editor](https://editor.besser-pearl.org) - Browser-based visual editor for designing neural networks and automatically generating PyTorch and TensorFlow code.
+
 ### Tools / Misc
 
 *   [Cortexa](https://automata-index.vercel.app) - Free, open-access search engine for robotics, ML, and AI research papers (arXiv, MDPI, IEEE OA). <a name="books"></a>
@@ -26,7 +30,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C / General-Purpose Machine Learning
 
-*   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
+*   [notorch (⭐18)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
@@ -741,7 +745,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐780)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐783)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 *   [Deepchecks (⭐4k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
@@ -852,7 +856,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [Streamlit (⭐45k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐14k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Optuna (⭐15k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1351,7 +1355,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐716)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐715)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
@@ -2349,7 +2353,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
+*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -2535,10 +2539,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [thinking bayes (⭐1.7k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 *   [nilearn (⭐1.4k)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐10k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐18k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 *   [Annoy (⭐14k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
-*   [skbayes (⭐524)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
+*   [skbayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
 ### C++ / Natural Language Processing

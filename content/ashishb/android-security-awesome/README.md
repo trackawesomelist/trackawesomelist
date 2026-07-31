@@ -6,6 +6,12 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Jul 31, 2026](/content/2026/07/31/README.md)
+
+### Tools / Dynamic Analysis Tools
+
+*   [FlutterTap (⭐0)](https://github.com/script-or-script/FlutterTap) - Zygisk module that bypasses BoringSSL certificate verification inside `libflutter.so` and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable and no listening port.
+
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
 ### Tools / Misc Tools

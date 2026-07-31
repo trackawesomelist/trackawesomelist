@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Jul 31, 2026](/content/2026/07/31/README.md)
+
+### Tools / Neural Networks
+
+*   [BESSER Neural Network Editor](https://editor.besser-pearl.org) - Browser-based visual editor for designing neural networks and automatically generating PyTorch and TensorFlow code.
+
 ## [Jul 27, 2026](/content/2026/07/27/README.md)
 
 ### Python / General-Purpose Machine Learning
@@ -26,7 +32,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C / General-Purpose Machine Learning
 
-*   [notorch (⭐14)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
+*   [notorch (⭐18)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 
 ## [Jul 12, 2026](/content/2026/07/12/README.md)
 
@@ -751,7 +757,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐780)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐783)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [Dec 29, 2021](/content/2021/12/29/README.md)
 
@@ -874,7 +880,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [Streamlit (⭐45k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐14k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Optuna (⭐15k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Books / Misc
 
@@ -1445,7 +1451,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐716)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐715)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [May 15, 2020](/content/2020/05/15/README.md)
 
@@ -2512,7 +2518,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
+*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
@@ -2710,10 +2716,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [thinking bayes (⭐1.7k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 *   [nilearn (⭐1.4k)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐10k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐18k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 *   [Annoy (⭐14k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
-*   [skbayes (⭐524)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
+*   [skbayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
 ### C++ / Natural Language Processing
