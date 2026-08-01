@@ -12,18 +12,52 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 *   [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows. `#free`
 
+### Crypto
+
+*   [Arkham Intelligence](https://arkhamintelligence.com/) - On-chain analytics platform that deanonymizes blockchain addresses and tracks entity activity using AI. `#freemium`
+*   [Token Metrics](https://www.tokenmetrics.com/) - AI-powered crypto research and ratings platform with price predictions and portfolio tools. `#freemium`
+
 ### Developer Tools
 
 *   [LangChain](https://www.langchain.com/) - Open-source framework for building LLM-powered applications and agents, with 1000+ integrations. `#free` `#opensource`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
 
+### Experiments
+
+*   [Google Labs](https://labs.google/) - Google's hub for early-access AI experiments, including Whisk, NotebookLM, and other prototype tools. `#free`
+
+### Gaming
+
+*   [Scenario](https://www.scenario.com/) - AI-powered game asset generation trained on your own art style for consistent characters, items, and environments. `#freemium`
+
+### Image Classification
+
+*   [Clarifai](https://clarifai.com/) - Computer vision platform for image and video classification, object detection, and custom model training. `#freemium`
+
 ### Image Generator
 
 *   [GPT Image 2](https://gptimage2.asia/) - Generate and edit AI images for marketing, ecommerce, social media, and branded visuals. `#freemium` `#design`
 
+### Interior Designing
+
+*   [Interior AI](https://interiorai.com/) - Generates redesigned photos of real rooms in dozens of styles from a single uploaded photo. `#freemium`
+
+### Model
+
+*   [Llama](https://www.llama.com/) - Meta's family of open-weight large language models, free for research and most commercial use. `#free` `#opensource`
+*   [Mistral](https://mistral.ai/) - French AI lab's open-weight and API models, including Mistral Large and Codestral. `#freemium` `#opensource`
+
+### Psychology
+
+*   [Wysa](https://www.wysa.com/) - AI mental health chatbot offering CBT-based coping tools and mood tracking. `#freemium`
+
 ### Video
 
 *   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
+
+### Weather
+
+*   [Tomorrow.io](https://www.tomorrow.io/) - AI-driven weather intelligence platform with hyperlocal forecasting and API access. `#freemium`
 
 ### Writing
 
@@ -120,7 +154,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
-*   [Codex CLI (⭐99k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐103k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Gemini CLI (⭐106k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
@@ -261,7 +295,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 *   [J1 Assistant](https://www.j1.com/) - Jarvis project powerful voice input assistant. 57 `#free`
 *   [Koko AI](https://koko.ai/) - 3D playground creation and interaction experience. 81 \`\`
 *   [Little Wukong](https://wukong.com/) - Personal intelligent assistant with 1-click solutions. 77 `#free`
-*   [Luca (Facing the Wall)](https://luca.cn/)%20AI%20Tool) - Logical processing and world knowledge asst. 76 \`\`
+*   [Luca (Facing the Wall)](https://luca.cn/) - Logical processing and world knowledge asst.
 *   [MChat (Mencius)](https://mchat.ai/)%20AI%20Tool) - Enterprise-level cognitive intelligence. 83 \`\`
 *   [Me.bot](https://me.bot/) - Transform personal knowledge into a digital brain. 84 \`\`
 *   [Meta AI Assistant](https://www.meta.ai/) - Llama-based daily Q\&A and image generation. 52 `#free`
@@ -521,7 +555,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 ### Model
 
-*   [DeepSeek (R1)](https://www.deepseek.com/)%20AI%20Tool) - High-performance reasoning open-source model. `#paid`
+*   [DeepSeek (R1)](https://www.deepseek.com/) - High-performance reasoning open-source model. `#paid`
 
 ### Models
 
