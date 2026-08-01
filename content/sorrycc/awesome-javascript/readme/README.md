@@ -452,6 +452,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [diff2html (⭐3.4k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 *   [jsPDF (⭐31k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 *   [PDF.js (⭐54k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [File Viewer (⭐1.8k)](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
 
 ## Functional Programming
 
@@ -616,7 +617,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 *   [xss-filters (⭐1.1k)](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
 *   [sanitize-html (⭐4.1k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
-*   [pompelmi (⭐656)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+*   [pompelmi (⭐662)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
 
 ## Log
 
@@ -691,7 +692,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐563)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
-*   [bencher (⭐867)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐874)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 

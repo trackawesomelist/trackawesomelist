@@ -132,6 +132,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [LibU (⭐459)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
 *   [libxutils (⭐83)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 *   [Loki](https://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
+*   [micron.cpp (⭐11)](https://github.com/rfgplk/micron.cpp) - A pure C++ implementation (& redesign) of libc and the Standard Library. \[Boost/MIT]
 *   [MiLi (⭐41)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
 *   [OpenFrameworks (⭐10k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](https://www.openframeworks.cc/)
 *   [PhotonLibOS (⭐1.2k)](https://github.com/alibaba/PhotonLibOS) - A comprehensive C++ framework featuring efficient user-space threading (coroutine with work-stealing), I/O, networking, RPC, HTTP, etc., and used extensively in Alibaba. It is compatible with C++ 14/17/20/23, Linux, MacOS, x86-64, ARM64, gcc and clang. \[Apache2] [website](https://photonlibos.github.io/)
@@ -165,7 +166,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PyTorch (⭐102k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 *   [flashlight (⭐5.5k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 *   [Recast/Detour (⭐7.8k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 *   [Txeo (⭐54)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow. \[Apache]
 *   [oneDNN (⭐4k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 *   [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. \[Boost]
@@ -1425,6 +1426,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [simdzone (⭐138)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 *   [SimpleSignal (⭐178)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 *   [single\_file\_libs (⭐10k)](https://github.com/r-lyeh/single_file_libs) - C/C++ open-source libraries with minimal dependencies. \[Various]
+*   [Spicy (⭐296)](https://github.com/zeek/spicy) - C++ parser generator for dissecting protocols & files. \[BSD] [website](https://docs.zeek.org/projects/spicy/en/latest/)
 *   [Stage (⭐423)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [stb (⭐34k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 *   [stdman (⭐997)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]

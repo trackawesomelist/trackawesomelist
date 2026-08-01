@@ -6,6 +6,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Aug 01, 2026](/content/2026/08/01/README.md)
+
+### Frameworks
+
+*   [micron.cpp (⭐11)](https://github.com/rfgplk/micron.cpp) - A pure C++ implementation (& redesign) of libc and the Standard Library. \[Boost/MIT]
+
+### Miscellaneous
+
+*   [Spicy (⭐296)](https://github.com/zeek/spicy) - C++ parser generator for dissecting protocols & files. \[BSD] [website](https://docs.zeek.org/projects/spicy/en/latest/)
+
 ## [Jul 30, 2026](/content/2026/07/30/README.md)
 
 ### Compression
@@ -4707,7 +4717,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐196k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ## [Feb 02, 2016](/content/2016/02/02/README.md)
 

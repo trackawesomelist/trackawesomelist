@@ -8,6 +8,15 @@ Collections of awesome neovim plugins.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
+### AI / Diagnostics
+
+*   [teocns/neocursor.nvim (⭐47)](https://github.com/teocns/neocursor.nvim) - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
+*   [zgs225/pi2.nvim (⭐5)](https://github.com/zgs225/pi2.nvim) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [tan-wei/zimablue.nvim (⭐1)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
+
 ### Utility / Cursorline
 
 *   [dpezto/chezmoi-template.nvim (⭐4)](https://github.com/dpezto/chezmoi-template.nvim) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
@@ -15,6 +24,7 @@ Collections of awesome neovim plugins.
 ### Terminal Integration / CSV Files
 
 *   [TheLazyCat00/termfile-nvim (⭐2)](https://github.com/TheLazyCat00/termfile-nvim) - Turn files into persistent terminal sessions that flawlessly allow for background work.
+*   [Senal-D-A-Gunaratna/hyprfade.nvim (⭐3)](https://github.com/Senal-D-A-Gunaratna/hyprfade.nvim) - When using Hyprland, fade the terminal window via `hyprctl`.
 
 ### Editing Support / Scrollbar
 
@@ -59,7 +69,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [redpierrot/ballerina.nvim (⭐2)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
+*   [redpierrot/ballerina.nvim (⭐4)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 
 ### Syntax / Markdown and LaTeX
 
@@ -80,7 +90,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Colorscheme Creation
 
-*   [Senal-D-A-Gunaratna/matugen.nvim (⭐12)](https://github.com/Senal-D-A-Gunaratna/matugen.nvim) - Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.
+*   [Senal-D-A-Gunaratna/matugen.nvim (⭐14)](https://github.com/Senal-D-A-Gunaratna/matugen.nvim) - Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.
 
 ### Code Runner / Quickfix
 
@@ -88,7 +98,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [ntk148v/yankdown.nvim (⭐11)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
+*   [ntk148v/yankdown.nvim (⭐14)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
 
 ### Editing Support / Comment
 
@@ -171,7 +181,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [simonwinther/cppman.nvim (⭐22)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
+*   [simonwinther/cppman.nvim (⭐23)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -189,7 +199,7 @@ Collections of awesome neovim plugins.
 
 ### Project / Markdown and LaTeX
 
-*   [karnull/switchboard.nvim (⭐36)](https://github.com/karnull/switchboard.nvim) - Define "run", "build", or any custom command/bind per language or project, then use the same keybinds everywhere.
+*   [karnull/switchboard.nvim (⭐35)](https://github.com/karnull/switchboard.nvim) - Define "run", "build", or any custom command/bind per language or project, then use the same keybinds everywhere.
 
 ### Media / Cursorline
 
@@ -205,7 +215,7 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Tmux
 
-*   [karnull/only-tmux.nvim (⭐18)](https://github.com/karnull/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
+*   [karnull/only-tmux.nvim (⭐17)](https://github.com/karnull/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
 
 ### UI / OS-specific
 
@@ -213,7 +223,7 @@ Collections of awesome neovim plugins.
 
 ### External Resource / OS-specific
 
-*   [ChuYanLon/chad46 (⭐6)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
+*   [ChuYanLon/chad46 (⭐8)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -281,12 +291,12 @@ Collections of awesome neovim plugins.
 
 ### Debugging / CSV Files
 
-*   [NickTsaizer/splitasm.nvim (⭐77)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
+*   [NickTsaizer/splitasm.nvim (⭐79)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
 
 ### Toys / Competitive Programming
 
-*   [folke/drop.nvim (⭐348)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
-*   [axsaucedo/neovim-power-mode (⭐96)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
+*   [folke/drop.nvim (⭐349)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
+*   [axsaucedo/neovim-power-mode (⭐97)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
 *   [jerrywang1981/keystroke.nvim (⭐2)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
 *   [cxwx/keywound.nvim (⭐2)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
 
@@ -306,7 +316,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Statusline
 
-*   [tajirhas9/muslim.nvim (⭐37)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+*   [tajirhas9/muslim.nvim (⭐36)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Terminal Integration / CSV Files
 
@@ -332,17 +342,17 @@ Collections of awesome neovim plugins.
 
 ### Startup / Cursorline
 
-*   [Amansingh-afk/milli.nvim (⭐304)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+*   [Amansingh-afk/milli.nvim (⭐307)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 
 ### Note Taking / Cursorline
 
 *   [DaFi-1/tasknvim (⭐21)](https://github.com/DaFi-1/tasknvim) - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 *   [sduras/duras\_bridge](https://github.com/sduras/duras_bridge) - Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor.
-*   [MattHandzel/taskwarrior.nvim (⭐27)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
+*   [MattHandzel/taskwarrior.nvim (⭐29)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 ### Utility / Cursorline
 
-*   [paulburgess1357/nvim-mcp (⭐59)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
+*   [paulburgess1357/nvim-mcp (⭐60)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 
 ### Editing Support / Scrollbar
 
@@ -352,11 +362,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [J-Cowsert/classlayout.nvim (⭐52)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
+*   [J-Cowsert/classlayout.nvim (⭐58)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 
 ### Neovim Lua Development / Quickfix
 
-*   [saghen/blink.lib (⭐57)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
+*   [saghen/blink.lib (⭐58)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
 
 ### Editing Support / Scrollbar
 
@@ -374,7 +384,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [retran/meow.yarn.nvim (⭐78)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐79)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 *   [ryan-WORK/ohm (⭐17)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon which fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 
 ### Colorscheme / Markdown and LaTeX
@@ -403,7 +413,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Markdown and LaTeX
 
-*   [romus204/tree-sitter-manager.nvim (⭐850)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+.
+*   [romus204/tree-sitter-manager.nvim (⭐864)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+.
 
 ### Search / Markdown and LaTeX
 
@@ -415,7 +425,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [ThorstenRhau/token (⭐166)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
+*   [ThorstenRhau/token (⭐173)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [hyperb1iss/silkcircuit (⭐55)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 
 ### Utility / Cursorline
@@ -424,7 +434,7 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Competitive Programming
 
-*   [emrearmagan/atlas.nvim (⭐125)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
+*   [emrearmagan/atlas.nvim (⭐160)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -452,7 +462,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [AnsonH/copy-python-path.nvim (⭐4)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
+*   [AnsonH/copy-python-path.nvim (⭐5)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
 ### Programming Languages Support / Web Development
 
@@ -464,19 +474,19 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Markdown and LaTeX
 
-*   [Sang-it/fluoride (⭐56)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+*   [Sang-it/fluoride (⭐57)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [ankushbhagats/pastel.nvim (⭐35)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+*   [ankushbhagats/pastel.nvim (⭐36)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 
 ### Note Taking / Cursorline
 
-*   [ymic9963/mdnotes.nvim (⭐34)](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
+*   [ymic9963/mdnotes.nvim (⭐35)](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 
 ### Git / GitHub
 
-*   [gh-tui-tools/gh-review.nvim (⭐21)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+*   [gh-tui-tools/gh-review.nvim (⭐24)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -507,16 +517,16 @@ Collections of awesome neovim plugins.
 
 ### LSP / Diagnostics
 
-*   [Kurama622/clean-diagnostic (⭐10)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+*   [Kurama622/clean-diagnostic (⭐12)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
 
 ### Startup / Cursorline
 
-*   [Kurama622/profile.nvim (⭐77)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
+*   [Kurama622/profile.nvim (⭐78)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
 *   [leo-alvarenga/homecoming.nvim (⭐8)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 
 ### Debugging / CSV Files
 
-*   [evanmcpheron/rocketlog.nvim (⭐3)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
+*   [evanmcpheron/rocketlog.nvim (⭐4)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 
 ### Code Runner / Quickfix
 
@@ -525,7 +535,7 @@ Collections of awesome neovim plugins.
 
 ### Database / Stats Tracking
 
-*   [joryeugene/dadbod-grip.nvim (⭐159)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
+*   [joryeugene/dadbod-grip.nvim (⭐161)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -589,7 +599,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Markdown and LaTeX
 
-*   [juniorsundar/refer.nvim (⭐49)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
+*   [juniorsundar/refer.nvim (⭐57)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 
 ### Buffers / Markdown and LaTeX
 
@@ -2552,7 +2562,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.7k)](https://github.com/charmbracelet/freeze) inside the editor.
+*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.8k)](https://github.com/charmbracelet/freeze) inside the editor.
 
 ### Terminal Integration / CSV Files
 

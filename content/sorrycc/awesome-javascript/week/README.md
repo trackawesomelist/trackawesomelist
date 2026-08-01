@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
+
+### Files / Runner
+
+*   [File Viewer (⭐1.8k)](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Color / Runner
@@ -61,7 +67,7 @@
 
 ### Security / Runner
 
-*   [pompelmi (⭐656)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+*   [pompelmi (⭐662)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -186,7 +192,7 @@
 
 ### Benchmark / Runner
 
-*   [bencher (⭐867)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐874)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
