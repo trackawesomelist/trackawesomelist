@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 02, 2026](/content/2026/08/02/README.md)
+
+### Colorscheme / Markdown and LaTeX
+
+*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
 ### AI / Diagnostics
@@ -97,7 +103,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Markdown and LaTeX
 
-*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+*   [cxwx/shadowMyName.nvim (⭐4)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -105,7 +111,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+*   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
@@ -6130,7 +6136,6 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [nvim-lua/lsp-status.nvim (⭐654)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
 *   [kosayoda/nvim-lightbulb (⭐891)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### Fuzzy Finder / Markdown and LaTeX

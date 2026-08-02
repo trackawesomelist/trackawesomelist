@@ -47,7 +47,7 @@ If you are looking for not only remakes have a look at:
 *   [OpenJK (⭐2.3k)](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 *   [Speed-Academy (⭐19)](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 *   [Speed-Outcast (⭐15)](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
-*   [OpenChaos (⭐0)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
+*   [OpenChaos (⭐1)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
 *   [OpenLara (⭐5k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 *   [OpenMB (⭐141)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.
 *   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
@@ -207,7 +207,7 @@ If you are looking for not only remakes have a look at:
 *   [starcup (⭐6)](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
 *   [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre) - Stable, moddable & free/libre clone of Minecraft based on the Luanti engine. :flower\_playing\_cards:
 *   [Netrek (⭐22)](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
-*   [Heart-of-Africa-Remake (⭐1)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
+*   [Heart-of-Africa-Remake (⭐2)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
 ## RPG
 
@@ -322,6 +322,9 @@ If you are looking for not only remakes have a look at:
 *   [durer-jatekok (⭐1)](https://github.com/a-gondolkodas-orome/durer-jatekok) - Online version of previous strategy games at Dürer Competition
 *   [Dune-II---The-Maker (⭐361)](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
 *   [Dune Legacy](https://sourceforge.net/projects/dunelegacy/) - Updated clone of Westood Studios' Dune2 which uses data files from the original game.
+*   [DungeonKeeper (⭐0)](https://github.com/Kamikitte/DungeonKeeper) - Dungeon Keeper C#
+*   [DungeonKeeperReborn (⭐1)](https://github.com/joko1977-ui/DungeonKeeperReborn) - Dungeon Keeper Reborn in TypeScript
+*   [Dungeon Keeper Remake (⭐35)](https://github.com/Themperror/Dungeon-Keeper-Remake) - A modern remake of Dungeon Keeper
 *   [Evolution-RTS (⭐150)](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine.
 *   [fheroes2 (⭐3.4k)](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
 *   [EmperorReborn (⭐18)](https://github.com/azmawee/EmperorReborn) - Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.
@@ -330,6 +333,7 @@ If you are looking for not only remakes have a look at:
 *   [FreeCol](https://sourceforge.net/projects/freecol/) - Turn-based strategy game based on the old game Colonization.
 *   [galaxyofdrones (⭐0)](https://github.com/0wum0/galaxyofdrones) - An open source multiplayer space strategy game.
 *   [GeneralsGameCode (⭐1.3k)](https://github.com/TheSuperHackers/GeneralsGameCode) - Command and Conquer: Generals - Zero Hour
+*   [GLKeeper (⭐38)](https://github.com/codenamecpp/GLKeeper) - Open Source Dungeon Keeper 2 Reimplementation
 *   [GLSMAC (⭐618)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 *   [grenzmark (⭐2)](https://github.com/JobbeDeluxe/grenzmark) - Grenzmark is a Godot 4 remake of the Settlers II, Return to the Roots and Widelands
 *   [green-turkiye (⭐0)](https://github.com/zsdani68-cell/green-turkiye) - Raise awareness of environmental pollution in Turkiye through this engaging strategy game designed to inspire action and promote sustainability.
@@ -341,6 +345,7 @@ If you are looking for not only remakes have a look at:
 *   [Julius (⭐3.3k)](https://github.com/bvschaik/julius) - Reimplementation of Caesar III.
 *   [KaM Remake (⭐378)](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
 *   [KeeperFX (⭐985)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [keeperfx-linux-alpha (⭐1)](https://github.com/ForkedInTime/keeperfx-linux-alpha) - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
 *   [KeeperRL (⭐992)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [kiomet (⭐170)](https://github.com/SoftbearStudios/kiomet) - Kiomet.com real-time strategy game (repository commits may lag behind game updates)
 *   [machines (⭐40)](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
@@ -355,6 +360,7 @@ If you are looking for not only remakes have a look at:
 *   [OpenE2140 (⭐68)](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [OpenDUNE (⭐1.7k)](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
 *   [Open Fodder (⭐597)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+*   [OpenKeeper (⭐491)](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake in Java.
 *   [OPHD (⭐139)](https://github.com/OutpostUniverse/OPHD) - OutpostHD - Open source remake of Sierra On-Line's Outpost.
 *   [OpenHV (⭐1k)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 *   [OpenKrush (⭐123)](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
@@ -383,7 +389,7 @@ If you are looking for not only remakes have a look at:
 *   [PopRE Bug Tracker](https://www.populous3.info/bugs/my_view_page.php) - Populous The Beginning Reincarnated Open Source Bug Tracker
 *   [Populous The Beginning - Multiverse](https://thebeginning.uk/multiverse/) - Populouse Multiverse Launcher
 *   [PopResourceEditor (⭐2)](https://github.com/Toksisitee/PopResourceEditor) - Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.
-*   [rebellion2 (⭐11)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
+*   [rebellion2 (⭐12)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 *   [Pillage-First-Ask-Questions-Later (⭐165)](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
 *   [Race into Space (⭐215)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
 *   [Rescue Max!](https://sourceforge.net/projects/rescue/) - A 2D space real-time, action/strategy game. you are in control of a ship that you fly around space fighting enemies and making friends on your way. The main objective is to rescue people from planets and take them to star bases. its writen in java1.4.

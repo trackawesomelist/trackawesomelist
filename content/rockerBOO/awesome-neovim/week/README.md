@@ -16,6 +16,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [tan-wei/zimablue.nvim (⭐1)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
+*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ### Utility / Cursorline
 
@@ -81,7 +82,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Markdown and LaTeX
 
-*   [cxwx/shadowMyName.nvim (⭐2)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+*   [cxwx/shadowMyName.nvim (⭐4)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -94,7 +95,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [wsdjeg/tasks.nvim (⭐21)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+*   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 
 ### Editing Support / Scrollbar
 
@@ -5149,7 +5150,6 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [nvim-lua/lsp-status.nvim (⭐654)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
 *   [kosayoda/nvim-lightbulb (⭐891)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### Fuzzy Finder / Markdown and LaTeX

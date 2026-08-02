@@ -2,27 +2,48 @@
 
 ✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gofiber/awesome-fiber/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber) · ⭐ 810 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gofiber/awesome-fiber/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber) · ⭐ 828 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/gofiber/awesome-fiber/week/README.md) / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
+
+## [Aug 02, 2026](/content/2026/08/02/README.md)
+
+### ⚙️ Middlewares / 🧬 Core
+
+*   [Host Authorization (⭐40k)](https://github.com/gofiber/fiber/tree/main/middleware/hostauthorization) - Validates the `Host` header against an allowlist to protect against DNS rebinding attacks.
+*   [Paginate (⭐40k)](https://github.com/gofiber/fiber/tree/main/middleware/paginate) - Parses pagination parameters from the query string, supporting page-based, offset-based and cursor-based strategies.
+*   [SSE (⭐40k)](https://github.com/gofiber/fiber/tree/main/middleware/sse) - Server-Sent Events transport that handles headers, event formatting, flushing, heartbeats and disconnect detection.
+
+### ⚙️ Middlewares / ‍💻 Contrib
+
+*   [coraza (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/coraza) - Web application firewall middleware for Fiber powered by Coraza.
+*   [uptime (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/uptime) - Records heartbeat history and serves a status dashboard with a JSON API for monitoring uptime.
+
+### 🚧 Boilerplates / 🌱 Third Party
+
+*   [rachmanzz/fiber-starter (⭐0)](https://github.com/rachmanzz/fiber-starter) - A Go backend boilerplate using Fiber v3, PostgreSQL (pgx v5), and SQLC.
+
+### 🛠️ Tools / 🌱 Third Party
+
+*   [gofiber/cli (⭐94)](https://github.com/gofiber/cli) - Official Fiber command line interface for project generation, live reloading and version migration.
 
 ## [Apr 25, 2026](/content/2026/04/25/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [kubestellar/console (⭐62)](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
+*   [kubestellar/console (⭐125)](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [MUlt1mate/protoc-gen-httpgo (⭐21)](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
+*   [MUlt1mate/protoc-gen-httpgo (⭐25)](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 
 ## [Feb 21, 2026](/content/2026/02/21/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [fugue-labs/gollem (⭐25)](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
+*   [fugue-labs/gollem (⭐30)](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
@@ -60,26 +81,26 @@
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [casbin (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/casbin) - Authorization middleware for Fiber powered by Casbin.
-*   [circuitbreaker (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/circuitbreaker) - Circuit breaker middleware for Fiber.
-*   [fgprof (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/fgprof) - Fiber profiling support via fgprof.
-*   [hcaptcha (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/hcaptcha) - Bot-protection middleware using hCaptcha.
-*   [i18n (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/i18n) - Internationalization middleware built on go-i18n.
-*   [jwt (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/jwt) - JSON Web Token (JWT) auth middleware.
-*   [loadshed (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/loadshed) - Load-shedding middleware to protect Fiber services under pressure.
-*   [monitor (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/monitor) - Server metrics monitor middleware for Fiber.
-*   [newrelic (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/newrelic) - New Relic instrumentation support for Fiber.
-*   [opa (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/opa) - Open Policy Agent (OPA) middleware support for Fiber.
-*   [otel (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/otel) - OpenTelemetry middleware support for Fiber.
-*   [paseto (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/paseto) - Platform-Agnostic Security Tokens (PASETO) auth middleware.
-*   [sentry (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/sentry) - Error monitoring and reporting integration for Fiber with Sentry.
-*   [socketio (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/socketio) - Socket.IO-inspired WebSocket wrapper middleware for Fiber.
-*   [swaggo (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/swaggo) - Middleware for serving Swag-generated API docs in Fiber.
-*   [swaggerui (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/swaggerui) - Swagger UI middleware for serving OpenAPI specs in Fiber.
-*   [testcontainers (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/testcontainers) - Service implementation for integrating Testcontainers with Fiber.
-*   [WebSocket (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/websocket) - Fasthttp-based WebSocket integration for Fiber with `fiber.Ctx` support.
-*   [zap (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/zap) - Logging middleware support for Fiber with Zap.
-*   [zerolog (⭐296)](https://github.com/gofiber/contrib/tree/main/v3/zerolog) - Logging middleware support for Fiber with Zerolog.
+*   [casbin (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/casbin) - Authorization middleware for Fiber powered by Casbin.
+*   [circuitbreaker (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/circuitbreaker) - Circuit breaker middleware for Fiber.
+*   [fgprof (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/fgprof) - Fiber profiling support via fgprof.
+*   [hcaptcha (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/hcaptcha) - Bot-protection middleware using hCaptcha.
+*   [i18n (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/i18n) - Internationalization middleware built on go-i18n.
+*   [jwt (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/jwt) - JSON Web Token (JWT) auth middleware.
+*   [loadshed (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/loadshed) - Load-shedding middleware to protect Fiber services under pressure.
+*   [monitor (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/monitor) - Server metrics monitor middleware for Fiber.
+*   [newrelic (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/newrelic) - New Relic instrumentation support for Fiber.
+*   [opa (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/opa) - Open Policy Agent (OPA) middleware support for Fiber.
+*   [otel (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/otel) - OpenTelemetry middleware support for Fiber.
+*   [paseto (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/paseto) - Platform-Agnostic Security Tokens (PASETO) auth middleware.
+*   [sentry (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/sentry) - Error monitoring and reporting integration for Fiber with Sentry.
+*   [socketio (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/socketio) - Socket.IO-inspired WebSocket wrapper middleware for Fiber.
+*   [swaggo (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/swaggo) - Middleware for serving Swag-generated API docs in Fiber.
+*   [swaggerui (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/swaggerui) - Swagger UI middleware for serving OpenAPI specs in Fiber.
+*   [testcontainers (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/testcontainers) - Service implementation for integrating Testcontainers with Fiber.
+*   [WebSocket (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/websocket) - Fasthttp-based WebSocket integration for Fiber with `fiber.Ctx` support.
+*   [zap (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/zap) - Logging middleware support for Fiber with Zap.
+*   [zerolog (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/zerolog) - Logging middleware support for Fiber with Zerolog.
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
@@ -89,7 +110,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [oaswrap/fiberopenapi (⭐108)](https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi) - Fiber adapter for OpenAPI 3.x specification generation with automatic route documentation.
+*   [oaswrap/fiberopenapi (⭐116)](https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi) - Fiber adapter for OpenAPI 3.x specification generation with automatic route documentation.
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -108,7 +129,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [newrelic/go-agent (⭐832)](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
+*   [newrelic/go-agent (⭐837)](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
 
 ## [May 04, 2025](/content/2025/05/04/README.md)
 
@@ -120,13 +141,13 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [felipeafonso/go-htmx-starter (⭐4)](https://github.com/FelipeAfonso/go-htmx-starter) - A front-end opinionated boilerplate for Go + HTMX development, using Tailwind and Vite for Bundling and Hot Reloading.
+*   [felipeafonso/go-htmx-starter (⭐6)](https://github.com/FelipeAfonso/go-htmx-starter) - A front-end opinionated boilerplate for Go + HTMX development, using Tailwind and Vite for Bundling and Hot Reloading.
 
 ## [Feb 22, 2025](/content/2025/02/22/README.md)
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [Alibaba/opentelemetry-go-auto-instrumentation (⭐844)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
+*   [Alibaba/opentelemetry-go-auto-instrumentation (⭐884)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
 
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 
@@ -138,8 +159,8 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [goravel/fiber (⭐29)](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
-*   [go-rat/fiber-skeleton (⭐5)](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
+*   [goravel/fiber (⭐30)](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
+*   [go-rat/fiber-skeleton (⭐6)](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
 
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
@@ -163,7 +184,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sebajax/go-vertical-slice-architecture (⭐55)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
+*   [sebajax/go-vertical-slice-architecture (⭐59)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 
 ## [Feb 24, 2024](/content/2024/02/24/README.md)
 
@@ -177,7 +198,7 @@
 
 *   [zeiss/fiber-goth (⭐5)](https://github.com/ZEISS/fiber-goth) - Simple middleware to integrate authentication to your Fiber applications.
 *   [zeiss/fiber-authz (⭐8)](https://github.com/ZEISS/fiber-authz) - A middleware to secure routes in Fiber with a defined RBAC model.
-*   [zeiss/fiber-htmx (⭐5)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
+*   [zeiss/fiber-htmx (⭐6)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
 
 ## [Sep 09, 2023](/content/2023/09/09/README.md)
 
@@ -205,7 +226,7 @@
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [deepmap/oapi-codegen (⭐8.2k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+*   [deepmap/oapi-codegen (⭐8.5k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## [May 19, 2023](/content/2023/05/19/README.md)
 
@@ -217,7 +238,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [samber/slog-fiber (⭐95)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+*   [samber/slog-fiber (⭐98)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
 ## [Feb 12, 2023](/content/2023/02/12/README.md)
 
@@ -235,7 +256,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [airbrake/gobrake (⭐107)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
+*   [airbrake/gobrake (⭐106)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
 
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
@@ -285,13 +306,13 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐961)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐988)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [Apr 10, 2022](/content/2022/04/10/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [efectn/fiber-boilerplate (⭐84)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
+*   [efectn/fiber-boilerplate (⭐85)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
 
 ## [Mar 28, 2022](/content/2022/03/28/README.md)
 
@@ -299,24 +320,24 @@
 
 *   [shareed2k/fiber\_tracing (⭐12)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
 *   [shareed2k/fiber\_limiter (⭐14)](https://github.com/shareed2k/fiber_limiter) - Limiter using Redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
-*   [ansrivas/fiberprometheus (⭐206)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [ansrivas/fiberprometheus (⭐208)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
 *   [sacsand/gofiber-firebaseauth (⭐26)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 *   [aschenmaker/fiber-health-check (⭐10)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐426)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [elastic/apmfiber (⭐425)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
 *   [eozer/fiber\_ldapauth (⭐4)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐501)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐287)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐433)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [gofiber/boilerplate (⭐504)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐284)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐430)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
 *   [create-go-app/fiber-go-template (⭐1.1k)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
 *   [embedmode/fiberseed (⭐40)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [kiyonlin/fiblar-demo (⭐3)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐397)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [koddr/tutorial-go-fiber-rest-api (⭐393)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
 *   [firebase007/go-rest-api-with-fiber (⭐58)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
 *   [EricLau1/go-fiber-auth-api (⭐54)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
@@ -331,12 +352,12 @@
 
 ### ⚙️ Middlewares / 🔗 External
 
-*   [storage (⭐329)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
-*   [template (⭐314)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
+*   [storage (⭐334)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+*   [template (⭐313)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [gofiber/recipes (⭐3.4k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+*   [gofiber/recipes (⭐3.5k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 
 ### 🛠️ Tools / 🌱 Third Party
 

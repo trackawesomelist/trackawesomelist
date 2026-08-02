@@ -6,6 +6,17 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Aug 02, 2026](/content/2026/08/02/README.md)
+
+### Strategy
+
+*   [DungeonKeeper (⭐0)](https://github.com/Kamikitte/DungeonKeeper) - Dungeon Keeper C#
+*   [DungeonKeeperReborn (⭐1)](https://github.com/joko1977-ui/DungeonKeeperReborn) - Dungeon Keeper Reborn in TypeScript
+*   [Dungeon Keeper Remake (⭐35)](https://github.com/Themperror/Dungeon-Keeper-Remake) - A modern remake of Dungeon Keeper
+*   [GLKeeper (⭐38)](https://github.com/codenamecpp/GLKeeper) - Open Source Dungeon Keeper 2 Reimplementation
+*   [keeperfx-linux-alpha (⭐1)](https://github.com/ForkedInTime/keeperfx-linux-alpha) - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
+*   [OpenKeeper (⭐491)](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake in Java.
+
 ## [Jul 31, 2026](/content/2026/07/31/README.md)
 
 ### Strategy
@@ -27,7 +38,7 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [OpenChaos (⭐0)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
+*   [OpenChaos (⭐1)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
 *   [Sunny-Survival-Remake-Code (⭐0)](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
 
 ### Arcade
@@ -46,7 +57,7 @@ Actively maintained open-source game remakes.
 ### Online
 
 *   [starcup (⭐6)](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
-*   [Heart-of-Africa-Remake (⭐1)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
+*   [Heart-of-Africa-Remake (⭐2)](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
 ### Simulator
 
@@ -54,7 +65,7 @@ Actively maintained open-source game remakes.
 
 ### Strategy
 
-*   [rebellion2 (⭐11)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
+*   [rebellion2 (⭐12)](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
