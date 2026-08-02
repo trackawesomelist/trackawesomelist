@@ -1,18 +1,30 @@
 # Awesome List Updates on Aug 02, 2026
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Image Editing
+
+*   [Rao Edits](https://raoedits.top/) - Generate images from text and edit reference photos for social, product, and creative workflows. `#paid`
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Multimedia & Graphics / Graphics Library
+
+*   [vancluever/z2d (⭐286)](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
 *   [Adrafinil](https://kagerou.glass/adrafinil/) - Keep your Mac awake only while AI agents are still working, then let it sleep normally. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kageroumado/adrafinil) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Strategy
 
@@ -23,13 +35,13 @@
 *   [keeperfx-linux-alpha (⭐1)](https://github.com/ForkedInTime/keeperfx-linux-alpha) - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
 *   [OpenKeeper (⭐491)](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake in Java.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
 *   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
-## [4. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [6. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 

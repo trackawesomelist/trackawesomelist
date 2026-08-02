@@ -267,6 +267,10 @@
 
 *   [Clarifai](https://clarifai.com/) - Computer vision platform for image and video classification, object detection, and custom model training. `#freemium`
 
+### Image Editing
+
+*   [Rao Edits](https://raoedits.top/) - Generate images from text and edit reference photos for social, product, and creative workflows. `#paid`
+
 ### Image Generator
 
 *   [GPT Image 2](https://gptimage2.asia/) - Generate and edit AI images for marketing, ecommerce, social media, and branded visuals. `#freemium` `#design`
@@ -305,6 +309,10 @@
 ### Language Essentials / Parser Library
 
 *   [eoan-ermine/zig-strparse (⭐1)](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
+
+### Multimedia & Graphics / Graphics Library
+
+*   [vancluever/z2d (⭐286)](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
 
 ## [14. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -723,11 +731,11 @@
 
 ### Design & Graphics / Image Tools
 
-*   [szTheory/exifcleaner (⭐2.5k)](https://github.com/szTheory/exifcleaner) — Cross-platform desktop GUI app to clean image metadata ☆`2,536`
+*   [szTheory/exifcleaner (⭐2.5k)](https://github.com/szTheory/exifcleaner) — Cross-platform desktop GUI app to clean image metadata ☆`2,538`
 
 ### Networking / Remote Access
 
-*   [lx2026/RelayBar (⭐70)](https://github.com/lx2026/RelayBar) — Native macOS menu bar app for SSH tunnels and remote file previews ☆`70`
+*   [lx2026/RelayBar (⭐70)](https://github.com/lx2026/RelayBar) — Native macOS menu bar app for SSH tunnels and remote file previews ☆`72`
 
 ### System Tools / Menu Bar
 
