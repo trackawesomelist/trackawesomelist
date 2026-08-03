@@ -339,7 +339,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 *   [AAAAXY (⭐291)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 *   [Commander Genius (⭐223)](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-*   [DDraceNetwork (⭐796)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐800)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 *   [Elemental One (⭐46)](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework.
 *   [Escape of the cat (⭐8)](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD (⭐258)](http://github.com/instead-hub/instead).
 *   [Frogatto (⭐694)](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
@@ -394,6 +394,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Starbound (⭐145)](https://github.com/rwf93/Starbound) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
 *   [Terasology (⭐3.9k)](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 *   [The Powder Toy (⭐5.2k)](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+*   [Unturned (⭐3.3k)](https://github.com/SmartlyDressedGames/U3-SDK) - Free open-world zombie survival sandbox game.
 
 ### Simulation
 
@@ -449,6 +450,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Android
 
+*   [Braincup (⭐250)](https://github.com/SimonSchubert/Braincup) - Memory, focus & math trainer.
 *   [ChaseWhisplyProject (⭐551)](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 *   [Colorphun (⭐85)](https://github.com/prakhar1989/colorphun) - Simple color based Android Game.
 *   [Game of Life (⭐105)](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules.

@@ -2,9 +2,15 @@
 
 A curated list of roadmaps.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/liuchong/awesome-roadmaps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) · ⭐ 7.1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/liuchong/awesome-roadmaps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) · ⭐ 7.2K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/liuchong/awesome-roadmaps/week/README.md) / [Overview](/content/liuchong/awesome-roadmaps/readme/README.md) ]
+
+## [Aug 03, 2026](/content/2026/08/03/README.md)
+
+### AI / Machine Learning / Data Science
+
+*   [AI for Beginners (⭐60k)](https://github.com/microsoft/AI-For-Beginners) - Beginner-friendly 12-week artificial intelligence curriculum with 24 ordered lessons, quizzes, labs, and practical notebooks covering symbolic AI, deep learning, computer vision, NLP, reinforcement learning, and AI ethics. <img alt="Course" src="https://img.shields.io/badge/Format-Course-0A66C2"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -25,16 +31,16 @@ A curated list of roadmaps.
 
 ### Web Development
 
-*   [Developer Roadmap (⭐360k)](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides, and educational content for developers. <img alt="Year 2022" src="https://img.shields.io/badge/Year-2022-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Developer Roadmap (⭐363k)](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides, and educational content for developers. <img alt="Year 2022" src="https://img.shields.io/badge/Year-2022-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### AI / Machine Learning / Data Science
 
-*   [Agent Engineering Roadmap (⭐8)](https://github.com/audi0417/agent-engineering-roadmap) - Production-aware AI agent roadmap covering MCP, memory, RAG, workflows, evaluation, safety, and multi-agent systems. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Agent Learning (⭐272)](https://github.com/Haozhe-Xing/agent_learning) - Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Agentic AI Roadmap with Notes and Projects (⭐11)](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI curriculum focused on building production-grade LangGraph systems and supporting resources. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Agentic Engineering Handbook (⭐144)](https://github.com/keyuchen21/agentic-engineering-handbook) - Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Agent Engineering Roadmap (⭐12)](https://github.com/audi0417/agent-engineering-roadmap) - Production-aware AI agent roadmap covering MCP, memory, RAG, workflows, evaluation, safety, and multi-agent systems. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Agent Learning (⭐355)](https://github.com/Haozhe-Xing/agent_learning) - Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Agentic AI Roadmap with Notes and Projects (⭐15)](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI curriculum focused on building production-grade LangGraph systems and supporting resources. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Agentic Engineering Handbook (⭐185)](https://github.com/keyuchen21/agentic-engineering-handbook) - Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Free hands-on AI agents course covering agent fundamentals, smolagents, LangGraph, LlamaIndex, use cases, and evaluation challenges. <img alt="Course" src="https://img.shields.io/badge/Format-Course-0A66C2">
-*   [LLM Systems Engineering Roadmap (⭐167)](https://github.com/h9-tec/llm-systems-engineering-roadmap) - Practical LLM systems roadmap covering internals, inference, RAG, agents, evaluation, and production architecture. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [LLM Systems Engineering Roadmap (⭐175)](https://github.com/h9-tec/llm-systems-engineering-roadmap) - Practical LLM systems roadmap covering internals, inference, RAG, agents, evaluation, and production architecture. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Articles & Books
 
@@ -49,7 +55,7 @@ A curated list of roadmaps.
 
 ### Web Development
 
-*   [DevRoadmaps (⭐12)](https://github.com/rudra496/devroadmaps) - Free developer career roadmaps with 17 paths, 800+ topics, and 1700+ curated resources. PWA with offline support. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [DevRoadmaps (⭐13)](https://github.com/rudra496/devroadmaps) - Free developer career roadmaps with 17 paths, 800+ topics, and 1700+ curated resources. PWA with offline support. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ## [Apr 24, 2026](/content/2026/04/24/README.md)
 
@@ -73,25 +79,25 @@ A curated list of roadmaps.
 ### Infrastructure / Operations
 
 *   [DevOps Roadmap (⭐20k)](https://github.com/milanm/DevOps-Roadmap) - Step-by-step DevOps roadmap with learning resources across Git, Linux, containers, CI/CD, cloud, and observability. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Platform Engineering Roadmap (⭐134)](https://github.com/mbianchidev/platform-engineering-roadmap) - Platform engineering roadmap published as an interactive website with a GitHub-backed source repository. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github"> <img alt="Interactive website" src="https://img.shields.io/badge/Format-Website-0A66C2">
+*   [Platform Engineering Roadmap (⭐141)](https://github.com/mbianchidev/platform-engineering-roadmap) - Platform engineering roadmap published as an interactive website with a GitHub-backed source repository. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github"> <img alt="Interactive website" src="https://img.shields.io/badge/Format-Website-0A66C2">
 
 ### AI / Machine Learning / Data Science
 
-*   [AI Engineer Roadmap (⭐653)](https://github.com/dswh/ai-engineer-roadmap) - AI engineering roadmap focused on LLM applications, RAG, agents, and LLMOps. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Data Analyst Roadmap (⭐898)](https://github.com/mtahiraslan/data-analyst-roadmap) - Full data analyst roadmap covering statistics, Excel, SQL, BI, Python, and communication skills. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [AI Engineer Roadmap (⭐662)](https://github.com/dswh/ai-engineer-roadmap) - AI engineering roadmap focused on LLM applications, RAG, agents, and LLMOps. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Data Analyst Roadmap (⭐958)](https://github.com/mtahiraslan/data-analyst-roadmap) - Full data analyst roadmap covering statistics, Excel, SQL, BI, Python, and communication skills. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [LLM Course (⭐81k)](https://github.com/mlabonne/llm-course) - Free LLM course with roadmap-style progression and practical Colab notebooks. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Security
 
-*   [Cybersecurity Skills and Career Roadmap (⭐426)](https://github.com/jassics/cybersecurity-roadmap) - Cybersecurity roadmap spanning web, network, cloud, container security, DevSecOps, and role-specific guidance. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Cybersecurity Skills and Career Roadmap (⭐446)](https://github.com/jassics/cybersecurity-roadmap) - Cybersecurity roadmap spanning web, network, cloud, container security, DevSecOps, and role-specific guidance. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Miscellaneous
 
 *   [Digital Forensic (DFIR) Specialist Roadmap (⭐5)](https://github.com/Yousha/DFIR-Specialist-Roadmap) - Digital forensics and incident response roadmap for learners building DFIR skills. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Embedded Systems Engineering Roadmap (⭐12k)](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Embedded systems roadmap for beginners and practitioners, with curated learning resources and supporting material. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [FPGA / ASIC Engineering Roadmap (⭐644)](https://github.com/m3y54m/FPGA-ASIC-Roadmap) - FPGA and ASIC engineering roadmap for learners targeting digital hardware and chip design roles. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Embedded Systems Engineering Roadmap (⭐13k)](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Embedded systems roadmap for beginners and practitioners, with curated learning resources and supporting material. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [FPGA / ASIC Engineering Roadmap (⭐664)](https://github.com/m3y54m/FPGA-ASIC-Roadmap) - FPGA and ASIC engineering roadmap for learners targeting digital hardware and chip design roles. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [Mathematics Roadmap (⭐3.5k)](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - Comprehensive mathematics roadmap spanning foundations, core fields, and advanced topics. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [System Design Roadmap (⭐471)](https://github.com/moshafiei/system-design-master-plan) - System design and architecture roadmap focused on large-scale design topics. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [System Design Roadmap (⭐473)](https://github.com/moshafiei/system-design-master-plan) - System design and architecture roadmap focused on large-scale design topics. <img alt="Year 2024" src="https://img.shields.io/badge/Year-2024-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Articles & Books
 
@@ -145,7 +151,7 @@ A curated list of roadmaps.
 ### Web Development
 
 *   [Angular Developer Roadmap (⭐949)](https://github.com/sulco/angular-developer-roadmap) - Angular roadmap covering core concepts, tooling, RxJS, state management, and testing. <img alt="Year 2018" src="https://img.shields.io/badge/Year-2018-yellow"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
-*   [Vue Developer Roadmap (⭐531)](https://github.com/flaviocopes/vue-developer-roadmap) - Vue.js roadmap for building a well-rounded frontend skill set around Vue. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+*   [Vue Developer Roadmap (⭐527)](https://github.com/flaviocopes/vue-developer-roadmap) - Vue.js roadmap for building a well-rounded frontend skill set around Vue. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellowgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
 ### Mobile Development
 
@@ -185,7 +191,7 @@ A curated list of roadmaps.
 
 ### Miscellaneous
 
-*   [Hacker Roadmap (⭐15k)](https://github.com/Sundowndev/hacker-roadmap) - Archived guide for beginner pentesters with curated tools and references. <img alt="Year 2023" src="https://img.shields.io/badge/Year-2023-yellow"> <img alt="Archived repository" src="https://img.shields.io/badge/Status-Archived-6e7781">
+*   [Hacker Roadmap (⭐16k)](https://github.com/Sundowndev/hacker-roadmap) - Archived guide for beginner pentesters with curated tools and references. <img alt="Year 2023" src="https://img.shields.io/badge/Year-2023-yellow"> <img alt="Archived repository" src="https://img.shields.io/badge/Status-Archived-6e7781">
 *   [Software Architect Roadmap (⭐1.1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Software architecture roadmap for developers moving toward architect responsibilities. <img alt="Year 2018" src="https://img.shields.io/badge/Year-2018-yellow"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 *   [Software Design and Architecture Roadmap (⭐3.4k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - Software design and architecture roadmap for generalist developers. <img alt="Year 2019" src="https://img.shields.io/badge/Year-2019-yellow"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 

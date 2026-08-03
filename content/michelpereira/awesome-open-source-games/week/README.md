@@ -6,6 +6,16 @@ Collection of Games that have the source code available on GitHub
 
 [ [Daily](/content/michelpereira/awesome-open-source-games/README.md) / Weekly / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Native / Sandbox
+
+*   [Unturned (⭐3.3k)](https://github.com/SmartlyDressedGames/U3-SDK) - Free open-world zombie survival sandbox game.
+
+### Mobile Games / Android
+
+*   [Braincup (⭐250)](https://github.com/SimonSchubert/Braincup) - Memory, focus & math trainer.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Browser-Based / Boardgame
@@ -300,7 +310,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Platform
 
-*   [DDraceNetwork (⭐796)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐800)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 

@@ -2,9 +2,16 @@
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 15K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 16K · 🏷️ Theory
 
 [ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / Weekly / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
+
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Build AI systems / Protocols and interoperability
+
+*   [Model Context Protocol](https://modelcontextprotocol.io/specification/2026-07-28): The open specification for connecting AI applications to external tools, data sources, prompts, and interactive apps.
+*   [Agent2Agent Protocol](https://a2a-protocol.org/latest/specification/): A vendor-neutral specification for agent discovery, task delegation, streaming, asynchronous updates, and cross-platform communication.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -14,7 +21,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Build AI systems / Speech and audio
 
-*   [FunASR (⭐19k)](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
+*   [FunASR (⭐20k)](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -49,7 +56,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 *   [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Techniques for defining success criteria, testing prompts, and improving model behaviour.
 *   [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents): How to select, structure, and manage the context available to long-running agents.
-*   [12-Factor Agents (⭐24k)](https://github.com/humanlayer/12-factor-agents): Practical principles for building controllable LLM applications around deterministic software.
+*   [12-Factor Agents (⭐25k)](https://github.com/humanlayer/12-factor-agents): Practical principles for building controllable LLM applications around deterministic software.
 *   [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/): Risks and mitigations for developing and deploying generative AI applications.
 
 ### Build AI systems / Agent frameworks
@@ -116,13 +123,13 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 ### Agentic software engineering / Coding agents
 
 *   [Claude Code](https://code.claude.com/): A terminal agent with hooks, subagents, skills, and repository-level instructions.
-*   [Codex CLI (⭐99k)](https://github.com/openai/codex): An open-source terminal agent with sandbox and approval controls.
+*   [Codex CLI (⭐103k)](https://github.com/openai/codex): An open-source terminal agent with sandbox and approval controls.
 *   [Gemini CLI (⭐106k)](https://github.com/google-gemini/gemini-cli): An open-source terminal agent built around Gemini and extensible tools.
 *   [Cursor CLI](https://cursor.com/cli): A terminal agent connected to Cursor's editor and cloud workflows.
 *   [Aider](https://aider.chat/): An open-source pair programmer with Git integration and broad model support.
 *   [OpenCode](https://opencode.ai/): An open-source, provider-independent terminal agent with a client-server architecture.
 *   [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
-*   [Cline (⭐65k)](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
+*   [Cline (⭐66k)](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
 *   [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
@@ -154,7 +161,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Build AI systems / Retrieval and data
 
-*   [Docling (⭐63k)](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
+*   [Docling (⭐64k)](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
 
 ### Build AI systems / Evals and reliability
 
