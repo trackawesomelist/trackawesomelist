@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 03, 2026](/content/2026/08/03/README.md)
+
+### Terminal Integration / CSV Files
+
+*   [jaimeibanezrivera/zj-theme (⭐3)](https://github.com/jaimeibanezrivera/zj-theme) - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
+
+### Session / Indent
+
+*   [dmshvedchenko/persist.nvim (⭐4)](https://github.com/dmshvedchenko/persist.nvim) - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
+
 ## [Aug 02, 2026](/content/2026/08/02/README.md)
 
 ### Colorscheme / Markdown and LaTeX
@@ -107,7 +117,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [ntk148v/lauds (⭐1)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+*   [ntk148v/lauds (⭐7)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 
 ### Code Runner / Quickfix
 

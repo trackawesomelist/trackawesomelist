@@ -128,8 +128,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [playwright-bdd (⭐740)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
-*   [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
-
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 
 *   [tapflow (⭐259)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
@@ -148,6 +146,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 
 *   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+*   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
 *   [DATAMIMIC CE (⭐37)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 *   [JSON Validation Test Cases (⭐0)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 *   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
@@ -192,7 +191,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 
-*   [Jumpstarter (⭐202)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐205)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 *   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 *   [ai-natural-language-tests (⭐22)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐26)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
@@ -263,7 +262,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐486k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐492k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐4.9k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

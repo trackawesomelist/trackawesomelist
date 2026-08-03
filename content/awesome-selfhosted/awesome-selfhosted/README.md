@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 03, 2026](/content/2026/08/03/README.md)
+
+### Software / DNS
+
+*   [Numa](https://numa.rs/) - Ad-blocking DNS resolver with DNSSEC-validating recursive resolution, DoH/DoT/Oblivious DoH, ephemeral overrides, and local service domains, in a single Rust binary (alternative to Pi-hole, AdGuard Home, NextDNS). ([Source Code (⭐1.4k)](https://github.com/razvandimescu/numa)) `MIT` `Rust/Docker/Nix`
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [NextGIS Web](https://nextgis.com/nextgis-web/) - Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code (⭐270)](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`
+
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
 ### Software / Document Management - E-books

@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Terminal Integration / CSV Files
+
+*   [jaimeibanezrivera/zj-theme (⭐3)](https://github.com/jaimeibanezrivera/zj-theme) - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
+
+### Session / Indent
+
+*   [dmshvedchenko/persist.nvim (⭐4)](https://github.com/dmshvedchenko/persist.nvim) - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### AI / Diagnostics
@@ -86,7 +96,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [ntk148v/lauds (⭐1)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+*   [ntk148v/lauds (⭐7)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 *   [alsi-lawr/neotheme.nvim (⭐4)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 
 ### Colorscheme / Colorscheme Creation

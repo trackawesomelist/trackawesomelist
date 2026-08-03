@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Security
+
+*   [acme-proxy (⭐53)](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Artificial Intelligence
@@ -91,7 +97,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [GoModel (⭐1k)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 *   [jargo (⭐61)](https://github.com/gojargo/jargo) - Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.
-*   [semantic-search (⭐0)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
+*   [semantic-search (⭐1)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
 
 ### Audio and Music
 
@@ -99,7 +105,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [OpenCLI (⭐41)](https://github.com/bcdxn/opencli) - OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.
+*   [OpenCLI (⭐42)](https://github.com/bcdxn/opencli) - OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.
 
 ### Database Schema Migration
 
@@ -115,7 +121,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Server Applications
 
-*   [relay (⭐9)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
+*   [relay (⭐11)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
 *   [whois (⭐63)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
 
 ### Third-party APIs
@@ -146,7 +152,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐7)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐10)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [skillreaper (⭐45)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
 ### File Handling
@@ -155,7 +161,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### JSON
 
-*   [silentjson (⭐62)](https://github.com/GenshIv/silentjson) - Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.
+*   [silentjson (⭐63)](https://github.com/GenshIv/silentjson) - Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.
 
 ### HTTP Clients
 
@@ -167,7 +173,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-utils (⭐59)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
+*   [go-utils (⭐61)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -229,7 +235,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Data Integration Frameworks
 
-*   [confluence2md (⭐28)](https://github.com/gkoos/confluence2md) - Confluence to Markdown crawler and converter.
+*   [confluence2md (⭐29)](https://github.com/gkoos/confluence2md) - Confluence to Markdown crawler and converter.
 
 ### Financial
 
@@ -284,7 +290,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GooseForum (⭐115)](https://github.com/leancodebox/GooseForum) - Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
+*   [GooseForum (⭐123)](https://github.com/leancodebox/GooseForum) - Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -404,7 +410,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Updatecli (⭐941)](https://github.com/updatecli/updatecli) - A universal declarative update policy engine.
+*   [Updatecli (⭐949)](https://github.com/updatecli/updatecli) - A universal declarative update policy engine.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -800,7 +806,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Version Control
 
-*   [ggc (⭐284)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
+*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -1184,7 +1190,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [chaosmonkey (⭐17k)](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
-*   [docker-volume-backup (⭐3.8k)](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
+*   [docker-volume-backup (⭐3.9k)](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 *   [goma-gateway (⭐183)](https://github.com/jkaninda/goma-gateway) - A Lightweight API Gateway and Reverse Proxy with declarative config, robust middleware, and support for REST, GraphQL, TCP, UDP, and gRPC.
 *   [k0s (⭐6.4k)](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes distribution.
 *   [k9s (⭐34k)](https://github.com/derailed/k9s) - Kubernetes CLI to manage your clusters in style.
@@ -2537,7 +2543,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [go-peer (⭐328)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐327)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐78)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -4435,7 +4441,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Maps
 
-*   [cmap (⭐105)](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
+*   [cmap (⭐104)](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -4526,7 +4532,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mysql (⭐5k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [octillery (⭐202)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [pg\_timetable (⭐1.4k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
-*   [pgweb (⭐9.4k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
+*   [pgweb (⭐9.5k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 *   [prep (⭐36)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
 *   [pREST (⭐4.6k)](https://github.com/prest/prest) - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 *   [rwdb (⭐21)](https://github.com/andizzle/rwdb) - rwdb provides read replica capability for multiple database servers setup.
@@ -5023,7 +5029,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [bayesian (⭐814)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐747)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
-*   [eaopt (⭐907)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [evoli (⭐33)](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
 *   [fonet (⭐86)](https://github.com/Fontinalis/fonet) - A Deep Neural Network library written in Go.
 *   [go-cluster (⭐44)](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
@@ -5134,10 +5140,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Project Layout
 
 *   [ardanlabs/service (⭐4.1k)](https://github.com/ardanlabs/service) - A [starter kit (⭐4.1k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
-*   [cookiecutter-golang (⭐737)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+*   [cookiecutter-golang (⭐736)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-sample (⭐140)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐620)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
-*   [go-todo-backend (⭐338)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
+*   [go-todo-backend (⭐337)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
 *   [gobase (⭐66)](https://github.com/wajox/gobase) - A simple skeleton for golang application with basic setup for real golang application.
 *   [golang-standards/project-layout (⭐56k)](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see [this issue (⭐56k)](https://github.com/golang-standards/project-layout/issues/117) for more information. Nonetheless, some may find the layout useful.
 *   [golang-templates/seed (⭐565)](https://github.com/golang-templates/seed) - Go application GitHub repository template.
@@ -6063,7 +6069,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 *   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
-*   [croc (⭐36k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
+*   [croc (⭐39k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐77)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
 *   [drive (⭐6.7k)](https://github.com/odeke-em/drive) - Google Drive client for the commandline.

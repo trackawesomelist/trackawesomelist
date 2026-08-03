@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 130K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 131K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / Overview ]
 
@@ -934,6 +934,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [verimail.io](https://verimail.io/) - Bulk and API email verification service. 100 free verifications/month
 *   [Waitlio](https://waitlio.com/) - Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
 *   [Wraps](https://wraps.dev) - email automation workflows, 5k tracked events and unlimited contacts free.
+*   [ZeroSMTP (⭐1)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1013,8 +1014,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐1.5k)](https://github.com/future-agi/future-agi)
 *   [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
 *   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐32k)](https://github.com/langfuse/langfuse)
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐3.4k)](https://github.com/langwatch/langwatch)
-*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.4k)](https://github.com/latitude-dev/latitude-llm)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐3.5k)](https://github.com/langwatch/langwatch)
+*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.5k)](https://github.com/latitude-dev/latitude-llm)
 *   [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 \[schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
 *   [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.

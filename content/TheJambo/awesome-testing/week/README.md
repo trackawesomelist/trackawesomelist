@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Software / Test Data Management
+
+*   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Suggested Awesome Lists / Useful References
@@ -46,10 +52,6 @@ A curated list of testing resources
 
 *   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 *   [nika (⭐36)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
-
-### Software / UI & End-to-End Testing
-
-*   [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
 
 ### Software / Test Data Management
 
@@ -94,7 +96,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [Jumpstarter (⭐202)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐205)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -620,7 +622,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐486k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐492k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐15k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

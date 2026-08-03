@@ -2,9 +2,15 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 130K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 131K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
+
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Email
+
+*   [ZeroSMTP (⭐1)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -203,7 +209,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.4k)](https://github.com/latitude-dev/latitude-llm)
+*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.5k)](https://github.com/latitude-dev/latitude-llm)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -898,7 +904,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐3.4k)](https://github.com/langwatch/langwatch)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐3.5k)](https://github.com/langwatch/langwatch)
 *   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)

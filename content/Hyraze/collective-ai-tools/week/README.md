@@ -6,6 +6,16 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Copywriting
+
+*   [ListingAI](https://lijustin655.github.io/f1-listingai/) - AI listing generator for Amazon & TikTok Shop sellers - title, bullets, and description in 30 seconds. `#free`
+
+### Fun Tools
+
+*   [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser. `#free`
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Chatbots
