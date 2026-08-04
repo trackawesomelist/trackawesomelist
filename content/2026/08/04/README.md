@@ -1,42 +1,100 @@
 # Awesome List Updates on Aug 04, 2026
 
-9 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Audio & Video / Utilities
+
+*   [writingmate/aidictation (⭐34)](https://github.com/writingmate/aidictation) — Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. ☆`33`
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Frameworks
+
+*   [YUP! (⭐158)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [deadmono (⭐2)](https://github.com/arxeiss/deadmono) - Wrapper around deadcode for detection of dead code in Go monorepo.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [GCWing/BitFun (⭐1.4k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+
+### Applications / MLOps
+
+*   [Uteke (⭐178)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+
+## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+
+### LaTeX-focused
+
+*   [Oleafly (⭐16)](https://github.com/Oleafly/Oleafly) - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+### Agents
+
+*   [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Messaging
+
+*   [Pingram](https://www.pingram.io/) - Messaging APIs for email, SMS, voice, and WhatsApp with managed A2P 10DLC.
+
+## [8. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Crypto
+
+*   [AgentServices](https://agentservices.to) - x402-paid crypto/market data APIs with 37 MCP tools for AI agents — BTC indicators, DeFi stats, macro data. USDC micropayments on Base. `#paid` `#opensource`
+
+### Human Resources
+
+*   [Jobvetta](https://www.jobvetta.com/) - MCP server and API for searching current India jobs from official employer career pages by keyword, location, and posting age. `#free`
 
 ### Video
 
 *   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
 
-## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [9. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Agent Orchestration / Obsidian
 
 *   [Claude Code Harness (⭐3k)](https://github.com/Chachamaru127/claude-code-harness) by [Chachamaru](https://github.com/Chachamaru127) - A Claude Code development harness that enables reliable high-quality development through an autonomous Plan -> Work -> Review cycle. Well documented and includes an Output Style.\ <img src="https://img.shields.io/github/created-at/Chachamaru127/claude-code-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Chachamaru127/claude-code-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Chachamaru127/claude-code-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Chachamaru127/claude-code-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+### Observability & Monitoring / Obsidian
+
+*   [CC Harness (⭐45)](https://github.com/lookfree/cc-harness) by [lookfree](https://github.com/lookfree) - Desktop workbench that reads Claude Code session files locally and renders the subagent and workflow topology as a live graph, with per-node latency, token cost, and nesting depth. Token spend is broken down by source (base session, skills, subagents, MCP) and can be traced from a cost bucket to the exact message that produced it.\ <img src="https://img.shields.io/github/created-at/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Data and Statistics / GitHub
 
 *   [UAV Radar](https://uavradar.live/) - Air-raid alert and drone-attack statistics for Ukraine and Russia at district level: per region, how many alert episodes occurred, how many ended, and how long they typically last, over a rolling 30 days. Free JSON API, no registration, CC BY 4.0.
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Projects / Open Source Projects
 
 *   [Baserow (⭐5.5k)](https://github.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Others
 
 *   [Capd](https://capd.jxd.dev) - Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jamiedavenport/capd) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -298,19 +356,20 @@
 
 
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [art220/dancheong.nvim (⭐1)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
-## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [15. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
 *   [teamviewer-on-wsl (⭐3)](https://github.com/ariel42/teamviewer-on-wsl) - Run TeamViewer on a WSL2 Linux desktop, reachable from anywhere with no port forwarding or VPN (unlike VNC), fully unattended. Includes the fix for a WSL-specific bug that otherwise blocks TeamViewer's screen sharing. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Artificial Intelligence
 

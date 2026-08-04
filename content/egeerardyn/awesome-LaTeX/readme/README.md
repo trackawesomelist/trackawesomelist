@@ -2,7 +2,7 @@
 
 Curated list of LaTeX awesomeness
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/egeerardyn/awesome-LaTeX/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/egeerardyn/awesome-LaTeX/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) · ⭐ 1.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/egeerardyn/awesome-LaTeX/README.md) / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@ Curated list of LaTeX awesomeness
 
 # Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/README.md/LICENSE.md)
 
-[![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
+[![LaTeX Logo](https://github.com/egeerardyn/awesome-LaTeX/raw/master/fig/latex-logo.svg)](https://www.latex-project.org/)
 
 > This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).
 
@@ -72,9 +72,9 @@ Guides how to learn LaTeX
 
 When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.
 
-*   [reitzig/texlive-docker (⭐32)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
+*   [reitzig/texlive-docker (⭐31)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
 *   [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
-*   [dante-ev/docker-texlive (⭐115)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
+*   [dante-ev/docker-texlive (⭐116)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 
 ## Engines
 
@@ -115,6 +115,7 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 *   [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. ![foss]
 *   [BakomaTex](https://www.bakoma-tex.com) - Commercial LaTeX editor that allows to edit your document both using its source code and WYSIWYG.
 *   [Texifier](https://www.texifier.com/) - Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. ![mac]
+*   [Oleafly (⭐16)](https://github.com/Oleafly/Oleafly) - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
 
 ### General purpose text editors
 
@@ -124,7 +125,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
     *   [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
 
 *   [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks)
-    *   [LaTeXing (⭐81)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
+    *   [LaTeXing (⭐82)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
     *   [LaTeXTools (⭐2k)](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
 
 *   [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss]
@@ -134,14 +135,13 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 *   [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss]
     *   [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
     *   [LaTeX Live Preview (⭐852)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
-    *   [vimtex (⭐6.2k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+    *   [vimtex (⭐6.3k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
 
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [TeXiFy-IDEA (⭐976)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+    *   [TeXiFy-IDEA (⭐985)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 *   [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
     *   [LaTeX Workshop (⭐12k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
-    *   [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
     *   [a-nau/latex-devcontainer (⭐30)](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
 ### Online editors
@@ -151,12 +151,12 @@ Online editors that allow you to edit documents collaboratively.
 *   [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 *   [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 *   [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
-*   [Modern LaTeX Editor (⭐29)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
+*   [Modern LaTeX Editor (⭐38)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 *   [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 *   [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
-    *   [olcli (⭐13)](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
-*   [SciTeX Cloud (⭐0)](https://github.com/ywatanabe1989/scitex-cloud) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
-*   [WebLaTeX (⭐1.6k)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+    *   [olcli (⭐142)](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
+*   [SciTeX Cloud (⭐2)](https://github.com/ywatanabe1989/scitex-cloud) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
+*   [WebLaTeX (⭐1.7k)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 *   [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 *   [JaxEdit](https://zohooo.GitHub.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
 *   [Vexlio](https://vexlio.com/) - Online diagram editor with built-in LaTeX equation support including live preview and easy exports.
@@ -165,41 +165,41 @@ Online editors that allow you to edit documents collaboratively.
 ## Bibliography tools
 
 *   [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
-*   [Papis (⭐1.7k)](https://github.com/papis/papis) - Extremely customizable,
+*   [Papis (⭐1.8k)](https://github.com/papis/papis) - Extremely customizable,
     powerful and simple cross-platform (Python) library manager. It has a very
     complete Command-Line-Interface, several GUIs and scripting capability.
     ![linux] ![mac] ![foss]
 *   [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 *   [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac] ![windows] ![linux]
-*   [betterbib (⭐834)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
-*   [OneCite (⭐56)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
-*   [CrossRef Local (⭐2)](https://github.com/ywatanabe1989/crossref-local) - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
-*   [OpenAlex Local (⭐0)](https://github.com/ywatanabe1989/openalex-local) - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
+*   [betterbib (⭐839)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
+*   [OneCite (⭐64)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
+*   [CrossRef Local (⭐5)](https://github.com/ywatanabe1989/crossref-local) - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
+*   [OpenAlex Local (⭐4)](https://github.com/ywatanabe1989/openalex-local) - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
 
 ## Build Tools
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐415)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐417)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 *   [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
 
 *   [xu-cheng/latex-action (⭐1.4k)](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents
-*   [dante-ev/latex-action (⭐193)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
+*   [dante-ev/latex-action (⭐194)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
 
 ## Misc. Tools
 
 *   [CaTeX (⭐10)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
 *   [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss]
-*   [SciTeX Writer (⭐2)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
+*   [SciTeX Writer (⭐3)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
 
 ### Quality Check Tools
 
 *   [ChkTeX](https://www.nongnu.org/chktex/) - Linter / code checker for LaTeX documents. ![foss]
-*   [blacktex (⭐158)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows] ![linux] ![mac] ![foss]
-*   [TeXtidote (⭐1k)](https://github.com/sylvainhalle/textidote) - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
+*   [blacktex (⭐159)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows] ![linux] ![mac] ![foss]
+*   [TeXtidote (⭐1.1k)](https://github.com/sylvainhalle/textidote) - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
 
 ### Tools centered around equations
 
@@ -216,7 +216,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## LaTeX-compatible GUI tools
 
 *   [TikzEdt](https://www.tikzedt.org) (also: [GitHub repo (⭐10)](https://github.com/hchapman/tikzedt)) - WYSIWYG and text-based editor for TikZ pictures. ![foss]
-*   [TikZ-Editor (⭐198)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
+*   [TikZ-Editor (⭐201)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
 *   [IPE](https://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss]
 *   [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss]
@@ -272,9 +272,9 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Templates
 
 *   [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-*   [Ultimate Beamer Theme List (⭐1.7k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
-*   [LaTeX Beamer Theme Overview (⭐45)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
-*   [TeXtured (⭐258)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
+*   [Ultimate Beamer Theme List (⭐1.8k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+*   [LaTeX Beamer Theme Overview (⭐55)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+*   [TeXtured (⭐272)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
 ## Symbols
 

@@ -298,6 +298,7 @@ Use these hashtags in search to filter out the tools
 *   [Arkham Intelligence](https://arkhamintelligence.com/) - On-chain analytics platform that deanonymizes blockchain addresses and tracks entity activity using AI. `#freemium`
 *   [Coinfeeds](https://chat.coinfeeds.io/)- Your Crypto Chatbot Companion, ask it anything! `#free`
 *   [Token Metrics](https://www.tokenmetrics.com/) - AI-powered crypto research and ratings platform with price predictions and portfolio tools. `#freemium`
+*   [AgentServices](https://agentservices.to) - x402-paid crypto/market data APIs with 37 MCP tools for AI agents — BTC indicators, DeFi stats, macro data. USDC micropayments on Base. `#paid` `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -401,15 +402,15 @@ Use these hashtags in search to filter out the tools
 ## Developer Tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
-*   [Agent Island (⭐69)](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex sessions on macOS and Windows, with live state and your-turn alerts. `#free` `#opensource`
-*   [agent-qa (⭐161)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
+*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex sessions on macOS and Windows, with live state and your-turn alerts. `#free` `#opensource`
+*   [agent-qa (⭐172)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. \`\`
 *   [aiXcoder](https://www.aixcoder.com/) - Chinese deep learning software dev assistant. \`\`
 *   [AskCodi](https://www.askcodi.com/) - Code generation and refactoring assistant. `#free`
 *   [Augment Code](https://augmentcode.com/) - Industry-leading context engine for developers. \`\`
-*   [Better Agent (⭐24)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
+*   [Better Agent (⭐51)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
 *   [Blackbox AI](https://www.blackbox.ai/) - AI-powered code completion and generation that works in over 20 languages. `#freemium`
 *   [BLACKBOX AI](https://www.blackbox.ai/) - Trusted code auto-completion for enterprises. \`\`
 *   [Bolt.new](https://bolt.new/) - AI-powered full-stack web development platform `#freemium`
@@ -676,6 +677,7 @@ Use these hashtags in search to filter out the tools
 *   [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. `#paid`
 *   [Interview Cat](https://mianshiya.com/) - Answer suggestions based on real-time listening. \`\`
 *   [Interview Star](https://xingmian.com/) - Big data and algorithm interview modeling. `#paid`
+*   [Jobvetta](https://www.jobvetta.com/) - MCP server and API for searching current India jobs from official employer career pages by keyword, location, and posting age. `#free`
 *   [Lan Zidian AI](https://lanzidian.com/) - One-stop resume and interview optimization. `#free`
 *   [Magic Pen Resume](https://mojibjl.com/) - Employment guidance for college students. `#free`
 *   [Mercor](https://mercor.com/) - Global job seeker and enterprise matching. \`\`
