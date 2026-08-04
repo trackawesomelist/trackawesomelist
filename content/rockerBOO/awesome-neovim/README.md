@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 04, 2026](/content/2026/08/04/README.md)
+
+### Colorscheme / Markdown and LaTeX
+
+*   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
 ### Terminal Integration / CSV Files
@@ -20,7 +26,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 

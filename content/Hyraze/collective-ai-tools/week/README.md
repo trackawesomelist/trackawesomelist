@@ -16,6 +16,10 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser. `#free`
 
+### Video
+
+*   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Chatbots

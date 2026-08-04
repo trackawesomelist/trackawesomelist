@@ -1110,6 +1110,7 @@ Use these hashtags in search to filter out the tools
 *   [DreamFace](https://dreamface.ai/) - High-quality videos/photos from audio/text. `#paid`
 *   [Duojia Tool](https://duojia.baidu.com/) - Baidu's one-stop AIGC creation platform. \`\`
 *   [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
+*   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
 *   [Filmora](https://filmora.wondershare.com/) - Wondershare AI enhancement and short videos. `#free`
 *   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
 *   [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`

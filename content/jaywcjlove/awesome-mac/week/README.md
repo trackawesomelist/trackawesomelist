@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Reading and Writing Tools / Others
+
+*   [Capd](https://capd.jxd.dev) - Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jamiedavenport/capd) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Reading and Writing Tools / Note-taking
@@ -1203,7 +1209,7 @@
 ### Utilities / Clipboard Tools
 
 *   [Paste Quick](https://wangchujiang.com/paste-quick/) - A simple, privacy-first clipboard manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/paste-quick/6723903021?platform=mac)
-*   [OneClip (⭐361)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wcowin/OneClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OneClip (⭐393)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wcowin/OneClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

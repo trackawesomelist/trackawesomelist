@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Aug 04, 2026](/content/2026/08/04/README.md)
+
+### Artificial Intelligence
+
+*   [The Claude Code Book (⭐0)](https://github.com/bartek-890/the-claude-code-book) - Bartłomiej Krupa (Markdown) (CC BY-NC-ND)
+
 ## [Jul 28, 2026](/content/2026/07/28/README.md)
 
 ### Artificial Intelligence

@@ -89,7 +89,7 @@ This project is dedicated to collecting high-quality macOS software and organizi
 
 Feel free to **star** ⭐ and **fork** 🍴 to support the project!
 
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines (⭐109k)](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome (⭐486k)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines (⭐109k)](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome (⭐492k)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
 
 **Explanation**
 
@@ -337,6 +337,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [SwifDoo PDF](https://www.swifdoo.com/) - PDF editor/converter for editing, compressing, and password-protecting PDFs.
 *   [bindPDF (⭐112)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
+*   [Capd](https://capd.jxd.dev) - Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 *   [CHM Reader](https://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
 *   [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 *   [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
@@ -1206,7 +1207,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Flycut (⭐2.7k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 *   [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 *   [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history manager with search, tags, and image support. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
-*   [OneClip (⭐361)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
+*   [OneClip (⭐393)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 *   [uPaste](https://okaapps.com/product/1503649026) - Clipboard history and snippets manager for organizing reusable copied content. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922\&ct=github)
 *   [Yippy (⭐395)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 *   [ClipFlow (⭐9)](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]

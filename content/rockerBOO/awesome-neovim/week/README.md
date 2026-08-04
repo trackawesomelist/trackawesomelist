@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
+### Colorscheme / Markdown and LaTeX
+
+*   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+
 ### Terminal Integration / CSV Files
 
 *   [jaimeibanezrivera/zj-theme (⭐3)](https://github.com/jaimeibanezrivera/zj-theme) - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
@@ -26,7 +30,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [tan-wei/zimablue.nvim (⭐1)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ### Utility / Cursorline
 

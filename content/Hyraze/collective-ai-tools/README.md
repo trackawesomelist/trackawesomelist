@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Aug 04, 2026](/content/2026/08/04/README.md)
+
+### Video
+
+*   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
+
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
 ### Copywriting

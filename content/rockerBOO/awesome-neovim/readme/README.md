@@ -893,12 +893,13 @@ then it is not supported:
 *   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐22)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐19)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
+*   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [marekh19/meowsoot.nvim (⭐31)](https://github.com/marekh19/meowsoot.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 *   [ntk148v/lauds (⭐7)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 *   [alsi-lawr/neotheme.nvim (⭐4)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 *   [tan-wei/zimablue.nvim (⭐1)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - `[TS][LSP][L/D][Lua]` Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 <!--lint disable double-link -->
 
