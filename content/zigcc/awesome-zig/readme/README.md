@@ -124,6 +124,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [DonIsaac/zlint (⭐301)](https://github.com/DonIsaac/zlint) - Linter for the Zig programming language.
 *   [forketyfork/zwanzig (⭐27)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
 *   [KurtWagner/zlinter (⭐86)](https://github.com/KurtWagner/zlinter) - Zig linter that is integrated from source into your `build.zig`.
+*   [mstdokumaci/zsort (⭐10)](https://github.com/mstdokumaci/zsort) - Import sorter/organizer with pre-commit hook support.
 
 ### Documentation and Testing
 

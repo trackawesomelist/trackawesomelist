@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 581 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 583 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -45,20 +45,21 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 *   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 *   [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
-*   [Heym (⭐761)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+*   [Heym (⭐865)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 *   [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
 *   [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 *   [LLMGraph](https://llmgraph.ai) - Low/no-code visual builder for LLM workflows: build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy in one click to a REST API and chat widget.
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
-*   [Pineify](https://pineify.app) - AI Pine Script Generator & Visual Editor.
+*   [Pineify](https://pineify.app) - AI-assisted visual editor for building TradingView indicators, strategies, and screeners and exporting Pine Script v6 without manual coding.
 *   [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder that creates and hosts web apps from text prompts.
 *   [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
+*   [Rebyte](https://rebyte.ai/) - Low-code AI employee platform for configuring agents with prompts, MCP tools, permissions, APIs, and shareable Sites/Blocks.
 *   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-*   [PraisonAI (⭐8.4k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐8.5k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 *   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
@@ -81,7 +82,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
 *   [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 *   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
-*   [Overloop CLI (⭐5)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [Overloop CLI (⭐7)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 *   [Orion (⭐7)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
 *   [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.

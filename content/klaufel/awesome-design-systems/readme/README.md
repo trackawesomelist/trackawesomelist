@@ -2,7 +2,7 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 868 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 877 · 🏷️ Front-End Development
 
 [ [Daily](/content/klaufel/awesome-design-systems/README.md) / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / Overview ]
 
@@ -42,7 +42,7 @@ A Design System is an ever evolving collection of reusable components, guided by
 *   [IBM Carbon](https://www.carbondesignsystem.com/) - Carbon is IBM's open-source design system for products and experiences.
 *   [Shopify Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify's merchants.
 
-See more design systems [here (⭐25k)](https://github.com/alexpate/awesome-design-systems)!
+See more design systems [here (⭐26k)](https://github.com/alexpate/awesome-design-systems)!
 
 ### Design systems articles
 
@@ -63,7 +63,7 @@ See more design systems [here (⭐25k)](https://github.com/alexpate/awesome-desi
 *   [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 *   [Design.system](https://design.systems/) - Resources for the design systems community.
 *   [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
-*   [AI Web Design Codex (⭐4)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
+*   [AI Web Design Codex (⭐8)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
 ## UI Design tools
 
@@ -78,7 +78,7 @@ See more design systems [here (⭐25k)](https://github.com/alexpate/awesome-desi
 *   [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
 *   [Lunacy](https://icons8.com/lunacy) - A free graphic design tool with offline mode, built-in assets (icons, illustrations, photos), and real-time collaboration. Great alternative to Sketch and Figma (macOS, Windows, Linux).
 
-See design tools plugins [here (⭐40k)](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
+See design tools plugins [here (⭐41k)](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
 ### Integrations
 
@@ -93,6 +93,7 @@ See design tools plugins [here (⭐40k)](https://github.com/LisaDziuba/Awesome-D
 *   [Stark](https://www.getstark.co/) - Empowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
 *   [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 *   [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
+*   [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
 
 ### Design tools articles
 
@@ -100,7 +101,7 @@ See design tools plugins [here (⭐40k)](https://github.com/LisaDziuba/Awesome-D
 
 ## Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐2k)](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐2.1k)](https://github.com/design-tokens/community-group)!
 *   [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 *   [Design Tokens Validator](https://animaapp.github.io/design-token-validator-site/) - Validate your design tokens against the Design Token Community Group spec.
@@ -112,8 +113,9 @@ See design tools plugins [here (⭐40k)](https://github.com/LisaDziuba/Awesome-D
 
 ### Tools
 
-*   [Figmagic (⭐858)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary (⭐4.7k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [CSS Variable Generator](https://alltoolsverse.com/tools/css-variable-generator/) - Generate scoped CSS custom properties with light and dark theme pairs, plus SCSS, Less, and JSON design-token exports.
+*   [Figmagic (⭐862)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐4.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 *   [Theo (⭐2k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
@@ -152,18 +154,18 @@ See more design tokens info [here (⭐1.3k)](https://github.com/sturobson/Awesom
 
 #### Storybook addons
 
-*   [Accessibility (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Accessibility (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
 *   [Console (⭐202)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Source (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Storyshots (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
-*   [Viewport (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Docs (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Source (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Storyshots (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Viewport (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
-More info to Storybook [here (⭐417)](https://github.com/lauthieb/awesome-storybook)!
+More info to Storybook [here (⭐418)](https://github.com/lauthieb/awesome-storybook)!
 
 ### Pattern libraries articles
 

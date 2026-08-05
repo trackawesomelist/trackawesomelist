@@ -2,15 +2,25 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 868 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 877 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / [Overview](/content/klaufel/awesome-design-systems/readme/README.md) ]
+
+## [Aug 05, 2026](/content/2026/08/05/README.md)
+
+### Accessibility (a11y)
+
+*   [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
+
+### Tools
+
+*   [CSS Variable Generator](https://alltoolsverse.com/tools/css-variable-generator/) - Generate scoped CSS custom properties with light and dark theme pairs, plus SCSS, Less, and JSON design-token exports.
 
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
 ### More resources
 
-*   [AI Web Design Codex (⭐4)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
+*   [AI Web Design Codex (⭐8)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
@@ -120,8 +130,8 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Source (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Viewport (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Source (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Viewport (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
 ### Books / Storybook addons
 
@@ -182,13 +192,13 @@
 
 ### Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐2k)](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐2.1k)](https://github.com/design-tokens/community-group)!
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Tools
 
-*   [Figmagic (⭐858)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary (⭐4.7k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [Figmagic (⭐862)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐4.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 
 ### Articles
@@ -212,14 +222,14 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Accessibility (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Accessibility (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
 *   [Console (⭐202)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Storyshots (⭐90k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Docs (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Storyshots (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 
 ### Pattern libraries articles / Storybook addons
 

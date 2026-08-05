@@ -6,6 +6,22 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 05, 2026](/content/2026/08/05/README.md)
+
+### Machine Learning
+
+- API: [AI Economics Tools](https://piszczek.pl/tools/api)
+
+  Description: Token cost, LLM energy, agent-hour and Proof-Adjusted Autonomy calculators by Michał Piszczek
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Anime

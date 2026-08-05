@@ -2,15 +2,21 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 581 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 583 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### AI
+
+*   [Rebyte](https://rebyte.ai/) - Low-code AI employee platform for configuring agents with prompts, MCP tools, permissions, APIs, and shareable Sites/Blocks.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### AI
 
-*   [Heym (⭐761)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+*   [Heym (⭐865)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 
 ### Automation
 
@@ -88,7 +94,7 @@ A collection of Awesome low-code development platform (LCDP).
 ### Automation
 
 *   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
-*   [Overloop CLI (⭐5)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [Overloop CLI (⭐7)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -128,7 +134,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐8.4k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐8.5k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 
@@ -148,7 +154,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [Pineify](https://pineify.app) - AI Pine Script Generator & Visual Editor.
+*   [Pineify](https://pineify.app) - AI-assisted visual editor for building TradingView indicators, strategies, and screeners and exporting Pine Script v6 without manual coding.
 
 ### Misc
 

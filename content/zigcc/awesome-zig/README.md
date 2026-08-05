@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Aug 05, 2026](/content/2026/08/05/README.md)
+
+### Fundamentals / Linters
+
+*   [mstdokumaci/zsort (⭐10)](https://github.com/mstdokumaci/zsort) - Import sorter/organizer with pre-commit hook support.
+
 ## [Aug 02, 2026](/content/2026/08/02/README.md)
 
 ### Multimedia & Graphics / Graphics Library

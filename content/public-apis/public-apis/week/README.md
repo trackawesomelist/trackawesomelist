@@ -240,6 +240,20 @@ A collective list of free APIs
 
 
 
+### Machine Learning
+
+- API: [AI Economics Tools](https://piszczek.pl/tools/api)
+
+  Description: Token cost, LLM energy, agent-hour and Proof-Adjusted Autonomy calculators by Michał Piszczek
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### News
 
 - API: [DataCube AI](https://www.datacubeai.space/en/tools/ai-news-api)

@@ -6,6 +6,12 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Aug 05, 2026](/content/2026/08/05/README.md)
+
+### Memory & Context Persistence / Obsidian
+
+*   [claude-context-optimizer (⭐86)](https://github.com/egorfedorov/claude-context-optimizer) by [Egor Fedorov](https://github.com/egorfedorov) - Claude Code plugin that tracks token usage, identifies wasted context, and saves money on unnecessary API costs, by tracking which information is actually being reused later. Visuals include heatmaps, ROI reports, budget alerts, efficiency scores, git-aware suggestions - all local, zero config. The design is still somewhat exploratory, but it shows promise.\ <img src="https://img.shields.io/github/created-at/egorfedorov/claude-context-optimizer?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/egorfedorov/claude-context-optimizer?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/egorfedorov/claude-context-optimizer?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/egorfedorov/claude-context-optimizer?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Agent Orchestration / Obsidian
@@ -44,7 +50,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ### Creative Media / Obsidian
 
-*   [claude-replay (⭐758)](https://github.com/es617/claude-replay) by [es617](https://github.com/es617) - An outstanding, creative library that converts Claude Code session transcripts into self-contained, embeddable HTML replays - interactive playback with speed control, a local editor, collapsible tool-call and thinking blocks, redaction for private information - the output is fantastic. Also supports other providers.\ <img src="https://img.shields.io/github/created-at/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [claude-replay (⭐791)](https://github.com/es617/claude-replay) by [es617](https://github.com/es617) - An outstanding, creative library that converts Claude Code session transcripts into self-contained, embeddable HTML replays - interactive playback with speed control, a local editor, collapsible tool-call and thinking blocks, redaction for private information - the output is fantastic. Also supports other providers.\ <img src="https://img.shields.io/github/created-at/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/es617/claude-replay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
