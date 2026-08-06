@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
+### Software / Visual Testing
+
+*   [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
+
 ### Software / Test Data Management
 
 *   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
@@ -90,7 +94,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [agent-qa (⭐161)](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
+*   [agent-qa (⭐172)](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
@@ -410,7 +414,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca (⭐511)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -442,7 +446,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐525)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐526)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
