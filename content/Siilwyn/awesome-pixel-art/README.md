@@ -6,6 +6,16 @@ Curated list of everything awesome around pixel art.
 
 [ Daily / [Weekly](/content/Siilwyn/awesome-pixel-art/week/README.md) / [Overview](/content/Siilwyn/awesome-pixel-art/readme/README.md) ]
 
+## [Aug 06, 2026](/content/2026/08/06/README.md)
+
+### Tools / Editors
+
+*   [Draw!](https://pixel.drawbang.com) - Editor for creating tiny GIF animations. Open source and free, works in the browser.
+
+### Tools / Miscellaneous
+
+*   [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Free and works in the browser. Pull a sprite's exact palette, export .gpl, Lospec .hex, CSS or JSON.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Tools / Miscellaneous

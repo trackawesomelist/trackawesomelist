@@ -2,7 +2,7 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 822 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 1K · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / Overview ]
 
@@ -27,38 +27,49 @@
 
 ## Projects
 
-*   [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.
-*   [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
-*   [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
-*   [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
-*   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
-*   [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
-*   [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
-*   [OpenBCI](https://openbci.com/) - Brain computer interface.
-*   [OpenMV (⭐2.8k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
-*   [OpenSPIM](https://openspim.org/) - Open Access platform for three-dimensional (3D) microscopy.
-*   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
-*   [openUC2 (⭐530)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
-*   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
-*   [Open-Source-Rover (⭐9.4k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
-*   [Biohack Academy](https://assets.waag.org/biohackacademy) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
-*   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
-*   [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
-*   [Open Gamma Detector (⭐348)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
-*   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
+### Automation, Manufacturing, and Robotics
+
 *   [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
-*   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
-*   [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
-*   [PiSpot Watch (⭐2)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
-*   [PiSpot Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
-*   [pic0rick (⭐65)](https://github.com/kelu124/pic0rick/) - an open-source Raspberry Pi pico platform for pulse-echo ultrasound imaging hardware
 *   [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+*   [JPL Open Source Rover (⭐9.6k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
+*   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
+*   [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
+*   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
+*   [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
+*   [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
+*   [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+*   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+*   [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
+
+### Consumer Devices
+
 *   [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
 *   [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+*   [Mutable Instruments](https://mutable-instruments.net/) - Eurorack classics.
+*   [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
+*   [PiSpot Show (⭐3)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+*   [PiSpot Watch (⭐3)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 *   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
-*   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
-*   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
+*   [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
+
+### Development Boards
+
+*   [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
+*   [OpenMV (⭐2.8k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
+*   [pic0rick (⭐93)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+
+### Scientific Instruments
+
+*   [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
+*   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+*   [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
+*   [Open Gamma Detector (⭐359)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [OpenBCI](https://openbci.com/) - Brain-computer interface.
+*   [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
+*   [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
+*   [openUC2 (⭐529)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
+*   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
 ## Talks
 
@@ -141,9 +152,9 @@
 
 ## Related awesome
 
-*   [Awesome Open Electronics (⭐719)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐95)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
-*   [Awesome Electronics (⭐7.7k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Open Electronics (⭐741)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐97)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Electronics (⭐8k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 
