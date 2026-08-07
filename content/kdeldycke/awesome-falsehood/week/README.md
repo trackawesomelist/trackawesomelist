@@ -2,20 +2,26 @@
 
 😱 Falsehoods Programmers Believe in
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-falsehood/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) · ⭐ 27K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-falsehood/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) · ⭐ 28K · 🏷️ Miscellaneous
 
 [ [Daily](/content/kdeldycke/awesome-falsehood/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
+
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Dates and Time
+
+*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://openlibrary.org/isbn/0316491705).
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Internationalization
 
-*   [Awesome Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐979)](https://github.com/jagracey/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 
 ### Phone Numbers
 
 *   [Falsehoods about Phone Numbers (⭐18k)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
-*   [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐901)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐918)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.8k)](https://github.com/daviddrysdale/python-phonenumbers) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Postal Addresses
 
@@ -126,12 +132,6 @@
 ### Geography
 
 *   [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
-
-## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
-
-### Dates and Time
-
-*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?\&linkCode=ll1\&tag=kevideld-20\&linkId=ec2881e22fb26c2d43de0daeebd5424d\&language=en_US\&ref_=as_li_ss_tl).
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -313,12 +313,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐503)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐507)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐82)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐85)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -364,7 +364,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐70)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐71)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
@@ -376,7 +376,7 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐112)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐111)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -423,7 +423,7 @@
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 *   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
-*   [i18n Testing Data (⭐66)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
+*   [i18n Testing Data (⭐69)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 *   [Big List of Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ### Networks

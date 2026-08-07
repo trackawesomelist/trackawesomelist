@@ -2,9 +2,20 @@
 
 A list of web-based interactive biological data visualizations.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/keller-mark/awesome-biological-visualizations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) · ⭐ 99 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/keller-mark/awesome-biological-visualizations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) · ⭐ 241 · 🏷️ Miscellaneous
 
 [ [Daily](/content/keller-mark/awesome-biological-visualizations/README.md) / Weekly / [Overview](/content/keller-mark/awesome-biological-visualizations/readme/README.md) ]
+
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Genomics
+
+*   [gbatlas](https://fishka.bio/gbatlas) - Interactive viewer for GenBank/GenPept records: linear and circular feature maps, CDS translation, ORF and restriction-site layers, entirely in the browser.
+
+### Proteomics
+
+*   [Genomics 2 Proteins portal](https://g2p.broadinstitute.org/) - A platform for connecting genomic data to protein sequence and protein structure.
+*   [pdb2print](https://pdb2print.org) - Convert a PDB structure into a 3D-printable 3MF file, with one object per chain, magnet pockets and custom display stands.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -20,7 +31,7 @@ A list of web-based interactive biological data visualizations.
 
 ### Epigenomics
 
-*   [Peax (⭐63)](https://github.com/Novartis/peax) - Interactive visual pattern exploration in epigenomic data using unsupervised deep representation learning.
+*   [Peax (⭐68)](https://github.com/Novartis/peax) - Interactive visual pattern exploration in epigenomic data using unsupervised deep representation learning.
 
 ### Mass Spectrometry / Gene expression matrices
 
@@ -72,7 +83,7 @@ A list of web-based interactive biological data visualizations.
 *   [Vitessce](http://vitessce.io) - Visual integration tool for exploration of spatial single-cell experiment data.
 *   [Brain mRNA Isoform Atlas](https://isoformatlas.com/) - Visualize cell type signatures of alternative splicing in postnatal development.
 *   [AlzMap](https://alzmap.org/) - Spatial transcriptomics in Alzheimer's disease.
-*   [Loom Viewer](http://loom.linnarssonlab.org/dataset/cells/osmFISH/osmFISH_SScortex_mouse_all_cells.loom/NrBEoXQGhYDYoAYLRARigZlRgTDpAtAgFhRnSyg0Wrt1rUVuAHYlCYAOD5AzOo3qNmMAJy8ctaeWAYS0jvNoNqotpO6TSioZgmqmLCTJhNt0ebPCpgAWkQA6RJjgkxYxLkwlMrAKxIjr5wbv7\~iKxcaLj\~0AIkULhK\~DAscpwZxGZJ_LIgigB2AK4ANqVKHIbquqi10LVKsgIl5RxyybFQPIGYGAi4yey4PGjDArjsaAgYaBOJaDy4A3i0C4G4EgbUEmiJmIwYmMnm2E0QQA) - Tool for sharing, browsing and visualizing single-cell data stored in the Loom file format.
+*   [Loom Viewer](http://loom.linnarssonlab.org/dataset/cells/osmFISH/osmFISH_SScortex_mouse_all_cells.loom/NrBEoXQGhYDYoAYLRARigZlRgTDpAtAgFhRnSyg0Wrt1rUVuAHYlCYAOD5AzOo3qNmMAJy8ctaeWAYS0jvNoNqotpO6TSioZgmqmLCTJhNt0ebPCpgAWkQA6RJjgkxYxLkwlMrAKxIjr5wbv7~iKxcaLj~0AIkULhK~DAscpwZxGZJ_LIgigB2AK4ANqVKHIbquqi10LVKsgIl5RxyybFQPIGYGAi4yey4PGjDArjsaAgYaBOJaDy4A3i0C4G4EgbUEmiJmIwYmMnm2E0QQA) - Tool for sharing, browsing and visualizing single-cell data stored in the Loom file format.
 *   [TissUUmaps](https://tissuumaps.research.it.uu.se/) - Interactive visualization of large-scale spatial gene expression and tissue morphology data.
 *   [Giotto Viewer](http://spatialgiotto.rc.fas.harvard.edu/giotto.viewer.html) - A web-based visualization package for spatial transcriptomic data.
 
@@ -175,7 +186,7 @@ A list of web-based interactive biological data visualizations.
 
 ### Proteomics
 
-*   [EzMol](http://www.sbg.bio.ic.ac.uk/\~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
+*   [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
 *   [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale
     macromolecular structure data.
 

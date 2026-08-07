@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 07, 2026](/content/2026/08/07/README.md)
 
+### Project Layout
+
+*   [go-grpc-bazel-example (⭐2)](https://github.com/esurdam/go-grpc-bazel-example) - Example monorepo for Go gRPC microservices with Bazel, grpc-gateway, OpenAPI, and Kubernetes.
+
 ### Web Frameworks
 
 *   [Goshtoso (⭐20)](https://github.com/araihu/goshtoso) - Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.

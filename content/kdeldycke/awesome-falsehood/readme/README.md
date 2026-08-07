@@ -2,7 +2,7 @@
 
 😱 Falsehoods Programmers Believe in
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-falsehood/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) · ⭐ 27K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-falsehood/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) · ⭐ 28K · 🏷️ Miscellaneous
 
 [ [Daily](/content/kdeldycke/awesome-falsehood/README.md) / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / Overview ]
 
@@ -86,7 +86,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 *   [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐503)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐507)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 *   [Decimal Point Error in Etsy's Accounting System](https://web.archive.org/web/20230615151102/https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 *   [Twenty five thousand dollars of funny money](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
@@ -98,7 +98,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐82)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐85)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 *   [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
@@ -123,7 +123,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 *   [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - Depends on your priorities between SI seconds, earth rotation sync, leap seconds avoidance.
 *   [Why is subtracting these two times (in 1927) giving a strange result?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
 *   [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from Unix epoch, a list of special date to watch for depending on the system.
-*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?\&linkCode=ll1\&tag=kevideld-20\&linkId=ec2881e22fb26c2d43de0daeebd5424d\&language=en_US\&ref_=as_li_ss_tl).
+*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://openlibrary.org/isbn/0316491705).
 
 ## Education
 
@@ -171,14 +171,14 @@ On character encoding, string formatting, unicode and internationalization.
 *   [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - Practical examples illustrating Unicode normalization, ligatures, surrogate pairs, character widths, and grapheme cluster pitfalls in substring operations.
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐979)](https://github.com/jagracey/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Unicode misconceptions](https://jean.abou-samra.fr/blog/unicode-misconceptions/) - A collection of falsehoods on case, encodings, string length, and more.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 *   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
 *   [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - You cannot localize temperature differences as-is.
-*   [i18n Testing Data (⭐66)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
+*   [i18n Testing Data (⭐69)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 *   [Big List of Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ## Management
@@ -203,7 +203,7 @@ On character encoding, string formatting, unicode and internationalization.
 ## Phone Numbers
 
 *   [Falsehoods about Phone Numbers (⭐18k)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
-*   [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐901)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐918)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.8k)](https://github.com/daviddrysdale/python-phonenumbers) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses
 
@@ -232,7 +232,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Software Engineering
 
-*   [Falsehoods about Versions (⭐70)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐71)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - Invoking undefined behavior can cause *anything* to happen, for a much broader definition of "anything" than one might think.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
@@ -267,7 +267,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Typography
 
-*   [Falsehoods about Fonts (⭐112)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐111)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 *   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
 ## Video Games
@@ -283,15 +283,15 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐27k)](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐28k)](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
 
 ## Footnotes
 
-This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere (⭐6)](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md).
+This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere (⭐9)](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md).
 
-The [header image (⭐27k)](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image (⭐28k)](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?\&linkCode=ll1\&tag=kevideld-20\&linkId=a1903c3fbfdc82fbe2e566fca40718fb\&language=en_US\&ref_=as_li_ss_tl) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1]</a>: [*Notebooks, 1914-1916*](https://openlibrary.org/isbn/1324090804) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [\[↑\]](#intro-quote-ref)
 

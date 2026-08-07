@@ -6,11 +6,19 @@
 
 [ [Daily](/content/kdeldycke/awesome-billing/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### Finance / Currencies
+
+*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://openlibrary.org/isbn/0273744704) - Helps you learn how to analyse and monitor your company's financial performance.
+*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://openlibrary.org/isbn/1422119157) - Allows you to fully understand how to use financial data to make better decisions for your business.
+*   [Algebraic Models for Accounting Systems](https://openlibrary.org/isbn/9814287113) - Advanced abstract algebra applied to the analysis of accounting systems.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Pricing / Usage-based Pricing
 
-*   [StripeMeter (⭐22)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
+*   [StripeMeter (⭐25)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
 
 ### Calculator / Market Research
 
@@ -18,7 +26,7 @@
 
 ### Invoice / Generators
 
-*   [Invoice Builder (⭐446)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
+*   [Invoice Builder (⭐460)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 *   [microinvoice (⭐147)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
 ### Payments / Electronic invoices
@@ -87,7 +95,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐9.8k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
+*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐9.9k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
 
 ### Accounting / Bookkeeping
 
@@ -95,16 +103,16 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐16k)](https://github.com/tigerbeetle/tigerbeetle) - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
-*   [Django Hordak (⭐270)](https://github.com/adamcharnock/django-hordak) - 🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.
+*   [TigerBeetle (⭐17k)](https://github.com/tigerbeetle/tigerbeetle) - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
+*   [Django Hordak (⭐271)](https://github.com/adamcharnock/django-hordak) - 🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.
 
 ### Invoice / Electronic invoices
 
-*   [GOBL (⭐286)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
+*   [GOBL (⭐294)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
 ### Business Intelligence / Tools
 
-*   [Apache Superset (⭐73k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
+*   [Apache Superset (⭐74k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -147,7 +155,7 @@
 
 ### Invoice / Generators
 
-*   [klirr (⭐131)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐134)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
 
@@ -239,7 +247,7 @@
 
 ### Business Intelligence / Tools
 
-*   [Meltano (⭐2.5k)](https://github.com/meltano/meltano) - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
+*   [Meltano (⭐2.6k)](https://github.com/meltano/meltano) - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
 
 ### Competitive Analysis / Cloud providers
 
@@ -254,7 +262,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [CGRateS (⭐502)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
+*   [CGRateS (⭐508)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -272,7 +280,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [Darts (⭐9.4k)](https://github.com/unit8co/darts) - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐9.5k)](https://github.com/unit8co/darts) - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -306,12 +314,6 @@
 ### Accounting / Bookkeeping
 
 *   [So, you want to learn Bookkeeping!](https://www.dwmbeancounter.com/BCTutorials/BCIntro/index.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
-
-### Finance / Currencies
-
-*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?\&linkCode=ll1\&tag=kevideld-20\&linkId=f491ee18c48fdaf3226904a39612cc22\&language=en_US\&ref_=as_li_ss_tl) - Helps you learn how to analyse and monitor your company's financial performance.
-*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://www.amazon.com/dp/1422119157?\&linkCode=ll1\&tag=kevideld-20\&linkId=8d87e9235a1a05c4e0bec4b25230f28d\&language=en_US\&ref_=as_li_ss_tl) - Allows you to fully understand how to use financial data to make better decisions for your business.
-*   [Algebraic Models for Accounting Systems](https://www.amazon.com/dp/9814287113?\&linkCode=ll1\&tag=kevideld-20\&linkId=3d8973d09f9143db8db8639615d12413\&language=en_US\&ref_=as_li_ss_tl) - Advanced abstract algebra applied to the analysis of accounting systems.
 
 ### Payments / Electronic invoices
 
@@ -408,7 +410,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐509)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐510)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -542,7 +544,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐172)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐173)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Business Intelligence / Metrics
 
@@ -565,7 +567,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐299)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐302)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 ### Payments / Bank Accounts
@@ -585,7 +587,7 @@
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   🆓 A list of graphical accounting tools, all community-maintained OSS without paid editions: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐4.7k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
+*   [Frappe Books (⭐4.9k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
 *   [Luca (⭐72)](https://github.com/brandon-rhodes/luca) - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
 ### Accounting / Software design and implementation
@@ -596,8 +598,8 @@
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐181)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
-*   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
+*   [InvoiceGenerator (⭐183)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+*   [Ruby Invoicing Framework (⭐266)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
 
@@ -688,7 +690,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐107k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐108k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Payments / Bank Accounts
 
@@ -751,7 +753,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐196)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
+*   [Swift Codes Repository (⭐199)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
 
 ### Fraud / Billing
 
@@ -806,7 +808,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐100)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐102)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 

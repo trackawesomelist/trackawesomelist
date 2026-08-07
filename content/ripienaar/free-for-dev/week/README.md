@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
+### APIs, Data, and ML
+
+*   [AnyHook](https://anyhook.net) - Inbound webhook relay: point a Stripe, GitHub or LINE bot webhook at it and it stores each event before delivering to your handler, retries automatically when your endpoint is down, and keeps a log you can replay from. Endpoints can be created from the API with no account. Free plan includes 3,000 events/month, 1 app, 3 retries and 3 days of retention, no credit card.
+
 ### Email
 
 *   [ZeroSMTP (⭐1)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
@@ -88,7 +92,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) - Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
 *   [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
-*   [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
+*   [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projects and unlimited status pages.
 *   [pingbreak.com](https://pingbreak.com/) - Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
 *   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
 *   [pingpong.one](https://pingpong.one/) - Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
@@ -695,7 +699,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
+*   [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product includes 25k spans and ingestion volume of 1gb per month.
 *   [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
 
@@ -1172,7 +1176,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
+*   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes every time the page is reloaded. It is entirely free and does not include any pricing for their services.
 
 ### Feature Toggles Management Platforms
 

@@ -2,9 +2,68 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 692 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 703 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Aug 07, 2026](/content/2026/08/07/README.md)
+
+### iOS
+
+*   [*iOS 26 Programming for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-us/product/ios-26-programming-for-beginners-9781806023936)
+*   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://link.springer.com/book/10.1007/979-8-8688-2323-7)
+*   [*Hacking with iOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-ios)
+*   [*Advanced iOS: Volume One* by Paul Hudson](https://www.hackingwithswift.com/store/advanced-ios-1)
+*   [*Everything but the Code* by Paul Hudson](https://www.hackingwithswift.com/store/everything-but-the-code)
+
+### Swift
+
+*   [*Mastering Swift 6* by Jon Hoffman](https://www.packtpub.com/en-us/product/mastering-swift-6-9781836203698)
+*   [*Understanding Swift* by Paul Hudson](https://www.hackingwithswift.com/store/understanding-swift)
+*   [*Guide to Swift Numbers* by Flight School (Matt)](https://flightdotschool.com/books/numbers/)
+
+### UI
+
+*   [*Developing Inclusive Mobile Apps* by Rob Whitaker](https://link.springer.com/book/10.1007/979-8-8688-2809-6)
+
+### SwiftUI
+
+*   [*Pro SwiftUI* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swiftui)
+*   [*SwiftUI Animations by Tutorials* by Bill Morefield, Irina Galata](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
+*   [*Animating SwiftUI Applications* by Stephen DeStefano](https://www.packtpub.com/en-us/product/animating-swiftui-applications-9781803232669)
+
+### Architecture
+
+*   [*Real-World iOS Development* by Avi Tsadok](https://link.springer.com/book/10.1007/979-8-8688-2815-7)
+
+### Multithreading
+
+*   [*Swift Concurrency by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swift-concurrency-by-example)
+
+### Data Structures and Algorithms
+
+*   [*Data Structures and Algorithms in Swift* by Elshad Karimov](https://link.springer.com/book/10.1007/978-1-4842-5769-2)
+
+### Database
+
+*   [*Unleash Core Data* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-8211-3)
+
+### Machine Learning
+
+*   [*Apple Foundation Models* by Bill Morefield](https://www.kodeco.com/books/apple-foundation-models)
+
+### Testing
+
+*   [*Test-Driven iOS Development with Swift, Fourth Edition* by Dr. Dominik Hauser](https://www.packtpub.com/en-us/product/test-driven-ios-development-with-swift-9781803232485)
+*   [*Pro iOS Testing* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-6382-2)
+
+### tvOS
+
+*   [*Hacking with tvOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-tvos)
+
+### Interview
+
+*   [*Swift Interview Challenges* by Paul Hudson](https://www.hackingwithswift.com/store/swift-interview-challenges)
 
 ## [Jul 27, 2026](/content/2026/07/27/README.md)
 
@@ -257,12 +316,6 @@
 *   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 
-## [May 15, 2026](/content/2026/05/15/README.md)
-
-### iOS
-
-*   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
-
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### SwiftUI
@@ -403,12 +456,6 @@
 
 *   [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 
-## [Mar 21, 2021](/content/2021/03/21/README.md)
-
-### iOS
-
-*   [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
-
 ## [Mar 20, 2021](/content/2021/03/20/README.md)
 
 ### iOS
@@ -456,12 +503,6 @@
 ### 🇷🇺 Russian books
 
 *   [*Нативная разработка мобильных приложений. Перекрестный справочник для iOS и Android* - Льюис Шон, Данн Майк](https://www.ozon.ru/product/nativnaya-razrabotka-mobilnyh-prilozheniy-perekrestnyy-spravochnik-dlya-ios-i-android-lyuis-shon-174626896/#section-description--offset-80)
-
-## [Mar 10, 2021](/content/2021/03/10/README.md)
-
-### Testing
-
-*   [*Test-Driven iOS Development with Swift 4* by Dr. Dominik Hauser](https://www.amazon.com/gp/product/B076PJQY34/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
 
 ## [Jun 10, 2020](/content/2020/06/10/README.md)
 
@@ -701,12 +742,6 @@
 ### SwiftUI
 
 *   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
-
-## [Jun 02, 2019](/content/2019/06/02/README.md)
-
-### Swift
-
-*   [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
 
 ## [May 29, 2019](/content/2019/05/29/README.md)
 

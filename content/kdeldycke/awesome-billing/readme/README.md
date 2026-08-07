@@ -175,9 +175,9 @@ The dynamic scheme for elastic resources.
 
 *   [Lago (⭐10k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
-*   [StripeMeter (⭐22)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
+*   [StripeMeter (⭐25)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
 
-*   [CGRateS (⭐502)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
+*   [CGRateS (⭐508)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ### Subscription Plans
 
@@ -255,9 +255,9 @@ Help your customers predict their upcoming and future consumption based on their
 
 *   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
 
-*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐9.8k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
+*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐9.9k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
 
-*   [Darts (⭐9.4k)](https://github.com/unit8co/darts) - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐9.5k)](https://github.com/unit8co/darts) - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 *   [Komiser (⭐4.1k)](https://github.com/mlabouardy/komiser) - 💸 Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations. Tailwarden sells a hosted SaaS on top.
 
@@ -271,7 +271,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
-*   [Papers we love: Auctions and Bidding (⭐107k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐108k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 *   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
@@ -349,11 +349,11 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
 
-*   [Frappe Books (⭐4.7k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
+*   [Frappe Books (⭐4.9k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
 
 *   [Luca (⭐72)](https://github.com/brandon-rhodes/luca) - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
-*   [Go DB Ledger (⭐509)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐510)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 *   [Formance Ledger (⭐1.3k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
@@ -365,9 +365,9 @@ Now that you're somewhat familiar with the concepts and practice of accounting, 
 
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 
-*   [TigerBeetle (⭐16k)](https://github.com/tigerbeetle/tigerbeetle) - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
+*   [TigerBeetle (⭐17k)](https://github.com/tigerbeetle/tigerbeetle) - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
 
-*   [Django Hordak (⭐270)](https://github.com/adamcharnock/django-hordak) - 🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.
+*   [Django Hordak (⭐271)](https://github.com/adamcharnock/django-hordak) - 🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.
 
 *   [Managed accounts for Django (⭐215)](https://github.com/django-oscar/django-oscar-accounts) - 🆓 A 'managed account' is an allocation of money that can be debited and credited. Community-maintained django-oscar extension.
 
@@ -385,15 +385,15 @@ Once you've got your accounts in order, you can start extracting insights and me
 
 <!--lint ignore balanced-punctuation-->
 
-*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?\&linkCode=ll1\&tag=kevideld-20\&linkId=f491ee18c48fdaf3226904a39612cc22\&language=en_US\&ref_=as_li_ss_tl) - Helps you learn how to analyse and monitor your company's financial performance.
+*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://openlibrary.org/isbn/0273744704) - Helps you learn how to analyse and monitor your company's financial performance.
 
 *   [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
 
-*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://www.amazon.com/dp/1422119157?\&linkCode=ll1\&tag=kevideld-20\&linkId=8d87e9235a1a05c4e0bec4b25230f28d\&language=en_US\&ref_=as_li_ss_tl) - Allows you to fully understand how to use financial data to make better decisions for your business.
+*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://openlibrary.org/isbn/1422119157) - Allows you to fully understand how to use financial data to make better decisions for your business.
 
 *   [What is FinOps](https://www.finops.org/introduction/what-is-finops/) - A framework for tech finance and business leadership teams to share the same language and processes of cloud operations and management.
 
-*   [Algebraic Models for Accounting Systems](https://www.amazon.com/dp/9814287113?\&linkCode=ll1\&tag=kevideld-20\&linkId=3d8973d09f9143db8db8639615d12413\&language=en_US\&ref_=as_li_ss_tl) - Advanced abstract algebra applied to the analysis of accounting systems.
+*   [Algebraic Models for Accounting Systems](https://openlibrary.org/isbn/9814287113) - Advanced abstract algebra applied to the analysis of accounting systems.
 
 ## Contracts
 
@@ -429,7 +429,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 *   [2017 Tax Software Developer's Guides](https://web.archive.org/web/20240227073911/https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐100)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐102)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 *   [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - List of countries requiring application of taxes on foreign provided online services.
 
@@ -475,17 +475,17 @@ Once issued, an invoice must be immutable.
 
 ### Generators
 
-*   [Invoice Builder (⭐446)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
+*   [Invoice Builder (⭐460)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 
 *   [InvoicePlane (⭐3.1k)](https://github.com/InvoicePlane/InvoicePlane) - 🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
 
-*   [klirr (⭐131)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐134)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
-*   [InvoiceGenerator (⭐181)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+*   [InvoiceGenerator (⭐183)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
 
 *   [microinvoice (⭐147)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
-*   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
+*   [Ruby Invoicing Framework (⭐266)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Extractors
 
@@ -497,11 +497,11 @@ Once issued, an invoice must be immutable.
 
 *   [EU eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+HUB) - European standard on electronic invoice.
 
-*   [Factur-X (⭐299)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐302)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
-*   [GOBL (⭐286)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
+*   [GOBL (⭐294)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
 ## Payments
 
@@ -559,7 +559,7 @@ The old-fashioned way of payment: by the way of banks.
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
 
-*   [Swift Codes Repository (⭐196)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
+*   [Swift Codes Repository (⭐199)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
 
 *   [EPC QR code](https://en.wikipedia.org/wiki/EPC_QR_code) - EU standard for QR codes used to transfer money between bank accounts via SEPA.
 
@@ -627,7 +627,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 *   [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-*   [Awesome Credit Modeling (⭐172)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐173)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Statistics
 
@@ -731,9 +731,9 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 *   [`redash`](https://github.com/getredash/redash) - 🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.
 
-*   [Apache Superset (⭐73k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
+*   [Apache Superset (⭐74k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
-*   [Meltano (⭐2.5k)](https://github.com/meltano/meltano) - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
+*   [Meltano (⭐2.6k)](https://github.com/meltano/meltano) - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
 
 ## Competitive Analysis
 
@@ -791,5 +791,5 @@ The [header image (⭐1.3k)](https://github.com/kdeldycke/awesome-billing/blob/m
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1]</a>: [*Sapiens: A Brief History of Humankind*](https://www.amazon.com/dp/0062316095?_encoding=UTF8\&psc=1\&linkCode=ll1\&tag=kevideld-20\&linkId=71ccb002da0dbe49c502954960175b66\&language=en_US\&ref_=as_li_ss_tl) (Harper, 2015). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1]</a>: [*Sapiens: A Brief History of Humankind*](https://openlibrary.org/isbn/0062316095) (Harper, 2015). [\[↑\]](#intro-quote-ref)
 
