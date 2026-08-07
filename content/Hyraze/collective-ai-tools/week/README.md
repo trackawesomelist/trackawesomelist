@@ -20,6 +20,10 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser. `#free`
 
+### HealthCare
+
+*   [Cortexa](https://cortexanote.com/en/scribe/) - AI medical scribe that generates reviewable clinical notes, with a free tier for unlimited transcription and an optional clip-on recorder. `#freemium`
+
 ### Human Resources
 
 *   [Jobvetta](https://www.jobvetta.com/) - MCP server and API for searching current India jobs from official employer career pages by keyword, location, and posting age. `#free`
@@ -27,6 +31,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Video
 
 *   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
+*   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 

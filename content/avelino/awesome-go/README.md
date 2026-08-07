@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 07, 2026](/content/2026/08/07/README.md)
+
+### Web Frameworks
+
+*   [Goshtoso (⭐20)](https://github.com/araihu/goshtoso) - Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.
+
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares
@@ -111,13 +117,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [LAN Orangutan (⭐447)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+*   [LAN Orangutan (⭐496)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
 
 ## [Jul 19, 2026](/content/2026/07/19/README.md)
 
 ### Third-party APIs
 
-*   [httpsms-go (⭐14)](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
+*   [httpsms-go (⭐15)](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
 *   [lemonsqueezy-go (⭐88)](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
 
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
@@ -204,7 +210,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [LightCMS (⭐23)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+*   [LightCMS (⭐26)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 
 ## [Jul 03, 2026](/content/2026/07/03/README.md)
 
@@ -322,7 +328,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Markup Languages
 
-*   [picoloom (⭐83)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
+*   [picoloom (⭐84)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
@@ -2747,7 +2753,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [config-file-validator (⭐509)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐512)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [Mar 10, 2024](/content/2024/03/10/README.md)
 
@@ -3096,7 +3102,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐272)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐274)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -5773,7 +5779,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gosms (⭐1.5k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐108)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐435)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐356)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐357)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐833)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐449)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐274)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
@@ -6627,7 +6633,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Rodent (⭐33)](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 *   [s3-proxy (⭐480)](https://github.com/oxyno-zeta/s3-proxy) - S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth).
 *   [s3gof3r (⭐1.1k)](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
-*   [s5cmd (⭐4.1k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+*   [s5cmd (⭐4.2k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 *   [Scaleway-cli (⭐986)](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).
 *   [script (⭐7k)](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go for DevOps and system administration tasks.
 *   [sg (⭐8)](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.

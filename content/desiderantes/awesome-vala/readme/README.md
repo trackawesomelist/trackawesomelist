@@ -2,7 +2,7 @@
 
 A curated list of Vala projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/desiderantes/awesome-vala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desiderantes/awesome-vala](https://github.com/vala-lang/awesome-vala) · ⭐ 207 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/desiderantes/awesome-vala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desiderantes/awesome-vala](https://github.com/vala-lang/awesome-vala) · ⭐ 227 · 🏷️ Programming Languages
 
 [ [Daily](/content/desiderantes/awesome-vala/README.md) / [Weekly](/content/desiderantes/awesome-vala/week/README.md) / Overview ]
 
@@ -56,24 +56,24 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Design Tools
 
 *   [Akira (⭐5.3k)](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
-*   [Birdfont (⭐512)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+*   [Birdfont (⭐550)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
 *   [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
-*   [Kangaroo (⭐421)](https://github.com/dbkangaroo/kangaroo) - AI-powered SQL client and admin tool for popular databases.
+*   [Kangaroo (⭐514)](https://github.com/dbkangaroo/kangaroo) - AI-powered SQL client and admin tool for popular databases.
 *   [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
 ### Games
 
-*   [GameHub (⭐2.6k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+*   [GameHub (⭐2.8k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 *   [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 *   [Sage (⭐10)](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
-*   [Warble (⭐88)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
+*   [Warble (⭐89)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
 
 ### Internet Browsers
 
-*   [Starfish (⭐30)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
+*   [Starfish (⭐35)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
 
 ### Music
 
@@ -85,34 +85,34 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-*   [Annotator (⭐262)](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
-*   [Badger (⭐53)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
+*   [Annotator (⭐275)](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
+*   [Badger (⭐54)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
 *   [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
-*   [Dino (⭐2.4k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
-*   [Flowtime (⭐128)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+*   [Dino (⭐2.5k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+*   [Flowtime (⭐133)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
 *   [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 *   [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
 *   [graphui (⭐21)](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
-*   [Ideogram (⭐92)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
-*   [Minder (⭐1.1k)](https://github.com/phase1geo/Minder) - Mind-mapping application.
-*   [Notejot (⭐410)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-*   [Notes-up (⭐631)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+*   [Ideogram (⭐93)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+*   [Minder (⭐1.2k)](https://github.com/phase1geo/Minder) - Mind-mapping application.
+*   [Notejot (⭐415)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+*   [Notes-up (⭐632)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
 *   [Outliner (⭐63)](https://github.com/phase1geo/Outliner) - Write outlines easily.
 *   [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
-*   [pdfpc (⭐1.7k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
-*   [Planify (⭐4.7k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
-*   [Spice-up (⭐608)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
-*   [TextShine (⭐21)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
+*   [pdfpc (⭐1.9k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+*   [Planify (⭐5.5k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
+*   [Spice-up (⭐605)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+*   [TextShine (⭐19)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
 *   [TextSnatcher (⭐1.4k)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ### System Tools
 
 *   [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
-*   [elementary OS App Center (⭐547)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
+*   [elementary OS App Center (⭐556)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
 *   [Man Helper (⭐11)](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
-*   [Monitor (⭐339)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
+*   [Monitor (⭐361)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
 *   [Peek (⭐11k)](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
-*   [SwayNotifiationCenter (⭐2.1k)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
+*   [SwayNotifiationCenter (⭐2.6k)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 ### Virtualization
 
@@ -126,18 +126,19 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 *   [EasyDocs (⭐7)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
 *   [Spider (⭐1)](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
-*   [Valdo (⭐54)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+*   [Valdo (⭐56)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+*   [Vamposer (⭐1)](https://github.com/ValaTux/vamposer) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
 
 ## Editor Plugins
 
-*   [Vala VSCode (⭐43)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+*   [Vala VSCode (⭐47)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
 *   [Vala-TMBundle (⭐21)](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 *   [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 *   [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ## Language Servers
 
-*   [vala-language-server (⭐313)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
+*   [vala-language-server (⭐332)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ## Libraries
 
@@ -155,7 +156,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Data Structures & Data Types
 
-*   [Graphene (⭐411)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+*   [Graphene (⭐432)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 *   [Libgee](https://gitlab.gnome.org/GNOME/libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 *   [Numeric-GLib (⭐8)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 *   [United (⭐11)](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
@@ -170,7 +171,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 *   [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
 *   [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
 *   [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
-*   [GRX (⭐19)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+*   [GRX (⭐21)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
 *   [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
 *   [live-chart (⭐79)](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
 *   [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Bindings are included in Vala and will be available starting with Vala 0.52.
@@ -189,7 +190,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Numerical Computation
 
-*   [balistica (⭐12)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐60)](https://github.com/fusilero/balistica).
+*   [balistica (⭐12)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐67)](https://github.com/fusilero/balistica).
 *   [vast (⭐11)](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ### Templating

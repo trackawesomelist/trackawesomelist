@@ -664,6 +664,7 @@ Use these hashtags in search to filter out the tools
 
 ## HealthCare
 
+*   [Cortexa](https://cortexanote.com/en/scribe/) - AI medical scribe that generates reviewable clinical notes, with a free tier for unlimited transcription and an optional clip-on recorder. `#freemium`
 *   [Enlitic](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
 *   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
@@ -1161,6 +1162,7 @@ Use these hashtags in search to filter out the tools
 *   [Veed Background](https://www.veed.io/tools/background-remover) - Online background removal and green-screen. `#free`
 *   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
 *   [Video Ocean](https://videoocean.com/) - Text-to-video scene simulation platform. `#free`
+*   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
 *   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
 *   [Vidu](https://www.vidu.studio/) - Long-duration video large model (Tsinghua). `#free`
 *   [Viggle](https://viggle.ai/) - Driven by 3D basic model to move characters. `#free`

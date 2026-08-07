@@ -6,6 +6,16 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Aug 07, 2026](/content/2026/08/07/README.md)
+
+### HealthCare
+
+*   [Cortexa](https://cortexanote.com/en/scribe/) - AI medical scribe that generates reviewable clinical notes, with a free tier for unlimited transcription and an optional clip-on recorder. `#freemium`
+
+### Video
+
+*   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
+
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Crypto

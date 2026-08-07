@@ -1,0 +1,69 @@
+# Awesome List Updates on Aug 07, 2026
+
+6 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### HealthCare
+
+*   [Cortexa](https://cortexanote.com/en/scribe/) - AI medical scribe that generates reviewable clinical notes, with a free tier for unlimited transcription and an optional clip-on recorder. `#freemium`
+
+### Video
+
+*   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
+
+## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+
+### Documentation, Knowledge & Learning
+
+*   [Agentic Workflow Patterns (⭐287)](https://github.com/ThibautMelen/agentic-workflow-patterns) by [ThibautMelen](https://github.com/ThibautMelen) - A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.\ <img src="https://img.shields.io/github/created-at/ThibautMelen/agentic-workflow-patterns?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ThibautMelen/agentic-workflow-patterns?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ThibautMelen/agentic-workflow-patterns?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ThibautMelen/agentic-workflow-patterns?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Claude Code Handbook](https://nikiforovall.blog/claude-code-rules/) by [nikiforovall](https://github.com/nikiforovall) - Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins
+*   [Claude Code Repos Index (⭐519)](https://github.com/danielrosehill/Claude-Code-Repos-Index) by [Daniel Rosehill](https://github.com/danielrosehill) - This is either the work of a prolific genius, or a very clever bot (or both), although it hardly matters because the quality is so good - an index of 75+ Claude Code repositories published by the author - and I'm not talking about slop. CMS, system design, deep research, IoT, agentic workflows, server management, personal health... If you spot the lie, let me know, otherwise please check these out.\ <img src="https://img.shields.io/github/created-at/danielrosehill/Claude-Code-Repos-Index?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/danielrosehill/Claude-Code-Repos-Index?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/danielrosehill/Claude-Code-Repos-Index?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/danielrosehill/Claude-Code-Repos-Index?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Claude Code System Prompts (⭐12k)](https://github.com/Piebald-AI/claude-code-system-prompts) by [Piebald AI](https://github.com/Piebald-AI) - All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.\ <img src="https://img.shields.io/github/created-at/Piebald-AI/claude-code-system-prompts?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Piebald-AI/claude-code-system-prompts?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Piebald-AI/claude-code-system-prompts?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Piebald-AI/claude-code-system-prompts?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [claude-code-docs (⭐50)](https://github.com/costiash/claude-code-docs) by [Constantin Shafranski](https://github.com/costiash) - A mirror of the Anthropic\&copy; PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - up-to-the-minute, fully-indexed information so that Claude Code can read about itself.\ <img src="https://img.shields.io/github/created-at/costiash/claude-code-docs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/costiash/claude-code-docs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/costiash/claude-code-docs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/costiash/claude-code-docs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Encyclopedia of Agentic Coding Patterns](https://aipatternbook.com) by [Wolf McNally](https://github.com/wolfmcnally) - A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
+*   [learn-faster-kit (⭐345)](https://github.com/cheukyin175/learn-faster-kit) by [Hugo Lau](https://github.com/cheukyin175) - A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.\ <img src="https://img.shields.io/github/created-at/cheukyin175/learn-faster-kit?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/cheukyin175/learn-faster-kit?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/cheukyin175/learn-faster-kit?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/cheukyin175/learn-faster-kit?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Agent Orchestration / Obsidian
+
+*   [AB Method (⭐181)](https://github.com/ayoubben18/ab-method) by [Ayoub Bensalah](https://github.com/ayoubben18) - A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.\ <img src="https://img.shields.io/github/created-at/ayoubben18/ab-method?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ayoubben18/ab-method?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ayoubben18/ab-method?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ayoubben18/ab-method?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Harness (⭐8.6k)](https://github.com/revfactory/harness) by [revfactory](https://github.com/revfactory) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.\ <img src="https://img.shields.io/github/created-at/revfactory/harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/revfactory/harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/revfactory/harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/revfactory/harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Project Workflow System (⭐330)](https://github.com/harperreed/dotfiles/tree/master/.claude/commands) by [harperreed](https://github.com/harperreed) - A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.\ <img src="https://img.shields.io/github/created-at/harperreed/dotfiles?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/harperreed/dotfiles?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/harperreed/dotfiles?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/harperreed/dotfiles?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [RIPER Workflow (⭐91)](https://github.com/tony/claude-code-riper-5) by [Tony Narlock](https://tony.sh) - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.\ <img src="https://img.shields.io/github/created-at/tony/claude-code-riper-5?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/tony/claude-code-riper-5?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/tony/claude-code-riper-5?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/tony/claude-code-riper-5?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Agent Orchestration / Ralph Wiggum
+
+*   [Ralph Wiggum Plugin (⭐140k)](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum) by [Anthropic PBC](https://github.com/anthropics) - The official Anthropic implementation of the Ralph Wiggum technique for iterative, self-referential AI development loops in Claude Code.\ <img src="https://img.shields.io/github/created-at/anthropics/claude-code?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/anthropics/claude-code?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/anthropics/claude-code?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [ralph-orchestrator (⭐3.1k)](https://github.com/mikeyobrien/ralph-orchestrator) by [mikeyobrien](https://github.com/mikeyobrien) - Ralph Orchestrator implements the simple but effective "Ralph Wiggum" technique for autonomous task completion, continuously running an AI agent against a prompt file until the task is marked as complete or limits are reached. This implementation provides a robust, well-tested, and feature-complete orchestration system for AI-driven development. Also cited in the Anthropic Ralph plugin documentation.\ <img src="https://img.shields.io/github/created-at/mikeyobrien/ralph-orchestrator?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/mikeyobrien/ralph-orchestrator?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/mikeyobrien/ralph-orchestrator?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## [3. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+### CLI Tools / Weather
+
+*   [Vamposer (⭐1)](https://github.com/ValaTux/vamposer) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Web Frameworks
+
+*   [Goshtoso (⭐20)](https://github.com/araihu/goshtoso) - Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.
+
+## [5. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Tools / Software / Color / Palettes
+
+*   🎉 [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact palette from any sprite or image, export to GPL, ASE or hex. \[[Source (⭐0)](https://github.com/pixelpixi/spritewright)]
+
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Python / Neural Networks
+
+*   [fenn (⭐79)](https://github.com/pyfenn/fenn) - A simple Python framework for building ML/DL workflows and LLM agents faster, with prebuilt trainers, agent templates, logging, configuration management, and much more.
+
+---
+
+- Next: [Aug 06, 2026](/content/2026/08/06/README.md)
