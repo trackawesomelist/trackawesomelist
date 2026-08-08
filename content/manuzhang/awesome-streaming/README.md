@@ -6,6 +6,12 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ Daily / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Aug 08, 2026](/content/2026/08/08/README.md)
+
+### Table of Contents / Streaming Engine
+
+*   [Wingfoil (⭐199)](https://github.com/wingfoil-io/wingfoil) \[Rust/Python/TypeScript] - Graph based stream processing engine for latency-critical systems such as electronic trading and real-time AI. The same calculation graph runs in interpreted, compiled or hybrid mode.
+
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
 ### Table of Contents / Online Machine Learning

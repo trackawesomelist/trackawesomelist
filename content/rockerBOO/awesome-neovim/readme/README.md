@@ -336,7 +336,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [neolooong/whichpy.nvim (⭐35)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 *   [nvim-java/nvim-java (⭐1.7k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 *   [clang-engineer/jvm-env.nvim (⭐4)](https://github.com/clang-engineer/jvm-env.nvim) - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
-*   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+*   [artur-shaik/jc.nvim (⭐59)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
 *   [kiyoon/python-import.nvim (⭐62)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
 *   [kiyoon/haskell-scope-highlighting.nvim (⭐30)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting which considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 *   [apyra/nvim-unity.nvim (⭐120)](https://github.com/apyra/nvim-unity) - Editor support for Unity with full LSP support via OmniSharp.
@@ -430,6 +430,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Prgebish/sigil.nvim (⭐35)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 *   [satozawa/graft.nvim (⭐11)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 *   [kibi2/tirenvi.nvim (⭐39)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 <!--lint disable double-link -->
 
@@ -588,7 +589,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [camspiers/snap (⭐508)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐4.4k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 *   [willyelm/pulse.nvim (⭐35)](https://github.com/willyelm/pulse.nvim) - A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers.
-*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [nvim-mini/mini.nvim#mini.fuzzy (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐408)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 *   [linrongbin16/fzfx.nvim (⭐152)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
@@ -890,7 +891,7 @@ then it is not supported:
 *   [ankushbhagats/pastel.nvim (⭐36)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐11)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 *   [hyperb1iss/silkcircuit (⭐55)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
-*   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐22)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐19)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
 *   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
@@ -1345,7 +1346,7 @@ then it is not supported:
 *   [wsdjeg/code-runner.nvim (⭐6)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 *   [mikeboiko/nvim-flow (⭐7)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 *   [negativo/nx-nvim (⭐5)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
-*   [lewistg/pesto.nvim (⭐4)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 *   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 *   [JulOuellet/bzl.nvim (⭐2)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 
@@ -1546,7 +1547,7 @@ then it is not supported:
 *   [chrisgrieser/nvim-recorder (⭐288)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 *   [sontungexpt/bim.nvim (⭐13)](https://github.com/sontungexpt/bim.nvim) - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 *   [folke/which-key.nvim (⭐7.2k)](https://github.com/folke/which-key.nvim) - Shows a popup with possible keybindings of the command you started typing.
-*   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 *   [nvim-mini/mini.nvim#mini.clue (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 *   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 *   [Iron-E/nvim-cartographer (⭐54)](https://github.com/Iron-E/nvim-cartographer) - A more convenient `:map`ping syntax for Lua environments.
@@ -1929,7 +1930,7 @@ then it is not supported:
 *   [gisketch/triforce.nvim (⭐300)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [QuentinGruber/pomodoro.nvim (⭐49)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 *   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
-*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
+*   [raymondware/focusmode.nvim (⭐3)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 *   [gaborvecsei/usage-tracker.nvim (⭐144)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your usage and visualize statistics easily.
 *   [SunnyTamang/pendulum.nvim (⭐14)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 *   [ptdewey/pendulum-nvim (⭐113)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.

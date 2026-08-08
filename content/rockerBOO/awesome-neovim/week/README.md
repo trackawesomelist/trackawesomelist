@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
@@ -59,11 +63,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+*   [artur-shaik/jc.nvim (⭐59)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix
@@ -76,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ### Editing Support / Scrollbar
 
@@ -84,7 +88,7 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Stats Tracking
 
-*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
+*   [raymondware/focusmode.nvim (⭐3)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -141,7 +145,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [lewistg/pesto.nvim (⭐4)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -4925,7 +4929,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Markdown and LaTeX
 
-*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

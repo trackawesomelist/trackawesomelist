@@ -205,6 +205,7 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 *   [polars-bloomberg (⭐20)](https://github.com/MarekOzana/polars-bloomberg) - Polars plugin that extracts Bloomberg’s financial data directly into polars.DataFrame by [@MarekOzana](https://github.com/MarekOzana).
 *   [jquantstats (⭐42)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github.com/tschm).
 *   [polars-backtest (⭐12)](https://github.com/Yvictor/polars_backtest_extension) - Polars extension for high-performance portfolio backtesting with Rust, Arrow, T+1 execution, and trade reports by [@Yvictor](https://github.com/Yvictor).
+*   [quantwave (⭐8)](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
 
 #### Networking
 

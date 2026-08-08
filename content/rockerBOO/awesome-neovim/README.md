@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 08, 2026](/content/2026/08/08/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
 ### Colorscheme / Markdown and LaTeX
@@ -88,7 +94,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [artur-shaik/jc.nvim (⭐50)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+*   [artur-shaik/jc.nvim (⭐59)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -96,19 +102,19 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Stats Tracking
 
-*   [raymondware/focusmode.nvim (⭐1)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
+*   [raymondware/focusmode.nvim (⭐3)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 
 ## [Jul 22, 2026](/content/2026/07/22/README.md)
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐50)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐51)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -186,7 +192,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [lewistg/pesto.nvim (⭐4)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
@@ -5880,7 +5886,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Markdown and LaTeX
 
-*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐370)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

@@ -200,6 +200,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-compile (⭐20)](https://github.com/alexekdahl/tmux-compile) Run compile commands directly inside tmux with automatic pane handling.
 *   [tmux-command-palette (⭐40)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
 *   [tmux-copytk (⭐72)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+*   [tmux-ctrl (⭐0)](https://github.com/MunifTanjim/tmux-ctrl) Control tmux from the command line: session navigation, pane moving, and token extraction.
 *   [tmux-devcontainers (⭐23)](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)\[<https://containers.dev>]
 *   [tmux-easy-motion (⭐105)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 *   [tmux-easymotion (⭐52)](https://github.com/ddzero2c/tmux-easymotion) EasyMotion-like plugin with pane jumping capabilities in tmux.
@@ -225,7 +226,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-jump (⭐478)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 *   [tmux-power-zoom (⭐63)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 *   [tmux-scout (⭐27)](https://github.com/qeesung/tmux-scout) A tmux plugin for monitoring and navigating AI coding sessions.
-*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide).
 *   [tmux-simple-git-status (⭐32)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 *   [tmux-spotify (⭐127)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 *   [tmux-spotify-playlists (⭐25)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists

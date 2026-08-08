@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 08, 2026](/content/2026/08/08/README.md)
+
+### Security
+
+*   [deidentify (⭐38)](https://github.com/aliengiraffe/deidentify) - Deterministic, format-preserving removal of personally identifiable information from text and structured data.
+
 ## [Aug 07, 2026](/content/2026/08/07/README.md)
 
 ### Project Layout
@@ -2641,7 +2647,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Selenium and browser control tools
 
 *   [chromedp (⭐13k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
-*   [playwright-go (⭐3.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
+*   [playwright-go (⭐3.5k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
 *   [rod (⭐7k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
 
 ### Third-party APIs

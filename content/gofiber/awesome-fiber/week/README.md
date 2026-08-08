@@ -6,6 +6,12 @@
 
 [ [Daily](/content/gofiber/awesome-fiber/README.md) / Weekly / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
+
+### ⚙️ Middlewares / ‍💻 Contrib
+
+*   [prometheus (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/prometheus) - Middleware that instruments incoming requests and serves a metrics endpoint for Prometheus.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core

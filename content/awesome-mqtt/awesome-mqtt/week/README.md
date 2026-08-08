@@ -12,6 +12,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 *   [Keel MQTT Gateway (⭐1)](https://github.com/keel-iot/keel-mqtt-gateway) - Distributed, cloud-native MQTT broker in Go built on mochi-mqtt, using Raft for strongly-consistent session ownership and ACL, with a gossip-backed routing table (Olric).
 
+### Tools
+
+*   [LazyMQTT (⭐2)](https://github.com/ScottFelder/lazymqtt) - A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices

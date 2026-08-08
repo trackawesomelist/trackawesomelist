@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Aug 08, 2026](/content/2026/08/08/README.md)
+
+### Tools
+
+*   [LazyMQTT (⭐2)](https://github.com/ScottFelder/lazymqtt) - A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.
+
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
 ### Brokers

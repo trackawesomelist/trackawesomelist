@@ -8,6 +8,10 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
+### Table of Contents / Streaming Engine
+
+*   [Wingfoil (⭐199)](https://github.com/wingfoil-io/wingfoil) \[Rust/Python/TypeScript] - Graph based stream processing engine for latency-critical systems such as electronic trading and real-time AI. The same calculation graph runs in interpreted, compiled or hybrid mode.
+
 ### Table of Contents / Online Machine Learning
 
 *   [CapyMOA (⭐140)](https://github.com/adaptive-machine-learning/CapyMOA) \[Python] - Efficient machine learning for data streams, covering classification, regression, clustering, anomaly detection, semi-supervised learning, online continual learning and drift detection.

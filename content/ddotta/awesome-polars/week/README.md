@@ -16,6 +16,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [Blog posts from Polars](https://pola.rs/posts/) - Official blogs posts from Polars.
 
+### Polars plugins / Finance
+
+*   [quantwave (⭐8)](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
+
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
 ### Polars plugins / AI

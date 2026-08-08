@@ -32,6 +32,7 @@ A list of awesome resources for tmux
 
 *   [dwm.tmux (⭐190)](https://github.com/saysjonathan/dwm.tmux) dwm-inspired tiling pane and window manager for Tmux.
 *   [tmux-agent-view (⭐0)](https://github.com/luopeixiang/tmux-agent-view) Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.
+*   [tmux-ctrl (⭐0)](https://github.com/MunifTanjim/tmux-ctrl) Control tmux from the command line: session navigation, pane moving, and token extraction.
 *   [tmux-palette (⭐394)](https://github.com/eduwass/tmux-palette) Raycast-style command palette with fuzzy search, custom commands, themes, and aliases via JSON config.
 *   [tmux-scout (⭐27)](https://github.com/qeesung/tmux-scout) A tmux plugin for monitoring and navigating AI coding sessions.
 
@@ -468,7 +469,7 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 

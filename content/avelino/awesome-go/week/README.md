@@ -15,6 +15,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [acme-proxy (⭐53)](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
+*   [deidentify (⭐38)](https://github.com/aliengiraffe/deidentify) - Deterministic, format-preserving removal of personally identifiable information from text and structured data.
 
 ### Web Frameworks
 
@@ -2292,7 +2293,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Selenium and browser control tools
 
 *   [chromedp (⭐13k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
-*   [playwright-go (⭐3.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
+*   [playwright-go (⭐3.5k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
 *   [rod (⭐7k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
 
 ### Third-party APIs

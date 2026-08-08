@@ -66,6 +66,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
     Mesos, designed for high performance data processing jobs that require flexibility & control.
 *   [Trill (⭐1.3k)](https://github.com/Microsoft/trill) \[.NET/C#] - Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
 *   [Wallaroo (⭐1.5k)](https://github.com/WallarooLabs/wallaroo) \[Python] - A fast, stream-processing framework. Wallaroo makes it easy to react to data in real-time. By eliminating infrastructure complexity, going from prototype to production has never been simpler.
+*   [Wingfoil (⭐199)](https://github.com/wingfoil-io/wingfoil) \[Rust/Python/TypeScript] - Graph based stream processing engine for latency-critical systems such as electronic trading and real-time AI. The same calculation graph runs in interpreted, compiled or hybrid mode.
 *   [LightSaber (⭐74)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 *   [HStreamDB (⭐721)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.7k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.

@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Aug 08, 2026](/content/2026/08/08/README.md)
+
+### Plugins
+
+*   [tmux-ctrl (⭐0)](https://github.com/MunifTanjim/tmux-ctrl) Control tmux from the command line: session navigation, pane moving, and token extraction.
+
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
 ### Cheat Sheets
@@ -499,7 +505,7 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐258)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐82k)](https://github.com/junegunn/fzf) & [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [May 27, 2022](/content/2022/05/27/README.md)
 
