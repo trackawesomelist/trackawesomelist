@@ -151,118 +151,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Rebyte](https://rebyte.ai/) - Low-code AI employee platform for configuring agents with prompts, MCP tools, permissions, APIs, and shareable Sites/Blocks.
 
-#### [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-##### Projects / AI Gateway
-
-*   [agentgateway (⭐4.2k) (⭐4.2k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
-*   [Bifrost (⭐7k) (⭐6.9k)](https://github.com/maximhq/bifrost) - A high-performance AI gateway written in Go that unifies more than 20 model providers behind a single OpenAI-compatible API, with failover, load balancing, semantic caching, and governance.
-*   [Docker MCP Gateway (⭐1.5k) (⭐1.5k)](https://github.com/docker/mcp-gateway) - Runs MCP servers as isolated containers with restricted privileges and managed secrets, exposing them to AI clients through one gateway endpoint.
-*   [Envoy AI Gateway (⭐1.9k) (⭐1.9k)](https://github.com/envoyproxy/ai-gateway) - An open-source gateway built on Envoy Proxy to manage request traffic from application clients to GenAI services with unified API access and usage limits.
-*   [IBM ContextForge (⭐4.2k) (⭐4.3k)](https://github.com/IBM/mcp-context-forge) - An AI gateway, registry, and proxy that federates MCP, A2A, and REST services behind a single endpoint with governance and observability.
-*   [MCPJungle (⭐1.1k) (⭐1.2k)](https://github.com/mcpjungle/MCPJungle) - A self-hosted MCP gateway and registry that centralises multiple MCP servers behind one endpoint for AI agents.
-*   [Obot (⭐922) (⭐923)](https://github.com/obot-platform/obot) - An open-source MCP platform that combines server hosting, a registry, a gateway, and a chat client with access control and audit logging.
-
-##### Projects / API Management
-
-*   [Gravitee.io API Management (⭐437) (⭐438)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-
-##### Projects / API Design
-
-*   [Kiota (⭐3.7k) (⭐3.8k)](https://github.com/microsoft/kiota) - A command-line generator from Microsoft that turns an OpenAPI description into a lightweight, strongly typed API client in many languages.
-
-##### Projects / API Documentation
-
-*   [Zudoku (⭐571) (⭐567)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
-
-##### Projects / API Gateway
-
-*   [Higress (⭐9k) (⭐9k)](https://github.com/higress-group/higress) - A next-generation cloud-native gateway based on Envoy and Istio, offering high performance, easy-to-use, and rich plugin extensibility.
-*   [kgateway (⭐5.6k) (⭐5.6k)](https://github.com/kgateway-dev/kgateway) - A CNCF Envoy-based, Kubernetes-native API gateway built around the Kubernetes Gateway API, and the successor to the Gloo open-source project.
-*   [KrakenD API Gateway (⭐2.6k) (⭐2.7k)](https://github.com/krakend/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
-
-##### Projects / Change Data Capture
-
-*   [IBM Data Replication](https://www.ibm.com/products/data-replication) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
-*   [Sequin (⭐2.1k) (⭐2.2k)](https://github.com/sequinstream/sequin) - PostgreSQL change data capture platform that streams row-level changes to Kafka, SQS, Redis, NATS, RabbitMQ, HTTP endpoints, and search indexes with exactly-once processing.
-
-##### Projects / Data Integration
-
-*   [dlt (⭐5.7k) (⭐5.7k)](https://github.com/dlt-hub/dlt) - Open-source Python library for building data pipelines as code, with schema evolution and incremental loading out of the box.
-*   [Estuary Flow (⭐960) (⭐959)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
-*   [Sling (⭐883) (⭐883)](https://github.com/slingdata-io/sling-cli) - Fast ELT command-line tool and Go library for moving data between databases, files, and cloud storage across a wide set of connectors.
-
-##### Projects / Enterprise Service Bus
-
-*   [WSO2 Integrator: MI (⭐257) (⭐257)](https://github.com/wso2/product-integrator-mi) - The configuration-driven integration runtime of the WSO2 Integrator platform, supporting enterprise integration patterns in centralised and containerised deployments.
-
-##### Projects / Integration Platform as a Service
-
-*   [Boomi Enterprise Platform](https://boomi.com/platform) - Cloud-native, intelligent platform that connects systems effortlessly while automating integration processes.
-*   [Camel K (⭐926) (⭐925)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
-*   [Tray.ai](https://tray.ai/) - Low-code automation platform with a drag-and-drop interface, making it simple to build scalable integrations and workflows.
-
-##### Projects / Message Broker
-
-*   [Apache ActiveMQ Artemis (⭐1k) (⭐1k)](https://github.com/apache/activemq-artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
-*   [Eclipse Mosquitto (⭐11k) (⭐11k)](https://github.com/eclipse-mosquitto/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
-*   [LavinMQ (⭐985) (⭐982)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
-
-##### Projects / Schema Registry
-
-*   [Apicurio Registry (⭐895) (⭐895)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
-*   [Karapace (⭐625) (⭐625)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
-
-##### Projects / Self-Service Integration
-
-*   [n8n (⭐199k) (⭐199k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
-
-##### Projects / Stream Processing
-
-*   [ksqlDB (⭐314) (⭐313)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
-*   [Numaflow (⭐2.8k) (⭐2.8k)](https://github.com/numaproj/numaflow) - Kubernetes-native, serverless platform for massively parallel stream and data processing, with exactly-once semantics and language-agnostic user code.
-
-##### Resources / API Specification
-
-*   [Arazzo Specification (⭐455) (⭐455)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
-
-##### Resources / Data Formats
-
-*   [Apache Arrow (⭐16k) (⭐17k)](https://github.com/apache/arrow) - Language-agnostic columnar in-memory format for fast data interchange, including the Arrow IPC format and Flight RPC for moving data between systems.
-*   [Apache Fory (⭐4.4k) (⭐4.4k)](https://github.com/apache/fory) - Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.
-*   [YAML (⭐496) (⭐491)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-#### [18. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [17. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Projects / Serialization
 
 *   [msgspec (⭐4k)](https://github.com/msgspec/msgspec) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
 
-#### [19. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [18. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Fundamentals / Linters
 
 *   [mstdokumaci/zsort (⭐10)](https://github.com/mstdokumaci/zsort) - Import sorter/organizer with pre-commit hook support.
 
-#### [20. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [19. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Libraries / C#/.NET
 
 *   [FluentStorage (⭐454)](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
 
-#### [21. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+#### [20. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ##### Contents / Components
 
 *   [I18n Micro (⭐246)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 
-#### [22. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+#### [21. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ##### Software / Middlewares
 
 *   [DeviceChain (⭐2)](https://github.com/devicechain-io/devicechain) - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes, with MQTT, Sparkplug B and LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine driving alarms and outbound connectors (webhooks, MQTT, Kafka, cloud queues), versioned dashboards, and GraphQL APIs. ([Docs](https://docs.devicechain.io))
 
-#### [23. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [22. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Visual Testing
 
@@ -272,31 +191,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
 
-#### [24. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+#### [23. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ##### Projects / Automation, Manufacturing, and Robotics
 
 *   [JPL Open Source Rover (⭐9.6k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 
-#### [25. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+#### [24. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ##### Tools / Editors
 
 *   [Draw!](https://pixel.drawbang.com) - Editor for creating tiny GIF animations. Open source and free, works in the browser.
 
-#### [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### Python / Neural Networks
 
 *   [fenn (⭐79)](https://github.com/pyfenn/fenn) - A simple Python framework for building ML/DL workflows and LLM agents faster, with prebuilt trainers, agent templates, logging, configuration management, and much more.
 
-#### [27. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+#### [26. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ##### CLI Tools / Weather
 
 *   [Vamposer (⭐1)](https://github.com/ValaTux/vamposer) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
 
-#### [28. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [27. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Documentation, Knowledge & Learning
 
@@ -329,7 +248,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CC Harness (⭐45)](https://github.com/lookfree/cc-harness) by [lookfree](https://github.com/lookfree) - Desktop workbench that reads Claude Code session files locally and renders the subagent and workflow topology as a live graph, with per-node latency, token cost, and nesting depth. Token spend is broken down by source (base session, skills, subagents, MCP) and can be traced from a cost bucket to the exact message that produced it.\ <img src="https://img.shields.io/github/created-at/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/lookfree/cc-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-#### [29. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+#### [28. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ##### iOS
 
@@ -388,7 +307,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [*Swift Interview Challenges* by Paul Hudson](https://www.hackingwithswift.com/store/swift-interview-challenges)
 
-#### [30. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+#### [29. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ##### Finance / Currencies
 
@@ -396,13 +315,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://openlibrary.org/isbn/1422119157) - Allows you to fully understand how to use financial data to make better decisions for your business.
 *   [Algebraic Models for Accounting Systems](https://openlibrary.org/isbn/9814287113) - Advanced abstract algebra applied to the analysis of accounting systems.
 
-#### [31. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+#### [30. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ##### Dates and Time
 
 *   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://openlibrary.org/isbn/0316491705).
 
-#### [32. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+#### [31. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ##### Genomics
 
@@ -413,7 +332,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Genomics 2 Proteins portal](https://g2p.broadinstitute.org/) - A platform for connecting genomic data to protein sequence and protein structure.
 *   [pdb2print](https://pdb2print.org) - Convert a PDB structure into a 3D-printable 3MF file, with one object per chain, magnet pockets and custom display stands.
 
-#### [33. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [32. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -435,13 +354,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [shergin/malevich (⭐55)](https://github.com/shergin/malevich) \[[malevich](https://crates.io/crates/malevich)] - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes
 
-#### [34. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+#### [33. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ##### ⚙️ Middlewares / ‍💻 Contrib
 
 *   [prometheus (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/prometheus) - Middleware that instruments incoming requests and serves a metrics endpoint for Prometheus.
 
-#### [35. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+#### [34. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ##### Table of Contents / Streaming Engine
 
@@ -451,7 +370,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CapyMOA (⭐140)](https://github.com/adaptive-machine-learning/CapyMOA) \[Python] - Efficient machine learning for data streams, covering classification, regression, clustering, anomaly detection, semi-supervised learning, online continual learning and drift detection.
 
-#### [36. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [35. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Cheat Sheets
 
@@ -485,7 +404,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [tmux 2: Productive Mouse-Free Development](https://pragprog.com/titles/bhtmux2/tmux-2/)
 
-#### [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / Markdown and LaTeX
 
@@ -509,7 +428,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [dmshvedchenko/persist.nvim (⭐4)](https://github.com/dmshvedchenko/persist.nvim) - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
 
-#### [38. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+#### [37. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ##### Dataset / Web
 
@@ -519,7 +438,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [IndieList](https://indielist.games/) - Indie game, studio, publisher, and funding relationship data with transparent sales estimates and market research tools.
 
-#### [39. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+#### [38. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ##### Brokers
 
@@ -529,7 +448,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LazyMQTT (⭐2)](https://github.com/ScottFelder/lazymqtt) - A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.
 
-#### [40. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [39. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Project Layout
 
@@ -548,13 +467,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [deadmono (⭐2)](https://github.com/arxeiss/deadmono) - Wrapper around deadcode for detection of dead code in Go monorepo.
 
-#### [41. Awesome V](/content/vlang/awesome-v/README.md)
+#### [40. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Command-line
 
 *   [oscall (⭐0)](https://github.com/tailsmails/oscall) - A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.
 
-#### [42. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [41. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Official news
 
@@ -568,7 +487,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [quantwave (⭐8)](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
 
-#### [43. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+#### [42. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ##### Engineering to Management Transition
 
@@ -595,39 +514,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [The 48 Laws of Power](https://openlibrary.org/isbn/0140280197) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 *   [7 Rules of Power](https://openlibrary.org/isbn/1637741227) - By Jeffery Pfeffer. Tells you [how to play office politics if success in the workplace is the only thing you care about](https://news.ycombinator.com/item?id=39084979).
 
-#### [44. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [AnyHook](https://anyhook.net) - Inbound webhook relay: point a Stripe, GitHub or LINE bot webhook at it and it stores each event before delivering to your handler, retries automatically when your endpoint is down, and keeps a log you can replay from. Endpoints can be created from the API with no account. Free plan includes 3,000 events/month, 1 app, 3 retries and 3 days of retention, no credit card.
-
-##### Testing
-
-*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
-
-##### Email
-
-*   [ZeroSMTP (⭐1)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
-
-##### Generative AI
-
-*   [Gonka Broker](https://gonkabroker.com/) - OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.
-
-##### Managed Data Services
-
-*   [Layerbase](https://layerbase.com/) - 2 free managed databases, pick from: Postgres, MariaDB, Redis, Valkey, DuckDB, SQLite, libSQL, and TypeDB. All with TLS. Branch 7 of 8 free engines, 1 branch per database - 10 GB/day, 50 GB/week, 150 GB/month throughput limits on free. 10 additional engines available on higher tiers with no meters.
-
-##### Design and UI
-
-*   [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
-*   [BrandIcons](https://brandicons.dev) - Favicon API. AI-based discovery for domains without icons or even without web servers. Free tier includes 500,000 requests per month with attribution.
-*   [SVGicons.com](https://svgicons.com/) - Free search engine for 312K+ open-source SVG icons with ready-to-use SVG, React, Vue, HTML, and CSS code.
-
-##### Remote Desktop Tools
-
-*   [Parsec](https://parsec.app/) - Free for installation on unlimited number of devices(for personal use) and allows up to 20 connections to a single device at once. (great for gaming/low latency work)
-
-#### [45. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+#### [43. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ##### LaTeX-focused
 
@@ -658,19 +545,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenTikZ (⭐239)](https://github.com/opentikz/opentikz) - Community library of copyable TikZ icons and editable, parametric templates for academic conceptual diagrams (system/architecture, pipelines, flowcharts); CC0 content, with a Claude Code skill to edit figures on request. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-#### [46. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Web Development / Web Frameworks
-
-*   [axadrn/shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) — UI components for Templ ☆`1,679`
-
-#### [47. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Audio & Video / Utilities
-
-*   [writingmate/aidictation (⭐34)](https://github.com/writingmate/aidictation) — Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. ☆`35`
-
-#### [48. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+#### [44. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ##### Agent Orchestration & CLI Tools
 
@@ -680,7 +555,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed macOS status companion for Gemini CLI, Claude Code, Codex, and Grok sessions. Shows local working, stalled, and your-turn state, and tracks provider usage without an Agent Island account or product telemetry.
 
-#### [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -693,7 +568,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [cobalt-spark (⭐19)](https://github.com/azhuchkov/cobalt-spark) - A compact, low-noise theme designed to stay out of the way during everyday terminal work. Includes abbreviated paths and concise indicators for Git state, virtualenvs, nested shells and background jobs.
 *   [litmus (⭐0)](https://github.com/dceoy/litmus-zsh-theme) - Connection-aware colors: prompt turns cyan on local sessions and magenta over SSH, so you always know where you are, includes decorators for datetime, `git` status, root status indicator, exit status of last command and user\@host.
 
-#### [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Database Management
 
@@ -728,14 +603,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [BugPin](https://bugpin.io) - Visual bug reporting and ticketing tool for web applications. ([Source Code (⭐24)](https://github.com/aranticlabs/bugpin)) `AGPL-3.0/MIT` `Docker`
 
-#### [51. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+#### [47. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ##### Drug Perturbation
 
 *   [CellOT (⭐178)](https://github.com/bunnech/cellot) — Neural optimal transport framework for predicting single-cell responses to drug and genetic perturbations.
 *   [CMonge (⭐19)](https://github.com/AI4SCR/conditional-monge-gap) — Conditional optimal transport model for generalizable single-cell perturbation response prediction across drugs and doses.
 
-#### [52. Public Apis](/content/public-apis/public-apis/README.md)
+#### [48. Public Apis](/content/public-apis/public-apis/README.md)
 
 ##### Anime
 
@@ -1207,7 +1082,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [53. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [49. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -1237,7 +1112,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Plonk (⭐1)](https://github.com/ostapondo/plonk) - Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ostapondo/plonk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [54. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [50. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### Copywriting
 
@@ -1268,6 +1143,157 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Faceless Reels](https://facelessreels.video/) - Turns a topic into a voiced, captioned faceless video for TikTok and Shorts. `#freemium`
 *   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
 
+#### [51. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [AnyHook](https://anyhook.net) - Inbound webhook relay: point a Stripe, GitHub or LINE bot webhook at it and it stores each event before delivering to your handler, retries automatically when your endpoint is down, and keeps a log you can replay from. Endpoints can be created from the API with no account. Free plan includes 3,000 events/month, 1 app, 3 retries and 3 days of retention, no credit card.
+
+##### Testing
+
+*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
+
+##### Email
+
+*   [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
+*   [ZeroSMTP (⭐1)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
+
+##### Generative AI
+
+*   [Gonka Broker](https://gonkabroker.com/) - OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.
+
+##### Managed Data Services
+
+*   [Layerbase](https://layerbase.com/) - 2 free managed databases, pick from: Postgres, MariaDB, Redis, Valkey, DuckDB, SQLite, libSQL, and TypeDB. All with TLS. Branch 7 of 8 free engines, 1 branch per database - 10 GB/day, 50 GB/week, 150 GB/month throughput limits on free. 10 additional engines available on higher tiers with no meters.
+
+##### Design and UI
+
+*   [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
+*   [BrandIcons](https://brandicons.dev) - Favicon API. AI-based discovery for domains without icons or even without web servers. Free tier includes 500,000 requests per month with attribution.
+*   [SVGicons.com](https://svgicons.com/) - Free search engine for 312K+ open-source SVG icons with ready-to-use SVG, React, Vue, HTML, and CSS code.
+
+##### Remote Desktop Tools
+
+*   [Parsec](https://parsec.app/) - Free for installation on unlimited number of devices(for personal use) and allows up to 20 connections to a single device at once. (great for gaming/low latency work)
+
+#### [52. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / AI Gateway
+
+*   [agentgateway (⭐4.2k) (⭐4.2k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
+*   [Bifrost (⭐7k) (⭐6.9k)](https://github.com/maximhq/bifrost) - A high-performance AI gateway written in Go that unifies more than 20 model providers behind a single OpenAI-compatible API, with failover, load balancing, semantic caching, and governance.
+*   [Docker MCP Gateway (⭐1.5k) (⭐1.5k)](https://github.com/docker/mcp-gateway) - Runs MCP servers as isolated containers with restricted privileges and managed secrets, exposing them to AI clients through one gateway endpoint.
+*   [Envoy AI Gateway (⭐1.9k) (⭐1.9k)](https://github.com/envoyproxy/ai-gateway) - An open-source gateway built on Envoy Proxy to manage request traffic from application clients to GenAI services with unified API access and usage limits.
+*   [IBM ContextForge (⭐4.2k) (⭐4.3k)](https://github.com/IBM/mcp-context-forge) - An AI gateway, registry, and proxy that federates MCP, A2A, and REST services behind a single endpoint with governance and observability.
+*   [MCPJungle (⭐1.1k) (⭐1.2k)](https://github.com/mcpjungle/MCPJungle) - A self-hosted MCP gateway and registry that centralises multiple MCP servers behind one endpoint for AI agents.
+*   [Obot (⭐922) (⭐923)](https://github.com/obot-platform/obot) - An open-source MCP platform that combines server hosting, a registry, a gateway, and a chat client with access control and audit logging.
+
+##### Projects / API Management
+
+*   [Gravitee.io API Management (⭐437) (⭐438)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+
+##### Projects / API Design
+
+*   [Kiota (⭐3.7k) (⭐3.8k)](https://github.com/microsoft/kiota) - A command-line generator from Microsoft that turns an OpenAPI description into a lightweight, strongly typed API client in many languages.
+
+##### Projects / API Documentation
+
+*   [Zudoku (⭐571) (⭐567)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+##### Projects / API Gateway
+
+*   [Higress (⭐9k) (⭐9k)](https://github.com/higress-group/higress) - A next-generation cloud-native gateway based on Envoy and Istio, offering high performance, easy-to-use, and rich plugin extensibility.
+*   [kgateway (⭐5.6k) (⭐5.6k)](https://github.com/kgateway-dev/kgateway) - A CNCF Envoy-based, Kubernetes-native API gateway built around the Kubernetes Gateway API, and the successor to the Gloo open-source project.
+*   [KrakenD API Gateway (⭐2.6k) (⭐2.7k)](https://github.com/krakend/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
+
+##### Projects / Change Data Capture
+
+*   [IBM Data Replication](https://www.ibm.com/products/data-replication) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
+*   [Sequin (⭐2.1k) (⭐2.2k)](https://github.com/sequinstream/sequin) - PostgreSQL change data capture platform that streams row-level changes to Kafka, SQS, Redis, NATS, RabbitMQ, HTTP endpoints, and search indexes with exactly-once processing.
+
+##### Projects / Data Integration
+
+*   [dlt (⭐5.7k) (⭐5.7k)](https://github.com/dlt-hub/dlt) - Open-source Python library for building data pipelines as code, with schema evolution and incremental loading out of the box.
+*   [Estuary Flow (⭐960) (⭐959)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+*   [Sling (⭐883) (⭐883)](https://github.com/slingdata-io/sling-cli) - Fast ELT command-line tool and Go library for moving data between databases, files, and cloud storage across a wide set of connectors.
+
+##### Projects / Enterprise Service Bus
+
+*   [WSO2 Integrator: MI (⭐257) (⭐257)](https://github.com/wso2/product-integrator-mi) - The configuration-driven integration runtime of the WSO2 Integrator platform, supporting enterprise integration patterns in centralised and containerised deployments.
+
+##### Projects / Integration Platform as a Service
+
+*   [Boomi Enterprise Platform](https://boomi.com/platform) - Cloud-native, intelligent platform that connects systems effortlessly while automating integration processes.
+*   [Camel K (⭐926) (⭐925)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+*   [Tray.ai](https://tray.ai/) - Low-code automation platform with a drag-and-drop interface, making it simple to build scalable integrations and workflows.
+
+##### Projects / Message Broker
+
+*   [Apache ActiveMQ Artemis (⭐1k) (⭐1k)](https://github.com/apache/activemq-artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
+*   [Eclipse Mosquitto (⭐11k) (⭐11k)](https://github.com/eclipse-mosquitto/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
+*   [LavinMQ (⭐985) (⭐982)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+##### Projects / Schema Registry
+
+*   [Apicurio Registry (⭐895) (⭐895)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
+*   [Karapace (⭐625) (⭐625)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
+
+##### Projects / Self-Service Integration
+
+*   [n8n (⭐199k) (⭐199k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+##### Projects / Stream Processing
+
+*   [ksqlDB (⭐314) (⭐313)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
+*   [Numaflow (⭐2.8k) (⭐2.8k)](https://github.com/numaproj/numaflow) - Kubernetes-native, serverless platform for massively parallel stream and data processing, with exactly-once semantics and language-agnostic user code.
+
+##### Resources / API Specification
+
+*   [Arazzo Specification (⭐455) (⭐455)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
+
+##### Resources / Data Formats
+
+*   [Apache Arrow (⭐16k) (⭐17k)](https://github.com/apache/arrow) - Language-agnostic columnar in-memory format for fast data interchange, including the Arrow IPC format and Flight RPC for moving data between systems.
+*   [Apache Fory (⭐4.4k) (⭐4.4k)](https://github.com/apache/fory) - Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.
+*   [YAML (⭐496) (⭐491)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+#### [53. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+
+##### Tools / Plugins
+
+*   [gatling-kafka-extension (⭐5)](https://github.com/kbdering/GatlingMessaging) - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
+
+#### [54. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Web Development / Web Frameworks
+
+*   [axadrn/shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) — UI components for Templ ☆`1,685`
+
+#### [55. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Audio & Video / Utilities
+
+*   [writingmate/aidictation (⭐34)](https://github.com/writingmate/aidictation) — Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. ☆`36`
+
+#### [56. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+
+##### Platforms
+
+*   [NotFair (⭐3.3k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+*   [Aeon (⭐625)](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
+
+##### Frameworks
+
+*   [agent-kit (⭐4)](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
+
+##### Standards and Specifications
+
+*   [Agent Passport System (APS)](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) - IETF Internet-Draft specifying verifiable agent identity, faceted authority that can only attenuate across seven constraint dimensions, deterministic action and decision references, and a common envelope for signed action receipts. Defines bindings for MCP tool calls and imported OAuth identity-assertion grants.
+
+##### Research and Papers
+
+*   [ClawBench (⭐554)](https://github.com/reacher-z/ClawBench) - Live-site benchmark for evaluating browser agents on everyday online workflows.
+
 ---
 
 - Next: [Aug 03 - Aug 09, 2026](&#x2F;content&#x2F;2026&#x2F;31&#x2F;README.md)
@@ -1278,7 +1304,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 311K 📝 08&#x2F;09) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 311K 📝 08&#x2F;05) - An opinionated list of Python frameworks, libraries, tools, and resources
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 179K 📝 08&#x2F;08) - A curated list of awesome Go frameworks, libraries and software
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 131K 📝 08&#x2F;08) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 131K 📝 08&#x2F;09) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 109K 📝 08&#x2F;09) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 7. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74K 📝 08&#x2F;07) - A curated list of awesome Machine Learning frameworks, libraries and software.
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 59K 📝 08&#x2F;07) - A curated list of Rust code and resources.
@@ -1333,7 +1359,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Artificial Intelligence
 
-- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 93, 📝 07&#x2F;10 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
+- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 97, 📝 08&#x2F;09 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
 
 ### Back-End Development
 
@@ -1897,7 +1923,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 25&#x2F;03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 25&#x2F;06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 131K, 📝 08&#x2F;08 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 131K, 📝 08&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.3K, 📝 07&#x2F;24 ](https://github.com/tortuvshin/open-source-flutter-apps)) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
@@ -2086,7 +2112,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Api Clients](/content/stepci/awesome-api-clients/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;11 ](https://github.com/stepci/awesome-api-clients)) - List of awesome API clients. Postman and Insomnia alternatives
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 387, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
-- [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 79, 📝 06&#x2F;09 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
+- [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 80, 📝 08&#x2F;09 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 791, 📝 07&#x2F;01 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
 - [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 770, 📝 24&#x2F;08&#x2F;27 ](https://github.com/grafana/awesome-k6)) - A curated list of awesome tools, content and projects using k6
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;06 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright

@@ -1,18 +1,49 @@
 # Awesome List Updates on Aug 09, 2026
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+
+### Platforms
+
+*   [NotFair (⭐3.3k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+*   [Aeon (⭐625)](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
+
+### Frameworks
+
+*   [agent-kit (⭐4)](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
+
+### Standards and Specifications
+
+*   [Agent Passport System (APS)](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) - IETF Internet-Draft specifying verifiable agent identity, faceted authority that can only attenuate across seven constraint dimensions, deterministic action and decision references, and a common envelope for signed action receipts. Defines bindings for MCP tool calls and imported OAuth identity-assertion grants.
+
+### Research and Papers
+
+*   [ClawBench (⭐554)](https://github.com/reacher-z/ClawBench) - Live-site benchmark for evaluating browser agents on everyday online workflows.
+
+## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+
+### Tools / Plugins
+
+*   [gatling-kafka-extension (⭐5)](https://github.com/kbdering/GatlingMessaging) - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Email
+
+*   [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
+
+## [4. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### Resume
 
 *   [CVExpert](https://cvexpert.com/) - Free, no-sign-up CV health and CV–job keyword checks that run in the browser without uploading or saving pasted text. `#free`
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -22,7 +53,7 @@
 
 *   [Plonk (⭐1)](https://github.com/ostapondo/plonk) - Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ostapondo/plonk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Data Validation
 
@@ -232,14 +263,14 @@
 
 
 
-## [4. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Drug Perturbation
 
 *   [CellOT (⭐178)](https://github.com/bunnech/cellot) — Neural optimal transport framework for predicting single-cell responses to drug and genetic perturbations.
 *   [CMonge (⭐19)](https://github.com/AI4SCR/conditional-monge-gap) — Conditional optimal transport model for generalizable single-cell perturbation response prediction across drugs and doses.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Database Management
 
@@ -261,7 +292,7 @@
 
 *   [BugPin](https://bugpin.io) - Visual bug reporting and ticketing tool for web applications. ([Source Code (⭐24)](https://github.com/aranticlabs/bugpin)) `AGPL-3.0/MIT` `Docker`
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -272,7 +303,7 @@
 *   [adhde (⭐1)](https://github.com/Senderman/adhde-zsh-theme) - Includes decorators for user\@host, current directory, `git` status, last command status and datetime.
 *   [litmus (⭐0)](https://github.com/dceoy/litmus-zsh-theme) - Connection-aware colors: prompt turns cyan on local sessions and magenta over SSH, so you always know where you are, includes decorators for datetime, `git` status, root status indicator, exit status of last command and user\@host.
 
-## [7. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [10. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 

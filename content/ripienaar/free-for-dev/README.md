@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 09, 2026](/content/2026/08/09/README.md)
+
+### Email
+
+*   [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
+
 ## [Aug 08, 2026](/content/2026/08/08/README.md)
 
 ### Testing

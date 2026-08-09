@@ -294,6 +294,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CVExpert](https://cvexpert.com/) - Free, no-sign-up CV health and CV–job keyword checks that run in the browser without uploading or saving pasted text. `#free`
 
+#### [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Email
+
+*   [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
+
+#### [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+
+##### Tools / Plugins
+
+*   [gatling-kafka-extension (⭐5)](https://github.com/kbdering/GatlingMessaging) - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
+
+#### [10. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+
+##### Platforms
+
+*   [NotFair (⭐3.3k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+*   [Aeon (⭐625)](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
+
+##### Frameworks
+
+*   [agent-kit (⭐4)](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
+
+##### Standards and Specifications
+
+*   [Agent Passport System (APS)](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) - IETF Internet-Draft specifying verifiable agent identity, faceted authority that can only attenuate across seven constraint dimensions, deterministic action and decision references, and a common envelope for signed action receipts. Defines bindings for MCP tool calls and imported OAuth identity-assertion grants.
+
+##### Research and Papers
+
+*   [ClawBench (⭐554)](https://github.com/reacher-z/ClawBench) - Live-site benchmark for evaluating browser agents on everyday online workflows.
+
 ### [Aug 08, 2026](/content/2026/08/08/README.md)
 
 
@@ -356,7 +387,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [quantwave (⭐8)](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
 
-#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Design and Product / Design Tools
+
+*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joshlin2201/itspaint) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Testing
 
@@ -373,12 +410,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Design and UI
 
 *   [BrandIcons](https://brandicons.dev) - Favicon API. AI-based discovery for domains without icons or even without web servers. Free tier includes 500,000 requests per month with attribution.
-
-#### [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Design and Product / Design Tools
-
-*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joshlin2201/itspaint) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### [Aug 07, 2026](/content/2026/08/07/README.md)
 
@@ -557,19 +588,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [The 48 Laws of Power](https://openlibrary.org/isbn/0140280197) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 *   [7 Rules of Power](https://openlibrary.org/isbn/1637741227) - By Jeffery Pfeffer. Tells you [how to play office politics if success in the workplace is the only thing you care about](https://news.ycombinator.com/item?id=39084979).
 
-#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [AnyHook](https://anyhook.net) - Inbound webhook relay: point a Stripe, GitHub or LINE bot webhook at it and it stores each event before delivering to your handler, retries automatically when your endpoint is down, and keeps a log you can replay from. Endpoints can be created from the API with no account. Free plan includes 3,000 events/month, 1 app, 3 retries and 3 days of retention, no credit card.
-
-#### [13. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Web Development / Web Frameworks
-
-*   [axadrn/shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) — UI components for Templ ☆`1,679`
-
-#### [14. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [12. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### HealthCare
 
@@ -578,6 +597,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Video
 
 *   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
+
+#### [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [AnyHook](https://anyhook.net) - Inbound webhook relay: point a Stripe, GitHub or LINE bot webhook at it and it stores each event before delivering to your handler, retries automatically when your endpoint is down, and keeps a log you can replay from. Endpoints can be created from the API with no account. Free plan includes 3,000 events/month, 1 app, 3 retries and 3 days of retention, no credit card.
+
+#### [14. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Web Development / Web Frameworks
+
+*   [axadrn/shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) — UI components for Templ ☆`1,685`
 
 ---
 
@@ -589,7 +620,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 311K 📝 08&#x2F;09) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 311K 📝 08&#x2F;05) - An opinionated list of Python frameworks, libraries, tools, and resources
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 179K 📝 08&#x2F;08) - A curated list of awesome Go frameworks, libraries and software
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 131K 📝 08&#x2F;08) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 131K 📝 08&#x2F;09) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 109K 📝 08&#x2F;09) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 7. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74K 📝 08&#x2F;07) - A curated list of awesome Machine Learning frameworks, libraries and software.
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 59K 📝 08&#x2F;07) - A curated list of Rust code and resources.
@@ -644,7 +675,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Artificial Intelligence
 
-- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 93, 📝 07&#x2F;10 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
+- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 97, 📝 08&#x2F;09 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
 
 ### Back-End Development
 
@@ -1208,7 +1239,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 25&#x2F;03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 25&#x2F;06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 131K, 📝 08&#x2F;08 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 131K, 📝 08&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.3K, 📝 07&#x2F;24 ](https://github.com/tortuvshin/open-source-flutter-apps)) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
@@ -1397,7 +1428,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Api Clients](/content/stepci/awesome-api-clients/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;11 ](https://github.com/stepci/awesome-api-clients)) - List of awesome API clients. Postman and Insomnia alternatives
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 387, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
-- [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 79, 📝 06&#x2F;09 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
+- [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 80, 📝 08&#x2F;09 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 791, 📝 07&#x2F;01 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
 - [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 770, 📝 24&#x2F;08&#x2F;27 ](https://github.com/grafana/awesome-k6)) - A curated list of awesome tools, content and projects using k6
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;06 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
