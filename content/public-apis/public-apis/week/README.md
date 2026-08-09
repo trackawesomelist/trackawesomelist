@@ -97,11 +97,49 @@ A collective list of free APIs
 
 
 
+### Data Validation
+
+- API: [SchemaShield](https://rapidapi.com/kaiasistentedavid/api/schema-change-risk)
+
+  Description: Read-only preflight for breaking schema changes and downstream query impact
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
 ### Development
+
+- API: [AmberOne](https://scubamike124.github.io/amberone-api/)
+
+  Description: Turn any website into a build-ready Android, iOS, PWA or Electron app project
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [Cloudflare](https://developers.cloudflare.com/api/)
 
   Description: Manage DNS, CDN, Workers and other services; documented with an official OpenAPI 3.0 spec
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Diagrams.so](https://diagrams.so/developers)
+
+  Description: Generate editable draw\.io architecture diagrams from text or infrastructure code
 
   Auth: `apiKey`
 
@@ -126,6 +164,17 @@ A collective list of free APIs
   Description: Free auto-updating list of live-tested proxies (HTTP/HTTPS/SOCKS4/SOCKS5), refreshed every 6 h
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Utilorax](https://utilorax.com/api)
+
+  Description: 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -159,6 +208,17 @@ A collective list of free APIs
 
 
 ### Email
+
+- API: [AGPC Domain Check](https://guild.tradeuniquecapital.com/api)
+
+  Description: Check a domain's SPF, DKIM, DMARC and MX with a graded shareable report
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Mailtrap](https://mailtrap.io)
 
@@ -228,11 +288,36 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [Indian Mandi Prices](https://mandi-api.vercel.app/docs)
+
+  Description: Free, keyless daily wholesale mandi prices for 5 Indian states, sourced from data.gov.in
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Tollmint](https://api.tollmint.com)
 
   Description: Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [ERstat](https://erstat.ca/developers)
+
+  Description: Live Canadian emergency room closures and service disruptions, by province
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -253,6 +338,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Statlyte](https://statlyte.com/api)
+
+  Description: Live pricing, context windows and model ids for major LLM APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### News
 
@@ -265,6 +361,106 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Open Data
+
+- API: [EOSL](https://eosl.ai/api/)
+
+  Description: Hardware end-of-sale and end-of-service-life dates by part number, source-linked
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Registrum](https://api.registrum.co.uk/docs)
+
+  Description: UK company data: profiles, directors, PSC, iXBRL-parsed financials, ECCTA status
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Shopping
+
+- API: [Marketplace Fee Data](https://www.sellerscalc.com/data)
+
+  Description: Seller fee schedules for 21 e-commerce marketplaces and payment processors as JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [Publora](https://docs.publora.com)
+
+  Description: Publish and schedule posts to ten social networks from one endpoint
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [RedditAPIs](https://www.redditapis.com/)
+
+  Description: Reddit data API: subreddit listings, post/comment/community/user search, comment trees, top posts
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TweetAPI](https://tweetapi.com/docs)
+
+  Description: Public Twitter data for posts, profiles, followers, search, lists and communities
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [XFlux](https://www.xfluxapi.com/docs/api)
+
+  Description: Read X/Twitter profiles, search, timelines; account monitors with signed webhooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [Bet Better](https://betbetter.world/api/)
+
+  Description: Sports model win probabilities and fair odds across 13 leagues
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -2709,13 +2905,13 @@ A collective list of free APIs
 
 - API: [IBANforge](https://api.ibanforge.com)
 
-  Description: IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries
+  Description: IBAN validation and BIC/SWIFT lookup for 89 countries with 121k+ BIC entries
 
-  Auth: No
+  Auth: `apiKey`
 
   HTTPS: Yes
 
-  CORS: Yes
+  CORS: No
 
 
 
