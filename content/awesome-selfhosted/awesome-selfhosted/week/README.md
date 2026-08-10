@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
+
+### Software / Automation
+
+*   [Mylar3](https://mylar.nerdfirehurricane.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐98)](https://github.com/MylarComics/mylar3)) `GPL-3.0` `Python/Docker`
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Software / Database Management
@@ -30,7 +36,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Pastebins
 
-*   [1time](https://1time.io) - Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). ([Demo](https://1time.io), [Source Code (⭐37)](https://github.com/shingrus/1time)) `MIT` `Docker`
+*   [1time](https://1time.io) - Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). ([Demo](https://1time.io), [Source Code (⭐38)](https://github.com/shingrus/1time.io)) `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -175,7 +181,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Bichon (⭐1.8k)](https://github.com/rustmailer/bichon) - Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. `AGPL-3.0` `Rust/Docker`
+*   [Bichon (⭐1.9k)](https://github.com/rustmailer/bichon) - Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. `AGPL-3.0` `Rust/Docker`
 
 ### Software / Calendar & Contacts
 
@@ -1019,10 +1025,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [ERPNext](https://frappe.io/erpnext) - ERP system to help you run your business. ([Source Code (⭐38k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
-### Software / Self-hosting Solutions
-
-*   [CasaOS](https://casaos.zimaspace.com/) - Simple, easy-to-use, elegant Home Cloud system. ([Source Code (⭐37k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
-
 ### Software / Software Development - Project Management
 
 *   [gitbucket](https://gitbucket.github.io/) - Git platform powered with easy installation, high extensibility & GitHub API compatibility (alternative to GitHub). ([Source Code (⭐9.4k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
@@ -1816,10 +1818,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐214)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
-
-### Software / Automation
-
-*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐1.5k)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 

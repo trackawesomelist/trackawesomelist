@@ -2,9 +2,15 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 696 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 708 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/deanhume/typography/week/README.md) / [Overview](/content/deanhume/typography/readme/README.md) ]
+
+## [Aug 10, 2026](/content/2026/08/10/README.md)
+
+### Tools
+
+*   [What Font Finder - Identify a font from an image in the browser, with a confidence score and no upload.](https://whatfontfinder.com/font-identifier/)
 
 ## [Apr 21, 2026](/content/2026/04/21/README.md)
 
@@ -222,7 +228,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐787)](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐786)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 
 ## [Jul 21, 2015](/content/2015/07/21/README.md)

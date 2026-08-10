@@ -183,7 +183,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 
 *   [ArchiveBox](https://archivebox.io/) - Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ([Demo](https://demo.archivebox.io/), [Source Code (⭐28k)](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
 *   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐435)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
-*   [Bichon (⭐1.8k)](https://github.com/rustmailer/bichon) - Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. `AGPL-3.0` `Rust/Docker`
+*   [Bichon (⭐1.9k)](https://github.com/rustmailer/bichon) - Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. `AGPL-3.0` `Rust/Docker`
 *   [bitmagnet](https://bitmagnet.io) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐4.3k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 *   [CKAN](https://ckan.org) - Make open data websites. ([Source Code (⭐5.1k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 *   [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code (⭐382)](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`
@@ -228,7 +228,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) `⚠` - Follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads, Librarything and optionally GoogleBooks as sources for author info and book info. `GPL-3.0` `Python`
 *   [Leon](https://getleon.ai) - Personal assistant who can live on your server. ([Source Code (⭐17k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
 *   [Matchering (⭐2.6k)](https://github.com/sergree/matchering) - Automated music mastering (alternative to LANDR, eMastered and MajorDecibel). `GPL-3.0` `Docker`
-*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐1.5k)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
+*   [Mylar3](https://mylar.nerdfirehurricane.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐98)](https://github.com/MylarComics/mylar3)) `GPL-3.0` `Python/Docker`
 *   [OliveTin](https://www.olivetin.app/) - Web interface for running Linux shell commands. ([Source Code (⭐3.7k)](https://github.com/OliveTin/OliveTin)) `AGPL-3.0` `Go`
 *   [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code (⭐3.8k)](https://github.com/pyload/pyload)) `AGPL-3.0` `Python`
 *   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐6.5k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
@@ -1597,7 +1597,7 @@ A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows user
 
 A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text.
 
-*   [1time](https://1time.io) - Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). ([Demo](https://1time.io), [Source Code (⭐37)](https://github.com/shingrus/1time)) `MIT` `Docker`
+*   [1time](https://1time.io) - Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). ([Demo](https://1time.io), [Source Code (⭐38)](https://github.com/shingrus/1time.io)) `MIT` `Docker`
 *   [BinPastes (⭐18)](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. `Apache-2.0` `Java`
 *   [ByteStash (⭐2.5k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐2.5k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 *   [Chiyogami (⭐79)](https://github.com/rhee876527/chiyogami) - Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ([Demo](https://chiyogami.myaddr.dev/)) `BSD-3-Clause` `Docker`
@@ -1802,7 +1802,6 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_\(computing\)) is 
 
 Software for easy installation, management and configuration of self-hosted services and applications.
 
-*   [CasaOS](https://casaos.zimaspace.com/) - Simple, easy-to-use, elegant Home Cloud system. ([Source Code (⭐37k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 *   [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code (⭐6.2k)](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
 *   [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code (⭐2.6k)](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
 *   [Dropserver](https://dropserver.org) - An application platform for your personal web services. ([Source Code (⭐88)](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`

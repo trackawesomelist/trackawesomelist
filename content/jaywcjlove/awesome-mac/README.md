@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 10, 2026](/content/2026/08/10/README.md)
+
+### Education / Audio Record and Process
+
+*   [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
