@@ -6,9 +6,8 @@ Most commonly used git tips and tricks.
 
 [ [Daily](/content/git-tips/tips/README.md) / Weekly / [Overview](/content/git-tips/tips/readme/README.md) ]
 
-## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
-## Table of Contents
 ## Basic Operations
 
 ### List of all files till a commit
@@ -55,6 +54,12 @@ git push origin :refs/tags/<tag-name>
 
 ```sh
 git checkout -- <file_name>
+```
+
+**Alternatives:**
+
+```sh
+git restore <file_name>
 ```
 
 ### Reword the previous commit message
@@ -368,132 +373,41 @@ git clone --bare https://github.com/exampleuser/old-repository.git
 
 git push --mirror https://github.com/exampleuser/new-repository.git
 ```
-## Branching
 
-### List all branches that are already merged into master
+### Sparse checkout: clone only specific directories
 
 ```sh
-git branch --merged master
+git clone --filter=blob:none --sparse <url> && cd <repo> && git sparse-checkout set <dir1> <dir2>
 ```
 
-### Remove branches that have already been merged with master
+### Show output in columns
 
 ```sh
-git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
-```
-
-**Alternatives:**
-
-```sh
-git branch --merged master | grep -v '^\*\|  master' | xargs -n 1 git branch -d # will not delete master if master is not checked out
-```
-
-### List all branches and their upstreams, as well as last commit on branch
-
-```sh
-git branch -vv
-```
-
-### Track upstream branch
-
-```sh
-git branch -u origin/mybranch
-```
-
-### Delete local branch
-
-```sh
-git branch -d <local_branchname>
-```
-
-### Get list of all local and remote branches
-
-```sh
-git branch -a
-```
-
-### Get only remote branches
-
-```sh
-git branch -r
-```
-
-### Find out branches containing commit-hash
-
-```sh
-git branch -a --contains <commit-ish>
+git branch --column
 ```
 
 **Alternatives:**
 
 ```sh
-git branch --contains <commit-ish>
+git tag --column
 ```
 
-### Rename a branch
+### List worktrees
 
 ```sh
-git branch -m <new-branch-name>
+git worktree list
 ```
 
-**Alternatives:**
+### Remove a worktree
 
 ```sh
-git branch -m [<old-branch-name>] <new-branch-name>
-```
-
-### Archive the `master` branch
-
-```sh
-git archive master --format=zip --output=master.zip
-```
-
-### Delete local branches that has been squash and merged in the remote.
-
-```sh
-git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -D
-```
-
-### Export a branch with history to a file.
-
-```sh
-git bundle create <file> <branch-name>
-```
-
-### Get the name of current branch.
-
-```sh
-git rev-parse --abbrev-ref HEAD
-```
-
-### Show the most recent tag on the current branch.
-
-```sh
-git describe --tags --abbrev=0
-```
-
-### List all branch is WIP
-
-```sh
-git checkout master && git branch --no-merged
-```
-
-### Preformatted patch file.
-
-```sh
-git format-patch -M upstream..topic
-```
-
-### Switch to a branch (modern alternative to checkout)
-
-```sh
-git switch <branch-name>
+git worktree remove <path>
 ```
 
 **Alternatives:**
 
 ```sh
-git switch -c <new-branch-name>
+git worktree prune
 ```
 ## Log and History
 
@@ -776,6 +690,102 @@ git show
 ```sh
 git reflog
 ```
+
+### Compare two versions of a rebased branch
+
+```sh
+git range-diff <base>..<old-tip> <base>..<new-tip>
+```
+
+**Alternatives:**
+
+```sh
+git range-diff <rev1>...<rev2>
+```
+
+### Automate bisect with a test script
+
+```sh
+git bisect start <bad> <good> && git bisect run <script>
+```
+
+### Blame with line range
+
+```sh
+git blame -L <start>,<end> <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -L :'<funcname>' <file>
+```
+
+### Detect moved or copied lines in blame
+
+```sh
+git blame -M -C <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -C -C -C <file>
+```
+
+### Log with graph in oneline format
+
+```sh
+git log --oneline --graph --all --decorate
+```
+
+### Find commits where a file was deleted
+
+```sh
+git log --diff-filter=D --summary | grep delete
+```
+
+**Alternatives:**
+
+```sh
+git log --all --full-history -- <file>
+```
+
+### Show commit count per author per time period
+
+```sh
+git shortlog -sn --since='1 year ago'
+```
+
+**Alternatives:**
+
+```sh
+git shortlog -sne --all
+```
+
+### Verify commit signatures
+
+```sh
+git verify-commit <commit>
+```
+
+**Alternatives:**
+
+```sh
+git log --show-signature
+```
+
+### Show diff with word-level granularity using color
+
+```sh
+git diff --color-words
+```
+
+**Alternatives:**
+
+```sh
+git diff --word-diff=color
+```
 ## Merging and Rebasing
 
 ### Rebases 'feature' to 'master' and merges it in to master
@@ -813,80 +823,17 @@ git merge-base <branch-name> <other-branch-name>
 ```sh
 git rebase --onto <new_base> <old_base>
 ```
-## Miscellaneous
 
-### Everyday Git in twenty commands or so
+### Create a fixup commit and auto-squash
 
 ```sh
-git help everyday
+git commit --fixup=<commit> && git rebase -i --autosquash <commit>~1
 ```
 
-### Untrack files without deleting
+### Rebase interactively from the root commit
 
 ```sh
-git rm --cached <file_path>
-```
-
-**Alternatives:**
-
-```sh
-git rm --cached -r <directory_path>
-```
-
-### Don’t consider changes for tracked file.
-
-```sh
-git update-index --assume-unchanged <file_name>
-```
-
-### Check if the change was a part of a release.
-
-```sh
-git name-rev --name-only <SHA-1>
-```
-
-### List ignored files.
-
-```sh
-git check-ignore *
-```
-
-### Count unpacked number of objects and their disk consumption.
-
-```sh
-git count-objects --human-readable
-```
-
-### Prune all unreachable objects from the object database.
-
-```sh
-git gc --prune=now --aggressive
-```
-
-### Instantly browse your working repository in gitweb.
-
-```sh
-git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
-```
-
-### Find lines matching the pattern (regex or string) in tracked files
-
-```sh
-git grep --heading --line-number 'foo bar'
-```
-
-### Backup untracked files.
-
-```sh
-git ls-files --others -i --exclude-standard | xargs zip untracked.zip
-```
-
-### Send a collection of patches as emails
-
-```sh
-git send-email [<options>] <file|directory>…
-
-git send-email [<options>] <format-patch options>
+git rebase -i --root
 ```
 ## Remotes
 
@@ -930,6 +877,36 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ```sh
 git remote update origin --prune
+```
+
+### Create a bundle file for offline sharing
+
+```sh
+git bundle create <file>.bundle --all
+```
+
+**Alternatives:**
+
+```sh
+git bundle create <file>.bundle <branch-name>
+```
+
+### Clone from a bundle file
+
+```sh
+git clone <file>.bundle <directory>
+```
+
+### Partial clone: clone without blobs for faster fetch
+
+```sh
+git clone --filter=blob:none <url>
+```
+
+**Alternatives:**
+
+```sh
+git clone --filter=tree:0 <url>
 ```
 ## Setup and Config
 
@@ -1070,6 +1047,36 @@ git config --edit --global
 
 git config --edit --local
 ```
+
+### Enable background maintenance for faster operations
+
+```sh
+git maintenance start
+```
+
+**Alternatives:**
+
+```sh
+git maintenance run --task=gc
+```
+
+### Sign commits with SSH key instead of GPG
+
+```sh
+git config gpg.format ssh && git config user.signingkey ~/.ssh/id_ed25519.pub && git commit -S -m '<message>'
+```
+
+### Enable rerere to auto-resolve recurring merge conflicts
+
+```sh
+git config rerere.enabled true
+```
+
+### Set default branch name for new repos
+
+```sh
+git config --global init.defaultBranch main
+```
 ## Stashing
 
 ### Saving current state of tracked files without committing
@@ -1184,6 +1191,236 @@ git stash clear
 
 ```sh
 git stash drop <stash@{n}>
+```
+
+### Stash only unstaged changes
+
+```sh
+git stash push --keep-index
+```
+
+### Stash specific files
+
+```sh
+git stash push -m '<message>' <file1> <file2>
+```
+
+### Show a diffstat summary of a stash
+
+```sh
+git stash show --stat <stash@{n}>
+```
+
+**Alternatives:**
+
+```sh
+git stash show -p <stash@{n}>
+```
+
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+## Table of Contents
+## Branching
+
+### List all branches that are already merged into master
+
+```sh
+git branch --merged master
+```
+
+### Remove branches that have already been merged with master
+
+```sh
+git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
+```
+
+**Alternatives:**
+
+```sh
+git branch --merged master | grep -v '^\*\|  master' | xargs -n 1 git branch -d # will not delete master if master is not checked out
+```
+
+### List all branches and their upstreams, as well as last commit on branch
+
+```sh
+git branch -vv
+```
+
+### Track upstream branch
+
+```sh
+git branch -u origin/mybranch
+```
+
+### Delete local branch
+
+```sh
+git branch -d <local_branchname>
+```
+
+### Get list of all local and remote branches
+
+```sh
+git branch -a
+```
+
+### Get only remote branches
+
+```sh
+git branch -r
+```
+
+### Find out branches containing commit-hash
+
+```sh
+git branch -a --contains <commit-ish>
+```
+
+**Alternatives:**
+
+```sh
+git branch --contains <commit-ish>
+```
+
+### Rename a branch
+
+```sh
+git branch -m <new-branch-name>
+```
+
+**Alternatives:**
+
+```sh
+git branch -m [<old-branch-name>] <new-branch-name>
+```
+
+### Archive the `master` branch
+
+```sh
+git archive master --format=zip --output=master.zip
+```
+
+### Delete local branches that has been squash and merged in the remote.
+
+```sh
+git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -D
+```
+
+### Export a branch with history to a file.
+
+```sh
+git bundle create <file> <branch-name>
+```
+
+### Get the name of current branch.
+
+```sh
+git rev-parse --abbrev-ref HEAD
+```
+
+### Show the most recent tag on the current branch.
+
+```sh
+git describe --tags --abbrev=0
+```
+
+### List all branch is WIP
+
+```sh
+git checkout master && git branch --no-merged
+```
+
+### Preformatted patch file.
+
+```sh
+git format-patch -M upstream..topic
+```
+
+### Switch to a branch (modern alternative to checkout)
+
+```sh
+git switch <branch-name>
+```
+
+**Alternatives:**
+
+```sh
+git switch -c <new-branch-name>
+```
+## Miscellaneous
+
+### Everyday Git in twenty commands or so
+
+```sh
+git help everyday
+```
+
+### Untrack files without deleting
+
+```sh
+git rm --cached <file_path>
+```
+
+**Alternatives:**
+
+```sh
+git rm --cached -r <directory_path>
+```
+
+### Don’t consider changes for tracked file.
+
+```sh
+git update-index --assume-unchanged <file_name>
+```
+
+### Check if the change was a part of a release.
+
+```sh
+git name-rev --name-only <SHA-1>
+```
+
+### List ignored files.
+
+```sh
+git check-ignore *
+```
+
+### Count unpacked number of objects and their disk consumption.
+
+```sh
+git count-objects --human-readable
+```
+
+### Prune all unreachable objects from the object database.
+
+```sh
+git gc --prune=now --aggressive
+```
+
+### Instantly browse your working repository in gitweb.
+
+```sh
+git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
+```
+
+### Find lines matching the pattern (regex or string) in tracked files
+
+```sh
+git grep --heading --line-number 'foo bar'
+```
+
+### Backup untracked files.
+
+```sh
+git ls-files --others -i --exclude-standard | xargs zip untracked.zip
+```
+
+### Send a collection of patches as emails
+
+```sh
+git send-email [<options>] <file|directory>…
+
+git send-email [<options>] <format-patch options>
 ```
 ## Submodules and Subtrees
 
@@ -1337,7 +1574,7 @@ git restore --staged <file-name>
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文 (⭐16k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐630)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐1k)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐28)](https://github.com/hprobotic/git-tips) | [日本語 (⭐237)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐15)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐16k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐631)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐1k)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐28)](https://github.com/hprobotic/git-tips) | [日本語 (⭐236)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐15)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 

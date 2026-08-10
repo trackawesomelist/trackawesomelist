@@ -12,7 +12,7 @@ Most commonly used git tips and tricks.
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文 (⭐16k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐630)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐1k)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐28)](https://github.com/hprobotic/git-tips) | [日本語 (⭐237)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐15)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐16k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐631)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐1k)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐28)](https://github.com/hprobotic/git-tips) | [日本語 (⭐236)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐15)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 
@@ -72,6 +72,10 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [Push a new local branch to remote repository and track](#push-a-new-local-branch-to-remote-repository-and-track)
     *   [Update a submodule to the latest commit](#update-a-submodule-to-the-latest-commit)
     *   [Duplicating a repository](#duplicating-a-repository)
+    *   [Sparse checkout: clone only specific directories](#sparse-checkout-clone-only-specific-directories)
+    *   [Show output in columns](#show-output-in-columns)
+    *   [List worktrees](#list-worktrees)
+    *   [Remove a worktree](#remove-a-worktree)
 *   [Branching](#branching)
     *   [List all branches that are already merged into master](#list-all-branches-that-are-already-merged-into-master)
     *   [Remove branches that have already been merged with master](#remove-branches-that-have-already-been-merged-with-master)
@@ -129,6 +133,15 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [Exclude author from logs](#exclude-author-from-logs)
     *   [View expanded details of changes in last commit](#view-expanded-details-of-changes-in-last-commit)
     *   [Visualize each position of HEAD in the last 30 days](#visualize-each-position-of-head-in-the-last-30-days)
+    *   [Compare two versions of a rebased branch](#compare-two-versions-of-a-rebased-branch)
+    *   [Automate bisect with a test script](#automate-bisect-with-a-test-script)
+    *   [Blame with line range](#blame-with-line-range)
+    *   [Detect moved or copied lines in blame](#detect-moved-or-copied-lines-in-blame)
+    *   [Log with graph in oneline format](#log-with-graph-in-oneline-format)
+    *   [Find commits where a file was deleted](#find-commits-where-a-file-was-deleted)
+    *   [Show commit count per author per time period](#show-commit-count-per-author-per-time-period)
+    *   [Verify commit signatures](#verify-commit-signatures)
+    *   [Show diff with word-level granularity using color](#show-diff-with-word-level-granularity-using-color)
 *   [Merging and Rebasing](#merging-and-rebasing)
     *   [Rebases 'feature' to 'master' and merges it in to master ](#rebases-feature-to-master-and-merges-it-in-to-master-)
     *   [Stash changes before rebasing](#stash-changes-before-rebasing)
@@ -136,6 +149,8 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [Change previous two commits with an interactive rebase.](#change-previous-two-commits-with-an-interactive-rebase)
     *   [Find common ancestor of two branches](#find-common-ancestor-of-two-branches)
     *   [Change a branch base](#change-a-branch-base)
+    *   [Create a fixup commit and auto-squash](#create-a-fixup-commit-and-auto-squash)
+    *   [Rebase interactively from the root commit](#rebase-interactively-from-the-root-commit)
 *   [Miscellaneous](#miscellaneous)
     *   [Everyday Git in twenty commands or so](#everyday-git-in-twenty-commands-or-so)
     *   [Untrack files without deleting](#untrack-files-without-deleting)
@@ -155,6 +170,9 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [List all currently configured remotes](#list-all-currently-configured-remotes)
     *   [List references in a remote repository](#list-references-in-a-remote-repository)
     *   [Refresh the list of remote branches](#refresh-the-list-of-remote-branches)
+    *   [Create a bundle file for offline sharing](#create-a-bundle-file-for-offline-sharing)
+    *   [Clone from a bundle file](#clone-from-a-bundle-file)
+    *   [Partial clone: clone without blobs for faster fetch](#partial-clone-clone-without-blobs-for-faster-fetch)
 *   [Setup and Config](#setup-and-config)
     *   [Remove sensitive data from history, after a push](#remove-sensitive-data-from-history-after-a-push)
     *   [Reset author, after author has been changed in the global config.](#reset-author-after-author-has-been-changed-in-the-global-config)
@@ -176,6 +194,10 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [Use SSH instead of HTTPs for remotes](#use-ssh-instead-of-https-for-remotes)
     *   [Prevent auto replacing LF with CRLF](#prevent-auto-replacing-lf-with-crlf)
     *   [Edit config for each level](#edit-config-for-each-level)
+    *   [Enable background maintenance for faster operations](#enable-background-maintenance-for-faster-operations)
+    *   [Sign commits with SSH key instead of GPG](#sign-commits-with-ssh-key-instead-of-gpg)
+    *   [Enable rerere to auto-resolve recurring merge conflicts](#enable-rerere-to-auto-resolve-recurring-merge-conflicts)
+    *   [Set default branch name for new repos](#set-default-branch-name-for-new-repos)
 *   [Stashing](#stashing)
     *   [Saving current state of tracked files without committing](#saving-current-state-of-tracked-files-without-committing)
     *   [Saving current state of unstaged changes to tracked files](#saving-current-state-of-unstaged-changes-to-tracked-files)
@@ -187,6 +209,9 @@ P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
     *   [Apply any stash without deleting from the stashed list](#apply-any-stash-without-deleting-from-the-stashed-list)
     *   [Apply last stashed state and delete it from stashed list](#apply-last-stashed-state-and-delete-it-from-stashed-list)
     *   [Delete all stored stashes](#delete-all-stored-stashes)
+    *   [Stash only unstaged changes](#stash-only-unstaged-changes)
+    *   [Stash specific files](#stash-specific-files)
+    *   [Show a diffstat summary of a stash](#show-a-diffstat-summary-of-a-stash)
 *   [Submodules and Subtrees](#submodules-and-subtrees)
     *   [Update all the submodules](#update-all-the-submodules)
     *   [Deploying git tracked subfolder to gh-pages](#deploying-git-tracked-subfolder-to-gh-pages)
@@ -257,6 +282,12 @@ git push origin :refs/tags/<tag-name>
 
 ```sh
 git checkout -- <file_name>
+```
+
+**Alternatives:**
+
+```sh
+git restore <file_name>
 ```
 
 ### Reword the previous commit message
@@ -569,6 +600,42 @@ git commit -m "submodule updated"
 git clone --bare https://github.com/exampleuser/old-repository.git
 
 git push --mirror https://github.com/exampleuser/new-repository.git
+```
+
+### Sparse checkout: clone only specific directories
+
+```sh
+git clone --filter=blob:none --sparse <url> && cd <repo> && git sparse-checkout set <dir1> <dir2>
+```
+
+### Show output in columns
+
+```sh
+git branch --column
+```
+
+**Alternatives:**
+
+```sh
+git tag --column
+```
+
+### List worktrees
+
+```sh
+git worktree list
+```
+
+### Remove a worktree
+
+```sh
+git worktree remove <path>
+```
+
+**Alternatives:**
+
+```sh
+git worktree prune
 ```
 
 ## Branching
@@ -981,6 +1048,102 @@ git show
 git reflog
 ```
 
+### Compare two versions of a rebased branch
+
+```sh
+git range-diff <base>..<old-tip> <base>..<new-tip>
+```
+
+**Alternatives:**
+
+```sh
+git range-diff <rev1>...<rev2>
+```
+
+### Automate bisect with a test script
+
+```sh
+git bisect start <bad> <good> && git bisect run <script>
+```
+
+### Blame with line range
+
+```sh
+git blame -L <start>,<end> <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -L :'<funcname>' <file>
+```
+
+### Detect moved or copied lines in blame
+
+```sh
+git blame -M -C <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -C -C -C <file>
+```
+
+### Log with graph in oneline format
+
+```sh
+git log --oneline --graph --all --decorate
+```
+
+### Find commits where a file was deleted
+
+```sh
+git log --diff-filter=D --summary | grep delete
+```
+
+**Alternatives:**
+
+```sh
+git log --all --full-history -- <file>
+```
+
+### Show commit count per author per time period
+
+```sh
+git shortlog -sn --since='1 year ago'
+```
+
+**Alternatives:**
+
+```sh
+git shortlog -sne --all
+```
+
+### Verify commit signatures
+
+```sh
+git verify-commit <commit>
+```
+
+**Alternatives:**
+
+```sh
+git log --show-signature
+```
+
+### Show diff with word-level granularity using color
+
+```sh
+git diff --color-words
+```
+
+**Alternatives:**
+
+```sh
+git diff --word-diff=color
+```
+
 ## Merging and Rebasing
 
 ### Rebases 'feature' to 'master' and merges it in to master
@@ -1017,6 +1180,18 @@ git merge-base <branch-name> <other-branch-name>
 
 ```sh
 git rebase --onto <new_base> <old_base>
+```
+
+### Create a fixup commit and auto-squash
+
+```sh
+git commit --fixup=<commit> && git rebase -i --autosquash <commit>~1
+```
+
+### Rebase interactively from the root commit
+
+```sh
+git rebase -i --root
 ```
 
 ## Miscellaneous
@@ -1137,6 +1312,36 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ```sh
 git remote update origin --prune
+```
+
+### Create a bundle file for offline sharing
+
+```sh
+git bundle create <file>.bundle --all
+```
+
+**Alternatives:**
+
+```sh
+git bundle create <file>.bundle <branch-name>
+```
+
+### Clone from a bundle file
+
+```sh
+git clone <file>.bundle <directory>
+```
+
+### Partial clone: clone without blobs for faster fetch
+
+```sh
+git clone --filter=blob:none <url>
+```
+
+**Alternatives:**
+
+```sh
+git clone --filter=tree:0 <url>
 ```
 
 ## Setup and Config
@@ -1279,6 +1484,36 @@ git config --edit --global
 git config --edit --local
 ```
 
+### Enable background maintenance for faster operations
+
+```sh
+git maintenance start
+```
+
+**Alternatives:**
+
+```sh
+git maintenance run --task=gc
+```
+
+### Sign commits with SSH key instead of GPG
+
+```sh
+git config gpg.format ssh && git config user.signingkey ~/.ssh/id_ed25519.pub && git commit -S -m '<message>'
+```
+
+### Enable rerere to auto-resolve recurring merge conflicts
+
+```sh
+git config rerere.enabled true
+```
+
+### Set default branch name for new repos
+
+```sh
+git config --global init.defaultBranch main
+```
+
 ## Stashing
 
 ### Saving current state of tracked files without committing
@@ -1393,6 +1628,30 @@ git stash clear
 
 ```sh
 git stash drop <stash@{n}>
+```
+
+### Stash only unstaged changes
+
+```sh
+git stash push --keep-index
+```
+
+### Stash specific files
+
+```sh
+git stash push -m '<message>' <file1> <file2>
+```
+
+### Show a diffstat summary of a stash
+
+```sh
+git stash show --stat <stash@{n}>
+```
+
+**Alternatives:**
+
+```sh
+git stash show -p <stash@{n}>
 ```
 
 ## Submodules and Subtrees

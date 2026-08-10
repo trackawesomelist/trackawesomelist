@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Aug 10, 2026](/content/2026/08/10/README.md)
+
+### Software / Libraries and Tools
+
+*   [MQTT ACL Linter (⭐0)](https://github.com/visoar/mqtt-acl-linter) - Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.
+
 ## [Aug 06, 2026](/content/2026/08/06/README.md)
 
 ### Software / Middlewares

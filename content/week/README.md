@@ -49,6 +49,1241 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [A Field Guide to Claude Fable 5](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns) by [Thariq Shihipar, Anthropic](https://github.com/ThariqS) - Really solid, insightful guidance on working/thinking with Claude Fable, and with AI in general. Very well written. Hints of Rumsfeld epistemology, but otherwise it's a great piece.
 *   [Beyond the Prompt: Claude Code](https://arps18.github.io/posts/claude-code-mastery) by [Arpan Patel](https://arps18.github.io/) - This has what you need. Remarkably clear, information-dense, it's Claude Code: the good parts, for beginners, advanced users, pets, anybody.
 
+#### [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+##### Newsletters / Book Deals (Affiliated)
+
+*   [Bamboo Weekly](https://www.bambooweekly.com) - Weekly pandas exercises based on current events and real-world public data, with fully worked solutions. Issues older than two years are free, as are the first two questions + answers in current issues. [Archive](https://www.bambooweekly.com/archive/).
+
+#### [7. Tips](/content/git-tips/tips/README.md)
+## Basic Operations
+
+### List of all files till a commit
+
+```sh
+git ls-tree --name-only -r <commit-ish>
+```
+
+### Quickly switch to the previous branch
+
+```sh
+git checkout -
+```
+
+**Alternatives:**
+
+```sh
+git checkout @{-1}
+```
+
+### Delete remote branch
+
+```sh
+git push origin --delete <remote_branchname>
+```
+
+**Alternatives:**
+
+```sh
+git push origin :<remote_branchname>
+```
+
+```sh
+git branch -dr <remote/branch>
+```
+
+### Delete remote tag
+
+```sh
+git push origin :refs/tags/<tag-name>
+```
+
+### Undo local changes with the content in index(staging)
+
+```sh
+git checkout -- <file_name>
+```
+
+**Alternatives:**
+
+```sh
+git restore <file_name>
+```
+
+### Reword the previous commit message
+
+```sh
+git commit -v --amend
+```
+
+### See commit history for just the current branch
+
+```sh
+git cherry -v master
+```
+
+### Amend author.
+
+```sh
+git commit --amend --author='Author Name <email@address.com>'
+```
+
+### Stage parts of a changed file, instead of the entire file
+
+```sh
+git add -p
+```
+
+### Pick commits across branches using cherry-pick
+
+```sh
+git checkout <branch-name> && git cherry-pick <commit-ish>
+```
+
+### Grab a single file from a stash
+
+```sh
+git checkout <stash@{n}> -- <file_path>
+```
+
+**Alternatives:**
+
+```sh
+git checkout stash@{0} -- <file_path>
+```
+
+### Create new working tree from a repository (git 2.5)
+
+```sh
+git worktree add -b <branch-name> <path> <start-point>
+```
+
+### Create new working tree from HEAD state
+
+```sh
+git worktree add --detach <path> HEAD
+```
+
+### Show all commits in the current branch yet to be merged to master
+
+```sh
+git cherry -v master
+```
+
+**Alternatives:**
+
+```sh
+git cherry -v master <branch-to-be-merged>
+```
+
+### Modify previous commit without modifying the commit message
+
+```sh
+git add --all && git commit --amend --no-edit
+```
+
+### Prunes references to remove branches that have been deleted in the remote.
+
+```sh
+git fetch -p
+```
+
+**Alternatives:**
+
+```sh
+git remote prune origin
+```
+
+### Retrieve the commit hash of the initial revision.
+
+```sh
+ git rev-list --reverse HEAD | head -1
+```
+
+**Alternatives:**
+
+```sh
+git rev-list --max-parents=0 HEAD
+```
+
+```sh
+git log --pretty=oneline | tail -1 | cut -c 1-40
+```
+
+```sh
+git log --pretty=oneline --reverse | head -1 | cut -c 1-40
+```
+
+### Import from a bundle
+
+```sh
+git clone repo.bundle <repo-dir> -b <branch-name>
+```
+
+### Ignore one file on commit (e.g. Changelog).
+
+```sh
+git update-index --assume-unchanged Changelog; git commit -a; git update-index --no-assume-unchanged Changelog
+```
+
+### Fetch pull request by ID to a local branch
+
+```sh
+git fetch origin pull/<id>/head:<branch-name>
+```
+
+**Alternatives:**
+
+```sh
+git pull origin pull/<id>/head:<branch-name>
+```
+
+### Restore deleted file.
+
+```sh
+git checkout <deleting_commit> -- <file_path>
+```
+
+### Restore file to a specific commit-hash
+
+```sh
+git checkout <commit-ish> -- <file_path>
+```
+
+### Marks your commit as a fix of a previous commit.
+
+```sh
+git commit --fixup <SHA-1>
+```
+
+### Skip staging area during commit.
+
+```sh
+git commit --only <file_path>
+```
+
+### Interactive staging.
+
+```sh
+git add -i
+```
+
+### Status of ignored files.
+
+```sh
+git status --ignored
+```
+
+### Checkout a new branch without any history
+
+```sh
+git checkout --orphan <branch_name>
+```
+
+### Find guilty with binary search
+
+```sh
+git bisect start                    # Search start 
+git bisect bad                      # Set point to bad commit 
+git bisect good v2.6.13-rc2         # Set point to good commit|tag 
+git bisect bad                      # Say current state is bad 
+git bisect good                     # Say current state is good 
+git bisect reset                    # Finish search 
+
+```
+
+### Bypass pre-commit and commit-msg githooks
+
+```sh
+git commit --no-verify
+```
+
+### Clone a single branch
+
+```sh
+git clone -b <branch-name> --single-branch https://github.com/user/repo.git
+```
+
+### Create and switch new branch
+
+```sh
+git checkout -b <branch-name>
+```
+
+**Alternatives:**
+
+```sh
+git branch <branch-name> && git checkout <branch-name>
+```
+
+```sh
+git switch -c <branch-name>
+```
+
+### Show all local branches ordered by recent commits
+
+```sh
+git for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads/
+```
+
+### Clone a shallow copy of a repository
+
+```sh
+git clone https://github.com/user/repo.git --depth 1
+```
+
+### Force push to Remote Repository
+
+```sh
+git push -f <remote-name> <branch-name>
+```
+
+### Group commits by authors and title
+
+```sh
+git shortlog
+```
+
+### Forced push but still ensure you don't overwrite other's work
+
+```sh
+git push --force-with-lease <remote-name> <branch-name>
+```
+
+### Number of commits in a branch
+
+```sh
+git rev-list --count <branch-name>
+```
+
+### Add object notes
+
+```sh
+git notes add -m 'Note on the previous commit....'
+```
+
+### Apply commit from another repository
+
+```sh
+git --git-dir=<source-dir>/.git format-patch -k -1 --stdout <SHA1> | git am -3 -k
+```
+
+### Specific fetch reference
+
+```sh
+git fetch origin master:refs/remotes/origin/mymaster
+```
+
+### Generates a summary of pending changes
+
+```sh
+git request-pull v1.0 https://git.ko.xz/project master:for-linus
+```
+
+### Show git status short
+
+```sh
+git status --short --branch
+```
+
+### Checkout a commit prior to a day ago
+
+```sh
+git checkout master@{yesterday}
+```
+
+### Push the current branch to the same name on the remote repository
+
+```sh
+git push origin HEAD
+```
+
+### Push a new local branch to remote repository and track
+
+```sh
+git push -u origin <branch_name>
+```
+
+### Update a submodule to the latest commit
+
+```sh
+cd <path-to-submodule>
+git pull origin <branch>
+cd <root-of-your-main-project>
+git add <path-to-submodule>
+git commit -m "submodule updated"
+```
+
+### Duplicating a repository
+
+```sh
+git clone --bare https://github.com/exampleuser/old-repository.git
+
+git push --mirror https://github.com/exampleuser/new-repository.git
+```
+
+### Sparse checkout: clone only specific directories
+
+```sh
+git clone --filter=blob:none --sparse <url> && cd <repo> && git sparse-checkout set <dir1> <dir2>
+```
+
+### Show output in columns
+
+```sh
+git branch --column
+```
+
+**Alternatives:**
+
+```sh
+git tag --column
+```
+
+### List worktrees
+
+```sh
+git worktree list
+```
+
+### Remove a worktree
+
+```sh
+git worktree remove <path>
+```
+
+**Alternatives:**
+
+```sh
+git worktree prune
+```
+## Log and History
+
+### Show helpful guides that come with Git
+
+```sh
+git help -g
+```
+
+### Search change by content
+
+```sh
+git log -S'<a term in the source>'
+```
+
+### Show changes over time for specific file
+
+```sh
+git log -p <file_name>
+```
+
+### List all the conflicted files
+
+```sh
+git diff --name-only --diff-filter=U
+```
+
+### List of all files changed in a commit
+
+```sh
+git diff-tree --no-commit-id --name-only -r <commit-ish>
+```
+
+### Unstaged changes since last commit
+
+```sh
+git diff
+```
+
+### Changes staged for commit
+
+```sh
+git diff --cached
+```
+
+**Alternatives:**
+
+```sh
+git diff --staged
+```
+
+### Show both staged and unstaged changes
+
+```sh
+git diff HEAD
+```
+
+### What changed since two weeks?
+
+```sh
+git log --no-merges --raw --since='2 weeks ago'
+```
+
+**Alternatives:**
+
+```sh
+git whatchanged --since='2 weeks ago'
+```
+
+### See all commits made since forking from master
+
+```sh
+git log --no-merges --stat --reverse master..
+```
+
+### Show all tracked files
+
+```sh
+git ls-files -t
+```
+
+### Show all untracked files
+
+```sh
+git ls-files --others
+```
+
+### Show all ignored files
+
+```sh
+git ls-files --others -i --exclude-standard
+```
+
+### Visualize the version tree.
+
+```sh
+git log --pretty=oneline --graph --decorate --all
+```
+
+**Alternatives:**
+
+```sh
+gitk --all
+```
+
+```sh
+git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
+```
+
+### Visualize the tree including commits that are only referenced from reflogs
+
+```sh
+git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
+```
+
+### Show inline word diff.
+
+```sh
+git diff --word-diff
+```
+
+### Show changes using common diff tools.
+
+```sh
+git difftool [-t <tool>] <commit1> <commit2> <path>
+```
+
+### Commits in Branch1 that are not in Branch2
+
+```sh
+git log Branch1 ^Branch2
+```
+
+### List n last commits
+
+```sh
+git log -<n>
+```
+
+**Alternatives:**
+
+```sh
+git log -n <n>
+```
+
+### Open all conflicted files in an editor.
+
+```sh
+git diff --name-only | uniq | xargs $EDITOR
+```
+
+### View the GPG signatures in the commit log
+
+```sh
+git log --show-signature
+```
+
+### Extract file from another branch.
+
+```sh
+git show <branch_name>:<file_name>
+```
+
+### List only the root and merge commits.
+
+```sh
+git log --first-parent
+```
+
+### List commits and changes to a specific file (even through renaming)
+
+```sh
+git log --follow -p -- <file_path>
+```
+
+### Search Commit log across all branches for given text
+
+```sh
+git log --all --grep='<given-text>'
+```
+
+### Get first commit in a branch (from master)
+
+```sh
+git log --oneline master..<branch-name> | tail -1
+```
+
+**Alternatives:**
+
+```sh
+git log --reverse master..<branch-name> | head -6
+```
+
+### Show the author, time and last revision made to each line of a given file
+
+```sh
+git blame <file-name>
+```
+
+### Show how many lines does an author contribute
+
+```sh
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | gawk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s removed lines: %s total lines: %s
+", add, subs, loc }' -
+```
+
+**Alternatives:**
+
+```sh
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s
+", add, subs, loc }' - # on Mac OSX
+```
+
+### Show all the git-notes
+
+```sh
+git log --show-notes='*'
+```
+
+### List unpushed git commits
+
+```sh
+git log --branches --not --remotes
+```
+
+**Alternatives:**
+
+```sh
+git log @{u}..
+```
+
+```sh
+git cherry -v
+```
+
+### Add everything, but whitespace changes
+
+```sh
+git diff --ignore-all-space | git apply --cached
+```
+
+### blame on certain range
+
+```sh
+git blame -L <start>,<end>
+```
+
+### Show a Git logical variable.
+
+```sh
+git var -l | <variable>
+```
+
+### Get the repo name.
+
+```sh
+git rev-parse --show-toplevel
+```
+
+### logs between date range
+
+```sh
+git log --since='FEB 1 2017' --until='FEB 14 2017'
+```
+
+### Exclude author from logs
+
+```sh
+git log --perl-regexp --author='^((?!excluded-author-regex).*)$'
+```
+
+### View expanded details of changes in last commit
+
+```sh
+git show
+```
+
+### Visualize each position of HEAD in the last 30 days
+
+```sh
+git reflog
+```
+
+### Compare two versions of a rebased branch
+
+```sh
+git range-diff <base>..<old-tip> <base>..<new-tip>
+```
+
+**Alternatives:**
+
+```sh
+git range-diff <rev1>...<rev2>
+```
+
+### Automate bisect with a test script
+
+```sh
+git bisect start <bad> <good> && git bisect run <script>
+```
+
+### Blame with line range
+
+```sh
+git blame -L <start>,<end> <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -L :'<funcname>' <file>
+```
+
+### Detect moved or copied lines in blame
+
+```sh
+git blame -M -C <file>
+```
+
+**Alternatives:**
+
+```sh
+git blame -C -C -C <file>
+```
+
+### Log with graph in oneline format
+
+```sh
+git log --oneline --graph --all --decorate
+```
+
+### Find commits where a file was deleted
+
+```sh
+git log --diff-filter=D --summary | grep delete
+```
+
+**Alternatives:**
+
+```sh
+git log --all --full-history -- <file>
+```
+
+### Show commit count per author per time period
+
+```sh
+git shortlog -sn --since='1 year ago'
+```
+
+**Alternatives:**
+
+```sh
+git shortlog -sne --all
+```
+
+### Verify commit signatures
+
+```sh
+git verify-commit <commit>
+```
+
+**Alternatives:**
+
+```sh
+git log --show-signature
+```
+
+### Show diff with word-level granularity using color
+
+```sh
+git diff --color-words
+```
+
+**Alternatives:**
+
+```sh
+git diff --word-diff=color
+```
+## Merging and Rebasing
+
+### Rebases 'feature' to 'master' and merges it in to master
+
+```sh
+git rebase master feature && git checkout master && git merge -
+```
+
+### Stash changes before rebasing
+
+```sh
+git rebase --autostash
+```
+
+### Squash fixup commits normal commits.
+
+```sh
+git rebase -i --autosquash
+```
+
+### Change previous two commits with an interactive rebase.
+
+```sh
+git rebase --interactive HEAD~2
+```
+
+### Find common ancestor of two branches
+
+```sh
+git merge-base <branch-name> <other-branch-name>
+```
+
+### Change a branch base
+
+```sh
+git rebase --onto <new_base> <old_base>
+```
+
+### Create a fixup commit and auto-squash
+
+```sh
+git commit --fixup=<commit> && git rebase -i --autosquash <commit>~1
+```
+
+### Rebase interactively from the root commit
+
+```sh
+git rebase -i --root
+```
+## Remotes
+
+### Changing a remote's URL
+
+```sh
+git remote set-url origin <URL>
+```
+
+### Get list of all remote references
+
+```sh
+git remote
+```
+
+**Alternatives:**
+
+```sh
+git remote show
+```
+
+### Adding Remote name
+
+```sh
+git remote add <remote-nickname> <remote-url>
+```
+
+### List all currently configured remotes
+
+```sh
+git remote -v
+```
+
+### List references in a remote repository
+
+```sh
+git ls-remote git://git.kernel.org/pub/scm/git/git.git
+```
+
+### Refresh the list of remote branches
+
+```sh
+git remote update origin --prune
+```
+
+### Create a bundle file for offline sharing
+
+```sh
+git bundle create <file>.bundle --all
+```
+
+**Alternatives:**
+
+```sh
+git bundle create <file>.bundle <branch-name>
+```
+
+### Clone from a bundle file
+
+```sh
+git clone <file>.bundle <directory>
+```
+
+### Partial clone: clone without blobs for faster fetch
+
+```sh
+git clone --filter=blob:none <url>
+```
+
+**Alternatives:**
+
+```sh
+git clone --filter=tree:0 <url>
+```
+## Setup and Config
+
+### Remove sensitive data from history, after a push
+
+```sh
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path-to-your-file>' --prune-empty --tag-name-filter cat -- --all && git push origin --force --all
+```
+
+### Reset author, after author has been changed in the global config.
+
+```sh
+git commit --amend --reset-author --no-edit
+```
+
+### Get git bash completion
+
+```sh
+curl -L http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-completion.bash ] && . ~/.git-completion.bash' >> ~/.bashrc
+```
+
+### Git Aliases
+
+```sh
+git config --global alias.<handle> <command> 
+git config --global alias.st status
+```
+
+### Always rebase instead of merge on pull.
+
+```sh
+git config --global pull.rebase true
+```
+
+**Alternatives:**
+
+```sh
+#git < 1.7.9
+git config --global branch.autosetuprebase always
+```
+
+### List all the alias and configs.
+
+```sh
+git config --list
+```
+
+### Make git case sensitive.
+
+```sh
+git config --global core.ignorecase false
+```
+
+### Add custom editors.
+
+```sh
+git config --global core.editor '$EDITOR'
+```
+
+### Auto correct typos.
+
+```sh
+git config --global help.autocorrect 1
+```
+
+### Reuse recorded resolution, record and reuse previous conflicts resolutions.
+
+```sh
+git config --global rerere.enabled 1
+```
+
+### Remove entry in the global config.
+
+```sh
+git config --global --unset <entry-name>
+```
+
+### Ignore file mode changes on commits
+
+```sh
+git config core.fileMode false
+```
+
+### Turn off git colored terminal output
+
+```sh
+git config --global color.ui false
+```
+
+### Specific color settings
+
+```sh
+git config --global <specific command e.g branch, diff> <true, false or always>
+```
+
+### Alias: git undo
+
+```sh
+git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
+```
+
+### Edit \[local/global] git config
+
+```sh
+git config [--global] --edit
+```
+
+### List all git aliases
+
+```sh
+git config -l | grep alias | sed 's/^alias\.//g'
+```
+
+**Alternatives:**
+
+```sh
+git config -l | grep alias | cut -d '.' -f 2
+```
+
+### Use SSH instead of HTTPs for remotes
+
+```sh
+git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
+```
+
+### Prevent auto replacing LF with CRLF
+
+```sh
+git config --global core.autocrlf false
+```
+
+### Edit config for each level
+
+```sh
+git config --edit --system
+
+git config --edit --global
+
+git config --edit --local
+```
+
+### Enable background maintenance for faster operations
+
+```sh
+git maintenance start
+```
+
+**Alternatives:**
+
+```sh
+git maintenance run --task=gc
+```
+
+### Sign commits with SSH key instead of GPG
+
+```sh
+git config gpg.format ssh && git config user.signingkey ~/.ssh/id_ed25519.pub && git commit -S -m '<message>'
+```
+
+### Enable rerere to auto-resolve recurring merge conflicts
+
+```sh
+git config rerere.enabled true
+```
+
+### Set default branch name for new repos
+
+```sh
+git config --global init.defaultBranch main
+```
+## Stashing
+
+### Saving current state of tracked files without committing
+
+```sh
+git stash
+```
+
+**Alternatives:**
+
+```sh
+git stash push
+```
+
+### Saving current state of unstaged changes to tracked files
+
+```sh
+git stash -k
+```
+
+**Alternatives:**
+
+```sh
+git stash --keep-index
+```
+
+```sh
+git stash push --keep-index
+```
+
+### Saving current state including untracked files
+
+```sh
+git stash -u
+```
+
+**Alternatives:**
+
+```sh
+git stash push -u
+```
+
+```sh
+git stash push --include-untracked
+```
+
+### Saving current state with message
+
+```sh
+git stash push -m <message>
+```
+
+**Alternatives:**
+
+```sh
+git stash push --message <message>
+```
+
+### Saving current state of all files (ignored, untracked, and tracked)
+
+```sh
+git stash -a
+```
+
+**Alternatives:**
+
+```sh
+git stash --all
+```
+
+```sh
+git stash push --all
+```
+
+### Show list of all saved stashes
+
+```sh
+git stash list
+```
+
+### Show the contents of any stash in patch form
+
+```sh
+git stash show -p <stash@{n}>
+```
+
+### Apply any stash without deleting from the stashed list
+
+```sh
+git stash apply <stash@{n}>
+```
+
+### Apply last stashed state and delete it from stashed list
+
+```sh
+git stash pop
+```
+
+**Alternatives:**
+
+```sh
+git stash apply stash@{0} && git stash drop stash@{0}
+```
+
+### Delete all stored stashes
+
+```sh
+git stash clear
+```
+
+**Alternatives:**
+
+```sh
+git stash drop <stash@{n}>
+```
+
+### Stash only unstaged changes
+
+```sh
+git stash push --keep-index
+```
+
+### Stash specific files
+
+```sh
+git stash push -m '<message>' <file1> <file2>
+```
+
+### Show a diffstat summary of a stash
+
+```sh
+git stash show --stat <stash@{n}>
+```
+
+**Alternatives:**
+
+```sh
+git stash show -p <stash@{n}>
+```
+
+#### [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+
+##### Software / Libraries and Tools
+
+*   [MQTT ACL Linter (⭐0)](https://github.com/visoar/mqtt-acl-linter) - Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.
+
+#### [9. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+
+##### Tools
+
+*   [MQTTForge (⭐0)](https://github.com/ibrahimilkhan/mqtt-forge) - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
+*   [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method (⭐0)](https://github.com/visoar/mqtt-acl-linter).
+
+#### [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+##### Archive of Icons
+
+*   [IconSearch](https://iconsearch.info/) - Search and compare 355,000+ SVG icons across 229 open-source libraries.
+
 ---
 
 - Next: [Aug 10 - Aug 16, 2026](&#x2F;content&#x2F;2026&#x2F;32&#x2F;README.md)
@@ -65,46 +1300,46 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 8. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 51K 📝 08&#x2F;10) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 59K 📝 08&#x2F;07) - A curated list of Rust code and resources.
 10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 72K 📝 08&#x2F;04) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-11. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source](https://github.com/kdeldycke/awesome-falsehood) ⭐ 28K 📝 08&#x2F;07) - 😱 Falsehoods Programmers Believe in
-12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 08&#x2F;08) - Collections of awesome neovim plugins.
-13. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 08&#x2F;09) - A collection of ZSH frameworks, plugins, themes and tutorials.
-14. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 28K 📝 08&#x2F;04) - :scream: A curated list of amazingly awesome OSINT
-15. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 08&#x2F;01) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-16. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 07&#x2F;24) - 🎉 A curated list of awesome things related to Vue.js
-17. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 08&#x2F;03) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-18. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 08&#x2F;05) - 🖥 📊 🕹 🛠 A curated list of command line apps
-19. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 17K 📝 08&#x2F;05) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-20. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source](https://github.com/enaqx/awesome-react) ⭐ 74K 📝 07&#x2F;20) - A collection of awesome things regarding React ecosystem
-21. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source](https://github.com/rothgar/awesome-tmux) ⭐ 10K 📝 08&#x2F;08) - A list of awesome resources for tmux
-22. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16K 📝 08&#x2F;03) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-23. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 393K 📝 06&#x2F;30) - :books: Freely available programming books
-24. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 30K 📝 07&#x2F;25) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-25. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source](https://github.com/wsvincent/awesome-django) ⭐ 11K 📝 08&#x2F;04) - A curated list of awesome things related to Django
-26. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 07&#x2F;28) - A curated list of awesome READMEs
-27. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source](https://github.com/enaqx/awesome-pentest) ⭐ 27K 📝 07&#x2F;25) - A collection of awesome penetration testing resources, tools and other shiny things
-28. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source](https://github.com/newTendermint/awesome-bigdata) ⭐ 15K 📝 07&#x2F;31) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-29. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 07&#x2F;22) - :whale: A curated list of Docker resources and projects
-30. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source](https://github.com/akullpp/awesome-java) ⭐ 48K 📝 07&#x2F;19) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-31. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
-32. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15K 📝 07&#x2F;30) - 😎 Awesome things related to Tailwind CSS
-33. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17K 📝 07&#x2F;27) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-34. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 07&#x2F;26) - List of useful Quick Look plugins for developers
-35. [Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md) - ([Source](https://github.com/liuchong/awesome-roadmaps) ⭐ 7.2K 📝 08&#x2F;03) - A curated list of roadmaps.
-36. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6.3K 📝 08&#x2F;04) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-37. [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source](https://github.com/sirredbeard/Awesome-WSL) ⭐ 6.5K 📝 08&#x2F;04) - Awesome list dedicated to Windows Subsystem for Linux
-38. [Android Security Awesome](/content/ashishb/android-security-awesome/README.md) - ([Source](https://github.com/ashishb/android-security-awesome) ⭐ 9.5K 📝 07&#x2F;31) - A collection of android security related resources
-39. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11K 📝 07&#x2F;29) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-40. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 14K 📝 07&#x2F;26) - 🐶 A curated list of Web Security materials and resources.
-41. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source](https://github.com/HQarroum/awesome-iot) ⭐ 4.4K 📝 08&#x2F;06) - 🤖 A curated list of awesome Internet of Things projects and resources.
-42. [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source](https://github.com/webpro/awesome-dotfiles) ⭐ 11K 📝 07&#x2F;26) - A curated list of dotfiles resources.
-43. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9K 📝 07&#x2F;28) - A curated list of Web Performance Optimization. 
-44. [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source](https://github.com/manuzhang/awesome-streaming) ⭐ 3K 📝 08&#x2F;08) - a curated list of awesome streaming frameworks, applications, etc
-45. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source](https://github.com/papers-we-love/papers-we-love) ⭐ 107K 📝 07&#x2F;01) - Papers from the computer science community to read and discuss.
-46. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.4K 📝 07&#x2F;25) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-47. [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2.6K 📝 08&#x2F;07) - 👔 How to transition from software development to engineering management
-48. [Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md) - ([Source](https://github.com/awesome-mqtt/awesome-mqtt) ⭐ 2.4K 📝 08&#x2F;08) - Curated list of MQTT brokers, clients, tools, resources and more.
-49. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source](https://github.com/ramnes/awesome-mongodb) ⭐ 2.7K 📝 08&#x2F;06) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
-50. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source](https://github.com/vlang/awesome-v) ⭐ 2.1K 📝 08&#x2F;08) - A curated list of awesome V frameworks, libraries, software and resources.
+11. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 30K 📝 08&#x2F;10) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+12. [Tips](/content/git-tips/tips/README.md) - ([Source](https://github.com/git-tips/tips) ⭐ 22K 📝 08&#x2F;10) - Most commonly used git tips and tricks.
+13. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source](https://github.com/kdeldycke/awesome-falsehood) ⭐ 28K 📝 08&#x2F;07) - 😱 Falsehoods Programmers Believe in
+14. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 08&#x2F;08) - Collections of awesome neovim plugins.
+15. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 08&#x2F;09) - A collection of ZSH frameworks, plugins, themes and tutorials.
+16. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 28K 📝 08&#x2F;04) - :scream: A curated list of amazingly awesome OSINT
+17. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 08&#x2F;01) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+18. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 07&#x2F;24) - 🎉 A curated list of awesome things related to Vue.js
+19. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 08&#x2F;03) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+20. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 08&#x2F;05) - 🖥 📊 🕹 🛠 A curated list of command line apps
+21. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 17K 📝 08&#x2F;05) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+22. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source](https://github.com/enaqx/awesome-react) ⭐ 74K 📝 07&#x2F;20) - A collection of awesome things regarding React ecosystem
+23. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source](https://github.com/rothgar/awesome-tmux) ⭐ 10K 📝 08&#x2F;08) - A list of awesome resources for tmux
+24. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16K 📝 08&#x2F;03) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+25. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 393K 📝 06&#x2F;30) - :books: Freely available programming books
+26. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source](https://github.com/wsvincent/awesome-django) ⭐ 11K 📝 08&#x2F;04) - A curated list of awesome things related to Django
+27. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 07&#x2F;28) - A curated list of awesome READMEs
+28. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source](https://github.com/enaqx/awesome-pentest) ⭐ 27K 📝 07&#x2F;25) - A collection of awesome penetration testing resources, tools and other shiny things
+29. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source](https://github.com/newTendermint/awesome-bigdata) ⭐ 15K 📝 07&#x2F;31) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+30. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 07&#x2F;22) - :whale: A curated list of Docker resources and projects
+31. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source](https://github.com/akullpp/awesome-java) ⭐ 48K 📝 07&#x2F;19) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+32. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
+33. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15K 📝 07&#x2F;30) - 😎 Awesome things related to Tailwind CSS
+34. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source](https://github.com/HQarroum/awesome-iot) ⭐ 4.4K 📝 08&#x2F;10) - 🤖 A curated list of awesome Internet of Things projects and resources.
+35. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17K 📝 07&#x2F;27) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+36. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 07&#x2F;26) - List of useful Quick Look plugins for developers
+37. [Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md) - ([Source](https://github.com/liuchong/awesome-roadmaps) ⭐ 7.2K 📝 08&#x2F;03) - A curated list of roadmaps.
+38. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6.3K 📝 08&#x2F;04) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+39. [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source](https://github.com/sirredbeard/Awesome-WSL) ⭐ 6.5K 📝 08&#x2F;04) - Awesome list dedicated to Windows Subsystem for Linux
+40. [Android Security Awesome](/content/ashishb/android-security-awesome/README.md) - ([Source](https://github.com/ashishb/android-security-awesome) ⭐ 9.5K 📝 07&#x2F;31) - A collection of android security related resources
+41. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11K 📝 07&#x2F;29) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+42. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 14K 📝 07&#x2F;26) - 🐶 A curated list of Web Security materials and resources.
+43. [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source](https://github.com/webpro/awesome-dotfiles) ⭐ 11K 📝 07&#x2F;26) - A curated list of dotfiles resources.
+44. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9K 📝 07&#x2F;28) - A curated list of Web Performance Optimization. 
+45. [Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md) - ([Source](https://github.com/awesome-mqtt/awesome-mqtt) ⭐ 2.4K 📝 08&#x2F;10) - Curated list of MQTT brokers, clients, tools, resources and more.
+46. [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source](https://github.com/manuzhang/awesome-streaming) ⭐ 3K 📝 08&#x2F;08) - a curated list of awesome streaming frameworks, applications, etc
+47. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source](https://github.com/papers-we-love/papers-we-love) ⭐ 107K 📝 07&#x2F;01) - Papers from the computer science community to read and discuss.
+48. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.4K 📝 07&#x2F;25) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+49. [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2.6K 📝 08&#x2F;07) - 👔 How to transition from software development to engineering management
+50. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source](https://github.com/ramnes/awesome-mongodb) ⭐ 2.7K 📝 08&#x2F;06) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 
 ## All Tracked List
 
@@ -203,7 +1438,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Courses](/content/prakhar1989/awesome-courses/README.md) - ([Source ⭐ 43K, 📝 22&#x2F;11&#x2F;13 ](https://github.com/prakhar1989/awesome-courses)) - :books: List of awesome university courses for learning Computer Science!
 - [Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md) - ([Source ⭐ 1.8K, 📝 24&#x2F;10&#x2F;18 ](https://github.com/pFarb/awesome-crypto-papers)) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md) - ([Source ⭐ 6.3K, 📝 25&#x2F;06&#x2F;05 ](https://github.com/sobolevn/awesome-cryptography)) - A curated list of cryptography resources and links.
-- [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;25 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+- [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 30K, 📝 08&#x2F;10 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md) - ([Source ⭐ 25K, 📝 25&#x2F;05&#x2F;26 ](https://github.com/ChristosChristofidis/awesome-deep-learning)) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md) - ([Source ⭐ 24K, 📝 17&#x2F;09&#x2F;22 ](https://github.com/terryum/awesome-deep-learning-papers)) - The most cited deep learning papers
 - [Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md) - ([Source ⭐ 1.5K, 📝 21&#x2F;08&#x2F;04 ](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
@@ -323,7 +1558,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/README.md) - ([Source ⭐ 43K, 📝 20&#x2F;02&#x2F;02 ](https://github.com/tiimgreen/github-cheat-sheet)) - A list of cool features of Git and GitHub.
 - [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source ⭐ 19K, 📝 07&#x2F;26 ](https://github.com/sindresorhus/quick-look-plugins)) - List of useful Quick Look plugins for developers
 - [Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md) - ([Source ⭐ 11K, 📝 20&#x2F;12&#x2F;13 ](https://github.com/k4m4/terminals-are-sexy)) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [Tips](/content/git-tips/tips/README.md) - ([Source ⭐ 22K, 📝 03&#x2F;10 ](https://github.com/git-tips/tips)) - Most commonly used git tips and tricks.
+- [Tips](/content/git-tips/tips/README.md) - ([Source ⭐ 22K, 📝 08&#x2F;10 ](https://github.com/git-tips/tips)) - Most commonly used git tips and tricks.
 
 ### Editors
 
@@ -468,7 +1703,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Beacon](/content/rabschi/awesome-beacon/README.md) - ([Source ⭐ 841, 📝 19&#x2F;05&#x2F;03 ](https://github.com/rabschi/awesome-beacon)) - A curated list of awesome Bluetooth beacon software and tools.
 - [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 7.1K, 📝 01&#x2F;06 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
-- [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 4.4K, 📝 08&#x2F;06 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
+- [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 4.4K, 📝 08&#x2F;10 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [Awesome Lidar](/content/szenergy/awesome-lidar/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;16 ](https://github.com/szenergy/awesome-lidar)) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md) - ([Source ⭐ 1K, 📝 08&#x2F;06 ](https://github.com/delftopenhardware/awesome-open-hardware)) - 🛠Helpful items for making open source hardware projects.
 - [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 1.3K, 📝 25&#x2F;12&#x2F;04 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
@@ -596,7 +1831,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;28 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 117K, 📝 04&#x2F;24 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Awesome Homematic](/content/homematic-community/awesome-homematic/README.md) - ([Source ⭐ 157, 📝 21&#x2F;01&#x2F;16 ](https://github.com/homematic-community/awesome-homematic)) - A curated list of Homematic related links :sparkles:
-- [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.5K, 📝 07&#x2F;29 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
+- [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.6K, 📝 08&#x2F;10 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
 - [Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md) - ([Source ⭐ 22, 📝 17&#x2F;11&#x2F;21 ](https://github.com/inspectit-labs/awesome-inspectit)) - A curated list of awesome inspectIT documentations and resources. 
 - [Awesome Irc](/content/davisonio/awesome-irc/README.md) - ([Source ⭐ 1.3K, 📝 05&#x2F;17 ](https://github.com/davisonio/awesome-irc)) - A curated list of awesome IRC resources.
 - [Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md) - ([Source ⭐ 440, 📝 21&#x2F;01&#x2F;26 ](https://github.com/victorlaerte/awesome-it-quotes)) - This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
@@ -617,7 +1852,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md) - ([Source ⭐ 414, 📝 07&#x2F;27 ](https://github.com/marketingtoolslist/awesome-marketing)) - A curated list of awesome marketing tools and resources
 - [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 14K, 📝 06&#x2F;10 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md) - ([Source ⭐ 7, 📝 25&#x2F;01&#x2F;22 ](https://github.com/mga-mirth/awesome-mirth)) - List of Mirth talks, tools, examples & articles! Contributions welcome! 
-- [Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md) - ([Source ⭐ 2.4K, 📝 08&#x2F;08 ](https://github.com/awesome-mqtt/awesome-mqtt)) - Curated list of MQTT brokers, clients, tools, resources and more.
+- [Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md) - ([Source ⭐ 2.4K, 📝 08&#x2F;10 ](https://github.com/awesome-mqtt/awesome-mqtt)) - Curated list of MQTT brokers, clients, tools, resources and more.
 - [Awesome Naming](/content/gruhn/awesome-naming/README.md) - ([Source ⭐ 1.4K, 📝 06&#x2F;16 ](https://github.com/gruhn/awesome-naming)) - A curated list for when naming things is done right.
 - [Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md) - ([Source ⭐ 2.2K, 📝 23&#x2F;06&#x2F;16 ](https://github.com/aviaryan/awesome-no-login-web-apps)) - 🚀 Awesome (free) web apps that work without login
 - [Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md) - ([Source ⭐ 674, 📝 24&#x2F;05&#x2F;15 ](https://github.com/zachflower/awesome-open-source-supporters)) - ⭐️ A curated list of companies that offer their services for free to Open Source projects
