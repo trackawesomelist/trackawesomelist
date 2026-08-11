@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
+### Financial
+
+*   [cnn-fear-and-greed-parse (⭐2)](https://github.com/wildsurfer/cnn-fear-and-greed-parse) - Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.
+
 ### Images
 
 *   [eagle-image-api (⭐31)](https://github.com/nicobistolfi/eagle-image-api) - Image optimization and transformation API using libvips, deployable to AWS Lambda and CloudFront.
@@ -96,7 +100,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [MemHop (⭐3)](https://github.com/qyiun666/MemHop) - Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16 vector + entity), single .meh file, pure Go, zero infrastructure.
+*   [MemHop (⭐20)](https://github.com/qyiun666/MemHop) - Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16 vector + entity), single .meh file, pure Go, zero infrastructure.
 
 ### Game Development
 
@@ -104,7 +108,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Generators
 
-*   [apispec (⭐82)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
+*   [apispec (⭐83)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
 
 ### Utilities
 
@@ -227,7 +231,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [pii-shield (⭐161)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+*   [pii-shield (⭐163)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 
 ### Server Applications
 
@@ -240,11 +244,11 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [gh-image (⭐180)](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads images to GitHub issues, PRs, and READMEs from the command line, producing user-attachments URLs that respect repository visibility.
-*   [sqlex (⭐54)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
+*   [sqlex (⭐55)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
 
 ### Web Frameworks
 
-*   [togo (⭐3)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
+*   [togo (⭐4)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
 
 ### Style Guides / Libraries for creating HTTP middlewares
 
@@ -276,8 +280,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [mcp-go (⭐8.9k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
-*   [trpc-agent-go (⭐1.6k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
+*   [mcp-go (⭐9k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
+*   [trpc-agent-go (⭐1.7k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 
 ### Configuration
 
@@ -301,7 +305,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [govy (⭐52)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐55)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 
 ### Webhooks Server / Libraries for creating HTTP middlewares
 
@@ -703,7 +707,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Advanced Console UIs
 
 *   [chroma16 (⭐4)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
-*   [lazyenv (⭐56)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐58)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ### Embeddable Scripting Languages
 
@@ -855,7 +859,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [relica (⭐20)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐21)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Generators
 
@@ -1794,7 +1798,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [cimgui-go (⭐530)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐75k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐530)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐76k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
 
 ### Messaging
 
@@ -2170,7 +2174,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [gondola (⭐11)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
-*   [pocketbase (⭐60k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [pocketbase (⭐61k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 
 ### Mock
 
@@ -2599,7 +2603,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐138)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐139)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -5511,7 +5515,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dudeldu (⭐148)](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 *   [Easegress (⭐5.9k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [Euterpe (⭐577)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
-*   [Fider (⭐4.4k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
+*   [Fider (⭐4.5k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.6k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐4.9k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
 *   [go-feature-flag (⭐2.1k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
@@ -6051,7 +6055,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐723)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐124k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐339)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐33)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐310)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐72k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.

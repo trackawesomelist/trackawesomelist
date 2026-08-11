@@ -12,6 +12,11 @@ A curated list of awesome Web Font Icons
 
 *   [IconSearch](https://iconsearch.info/) - Search and compare 355,000+ SVG icons across 229 open-source libraries.
 
+### Tools
+
+*   [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
+*   [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Map / Countries

@@ -1,18 +1,104 @@
 # Awesome List Updates on Aug 17 - Aug 23, 2026
 
-18 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+
+### Science / Clients & Libraries
+
+*   [DavidBelicza/TextRank (⭐224)](https://github.com/DavidBelicza/TextRank) — TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). ☆`224`
+
+## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+
+### Video
+
+*   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
+
+## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### LangChain Framework
+
+*   [LangChain (⭐143k)](https://github.com/langchain-ai/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
+*   [LangChain.js (⭐18k)](https://github.com/langchain-ai/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social)
+*   [Twitter account](https://x.com/LangChainAI): follow to get fresh updates
+
+### Ports to other languages
+
+*   [LangchainRb (⭐2k)](https://github.com/patterns-ai-core/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb?style=social)
+
+### Tools / Low-code
+
+*   [Langflow (⭐153k)](https://github.com/langflow-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
+
+### Tools / Services
+
+*   [Auto-evaluator (⭐1.1k)](https://github.com/rlancemartin/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/rlancemartin/auto-evaluator?style=social)
+*   [Swiss Army Llama (⭐1.1k)](https://github.com/Dicklesworthstone/swiss_army_llama): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/swiss_army_llama?style=social)
+
+### Tools / Agents
+
+*   [Private GPT (⭐57k)](https://github.com/zylon-ai/private-gpt): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social)
+*   [Colossal-AI (⭐41k)](https://github.com/hpcaitech/ColossalAI): LLM training and inference system whose ColossalChat application implements LLM with RLHF ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+*   [CrewAI (⭐56k)](https://github.com/crewAIInc/crewAI): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social)
+*   [ThinkGPT (⭐1.6k)](https://github.com/jina-ai/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/thinkgpt?style=social)
+*   [SuperAgent (⭐6.7k)](https://github.com/superagent-ai/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/superagent-ai/superagent?style=social)
+*   [Multi-Modal LangChain agents in Production (⭐477)](https://github.com/steamship-core/langchain-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/langchain-production-starter?style=social)
+*   [BlockAGI (⭐322)](https://github.com/orgexyz/BlockAGI): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/BlockAGI?style=social)
+*   [deepagents (⭐28k)](https://github.com/langchain-ai/deepagents): LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
+
+### Tools / Templates
+
+*   [AI (⭐26k)](https://github.com/vercel/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/ai?style=social)
+*   [Mem0 (⭐62k)](https://github.com/mem0ai/mem0): Universal memory layer for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+
+### Open Source Projects / Knowledge Management
+
+*   [Quivr (⭐39k)](https://github.com/QuivrHQ/quivr): Opinionated RAG for integrating GenAI into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social)
+
+### Open Source Projects / Other / Chatbots
+
+*   [DB GPT (⭐20k)](https://github.com/eosphoros-ai/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
+*   [Paper QA (⭐9k)](https://github.com/Future-House/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social)
+*   [Chat Langchain (⭐6.4k)](https://github.com/langchain-ai/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=social)
+*   [Entaoai (⭐866)](https://github.com/akshata29/entaoai): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/entaoai?style=social)
+*   [Robby-Chatbot (⭐814)](https://github.com/yvann-ba/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
+*   [AI Chatbot (⭐21k)](https://github.com/vercel/chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/chatbot?style=social)
+*   [GPT Migrate (⭐7k)](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+*   [LobeHub (⭐81k)](https://github.com/lobehub/lobehub) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social)
+*   [PersonalityChatbot (⭐63)](https://github.com/minhbtrc/langchain-chatbot): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/minhbtrc/langchain-chatbot?style=social)
+
+### Learn / Notebooks
+
+*   [LangChain Handbook (⭐3k)](https://github.com/pinecone-io/examples): Pinecone / James Briggs' LangChain handbook
+*   [BYO Knowledge Graph (⭐199)](https://github.com/prof-frink-lab/slangchain)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [LlamaIndex (⭐51k)](https://github.com/run-llama/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+*   [AGiXT (⭐3.2k)](https://github.com/Josh-XT/AGiXT): Dynamic AI agent automation platform that orchestrates instruction following and complex task management. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social)
+*   [MetaGPT (⭐70k)](https://github.com/FoundationAgents/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)
+*   [Hyv (⭐24)](https://github.com/blib-la/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/blib-la/hyv?style=social)
+*   [Axflow (⭐1.1k)](https://github.com/axflow/axflow): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
+*   [Outlines (⭐15k)](https://github.com/dottxt-ai/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social)
+*   [Letta (⭐24k)](https://github.com/letta-ai/letta): Platform for stateful agents with advanced memory that learn and self-improve ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social)
+*   [Agentlabs (⭐555)](https://github.com/agentlabs-dev/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-dev/agentlabs?style=social)
+*   [OpenAgent (⭐5.5k)](https://github.com/the-open-agent/openagent): Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=social)
+*   [SWE Agent (⭐20k)](https://github.com/SWE-agent/SWE-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social)
+*   [AgentRun (⭐376)](https://github.com/tjmlabs/AgentRun): The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/tjmlabs/AgentRun?style=social)
+*   [AgentScope (⭐29k)](https://github.com/agentscope-ai/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)
+*   [Agno (⭐42k)](https://github.com/agno-agi/agno): Build, run, and manage agent platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
+
+## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### MCP Servers and Data Connectors
 
 *   [CorpusIQ (⭐17)](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -111,7 +197,7 @@
 
 *   [JSON Schema (⭐5.1k) (⭐5.1k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [3. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -159,7 +245,11 @@
 
 *   [DDD Toolbox](https://dddtoolbox.com) - Open-source collection of modern web-based tools including Domain Storytelling and Event Storming ([Source Code (⭐383)](https://github.com/poulainpi/ddd-toolbox)).
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
 
 ### Security and PKI
 
@@ -169,7 +259,7 @@
 
 *   [ShipStatic](https://shipstatic.com) - Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.
 
-## [5. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
@@ -187,44 +277,49 @@
 
 *   :money\_with\_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
-## [6. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [9. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`skills`](https://github.com/typedb/typedb-skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 
-## [7. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
 *   [spnego (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/spnego) - Kerberos authentication middleware for Fiber using the SPNEGO mechanism.
 
-## [8. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### MCP Servers
 
 *   [RunAPI MCP (⭐54)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 
-## [9. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
 *   [IconSearch](https://iconsearch.info/) - Search and compare 355,000+ SVG icons across 229 open-source libraries.
 
-## [10. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+### Tools
+
+*   [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
+*   [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
+
+## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [MQTTForge (⭐0)](https://github.com/ibrahimilkhan/mqtt-forge) - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
 *   [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method (⭐0)](https://github.com/visoar/mqtt-acl-linter).
 
-## [11. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [14. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [MQTT ACL Linter (⭐0)](https://github.com/visoar/mqtt-acl-linter) - Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.
 
-## [12. Tips](/content/git-tips/tips/week/README.md)
+## [15. Tips](/content/git-tips/tips/week/README.md)
 
 ## Basic Operations
 
@@ -1435,32 +1530,36 @@ git stash show --stat <stash@{n}>
 git stash show -p <stash@{n}>
 ```
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Newsletters / Book Deals (Affiliated)
 
 *   [Bamboo Weekly](https://www.bambooweekly.com) - Weekly pandas exercises based on current events and real-world public data, with fully worked solutions. Issues older than two years are free, as are the first two questions + answers in current issues. [Archive](https://www.bambooweekly.com/archive/).
 
-## [14. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [17. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Start Here
 
 *   [A Field Guide to Claude Fable 5](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns) by [Thariq Shihipar, Anthropic](https://github.com/ThariqS) - Really solid, insightful guidance on working/thinking with Claude Fable, and with AI in general. Very well written. Hints of Rumsfeld epistemology, but otherwise it's a great piece.
 *   [Beyond the Prompt: Claude Code](https://arps18.github.io/posts/claude-code-mastery) by [Arpan Patel](https://arps18.github.io/) - This has what you need. Remarkably clear, information-dense, it's Claude Code: the good parts, for beginners, advanced users, pets, anybody.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Financial
+
+*   [cnn-fear-and-greed-parse (⭐2)](https://github.com/wildsurfer/cnn-fear-and-greed-parse) - Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.
 
 ### Images
 
 *   [eagle-image-api (⭐31)](https://github.com/nicobistolfi/eagle-image-api) - Image optimization and transformation API using libvips, deployable to AWS Lambda and CloudFront.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Education / Audio Record and Process
 
 *   [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1470,7 +1569,7 @@ git stash show -p <stash@{n}>
 
 *   [Hopp](https://gethopp.app) - Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio, Coscreen). ([Source Code (⭐647)](https://github.com/gethopp/hopp)) `AGPL-3.0` `Docker`
 
-## [18. Typography](/content/deanhume/typography/week/README.md)
+## [21. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 

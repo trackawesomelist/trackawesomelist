@@ -6,6 +6,13 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Aug 11, 2026](/content/2026/08/11/README.md)
+
+### Tools
+
+*   [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
+*   [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
+
 ## [Aug 10, 2026](/content/2026/08/10/README.md)
 
 ### Archive of Icons

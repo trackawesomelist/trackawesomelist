@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Aug 11, 2026](/content/2026/08/11/README.md)
+
+### Video
+
+*   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
+
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
 ### Resume
@@ -115,7 +121,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
+*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
 
 ## [Jul 24, 2026](/content/2026/07/24/README.md)
 

@@ -43,7 +43,7 @@ We use the *[Golang Bridge (⭐439)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐310k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐313k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -244,7 +244,7 @@ Please take a quick gander at the [contribution guidelines (⭐179k)](https://gi
 *   [llm-box (⭐10)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [LocalAI (⭐48k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [localaik (⭐15)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
-*   [mcp-go (⭐8.9k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
+*   [mcp-go (⭐9k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
 *   [Ollama (⭐178k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 *   [OllamaFarm (⭐100)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 *   [otellix (⭐37)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
@@ -252,7 +252,7 @@ Please take a quick gander at the [contribution guidelines (⭐179k)](https://gi
 *   [semantic-search (⭐1)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
 *   [skillreaper (⭐45)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 *   [Smeldr (⭐5)](https://github.com/Smeldr/core) - AI-native content backend with typed lifecycle management, native MCP tools for every content type, and zero runtime dependencies.
-*   [trpc-agent-go (⭐1.6k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
+*   [trpc-agent-go (⭐1.7k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 *   [web-researcher-mcp (⭐48)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 *   [zenflow (⭐37)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
@@ -419,7 +419,7 @@ Please take a quick gander at the [contribution guidelines (⭐179k)](https://gi
 *   [gommon/color (⭐596)](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
 *   [gookit/color (⭐1.6k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
 *   [goscaf (⭐29)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
-*   [lazyenv (⭐56)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐58)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 *   [lipgloss (⭐12k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 *   [loom (⭐127)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 *   [marker (⭐54)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
@@ -819,7 +819,7 @@ additional ordered map implementations.
 *   [LinDB (⭐3.1k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 *   [lotusdb (⭐2.3k)](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with lsm and b+tree.
 *   [lynxdb (⭐281)](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
-*   [MemHop (⭐3)](https://github.com/qyiun666/MemHop) - Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16 vector + entity), single .meh file, pure Go, zero infrastructure.
+*   [MemHop (⭐20)](https://github.com/qyiun666/MemHop) - Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16 vector + entity), single .meh file, pure Go, zero infrastructure.
 *   [Milvus (⭐45k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [minisql (⭐48)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
 *   [moss (⭐1k)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
@@ -920,7 +920,7 @@ additional ordered map implementations.
 *   [patcher (⭐9)](https://github.com/Jacobbrewer1/patcher) - Powerful SQL Query builder that automatically generates SQL queries from structs.
 *   [qrafter (⭐52)](https://github.com/SennovE/qrafter) - Type-safe SQL query builder with dialect-aware rendering, schema introspection, and migration generation.
 *   [qry (⭐35)](https://github.com/HnH/qry) - Tool that generates constants from files with raw SQL queries.
-*   [relica (⭐20)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐21)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 *   [sg (⭐7)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 *   [sq (⭐201)](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
 *   [sqlc (⭐18k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
@@ -1265,6 +1265,7 @@ additional ordered map implementations.
 *   [accounting (⭐911)](https://github.com/leekchan/accounting) - money and currency formatting for golang.
 *   [ach (⭐555)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 *   [bbgo (⭐1.7k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+*   [cnn-fear-and-greed-parse (⭐2)](https://github.com/wildsurfer/cnn-fear-and-greed-parse) - Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.
 *   [currency (⭐642)](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 *   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
 *   [dec128 (⭐48)](https://github.com/jokruger/dec128) - High performance 128-bit fixed-point decimal numbers.
@@ -1369,7 +1370,7 @@ additional ordered map implementations.
 
 *Tools that generate Go code.*
 
-*   [apispec (⭐82)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
+*   [apispec (⭐83)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
 *   [convergen (⭐51)](https://github.com/reedom/convergen) - Feature rich type-to-type copy code generator.
 *   [copygen (⭐404)](https://github.com/switchupcb/copygen) - Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default.
 *   [generis (⭐47)](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
@@ -1492,7 +1493,7 @@ additional ordered map implementations.
 *Toolkits*
 
 *   [app (⭐9k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
-*   [cimgui-go (⭐530)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐75k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐530)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐76k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.9k)](https://github.com/cimgui/cimgui).
 *   [Cogent Core (⭐2.3k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 *   [DarwinKit (⭐5.4k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 *   [energy (⭐606)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
@@ -2464,7 +2465,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [optimus-go (⭐368)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐289)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐78)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
-*   [pii-shield (⭐161)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+*   [pii-shield (⭐163)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 *   [pm (⭐2)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 *   [procscope (⭐32)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 *   [qrand (⭐18)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
@@ -2526,7 +2527,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user how to execute its session (local or in containers).
 *   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 *   [Euterpe (⭐577)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
-*   [Fider (⭐4.4k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
+*   [Fider (⭐4.5k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.6k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐4.9k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
 *   [go-feature-flag (⭐2.1k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
@@ -2540,7 +2541,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [nginx-prometheus (⭐43)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
 *   [OpenRun (⭐901)](https://github.com/openrundev/openrun) - Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.
-*   [pocketbase (⭐60k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [pocketbase (⭐61k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 *   [protoxy (⭐36)](https://github.com/camgraff/protoxy) - A proxy server that converts JSON request bodies to Protocol Buffers.
 *   [psql-streamer (⭐60)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [relay (⭐11)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
@@ -3114,7 +3115,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [sliceconv (⭐9)](https://github.com/Henry-Sarabia/sliceconv) - Slice conversion between primitive types.
 *   [slicer (⭐47)](https://github.com/leaanthony/slicer) - Makes working with slices easier.
 *   [sorty (⭐145)](https://github.com/jfcg/sorty) - Fast Concurrent / Parallel Sorting.
-*   [sqlex (⭐54)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
+*   [sqlex (⭐55)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
 *   [sqlx (⭐18k)](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
 *   [sqlz (⭐11)](https://github.com/rfberaldo/sqlz) - Extension for the database/sql package, adding named queries, struct scanning, and batch operations.
 *   [sshman (⭐58)](https://github.com/shoobyban/sshman) - SSH Manager for authorized\_keys files on multiple remote servers.
@@ -3170,7 +3171,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [govalid (⭐119)](https://github.com/twharmon/govalid) - Fast, tag-based validation for structs.
 *   [govalidator (⭐6.2k)](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
 *   [govalidator (⭐1.3k)](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
-*   [govy (⭐52)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐55)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 *   [hvalid (⭐14)](https://github.com/lyonnee/hvalid) hvalid is a lightweight validation library written in Go language. It provides a custom validator interface and a series of common validation functions to help developers quickly implement data validation.
 *   [jio (⭐126)](https://github.com/faceair/jio) - jio is a json schema validator similar to [joi (⭐21k)](https://github.com/hapijs/joi).
 *   [ozzo-validation (⭐4.1k)](https://github.com/go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
@@ -3262,7 +3263,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Ronykit (⭐37)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
 *   [rux (⭐100)](https://github.com/gookit/rux) - Simple and fast web framework for build golang HTTP applications.
 *   [templui (⭐1.7k)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
-*   [togo (⭐3)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
+*   [togo (⭐4)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
 *   [uAdmin (⭐354)](https://github.com/uadmin/uadmin) - Fully featured web framework for Golang, inspired by Django.
 *   [WebGo (⭐307)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 *   [Xun (⭐92)](https://github.com/yaitoo/xun) - Web framework built on Go's built-in html/template and net/http package’s router. It is designed to be lightweight, fast, and easy to use while providing a simple and intuitive API for building web applications with advanced features such as middleware, routing, and template rendering.
@@ -3534,7 +3535,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [chaosmonkey (⭐17k)](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
 *   [colima (⭐30k)](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup.
 *   [Ddosify (⭐8.5k)](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-*   [decompose (⭐138)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐139)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 *   [Den (⭐10)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [dish (⭐280)](https://github.com/thevxn/dish) - A lightweight, remotely configurable monitoring service.
@@ -3589,7 +3590,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [KubeVPN (⭐1.4k)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 *   [KusionStack (⭐1.3k)](https://github.com/KusionStack/kusion) - A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐339)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐33)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐310)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Mantil (⭐114)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.

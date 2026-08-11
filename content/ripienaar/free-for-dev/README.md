@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 11, 2026](/content/2026/08/11/README.md)
 
+### APIs, Data, and ML
+
+*   [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
+
 ### Security and PKI
 
 *   [CertPost](https://www.certpost.ai) - Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.

@@ -402,7 +402,7 @@ Use these hashtags in search to filter out the tools
 ## Developer Tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
-*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
+*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
 *   [agent-qa (⭐172)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
@@ -1142,6 +1142,7 @@ Use these hashtags in search to filter out the tools
 *   [Pika](https://pika.art/) - Platform to transform creativity into videos. \`\`
 *   [Pika Labs 2.0](https://pika.art/) - Next-generation video creation with enhanced motion and style control `#freemium`
 *   [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
+*   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
 *   [PixVerse](https://pixverse.ai/) - Text-to-realistic, anime, and 3D videos. `#free`
 *   [Pollo AI](https://pollo.ai/) - Singapore-based image and video creative hub. \`\`
 *   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`

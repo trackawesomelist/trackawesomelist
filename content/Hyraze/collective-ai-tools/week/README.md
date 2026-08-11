@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
+
+### Video
+
+*   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Copywriting
@@ -106,7 +112,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
+*   [Agent Island (⭐102)](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
 *   [Better Agent (⭐51)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
