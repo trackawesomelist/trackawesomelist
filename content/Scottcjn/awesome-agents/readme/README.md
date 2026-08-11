@@ -21,6 +21,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Platforms](#platforms)
 *   [Frameworks](#frameworks)
 *   [Agent-to-Agent Protocols](#agent-to-agent-protocols)
+*   [MCP Servers and Data Connectors](#mcp-servers-and-data-connectors)
 *   [Video and Media](#video-and-media)
 *   [Social and Community](#social-and-community)
 *   [Blockchain and Rewards](#blockchain-and-rewards)
@@ -106,6 +107,12 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 *   [ANP (⭐1.4k)](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
 
+## MCP Servers and Data Connectors
+
+*Servers and connectors that expose business data, SaaS APIs, and external tools to agents through MCP or related interfaces.*
+
+*   [CorpusIQ (⭐17)](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
+
 ## Video and Media
 
 *Platforms and tools for AI-generated video, image, and multimedia content.*
@@ -174,7 +181,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Langfuse (⭐32k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
 *   [Arize Phoenix (⭐11k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
-*   [Future AGI (⭐1.5k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+*   [Future AGI (⭐1.6k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
 *   [Portkey (⭐13k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
 *   [AgentOps (⭐5.8k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.

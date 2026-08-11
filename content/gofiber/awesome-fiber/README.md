@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/gofiber/awesome-fiber/week/README.md) / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Aug 11, 2026](/content/2026/08/11/README.md)
+
+### ⚙️ Middlewares / ‍💻 Contrib
+
+*   [spnego (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/spnego) - Kerberos authentication middleware for Fiber using the SPNEGO mechanism.
+
 ## [Aug 08, 2026](/content/2026/08/08/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
@@ -153,7 +159,7 @@
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [Alibaba/opentelemetry-go-auto-instrumentation (⭐884)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
+*   [Alibaba/opentelemetry-go-auto-instrumentation (⭐890)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
 
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 

@@ -6,6 +6,12 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ [Daily](/content/Scottcjn/awesome-agents/README.md) / Weekly / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
+
+### MCP Servers and Data Connectors
+
+*   [CorpusIQ (⭐17)](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Platforms
@@ -44,7 +50,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 ### Monitoring and Observability
 
 *   [ax (agent telemetry) (⭐93)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
-*   [Future AGI (⭐1.5k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+*   [Future AGI (⭐1.6k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 

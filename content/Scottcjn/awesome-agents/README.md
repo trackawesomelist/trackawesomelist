@@ -6,6 +6,12 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ Daily / [Weekly](/content/Scottcjn/awesome-agents/week/README.md) / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Aug 11, 2026](/content/2026/08/11/README.md)
+
+### MCP Servers and Data Connectors
+
+*   [CorpusIQ (⭐17)](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
+
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
 ### Platforms
@@ -35,7 +41,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Monitoring and Observability
 
-*   [Future AGI (⭐1.5k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+*   [Future AGI (⭐1.6k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
