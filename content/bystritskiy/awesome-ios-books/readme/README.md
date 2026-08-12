@@ -16,9 +16,9 @@ Awesome iOS Books helps developers find books for learning and deepening Apple p
 
 The list includes beginner-friendly books, advanced references, framework-specific guides, interview preparation. Entries link to official shop, publisher, author, or product pages where possible.
 
-|                                                                           Awesome                                                                           | Books |  Last updated  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  191  | August 7, 2026 |
+|                                                                           Awesome                                                                           | Books |   Last updated  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  199  | August 11, 2026 |
 
 ## How to Find a Book
 
@@ -76,6 +76,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
 *   [*iOS 18 App Development Essentials* by Neil Smyth](https://pragprog.com/titles/d-nsios18/ios-18-app-development-essentials/)
 *   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+*   [*iOS Security Through Defensive Techniques* by Deya Elkhawaldeh, Dave Poirier](https://www.packtpub.com/en-us/product/ios-security-through-defensive-techniques-9781806383177)
 *   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 *   [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
 *   [*Building iOS 17 Apps with Xcode Storyboards* by Neil Smyth](https://pragprog.com/titles/d-nsxcode/building-ios-17-apps-with-xcode-storyboards/)
@@ -116,6 +117,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*A Swift Kickstart, Second Edition* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/)
 *   [*Understanding Swift* by Paul Hudson](https://www.hackingwithswift.com/store/understanding-swift)
 *   [*Guide to Swift Numbers* by Flight School (Matt)](https://flightdotschool.com/books/numbers/)
+*   [*Swift for Masterminds 2nd Edition* by J.D. Gauchat](https://books.apple.com/us/book/swift-for-masterminds-2nd-edition/id6795262681)
 
 ## Functional Swift
 
@@ -158,6 +160,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Pro SwiftUI* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swiftui)
 *   [*SwiftUI Animations by Tutorials* by Bill Morefield, Irina Galata](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
 *   [*Animating SwiftUI Applications* by Stephen DeStefano](https://www.packtpub.com/en-us/product/animating-swiftui-applications-9781803232669)
+*   [*SwiftUI for Masterminds 7th Edition* by J.D. Gauchat](https://books.apple.com/us/book/swiftui-for-masterminds-7th-edition/id6795317029)
 
 ## Combine
 
@@ -232,6 +235,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
 *   [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
 *   [*Apple Foundation Models* by Bill Morefield](https://www.kodeco.com/books/apple-foundation-models)
+*   [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
 
 ## Metal
 
@@ -255,6 +259,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 *   [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
+*   [*The Art of Mac Malware, Volume 1* by Patrick Wardle](https://nostarch.com/art-mac-malware)
+*   [*The Art of Mac Malware, Volume 2* by Patrick Wardle](https://nostarch.com/node/778)
 
 ## Network
 
@@ -286,8 +292,10 @@ The list includes beginner-friendly books, advanced references, framework-specif
 ## macOS
 
 *   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
+*   [*Escape from Tutorial Hell* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/iqdry)
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 *   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
+*   [*macOS App Development: The SwiftUI Way* by Grace Huang](https://books.apple.com/us/book/macos-app-development-the-swiftui-way/id6476576877)
 *   [*Hacking with macOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwmacos)
 *   [*macOS Daemonology* by Volodymyr Vashurkin](https://link.springer.com/book/10.1007/978-1-4842-7277-0)
 *   [*Interprocess Communication with macOS* by Hem Dutt](https://link.springer.com/book/10.1007/978-1-4842-7045-5)
@@ -326,7 +334,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Contributing and License
 
-*   [See the guide (⭐696)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐706)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

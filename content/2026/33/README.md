@@ -1,24 +1,195 @@
 # Awesome List Updates on Aug 17 - Aug 23, 2026
 
-21 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Board support crates / Arduino
+
+*   [`avr_328p_hal`](https://crates.io/crates/avr_328p_hal) - A zero-dependency, board support crate for the Arduino UNO R3 on the AVR\_ATmega328p microcontroller featuring direct register-level control for performance. It leverages Rust's `Option` enum type to ensure only one part of the code has access to a specific driver. [Documentation](https://docs.rs/avr_328p_hal/)
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Games
+
+*   [Dino (⭐0)](https://github.com/egevtech/dino) - A simple console arcade game written in V where you control a dino and avoid cactuses and birds.
+
+### Web
+
+*   [v-jwt (⭐1)](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
+*   [v-sm3 (⭐0)](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
+
+## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Anti-Malware
+
+- API: [IPWhois.net Blacklist](https://ipwhois.net/blacklist/docs)
+
+  Description: Community IP blacklist to check and report abusive IP addresses
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Business
+
+- API: [Legal Sandbox Georgia](https://legal.ge/api/openapi.json)
+
+  Description: Find verified legal specialists in Georgia from natural-language queries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Web Metadata & Contact Extractor](https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor)
+
+  Description: Extract SEO metadata, contact emails, social links, and tech stack (<200ms)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic/)
+
+  Description: Email for AI agents: programmatic inbox creation and send/receive over JMAP
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Finance
+
+- API: [NORTH7 Agent](https://north7.ai/v1/docs)
+
+  Description: Trading signals, market analysis and geopolitical intelligence
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [KrakenKeys](https://krakenkeys.com/api-docs)
+
+  Description: Steam game key price comparison across 20+ stores, deals, and price history
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Machine Learning
+
+- API: [BRAINIALL (⭐0)](https://github.com/fasuizu-br/brainiall-transcription-skill)
+
+  Description: PT-BR and Spanish audio transcription with diarization and SRT/VTT
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Can I enter](https://canienter.com)
+
+  Description: Visa and entry requirements for 199 passports, cited to official sources, verified daily
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [4. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+
+### Bouncers / Self-hosted
+
+*   [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://packages.debian.org/sid/bip) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://salsa.debian.org/debian/bip)) `C`
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [PhilanthroPy (⭐6)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - A scikit-learn native toolkit for nonprofit and academic-medical-center fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
+
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### iOS
+
+*   [*iOS Security Through Defensive Techniques* by Deya Elkhawaldeh, Dave Poirier](https://www.packtpub.com/en-us/product/ios-security-through-defensive-techniques-9781806383177)
+
+### Swift
+
+*   [*Swift for Masterminds 2nd Edition* by J.D. Gauchat](https://books.apple.com/us/book/swift-for-masterminds-2nd-edition/id6795262681)
+
+### SwiftUI
+
+*   [*SwiftUI for Masterminds 7th Edition* by J.D. Gauchat](https://books.apple.com/us/book/swiftui-for-masterminds-7th-edition/id6795317029)
+
+### Machine Learning
+
+*   [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
+
+### Reverse Engineering
+
+*   [*The Art of Mac Malware, Volume 1* by Patrick Wardle](https://nostarch.com/art-mac-malware)
+*   [*The Art of Mac Malware, Volume 2* by Patrick Wardle](https://nostarch.com/node/778)
+
+### macOS
+
+*   [*Escape from Tutorial Hell* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/iqdry)
+*   [*macOS App Development: The SwiftUI Way* by Grace Huang](https://books.apple.com/us/book/macos-app-development-the-swiftui-way/id6476576877)
+
+## [7. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Science / Clients & Libraries
 
 *   [DavidBelicza/TextRank (⭐224)](https://github.com/DavidBelicza/TextRank) — TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). ☆`224`
 
-## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [8. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Video
 
 *   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
 
-## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
@@ -92,13 +263,13 @@
 *   [AgentScope (⭐29k)](https://github.com/agentscope-ai/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)
 *   [Agno (⭐42k)](https://github.com/agno-agi/agno): Build, run, and manage agent platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
 
-## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [10. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### MCP Servers and Data Connectors
 
 *   [CorpusIQ (⭐17)](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -197,7 +368,7 @@
 
 *   [JSON Schema (⭐5.1k) (⭐5.1k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [12. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -245,7 +416,7 @@
 
 *   [DDD Toolbox](https://dddtoolbox.com) - Open-source collection of modern web-based tools including Domain Storytelling and Event Storming ([Source Code (⭐383)](https://github.com/poulainpi/ddd-toolbox)).
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -255,11 +426,15 @@
 
 *   [CertPost](https://www.certpost.ai) - Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.
 
+### PaaS
+
+*   [Runsite](https://runsite.app/) - European PaaS with automated deployments from GitHub for web services or static sites (1 web 0.1 vCPU/256 MB free), managed PostgreSQL and Valkey(Redis) (30 days for free), Transactional Email (3,000 emails/month free), S3 compatible storage (5 GB/free), all what you need for start your web site. Servers located in Germany.
+
 ### Web Hosting
 
 *   [ShipStatic](https://shipstatic.com) - Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.
 
-## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [14. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
@@ -277,25 +452,29 @@
 
 *   :money\_with\_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
-## [9. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [15. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`skills`](https://github.com/typedb/typedb-skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 
-## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [16. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
 *   [spnego (⭐301)](https://github.com/gofiber/contrib/tree/main/v3/spnego) - Kerberos authentication middleware for Fiber using the SPNEGO mechanism.
 
-## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [17. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### Development Tools & Utilities
+
+*   [MCP Config Doctor](https://mcpconfigdoctor.online/) - Browser-local diagnostic that validates Gemini CLI `~/.gemini/settings.json` MCP server entries (shape, env/secret references, transport fields). Also covers Claude Code, Codex CLI, and VS Code MCP configs. No account, no telemetry, no remote calls — runs entirely in the browser.
 
 ### MCP Servers
 
 *   [RunAPI MCP (⭐54)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 
-## [12. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [18. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -306,20 +485,20 @@
 *   [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
 *   [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
 
-## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [19. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [MQTTForge (⭐0)](https://github.com/ibrahimilkhan/mqtt-forge) - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
 *   [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method (⭐0)](https://github.com/visoar/mqtt-acl-linter).
 
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [20. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [MQTT ACL Linter (⭐0)](https://github.com/visoar/mqtt-acl-linter) - Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.
 
-## [15. Tips](/content/git-tips/tips/week/README.md)
+## [21. Tips](/content/git-tips/tips/week/README.md)
 
 ## Basic Operations
 
@@ -1530,20 +1709,24 @@ git stash show --stat <stash@{n}>
 git stash show -p <stash@{n}>
 ```
 
-## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Newsletters / Book Deals (Affiliated)
 
 *   [Bamboo Weekly](https://www.bambooweekly.com) - Weekly pandas exercises based on current events and real-world public data, with fully worked solutions. Issues older than two years are free, as are the first two questions + answers in current issues. [Archive](https://www.bambooweekly.com/archive/).
 
-## [17. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [23. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Start Here
 
 *   [A Field Guide to Claude Fable 5](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns) by [Thariq Shihipar, Anthropic](https://github.com/ThariqS) - Really solid, insightful guidance on working/thinking with Claude Fable, and with AI in general. Very well written. Hints of Rumsfeld epistemology, but otherwise it's a great piece.
 *   [Beyond the Prompt: Claude Code](https://arps18.github.io/posts/claude-code-mastery) by [Arpan Patel](https://arps18.github.io/) - This has what you need. Remarkably clear, information-dense, it's Claude Code: the good parts, for beginners, advanced users, pets, anybody.
 
-## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [keen-code (⭐57)](https://github.com/mochow13/keen-code) - A context-efficient terminal-based AI coding agent. Provider agnostic, supports MCPs, Agent Skills, Subagents, and more. Comes with a simple and straightforward TUI.
 
 ### Financial
 
@@ -1553,13 +1736,13 @@ git stash show -p <stash@{n}>
 
 *   [eagle-image-api (⭐31)](https://github.com/nicobistolfi/eagle-image-api) - Image optimization and transformation API using libvips, deployable to AWS Lambda and CloudFront.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Education / Audio Record and Process
 
 *   [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1569,7 +1752,7 @@ git stash show -p <stash@{n}>
 
 *   [Hopp](https://gethopp.app) - Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio, Coscreen). ([Source Code (⭐647)](https://github.com/gethopp/hopp)) `AGPL-3.0` `Docker`
 
-## [21. Typography](/content/deanhume/typography/week/README.md)
+## [27. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 

@@ -6,6 +6,34 @@
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
+
+### iOS
+
+*   [*iOS Security Through Defensive Techniques* by Deya Elkhawaldeh, Dave Poirier](https://www.packtpub.com/en-us/product/ios-security-through-defensive-techniques-9781806383177)
+
+### Swift
+
+*   [*Swift for Masterminds 2nd Edition* by J.D. Gauchat](https://books.apple.com/us/book/swift-for-masterminds-2nd-edition/id6795262681)
+
+### SwiftUI
+
+*   [*SwiftUI for Masterminds 7th Edition* by J.D. Gauchat](https://books.apple.com/us/book/swiftui-for-masterminds-7th-edition/id6795317029)
+
+### Machine Learning
+
+*   [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
+
+### Reverse Engineering
+
+*   [*The Art of Mac Malware, Volume 1* by Patrick Wardle](https://nostarch.com/art-mac-malware)
+*   [*The Art of Mac Malware, Volume 2* by Patrick Wardle](https://nostarch.com/node/778)
+
+### macOS
+
+*   [*Escape from Tutorial Hell* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/iqdry)
+*   [*macOS App Development: The SwiftUI Way* by Grace Huang](https://books.apple.com/us/book/macos-app-development-the-swiftui-way/id6476576877)
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### iOS
@@ -572,7 +600,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐696)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐706)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)

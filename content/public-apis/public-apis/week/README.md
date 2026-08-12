@@ -6,6 +6,120 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
+
+### Anti-Malware
+
+- API: [IPWhois.net Blacklist](https://ipwhois.net/blacklist/docs)
+
+  Description: Community IP blacklist to check and report abusive IP addresses
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Business
+
+- API: [Legal Sandbox Georgia](https://legal.ge/api/openapi.json)
+
+  Description: Find verified legal specialists in Georgia from natural-language queries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Web Metadata & Contact Extractor](https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor)
+
+  Description: Extract SEO metadata, contact emails, social links, and tech stack (<200ms)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic/)
+
+  Description: Email for AI agents: programmatic inbox creation and send/receive over JMAP
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Finance
+
+- API: [NORTH7 Agent](https://north7.ai/v1/docs)
+
+  Description: Trading signals, market analysis and geopolitical intelligence
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [KrakenKeys](https://krakenkeys.com/api-docs)
+
+  Description: Steam game key price comparison across 20+ stores, deals, and price history
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Machine Learning
+
+- API: [BRAINIALL (⭐0)](https://github.com/fasuizu-br/brainiall-transcription-skill)
+
+  Description: PT-BR and Spanish audio transcription with diarization and SRT/VTT
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Can I enter](https://canienter.com)
+
+  Description: Visa and entry requirements for 199 passports, cited to official sources, verified daily
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Anime
@@ -1859,7 +1973,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐131)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -2984,7 +3098,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐224)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐223)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -8852,7 +8966,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐188)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐189)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
