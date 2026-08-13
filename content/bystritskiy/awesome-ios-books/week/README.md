@@ -11,6 +11,7 @@
 ### iOS
 
 *   [*iOS Security Through Defensive Techniques* by Deya Elkhawaldeh, Dave Poirier](https://www.packtpub.com/en-us/product/ios-security-through-defensive-techniques-9781806383177)
+*   [*A Best-in-Class iOS App: The Book Series* by Jordan Morgan](https://www.bestinclassiosapp.com/)
 
 ### Swift
 
@@ -19,10 +20,22 @@
 ### SwiftUI
 
 *   [*SwiftUI for Masterminds 7th Edition* by J.D. Gauchat](https://books.apple.com/us/book/swiftui-for-masterminds-7th-edition/id6795317029)
+*   [*Mastering SwiftUI 7* by Simon Ng](https://www.appcoda.com/swiftui/)
+
+### Architecture
+
+*   [*AI Driven Swift Architecture* by Walid SASSI, Dave Poirier](https://www.packtpub.com/en-fr/product/ai-driven-swift-architecture-9781835886540)
+*   [*Architecture & Design Patterns for iOS* by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
+
+### ARKit
+
+*   [*Building AR Apps with ARCore and ARKit* by Vedala Venkata Satyadev](https://orangeava.in/products/building-ar-apps-with-arcore-and-arkit)
 
 ### Machine Learning
 
 *   [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
+*   [*Exploring MLX Swift* by Rudrank Riyam](https://academy.rudrank.com/product/mlx-swift)
+*   [*Exploring Foundation Models Framework* by Rudrank Riyam](https://academy.rudrank.com/product/foundation-models)
 
 ### Reverse Engineering
 
@@ -33,6 +46,10 @@
 
 *   [*Escape from Tutorial Hell* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/iqdry)
 *   [*macOS App Development: The SwiftUI Way* by Grace Huang](https://books.apple.com/us/book/macos-app-development-the-swiftui-way/id6476576877)
+
+### Interview
+
+*   [*Preparing for a technical iOS job interview* by Natascha Fadeeva](https://tanaschita.com/books/interview-book/)
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 

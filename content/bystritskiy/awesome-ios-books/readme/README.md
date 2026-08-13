@@ -18,7 +18,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 |                                                                           Awesome                                                                           | Books |   Last updated  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  199  | August 11, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  207  | August 12, 2026 |
 
 ## How to Find a Book
 
@@ -83,6 +83,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Hacking with iOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-ios)
 *   [*Advanced iOS: Volume One* by Paul Hudson](https://www.hackingwithswift.com/store/advanced-ios-1)
 *   [*Everything but the Code* by Paul Hudson](https://www.hackingwithswift.com/store/everything-but-the-code)
+*   [*A Best-in-Class iOS App: The Book Series* by Jordan Morgan](https://www.bestinclassiosapp.com/)
 
 ## Objective-C
 
@@ -161,6 +162,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*SwiftUI Animations by Tutorials* by Bill Morefield, Irina Galata](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
 *   [*Animating SwiftUI Applications* by Stephen DeStefano](https://www.packtpub.com/en-us/product/animating-swiftui-applications-9781803232669)
 *   [*SwiftUI for Masterminds 7th Edition* by J.D. Gauchat](https://books.apple.com/us/book/swiftui-for-masterminds-7th-edition/id6795317029)
+*   [*Mastering SwiftUI 7* by Simon Ng](https://www.appcoda.com/swiftui/)
 
 ## Combine
 
@@ -185,6 +187,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 *   [*iOS Development at Scale* by Eric Vennaro](https://link.springer.com/book/10.1007/978-1-4842-9456-7)
 *   [*Real-World iOS Development* by Avi Tsadok](https://link.springer.com/book/10.1007/979-8-8688-2815-7)
+*   [*AI Driven Swift Architecture* by Walid SASSI, Dave Poirier](https://www.packtpub.com/en-fr/product/ai-driven-swift-architecture-9781835886540)
+*   [*Architecture & Design Patterns for iOS* by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
 
 ## Multithreading
 
@@ -226,6 +230,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Mastering ARKit* by Jayven Nhan](https://link.springer.com/book/10.1007/979-8-8688-0847-0)
 *   [*Apple Vision Pro for Creators* by John Ray](https://www.informit.com/store/apple-vision-pro-for-creators-a-beginners-guide-to-9780138360221)
 *   [*Computer Vision and Augmented Reality in iOS* by Ahmed Fathi Bekhit](https://link.springer.com/book/10.1007/978-1-4842-7462-0)
+*   [*Building AR Apps with ARCore and ARKit* by Vedala Venkata Satyadev](https://orangeava.in/products/building-ar-apps-with-arcore-and-arkit)
 
 ## Machine Learning
 
@@ -236,6 +241,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
 *   [*Apple Foundation Models* by Bill Morefield](https://www.kodeco.com/books/apple-foundation-models)
 *   [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
+*   [*Exploring MLX Swift* by Rudrank Riyam](https://academy.rudrank.com/product/mlx-swift)
+*   [*Exploring Foundation Models Framework* by Rudrank Riyam](https://academy.rudrank.com/product/foundation-models)
 
 ## Metal
 
@@ -316,6 +323,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 *   [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
 *   [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
 *   [*Swift Interview Challenges* by Paul Hudson](https://www.hackingwithswift.com/store/swift-interview-challenges)
+*   [*Preparing for a technical iOS job interview* by Natascha Fadeeva](https://tanaschita.com/books/interview-book/)
 
 ## 🇷🇺 Russian books
 
@@ -339,5 +347,11 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bystritskiy/awesome-ios-books\&type=Date)](https://star-history.com/#bystritskiy/awesome-ios-books\&Date)
+<a href="https://www.star-history.com/?repos=bystritskiy%2Fawesome-ios-books&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&theme=dark&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+ </picture>
+</a>
 

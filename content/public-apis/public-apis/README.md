@@ -6,6 +6,83 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 13, 2026](/content/2026/08/13/README.md)
+
+### Development
+
+- API: [DigMyName](https://digmyname.com/api)
+
+  Description: Domain availability and registrar pricing across 52 TLDs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Phone Specs](https://phone-specs-api-production.up.railway.app/docs)
+
+  Description: Real-time smartphone specifications database for 263 devices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TinyMind Agent Tools](https://tinymind.eu/api/)
+
+  Description: Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [i6eal Open AI Data](https://i6eal.de/en/tools/data/)
+
+  Description: Open datasets on AI policy, regulation and public-sector adoption in Germany and the EU
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site)
+
+  Description: Turn articles into ready-to-post X thread drafts with different hooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [TwitterAPIs](https://www.twitterapis.com/)
+
+  Description: Twitter / X data API: search, profiles, timelines, followers, DMs, write actions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Aug 12, 2026](/content/2026/08/12/README.md)
 
 ### Anti-Malware

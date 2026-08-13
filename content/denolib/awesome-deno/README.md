@@ -6,17 +6,23 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Aug 13, 2026](/content/2026/08/13/README.md)
+
+### Showcases / XML
+
+*   [Chobble Tickets (⭐15)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
+
 ## [Jun 26, 2026](/content/2026/06/26/README.md)
 
 ### Modules / Utils
 
-*   [csv-pipe (⭐9)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
+*   [csv-pipe (⭐13)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
 
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
 ### Modules / Utils
 
-*   [envapt (⭐9)](https://github.com/materwelonDhruv/envapt) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
+*   [envapt (⭐22)](https://github.com/materwelonDhruv/envapt) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
 
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
@@ -27,27 +33,27 @@ Curated list of awesome things related to Deno
 
 ### Modules / Database
 
-*   [aloedb (⭐143)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
-*   [deno\_mongo (⭐513)](https://github.com/denodrivers/mongo) - MongoDB database driver.
-*   [maxminddb (⭐17)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
+*   [aloedb (⭐144)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
+*   [deno\_mongo (⭐512)](https://github.com/denodrivers/mongo) - MongoDB database driver.
+*   [maxminddb (⭐18)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 
 ### Modules / Markdown
 
-*   [LiteMarkup (⭐1)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
+*   [LiteMarkup (⭐2)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
 
 ### Modules / Social Platform APIs
 
-*   [discordeno (⭐939)](https://github.com/discordeno/discordeno) - Discord API library for Deno
-*   [grammY (⭐3.6k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
+*   [discordeno (⭐940)](https://github.com/discordeno/discordeno) - Discord API library for Deno
+*   [grammY (⭐3.7k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 
 ### Modules / Template engine
 
-*   [eta (⭐1.7k)](https://github.com/bgub/eta) - Fast, lightweight, and configurable embedded template engine.
+*   [eta (⭐1.8k)](https://github.com/bgub/eta) - Fast, lightweight, and configurable embedded template engine.
 
 ### Modules / Testing
 
-*   [superdeno (⭐124)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-*   [superoak (⭐120)](https://github.com/cmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+*   [superdeno (⭐123)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+*   [superoak (⭐121)](https://github.com/cmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 
 ### Modules / Utils
 
@@ -60,7 +66,7 @@ Curated list of awesome things related to Deno
 
 *   [aqua (⭐216)](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
 *   [drash (⭐1.1k)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-*   [opine (⭐849)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+*   [opine (⭐848)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
     *   [opine-http-proxy (⭐17)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 
 ### Modules / Web utils
@@ -68,8 +74,8 @@ Curated list of awesome things related to Deno
 *   [djwt (⭐235)](https://github.com/Zaubrik/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [gentleRpc (⭐45)](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 *   [graphql-tag (⭐8)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
-*   [obsidian (⭐763)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
-*   [ts-prometheus (⭐31)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
+*   [obsidian (⭐765)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
+*   [ts-prometheus (⭐32)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
 
 ### Modules / Webview
 
@@ -84,11 +90,11 @@ Curated list of awesome things related to Deno
 *   [denopkg (⭐239)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 *   dvm
-    *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐705)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [asdf-community/asdf-deno (⭐131)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [justjavac/dvm (⭐708)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
-    *   [ghosind/dvm (⭐53)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
-*   [pup (⭐194)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
+    *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+*   [pup (⭐195)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
@@ -106,7 +112,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / CLI utils
 
-*   [commit-sage-cli (⭐47)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
+*   [commit-sage-cli (⭐51)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 
 ## [May 07, 2025](/content/2025/05/07/README.md)
 
@@ -149,25 +155,19 @@ Curated list of awesome things related to Deno
 
 ### Tools / XML
 
-*   [studio-pack-generator (⭐121)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
-
-## [Apr 30, 2024](/content/2024/04/30/README.md)
-
-### Resources in Other Languages / Korean
-
-*   [Deno Korea](https://deno.kr/) - Deno Korean User Group.
+*   [studio-pack-generator (⭐122)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
 ### Modules / Logging
 
-*   [LogTape (⭐1.8k)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
+*   [LogTape (⭐1.9k)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
 ## [Mar 06, 2024](/content/2024/03/06/README.md)
 
 ### Modules / Social Platform APIs
 
-*   [MTKruto (⭐162)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
+*   [MTKruto (⭐171)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
@@ -206,17 +206,13 @@ Curated list of awesome things related to Deno
 
 ### Modules / CLI utils
 
-*   [tui (⭐303)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐305)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
 ### Modules / Database
 
 *   [dongoose (⭐27)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
-
-### Modules / Web utils
-
-*   [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
@@ -262,13 +258,12 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [danet (⭐519)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐524)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [Nov 06, 2022](/content/2022/11/06/README.md)
 
 ### Blogs/Newsletters / XML
 
-*   [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
 *   [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
 *   [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
 
@@ -276,11 +271,11 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [hono (⭐31k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+*   [hono (⭐32k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 
 ### Modules / Web utils
 
-*   [fresh\_chart (⭐153)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
+*   [fresh\_chart (⭐154)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 
 ### Showcases / XML
 
@@ -296,10 +291,6 @@ Curated list of awesome things related to Deno
 *   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
 *   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 *   [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
-
-### Resources in Other Languages / Japanese
-
-*   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
@@ -325,27 +316,26 @@ Curated list of awesome things related to Deno
 ### Modules / Cloud APIs
 
 *   [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
-*   [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ## [Jun 14, 2022](/content/2022/06/14/README.md)
 
 ### Modules / Database
 
 *   [deno\_mysql (⭐264)](https://github.com/denodrivers/mysql) - MySQL database driver.
-*   [redis (⭐467)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐466)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [Jun 07, 2022](/content/2022/06/07/README.md)
 
 ### Modules / Game engine
 
-*   [caviar (⭐171)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
-*   [sdl2 (⭐185)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [caviar (⭐172)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [sdl2 (⭐184)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ## [May 17, 2022](/content/2022/05/17/README.md)
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐256)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐254)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 
 ### Modules / Math
 
@@ -389,19 +379,19 @@ Curated list of awesome things related to Deno
 
 ### Modules / CLI utils
 
-*   [yargs (⭐11k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
+*   [yargs (⭐12k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
 ### Showcases / XML
 
-*   [Edrys (⭐332)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐335)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [Mar 12, 2022](/content/2022/03/12/README.md)
 
 ### Modules / Web framework
 
-*   [faster (⭐58)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐57)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [Feb 06, 2022](/content/2022/02/06/README.md)
 
@@ -419,7 +409,7 @@ Curated list of awesome things related to Deno
 
 ### Tools / XML
 
-*   [denoflow (⭐286)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
+*   [denoflow (⭐287)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 
 ## [Nov 28, 2021](/content/2021/11/28/README.md)
 
@@ -451,7 +441,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Editor framework
 
-*   [Denops (⭐787)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐789)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 
@@ -469,7 +459,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐675)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐674)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -488,7 +478,7 @@ Curated list of awesome things related to Deno
 ### Modules / Database
 
 *   [denodb (⭐1.9k)](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
-*   [postgres (⭐655)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+*   [postgres (⭐656)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 
 ### Modules / Mail
 
@@ -497,12 +487,12 @@ Curated list of awesome things related to Deno
 ### Modules / Testing
 
 *   [deno-puppeteer (⭐458)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
-*   [rhum (⭐91)](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
-*   [unexpected (⭐366)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+*   [rhum (⭐90)](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
+*   [unexpected (⭐368)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Modules / Utils
 
-*   [computed\_types (⭐360)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+*   [computed\_types (⭐359)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [wu-diff-js (⭐19)](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 ### Modules / Web framework
@@ -518,9 +508,9 @@ Curated list of awesome things related to Deno
 ### Modules / Web utils
 
 *   [forwarded (⭐8)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
-*   [gql (⭐203)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
-*   [nats (⭐179)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
-*   [router (⭐55)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
+*   [gql (⭐204)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [nats (⭐180)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
+*   [router (⭐54)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 
 ### Modules / XML
 
@@ -545,13 +535,6 @@ Curated list of awesome things related to Deno
 ### Tools / XML
 
 *   [kopo-cli (⭐16)](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
-
-## [Mar 04, 2021](/content/2021/03/04/README.md)
-
-### Registries / XML
-
-*   [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
-*   [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 
 ## [Jan 07, 2021](/content/2021/01/07/README.md)
 
@@ -581,7 +564,7 @@ Curated list of awesome things related to Deno
 
 ### Tools / XML
 
-*   [make-deno-edition (⭐43)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+*   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
 
@@ -615,7 +598,7 @@ Curated list of awesome things related to Deno
 
 ### Tools / XML
 
-*   [trex (⭐730)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐727)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Resources in Other Languages / Spanish
 
@@ -711,7 +694,7 @@ Curated list of awesome things related to Deno
 ### Tools / XML
 
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
-*   [udd (⭐327)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
+*   [udd (⭐324)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 
 ### Articles / XML
 
@@ -743,23 +726,23 @@ Curated list of awesome things related to Deno
 
 ### Modules / Database
 
-*   [nessie (⭐520)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [nessie (⭐519)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
 
 ### Modules / Utils
 
-*   [evt (⭐463)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐461)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐948)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐949)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [Mar 23, 2020](/content/2020/03/23/README.md)
 
 ### Tools / XML
 
-*   [denomander (⭐151)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐152)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [Jan 15, 2020](/content/2020/01/15/README.md)
 

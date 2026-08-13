@@ -6,6 +6,34 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Aug 13, 2026](/content/2026/08/13/README.md)
+
+### iOS
+
+*   [*A Best-in-Class iOS App: The Book Series* by Jordan Morgan](https://www.bestinclassiosapp.com/)
+
+### SwiftUI
+
+*   [*Mastering SwiftUI 7* by Simon Ng](https://www.appcoda.com/swiftui/)
+
+### Architecture
+
+*   [*AI Driven Swift Architecture* by Walid SASSI, Dave Poirier](https://www.packtpub.com/en-fr/product/ai-driven-swift-architecture-9781835886540)
+*   [*Architecture & Design Patterns for iOS* by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
+
+### ARKit
+
+*   [*Building AR Apps with ARCore and ARKit* by Vedala Venkata Satyadev](https://orangeava.in/products/building-ar-apps-with-arcore-and-arkit)
+
+### Machine Learning
+
+*   [*Exploring MLX Swift* by Rudrank Riyam](https://academy.rudrank.com/product/mlx-swift)
+*   [*Exploring Foundation Models Framework* by Rudrank Riyam](https://academy.rudrank.com/product/foundation-models)
+
+### Interview
+
+*   [*Preparing for a technical iOS job interview* by Natascha Fadeeva](https://tanaschita.com/books/interview-book/)
+
 ## [Aug 12, 2026](/content/2026/08/12/README.md)
 
 ### iOS
