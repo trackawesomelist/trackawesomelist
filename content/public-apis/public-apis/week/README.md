@@ -36,11 +36,47 @@ A collective list of free APIs
 
 
 
+### Cryptocurrency
+
+- API: [CoinLobster](https://coinlobster.com/developers)
+
+  Description: Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [monerometrics](https://monerometrics.net)
+
+  Description: Reorg-aware Monero (XMR) network metrics, mining-pool centralization and chain reorganizations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Development
 
 - API: [DigMyName](https://digmyname.com/api)
 
   Description: Domain availability and registrar pricing across 52 TLDs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OutageDeck](https://outagedeck.com/developers/api)
+
+  Description: Live status and incidents for 170+ cloud and SaaS providers from official feeds
 
   Auth: No
 
@@ -97,7 +133,32 @@ A collective list of free APIs
 
 
 
+### Entertainment
+
+- API: [CosmyDay Astrology](https://cosmyday.com/api-docs)
+
+  Description: Natal charts and sky events computed from Swiss Ephemeris
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Finance
+
+- API: [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail)
+
+  Description: SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
 
 - API: [NORTH7 Agent](https://north7.ai/v1/docs)
 
@@ -138,6 +199,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api)
+
+  Description: Parse dreams into structured entities, emotions, agency, threat, and outcomes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Open Data
 
@@ -146,6 +218,42 @@ A collective list of free APIs
   Description: Open datasets on AI policy, regulation and public-sector adoption in Germany and the EU
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LottoLens PH](https://remo65588-boop.github.io/lottolens-ph-public-data/api/)
+
+  Description: Fixed Philippine PCSO historical results and normal draw schedules
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [CycleCalcs](https://www.cyclecalcs.com/api.html)
+
+  Description: Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [VedIntel™ AstroAPI](https://vedintelastroapi.com/docs)
+
+  Description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -178,11 +286,50 @@ A collective list of free APIs
 
 
 
+### Sports & Fitness
+
+- API: [PlayerElo](https://playerelo.football/api-access)
+
+  Description: Player-level Elo ratings, predictions and history for 176 football leagues
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Transportation
 
 - API: [Can I enter](https://canienter.com)
 
   Description: Visa and entry requirements for 199 passports, cited to official sources, verified daily
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt)
+
+  Description: Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Hail History](https://hail-history-noaa.netlify.app/api-docs.html)
+
+  Description: Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year
 
   Auth: No
 

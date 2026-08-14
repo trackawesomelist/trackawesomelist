@@ -2,7 +2,7 @@
 
 A curated list about Audio Visualization.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/willianjusten/awesome-audio-visualization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) · ⭐ 4.9K · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/willianjusten/awesome-audio-visualization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) · ⭐ 5.1K · 🏷️ Media
 
 [ [Daily](/content/willianjusten/awesome-audio-visualization/README.md) / [Weekly](/content/willianjusten/awesome-audio-visualization/week/README.md) / Overview ]
 
@@ -53,75 +53,145 @@ A curated list about Audio Visualization.
 *   [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 *   [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 *   [Motion Sound](http://motionsound.io/)
-*   [Cava (⭐5.7k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+*   [Cava (⭐6.3k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 
 ## Experiments
 
+*   [Master Pro Audio Analyzer Suite (⭐0)](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
+
 *   [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
+
 *   [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
+
 *   [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
+
 *   [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
+
 *   [Tangled](http://netlabelday2016.yarnaudio.com/) - Audio-visual release by Berlin based netlabel Yarn Audio, visuals made in [cables](https://cables.gl/). Drag to rotate, scroll to zoom.
+
 *   [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
+
 *   [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
+
 *   [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
+
 *   [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
+
 *   [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn\_10's.
+
 *   [Fluctus](http://jojo.ninja/fluctus/) - Experimental 3D Audio Visualizer by Jordan Machado.
+
 *   [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
+
 *   [Lantern](https://www.uberviz.io/viz/lantern/) - WebGL Visualizer for "Lantern" by SBTRKT.
+
 *   [Lines](http://labs.fluuu.id/lines/) - Visualising Joy Division album cover as a music spectrum by Silvio Paganini.
+
 *   [Nero](https://www.uberviz.io/viz/nero/) - WebGL Visualizer for "In The Way" by Nero.
+
 *   [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - WebGL Visualizer for "Szerencsétlen" by Venetian Snares.
+
 *   [Splice](https://www.uberviz.io/viz/splice/) - A realtime interactive music visualizer using time-code data from Splice's upcoming visualizer API.
+
 *   [Typatone](http://www.typatone.com/) - Make music while you write.
+
 *   [Yume](http://unseen-music.com/yume/) - Campaign for Helios' "Yume" album.
+
 *   [Silk](http://mattdesl.github.io/codevember/21.html) - 3D Audio Visualizer by Matt DesLauriers.
+
 *   [Wave](http://mattdesl.github.io/codevember/3.html) - 3D Audio Visualizer by Matt DesLauriers.
+
 *   [Binaural](http://mattdesl.github.io/codevember/6.html) - Experiment using Binaural and Reverb audio effects by Matt DesLauriers.
+
 *   [Word Problems](https://www.uberviz.io/viz/word-problems/) - WebGL Visualizer for "Word Problems" by Harmonic 313.
+
 *   [Glitch](http://naivesound.com/glitch/) - An algorithmic synthesizer to make music from math.
+
 *   [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
+
 *   [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
+
 *   [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
+
 *   [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
-*   *   [Multitrack Audio Visualizer (⭐0)](https://github.com/geoffmyers/multitrack-audio-visualizer) - A real-time audio/music visualizer that displays multi-track waveforms with customizable colors and can export high-quality MP4/H.265 videos.
+
+*   *   [Multitrack Audio Visualizer (⭐4)](https://github.com/geoffmyers/multitrack-audio-visualizer) - A real-time audio/music visualizer that displays multi-track waveforms with customizable colors and can export high-quality MP4/H.265 videos.
+
 *   [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
+
 *   [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
+
 *   [Experiment #8](http://brunoimbrizi.com/experiments/#/08) - Music Experiment by Bruno Imbrizi.
+
 *   [Music Cube](http://www.808cube.com/) - A Chrome Experiment that combines the Roland TR-808 Drum Machine with the Rubik's Cube.
+
 *   [Music Game - ECHO](http://tonenotone.com/ECHO/) - A challenging musical puzzle game.
+
 *   [Patatap](http://www.patatap.com/) - A portable animation and sound kit.
+
 *   [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink) - A multiplayer music experience.
+
 *   [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - A Canvas and Web Audio Experiment.
+
 *   [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) - Music Visualizers that are made entirely using DOM elements and CSS3.
+
 *   [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - Music Visualizations inspired in Kandinsky.
+
 *   [Visual Music Trailer](https://vimeo.com/160470393) - Live audio visual performance ideas.
+
 *   [Draw and Music](http://rugs.grindselect.com/) - Campaign for Rugs new album by Sam Greens.
+
 *   [Moogfest Substrate](http://www.moogfest.com/_substrate) - Experimental site to Moogfest.
+
 *   [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
+
 *   [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
+
 *   [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
+
 *   [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
+
 *   [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
+
 *   [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
+
 *   [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
+
 *   [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
+
 *   [VR Ondes Martenot (⭐6)](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
+
 *   [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
+
 *   [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
+
 *   [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
+
 *   [Andantino](https://alpcanaydin.github.io/andantino/) Listen some notes and try to find same notes on the keyboard.
+
 *   [Vissonance](https://tariqksoliman.github.io/Vissonance/) A collection of audio visualizers built in THREE.js.
+
 *   [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
+
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
-*   [Audio Visualizer (⭐42)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
-*   [YouTube Musical Spectrum (⭐189)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
+
+*   [Audio Visualizer (⭐43)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
+
+*   [YouTube Musical Spectrum (⭐197)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
+
 *   [Just Dance](http://hiteshsahu.com/AudioAnalysis) - A 3D Audio Visualization made with [BabylonJS](http://babylonjs.com/) & 2D Perlin Noise.
+
 *   [audioMotion](https://audiomotion.me) - High-resolution real-time audio spectrum analyzer and full-featured music player written in JavaScript. Includes binaries for Windows, Linux and macOS.
-*   [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound (⭐905)](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
+
+*   [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound (⭐909)](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
+
 *   [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
-*   [osci-render (⭐600)](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+
+*   [osci-render (⭐719)](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+
+*   [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
+
+*   [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
 
 ## Experiments on Codepen
 
@@ -145,55 +215,56 @@ A curated list about Audio Visualization.
 
 ## Libraries Audio
 
-*   [web-audio-analyser (⭐215)](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
-*   [web-audio-player (⭐244)](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
+*   [web-audio-analyser (⭐217)](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
+*   [web-audio-player (⭐242)](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
 *   [web-media-playback (⭐8)](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 *   [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-*   [ThreeAudio.js (⭐538)](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
+*   [ThreeAudio.js (⭐541)](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 *   [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
 *   [MIDI.js (⭐3.9k)](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web.
 *   [Beep.js (⭐1.4k)](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
-*   [p5.sound (⭐905)](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
+*   [p5.sound (⭐909)](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
 *   [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 *   [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 *   [audio-render (⭐44)](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
-*   [Octavian (⭐179)](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
+*   [Octavian (⭐181)](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 *   [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-*   [audiowaveform (⭐2.1k)](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+*   [audiowaveform (⭐2.2k)](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 *   [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
-*   [audio (⭐232)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
-*   [wav (⭐376)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
-*   [standardized-audio-context (⭐767)](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
-*   [web-audio-beat-detector (⭐647)](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
-*   [meyda (⭐1.6k)](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
+*   [audio (⭐239)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
+*   [wav (⭐392)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
+*   [standardized-audio-context (⭐777)](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
+*   [web-audio-beat-detector (⭐676)](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
+*   [meyda (⭐1.7k)](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
 ## Libraries Visualization
 
 *   [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-*   [Pixi.js (⭐46k)](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+*   [Pixi.js (⭐48k)](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 *   [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 *   [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 *   [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
 *   [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-*   [Web Audio Extension (⭐192)](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
+*   [Web Audio Extension (⭐193)](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 *   [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 *   [HYPE\_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
-*   [The Force (⭐287)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-*   [Hylogen (⭐486)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+*   [The Force (⭐294)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
+*   [Hylogen (⭐490)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 *   [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-*   [Clubber.js (⭐372)](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
+*   [Clubber.js (⭐376)](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 *   [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 *   [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 *   [wavebell (⭐51)](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
-*   [Circular Audio Wave (⭐278)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
+*   [Circular Audio Wave (⭐280)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 *   [Slang (⭐1.2k)](https://github.com/kylestetz/slang) - An audio programming language built in JS
 *   [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
-*   [Cava (⭐5.7k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+*   [Cava (⭐6.3k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 *   [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser.
 
 ## People to Follow
 
+*   [Varun Maurya](https://www.linkedin.com/in/maurya-varun/) - Cloud & Media Systems Engineer, Solutions Architect, Hybrid AV/IT Infrastructure, Live Events & Studio Post-Production Audio Engineer
 *   [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
 *   [Joshua Davis](http://www.joshuadavis.com/) - An American designer, technologist, author and artist in new media.
 *   [Robert Hodgin](http://roberthodgin.com/) - A creative coder living in Brooklyn. Co-creator of the Cinder C++.
@@ -257,7 +328,7 @@ A curated list about Audio Visualization.
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines (⭐4.9k)](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
+Your contributions are always welcome! [Click here to read the guidelines (⭐5.1k)](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
 
 ## Authors
 

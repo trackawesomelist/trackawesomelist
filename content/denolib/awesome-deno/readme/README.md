@@ -83,6 +83,7 @@ This list is a collection of the best Deno modules and resources.
 ### Automation
 
 *   [swissknife (⭐10)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+*   [zuke (⭐28)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 
@@ -289,7 +290,7 @@ This list is a collection of the best Deno modules and resources.
 *   [dnt (⭐1.3k)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 *   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 *   dvm
-    *   [asdf-community/asdf-deno (⭐131)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
     *   [justjavac/dvm (⭐708)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.

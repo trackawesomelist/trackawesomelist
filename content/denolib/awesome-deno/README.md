@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Aug 14, 2026](/content/2026/08/14/README.md)
+
+### Modules / Automation
+
+*   [zuke (⭐28)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
+
 ## [Aug 13, 2026](/content/2026/08/13/README.md)
 
 ### Showcases / XML
@@ -90,7 +96,7 @@ Curated list of awesome things related to Deno
 *   [denopkg (⭐239)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 *   dvm
-    *   [asdf-community/asdf-deno (⭐131)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
     *   [justjavac/dvm (⭐708)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.

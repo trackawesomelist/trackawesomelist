@@ -8,6 +8,10 @@ Curated list of awesome things related to Deno
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
+### Modules / Automation
+
+*   [zuke (⭐28)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
+
 ### Showcases / XML
 
 *   [Chobble Tickets (⭐15)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
@@ -90,7 +94,7 @@ Curated list of awesome things related to Deno
 *   [denopkg (⭐239)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 *   dvm
-    *   [asdf-community/asdf-deno (⭐131)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
     *   [justjavac/dvm (⭐708)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.

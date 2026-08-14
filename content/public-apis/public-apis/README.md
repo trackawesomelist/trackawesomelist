@@ -6,6 +6,170 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 14, 2026](/content/2026/08/14/README.md)
+
+### Cryptocurrency
+
+- API: [CoinLobster](https://coinlobster.com/developers)
+
+  Description: Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [monerometrics](https://monerometrics.net)
+
+  Description: Reorg-aware Monero (XMR) network metrics, mining-pool centralization and chain reorganizations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [OutageDeck](https://outagedeck.com/developers/api)
+
+  Description: Live status and incidents for 170+ cloud and SaaS providers from official feeds
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [CosmyDay Astrology](https://cosmyday.com/api-docs)
+
+  Description: Natal charts and sky events computed from Swiss Ephemeris
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail)
+
+  Description: SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Machine Learning
+
+- API: [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api)
+
+  Description: Parse dreams into structured entities, emotions, agency, threat, and outcomes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [LottoLens PH](https://remo65588-boop.github.io/lottolens-ph-public-data/api/)
+
+  Description: Fixed Philippine PCSO historical results and normal draw schedules
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [CycleCalcs](https://www.cyclecalcs.com/api.html)
+
+  Description: Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [VedIntel™ AstroAPI](https://vedintelastroapi.com/docs)
+
+  Description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [PlayerElo](https://playerelo.football/api-access)
+
+  Description: Player-level Elo ratings, predictions and history for 176 football leagues
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Transportation
+
+- API: [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt)
+
+  Description: Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Hail History](https://hail-history-noaa.netlify.app/api-docs.html)
+
+  Description: Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 13, 2026](/content/2026/08/13/README.md)
 
 ### Development

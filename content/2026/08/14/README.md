@@ -1,12 +1,12 @@
-# Track Awesome Math Updates Daily
+# Awesome List Updates on Aug 14, 2026
 
-A curated list of awesome mathematics resources
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 16K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
-## [Aug 14, 2026](/content/2026/08/14/README.md)
+
+## [1. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Start Here / Learning Platforms
 
@@ -435,475 +435,246 @@ A curated list of awesome mathematics resources
 *   [Interactive Mathematics (⭐301)](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
 *   [AI for Mathematics (⭐78)](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
 
-## [May 19, 2026](/content/2026/05/19/README.md)
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
-### Foundations and Logic / Logic
+### Network & Web / WebAssembly
 
-*   [forall x: Calgary (An Introduction to Formal Logic)](https://forallx.openlogicproject.org/) - P.D. Magnus and Tim Button, remixed by Aaron Thomas-Bolduc and Richard Zach (Open Logic Project).
+*   [zwasm (⭐161)](https://github.com/zwasm/zwasm) - From-scratch WebAssembly runtime in Zig. Full WebAssembly 3.0 with 100% spec conformance, WASI 0.1/0.2/0.3, and interpreter + JIT (arm64/x86\_64) + AOT backends.
 
-## [Apr 07, 2026](/content/2026/04/07/README.md)
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
-### Geometry and Topology / General Topology
+### Financial
 
-*   [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard.
+*   [eu-vat-rates-data-go (⭐1)](https://github.com/vatnode/eu-vat-rates-data-go) - VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB.
 
-## [Mar 02, 2026](/content/2026/03/02/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Start Here / Video Courses and Series
+### Libraries / Data processing
 
-*   [Numberphile](https://www.youtube.com/@numberphile) - Popular mathematics videos featuring mathematicians discussing problems, ideas, and curiosities.
+*   [logisky/LogiSheets (⭐136)](https://github.com/logisky/LogiSheets) \[[logisheets-rs](https://crates.io/crates/logisheets-rs)] - A new, modern spreadsheet engine that drives real products.
 
-## [Feb 08, 2026](/content/2026/02/08/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
-### Start Here / Reference Works
+### Modules / Automation
 
-*   [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Capelo Monteiro (freeCodeCamp).
+*   [zuke (⭐28)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
-## [Nov 27, 2025](/content/2025/11/27/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
-### Mathematical Practice / Mathematical Software and Tools
+### Cryptocurrency
 
-*   [RunMat (⭐247)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+- API: [CoinLobster](https://coinlobster.com/developers)
 
-## [Nov 24, 2025](/content/2025/11/24/README.md)
+  Description: Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar
 
-### Combinatorics and Discrete Mathematics / Graph Theory
+  Auth: No
 
-*   [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam.
+  HTTPS: Yes
 
-### Mathematical Practice / Mathematical Software and Tools
+  CORS: Yes
 
-*   [MathFlow (⭐56)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving).
 
-## [Jul 18, 2025](/content/2025/07/18/README.md)
+- API: [monerometrics](https://monerometrics.net)
 
-### Algebra / Abstract Algebra
+  Description: Reorg-aware Monero (XMR) network metrics, mining-pool centralization and chain reorganizations
 
-*   [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier.
+  Auth: No
 
-### Number Theory / Algebraic Number Theory
+  HTTPS: Yes
 
-*   [Introduction to Algebraic Number Theory](https://feog.github.io/ANT10.pdf) - F. Oggier.
+  CORS: Yes
 
-## [Jan 22, 2025](/content/2025/01/22/README.md)
 
-### Algebra / Linear Algebra
 
-*   [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler.
+### Development
 
-## [Nov 12, 2024](/content/2024/11/12/README.md)
+- API: [OutageDeck](https://outagedeck.com/developers/api)
 
-### Start Here / Proof and Problem Solving
+  Description: Live status and incidents for 170+ cloud and SaaS providers from official feeds
 
-*   [Book of Proof](https://richardhammack.github.io/BookOfProof/) - Richard Hammack (Virginia Commonwealth University).
+  Auth: No
 
-### Geometry and Topology / Differential Geometry
+  HTTPS: Yes
 
-*   [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania).
+  CORS: Yes
 
-## [Sep 19, 2024](/content/2024/09/19/README.md)
 
-### Start Here / Learning Platforms
 
-*   [Math Academy](https://mathacademy.com/) - Paid adaptive platform with diagnostic assessment and mastery-based courses from fourth-grade mathematics through university topics.
+### Entertainment
 
-## [Sep 15, 2024](/content/2024/09/15/README.md)
+- API: [CosmyDay Astrology](https://cosmyday.com/api-docs)
 
-### Community and Further Reading / Meetings and Conferences
+  Description: Natal charts and sky events computed from Swiss Ephemeris
 
-*   [MathsJam](https://mathsjam.com/) - Monthly local recreational mathematics and puzzle meetups, plus an annual gathering in the United Kingdom.
-*   [Talking Maths in Public](https://talkingmathsinpublic.uk/) - Biennial conference for mathematics communicators in the United Kingdom.
-*   [Bridges](https://www.bridgesmathart.org/) - Annual conference on mathematical connections in art, music, architecture, and culture.
+  Auth: No
 
-## [Aug 16, 2024](/content/2024/08/16/README.md)
+  HTTPS: Yes
 
-### Algebra / Ring and Field Theory
+  CORS: Yes
 
-*   [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart.
-*   [Galois Theory](https://arxiv.org/pdf/2408.07499) - Tom Leinster (University of Edinburgh).
 
-## [Mar 29, 2024](/content/2024/03/29/README.md)
 
-### Numerical and Computational Mathematics / Numerical Analysis
+### Finance
 
-*   [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Online text by Robert van de Geijn and Margaret Myers on algorithms for advanced numerical linear algebra.
+- API: [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail)
 
-## [Mar 12, 2024](/content/2024/03/12/README.md)
+  Description: SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings
 
-### Start Here / Reference Works
+  Auth: `apiKey`
 
-*   [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Paid reference edited by Timothy Gowers, June Barrow-Green, and Imre Leader.
-*   [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Paid reference by Michel Marie Deza and Elena Deza.
+  HTTPS: Yes
 
-## [Mar 02, 2024](/content/2024/03/02/README.md)
+  CORS: Unknown
 
-### Analysis / Functional Analysis
 
-*   [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo).
 
-## [Feb 28, 2024](/content/2024/02/28/README.md)
+### Machine Learning
 
-### Numerical and Computational Mathematics / Numerical Analysis
+- API: [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api)
 
-*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Specialized notes by Alfred Schmidt and Arsen Narimanyan on adaptive finite element methods.
+  Description: Parse dreams into structured entities, emotions, agency, threat, and outcomes
 
-## [Aug 10, 2023](/content/2023/08/10/README.md)
+  Auth: No
 
-### Number Theory / Representation Theory
+  HTTPS: Yes
 
-*   [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz.
+  CORS: Yes
 
-## [Jul 21, 2023](/content/2023/07/21/README.md)
 
-### Probability and Statistics / Algebraic Statistics
 
-*   [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant.
-*   [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita.
-*   [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann.
+### Open Data
 
-## [Jul 06, 2023](/content/2023/07/06/README.md)
+- API: [LottoLens PH](https://remo65588-boop.github.io/lottolens-ph-public-data/api/)
 
-### Start Here / Reference Works
+  Description: Fixed Philippine PCSO historical results and normal draw schedules
 
-*   [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
+  Auth: No
 
-## [May 26, 2023](/content/2023/05/26/README.md)
+  HTTPS: Yes
 
-### Start Here / Video Courses and Series
+  CORS: Yes
 
-*   [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - Introductory video explanations of statistics, probability, and machine learning.
 
-## [Jan 26, 2023](/content/2023/01/26/README.md)
 
-### Start Here / Video Courses and Series
+### Science & Math
 
-*   [Brandon Foltz](https://www.youtube.com/@BrandonFoltz) - Video courses in statistics, probability, and quantitative methods with worked examples.
-*   [3Blue1Brown](https://www.youtube.com/@3blue1brown) - Visual explanations of core mathematics, including calculus, linear algebra, and differential equations.
-*   [NPTEL](https://www.youtube.com/@iit) - University lecture courses from Indian institutes covering mathematics and related technical subjects.
-*   [PatrickJMT](https://www.youtube.com/@patrickjmt) - Worked-example videos for algebra, calculus, and other introductory college topics.
-*   [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) - Full lecture series in precalculus, calculus, and differential equations for college students.
-    *   [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) - Full course playlist.
-    *   [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) - Full course playlist.
-    *   [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) - Full course playlist.
-    *   [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) - Full course playlist.
-    *   [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_) - Full course playlist.
-    *   [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) - Short reviews of common algebra and calculus topics.
-*   [MIT OpenCourseWare](https://www.youtube.com/@mitocw) - MIT course recordings and video lectures, including full mathematics courses.
-*   [Mathologer](https://www.youtube.com/@Mathologer) - Visual videos on recreational mathematics and selected advanced topics.
+- API: [CycleCalcs](https://www.cyclecalcs.com/api.html)
 
-## [Nov 16, 2022](/content/2022/11/16/README.md)
+  Description: Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons
 
-### Analysis / Measure Theory
+  Auth: No
 
-*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA).
+  HTTPS: Yes
 
-## [May 18, 2022](/content/2022/05/18/README.md)
+  CORS: Yes
 
-### Numerical and Computational Mathematics / Numerical Analysis
 
-*   [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - University of Waterloo course with lectures, assignments, projects, and MATLAB material on numerical methods for engineers.
+- API: [VedIntel™ AstroAPI](https://vedintelastroapi.com/docs)
 
-## [Apr 19, 2022](/content/2022/04/19/README.md)
+  Description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
 
-### Start Here / Learning Platforms
+  Auth: `apiKey`
 
-*   [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics) - Lectures and public talks from the University of Oxford, including accessible explanations of advanced topics.
+  HTTPS: Yes
 
-## [Mar 16, 2022](/content/2022/03/16/README.md)
+  CORS: Yes
 
-### Community and Further Reading / Related Curated Lists
 
-*   [Theoretical Computer Science (⭐1.2k)](https://github.com/mostafatouny/awesome-theoretical-computer-science) - Curated resources on computation, complexity, logic, algorithms, cryptography, and related mathematics.
 
-## [Feb 18, 2022](/content/2022/02/18/README.md)
+### Sports & Fitness
 
-### Community and Further Reading / Journals and Magazines
+- API: [PlayerElo](https://playerelo.football/api-access)
 
-*   [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - Features latest research breakthroughs in an accessible style for non-experts.
-*   [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
-*   [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
-*   [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Challenging problems for secondary and undergraduate students, including an Olympiad Corner.
+  Description: Player-level Elo ratings, predictions and history for 176 football leagues
 
-## [Jan 27, 2022](/content/2022/01/27/README.md)
+  Auth: `apiKey`
 
-### Start Here / Learning Platforms
+  HTTPS: Yes
 
-*   [Almost Fun](https://www.almostfun.org/lessons/) - Free interactive middle- and high-school mathematics lessons, practice problems, and teacher resources from a nonprofit organization.
+  CORS: Unknown
 
-## [Aug 19, 2021](/content/2021/08/19/README.md)
 
-### Geometry and Topology / Algebraic Geometry
 
-*   [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill.
+### Transportation
 
-## [Aug 04, 2021](/content/2021/08/04/README.md)
+- API: [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt)
 
-### Start Here / Learning Platforms
+  Description: Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz
 
-*   [Ximera](https://ximera.osu.edu/) - Free interactive mathematics textbooks from Ohio State University.
+  Auth: No
 
-## [Jun 04, 2021](/content/2021/06/04/README.md)
+  HTTPS: Yes
 
-### Analysis / Complex Analysis
+  CORS: No
 
-*   [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag.
 
-## [Apr 09, 2021](/content/2021/04/09/README.md)
 
-### Mathematical Practice / Mathematical Software and Tools
+### Weather
 
-*   [Maxima](https://maxima.sourceforge.io/) - Free computer algebra system for symbolic and numerical calculations, plotting, and scripting.
+- API: [Hail History](https://hail-history-noaa.netlify.app/api-docs.html)
 
-## [Apr 08, 2021](/content/2021/04/08/README.md)
+  Description: Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year
 
-### Mathematical Practice / Mathematical Software and Tools
+  Auth: No
 
-*   [Free Math](https://freemathapp.org) - Free, open-source software for recording, organizing, and reviewing digital mathematics homework without solving the problems automatically.
+  HTTPS: Yes
 
-## [Mar 05, 2021](/content/2021/03/05/README.md)
+  CORS: Yes
 
-### Analysis / Complex Analysis
 
-*   [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor.
 
-## [Jan 08, 2021](/content/2021/01/08/README.md)
+## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
-### Start Here / Broad Course Notes
+### Experiments
 
-*   [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 \~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
-*   [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 \~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
+*   [Master Pro Audio Analyzer Suite (⭐0)](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
+*   [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
+*   [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
 
-## [Oct 03, 2020](/content/2020/10/03/README.md)
+### People to Follow
 
-### Analysis / Real Analysis
+*   [Varun Maurya](https://www.linkedin.com/in/maurya-varun/) - Cloud & Media Systems Engineer, Solutions Architect, Hybrid AV/IT Infrastructure, Live Events & Studio Post-Production Audio Engineer
 
-*   [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager.
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Analysis / Harmonic Analysis
+### AI / Diagnostics
 
-*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University).
+*   [nwiizo/signalbox.nvim (⭐4)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 
-## [Oct 01, 2020](/content/2020/10/01/README.md)
+### Colorscheme / Colorscheme Creation
 
-### Mathematical Practice / Mathematical Software and Tools
+*   [nitinbhat972/cwal.nvim (⭐18)](https://github.com/nitinbhat972/cwal.nvim) - Generates dynamic colorschemes from cwal-generated color palettes.
 
-*   [GeoGebra](https://www.geogebra.org/?lang=en) - Interactive mathematics suite for geometry, graphing, algebra, spreadsheets, statistics, and calculus.
-*   [Singular](https://www.singular.uni-kl.de/) - Computer algebra system for polynomial computations in commutative algebra, algebraic geometry, and singularity theory.
-*   [Maple](https://www.maplesoft.com/products/Maple/) - Paid computer algebra and numerical mathematics system for symbolic computation, visualization, and programming.
-*   [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Paid technical-computing system for symbolic and numerical mathematics, visualization, programming, and data analysis.
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-## [Aug 06, 2020](/content/2020/08/06/README.md)
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-### Foundations and Logic / Logic
+*   [lumen (⭐0)](https://github.com/thangduonghuu/lumen) - Deterministic command suggestions for ZSH — inline, on demand, no AI round-trip required.
 
-*   [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-## [Aug 03, 2020](/content/2020/08/03/README.md)
+*   [emojify (⭐0)](https://github.com/retro49/emojify) - Theme for displaying different types of emoji at the prompt. Includes decorators for `git` status, current directory and user\@hostname.
+*   [pond (⭐0)](https://github.com/notreallycheeks/pond-zsh-theme) - A calm two-line oh-my-zsh theme in pastel greens and blues.
+*   [pretty (⭐51)](https://github.com/TomasTomecek/pretty-git-prompt) - Prompt written in rust with decorators for `git` state, branch, tag pointing at current commit, count of changed, newly-added, staged, conflicting files, number of files in the stash.
+*   [vaporwave (⭐0)](https://github.com/notreallycheeks/vaporwave-zsh-theme) - Colorful with decorators for `git` status, python virtualenv, exit status of last command and time.
+*   [weakline (⭐0)](https://github.com/vihrom/weakline) - a blazingly fast, lightweight, and modern prompt written in Go. Includes decorators for `git` status, current directory and python virtual environment.
 
-### Start Here / Learning Platforms
+## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
-*   [Mathigon](https://mathigon.org/) - Interactive courses, activities, and visual explanations for school and early university mathematics.
+### Table of Contents / Data Integration and Pipelines
 
-### Algebra / Linear Algebra
+*   [yasdb (⭐3)](https://github.com/JayJamieson/yasdb) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Durable Streams protocol server backed by SlateDB object storage, with offset-based catch-up reads and SSE or long-poll tailing.
 
-*   [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff.
+## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
-### Geometry and Topology / Graph Theory
+### Development Tools & Utilities
 
-*   [Byrne's Euclid](https://www.c82.net/euclid/) - Interactive web edition of Oliver Byrne's color-coded presentation of Euclid's first six books.
+*   [Hexis (⭐58)](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.
 
-### Analysis / Complex Analysis
+### MCP Servers
 
-*   [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano.
+*   [Lians (⭐6)](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 
-### Probability and Statistics / Probability
+---
 
-*   [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan.
-
-### Probability and Statistics / Statistics
-
-*   [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack.
-*   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg.
-*   [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
-*   [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart.
-*   [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman.
-
-### Optimization, Operations Research, and Control / Numerical Analysis
-
-*   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - A free textbook with slides, exercises, code, and course material by Stephen Boyd and Lieven Vandenberghe.
-
-### Interdisciplinary Mathematics / Mathematics for Computer Science
-
-*   [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert.
-
-## [Jul 02, 2020](/content/2020/07/02/README.md)
-
-### Interdisciplinary Mathematics / Signal Processing
-
-*   [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey.
-
-## [Oct 15, 2019](/content/2019/10/15/README.md)
-
-### Foundations and Logic / Type Theory
-
-*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson.
-
-## [Oct 14, 2019](/content/2019/10/14/README.md)
-
-### Foundations and Logic / Type Theory
-
-*   [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof.
-
-## [Apr 09, 2019](/content/2019/04/09/README.md)
-
-### Algebra / Abstract Algebra
-
-*   [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross.
-
-### Algebra / Linear Algebra
-
-*   [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil.
-
-### Analysis / Real Analysis
-
-*   [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman.
-
-## [Apr 02, 2019](/content/2019/04/02/README.md)
-
-### Start Here / Learning Platforms
-
-*   [Brilliant](https://brilliant.org/courses/#math-foundational) - Interactive, problem-based lessons in foundational mathematics, probability, and related quantitative subjects.
-*   [WooTube](https://misterwootube.com/) - Video lessons by Eddie Woo covering secondary-school mathematics with an emphasis on conceptual understanding.
-
-## [Nov 30, 2018](/content/2018/11/30/README.md)
-
-### Geometry and Topology / General Topology
-
-*   [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (UPenn).
-
-## [Nov 19, 2018](/content/2018/11/19/README.md)
-
-### Geometry and Topology / Algebraic Geometry
-
-*   [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia).
-
-## [Jul 08, 2018](/content/2018/07/08/README.md)
-
-### Mathematical Practice / Mathematical Software and Tools
-
-*   [Symbolab](https://www.symbolab.com/) - Online solver with step-by-step solutions, graphing, calculators, and practice tools. Some solution steps and study features require a paid plan.
-*   [Desmos](https://www.desmos.com/calculator) - Browser-based graphing calculator with geometry, tables, statistics, and classroom activities.
-
-## [Jun 07, 2018](/content/2018/06/07/README.md)
-
-### Algebra / Linear Algebra
-
-*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA).
-
-## [Mar 04, 2018](/content/2018/03/04/README.md)
-
-### Foundations and Logic / Logic
-
-*   [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson.
-
-### Algebra / Linear Algebra
-
-*   [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron.
-
-### Analysis / Real Analysis
-
-*   [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis.
-
-## [Feb 11, 2018](/content/2018/02/11/README.md)
-
-### Combinatorics and Discrete Mathematics / Analytic Number Theory
-
-*   [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - Marko Petkovšek, Herbert Wilf, and Doron Zeilberger on algorithms for proving hypergeometric identities.
-
-## [Nov 17, 2017](/content/2017/11/17/README.md)
-
-### Probability and Statistics / Stochastic Processes
-
-*   [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas).
-*   [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo).
-
-### Interdisciplinary Mathematics / Signal Processing
-
-*   [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson.
-
-## [Jun 30, 2017](/content/2017/06/30/README.md)
-
-### Community and Further Reading / Blogs
-
-*   [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad.
-
-## [May 23, 2017](/content/2017/05/23/README.md)
-
-### Foundations and Logic / Logic
-
-*   [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany).
-
-## [Apr 18, 2017](/content/2017/04/18/README.md)
-
-### Probability and Statistics / Probability
-
-*   [Probability and Statistics Cookbook (⭐2.3k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley).
-
-## [Feb 11, 2017](/content/2017/02/11/README.md)
-
-### Start Here / Reference Works
-
-*   [ProofWiki](https://proofwiki.org/wiki/Main_Page) - Collaborative repository of mathematical definitions, lemmas, and proofs.
-
-## [Sep 15, 2016](/content/2016/09/15/README.md)
-
-### Algebra / Linear Algebra
-
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐585)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper.
-
-## [Sep 02, 2015](/content/2015/09/02/README.md)
-
-### Start Here / Learning Platforms
-
-*   [Khan Academy](https://www.khanacademy.org/math) - Free, self-paced lessons and exercises from arithmetic through calculus and beyond.
-*   [Coursera](https://www.coursera.org/courses?query=mathematics\&languages=en) - University and industry mathematics courses, with access and payment varying by course.
-*   [edX](https://www.edx.org/course/subject/math) - University and professional mathematics courses, with audit and paid options varying by course.
-
-### Start Here / Reference Works
-
-*   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf) - Community-authored collection of open mathematics textbooks and instructional books.
-
-### Foundations and Logic / Type Theory
-
-*   [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf) - Open textbook on homotopy type theory, univalent foundations, and higher-dimensional structures.
-
-### Geometry and Topology / Differential Geometry
-
-*   [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon.
-
-## [Aug 31, 2015](/content/2015/08/31/README.md)
-
-### Analysis / Real Analysis
-
-*   [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis).
-
-### Analysis / Harmonic Analysis
-
-*   [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood.
-
-### Analysis / Measure Theory
-
-*   [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis).
-*   [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich).
-
-### Differential Equations and Dynamical Systems / Ordinary Differential Equations
-
-*   [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld).
-
-### Differential Equations and Dynamical Systems / Partial Differential Equations
-
-*   [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis).
-
-### Probability and Statistics / Statistical Learning
-
-*   [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang.
+- Next: [Aug 13, 2026](/content/2026/08/13/README.md)

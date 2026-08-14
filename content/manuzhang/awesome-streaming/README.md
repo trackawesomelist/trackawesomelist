@@ -6,22 +6,23 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ Daily / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Aug 14, 2026](/content/2026/08/14/README.md)
+
+### Table of Contents / Data Integration and Pipelines
+
+*   [yasdb (⭐3)](https://github.com/JayJamieson/yasdb) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Durable Streams protocol server backed by SlateDB object storage, with offset-based catch-up reads and SSE or long-poll tailing.
+
 ## [Aug 13, 2026](/content/2026/08/13/README.md)
 
 ### Table of Contents / Engines and Platforms
 
 *   [Aeron (⭐8.8k)](https://github.com/aeron-io/aeron) <sub>![Java/C++](https://img.shields.io/badge/language-Java%2FC%2B%2B-blue)</sub> - Reliable UDP unicast, multicast, and IPC message transport.
-*   [Amazon Kinesis Data Streams](https://aws.amazon.com/kinesis/data-streams/) - Fully managed service for ingesting and processing real-time data streams on AWS.
 *   [Apache Heron (⭐3.6k)](https://github.com/apache/incubator-heron) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Retired distributed, fault-tolerant stream processing engine originally developed at Twitter.
 *   [Apache Pulsar (⭐15k)](https://github.com/apache/pulsar) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed pub-sub messaging and event streaming platform.
 *   [Apache StreamPipes (⭐734)](https://github.com/apache/streampipes) <sub>![Java/Python/TypeScript](https://img.shields.io/badge/language-Java%2FPython%2FTypeScript-blue)</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
 *   [AthenaX (⭐1.2k)](https://github.com/uber-archive/AthenaX) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Uber's retired SQL-based streaming analytics platform.
-*   [Azure Stream Analytics](https://azure.microsoft.com/en-us/products/stream-analytics) <sub>![SQL](https://img.shields.io/badge/language-SQL-blue)</sub> - Fully managed service for serverless real-time analytics in the cloud and at the edge.
-*   [Concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Historical distributed stream processing framework built on Apache Mesos.
 *   [eKuiper (⭐1.7k)](https://github.com/lf-edge/ekuiper) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
 *   [Fluvio (⭐5.2k)](https://github.com/fluvio-community/fluvio) <sub>![Rust/WASM](https://img.shields.io/badge/language-Rust%2FWASM-blue)</sub> - Composable, stateful data streaming system with programmable in-line computation.
-*   [Google Cloud Dataflow](https://cloud.google.com/dataflow/) <sub>![Java/Python/Go](https://img.shields.io/badge/language-Java%2FPython%2FGo-blue)</sub> - Fully managed service for running Apache Beam batch and streaming pipelines.
-*   [IBM Streams](https://www.ibm.com/support/pages/ibm-streams-life-cycle-guidance) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Python/Java/Scala](https://img.shields.io/badge/language-Python%2FJava%2FScala-blue)</sub> - Discontinued platform for distributed stream processing and real-time analytics.
 *   [LaminarDB (⭐42)](https://github.com/laminardb/laminardb) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Embeddable streaming SQL engine built on Apache Arrow and DataFusion.
 *   [LogDevice (⭐1.9k)](https://github.com/facebookarchive/LogDevice) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Facebook's archived distributed storage system for sequential data.
 *   [Mantis (⭐1.5k)](https://github.com/Netflix/mantis) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Netflix platform for building real-time, operations-focused stream processing applications.
@@ -52,7 +53,6 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [MediaPipe (⭐37k)](https://github.com/google-ai-edge/mediapipe) <sub>![C++/Python/Java/TypeScript](https://img.shields.io/badge/language-C%2B%2B%2FPython%2FJava%2FTypeScript-blue)</sub> - Cross-platform, customizable ML solutions for live and streaming media.
 *   [Monix (⭐1.9k)](https://github.com/monix/monix) <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - High-performance Scala and Scala.js library for asynchronous and event-based programs.
 *   [Numalogic (⭐172)](https://github.com/numaproj/numalogic) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Collection of machine learning models and tools for anomaly detection and forecasting on operational time-series data.
-*   [NVIDIA DeepStream SDK](https://developer.nvidia.com/deepstream-sdk) <sub>![C/C++/Python](https://img.shields.io/badge/language-C%2FC%2B%2B%2FPython-blue)</sub> - Open-source GStreamer-based toolkit for real-time AI streaming analytics and multi-sensor processing.
 *   [Pulsar (⭐1.8k)](https://github.com/quantmind/pulsar) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Actor-based event-driven concurrency framework for Python.
 *   [Scramjet TypeScript (⭐41)](https://github.com/scramjetorg/framework-js) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![TypeScript](https://img.shields.io/badge/language-TypeScript-blue)</sub> - Reactive stream programming framework for asynchronous JavaScript and TypeScript applications.
 *   [Streamiz.Kafka.Net (⭐543)](https://github.com/LGouellec/streamiz) <sub>![C#](https://img.shields.io/badge/language-C%23-blue)</sub> - .NET stream processing library for Apache Kafka.
@@ -77,6 +77,15 @@ a curated list of awesome streaming frameworks, applications, etc
 
 *   [Streamdal (⭐615)](https://github.com/streamdal/streamdal) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![TypeScript](https://img.shields.io/badge/language-TypeScript-blue)</sub> - Code-native data privacy controls for detecting PII in application data flows.
 
+### Table of Contents / Managed and Closed Source
+
+*   [Amazon Kinesis Data Streams](https://aws.amazon.com/kinesis/data-streams/) - Fully managed service for ingesting and processing real-time data streams on AWS.
+*   [Azure Stream Analytics](https://azure.microsoft.com/en-us/products/stream-analytics) <sub>![SQL](https://img.shields.io/badge/language-SQL-blue)</sub> - Fully managed service for serverless real-time analytics in the cloud and at the edge.
+*   [Concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Historical distributed stream processing framework built on Apache Mesos.
+*   [Google Cloud Dataflow](https://cloud.google.com/dataflow/) <sub>![Java/Python/Go](https://img.shields.io/badge/language-Java%2FPython%2FGo-blue)</sub> - Fully managed service for running Apache Beam batch and streaming pipelines.
+*   [IBM Streams](https://www.ibm.com/support/pages/ibm-streams-life-cycle-guidance) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Python/Java/Scala](https://img.shields.io/badge/language-Python%2FJava%2FScala-blue)</sub> - Discontinued proprietary platform for distributed stream processing and real-time analytics.
+*   [NVIDIA DeepStream SDK](https://developer.nvidia.com/deepstream-sdk) <sub>![C/C++/Python](https://img.shields.io/badge/language-C%2FC%2B%2B%2FPython-blue)</sub> - GStreamer-based toolkit with open-source components and proprietary NVIDIA libraries for real-time AI streaming analytics and multi-sensor processing.
+
 ### Table of Contents / Benchmarks
 
 *   [Flotilla (⭐238)](https://github.com/tylertreat/Flotilla) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Automated message queue orchestration for scaled-up benchmarking.
@@ -89,7 +98,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Wingfoil (⭐199)](https://github.com/wingfoil-io/wingfoil) <sub>![Rust/Python/TypeScript](https://img.shields.io/badge/language-Rust%2FPython%2FTypeScript-blue)</sub> - Graph-based stream processing engine for latency-critical systems.
+*   [Wingfoil (⭐207)](https://github.com/wingfoil-io/wingfoil) <sub>![Rust/Python/TypeScript](https://img.shields.io/badge/language-Rust%2FPython%2FTypeScript-blue)</sub> - Graph-based stream processing engine for latency-critical systems.
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
