@@ -8,9 +8,17 @@ A curated list of Rust code and resources.
 
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
+### Applications / Productivity
+
+*   [VisiGrid/VisiGrid (⭐124)](https://github.com/VisiGrid/VisiGrid) - Native spreadsheet built like a code editor with GPUI, WASM, and a headless CLI engine.
+
 ### Libraries / Data processing
 
 *   [logisky/LogiSheets (⭐136)](https://github.com/logisky/LogiSheets) \[[logisheets-rs](https://crates.io/crates/logisheets-rs)] - A new, modern spreadsheet engine that drives real products.
+
+### Libraries / GUI
+
+*   [linebender/xilem (⭐5.5k)](https://github.com/linebender/xilem) \[[xilem](https://crates.io/crates/xilem)] - Experimental reactive UI framework for Rust inspired by React, SwiftUI, and Elm. Built on Masonry, Vello/wgpu, Parley, and AccessKit with web and native backends. [![CI](https://img.shields.io/github/actions/workflow/status/linebender/xilem/ci.yml?logo=github\&label=CI)](https://github.com/linebender/xilem/actions)
 
 ## [Aug 13, 2026](/content/2026/08/13/README.md)
 
@@ -60,7 +68,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Observability
 
-*   [rustrak/rustrak (⭐75)](https://github.com/rustrak/rustrak) - Ultra-lightweight error tracking server compatible with Sentry SDKs.
+*   [rustrak/rustrak (⭐93)](https://github.com/rustrak/rustrak) - Ultra-lightweight error tracking server compatible with Sentry SDKs.
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
