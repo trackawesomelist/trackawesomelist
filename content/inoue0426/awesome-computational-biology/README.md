@@ -6,6 +6,12 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Aug 15, 2026](/content/2026/08/15/README.md)
+
+### Genome
+
+*   [OncoKB](https://www.oncokb.org/) — Precision oncology knowledge base of cancer genes, variants, and therapeutic implications.
+
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
 ### Drug Perturbation

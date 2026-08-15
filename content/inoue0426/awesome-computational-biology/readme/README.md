@@ -156,6 +156,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) — NCBI's database of genetic sequences.
 *   [UCSC Genome Browser](https://genome.ucsc.edu/) — UCSC's genome browser.
 *   [cBioPortal](https://www.cbioportal.org/) — Cancer genomics database; aggregating many patient datasets.
+*   [OncoKB](https://www.oncokb.org/) — Precision oncology knowledge base of cancer genes, variants, and therapeutic implications.
 *   [10x Genomics Dataset](https://www.10xgenomics.com/resources/datasets) — Collection of single-cell datasets.
 *   [The Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) — Human gene expression and regulation resource.
 *   [Dependency Map (DepMap)](https://depmap.org/portal/) — CRISPR-Cas9 screens in cancer cell lines.

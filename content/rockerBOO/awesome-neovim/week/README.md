@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [nitinbhat972/cwal.nvim (⭐18)](https://github.com/nitinbhat972/cwal.nvim) - Generates dynamic colorschemes from cwal-generated color palettes.
 
+### Editing Support / Scrollbar
+
+*   [DRoma82/add-subtract-ex.nvim (⭐8)](https://github.com/DRoma82/add-subtract-ex.nvim) - Extends `<C-a>`/`<C-x>` to toggle booleans, comparison/logical operators, and shift letters, deferring to native number handling.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
@@ -112,7 +116,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Markdown and LaTeX
 
-*   [ingur/fzf-oil.nvim (⭐67)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+*   [ingur/fzf-oil.nvim (⭐68)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 
 ### Color / Markdown and LaTeX
 
@@ -137,11 +141,11 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Comment
 
-*   [celeste3z/celeste\_comment.nvim (⭐8)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
+*   [celeste3z/celeste\_comment.nvim (⭐26)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
 
 ### Workflow / Stats Tracking
 
-*   [yal212/pomodoro.nvim (⭐4)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
+*   [yal212/pomodoro.nvim (⭐5)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
@@ -183,7 +187,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [nvim-pio (⭐12)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+*   [nvim-pio (⭐19)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 *   [hasansujon786/nvim-navbuddy (⭐83)](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
 *   [Zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/Zeioth/none-ls-autoload.nvim) - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
 *   [Crysthamus/nvim-file-operations (⭐18)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
@@ -206,7 +210,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Folding
 
-*   [fold-logging.nvim (⭐8)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
+*   [fold-logging.nvim (⭐9)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
