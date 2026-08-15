@@ -6,6 +6,24 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 [ Daily / [Weekly](/content/owainlewis/awesome-artificial-intelligence/week/README.md) / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
+## [Aug 15, 2026](/content/2026/08/15/README.md)
+
+### Learn / Courses
+
+*   [AI Engineer](https://aiengineer.co/): A paid program for agentic coding and building, testing, and shipping production AI systems.
+
+### Build AI systems / Guides and playbooks
+
+*   [Awesome DeepSeek Agent (⭐5.9k)](https://github.com/deepseek-ai/awesome-deepseek-agent): DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi.
+
+### Agentic software engineering / Coding agents
+
+*   [Neo (⭐102)](https://github.com/owainlewis/neo): An open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.
+
+### Agentic software engineering / Agent skills and workflows
+
+*   [Blueprint (⭐324)](https://github.com/owainlewis/blueprint/tree/main/skills): An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
 ### Build AI systems / Protocols and interoperability
@@ -18,10 +36,6 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 ### Learn / Books
 
 *   [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp): A project-based introduction to building and deploying machine learning systems by Alexey Grigorev.
-
-### Build AI systems / Speech and audio
-
-*   [FunASR (⭐20k)](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
 
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
@@ -161,7 +175,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Build AI systems / Retrieval and data
 
-*   [Docling (⭐64k)](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
+*   [Docling (⭐65k)](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
 
 ### Build AI systems / Evals and reliability
 

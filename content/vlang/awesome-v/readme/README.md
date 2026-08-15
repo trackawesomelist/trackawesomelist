@@ -102,7 +102,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [mushroomtek (⭐4)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 *   [musicc (⭐3)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
 *   [netprint (⭐5)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
-*   [newfolder (⭐3)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
+*   [newfolder (⭐4)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
 *   [oscall (⭐0)](https://github.com/tailsmails/oscall) - A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.
 *   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 *   [PhoneSnatchProof (⭐4)](https://github.com/tailsmails/PhoneSnatchProof) - An FS that encrypts your app data and keeps them on RAM (with a backup).
@@ -445,6 +445,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Articles
 
 *   [An introduction to V](https://simonknott.de/articles/VLang.html)
+*   [How To Make A V Compiler Backend](https://l-m.dev/cs/how_to_make_a_v_backend) - Walkthrough of writing a new codegen backend for V.
+*   [The V WebAssembly Compiler Backend, Rewritten](https://l-m.dev/cs/the_v_webassembly_compiler_backend_rewrite) - Rewriting V's WebAssembly backend with no external dependencies.
 
 ### Books
 

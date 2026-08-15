@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-log4g (⭐0)](https://github.com/go-log4g/core) - Log4g provides Log4j-style configuration and pattern layouts for Go's standard log/slog logging facade.
 
+### Video
+
+*   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
 ### Financial

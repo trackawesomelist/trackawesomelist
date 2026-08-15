@@ -34,6 +34,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [markdown (⭐135)](https://github.com/nao1215/markdown) - Markdown builder that generates GitHub Flavored Markdown and mermaid diagrams through method chaining.
 
+### Video
+
+*   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Project Layout

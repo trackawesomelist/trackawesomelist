@@ -17,6 +17,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [v-jwt (⭐1)](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
 *   [v-sm3 (⭐0)](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
 
+### Articles
+
+*   [How To Make A V Compiler Backend](https://l-m.dev/cs/how_to_make_a_v_backend) - Walkthrough of writing a new codegen backend for V.
+*   [The V WebAssembly Compiler Backend, Rewritten](https://l-m.dev/cs/the_v_webassembly_compiler_backend_rewrite) - Rewriting V's WebAssembly backend with no external dependencies.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Command-line
@@ -93,7 +98,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [newfolder (⭐3)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
+*   [newfolder (⭐4)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
