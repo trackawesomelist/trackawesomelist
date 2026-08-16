@@ -15,6 +15,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
+*   [Pexafy](https://pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
 *   [XFlux](https://www.xfluxapi.com) - X/Twitter read REST API (profiles, search, timelines) plus account monitors. Free tier: 1,000 API calls/month, 1 monitor, instant API key. HTTP webhooks on paid plans from $19/mo.
 
 ### Security and PKI

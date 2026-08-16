@@ -2141,6 +2141,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [buffstreams (⭐255)](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
 *   [canopus (⭐156)](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
 *   [cdns (⭐5)](https://github.com/junevm/cdns) - Change DNS servers effortlessly via terminal.
+*   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
 *   [cidranger (⭐969)](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 *   [cloudflared (⭐15k)](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel).
 *   [dhcp6 (⭐80)](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
@@ -2194,6 +2195,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [natiu-mqtt (⭐105)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 *   [nbio (⭐2.8k)](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 *   [net](https://golang.org/x/net) - This repository holds supplementary Go networking libraries.
+*   [netchan (⭐5)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
 *   [nethawk (⭐8)](https://github.com/Flowtriq/nethawk) - Terminal UI for real-time network traffic capture, analysis, and attack detection with JSON output mode.
 *   [netpoll (⭐4.6k)](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 *   [NFF-Go (⭐1.4k)](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
@@ -3650,6 +3652,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [boxed (⭐78)](https://github.com/tejo/boxed) - Dropbox based blog engine.
 *   [Chapar (⭐706)](https://github.com/chapar-rest/chapar) - Chapar is a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
 *   [Cherry (⭐299)](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
+*   [chicha-isotope-map (⭐15)](https://github.com/matveynator/chicha-isotope-map) - Self-hosted public radiation map for importing, analyzing, and visualizing measurement tracks.
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.

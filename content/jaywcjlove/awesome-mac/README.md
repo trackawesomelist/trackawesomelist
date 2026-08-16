@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 16, 2026](/content/2026/08/16/README.md)
+
+### Reading and Writing Tools / Others
+
+*   [OffPDF](https://offpdf.com/) - Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/McanKul/offpdf) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
 ### AI Tools / Other Tools
@@ -426,7 +432,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [TabType (⭐10)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nilava/TabType) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TabType (⭐16)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nilava/TabType) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
@@ -548,13 +554,13 @@
 
 ### Terminal Apps / Databases
 
-*   [Vesta (⭐15)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Vesta (⭐18)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
-*   [Edmund (⭐125)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Edmund (⭐174)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/I7T5/Edmund) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 

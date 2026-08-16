@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 16, 2026](/content/2026/08/16/README.md)
 
+### APIs, Data, and ML
+
+*   [Pexafy](https://pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
+
 ### Storage and Media Processing
 
 *   [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 50 videos, 1 GB per file, and 250 GB bandwidth per month.

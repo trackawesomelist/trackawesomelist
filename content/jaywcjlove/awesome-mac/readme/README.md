@@ -242,7 +242,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
-*   [Edmund (⭐125)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+*   [Edmund (⭐174)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [EME (⭐2.1k)](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 *   [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 *   [Imark (⭐13)](https://github.com/migsilva89/imark) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -356,6 +356,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [CHM Reader](https://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
 *   [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 *   [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
+*   [OffPDF](https://offpdf.com/) - Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally. [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
 *   [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github\&utm_medium=awesome-mac) - PDF inspection tool for analyzing metadata, structure, and security risks. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661\&ct=GitHub\&mt=8\&platform=mac)
 *   [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 *   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
@@ -365,7 +366,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 *   [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
 *   [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
-*   [TabType (⭐10)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
+*   [TabType (⭐16)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 *   [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 *   [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 *   [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
@@ -653,7 +654,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Tabby (formerly Terminus) (⭐74k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 *   [Termius](https://www.termius.com/) - A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 *   [tty7 (⭐601)](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
-*   [Vesta (⭐15)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
+*   [Vesta (⭐18)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
 *   [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 *   [Wave (⭐22k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 *   [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)

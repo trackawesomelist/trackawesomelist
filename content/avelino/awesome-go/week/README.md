@@ -34,6 +34,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-log4g (⭐0)](https://github.com/go-log4g/core) - Log4g provides Log4j-style configuration and pattern layouts for Go's standard log/slog logging facade.
 
+### Networking
+
+*   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
+*   [netchan (⭐5)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+
 ### Markup Languages
 
 *   [markdown (⭐135)](https://github.com/nao1215/markdown) - Markdown builder that generates GitHub Flavored Markdown and mermaid diagrams through method chaining.
@@ -41,6 +46,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Video
 
 *   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [chicha-isotope-map (⭐15)](https://github.com/matveynator/chicha-isotope-map) - Self-hosted public radiation map for importing, analyzing, and visualizing measurement tracks.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 

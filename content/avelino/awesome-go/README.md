@@ -12,6 +12,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-arch (⭐2)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
 
+### Networking
+
+*   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
+*   [netchan (⭐5)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [chicha-isotope-map (⭐15)](https://github.com/matveynator/chicha-isotope-map) - Self-hosted public radiation map for importing, analyzing, and visualizing measurement tracks.
+
 ## [Aug 15, 2026](/content/2026/08/15/README.md)
 
 ### Logging
