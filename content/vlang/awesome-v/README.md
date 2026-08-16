@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Aug 16, 2026](/content/2026/08/16/README.md)
+
+### Editor plugins / Zed
+
+*   [zed-v (⭐38)](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
+
 ## [Aug 15, 2026](/content/2026/08/15/README.md)
 
 ### Articles
@@ -82,7 +88,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vtl.datasets (⭐166)](https://github.com/vlang/vtl/tree/main/datasets#readme) - Datasets module for VTL providing built-in datasets for ML benchmarking and tutorials.
 *   [vtl.nn (⭐166)](https://github.com/vlang/vtl/tree/main/nn#readme) - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
 
-### GitHub Actions / Vim
+### GitHub Actions / Zed
 
 *   [setup-v (⭐33)](https://github.com/vlang/setup-v) - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
 
@@ -423,7 +429,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [Mantis (⭐42)](https://github.com/khalyomede/mantis) - A web framework written in V.
 
-### Operating Systems & OS Development Examples / Vim
+### Operating Systems & OS Development Examples / Zed
 
 *   [limine-v-template (⭐1)](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
 
@@ -673,7 +679,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
-### Patterns / Vim
+### Patterns / Zed
 
 *   [MVU.v (⭐5)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
@@ -691,7 +697,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Mar 03, 2023](/content/2023/03/03/README.md)
 
-### GitHub templates / Vim
+### GitHub templates / Zed
 
 *   [v-project-basement (⭐14)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
@@ -709,7 +715,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
-### Programming contests / Vim
+### Programming contests / Zed
 
 *   [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_\(Vlang\)) - Solutions for Rosetta Code in V.
 
@@ -731,12 +737,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [vscode-vlang (⭐408)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
-### Online IDEs with V / Vim
+### Online IDEs with V / Zed
 
 *   [V Playground](https://play.vlang.io)
 *   [V Playground (old)](https://v-wasm.now.sh/)
 
-### Programming contests / Vim
+### Programming contests / Zed
 
 *   [Advent of Code 2022 (⭐45)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
@@ -973,37 +979,37 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vim-v (⭐25)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [vim-vtools (⭐17)](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
-### Forums / Vim
+### Forums / Zed
 
 *   [r/vlang](https://www.reddit.com/r/vlang)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
 
-### GitHub Actions / Vim
+### GitHub Actions / Zed
 
 *   [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
-### Operating Systems & OS Development Examples / Vim
+### Operating Systems & OS Development Examples / Zed
 
 *   [Simple Linux kernel module example (⭐28)](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
 
-### Programming contests / Vim
+### Programming contests / Zed
 
 *   [Advent of Code 2019 (⭐12)](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 *   [SoloLearn Coding Challenges (⭐15)](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
 
-### Syntax highlighting / Vim
+### Syntax highlighting / Zed
 
 *   [kate-syntax-highlight-v (⭐20)](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 *   [scite-v-support (⭐2)](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 
-### Tutorials / Vim
+### Tutorials / Zed
 
 *   [Learn V in Y Minutes (⭐60)](https://github.com/v-community/learn_v_in_y_minutes)
 *   [V by Example (⭐179)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 *   [V for Node Devs (⭐29)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 *   [V learning notes (⭐176)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
-### Videos / Vim
+### Videos / Zed
 
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
@@ -1016,7 +1022,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jul 05, 2022](/content/2022/07/05/README.md)
 
-### IDEs with V / Vim
+### IDEs with V / Zed
 
 *   [Vide (⭐137)](https://github.com/IsaiahPatton/Vide)
 

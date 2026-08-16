@@ -12,7 +12,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 <p align="center"><img src="https://github.com/vlang/awesome-v/raw/master/media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord\&logo=discord\&logoColor=white)](https://discord.gg/dwFTsR7fK2)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord\&logo=discord\&logoColor=white)](https://discord.gg/vlang)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
@@ -488,6 +488,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [v-vim (⭐184)](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 *   [vim-v (⭐25)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [vim-vtools (⭐17)](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+
+#### Zed
+
+*   [zed-v (⭐38)](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
 
 ### Forums
 
