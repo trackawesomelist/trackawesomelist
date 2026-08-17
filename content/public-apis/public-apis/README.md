@@ -66,6 +66,20 @@ A collective list of free APIs
 
 
 
+### Security
+
+- API: [CSR.plus](https://csr.plus/docs/api)
+
+  Description: Generate certificate signing requests and private keys without OpenSSL
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Weather
 
 - API: [World Time & Weather](https://worldtimeweather.com/api.html)

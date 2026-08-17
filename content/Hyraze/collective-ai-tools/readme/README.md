@@ -11,19 +11,19 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐223)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐223)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐227)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐227)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/collective-ai-tools)
-[![CodeFactor](https://www.codefactor.io/repository/github/hyraze/collective-ai-tools/badge)](https://www.codefactor.io/repository/github/hyraze/collective-ai-tools)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/hanishrao/collective-ai-tools)
+[![CodeFactor](https://www.codefactor.io/repository/github/hanishrao/collective-ai-tools/badge)](https://www.codefactor.io/repository/github/hanishrao/collective-ai-tools)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fcollective-ai-tools\&countColor=%2337d67a\&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/Hyraze/collective-ai-tools)
-![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/collective-ai-tools)
-![GitHub license](https://img.shields.io/github/license/Hyraze/collective-ai-tools)
-![GitHub issues](https://img.shields.io/github/issues/Hyraze/collective-ai-tools)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/collective-ai-tools)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhanishrao%2Fcollective-ai-tools\&countColor=%2337d67a\&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/hanishrao/collective-ai-tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/hanishrao/collective-ai-tools)
+![GitHub license](https://img.shields.io/github/license/hanishrao/collective-ai-tools)
+![GitHub issues](https://img.shields.io/github/issues/hanishrao/collective-ai-tools)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/hanishrao/collective-ai-tools)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhanishrao%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhanishrao%2Fai-collective-tools?ref=badge_shield\&issueType=license)
 
 [![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835\&theme=light)](https://www.producthunt.com/posts/ai-collective-tools)
 
@@ -422,8 +422,8 @@ Use these hashtags in search to filter out the tools
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
-*   [Codex CLI (⭐103k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
-*   [codex-profiles (⭐71)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [Codex CLI (⭐106k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [codex-profiles (⭐88)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. `#freemium`
@@ -464,7 +464,7 @@ Use these hashtags in search to filter out the tools
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐191k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐198k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
 *   [Quest AI](https://www.quest.ai/) - Intelligent Q\&A and info retrieval for dev. \`\`
@@ -791,6 +791,7 @@ Use these hashtags in search to filter out the tools
 
 ## Marketing
 
+*   [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - Research public TikTok content: rank a creator's videos by plays, likes or comments, export comment threads to Excel or CSV, and generate AI transcripts with 9-language translation. `#freemium`
 *   [Clay](https://www.clay.com/) - Automates outreach and contact workflows (cold email, LinkedIn DMs) based on buyer personas. `#freemium`
 *   [Elaris by Solsten](https://elaris.new/) - Understand audience psychology and get actionable insights for marketing and product decisions. `#paid`
 *   [HighReach](https://highreach.ai/) - Generates platform-ready video, image, and UGC ad creatives from product URLs for Meta, TikTok, and Google. `#paid`
@@ -1009,6 +1010,7 @@ Use these hashtags in search to filter out the tools
 ## Resume
 
 *   [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Free, open-source resume checker that scores your resume against a job description (0–100), flags missing ATS keywords, and runs fully in-browser so nothing is uploaded. `#free` `#opensource`
+*   [Resume Roaster](https://resume.roastlabai.com/) - AI-powered resume critique with ATS scoring and keyword gap analysis. Upload your resume, get brutally honest feedback on what a recruiter sees, and identify keyword gaps against any job description. `#freemium`
 *   [CVExpert](https://cvexpert.com/) - Free, no-sign-up CV health and CV–job keyword checks that run in the browser without uploading or saving pasted text. `#free`
 *   [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day `#freemium`
 *   [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications `#freemium`
@@ -1164,6 +1166,7 @@ Use these hashtags in search to filter out the tools
 *   [Veed Background](https://www.veed.io/tools/background-remover) - Online background removal and green-screen. `#free`
 *   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
 *   [Video Ocean](https://videoocean.com/) - Text-to-video scene simulation platform. `#free`
+*   [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render. `#freemium`
 *   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
 *   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
 *   [Vidu](https://www.vidu.studio/) - Long-duration video large model (Tsinghua). `#free`
@@ -1259,7 +1262,7 @@ Use these hashtags in search to filter out the tools
 
 # Contributors
 
-<a href="https://github.com/Hyraze/collective-ai-tools/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Hyraze/collective-ai-tools" />
+<a href="https://github.com/hanishrao/collective-ai-tools/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hanishrao/collective-ai-tools" />
 </a>
 

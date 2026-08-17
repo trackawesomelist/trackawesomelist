@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 17, 2026](/content/2026/08/17/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [PasteClip (⭐124)](https://github.com/minsang-alt/PasteClip) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/minsang-alt/PasteClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Aug 16, 2026](/content/2026/08/16/README.md)
 
 ### Reading and Writing Tools / Others

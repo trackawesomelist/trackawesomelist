@@ -6,6 +6,20 @@ Carefully curated list of awesome Jamstack resources
 
 [ Daily / [Weekly](/content/automata/awesome-jamstack/week/README.md) / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 
+## [Aug 17, 2026](/content/2026/08/17/README.md)
+
+### No-Code Platforms
+
+*   [Silex](https://www.silex.me) - Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.
+
+### Static Site Generators
+
+*   [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
+
+### API / Database
+
+*   [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
+
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### Static Site Generators
@@ -94,7 +108,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐126)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐125)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -130,7 +144,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Authentication
 
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐139k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐142k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -496,7 +510,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐578)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐576)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 20, 2019](/content/2019/03/20/README.md)
 

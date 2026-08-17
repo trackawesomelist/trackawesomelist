@@ -821,7 +821,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [Water-Run/treepp (⭐87)](https://github.com/Water-Run/treepp) - A Rust-based native Windows `tree` replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and `.gitignore` support, and several-times faster performance.
 *   [wrestic (⭐104)](https://github.com/alvaro17f/wrestic) - A wrapper around restic.
 *   [wthrr (⭐498)](https://github.com/ttytm/wthrr-the-weathercrab) - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
-*   [YAKC (⭐95)](https://github.com/iammodev/YAKC) - Cross-platform keystroke & mouse-click visualizer for screencasts, streaming, and presentations. Works on Windows, macOS, and Linux (X11 & Wayland). [![CI](https://github.com/iammodev/YAKC/actions/workflows/ci.yml/badge.svg)](https://github.com/iammodev/YAKC/actions/workflows/ci.yml)
+*   [YAKC (⭐97)](https://github.com/iammodev/YAKC) - Cross-platform keystroke & mouse-click visualizer for screencasts, streaming, and presentations. Works on Windows, macOS, and Linux (X11 & Wayland). [![CI](https://github.com/iammodev/YAKC/actions/workflows/ci.yml/badge.svg)](https://github.com/iammodev/YAKC/actions/workflows/ci.yml)
 *   [YueMiyuki/Risuko (⭐94)](https://github.com/YueMiyuki/Risuko) - A full-featured download manager. [![Release-Badge](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml/badge.svg)](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml)
 *   [zerx-lab/FluxDown (⭐1.9k)](https://github.com/zerx-lab/FluxDown) - A multi-protocol download manager with a Rust/Tokio engine, supporting HTTP/FTP, BitTorrent, eD2K, HLS and DASH, with IDM-style dynamic segmentation, browser extensions and an aria2-compatible JSON-RPC endpoint.
 
@@ -1245,6 +1245,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 *   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) - Open Machine Intelligence framework.. Abandoned project. The most updated fork is [juice (⭐1.1k)](https://github.com/fff-rs/juice).
 *   [ave-sergeev/tictonix (⭐9)](https://github.com/Ave-Sergeev/Tictonix) \[[tictonix](https://crates.io/crates/tictonix)] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.
+*   [avifenesh/memra (⭐311)](https://github.com/avifenesh/memra) \[[memra-server](https://crates.io/crates/memra-server)] - Inference engine for NVIDIA Blackwell cards with per-device tuned defaults, serving GGUF and safetensors over an OpenAI-compatible API; speculative, CUDA-graphed and batched decode are each gated byte-identical to plain decode. [![ci](https://github.com/avifenesh/memra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avifenesh/memra/actions/workflows/ci.yml)
 *   [blackportal-ai/delta (⭐413)](https://github.com/blackportal-ai/delta) - Δ An Open-Source Machine Learning Framework in Rust. ![crates.io](https://img.shields.io/crates/v/deltaml.svg) ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/delta/core.yml?branch=master)
 *   [blackportal-ai/nebula (⭐84)](https://github.com/blackportal-ai/nebula) - A Package Manager for Machine Learning Datasets and Models. ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/nebula/core.yml?branch=master)
 *   [burn (⭐16k)](https://github.com/tracel-ai/burn) - A Flexible and Comprehensive Deep Learning Framework.
@@ -1895,7 +1896,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [bedrock-crustaceans/bedrock-rs (⭐179)](https://github.com/bedrock-crustaceans/bedrock-rs) - Universal toolkit for Minecraft Bedrock Edition development in Rust. [![GitHub stars](https://img.shields.io/github/stars/bedrock-crustaceans/bedrock-rs)](https://github.com/bedrock-crustaceans/bedrock-rs) [![CI](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml)
     *   [FerrumC (⭐2.4k)](https://github.com/ferrumc-rs/ferrumc) - A upgrade of the original Minecraft server in Rust \[![build badge](https://github.com/ferrumc-rs/ferrumc/actions/workflows/rust.yml/badge.svg)]
     *   [Pumpkin (⭐11k)](https://github.com/pumpkin-mc/pumpkin) - A high-performance Minecraft server Software fully written in Rust
-    *   [SteelMC (⭐240)](https://github.com/Steel-Foundation/SteelMC) - A Rust Minecraft server built with performance and parity in mind
+    *   [SteelMC (⭐260)](https://github.com/Steel-Foundation/SteelMC) - A Rust Minecraft server built with performance and parity in mind
 *   [Raylib](https://www.raylib.com/)
     *   [deltaphc/raylib-rs (⭐935)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] - Bindings for raylib
 *   [SDL](https://www.libsdl.org/) \[[sdl](https://crates.io/keywords/sdl)]

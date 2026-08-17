@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 17, 2026](/content/2026/08/17/README.md)
+
+### Software / Task Management & To-do Lists
+
+*   [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ([Demo](https://tellor.cc/demo/?b=18486f63be6bb5f2), [Source Code (⭐12)](https://github.com/Voldrix/Tellor)) `MIT` `PHP`
+
 ## [Aug 16, 2026](/content/2026/08/16/README.md)
 
 ### Software / Content Management Systems (CMS)

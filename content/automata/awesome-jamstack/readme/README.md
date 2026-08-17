@@ -99,6 +99,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 *   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 *   [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
+*   [Silex](https://www.silex.me) - Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.
 
 ## Jamstack Sites Showcase
 
@@ -130,8 +131,9 @@ Carefully curated list of awesome Jamstack resources
 *   [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 *   [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 *   [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
+*   [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
-*For a more complete list see [StaticGen](https://www.staticgen.com/).*
+*For a more complete list see [Jamstack generators](https://jamstack.org/generators/).*
 
 ## CMS
 
@@ -166,7 +168,7 @@ Carefully curated list of awesome Jamstack resources
 
 *   [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 *   [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐139k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐142k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 *   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 *   [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
 *   [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
@@ -190,7 +192,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### E-commerce
 
-*   [Astro Snipcart (⭐126)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐125)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 *   [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
@@ -216,6 +218,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Fireproof](https://use-fireproof.com/) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud.
 *   [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 *   [Tigris](https://www.tigrisdata.com) - Open-source data platform with databases, automatic search indexing for real-time search, caching and real-time pub/sub.
+*   [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
 
 ### File management
 
@@ -224,7 +227,7 @@ Carefully curated list of awesome Jamstack resources
 ### Automation
 
 *   [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-*   [DataFire (⭐578)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐576)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 
