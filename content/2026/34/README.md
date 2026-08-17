@@ -1,251 +1,100 @@
-# Open Source Flutter Apps Overview
+# Awesome List Updates on Aug 24 - Aug 30, 2026
 
-A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
+13 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tortuvshin/open-source-flutter-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-apps) · ⭐ 4.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ [Daily](/content/tortuvshin/open-source-flutter-apps/README.md) / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / Overview ]
 
----
 
-# Open Apps
+## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
-> A curated directory of real open-source applications you can run, study,
-> compare, and contribute to.
+### Languages
 
-[![Website](https://img.shields.io/badge/explore-open--apps.dev.mn-111827?style=flat-square)](https://open-apps.dev.mn)
-[![Validate app data](https://img.shields.io/github/actions/workflow/status/tortuvshin/open-apps/validate-data.yml?branch=main\&style=flat-square\&label=data)](https://github.com/tortuvshin/open-apps/actions/workflows/validate-data.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE)
-[![Astro](https://img.shields.io/badge/built%20with-Astro-ff5d01?style=flat-square\&logo=astro\&logoColor=white)](https://astro.build)
+*   [日本語](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.ja.md)
 
-[Explore the directory](https://open-apps.dev.mn/apps) ·
-[Submit an app](https://open-apps.dev.mn/submit) ·
-[Read the contribution guide](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md)
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
-![Open Apps — discover open-source apps worth studying](https://github.com/tortuvshin/open-apps/raw/main/public/og-image.svg)
+### Libraries / Data processing
 
-## Why Open Apps?
+*   [openooxml/betteroffice (⭐205)](https://github.com/openooxml/betteroffice) - Native OOXML engines for DOCX, XLSX and PPTX: editing, layout, rendering, CRDT collaboration and agent editing, compiled to WebAssembly.
 
-GitHub is excellent when you already know what to search for. Traditional
-awesome lists are useful for discovery, but a repository name and star count
-rarely tell you whether a codebase is worth your time.
+## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
 
-Open Apps adds the context developers need to make that decision:
+### Art & Design
 
-*   **Real applications, not toy projects** — complete products with meaningful
-    scope, structure, and a clear license.
-*   **Practical discovery** — browse by category, platform, stack, activity, and
-    maturity.
-*   **Useful learning signals** — understand what a project is best for, how
-    difficult it is, and what architectural ideas it demonstrates.
-*   **Fresh repository metadata** — scheduled automation refreshes activity and
-    contributor data through reviewable pull requests.
-*   **Open, portable data** — every catalog entry is a human-readable YAML file
-    in this repository.
+- API: [Iconify](https://iconify.design/docs/api/)
 
-Stars are a signal, not a ranking system. The goal is to surface codebases
-that are useful to read, run, learn from, or improve.
+  Description: Search and fetch SVG icons from 200+ open source icon sets
 
-## What belongs in the directory?
+  Auth: No
 
-Open Apps covers mobile, web, desktop, full-stack, and developer-facing
-applications. A project must be a genuine application with a public source
-repository, an identifiable license, at least 50 stars, and at least 50
-lifetime commits.
+  HTTPS: Yes
 
-The directory does not accept:
+  CORS: Yes
 
-*   tutorials, snippets, or one-screen demos;
-*   boilerplates and starter templates;
-*   package-only libraries and SDKs;
-*   archived projects with no enduring learning value;
-*   repositories with an unclear license or purpose.
-
-See [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md) for the complete curation and submission
-rules.
-
-## Catalog data
-
-Each app lives in its own file:
-
-```text
-data/apps/<slug>.yml
-```
-
-Records combine human curation with GitHub metadata:
 
-| Area         | Examples                                | Maintained by                |
-| ------------ | --------------------------------------- | ---------------------------- |
-| App identity | name, description, category, platforms  | contributors and curators    |
-| Technology   | primary stack, languages, frameworks    | contributors and curators    |
-| Repository   | stars, forks, releases, activity        | scheduled GitHub sync        |
-| Health       | status, listing tier, cleanup candidacy | build and cleanup automation |
-| Curation     | learning value, caveats, review notes   | curators                     |
 
-The canonical field definitions, ownership rules, taxonomy IDs, and a complete
-record example are documented in [docs/SCHEMA.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/docs/SCHEMA.md).
+### Data Validation
 
-### Data pipeline
+- API: [Temsor](https://api.temsor.com/docs)
 
-```text
-data/apps/*.yml
-      │
-      ├─ validate schema and taxonomy
-      ├─ normalize and score records
-      └─ generate build-time JSON
-             ├─ apps.index.json  → lightweight search and listing data
-             ├─ apps.full.json   → complete app records
-             └─ apps.json        → compatibility payload
-                      │
-                      └─ Astro static site → dist/
-```
-
-Files under `data/generated/` are derived artifacts unless explicitly tracked.
-Edit the YAML source records rather than generated JSON.
+  Description: Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses
 
-## Local development
+  Auth: `apiKey`
 
-### Requirements
+  HTTPS: Yes
 
-*   [Node.js](https://nodejs.org/) 20 or newer
-*   [pnpm](https://pnpm.io/) 10.12.1 (the version is pinned in `package.json`)
+  CORS: Yes
 
-### Start the site
-
-```sh
-git clone https://github.com/tortuvshin/open-apps.git
-cd open-apps
-corepack enable
-pnpm install --frozen-lockfile
-pnpm dev
-```
+  : 
 
-The development server prints its local URL, normally
-`http://localhost:4321`.
 
-### Useful commands
 
-| Command                  | Purpose                                                       |
-| ------------------------ | ------------------------------------------------------------- |
-| `pnpm dev`               | Generate app data and start the Astro development server      |
-| `pnpm build`             | Validate data, generate AI-readable files, and build the site |
-| `pnpm preview`           | Preview the production build locally                          |
-| `pnpm check`             | Run Astro and TypeScript checks                               |
-| `pnpm test`              | Run the Node.js test suite                                    |
-| `pnpm validate:data`     | Validate every app record without building the site           |
-| `pnpm build:data`        | Validate YAML and regenerate catalog JSON                     |
-| `pnpm refresh:activity`  | Refresh per-app activity from the GitHub API                  |
-| `pnpm sync:contributors` | Refresh this repository's contributor metadata                |
+### Development
 
-GitHub API scripts use `GITHUB_TOKEN` when available. Routine local development,
-validation, and builds do not require a token.
+- API: [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json)
 
-## Project structure
+  Description: 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR
 
-```text
-.
-├── data/
-│   ├── apps/             # one YAML source record per app
-│   ├── generated/        # build-time catalog output
-│   └── taxonomy/         # allowed categories, platforms, stacks, and channels
-├── docs/
-│   └── SCHEMA.md         # catalog schema and ownership contract
-├── public/               # static assets and AI-readable endpoints
-├── scripts/              # validation, generation, sync, and migration tools
-├── src/
-│   ├── components/       # Astro UI components
-│   ├── data/             # typed catalog adapters and site metadata
-│   ├── lib/              # search, scoring, formatting, and taxonomy helpers
-│   └── pages/            # static routes and app detail pages
-└── .github/workflows/    # validation and scheduled metadata maintenance
-```
+  Auth: `apiKey`
 
-The site is built with [Astro](https://astro.build), TypeScript, and
-[Tailwind CSS](https://tailwindcss.com/). It produces static assets in `dist/`
-and is configured for deployment with Cloudflare Wrangler.
+  HTTPS: Yes
 
-## Add or update an app
+  CORS: Unknown
 
-The fastest submission path is the
-[web form](https://open-apps.dev.mn/submit). It drafts a YAML record from a
-public GitHub URL; you review the metadata and open a pull request.
 
-For a manual contribution:
 
-1.  Create or edit `data/apps/<slug>.yml`.
-2.  Keep human-owned fields under `app`, `stack`, and `curation`.
-3.  Do not hand-edit automation-owned `github` or `health` fields.
-4.  Run `pnpm validate:data`, `pnpm test`, and `pnpm build`.
-5.  Open a focused pull request.
+### Government
 
-Please read [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md) before submitting data or code.
-All participants must follow the [Code of Conduct](https://github.com/tortuvshin/open-apps/blob/main/README.md/CODE_OF_CONDUCT.md).
+- API: [DistrictAPI](https://districtapi.dev/docs)
 
-## Automation
+  Description: US school districts and schools by address, with enrollment and boundaries
 
-GitHub Actions keeps changes visible and reviewable:
+  Auth: `apiKey`
 
-*   pull requests that touch catalog data run schema validation, data generation,
-    and unit tests;
-*   app activity and GitHub-shaped metadata are refreshed daily;
-*   repository contributor statistics are refreshed weekly;
-*   stale-app candidates are reported weekly for curator review.
+  HTTPS: Yes
 
-Scheduled jobs open pull requests when source data changes. They do not silently
-remove catalog entries.
+  CORS: Yes
 
-## AI-readable catalog
 
-The deployed site publishes:
 
-*   [`llms.txt`](https://open-apps.dev.mn/llms.txt) — a compact guide to the site;
-*   [`llms-full.txt`](https://open-apps.dev.mn/llms-full.txt) — the expanded
-    catalog for AI assistants and retrieval tools.
+### Weather
 
-These files are generated from the same source data as the website.
+- API: [World Time & Weather](https://worldtimeweather.com/api.html)
 
-## Project history
+  Description: Current weather, local time, UTC offset and DST rules for 400 cities as static JSON
 
-Open Apps grew from
-[`open-source-flutter-apps`](https://github.com/tortuvshin/open-source-flutter-apps).
-The original README-only collection is preserved in
-[README-LEGACY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/README-LEGACY.md), while this project evolves it into a
-structured, searchable, multi-stack directory.
+  Auth: No
 
-<!-- grove-readme:start -->
+  HTTPS: Yes
 
-# Open Apps — a directory of real open-source applications
+  CORS: Yes
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hand-picked apps worth running, studying, and extending.
 
-Browse the directory → <https://open-apps.dev.mn>
+## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
-## Why this list
-
-Each app below is **actively maintained**, **well documented**, and
-**useful in production**. Submit a new entry via the web form or
-by opening a pull request against `data/records/`.
-
-## Contents
-
-*   [Productivity](#productivity)
-*   [Finance](#finance)
-*   [Education](#education)
-*   [Tools](#tools)
-*   [Developer Tools](#developer-tools)
-*   [Communication](#communication)
-*   [Health and Fitness](#health-and-fitness)
-*   [Business](#business)
-*   [Games](#games)
-*   [Media](#media)
-*   [Entertainment](#entertainment)
-*   [Social Network](#social-network)
-*   [Shopping](#shopping)
-*   [News and Magazine](#news-and-magazine)
-
-## Productivity
+### Productivity / Useful commands
 
 *   [AppFlowy (⭐75k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [Butterfly (⭐2k)](https://github.com/LinwoodDev/Butterfly) - Butterfly is a Flutter note-taking and drawing app whose central object is an infinite canvas — pages hold freehand ink, text, shapes, images, areas, and waypoints in a custom `.bfly` document model, with optional WebDAV sync, OneNote import, and PDF/SVG export.
@@ -267,7 +116,7 @@ by opening a pull request against `data/records/`.
 *   [WhatTodo (⭐1.3k)](https://github.com/burhanrashid52/WhatTodo) - A Todoist-inspired to-do list app with a clean Material interface and quick capture.
 *   [YouTrack Mobile (⭐285)](https://github.com/JetBrains/youtrack-mobile) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects.
 
-## Finance
+### Finance / Useful commands
 
 *   [app-finance (⭐132)](https://github.com/lyskouski/app-finance) - Fingrom is a Flutter-built, ad-free, multi-currency personal finance app that ships to iOS, Android, macOS, Windows, Linux, and the Web from a single Dart codebase, with P2P device sync and end-to-end encryption.
 *   [BeeCount (⭐2.1k)](https://github.com/TNT-Likely/BeeCount) - BeeCount is a Flutter-based local-first bookkeeping app for iOS, Android, and Web that offers five interchangeable sync backends (the self-hosted BeeCount Cloud, iCloud, Supabase, WebDAV, and any S3-compatible store), AI-assisted capture via a dual on-device/cloud OCR pipeline, multi-ledger accounting with per-ledger currencies, and offline-first storage on Drift over SQLite.
@@ -281,11 +130,11 @@ by opening a pull request against `data/records/`.
 *   [sossoldi (⭐1.4k)](https://github.com/RIP-Comm/sossoldi) - Sossoldi is an MIT-licensed, Flutter-built personal wealth manager that tracks net worth, expenses, income, and investments across iOS, Android, macOS, Windows, Linux, and the Web from a single Dart codebase.
 *   [waterfly-iii (⭐695)](https://github.com/dreautall/waterfly-iii) - Waterfly III is a Flutter-built Android and iOS client for the self-hosted Firefly III personal finance manager, wrapping its REST API into a Material 3 mobile experience with offline dashboard charts, notification-driven transaction capture, and biometric app lock.
 
-## Education
+### Education / Useful commands
 
 *   [Mathematics (⭐143)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDFs and question papers with answers and quiz mode. Useful for educators and students preparing for exams.
 
-## Tools
+### Tools / Useful commands
 
 *   [admin-portal (⭐1.7k)](https://github.com/invoiceninja/admin-portal) - Invoice Ninja's operator-side admin portal, a single Flutter codebase shipped to Android, iOS, macOS, Windows, Linux, and web that manages the full billing lifecycle — quotes, invoices, recurring invoices, credits, purchase orders, payments, expenses, projects, and time tracking — against a self-hosted or cloud Invoice Ninja v5 server.
 *   [Airdash (⭐667)](https://github.com/simonbengtsson/airdash) - AirDrop-style file sharing to nearby devices over Wi-Fi and Bluetooth, no internet required.
@@ -309,14 +158,14 @@ by opening a pull request against `data/records/`.
 *   [Unwrap (⭐2.3k)](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 *   [xbmc (⭐21k)](https://github.com/xbmc/xbmc) - Kodi is a free, open-source cross-platform media-center and entertainment-hub application written primarily in C++ with a CMake build system, built on FFmpeg for codec support and featuring a binary addon framework, hardware-accelerated video playback, and a JSON-RPC control surface — running natively on Android, Linux, BSD, macOS, iOS, tvOS, and Windows.
 
-## Developer Tools
+### Developer Tools / Useful commands
 
 *   [flutter-pos-system (⭐592)](https://github.com/evan361425/flutter-pos-system) - An offline-first Flutter point-of-sale app for small restaurants and shops that runs ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt printing, custom analytics charts, and Google Sheets export entirely on-device with no remote backend.
 *   [localmind (⭐180)](https://github.com/abdulmominsakib/localmind) - A Flutter mobile chat client that connects to on-device LLMs and any OpenAI-compatible server — Ollama, LM Studio, OpenRouter — with markdown rendering, voice input, and an MCP tool layer.
 *   [roxum-ide (⭐562)](https://github.com/heckmon/roxum-ide) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
 *   [rustdesk (⭐120k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
 
-## Communication
+### Communication / Useful commands
 
 *   [Berty (⭐9.3k)](https://github.com/berty/berty) - Berty is a peer-to-peer messenger that runs entirely over the Wesh protocol on top of libp2p, so peers connect directly via mDNS, Bluetooth Low Energy, or Tor with no central server in the loop.
 *   [Keybase (⭐9.2k)](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
@@ -325,60 +174,113 @@ by opening a pull request against `data/records/`.
 *   [Status.im (⭐4k)](https://github.com/status-im/status-react) - Status is a secure messaging app, Ethereum wallet, and Web3 browser built on decentralized protocols.
 *   [thunderbird-ios (⭐1.1k)](https://github.com/thunderbird/thunderbird-ios) - Thunderbird for iOS – Open Source Email App for iOS.
 
-## Health and Fitness
+### Health and Fitness / Useful commands
 
 *   [medito-app (⭐1.3k)](https://github.com/meditohq/medito-app) - Medito is a permanently-free Flutter meditation app maintained by the Medito Foundation that streams guided sessions, multi-day courses, and themed packs from a CMS-backed catalogue, pairing each track with a `just_audio` + `audio_service` foreground player and an optional background-sound bed.
 *   [Open Food Facts (⭐1.4k)](https://github.com/openfoodfacts/smooth-app) - The mobile companion to Open Food Facts — scan barcodes, decode ingredient lists, and contribute new products to the open database.
 *   [wger (⭐959)](https://github.com/wger-project/flutter) - A Flutter workout and fitness tracker that syncs with the self-hosted wger server, supporting routines, exercises, and progress logs.
 
-## Business
+### Business / Useful commands
 
 *   [Invoice Ninja](https://invoiceninja.com/) - Companion app for the Invoice Ninja platform. Invoicing, expenses, time-billing, payments.
 
-## Games
+### Games / Useful commands
 
 *   [Flip (⭐269)](https://github.com/RedBrogdon/flutterflip) - A Reversi board game implementation with a clean interface for casual play.
 *   [Pokedex (⭐2.5k)](https://github.com/scitbiz/flutter_pokedex) - A Pokédex reference app built in Flutter, using the public PokéAPI.
 *   [Slide Puzzle (⭐179)](https://github.com/kevmoo/slide_puzzle) - A classic 15-slide puzzle game with a clean minimal interface.
 
-## Media
+### Media / Useful commands
 
 *   [AudioKit (⭐11k)](https://github.com/AudioKit/AudioKit) - AudioKit is a Swift audio synthesis, processing, and analysis framework for iOS, macOS, tvOS, and visionOS that wraps AVFoundation and a C-backed DSP engine.
 *   [EhPanda (⭐3.9k)](https://github.com/EhPanda-Team/EhPanda) - EhPanda is an unofficial iOS and iPadOS client for the E-Hentai and ExHentai galleries, written entirely in SwiftUI on top of Point-Free's Composable Architecture, with a Combine/Kanna scraping layer and Core Data persistence.
 *   [one\_second\_diary (⭐401)](https://github.com/KyleKun/one_second_diary) - One Second Diary is a minimalist Flutter video diary app that lets you capture a one-to-ten second clip each day, then stitch your recordings into a shareable compilation movie of your life.
 *   [Swift-Radio-Pro (⭐2.9k)](https://github.com/analogcode/Swift-Radio-Pro) - Swift-Radio-Pro is a Swift iOS streaming-audio reference app that plays live radio from a list of stations, surfaces now-playing metadata and album art, and integrates with the lock screen and Control Center.
 
-## Entertainment
+### Entertainment / Useful commands
 
 *   [ATV-Bilibili-demo (⭐3.1k)](https://github.com/yichengchen/ATV-Bilibili-demo) - ATV-Bilibili-demo is an open-source Bilibili client demo built for Apple TV and its tvOS focus-driven interface.
 *   [TV Randshow (⭐240)](https://github.com/deandreamatias/tv-randshow) - An app that picks a random episode from a TV show when you cannot decide what to watch.
 
-## Social Network
+### Social Network / Useful commands
 
 *   [IceCubesApp (⭐7k)](https://github.com/Dimillian/IceCubesApp) - IceCubesApp is a SwiftUI-native, multi-platform Mastodon client for iOS, iPadOS, macOS, and visionOS, built and maintained primarily by a single developer (Dimillian).
 
-## Shopping
+### Shopping / Useful commands
 
 *   [Artsy (⭐3.8k)](https://github.com/artsy/eigen) - Artsy Eigen is the official iOS and Android client for artsy.net, built as a React Native app with native Swift and Kotlin modules for browsing artworks, following artists and galleries, and participating in live timed auctions.
 *   [Flutter Games (⭐345)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games.
 *   [Flutter WooCommerce app (⭐715)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores.
 
-## News and Magazine
+### News and Magazine / Useful commands
 
 *   [feed-flow (⭐1.2k)](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
 *   [Hacki (⭐1.6k)](https://github.com/Livinglist/Hacki) - A clean Hacker News reader for iOS, with offline support and custom themes.
 
-<!-- grove-readme:end -->
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
-## Security
+### Tools & Software / Search & Discovery
 
-Please report vulnerabilities and sensitive issues using the private process in
-[SECURITY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/SECURITY.md). Do not open a public issue for security reports,
-credentials, or takedown requests.
+*   [PastPage (⭐4)](https://github.com/nabertronic/pastpage) - Browser extension for Chrome and Firefox that recovers broken or changed pages by querying the Wayback Machine and other web archives in parallel. *(Stable)*
 
-## License
+### Tools & Software / Utilities
 
-The website code and catalog tooling are available under the
-[MIT License](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE). Provenance and licensing notes for the legacy dataset
-are included in the license file.
+*   [WARC Explorer](http://webdata.nb.no/warc-explorer/) - Browser-based inspector for WARC files and records (client-side).
 
+### Public Data / Hosted, Closed Source
+
+*   [Dead-Web Index (⭐1)](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
+*   [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
+
+## [6. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+
+### Brokers
+
+*   [TrailMQ (⭐4)](https://github.com/RainerGewalt/TrailMQ) - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
+
+## [7. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+
+### Archives and primary sources / Global
+
+*   [Castlemap](https://thecastlemap.com/) - Interactive world map and open CC0 dataset of 2,400 castles, fortresses, palaces, and ruins across 131 countries.
+
+## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Codename One (⭐1.9k)](https://github.com/codenameone/CodenameOne) - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
+
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Motion / Tree-sitter Based
+
+*   [iago-lito/tree-spider.nvim](https://codeberg.org/iago-lito/tree-spider.nvim) - Tree-sitter aware local motions and distant node selection.
+
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [goprompt (erniebrodeur) (⭐1)](https://github.com/erniebrodeur/goprompt) - A compact, two-line prompt for ZSH. It includes decorators for the current directory, `git` state, user, optional SSH host, and local time without giving up the full width of the terminal.
+*   [goprompt (NonLogicalDev) (⭐11)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
+
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Competitive Programming
+
+*   [Principles of Algorithmic Problem Solving](https://jsannemo.se/latest.pdf) - Johan Sannemo (PDF)
+
+## [12. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Gems / Other external resources
+
+*   [scryer (⭐4)](https://github.com/ramlaxmanyadav/scryer) - A security auditing & static analysis tool that scans Rails apps for vulnerabilities, performance issues, and code quality problems. [:red\_circle:](https://rubygems.org/gems/scryer)
+
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### MCP Servers
+
+*   [Agent QA (⭐172)](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent for natural-language web and mobile tests. Run its MCP server with `agent-qa mcp` to let Gemini CLI author, execute, inspect, triage, and repair tests.
+
+---
+
+- Next: [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)

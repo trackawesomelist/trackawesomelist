@@ -6,6 +6,80 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 17, 2026](/content/2026/08/17/README.md)
+
+### Art & Design
+
+- API: [Iconify](https://iconify.design/docs/api/)
+
+  Description: Search and fetch SVG icons from 200+ open source icon sets
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Data Validation
+
+- API: [Temsor](https://api.temsor.com/docs)
+
+  Description: Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Development
+
+- API: [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json)
+
+  Description: 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Government
+
+- API: [DistrictAPI](https://districtapi.dev/docs)
+
+  Description: US school districts and schools by address, with enrollment and boundaries
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [World Time & Weather](https://worldtimeweather.com/api.html)
+
+  Description: Current weather, local time, UTC offset and DST rules for 400 cities as static JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
 ### Cryptocurrency

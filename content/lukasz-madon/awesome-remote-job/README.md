@@ -2,9 +2,15 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 46K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 48K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Aug 17, 2026](/content/2026/08/17/README.md)
+
+### Languages
+
+*   [日本語](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.ja.md)
 
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
@@ -54,7 +60,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Hopp (⭐572)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+*   [Hopp (⭐647)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
 *   [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
 
 ### Tools / Others
@@ -154,7 +160,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Why I work remotely (hint: it has nothing to do with productivity)](https://signalvnoise.com/svn3/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
 *   [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/300381/telecommuting-why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
 *   [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/)
-*   [Working Remotely for Extroverts](https://stephyiu.com/2014/12/13/working-remotely-for-extroverts/)
 
 ### Videos
 
@@ -177,7 +182,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
 *   [Remote Backend Jobs](https://www.remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
 *   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
-*   [remote-jobs (⭐40k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐41k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 *   [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
 *   [Remotive Jobs](https://remotive.com/)
 *   [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
@@ -211,7 +216,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Interviewing
 
 *   [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-*   [awesome-interviews (⭐82k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐84k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 *   [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
@@ -297,8 +302,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Pilot](https://plane.com) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 *   [Pleo](https://www.pleo.io/en/careers) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
 *   [ProFinda](https://www.profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
-*   [RainforestQA](https://jobs.lever.co/rainforest) - On demand QA as a service.
-*   [RebelMouse](https://www.rebelmouse.com/st/blog) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
 *   [Recurly](https://recurly.com/careers/) - recurring billing management for subscription-based businesses
 *   [Red Hat](https://www.redhat.com/en/jobs)
 *   [Redox](https://redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
@@ -307,7 +310,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [ServiceNow](https://www.jobvite.com/support/job-seeker-support/?invalid=1) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
 *   [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
 *   [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
-*   [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 *   [StackExchange](https://stackoverflow.co/company/work-here/)
 *   [SuperOrbital](https://superorbital.io/) - Kubernetes engineering and training.
 *   [Surevine](https://surevine.com/careers)
@@ -372,7 +374,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
 *   [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
-*   [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+*   [thatmlopsguy/remote-pt (⭐14)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
 *   [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
 
 ### Interviewing
@@ -531,7 +533,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
 *   [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
@@ -545,7 +547,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Trello](https://trello.com/jobs)
 *   [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
 *   [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
-*   [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
 *   [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
 *   [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
@@ -696,7 +697,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
 *   [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
-*   [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
 
 ### Events
 
@@ -729,7 +729,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Communities
 
-*   [##remotes (⭐16)](https://github.com/remotesclub/remotes) - IRC channel
+*   [##remotes (⭐18)](https://github.com/remotesclub/remotes) - IRC channel
 *   [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 
 ### Conferences
@@ -906,7 +906,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐905)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Feb 03, 2019](/content/2019/02/03/README.md)
 
@@ -922,7 +922,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐8.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐8.9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -961,7 +961,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
 *   [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
-*   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
 
 ### Books
 
@@ -1142,7 +1141,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐1.1k)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13, 2017](/content/2017/03/13/README.md)
 
