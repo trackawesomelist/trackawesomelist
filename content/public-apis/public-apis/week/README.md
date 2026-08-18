@@ -52,6 +52,34 @@ A collective list of free APIs
 
 
 
+### Environment
+
+- API: [kanari](https://kanari.io/en/api)
+
+  Description: Real-time worldwide wildfire detections, water bomber tracking and open fire archive
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [Rblxdb](https://rblxdb.com/developers)
+
+  Description: Verified Roblox music codes and decal IDs with live working status
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Government
 
 - API: [DistrictAPI](https://districtapi.dev/docs)
@@ -66,6 +94,20 @@ A collective list of free APIs
 
 
 
+### Machine Learning
+
+- API: [Google Gemini](https://ai.google.dev/gemini-api/docs)
+
+  Description: Multimodal generative AI for text, vision, and code generation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Security
 
 - API: [CSR.plus](https://csr.plus/docs/api)
@@ -77,6 +119,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Shopping
+
+- API: [Sparepilot](https://sparepilot.com/developers)
+
+  Description: Spare parts catalog, OEM cross-references & price comparison for garden power equipment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 

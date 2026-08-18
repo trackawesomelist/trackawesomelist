@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### Applications / Productivity
+
+*   [lockbook/lockbook (⭐429)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Libraries / Artificial Intelligence
@@ -3317,6 +3323,7 @@ A curated list of Rust code and resources.
 
 *   Other
     *   [build-trust/ockam (⭐4.6k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
+    *   [zannis/shove (⭐6)](https://github.com/zannis/shove) \[[shove](https://crates.io/crates/shove)] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups [![CI](https://github.com/zannis/shove/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zannis/shove/actions/workflows/ci.yml)
 
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 

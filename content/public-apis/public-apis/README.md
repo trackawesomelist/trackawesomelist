@@ -6,6 +6,64 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### Environment
+
+- API: [kanari](https://kanari.io/en/api)
+
+  Description: Real-time worldwide wildfire detections, water bomber tracking and open fire archive
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [Rblxdb](https://rblxdb.com/developers)
+
+  Description: Verified Roblox music codes and decal IDs with live working status
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Google Gemini](https://ai.google.dev/gemini-api/docs)
+
+  Description: Multimodal generative AI for text, vision, and code generation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Shopping
+
+- API: [Sparepilot](https://sparepilot.com/developers)
+
+  Description: Spare parts catalog, OEM cross-references & price comparison for garden power equipment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Art & Design

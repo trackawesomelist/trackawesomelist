@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### Zed / Third-party APIs
+
+*   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Key-value databases

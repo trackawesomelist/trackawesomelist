@@ -2,7 +2,7 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.6K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.7K · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / Overview ]
 
@@ -121,6 +121,7 @@ More information in CLAUDE.md and llms.txt.
 *   [AudioNodes](https://audionodes.com/) - Produces music with mixing, effects, MIDI and synthesis.
 *   [Cider](https://cider.sh/) - Streams Apple Music. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine)
+*   [DuckDeck](https://duckdeck.app/) - Global hotkeys for your music volume that work inside fullscreen games, with automatic ducking when someone talks in Discord. ![paid]
 *   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering. ![paid]
 *   [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO)
 *   [Foobar2000](https://www.foobar2000.org/) - Plays audio with customization options.
@@ -166,25 +167,25 @@ More information in CLAUDE.md and llms.txt.
 
 ## Command Line Tools
 
-*   [btop4win (⭐1.9k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [btop4win (⭐2k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 *   [Cinema (⭐37)](https://github.com/marm00/cinema) - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Fastfetch (⭐24k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [gallery-dl (⭐19k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [gitty (⭐27)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [gitty (⭐28)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
 *   [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases)
-*   [Scoop (⭐24k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Scoop (⭐25k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [winfetch (⭐1.8k)](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch)
 *   [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
-*   [yt-dlp (⭐180k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐184k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## Communication
 
 *   [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord)
 *   [Beeper](https://beeper.com) - Combines WhatsApp, Slack, Telegram, Signal, X, Instagram, SMS into one app.
 *   [Discord](https://discordapp.com) - Voice and text chat platform.
-*   [Equicord (⭐1.6k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ![star]
+*   [Equicord (⭐1.7k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ![star]
 *   [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software][oss]](https://github.com/meetfranz/franz)
 *   [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software][oss]](https://github.com/matrix-org)
 *   [Stoat](https://stoat.chat/) - Chat platform built with modern web tech. [![Open-Source Software][oss]](https://github.com/revoltchat)
@@ -213,7 +214,7 @@ More information in CLAUDE.md and llms.txt.
 *   [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 *   [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 *   [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
-*   [Sucrose Wallpaper Engine (⭐1.4k)](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
+*   [Sucrose Wallpaper Engine (⭐1.5k)](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
 *   [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 *   [TranslucentTB (⭐20k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
@@ -264,6 +265,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Everything](https://www.voidtools.com/) - Instant file search utility.
 *   [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter)
 *   [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.
+*   [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid]
 *   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
 *   [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss]](https://download.filezilla-project.org/client/)
 *   [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
@@ -280,7 +282,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Awesome Games (⭐25k)](https://github.com/leereilly/games) - List of games hosted on GitHub.
 *   [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
 *   [Freeciv](https://www.freeciv.org/) - Free empire-building strategy game inspired by human civilization. [![Open-Source Software][oss]](https://github.com/freeciv/)
-*   [Gale (⭐707)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐726)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 *   [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 *   [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
@@ -305,7 +307,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][oss]](https://gitlab.com/inkscape/inkscape)
 *   [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software][oss]](https://krita.org/en/download/krita-desktop/)
 *   [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources.
-*   [Oculante (⭐1.6k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
+*   [Oculante (⭐1.7k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
 *   [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 *   [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
 
@@ -369,7 +371,7 @@ More information in CLAUDE.md and llms.txt.
 *   [KeePassXC](https://keepassxc.org/) = Local open-source KeePass client. [![Open-Source Software][oss]](https://github.com/keepassxreboot/keepassxc)
 *   [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software][oss]](https://github.com/padloc/padloc)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star]
-*   [Vaultwarden (⭐64k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden)
+*   [Vaultwarden (⭐65k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden)
 
 ## Productivity
 
@@ -386,7 +388,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
-*   [STranslate (⭐7.6k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐7.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 *   [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
@@ -394,7 +396,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 *   [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
-*   [Saga Reader (⭐531)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐533)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 *   [EyeRest (⭐28)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 *   [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us\&gl=JO\&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
@@ -426,7 +428,7 @@ More information in CLAUDE.md and llms.txt.
 ## Screen Capture
 
 *   [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
-*   [Greenshot (⭐5k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Greenshot (⭐5.1k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 *   [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ![star]
 *   [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
@@ -434,7 +436,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Screenshot
 
-*   [Capter (⭐233)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
+*   [Capter (⭐235)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 *   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 *   [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
 *   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
@@ -444,8 +446,8 @@ More information in CLAUDE.md and llms.txt.
 
 *   [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 *   [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
-*   [Certificate Ripper (⭐919)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
-*   [cppcryptfs (⭐943)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [Certificate Ripper (⭐920)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
+*   [cppcryptfs (⭐954)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 *   [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 *   [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 *   [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
@@ -468,26 +470,26 @@ More information in CLAUDE.md and llms.txt.
 *   [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 *   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 *   [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
-*   [CrunchyCleaner (⭐124)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
+*   [CrunchyCleaner (⭐140)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
 *   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 *   [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
-*   [HardwareExporterWindows (⭐6)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
+*   [HardwareExporterWindows (⭐9)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
 *   [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 *   [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 *   [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
 *   [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
-*   [LightBulb (⭐2.7k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
+*   [LightBulb (⭐2.8k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 *   [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
 *   [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
-*   [neohtop (⭐9.2k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
+*   [neohtop (⭐9.3k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
 *   [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 *   [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
 *   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker)
 *   [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent)
 *   [Rufus](https://rufus.ie/) - Bootable USB creation utility. [![Open-Source Software][oss]](https://github.com/pbatard/rufus)
-*   [scrcpy (⭐146k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐148k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
-*   [Servy (⭐1.9k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+*   [Servy (⭐2k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 *   [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
 *   [SyncThing](https://syncthing.net/) - Peer-to-peer file synchronization tool. [![Open-Source Software][oss]](https://github.com/syncthing/syncthing)
 *   [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software][oss]](https://github.com/xanderfrangos/twinkle-tray)
@@ -514,7 +516,7 @@ More information in CLAUDE.md and llms.txt.
 ## Text Editors
 
 *   [GVim](https://www.vim.org/download.php#pc) - Highly configurable text editor optimized for efficiency. [![Open-Source Software][oss]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679)
-*   [Inkwell (⭐248)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+*   [Inkwell (⭐250)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
 *   [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software][oss]](https://github.com/LazyVim/LazyVim)
 *   [Markra](https://markra.app/) - Local-first WYSIWYG Markdown editor with native AI review. [![Open-Source Software][oss]](https://github.com/murongg/markra)
 *   [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
@@ -531,7 +533,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 *   [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
 *   [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
-*   [GitLight (⭐928)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐929)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Meld](https://meldmerge.org/) - Visual diff and merge tool. [![Open-Source Software][oss]](https://gitlab.gnome.org/GNOME/meld/)
 *   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 *   [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
@@ -545,7 +547,7 @@ More information in CLAUDE.md and llms.txt.
 *   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
 *   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
-*   [Screenbox (⭐4k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
+*   [Screenbox (⭐4.1k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 *   [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
@@ -563,16 +565,16 @@ More information in CLAUDE.md and llms.txt.
 
 ## Window Management
 
-*   [AltSnap (⭐5k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
-*   [FancyZones (⭐137k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
+*   [AltSnap (⭐5.1k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
+*   [FancyZones (⭐138k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
 *   [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
-*   [GlazeWM (⭐12k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
+*   [GlazeWM (⭐13k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
 
 ## Backers
 
 Thanks to all contributors without you this project would not exist.
 
-<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/helouism'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90733858?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='helouism'/></a> <a href='https://github.com/Pandooroo'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/258675921?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Pandooroo'/></a> <a href='https://github.com/farivar-tabatabaei'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40429523?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='farivar-tabatabaei'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/sjharper79'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/891208?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sjharper79'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://github.com/stkossman'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/170632168?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='stkossman'/></a> <a href='https://github.com/suprunchuk'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57152612?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='suprunchuk'/></a> <a href='https://github.com/tachy0nnn'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154914363?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='tachy0nnn'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/ZGGSONG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49741009?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='ZGGSONG'/></a> <a href='https://github.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://github.com/mnardit'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/10056330?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mnardit'/></a> <a href='https://github.com/nukhes'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79018158?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='nukhes'/></a> <a href='https://github.com/N0mad300'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142749485?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='N0mad300'/></a> <a href='https://github.com/AnakamaTH'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109427414?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='AnakamaTH'/></a> <a href='https://github.com/nwalser'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/33339996?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='nwalser'/></a> <a href='https://github.com/necdetsanli'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/104927297?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='necdetsanli'/></a> <a href='https://github.com/makeusabrew'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/278461?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='makeusabrew'/></a> <a href='https://github.com/koolninad'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8643639?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='koolninad'/></a> <a href='https://github.com/Omibranch'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/272266969?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Omibranch'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/sopaco'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/15891288?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sopaco'/></a> <a href='https://github.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://github.com/YashvardhanG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47084179?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='YashvardhanG'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://github.com/catnose99'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/34590683?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='catnose99'/></a> <a href='https://github.com/j3n1xnoname'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/164738650?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='j3n1xnoname'/></a>
+<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/helouism'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90733858?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='helouism'/></a> <a href='https://github.com/Pandooroo'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/258675921?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Pandooroo'/></a> <a href='https://github.com/farivar-tabatabaei'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40429523?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='farivar-tabatabaei'/></a> <a href='https://github.com/sjharper79'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/891208?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sjharper79'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://github.com/stkossman'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/170632168?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='stkossman'/></a> <a href='https://github.com/suprunchuk'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57152612?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='suprunchuk'/></a> <a href='https://github.com/tachy0nnn'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154914363?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='tachy0nnn'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/ZGGSONG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49741009?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='ZGGSONG'/></a> <a href='https://github.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://github.com/mnardit'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/10056330?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mnardit'/></a> <a href='https://github.com/nukhes'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79018158?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='nukhes'/></a> <a href='https://github.com/N0mad300'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142749485?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='N0mad300'/></a> <a href='https://github.com/AnakamaTH'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109427414?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='AnakamaTH'/></a> <a href='https://github.com/makeusabrew'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/278461?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='makeusabrew'/></a> <a href='https://github.com/koolninad'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8643639?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='koolninad'/></a> <a href='https://github.com/Omibranch'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/272266969?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Omibranch'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/sopaco'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/15891288?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sopaco'/></a> <a href='https://github.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://github.com/mokosiy'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7067553?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mokosiy'/></a> <a href='https://github.com/jediwade'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/9596313?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='jediwade'/></a> <a href='https://github.com/YashvardhanG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47084179?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='YashvardhanG'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://github.com/catnose99'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/34590683?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='catnose99'/></a> <a href='https://github.com/j3n1xnoname'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/164738650?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='j3n1xnoname'/></a>
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 

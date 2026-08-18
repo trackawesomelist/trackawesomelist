@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### Buffers / Markdown and LaTeX
+
+*   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
+
 ### Motion / Tree-sitter Based
 
 *   [iago-lito/tree-spider.nvim](https://codeberg.org/iago-lito/tree-spider.nvim) - Tree-sitter aware local motions and distant node selection.
+
+### Editing Support / Scrollbar
+
+*   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
@@ -60,7 +68,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [tan-wei/zimablue.nvim (⭐2)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐61)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ### Utility / Cursorline
 
@@ -126,7 +134,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Markdown and LaTeX
 
-*   [cxwx/shadowMyName.nvim (⭐4)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+*   [cxwx/shadowMyName.nvim (⭐5)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 
 ### Colorscheme / Markdown and LaTeX
 

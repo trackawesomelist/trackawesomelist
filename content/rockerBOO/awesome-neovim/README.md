@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### Buffers / Markdown and LaTeX
+
+*   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
+
+### Editing Support / Scrollbar
+
+*   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Motion / Tree-sitter Based
@@ -65,7 +75,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐61)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -158,7 +168,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Markdown and LaTeX
 
-*   [cxwx/shadowMyName.nvim (⭐4)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+*   [cxwx/shadowMyName.nvim (⭐5)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 
 ### Colorscheme / Markdown and LaTeX
 

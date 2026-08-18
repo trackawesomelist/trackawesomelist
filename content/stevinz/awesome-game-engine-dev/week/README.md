@@ -6,6 +6,21 @@ Awesome list of resources for Game Engine Development.
 
 [ [Daily](/content/stevinz/awesome-game-engine-dev/README.md) / Weekly / [Overview](/content/stevinz/awesome-game-engine-dev/readme/README.md) ]
 
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### Learning / Engine Development
+
+*   Developer Blogs
+    *   📚 [Bits, Pixels, Cycles and More](https://zeux.io/) - Graphics, optimization and low-level engine programming.
+    *   📚 [Bitsquid Development Blog](https://bitsquid.blogspot.com/) - Archived engine architecture, rendering and tools articles.
+    *   📚 [cybereality](https://cybereality.com/) - Custom 3D engine development, graphics and game technology.
+    *   📚 [Digital Grove](https://www.dgtlgrove.com/) - Low-level programming, tools, UI, debugging and game engines.
+    *   📚 [Harold Serrano](https://www.haroldserrano.com/blog) - Engine architecture, graphics and building the *Untold Engine*.
+    *   📚 [Our Machinery Blog Archive](https://ruby0x1.github.io/machinery_blog_archive/) - Engine architecture, rendering, ECS and tooling.
+    *   📚 [The Danger Zone](https://therealmjp.github.io/posts/) - Real-time rendering, GPU programming and graphics APIs.
+    *   📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
+    *   📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in *Wicked Engine*.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Libraries / Rust
@@ -23,7 +38,7 @@ Awesome list of resources for Game Engine Development.
 *   Swift: Game Framework
     *   🎉 [GateEngine (⭐437)](https://github.com/STREGAsGate/GateEngine) - Cross-platform game engine that allows you to build 2D and 3D games.
     *   🎉 [Glide (⭐506)](https://github.com/cocoatoucher/Glide) - Engine for making 2D games with practical examples and tutorials.
-    *   🎉 [Imagine Engine (⭐1.8k)](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for *Apple*'s platforms.
+    *   🎉 [Imagine Engine (⭐1.8k)](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for Apple's platforms.
     *   🎉 [Iris (⭐15)](https://github.com/Chandram-Dutta/Iris) - Minimal 2D game engine in Swift.
     *   🎉 [OctopusKit (⭐485)](https://github.com/invadingoctopus/octopuskit) - 2D ECS game engine for iOS, macOS, tvOS.
 *   Swift: Gui
@@ -905,7 +920,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Pyglet (⭐2.2k)](https://github.com/pyglet/pyglet) - Windowing and multimedia library intended for game development.
 *   Python: Game Framework
     *   🎉 [Arcade (⭐2.1k)](https://github.com/pythonarcade/arcade) - Easy to use library for creating 2D arcade games.
-    *   🎉 [Panda3D (⭐5.2k)](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by *Disney* and *Carnegie Mellon*. \[[Website](https://www.panda3d.org)]
+    *   🎉 [Panda3D (⭐5.2k)](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by *Disney* and *Carnegie Mellon*.
     *   🔒 [Pygame (⭐8.9k)](https://github.com/pygame/pygame) - Game & multimedia app framework, built on *SDL*.
     *   🎉 [Pygcurse (⭐3)](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. \[[Website](http://inventwithpython.com/pygcurse/)]
 
@@ -944,7 +959,7 @@ Awesome list of resources for Game Engine Development.
 
 *   🔒 [Dungeon Crawl: Stone Soup (⭐2.9k)](https://github.com/crawl/crawl) - Classic roguelike adventure. \[[Play](https://crawl.develz.org/)]
 *   🎉 [Etheral Legends (⭐239)](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with *Unreal Engine 4*. \[[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
-*   🎉 [OpenLara (⭐5k)](https://github.com/XProger/OpenLara) - Classic *Tomb Raider* open source engine. \[[Play](http://xproger.info/projects/OpenLara/)]
+*   🎉 [OpenLara (⭐5.1k)](https://github.com/XProger/OpenLara) - Classic *Tomb Raider* open source engine. \[[Play](http://xproger.info/projects/OpenLara/)]
 *   🎉 [TeeWorlds (⭐2.6k)](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter. \[[Website](https://teeworlds.com/)]
 
 ### Specialty Topics / Entity Component Systems

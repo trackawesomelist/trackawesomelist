@@ -8,9 +8,17 @@
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### Graphics / Animation
+
+*   :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
+
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Codename One (⭐1.9k)](https://github.com/codenameone/CodenameOne) - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
+
+### AI / Voxel Editors
+
+*   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 

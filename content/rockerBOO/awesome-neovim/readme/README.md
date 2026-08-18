@@ -697,6 +697,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [famiu/bufdelete.nvim (⭐514)](https://github.com/famiu/bufdelete.nvim) - Delete buffers without losing your window layout.
 *   [wsdjeg/bufdel.nvim (⭐15)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 *   [m-demare/attempt.nvim (⭐94)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
 
 <!--lint disable double-link -->
 
@@ -724,7 +725,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [3ZsForInsomnia/pacer.nvim (⭐7)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 *   [wsdjeg/cpicker.nvim (⭐9)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 *   [leolaurindo/tunnelvision.nvim (⭐35)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
-*   [cxwx/shadowMyName.nvim (⭐4)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
+*   [cxwx/shadowMyName.nvim (⭐5)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 
 <!--lint disable double-link -->
 
@@ -900,7 +901,7 @@ then it is not supported:
 *   [alsi-lawr/neotheme.nvim (⭐5)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 *   [tan-wei/zimablue.nvim (⭐2)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐54)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐61)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 *   [aadielpr/bono.nvim (⭐1)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
 *   [art220/dancheong.nvim (⭐1)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
@@ -1687,6 +1688,7 @@ then it is not supported:
 *   [ntk148v/yankdown.nvim (⭐14)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
 *   [Chiarandini/smart-enter.nvim (⭐3)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 *   [yaocccc/visual-multi.nvim (⭐10)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
+*   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
 ### Comment
 

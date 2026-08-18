@@ -187,6 +187,7 @@ sellers who aren't evil for physical resources.
     *   [Sublime Text](#sublime-text)
     *   [VSCode](#vscode)
     *   [JetBrains](#jetbrains)
+    *   [Zed](#zed)
     *   [Geany (experimental)](#geany-experimental)
     *   [Notebooks](#notebooks)
     *   [REPLs](#repls)
@@ -1999,6 +2000,10 @@ Tools:
 *   [SLT (⭐219)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Intellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
     *   released in Jan, 2023. Experimental.
     *   see [this fork (⭐6)](https://github.com/ivanbulanov/SLT/releases) that is updated to work on Intellij 2025.3.2.
+
+## Zed
+
+*   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
 ## Geany (experimental)
 

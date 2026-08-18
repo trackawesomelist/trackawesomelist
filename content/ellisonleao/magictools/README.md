@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### Graphics / Animation
+
+*   :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
+
+### AI / Voxel Editors
+
+*   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Engines and Frameworks / Voxel Editors
