@@ -146,6 +146,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 
 ## Tools
 
+*   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
 *   [hivemq-mqtt-web-client (⭐363)](https://github.com/hivemq/hivemq-mqtt-web-client) - Browser-based MQTT client that utilizes MQTT over websockets. [Direct Link](https://www.hivemq.com/demos/websocket-client/)
 *   [homie-home-assistant-discovery (⭐0)](https://github.com/labodj/homie-home-assistant-discovery) - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
 *   [imqtt (⭐21)](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.

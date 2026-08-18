@@ -26,7 +26,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -259,7 +259,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [PingMe (⭐862)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 *   [Discharge (⭐647)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
-*   [updatecli (⭐949)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 *   [telert (⭐284)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 *   [logdy (⭐2.3k)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 *   [s5cmd (⭐4.2k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
@@ -759,7 +759,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [lazygit (⭐81k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 *   [gitui (⭐22k)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+*   [ggc (⭐284)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 *   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 *   [gibr (⭐109)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
@@ -862,6 +862,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [faf-cli (⭐32)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 *   [agentty (⭐380)](https://github.com/1ay1/agentty) - C++ agent TUI.
 *   [bosun (⭐37)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
+*   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
 ### LLM Interaction
 

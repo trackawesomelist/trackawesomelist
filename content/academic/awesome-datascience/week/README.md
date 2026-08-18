@@ -6,6 +6,12 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [HDD Price Index (⭐0)](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Newsletters / Book Deals (Affiliated)
@@ -420,7 +426,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐702)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐707)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -554,7 +560,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐653)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐658)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -614,7 +620,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐60k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐61k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -1420,12 +1426,12 @@
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐706)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-bayes (⭐524)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐440)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐773)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.6k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐6.6k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-opt (⭐6.7k)](https://github.com/guofei9987/scikit-opt)
 *   [scikit-posthocs (⭐386)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐668)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)

@@ -1,12 +1,46 @@
 # Awesome List Updates on Aug 18, 2026
 
-9 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Security / System Security
+
+*   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,407`
+
+## [2. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+
+### Tools
+
+*   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
+
+## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+
+### Starter Templates
+
+*   [Vite Lit + Intlayer (⭐3)](https://github.com/aymericzip/intlayer-vite-lit-template) - Per-component i18n solution for app and design-systems.
+
+### Extensions
+
+*   [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
+
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### AI / Agents
+
+*   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [HDD Price Index (⭐0)](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
+
+## [6. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Audio
 
@@ -16,7 +50,7 @@
 
 *   [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / GitHub
 
@@ -27,19 +61,19 @@
 
 *   [MetaClean (⭐5)](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Zed / Third-party APIs
 
 *   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
 *   [lockbook/lockbook (⭐429)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Environment
 
@@ -97,7 +131,7 @@
 
 
 
-## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Adventure
 
@@ -107,7 +141,7 @@
 
 *   [Quarantine (⭐0)](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
 
-## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Learning / Engine Development
 
@@ -122,7 +156,7 @@
     *   📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
     *   📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in *Wicked Engine*.
 
-## [8. Magictools](/content/ellisonleao/magictools/README.md)
+## [13. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Animation
 
@@ -132,7 +166,7 @@
 
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Buffers / Markdown and LaTeX
 

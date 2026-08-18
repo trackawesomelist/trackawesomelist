@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### AI / Agents
+
+*   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Productivity / Testing
@@ -651,7 +657,7 @@
 
 ### Version Control / Git
 
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+*   [ggc (⭐284)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 *   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 
 ### Images / Image Conversion
@@ -912,7 +918,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐949)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ## [Oct 03, 2022](/content/2022/10/03/README.md)
 

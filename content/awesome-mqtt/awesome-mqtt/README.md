@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Aug 18, 2026](/content/2026/08/18/README.md)
+
+### Tools
+
+*   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Brokers

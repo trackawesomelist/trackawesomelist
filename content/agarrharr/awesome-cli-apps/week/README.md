@@ -12,6 +12,10 @@
 
 *   [tiki (⭐198)](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
 
+### AI / Agents
+
+*   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Development / Public localhost
@@ -571,7 +575,7 @@
 
 ### Version Control / Git
 
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+*   [ggc (⭐284)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 *   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 
 ### Images / Image Conversion
@@ -814,7 +818,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐949)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 

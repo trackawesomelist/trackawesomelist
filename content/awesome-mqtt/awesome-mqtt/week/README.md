@@ -12,6 +12,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 *   [TrailMQ (⭐4)](https://github.com/RainerGewalt/TrailMQ) - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
 
+### Tools
+
+*   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Tools
