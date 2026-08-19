@@ -1,24 +1,52 @@
 # Awesome List Updates on Aug 19, 2026
 
-7 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Audio & Video / Editors
+
+*   [cartesiancs/cartcut (⭐588)](https://github.com/cartesiancs/cartcut) — Video editor with motion effects and layered editing ☆`588`
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Graphics
+
+*   [MESHLIB (⭐807)](https://github.com/meshinspector/meshlib) - An SDK to Supercharge Your 3D Data Processing Efficiency. \[Free/Commercial] [website](https://meshlib.io/)
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### AI Tools / Other Tools
+
+*   [Loadout](https://loadout.migsilva.dev) - See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/migsilva89/loadout) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### AI / Diagnostics
+
+*   [saya-ashen/agent-workbench.nvim (⭐3)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
+
+### File Explorer / Markdown and LaTeX
+
+*   [Dev-Addict/FloatingFile.nvim (⭐2)](https://github.com/Dev-Addict/FloatingFile.nvim) - Quickly preview any readable file in a centered floating window without replacing the current buffer.
+
+## [5. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Videos
 
 *   [QAPractices Load Testing with k6](https://qapractices.com/documentation/load-testing-with-k6/) - Practical guide to load, stress and soak testing with k6 and Grafana.
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs, and training materials / Paid and commercially available materials
 
 *   [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust) - A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
@@ -28,17 +56,33 @@
 
 *   [ameba-ls (⭐44)](https://github.com/crystal-ameba/ameba-ls) - Language Server for the [Ameba (⭐561)](https://github.com/crystal-ameba/ameba) linter
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
+*   [agy-mcp (⭐6)](https://github.com/tphakala/agy-mcp) - Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews.
 *   [crewai-go (⭐4)](https://github.com/rhgs/crewai-go) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
+
+### Audio and Music
+
+*   [go-aac (⭐3)](https://github.com/tphakala/go-aac) - Pure-Go AAC-LC encoder and decoder ported from FFmpeg.
+*   [go-audio-resampler (⭐9)](https://github.com/tphakala/go-audio-resampler) - Pure-Go, high-quality audio resampler with SIMD acceleration.
+*   [go-flac (⭐1)](https://github.com/tphakala/go-flac) - Native Go FLAC encoder and decoder with SIMD acceleration.
+*   [go-opus (⭐2)](https://github.com/tphakala/go-opus) - Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder.
 
 ### Authentication and Authorization
 
 *   [melange (⭐83)](https://github.com/pthm/melange) - Compiles OpenFGA authorization schemas into PL/pgSQL functions that run fine-grained relationship-based access control checks inside PostgreSQL.
 
-## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+### Caches
+
+*   [easycache (⭐121)](https://github.com/hugocarreira/easycache) - A simple way to use in-memory cache in Golang (TTL/FIFO/LRU/LFU).
+
+### Science and Data Analysis
+
+*   [simd (⭐21)](https://github.com/tphakala/simd) - Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration.
+
+## [9. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official
 
@@ -147,7 +191,7 @@
 *   [Alexintosh/Awesome-Ionic (⭐1.5k)](https://github.com/Alexintosh/Awesome-Ionic) - Curated list of Ionic resources.
 *   [Cap-go/awesome-ionic (⭐864)](https://github.com/Cap-go/awesome-ionic) - Curated list of Ionic Framework resources.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -283,7 +327,7 @@
 
 
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Image Lifecycle / Registry
 

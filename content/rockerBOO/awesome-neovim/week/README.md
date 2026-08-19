@@ -8,6 +8,14 @@ Collections of awesome neovim plugins.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### AI / Diagnostics
+
+*   [saya-ashen/agent-workbench.nvim (⭐3)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
+
+### File Explorer / Markdown and LaTeX
+
+*   [Dev-Addict/FloatingFile.nvim (⭐2)](https://github.com/Dev-Addict/FloatingFile.nvim) - Quickly preview any readable file in a centered floating window without replacing the current buffer.
+
 ### Buffers / Markdown and LaTeX
 
 *   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
@@ -42,7 +50,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/cendre (⭐99)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [Aejkatappaja/cendre (⭐144)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [aadielpr/bono.nvim (⭐1)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
 *   [art220/dancheong.nvim (⭐1)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
@@ -52,11 +60,11 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [jaimeibanezrivera/zj-theme (⭐3)](https://github.com/jaimeibanezrivera/zj-theme) - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
+*   [jaimeibanezrivera/zj-theme (⭐4)](https://github.com/jaimeibanezrivera/zj-theme) - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
 
 ### Session / Indent
 
-*   [dmshvedchenko/persist.nvim (⭐4)](https://github.com/dmshvedchenko/persist.nvim) - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
+*   [dmshvedchenko/persist.nvim (⭐7)](https://github.com/dmshvedchenko/persist.nvim) - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -138,7 +146,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [ntk148v/lauds (⭐7)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+*   [ntk148v/lauds (⭐10)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 *   [alsi-lawr/neotheme.nvim (⭐5)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 
 ### Colorscheme / Colorscheme Creation
