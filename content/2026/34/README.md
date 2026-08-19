@@ -1,18 +1,183 @@
 # Awesome List Updates on Aug 24 - Aug 30, 2026
 
-31 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+
+### Videos
+
+*   [QAPractices Load Testing with k6](https://qapractices.com/documentation/load-testing-with-k6/) - Practical guide to load, stress and soak testing with k6 and Grafana.
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Books, blogs, and training materials / Paid and commercially available materials
+
+*   [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust) - A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.
+
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+
+### Network Protocols
+
+*   [crystal-swim (⭐9)](https://github.com/alumna/crystal-swim) - Decentralized cluster discovery and eventually consistent failure detection using SWIM
+
+### LSP Language Server Protocol Implementations
+
+*   [ameba-ls (⭐44)](https://github.com/crystal-ameba/ameba-ls) - Language Server for the [Ameba (⭐561)](https://github.com/crystal-ameba/ameba) linter
+
+## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [crewai-go (⭐4)](https://github.com/rhgs/crewai-go) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
+
+### Authentication and Authorization
+
+*   [melange (⭐83)](https://github.com/pthm/melange) - Compiles OpenFGA authorization schemas into PL/pgSQL functions that run fine-grained relationship-based access control checks inside PostgreSQL.
+
+## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+
+### Official
+
+*   [Blog](https://ionic.io/blog/tag/capacitor) - Official blog posts.
+*   [Website](https://capacitorjs.com/) - Project homepage.
+*   [Documentation](https://capacitorjs.com/docs) - Official docs.
+*   [CLI](https://capacitorjs.com/docs/cli) - Command-line reference.
+*   [Community](https://capacitorjs.com/community) - Official community hub.
+*   [Repository (⭐16k)](https://github.com/ionic-team/capacitor) - Core runtime source.
+
+### Apps built with Capacitor / Case study
+
+*   [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association.
+*   [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped as PWAs wrapped with Capacitor.
+*   [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app for iOS and Android.
+*   [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova.
+*   [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova migration.
+*   [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals.
+*   [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H\&R Block.
+*   [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus.
+*   [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app for iOS and Android.
+*   [Ionic case studies](https://ionic.io/resources/case-studies) - More case studies published by the Ionic team.
+
+### Related lists / Case study
+
+*   [Cap-go/awesome-ionic (⭐864)](https://github.com/Cap-go/awesome-ionic) - Curated list of Ionic Framework resources.
+*   [Alexintosh/Awesome-Ionic (⭐1.5k)](https://github.com/Alexintosh/Awesome-Ionic) - Curated list of Ionic resources.
+
+### Official plugins
+
+*   [File Transfer (⭐11)](https://github.com/ionic-team/capacitor-file-transfer) - Provides mechanisms for downloading and uploading files.
+*   [File Viewer (⭐5)](https://github.com/ionic-team/capacitor-file-viewer) - Provides mechanisms for opening files and previewing media.
+
+### Community plugins
+
+*   [Safe Area (⭐177)](https://github.com/capacitor-community/safe-area) - Expose native safe area insets to your web project.
+
+### [Capgo plugins](https://capgo.app/) / Core & Updates
+
+*   [Electron Updater (⭐6)](https://github.com/Cap-go/electron-updater) - OTA live updates for Electron apps with the same API as the updater plugin.
+*   [Cordova Updater (⭐2)](https://github.com/Cap-go/cordova-updater) - OTA live updates for Cordova iOS and Android with the same API as the updater plugin.
+*   [Tauri Updater (⭐1)](https://github.com/Cap-go/tauri-updater) - OTA live updates for Tauri apps.
+*   [Notifications (⭐205)](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) - Send native iOS and Android push notifications with user lookup, badges, and stats.
+
+### [Capgo plugins](https://capgo.app/) / Video Calling & Real-time
+
+*   [Twilio Video](https://capgo.app/plugins/capacitor-twilio-video/) - Join Twilio Video rooms with native audio, camera, and room lifecycle events.
+
+### Aparajita plugins / Specialized Hardware
+
+*   [Silent Notifications (⭐9)](https://github.com/aparajita/capacitor-ios-silent-notifications) - Silent (remote) notification support on iOS.
+
+### Other plugins / Specialized Hardware
+
+*   [PQ Secure Storage (⭐5)](https://github.com/jimcase/capacitor-pq-secure-storage) - Post-quantum signing (ML-DSA) and key encapsulation (ML-KEM) with keys held in the iOS Secure Enclave and the Android Keystore, plus biometric-gated secure storage.
+
+### Tools / Incompatible
+
+*   [CLI (⭐17)](https://github.com/Cap-go/CLI) - Upload and manage live update bundles and native cloud builds.
+*   [Live Update Action (⭐1)](https://github.com/Cap-go/live-update-action) - GitHub Action to deploy a live update.
+*   [Docker (⭐4)](https://github.com/Cap-go/docker-capacitor) - Image for building native apps.
+*   [Native Builds](https://capgo.app/native-build/) - Compile and sign iOS and Android binaries in the cloud.
+*   [Android Keystore Generator](https://capgo.app/tools/android-keystore-generator/) - Generate Android keystores for app signing in the browser.
+*   [iOS Certificate Generator](https://capgo.app/tools/ios-certificate-generator/) - Generate iOS signing certificates in the browser.
+*   [iOS UDID Finder](https://capgo.app/tools/ios-udid-finder/) - Find the UDID of an iPhone or iPad.
+*   [Vite plugin (⭐4)](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
+*   [n8n nodes (⭐1)](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
+*   [Standard Version (⭐4)](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
+
+### Helpers / Incompatible
+
+*   [vue-capacitor-haptics (⭐1)](https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
+
+### Learning / Community Tutorials
+
+*   [The Push Notifications Guide](https://capgo.app/blog/ionic-capacitor-push-notifications-firebase/) - Integrate push notifications with Firebase on iOS and Android.
+*   [OAuth2 in 5 steps](https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps/) - Implement OAuth 2.0 with PKCE across iOS, Android, and the web.
+*   [Social Login](https://capgo.app/blog/capacitor-social-login-release/) - Google, Apple, and Facebook sign-in with native flows.
+*   [Secure token storage](https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers/) - Store credentials and session tokens safely on device.
+*   [CI/CD pipeline setup](https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/) - Automate build, test, and live update deployment.
+*   [OTA updates in CI/CD](https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/) - Ship over-the-air updates from your pipeline.
+
+### Convert a web app / Case study
+
+*   [Transform a PWA into a native app](https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/) - Package a Progressive Web App for iOS and Android.
+*   [Turn a web app into a mobile app](https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/) - What it takes to wrap a web app and pass store review.
+*   [Convert a Lovable app to iOS and Android](https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/) - Export from Lovable, wrap with Capacitor, and ship signed binaries.
+*   [Build iOS apps from Windows](https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/) - Compile, sign, and submit to TestFlight without a Mac.
+
+### Videos / Case study
+
+*   [Ionic & Capacitor for Building Native Mobile Apps](https://www.youtube.com/watch?v=K7ghUiXLef8) - Full beginner course by freeCodeCamp.
+*   [From React Web to Native Mobile App](https://www.youtube.com/watch?v=IwHt_QpIa8A) - Simon Grimm.
+*   [How to Build a Native App from Angular Projects](https://www.youtube.com/watch?v=V2Wn2JROUEo) - Simon Grimm.
+*   [Building a Native Mobile App with Next.js](https://www.youtube.com/watch?v=xQKtDgJXrlM) - Simon Grimm.
+*   [How To Create A Mobile App Using Vite, Vue and Ionic](https://www.youtube.com/watch?v=K_OwSHPxT-A) - Aaron Saunders.
+*   [Build a Mobile App Fast! React + Tailwind](https://www.youtube.com/watch?v=PPXktTJXMPE) - Aaron Saunders.
+*   [Building Modern Angular Apps with Ionic](https://www.youtube.com/watch?v=tbrJJkSYQ04) - Simon Grimm.
+*   [How to Setup Deep Links (iOS & Android)](https://www.youtube.com/watch?v=tAQwllZSQD8) - Simon Grimm.
+*   [How to Create Background Tasks](https://www.youtube.com/watch?v=SMW1FQz3Yrc) - Simon Grimm.
+*   [The Ionic Image Guide (Capture, Store & Upload)](https://www.youtube.com/watch?v=fU8uM5oU1wY) - Simon Grimm.
+*   [Cross-Platform Development with Mike Hartington](https://www.youtube.com/watch?v=73YWZ1G_DX4) - This Dot Media.
+
+### Demo apps / Case study
+
+*   [vue-data-storage-sqlite-app-starter (⭐3)](https://github.com/Cap-go/vue-data-storage-sqlite-app-starter) - Vue starter for SQLite key/value storage.
+*   [react-data-storage-sqlite-app-starter (⭐2)](https://github.com/Cap-go/react-data-storage-sqlite-app-starter) - React starter for SQLite key/value storage.
+
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Image Lifecycle / Registry
+
+*   [Granite Registry](https://granite.so/products/docker-registry) - :yen: Store private Docker images alongside the workloads that pull them, with scoped read-only and read-write keys.
+
+### User Interfaces / Desktop
+
+*   [Gantry (Desktop) (⭐52)](https://github.com/getgantry/gantry) - Native macOS app (SwiftUI, no Electron) for managing and monitoring Docker hosts, local and over SSH: fleet dashboard, live logs and stats, exec terminal, file browser, and a bundled MCP server for AI agents.
+
+### User Interfaces / Terminal
+
+*   [bosun (⭐4)](https://github.com/psychedelicdevx/bosun) - A keyboard-driven terminal UI for Docker with compose project grouping, live logs, stats, and shell access.
+*   [layerx (⭐117)](https://github.com/deveshctl/layerx) - Inspect container image layers in a TUI — browse filesystem diffs, view file contents inline, sort by size, extract individual files, and gate CI on efficiency thresholds. Supports Docker, Podman, and OCI archives.
+
+### User Interfaces / Web
+
+*   [Docker Commander (⭐3)](https://github.com/koduj-dev/docker-commander) - A self-hosted Docker management and monitoring UI with multi-host support, Compose management, aggregated logs, alerts, RBAC, vulnerability scanning, and MCP integration.
+*   [DockScope (⭐104)](https://github.com/ManuelR-T/dockscope) - Visualizes Docker containers in a 3D dependency graph with live metrics, logs, and an in-browser terminal.
+
+### Developer Workflow / Development Environment
+
+*   [Laradock (⭐13k)](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, running Nginx/Apache, PHP, MySQL, Redis and more as swappable Compose services.
+
+## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Security / System Security
 
 *   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,407`
 
-## [2. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [8. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -22,13 +187,13 @@
 
 *   [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
 
-## [3. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [HDD Price Index (⭐0)](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
 
-## [4. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [10. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Audio
 
@@ -38,7 +203,7 @@
 
 *   [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / GitHub
 
@@ -49,13 +214,13 @@
 
 *   [MetaClean (⭐5)](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Zed / Third-party APIs
 
 *   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
-## [7. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [13. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Adventure
 
@@ -65,7 +230,7 @@
 
 *   [Quarantine (⭐0)](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
 
-## [8. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [14. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Learning / Engine Development
 
@@ -80,11 +245,7 @@
     *   📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
     *   📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in *Wicked Engine*.
 
-## [9. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
-
-### Official
-
-*   [Blog](https://ionic.io/blog/tag/capacitor)
+## [15. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Communities
 
@@ -433,17 +594,8 @@
 
 ### Apps Built with Capacitor / ML Kit
 
-*   [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association, migrated to Capacitor.
-*   [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped to the app stores as PWAs wrapped with Capacitor.
-*   [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
-*   [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.
-*   [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova to Capacitor migration.
-*   [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals, built with Capacitor and custom plugins.
-*   [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H\&R Block, running on Capacitor.
 *   [snapAddy](https://capawesome.io/blog/case-study-snapaddy-live-updates/) - B2B contact data capture app with more than 200,000 monthly active users.
-*   [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus, built with Ionic 7 and Capacitor 5.
 *   [StoryHunt](https://capawesome.io/blog/case-study-storyhunt/) - Travel app with interactive maps and audio tours, built with Ionic, Angular, and Capacitor.
-*   [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app built with Capacitor for iOS and Android.
 
 ### Showcase / ML Kit
 
@@ -453,17 +605,12 @@
 *   [MyBodyTutor](https://capawesome.io/blog/showcase-mybodytutor/) - Personalized nutrition and weight loss coaching app.
 *   [More showcases](https://capawesome.io/blog/category/showcase/) - Full list of Capawesome showcases.
 *   [Capawesome case studies](https://capawesome.io/blog/category/case-studies/) - Full list of Capawesome case studies.
-*   [Ionic case studies](https://ionic.io/resources/case-studies) - Case studies published by the Ionic team.
-
-### Related Lists / ML Kit
-
-*   [Cap-go/awesome-ionic (⭐864)](https://github.com/Cap-go/awesome-ionic)
 
 ### Freelancers / ML Kit
 
 *   [Dayana Jabif](https://github.com/djabif) - Ionic Developer Expert, creator of multiple mobile apps and Capawesome team member.
 
-## [10. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [16. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Marketing
 
@@ -477,31 +624,31 @@
 
 *   [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render. `#freemium`
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [enum-plus (⭐202)](https://github.com/shijistar/enum-plus) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [PasteClip (⭐124)](https://github.com/minsang-alt/PasteClip) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/minsang-alt/PasteClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Task Management & To-do Lists
 
 *   [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ([Demo](https://tellor.cc/demo/?b=18486f63be6bb5f2), [Source Code (⭐12)](https://github.com/Voldrix/Tellor)) `MIT` `PHP`
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
 
-## [15. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [21. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### No-Code Platforms
 
@@ -515,13 +662,13 @@
 
 *   [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
 
-## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [22. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Component Libraries
 
 *   [PlayCanvas Web Components (⭐104)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Testing
 
@@ -531,7 +678,7 @@
 
 *   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
-## [18. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [24. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### GUI
 
@@ -542,13 +689,13 @@
 
 *   [sqlaxe (⭐8)](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
 
-## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Languages
 
 *   [日本語](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.ja.md)
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
@@ -562,7 +709,7 @@
 
 *   [openooxml/betteroffice (⭐205)](https://github.com/openooxml/betteroffice) - Native OOXML engines for DOCX, XLSX and PPTX: editing, layout, rendering, CRDT collaboration and agent editing, compiled to WebAssembly.
 
-## [21. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -578,7 +725,32 @@
 
 
 
+### Blockchain
+
+- API: [Get Started with Web3 (⭐612)](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md)
+
+  Description: Bilingual Web3 lessons, glossary search and role-based learning paths
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Data Validation
+
+- API: [Attestwire](https://api.attestwire.com/docs)
+
+  Description: Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Temsor](https://api.temsor.com/docs)
 
@@ -596,9 +768,45 @@
 
 ### Development
 
+- API: [Bored](https://bored-api.appbrewery.com/)
+
+  Description: Find random activities to fight boredom
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 - API: [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json)
 
   Description: 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6)
+
+  Description: Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [uchecker](https://api.uchecker.net/docs)
+
+  Description: Bulk email verification with full SMTP server responses
 
   Auth: `apiKey`
 
@@ -624,9 +832,45 @@
 
 ### Games & Comics
 
+- API: [PokéSprite](https://msikma.github.io/pokesprite/)
+
+  Description: Database of Pokémon sprites and icons
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Rblxdb](https://rblxdb.com/developers)
 
   Description: Verified Roblox music codes and decal IDs with live working status
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SteamGPT](https://steamgpt.net)
+
+  Description: Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [ipwhois](https://ipwhois.io/documentation)
+
+  Description: IP geolocation with country, city, coordinates, ISP, timezone and flag data
 
   Auth: No
 
@@ -664,6 +908,20 @@
 
 
 
+### Photography
+
+- API: [Pexafy](https://docs.pexafy.com)
+
+  Description: Semantic image search across 9+ free stock photo sources with a unified JSON schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Security
 
 - API: [CSR.plus](https://csr.plus/docs/api)
@@ -692,6 +950,20 @@
 
 
 
+### Video
+
+- API: [Shotstack](https://shotstack.io/)
+
+  Description: Cloud video editing API to create and render videos programmatically
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Weather
 
 - API: [World Time & Weather](https://worldtimeweather.com/api.html)
@@ -706,7 +978,7 @@
 
 
 
-## [22. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [28. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Productivity / Useful commands
 
@@ -831,7 +1103,7 @@
 *   [feed-flow (⭐1.2k)](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
 *   [Hacki (⭐1.6k)](https://github.com/Livinglist/Hacki) - A clean Hacker News reader for iOS, with offline support and custom themes.
 
-## [23. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [29. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -846,7 +1118,7 @@
 *   [Dead-Web Index (⭐1)](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
 *   [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
 
-## [24. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [30. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Brokers
 
@@ -856,13 +1128,13 @@
 
 *   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
 
-## [25. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [31. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [Castlemap](https://thecastlemap.com/) - Interactive world map and open CC0 dataset of 2,400 castles, fortresses, palaces, and ruins across 131 countries.
 
-## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [32. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Animation
 
@@ -876,7 +1148,7 @@
 
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Buffers / Markdown and LaTeX
 
@@ -890,26 +1162,26 @@
 
 *   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [goprompt (erniebrodeur) (⭐1)](https://github.com/erniebrodeur/goprompt) - A compact, two-line prompt for ZSH. It includes decorators for the current directory, `git` state, user, optional SSH host, and local time without giving up the full width of the terminal.
 *   [goprompt (NonLogicalDev) (⭐11)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
 
-## [29. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Competitive Programming
 
 *   [Principles of Algorithmic Problem Solving](https://jsannemo.se/latest.pdf) - Johan Sannemo (PDF)
 
-## [30. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [36. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [scryer (⭐4)](https://github.com/ramlaxmanyadav/scryer) - A security auditing & static analysis tool that scans Rails apps for vulnerabilities, performance issues, and code quality problems. [:red\_circle:](https://rubygems.org/gems/scryer)
 
-## [31. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [37. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### MCP Servers
 

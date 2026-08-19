@@ -6,6 +6,142 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 19, 2026](/content/2026/08/19/README.md)
+
+### Blockchain
+
+- API: [Get Started with Web3 (⭐612)](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md)
+
+  Description: Bilingual Web3 lessons, glossary search and role-based learning paths
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Data Validation
+
+- API: [Attestwire](https://api.attestwire.com/docs)
+
+  Description: Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Bored](https://bored-api.appbrewery.com/)
+
+  Description: Find random activities to fight boredom
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6)
+
+  Description: Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [uchecker](https://api.uchecker.net/docs)
+
+  Description: Bulk email verification with full SMTP server responses
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Games & Comics
+
+- API: [PokéSprite](https://msikma.github.io/pokesprite/)
+
+  Description: Database of Pokémon sprites and icons
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SteamGPT](https://steamgpt.net)
+
+  Description: Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [ipwhois](https://ipwhois.io/documentation)
+
+  Description: IP geolocation with country, city, coordinates, ISP, timezone and flag data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Photography
+
+- API: [Pexafy](https://docs.pexafy.com)
+
+  Description: Semantic image search across 9+ free stock photo sources with a unified JSON schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [Shotstack](https://shotstack.io/)
+
+  Description: Cloud video editing API to create and render videos programmatically
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Aug 18, 2026](/content/2026/08/18/README.md)
 
 ### Environment
@@ -20334,17 +20470,6 @@ A collective list of free APIs
 - API: [APIs.guru](https://apis.guru/api-doc/)
 
   Description: Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Bored](https://www.boredapi.com/)
-
-  Description: Find random activities to fight boredom
 
   Auth: No
 

@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Aug 19, 2026](/content/2026/08/19/README.md)
+
+### Books, blogs, and training materials / Paid and commercially available materials
+
+*   [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust) - A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.
+
 ## [Aug 12, 2026](/content/2026/08/12/README.md)
 
 ### Board support crates / Arduino
@@ -320,7 +326,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [wtx (⭐386)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐394)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [Aug 04, 2024](/content/2024/08/04/README.md)
 
