@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
 
+### Git / Quickfix
+
+*   [Darkskittlz/GitCompanion (⭐3)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
+
 ### Motion / Tree-sitter Based
 
 *   [iago-lito/tree-spider.nvim](https://codeberg.org/iago-lito/tree-spider.nvim) - Tree-sitter aware local motions and distant node selection.
@@ -51,12 +55,12 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/cendre (⭐144)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
-*   [aadielpr/bono.nvim (⭐1)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
-*   [art220/dancheong.nvim (⭐1)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
+*   [aadielpr/bono.nvim (⭐3)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
+*   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
 ### Icon / Cursorline
 
-*   [Mirsmog/real-icons.nvim (⭐63)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
+*   [Mirsmog/real-icons.nvim (⭐71)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
 
 ### Terminal Integration / CSV Files
 
@@ -147,7 +151,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [ntk148v/lauds (⭐10)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
-*   [alsi-lawr/neotheme.nvim (⭐5)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
+*   [alsi-lawr/neotheme.nvim (⭐6)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 
 ### Colorscheme / Colorscheme Creation
 
@@ -187,7 +191,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [ctchen222/openspec.nvim (⭐8)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
+*   [ctchen222/openspec.nvim (⭐9)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -199,7 +203,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [jjuchara/obsidian-tasks.nvim (⭐6)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
+*   [jjuchara/obsidian-tasks.nvim (⭐7)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 
 ### External Resource / OS-specific
 
@@ -408,7 +412,6 @@ Collections of awesome neovim plugins.
 ### Note Taking / Cursorline
 
 *   [DaFi-1/tasknvim (⭐20)](https://github.com/DaFi-1/tasknvim) - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
-*   [sduras/duras\_bridge](https://github.com/sduras/duras_bridge) - Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor.
 *   [MattHandzel/taskwarrior.nvim (⭐29)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 ### Utility / Cursorline
@@ -450,7 +453,6 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [micdzu/aalto.nvim](https://github.com/micdzu/aalto.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
 *   [T-b-t-nchos/Aquavium.nvim (⭐22)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 
 ### Code Runner / Quickfix
@@ -857,10 +859,6 @@ Collections of awesome neovim plugins.
 *   [cosmicbuffalo/eyeliner.nvim (⭐5)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
-
-### Plugin Manager
-
-*   [OriginCoderPulse/synapse.nvim](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 
 ### AI / Diagnostics
 

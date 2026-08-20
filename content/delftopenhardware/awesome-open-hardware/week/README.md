@@ -6,6 +6,28 @@
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / Weekly / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
 
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### Design Tools / Mechanical and Electrical
+
+*   [Elmer (⭐1.7k)](https://github.com/ElmerCSC/elmerfem) - A software suite for running finite element method simulations.
+*   [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
+*   [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
+*   [KiCad StepUp (⭐682)](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+*   [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+
+### Design Tools / Integrated Circuit
+
+*   [KLayout](https://www.klayout.de/) - A tool for viewing and editing integrated circuit layouts.
+*   [LibreLane](https://fossi-foundation.org/librelane/) - An infrastructure library for creating integrated circuit design flows.
+*   [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
+*   [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
+*   [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
+*   [SkyWater PDK (⭐3.7k)](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
+*   [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
+*   [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
+*   [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Projects / Automation, Manufacturing, and Robotics
@@ -30,20 +52,20 @@
 
 *   [pic0rick (⭐93)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
-### Conferences / Scientific Instruments
+### Conferences / Integrated Circuit
 
 *   [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
 *   [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
 *   [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
 *   [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
 
-### Books / Scientific Instruments
+### Books / Integrated Circuit
 
 *   [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ\&printsec=frontcover\&dq=Hardware+hacker+bunnie+huang\&hl=nl\&newbks=1\&newbks_redir=1\&sa=X\&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
-### Conferences / Scientific Instruments
+### Conferences / Integrated Circuit
 
 *   [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
 *   [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
@@ -57,12 +79,12 @@
 
 *   [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
 
-### Platforms / Scientific Instruments
+### Platforms / Integrated Circuit
 
 *   [Open Hardware Repository](https://ohwr.org/about) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.
 *   [Instructables](https://www.instructables.com/circuits/projects) - Instructables is a place that lets you explore, document, and share your creations.
 
-### Podcasts / Scientific Instruments
+### Podcasts / Integrated Circuit
 
 *   [Road to Open Science](https://soundcloud.com/utrechtuniversity/r2os-a-closer-look-at-open-hardware-with-jose-urra-llanusa-and-santosh-ilamparuthi) - Episode on open hardware in the Netherlands.
 *   [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H) - Episode on the global impact of open hardware.
@@ -71,7 +93,7 @@
 *   [Amp hour](https://www.youtube.com/watch?v=nVVhPMAtDyk) - Open Hardware and The Creative Economy.
 *   [Open source hardware podcast](https://www.programmingelectronics.com/category/radio-show/) - By the Programming Electronics Academy.
 
-### Books / Scientific Instruments
+### Books / Integrated Circuit
 
 *   [Building open source hardware](https://books.google.com/books?id=wg27BQAAQBAJ\&pg=PP1) - Book by Alicia Gibb, on building open source hardware from 2014.
 *   [Open-source Lab](https://books.google.com/books?id=0bOKAAAAQBAJ\&pg=PP1) - Book by Josua M. Pearce, how to build your own hardware and reduce costs.
@@ -86,7 +108,7 @@
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
-### Talks / Scientific Instruments
+### Talks / Integrated Circuit
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos.
 
@@ -128,26 +150,26 @@
 *   [Mutable Instruments](https://mutable-instruments.net/) - Eurorack classics.
 *   [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
-### Related awesome / Scientific Instruments
+### Related Awesome / Integrated Circuit
 
 *   [Awesome Electronics (⭐8k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
-### Talks / Scientific Instruments
+### Talks / Integrated Circuit
 
 *   [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian of Dangerous Prototypes.
 
-### Papers / Scientific Instruments
+### Papers / Integrated Circuit
 
 *   [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Paper by Andre Maia Chagas
 *   [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Paper by Tom Baden, Andre Maia Chagas, Greg Gage, Timothy Marzullo, Lucia L. Prieto-Godino, Thomas Euler
 
-### Platforms / Scientific Instruments
+### Platforms / Integrated Circuit
 
 *   [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects.
 
-### Training programs / Scientific Instruments
+### Training Programs / Integrated Circuit
 
 *   [Open Hardware Makers](https://openhardware.space)
 *   [Open Hardware Academy](https://openhardware.academy/)
@@ -164,17 +186,17 @@
 
 *   [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 
-### Papers / Scientific Instruments
+### Papers / Integrated Circuit
 
 *   [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Paper by Jérémy Bonvoisin, Robert Mies, Jean-François Boujut, Rainer Stark.
 *   [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce.
 *   [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido.
 
-### Podcasts / Scientific Instruments
+### Podcasts / Integrated Circuit
 
 *   [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance.
 
-### Further Readings / Scientific Instruments
+### Further Readings / Integrated Circuit
 
 *   [Open Source Guide](https://opensource.guide/) - A website created by GitHub to help people work on open source projects.
 *   [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
@@ -186,13 +208,13 @@
 
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
 
-### Platforms / Scientific Instruments
+### Platforms / Integrated Circuit
 
 *   [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.
 *   [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 *   [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 
-### Further Readings / Scientific Instruments
+### Further Readings / Integrated Circuit
 
 *   [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about open-source hardware.
 *   [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
@@ -219,7 +241,7 @@
 *   [openUC2 (⭐529)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 *   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
-### Talks / Scientific Instruments
+### Talks / Integrated Circuit
 
 *   [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.
 *   [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.
@@ -229,26 +251,26 @@
 *   [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
 *   [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) - Talk by Neil Gershenfeld.
 
-### Papers / Scientific Instruments
+### Papers / Integrated Circuit
 
 *   [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.
 
-### Conferences / Scientific Instruments
+### Conferences / Integrated Circuit
 
 *   [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
 
-### Platforms / Scientific Instruments
+### Platforms / Integrated Circuit
 
 *   [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Free blueprints for sustainable open hardware.
 *   [Hackster.io](https://www.hackster.io/about) - Connecting developers where exploring tomorrow starts today.
 *   [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
 *   [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 
-### Books / Scientific Instruments
+### Books / Integrated Circuit
 
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
-### Related awesome / Scientific Instruments
+### Related Awesome / Integrated Circuit
 
 *   [Awesome Open Electronics (⭐741)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐97)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 20, 2026](/content/2026/08/20/README.md)
+
+### Git / Quickfix
+
+*   [Darkskittlz/GitCompanion (⭐3)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
+
 ## [Aug 19, 2026](/content/2026/08/19/README.md)
 
 ### AI / Diagnostics
@@ -58,18 +64,18 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [aadielpr/bono.nvim (⭐1)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
+*   [aadielpr/bono.nvim (⭐3)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][Lua]`*** A warm muted colorscheme with cream (light) variants.
 
 ### Icon / Cursorline
 
-*   [Mirsmog/real-icons.nvim (⭐63)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
+*   [Mirsmog/real-icons.nvim (⭐71)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
 
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
 *   [Aejkatappaja/cendre (⭐144)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
-*   [art220/dancheong.nvim (⭐1)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
+*   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
@@ -172,7 +178,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [alsi-lawr/neotheme.nvim (⭐5)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
+*   [alsi-lawr/neotheme.nvim (⭐6)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
@@ -240,11 +246,11 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [ctchen222/openspec.nvim (⭐8)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
+*   [ctchen222/openspec.nvim (⭐9)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
 
 ### Note Taking / Cursorline
 
-*   [jjuchara/obsidian-tasks.nvim (⭐6)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
+*   [jjuchara/obsidian-tasks.nvim (⭐7)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
@@ -494,10 +500,6 @@ Collections of awesome neovim plugins.
 
 *   [error311/wayfinder.nvim (⭐120)](https://github.com/error311/wayfinder.nvim) - Guided code exploration from the current symbol with a keepable trail.
 
-### Note Taking / Cursorline
-
-*   [sduras/duras\_bridge](https://github.com/sduras/duras_bridge) - Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor.
-
 ### Editing Support / Scrollbar
 
 *   [DrKJeff16/boolean-toggle.nvim (⭐9)](https://github.com/DrKJeff16/boolean-toggle.nvim) - Toggle between `true` and `false` under your cursor.
@@ -567,10 +569,6 @@ Collections of awesome neovim plugins.
 *   [T-b-t-nchos/Aquavium.nvim (⭐22)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
-
-### Colorscheme / Markdown and LaTeX
-
-*   [micdzu/aalto.nvim](https://github.com/micdzu/aalto.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
 
 ### Code Runner / Quickfix
 
@@ -1077,12 +1075,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [dybdeskarphet/gruvbox-minimal.nvim (⭐17)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
-
-## [Dec 30, 2025](/content/2025/12/30/README.md)
-
-### Plugin Manager
-
-*   [OriginCoderPulse/synapse.nvim](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 

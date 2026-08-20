@@ -1,30 +1,102 @@
 # Awesome List Updates on Aug 20, 2026
 
-5 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Dating
+
+*   [Dating Roast](https://dating.roastlabai.com/) - AI dating profile roaster. Upload your profile screenshots and get brutally honest AI feedback on what photos, bio, and prompts are hurting your match rate. `#freemium`
+
+### Developer Tools
+
+*   [AI Router](https://ai-router.dev) - Hosted OpenAI-compatible API relay with unified multi-model access, personal API keys, and per-key usage visibility. `#freemium`
+*   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
+
+### Education
+
+*   [English Speaking App](https://englishspeakingapp.com/english-speaking-practice) - AI speaking practice for interviews, meetings, and everyday conversations with live voice feedback. `#freemium`
+
+### Fashion
+
+*   [DressMeAI](https://dressmeai.com/) - AI virtual try-on from a person photo and clothing image. `#paid`
+*   [Outfit Roast](https://outfit.roastlabai.com/) - AI-powered outfit analysis that rates your look for any occasion, gives honest style feedback, and tells you exactly what to change. Upload a photo and get scored. `#freemium`
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Workflow Automation
+
+*   [dali-benothmen/woml (⭐125)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### Apps / Outline Processor Markup Language
+
+*   [Newsairy](https://qebapps.statichost.page/newsairy/) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/newsairy/id6760046985)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/us/app/newsairy/id6760046985)
+
+### Self Hosted Readers / Outline Processor Markup Language
+
+*   [Readfine](https://readfine.app) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://readfine.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jakublibik/readfine)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
+
+*   [The Podcast App](https://thepodcastapp.dev/) [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.magnolia.thepodcastapp)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/the-podcast-app/id6754806244)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### Podcast Feed Validator / Crypto or Blockchain relevant
+
+*   [The Podcast App RSS Validator](https://thepodcastapp.dev/tools/rss-validator)
+
+## [4. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+
+### Design Tools / Mechanical and Electrical
+
+*   [Elmer (⭐1.7k)](https://github.com/ElmerCSC/elmerfem) - A software suite for running finite element method simulations.
+*   [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
+*   [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
+*   [KiCad StepUp (⭐682)](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+*   [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+
+### Design Tools / Integrated Circuit
+
+*   [KLayout](https://www.klayout.de/) - A tool for viewing and editing integrated circuit layouts.
+*   [LibreLane](https://fossi-foundation.org/librelane/) - An infrastructure library for creating integrated circuit design flows.
+*   [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
+*   [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
+*   [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
+*   [SkyWater PDK (⭐3.7k)](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
+*   [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
+*   [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
+*   [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
+
+## [5. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Routing
+
+*   [speedy-router (⭐147)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Git / Quickfix
+
+*   [Darkskittlz/GitCompanion (⭐3)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
+
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
 *   [wgpu-cr (⭐2)](https://github.com/raj/wgpu-cr) - Bindings for [wgpu-native (⭐1.4k)](https://github.com/gfx-rs/wgpu-native) (WebGPU)
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Server Applications
 
 *   [flue (⭐9)](https://github.com/karnstack/flue) - Self-hosted daemon that serves terminal sessions to a browser tab. Sessions keep running after the tab is closed.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
-
-### Routing / Runner
-
-*   [speedy-router (⭐147)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
-
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 
@@ -82,7 +154,7 @@
 
 
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / macOS
 
