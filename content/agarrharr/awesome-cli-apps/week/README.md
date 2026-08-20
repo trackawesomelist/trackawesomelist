@@ -12,6 +12,11 @@
 
 *   [tiki (⭐198)](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
 
+### Utilities / macOS
+
+*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
+
 ### AI / Agents
 
 *   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
@@ -194,7 +199,7 @@
 
 ### Development / Database
 
-*   [pgxcli (⭐69)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -265,7 +270,7 @@
 
 ### Development / HTTP Client
 
-*   [httptap (⭐511)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐797)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 

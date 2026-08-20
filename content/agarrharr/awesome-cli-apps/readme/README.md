@@ -245,7 +245,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [usql (⭐10k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 *   [rdsai-cli (⭐62)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 *   [squix (⭐266)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
-*   [pgxcli (⭐69)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Devops
 
@@ -318,7 +318,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [ain (⭐623)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 *   [curlie (⭐3.7k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 *   [ATAC (⭐3.7k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-*   [httptap (⭐511)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐797)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -440,6 +440,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [dark-mode (⭐686)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 *   [clippy (⭐244)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 *   [anvil (⭐116)](https://github.com/0xjuanma/anvil) - Config management and app installations.
+*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ### Terminal Sharing Utilities
 

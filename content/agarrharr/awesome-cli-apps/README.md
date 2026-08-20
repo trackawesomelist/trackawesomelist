@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Aug 20, 2026](/content/2026/08/20/README.md)
+
+### Utilities / macOS
+
+*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
+
 ## [Aug 18, 2026](/content/2026/08/18/README.md)
 
 ### AI / Agents
@@ -214,7 +221,7 @@
 
 ### Development / Database
 
-*   [pgxcli (⭐69)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ## [May 26, 2026](/content/2026/05/26/README.md)
 
@@ -297,7 +304,7 @@
 
 ### Development / HTTP Client
 
-*   [httptap (⭐511)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐797)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 

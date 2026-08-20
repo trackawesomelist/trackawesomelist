@@ -8,6 +8,10 @@
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### C bindings
+
+*   [wgpu-cr (⭐2)](https://github.com/raj/wgpu-cr) - Bindings for [wgpu-native (⭐1.4k)](https://github.com/gfx-rs/wgpu-native) (WebGPU)
+
 ### Network Protocols
 
 *   [crystal-swim (⭐9)](https://github.com/alumna/crystal-swim) - Decentralized cluster discovery and eventually consistent failure detection using SWIM

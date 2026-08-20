@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Aug 20, 2026](/content/2026/08/20/README.md)
+
+### C bindings
+
+*   [wgpu-cr (⭐2)](https://github.com/raj/wgpu-cr) - Bindings for [wgpu-native (⭐1.4k)](https://github.com/gfx-rs/wgpu-native) (WebGPU)
+
 ## [Aug 19, 2026](/content/2026/08/19/README.md)
 
 ### Network Protocols

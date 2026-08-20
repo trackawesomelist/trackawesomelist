@@ -26,6 +26,10 @@
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
+### C bindings
+
+*   [wgpu-cr (⭐2)](https://github.com/raj/wgpu-cr) - Bindings for [wgpu-native (⭐1.4k)](https://github.com/gfx-rs/wgpu-native) (WebGPU)
+
 ### Network Protocols
 
 *   [crystal-swim (⭐9)](https://github.com/alumna/crystal-swim) - Decentralized cluster discovery and eventually consistent failure detection using SWIM
@@ -59,6 +63,10 @@
 ### Science and Data Analysis
 
 *   [simd (⭐21)](https://github.com/tphakala/simd) - Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration.
+
+### Server Applications
+
+*   [flue (⭐9)](https://github.com/karnstack/flue) - Self-hosted daemon that serves terminal sessions to a browser tab. Sessions keep running after the tab is closed.
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -652,6 +660,10 @@
 
 ## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
+### Routing / Runner
+
+*   [speedy-router (⭐147)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
+
 ### Misc / Other
 
 *   [enum-plus (⭐202)](https://github.com/shijistar/enum-plus) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
@@ -703,6 +715,11 @@
 ### Productivity / Testing
 
 *   [tiki (⭐198)](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
+
+### Utilities / macOS
+
+*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ### AI / Agents
 
@@ -923,6 +940,17 @@
   CORS: Yes
 
 
+- API: [Vett](https://wimberly.solutions/api/free-sanctions-check/)
+
+  Description: Screen names & companies against OFAC, PEP, watchlists & recalls
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Machine Learning
 
@@ -935,6 +963,20 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+### Open Data
+
+- API: [CuttingToolsAI](https://cuttingtoolsai.eu/api)
+
+  Description: Cross-brand carbide insert grade equivalents by ISO application class
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -980,6 +1022,20 @@
 
 
 
+### Sports & Fitness
+
+- API: [Football Charts](https://www.football-charts.com/developers)
+
+  Description: Tables, results, model probabilities and Monte Carlo season projections for 93 leagues
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Video
 
 - API: [Shotstack](https://shotstack.io/)
@@ -991,6 +1047,17 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [VidWords](https://vidwords.com/api-docs)
+
+  Description: YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -1223,7 +1290,7 @@
 
 ### MCP Servers
 
-*   [Agent QA (⭐172)](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent for natural-language web and mobile tests. Run its MCP server with `agent-qa mcp` to let Gemini CLI author, execute, inspect, triage, and repair tests.
+*   [Agent QA (⭐953)](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent for natural-language web and mobile tests. Run its MCP server with `agent-qa mcp` to let Gemini CLI author, execute, inspect, triage, and repair tests.
 
 ---
 
