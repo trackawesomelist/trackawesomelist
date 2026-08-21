@@ -708,6 +708,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
 *   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
+*   [Crisp](https://crisp.photos/) - Free AI photo upscaler that runs entirely in your browser. No upload, no signup, no watermark. Includes a dedicated anime upscaler. `#free`
 *   [Cutout.Pro](https://www.cutout.pro/) - Creative visual platform and automated tasks. `#free`
 *   [Image Candy](https://imagecandy.com/) - Online Image Editor - Image Candy `#free`
 *   [igly.ai](https://igly.ai/) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill. `#freemium`
@@ -727,6 +728,7 @@ Use these hashtags in search to filter out the tools
 *   [Skybox AI](https://skybox.blockadelabs.com/) - 360° virtual world panorama generation. \`\`
 *   [Upscayl](https://upscayl.org/) - Open-source image resolution amplifier. `#free`
 *   [WHEE](https://www.whee.com/) - Meitu Inc. one-stop visual creative service. `#free`
+*   [Wipe](https://wipe.photos/) - Remove people and objects from photos entirely in your browser. No upload, no signup, no watermark. `#free`
 *   [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - In-browser AI background removal — runs entirely on your device via ONNX Runtime, no upload, no signup, open source. `#free` `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1079,6 +1081,7 @@ Use these hashtags in search to filter out the tools
 
 ## Translation
 
+*   [SelectTranslate](https://selecttranslate.com/en) - AI translation extension for bilingual webpages, PDFs, video subtitles, images, online meetings, and eBooks, powered by 20+ AI models. `#freemium`
 *   [Alibaba Translate](https://www.alibabagroup.com/) - Vertical engines for e-commerce, medical, and finance. \`\`
 *   [Baidu AI Assistant](https://www.baidu.com/) - Mobile app for voice, photo, and interpretation. `#free`
 *   [Baidu Translate](https://fanyi.baidu.com/) - AI large model supporting 203 languages. `#free`

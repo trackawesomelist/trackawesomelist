@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-wav (⭐2)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 
+### Financial
+
+*   [orderbook (⭐11)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
+
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
 ### Server Applications

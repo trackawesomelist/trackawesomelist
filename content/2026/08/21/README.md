@@ -1,12 +1,63 @@
 # Awesome List Updates on Aug 21, 2026
 
-10 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Avazbek22/DevProjex (⭐16)](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`16`
+
+## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Image Editing
+
+*   [Crisp](https://crisp.photos/) - Free AI photo upscaler that runs entirely in your browser. No upload, no signup, no watermark. Includes a dedicated anime upscaler. `#free`
+*   [Wipe](https://wipe.photos/) - Remove people and objects from photos entirely in your browser. No upload, no signup, no watermark. `#free`
+
+### Translation
+
+*   [SelectTranslate](https://selecttranslate.com/en) - AI translation extension for bilingual webpages, PDFs, video subtitles, images, online meetings, and eBooks, powered by 20+ AI models. `#freemium`
+
+## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+
+### Reconnaissance / OSINT - Open-Source Intelligence
+
+*   [Social Mapper (⭐4.1k)](https://github.com/Greenwolf/social_mapper) - Social Media Enumeration & Correlation Tool by [Jacob Wilkin (Greenwolf)](https://github.com/Greenwolf).
+
+### Fuzzing / Sub Domain Enumeration
+
+*   [SpiderSuite (⭐973)](https://github.com/spidersuite/SpiderSuite) - Cross-platform web security crawler supporting standard, headless, interactive, brute-force, and archive crawling modes, for attack-surface mapping and endpoint discovery, by [@3nock](https://github.com/3nock).
+
+### Proxy / Server-Side Request Forgery
+
+*   [Proxelar (⭐1k)](https://github.com/emanuele-em/proxelar) - Single-binary intercepting proxy for HTTP, HTTPS, and WebSocket traffic that pauses and edits requests in flight, replays them, rewrites traffic with Lua hooks, and exports captures as HAR, curl, or raw HTTP, available as a terminal UI, web GUI, or headless REST API, by [@emanuele-em](https://github.com/emanuele-em).
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Window Management
+
+*   [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonbai-studio/tungsten-edge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Python / Speech Recognition
+
+*   [VoxRT (⭐9)](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
+
+### Kotlin / Speech Recognition
+
+*   [VoxRT (⭐18)](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+
+### Swift / Speech Recognition
+
+*   [VoxRT (⭐13)](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Company Research / GitHub
 
@@ -20,13 +71,17 @@
 
 *   [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Audio and Music
 
 *   [go-wav (⭐2)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+### Financial
+
+*   [orderbook (⭐11)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
+
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -133,7 +188,7 @@
 *   [Apache Fory (⭐4.5k) (⭐4.5k)](https://github.com/apache/fory) - Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.
 *   [YAML (⭐499) (⭐499)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### About this project
 
@@ -162,7 +217,7 @@
 *   **Monthly** — a cleanup report flags stale records for curator review;
     nothing is removed automatically.
 
-## [5. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+## [10. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
 ### **Storing Data** / Modular systems
 
@@ -267,7 +322,7 @@
 *   [Awesome Precision Agriculture (⭐141)](https://github.com/px39n/Awesome-Precision-Agriculture)
 *   [Awesome MQTT (⭐2.4k)](https://github.com/awesome-mqtt/awesome-mqtt)
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frontend / UI / Scala
 
@@ -289,7 +344,7 @@
 
 *   [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -303,19 +358,19 @@
 
 *   [EMQX](https://www.emqx.com/) - Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ([Demo](https://www.emqx.com/en/mqtt/public-mqtt5-broker), [Source Code (⭐17k)](https://github.com/emqx/emqx)) `Apache-2.0` `Docker/Erlang`
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [13. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [electrikhq/slate (⭐11)](https://github.com/electrikhq/slate#readme) - Project banner, status badges, and a tidy table of contents. Screenshot gallery of the docs site, a short why-this-readme comparison table, quickstart and usage snippets, and clear links out to full documentation.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
 
-## [10. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [15. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### Other
 
