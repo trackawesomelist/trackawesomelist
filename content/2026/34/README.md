@@ -1,12 +1,258 @@
 # Awesome List Updates on Aug 24 - Aug 30, 2026
 
-41 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / AI Gateway
+
+*   [agentgateway (⭐4.4k) (⭐4.5k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
+*   [Bifrost (⭐7.4k) (⭐7.3k)](https://github.com/maximhq/bifrost) - A high-performance AI gateway written in Go that unifies more than 20 model providers behind a single OpenAI-compatible API, with failover, load balancing, semantic caching, and governance.
+*   [IBM ContextForge (⭐4.3k) (⭐4.3k)](https://github.com/IBM/mcp-context-forge) - An AI gateway, registry, and proxy that federates MCP, A2A, and REST services behind a single endpoint with governance and observability.
+*   [MCPJungle (⭐1.2k) (⭐1.2k)](https://github.com/mcpjungle/MCPJungle) - A self-hosted MCP gateway and registry that centralises multiple MCP servers behind one endpoint for AI agents.
+*   [Obot (⭐953) (⭐953)](https://github.com/obot-platform/obot) - An open-source MCP platform that combines server hosting, a registry, a gateway, and a chat client with access control and audit logging.
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐442) (⭐442)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+
+### Projects / API Design
+
+*   [Kiota (⭐3.8k) (⭐3.8k)](https://github.com/microsoft/kiota) - A command-line generator from Microsoft that turns an OpenAPI description into a lightweight, strongly typed API client in many languages.
+*   [Redocly CLI (⭐1.5k) (⭐1.5k)](https://github.com/Redocly/redocly-cli) - Lint, bundle, and preview OpenAPI descriptions with configurable rulesets and plugins.
+*   [Zally (⭐946) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [OpenAPI Explorer (⭐353) (⭐353)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐581) (⭐581)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Gateway
+
+*   [Apache APISIX (⭐17k) (⭐17k)](https://github.com/apache/apisix) - A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.
+*   [Higress (⭐9.1k) (⭐9.2k)](https://github.com/higress-group/higress) - A next-generation cloud-native gateway based on Envoy and Istio, offering high performance, easy-to-use, and rich plugin extensibility.
+*   [Kong API Gateway (⭐44k) (⭐44k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
+
+### Projects / API Testing
+
+*   MQ clients
+    *   [JMSToolBox (⭐234) (⭐234)](https://github.com/jmstoolbox/jmstoolbox) - A universal JMS client offering broad compatibility and streamlined messaging testing across various brokers.
+    *   [kcat (⭐5.7k) (⭐5.8k)](https://github.com/edenhill/kcat) - A lightweight command-line tool for Apache Kafka (formerly named kafkacat), providing efficient message production and consumption.
+    *   [MQTT Explorer (⭐4k) (⭐4k)](https://github.com/thomasnordquist/MQTT-Explorer) - A detailed MQTT client delivering structured topic visualization and intuitive debugging.
+    *   [Offset Explorer](https://www.kafkatool.com) - A comprehensive GUI for managing Apache Kafka clusters (formerly named Kafka Tool) with user-friendly monitoring and administration tools.
+    *   [Service Bus Explorer (⭐2.2k) (⭐2.2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - An advanced GUI for Azure Service Bus that enables in-depth testing and seamless management of topics, queues, and subscriptions.
+
+### Projects / B2B Integration
+
+*   [phase4 (⭐235) (⭐235)](https://github.com/phax/phase4) - Embeddable, lightweight Java library implementing the AS4 messaging protocol, including the Peppol and CEF/eDelivery profiles.
+
+### Projects / Business Rules Engine
+
+*   [OpenL Tablets (⭐204) (⭐204)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
+*   [ZEN Engine (⭐1.9k) (⭐1.9k)](https://github.com/gorules/zen) - A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.
+
+### Projects / Data Integration
+
+*   [Apache NiFi (⭐6.2k) (⭐6.2k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
+*   [Conduit (⭐606) (⭐606)](https://github.com/ConduitIO/conduit) - Lightweight data integration tool written in Go that streams data between systems using built-in or standalone connectors, with Kafka Connect compatibility.
+*   [Estuary Flow (⭐961) (⭐961)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+*   [Meltano (⭐2.6k) (⭐2.6k)](https://github.com/meltano/meltano) - Declarative, code-first data integration engine that runs Singer taps and targets with version-controlled pipeline configuration.
+*   [Sling (⭐890) (⭐890)](https://github.com/slingdata-io/sling-cli) - Fast ELT command-line tool and Go library for moving data between databases, files, and cloud storage across a wide set of connectors.
+
+### Projects / Data Mapping Solution
+
+*   [AtlasMap (⭐212) (⭐212)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+*   [JSLT (⭐699) (⭐699)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+*   [Kaoto (⭐119) (⭐119)](https://github.com/KaotoIO/kaoto) - Visual data mapper for Apache Camel with a drag-and-drop interface supporting XML, JSON, CSV, and XSLT transformations. Successor to AtlasMap.
+
+### Projects / Enterprise Service Bus
+
+*   [WSO2 Integrator: MI (⭐259) (⭐259)](https://github.com/wso2/product-integrator-mi) - The configuration-driven integration runtime of the WSO2 Integrator platform, supporting enterprise integration patterns in centralised and containerised deployments.
+
+### Projects / Integration Platform as a Service
+
+*   [Camel K (⭐927) (⭐927)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+
+### Projects / Message Broker
+
+*   [Apache Iggy (⭐4.5k) (⭐4.5k)](https://github.com/apache/iggy) - Persistent message streaming platform written in Rust, supporting QUIC, TCP, and HTTP transports with high throughput and low latency.
+*   [Apache Qpid (⭐71) (⭐71)](https://github.com/apache/qpid-broker-j) - AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.
+*   [LavinMQ (⭐995) (⭐995)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+### Projects / Schema Registry
+
+*   [Apicurio Registry (⭐918) (⭐918)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
+*   [Karapace (⭐630) (⭐630)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐201k) (⭐201k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Stream Processing
+
+*   [Arroyo (⭐5k) (⭐5k)](https://github.com/ArroyoSystems/arroyo) - Rust-native stream processing engine that lets users build real-time pipelines with SQL, designed for serverless operation.
+*   [ksqlDB (⭐315) (⭐315)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
+
+### Projects / Workflow Engine
+
+*   [Bonita (⭐176) (⭐176)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+*   [Dagster (⭐16k) (⭐16k)](https://github.com/dagster-io/dagster) - Data orchestrator with a declarative, asset-based programming model for building and observing data pipelines.
+*   [LittleHorse (⭐395) (⭐395)](https://github.com/littlehorse-enterprises/littlehorse) - High-throughput, low-latency microservice orchestration engine built on Kafka Streams, with SDKs in multiple languages.
+*   [Restate (⭐4.3k) (⭐4.3k)](https://github.com/restatedev/restate) - Durable execution engine for building resilient workflows, event-driven services, and stateful handlers as plain code.
+
+### Resources / API Specification
+
+*   [Arazzo Specification (⭐464) (⭐464)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
+
+### Resources / Data Formats
+
+*   [Apache Fory (⭐4.5k) (⭐4.5k)](https://github.com/apache/fory) - Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.
+*   [YAML (⭐499) (⭐499)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [2. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+
+### **Storing Data** / Modular systems
+
+*   [TimescaleDB (⭐23k)](https://github.com/timescale/timescaledb) - Time-series database packaged as a Postgres extension, well suited to sensor telemetry
+*   [VictoriaMetrics (⭐18k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Fast, cost-effective time-series database and monitoring solution
+*   [QuestDB (⭐17k)](https://github.com/questdb/questdb) - High-performance open-source time-series database with SQL and InfluxDB line protocol support
+*   [Apache IoTDB (⭐6.4k)](https://github.com/apache/iotdb) - Time-series database designed for IoT: edge-to-cloud sync and high-frequency sensor ingestion
+
+### **AI/ML**
+
+*   [PlantCV (⭐816)](https://github.com/danforthcenter/plantcv) - Open-source plant phenotyping and image analysis library from the Danforth Plant Science Center
+*   [PlantVillage Dataset (⭐952)](https://github.com/spMohanty/PlantVillage-Dataset) - Open dataset of 54k+ images of healthy and diseased plant leaves across 14 crop species and 26 diseases
+*   [PlantDoc Dataset (⭐429)](https://github.com/pratikkayal/PlantDoc-Dataset) - Dataset for visual plant disease detection in real (non-lab) conditions
+*   [AgML (⭐327)](https://github.com/Project-AgML/AgML) - Centralized framework for agricultural machine learning: public datasets, benchmarks, pretrained models and synthetic data generation
+
+### **Grow Automation**
+
+*   [FarmBot OS (⭐1.2k)](https://github.com/FarmBot/farmbot_os) - Operating system for FarmBot, the open-source CNC farming robot, running on Raspberry Pi
+*   [reef-pi (⭐438)](https://github.com/reef-pi/reef-pi) - Raspberry Pi based controller with pH monitoring, dosing pumps, ATO and timers. Aquarium-focused but directly reusable for hydroponic reservoir control
+*   [TerrariumPI (⭐469)](https://github.com/theyosh/TerrariumPI) - Raspberry Pi automation for enclosed environments: climate, lighting, watering and webcams
+*   [SuperGreenOS (⭐220)](https://github.com/supergreenlab/SuperGreenOS) - ESP32 all-in-one grow controller firmware with mobile app control
+*   [Hydruino (⭐95)](https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino) - Fully configurable hydroponics automation controller for Arduino-compatible MCUs, offline with no cloud dependency
+*   [Isley (⭐84)](https://github.com/dwot/isley) - Self-hosted cannabis grow journal with sensor tracking for AC Infinity controllers and Ecowitt soil sensors
+
+### **Calculators**
+
+*   [HydroBuddy (⭐128)](https://github.com/danielfppps/hydrobuddy) - Open-source hydroponic nutrient solution calculator
+*   [Athena Batch Tank Nutrient Calculator (⭐5)](https://github.com/JakeTheRabbit/Athena-Batch-Tank-Nutrient-Calculator) - Self-hosted offline dosing calculator for the Athena nutrient and foliar range
+*   [Trym VPD Calculator](https://trym.io/vpd-calculator/) - Free VPD calculator with leaf-temperature offset and stage-specific target charts
+*   [Pulse VPD Guide and Calculator](https://pulsegrow.com/blogs/learn/vpd) - Detailed VPD explainer with interactive calculator and charts
+
+### Node RED / Node RED flows
+
+*   [Home Automation Repository (⭐1)](https://github.com/njhughes-01/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
+
+### Home Assistant / Home Assistant Automation
+
+*   [HA-Irrigation-Strategy (⭐18)](https://github.com/JakeTheRabbit/HA-Irrigation-Strategy) - Crop steering irrigation strategy (P0-P3 phases) for Home Assistant with GUI blueprint configuration
+*   [Home Assistant Plant (⭐853)](https://github.com/Olen/homeassistant-plant) - Alternative Plant component with thresholds, species data and daily light integral
+*   [OpenPlantbook integration (⭐558)](https://github.com/Olen/home-assistant-openplantbook) - Fetches per-species care thresholds from OpenPlantbook.io
+*   [Smart Irrigation (⭐546)](https://github.com/altmenorg/HAsmartirrigation) - Calculates irrigation duration and volume from evapotranspiration data
+*   [Irrigation Unlimited (⭐453)](https://github.com/rgc99/irrigation_unlimited) - Feature-rich irrigation controller: unlimited zones, sequences, seasonal adjustment
+*   [AC Infinity integration (⭐196)](https://github.com/dalinicus/homeassistant-acinfinity) - Home Assistant integration for AC Infinity UIS grow-tent controllers
+*   [OpenGrowBox-HA (⭐58)](https://github.com/OpenGrow-Box/OpenGrowBox-HA) - Autonomous grow-room control: VPD, climate, lighting, CO2 and irrigation over Zigbee/ESPHome/Tasmota/MQTT
+
+### Home Assistant / Home Assistant UI
+
+*   [Lovelace Flower Card (⭐505)](https://github.com/Olen/lovelace-flower-card) - Flower card matching the custom plant integration
+*   [VPD Chart Card (⭐46)](https://github.com/vpdchart/vpdchart-card) - Lovelace VPD chart card for grow rooms
+
+### **Facility management** / Home Assistant UI
+
+*   [farmOS (⭐1.3k)](https://github.com/farmOS/farmOS) - Web-based farm record keeping and management application
+*   [Cannlytics (⭐80)](https://github.com/cannlytics/cannlytics) - Open-source cannabis data pipelines and lab analytics tooling
+
+### ESPHome / ESPHome Configs
+
+*   [Aquaponics-Kit (⭐6)](https://github.com/TheRealFalseReality/Aquaponics_Pool_Kit-AtlasScientific) - Code for Atlas Scientific Wi-Fi Aquaponics Kit to be compatible with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
+*   [sdi12-esphome (⭐8)](https://github.com/fraxinas/sdi12-esphome) - SDI-12 sensor interface component for ESPHome
+*   [Growlink Terralink for ESPHome (⭐0)](https://github.com/JakeTheRabbit/Grownlink-Terralink-Substrate-Sensor-for-ESP-Home) - ESP32/ESPHome reading a Growlink Terralink TDR substrate sensor over SDI-12, exposing VWC/pwEC/temp to Home Assistant for coco and rockwool
+
+### Tasmota / Tasmota Configs
+
+*   [Tasmota-Hydroponics-Controller (⭐4)](https://github.com/LucidEye/Tasmota-Hydroponics-Controller) - Tasmota Berry scripts for grow-tent and hydro VPD control: lights, pump, humidifier, PWM fans
+
+### Components / Tasmota Configs
+
+*   [Seeed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
+
+### DIY / Modular systems
+
+*   [b-parasite (⭐2.4k)](https://github.com/rbaron/b-parasite) - Open-hardware wireless (BLE/Zigbee) soil moisture, temperature/humidity and light sensor with PCB and firmware
+*   [Chirp i2c-moisture-sensor (⭐256)](https://github.com/Miceuz/i2c-moisture-sensor) - The canonical open-hardware I2C capacitive soil moisture sensor
+*   [Makerfabs LoRa Soil Moisture Sensor (⭐62)](https://github.com/Makerfabs/Lora-Soil-Moisture-Sensor) - Open hardware and firmware LoRa capacitive soil moisture node, LoRaWAN variant available
+
+### **Metrics and Logging** / Modular systems
+
+*   [Arduino-SDI-12 (⭐186)](https://github.com/EnviroDIY/Arduino-SDI-12) - The de-facto Arduino library for SDI-12 communication with environmental sensors, no extra hardware needed
+*   [ModularSensors (⭐89)](https://github.com/EnviroDIY/ModularSensors) - Arduino library giving environmental sensors (including SDI-12 and Modbus soil probes) a common datalogger interface
+*   [ESP32-SDI12 (⭐17)](https://github.com/HarveyBates/ESP32-SDI12) - SDI-12 library for ESP32 microcontrollers
+*   [Industrial-Soil-Sensor-RS485 (⭐53)](https://github.com/myduino/Industrial-Soil-Sensor-RS485) - ESP32 sketches for industrial RS485 Modbus soil moisture/temp/EC/pH/NPK probes
+*   [Telegraf (⭐18k)](https://github.com/influxdata/telegraf) - Plugin-driven agent for collecting and shipping metrics (MQTT, Modbus, sensors) to InfluxDB and others
+
+### **MQTT** / Modular systems
+
+*   [Mosquitto (⭐11k)](https://github.com/eclipse-mosquitto/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
+*   [OpenMQTTGateway (⭐4.1k)](https://github.com/1technophile/OpenMQTTGateway) - ESP32 MQTT gateway bridging BLE (Mi Flora, b-parasite), 433MHz, IR and LoRa sensors to your broker
+*   [Theengs Gateway (⭐174)](https://github.com/theengs/gateway) - Multi-platform BLE-to-MQTT gateway decoding hundreds of sensors, with Home Assistant auto-discovery
+*   [miflora-mqtt-daemon (⭐623)](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux daemon pushing Xiaomi Mi Flora plant sensor data to MQTT
+
+### Visualization platforms / Modular systems
+
+*   [ThingsBoard (⭐22k)](https://github.com/thingsboard/thingsboard) - Open-source IoT platform: device management, MQTT data collection, rule engine and dashboards
+
+### Crop Steering Guides / Modular systems
+
+*   [AROYA Crop Steering Guide](https://aroya.io/en/resources/crop-steering) - In-depth free guide on substrate sensors, dryback strategy and P1/P2/P3 irrigation phases from METER Group's AROYA team
+*   [Cornell CEA](https://cea.cals.cornell.edu/) - Cornell University's Controlled Environment Agriculture program: free research publications on greenhouse engineering, hydroponics and lighting
+
+### **Other Awesome Lists** / Modular systems
+
+*   [Awesome Precision Agriculture (⭐141)](https://github.com/px39n/Awesome-Precision-Agriculture)
+*   [Awesome MQTT (⭐2.4k)](https://github.com/awesome-mqtt/awesome-mqtt)
+
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### Frontend / UI / Scala
+
+*   [MiniApp White Paper](https://w3c.github.io/miniapp-white-paper/) - MiniApp standardization white paper.
+
+### API Gateways / Edge Services / Scala
+
+*   [Apache APISIX](https://apisix.apache.org/) - High-performance, real-time API gateway and AI gateway built on NGINX and etcd, with hot-reloaded routing and 100+ plugins.
+
+### Local Development / Scala
+
+*   [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
+
+### Reactivity / Scala
+
+*   [Arroyo (⭐5k)](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine to transform, filter, aggregate, and join data streams by writing SQL.
+
+### Testing / Scala
+
+*   [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
+
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+
+### Examples
+
+*   [electrikhq/slate (⭐11)](https://github.com/electrikhq/slate#readme) - Project banner, status badges, and a tidy table of contents. Screenshot gallery of the docs site, a short why-this-readme comparison table, quickstart and usage snippets, and clear links out to full documentation.
+
+## [5. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### Other
+
+*   [Material Toolkit for LabVIEW (⭐25)](https://github.com/danielcoons/tsc-material-theme) - Material Design for LabVIEW applications; import, modify, and use generated themes.
+
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -24,7 +270,7 @@
 
 *   [The Podcast App RSS Validator](https://thepodcastapp.dev/tools/rss-validator)
 
-## [2. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Design Tools / Mechanical and Electrical
 
@@ -46,31 +292,31 @@
 *   [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
 *   [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
 
-## [3. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Routing
 
 *   [speedy-router (⭐147)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [MESHLIB (⭐807)](https://github.com/meshinspector/meshlib) - An SDK to Supercharge Your 3D Data Processing Efficiency. \[Free/Commercial] [website](https://meshlib.io/)
 
-## [5. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [10. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Videos
 
 *   [QAPractices Load Testing with k6](https://qapractices.com/documentation/load-testing-with-k6/) - Practical guide to load, stress and soak testing with k6 and Grafana.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Paid and commercially available materials
 
 *   [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust) - A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -84,7 +330,7 @@
 
 *   [ameba-ls (⭐44)](https://github.com/crystal-ameba/ameba-ls) - Language Server for the [Ameba (⭐561)](https://github.com/crystal-ameba/ameba) linter
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -97,6 +343,7 @@
 *   [go-audio-resampler (⭐9)](https://github.com/tphakala/go-audio-resampler) - Pure-Go, high-quality audio resampler with SIMD acceleration.
 *   [go-flac (⭐1)](https://github.com/tphakala/go-flac) - Native Go FLAC encoder and decoder with SIMD acceleration.
 *   [go-opus (⭐2)](https://github.com/tphakala/go-opus) - Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder.
+*   [go-wav (⭐2)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 
 ### Authentication and Authorization
 
@@ -114,7 +361,7 @@
 
 *   [flue (⭐9)](https://github.com/karnstack/flue) - Self-hosted daemon that serves terminal sessions to a browser tab. Sessions keep running after the tab is closed.
 
-## [9. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [14. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Official
 
@@ -223,7 +470,7 @@
 *   [vue-data-storage-sqlite-app-starter (⭐3)](https://github.com/Cap-go/vue-data-storage-sqlite-app-starter) - Vue starter for SQLite key/value storage.
 *   [react-data-storage-sqlite-app-starter (⭐2)](https://github.com/Cap-go/react-data-storage-sqlite-app-starter) - React starter for SQLite key/value storage.
 
-## [10. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [15. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Image Lifecycle / Registry
 
@@ -247,7 +494,7 @@
 
 *   [Laradock (⭐13k)](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, running Nginx/Apache, PHP, MySQL, Redis and more as swappable Compose services.
 
-## [11. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Audio & Video / Editors
 
@@ -257,7 +504,7 @@
 
 *   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,422`
 
-## [12. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [17. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -267,13 +514,13 @@
 
 *   [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [HDD Price Index (⭐0)](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
 
-## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [19. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Audio
 
@@ -283,24 +530,33 @@
 
 *   [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Company Research / GitHub
+
+*   [WhiteIntel](https://whiteintel.dev) - Free corporate and offshore ownership graph: trace a company to its beneficial owners across 31 public registries (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC EDGAR), with sanctions screening and fully cited dossiers. Queryable by AI agents over MCP.
 
 ### Domain and IP Research / GitHub
 
 *   [CC.LA](https://cc.la) - Free WHOIS, RDAP, DNS, IP WHOIS, name server history, SSL certificate lookup, and network diagnostic tools (ping/traceroute/MTR). Also provides expiring domain calendars, TLD library, domain monitoring, and domain availability checker. No sign-up required.
+*   [Domain Hunter (⭐4)](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker and name generator: checks up to 3,000 names across 148 TLD zones by calling registry RDAP endpoints directly from the browser (no servers, no API keys, no tracking), with DNS-over-HTTPS corroboration for low-trust ccTLDs, live registrar prices with 3-year TCO, and CSV/Markdown export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
 *   [ScanMalware](https://scanmalware.com) - Free URL scanner that renders a page in a sandboxed browser and reports phishing and malware verdicts, network requests, technologies, TLS/JARM fingerprints and screenshots, with a public feed of recent scans searchable by domain, IP, ASN or favicon hash.
+
+### Data and Statistics / GitHub
+
+*   [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 
 ### Privacy and Encryption Tools / GitHub
 
 *   [MetaClean (⭐5)](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Zed / Third-party APIs
 
 *   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
-## [17. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [22. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Adventure
 
@@ -310,7 +566,7 @@
 
 *   [Quarantine (⭐0)](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
 
-## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [23. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Learning / Engine Development
 
@@ -325,7 +581,7 @@
     *   📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
     *   📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in *Wicked Engine*.
 
-## [19. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [24. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Communities
 
@@ -690,7 +946,7 @@
 
 *   [Dayana Jabif](https://github.com/djabif) - Ionic Developer Expert, creator of multiple mobile apps and Capawesome team member.
 
-## [20. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [25. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Dating
 
@@ -722,13 +978,13 @@
 
 *   [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render. `#freemium`
 
-## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [enum-plus (⭐202)](https://github.com/shijistar/enum-plus) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### AI Tools / Other Tools
 
@@ -738,19 +994,35 @@
 
 *   [PasteClip (⭐124)](https://github.com/minsang-alt/PasteClip) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/minsang-alt/PasteClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Blogging Platforms
+
+*   [Ech0](https://ech0.app/) - Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese). ([Demo](https://memo.vaaat.com/), [Source Code (⭐2k)](https://github.com/lin-snow/Ech0)) `AGPL-3.0` `Docker/K8S`
+
+### Software / File Transfer - Web-based File Managers
+
+*   [slcl](https://codeberg.org/xavidcr/slcl) - Simple and lightweight web cloud storage. `AGPL-3.0` `C`
+
+### Software / Internet of Things (IoT)
+
+*   [EMQX](https://www.emqx.com/) - Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ([Demo](https://www.emqx.com/en/mqtt/public-mqtt5-broker), [Source Code (⭐17k)](https://github.com/emqx/emqx)) `Apache-2.0` `Docker/Erlang`
 
 ### Software / Task Management & To-do Lists
 
 *   [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ([Demo](https://tellor.cc/demo/?b=18486f63be6bb5f2), [Source Code (⭐12)](https://github.com/Voldrix/Tellor)) `MIT` `PHP`
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
 
-## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+### Testing
+
+*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
+
+## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### No-Code Platforms
 
@@ -764,13 +1036,13 @@
 
 *   [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
 
-## [26. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [31. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Component Libraries
 
 *   [PlayCanvas Web Components (⭐104)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 
-## [27. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Testing
 
@@ -785,7 +1057,7 @@
 
 *   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
-## [28. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [33. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### GUI
 
@@ -796,13 +1068,13 @@
 
 *   [sqlaxe (⭐8)](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Languages
 
 *   [日本語](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.ja.md)
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
@@ -820,7 +1092,7 @@
 
 *   [openooxml/betteroffice (⭐205)](https://github.com/openooxml/betteroffice) - Native OOXML engines for DOCX, XLSX and PPTX: editing, layout, rendering, CRDT collaboration and agent editing, compiled to WebAssembly.
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -1139,9 +1411,9 @@
 
 
 
-## [32. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
-### Productivity / Useful commands
+### Productivity
 
 *   [AppFlowy (⭐75k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [Butterfly (⭐2k)](https://github.com/LinwoodDev/Butterfly) - Butterfly is a Flutter note-taking and drawing app whose central object is an infinite canvas — pages hold freehand ink, text, shapes, images, areas, and waypoints in a custom `.bfly` document model, with optional WebDAV sync, OneNote import, and PDF/SVG export.
@@ -1155,15 +1427,14 @@
 *   [LibreTrack (⭐361)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app.
 *   [Linkwarden (⭐19k)](https://github.com/linkwarden/linkwarden) - Linkwarden is a self-hosted collaborative bookmark manager that captures every saved page as a screenshot, PDF, and HTML snapshot to defend against link rot.
 *   [Memex (⭐673)](https://github.com/memex-lab/memex) - Memex is a Flutter-based, local-first AI journal for iOS and Android that captures text, photo, and voice fragments, runs them through a multi-agent skill system on a BYO-LLM, and weaves them into timeline cards, P.A.R.A.-organized Markdown knowledge, and chart-driven insights.
-*   [mhabit (⭐1.4k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
+*   [mhabit (⭐1.5k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
 *   [Notesnook (⭐14k)](https://github.com/streetwriters/notesnook) - Notesnook is a cross-platform, end-to-end encrypted note-taking app with web, desktop, and mobile clients that sync through a zero-knowledge server.
 *   [OnionBrowser (⭐2.7k)](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
 *   [storypad (⭐942)](https://github.com/theachoem/storypad) - Storypad is an offline-first Flutter diary and journal app that uses a timeline instead of folders, layers mood tracking, photo memories, and customizable typography over a local ObjectBox store with optional Google Drive sync.
 *   [UTM (⭐35k)](https://github.com/utmapp/UTM) - Run virtual machines on iOS and macOS — Windows, Linux, and retro operating systems.
-*   [WhatTodo (⭐1.3k)](https://github.com/burhanrashid52/WhatTodo) - A Todoist-inspired to-do list app with a clean Material interface and quick capture.
 *   [YouTrack Mobile (⭐285)](https://github.com/JetBrains/youtrack-mobile) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects.
 
-### Finance / Useful commands
+### Finance
 
 *   [app-finance (⭐132)](https://github.com/lyskouski/app-finance) - Fingrom is a Flutter-built, ad-free, multi-currency personal finance app that ships to iOS, Android, macOS, Windows, Linux, and the Web from a single Dart codebase, with P2P device sync and end-to-end encryption.
 *   [BeeCount (⭐2.1k)](https://github.com/TNT-Likely/BeeCount) - BeeCount is a Flutter-based local-first bookkeeping app for iOS, Android, and Web that offers five interchangeable sync backends (the self-hosted BeeCount Cloud, iCloud, Supabase, WebDAV, and any S3-compatible store), AI-assisted capture via a dual on-device/cloud OCR pipeline, multi-ledger accounting with per-ledger currencies, and offline-first storage on Drift over SQLite.
@@ -1177,11 +1448,11 @@
 *   [sossoldi (⭐1.4k)](https://github.com/RIP-Comm/sossoldi) - Sossoldi is an MIT-licensed, Flutter-built personal wealth manager that tracks net worth, expenses, income, and investments across iOS, Android, macOS, Windows, Linux, and the Web from a single Dart codebase.
 *   [waterfly-iii (⭐695)](https://github.com/dreautall/waterfly-iii) - Waterfly III is a Flutter-built Android and iOS client for the self-hosted Firefly III personal finance manager, wrapping its REST API into a Material 3 mobile experience with offline dashboard charts, notification-driven transaction capture, and biometric app lock.
 
-### Education / Useful commands
+### Education
 
 *   [Mathematics (⭐143)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDFs and question papers with answers and quiz mode. Useful for educators and students preparing for exams.
 
-### Tools / Useful commands
+### Tools
 
 *   [admin-portal (⭐1.7k)](https://github.com/invoiceninja/admin-portal) - Invoice Ninja's operator-side admin portal, a single Flutter codebase shipped to Android, iOS, macOS, Windows, Linux, and web that manages the full billing lifecycle — quotes, invoices, recurring invoices, credits, purchase orders, payments, expenses, projects, and time tracking — against a self-hosted or cloud Invoice Ninja v5 server.
 *   [Airdash (⭐667)](https://github.com/simonbengtsson/airdash) - AirDrop-style file sharing to nearby devices over Wi-Fi and Bluetooth, no internet required.
@@ -1197,7 +1468,6 @@
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit) that wraps a customized libgit2 fork and re-implements everything else — including its own rebase engine — to keep operations and the live commit graph fast on large repositories.
 *   [Immich (⭐110k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [MarketMonk (⭐59)](https://github.com/brandonp2412/MarketMonk) - A Flutter stock and portfolio tracker that combines Yahoo Finance market data, interactive charts, local trade records, and multiple account support.
-*   [One Second Diary (⭐401)](https://github.com/KyleKun/one_second_diary) - A minimalist video diary app that records one second of footage each day.
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
 *   [SwiftTerm (⭐1.7k)](https://github.com/migueldeicaza/SwiftTerm) - An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
@@ -1205,14 +1475,14 @@
 *   [Unwrap (⭐2.3k)](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 *   [xbmc (⭐21k)](https://github.com/xbmc/xbmc) - Kodi is a free, open-source cross-platform media-center and entertainment-hub application written primarily in C++ with a CMake build system, built on FFmpeg for codec support and featuring a binary addon framework, hardware-accelerated video playback, and a JSON-RPC control surface — running natively on Android, Linux, BSD, macOS, iOS, tvOS, and Windows.
 
-### Developer Tools / Useful commands
+### Developer Tools
 
 *   [flutter-pos-system (⭐592)](https://github.com/evan361425/flutter-pos-system) - An offline-first Flutter point-of-sale app for small restaurants and shops that runs ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt printing, custom analytics charts, and Google Sheets export entirely on-device with no remote backend.
 *   [localmind (⭐180)](https://github.com/abdulmominsakib/localmind) - A Flutter mobile chat client that connects to on-device LLMs and any OpenAI-compatible server — Ollama, LM Studio, OpenRouter — with markdown rendering, voice input, and an MCP tool layer.
 *   [roxum-ide (⭐562)](https://github.com/heckmon/roxum-ide) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
 *   [rustdesk (⭐120k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
 
-### Communication / Useful commands
+### Communication
 
 *   [Berty (⭐9.3k)](https://github.com/berty/berty) - Berty is a peer-to-peer messenger that runs entirely over the Wesh protocol on top of libp2p, so peers connect directly via mDNS, Bluetooth Low Energy, or Tor with no central server in the loop.
 *   [Keybase (⭐9.2k)](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
@@ -1221,50 +1491,74 @@
 *   [Status.im (⭐4k)](https://github.com/status-im/status-react) - Status is a secure messaging app, Ethereum wallet, and Web3 browser built on decentralized protocols.
 *   [thunderbird-ios (⭐1.1k)](https://github.com/thunderbird/thunderbird-ios) - Thunderbird for iOS – Open Source Email App for iOS.
 
-### Health and Fitness / Useful commands
+### Health and Fitness
 
 *   [medito-app (⭐1.3k)](https://github.com/meditohq/medito-app) - Medito is a permanently-free Flutter meditation app maintained by the Medito Foundation that streams guided sessions, multi-day courses, and themed packs from a CMS-backed catalogue, pairing each track with a `just_audio` + `audio_service` foreground player and an optional background-sound bed.
 *   [Open Food Facts (⭐1.4k)](https://github.com/openfoodfacts/smooth-app) - The mobile companion to Open Food Facts — scan barcodes, decode ingredient lists, and contribute new products to the open database.
 *   [wger (⭐959)](https://github.com/wger-project/flutter) - A Flutter workout and fitness tracker that syncs with the self-hosted wger server, supporting routines, exercises, and progress logs.
 
-### Business / Useful commands
+### Business
 
 *   [Invoice Ninja](https://invoiceninja.com/) - Companion app for the Invoice Ninja platform. Invoicing, expenses, time-billing, payments.
 
-### Games / Useful commands
+### Games
 
 *   [Flip (⭐269)](https://github.com/RedBrogdon/flutterflip) - A Reversi board game implementation with a clean interface for casual play.
-*   [Pokedex (⭐2.5k)](https://github.com/scitbiz/flutter_pokedex) - A Pokédex reference app built in Flutter, using the public PokéAPI.
-*   [Slide Puzzle (⭐179)](https://github.com/kevmoo/slide_puzzle) - A classic 15-slide puzzle game with a clean minimal interface.
 
-### Media / Useful commands
+### Media
 
 *   [AudioKit (⭐11k)](https://github.com/AudioKit/AudioKit) - AudioKit is a Swift audio synthesis, processing, and analysis framework for iOS, macOS, tvOS, and visionOS that wraps AVFoundation and a C-backed DSP engine.
 *   [EhPanda (⭐3.9k)](https://github.com/EhPanda-Team/EhPanda) - EhPanda is an unofficial iOS and iPadOS client for the E-Hentai and ExHentai galleries, written entirely in SwiftUI on top of Point-Free's Composable Architecture, with a Combine/Kanna scraping layer and Core Data persistence.
 *   [one\_second\_diary (⭐401)](https://github.com/KyleKun/one_second_diary) - One Second Diary is a minimalist Flutter video diary app that lets you capture a one-to-ten second clip each day, then stitch your recordings into a shareable compilation movie of your life.
 *   [Swift-Radio-Pro (⭐2.9k)](https://github.com/analogcode/Swift-Radio-Pro) - Swift-Radio-Pro is a Swift iOS streaming-audio reference app that plays live radio from a list of stations, surfaces now-playing metadata and album art, and integrates with the lock screen and Control Center.
 
-### Entertainment / Useful commands
+### Entertainment
 
 *   [ATV-Bilibili-demo (⭐3.1k)](https://github.com/yichengchen/ATV-Bilibili-demo) - ATV-Bilibili-demo is an open-source Bilibili client demo built for Apple TV and its tvOS focus-driven interface.
-*   [TV Randshow (⭐240)](https://github.com/deandreamatias/tv-randshow) - An app that picks a random episode from a TV show when you cannot decide what to watch.
 
-### Social Network / Useful commands
+### Social Network
 
 *   [IceCubesApp (⭐7k)](https://github.com/Dimillian/IceCubesApp) - IceCubesApp is a SwiftUI-native, multi-platform Mastodon client for iOS, iPadOS, macOS, and visionOS, built and maintained primarily by a single developer (Dimillian).
 
-### Shopping / Useful commands
+### Shopping
 
 *   [Artsy (⭐3.8k)](https://github.com/artsy/eigen) - Artsy Eigen is the official iOS and Android client for artsy.net, built as a React Native app with native Swift and Kotlin modules for browsing artworks, following artists and galleries, and participating in live timed auctions.
 *   [Flutter Games (⭐345)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games.
 *   [Flutter WooCommerce app (⭐715)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores.
 
-### News and Magazine / Useful commands
+### News and Magazine
 
 *   [feed-flow (⭐1.2k)](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
 *   [Hacki (⭐1.6k)](https://github.com/Livinglist/Hacki) - A clean Hacker News reader for iOS, with offline support and custom themes.
 
-## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+### About this project
+
+*   Every app is one file: `data/records/<slug>.yml`. The schema and field
+    ownership rules are documented in [docs/SCHEMA.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/docs/SCHEMA.md).
+*   Human-curated fields and automation-owned GitHub metadata live side by
+    side in each record; scheduled jobs refresh the metadata through
+    reviewable pull requests.
+*   The site is built with [Grove](https://withgrove.dev) on
+    [Astro](https://astro.build) and Tailwind CSS, and deploys as a static
+    site to Cloudflare.
+*   The list section of this README is generated from the records with
+    `grove readme generate` — edit the YAML, not the list.
+
+### Add or update an app
+
+*   Create or edit `data/records/<slug>.yml`.
+*   Run `pnpm exec grove check` and `pnpm build`.
+
+### Automation
+
+*   **Every push and pull request** — CI runs an icon drift check,
+    `grove check`, and a full site build.
+*   **Weekly** — GitHub metadata sync, contributor sync, and README
+    regeneration, each landing as a reviewable pull request.
+*   **Monthly** — a cleanup report flags stale records for curator review;
+    nothing is removed automatically.
+
+## [38. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -1279,7 +1573,7 @@
 *   [Dead-Web Index (⭐1)](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
 *   [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
 
-## [34. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [39. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Brokers
 
@@ -1289,13 +1583,13 @@
 
 *   [dsh-mqtt (⭐2)](https://github.com/UllrAI/dsh-mqtt) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
 
-## [35. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [40. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [Castlemap](https://thecastlemap.com/) - Interactive world map and open CC0 dataset of 2,400 castles, fortresses, palaces, and ruins across 131 countries.
 
-## [36. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [41. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Animation
 
@@ -1309,7 +1603,7 @@
 
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -1335,26 +1629,26 @@
 
 *   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
-## [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [goprompt (erniebrodeur) (⭐1)](https://github.com/erniebrodeur/goprompt) - A compact, two-line prompt for ZSH. It includes decorators for the current directory, `git` state, user, optional SSH host, and local time without giving up the full width of the terminal.
 *   [goprompt (NonLogicalDev) (⭐11)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
 
-## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [44. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Competitive Programming
 
 *   [Principles of Algorithmic Problem Solving](https://jsannemo.se/latest.pdf) - Johan Sannemo (PDF)
 
-## [40. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [45. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [scryer (⭐4)](https://github.com/ramlaxmanyadav/scryer) - A security auditing & static analysis tool that scans Rails apps for vulnerabilities, performance issues, and code quality problems. [:red\_circle:](https://rubygems.org/gems/scryer)
 
-## [41. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [46. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### MCP Servers
 

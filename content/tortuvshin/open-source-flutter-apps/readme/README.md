@@ -8,225 +8,27 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ---
 
-# Open Apps
-
-> A curated directory of real open-source applications you can run, study,
-> compare, and contribute to.
-
-[![Website](https://img.shields.io/badge/explore-open--apps.dev.mn-111827?style=flat-square)](https://open-apps.dev.mn)
-[![Validate app data](https://img.shields.io/github/actions/workflow/status/tortuvshin/open-apps/validate-data.yml?branch=main\&style=flat-square\&label=data)](https://github.com/tortuvshin/open-apps/actions/workflows/validate-data.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE)
-[![Astro](https://img.shields.io/badge/built%20with-Astro-ff5d01?style=flat-square\&logo=astro\&logoColor=white)](https://astro.build)
-
-[Explore the directory](https://open-apps.dev.mn/apps) ·
-[Submit an app](https://open-apps.dev.mn/submit) ·
-[Read the contribution guide](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md)
-
-![Open Apps — discover open-source apps worth studying](https://github.com/tortuvshin/open-apps/raw/main/public/og-image.svg)
-
-## Why Open Apps?
-
-GitHub is excellent when you already know what to search for. Traditional
-awesome lists are useful for discovery, but a repository name and star count
-rarely tell you whether a codebase is worth your time.
-
-Open Apps adds the context developers need to make that decision:
-
-*   **Real applications, not toy projects** — complete products with meaningful
-    scope, structure, and a clear license.
-*   **Practical discovery** — browse by category, platform, stack, activity, and
-    maturity.
-*   **Useful learning signals** — understand what a project is best for, how
-    difficult it is, and what architectural ideas it demonstrates.
-*   **Fresh repository metadata** — scheduled automation refreshes activity and
-    contributor data through reviewable pull requests.
-*   **Open, portable data** — every catalog entry is a human-readable YAML file
-    in this repository.
-
-Stars are a signal, not a ranking system. The goal is to surface codebases
-that are useful to read, run, learn from, or improve.
-
-## What belongs in the directory?
-
-Open Apps covers mobile, web, desktop, full-stack, and developer-facing
-applications. A project must be a genuine application with a public source
-repository, an identifiable license, at least 50 stars, and at least 50
-lifetime commits.
-
-The directory does not accept:
-
-*   tutorials, snippets, or one-screen demos;
-*   boilerplates and starter templates;
-*   package-only libraries and SDKs;
-*   archived projects with no enduring learning value;
-*   repositories with an unclear license or purpose.
-
-See [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md) for the complete curation and submission
-rules.
-
-## Catalog data
-
-Each app lives in its own file:
-
-```text
-data/apps/<slug>.yml
-```
-
-Records combine human curation with GitHub metadata:
-
-| Area         | Examples                                | Maintained by                |
-| ------------ | --------------------------------------- | ---------------------------- |
-| App identity | name, description, category, platforms  | contributors and curators    |
-| Technology   | primary stack, languages, frameworks    | contributors and curators    |
-| Repository   | stars, forks, releases, activity        | scheduled GitHub sync        |
-| Health       | status, listing tier, cleanup candidacy | build and cleanup automation |
-| Curation     | learning value, caveats, review notes   | curators                     |
-
-The canonical field definitions, ownership rules, taxonomy IDs, and a complete
-record example are documented in [docs/SCHEMA.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/docs/SCHEMA.md).
-
-### Data pipeline
-
-```text
-data/apps/*.yml
-      │
-      ├─ validate schema and taxonomy
-      ├─ normalize and score records
-      └─ generate build-time JSON
-             ├─ apps.index.json  → lightweight search and listing data
-             ├─ apps.full.json   → complete app records
-             └─ apps.json        → compatibility payload
-                      │
-                      └─ Astro static site → dist/
-```
-
-Files under `data/generated/` are derived artifacts unless explicitly tracked.
-Edit the YAML source records rather than generated JSON.
-
-## Local development
-
-### Requirements
-
-*   [Node.js](https://nodejs.org/) 20 or newer
-*   [pnpm](https://pnpm.io/) 10.12.1 (the version is pinned in `package.json`)
-
-### Start the site
-
-```sh
-git clone https://github.com/tortuvshin/open-apps.git
-cd open-apps
-corepack enable
-pnpm install --frozen-lockfile
-pnpm dev
-```
-
-The development server prints its local URL, normally
-`http://localhost:4321`.
-
-### Useful commands
-
-| Command                  | Purpose                                                       |
-| ------------------------ | ------------------------------------------------------------- |
-| `pnpm dev`               | Generate app data and start the Astro development server      |
-| `pnpm build`             | Validate data, generate AI-readable files, and build the site |
-| `pnpm preview`           | Preview the production build locally                          |
-| `pnpm check`             | Run Astro and TypeScript checks                               |
-| `pnpm test`              | Run the Node.js test suite                                    |
-| `pnpm validate:data`     | Validate every app record without building the site           |
-| `pnpm build:data`        | Validate YAML and regenerate catalog JSON                     |
-| `pnpm refresh:activity`  | Refresh per-app activity from the GitHub API                  |
-| `pnpm sync:contributors` | Refresh this repository's contributor metadata                |
-
-GitHub API scripts use `GITHUB_TOKEN` when available. Routine local development,
-validation, and builds do not require a token.
-
-## Project structure
-
-```text
-.
-├── data/
-│   ├── apps/             # one YAML source record per app
-│   ├── generated/        # build-time catalog output
-│   └── taxonomy/         # allowed categories, platforms, stacks, and channels
-├── docs/
-│   └── SCHEMA.md         # catalog schema and ownership contract
-├── public/               # static assets and AI-readable endpoints
-├── scripts/              # validation, generation, sync, and migration tools
-├── src/
-│   ├── components/       # Astro UI components
-│   ├── data/             # typed catalog adapters and site metadata
-│   ├── lib/              # search, scoring, formatting, and taxonomy helpers
-│   └── pages/            # static routes and app detail pages
-└── .github/workflows/    # validation and scheduled metadata maintenance
-```
-
-The site is built with [Astro](https://astro.build), TypeScript, and
-[Tailwind CSS](https://tailwindcss.com/). It produces static assets in `dist/`
-and is configured for deployment with Cloudflare Wrangler.
-
-## Add or update an app
-
-The fastest submission path is the
-[web form](https://open-apps.dev.mn/submit). It drafts a YAML record from a
-public GitHub URL; you review the metadata and open a pull request.
-
-For a manual contribution:
-
-1.  Create or edit `data/apps/<slug>.yml`.
-2.  Keep human-owned fields under `app`, `stack`, and `curation`.
-3.  Do not hand-edit automation-owned `github` or `health` fields.
-4.  Run `pnpm validate:data`, `pnpm test`, and `pnpm build`.
-5.  Open a focused pull request.
-
-Please read [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md) before submitting data or code.
-All participants must follow the [Code of Conduct](https://github.com/tortuvshin/open-apps/blob/main/README.md/CODE_OF_CONDUCT.md).
-
-## Automation
-
-GitHub Actions keeps changes visible and reviewable:
-
-*   pull requests that touch catalog data run schema validation, data generation,
-    and unit tests;
-*   app activity and GitHub-shaped metadata are refreshed daily;
-*   repository contributor statistics are refreshed weekly;
-*   stale-app candidates are reported weekly for curator review.
-
-Scheduled jobs open pull requests when source data changes. They do not silently
-remove catalog entries.
-
-## AI-readable catalog
-
-The deployed site publishes:
-
-*   [`llms.txt`](https://open-apps.dev.mn/llms.txt) — a compact guide to the site;
-*   [`llms-full.txt`](https://open-apps.dev.mn/llms-full.txt) — the expanded
-    catalog for AI assistants and retrieval tools.
-
-These files are generated from the same source data as the website.
-
-## Project history
-
-Open Apps grew from
-[`open-source-flutter-apps`](https://github.com/tortuvshin/open-source-flutter-apps).
-The original README-only collection is preserved in
-[README-LEGACY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/README-LEGACY.md), while this project evolves it into a
-structured, searchable, multi-stack directory.
-
 <!-- grove-readme:start -->
 
-# Open Apps — a directory of real open-source applications
+# Open Apps
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hand-picked apps worth running, studying, and extending.
+A hand-picked directory of real open-source applications — apps worth running, studying, and extending.
 
-Browse the directory → <https://open-apps.dev.mn>
+Browse the directory → <https://openappscout.com>
 
 ## Why this list
 
-Each app below is **actively maintained**, **well documented**, and
-**useful in production**. Submit a new entry via the web form or
-by opening a pull request against `data/records/`.
+GitHub search works when you already know what you are looking for.
+This list is for the other case: discovering **real, production-grade
+apps** — not tutorials, boilerplates, or package-only libraries — and
+understanding what each one is worth your time for.
+
+Every entry is a human-curated YAML record in `data/records/`, kept
+fresh by weekly GitHub metadata syncs. To add an app, use the
+[submission form](https://openappscout.com/submit) or open a pull
+request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md).
 
 ## Contents
 
@@ -259,12 +61,11 @@ by opening a pull request against `data/records/`.
 *   [LibreTrack (⭐361)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app.
 *   [Linkwarden (⭐19k)](https://github.com/linkwarden/linkwarden) - Linkwarden is a self-hosted collaborative bookmark manager that captures every saved page as a screenshot, PDF, and HTML snapshot to defend against link rot.
 *   [Memex (⭐673)](https://github.com/memex-lab/memex) - Memex is a Flutter-based, local-first AI journal for iOS and Android that captures text, photo, and voice fragments, runs them through a multi-agent skill system on a BYO-LLM, and weaves them into timeline cards, P.A.R.A.-organized Markdown knowledge, and chart-driven insights.
-*   [mhabit (⭐1.4k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
+*   [mhabit (⭐1.5k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
 *   [Notesnook (⭐14k)](https://github.com/streetwriters/notesnook) - Notesnook is a cross-platform, end-to-end encrypted note-taking app with web, desktop, and mobile clients that sync through a zero-knowledge server.
 *   [OnionBrowser (⭐2.7k)](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
 *   [storypad (⭐942)](https://github.com/theachoem/storypad) - Storypad is an offline-first Flutter diary and journal app that uses a timeline instead of folders, layers mood tracking, photo memories, and customizable typography over a local ObjectBox store with optional Google Drive sync.
 *   [UTM (⭐35k)](https://github.com/utmapp/UTM) - Run virtual machines on iOS and macOS — Windows, Linux, and retro operating systems.
-*   [WhatTodo (⭐1.3k)](https://github.com/burhanrashid52/WhatTodo) - A Todoist-inspired to-do list app with a clean Material interface and quick capture.
 *   [YouTrack Mobile (⭐285)](https://github.com/JetBrains/youtrack-mobile) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects.
 
 ## Finance
@@ -301,7 +102,6 @@ by opening a pull request against `data/records/`.
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit) that wraps a customized libgit2 fork and re-implements everything else — including its own rebase engine — to keep operations and the live commit graph fast on large repositories.
 *   [Immich (⭐110k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [MarketMonk (⭐59)](https://github.com/brandonp2412/MarketMonk) - A Flutter stock and portfolio tracker that combines Yahoo Finance market data, interactive charts, local trade records, and multiple account support.
-*   [One Second Diary (⭐401)](https://github.com/KyleKun/one_second_diary) - A minimalist video diary app that records one second of footage each day.
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
 *   [SwiftTerm (⭐1.7k)](https://github.com/migueldeicaza/SwiftTerm) - An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
@@ -338,8 +138,6 @@ by opening a pull request against `data/records/`.
 ## Games
 
 *   [Flip (⭐269)](https://github.com/RedBrogdon/flutterflip) - A Reversi board game implementation with a clean interface for casual play.
-*   [Pokedex (⭐2.5k)](https://github.com/scitbiz/flutter_pokedex) - A Pokédex reference app built in Flutter, using the public PokéAPI.
-*   [Slide Puzzle (⭐179)](https://github.com/kevmoo/slide_puzzle) - A classic 15-slide puzzle game with a clean minimal interface.
 
 ## Media
 
@@ -351,7 +149,6 @@ by opening a pull request against `data/records/`.
 ## Entertainment
 
 *   [ATV-Bilibili-demo (⭐3.1k)](https://github.com/yichengchen/ATV-Bilibili-demo) - ATV-Bilibili-demo is an open-source Bilibili client demo built for Apple TV and its tvOS focus-driven interface.
-*   [TV Randshow (⭐240)](https://github.com/deandreamatias/tv-randshow) - An app that picks a random episode from a TV show when you cannot decide what to watch.
 
 ## Social Network
 
@@ -370,15 +167,104 @@ by opening a pull request against `data/records/`.
 
 <!-- grove-readme:end -->
 
+## About this project
+
+[![Website](https://img.shields.io/badge/explore-openappscout.com-111827?style=flat-square)](https://openappscout.com)
+[![CI](https://img.shields.io/github/actions/workflow/status/tortuvshin/open-apps/ci.yml?branch=main\&style=flat-square\&label=ci)](https://github.com/tortuvshin/open-apps/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE)
+[![Built with Grove](https://img.shields.io/badge/built%20with-Grove-166534?style=flat-square)](https://withgrove.dev)
+
+The list above is one view of the catalog. The same YAML records also build
+[openappscout.com](https://openappscout.com) — a searchable directory with
+per-app detail pages, curated collections, stack and category browsing, and
+contributor credits.
+
+*   Every app is one file: `data/records/<slug>.yml`. The schema and field
+    ownership rules are documented in [docs/SCHEMA.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/docs/SCHEMA.md).
+*   Human-curated fields and automation-owned GitHub metadata live side by
+    side in each record; scheduled jobs refresh the metadata through
+    reviewable pull requests.
+*   The site is built with [Grove](https://withgrove.dev) on
+    [Astro](https://astro.build) and Tailwind CSS, and deploys as a static
+    site to Cloudflare.
+*   The list section of this README is generated from the records with
+    `grove readme generate` — edit the YAML, not the list.
+
+## Add or update an app
+
+The fastest path is the [web form](https://openappscout.com/submit): it
+drafts a YAML record from a public GitHub URL; you review the taxonomy and
+open a pull request.
+
+For a manual contribution:
+
+1.  Create or edit `data/records/<slug>.yml`.
+2.  Run `pnpm exec grove check` and `pnpm build`.
+3.  Open a focused pull request.
+
+Inclusion criteria — what belongs, what does not, and how entries are
+reviewed — are documented in [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/CONTRIBUTING.md). All
+participants follow the [Code of Conduct](https://github.com/tortuvshin/open-apps/blob/main/README.md/CODE_OF_CONDUCT.md).
+
+## Development
+
+Requires [Node.js](https://nodejs.org/) 22.12 or newer and pnpm (pinned in
+`package.json`, available via `corepack enable`).
+
+```sh
+git clone https://github.com/tortuvshin/open-apps.git
+cd open-apps
+corepack enable
+pnpm install --frozen-lockfile
+pnpm dev
+```
+
+| Command                           | Purpose                                               |
+| --------------------------------- | ----------------------------------------------------- |
+| `pnpm dev`                        | Start the Astro development server                    |
+| `pnpm build`                      | Validate data and build the static site into `dist/`  |
+| `pnpm preview`                    | Preview the production build locally                  |
+| `pnpm check`                      | Run Astro and TypeScript checks                       |
+| `pnpm audit`                      | Run Lighthouse against the pages in `grove.config.ts` |
+| `pnpm exec grove check`           | Validate records, generate artifacts, and run checks  |
+| `pnpm exec grove sync <target>`   | Refresh GitHub metadata owned by Grove                |
+| `pnpm exec grove readme generate` | Regenerate the list section of this README            |
+
+## Automation
+
+GitHub Actions keeps the catalog fresh without silent changes:
+
+*   **Every push and pull request** — CI runs an icon drift check,
+    `grove check`, and a full site build.
+*   **Weekly** — GitHub metadata sync, contributor sync, and README
+    regeneration, each landing as a reviewable pull request.
+*   **Monthly** — a cleanup report flags stale records for curator review;
+    nothing is removed automatically.
+
+## AI-readable catalog
+
+The deployed site publishes
+[`llms.txt`](https://openappscout.com/llms.txt), a compact guide to the
+site, and [`llms-full.txt`](https://openappscout.com/llms-full.txt), the
+expanded catalog for AI assistants and retrieval tools — generated from the
+same records as everything else.
+
+## Project history
+
+Open Apps grew from
+[`open-source-flutter-apps`](https://github.com/tortuvshin/open-source-flutter-apps).
+The original README-only collection is preserved in
+[README-LEGACY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/README-LEGACY.md), while this project evolves it into a
+structured, searchable, multi-stack directory.
+
 ## Security
 
-Please report vulnerabilities and sensitive issues using the private process in
-[SECURITY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/SECURITY.md). Do not open a public issue for security reports,
-credentials, or takedown requests.
+Report vulnerabilities and sensitive issues through the private process in
+[SECURITY.md](https://github.com/tortuvshin/open-apps/blob/main/README.md/SECURITY.md) — never in a public issue.
 
 ## License
 
 The website code and catalog tooling are available under the
-[MIT License](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE). Provenance and licensing notes for the legacy dataset
-are included in the license file.
+[MIT License](https://github.com/tortuvshin/open-apps/blob/main/README.md/LICENSE). Provenance and licensing notes for the legacy
+dataset are included in the license file.
 
