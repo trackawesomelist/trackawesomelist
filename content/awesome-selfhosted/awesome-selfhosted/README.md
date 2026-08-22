@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 22, 2026](/content/2026/08/22/README.md)
+
+### Software / Miscellaneous
+
+*   [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - Digital signage device and content management system with SMIL playlist support and scheduling. ([Source Code (⭐138)](https://github.com/garlic-signage/garlic-hub)) `AGPL-3.0` `Docker`
+
+### Software / Time Tracking
+
+*   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐614)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
+
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
 ### Software / Blogging Platforms
@@ -867,7 +877,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐3.7k)](https://github.com/dagucloud/dagu)) `GPL-3.0` `Go/Docker`
+*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐3.8k)](https://github.com/dagucloud/dagu)) `GPL-3.0` `Go/Docker`
 
 ## [Jul 19, 2025](/content/2025/07/19/README.md)
 
@@ -1928,7 +1938,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Network Utilities
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐2.1k)](https://github.com/beelzebub-labs/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐2.2k)](https://github.com/beelzebub-labs/beelzebub)) `MIT` `Docker/K8S/Go`
 
 ## [Mar 21, 2024](/content/2024/03/21/README.md)
 
@@ -3332,10 +3342,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - IRC
 
 *   [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code (⭐1.3k)](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++/Docker`
-
-### Software / Search Engines
-
-*   [ZincSearch](https://zincsearch.com) - Search engine that requires minimal resources (alternative to Elasticsearch). ([Demo (⭐18k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐18k)](https://github.com/zincsearch/zincsearch)) `Apache-2.0` `Go/Docker/K8S`
 
 ## [Jul 03, 2022](/content/2022/07/03/README.md)
 
