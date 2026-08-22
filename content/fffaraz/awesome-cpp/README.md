@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Aug 22, 2026](/content/2026/08/22/README.md)
+
+### Image Processing
+
+*   [Jpegli (⭐392)](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
 ## [Aug 19, 2026](/content/2026/08/19/README.md)
 
 ### Graphics
@@ -16,7 +22,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Frameworks
 
-*   [YUP! (⭐158)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
+*   [YUP! (⭐171)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -1196,12 +1202,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### CLI
 
 *   [barkeep (⭐244)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
-
-## [Oct 29, 2024](/content/2024/10/29/README.md)
-
-### Image Processing
-
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐392)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 
 ## [Oct 28, 2024](/content/2024/10/28/README.md)
 
@@ -4251,7 +4251,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [OpenBLAS (⭐7.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
+*   [OpenBLAS (⭐7.6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
 
 ## [Nov 17, 2017](/content/2017/11/17/README.md)
 
@@ -4813,7 +4813,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Coding Style
 
-*   [google-styleguide (⭐39k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐40k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -5000,7 +5000,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [MeTA (⭐714)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
+*   [MeTA (⭐715)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
 
 ## [Apr 12, 2015](/content/2015/04/12/README.md)
 

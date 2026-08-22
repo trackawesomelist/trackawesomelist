@@ -12,11 +12,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [MESHLIB (⭐807)](https://github.com/meshinspector/meshlib) - An SDK to Supercharge Your 3D Data Processing Efficiency. \[Free/Commercial] [website](https://meshlib.io/)
 
+### Image Processing
+
+*   [Jpegli (⭐392)](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Frameworks
 
-*   [YUP! (⭐158)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
+*   [YUP! (⭐171)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -1085,10 +1089,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [barkeep (⭐244)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
 *   [Ctrl+C (⭐31)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
 *   [tuibox (⭐326)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
-
-### Image Processing
-
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐392)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -3752,7 +3752,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [OpenBLAS (⭐7.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
+*   [OpenBLAS (⭐7.6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
 
 ### Multimedia
 
@@ -4277,7 +4277,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Coding Style
 
-*   [google-styleguide (⭐39k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐40k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -4448,7 +4448,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [MeTA (⭐714)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
+*   [MeTA (⭐715)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
 
 ## [Apr 13 - Apr 19, 2015](/content/2015/15/README.md)
 

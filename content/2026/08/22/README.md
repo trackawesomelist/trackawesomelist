@@ -1,12 +1,35 @@
 # Awesome List Updates on Aug 22, 2026
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+### Software / Test Data Management
+
+*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
+
+### Software / Test Automation Frameworks
+
+*   [Bats (⭐6.2k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Image Processing
+
+*   [Jpegli (⭐392)](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Entertainment / Music
+
+*   [cliamp (⭐3.4k)](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
+
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -21,13 +44,13 @@
 
 *   [Android Malware GitHub repo (⭐1.2k)](https://github.com/ashishb/android-malware)
 
-## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Communities / Discord
 
 *   [WebXR JP Discord](https://discord.gg/2d5fmwBEpb) - Japanese-language Discord server for WebXR.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
@@ -37,19 +60,19 @@
 
 *   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐614)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -59,7 +82,7 @@
 
 *   [cybergalaxy (⭐0)](https://github.com/Nannigalaxy/cybergalaxy-zsh-theme) - Neon green and blue theme with decorators for `git` status, python/conda virtualenv, user\@hostname, and time. Falls back gracefully to ASCII and named ANSI colors on terminals without UTF-8 or 256-color support. Uses unicode glyphs so it doesn't require Nerd Font or Powerline fonts.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Plugins / Email
 

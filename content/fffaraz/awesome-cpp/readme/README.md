@@ -152,7 +152,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [WUI (⭐72)](https://github.com/intent-garden/wui) - WUI (Window User Interface Library) is a cross-platform library for creating graphical user interfaces in C++17+ \[Boost][website](https://libwui.org)
 *   [xtd (⭐1.2k)](https://github.com/gammasoft71/xtd) - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. \[MIT]
 *   [Yomm2 (⭐382)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐119)](https://github.com/jll63/yomm11) \[Boost]
-*   [YUP! (⭐158)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
+*   [YUP! (⭐171)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software \[ISC]
 
 ## Artificial Intelligence
 
@@ -752,7 +752,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [GDCM](https://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 *   [ITK](https://www.itk.org/) - An open-source, cross-platform system for image analysis. \[Apache2 from ITK 4.0]
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐392)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+*   [Jpegli (⭐392)](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 *   [Leptonica (⭐2.1k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](https://leptonica.org/index.html)
 *   [libavif (⭐2.2k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
 *   [libfacedetection (⭐13k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
@@ -893,7 +893,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [ggml (⭐15k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
 *   [libsvm (⭐4.7k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 *   [m2cgen (⭐3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
-*   [MeTA (⭐714)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
+*   [MeTA (⭐715)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
 *   [Minerva (⭐712)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 *   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](https://www.mlpack.org/)
 *   [ncnn (⭐24k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
@@ -945,7 +945,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [LibTomMath (⭐797)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](https://www.libtom.net/)
 *   [linmath.h (⭐1.1k)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 *   [lp\_solve](https://sourceforge.net/projects/lpsolve) - A library used to formulate and solve linear programming problems. \[LGPL] [website](https://lpsolve.sourceforge.net)
-*   [OpenBLAS (⭐7.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
+*   [OpenBLAS (⭐7.6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](https://www.openblas.net/)
 *   [PCG-rand](https://www.pcg-random.org/) - PCG is a family of simple fast space-efficient statistically good algorithms for random number generation. Unlike many general-purpose RNGs, they are also hard to predict. \[Apache]
 *   [QuantLib (⭐7.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](https://quantlib.org/)
 *   [sebsjames/maths (⭐10)](https://github.com/sebsjames/maths) - A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in [mathplot (⭐63)](https://github.com/sebsjames/mathplot)).  \[Apache2] [website](https://sebsjames.github.io/maths/)
@@ -1657,7 +1657,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [C++ Core Guidelines (⭐45k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 *   [C++ Dos and Don'ts](https://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
-*   [google-styleguide (⭐39k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐40k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 *   [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 *   [GNU Coding Standard](https://www.gnu.org/prep/standards/standards.html)
 *   [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)

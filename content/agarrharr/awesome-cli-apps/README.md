@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Aug 22, 2026](/content/2026/08/22/README.md)
+
+### Entertainment / Music
+
+*   [cliamp (⭐3.4k)](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
+
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
 ### Utilities / macOS
@@ -29,7 +35,7 @@
 
 ### Development / Public localhost
 
-*   [ytunnel (⭐42)](https://github.com/yetidevworks/ytunnel) - Create and manage Cloudflare Tunnels with custom domains.
+*   [ytunnel (⭐46)](https://github.com/yetidevworks/ytunnel) - Create and manage Cloudflare Tunnels with custom domains.
 
 ### Productivity / Email
 
@@ -37,15 +43,15 @@
 
 ### Utilities / Math
 
-*   [numr (⭐257)](https://github.com/nasedkinpv/numr) - Natural-language calculator with variables, units, currencies, and live exchange rates.
+*   [numr (⭐262)](https://github.com/nasedkinpv/numr) - Natural-language calculator with variables, units, currencies, and live exchange rates.
 
 ### Files and Directories / Search
 
-*   [ygrep (⭐49)](https://github.com/yetidevworks/ygrep) - Indexed code search backed by a local Tantivy full-text index.
+*   [ygrep (⭐55)](https://github.com/yetidevworks/ygrep) - Indexed code search backed by a local Tantivy full-text index.
 
 ### AI / Agents
 
-*   [bosun (⭐37)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
+*   [bosun (⭐42)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
@@ -77,7 +83,7 @@
 
 ### Entertainment / Video
 
-*   [capcut-cli (⭐271)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
+*   [capcut-cli (⭐378)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 
 ### Entertainment / Games
 
@@ -89,7 +95,7 @@
 
 ### AI / Agents
 
-*   [agentty (⭐380)](https://github.com/1ay1/agentty) - C++ agent TUI.
+*   [agentty (⭐606)](https://github.com/1ay1/agentty) - C++ agent TUI.
 
 ## [Jul 14, 2026](/content/2026/07/14/README.md)
 
@@ -175,7 +181,7 @@
 ### AI / Agents
 
 *   [OpenCode (⭐198k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
-*   [Nanocoder (⭐2.3k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+*   [Nanocoder (⭐2.4k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### AI / LLM Interaction
 
@@ -233,20 +239,20 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [gtasks (⭐166)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+*   [gtasks (⭐169)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 
 ### Productivity / Calendars
 
-*   [ical (⭐74)](https://github.com/BRO3886/ical) - Manage macOS Calendar.
-*   [rem (⭐141)](https://github.com/BRO3886/rem) - Manage macOS Reminders.
+*   [ical (⭐78)](https://github.com/BRO3886/ical) - Manage macOS Calendar.
+*   [rem (⭐147)](https://github.com/BRO3886/rem) - Manage macOS Reminders.
 
 ### Utilities / Calendars
 
-*   [amazon-orders (⭐167)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
+*   [amazon-orders (⭐173)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### Utilities / Science
 
-*   [birda (⭐31)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
+*   [birda (⭐33)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
@@ -274,7 +280,7 @@
 
 ### Utilities / Theming and Customization
 
-*   [cwal (⭐123)](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
+*   [cwal (⭐127)](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
@@ -505,7 +511,7 @@
 
 ### Images / Emoji
 
-*   [optimizt (⭐180)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+*   [optimizt (⭐183)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 
 ### Screensavers / Image Conversion
 
@@ -601,7 +607,7 @@
 
 ### Development / Devops
 
-*   [updo (⭐1k)](https://github.com/Owloops/updo) - Website monitoring tool.
+*   [updo (⭐1.1k)](https://github.com/Owloops/updo) - Website monitoring tool.
 
 ## [Oct 29, 2025](/content/2025/10/29/README.md)
 
@@ -635,7 +641,7 @@
 
 ### Development / Devops
 
-*   [telert (⭐284)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
+*   [telert (⭐286)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 
 ### Development / Testing
 
@@ -656,7 +662,7 @@
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐512)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐513)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -669,7 +675,7 @@
 
 ### Images / Image Conversion
 
-*   [pdfjuicer (⭐42)](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
+*   [pdfjuicer (⭐43)](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 
 ### Other Resources / LLM Interaction
 
@@ -747,7 +753,7 @@
 
 ### Utilities / Network Utilities
 
-*   [sshuttle (⭐13k)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+*   [sshuttle (⭐14k)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Files and Directories / Disk Usage
 
@@ -783,7 +789,7 @@
 
 ### Entertainment / Music
 
-*   [mpvc (⭐153)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
+*   [mpvc (⭐156)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
@@ -825,11 +831,11 @@
 
 ### Entertainment / Music
 
-*   [radio-active (⭐592)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+*   [radio-active (⭐593)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Productivity / Testing
 
-*   [fjira (⭐274)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐273)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ## [Aug 16, 2023](/content/2023/08/16/README.md)
 
@@ -895,7 +901,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐357)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐358)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [May 05, 2023](/content/2023/05/05/README.md)
 
@@ -932,12 +938,12 @@
 ### Development / Chat
 
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐697)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐718)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [bcal (⭐699)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐720)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐385)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 *   [add-gitignore (⭐729)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐365)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐39)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [is-up-cli (⭐366)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐40)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [diff2html-cli (⭐601)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
@@ -960,7 +966,7 @@
 
 *   [HTTPie (⭐38k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 *   [HTTP Prompt (⭐9.1k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐623)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [ain (⭐621)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Development / Testing
 
@@ -1009,7 +1015,7 @@
 ### Utilities / Network Utilities
 
 *   [acmetool (⭐2.1k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐920)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [certificate-ripper (⭐922)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 
@@ -1022,7 +1028,7 @@
 ### Utilities / System Interaction Utilities
 
 *   [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
-*   [gzip-size-cli (⭐192)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+*   [gzip-size-cli (⭐193)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Utilities / Markdown
 
@@ -1035,7 +1041,7 @@
 ### Utilities / Browser Replacement
 
 *   [s (⭐2.6k)](https://github.com/zquestz/s) - Open a web search in your terminal.
-*   [hget (⭐388)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+*   [hget (⭐389)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 *   [mapscii (⭐9.2k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 *   [nasa-cli (⭐106)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
 *   [getnews.tech (⭐173)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
@@ -1070,7 +1076,7 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐341)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
@@ -1097,7 +1103,7 @@
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐228)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐229)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
@@ -1119,13 +1125,13 @@
 
 ### Utilities / Academia
 
-*   [pubs (⭐288)](https://github.com/pubs/pubs) - Scientific bibliography manager.
+*   [pubs (⭐293)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ## [Jan 13, 2022](/content/2022/01/13/README.md)
 
 ### Entertainment / Music
 
-*   [dzr (⭐261)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐263)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
@@ -1160,7 +1166,7 @@
 
 ### Utilities / Calendars
 
-*   [deadlink (⭐176)](https://github.com/nschloe/deadlink) - Find dead links in files.
+*   [deadlink (⭐177)](https://github.com/nschloe/deadlink) - Find dead links in files.
 
 ### Utilities / System Interaction Utilities
 
@@ -1178,7 +1184,7 @@
 
 ### Development / Chat
 
-*   [iola (⭐171)](https://github.com/pvarentsov/iola) - Socket client with REST API.
+*   [iola (⭐170)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Development / Testing
 
@@ -1186,7 +1192,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [nb (⭐8.3k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+*   [nb (⭐8.4k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 
 ### Utilities / Math
 
@@ -1231,7 +1237,7 @@
 ### Graphics / Image Conversion
 
 *   [cli-mandelbrot (⭐105)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐249)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [lowcharts (⭐250)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## [Sep 02, 2021](/content/2021/09/02/README.md)
 
@@ -1286,7 +1292,7 @@
 
 ### Development / Devops
 
-*   [PingMe (⭐862)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+*   [PingMe (⭐861)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 
 ### Development / Release
 
@@ -1317,7 +1323,7 @@
 ### Files and Directories / Files
 
 *   [unix-permissions (⭐144)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
-*   [entr (⭐5.6k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+*   [entr (⭐5.7k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 *   [organize-cli (⭐370)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 
 ### Files and Directories / File Sync/Sharing
@@ -1355,7 +1361,7 @@
 
 *   [lstags (⭐339)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐52k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [lazydocker (⭐53k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Professional: Resume
@@ -1489,7 +1495,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [dnote (⭐3k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐3.1k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Utilities / Theming and Customization
 
@@ -1499,7 +1505,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐348)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐349)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [Nov 19, 2019](/content/2019/11/19/README.md)
 
@@ -1530,7 +1536,7 @@
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐6.4k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐6.5k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## [Aug 10, 2019](/content/2019/08/10/README.md)
 
@@ -1569,7 +1575,7 @@
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐9.4k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐9.5k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [Jul 23, 2019](/content/2019/07/23/README.md)
 
@@ -1590,7 +1596,7 @@
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐816)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐817)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [undollar (⭐207)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
@@ -1641,7 +1647,7 @@
 *   [awesome-shell (⭐37k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐66k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+*   [awesome-nodejs clis (⭐67k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 *   [awesome-git-addons (⭐2.2k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 
 ## [May 09, 2019](/content/2019/05/09/README.md)
@@ -1681,7 +1687,7 @@
 ### Entertainment / Movies
 
 *   [moviemon (⭐229)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie (⭐174)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [movie (⭐175)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Entertainment / Chat
 
@@ -1689,7 +1695,7 @@
 
 ### Development / Chat
 
-*   [legit (⭐588)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+*   [legit (⭐590)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 *   [mklicense (⭐207)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
@@ -1726,7 +1732,7 @@
 ### Productivity / Finance
 
 *   [moeda (⭐149)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐265)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cash-cli (⭐266)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐4.4k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
@@ -1939,7 +1945,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐565)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐566)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [Apr 12, 2016](/content/2016/04/12/README.md)
 
@@ -1955,7 +1961,7 @@
 
 ### Files and Directories / Files
 
-*   [file-type-cli (⭐87)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+*   [file-type-cli (⭐88)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
 ## [Jan 11, 2016](/content/2016/01/11/README.md)
 
