@@ -8,6 +8,10 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### Projects / Caching
+
+*   [hishel (⭐406)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
+
 ### Projects / Science
 
 *   Physics and Engineering

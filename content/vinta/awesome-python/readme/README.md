@@ -462,6 +462,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   [cachetools (⭐2.8k)](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
 *   [diskcache (⭐2.9k)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
+*   [hishel (⭐406)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
 *   [dogpile.cache (⭐295)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 *   [django-cacheops (⭐2.3k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 

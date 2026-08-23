@@ -887,20 +887,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-##### Photography
-
-- API: [Pexafy](https://docs.pexafy.com)
-
-  Description: Semantic image search across 9+ free stock photo sources with a unified JSON schema
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ##### Security
 
 - API: [CSR.plus](https://csr.plus/docs/api)
@@ -982,19 +968,38 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [21. Awesome React](/content/enaqx/awesome-react/README.md)
+#### [21. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Pexafy](https://docs.pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
+*   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
+
+##### Testing
+
+*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
+
+##### Cloud management solutions
+
+*   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
+
+##### Monitoring
+
+*   [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
+
+#### [22. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ##### React Routing
 
 *   [speedy-router (⭐147)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 
-#### [22. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [23. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### Misc / Other
 
 *   [enum-plus (⭐202)](https://github.com/shijistar/enum-plus) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
 
-#### [23. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [24. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### C bindings
 
@@ -1008,7 +1013,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ameba-ls (⭐44)](https://github.com/crystal-ameba/ameba-ls) - Language Server for the [Ameba (⭐561)](https://github.com/crystal-ameba/ameba) linter
 
-#### [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### AI / Diagnostics
 
@@ -1034,7 +1039,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
-#### [25. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+#### [26. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ##### Design Tools / Mechanical and Electrical
 
@@ -1056,7 +1061,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
 *   [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
 
-#### [26. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [27. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### Apps / Outline Processor Markup Language
 
@@ -1074,19 +1079,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Podcast App RSS Validator](https://thepodcastapp.dev/tools/rss-validator)
 
-#### [27. Awesome Material](/content/sachin1092/awesome-material/README.md)
+#### [28. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ##### Other
 
 *   [Material Toolkit for LabVIEW (⭐25)](https://github.com/danielcoons/tsc-material-theme) - Material Design for LabVIEW applications; import, modify, and use generated themes.
 
-#### [28. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+#### [29. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ##### Examples
 
 *   [electrikhq/slate (⭐11)](https://github.com/electrikhq/slate#readme) - Project banner, status badges, and a tidy table of contents. Screenshot gallery of the docs site, a short why-this-readme comparison table, quickstart and usage snippets, and clear links out to full documentation.
 
-#### [29. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+#### [30. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ##### Frontend / UI / Scala
 
@@ -1108,7 +1113,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
 
-#### [30. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+#### [31. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
 ##### **Storing Data** / Modular systems
 
@@ -1213,7 +1218,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Awesome Precision Agriculture (⭐141)](https://github.com/px39n/Awesome-Precision-Agriculture)
 *   [Awesome MQTT (⭐2.4k)](https://github.com/awesome-mqtt/awesome-mqtt)
 
-#### [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [32. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Productivity
 
@@ -1360,7 +1365,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   **Monthly** — a cleanup report flags stale records for curator review;
     nothing is removed automatically.
 
-#### [32. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [33. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / AI Gateway
 
@@ -1467,7 +1472,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Apache Fory (⭐4.5k) (⭐4.5k)](https://github.com/apache/fory) - Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.
 *   [YAML (⭐499) (⭐499)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### Python / Speech Recognition
 
@@ -1481,7 +1486,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VoxRT (⭐13)](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
-#### [34. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [35. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### AI Tools / Other Tools
 
@@ -1495,7 +1500,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonbai-studio/tungsten-edge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [35. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [36. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -1530,7 +1535,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [flue (⭐9)](https://github.com/karnstack/flue) - Self-hosted daemon that serves terminal sessions to a browser tab. Sessions keep running after the tab is closed.
 
-#### [36. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+#### [37. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ##### Reconnaissance / OSINT - Open-Source Intelligence
 
@@ -1544,7 +1549,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Proxelar (⭐1k)](https://github.com/emanuele-em/proxelar) - Single-binary intercepting proxy for HTTP, HTTPS, and WebSocket traffic that pauses and edits requests in flight, replays them, rewrites traffic with Lua hooks, and exports captures as HAR, curl, or raw HTTP, available as a terminal UI, web GUI, or headless REST API, by [@emanuele-em](https://github.com/emanuele-em).
 
-#### [37. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [38. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### Dating
 
@@ -1585,13 +1590,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render. `#freemium`
 
-#### [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+#### [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ##### Plugins / Email
 
 *   [CakeSymfonyMailer plugin (⭐0)](https://github.com/josbeir/cakephp-symfony-mailer) - Use Symfony Mailer as a CakePHP mail transport.
 
-#### [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1603,13 +1608,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [goprompt (erniebrodeur) (⭐1)](https://github.com/erniebrodeur/goprompt) - A compact, two-line prompt for ZSH. It includes decorators for the current directory, `git` state, user, optional SSH host, and local time without giving up the full width of the terminal.
 *   [goprompt (NonLogicalDev) (⭐11)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
 
-#### [40. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [41. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Communities / Discord
 
 *   [WebXR JP Discord](https://discord.gg/2d5fmwBEpb) - Japanese-language Discord server for WebXR.
 
-#### [41. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+#### [42. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ##### Tools / Dynamic Analysis Tools
 
@@ -1624,13 +1629,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Android Malware GitHub repo (⭐1.2k)](https://github.com/ashishb/android-malware)
 
-#### [42. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [43. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Datasets / Book Deals (Affiliated)
 
 *   [HDD Price Index (⭐0)](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
 
-#### [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [44. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Entertainment / Music
 
@@ -1649,7 +1654,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Keen Code (⭐57)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
-#### [44. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [45. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Graphics
 
@@ -1658,20 +1663,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Image Processing
 
 *   [Jpegli (⭐392)](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
-
-#### [45. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Audio & Video / Editors
-
-*   [cartesiancs/cartcut (⭐588)](https://github.com/cartesiancs/cartcut) — Video editor with motion effects and layered editing ☆`588`
-
-##### Developer Tools / Developer Utilities
-
-*   [Avazbek22/DevProjex (⭐16)](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`16`
-
-##### Security / System Security
-
-*   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,448`
 
 #### [46. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
@@ -1721,38 +1712,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
 
-#### [50. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Cloud management solutions
-
-*   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
-
-##### APIs, Data, and ML
-
-*   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
-
-##### Monitoring
-
-*   [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
-
-#### [51. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / Test Data Management
-
-*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
-*   [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
-*   [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
-
-##### Software / Browser Extensions & Utilities
-
-*   [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
-
-##### Software / Test Automation Frameworks
-
-*   [Bats (⭐6.2k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-*   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
-
-#### [52. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Blogging Platforms
 
@@ -1782,7 +1742,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐614)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
 
-#### [53. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+#### [51. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ##### Brokers
 
@@ -1796,24 +1756,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ADSBiq](https://adsbiq.com/api/other/mqtt) - Authenticated retained-delta aircraft state over MQTT WebSockets for bounded IoT and location-aware integrations.
 
-#### [54. Awesome Python](/content/vinta/awesome-python/README.md)
-
-##### Projects / Science
-
-*   Physics and Engineering
-    *   [pint (⭐2.8k)](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities with units and dimensional analysis.
-    *   [astropy (⭐5.3k)](https://github.com/astropy/astropy) - A community Python library for Astronomy.
-    *   [obspy (⭐1.3k)](https://github.com/obspy/obspy) - A Python toolbox for seismology.
-
-##### Projects / Documentation
-
-*   [zensical (⭐5.5k)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
-
-##### Projects / Supply Chain Security
-
-*   [uv-audit (⭐89k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
-
-#### [55. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [52. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Productivity
 
@@ -1835,7 +1778,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [openooxml/betteroffice (⭐205)](https://github.com/openooxml/betteroffice) - Native OOXML engines for DOCX, XLSX and PPTX: editing, layout, rendering, CRDT collaboration and agent editing, compiled to WebAssembly.
 
-#### [56. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [53. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / Test Data Management
+
+*   [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
+*   [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
+
+##### Software / Browser Extensions & Utilities
+
+*   [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
+
+##### Software / Test Automation Frameworks
+
+*   [Bats (⭐6.2k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
+
+#### [54. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Company Research / GitHub
 
@@ -1858,6 +1817,41 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Privacy and Encryption Tools / GitHub
 
 *   [MetaClean (⭐5)](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
+
+#### [55. Awesome Python](/content/vinta/awesome-python/README.md)
+
+##### Projects / Caching
+
+*   [hishel (⭐406)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
+
+##### Projects / Science
+
+*   Physics and Engineering
+    *   [pint (⭐2.8k)](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities with units and dimensional analysis.
+    *   [astropy (⭐5.3k)](https://github.com/astropy/astropy) - A community Python library for Astronomy.
+    *   [obspy (⭐1.3k)](https://github.com/obspy/obspy) - A Python toolbox for seismology.
+
+##### Projects / Documentation
+
+*   [zensical (⭐5.5k)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
+
+##### Projects / Supply Chain Security
+
+*   [uv-audit (⭐89k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
+
+#### [56. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Audio & Video / Editors
+
+*   [cartesiancs/cartcut (⭐588)](https://github.com/cartesiancs/cartcut) — Video editor with motion effects and layered editing ☆`588`
+
+##### Developer Tools / Developer Utilities
+
+*   [Avazbek22/DevProjex (⭐16)](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`16`
+
+##### Security / System Security
+
+*   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,452`
 
 ---
 

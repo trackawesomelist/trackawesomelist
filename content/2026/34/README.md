@@ -8,6 +8,10 @@
 
 ## [1. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
+### Projects / Caching
+
+*   [hishel (⭐406)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
+
 ### Projects / Science
 
 *   Physics and Engineering
@@ -59,7 +63,6 @@
 
 ### Software / Test Data Management
 
-*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 *   [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
 *   [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
 
@@ -645,7 +648,7 @@
 
 ### Security / System Security
 
-*   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,448`
+*   [seemoo-lab/openhaystack (⭐13k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`13,452`
 
 ## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -1186,13 +1189,18 @@
 
 ## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
+### APIs, Data, and ML
+
+*   [Pexafy](https://docs.pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
+*   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
+
+### Testing
+
+*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
+
 ### Cloud management solutions
 
 *   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
-
-### APIs, Data, and ML
-
-*   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
 
 ### Monitoring
 
@@ -1493,20 +1501,6 @@
   Description: Cross-brand carbide insert grade equivalents by ISO application class
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-### Photography
-
-- API: [Pexafy](https://docs.pexafy.com)
-
-  Description: Semantic image search across 9+ free stock photo sources with a unified JSON schema
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 

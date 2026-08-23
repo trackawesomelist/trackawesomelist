@@ -56,25 +56,56 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Quake (⭐8)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
 
-#### [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Cloud management solutions
-
-*   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
-
-#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Media Management
 
 *   [Lingarr](https://lingarr.com) - Automatically translate subtitle files in your Radarr and Sonarr media libraries, using LibreTranslate, local AI models, or SaaS translation services. ([Source Code (⭐848)](https://github.com/lingarr-translate/lingarr)) `AGPL-3.0` `Docker`
 
-#### [6. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+#### [5. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ##### Location Tracking / Firmwares for ESP based Devices
 
 *   [ADSBiq](https://adsbiq.com/api/other/mqtt) - Authenticated retained-delta aircraft state over MQTT WebSockets for bounded IoT and location-aware integrations.
 
-#### [7. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Utilities
+
+*   [aravpanwar/decayfmt (⭐80)](https://github.com/aravpanwar/decayfmt) \[[decayfmt](https://crates.io/crates/decayfmt)] - A file format whose files permanently corrupt a little on every open, with no recovery from the file alone. [![CI](https://github.com/aravpanwar/decayfmt/actions/workflows/ci.yml/badge.svg)](https://github.com/aravpanwar/decayfmt/actions/workflows/ci.yml)
+
+#### [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / Test Data Management
+
+*   [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
+*   [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
+
+##### Software / Browser Extensions & Utilities
+
+*   [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
+
+#### [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### News / GitHub
+
+*   [APITube](https://apitube.io) - News API covering 500,000+ sources in 180+ countries and 60+ languages, returning articles as structured JSON with sentiment, entities and topics; free tier of 100 requests/day.
+
+#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Cloud management solutions
+
+*   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
+
+##### APIs, Data, and ML
+
+*   [Pexafy](https://docs.pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
+
+#### [10. Awesome Python](/content/vinta/awesome-python/README.md)
+
+##### Projects / Caching
+
+*   [hishel (⭐406)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
 
 ##### Projects / Science
 
@@ -90,29 +121,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Projects / Supply Chain Security
 
 *   [uv-audit (⭐89k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
-
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Utilities
-
-*   [aravpanwar/decayfmt (⭐80)](https://github.com/aravpanwar/decayfmt) \[[decayfmt](https://crates.io/crates/decayfmt)] - A file format whose files permanently corrupt a little on every open, with no recovery from the file alone. [![CI](https://github.com/aravpanwar/decayfmt/actions/workflows/ci.yml/badge.svg)](https://github.com/aravpanwar/decayfmt/actions/workflows/ci.yml)
-
-#### [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / Test Data Management
-
-*   [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
-*   [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
-
-##### Software / Browser Extensions & Utilities
-
-*   [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
-
-#### [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### News / GitHub
-
-*   [APITube](https://apitube.io) - News API covering 500,000+ sources in 180+ countries and 60+ languages, returning articles as structured JSON with sentiment, entities and topics; free tier of 100 requests/day.
 
 ### [Aug 22, 2026](/content/2026/08/22/README.md)
 
@@ -173,24 +181,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
 
-#### [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / Test Data Management
-
-*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
-
-##### Software / Test Automation Frameworks
-
-*   [Bats (⭐6.2k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-*   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
-
-#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Monitoring
-
-*   [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
-
-#### [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Miscellaneous
 
@@ -199,6 +190,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Software / Time Tracking
 
 *   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐614)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
+
+#### [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / Test Automation Frameworks
+
+*   [Bats (⭐6.2k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
+
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Monitoring
+
+*   [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
 
 ### [Aug 21, 2026](/content/2026/08/21/README.md)
 
@@ -534,13 +538,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SelectTranslate](https://selecttranslate.com/en) - AI translation extension for bilingual webpages, PDFs, video subtitles, images, online meetings, and eBooks, powered by 20+ AI models. `#freemium`
 
-#### [12. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Developer Tools / Developer Utilities
-
-*   [Avazbek22/DevProjex (⭐16)](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`16`
-
-#### [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Blogging Platforms
 
@@ -553,6 +551,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Software / Internet of Things (IoT)
 
 *   [EMQX](https://www.emqx.com/) - Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ([Demo](https://www.emqx.com/en/mqtt/public-mqtt5-broker), [Source Code (⭐17k)](https://github.com/emqx/emqx)) `Apache-2.0` `Docker/Erlang`
+
+#### [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Testing
+
+*   [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
 
 #### [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -567,6 +571,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Data and Statistics / GitHub
 
 *   [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
+
+#### [15. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Developer Tools / Developer Utilities
+
+*   [Avazbek22/DevProjex (⭐16)](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`16`
 
 ---
 
