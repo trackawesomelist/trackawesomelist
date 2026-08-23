@@ -18,6 +18,10 @@
 *   [Domain Hunter (⭐4)](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker and name generator: checks up to 3,000 names across 148 TLD zones by calling registry RDAP endpoints directly from the browser (no servers, no API keys, no tracking), with DNS-over-HTTPS corroboration for low-trust ccTLDs, live registrar prices with 3-year TCO, and CSV/Markdown export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
 *   [ScanMalware](https://scanmalware.com) - Free URL scanner that renders a page in a sandboxed browser and reports phishing and malware verdicts, network requests, technologies, TLS/JARM fingerprints and screenshots, with a public feed of recent scans searchable by domain, IP, ASN or favicon hash.
 
+### News / GitHub
+
+*   [APITube](https://apitube.io) - News API covering 500,000+ sources in 180+ countries and 60+ languages, returning articles as structured JSON with sentiment, entities and topics; free tier of 100 requests/day.
+
 ### Data and Statistics / GitHub
 
 *   [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.

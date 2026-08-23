@@ -2,9 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.7K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.8K · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Aug 23, 2026](/content/2026/08/23/README.md)
+
+### Monitoring
+
+*   [Maple](https://maple.dev/) - OpenTelemetry-native observability for traces, logs, and metrics with dashboards, alerting, and an MCP server. [![Maple](https://img.shields.io/github/stars/MapleTechLabs/maple?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/MapleTechLabs/maple)
 
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
@@ -271,7 +277,7 @@ A curated list of awesome developer-first tools products.
 
 ### Testing
 
-*   [Sherlo](https://sherlo.io) - Visual testing and review tool for React Native Storybook.
+*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native, with a Storybook integration.
 
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 

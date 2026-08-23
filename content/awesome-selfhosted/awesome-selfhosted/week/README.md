@@ -20,6 +20,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [EMQX](https://www.emqx.com/) - Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ([Demo](https://www.emqx.com/en/mqtt/public-mqtt5-broker), [Source Code (⭐17k)](https://github.com/emqx/emqx)) `Apache-2.0` `Docker/Erlang`
 
+### Software / Media Management
+
+*   [Lingarr](https://lingarr.com) - Automatically translate subtitle files in your Radarr and Sonarr media libraries, using LibreTranslate, local AI models, or SaaS translation services. ([Source Code (⭐848)](https://github.com/lingarr-translate/lingarr)) `AGPL-3.0` `Docker`
+
 ### Software / Miscellaneous
 
 *   [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - Digital signage device and content management system with SMIL playlist support and scheduling. ([Source Code (⭐138)](https://github.com/garlic-signage/garlic-hub)) `AGPL-3.0` `Docker`
@@ -733,7 +737,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Anubis](https://anubis.techaro.lol/) - Web AI firewall utility which protects upstream resources from scraper bots. ([Source Code (⭐21k)](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
+*   [Anubis](https://anubis.techaro.lol/) - Web AI firewall utility which protects upstream resources from scraper bots. ([Source Code (⭐22k)](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
 *   [Domain Locker](https://domain-locker.com) - Domain name portfolio management and tracker. ([Demo](https://demo.domain-locker.com), [Source Code (⭐1.5k)](https://github.com/lissy93/domain-locker)) `MIT` `Deno/Docker`
 *   [IT-Tools by sharevb (⭐1.5k)](https://github.com/sharevb/it-tools) - Collection of handy online tools for developers (fork of [it-tools (⭐40k)](https://github.com/CorentinTh/it-tools)). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
 *   [OpenZiti](https://openziti.io/) - Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐4.3k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
@@ -1591,7 +1595,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Management
 
-*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐494)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐501)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 
 ### Software / Miscellaneous
 

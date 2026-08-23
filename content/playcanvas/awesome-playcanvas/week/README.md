@@ -8,6 +8,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### Games / Browser Games
+
+*   [Quake (⭐8)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
+
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.

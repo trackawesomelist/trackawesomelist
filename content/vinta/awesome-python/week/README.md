@@ -6,6 +6,23 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 [ [Daily](/content/vinta/awesome-python/README.md) / Weekly / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### Projects / Science
+
+*   Physics and Engineering
+    *   [pint (⭐2.8k)](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities with units and dimensional analysis.
+    *   [astropy (⭐5.3k)](https://github.com/astropy/astropy) - A community Python library for Astronomy.
+    *   [obspy (⭐1.3k)](https://github.com/obspy/obspy) - A Python toolbox for seismology.
+
+### Projects / Documentation
+
+*   [zensical (⭐5.5k)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
+
+### Projects / Supply Chain Security
+
+*   [uv-audit (⭐89k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Projects / AI and Agents
@@ -16,10 +33,10 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [crewai (⭐57k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
     *   [pydantic-ai (⭐19k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
 *   Vendor Agent SDKs
-    *   [openai-agents (⭐28k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
+    *   [openai-agents (⭐29k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
     *   [claude-agent-sdk (⭐7.9k)](https://github.com/anthropics/claude-agent-sdk-python) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
 *   Personal Assistants
-    *   [hermes-agent (⭐225k)](https://github.com/nousresearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
+    *   [hermes-agent (⭐234k)](https://github.com/nousresearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
 *   Prompt Optimization
     *   [dspy (⭐37k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
 *   Data Layer
@@ -27,19 +44,19 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [llama-index (⭐52k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
     *   [mem0 (⭐63k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
 *   Pre-trained Models
-    *   [transformers (⭐163k)](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
+    *   [transformers (⭐164k)](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
 *   LLM Inference and Serving
     *   [sglang (⭐32k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [vllm (⭐89k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
-    *   [mlx-lm (⭐6.5k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
+    *   [mlx-lm (⭐6.7k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
 *   LLM Gateways
     *   [LiteLLM (⭐56k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
 *   Fine-tuning
     *   [unsloth (⭐72k)](https://github.com/unslothai/unsloth) - A library for faster LLM fine-tuning and training with reduced memory usage.
 *   Speech
-    *   [openai-whisper (⭐107k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
+    *   [openai-whisper (⭐108k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
     *   [funasr (⭐20k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.
-    *   [vibevoice (⭐52k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
+    *   [vibevoice (⭐53k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
     *   [gTTS (⭐2.6k)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
     *   [kittentts (⭐15k)](https://github.com/KittenML/KittenTTS) - Lightweight ONNX text-to-speech library with small CPU-friendly models.
 
@@ -93,9 +110,9 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [django-rest-framework (⭐30k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
     *   [django-ninja (⭐9.2k)](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
     *   [strawberry-django (⭐501)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
-    *   [django-modern-rest (⭐1.3k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
+    *   [django-modern-rest (⭐1.4k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 *   Framework Agnostic
-    *   [fastapi (⭐101k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
+    *   [fastapi (⭐102k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
     *   [connexion (⭐4.6k)](https://github.com/spec-first/connexion) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
     *   [strawberry (⭐4.7k)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
 
@@ -122,14 +139,13 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   URL Manipulation
     *   [yarl (⭐1.5k)](https://github.com/aio-libs/yarl) - Yet another URL library.
-    *   [httpx.URL](https://www.python-httpx.org/api/) - The immutable URL class bundled with HTTPX.
 
 ### Projects / ORM
 
 *   Relational Databases
     *   [sqlalchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
         *   [awesome-sqlalchemy (⭐3k)](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [django.db.models (⭐88k)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
+    *   [django.db.models (⭐88k)](https://github.com/django/django) - (part of Django) The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
     *   [peewee (⭐12k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
     *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 *   NoSQL Databases
@@ -148,7 +164,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [mssql-python (⭐461)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
 *   NoSQL Databases
     *   [redis (⭐14k)](https://github.com/redis/redis-py) - The Python client for Redis.
-    *   [pymongo (⭐4.3k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
+    *   [pymongo (⭐4.4k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
     *   [cassandra-driver (⭐1.4k)](https://github.com/apache/cassandra-python-driver) - The Python Driver for Apache Cassandra.
     *   [django-mongodb-backend (⭐227)](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
 
@@ -170,13 +186,13 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   General
     *   [awswrangler (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
-    *   [dlt (⭐5.7k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
-    *   [pathway (⭐63k)](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+    *   [dlt (⭐5.8k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
+    *   [pathway (⭐62k)](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 *   Financial Data
     *   [yfinance (⭐25k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐22k)](https://github.com/akfamily/akshare) - A financial data interface library, built for human beings!
     *   [edgartools (⭐2.6k)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
-    *   [openbb (⭐71k)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
+    *   [openbb (⭐72k)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 
 ### Projects / Data Visualization
 
@@ -187,7 +203,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [altair (⭐10k)](https://github.com/vega/altair) - Declarative statistical visualization library for Python.
     *   [bokeh (⭐20k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   Dashboards and Apps
-    *   [streamlit (⭐45k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+    *   [streamlit (⭐46k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
     *   [gradio (⭐43k)](https://github.com/gradio-app/gradio) - Build and share machine learning apps, all in Python.
 
 ### Projects / Science
@@ -225,6 +241,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Design Patterns
     *   [transitions (⭐6.6k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
     *   [python-patterns (⭐43k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
+    *   [python-statemachine (⭐1.3k)](https://github.com/fgmacedo/python-statemachine) - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
 
 ### Projects / Interactive Interpreter
 
@@ -236,8 +253,9 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [vulture (⭐4.8k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
     *   [prospector (⭐2.1k)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
     *   [repowise (⭐5.9k)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
+    *   [complexipy (⭐795)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
 *   Git Hooks
-    *   [pre-commit (⭐15k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+    *   [pre-commit (⭐16k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 *   Linters and Formatters
     *   [ruff (⭐49k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
     *   [black (⭐42k)](https://github.com/psf/black) - The uncompromising Python code formatter.
@@ -256,10 +274,11 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [robotframework (⭐12k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
 *   Test Runners
     *   [tox (⭐3.9k)](https://github.com/tox-dev/tox) - Auto builds and tests distributions in multiple Python versions
-    *   [nox (⭐1.5k)](https://github.com/wntrblm/nox) - Flexible test automation for Python.
+    *   [nox (⭐1.6k)](https://github.com/wntrblm/nox) - Flexible test automation for Python.
 *   Browser Automation
     *   [playwright-python (⭐15k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
     *   [selenium (⭐34k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
+    *   [seleniumbase (⭐13k)](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation & testing, with stealth options.
 *   API Testing
     *   [schemathesis (⭐3.5k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
 *   Mock
@@ -294,7 +313,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Distributed Computing
 
-*   [ray (⭐43k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+*   [ray (⭐44k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   [pyspark (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
 *   [joblib (⭐4.4k)](https://github.com/joblib/joblib) - A set of tools to provide lightweight pipelining in Python.
 *   [mpi4py (⭐920)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
@@ -380,7 +399,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [unidecode (⭐611)](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
 *   Unique identifiers
     *   [shortuuid (⭐2.2k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-    *   [sqids (⭐516)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
+    *   [sqids (⭐517)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
 
 ### Projects / HTML Manipulation
 
@@ -445,7 +464,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Build Backends
     *   [setuptools (⭐2.9k)](https://github.com/pypa/setuptools) - The historical and still most widely used pyproject build backend.
     *   [hatchling (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible build backend from the hatch project.
-    *   [uv-build (⭐88k)](https://github.com/astral-sh/uv) - uv's fast, minimal build backend for pure-Python projects.
+    *   [uv-build (⭐89k)](https://github.com/astral-sh/uv) - uv's fast, minimal build backend for pure-Python projects.
 
 ### Projects / Configuration Files
 
@@ -454,13 +473,12 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Penetration Testing
 
-*   [sherlock-project (⭐88k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [sherlock-project (⭐90k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 *   [social-engineer-toolkit (⭐15k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
 
 ### Projects / Supply Chain Security
 
 *   [pip-audit (⭐1.3k)](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities, using the PyPI Advisory Database and OSV.
-*   [uv audit](https://docs.astral.sh/uv/reference/cli/#uv-audit) - uv's built-in dependency vulnerability and malware scanning backed by OSV.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
@@ -472,7 +490,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Hardware
 
-*   [jumpstarter (⭐205)](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
+*   [jumpstarter (⭐211)](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -536,8 +554,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Agent Skills
     *   [django-ai-plugins (⭐122)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
-    *   [sentry-skills (⭐897)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
-    *   [trailofbits-skills (⭐6.4k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
+    *   [sentry-skills (⭐940)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+    *   [trailofbits-skills (⭐6.8k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
 
 ### Projects / Implementations
 
@@ -615,16 +633,13 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Geolocation
 
-*   [geodjango (⭐88k)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
+*   [geodjango (⭐88k)](https://github.com/django/django) - (part of Django) A world-class [geographic web framework](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 
 ### Projects / Science
 
 *   Biology and Chemistry
     *   [biopython (⭐5.2k)](https://github.com/biopython/biopython) - Biopython is a set of freely available tools for biological computation.
     *   [rdkit (⭐3.5k)](https://github.com/rdkit/rdkit) - Cheminformatics and Machine Learning Software.
-*   Physics and Engineering
-    *   [astropy (⭐5.3k)](https://github.com/astropy/astropy) - A community Python library for Astronomy.
-    *   [obspy (⭐1.3k)](https://github.com/obspy/obspy) - A Python toolbox for seismology.
 
 ### Projects / Quantum Computing
 
@@ -734,7 +749,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Package Managers
     *   [pip (⭐10k)](https://github.com/pypa/pip) - The package installer for Python.
-    *   [uv (⭐88k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
+    *   [uv (⭐89k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
     *   [poetry (⭐34k)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
     *   [hatch (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
     *   [pipx (⭐13k)](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
@@ -826,7 +841,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Environment Management
 
-*   [uv (⭐88k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
+*   [uv (⭐89k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -843,7 +858,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Content Extraction
     *   [feedparser (⭐2.4k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
     *   [html2text (⭐2.2k)](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-    *   [trafilatura (⭐6.4k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
+    *   [trafilatura (⭐6.7k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
 ### Projects / Caching
 
@@ -967,11 +982,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [mypy (⭐21k)](https://github.com/python/mypy) - Check variable types during compile time.
     *   [ty (⭐19k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
     *   [pyright (⭐16k)](https://github.com/microsoft/pyright) - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
-    *   [pyrefly (⭐6.8k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
-
-### Projects / Documentation
-
-*   [mkdocs (⭐22k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+    *   [pyrefly (⭐6.9k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 
 ### Projects / DevOps Tools
 
@@ -1036,6 +1047,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [httpx (⭐15k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
     *   [aiohttp (⭐17k)](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
     *   [urllib3 (⭐4.1k)](https://github.com/urllib3/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+    *   [httpx2 (⭐973)](https://github.com/pydantic/httpx2) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx (⭐15k)](https://github.com/encode/httpx) fork).
 
 ### Projects / Logging
 

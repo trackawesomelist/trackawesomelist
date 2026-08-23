@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Aug 23, 2026](/content/2026/08/23/README.md)
+
+### News / GitHub
+
+*   [APITube](https://apitube.io) - News API covering 500,000+ sources in 180+ countries and 60+ languages, returning articles as structured JSON with sentiment, entities and topics; free tier of 100 requests/day.
+
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
 ### Company Research / GitHub

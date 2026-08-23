@@ -1273,6 +1273,7 @@ Thanks to our main contributors
 *   [Agence France-Presse (AFP)](https://www.afp.com)
 *   [AllYouCanRead](https://www.allyoucanread.com)
 *   [AP](https://hosted.ap.org)
+*   [APITube](https://apitube.io) - News API covering 500,000+ sources in 180+ countries and 60+ languages, returning articles as structured JSON with sentiment, entities and topics; free tier of 100 requests/day.
 *   [BBC News](https://www.bbc.co.uk/news)
 *   [Bing News](https://www.bing.com/news)
 *   [CNN](https://edition.cnn.com)

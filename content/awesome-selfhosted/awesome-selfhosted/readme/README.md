@@ -1261,6 +1261,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [Lidarr](https://lidarr.audio/) - Music collection manager for Usenet and BitTorrent users. ([Source Code (⭐5.6k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 *   [LidaTube (⭐353)](https://github.com/TheWicklowWolf/LidaTube) `⚠` - Finding and fetch missing Lidarr albums via yt-dlp. `GPL-3.0` `Docker`
 *   [Lidify (⭐593)](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
+*   [Lingarr](https://lingarr.com) - Automatically translate subtitle files in your Radarr and Sonarr media libraries, using LibreTranslate, local AI models, or SaaS translation services. ([Source Code (⭐848)](https://github.com/lingarr-translate/lingarr)) `AGPL-3.0` `Docker`
 *   [Medusa (⭐2k)](https://github.com/pymedusa/Medusa) - Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients (⭐2.8k)](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
 *   [MeTube (⭐14k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 *   [MKVPriority (⭐72)](https://github.com/kennethsible/mkvpriority) - Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. `MIT` `Python/Docker`
@@ -1268,7 +1269,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [nefarious](https://lardbit.github.io/nefarious/) - Automate downloading Movies and TV Shows. ([Source Code (⭐1.3k)](https://github.com/lardbit/nefarious)) `GPL-3.0` `Python`
 *   [Ombi](https://ombi.io/) - Content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐4.1k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
 *   [Pinchflat (⭐5.3k)](https://github.com/kieraneglin/pinchflat) `⚠` - Download YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
-*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐494)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐501)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 *   [Radarr](https://radarr.video/) - Automatically download movies via Usenet and BitTorrent (fork of Sonarr). ([Source Code (⭐14k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
 *   [Reaparr](https://www.reaparr.rocks/) `⚠` - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐682)](https://github.com/Reaparr/Reaparr)) `GPL-3.0` `Docker`
 *   [Seerr (⭐12k)](https://github.com/seerr-team/seerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
@@ -1386,7 +1387,7 @@ Software that does not fit in another section.
 
 *   [2FAuth (⭐4.1k)](https://github.com/Bubka/2FAuth) - Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 *   [Anchr](https://anchr.io) - Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code (⭐391)](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
-*   [Anubis](https://anubis.techaro.lol/) - Web AI firewall utility which protects upstream resources from scraper bots. ([Source Code (⭐21k)](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
+*   [Anubis](https://anubis.techaro.lol/) - Web AI firewall utility which protects upstream resources from scraper bots. ([Source Code (⭐22k)](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
 *   [asciinema](https://asciinema.org/) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/explore), [Source Code (⭐2.5k)](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
 *   [Baby Buddy (⭐2.9k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo (⭐2.9k)](https://github.com/babybuddy/babybuddy#-demo)) `BSD-2-Clause` `Python`
 *   [ClipCascade (⭐1.9k)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
@@ -2116,6 +2117,8 @@ Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.
 A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
 **Please visit [awesome-sysadmin/VPN (⭐35k)](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
+
+*See also: [Awesome-Tunneling (⭐22k)](https://github.com/anderspitman/awesome-tunneling)*
 
 ### Web Servers
 

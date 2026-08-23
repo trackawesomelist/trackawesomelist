@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
+### Cloud management solutions
+
+*   [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
+
 ### APIs, Data, and ML
 
 *   [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
@@ -111,7 +115,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Tools for Teams and Collaboration
 
-*   [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (\~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, a built-in AI chatbot (10 replies/mo), 30-day history, Gmail threading, canned responses and push notifications.
+*   [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (\~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, a built-in AI chatbot (25 replies/mo), 30-day history, Gmail threading, canned responses and push notifications. No credit card required.
 
 ### CI and CD
 

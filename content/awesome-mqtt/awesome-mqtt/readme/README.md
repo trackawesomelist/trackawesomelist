@@ -93,7 +93,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 
 *   [HiveMQ](https://www.hivemq.com/) - Java MQTT Broker that supports MQTT 3.1, 3.1.1 and 5.0. Commercial and open source editions available.
 *   [hrotti (⭐125)](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
-*   [Keel MQTT Gateway (⭐1)](https://github.com/keel-iot/keel-mqtt-gateway) - Distributed, cloud-native MQTT broker in Go built on mochi-mqtt, using Raft for strongly-consistent session ownership and ACL, with a gossip-backed routing table (Olric).
+*   [Keel MQTT Gateway (⭐5)](https://github.com/keel-iot/keel-mqtt-gateway) - Distributed, cloud-native MQTT broker in Go built on mochi-mqtt, using Raft for strongly-consistent session ownership and ACL, with a gossip-backed routing table (Olric).
 *   [KMQTT (⭐295)](https://github.com/davidepianca98/KMQTT) - Kotlin Multiplatform MQTT broker, both embeddable and standalone.
 *   [Moquette (⭐2.5k)](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker.
 *   [Mosca](https://www.mosca.io/) - Node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
@@ -142,7 +142,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 *   [mainflux](https://www.mainflux.com/) - Device management, data aggregation, data management, data analytics,connectivity and message routing and event management. Supported by Linux Software Foundation.
 *   [thingsboard](https://thingsboard.io/) - Device management, data collection, processing, event management, and visualization for your IoT projects.
 *   [ForestHub](https://foresthub.ai) - Edge AI agent platform; its open-source runtime [edge-agents (⭐97)](https://github.com/ForestHubAI/edge-agents) orchestrates AI agents on Linux edge gateways with MQTT as a first-class workflow transport, running offline with local SLMs alongside cloud LLMs.
-*   [IoT DC3 (⭐660)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
+*   [IoT DC3 (⭐963)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
 
 ## Tools
 
@@ -332,7 +332,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 #### ESP
 
 *   [pubsubclient (⭐4k)](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
-*   [ESP32-BLE2MQTT (⭐773)](https://github.com/shmuelzon/esp32-ble2mqtt) - BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication.
+*   [ESP32-BLE2MQTT (⭐775)](https://github.com/shmuelzon/esp32-ble2mqtt) - BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication.
 *   [ESP8266MQTTMesh (⭐265)](https://github.com/PhracturedBlue/ESP8266MQTTMesh) - MQTT over mesh WiFi integrated library for ESP8266.
 *   [esp\_mqtt (⭐1.2k)](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266.
 *   [mqtt-ir-transceiver (⭐143)](https://github.com/piotrC4/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.
@@ -394,6 +394,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Location Tracking
 
+*   [ADSBiq](https://adsbiq.com/api/other/mqtt) - Authenticated retained-delta aircraft state over MQTT WebSockets for bounded IoT and location-aware integrations.
 *   [OwnTracks](https://owntracks.org/) - Location tracking and geofencing for MQTT.
 
 ### Logging
@@ -449,7 +450,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 *   [node-lox-mqtt-gateway (⭐27)](https://github.com/alladdin/node-lox-mqtt-gateway) - Gateway for Loxone™ mini server to communicate with MQTT broker.
 *   [smartthings-mqtt-bridge (⭐379)](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
 *   [xiaomi2mqtt (⭐27)](https://github.com/svrooij/node-xiaomi2mqtt) - Bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server.
-*   [zigbee2mqtt (⭐15k)](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
+*   [zigbee2mqtt (⭐16k)](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
 *   [zwavejs2mqtt (⭐1.2k)](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI.
 
 ### Smart Home Integration Software

@@ -162,6 +162,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 *   [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
+*   [Quake (⭐8)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
 *   [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 *   [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 *   [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.

@@ -2,9 +2,35 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 703 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 714 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
+
+### iOS
+
+*   [*Swift Recipes for iOS Developers* by Alexander Nekrasov](https://link.springer.com/book/10.1007/978-1-4842-8098-0)
+
+### Objective-C
+
+*   [*Effective Objective-C 2.0* by Matt Galloway](https://www.informit.com/store/effective-objective-c-2.0-52-specific-ways-to-improve-9780133386936)
+
+### Swift
+
+*   [*Swift: The Practical Guide* by Kerem Koseoglu](https://www.sap-press.com/swift_6111/)
+
+### UI
+
+*   [*iOS Core Animation: Advanced Techniques* by Nick Lockwood](https://www.informit.com/store/ios-core-animation-advanced-techniques-9780133440751)
+
+### Machine Learning
+
+*   [*Develop Intelligent iOS Apps with Swift* by Özgür Sahin](https://link.springer.com/book/10.1007/978-1-4842-6421-8)
+
+### Server Side Swift
+
+*   [*Serverless Swift* by Marek Sadowski, Lennart Frantzell](https://link.springer.com/book/10.1007/978-1-4842-5836-1)
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 

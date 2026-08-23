@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.7K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.8K · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -430,6 +430,7 @@ For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome
 *   [Laminar](https://www.lmnr.ai/) - Open-source platform for tracing, evaluating, and labeling LLM products. [![lmnr](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/lmnr-ai/lmnr) [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 *   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
+*   [Maple](https://maple.dev/) - OpenTelemetry-native observability for traces, logs, and metrics with dashboards, alerting, and an MCP server. [![Maple](https://img.shields.io/github/stars/MapleTechLabs/maple?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/MapleTechLabs/maple)
 *   [Maxim AI](https://www.getmaxim.ai) - End-to-end evaluation and observability platform, helping teams ship their AI agents reliably and 5x faster.
 *   [Middleware](https://middleware.io/) - Full-stack observability platform with APM, distributed tracing, logs and infra metrics in one place.
 *   [Oh Dear](https://ohdear.app) - Uptime, performance, SSL certificate, broken link, and DNS monitoring.
@@ -547,7 +548,7 @@ For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome
 *   [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 *   [Octomind](https://www.octomind.dev/) -  Auto-generated, run, and maintained Playwright UI tests with AI-assisted test case discovery.
 *   [Percy](https://percy.io/) - Continuous visual testing.
-*   [Sherlo](https://sherlo.io) - Visual testing and review tool for React Native Storybook.
+*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native, with a Storybook integration.
 *   [Synth](https://usesynth.ai) - Automated AI agent optimization. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 *   [Testim](https://www.testim.io/) - Frontend testing.
 
@@ -555,5 +556,5 @@ For the latest additions [click here (⭐1.7k)](https://github.com/agamm/awesome
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐1.7k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐1.8k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

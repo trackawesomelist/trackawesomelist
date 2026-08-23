@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Aug 23, 2026](/content/2026/08/23/README.md)
+
+### Games / Browser Games
+
+*   [Quake (⭐8)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
+
 ## [Aug 22, 2026](/content/2026/08/22/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
