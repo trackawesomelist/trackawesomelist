@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Applications
+
+*   [openma-ai/Martty (⭐57)](https://github.com/openma-ai/Martty) - A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents. [![CI](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml/badge.svg?branch=main)](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml)
+
+### Libraries / Simulation
+
+*   [rsasaki0109/rust\_robotics (⭐253)](https://github.com/rsasaki0109/rust_robotics) \[[rust\_robotics](https://crates.io/crates/rust_robotics)] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no\_std support and ROS 2 examples [![CI](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml)
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Applications / Productivity

@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 24, 2026](/content/2026/08/24/README.md)
+
+### APIs, Data, and ML
+
+*   [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
+*   [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
+
+### Security and PKI
+
+*   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
+
 ## [Aug 23, 2026](/content/2026/08/23/README.md)
 
 ### Cloud management solutions
@@ -67,7 +78,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Web Hosting
 
 *   [Harvis.dev](https://harvis.dev) - Static site hosting via CLI (`npx harvis`) with no config files or build step. Includes free subdomain, free form submissions collections, GitHub Actions integration, CloudFlare CDN, free SSL.
-*   *   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
+*   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
 
 ## [Aug 12, 2026](/content/2026/08/12/README.md)
 

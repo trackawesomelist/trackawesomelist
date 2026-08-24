@@ -175,6 +175,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [mirrord (⭐5.3k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
 *   [mmalmi/nostr-vpn (⭐1.1k)](https://github.com/mmalmi/nostr-vpn) \[[nvpn](https://crates.io/crates/nvpn)] - Tailscale-style private mesh VPN built on Nostr identities and a FIPS-backed data plane. Features native cross-platform apps (macOS, Linux, Windows, Mobile) and a CLI/daemon.
 *   [nicohman/eidolon (⭐130)](https://github.com/nicohman/eidolon) - A steam and drm-free game registry and launcher for linux and macosx
+*   [openma-ai/Martty (⭐57)](https://github.com/openma-ai/Martty) - A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents. [![CI](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml/badge.svg?branch=main)](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml)
 *   [OxideTerm (⭐1.3k)](https://github.com/AnalyseDeCircuit/oxideterm) - A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages. [![CI](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml/badge.svg)](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml)
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
 *   [provrb/OBDium (⭐321)](https://github.com/provrb/obdium) - A cross-platform Tauri-based application for everything vehicle diagnostics. Connect your vehicle over an ELM327 adapter and read trouble codes, live OBD-II data, I/M readiness tests, and more!
@@ -2228,6 +2229,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 \[[simulation](https://crates.io/keywords/simulation)]
 
 *   [nyx-space](https://crates.io/crates/nyx-space) - High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination [![Build Status](https://gitlab.com/nyx-space/nyx/badges/master/pipeline.svg)](https://gitlab.com/nyx-space/nyx/-/pipelines)
+*   [rsasaki0109/rust\_robotics (⭐253)](https://github.com/rsasaki0109/rust_robotics) \[[rust\_robotics](https://crates.io/crates/rust_robotics)] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no\_std support and ROS 2 examples [![CI](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml)
 
 ### Social networks
 

@@ -314,6 +314,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
 *   [KillBait API](https://killbait.com/api/doc) - KillBait API allows users to submit URLs for content evaluation, detecting potential clickbait and categorizing articles. The API is designed for moderate publishing frequency, with limits of 1 submission per hour and 10 per day. Media partners can request higher limits.
 *   [Kreya](https://kreya.app) - Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
+*   [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
 *   [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
 *   [Market Data API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.
 *   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
@@ -339,6 +340,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [PrefectCloud](https://www.prefect.io/cloud/) - A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.
 *   [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
 *   [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
+*   [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
 *   [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
 *   [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
 *   [RequestBin.com](https://requestbin.com) - Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
@@ -645,6 +647,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
 *   [TestTLS.com](https://testtls.com) - Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.
 *   [Virgil Security](https://virgilsecurity.com/) - Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
+*   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1147,7 +1150,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
 *   [Harvis.dev](https://harvis.dev) - Static site hosting via CLI (`npx harvis`) with no config files or build step. Includes free subdomain, free form submissions collections, GitHub Actions integration, CloudFlare CDN, free SSL.
 *   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) - Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
-*   *   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
+*   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
 *   [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
 *   [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
 *   [Neocities](https://neocities.org) - Static, 1 GB free storage with 200 GB Bandwidth.

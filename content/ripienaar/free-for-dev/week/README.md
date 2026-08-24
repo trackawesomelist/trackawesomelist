@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### APIs, Data, and ML
+
+*   [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
+*   [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
+
+### Security and PKI
+
+*   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Cloud management solutions
@@ -52,7 +63,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Web Hosting
 
 *   [Harvis.dev](https://harvis.dev) - Static site hosting via CLI (`npx harvis`) with no config files or build step. Includes free subdomain, free form submissions collections, GitHub Actions integration, CloudFlare CDN, free SSL.
-*   *   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
+*   [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
 *   [ShipStatic](https://shipstatic.com) - Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.
 *   [Stormkit](https://www.stormkit.io) - Self-hostable Vercel alternative for building, hosting, and deploying modern frontend and JavaScript applications. Free plan includes 1 app, 50 GB bandwidth, unlimited custom domains, and free SSL.
 

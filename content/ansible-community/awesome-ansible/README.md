@@ -6,23 +6,33 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Aug 24, 2026](/content/2026/08/24/README.md)
+
+### Tutorials
+
+*   [Ansible Tutorial by Compute Central](https://computecentral.in/ansible/) - A practical, example-driven Ansible guide covering fundamentals, playbooks, roles, collections, custom module and collection development, production practices, troubleshooting, and interview preparation.
+
+### Tools
+
+*   [ansible-static-lint (⭐15)](https://github.com/arhuman/ansible-static-lint) - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
+
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
 ### Tools
 
-*   [ansible-security-scanner (⭐2)](https://github.com/cpeoples/ansible-security-scanner) - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
+*   [ansible-security-scanner (⭐10)](https://github.com/cpeoples/ansible-security-scanner) - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Tools
 
-*   [Ansible DocSmith (⭐20)](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
+*   [Ansible DocSmith (⭐22)](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Linuxfabrik LFOps (⭐82)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
+*   [Linuxfabrik LFOps (⭐87)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
@@ -65,18 +75,18 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Inventory Grapher (⭐471)](https://github.com/willthames/ansible-inventory-grapher) - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
+*   [Ansible Inventory Grapher (⭐470)](https://github.com/willthames/ansible-inventory-grapher) - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
 
 ### Editor and IDE Integrations / French
 
 *   [Vim](https://www.vim.org/) - An open-source, free command-line text editor. Useful Vim plugins include:
-    *   [Ansible vim (⭐820)](https://github.com/pearofducks/ansible-vim) - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
+    *   [Ansible vim (⭐822)](https://github.com/pearofducks/ansible-vim) - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
     *   [Ansible vim and neovim plugin](https://www.npmjs.com/package/@yaegassy/coc-ansible) - A vim plugin (lsp client) for Ansible, it supports autocompletion, syntax highlighting, hover, diagnostics, and goto support.
 *   [Emacs](https://www.gnu.org/software/emacs/) - A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):
     *   [lsp-mode](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Ansible Language Server Protocol support for Emacs: provides syntax highlighting, auto-completion and diagnostics.
-    *   [yaml-mode (⭐513)](https://github.com/yoshiki/yaml-mode) - YAML highlighting and syntax checking.
+    *   [yaml-mode (⭐523)](https://github.com/yoshiki/yaml-mode) - YAML highlighting and syntax checking.
     *   [jinja2-mode (⭐73)](https://github.com/paradoxxxzero/jinja2-mode) - Jinja2 highlighting and syntax checking.
-    *   [magit-mode (⭐7.1k)](https://github.com/magit/magit) - Git porcelain within Emacs.
+    *   [magit-mode (⭐7.2k)](https://github.com/magit/magit) - Git porcelain within Emacs.
     *   [flymake-ansible-lint (⭐11)](https://github.com/jamescherti/flymake-ansible-lint.el) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
 *   [PyCharm](https://www.jetbrains.com/pycharm/) - A full IDE for Python software development. Useful plugins include:
     *   [Ansible Lint](https://plugins.jetbrains.com/plugin/20905-ansible-lint) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
@@ -86,7 +96,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansibledb (⭐23)](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
+*   [ansibledb (⭐26)](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
 
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
@@ -107,7 +117,7 @@ Awesome Ansible List
 
 ### Tutorials
 
-*   [Ansible For DevOps (⭐9.8k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+*   [Ansible For DevOps (⭐9.9k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 
 ### Tools
 
@@ -190,14 +200,14 @@ Awesome Ansible List
 ### Tools
 
 *   [php-ansible Library (⭐215)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐220)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐750)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [TD4A (⭐221)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐758)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐160)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐163)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -215,7 +225,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [kics (⭐2.6k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+*   [kics (⭐2.7k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
@@ -253,7 +263,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-navigator (⭐533)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐545)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [Apr 03, 2021](/content/2021/04/03/README.md)
 
@@ -296,7 +306,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [terraform.py (⭐454)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terraform.py (⭐453)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
 ## [Sep 27, 2020](/content/2020/09/27/README.md)
 
@@ -339,13 +349,13 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Excel Ansible Inventory (⭐102)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
+*   [Excel Ansible Inventory (⭐103)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
 ## [Aug 20, 2020](/content/2020/08/20/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐111)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐112)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [Nov 26, 2019](/content/2019/11/26/README.md)
 
@@ -388,8 +398,8 @@ Awesome Ansible List
 
 ### Tools
 
-*   [AWX (⭐15k)](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
-*   [Ansible cmdb (⭐2.4k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [AWX (⭐16k)](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
+*   [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
