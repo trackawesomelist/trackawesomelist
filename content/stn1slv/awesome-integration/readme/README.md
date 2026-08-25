@@ -76,7 +76,7 @@ System integration is the process of linking together different IT systems (com
 *   [Envoy AI Gateway (⭐1.9k) (⭐1.9k)](https://github.com/envoyproxy/ai-gateway) - An open-source gateway built on Envoy Proxy to manage request traffic from application clients to GenAI services with unified API access and usage limits.
 *   [IBM ContextForge (⭐4.3k) (⭐4.3k)](https://github.com/IBM/mcp-context-forge) - An AI gateway, registry, and proxy that federates MCP, A2A, and REST services behind a single endpoint with governance and observability.
 *   [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) - Multi-LLM AI gateway built on Kong Gateway, offering semantic caching, prompt security, and AI observability through dedicated plugins.
-*   [LiteLLM (⭐56k) (⭐56k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
+*   [LiteLLM (⭐56k) (⭐57k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
 *   [MCPJungle (⭐1.2k) (⭐1.2k)](https://github.com/mcpjungle/MCPJungle) - A self-hosted MCP gateway and registry that centralises multiple MCP servers behind one endpoint for AI agents.
 *   [Obot (⭐953) (⭐953)](https://github.com/obot-platform/obot) - An open-source MCP platform that combines server hosting, a registry, a gateway, and a chat client with access control and audit logging.
 *   [Portkey AI Gateway (⭐12k) (⭐13k)](https://github.com/Portkey-AI/gateway) - A fast AI gateway that routes to 250+ LLMs with guardrails, caching, retries, and load balancing via a single API.
@@ -247,7 +247,7 @@ System integration is the process of linking together different IT systems (com
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
     *   [REST Assured (⭐7.1k) (⭐7.1k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
     *   [RESTler (⭐2.9k) (⭐2.9k)](https://github.com/microsoft/restler-fuzzer) - A stateful REST API fuzzing tool that automatically discovers security and reliability bugs by intelligently inferring producer-consumer dependencies from OpenAPI specifications.
-    *   [Schemathesis (⭐3.5k) (⭐3.5k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
+    *   [Schemathesis (⭐3.5k) (⭐3.6k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
     *   [Taurus (⭐2.1k) (⭐2.1k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 <!--lint disable-->
@@ -427,7 +427,6 @@ System integration is the process of linking together different IT systems (com
 *   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - Next-generation platform leveraging AI to streamline integration, increase scalability, and speed up deployment.
 *   [IBM webMethods](https://www.ibm.com/products/webmethods) - All-in-one integration platform that unifies applications, simplifies processes, and boosts overall efficiency.
 *   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - Suite of cloud data management tools that accelerates productivity and simplifies application and data integration.
-*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - Enterprise data management solution that transforms basic integration into actionable insights and smarter decision-making.
 *   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Robust platform with prebuilt connectivity for both SaaS and on-premises apps, streamlining integration processes.
 *   [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - Cloud-native solution offering prebuilt adapters, API management, and event brokering for end-to-end connectivity.
 *   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - AI-driven platform that connects applications and data rapidly, ensuring efficient and scalable integrations.
@@ -1027,7 +1026,7 @@ System integration is the process of linking together different IT systems (com
     the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST.
 *   [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
 *   [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson.
-*   [Web API Design: Crafting interfaces that developers love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Creating Web APIs that are consistent, intuitive, and user-friendly for developers.
+*   [Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf) - Creating Web APIs that are consistent, intuitive, and user-friendly for developers.
 
 <!--lint disable-->
 
@@ -1155,7 +1154,7 @@ System integration is the process of linking together different IT systems (com
 <summary>SnapLogic</summary>
 
 *   [SnapLogic Administrator Certification](https://learn.snaplogic.com/snaplogic-administrator-certification) - Assesses your ability to handle administrative tasks for SnapLogic instances.
-*   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
+*   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification-1) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
 *   [SnapLogic Developer Certification](https://learn.snaplogic.com/snaplogic-developer-certification) - Testing your expertise in using the SnapLogic SDK, implementing different parts of Snap functionality, and building custom Snaps.
 *   [SnapLogic Integrator Accreditation](https://learn.snaplogic.com/snaplogic-accreditation) - It's designed for those who want to enhance their expertise on all core SnapLogic concepts for various integration needs across industries and lines of business.
 *   [SnapLogic Integrator Certification](https://learn.snaplogic.com/snaplogic-integrator-certification-1) - Focuses on topics such as beginner training, ultra tasks, pipeline migration, and user assistance videos covering various integration endpoints.

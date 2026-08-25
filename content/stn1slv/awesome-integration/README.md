@@ -6,6 +6,16 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Aug 25, 2026](/content/2026/08/25/README.md)
+
+### Resources / Articles
+
+*   [Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf) - Creating Web APIs that are consistent, intuitive, and user-friendly for developers.
+
+### Resources / Certifications
+
+*   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification-1) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
+
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
 ### Projects / AI Gateway
@@ -117,7 +127,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / AI Gateway
 
-*   [LiteLLM (⭐56k) (⭐56k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
+*   [LiteLLM (⭐56k) (⭐57k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
 
 ### Projects / API Gateway
 
@@ -137,7 +147,7 @@ A curated list of awesome system integration software and resources.
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
     *   [REST Assured (⭐7.1k) (⭐7.1k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
     *   [RESTler (⭐2.9k) (⭐2.9k)](https://github.com/microsoft/restler-fuzzer) - A stateful REST API fuzzing tool that automatically discovers security and reliability bugs by intelligently inferring producer-consumer dependencies from OpenAPI specifications.
-    *   [Schemathesis (⭐3.5k) (⭐3.5k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
+    *   [Schemathesis (⭐3.5k) (⭐3.6k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
     *   [Taurus (⭐2.1k) (⭐2.1k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 ### Projects / Change Data Capture
@@ -907,7 +917,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Architectural Styles and
     the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST.
-*   [Web API Design: Crafting interfaces that developers love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Creating Web APIs that are consistent, intuitive, and user-friendly for developers.
 
 ### Resources / Certifications
 
@@ -933,7 +942,6 @@ A curated list of awesome system integration software and resources.
 *   [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) - Validates the ability to create and maintain enterprise integration services based on Red Hat Fuse, Camel, and APIs.
 *   [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - Validates the ability to develop applications using Apache Kafka and Apache Kafka Streams.
 *   [SnapLogic Administrator Certification](https://learn.snaplogic.com/snaplogic-administrator-certification) - Assesses your ability to handle administrative tasks for SnapLogic instances.
-*   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
 *   [SnapLogic Developer Certification](https://learn.snaplogic.com/snaplogic-developer-certification) - Testing your expertise in using the SnapLogic SDK, implementing different parts of Snap functionality, and building custom Snaps.
 *   [SnapLogic Integrator Certification](https://learn.snaplogic.com/snaplogic-integrator-certification-1) - Focuses on topics such as beginner training, ultra tasks, pipeline migration, and user assistance videos covering various integration endpoints.
 *   [Workato Automation Pro I](https://academy.workato.com/enterprise-automation-i-exam) - Fundamentals of business automation processes.
@@ -1352,7 +1360,6 @@ A curated list of awesome system integration software and resources.
 *   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - Comprehensive integration solution offering prebuilt workflows and automation templates to accelerate business processes.
 *   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - Next-generation platform leveraging AI to streamline integration, increase scalability, and speed up deployment.
 *   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - Suite of cloud data management tools that accelerates productivity and simplifies application and data integration.
-*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - Enterprise data management solution that transforms basic integration into actionable insights and smarter decision-making.
 *   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Robust platform with prebuilt connectivity for both SaaS and on-premises apps, streamlining integration processes.
 *   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - AI-driven platform that connects applications and data rapidly, ensuring efficient and scalable integrations.
 *   [Workato](https://www.workato.com/) - Unified integration and workflow automation solution that simplifies complex processes and enhances operational efficiency.

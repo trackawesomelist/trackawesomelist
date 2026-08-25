@@ -6,6 +6,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Aug 25, 2026](/content/2026/08/25/README.md)
+
+### Plugins / Miscellaneous
+
+*   [FeatureFlags plugin (⭐0)](https://github.com/orca-services/cakephp-feature-flags) - A plugin for managing feature flags in your code.
+*   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/maintenance/index.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+
 ## [Aug 22, 2026](/content/2026/08/22/README.md)
 
 ### Plugins / Email
@@ -421,7 +428,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / REST and API
 
-*   [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+*   [FractalTransformerView plugin (⭐18)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## [Jan 03, 2021](/content/2021/01/03/README.md)
 
@@ -500,10 +507,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### Plugins / Markup
 
 *   [Markup plugin (⭐3)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
-
-### Plugins / Miscellaneous
-
-*   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Plugins / Social
 
