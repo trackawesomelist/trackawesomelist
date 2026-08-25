@@ -17,6 +17,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
 
+### Monitoring
+
+*   [cronalive.com](https://cronalive.com) - Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Cloud management solutions
@@ -1653,10 +1657,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Testing
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
-
-### Web Hosting
-
-*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) - Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
 
 ### IDE and Code Editing
 

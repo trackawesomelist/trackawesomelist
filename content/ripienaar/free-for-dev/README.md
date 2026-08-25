@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 25, 2026](/content/2026/08/25/README.md)
+
+### Monitoring
+
+*   [cronalive.com](https://cronalive.com) - Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.
+
 ## [Aug 24, 2026](/content/2026/08/24/README.md)
 
 ### APIs, Data, and ML
@@ -2003,10 +2009,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
-
-### Web Hosting
-
-*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) - Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
 
 ### IDE and Code Editing
 

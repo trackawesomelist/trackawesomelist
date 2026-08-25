@@ -230,6 +230,7 @@ Further resources:
 *   [onnx-c](https://github.com/onnx/onnx-c) - A lightweight C library for ONNX model inference, optimized for performance and portability across platforms.
 *   [notorch (⭐22)](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 *   [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
+*   [qwen3.8-27b-in-c (⭐1)](https://github.com/shyringo/qwen3.8-27b-in-c) - A native C inference engine for running Qwen3.8-27B locally on a single laptop CPU, with direct GGUF loading and a tested 8 GB memory path.
 
 <a name="c-computer-vision"></a>
 
@@ -329,7 +330,7 @@ Further resources:
 *   [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (CRFs) for labeling sequential data. **\[Deprecated]**
 *   [frog (⭐83)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 *   [libfolia (⭐18)](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
-*   [MeTA (⭐714)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐715)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 *   [MIT Information Extraction Toolkit (⭐3k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 *   [ucto (⭐72)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 *   [SentencePiece (⭐12k)](https://github.com/google/sentencepiece) - A C++ library for unsupervised text tokenization and detokenization, widely used in modern NLP models.
@@ -569,7 +570,7 @@ Further resources:
 *   [GoNN (⭐360)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
 *   [bayesian (⭐815)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
-*   [Cloudforest (⭐747)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
+*   [Cloudforest (⭐748)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 *   [go-dnn (⭐8)](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 <a name="go-spatial-analysis-and-geometry"></a>
@@ -658,7 +659,7 @@ Further resources:
 *   [ClearTK (⭐133)](https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (NLP) components in Java and is built on top of Apache UIMA. **\[Deprecated]**
 *   [Apache cTAKES](https://ctakes.apache.org/) - Apache Clinical Text Analysis and Knowledge Extraction System (cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
 *   [NLP4J (⭐154)](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **\[Deprecated]**
-*   [CogcompNLP (⭐480)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
+*   [CogcompNLP (⭐479)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
 
 <a name="java-general-purpose-machine-learning"></a>
 
@@ -1798,7 +1799,7 @@ Further resources:
 
 *   [huggingface/tokenizers (⭐11k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 *   [rust-bert (⭐3.1k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-*   [shimmy (⭐5.7k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+*   [shimmy (⭐5.8k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 *   [shimmytok (⭐23)](https://github.com/Michael-A-Kuykendall/shimmytok) - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
 
 <a name="r"></a>

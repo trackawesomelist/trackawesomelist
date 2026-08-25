@@ -472,7 +472,7 @@ Please take a quick gander at the [contribution guidelines (⭐181k)](https://gi
 *   [commandeer (⭐175)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐958)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
 *   [console (⭐115)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
-*   [Dnote (⭐3k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+*   [Dnote (⭐3.1k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐6.4k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐125)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 *   [flaggy (⭐951)](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support.
@@ -1285,6 +1285,7 @@ additional ordered map implementations.
 *   [decimal (⭐7.5k)](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
 *   [decimal (⭐1)](https://github.com/aytechnet/decimal) - High performance 64-bit decimal partially compatible with [shopspring/decimal (⭐7.5k)](https://github.com/shopspring/decimal) and int64, including Weight and Length.
 *   [decimal (⭐246)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
+*   [decimal (⭐0)](https://github.com/klokare/decimal) - A fixed-size, no allocation decimal type for when you don't need arbitrary precision.
 *   [eu-vat-rates-data-go (⭐1)](https://github.com/vatnode/eu-vat-rates-data-go) - VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB.
 *   [fpdecimal (⭐35)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 *   [fpmoney (⭐36)](https://github.com/nikolaydubina/fpmoney) - Fast and simple ISO4217 fixed-point decimal money.
@@ -1792,7 +1793,7 @@ additional ordered map implementations.
 *   [bayesian (⭐815)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [born (⭐120)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 *   [catboost-cgo (⭐26)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
-*   [CloudForest (⭐747)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [datatrax (⭐10)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -2039,7 +2040,7 @@ additional ordered map implementations.
 *   [gosms (⭐1.5k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐108)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐435)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐357)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐358)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐836)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐450)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐274)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
@@ -2924,7 +2925,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [jokeapi-go (⭐27)](https://github.com/icelain/jokeapi) - Go client for [JokeAPI](https://sv443.net/jokeapi/v2/).
 *   [lark (⭐476)](https://github.com/chyroc/lark) - [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback.
 *   [lastpass-go (⭐32)](https://github.com/ansd/lastpass-go) - Go client library for the [LastPass](https://www.lastpass.com/) API.
-*   [lemonsqueezy-go (⭐88)](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
+*   [lemonsqueezy-go (⭐90)](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
 *   [libgoffi (⭐10)](https://github.com/clevabit/libgoffi) - Library adapter toolbox for native [libffi](https://sourceware.org/libffi/) integration
 *   [libopenapi (⭐862)](https://github.com/pb33f/libopenapi) - Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.
 *   [Medium (⭐142)](https://github.com/Medium/medium-sdk-go) - Golang SDK for Medium's OAuth2 API.
@@ -2981,7 +2982,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [clipboard (⭐848)](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package in Go.
 *   [clockwork (⭐727)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 *   [cmd (⭐161)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
-*   [config-file-validator (⭐512)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐513)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 *   [contem (⭐6)](https://github.com/maxbolgarin/contem) - Drop-in context.Context replacement for graceful shutdown Go applications.
 *   [cookie (⭐114)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
 *   [copy-pasta (⭐56)](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
@@ -3073,7 +3074,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [jump (⭐1.9k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
 *   [just (⭐38)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 *   [koazee (⭐529)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
-*   [LAN Orangutan (⭐496)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+*   [LAN Orangutan (⭐710)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
 *   [lang (⭐7)](https://github.com/maxbolgarin/lang) - Generic one-liners to work with variables, slices and maps without boilerplate code.
 *   [lets-go (⭐7)](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
 *   [limiters (⭐651)](https://github.com/mennanov/limiters) - Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
@@ -3201,7 +3202,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [validator (⭐20k)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 *   [Validator (⭐7)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 *   [valix (⭐31)](https://github.com/marrow16/valix) Go package for validating requests
-*   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐43k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+*   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
     **[⬆ back to top](#contents)**
 
 ## Version Control
@@ -3236,6 +3237,13 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [hls-m3u8 (⭐67)](https://github.com/Eyevinn/hls-m3u8) - Parser and generator for HLS (M3U8) playlists; kept up to date with the spec.
 *   [libvlc-go (⭐509)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [manifestor (⭐11)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+
+<!---->
+
+*   [mosaic (⭐20)](https://github.com/farshidrezaei/mosaic) - Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).
+
+<!---->
+
 *   [mp4ff (⭐650)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 *   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
 *   [v4l (⭐89)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
@@ -3668,14 +3676,14 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐341)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐40k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [CrunchyCleaner (⭐146)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐77)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
 *   [drive (⭐6.7k)](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
 *   [Duplicacy (⭐5.7k)](https://github.com/gilbertchen/duplicacy) - A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.
-*   [fjira (⭐274)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐273)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 *   [Gebug (⭐631)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 *   [gfile (⭐761)](https://github.com/Antonito/gfile) - Securely transfer files between two computers, without any third party, over WebRTC.
 *   [Go Package Store (⭐896)](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
@@ -3700,7 +3708,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Layli](https://layli.app) - Draw pretty layout diagrams as code.
 *   [Leaps (⭐755)](https://github.com/jeffail/leaps) - Pair programming service using Operational Transforms.
 *   [lgo (⭐2.5k)](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
-*   [LightCMS (⭐26)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+*   [LightCMS (⭐27)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 *   [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 *   [LiteIDE (⭐7.8k)](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 *   [mac-cleanup-go (⭐444)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.

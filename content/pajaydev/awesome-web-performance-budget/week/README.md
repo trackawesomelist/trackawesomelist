@@ -2,9 +2,15 @@
 
 ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 127 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 131 · 🏷️ Front-End Development
 
 [ [Daily](/content/pajaydev/awesome-web-performance-budget/README.md) / Weekly / [Overview](/content/pajaydev/awesome-web-performance-budget/readme/README.md) ]
+
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Website Analyzers
+
+*   [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
@@ -31,7 +37,7 @@
 ### Open source tools
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
-*   [Falco](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+*   [Falco (⭐767)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
 
 ### Case Studies
 
@@ -130,7 +136,7 @@
 ### Bundle Analyzers
 
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
-*   [Parcel plugin Visualizer (⭐274)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
+*   [Parcel plugin Visualizer (⭐272)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
@@ -140,7 +146,7 @@
 
 ### Bundle Analyzers
 
-*   [CSS Analyzer (⭐699)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+*   [CSS Analyzer (⭐697)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
@@ -184,8 +190,8 @@
 ### Build Tools to set up performance budget
 
 *   [Performance Budget Builder (⭐183)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot (⭐165)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
+*   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [rollup-plugin-size-snapshot (⭐166)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 
 ### Bundle Analyzers
 
@@ -222,7 +228,7 @@
 ### Build Tools to set up performance budget
 
 *   [Bundle Size (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-*   [Grunt-perfbudget (⭐851)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
+*   [Grunt-perfbudget (⭐847)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 *   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ### Bundle Analyzers

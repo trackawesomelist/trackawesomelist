@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ [Daily](/content/josephmisiti/awesome-machine-learning/README.md) / Weekly / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### C / General-Purpose Machine Learning
+
+*   [qwen3.8-27b-in-c (⭐1)](https://github.com/shyringo/qwen3.8-27b-in-c) - A native C inference engine for running Qwen3.8-27B locally on a single laptop CPU, with direct GGUF loading and a tested 8 GB memory path.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Python / Speech Recognition
@@ -193,7 +199,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Rust / Natural Language Processing
 
-*   [shimmy (⭐5.7k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+*   [shimmy (⭐5.8k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 
 ### Tools / Misc
 
@@ -1912,7 +1918,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [go-ml (⭐199)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
 *   [bayesian (⭐815)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
-*   [Cloudforest (⭐747)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
+*   [Cloudforest (⭐748)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 
 ### Go / Data Analysis / Data Visualization
 
@@ -1946,7 +1952,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [Twitter Text Java (⭐3.1k)](https://github.com/twitter/twitter-text/tree/master/java) - A Java implementation of Twitter's text processing library.
 *   [ClearTK (⭐133)](https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (NLP) components in Java and is built on top of Apache UIMA. **\[Deprecated]**
 *   [NLP4J (⭐154)](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **\[Deprecated]**
-*   [CogcompNLP (⭐480)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
+*   [CogcompNLP (⭐479)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
 
 ### Scala / General-Purpose Machine Learning
 
@@ -3263,7 +3269,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐714)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐715)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 

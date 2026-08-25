@@ -537,6 +537,7 @@ Free and open source Capacitor starter apps.
 Production apps whose use of Capacitor is publicly documented.
 
 *   [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association, migrated to Capacitor.
+*   [AI Gist (⭐861)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
 *   [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped to the app stores as PWAs wrapped with Capacitor.
 *   [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
 *   [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/capawesome-team/awesome-capacitorjs/week/README.md) / [Overview](/content/capawesome-team/awesome-capacitorjs/readme/README.md) ]
 
+## [Aug 25, 2026](/content/2026/08/25/README.md)
+
+### Apps Built with Capacitor / ML Kit
+
+*   [AI Gist (⭐861)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
+
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
 ### Official
