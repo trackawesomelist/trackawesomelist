@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Aug 26, 2026](/content/2026/08/26/README.md)
+
+### People Investigations / GitHub
+
+*   [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
+
+### Other Tools / GitHub
+
+*   [Text Machine](https://textmachine.org/en/text-tools/cipher-identifier) - Identifies an unknown encoded or enciphered string and decodes it in place when no key is needed (Base64, hex, binary, Morse, Baconian, Polybius, A1Z26, Atbash, Caesar), with frequency analysis and automatic Vigenère and substitution solvers for the rest. Runs in the browser, no signup, nothing uploaded.
+
 ## [Aug 23, 2026](/content/2026/08/23/README.md)
 
 ### News / GitHub

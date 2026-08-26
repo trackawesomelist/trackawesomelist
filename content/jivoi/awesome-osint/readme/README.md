@@ -731,6 +731,7 @@ Thanks to our main contributors
 *   [Kompass](https://www.kompass.com) - Business directory and search.
 *   [LERS Portal Directory (Ministry of Cyber Affairs)](https://ministryofcyberaffairs.com/lers) - Directory of platform law-enforcement data-request (LERS) portals (WhatsApp, Google, Apple, Telegram, TikTok, Binance) with eligibility and submission steps for authorised investigators.
 *   [Mugshots](https://mugshots.com/)
+*   [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 *   [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 *   [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
 *   [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
@@ -1709,6 +1710,7 @@ Thanks to our main contributors
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 *   [SpiderSuite (⭐973)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 *   [Sub3 Suite (⭐579)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Text Machine](https://textmachine.org/en/text-tools/cipher-identifier) - Identifies an unknown encoded or enciphered string and decodes it in place when no key is needed (Base64, hex, binary, Morse, Baconian, Polybius, A1Z26, Atbash, Caesar), with frequency analysis and automatic Vigenère and substitution solvers for the rest. Runs in the browser, no signup, nothing uploaded.
 *   [The Harvester (⭐17k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 *   [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
 *   [Waybackurls (⭐4.5k)](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
