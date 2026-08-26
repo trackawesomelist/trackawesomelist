@@ -6,6 +6,12 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 [ Daily / [Weekly](/content/sirredbeard/Awesome-WSL/week/README.md) / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
 
+## [Aug 26, 2026](/content/2026/08/26/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [wip (⭐17)](https://github.com/slidict/wip) - A native CLI that brings dip-like development workflows to Microsoft WSL Containers (WSLC).
+
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### WSL Tools / Miscellaneous Tools
@@ -30,19 +36,19 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [WSL Dashboard (⭐3.3k)](https://github.com/owu/wsl-dashboard) - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL Dashboard (⭐3.6k)](https://github.com/owu/wsl-dashboard) - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
 ### WSL Tools / Terminals
 
-*   [KKTerm (⭐435)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
+*   [KKTerm (⭐447)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 
 ## [May 14, 2026](/content/2026/05/14/README.md)
 
 ### WSL Tools / WSL-Specific Development Tools
 
-*   [claude-code-wsl2-setup (⭐44)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [claude-code-wsl2-setup (⭐45)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -54,7 +60,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [WSL UI (⭐333)](https://github.com/octasoft-ltd/wsl-ui) - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL UI (⭐365)](https://github.com/octasoft-ltd/wsl-ui) - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / WSL Utilities
 
@@ -77,7 +83,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / WSL Utilities
 
-*   [wsl-vpnkit (⭐2.9k)](https://github.com/sakai135/wsl-vpnkit) - Script providing network connectivity to WSL 2 when blocked by VPN. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-vpnkit (⭐3k)](https://github.com/sakai135/wsl-vpnkit) - Script providing network connectivity to WSL 2 when blocked by VPN. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [xdg-open-wsl (⭐169)](https://github.com/cpbotha/xdg-open-wsl) - xdg-open replacement for WSL that opens files and links using Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
@@ -157,7 +163,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [setup-wsl (⭐141)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [setup-wsl (⭐142)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Intellectual Property Notices / Miscellaneous Tools
 
@@ -244,13 +250,13 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐111)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐110)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [May 23, 2021](/content/2021/05/23/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [easyWSL (⭐579)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [easyWSL (⭐577)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [May 09, 2021](/content/2021/05/09/README.md)
 
@@ -287,7 +293,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [DevuanWSL (⭐22)](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [DevuanWSL (⭐23)](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [Oct 28, 2020](/content/2020/10/28/README.md)
 
@@ -334,7 +340,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 ### WSL Tools / Miscellaneous Tools
 
 *   [wsl2-ssh-pageant (⭐371)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
-*   [WinCryptSSHAgent (⭐585)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
+*   [WinCryptSSHAgent (⭐586)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
 ## [Apr 30, 2020](/content/2020/04/30/README.md)
 
@@ -404,7 +410,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐104k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐105k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [Aug 18, 2019](/content/2019/08/18/README.md)
 
@@ -462,7 +468,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 ### Supported Distributions / Fedora Remix for WSL
 
 *   [Fedora Remix for WSL Homepage](https://www.whitewaterfoundry.com/fedora-remix-for-wsl/)
-*   [Fedora Remix for WSL GitHub (⭐813)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Fedora Remix for WSL GitHub (⭐811)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Supported Distributions / Pengwin Enterprise
 
@@ -548,7 +554,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   Learning [programming](https://www.codecademy.com), [computer science](https://www.quora.com/Why-should-computer-science-students-use-the-GNU-Linux-operating-system), and [system administration](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/) generally.
 *   Building applications for [Azure](https://blogs.technet.microsoft.com/stefan_stranger/2018/03/08/installing-azure-cli-on-debian-gnulinux-for-wsl/), Microsoft's cloud platform.
 *   Leveraging the power of the shell and scripting to automate your personal workflow, like OCRing and sorting PDFs into folders using [Python](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/).
-*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐785)](https://github.com/NathanCastle/BootShellCredentialProvider).
+*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐784)](https://github.com/NathanCastle/BootShellCredentialProvider).
 *   Running Linux-based server applications like [OpenFOAM](https://openfoam.org/download/windows-10/) and [Wordpress](https://mkaz.blog/wordpress/install-wordpress-on-windows-subsystem-for-linux/) locally for testing purposes.
 *   Managing your companies' CentOS servers using [Ansible](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux).
 
@@ -573,7 +579,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 *   [miniwsl](https://github.com/0xbadfca11/miniwsl) - A mini Linux distribution for WSL powered by [busybox](https://www.busybox.net). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [ArchWSL (⭐7.4k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AlpineWSL (⭐652)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AlpineWSL (⭐658)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [windows-subsystem-linux-fedora](https://gitlab.com/gbraad/windows-subsystem-for-linux-fedora) - Fedora in WSL.
 *   [WSL-Distribution-Switcher (⭐1.7k)](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind WSL with any other Linux distribution published on [Docker Hub](https://hub.docker.com/explore/). Includes alpine, CentOS, Fedora, Clear, and others. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [acme-wsl (⭐46)](https://github.com/elrzn/acme-wsl) - Install acme / plan9port on Debian, Ubuntu, or Kali Linux distributions on WSL.
@@ -581,12 +587,12 @@ Awesome list dedicated to Windows Subsystem for Linux
 ### WSL Tools / Miscellaneous Tools
 
 *   [WSLInstall (⭐254)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [BootShellCredentialProvider (⭐785)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [BootShellCredentialProvider (⭐784)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [wsl-dotfiles (⭐270)](https://github.com/Xyene/wsl-dotfiles) - Configuration files and scripts for creating an i3-based environment inside WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [EnumWSL (⭐8)](https://github.com/therealkenc/EnumWSL) - Enumerates installed WSL packages. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WSL-DistroLauncher (⭐1.7k)](https://github.com/Microsoft/WSL-DistroLauncher) - Reference launcher app for developing your own WSL distribution Microsoft Store package. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WSL\_Reverse (⭐88)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wslbridge (⭐353)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslbridge (⭐352)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [cmd-colors-solarized (⭐1.1k)](https://github.com/neilpa/cmd-colors-solarized) - This is a solarized color scheme for the Windows command prompt that works in WSL.
 
 ### WSL Tools / Terminals
@@ -604,9 +610,9 @@ Awesome list dedicated to Windows Subsystem for Linux
 ### WSL Tools / WSL Utilities
 
 *   [wslgit (⭐1.2k)](https://github.com/andy-5/wslgit) - Use git installed on WSL from Visual Studio Code on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wsl-proxy (⭐140)](https://github.com/watzon/wsl-proxy) - A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-proxy (⭐139)](https://github.com/watzon/wsl-proxy) - A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [wslpath (⭐121)](https://github.com/laurent22/wslpath) - Easily convert Windows to WSL path names and vice-versa. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wsl-open (⭐552)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-open (⭐551)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / WSL-Specific Development Tools
 
@@ -619,7 +625,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   [WSL-Programs (⭐1.1k)](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work on the Windows Subsystem for Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [/r/bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/) - Reddit subreddit.
 *   [#debian-wsl](https://www.oftc.net) - IRC channel on OFTC.net.
-*   [WSL on GitHub (⭐33k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL on GitHub (⭐34k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Microsoft Developer Feedback](https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l) - For developers to send Microsoft feeback on WSL.
 *   [Stack Overflow: WSL](https://stackoverflow.com/questions/tagged/wsl) - Programming question and answer site.
 

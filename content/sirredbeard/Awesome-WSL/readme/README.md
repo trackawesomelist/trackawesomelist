@@ -181,7 +181,7 @@ WSL allows for CUDA usage in the Linux environment for machine learning, intense
 *   [CUDA drivers and toolkit](https://developer.nvidia.com/cuda-toolkit) are required to be installed on Windows. 11.7 is recommended.
 *   [Section 3](https://docs.nvidia.com/cuda/wsl-user-guide/index.html) will instruct how to install the CUDA requirements inside WSL. **Do not install a driver inside WSL.** The Windows driver will be used through the 5.10 kernel.
 
-You can test the install after following the above steps through PyTorch (`torch.cuda.is_available()`) or similar tools. Another option is using the [NVIDIA CUDA Samples (⭐9.5k)](https://github.com/NVIDIA/cuda-samples).
+You can test the install after following the above steps through PyTorch (`torch.cuda.is_available()`) or similar tools. Another option is using the [NVIDIA CUDA Samples (⭐9.6k)](https://github.com/NVIDIA/cuda-samples).
 
 #### Other WSL Uses
 
@@ -189,7 +189,7 @@ You can test the install after following the above steps through PyTorch (`torch
 *   Learning [programming](https://www.codecademy.com), [computer science](https://www.quora.com/Why-should-computer-science-students-use-the-GNU-Linux-operating-system), and [system administration](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/) generally.
 *   Building applications for [Azure](https://blogs.technet.microsoft.com/stefan_stranger/2018/03/08/installing-azure-cli-on-debian-gnulinux-for-wsl/), Microsoft's cloud platform.
 *   Leveraging the power of the shell and scripting to automate your personal workflow, like OCRing and sorting PDFs into folders using [Python](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/).
-*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐785)](https://github.com/NathanCastle/BootShellCredentialProvider).
+*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐784)](https://github.com/NathanCastle/BootShellCredentialProvider).
 *   Running Linux-based server applications like [OpenFOAM](https://openfoam.org/download/windows-10/) and [Wordpress](https://mkaz.blog/wordpress/install-wordpress-on-windows-subsystem-for-linux/) locally for testing purposes.
 *   Managing your companies' CentOS servers using [Ansible](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux).
 *   [pWSLinux+K8S: The Interop way](https://medium.com/@hoxunn/wslinux-k8s-the-interop-way-2d98e5b88f08)
@@ -248,7 +248,7 @@ Fedora Remix for WSL is a Linux distribution derived from the [Fedora distributi
 *   [Windows Store Link](https://www.microsoft.com/store/productId/9N6GDM4K2HNC) 💰
 *   [Fedora Project Documentation](https://docs.fedoraproject.org/)
 *   [Fedora Remix for WSL Homepage](https://www.whitewaterfoundry.com/fedora-remix-for-wsl/)
-*   [Fedora Remix for WSL GitHub (⭐813)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project][githublogo]
+*   [Fedora Remix for WSL GitHub (⭐811)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project][githublogo]
 
 #### Pengwin
 
@@ -287,7 +287,7 @@ Unofficial distributions must be installed manually or with tools listed below. 
 
 *   [miniwsl](https://github.com/0xbadfca11/miniwsl) - A mini Linux distribution for WSL powered by [busybox](https://www.busybox.net). ![github project][githublogo]
 *   [ArchWSL (⭐7.4k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project][githublogo]
-*   [AlpineWSL (⭐652)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project][githublogo]
+*   [AlpineWSL (⭐658)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project][githublogo]
 *   [windows-subsystem-linux-fedora](https://gitlab.com/gbraad/windows-subsystem-for-linux-fedora) - Fedora in WSL.
 *   [WSLInstall (⭐254)](https://github.com/Biswa96/WSLInstall) - Install any GNU/Linux distribution userspace in Windows Subsystem for Linux (WSL) with compressed RootFS tarballs, Docker containers, or ISO files. ![github project][githublogo]
 *   [wsldl (⭐1.9k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project][githublogo]
@@ -298,7 +298,7 @@ Unofficial distributions must be installed manually or with tools listed below. 
 *   [FedoraWSL (⭐140)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project][githublogo]
 *   [AmazonWSL (⭐121)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project][githublogo]
 *   [GentooWSL (⭐42)](https://github.com/imaandrew/GentooWSL) - Gentoo as a WSL distro. ![github project][githublogo]
-*   [DevuanWSL (⭐22)](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project][githublogo]
+*   [DevuanWSL (⭐23)](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project][githublogo]
 *   [ManjaroWSL2 (⭐3)](https://github.com/sileshn/ManjaroWSL2) - Manjaro as a WSL2 distro based on wsldl. ![github project][githublogo]
 *   [WSLackware (⭐71)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project][githublogo]
 
@@ -318,7 +318,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 
 #### Terminals
 
-*   [Windows Terminal (⭐104k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project][githublogo]
+*   [Windows Terminal (⭐105k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project][githublogo]
 *   [wsltty (⭐3.2k)](https://github.com/mintty/wsltty) - Mintty as a terminal for WSL. ![github project][githublogo]
 *   [wsl-terminal (⭐3.1k)](https://github.com/goreliu/wsl-terminal) - A terminal emulator for WSL, based on mintty, fatty and wslbridge. ![github project][githublogo]
 *   [Tabby](https://tabby.sh/) - A terminal for a more modern age. ![github project][githublogo]
@@ -329,7 +329,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
 *   [Alacritty (⭐65k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 *   [Fluent Terminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-*   [KKTerm (⭐435)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
+*   [KKTerm (⭐447)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 *   [Yaw](https://yaw.sh) - A cross-platform terminal that auto-detects WSL along with PowerShell, CMD, and Git Bash on Windows.
 *   [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/absolutetelnet/) - Windows SSH, SFTP, Telnet, and serial terminal client with tabbed sessions, Unicode support, and smart-card/certificate authentication.
 
@@ -340,19 +340,19 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
 *   [WSL GUI Tool (⭐108)](https://github.com/emeric-martineau/wsl-gui-tool) - A graphical tool to manage (run, stop, import, export...) WSL. ![github project][githublogo]
 *   [WSL Distro Manager (⭐4k)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project][githublogo]
-*   [WSL UI (⭐333)](https://github.com/octasoft-ltd/wsl-ui) - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project][githublogo]
-*   [WSL Dashboard (⭐3.3k)](https://github.com/owu/wsl-dashboard) - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project][githublogo]
+*   [WSL UI (⭐365)](https://github.com/octasoft-ltd/wsl-ui) - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project][githublogo]
+*   [WSL Dashboard (⭐3.6k)](https://github.com/owu/wsl-dashboard) - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project][githublogo]
 
 #### WSL Utilities
 
 *   [wslgit (⭐1.2k)](https://github.com/andy-5/wslgit) - Use git installed on WSL from Visual Studio Code on Windows. ![github project][githublogo]
 *   [pinentry-wsl-ps1 (⭐108)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project][githublogo]
 *   [wslexec (⭐46)](https://github.com/int128/wslexec) - Execute Linux executables as .exe files on Windows. ![github project][githublogo]
-*   [wsl-proxy (⭐140)](https://github.com/watzon/wsl-proxy) - A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. ![github project][githublogo]
+*   [wsl-proxy (⭐139)](https://github.com/watzon/wsl-proxy) - A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. ![github project][githublogo]
 *   [wslpath (⭐121)](https://github.com/laurent22/wslpath) - Easily convert Windows to WSL path names and vice-versa. ![github project][githublogo]
-*   [wsl-open (⭐552)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project][githublogo]
+*   [wsl-open (⭐551)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project][githublogo]
 *   [wsl-open (⭐2)](https://github.com/jbwfu/wsl-open) - A Go utility for WSL to open files, directories, and URLs in their default Windows applications. ![github project][githublogo]
-*   [OpenInWSL (⭐111)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project][githublogo]
+*   [OpenInWSL (⭐110)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project][githublogo]
 *   [is-wsl for Node (⭐198)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project][githublogo]
 *   [wsl-gui-bins (⭐43)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project][githublogo]
 *   [WSL-Hello-sudo (⭐1.3k)](https://github.com/nullpo-head/WSL-Hello-sudo) - Use Windows Hello as your credential for `sudo`. ![github project][githublogo]
@@ -364,33 +364,34 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [community.wsl.sdk (⭐17)](https://github.com/Gitii/community.wsl.sdk) - SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1 ![github project][githublogo]
 *   [wslu (⭐3.8k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project][githublogo]
 *   [wslpy (⭐76)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project][githublogo]
-*   [wsl-vpnkit (⭐2.9k)](https://github.com/sakai135/wsl-vpnkit) - Script providing network connectivity to WSL 2 when blocked by VPN. ![github project][githublogo]
+*   [wsl-vpnkit (⭐3k)](https://github.com/sakai135/wsl-vpnkit) - Script providing network connectivity to WSL 2 when blocked by VPN. ![github project][githublogo]
 *   [xdg-open-wsl (⭐169)](https://github.com/cpbotha/xdg-open-wsl) - xdg-open replacement for WSL that opens files and links using Windows applications. ![github project][githublogo]
 *   [gowinbridge (⭐5)](https://github.com/Sibikrish3000/gowinbridge) - A Go library and CLI for executing Windows binaries from WSL. ![github project][githublogo]
 *   [Porthole (⭐14)](https://github.com/celloza/porthole) - A native Windows desktop dashboard for WSL Containers with tray-hosted backend operations. ![github project][githublogo]
+*   [wip (⭐17)](https://github.com/slidict/wip) - A native CLI that brings dip-like development workflows to Microsoft WSL Containers (WSLC).
 
 #### WSL-Specific Development Tools
 
 *   [ghc](https://launchpad.net/~hvr/+archive/ubuntu/ghc-wsl) - A version of the Glasgow Haskell Compiler built and optimized for WSL and hosted in a PPA for Debian and Ubuntu-based WSL distros.
-*   [claude-code-wsl2-setup (⭐44)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project][githublogo]
+*   [claude-code-wsl2-setup (⭐45)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project][githublogo]
 
 #### Miscellaneous Tools
 
-*   [BootShellCredentialProvider (⭐785)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project][githublogo]
+*   [BootShellCredentialProvider (⭐784)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project][githublogo]
 *   [teamviewer-on-wsl (⭐3)](https://github.com/ariel42/teamviewer-on-wsl) - Run TeamViewer on a WSL2 Linux desktop, reachable from anywhere with no port forwarding or VPN (unlike VNC), fully unattended. Includes the fix for a WSL-specific bug that otherwise blocks TeamViewer's screen sharing. ![github project][githublogo]
 *   [wsl-dotfiles (⭐270)](https://github.com/Xyene/wsl-dotfiles) - Configuration files and scripts for creating an i3-based environment inside WSL. ![github project][githublogo]
 *   [EnumWSL (⭐8)](https://github.com/therealkenc/EnumWSL) - Enumerates installed WSL packages. ![github project][githublogo]
 *   [WSL-DistroLauncher (⭐1.7k)](https://github.com/Microsoft/WSL-DistroLauncher) - Reference launcher app for developing your own WSL distribution Microsoft Store package. ![github project][githublogo]
 *   [WSL\_Reverse (⭐88)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project][githublogo]
-*   [wslbridge (⭐353)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project][githublogo]
+*   [wslbridge (⭐352)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project][githublogo]
 *   [WSLInstall (⭐254)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project][githublogo]
 *   [cmd-colors-solarized (⭐1.1k)](https://github.com/neilpa/cmd-colors-solarized) - This is a solarized color scheme for the Windows command prompt that works in WSL.
 *   [weasel-pageant (⭐247)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 *   [wsl2-ssh-pageant (⭐371)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
-*   [WinCryptSSHAgent (⭐585)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
+*   [WinCryptSSHAgent (⭐586)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 *   [Files (⭐45k)](https://github.com/files-community/Files) - A modern file explorer that supports WSL filesystem. ![github project][githublogo]
-*   [easyWSL (⭐579)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project][githublogo]
-*   [setup-wsl (⭐141)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project][githublogo]
+*   [easyWSL (⭐577)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project][githublogo]
+*   [setup-wsl (⭐142)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project][githublogo]
 
 ## Books
 
@@ -408,7 +409,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [/r/bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/) - Reddit subreddit.
 *   [#windows-wsl](https://netsplit.de/channels/details.php?room=%23windows-wsl\&net=Libera.Chat) - IRC channel on Libera.Chat.
 *   [#debian-wsl](https://www.oftc.net) - IRC channel on OFTC.net.
-*   [WSL on GitHub (⭐33k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project][githublogo]
+*   [WSL on GitHub (⭐34k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project][githublogo]
 *   [Microsoft Developer Feedback](https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l) - For developers to send Microsoft feeback on WSL.
 *   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 *   [Stack Overflow: WSL](https://stackoverflow.com/questions/tagged/wsl) - Programming question and answer site.

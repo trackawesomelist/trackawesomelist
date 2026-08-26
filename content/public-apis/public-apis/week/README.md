@@ -6,6 +6,75 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Currency Exchange
+
+- API: [CurrencyBeacon](https://currencybeacon.com/)
+
+  Description: Real-time and historical currency exchange rates with free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [EOD Historical Data](https://eodhd.com/)
+
+  Description: Real-time and historical stock market data with 150+ exchanges
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LiquiLens](https://liquilens.in/developers/)
+
+  Description: Public-record bank and lender failure-risk evidence
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [SocialCrawl](https://www.socialcrawl.dev/docs)
+
+  Description: Social and commerce data from 50+ platforms in one JSON schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [5DollarFootball](https://5dollarfootballapi.com/)
+
+  Description: Football fixtures, results, standings and historical odds with corner and card lines
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Art & Design
