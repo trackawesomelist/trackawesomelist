@@ -12,6 +12,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Talkdedsec Visual (⭐0)](https://github.com/Talkdedsec1/tlk-visual) - Adjusts screen brightness, contrast, gamma and colour temperature in real time. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Talkdedsec1/tlk-visual)
 
+### System Utilities
+
+*   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Audio
@@ -316,7 +320,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [Saga Reader (⭐533)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐535)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
@@ -547,7 +551,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Browsers
 
-*   [Ungoogled Chromium (⭐27k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Ungoogled Chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Command Line Tools
 

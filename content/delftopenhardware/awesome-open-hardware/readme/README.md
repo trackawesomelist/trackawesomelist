@@ -51,25 +51,31 @@
 *   [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
 *   [PiSpot Show (⭐3)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 *   [PiSpot Watch (⭐3)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+*   [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 *   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
 *   [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
 
 *   [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
-*   [OpenMV (⭐2.8k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
-*   [pic0rick (⭐93)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+*   [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+*   [Icepi Zero (⭐819)](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+*   [nRF52840 ProMicro (⭐92)](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
+*   [OpenMV (⭐2.9k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
+*   [pic0rick (⭐99)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
 ### Scientific Instruments
 
 *   [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+*   [HackRF Pro (⭐51)](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One (⭐8.1k)](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+*   [LibreVNA (⭐1.6k)](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
 *   [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
-*   [Open Gamma Detector (⭐359)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐366)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 *   [OpenBCI](https://openbci.com/) - Brain-computer interface.
 *   [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
 *   [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
-*   [openUC2 (⭐529)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
+*   [openUC2 (⭐531)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 *   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
 ## Design Tools
@@ -140,6 +146,7 @@
 *   [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 *   [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 *   [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects.
+*   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 
 ## Podcasts
 
@@ -175,9 +182,9 @@
 
 ## Related Awesome
 
-*   [Awesome Open Electronics (⭐741)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open Electronics (⭐743)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐97)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
-*   [Awesome Electronics (⭐8k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐8.1k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 

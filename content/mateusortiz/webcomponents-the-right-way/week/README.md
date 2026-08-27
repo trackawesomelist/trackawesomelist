@@ -6,11 +6,17 @@ A curated list of awesome Web Components resources.
 
 [ [Daily](/content/mateusortiz/webcomponents-the-right-way/README.md) / Weekly / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Components
+
+*   [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Component Libraries
 
-*   [PlayCanvas Web Components (⭐104)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐107)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 

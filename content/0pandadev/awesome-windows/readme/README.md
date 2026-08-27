@@ -145,7 +145,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software][oss]](https://github.com/imputnet/helium/)
 *   [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 *   [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
-*   [Ungoogled Chromium (⭐27k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Ungoogled Chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
 
 ## CAD
@@ -397,7 +397,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 *   [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
-*   [Saga Reader (⭐533)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐535)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 *   [EyeRest (⭐28)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 *   [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us\&gl=JO\&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
@@ -497,6 +497,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 *   [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 *   [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
+*   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 
 ## Terminal
 

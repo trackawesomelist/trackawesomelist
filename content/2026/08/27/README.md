@@ -1,12 +1,64 @@
-# Track Awesome React Native Updates Daily
+# Awesome List Updates on Aug 27, 2026
 
-Awesome React Native components, news, tools, and learning material!
+14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jondot/awesome-react-native/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) · ⭐ 36K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ Daily / [Weekly](/content/jondot/awesome-react-native/week/README.md) / [Overview](/content/jondot/awesome-react-native/readme/README.md) ]
 
-## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### System Utilities
+
+*   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
+
+## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+
+### Observability & Monitoring / Ralph Wiggum
+
+*   [seedeep (⭐2)](https://github.com/duqaXxX/seedeep) by [duqaXxX](https://github.com/duqaXxX) - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.\ <img src="https://img.shields.io/github/created-at/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Rethinking Software Development - Insights From 20+ Years In The Field](https://www.youtube.com/watch?v=Ist6GO-LHb8) by **Alexander Thurow** (DDD Hungary Meetup 2026) \[01:25:17]
+
+### LLM
+
+*   [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) \[01:46:51]
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Bot Building
+
+*   [teleflow (⭐3)](https://github.com/kslamph/teleflow) - Simple, type-safe Telegram bot framework with fluent flows and automatic state management.
+
+### Financial
+
+*   [bingx-go (⭐20)](https://github.com/tigusigalpa/bingx-go) - Go client for BingX API v3 with 260+ methods, USDT-M/Coin-M futures, spot, TradFi, WebSocket streams, and copy trading.
+*   [bybit-go (⭐17)](https://github.com/tigusigalpa/bybit-go) - Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.
+*   [okx-go (⭐23)](https://github.com/tigusigalpa/okx-go) - Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.
+
+### Third-party APIs
+
+*   [coinglass-go (⭐16)](https://github.com/tigusigalpa/coinglass-go) - Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Starcat](https://starcat.ink/) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/starcat-app/Starcat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
+
+### AI Tools / Other Tools
+
+*   [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dotcomjack/grux) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / General Tools
+
+*   [Nifro (⭐1)](https://github.com/PathGao/Nifro) - Turn websites into configurable desktop wallpapers, with separate views for each display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PathGao/Nifro)
+
+## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Getting Started
 
@@ -309,8 +361,163 @@ Awesome React Native components, news, tools, and learning material!
 *   [App.js Conf](https://appjs.co) - Expo and React Native conference, Kraków, Poland.
 *   [React Universe Conf](https://www.reactuniverseconf.com) - Callstack's conference (formerly React Native EU), Wrocław, Poland.
 
-## [Mar 17, 2021](/content/2021/03/17/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
-### Open Source Apps / Building Libraries
+### Cryptocurrency
 
-*   [Artsy (⭐3.8k)](https://github.com/artsy/eigen) - The art world in your pocket.
+- API: [BTCGlobe](https://btcglobe.live/join#makers)
+
+  Description: Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [SMTPfast](https://smtpfa.st/docs)
+
+  Description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [TickerLayer](https://tickerlayer.com)
+
+  Description: Real-time and historical market data for stocks, forex, crypto and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Science & Math
+
+- API: [NASA InSight](https://api.nasa.gov/)
+
+  Description: Mars weather data from InSight lander
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [KinoPipe](https://kinopipe.com/docs)
+
+  Description: Typed hosted video editing operations for agents and automation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api)
+
+  Description: Weather ensemble forecasts from multiple models
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+
+### Video Collections
+
+*   [GlobalAppTesting TechTalks](https://drive.google.com/drive/folders/1D4LPXUnT9_r8j4Qd1t0qsJLXHh95DPMJ?usp=share_link) - Library of public tech talks focused on DDD and CQRS.
+
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### Services / React
+
+*   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
+
+## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+
+### Projects / Consumer Devices
+
+*   [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
+
+### Projects / Development Boards
+
+*   [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+*   [Icepi Zero (⭐819)](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+*   [nRF52840 ProMicro (⭐92)](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
+
+### Projects / Scientific Instruments
+
+*   [HackRF Pro (⭐51)](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One (⭐8.1k)](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+*   [LibreVNA (⭐1.6k)](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
+
+### Platforms / Integrated Circuit
+
+*   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+
+## [11. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+
+### Design systems articles
+
+*   [From Figma to Production: The Modern Design-to-Code Pipeline in 2026](https://horizonx.so/blog/figma-to-production-design-to-code-2026)
+
+### Accessibility (a11y)
+
+*   [Color Blindness Simulator](https://colorvisionlabs.com/color-blindness-simulator) - Shows how any image or built-in test scene looks with protan, deutan, or tritan vision at adjustable severity, side by side with the original. Uses the Machado (2009) model, so partial deficiencies can be simulated rather than only the complete forms.
+
+### Unit & Regression test / Storybook addons
+
+*   [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
+
+## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+
+### Components
+
+*   [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
+
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### C / General-Purpose Machine Learning
+
+*   [deepseek-v4-flash-0731-in-c (⭐14)](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) - A native C CPU inference engine for running the 284B-A13B DeepSeek-V4-Flash-0731 on one laptop, reaching up to 1.12 token/s on tested hardware while streaming the 167 GB checkpoint from disk with a tested 8 GB memory path and no GPU or Python.
+
+### C++ / Computer Vision
+
+*   [CosmoEdge (⭐598)](https://github.com/cosmo-wander-ai/cosmo-edge) - A C++ edge video AI engine for RTSP ingestion, CV/VLM inference, visual pipeline orchestration, alarms, and event delivery on Sophon and Rockchip NPUs.
+
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [me\_fasttext (⭐1)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
+
+---
+
+- Next: [Aug 26, 2026](/content/2026/08/26/README.md)

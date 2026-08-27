@@ -266,6 +266,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 *   [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
 *   [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
+*   [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 *   [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
 *   [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 *   [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
@@ -327,7 +328,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [One Platform Components (⭐33)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 *   [Open Business Application Platform Web Components (⭐14)](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 *   [Pixano Elements (⭐43)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
-*   [PlayCanvas Web Components (⭐104)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐107)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 *   [Playground Elements (⭐650)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 *   [Shoelace (⭐14k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 *   [Smart Web Components (⭐480)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.

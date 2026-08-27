@@ -2,9 +2,23 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 877 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 886 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / [Overview](/content/klaufel/awesome-design-systems/readme/README.md) ]
+
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### Design systems articles
+
+*   [From Figma to Production: The Modern Design-to-Code Pipeline in 2026](https://horizonx.so/blog/figma-to-production-design-to-code-2026)
+
+### Accessibility (a11y)
+
+*   [Color Blindness Simulator](https://colorvisionlabs.com/color-blindness-simulator) - Shows how any image or built-in test scene looks with protan, deutan, or tritan vision at adjustable severity, side by side with the original. Uses the Machado (2009) model, so partial deficiencies can be simulated rather than only the complete forms.
+
+### Unit & Regression test / Storybook addons
+
+*   [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
@@ -20,7 +34,7 @@
 
 ### More resources
 
-*   [AI Web Design Codex (⭐8)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
+*   [AI Web Design Codex (⭐9)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
@@ -197,7 +211,7 @@
 
 ### Tools
 
-*   [Figmagic (⭐862)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Figmagic (⭐863)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 *   [Style Dictionary (⭐4.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 

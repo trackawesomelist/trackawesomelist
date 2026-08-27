@@ -6,6 +6,16 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### Software Development
+
+*   [Rethinking Software Development - Insights From 20+ Years In The Field](https://www.youtube.com/watch?v=Ist6GO-LHb8) by **Alexander Thurow** (DDD Hungary Meetup 2026) \[01:25:17]
+
+### LLM
+
+*   [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) \[01:46:51]
+
 ## [Jun 25, 2026](/content/2026/06/25/README.md)
 
 ### Methodologies

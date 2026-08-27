@@ -239,7 +239,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [graphql-code-generator (⭐11k)](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like TypeScript (frontend and backend), React Hooks, resolvers signatures and more.
 *   [pothos (⭐2.6k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 *   [garph (⭐1.3k)](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
-*   [gqloom (⭐102)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐8.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐43k)](https://github.com/colinhacks/zod), or [Yup (⭐24k)](https://github.com/jquense/yup).
+*   [gqloom (⭐102)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐8.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐44k)](https://github.com/colinhacks/zod), or [Yup (⭐24k)](https://github.com/jquense/yup).
 *   [fast-graphql (⭐5)](https://github.com/idurar/fast-graphql) - Graphql Tools to Structure, Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
 *   [graphql-to-type (⭐6)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
 *   [gql.tada (⭐3k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
@@ -270,7 +270,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [graphql-live-query (⭐441)](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
 *   [GraphVinci (⭐77)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 *   [supertest-graphql (⭐34)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐14k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
-*   [schemathesis (⭐3.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+*   [schemathesis (⭐3.6k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 *   [microfiber (⭐38)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 *   [graphql-armor (⭐585)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 *   [goctopus (⭐134)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
@@ -700,7 +700,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [Brangr (⭐6)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
 *   [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor.
 *   [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - An HTTP Client that supports editing GraphQL queries.
-*   [Bruno (⭐46k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 *   [Escape GraphMan (⭐252)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 *   [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 *   [GraphQL Birdseye (⭐699)](https://github.com/Novvum/graphql-birdseye) – View any GraphQL schema as a dynamic and interactive graph.
@@ -811,6 +811,8 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
 
 *   [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
+
+*   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
 
 ### CDN
 

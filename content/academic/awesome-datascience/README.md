@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [me\_fasttext (⭐1)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
+
 ## [Aug 26, 2026](/content/2026/08/26/README.md)
 
 ### Deep Learning Packages / Visualization Tools

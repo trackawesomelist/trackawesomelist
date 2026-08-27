@@ -8,6 +8,10 @@
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [me\_fasttext (⭐1)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
+
 ### Deep Learning Packages / Visualization Tools
 
 *   [FlexViz (⭐6)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.

@@ -431,6 +431,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [scikit-opt (⭐6.7k)](https://github.com/guofei9987/scikit-opt)
 *   [scikit-posthocs (⭐386)](https://github.com/maximtrp/scikit-posthocs)
 *   [feature-engine](https://feature-engine.trainindata.com/)
+*   [me\_fasttext (⭐1)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
 *   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
 *   [Shogun](https://www.shogun-toolbox.org/)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)

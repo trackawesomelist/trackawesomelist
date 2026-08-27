@@ -2,7 +2,7 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 877 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 886 · 🏷️ Front-End Development
 
 [ [Daily](/content/klaufel/awesome-design-systems/README.md) / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / Overview ]
 
@@ -52,6 +52,7 @@ See more design systems [here (⭐26k)](https://github.com/alexpate/awesome-desi
 *   [Building your design system](https://www.designbetter.co/design-systems-handbook/building-design-system)
 *   [Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)
 *   [Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+*   [From Figma to Production: The Modern Design-to-Code Pipeline in 2026](https://horizonx.so/blog/figma-to-production-design-to-code-2026)
 *   [How Spotify organises work in Figma to improve collaboration](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)
 *   [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb)
 *   [What is a Design System – Everything You Need to Know](https://uxmisfit.com/2019/03/26/what-is-a-design-system-everything-you-need-to-know/)
@@ -63,7 +64,7 @@ See more design systems [here (⭐26k)](https://github.com/alexpate/awesome-desi
 *   [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 *   [Design.system](https://design.systems/) - Resources for the design systems community.
 *   [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
-*   [AI Web Design Codex (⭐8)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
+*   [AI Web Design Codex (⭐9)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
 ## UI Design tools
 
@@ -94,6 +95,7 @@ See design tools plugins [here (⭐41k)](https://github.com/LisaDziuba/Awesome-D
 *   [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 *   [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
 *   [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
+*   [Color Blindness Simulator](https://colorvisionlabs.com/color-blindness-simulator) - Shows how any image or built-in test scene looks with protan, deutan, or tritan vision at adjustable severity, side by side with the original. Uses the Machado (2009) model, so partial deficiencies can be simulated rather than only the complete forms.
 
 ### Design tools articles
 
@@ -114,10 +116,11 @@ See design tools plugins [here (⭐41k)](https://github.com/LisaDziuba/Awesome-D
 ### Tools
 
 *   [CSS Variable Generator](https://alltoolsverse.com/tools/css-variable-generator/) - Generate scoped CSS custom properties with light and dark theme pairs, plus SCSS, Less, and JSON design-token exports.
-*   [Figmagic (⭐862)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Figmagic (⭐863)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 *   [Style Dictionary (⭐4.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 *   [Theo (⭐2k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+*   [Designesy](https://www.designesy.org/) - 40-check design-system contract verification engine. Scores any URL against DTCG 2025.10 token conformance, WCAG 2.2 AA, motion, and typography. Includes DTCG token validator, stylelint plugin, and MCP server.
 
 ### Articles
 
@@ -165,7 +168,7 @@ See more design tokens info [here (⭐1.3k)](https://github.com/sturobson/Awesom
 *   [Storyshots (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 *   [Viewport (⭐91k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
-More info to Storybook [here (⭐418)](https://github.com/lauthieb/awesome-storybook)!
+More info to Storybook [here (⭐421)](https://github.com/lauthieb/awesome-storybook)!
 
 ### Pattern libraries articles
 
@@ -183,6 +186,7 @@ More info to Storybook [here (⭐418)](https://github.com/lauthieb/awesome-story
 *   [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 *   [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 *   [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
+*   [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
 ## Books
 

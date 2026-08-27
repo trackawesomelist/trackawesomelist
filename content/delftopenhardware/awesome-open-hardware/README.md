@@ -6,6 +6,27 @@
 
 [ Daily / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
 
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### Projects / Consumer Devices
+
+*   [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
+
+### Projects / Development Boards
+
+*   [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+*   [Icepi Zero (⭐819)](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+*   [nRF52840 ProMicro (⭐92)](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
+
+### Projects / Scientific Instruments
+
+*   [HackRF Pro (⭐51)](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One (⭐8.1k)](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+*   [LibreVNA (⭐1.6k)](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
+
+### Platforms / Integrated Circuit
+
+*   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
 ### Design Tools / Mechanical and Electrical
@@ -50,7 +71,7 @@
 
 ### Projects / Development Boards
 
-*   [pic0rick (⭐93)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+*   [pic0rick (⭐99)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
 ### Conferences / Integrated Circuit
 
@@ -135,7 +156,7 @@
 
 ### Projects / Scientific Instruments
 
-*   [Open Gamma Detector (⭐359)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐366)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -152,7 +173,7 @@
 
 ### Related Awesome / Integrated Circuit
 
-*   [Awesome Electronics (⭐8k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐8.1k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 23, 2022](/content/2022/06/23/README.md)
 
@@ -178,7 +199,7 @@
 
 ### Projects / Development Boards
 
-*   [OpenMV (⭐2.8k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
+*   [OpenMV (⭐2.9k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
 
 ## [Jan 28, 2022](/content/2022/01/28/README.md)
 
@@ -238,7 +259,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain-computer interface.
 *   [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
 *   [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
-*   [openUC2 (⭐529)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
+*   [openUC2 (⭐531)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 *   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
 ### Talks / Integrated Circuit
@@ -272,5 +293,5 @@
 
 ### Related Awesome / Integrated Circuit
 
-*   [Awesome Open Electronics (⭐741)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open Electronics (⭐743)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐97)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.

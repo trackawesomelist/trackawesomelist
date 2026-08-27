@@ -8,11 +8,39 @@ A collective list of free APIs
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
+### Cryptocurrency
+
+- API: [BTCGlobe](https://btcglobe.live/join#makers)
+
+  Description: Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Currency Exchange
 
 - API: [CurrencyBeacon](https://currencybeacon.com/)
 
   Description: Real-time and historical currency exchange rates with free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [SMTPfast](https://smtpfa.st/docs)
+
+  Description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
 
   Auth: `apiKey`
 
@@ -46,6 +74,33 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [TickerLayer](https://tickerlayer.com)
+
+  Description: Real-time and historical market data for stocks, forex, crypto and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Science & Math
+
+- API: [NASA InSight](https://api.nasa.gov/)
+
+  Description: Mars weather data from InSight lander
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Social
 
@@ -68,6 +123,34 @@ A collective list of free APIs
   Description: Football fixtures, results, standings and historical odds with corner and card lines
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [KinoPipe](https://kinopipe.com/docs)
+
+  Description: Typed hosted video editing operations for agents and automation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api)
+
+  Description: Weather ensemble forecasts from multiple models
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -3705,7 +3788,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐223)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐229)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -9573,7 +9656,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐189)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐192)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -9835,7 +9918,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)
+- API: [NaMoMemes (⭐29)](https://github.com/theIYD/NaMoMemes)
 
   Description: Memes on Narendra Modi
 
@@ -15775,7 +15858,7 @@ A collective list of free APIs
 
 ### Cryptocurrency
 
-- API: [Binance (⭐4.8k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐4.9k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 
@@ -16373,7 +16456,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [GW2Spidy (⭐231)](https://github.com/rubensayshi/gw2spidy/wiki)
+- API: [GW2Spidy (⭐230)](https://github.com/rubensayshi/gw2spidy/wiki)
 
   Description: GW2Spidy API, Items data on the Guild Wars 2 Trade Market
 

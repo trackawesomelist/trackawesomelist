@@ -16,7 +16,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
+Inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
 
 ## Table of Contents
 
@@ -104,11 +104,11 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 ### Tutorials
 
 *   [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
-*   [Sharded Cluster with Docker Compose (⭐558)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐560)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ### More
 
-*   [MongoDB source code (⭐28k)](https://github.com/mongodb/mongo)
+*   [MongoDB source code (⭐29k)](https://github.com/mongodb/mongo)
 *   [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
 *   [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
@@ -120,7 +120,7 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 
 ### C
 
-*   [mongo-c-driver (⭐877)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐880)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### C++
 
@@ -128,10 +128,10 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 
 ### C#/.NET
 
-*   [FluentStorage (⭐454)](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
+*   [FluentStorage (⭐457)](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
 *   [mongo-csharp-driver (⭐3.2k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
-*   [mongo-efcore-provider (⭐398)](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
-*   [MongoRepository (⭐311)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [mongo-efcore-provider (⭐397)](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
+*   [MongoRepository (⭐312)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### D
 
@@ -170,7 +170,7 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 ### Java
 
 *   [Jongo (⭐586)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐325)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Hibernate OGM (⭐326)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.7k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
 *   [Mongojack (⭐277)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphia (⭐1.7k)](https://github.com/MorphiaOrg/morphia) - Java ODM
@@ -179,16 +179,16 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 
 ### JavaScript
 
-*   [Camo (⭐556)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐555)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 *   [connect-mongo (⭐2k)](https://github.com/jdesboeufs/connect-mongo) - MongoDB session store for Connect and Express written in Typescript.
-*   [deno\_mongo (⭐512)](https://github.com/denodrivers/mongo) - Community Deno driver
+*   [deno\_mongo (⭐511)](https://github.com/denodrivers/mongo) - Community Deno driver
 *   [MEAN.JS (⭐4.8k)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
 *   [MERN (mern-starter) (⭐5.1k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
 *   [Meteor (⭐45k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
-*   [Monarch ORM (⭐30)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
+*   [Monarch ORM (⭐31)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
 *   [MongoMQ2 (⭐21)](https://github.com/morris/mongomq2) - A general-purpose message and event queuing library for MongoDB
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
-*   [CASL Mongoose (⭐7k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐7.1k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 *   [mongration (⭐86)](https://github.com/awapps/mongration) - Node.js migration framework
 *   [Neuledge (⭐234)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
 *   [node-mongodb-native (⭐10k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
@@ -213,7 +213,7 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 *   [PHP Driver (⭐923)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 *   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐385)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
 *   [MongoDB Bundle (⭐37)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
-*   [yii-mongodb (⭐330)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
+*   [yii-mongodb (⭐329)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
 *   [opentelemetry php auto-mongodb (⭐2)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
 *   [mongo-php-adapter (⭐463)](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
 
@@ -229,9 +229,9 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 *   [Mongo-Thingy (⭐69)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 *   [MongoEngine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 *   [Motor (⭐2.5k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
-*   [PyMongo (⭐4.3k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
+*   [PyMongo (⭐4.4k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [ODMantic (⭐1.2k)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
-*   [TxMongo (⭐341)](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
+*   [TxMongo (⭐340)](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
 
 ### R
 
@@ -260,7 +260,7 @@ Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) lis
 ### Swift
 
 *   [MongoSwift (⭐346)](https://github.com/mongodb/mongo-swift-driver) - Official MongoDB Swift driver (discontinued)
-*   [MongoKitten (⭐752)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
+*   [MongoKitten (⭐754)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ## Tools
 
@@ -284,9 +284,9 @@ Services:
 ### Data
 
 *   [mongo-connector (⭐1.9k)](https://github.com/yougov/mongo-connector) - Streaming replication to Elasticsearch, Solr, or MongoDB
-*   [mongo\_fdw (⭐342)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [mongo\_fdw (⭐343)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
 *   [mongo-hadoop (⭐1.6k)](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
-*   [Mongolastic (⭐139)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [Mongolastic (⭐138)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
 
 Services:
 
@@ -307,8 +307,8 @@ Services:
 *   [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
 *   [MongoDB MCP Server (⭐1.1k)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
 *   [MongoHub (⭐2.4k)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
-*   [MQLens (⭐43)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
-*   [WebDB (⭐334)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
+*   [MQLens (⭐48)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
+*   [WebDB (⭐332)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 Services:
 
@@ -323,9 +323,9 @@ Services:
 
 ### Development
 
-*   [Argon (⭐170)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
+*   [Argon (⭐171)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
 *   [C# Analyzer (⭐30)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
-*   [mgodatagen (⭐327)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [mgodatagen (⭐328)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [migrate-mongo (⭐1k)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 *   [Mongo Playground (⭐191)](https://github.com/feliixx/mongoplayground) - Online query playground
 *   [Mongo Seeding (⭐562)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
@@ -355,11 +355,11 @@ Services:
 
 > 💡 These tools are not necessarily made for MongoDB in particular, but support it.
 
-*   [Appsmith (⭐40k)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
+*   [Appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
 *   [Appwrite (⭐57k)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
 *   [Budibase (⭐28k)](https://github.com/Budibase/budibase) - Open-source Retool alternative
 *   [ILLA Builder (⭐12k)](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
-*   [Tooljet (⭐38k)](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
+*   [Tooljet (⭐41k)](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
 
 Services:
 
@@ -368,8 +368,8 @@ Services:
 
 ### Shell
 
-*   [MongoDB Atlas CLI (⭐185)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐395)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐186)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐399)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ### Web
 
@@ -387,17 +387,18 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
-*   [BookCars (⭐618)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
-*   [CodeCombat (⭐8.5k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
+*   [BookCars (⭐627)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+*   [CodeCombat (⭐8.6k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 *   [Countly (⭐5.9k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Errbit (⭐4.3k)](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.
 *   [FactorJS (⭐1.5k)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
 *   [GrandNode (⭐1.9k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
-*   [LastSaaS (⭐150)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
+*   [LastSaaS (⭐161)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 *   [Leanote (⭐12k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐15k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
 *   [SaaS Boilerplate (⭐4.5k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - Headless GraphQL e-commerce framework for Node.js
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 *   [WildDuck Mail Server (⭐2.1k)](https://github.com/nodemailer/wildduck) - Scalable high availability email server that uses MongoDB for email storage
 

@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ [Daily](/content/chentsulin/awesome-graphql/README.md) / Weekly / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Services / React
+
+*   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
+
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
@@ -126,7 +132,7 @@ Awesome list of GraphQL
 
 ### Type / React
 
-*   [gqloom (⭐102)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐8.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐43k)](https://github.com/colinhacks/zod), or [Yup (⭐24k)](https://github.com/jquense/yup).
+*   [gqloom (⭐102)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐8.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐44k)](https://github.com/colinhacks/zod), or [Yup (⭐24k)](https://github.com/jquense/yup).
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -157,7 +163,7 @@ Awesome list of GraphQL
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Bruno (⭐46k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -502,7 +508,7 @@ Awesome list of GraphQL
 
 ### Miscellaneous / React
 
-*   [schemathesis (⭐3.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+*   [schemathesis (⭐3.6k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
