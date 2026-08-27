@@ -1,18 +1,80 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2026
 
-36 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [1. Awesome Qgis](/content/totpero/awesome-qgis/week/README.md)
+
+### Plugins / Remote Sensing
+
+*   [AI Segmentation by TerraLab](https://plugins.qgis.org/plugins/AI_Segmentation/) - Point-and-click AI segmentation of buildings, trees and any object into vector polygons, with a free local mode.
+
+## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### AI
+
+*   [Xenition](https://xenition.com) - AI workspace that turns a chat prompt into full-stack apps, documents, slides, spreadsheets and images across 23 editing surfaces, with shared memory and a common asset library. Free tier available.
+
+### Automation
+
+*   [Duvo](https://www.duvo.ai) - Execution platform for grocery and retail operations; runs operational work across existing systems (SAP, TMS, portals) with human approvals.
+
+### Flow-based programming
+
+*   [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Email - Webmail Clients
+
+*   [SnappyMail (⭐1.7k)](https://github.com/the-djmaze/snappymail) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). `AGPL-3.0` `PHP`
+
+### Software / Genealogy
+
+*   [GeneWeb (⭐396)](https://github.com/geneweb/geneweb/wiki) - Genealogy software that can be used offline or as a Web service. ([Source Code (⭐396)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
+
+### Software / Media Management
+
+*   [Ratelog](https://ratelog.org) - Movie tracker and rating app (alternative to Letterboxd). ([Source Code (⭐13)](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`
+
+### Software / Media Streaming - Audio Streaming
+
+*   [musikcube (⭐4.8k)](https://github.com/clangen/musikcube) - Streaming audio server with Linux/macOS/Windows/Android clients. `BSD-3-Clause` `C++/deb`
+
+### Software / Video Surveillance
+
+*   [Bluecherry (⭐274)](https://github.com/bluecherrydvr/bluecherry-apps) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`
+
+## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Apps
+
+*   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
+*   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
+*   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
+
+## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
+- Name: [Recidiv (⭐42)](https://github.com/antirez/recidiv)
+
+  Description: minimal continuous integration framework written in Tcl (used for Redis CI)
+
+  Features: Languages: any
+
+  Supported repositories: -
+
+
+
+## [6. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Observability & Monitoring / Ralph Wiggum
 
 *   [seedeep (⭐2)](https://github.com/duqaXxX/seedeep) by [duqaXxX](https://github.com/duqaXxX) - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.\ <img src="https://img.shields.io/github/created-at/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -22,7 +84,7 @@
 
 *   [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) \[01:46:51]
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Getting Started
 
@@ -325,19 +387,19 @@
 *   [App.js Conf](https://appjs.co) - Expo and React Native conference, Kraków, Poland.
 *   [React Universe Conf](https://www.reactuniverseconf.com) - Callstack's conference (formerly React Native EU), Wrocław, Poland.
 
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
 *   [GlobalAppTesting TechTalks](https://drive.google.com/drive/folders/1D4LPXUnT9_r8j4Qd1t0qsJLXHh95DPMJ?usp=share_link) - Library of public tech talks focused on DDD and CQRS.
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Services / React
 
 *   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
 
-## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects / Consumer Devices
 
@@ -358,7 +420,7 @@
 
 *   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 
-## [7. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [12. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design systems articles
 
@@ -372,13 +434,13 @@
 
 *   [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Components
 
 *   [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 
-## [9. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Customization
 
@@ -388,14 +450,14 @@
 
 *   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 
-## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [v-hash (⭐0)](https://github.com/deatil/v-hash) - A hash library for vlang.
 *   [v-rsa (⭐0)](https://github.com/deatil/v-rsa) - A RSA library for vlang.
 
-## [11. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -547,13 +609,13 @@
 
 
 
-## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [17. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [wip (⭐17)](https://github.com/slidict/wip) - A native CLI that brings dip-like development workflows to Microsoft WSL Containers (WSLC).
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
@@ -563,7 +625,7 @@
 
 *   [FlexViz (⭐6)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### People Investigations / GitHub
 
@@ -573,19 +635,19 @@
 
 *   [Text Machine](https://textmachine.org/en/text-tools/cipher-identifier) - Identifies an unknown encoded or enciphered string and decodes it in place when no key is needed (Base64, hex, binary, Morse, Baconian, Polybius, A1Z26, Atbash, Caesar), with frequency analysis and automatic Vigenère and substitution solvers for the rest. Runs in the browser, no signup, nothing uploaded.
 
-## [15. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [20. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Test Automation Frameworks
 
 *   [optics-framework (⭐10)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
-## [16. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [21. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Windows
 
 *   [Borrowing Windows Hello keys for authentication and persistence](https://dirkjanm.io/borrowing-windows-hello-keys/) - Ability to perform single-sign on with the backing cryptographic Windows Hello keys from a user session, without needing the PIN or other information/user presence.
 
-## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Articles
 
@@ -595,7 +657,7 @@
 
 *   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification-1) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -615,32 +677,32 @@
 
 *   [Nifro (⭐1)](https://github.com/PathGao/Nifro) - Turn websites into configurable desktop wallpapers, with separate views for each display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PathGao/Nifro)
 
-## [19. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [24. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
-## [20. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [25. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Excalibur.js](https://excaliburjs.com/) - Your friendly TypeScript 2D game engine for the web.
 
-## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Miscellaneous
 
 *   [FeatureFlags plugin (⭐0)](https://github.com/orca-services/cakephp-feature-flags) - A plugin for managing feature flags in your code.
 *   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/maintenance/index.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
-## [22. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [27. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Apps Built with Capacitor / ML Kit
 
 *   [AI Gist (⭐861)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
 
-## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [28. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Import / Export
 
@@ -658,7 +720,7 @@
 
 *   [Python Polars: The Definitive Cheatsheet ](https://opensource.posit.co/resources/cheatsheets/polars/) - Quick reference guide for transforming, analyzing, and visualizing data with Python Polars by [posit open source](https://opensource.posit.co/).
 
-## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
@@ -683,19 +745,19 @@
 
 *   [KeibiDrop (⭐54)](https://github.com/KeibiSoft/KeibiDrop) - On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.
 
-## [25. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [30. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Other
 
 *   [Awesome China Sourcing (⭐0)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: a six-step supplier verification system (license check, factory video call, reference check), quality inspection checklists, Incoterms cheat sheet, and negotiation templates.
 
-## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [31. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Website Analyzers
 
 *   [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -706,7 +768,11 @@
 
 *   [CosmoEdge (⭐598)](https://github.com/cosmo-wander-ai/cosmo-edge) - A C++ edge video AI engine for RTSP ingestion, CV/VLM inference, visual pipeline orchestration, alarms, and event delivery on Sophon and Rockchip NPUs.
 
-## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+### Python / General-Purpose Machine Learning
+
+*   [pyinterpret (⭐1)](https://github.com/mowne67/pyinterpret) - Unified API for SHAP, LIME, permutation importance, and partial dependence explanations.
+
+## [33. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Admin
 
@@ -720,7 +786,7 @@
 
 *   [FastAPI Agent Blueprint (⭐23)](https://github.com/Mr-DooSun/fastapi-agent-blueprint) - DDD layered template where generic base classes give async CRUD with no boilerplate, domains self-register on discovery, and pre-commit hooks block cross-layer imports at commit time.
 
-## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Community providers
 
@@ -738,17 +804,25 @@
 
 *   [Snap CD (⭐3)](https://github.com/schrieksoft/snapcd) - Fully-featured continuous deployment platform that facilitates modular deployments with isolated runners, dependency-aware automation, and fine-grained access control.
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [openma-ai/Martty (⭐57)](https://github.com/openma-ai/Martty) - A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents. [![CI](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml/badge.svg?branch=main)](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml)
 
+### Applications / Utilities
+
+*   [rleeon/hoard (⭐83)](https://github.com/rleeon/hoard) - Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage. [![CI](https://github.com/rleeon/hoard/actions/workflows/ci.yml/badge.svg)](https://github.com/rleeon/hoard/actions/workflows/ci.yml)
+
+### Libraries / Finance
+
+*   [wickra-lib/wickra (⭐50)](https://github.com/wickra-lib/wickra) \[[wickra](https://crates.io/crates/wickra)] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R. [![CI](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml)
+
 ### Libraries / Simulation
 
 *   [rsasaki0109/rust\_robotics (⭐253)](https://github.com/rsasaki0109/rust_robotics) \[[rust\_robotics](https://crates.io/crates/rust_robotics)] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no\_std support and ROS 2 examples [![CI](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml)
 
-## [31. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
@@ -758,7 +832,7 @@
 
 *   [ansible-static-lint (⭐15)](https://github.com/arhuman/ansible-static-lint) - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -794,13 +868,13 @@
 
 *   [Renderwolf](https://ironfang.uk/renderwolf) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
 
-## [33. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [38. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Tutorials
 
 *   [FFmpeg Cookbook](https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2) - Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).
 
-## [34. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [39. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Tutorials / YouTube
 
@@ -810,7 +884,7 @@
 
 *   [UserScripts Mirror](https://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
 
-## [35. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [40. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Drawing
 
@@ -820,7 +894,7 @@
 
 *   [likelihud (⭐5)](https://github.com/LRDPRDX/LikeliHUD) - A simple UI library with a declarative QML-like approach of defining UI.
 
-## [36. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [41. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 

@@ -6,6 +6,14 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Apps
+
+*   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
+*   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
+*   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Jobs
@@ -27,12 +35,12 @@
 
 ### Extensions
 
-*   [Frontman (⭐643)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
-*   [@farming-labs/docs (⭐51)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+*   [Frontman (⭐679)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+*   [@farming-labs/docs (⭐53)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ### Apps
 
-*   [FIM Agent (⭐1.4k)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+*   [FIM Agent (⭐1.5k)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -60,7 +68,7 @@
 
 ### Extensions
 
-*   [ShotOG (⭐7)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+*   [ShotOG (⭐8)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ### Apps
 
@@ -71,7 +79,7 @@
 ### Extensions
 
 *   [Vercel AI SDK (⭐26k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
-*   [CopilotKit (⭐36k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+*   [CopilotKit (⭐37k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 
 ## [Jun 23 - Jun 29, 2025](/content/2025/25/README.md)
 
@@ -122,7 +130,7 @@
 ### Extensions
 
 *   [next-google-tag-manager (⭐48)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐427)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-api-decorators (⭐428)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -136,7 +144,7 @@
 ### Apps
 
 *   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐120k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [shadcn/ui (⭐122k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -180,7 +188,7 @@
 
 ### Apps
 
-*   [Twitter Clone (⭐191)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Twitter Clone (⭐190)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -303,8 +311,8 @@
 
 ### Community
 
-*   [GitHub (⭐141k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐141k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐142k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐142k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -339,7 +347,7 @@
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐133)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐134)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -359,7 +367,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐470)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐471)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
@@ -384,7 +392,7 @@
 ### Boilerplates
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
-*   [Devii (⭐498)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐497)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ### Extensions
 
@@ -400,8 +408,8 @@
 
 ### Apps
 
-*   [CourseLit (⭐1.2k)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
-*   [Feednext (⭐322)](https://github.com/feednext/feednext) - An open source social media application.
+*   [CourseLit (⭐1.3k)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [Feednext (⭐321)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
@@ -412,11 +420,11 @@
 
 ### Extensions
 
-*   [next-connect (⭐1.7k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.6k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ### Apps
 
-*   [Tottem (⭐975)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐974)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 

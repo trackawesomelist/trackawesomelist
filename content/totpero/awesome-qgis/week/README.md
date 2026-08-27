@@ -2,9 +2,15 @@
 
 An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 29 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 31 · 🏷️ Development Environment
 
 [ [Daily](/content/totpero/awesome-qgis/README.md) / Weekly / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
+
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Plugins / Remote Sensing
+
+*   [AI Segmentation by TerraLab](https://plugins.qgis.org/plugins/AI_Segmentation/) - Point-and-click AI segmentation of buildings, trees and any object into vector polygons, with a free local mode.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
@@ -172,5 +178,5 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 
 ### Related Lists / Field and Mobile
 
-*   [Awesome GIS (⭐5.4k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial (⭐5.2k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS (⭐5.5k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐5.3k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.

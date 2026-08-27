@@ -1,24 +1,96 @@
 # Awesome List Updates on Aug 27, 2026
 
-14 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Qgis](/content/totpero/awesome-qgis/README.md)
+
+### Plugins / Remote Sensing
+
+*   [AI Segmentation by TerraLab](https://plugins.qgis.org/plugins/AI_Segmentation/) - Point-and-click AI segmentation of buildings, trees and any object into vector polygons, with a free local mode.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Utilities
+
+*   [rleeon/hoard (⭐83)](https://github.com/rleeon/hoard) - Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage. [![CI](https://github.com/rleeon/hoard/actions/workflows/ci.yml/badge.svg)](https://github.com/rleeon/hoard/actions/workflows/ci.yml)
+
+### Libraries / Finance
+
+*   [wickra-lib/wickra (⭐50)](https://github.com/wickra-lib/wickra) \[[wickra](https://crates.io/crates/wickra)] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R. [![CI](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml)
+
+## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+### AI
+
+*   [Xenition](https://xenition.com) - AI workspace that turns a chat prompt into full-stack apps, documents, slides, spreadsheets and images across 23 editing surfaces, with shared memory and a common asset library. Free tier available.
+
+### Automation
+
+*   [Duvo](https://www.duvo.ai) - Execution platform for grocery and retail operations; runs operational work across existing systems (SAP, TMS, portals) with human approvals.
+
+### Flow-based programming
+
+*   [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Email - Webmail Clients
+
+*   [SnappyMail (⭐1.7k)](https://github.com/the-djmaze/snappymail) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). `AGPL-3.0` `PHP`
+
+### Software / Genealogy
+
+*   [GeneWeb (⭐396)](https://github.com/geneweb/geneweb/wiki) - Genealogy software that can be used offline or as a Web service. ([Source Code (⭐396)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
+
+### Software / Media Management
+
+*   [Ratelog](https://ratelog.org) - Movie tracker and rating app (alternative to Letterboxd). ([Source Code (⭐13)](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`
+
+### Software / Media Streaming - Audio Streaming
+
+*   [musikcube (⭐4.8k)](https://github.com/clangen/musikcube) - Streaming audio server with Linux/macOS/Windows/Android clients. `BSD-3-Clause` `C++/deb`
+
+### Software / Video Surveillance
+
+*   [Bluecherry (⭐274)](https://github.com/bluecherrydvr/bluecherry-apps) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`
+
+## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Apps
+
+*   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
+*   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
+*   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
+
+## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
+- Name: [Recidiv (⭐42)](https://github.com/antirez/recidiv)
+
+  Description: minimal continuous integration framework written in Tcl (used for Redis CI)
+
+  Features: Languages: any
+
+  Supported repositories: -
+
+
+
+## [7. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### System Utilities
 
 *   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 
-## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [8. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Observability & Monitoring / Ralph Wiggum
 
 *   [seedeep (⭐2)](https://github.com/duqaXxX/seedeep) by [duqaXxX](https://github.com/duqaXxX) - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.\ <img src="https://img.shields.io/github/created-at/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [9. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
@@ -28,7 +100,7 @@
 
 *   [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) \[01:46:51]
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bot Building
 
@@ -44,7 +116,7 @@
 
 *   [coinglass-go (⭐16)](https://github.com/tigusigalpa/coinglass-go) - Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -58,7 +130,7 @@
 
 *   [Nifro (⭐1)](https://github.com/PathGao/Nifro) - Turn websites into configurable desktop wallpapers, with separate views for each display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PathGao/Nifro)
 
-## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Getting Started
 
@@ -361,7 +433,7 @@
 *   [App.js Conf](https://appjs.co) - Expo and React Native conference, Kraków, Poland.
 *   [React Universe Conf](https://www.reactuniverseconf.com) - Callstack's conference (formerly React Native EU), Wrocław, Poland.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -449,19 +521,19 @@
 
 
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [14. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Video Collections
 
 *   [GlobalAppTesting TechTalks](https://drive.google.com/drive/folders/1D4LPXUnT9_r8j4Qd1t0qsJLXHh95DPMJ?usp=share_link) - Library of public tech talks focused on DDD and CQRS.
 
-## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Services / React
 
 *   [Unchained Engine (⭐202)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
 
-## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [16. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects / Consumer Devices
 
@@ -482,7 +554,7 @@
 
 *   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 
-## [11. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [17. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Design systems articles
 
@@ -496,13 +568,13 @@
 
 *   [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [18. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Components
 
 *   [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -512,7 +584,11 @@
 
 *   [CosmoEdge (⭐598)](https://github.com/cosmo-wander-ai/cosmo-edge) - A C++ edge video AI engine for RTSP ingestion, CV/VLM inference, visual pipeline orchestration, alarms, and event delivery on Sophon and Rockchip NPUs.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+### Python / General-Purpose Machine Learning
+
+*   [pyinterpret (⭐1)](https://github.com/mowne67/pyinterpret) - Unified API for SHAP, LIME, permutation importance, and partial dependence explanations.
+
+## [20. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 

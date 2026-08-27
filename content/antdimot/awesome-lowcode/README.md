@@ -2,9 +2,23 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 583 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 586 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### AI
+
+*   [Xenition](https://xenition.com) - AI workspace that turns a chat prompt into full-stack apps, documents, slides, spreadsheets and images across 23 editing surfaces, with shared memory and a common asset library. Free tier available.
+
+### Automation
+
+*   [Duvo](https://www.duvo.ai) - Execution platform for grocery and retail operations; runs operational work across existing systems (SAP, TMS, portals) with human approvals.
+
+### Flow-based programming
+
+*   [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
 
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
@@ -22,11 +36,11 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [Heym (⭐865)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+*   [Heym (⭐1k)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 
 ### Automation
 
-*   [Orion (⭐7)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
+*   [Orion (⭐9)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
 
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
@@ -62,7 +76,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [Oinone (⭐2.5k)](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Built for complex enterprise scenarios, self-hostable. Open source (Java+TS, AGPL-3.0).
+*   [Oinone (⭐2.3k)](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Built for complex enterprise scenarios, self-hostable. Open source (Java+TS, AGPL-3.0).
 
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
@@ -149,7 +163,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐8.8k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐9k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 
@@ -244,7 +258,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Visual programming
 
-*   [Convertigo](https://www.convertigo.com/) - An Enterprise open source LowCode Platform to build Web & mobile apps
+*   [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted app development for governed web and mobile applications, backend workflows, and integrations.
 *   [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
 *   [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 *   [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
@@ -259,7 +273,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐60k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐61k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -539,7 +553,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [ToolJet (⭐38k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐41k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [Dec 02, 2021](/content/2021/12/02/README.md)
 

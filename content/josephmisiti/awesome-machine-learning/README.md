@@ -16,6 +16,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [CosmoEdge (⭐598)](https://github.com/cosmo-wander-ai/cosmo-edge) - A C++ edge video AI engine for RTSP ingestion, CV/VLM inference, visual pipeline orchestration, alarms, and event delivery on Sophon and Rockchip NPUs.
 
+### Python / General-Purpose Machine Learning
+
+*   [pyinterpret (⭐1)](https://github.com/mowne67/pyinterpret) - Unified API for SHAP, LIME, permutation importance, and partial dependence explanations.
+
 ## [Aug 25, 2026](/content/2026/08/25/README.md)
 
 ### C / General-Purpose Machine Learning

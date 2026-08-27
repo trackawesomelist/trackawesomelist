@@ -14,9 +14,9 @@
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js (⭐141k)](https://github.com/vercel/next.js): The React Framework.
+[Next.js (⭐142k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐486k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐813)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐814)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -38,8 +38,8 @@
 
 ## Community
 
-*   [GitHub (⭐141k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐141k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐142k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐142k)](https://github.com/vercel/next.js/discussions)
 *   [Vercel Community](https://vercel.community/)
 
 ## Essentials
@@ -133,11 +133,11 @@
 *   [react-next-boilerplate (⭐362)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 *   [The-Nextjs-starter (⭐22)](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 *   [The Knests Stack (⭐354)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
-*   [Devii (⭐498)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐497)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
-*   [Next.js and Netlify Blogging Template (⭐470)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐471)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 *   [Nextjs Apollo Nexus (⭐3)](https://github.com/inblack67/GraphQL-Next-Setup) - GraphQL Apollo Client-Server integration in Next.js with Nexus Schema (Code first approach).
-*   [Nextjs Starter Peacock (⭐133)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐134)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 *   [Nextatic (⭐46)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 *   [Sitemap generator for NextJS & StrAPI (⭐6)](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 *   [superplate (⭐2.9k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
@@ -171,7 +171,7 @@
 *   [Next PurgeCSS (⭐136)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 *   [Next PWA (⭐4.1k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 *   [flow-middleware (⭐15)](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
-*   [next-connect (⭐1.7k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.6k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 *   [next-img (⭐276)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 *   [next-auth (⭐28k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 *   [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
@@ -182,22 +182,24 @@
 *   [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 *   [next-google-tag-manager (⭐48)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
 *   [modal-layout-component (⭐1)](https://github.com/ArtemZhyto/Modal-layout-component) - Lightweight and accessible headless modal layout for Next.js with focus trapping.
-*   [next-api-decorators (⭐427)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-api-decorators (⭐428)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 *   [Vercel AI SDK (⭐26k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
-*   [CopilotKit (⭐36k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+*   [CopilotKit (⭐37k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 *   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
-*   [ShotOG (⭐7)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
-*   [Frontman (⭐643)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
-*   [@farming-labs/docs (⭐51)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+*   [ShotOG (⭐8)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+*   [Frontman (⭐679)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+*   [@farming-labs/docs (⭐53)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
 
+*   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
 *   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
+*   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 *   [DevToolKit (⭐0)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
-*   [CourseLit (⭐1.2k)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
-*   [FIM Agent (⭐1.4k)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+*   [CourseLit (⭐1.3k)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [FIM Agent (⭐1.5k)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 *   [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
-*   [Feednext (⭐322)](https://github.com/feednext/feednext) - An open source social media application.
+*   [Feednext (⭐321)](https://github.com/feednext/feednext) - An open source social media application.
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 *   [Relate (⭐334)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐118)](https://github.com/dotcypress/password) - One password, right way.
@@ -227,13 +229,14 @@
 *   [TikTok's HomePage](https://www.tiktok.com/) - TikTok's Home Page
 *   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐318)](https://github.com/kachkaev/njt), thanks to Now integration.
 *   [caseconverter.pro](https://caseconverter.pro) - A text case converter.
-*   [Tottem (⭐975)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐974)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 *   [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
-*   [Twitter Clone (⭐191)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Twitter Clone (⭐190)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 *   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐120k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [shadcn/ui (⭐122k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 *   [StorageBox (⭐23)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 *   [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+*   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## Books
 

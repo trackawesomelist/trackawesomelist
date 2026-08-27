@@ -6,13 +6,25 @@ The list of continuous integration services and tools
 
 [ Daily / [Weekly](/content/ligurio/awesome-ci/week/README.md) / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
 
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+- Name: [Recidiv (⭐42)](https://github.com/antirez/recidiv)
+
+  Description: minimal continuous integration framework written in Tcl (used for Redis CI)
+
+  Features: Languages: any
+
+  Supported repositories: -
+
+
+
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
 - Name: [Bitrise](https://bitrise.io/)
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐894)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐896)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -81,7 +93,7 @@ The list of continuous integration services and tools
 
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
-- Name: [gitlab-ci-local (⭐4k)](https://github.com/firecow/gitlab-ci-local)
+- Name: [gitlab-ci-local (⭐4.1k)](https://github.com/firecow/gitlab-ci-local)
 
   Description: Run your GitLab CI/CD pipelines locally instead of pushing to test your .gitlab-ci.yml
 
@@ -89,9 +101,9 @@ The list of continuous integration services and tools
 
   Supported repositories: GitLab
 
-  Documentation: [Documentation (⭐4k)](https://github.com/firecow/gitlab-ci-local#readme)
+  Documentation: [Documentation (⭐4.1k)](https://github.com/firecow/gitlab-ci-local#readme)
 
-  Price: [Open Source (⭐4k)](https://github.com/firecow/gitlab-ci-local) (MIT)
+  Price: [Open Source (⭐4.1k)](https://github.com/firecow/gitlab-ci-local) (MIT)
 
   Stars: [![Stars](https://img.shields.io/github/stars/firecow/gitlab-ci-local.svg)](https://github.com/firecow/gitlab-ci-local)
 
@@ -220,7 +232,7 @@ The list of continuous integration services and tools
 
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
-- Name: [Pipelight (⭐977)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐981)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -230,7 +242,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐977)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐981)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 
@@ -298,7 +310,7 @@ The list of continuous integration services and tools
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐590)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐592)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -510,7 +522,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐159)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐160)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 
@@ -544,9 +556,9 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐713)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐712)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐403)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐404)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -579,6 +591,12 @@ The list of continuous integration services and tools
   Features: Languages: any
 
   Supported repositories: 
+
+  Documentation: -
+
+  Price: ISC
+
+  Stars: [![Stars](https://img.shields.io/github/stars/kristapsdz/minci)](https://github.com/kristapsdz/minci)
 
 
 
@@ -620,7 +638,7 @@ The list of continuous integration services and tools
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
-- Name: [Abstruse CI (⭐958)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐959)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -628,7 +646,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐958)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐959)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -888,7 +906,7 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Evergreen (⭐448)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐450)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -896,7 +914,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐448)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐450)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 

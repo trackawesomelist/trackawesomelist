@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 27, 2026](/content/2026/08/27/README.md)
+
+### Applications / Utilities
+
+*   [rleeon/hoard (⭐83)](https://github.com/rleeon/hoard) - Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage. [![CI](https://github.com/rleeon/hoard/actions/workflows/ci.yml/badge.svg)](https://github.com/rleeon/hoard/actions/workflows/ci.yml)
+
+### Libraries / Finance
+
+*   [wickra-lib/wickra (⭐50)](https://github.com/wickra-lib/wickra) \[[wickra](https://crates.io/crates/wickra)] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R. [![CI](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml)
+
 ## [Aug 24, 2026](/content/2026/08/24/README.md)
 
 ### Applications
@@ -281,7 +291,7 @@ A curated list of Rust code and resources.
 ### Development tools / Embedded
 
 *   Development Tools
-    *   [matheuswhite/scope-rs (⭐47)](https://github.com/matheuswhite/scope-rs) \[[scope-monitor](https://crates.io/crates/scope-monitor)] - Cross-platform serial-port & RTT monitor TUI with hex/@tag input macros, search, session recording, and Lua plugins. [![Build Status](https://github.com/matheuswhite/scope-rs/actions/workflows/build.yml/badge.svg)](https://github.com/matheuswhite/scope-rs/actions)
+    *   [matheuswhite/scope-rs (⭐63)](https://github.com/matheuswhite/scope-rs) \[[scope-monitor](https://crates.io/crates/scope-monitor)] - Cross-platform serial-port & RTT monitor TUI with hex/@tag input macros, search, session recording, and Lua plugins. [![Build Status](https://github.com/matheuswhite/scope-rs/actions/workflows/build.yml/badge.svg)](https://github.com/matheuswhite/scope-rs/actions)
     *   [probe-rs/probe-rs (⭐2.9k)](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
     *   [Vaishnav-Sabari-Girish/ComChan (⭐165)](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
@@ -342,7 +352,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tover0314-w/opentypeless (⭐443)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
+*   [tover0314-w/opentypeless (⭐480)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
@@ -434,7 +444,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [mag123c/toktrack (⭐182)](https://github.com/mag123c/toktrack) - Fast TUI/CLI that tracks token usage and cost across AI coding CLIs (Claude Code, Codex, Gemini CLI, and more), with a persistent cache that survives CLI data deletion. [![CI](https://github.com/mag123c/toktrack/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mag123c/toktrack/actions/workflows/ci.yml)
+*   [mag123c/toktrack (⭐186)](https://github.com/mag123c/toktrack) - Fast TUI/CLI that tracks token usage and cost across AI coding CLIs (Claude Code, Codex, Gemini CLI, and more), with a persistent cache that survives CLI data deletion. [![CI](https://github.com/mag123c/toktrack/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mag123c/toktrack/actions/workflows/ci.yml)
 
 ### Development tools / Workflow Automation
 
@@ -1218,7 +1228,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [aannoo/hcom (⭐440)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
+*   [aannoo/hcom (⭐465)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -1707,7 +1717,7 @@ A curated list of Rust code and resources.
 
 *   [clash-verge-rev/clash-verge-rev (⭐138k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
 *   [Edit (⭐14k)](https://github.com/microsoft/edit) - A simple editor for simple needs. [![CI](https://github.com/microsoft/edit/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/edit/actions/workflows/ci.yml)
-*   [Saga Reader (⭐533)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐535)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ### Applications / Blockchain
 
@@ -3639,7 +3649,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Sniffnet (⭐40k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐41k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 
@@ -4245,7 +4255,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐946)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
+*   [smartcorelib/smartcore (⭐950)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
 
 ## [Dec 21, 2021](/content/2021/12/21/README.md)
 
@@ -4801,7 +4811,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri (⭐110k)](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐4.9k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐111k)](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐4.9k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ## [Jul 25, 2021](/content/2021/07/25/README.md)
 
