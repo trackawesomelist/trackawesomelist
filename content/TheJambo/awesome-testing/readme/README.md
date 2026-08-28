@@ -38,7 +38,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### API Testing
 
-*   [Bruno (⭐46k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 *   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
 *   [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relavent tests are conducted with our long running agent setup.
 *   [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
@@ -65,13 +65,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### AI & LLM Testing
 
-*   [promptfoo (⭐24k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 *   [Tenro (⭐7)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 *   [voicetest (⭐31)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 *   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 *   [Evaliphy (⭐18)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 *   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
-*   [nika (⭐42)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐58)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Service Virtualization
 
@@ -135,6 +135,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [UI Coverage Tool (⭐8)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
+*   [Waterfall AI Test (⭐4)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
+
 *   [agent-qa (⭐953)](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
 
 ### Test Management
@@ -147,7 +149,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 
 *   [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
-*   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
 *   [DATAMIMIC CE (⭐37)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 *   [JSON Validation Test Cases (⭐0)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 *   [MockJutsu (⭐11)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
@@ -175,6 +176,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 *   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+*   [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
 *   [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
 *   [VertaaUX CLI (⭐0)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 *   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.

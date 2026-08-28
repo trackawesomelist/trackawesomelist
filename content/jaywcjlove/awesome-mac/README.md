@@ -12,6 +12,10 @@
 
 *   [Tracexy](https://rockxy.io/tracexy) - Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/RockxyApp/Tracexy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Productivity
+
+*   [Metrune](https://treafree.github.io/Metrune/en/) - Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### Developer Tools / Developer Utilities

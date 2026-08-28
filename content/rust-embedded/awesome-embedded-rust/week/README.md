@@ -2,9 +2,44 @@
 
 Curated list of resources for Embedded and Low-level development in the Rust programming language
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 8K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 8.1K · 🏷️ Programming Languages
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
+
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Tools / Paid and commercially available materials
+
+*   [mint (⭐3)](https://github.com/tomrford/mint) A CLI tool for firmware parametrisation. Combines data (xlsx/json) and layouts (toml) to generate static binary files (hex/mot) with support for multiple ABIs, schema fingerprinting, checksums, header generation and more.
+
+### Peripheral Access Crates / STMicroelectronics
+
+*   [`stm32h5`](https://crates.io/crates/stm32h5) - [![crates.io](https://img.shields.io/crates/v/stm32h5.svg)](https://crates.io/crates/stm32h5)
+
+### Peripheral Access Crates / Vorago
+
+*   [`va108xx`](https://github.com/us-irs/vorago-rs/tree/main/va108xx/va108xx) - [![crates.io](https://img.shields.io/crates/v/va108xx.svg)](https://crates.io/crates/va108xx)
+*   [`va416xx`](https://github.com/us-irs/vorago-rs/tree/main/va416xx/va416xx) - [![crates.io](https://img.shields.io/crates/v/va416xx.svg)](https://crates.io/crates/va416xx)
+
+### HAL implementation crates / Vorago
+
+*   [`va108xx-hal`](https://github.com/us-irs/vorago-rs/tree/main/va108xx/va108xx-hal) - [![crates.io](https://img.shields.io/crates/v/va108xx-hal.svg)](https://crates.io/crates/va108xx-hal)
+    *   [Blogpost](https://robamu.github.io/post/rust-ecosystem/)
+*   [`va416xx-hal`](https://github.com/us-irs/vorago-rs/tree/main/va416xx/va416xx-hal) - [![crates.io](https://img.shields.io/crates/v/va416xx-hal.svg)](https://crates.io/crates/va416xx-hal)
+    *   HAL implementation for VA416XX microcontrollers
+
+### Driver crates / Other
+
+*   [epdsi](https://crates.io/crates/epdsi) - SPI - E-Paper Display driver framework (SSD1680/1681/1677, UC8253, JD79661, ED2208, Pervasive Displays) - [examples (⭐0)](https://github.com/melastmohican/rust-rpico2-discovery) - [![crates.io](https://img.shields.io/crates/v/epdsi.svg)](https://crates.io/crates/epdsi)
+
+### no-std crates / WIP
+
+*   [guillotine](https://crates.io/crates/guillotine): A resource-efficient, allocation-free GUI framework built on `embedded-graphics`. [![crates.io](https://img.shields.io/crates/v/guillotine.svg)](https://crates.io/crates/guillotine)
+*   [metrology\_insight](https://crates.io/crates/metrology_insight): Embedded-first electrical metrology & power quality DSP library (IEC 61000-4-30 Class S, IEC 62053-21) - [![crates.io](https://img.shields.io/crates/v/metrology_insight.svg)](https://crates.io/crates/metrology_insight)
+
+### Firmware projects / WIP
+
+*   [YBLINK (⭐10)](https://github.com/ref42/YBLINK): Pure Rust CMSIS-DAP v2 debugger firmware and product for the HPM5301, with USB HS SWD/JTAG and a CDC ACM UART bridge.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -22,7 +57,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [scope (⭐47)](https://github.com/matheuswhite/scope-rs) Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
+*   [scope (⭐63)](https://github.com/matheuswhite/scope-rs) Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 
 ### no-std crates / WIP
 
@@ -30,7 +65,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [🤖 RS-Key (⭐349)](https://github.com/TheMaxMur/RS-Key): no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+*   [🤖 RS-Key (⭐439)](https://github.com/TheMaxMur/RS-Key): no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -90,7 +125,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [🤖 hypervisor (⭐15)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
+*   [🤖 hypervisor (⭐16)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -118,7 +153,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [embedded-test (⭐182)](https://github.com/probe-rs/embedded-test): A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
+*   [embedded-test (⭐186)](https://github.com/probe-rs/embedded-test): A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
 
 ### Driver crates / Other
 
@@ -150,11 +185,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [commitment-issues (⭐17)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
-
-### Peripheral Access Crates / STMicroelectronics
-
-*   [`stm32h7`](https://crates.io/crates/stm32h5) - [![crates.io](https://img.shields.io/crates/v/stm32h5.svg)](https://crates.io/crates/stm32h5)
+*   [commitment-issues (⭐18)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
 
 ### Peripheral Access Crates / Texas Instruments
 
@@ -253,8 +284,8 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐215)](https://github.com/ImplFerris/esp32-book))
-*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐162)](https://github.com/ImplFerris/pico-pico))
+*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐217)](https://github.com/ImplFerris/esp32-book))
+*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐164)](https://github.com/ImplFerris/pico-pico))
 
 ### Peripheral Access Crates / NXP
 
@@ -338,16 +369,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [Simplified Embedded Rust: Standard Library Edition](https://www.theembeddedrustacean.com/c/ser-std) - This book provides a quick path to start learning embedded Rust with minimal setup. Book is based on ESP devices and the Wokwi Simulator. This edition uses the standard library development approach which is based on the ESP-IDF framework.
 *   [Simplified Embedded Rust: Core Library Edition](https://www.theembeddedrustacean.com/c/ser-no-std) - This book provides a quick path to start learning embedded Rust with minimal setup. Book is based on ESP devices and the Wokwi Simulator. This edition uses the core library development approach for bare metal development.
 
-### Peripheral Access Crates / Vorago
-
-*   [`va108xx`](https://egit.irs.uni-stuttgart.de/rust/va108xx-rs) - [![crates.io](https://img.shields.io/crates/v/va108xx.svg)](https://crates.io/crates/va108xx)
-*   [`va416xx`](https://egit.irs.uni-stuttgart.de/rust/va416xx-rs) - [![crates.io](https://img.shields.io/crates/v/va416xx.svg)](https://crates.io/crates/va416xx)
-
-### HAL implementation crates / Vorago
-
-*   [`va108xx-hal`](https://egit.irs.uni-stuttgart.de/rust/va108xx-rs) - [![crates.io](https://img.shields.io/crates/v/va108xx-hal.svg)](https://crates.io/crates/va108xx-hal)
-    *   [Blogpost](https://robamu.github.io/post/rust-ecosystem/)
-
 ### Board support crates / Vorago
 
 *   [`vorago-reb1`](https://egit.irs.uni-stuttgart.de/rust/va108xx-rs) - [![crates.io](https://img.shields.io/crates/v/vorago-reb1.svg)](https://crates.io/crates/vorago-reb1)
@@ -361,7 +382,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐466)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
+*   [lorawan-encoding (⭐467)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
@@ -373,7 +394,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [prinThor (⭐223)](https://github.com/cbruiz/printhor): 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
+*   [prinThor (⭐226)](https://github.com/cbruiz/printhor): 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -416,7 +437,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. [![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)](https://crates.io/crates/embedded-cli)
-*   [lorawan-device (⭐466)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-device (⭐467)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
@@ -481,7 +502,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐434)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
+*   [ethercrab (⭐437)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 
 ### Firmware projects / WIP
 
@@ -507,7 +528,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [Stabilizer (⭐146)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐13)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐8)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
-*   [Card/IO ECG (⭐53)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
+*   [Card/IO ECG (⭐54)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
@@ -531,8 +552,8 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [espflash (⭐736)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
-*   [espup (⭐439)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
+*   [espflash (⭐742)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
+*   [espup (⭐442)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 
 ### Real-time / Real-time tools
 
@@ -546,7 +567,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐933)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐938)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -672,7 +693,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / Other
 
-*   [usbd-human-interface-device (⭐142)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐142)](https://github.com/dlkj/usbd-human-interface-device) - [![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)](https://crates.io/crates/usbd-human-interface-device)
+*   [usbd-human-interface-device (⭐144)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐144)](https://github.com/dlkj/usbd-human-interface-device) - [![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)](https://crates.io/crates/usbd-human-interface-device)
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
@@ -725,7 +746,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [drogue-device (⭐204)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
 *   [ector (⭐69)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐29)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐240)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [embedded-tls (⭐241)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs, and training materials / WIP
 
@@ -928,7 +949,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [ferros (⭐121)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
+*   [ferros (⭐120)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ### no-std crates / WIP
 
@@ -1007,7 +1028,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [DSP on STM32F407G-DISC1 (⭐37)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
+*   [DSP on STM32F407G-DISC1 (⭐38)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 
 ### no-std crates / WIP
 
@@ -1061,9 +1082,9 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
     *   [defmt (⭐1.2k)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [derive-mmio (⭐24)](https://github.com/knurling-rs/derive-mmio): Creating MMIO-friendly APIs for embedded peripherals.
-    *   [flip-link (⭐434)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐473)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [derive-mmio (⭐25)](https://github.com/knurling-rs/derive-mmio): Creating MMIO-friendly APIs for embedded peripherals.
+    *   [flip-link (⭐436)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐475)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐10)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -1267,11 +1288,11 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Real-time / Real-time Operating System (RTOS)
 
-*   [FreeRTOS-rust (⭐484)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
+*   [FreeRTOS-rust (⭐485)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
 
 ### Driver crates / WIP
 
-*   [lvgl (⭐932)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐24k)](https://github.com/littlevgl/lvgl) port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+*   [lvgl (⭐937)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐25k)](https://github.com/littlevgl/lvgl) port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -1384,7 +1405,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Driver crates / Other
 
 *   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐134)](https://github.com/mvirkkunen/usbd-serial) - [![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)](https://crates.io/crates/usbd-serial)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐114)](https://github.com/twitchyliquid64/usbd-hid) - [![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)](https://crates.io/crates/usbd-hid)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐115)](https://github.com/twitchyliquid64/usbd-hid) - [![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)](https://crates.io/crates/usbd-hid)
 *   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐14)](https://github.com/agalakhov/usbd-hid-device) - [![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)](https://crates.io/crates/usbd-hid-device)
 *   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐63)](https://github.com/btrepp/usbd-midi) - [![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)](https://crates.io/crates/usbd-midi)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐22)](https://github.com/redpfire/usbd-webusb) - [![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)](https://crates.io/crates/usbd-webusb)
@@ -1597,19 +1618,19 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐63)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs). [![crates.io](https://img.shields.io/crates/v/console-tratis.svg)](https://crates.io/crates/console-tratis)
 *   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - [![crates.io](https://img.shields.io/crates/v/cmim.svg)](https://crates.io/crates/cmim)
 *   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements [![crates.io](https://img.shields.io/crates/v/dcmimu.svg)](https://crates.io/crates/dcmimu)
-*   [gcode (⭐107)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+*   [gcode (⭐108)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
 *   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - [![crates.io](https://img.shields.io/crates/v/heapless.svg)](https://crates.io/crates/heapless)
 *   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - [![crates.io](https://img.shields.io/crates/v/ieee802154.svg)](https://crates.io/crates/ieee802154)
 *   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - [![crates.io](https://img.shields.io/crates/v/infrared.svg)](https://crates.io/crates/infrared)
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - [![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)](https://crates.io/crates/intrusive-collections)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - [![crates.io](https://img.shields.io/crates/v/managed.svg)](https://crates.io/crates/managed)
 *   [menu (⭐63)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. [![crates.io](https://img.shields.io/crates/v/menu.svg)](https://crates.io/crates/menu)
-*   [micromath (⭐485)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
+*   [micromath (⭐486)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - [![crates.io](https://img.shields.io/crates/v/nalgebra.svg)](https://crates.io/crates/nalgebra)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - [![crates.io](https://img.shields.io/crates/v/nom.svg)](https://crates.io/crates/nom)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - [![crates.io](https://img.shields.io/crates/v/null-terminated.svg)](https://crates.io/crates/null-terminated)
 *   [num-format](https://crates.io/crates/num-format): Crate for producing string representations of numbers, formatted according to international standards, e.g. "1,000,000" for US English - [![crates.io](https://img.shields.io/crates/v/num-format.svg)](https://crates.io/crates/num-format)
-*   [pc-keyboard (⭐115)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. [![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)](https://crates.io/crates/pc-keyboard)
+*   [pc-keyboard (⭐116)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. [![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)](https://crates.io/crates/pc-keyboard)
 *   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - [![crates.io](https://img.shields.io/crates/v/qei.svg)](https://crates.io/crates/qei)
 *   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - [![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)](https://crates.io/crates/qemu-exit)
 *   [register-rs (⭐50)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
@@ -1800,7 +1821,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Tools / Paid and commercially available materials
 
 *   [xargo (⭐1.1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
-    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐268)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
+    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐269)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
 
@@ -1932,7 +1953,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐63)](https://github.com/thejpster/menu), [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐115)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐63)](https://github.com/thejpster/menu), [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐116)](https://github.com/thejpster/pc-keyboard).
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -1954,7 +1975,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [svd2rust (⭐852)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐851)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - [![crates.io](https://img.shields.io/crates/v/bindgen.svg)](https://crates.io/crates/bindgen)
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 

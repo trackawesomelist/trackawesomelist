@@ -30,6 +30,10 @@
 
 *   [Nifro (⭐1)](https://github.com/PathGao/Nifro) - Turn websites into configurable desktop wallpapers, with separate views for each display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PathGao/Nifro)
 
+### Utilities / Productivity
+
+*   [Metrune](https://treafree.github.io/Metrune/en/) - Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### AI Tools / Other Tools

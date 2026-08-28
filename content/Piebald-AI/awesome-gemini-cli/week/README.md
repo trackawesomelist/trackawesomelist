@@ -8,6 +8,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
+### Agent Orchestration & CLI Tools
+
+*   [godmode (⭐26)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
+
 ### Commands & Extensions
 
 *   [ArmorGemini (⭐3)](https://github.com/armoriq/armorGemini) - Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via `BeforeTool` / `AfterTool` hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: `curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash`.
@@ -27,7 +31,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.
+*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models and APIs through one account.
 
 ### Development Tools & Utilities
 
@@ -36,7 +40,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [RunAPI MCP (⭐54)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
+*   [RunAPI MCP (⭐55)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 *   [AISO Tools MCP](https://aisotools.com/mcp) - Query a catalog of 1,636 AI tools from the CLI: keyword/category/pricing search, side-by-side comparison, and alternatives lookup, with a canonical citation URL on every result. Remote Streamable HTTP, no API key. Works with any MCP client including Gemini CLI: `gemini mcp add --transport http aisotools https://aisotools.com/api/mcp`.
 *   [Lians (⭐6)](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 *   [LWC (⭐34)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
@@ -67,7 +71,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Agent Orchestration & CLI Tools
 
 *   [Better Agent (⭐56)](https://github.com/ofekron/better-agent) - Local workspace for persistent Gemini CLI, Claude Code, and Codex sessions with detached execution, restart recovery, parallel forks, delegation, and approval gates. Source-available; free for non-commercial use.
-*   [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
+*   [Agentlas OS (⭐1.1k)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
 
 ### Commands & Extensions
 
@@ -108,7 +112,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [nika (⭐42)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
+*   [nika (⭐58)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -311,7 +315,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [hcom (⭐440)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
+*   [hcom (⭐465)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 

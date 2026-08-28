@@ -8,6 +8,14 @@ A curated list of testing resources
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
+### Software / UI & End-to-End Testing
+
+*   [Waterfall AI Test (⭐4)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
+
+### Software / Accessibility & Usability Testing
+
+*   [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
+
 ### Software / Test Automation Frameworks
 
 *   [optics-framework (⭐10)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
@@ -34,10 +42,6 @@ A curated list of testing resources
 ### Software / Visual Testing
 
 *   [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
-
-### Software / Test Data Management
-
-*   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -78,7 +82,7 @@ A curated list of testing resources
 ### Software / AI & LLM Testing
 
 *   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
-*   [nika (⭐42)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐58)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Software / Test Data Management
 
@@ -129,7 +133,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Bruno (⭐46k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 
 ### Training (Includes developer training for automation testers) / A/B Testing
 
@@ -283,7 +287,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐24k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ### Software / UI & End-to-End Testing
 

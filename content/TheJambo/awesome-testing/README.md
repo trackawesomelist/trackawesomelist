@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Aug 28, 2026](/content/2026/08/28/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Waterfall AI Test (⭐4)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
+
+### Software / Accessibility & Usability Testing
+
+*   [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
+
 ## [Aug 26, 2026](/content/2026/08/26/README.md)
 
 ### Software / Test Automation Frameworks
@@ -39,12 +49,6 @@ A curated list of testing resources
 ### Software / Visual Testing
 
 *   [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
-
-## [Aug 03, 2026](/content/2026/08/03/README.md)
-
-### Software / Test Data Management
-
-*   [sms-florin](https://flo-voice1.com) - Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
@@ -116,7 +120,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [nika (⭐42)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐58)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 
@@ -156,7 +160,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Bruno (⭐46k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
@@ -330,7 +334,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐24k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 

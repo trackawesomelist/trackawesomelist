@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Aug 28, 2026](/content/2026/08/28/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [godmode (⭐26)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
+
 ## [Aug 26, 2026](/content/2026/08/26/README.md)
 
 ### Commands & Extensions
@@ -32,7 +38,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.
+*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models and APIs through one account.
 
 ### MCP Servers
 
@@ -64,7 +70,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [RunAPI MCP (⭐54)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
+*   [RunAPI MCP (⭐55)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
@@ -102,7 +108,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
+*   [Agentlas OS (⭐1.1k)](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
 
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
@@ -142,7 +148,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [nika (⭐42)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
+*   [nika (⭐58)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
 ## [Jul 10, 2026](/content/2026/07/10/README.md)
 
@@ -415,7 +421,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [hcom (⭐440)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
+*   [hcom (⭐465)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 
 ## [Feb 05, 2026](/content/2026/02/05/README.md)
 
