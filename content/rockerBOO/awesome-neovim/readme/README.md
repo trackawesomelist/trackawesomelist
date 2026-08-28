@@ -211,7 +211,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [chrisgrieser/nvim-rulebook (⭐118)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 *   [artemave/workspace-diagnostics.nvim (⭐259)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 *   [Kurama622/clean-diagnostic (⭐12)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
-*   [tumillanino/semgrep.nvim (⭐5)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
+*   [tumillanino/semgrep.nvim (⭐6)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 
 <!--lint disable double-link -->
 
@@ -325,7 +325,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [nvim-flutter/flutter-tools.nvim (⭐1.4k)](https://github.com/nvim-flutter/flutter-tools.nvim) - Build Flutter and Dart applications using the native LSP.
 *   [brendalf/mix.nvim (⭐28)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐252)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
-*   [gennaro-tedesco/nvim-jqx (⭐338)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
+*   [gennaro-tedesco/nvim-jqx (⭐339)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 *   [nanotee/sqls.nvim (⭐258)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 *   [dmmulroy/tsc.nvim (⭐547)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (`tsc`) with results loaded into a quickfix list.
 *   [dmmulroy/ts-error-translator.nvim (⭐434)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's `ts-error-translator` for VSCode for turning messy and confusing TypeScript errors into plain English.
@@ -431,7 +431,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Prgebish/sigil.nvim (⭐35)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 *   [satozawa/graft.nvim (⭐12)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 *   [kibi2/tirenvi.nvim (⭐39)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
-*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 <!--lint disable double-link -->
 
@@ -619,7 +619,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [kevinhwang91/rnvimr (⭐845)](https://github.com/kevinhwang91/rnvimr) - A simple yet amazing file explorer.
 *   [Xuyuanp/yanil (⭐99)](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua.
 *   [ms-jpq/chadtree (⭐1.7k)](https://github.com/ms-jpq/chadtree) - File manager. Better than NERDTree.
-*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐41k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐42k)](https://github.com/sxyazi/yazi)).
 *   [nvim-neo-tree/neo-tree.nvim (⭐5.6k)](https://github.com/nvim-neo-tree/neo-tree.nvim) - Browse the file system and other tree-like structures in whatever style suits you, including sidebars, floating windows, `netrw` split style, or all of them at once.
 *   [theblob42/drex.nvim (⭐96)](https://github.com/TheBlob42/drex.nvim) - A simple and configurable file explorer written in Lua.
 *   [SidOfc/carbon.nvim (⭐190)](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer written in Lua.
@@ -892,7 +892,7 @@ then it is not supported:
 *   [ankushbhagats/pastel.nvim (⭐36)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐12)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 *   [hyperb1iss/silkcircuit (⭐55)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
-*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐22)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐19)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
 *   [Aejkatappaja/cendre (⭐144)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
@@ -943,7 +943,6 @@ then it is not supported:
 *   [zaldih/themery.nvim (⭐382)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in VSCode.
 *   [linrongbin16/colorbox.nvim (⭐50)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your editor's player.
 *   [CWood-sdf/pineapple (⭐58)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
-*   [BrunoCiccarino/gardenal](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 *   [LmanTW/themify.nvim (⭐63)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 *   [nishu-murmu/ThemeSwitch.nvim (⭐4)](https://github.com/nishu-murmu/ThemeSwitch.nvim) - Light weight color scheme switcher.
 *   [Erl-koenig/theme-hub.nvim (⭐31)](https://github.com/Erl-koenig/theme-hub.nvim) - Manage and install colorschemes via telescope-pickers.
@@ -1345,7 +1344,7 @@ then it is not supported:
 *   [pewpewnor/pilot.nvim (⭐11)](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 *   [ok97465/ipybridge.nvim (⭐13)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 *   [wsdjeg/code-runner.nvim (⭐6)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
-*   [mikeboiko/nvim-flow (⭐7)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+*   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 *   [negativo/nx-nvim (⭐5)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 *   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 *   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
@@ -1550,7 +1549,7 @@ then it is not supported:
 *   [chrisgrieser/nvim-recorder (⭐288)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 *   [sontungexpt/bim.nvim (⭐13)](https://github.com/sontungexpt/bim.nvim) - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 *   [folke/which-key.nvim (⭐7.3k)](https://github.com/folke/which-key.nvim) - Shows a popup with possible keybindings of the command you started typing.
-*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 *   [nvim-mini/mini.nvim#mini.clue (⭐9.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 *   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 *   [Iron-E/nvim-cartographer (⭐54)](https://github.com/Iron-E/nvim-cartographer) - A more convenient `:map`ping syntax for Lua environments.
@@ -1989,9 +1988,7 @@ then it is not supported:
 *   [hackorum/VapourNvim (⭐561)](https://github.com/hackorum/VapourNvim) - Configuration for the ultimate Vim IDE-like experience.
 *   [siduck76/NvChad (⭐28k)](https://github.com/siduck76/NvChad) - An attempt to make the built-in CLI as functional as an IDE while retaining beauty with less bloat.
 *   [cstsunfu/.sea.nvim (⭐148)](https://github.com/cstsunfu/.sea.nvim) - A modular configuration with a beautiful UI and some useful features such as a pomodoro clock and window numbers.
-*   [shaeinst/roshnivim (⭐210)](https://github.com/shaeinst/roshnivim) - A predefined config to save you thousands of hours to setup your editor as an IDE.
 *   [AstroNvim/AstroNvim (⭐14k)](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins.
-*   [shaunsingh/nyoom.nvim (⭐1.6k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
 *   [jrychn/moduleVim (⭐10)](https://github.com/jrychn/ModuleVim) - A very easy to use for backend and frontend, install LSP automatically.
 *   [imbacraft/dusk.nvim (⭐54)](https://github.com/imbacraft/dusk.nvim) - A lightweight, aesthetically minimal config, written in Lua, able to provide for web and Java development.
 *   [nvim-lua/kickstart.nvim (⭐31k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal configuration.

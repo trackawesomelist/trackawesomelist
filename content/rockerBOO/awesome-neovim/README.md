@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 28, 2026](/content/2026/08/28/README.md)
+
+### Code Runner / Quickfix
+
+*   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
 ### Git / Quickfix
@@ -58,7 +64,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
@@ -156,13 +162,13 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -236,7 +242,7 @@ Collections of awesome neovim plugins.
 
 ### LSP / Diagnostics
 
-*   [tumillanino/semgrep.nvim (⭐5)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
+*   [tumillanino/semgrep.nvim (⭐6)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 
 ### Code Runner / Quickfix
 
@@ -734,12 +740,6 @@ Collections of awesome neovim plugins.
 ### Database / Stats Tracking
 
 *   [joryeugene/dadbod-grip.nvim (⭐164)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
-
-## [Mar 06, 2026](/content/2026/03/06/README.md)
-
-### Code Runner / Quickfix
-
-*   [mikeboiko/nvim-flow (⭐7)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
 ## [Mar 05, 2026](/content/2026/03/05/README.md)
 
@@ -2853,10 +2853,6 @@ Collections of awesome neovim plugins.
 
 ## [Aug 13, 2024](/content/2024/08/13/README.md)
 
-### Colorscheme / Colorscheme Switchers
-
-*   [BrunoCiccarino/gardenal](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
-
 ### Workflow / Stats Tracking
 
 *   [SunnyTamang/pendulum.nvim (⭐14)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
@@ -3694,7 +3690,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Markdown and LaTeX
 
-*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐41k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐42k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Markdown and LaTeX
 
@@ -5084,7 +5080,7 @@ Collections of awesome neovim plugins.
 
 *   [brendalf/mix.nvim (⭐28)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐252)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
-*   [gennaro-tedesco/nvim-jqx (⭐338)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
+*   [gennaro-tedesco/nvim-jqx (⭐339)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 
 ### Programming Languages Support / Golang
 
@@ -5657,12 +5653,6 @@ Collections of awesome neovim plugins.
 
 *   [axieax/urlview.nvim (⭐281)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
-## [Mar 27, 2022](/content/2022/03/27/README.md)
-
-### Pre-made Configuration / Stats Tracking
-
-*   [shaunsingh/nyoom.nvim (⭐1.6k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
-
 ## [Mar 25, 2022](/content/2022/03/25/README.md)
 
 ### Syntax / Markdown and LaTeX
@@ -5794,12 +5784,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [catppuccin/nvim (⭐7.6k)](https://github.com/catppuccin/nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
-
-## [Nov 04, 2021](/content/2021/11/04/README.md)
-
-### Pre-made Configuration / Stats Tracking
-
-*   [shaeinst/roshnivim (⭐210)](https://github.com/shaeinst/roshnivim) - A predefined config to save you thousands of hours to setup your editor as an IDE.
 
 ## [Nov 03, 2021](/content/2021/11/03/README.md)
 

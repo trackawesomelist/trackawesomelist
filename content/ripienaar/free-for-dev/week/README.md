@@ -26,6 +26,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
 
+### Forms
+
+*   [Formboost.app](https://formboost.app) - Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.
+
 ### CDN and Protection
 
 *   [Microsoft Ajax](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
@@ -1117,7 +1121,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐7.8k)](https://github.com/tutao/tutanota), so you can self-host.
+*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐7.9k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -1197,7 +1201,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐33k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐34k)](https://github.com/langfuse/langfuse)
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 

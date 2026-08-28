@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 28, 2026](/content/2026/08/28/README.md)
+
+### Developer Tools / Network Analysis
+
+*   [Tracexy](https://rockxy.io/tracexy) - Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/RockxyApp/Tracexy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### Developer Tools / Developer Utilities

@@ -2,15 +2,21 @@
 
 A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mislavcimpersak/awesome-dev-fun/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) · ⭐ 626 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mislavcimpersak/awesome-dev-fun/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) · ⭐ 658 · 🏷️ Miscellaneous
 
 [ [Daily](/content/mislavcimpersak/awesome-dev-fun/README.md) / Weekly / [Overview](/content/mislavcimpersak/awesome-dev-fun/readme/README.md) ]
+
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Golang
+
+*   [termagitchi (⭐12)](https://github.com/TevvvB/termagitchi) - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Python
 
-*   [gremllm (⭐579)](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
+*   [gremllm (⭐644)](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
 *   [Yell at the clouds MCP server (⭐0)](https://github.com/Tylersuard/yell_at_the_clouds_MCP_server) - Have suppressed rage? Want to let it out by screaming at the sky? Have your AI agent tell someone to do it for you!
 
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
@@ -23,31 +29,31 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### JavaScript
 
-*   [redond-it (⭐3)](https://github.com/jazcarate/redond-it) - Remove the sharp edges of your website.
+*   [redond-it (⭐4)](https://github.com/jazcarate/redond-it) - Remove the sharp edges of your website.
 
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
 
 ### JavaScript
 
-*   [HTPL Compiler (⭐11)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
+*   [HTPL Compiler (⭐13)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Esoteric languages
 
-*   [strategic-communication (⭐310)](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
+*   [strategic-communication (⭐312)](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
 ### CLI
 
-*   [tra.sh (⭐17)](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
+*   [tra.sh (⭐16)](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
 ### JavaScript
 
-*   [eslint-plugin-replyguy (⭐419)](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
+*   [eslint-plugin-replyguy (⭐418)](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -59,25 +65,25 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [nSnake (⭐203)](https://github.com/alexdantas/nSnake) - Snake game in terminal!
+*   [nSnake (⭐228)](https://github.com/alexdantas/nSnake) - Snake game in terminal!
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
 ### Python
 
-*   [ErrorFlow (⭐9)](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
+*   [ErrorFlow (⭐10)](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
 ### JavaScript
 
-*   [jsFuck (⭐8.4k)](https://github.com/aemkei/jsfuck)
+*   [jsFuck (⭐8.6k)](https://github.com/aemkei/jsfuck)
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
 ### Python
 
-*   [RoastBot (⭐21)](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
+*   [RoastBot (⭐23)](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
 
 ## [Aug 26 - Sep 01, 2019](/content/2019/34/README.md)
 
@@ -89,7 +95,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### SaaS
 
-*   [eafd (⭐6)](https://github.com/doesdev/eafd) - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃)
+*   [eafd (⭐7)](https://github.com/doesdev/eafd) - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃)
 
 ## [Jul 15 - Jul 21, 2019](/content/2019/28/README.md)
 
@@ -107,7 +113,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CSS
 
-*   [DICSS (⭐1.4k)](https://github.com/letsgetrandy/DICSS) - Directly injected CSS.
+*   [DICSS (⭐1.3k)](https://github.com/letsgetrandy/DICSS) - Directly injected CSS.
 *   [CSS-Only Chat (⭐6.6k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 
 ### HTML
@@ -124,26 +130,26 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### JavaScript
 
-*   [not-paid.js (⭐15k)](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
+*   [not-paid.js (⭐16k)](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 
 ### Python
 
-*   [Like-my-GF (⭐404)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
+*   [Like-my-GF (⭐403)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 
 ### Esoteric languages
 
-*   [Rockstar (⭐86)](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
+*   [Rockstar (⭐89)](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
 
 ### SaaS
 
-*   [Corporate Bullshit/Buzzword Generator API (⭐325)](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
+*   [Corporate Bullshit/Buzzword Generator API (⭐352)](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 *   [shoutcloud.io](http://shoutcloud.io/) - ALL CAPS AS A SERVICE. ⬆️
 
 ### Miscellaneous
 
-*   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (⭐10k)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
+*   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (⭐11k)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
 *   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
@@ -156,7 +162,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [cmatrix (⭐4.5k)](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
+*   [cmatrix (⭐5.2k)](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 
@@ -172,7 +178,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [git-blame-someone-else (⭐11k)](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+*   [git-blame-someone-else (⭐12k)](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
@@ -196,24 +202,24 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Golang
 
-*   [gomatrix (⭐305)](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
+*   [gomatrix (⭐315)](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
 
 ### Java
 
-*   [FizzBuzzEnterpriseEdition (⭐23k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+*   [FizzBuzzEnterpriseEdition (⭐24k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 ### Ruby
 
-*   [Table Flipper (⭐328)](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions.
+*   [Table Flipper (⭐330)](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions.
 
 ### CLI
 
-*   [pipes.sh (⭐2.7k)](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
-*   [Chucknorris (⭐180k)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
+*   [pipes.sh (⭐3k)](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+*   [Chucknorris (⭐189k)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
 
 ### Miscellaneous
 
-*   [parrot.live (⭐4.2k)](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
+*   [parrot.live (⭐4.5k)](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 
 ## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
 
@@ -225,7 +231,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### JavaScript
 
-*   [is-thirteen (⭐5.9k)](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
+*   [is-thirteen (⭐6.2k)](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 
 ### SaaS
 
@@ -233,14 +239,14 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Miscellaneous
 
-*   [quinedb (⭐580)](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
-*   [πfs (⭐6.8k)](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
+*   [quinedb (⭐581)](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
+*   [πfs (⭐7.5k)](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
 
 ### JavaScript
 
-*   [undefined-is-a-function (⭐241)](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
+*   [undefined-is-a-function (⭐242)](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
 
 ### SaaS
 
@@ -256,19 +262,19 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [Sudo-Productivity (⭐204)](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
+*   [Sudo-Productivity (⭐205)](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
 
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
 
 ### CLI
 
-*   [sudont (⭐16)](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
+*   [sudont (⭐17)](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
 
 ### DevOps
 
-*   [No Code (⭐64k)](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+*   [No Code (⭐66k)](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
@@ -280,13 +286,13 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [No More Secrets (⭐7.7k)](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+*   [No More Secrets (⭐7.8k)](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
 
 ### CLI
 
-*   [genact (⭐11k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
+*   [genact (⭐12k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 *   [fat (⭐8)](https://github.com/drummyfish/fat) - Expand your files.
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
@@ -299,7 +305,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Esoteric languages
 
-*   [Spooky (⭐147)](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
+*   [Spooky (⭐152)](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 
 ## [Sep 18 - Sep 24, 2017](/content/2017/38/README.md)
 
@@ -319,7 +325,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 *   [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 *   [vapor.js (⭐1.4k)](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
-*   [fattest-cat (⭐735)](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
+*   [fattest-cat (⭐736)](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
 
 ### Esoteric languages
 
@@ -331,7 +337,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Miscellaneous
 
-*   [Filefile (⭐76)](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/README.md/Filefile).
+*   [Filefile (⭐77)](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/README.md/Filefile).
 
 ## [Apr 10 - Apr 16, 2017](/content/2017/15/README.md)
 
@@ -347,7 +353,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Browser extensions
 
-*   [Outcognito Mode (⭐12)](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts.
+*   [Outcognito Mode (⭐13)](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts.
 
 ## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
 
@@ -357,18 +363,18 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Elixir
 
-*   [OOP (⭐320)](https://github.com/wojtekmach/oop) - OOP in Elixir!
+*   [OOP (⭐327)](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 ### JavaScript
 
 *   [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
 *   [FuckitJS (⭐4.2k)](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
-*   [Sarcasm (⭐119)](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
-*   [Batonnet.js (⭐14)](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
+*   [Sarcasm (⭐120)](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
+*   [Batonnet.js (⭐16)](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
 
 ### SaaS
 
-*   [Fuck off as a Service (⭐3k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
+*   [Fuck off as a Service (⭐3.1k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
 ## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
 
@@ -386,18 +392,18 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Ruby
 
-*   [Base (⭐442)](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
+*   [Base (⭐446)](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 ## [Feb 20 - Feb 26, 2017](/content/2017/8/README.md)
 
 ### Ruby
 
-*   [Nyan Cat RSpec Formatter (⭐738)](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+*   [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 
 ### CLI
 
 *   [evil.sh (⭐2.2k)](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
-*   [sl (⭐3.1k)](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+*   [sl (⭐3.3k)](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
@@ -407,12 +413,12 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Haskell
 
-*   [hackertyper (⭐46)](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
+*   [hackertyper (⭐49)](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
 
 ### JavaScript
 
 *   [Echochamber.js (⭐4.1k)](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
-*   [Object.toSting() (⭐206)](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
+*   [Object.toSting() (⭐204)](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 
 ### PHP
 
@@ -420,12 +426,12 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### Python
 
-*   [PyTest-VW (⭐136)](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
+*   [PyTest-VW (⭐135)](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 *   [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
 
 ### Esoteric languages
 
-*   [ArnoldC (⭐6.8k)](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
+*   [ArnoldC (⭐6.9k)](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 *   [TrumpScript (⭐7.6k)](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 
 ### Browser extensions
@@ -434,7 +440,7 @@ A curated list of awesome fun libs/packages/languages that have no real purpose 
 
 ### CLI
 
-*   [Pong-command (⭐179)](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
+*   [Pong-command (⭐181)](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
 *   [Alice (⭐14)](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
-*   [cmprss (⭐5)](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
-*   [lolcat (⭐6.3k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+*   [cmprss (⭐6)](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
+*   [lolcat (⭐6.6k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!

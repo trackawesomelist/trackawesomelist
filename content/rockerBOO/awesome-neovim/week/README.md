@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### Code Runner / Quickfix
+
+*   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### AI / Diagnostics
@@ -50,7 +56,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [itsfernn/vimtex-follow (⭐20)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -107,7 +113,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐66)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix
@@ -120,7 +126,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐52)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ### Editing Support / Scrollbar
 
@@ -177,7 +183,7 @@ Collections of awesome neovim plugins.
 
 ### LSP / Diagnostics
 
-*   [tumillanino/semgrep.nvim (⭐5)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
+*   [tumillanino/semgrep.nvim (⭐6)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 
 ### Programming Languages Support / Web Development
 
@@ -594,7 +600,6 @@ Collections of awesome neovim plugins.
 ### Code Runner / Quickfix
 
 *   [hadishahpuri/nvimlaunch (⭐11)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
-*   [mikeboiko/nvim-flow (⭐7)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
 ### Database / Stats Tracking
 
@@ -2417,10 +2422,6 @@ Collections of awesome neovim plugins.
 
 *   [neolooong/whichpy.nvim (⭐35)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 
-### Colorscheme / Colorscheme Switchers
-
-*   [BrunoCiccarino/gardenal](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
-
 ### Keybinding / Tree-sitter Based
 
 *   [mawkler/demicolon.nvim (⭐133)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.8k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
@@ -3094,7 +3095,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Markdown and LaTeX
 
-*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐41k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐100)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐42k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Markdown and LaTeX
 
@@ -4210,7 +4211,7 @@ Collections of awesome neovim plugins.
 
 *   [brendalf/mix.nvim (⭐28)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐252)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
-*   [gennaro-tedesco/nvim-jqx (⭐338)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
+*   [gennaro-tedesco/nvim-jqx (⭐339)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 
 ### Programming Languages Support / Golang
 
@@ -4752,10 +4753,6 @@ Collections of awesome neovim plugins.
 
 *   [m-demare/hlargs.nvim (⭐573)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Tree-sitter.
 
-### Pre-made Configuration / Stats Tracking
-
-*   [shaunsingh/nyoom.nvim (⭐1.6k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
-
 ### UI / OS-specific
 
 *   [toppair/reach.nvim (⭐243)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
@@ -4867,7 +4864,6 @@ Collections of awesome neovim plugins.
 ### Pre-made Configuration / Stats Tracking
 
 *   [artart222/CodeArt (⭐904)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
-*   [shaeinst/roshnivim (⭐210)](https://github.com/shaeinst/roshnivim) - A predefined config to save you thousands of hours to setup your editor as an IDE.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
