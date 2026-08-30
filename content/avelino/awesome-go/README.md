@@ -8,6 +8,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
+### Financial
+
+*   [kucoin-go (⭐6)](https://github.com/tigusigalpa/kucoin-go) - Go client for KuCoin UTA and Classic REST & WebSocket APIs with HMAC-SHA256 auth, string-typed prices, and typed error hierarchy.
+
+### Networking
+
+*   [ws-reconnect (⭐0)](https://github.com/sing198/ws-reconnect) - Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [ScheduleGate (⭐1)](https://github.com/gjunqueira-sys/ScheduleGate) - DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.

@@ -90,6 +90,7 @@
 *   **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 *   **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 *   [Bytebase](https://www.bytebase.com) — Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.
+*   [scythe (⭐65)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   **sleek** :warning: — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 *   **sqlcheck** :warning: — Automatically identify anti-patterns in SQL queries.
 *   [tsqllint (⭐230)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.

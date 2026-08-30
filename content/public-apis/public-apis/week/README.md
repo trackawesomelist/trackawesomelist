@@ -8,6 +8,31 @@ A collective list of free APIs
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
+### Business
+
+- API: [Katalis UK Company Enrichment](https://meetkatalis.com/apis)
+
+  Description: Verified UK company profiles with an AI summary and accuracy score, from Companies House data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TradeDataHub](https://www.tradedatahub.net)
+
+  Description: U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Cryptocurrency
 
 - API: [BTCGlobe](https://btcglobe.live/join#makers)
@@ -36,6 +61,31 @@ A collective list of free APIs
 
 
 
+### Development
+
+- API: [Aquanode](https://docs.aquanode.io/docs/api/marketplace)
+
+  Description: Live GPU rental prices and availability across nine cloud providers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Scrax](https://rapidapi.com/mtaahoperators/api/scrax)
+
+  Description: Web scraping API that only bills for successful scrapes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Email
 
 - API: [SMTPfast](https://smtpfa.st/docs)
@@ -43,6 +93,20 @@ A collective list of free APIs
   Description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Environment
+
+- API: [WattFigure](https://api.wattfigure.com/)
+
+  Description: US electricity rates by state, with appliance and EV charging running costs
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -74,6 +138,19 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs)
+
+  Description: Point-in-time quarterly revenue for 20 U.S. issuers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
 - API: [TickerLayer](https://tickerlayer.com)
 
   Description: Real-time and historical market data for stocks, forex, crypto and more
@@ -85,6 +162,34 @@ A collective list of free APIs
   CORS: Unknown
 
   : 
+
+
+
+### Games & Comics
+
+- API: [DotaSense Timings](https://dotasense.com/cheat-sheet#timing-api)
+
+  Description: Reviewed Dota 2 objective timings in JSON and CSV
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [PublicDataHub](https://publicdatahub.org/api)
+
+  Description: US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -123,6 +228,34 @@ A collective list of free APIs
   Description: Football fixtures, results, standings and historical odds with corner and card lines
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Test Data
+
+- API: [flaky](https://flakyapi.dev)
+
+  Description: Fake REST API with chaos controls: force any status code, add latency, or a failure rate
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Wander Atlas](https://wanderatlasguides.com/api/)
+
+  Description: Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries
+
+  Auth: No
 
   HTTPS: Yes
 

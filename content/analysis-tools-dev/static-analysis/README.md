@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Aug 30, 2026](/content/2026/08/30/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [scythe (⭐65)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+
 ## [Aug 29, 2026](/content/2026/08/29/README.md)
 
 ### Programming Languages / [Other](#other-1)

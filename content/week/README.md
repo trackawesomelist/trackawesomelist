@@ -221,159 +221,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [GlobalAppTesting TechTalks](https://drive.google.com/drive/folders/1D4LPXUnT9_r8j4Qd1t0qsJLXHh95DPMJ?usp=share_link) - Library of public tech talks focused on DDD and CQRS.
 
-#### [22. Public Apis](/content/public-apis/public-apis/README.md)
-
-##### Cryptocurrency
-
-- API: [BTCGlobe](https://btcglobe.live/join#makers)
-
-  Description: Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Currency Exchange
-
-- API: [CurrencyBeacon](https://currencybeacon.com/)
-
-  Description: Real-time and historical currency exchange rates with free tier
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Email
-
-- API: [SMTPfast](https://smtpfa.st/docs)
-
-  Description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Finance
-
-- API: [EOD Historical Data](https://eodhd.com/)
-
-  Description: Real-time and historical stock market data with 150+ exchanges
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [LiquiLens](https://liquilens.in/developers/)
-
-  Description: Public-record bank and lender failure-risk evidence
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [TickerLayer](https://tickerlayer.com)
-
-  Description: Real-time and historical market data for stocks, forex, crypto and more
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
-
-
-##### Science & Math
-
-- API: [NASA InSight](https://api.nasa.gov/)
-
-  Description: Mars weather data from InSight lander
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Social
-
-- API: [SocialCrawl](https://www.socialcrawl.dev/docs)
-
-  Description: Social and commerce data from 50+ platforms in one JSON schema
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Sports & Fitness
-
-- API: [5DollarFootball](https://5dollarfootballapi.com/)
-
-  Description: Football fixtures, results, standings and historical odds with corner and card lines
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Video
-
-- API: [KinoPipe](https://kinopipe.com/docs)
-
-  Description: Typed hosted video editing operations for agents and automation
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-
-##### Weather
-
-- API: [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api)
-
-  Description: Weather ensemble forecasts from multiple models
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-#### [23. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+#### [22. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ##### Getting Started
 
@@ -676,7 +524,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [App.js Conf](https://appjs.co) - Expo and React Native conference, Kraków, Poland.
 *   [React Universe Conf](https://www.reactuniverseconf.com) - Callstack's conference (formerly React Native EU), Wrocław, Poland.
 
-#### [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [23. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -686,13 +534,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) \[01:46:51]
 
-#### [25. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [24. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Observability & Monitoring / Ralph Wiggum
 
 *   [seedeep (⭐2)](https://github.com/duqaXxX/seedeep) by [duqaXxX](https://github.com/duqaXxX) - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.\ <img src="https://img.shields.io/github/created-at/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/duqaXxX/seedeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-#### [26. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [25. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Customization
 
@@ -702,7 +550,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 
-#### [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### C / General-Purpose Machine Learning
 
@@ -717,7 +565,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [pyinterpret (⭐1)](https://github.com/mowne67/pyinterpret) - Unified API for SHAP, LIME, permutation importance, and partial dependence explanations.
 
-#### [28. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+#### [27. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 - Name: [Recidiv (⭐42)](https://github.com/antirez/recidiv)
 
   Description: minimal continuous integration framework written in Tcl (used for Redis CI)
@@ -728,7 +576,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [29. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+#### [28. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ##### Apps
 
@@ -736,7 +584,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 *   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
-#### [30. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+#### [29. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ##### AI
 
@@ -750,102 +598,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
 
-#### [31. Awesome Qgis](/content/totpero/awesome-qgis/README.md)
+#### [30. Awesome Qgis](/content/totpero/awesome-qgis/README.md)
 
 ##### Plugins / Remote Sensing
 
 *   [AI Segmentation by TerraLab](https://plugins.qgis.org/plugins/AI_Segmentation/) - Point-and-click AI segmentation of buildings, trees and any object into vector polygons, with a free local mode.
 
-#### [32. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
-*   [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
-
-##### Security and PKI
-
-*   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
-
-##### Monitoring
-
-*   [cronalive.com](https://cronalive.com) - Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.
-*   [DeadBro](https://www.deadbro.com) - Rails APM with request-based pricing: live traces, slow SQL, N+1 detection, and error tracking. Free forever for 50k requests/month, 7-day retention, 1 app, 1 uptime check, and email alerts. No credit card required.
-
-##### Email
-
-*   [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
-
-##### Forms
-
-*   [Formboost.app](https://formboost.app) - Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.
-
-##### CDN and Protection
-
-*   [Microsoft Ajax](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
-
-##### PaaS
-
-*   [faable.com](https://faable.com/) - Deploy apps with framework auto-detection for Python and Node.js. The free tier includes one 0.5 CPU / 1 GB RAM instance per project, 10 GB bandwidth, 10 successful deploys per day, automatic SSL and a built-in WAF, plus OAuth 2.0 / OIDC authentication. Apps sleep after 2 hours without traffic. European servers.
-
-##### Design and UI
-
-*   [JoyDemo](https://joydemo.com) - Create interactive and clickable demos of your website or app. Free with unlimited demos and unlimited views.
-
-##### Screenshot APIs
-
-*   [Renderwolf](https://ironfang.uk/renderwolf) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
-
-#### [33. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+#### [31. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ##### Golang
 
 *   [termagitchi (⭐12)](https://github.com/TevvvB/termagitchi) - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
 
-#### [34. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
-
-##### Agent Orchestration & CLI Tools
-
-*   [godmode (⭐26)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
-
-##### Commands & Extensions
-
-*   [ArmorGemini (⭐3)](https://github.com/armoriq/armorGemini) - Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via `BeforeTool` / `AfterTool` hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: `curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash`.
-*   [Punchcard (⭐1)](https://github.com/Maksim-Burtsev/punchcard) - Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with `npx skills add Maksim-Burtsev/punchcard -a gemini-cli`.
-
-##### MCP Servers
-
-*   [deja-vu (⭐681)](https://github.com/vshulcz/deja-vu) - Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: `deja install gemini-auto`.
-
-#### [35. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+#### [32. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ##### Blockchain dump
 
 *   [nodsig (⭐0)](https://github.com/amenano/nodsig) - Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.
 
-#### [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Communication - Email - Webmail Clients
-
-*   [SnappyMail (⭐1.7k)](https://github.com/the-djmaze/snappymail) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). `AGPL-3.0` `PHP`
-
-##### Software / Genealogy
-
-*   [GeneWeb (⭐396)](https://github.com/geneweb/geneweb/wiki) - Genealogy software that can be used offline or as a Web service. ([Source Code (⭐396)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
-
-##### Software / Media Management
-
-*   [Ratelog](https://ratelog.org) - Movie tracker and rating app (alternative to Letterboxd). ([Source Code (⭐13)](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`
-
-##### Software / Media Streaming - Audio Streaming
-
-*   [musikcube (⭐4.8k)](https://github.com/clangen/musikcube) - Streaming audio server with Linux/macOS/Windows/Android clients. `BSD-3-Clause` `C++/deb`
-
-##### Software / Video Surveillance
-
-*   [Bluecherry (⭐274)](https://github.com/bluecherrydvr/bluecherry-apps) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`
-
-#### [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Tools / Paid and commercially available materials
 
@@ -880,7 +651,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YBLINK (⭐10)](https://github.com/ref42/YBLINK): Pure Rust CMSIS-DAP v2 debugger firmware and product for the HPM5301, with USB HS SWD/JTAG and a CDC ACM UART bridge.
 
-#### [38. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [34. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / UI & End-to-End Testing
 
@@ -894,13 +665,188 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [optics-framework (⭐10)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
-#### [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Artificial Intelligence
 
 *   [AI Agent Evaluation](https://hallieren.github.io/ai-agent-evaluation/) - Hallie Ren (HTML) *( :construction: in process)* (CC BY-NC-SA)
 
-#### [40. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [36. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+##### Software / Automation
+
+*   [parse-dmarc](https://dmarcguard.io) `⚠` - DMARC aggregate report parser with a built-in dashboard. Fetches reports over IMAP, stores them, and flags spoofing. Single Go binary with embedded Vue UI, SQLite storage, and Prometheus metrics (alternative to PowerDMARC, EasyDMARC, Dmarcian). ([Source Code (⭐197)](https://github.com/dmarcguardhq/dmarcguard), [Clients (⭐1.3k)](https://github.com/domainaware/parsedmarc)) `Apache-2.0` `Go/Docker`
+
+##### Software / Identity Management - LDAP
+
+*   [Wren:DS](https://wrensecurity.org/projects/wrends/) - LDAPv3-compliant directory service providing a high-performance, highly available, and secure identity data store for enterprise environments. ([Source Code (⭐45)](https://github.com/WrenSecurity/wrends)) `CDDL-1.0` `Java`
+
+##### Software / Identity Management - Single Sign-On (SSO)
+
+*   [Wren:AM](https://wrensecurity.org/projects/wrenam/) - Access management platform providing adaptive authentication, SSO, federation, and fine-grained authorization for web and API resources. ([Source Code (⭐55)](https://github.com/WrenSecurity/wrenam)) `CDDL-1.0` `Java`
+*   [Wren:IG](https://wrensecurity.org/projects/wrenig/) - Identity gateway and reverse proxy enforcing authentication, authorization, and SSO without requiring application changes. ([Source Code (⭐7)](https://github.com/WrenSecurity/wrenig)) `CDDL-1.0` `Java`
+
+##### Software / Identity Management - Tools and web interfaces
+
+*   [Wren:IDM](https://wrensecurity.org/projects/wrenidm/) - Identity management and governance platform for lifecycle management, access governance, and comprehensive auditability. ([Source Code (⭐48)](https://github.com/WrenSecurity/wrenidm)) `CDDL-1.0` `Java`
+
+#### [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Code Runner / Quickfix
+
+*   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+
+#### [38. Magictools](/content/ellisonleao/magictools/README.md)
+
+##### Graphics / Terrain Generators
+
+*   :free: [WorldLoop (⭐3)](https://github.com/Daniele-Cangi/worldloop-technical-showcase) - Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio
+
+##### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Excalibur.js](https://excaliburjs.com/) - Your friendly TypeScript 2D game engine for the web.
+*   :tada: [GameFrameX (⭐642)](https://github.com/GameFrameX/GameFrameX) - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
+
+#### [39. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+##### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+##### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+#### [40. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications
+
+*   [newdee/magpie (⭐68)](https://github.com/newdee/magpie) - Local-first Spotlight-style launcher that searches your GitHub stars, local files, images, and videos semantically, fully on-device. [![CI](https://github.com/newdee/magpie/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/newdee/magpie/actions/workflows/ci.yml)
+*   [openma-ai/Martty (⭐57)](https://github.com/openma-ai/Martty) - A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents. [![CI](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml/badge.svg?branch=main)](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml)
+
+##### Applications / System tools
+
+*   [vyrti/cleaner (⭐52)](https://github.com/vyrti/cleaner) - Fastest disk space usage analyzer and cleaner for Windows, macOS, Linux, and FreeBSD. [![CI](https://github.com/vyrti/cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/vyrti/cleaner/actions)
+
+##### Applications / Utilities
+
+*   [rleeon/hoard (⭐83)](https://github.com/rleeon/hoard) - Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage. [![CI](https://github.com/rleeon/hoard/actions/workflows/ci.yml/badge.svg)](https://github.com/rleeon/hoard/actions/workflows/ci.yml)
+
+##### Applications / Video
+
+*   [vuiodev/vuio (⭐150)](https://github.com/vuiodev/vuio) - DLNA media server with support for Linux, macOS, Windows, and Docker
+
+##### Applications / Web
+
+*   [IndexFlowing/IndexFlow-core (⭐51)](https://github.com/IndexFlowing/IndexFlow-core) - Self-hosted SEO indexing infrastructure for managing sitemaps, URL submissions, and search engine indexing.
+
+##### Development tools / Static analysis
+
+*   [kucherenko/jscpd (⭐6.1k)](https://github.com/kucherenko/jscpd) \[[jscpd](https://crates.io/crates/jscpd)] - Copy/paste detector for source code that finds duplicated blocks across 220+ file formats [![CI](https://github.com/kucherenko/jscpd/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/kucherenko/jscpd/actions/workflows/rust.yml)
+
+##### Libraries / Finance
+
+*   [wickra-lib/wickra (⭐50)](https://github.com/wickra-lib/wickra) \[[wickra](https://crates.io/crates/wickra)] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R. [![CI](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml)
+
+##### Libraries / Simulation
+
+*   [rsasaki0109/rust\_robotics (⭐253)](https://github.com/rsasaki0109/rust_robotics) \[[rust\_robotics](https://crates.io/crates/rust_robotics)] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no\_std support and ROS 2 examples [![CI](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml)
+
+#### [41. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
+
+##### :art:   Themes
+
+*   [More Slack Themes](https://slack.michaeldemar.co) - Browse, create, and share Slack themes.
+
+##### :hammer_and_wrench:   Libraries and SDKs / Ballerina
+
+*   [ballerina-slack-library (⭐108)](https://github.com/ballerina-platform/module-ballerinax-slack) - Ballerina library for Slack.
+
+##### :hammer_and_wrench:   Libraries and SDKs / JavaScript/TypeScript
+
+*   [appstore-webhook-proxy (⭐27)](https://github.com/yannisalexiou/appstore-webhook-proxy) - App Store Webhook Proxy for Microsoft Teams & Slack.
+
+##### :gear:   Open-Source Slack Apps and Integrations / JavaScript/Typescript
+
+*   [SlackONOS (⭐135)](https://github.com/htilly/SlackONOS) - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
+
+##### :gear:   Open-Source Slack Apps and Integrations / Ruby
+
+*   [ZReviewTender (⭐62)](https://github.com/ZhgChgLi/ZReviewTender) - A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.
+
+#### [42. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+##### 3D
+
+*   [Luphra](https://www.luphra.com/) - Prompt-to-matter: AI that turns prompts and sketches into editable 3D and physical products. `#freemium`
+
+##### Developer Tools
+
+*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+
+#### [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [ansible-fzf (⭐0)](https://github.com/alexiszamanidis/zsh-ansible-fzf/) - A plugin that completes ansible-playbook tags and works with fzf-tab.
+*   [cage (⭐0)](https://github.com/matijaoe/cage.plugin.zsh) - Adds command for [age (⭐23k)](https://github.com/FiloSottile/age). It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.
+*   [deja (⭐670)](https://github.com/Giammarco-Ferranti/deja) - Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.
+*   [dual-history (⭐0)](https://github.com/odurif0/zsh-dual-history) - Keeps AI coding agent instructions (such as Forge's `:`-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns `Ctrl+R` into an fzf interface switchable between All, Human and AI views, merged chronologically.
+*   [git-branch (⭐4)](https://github.com/cpwillis/omz-git-branch) - Augments `git` features, designed especially for users who prefer aesthetically pleasing branch naming conventions. It visually formats the current `git` branch name or commit hash, considering customisable variables like hiding status, maximum branch length, prefix, and suffix trimming, with an option to display `git status`.
+*   [histpop (⭐0)](https://github.com/undefined443/histpop) - Removes the last record from `~/.zsh_history`. Useful right after running a command you don't want kept in your shell history (e.g. one containing a typo'd password or a temporary secret). Running `histpop` itself is also removed from history, so it leaves no trace.
+*   [psmon (⭐0)](https://github.com/dumidusw/psmon) - Lightweight interactive process monitor using standard Linux utilities (`ps`, `awk`, `lsof`) with live watch mode, resource sorting, and tree-aware process killing.
+*   [ssh-git-operations (⭐0)](https://github.com/phongphuhanam/ssh-git-operations) - Provides secure, authenticated `git` `push`/`pull`/`fetch` operations over SSH to remote machines using GitHub token authentication. **Tokens are never persisted on remote machines**.
+*   [worktrunk (⭐2)](https://github.com/kguzek/zsh-worktrunk) - Inspired by the [oh-my-zsh](https://ohmyz.sh/) [git plugin (⭐189k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) and provides aliases and a few useful functions for working with [worktrunk (⭐6.7k)](https://github.com/max-sixty/worktrunk).
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [mtsh (⭐4)](https://github.com/FPGArtktic/ohmyzsh-mtsh-theme) - Multi-line prompt for multi-user and DevOps machines. Includes decorators for the date and time, the address of the interface that reaches the default route, CPU and memory use, the number of logged-in users, `git` branch and status, and the exit code and duration of the last command. No fonts are required.
+
+#### [44. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+##### 3D Gaussian Splatting / YouTube Playables
+
+*   [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
+*   [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
+
+#### [45. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+
+##### Tutorials / YouTube
+
+*   [Greasemonkey Tutorial for Beginners](https://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
+
+##### Additional Catalogues / YouTube
+
+*   [UserScripts Mirror](https://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
+
+#### [46. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+##### Popular AI Tools
+
+*   [Github Wiki Generator (⭐0)](https://github.com/Samyc2002/GithubWikiGenerator)
+
+#### [47. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+##### Agent Orchestration & CLI Tools
+
+*   [godmode (⭐26)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
+
+##### Commands & Extensions
+
+*   [ArmorGemini (⭐3)](https://github.com/armoriq/armorGemini) - Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via `BeforeTool` / `AfterTool` hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: `curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash`.
+*   [Punchcard (⭐1)](https://github.com/Maksim-Burtsev/punchcard) - Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with `npx skills add Maksim-Burtsev/punchcard -a gemini-cli`.
+*   [Knowledge Delta Skills (⭐2)](https://github.com/sergeyizmailov/knowledge-delta-skills) - Portable `SKILL.md` skills for media buying, frontend, security, research, and skill authoring, each kept to what a frontier model does not already reliably know. Copy any skill directory into `~/.gemini/skills/` and Gemini CLI discovers it.
+
+##### API Bridges & Proxies
+
+*   [CLIProxyAPI (⭐49k)](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
+*   [TeamoRouter](https://teamorouter.cn) - Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).
+
+##### MCP Servers
+
+*   [deja-vu (⭐681)](https://github.com/vshulcz/deja-vu) - Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: `deja install gemini-auto`.
+
+#### [48. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Meaning of symbols
 
@@ -984,6 +930,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 *   **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 *   [Bytebase](https://www.bytebase.com) — Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.
+*   [scythe (⭐65)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   **sleek** :warning: — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 *   **sqlcheck** :warning: — Automatically identify anti-patterns in SQL queries.
 *   [tsqllint (⭐230)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
@@ -1076,53 +1023,360 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [weave (⭐1.3k)](https://github.com/Ataraxy-Labs/weave) — Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.
 *   **Wotan** :warning: — Pluggable TypeScript and JavaScript linter.
 
-#### [41. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+#### [49. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-##### Software / Automation
+##### APIs, Data, and ML
 
-*   [parse-dmarc](https://dmarcguard.io) `⚠` - DMARC aggregate report parser with a built-in dashboard. Fetches reports over IMAP, stores them, and flags spoofing. Single Go binary with embedded Vue UI, SQLite storage, and Prometheus metrics (alternative to PowerDMARC, EasyDMARC, Dmarcian). ([Source Code (⭐197)](https://github.com/dmarcguardhq/dmarcguard), [Clients (⭐1.3k)](https://github.com/domainaware/parsedmarc)) `Apache-2.0` `Go/Docker`
+*   [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
+*   [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
 
-##### Software / Identity Management - LDAP
+##### Security and PKI
 
-*   [Wren:DS](https://wrensecurity.org/projects/wrends/) - LDAPv3-compliant directory service providing a high-performance, highly available, and secure identity data store for enterprise environments. ([Source Code (⭐45)](https://github.com/WrenSecurity/wrends)) `CDDL-1.0` `Java`
+*   [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
 
-##### Software / Identity Management - Single Sign-On (SSO)
+##### Monitoring
 
-*   [Wren:AM](https://wrensecurity.org/projects/wrenam/) - Access management platform providing adaptive authentication, SSO, federation, and fine-grained authorization for web and API resources. ([Source Code (⭐55)](https://github.com/WrenSecurity/wrenam)) `CDDL-1.0` `Java`
-*   [Wren:IG](https://wrensecurity.org/projects/wrenig/) - Identity gateway and reverse proxy enforcing authentication, authorization, and SSO without requiring application changes. ([Source Code (⭐7)](https://github.com/WrenSecurity/wrenig)) `CDDL-1.0` `Java`
+*   [cronalive.com](https://cronalive.com) - Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.
+*   [DeadBro](https://www.deadbro.com) - Rails APM with request-based pricing: live traces, slow SQL, N+1 detection, and error tracking. Free forever for 50k requests/month, 7-day retention, 1 app, 1 uptime check, and email alerts. No credit card required.
 
-##### Software / Identity Management - Tools and web interfaces
+##### Email
 
-*   [Wren:IDM](https://wrensecurity.org/projects/wrenidm/) - Identity management and governance platform for lifecycle management, access governance, and comprehensive auditability. ([Source Code (⭐48)](https://github.com/WrenSecurity/wrenidm)) `CDDL-1.0` `Java`
+*   [Unitpost](https://www.unitpost.com/) - AI-First Transactional & Marketing Email Service. Free tier: 5,000 emails/mo, 200 emails/day, 10,000 contacts, 5 domains. No credit card required. SDKs, MCP and REST API available.
+*   [Is It Disposable](https://isitdisposable.com/) - Detect and block disposable email addresses. Free plan of 250 lookups a month and no card required.
+*   [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
 
-#### [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+##### Forms
 
-##### Code Runner / Quickfix
+*   [Formboost.app](https://formboost.app) - Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.
 
-*   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+##### CDN and Protection
 
-#### [43. Magictools](/content/ellisonleao/magictools/README.md)
+*   [Microsoft Ajax](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
 
-##### Graphics / Terrain Generators
+##### PaaS
 
-*   :free: [WorldLoop (⭐3)](https://github.com/Daniele-Cangi/worldloop-technical-showcase) - Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio
+*   [faable.com](https://faable.com/) - Deploy apps with framework auto-detection for Python and Node.js. The free tier includes one 0.5 CPU / 1 GB RAM instance per project, 10 GB bandwidth, 10 successful deploys per day, automatic SSL and a built-in WAF, plus OAuth 2.0 / OIDC authentication. Apps sleep after 2 hours without traffic. European servers.
 
-##### Engines and Frameworks / Voxel Editors
+##### Design and UI
 
-*   :tada: [Excalibur.js](https://excaliburjs.com/) - Your friendly TypeScript 2D game engine for the web.
-*   :tada: [GameFrameX (⭐642)](https://github.com/GameFrameX/GameFrameX) - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
+*   [JoyDemo](https://joydemo.com) - Create interactive and clickable demos of your website or app. Free with unlimited demos and unlimited views.
 
-#### [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+##### Screenshot APIs
 
-##### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+*   [Renderwolf](https://ironfang.uk/renderwolf) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
 
-*   [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+#### [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-##### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+##### Software / Communication - Email - Webmail Clients
 
-*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [SnappyMail (⭐1.7k)](https://github.com/the-djmaze/snappymail) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). `AGPL-3.0` `PHP`
 
-#### [45. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+##### Software / Genealogy
+
+*   [GeneWeb (⭐396)](https://github.com/geneweb/geneweb/wiki) - Genealogy software that can be used offline or as a Web service. ([Source Code (⭐396)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
+
+##### Software / Knowledge Management Tools
+
+*   [memEx](https://gitlab.com/shibaobun/memex) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
+
+##### Software / Media Management
+
+*   [Ratelog](https://ratelog.org) - Movie tracker and rating app (alternative to Letterboxd). ([Source Code (⭐13)](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`
+
+##### Software / Media Streaming - Audio Streaming
+
+*   [musikcube (⭐4.8k)](https://github.com/clangen/musikcube) - Streaming audio server with Linux/macOS/Windows/Android clients. `BSD-3-Clause` `C++/deb`
+
+##### Software / Video Surveillance
+
+*   [Bluecherry (⭐274)](https://github.com/bluecherrydvr/bluecherry-apps) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`
+
+#### [51. Public Apis](/content/public-apis/public-apis/README.md)
+
+##### Business
+
+- API: [Katalis UK Company Enrichment](https://meetkatalis.com/apis)
+
+  Description: Verified UK company profiles with an AI summary and accuracy score, from Companies House data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TradeDataHub](https://www.tradedatahub.net)
+
+  Description: U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Cryptocurrency
+
+- API: [BTCGlobe](https://btcglobe.live/join#makers)
+
+  Description: Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Currency Exchange
+
+- API: [CurrencyBeacon](https://currencybeacon.com/)
+
+  Description: Real-time and historical currency exchange rates with free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Development
+
+- API: [Aquanode](https://docs.aquanode.io/docs/api/marketplace)
+
+  Description: Live GPU rental prices and availability across nine cloud providers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Scrax](https://rapidapi.com/mtaahoperators/api/scrax)
+
+  Description: Web scraping API that only bills for successful scrapes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### Email
+
+- API: [SMTPfast](https://smtpfa.st/docs)
+
+  Description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Environment
+
+- API: [WattFigure](https://api.wattfigure.com/)
+
+  Description: US electricity rates by state, with appliance and EV charging running costs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Finance
+
+- API: [EOD Historical Data](https://eodhd.com/)
+
+  Description: Real-time and historical stock market data with 150+ exchanges
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LiquiLens](https://liquilens.in/developers/)
+
+  Description: Public-record bank and lender failure-risk evidence
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs)
+
+  Description: Point-in-time quarterly revenue for 20 U.S. issuers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+- API: [TickerLayer](https://tickerlayer.com)
+
+  Description: Real-time and historical market data for stocks, forex, crypto and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+##### Games & Comics
+
+- API: [DotaSense Timings](https://dotasense.com/cheat-sheet#timing-api)
+
+  Description: Reviewed Dota 2 objective timings in JSON and CSV
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Open Data
+
+- API: [PublicDataHub](https://publicdatahub.org/api)
+
+  Description: US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Science & Math
+
+- API: [NASA InSight](https://api.nasa.gov/)
+
+  Description: Mars weather data from InSight lander
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Social
+
+- API: [SocialCrawl](https://www.socialcrawl.dev/docs)
+
+  Description: Social and commerce data from 50+ platforms in one JSON schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Sports & Fitness
+
+- API: [5DollarFootball](https://5dollarfootballapi.com/)
+
+  Description: Football fixtures, results, standings and historical odds with corner and card lines
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Test Data
+
+- API: [flaky](https://flakyapi.dev)
+
+  Description: Fake REST API with chaos controls: force any status code, add latency, or a failure rate
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Transportation
+
+- API: [Wander Atlas](https://wanderatlasguides.com/api/)
+
+  Description: Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Video
+
+- API: [KinoPipe](https://kinopipe.com/docs)
+
+  Description: Typed hosted video editing operations for agents and automation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+##### Weather
+
+- API: [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api)
+
+  Description: Weather ensemble forecasts from multiple models
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+#### [52. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Developer Utilities
 
@@ -1133,10 +1387,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tracexy](https://rockxy.io/tracexy) - Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/RockxyApp/Tracexy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+##### Design and Product / Screenshot Tools
+
+*   [Snapzy](https://snapzy.app/) - Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duongductrong/Snapzy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ##### AI Tools / Other Tools
 
 *   [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dotcomjack/grux) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [SpotAsk (⭐9)](https://github.com/shiquda/SpotAsk) - Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shiquda/SpotAsk)
+
+##### Voice-to-Text / Audio Record and Process
+
+*   [LocalScribe (⭐11)](https://github.com/maddylaneeee/ShengJi) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maddylaneeee/ShengJi) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ##### Utilities / Clipboard Tools
 
@@ -1149,6 +1411,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### Utilities / Cleanup and Uninstall
 
+*   [Mole](https://mole.fit/) - Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring. ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jithin-sabu/purge-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ##### Utilities / General Tools
@@ -1159,109 +1422,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Metrune](https://treafree.github.io/Metrune/en/) - Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [46. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications
-
-*   [newdee/magpie (⭐68)](https://github.com/newdee/magpie) - Local-first Spotlight-style launcher that searches your GitHub stars, local files, images, and videos semantically, fully on-device. [![CI](https://github.com/newdee/magpie/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/newdee/magpie/actions/workflows/ci.yml)
-*   [openma-ai/Martty (⭐57)](https://github.com/openma-ai/Martty) - A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents. [![CI](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml/badge.svg?branch=main)](https://github.com/openma-ai/Martty/actions/workflows/package-npm.yml)
-
-##### Applications / System tools
-
-*   [vyrti/cleaner (⭐52)](https://github.com/vyrti/cleaner) - Fastest disk space usage analyzer and cleaner for Windows, macOS, Linux, and FreeBSD. [![CI](https://github.com/vyrti/cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/vyrti/cleaner/actions)
-
-##### Applications / Utilities
-
-*   [rleeon/hoard (⭐83)](https://github.com/rleeon/hoard) - Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage. [![CI](https://github.com/rleeon/hoard/actions/workflows/ci.yml/badge.svg)](https://github.com/rleeon/hoard/actions/workflows/ci.yml)
-
-##### Applications / Video
-
-*   [vuiodev/vuio (⭐150)](https://github.com/vuiodev/vuio) - DLNA media server with support for Linux, macOS, Windows, and Docker
-
-##### Applications / Web
-
-*   [IndexFlowing/IndexFlow-core (⭐51)](https://github.com/IndexFlowing/IndexFlow-core) - Self-hosted SEO indexing infrastructure for managing sitemaps, URL submissions, and search engine indexing.
-
-##### Development tools / Static analysis
-
-*   [kucherenko/jscpd (⭐6.1k)](https://github.com/kucherenko/jscpd) \[[jscpd](https://crates.io/crates/jscpd)] - Copy/paste detector for source code that finds duplicated blocks across 220+ file formats [![CI](https://github.com/kucherenko/jscpd/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/kucherenko/jscpd/actions/workflows/rust.yml)
-
-##### Libraries / Finance
-
-*   [wickra-lib/wickra (⭐50)](https://github.com/wickra-lib/wickra) \[[wickra](https://crates.io/crates/wickra)] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R. [![CI](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wickra-lib/wickra/actions/workflows/ci.yml)
-
-##### Libraries / Simulation
-
-*   [rsasaki0109/rust\_robotics (⭐253)](https://github.com/rsasaki0109/rust_robotics) \[[rust\_robotics](https://crates.io/crates/rust_robotics)] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no\_std support and ROS 2 examples [![CI](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rsasaki0109/rust_robotics/actions/workflows/ci.yml)
-
-#### [47. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
-
-##### :art:   Themes
-
-*   [More Slack Themes](https://slack.michaeldemar.co) - Browse, create, and share Slack themes.
-
-##### :hammer_and_wrench:   Libraries and SDKs / Ballerina
-
-*   [ballerina-slack-library (⭐108)](https://github.com/ballerina-platform/module-ballerinax-slack) - Ballerina library for Slack.
-
-##### :hammer_and_wrench:   Libraries and SDKs / JavaScript/TypeScript
-
-*   [appstore-webhook-proxy (⭐27)](https://github.com/yannisalexiou/appstore-webhook-proxy) - App Store Webhook Proxy for Microsoft Teams & Slack.
-
-##### :gear:   Open-Source Slack Apps and Integrations / JavaScript/Typescript
-
-*   [SlackONOS (⭐135)](https://github.com/htilly/SlackONOS) - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
-
-##### :gear:   Open-Source Slack Apps and Integrations / Ruby
-
-*   [ZReviewTender (⭐62)](https://github.com/ZhgChgLi/ZReviewTender) - A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.
-
-#### [48. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
-
-##### 3D
-
-*   [Luphra](https://www.luphra.com/) - Prompt-to-matter: AI that turns prompts and sketches into editable 3D and physical products. `#freemium`
-
-##### Developer Tools
-
-*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
-
-#### [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [ansible-fzf (⭐0)](https://github.com/alexiszamanidis/zsh-ansible-fzf/) - A plugin that completes ansible-playbook tags and works with fzf-tab.
-*   [cage (⭐0)](https://github.com/matijaoe/cage.plugin.zsh) - Adds command for [age (⭐23k)](https://github.com/FiloSottile/age). It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.
-*   [deja (⭐670)](https://github.com/Giammarco-Ferranti/deja) - Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.
-*   [dual-history (⭐0)](https://github.com/odurif0/zsh-dual-history) - Keeps AI coding agent instructions (such as Forge's `:`-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns `Ctrl+R` into an fzf interface switchable between All, Human and AI views, merged chronologically.
-*   [git-branch (⭐4)](https://github.com/cpwillis/omz-git-branch) - Augments `git` features, designed especially for users who prefer aesthetically pleasing branch naming conventions. It visually formats the current `git` branch name or commit hash, considering customisable variables like hiding status, maximum branch length, prefix, and suffix trimming, with an option to display `git status`.
-*   [histpop (⭐0)](https://github.com/undefined443/histpop) - Removes the last record from `~/.zsh_history`. Useful right after running a command you don't want kept in your shell history (e.g. one containing a typo'd password or a temporary secret). Running `histpop` itself is also removed from history, so it leaves no trace.
-*   [psmon (⭐0)](https://github.com/dumidusw/psmon) - Lightweight interactive process monitor using standard Linux utilities (`ps`, `awk`, `lsof`) with live watch mode, resource sorting, and tree-aware process killing.
-*   [ssh-git-operations (⭐0)](https://github.com/phongphuhanam/ssh-git-operations) - Provides secure, authenticated `git` `push`/`pull`/`fetch` operations over SSH to remote machines using GitHub token authentication. **Tokens are never persisted on remote machines**.
-*   [worktrunk (⭐2)](https://github.com/kguzek/zsh-worktrunk) - Inspired by the [oh-my-zsh](https://ohmyz.sh/) [git plugin (⭐189k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) and provides aliases and a few useful functions for working with [worktrunk (⭐6.7k)](https://github.com/max-sixty/worktrunk).
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [mtsh (⭐4)](https://github.com/FPGArtktic/ohmyzsh-mtsh-theme) - Multi-line prompt for multi-user and DevOps machines. Includes decorators for the date and time, the address of the interface that reaches the default route, CPU and memory use, the number of logged-in users, `git` branch and status, and the exit code and duration of the last command. No fonts are required.
-
-#### [50. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-##### 3D Gaussian Splatting / YouTube Playables
-
-*   [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
-*   [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
-
-#### [51. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
-
-##### Tutorials / YouTube
-
-*   [Greasemonkey Tutorial for Beginners](https://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
-
-##### Additional Catalogues / YouTube
-
-*   [UserScripts Mirror](https://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
-
-#### [52. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [53. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -1277,8 +1438,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [bitget-go (⭐8)](https://github.com/tigusigalpa/bitget-go) - Go client for Bitget UTA API v3 with typed models, string-based prices, auto-reconnecting WebSocket, and demo trading.
 *   [bybit-go (⭐17)](https://github.com/tigusigalpa/bybit-go) - Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.
 *   [decimal (⭐0)](https://github.com/klokare/decimal) - A fixed-size, no allocation decimal type for when you don't need arbitrary precision.
+*   [kucoin-go (⭐6)](https://github.com/tigusigalpa/kucoin-go) - Go client for KuCoin UTA and Classic REST & WebSocket APIs with HMAC-SHA256 auth, string-typed prices, and typed error hierarchy.
 *   [okx-go (⭐23)](https://github.com/tigusigalpa/okx-go) - Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.
 *   [telegram-wallet-go (⭐15)](https://github.com/tigusigalpa/telegram-wallet-go) - Go client for Telegram Wallet Pay API with HMAC-SHA256 webhook verification, middleware for net/http, Gin, and Echo.
+
+##### Networking
+
+*   [ws-reconnect (⭐0)](https://github.com/sing198/ws-reconnect) - Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.
 
 ##### Third-party APIs
 
@@ -1294,11 +1460,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [KeibiDrop (⭐54)](https://github.com/KeibiSoft/KeibiDrop) - On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.
 *   [ScheduleGate (⭐1)](https://github.com/gjunqueira-sys/ScheduleGate) - DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.
 
-#### [53. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+#### [54. Awesome Mac](/content/abordage/awesome-mac/README.md)
 
-##### Popular AI Tools
+##### Reading & Writing / Note-taking
 
-*   [Github Wiki Generator (⭐0)](https://github.com/Samyc2002/GithubWikiGenerator)
+*   [saga-soft/novelWriter (⭐3.1k)](https://github.com/saga-soft/novelWriter) — Plain text editor for writing novels ☆`3,097`
 
 ---
 
@@ -1306,13 +1472,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ## Top 50 Awesome List
 
-1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 395K 📝 08&#x2F;29) - :books: Freely available programming books
-2. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 466K 📝 08&#x2F;27) - A collective list of free APIs
-3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 316K 📝 08&#x2F;27) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 466K 📝 08&#x2F;30) - A collective list of free APIs
+2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 395K 📝 08&#x2F;29) - :books: Freely available programming books
+3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 316K 📝 08&#x2F;30) - A list of Free Software network services and web applications which can be hosted on your own servers
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 182K 📝 08&#x2F;30) - A curated list of awesome Go frameworks, libraries and software
 5. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 314K 📝 08&#x2F;23) - The definitive list that answers "I want to do X in Python, which tool should I use?"
-6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 132K 📝 08&#x2F;28) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 112K 📝 08&#x2F;29) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 132K 📝 08&#x2F;30) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 112K 📝 08&#x2F;30) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 8. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74K 📝 08&#x2F;27) - A curated list of awesome Machine Learning frameworks, libraries and software.
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 59K 📝 08&#x2F;29) - A curated list of Rust code and resources.
 10. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 52K 📝 08&#x2F;27) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
@@ -1325,7 +1491,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 17. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 08&#x2F;28) - Collections of awesome neovim plugins.
 18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 08&#x2F;29) - A collection of ZSH frameworks, plugins, themes and tutorials.
 19. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 17K 📝 08&#x2F;29) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-20. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 15K 📝 08&#x2F;29) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+20. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 15K 📝 08&#x2F;30) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 21. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48K 📝 08&#x2F;17) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 22. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 08&#x2F;20) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 23. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 37K 📝 08&#x2F;19) - :whale: A curated list of Docker resources and projects
@@ -1361,7 +1527,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Agentic AI
 
-- [Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md) - ([Source ⭐ 498, 📝 08&#x2F;28 ](https://github.com/Piebald-AI/awesome-gemini-cli)) - A curated list of awesome tools, extensions, and resources for Gemini CLI.
+- [Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md) - ([Source ⭐ 498, 📝 08&#x2F;30 ](https://github.com/Piebald-AI/awesome-gemini-cli)) - A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Artificial Intelligence
 
@@ -1444,7 +1610,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Computer Science
 
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1.4K, 📝 23&#x2F;02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
-- [Awesome Ai](/content/abordage/awesome-ai/README.md) - ([Source ⭐ 10, 📝 06&#x2F;11 ](https://github.com/abordage/awesome-ai)) - Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. Automatically curated and continuously updated with rich metadata and categorization.
+- [Awesome Ai](/content/abordage/awesome-ai/README.md) - ([Source ⭐ 11, 📝 06&#x2F;11 ](https://github.com/abordage/awesome-ai)) - Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. Automatically curated and continuously updated with rich metadata and categorization.
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 6.3K, 📝 08&#x2F;04 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 4.1K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Cern](/content/CERN/awesome-cern/README.md) - ([Source ⭐ 109, 📝 03&#x2F;31 ](https://github.com/CERN/awesome-cern)) - A curated list of awesome open source frameworks, libraries and software developed by CERN for the world
@@ -1483,7 +1649,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
 - [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;12&#x2F;27 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
-- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 15K, 📝 08&#x2F;29 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 15K, 📝 08&#x2F;30 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
 ### Content Management Systems
 
@@ -1896,7 +2062,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.6K, 📝 07&#x2F;20 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 920, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 316K, 📝 08&#x2F;27 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 316K, 📝 08&#x2F;30 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;20 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1929,11 +2095,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 25&#x2F;03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 25&#x2F;06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 132K, 📝 08&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 132K, 📝 08&#x2F;30 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.3K, 📝 08&#x2F;21 ](https://github.com/tortuvshin/open-source-flutter-apps)) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
-- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 466K, 📝 08&#x2F;27 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 466K, 📝 08&#x2F;30 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 - [Services Engineering](/content/mmcgrana/services-engineering/README.md) - ([Source ⭐ 3.4K, 📝 20&#x2F;05&#x2F;09 ](https://github.com/mmcgrana/services-engineering)) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md) - ([Source ⭐ 891, 📝 22&#x2F;10&#x2F;11 ](https://github.com/drewrwilson/toolsforactivism)) - growing list of digital tools for activism things
 - [Topics](/content/selvaklnc/topics/README.md) - ([Source ⭐ 1, 📝 25&#x2F;05&#x2F;05 ](https://github.com/selvaklnc/topics)) - 
@@ -1985,8 +2151,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 433, 📝 04&#x2F;05 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 112K, 📝 08&#x2F;29 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 20, 📝 08&#x2F;21 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 112K, 📝 08&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 20, 📝 08&#x2F;30 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 5.3K, 📝 07&#x2F;24 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 66K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED

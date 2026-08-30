@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 30, 2026](/content/2026/08/30/README.md)
+
+### Email
+
+*   [Unitpost](https://www.unitpost.com/) - AI-First Transactional & Marketing Email Service. Free tier: 5,000 emails/mo, 200 emails/day, 10,000 contacts, 5 domains. No credit card required. SDKs, MCP and REST API available.
+*   [Is It Disposable](https://isitdisposable.com/) - Detect and block disposable email addresses. Free plan of 250 lookups a month and no card required.
+
 ## [Aug 28, 2026](/content/2026/08/28/README.md)
 
 ### Forms
