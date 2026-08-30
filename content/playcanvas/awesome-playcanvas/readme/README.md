@@ -269,6 +269,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 *   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+*   [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
 *   [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 *   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 *   [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
@@ -286,6 +287,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
+*   [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
 *   [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 *   [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
 *   [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.

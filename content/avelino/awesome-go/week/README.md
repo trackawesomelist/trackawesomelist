@@ -37,6 +37,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [KeibiDrop (⭐54)](https://github.com/KeibiSoft/KeibiDrop) - On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.
+*   [ScheduleGate (⭐1)](https://github.com/gjunqueira-sys/ScheduleGate) - DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -99,7 +100,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Logging
 
-*   [go-log4g (⭐0)](https://github.com/go-log4g/core) - Log4g provides Log4j-style configuration and pattern layouts for Go's standard log/slog logging facade.
+*   [go-log4g (⭐1)](https://github.com/go-log4g/core) - Log4g provides Log4j-style configuration and pattern layouts for Go's standard log/slog logging facade.
 
 ### Networking
 
@@ -2668,7 +2669,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [go-peer (⭐328)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐327)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐78)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -5268,7 +5269,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [cookiecutter-golang (⭐736)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-sample (⭐140)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐620)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
-*   [go-todo-backend (⭐335)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
+*   [go-todo-backend (⭐336)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
 *   [gobase (⭐66)](https://github.com/wajox/gobase) - A simple skeleton for golang application with basic setup for real golang application.
 *   [golang-standards/project-layout (⭐56k)](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see [this issue (⭐56k)](https://github.com/golang-standards/project-layout/issues/117) for more information. Nonetheless, some may find the layout useful.
 *   [golang-templates/seed (⭐565)](https://github.com/golang-templates/seed) - Go application GitHub repository template.

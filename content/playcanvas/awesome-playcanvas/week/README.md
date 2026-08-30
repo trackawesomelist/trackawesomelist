@@ -6,6 +6,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
+*   [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Games / Browser Games

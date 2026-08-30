@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 462 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 487 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Aug 30, 2026](/content/2026/08/30/README.md)
+
+### Popular AI Tools
+
+*   [Github Wiki Generator (⭐0)](https://github.com/Samyc2002/GithubWikiGenerator)
 
 ## [May 26, 2026](/content/2026/05/26/README.md)
 
@@ -12,22 +18,22 @@
 
 *   [CodeWiki (Google)](https://codewiki.google/)
 *   [DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki)
-*   [RepoWiki (⭐130)](https://github.com/he-yufeng/RepoWiki)
+*   [RepoWiki (⭐259)](https://github.com/he-yufeng/RepoWiki)
 *   [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 *   [Github Wiki Generator (⭐13)](https://github.com/Satttoshi/github-wiki-generator)
-*   [OpenDeepWiki (⭐3.3k)](https://github.com/AIDotNet/OpenDeepWiki)
+*   [OpenDeepWiki (⭐3.6k)](https://github.com/AIDotNet/OpenDeepWiki)
 
 ## [Mar 29, 2026](/content/2026/03/29/README.md)
 
 ### Examples
 
-*   [hyperledger-cacti/cacti (⭐390)](https://github.com/hyperledger-cacti/cacti/wiki)
+*   [hyperledger-cacti/cacti (⭐413)](https://github.com/hyperledger-cacti/cacti/wiki)
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Examples
 
-*   [GyulyVGC/sniffnet (⭐38k)](https://github.com/GyulyVGC/sniffnet/wiki)
+*   [GyulyVGC/sniffnet (⭐41k)](https://github.com/GyulyVGC/sniffnet/wiki)
 
 ### Useful links with tips & tricks
 
@@ -37,7 +43,7 @@
 
 ### Examples
 
-*   [AWS/aws-parallelcluster (⭐886)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [AWS/aws-parallelcluster (⭐889)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -49,7 +55,7 @@
 
 ### Examples
 
-*   [JustArchiNET/ArchiSteamFarm (⭐13k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐14k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
@@ -97,7 +103,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐6.4k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐6.6k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -174,7 +180,7 @@
 
 ### Examples
 
-*   [apple/foundationdb (⭐16k)](https://github.com/apple/foundationdb/wiki)
+*   [apple/foundationdb (⭐17k)](https://github.com/apple/foundationdb/wiki)
 
 ## [Nov 19, 2022](/content/2022/11/19/README.md)
 
@@ -227,8 +233,8 @@
 
 ### Examples
 
-*   [guard/guard (⭐6.5k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
-*   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
+*   [guard/guard (⭐6.4k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [google/guava (⭐52k)](https://github.com/google/guava/wiki)
 
 ### Useful links with tips & tricks
 
