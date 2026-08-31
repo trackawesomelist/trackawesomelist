@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 31, 2026](/content/2026/08/31/README.md)
+
+### Logging
+
+*   [slog-datadog (⭐16)](https://github.com/samber/slog-datadog) - A slog handler for Datadog.
+
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
 ### Financial
@@ -115,7 +121,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [go-arch (⭐2)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
+*   [go-arch (⭐3)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
 
 ### Networking
 
@@ -413,7 +419,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐11)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐12)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 

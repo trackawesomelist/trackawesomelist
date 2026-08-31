@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Aug 31, 2026](/content/2026/08/31/README.md)
+
+### Software / AI & LLM Testing
+
+*   [crilio (⭐1)](https://github.com/mukundzha/crilio) - An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.
+
+### Software / Test Data Management
+
+*   [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
+
 ## [Aug 28, 2026](/content/2026/08/28/README.md)
 
 ### Software / UI & End-to-End Testing
@@ -270,7 +280,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐141)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐144)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Blogs / A/B Testing
 

@@ -22,7 +22,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ![GitHub license](https://img.shields.io/github/license/hanishrao/collective-ai-tools)
 ![GitHub issues](https://img.shields.io/github/issues/hanishrao/collective-ai-tools)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hanishrao/collective-ai-tools)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat\&logo=telegram\&logoColor=white)](https://t.me/collectiveaitools)
 
 [![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835\&theme=light)](https://www.producthunt.com/posts/ai-collective-tools)
 
@@ -473,7 +473,7 @@ Use these hashtags in search to filter out the tools
 *   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
 *   [ReviewCerberus (⭐32)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
-*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐85)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
@@ -791,6 +791,7 @@ Use these hashtags in search to filter out the tools
 *   [Casetext](https://casetext.com/) - an award-winning legal AI company developing cutting-edge tech for 10+ years. `#paid`
 *   [DoNotPay](https://donotpay.com/) - DoNotPay is an online legal service and chatbot. `#paid`
 *   [Latch](https://www.latchapp.com/) - Latch helps legal teams reduce the time, effort, and cost spent towards negotiating agreements. `#paid`
+*   [SpecterAI](https://specterlaw.ai/) - German-law AI assistant for source-linked legal research, contract review, and drafting. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

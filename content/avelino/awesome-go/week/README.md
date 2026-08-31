@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Logging
+
+*   [slog-datadog (⭐16)](https://github.com/samber/slog-datadog) - A slog handler for Datadog.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Artificial Intelligence
@@ -87,7 +93,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [go-arch (⭐2)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
+*   [go-arch (⭐3)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
 
 ### Database Tools
 
@@ -283,7 +289,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐11)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐12)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [skillreaper (⭐54)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
 ### File Handling

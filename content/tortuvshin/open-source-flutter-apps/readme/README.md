@@ -49,7 +49,7 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 
 ## Productivity
 
-*   [AppFlowy (⭐75k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [AppFlowy (⭐76k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [Butterfly (⭐2k)](https://github.com/LinwoodDev/Butterfly) - Butterfly is a Flutter note-taking and drawing app whose central object is an infinite canvas — pages hold freehand ink, text, shapes, images, areas, and waypoints in a custom `.bfly` document model, with optional WebDAV sync, OneNote import, and PDF/SVG export.
 *   [Feather (⭐4.5k)](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 *   [Habo (⭐1.4k)](https://github.com/xpavle00/Habo) - Habo is a Flutter-based, privacy-first habit tracker for iOS and Android that keeps every habit, note, and streak on-device by default and only syncs through an end-to-end encrypted Supabase backend.
@@ -57,15 +57,16 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 *   [HorizonCalendar (⭐3.2k)](https://github.com/airbnb/HorizonCalendar) - HorizonCalendar is Airbnb's declarative, performant iOS calendar UI framework that renders month and week views from a single content value type, scaling from simple date pickers up to fully featured calendar apps on virtually infinite date ranges.
 *   [ish (⭐20k)](https://github.com/ish-app/ish) - A Linux shell environment running on iOS, useful for command-line work on mobile devices.
 *   [Joplin (⭐56k)](https://github.com/laurent22/joplin) - Joplin is a free, open source note taking and to-do application. The mobile client is built with React Native and supports full sync via Nextcloud, Dropbox, OneDrive, WebDAV, and Joplin Cloud.
-*   [Karakeep (⭐28k)](https://github.com/karakeep-app/karakeep) - Karakeep is a self-hostable bookmark-everything application built on Next.js 16 + Hono + tRPC over Drizzle on SQLite with Meilisearch full-text and semantic search, capturing links, notes, images, and PDFs into a tagged personal archive with on-demand AI auto-tagging.
+*   [Karakeep (⭐29k)](https://github.com/karakeep-app/karakeep) - Karakeep is a self-hostable bookmark-everything application built on Next.js 16 + Hono + tRPC over Drizzle on SQLite with Meilisearch full-text and semantic search, capturing links, notes, images, and PDFs into a tagged personal archive with on-demand AI auto-tagging.
 *   [LibreTrack (⭐361)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app.
-*   [Linkwarden (⭐19k)](https://github.com/linkwarden/linkwarden) - Linkwarden is a self-hosted collaborative bookmark manager that captures every saved page as a screenshot, PDF, and HTML snapshot to defend against link rot.
+*   [Linkwarden (⭐20k)](https://github.com/linkwarden/linkwarden) - Linkwarden is a self-hosted collaborative bookmark manager that captures every saved page as a screenshot, PDF, and HTML snapshot to defend against link rot.
 *   [Memex (⭐673)](https://github.com/memex-lab/memex) - Memex is a Flutter-based, local-first AI journal for iOS and Android that captures text, photo, and voice fragments, runs them through a multi-agent skill system on a BYO-LLM, and weaves them into timeline cards, P.A.R.A.-organized Markdown knowledge, and chart-driven insights.
 *   [mhabit (⭐1.5k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
 *   [Notesnook (⭐14k)](https://github.com/streetwriters/notesnook) - Notesnook is a cross-platform, end-to-end encrypted note-taking app with web, desktop, and mobile clients that sync through a zero-knowledge server.
 *   [OnionBrowser (⭐2.7k)](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
 *   [storypad (⭐942)](https://github.com/theachoem/storypad) - Storypad is an offline-first Flutter diary and journal app that uses a timeline instead of folders, layers mood tracking, photo memories, and customizable typography over a local ObjectBox store with optional Google Drive sync.
 *   [UTM (⭐35k)](https://github.com/utmapp/UTM) - Run virtual machines on iOS and macOS — Windows, Linux, and retro operating systems.
+*   [Weiyu (⭐9)](https://github.com/Sutera-Diffusus/WeChat-daily) - Weiyu is a local-first Windows desktop app that turns readable WeChat messages into searchable daily briefings, with history, speech-to-text, AI-assisted analysis, and a Codex bridge.
 *   [YouTrack Mobile (⭐285)](https://github.com/JetBrains/youtrack-mobile) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects.
 
 ## Finance
@@ -100,9 +101,10 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 *   [Ejimo (⭐60)](https://github.com/albemala/emoji-picker) - A cross-platform emoji and symbol picker that goes beyond the system keyboard.
 *   [flutter\_server\_box (⭐8.5k)](https://github.com/lollipopkit/flutter_server_box) - A Flutter-based, cross-platform client for monitoring and administering remote Linux, Unix, and Windows servers over SSH — combining real-time status charts, an embedded xterm terminal, SFTP file transfer, and Docker / systemd / S.M.A.R.T. management on iOS, Android, macOS, Linux, and Windows.
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit) that wraps a customized libgit2 fork and re-implements everything else — including its own rebase engine — to keep operations and the live commit graph fast on large repositories.
-*   [Immich (⭐110k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [Immich (⭐113k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [MarketMonk (⭐59)](https://github.com/brandonp2412/MarketMonk) - A Flutter stock and portfolio tracker that combines Yahoo Finance market data, interactive charts, local trade records, and multiple account support.
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
+*   [Shieldxy](https://rockxy.io/shieldxy) - An auditable macOS application firewall and connection monitor with explicit local network controls.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
 *   [SwiftTerm (⭐1.7k)](https://github.com/migueldeicaza/SwiftTerm) - An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
 *   [Tura (⭐594)](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
@@ -113,8 +115,10 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 
 *   [flutter-pos-system (⭐592)](https://github.com/evan361425/flutter-pos-system) - An offline-first Flutter point-of-sale app for small restaurants and shops that runs ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt printing, custom analytics charts, and Google Sheets export entirely on-device with no remote backend.
 *   [localmind (⭐180)](https://github.com/abdulmominsakib/localmind) - A Flutter mobile chat client that connects to on-device LLMs and any OpenAI-compatible server — Ollama, LM Studio, OpenRouter — with markdown rendering, voice input, and an MCP tool layer.
+*   [Rockxy](https://rockxy.io) - A native macOS HTTP debugging proxy for inspecting HTTPS, API, WebSocket, and GraphQL traffic.
 *   [roxum-ide (⭐562)](https://github.com/heckmon/roxum-ide) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
-*   [rustdesk (⭐120k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
+*   [rustdesk (⭐122k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
+*   [Tracexy](https://rockxy.io/tracexy) - A native, local-first macOS app for capturing live network traffic and investigating PCAP and PCAPNG files.
 
 ## Communication
 

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 31, 2026](/content/2026/08/31/README.md)
+
+### Email
+
+*   [EmailGuard](https://emailguard.lazrek.com/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
+
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
 ### Email
@@ -746,12 +752,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Forms
 
 *   [FluidForms](https://fluidforms.ai/) - Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
-
-## [Mar 16, 2026](/content/2026/03/16/README.md)
-
-### Email
-
-*   [EmailGuard](https://emailguard.lazrek.net/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
 
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
@@ -1498,7 +1498,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐21k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐22k)](https://github.com/comet-ml/opik/)
 
 ### Low-code Platform
 

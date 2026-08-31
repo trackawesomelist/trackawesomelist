@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Aug 31, 2026](/content/2026/08/31/README.md)
+
+### Screenshot
+
+*   [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### System Utilities
@@ -165,7 +171,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Text Editors
 
-*   [Inkwell (⭐250)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+*   [Inkwell (⭐255)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
@@ -382,7 +388,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Command Line Tools
 
 *   [gallery-dl (⭐19k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [yt-dlp (⭐184k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐188k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### File Management
 
@@ -563,7 +569,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Vaultwarden (⭐65k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
+*   [Vaultwarden (⭐66k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
 
 ### Terminal
 
@@ -635,10 +641,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Remote Access
 
 *   [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-
-### Screen Capture
-
-*   [Greenshot (⭐5.1k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Terminal
 

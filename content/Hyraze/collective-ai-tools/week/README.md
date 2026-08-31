@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Legal Assistant
+
+*   [SpecterAI](https://specterlaw.ai/) - German-law AI assistant for source-linked legal research, contract review, and drafting. `#freemium`
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### 3D
@@ -14,7 +20,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [SandBase CLI (⭐3)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐85)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 

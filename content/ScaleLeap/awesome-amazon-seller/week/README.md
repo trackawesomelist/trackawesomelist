@@ -6,6 +6,13 @@ A curated list of tools and resources for Amazon sellers.
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / Weekly / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Software and Tools
+
+*   [ListingPic](https://listingpic.com/amazon-product-image-checker/) - Free browser-based tool for checking Amazon product images and marketplace listing thumbnails before publishing.
+*   [Seller Calculators](https://sellercalculators.com) - Free Amazon fee and profit margin decision tools for multi-channel sellers.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Other

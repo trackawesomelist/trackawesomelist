@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Email
+
+*   [EmailGuard](https://emailguard.lazrek.com/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### APIs, Data, and ML
@@ -567,10 +573,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Security and PKI
 
 *   [IntoDNS.ai](https://intodns.ai) - DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
-
-### Email
-
-*   [EmailGuard](https://emailguard.lazrek.net/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
 
 ### Forms
 
@@ -1227,7 +1229,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐21k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐22k)](https://github.com/comet-ml/opik/)
 
 ### Low-code Platform
 

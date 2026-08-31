@@ -27,6 +27,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 *   [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
 *   [Advigator](https://www.advigator.com) - Amazon Advertising Software
+*   [ListingPic](https://listingpic.com/amazon-product-image-checker/) - Free browser-based tool for checking Amazon product images and marketplace listing thumbnails before publishing.
 *   [AiHello AutoPilot](https://www.aihello.com/) - Amazon PPC Ads Automation Software.
 *   [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. Residential proxies and TLS impersonation handled server-side. 1000 free requests on signup.
 *   [Amzmailer](https://amzmailer.com/) - Feedback software and email autoresponder to send Amazon customers automated emails.
@@ -57,6 +58,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 *   [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
 *   [SellerApp](https://www.sellerapp.com/) - Product research, product ideas, listing quality, product alerts, product source, keyword research, ppc analyzer, and more.
+*   [Seller Calculators](https://sellercalculators.com) - Free Amazon fee and profit margin decision tools for multi-channel sellers.
 *   [SellerEngine.app](https://sellerengine.app) - EU-hosted operations dashboard for multi-marketplace Amazon sellers; combines PPC, repricing, inventory forecasting, VAT/OSS and listing checks in one daily view.
 *   [SellerLabs](https://www.sellerlabs.com/tools/) - Several tools to manage ads, discover profitable keywords and products, get more product reviews and better seller feedback, simplify inventory and financial management for the amazon marketplace.
 *   [SellerLegend](https://sellerlegend.com/) - Near real-time orders download, intelligent KPI dashboards, inventory management, notifications, refunds, historical cost of goods, operating expenses, all America & Europe marketplaces, financial transactions, Europe vat.
