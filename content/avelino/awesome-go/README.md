@@ -8,9 +8,19 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
+### Trees
+
+*   [skiplist (⭐428)](https://github.com/huandu/skiplist) - Fast and easy-to-use skip list for Go.
+
 ### Logging
 
 *   [slog-datadog (⭐16)](https://github.com/samber/slog-datadog) - A slog handler for Datadog.
+*   [slog-logrus (⭐33)](https://github.com/samber/slog-logrus) - A slog handler for Logrus.
+*   [slog-loki (⭐82)](https://github.com/samber/slog-loki) - A slog handler for Grafana Loki.
+*   [slog-sentry (⭐54)](https://github.com/samber/slog-sentry) - A slog handler for Sentry.
+*   [slog-slack (⭐23)](https://github.com/samber/slog-slack) - A slog handler for Slack.
+*   [slog-zap (⭐55)](https://github.com/samber/slog-zap) - A slog handler for Zap.
+*   [slog-zerolog (⭐77)](https://github.com/samber/slog-zerolog) - A slog handler for Zerolog.
 
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
@@ -126,7 +136,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Networking
 
 *   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
-*   [netchan (⭐5)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+*   [netchan (⭐7)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
 
 ### Other Software / Libraries for creating HTTP middlewares
 

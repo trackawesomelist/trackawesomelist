@@ -753,6 +753,7 @@ additional ordered map implementations.
 *   [merkle (⭐23)](https://github.com/bobg/merkle) - Space-efficient computation of Merkle root hashes and inclusion proofs.
 *   [skiplist (⭐294)](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
 *   [skiplist (⭐83)](https://github.com/gansidui/skiplist) - Skiplist implementation in Go.
+*   [skiplist (⭐428)](https://github.com/huandu/skiplist) - Fast and easy-to-use skip list for Go.
 *   [treemap (⭐68)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 
 ### Pipes
@@ -1773,7 +1774,13 @@ additional ordered map implementations.
 *   [slog-configurator (⭐0)](https://github.com/psyb0t/slog-configurator) - Configures the standard library log/slog logger from environment variables: level, format, source location, and stdout/stderr split.
 *   [slog-datadog (⭐16)](https://github.com/samber/slog-datadog) - A slog handler for Datadog.
 *   [slog-formatter (⭐226)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+*   [slog-logrus (⭐33)](https://github.com/samber/slog-logrus) - A slog handler for Logrus.
+*   [slog-loki (⭐82)](https://github.com/samber/slog-loki) - A slog handler for Grafana Loki.
 *   [slog-multi (⭐636)](https://github.com/samber/slog-multi) - Chain of slog.Handler (pipeline, fanout...).
+*   [slog-sentry (⭐54)](https://github.com/samber/slog-sentry) - A slog handler for Sentry.
+*   [slog-slack (⭐23)](https://github.com/samber/slog-slack) - A slog handler for Slack.
+*   [slog-zap (⭐55)](https://github.com/samber/slog-zap) - A slog handler for Zap.
+*   [slog-zerolog (⭐77)](https://github.com/samber/slog-zerolog) - A slog handler for Zerolog.
 *   [slogor](https://gitlab.com/greyxor/slogor) - A colorful slog handler.
 *   [spew (⭐6.4k)](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 *   [sqldb-logger (⭐379)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
@@ -2215,7 +2222,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [natiu-mqtt (⭐105)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 *   [nbio (⭐2.8k)](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 *   [net](https://golang.org/x/net) - This repository holds supplementary Go networking libraries.
-*   [netchan (⭐5)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+*   [netchan (⭐7)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
 *   [nethawk (⭐13)](https://github.com/Flowtriq/nethawk) - Terminal UI for real-time network traffic capture, analysis, and attack detection with JSON output mode.
 *   [netpoll (⭐4.6k)](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 *   [NFF-Go (⭐1.4k)](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).

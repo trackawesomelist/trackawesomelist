@@ -542,6 +542,7 @@ Production apps whose use of Capacitor is publicly documented.
 *   [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
 *   [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.
 *   [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova to Capacitor migration.
+*   [Kapsula](https://dev.to/vladifedorov/running-untrusted-single-file-html-as-a-phone-app-sandbox-exact-alarms-and-a-5-method-bridge-2lc6) - App that runs a single user-supplied HTML file as a sandboxed mini-app with exact alarms, with a write-up of its Capacitor sandbox and bridge architecture.
 *   [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals, built with Capacitor and custom plugins.
 *   [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H\&R Block, running on Capacitor.
 *   [snapAddy](https://capawesome.io/blog/case-study-snapaddy-live-updates/) - B2B contact data capture app with more than 200,000 monthly active users.

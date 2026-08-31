@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Web
+
+*   [hcker.news](http://hcker.news/) - Story and Best Comments Timeline
+
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
 ### Web
@@ -28,7 +34,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Command Line / Nevix
 
-*   [Circumflex (⭐2k)](https://github.com/bensadeh/circumflex)
+*   [Circumflex (⭐2.1k)](https://github.com/bensadeh/circumflex)
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -41,7 +47,6 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 ### Web
 
 *   [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories
-*   [hcker.news](http://hckrnews.com/) - Story and Best Comments Timeline
 *   [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
 *   [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
 
@@ -49,7 +54,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐84)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐86)](https://github.com/Livinglist/Gem)
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -271,7 +276,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐576)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -390,7 +395,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 *   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
-*   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
+*   [HN-Android (⭐497)](https://github.com/manmal/hn-android/)
 *   [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
 
 ### Emacs / Nevix
@@ -459,7 +464,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 *   [Gohn (⭐25)](https://github.com/gedex/gohn)
 *   [Hacker News in the Terminal](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/)
-*   [Hacker News ncurses CLI (⭐273)](https://github.com/andrewstuart/hn)
+*   [Hacker News ncurses CLI (⭐274)](https://github.com/andrewstuart/hn)
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
 *   [Pyhn (⭐385)](https://github.com/socketubs/pyhn)

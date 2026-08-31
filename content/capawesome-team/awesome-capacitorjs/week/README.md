@@ -6,6 +6,12 @@
 
 [ [Daily](/content/capawesome-team/awesome-capacitorjs/README.md) / Weekly / [Overview](/content/capawesome-team/awesome-capacitorjs/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Apps Built with Capacitor / ML Kit
+
+*   [Kapsula](https://dev.to/vladifedorov/running-untrusted-single-file-html-as-a-phone-app-sandbox-exact-alarms-and-a-5-method-bridge-2lc6) - App that runs a single user-supplied HTML file as a sandboxed mini-app with exact alarms, with a write-up of its Capacitor sandbox and bridge architecture.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Apps Built with Capacitor / ML Kit

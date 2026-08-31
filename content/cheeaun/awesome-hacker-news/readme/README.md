@@ -72,7 +72,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker-News.news](https://www.hacker-news.news)
 *   [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 *   [Hacker News for busy web developers](https://lessnews.dev/)
-*   [hcker.news](http://hckrnews.com/) - Story and Best Comments Timeline
+*   [hcker.news](http://hcker.news/) - Story and Best Comments Timeline
 *   [HCKR news](http://hckrnews.com/)
 *   [hn30](https://hn30.yamanlabs.com)
 *   [HN Cake Day](http://bemmu.github.io/hncakeday/)
@@ -196,7 +196,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 *   [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
-*   [Gem for Hacker News (⭐84)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐86)](https://github.com/Livinglist/Gem)
 *   [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 *   [Hack Later](http://brushedtype.co/apps/hack-later/)
 *   [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
@@ -214,7 +214,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐576)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 *   [HackerFlow](https://hackerflow.app)
 *   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
@@ -222,7 +222,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
 *   [Haiker](https://haiker.app)
 *   [Hews](https://leavjenn.github.io/Hews/)
-*   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
+*   [HN-Android (⭐497)](https://github.com/manmal/hn-android/)
 *   [Materialistic](https://f-droid.org/de/packages/io.github.hidroh.materialistic/)
 *   [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 *   [Pumpkin Reader (⭐25)](https://github.com/pumpkinz/pumpkin-reader)
@@ -252,14 +252,14 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [GO-HN](https://gitlab.com/shank/go-hn)
 *   [Gohn (⭐25)](https://github.com/gedex/gohn)
 *   [Hacker News in the Terminal](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/)
-*   [Hacker News ncurses CLI (⭐273)](https://github.com/andrewstuart/hn)
+*   [Hacker News ncurses CLI (⭐274)](https://github.com/andrewstuart/hn)
 *   [Hacker Top (⭐133)](https://github.com/pkrumins/hacker-top)
 *   [HackerFeed (⭐3)](https://github.com/pratyushprakash/HackerFeed)
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
 *   [Node HackerNews (⭐3)](https://github.com/headcanon/node-hn)
 *   [Pyhn (⭐385)](https://github.com/socketubs/pyhn)
-*   [Circumflex (⭐2k)](https://github.com/bensadeh/circumflex)
+*   [Circumflex (⭐2.1k)](https://github.com/bensadeh/circumflex)
 
 ### Alfred workflows
 
