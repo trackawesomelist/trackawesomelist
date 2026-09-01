@@ -22,6 +22,15 @@ A curated list of awesome Go frameworks, libraries and software
 *   [slog-zap (⭐55)](https://github.com/samber/slog-zap) - A slog handler for Zap.
 *   [slog-zerolog (⭐77)](https://github.com/samber/slog-zerolog) - A slog handler for Zerolog.
 
+### Mock
+
+*   [wsmock (⭐0)](https://github.com/sing198/wsmock) - Expressive, zero-boilerplate WebSocket mock server for testing with fault injection and assertions.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
+*   [GURL (⭐4)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Artificial Intelligence

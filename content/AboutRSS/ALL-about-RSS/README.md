@@ -6,6 +6,16 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Sep 01, 2026](/content/2026/09/01/README.md)
+
+### RSS2WIDGET / For desktop
+
+*   [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
+
+### Multi-subject / Crypto or Blockchain relevant
+
+*   [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Sponsors / Other ways

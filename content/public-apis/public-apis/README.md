@@ -6,6 +6,50 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Sep 01, 2026](/content/2026/09/01/README.md)
+
+### Development
+
+- API: [GcrawlAI](https://gcrawlai.com)
+
+  Description: Web scraping, SERP API, screenshots, URL to Markdown and prebuilt extractors
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [Worth the Rip](https://worththerip.com/api/)
+
+  Description: Sealed trading-card product prices and expected value across 10 TCGs, refreshed every 2 hours
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [PayCrunch](https://paycrunch.co/api.html)
+
+  Description: US wages for 1,008 occupations and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
 ### Business

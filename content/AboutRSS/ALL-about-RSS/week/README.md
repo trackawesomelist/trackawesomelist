@@ -8,6 +8,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
+### RSS2WIDGET / For desktop
+
+*   [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
+
 ### Sponsors / Other ways
 
 *   [RSSBox](https://rssbox.app/) for setting up a translated RSS feed.
@@ -15,6 +19,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Styling an RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Newspaper](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader) [![Greasemonkey](https://raw.githubusercontent.com/AboutRSS/ALL-about-RSS/refs/heads/master/media/Greasemonkey.png)](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader)
+
+### Multi-subject / Crypto or Blockchain relevant
+
+*   [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
