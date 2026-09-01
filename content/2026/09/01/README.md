@@ -1,12 +1,107 @@
 # Awesome List Updates on Sep 01, 2026
 
-7 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Web frameworks / Isomorphic web frameworks
+
+*   🔥 [Fluxion (⭐14)](https://github.com/parenworks/Fluxion) - Live, server-rendered reactive web UI framework. MIT.
+    *   NEW as of 2026
+    *   blog post: ["Fluxion: Building a Propagator-Based Reactive Web UI Framework in Common Lisp"](https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html)
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Game Engine
+
+*   [Zodiac Engine (⭐453)](https://github.com/JeanPhilippeKernel/RendererEngine) - An open-source cross-platform 3D rendering engine and editor (ZEngine) written in C++20 with Vulkan. \[MIT]
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / MLOps
+
+*   [api7/aisix (⭐127)](https://github.com/api7/aisix) - Open-source AI gateway for LLMs and AI agents: one OpenAI-compatible API plus a native Anthropic Messages API in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, and other OpenAI-compatible endpoints, with MCP and A2A gateways, semantic routing, guardrails, and semantic caching. [![CI](https://github.com/api7/aisix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/api7/aisix/actions/workflows/ci.yml)
+
+## [4. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+
+### Accessibility
+
+*   [Blitztext Linux (⭐10)](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+
+### Plasma desktop / Extensions
+
+*   [EZMonitor (⭐5)](https://github.com/Agundur-KDE/EZMonitor) - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
+*   [KClaude (⭐2)](https://github.com/Agundur-KDE/KClaude) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
+*   [kfritz (⭐6)](https://github.com/Agundur-KDE/kfritz) - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
+*   [KPictureFrame (⭐5)](https://github.com/Agundur-KDE/KPictureFrame) - A Plasma 6 widget that turns your desktop into a picture frame.
+*   [OSBMonitor (⭐2)](https://github.com/Agundur-KDE/OSBMonitor) - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
+
+## [5. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+
+### Tools
+
+*   [MQTT Commander for iOS](https://mqttcommander.com) - Native iPhone and iPad client with a live topic tree, topic board, JSON inspection, and a 13-stage Connection Doctor. Supports MQTT 3.1.1 and 5.0 over TCP, TLS, mTLS and WebSocket.
+
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Media Management
+
+*   [Elengrab (⭐6)](https://github.com/neosy/elengrab) - Fast cross-platform video and audio downloader and media viewer with flexible format and quality options. Supports 1000+ websites including YouTube, Instagram, TikTok, Twitch and more. ([Demo](https://elengrab.n-hub.ru)) `AGPL-3.0` `Go/Docker`
+
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Forms
+
+*   [Makeform](https://www.makeform.ai/) - Chat-based form builder. The free form builder with unlimited forms and submissions. 99% of the features are free, includes adding logos, conditional logic, file uploads, payments, integrations, and webhooks. Pro Plan ($19/month) enables remove the Makeform Branding, custom domains and team features. Business plan ($59/month) enables RBAC, email verification and single sign on (SSO).
+
+### Data Visualization on Maps
+
+*   [SqlInt](https://sqlint.com) — In-browser SQL workspace with free tools including a JOIN visualizer, SQL formatter, CSV/JSON to SQL converters, and practice questions with no account or credit card required.
+
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Apps
+
+*   [Reely (⭐166)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
+
+## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Utilities / Markdown
+
+*   [mcat (⭐1.4k)](https://github.com/Skardyy/mcat) - Markdown, images, video, and document viewer.
+
+## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+
+### Messaging
+
+*   [MeshSat](https://meshsat.net/) is a self-hosted gateway that carries [Reticulum](https://reticulum.network/) traffic across bearers that normally cannot reach each other, including Meshtastic LoRa, Iridium satellite, cellular SMS, AX.25 packet radio, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Runs as a Docker container on a Raspberry Pi.
+
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Book of Proof](https://richardhammack.github.io/BookOfProof/Main.pdf) - Richard Hammack (PDF)
+
+## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Beginning iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/swift/)
+*   [*Intermediate iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+
+### Swift
+
+*   [*Mastering Swift* by Charles Edge, Joel Rennich, Jeremy Bannister](https://link.springer.com/book/10.1007/979-8-8688-2770-9)
+
+### SwiftUI
+
+*   [*SwiftUI Cookbook, Fourth Edition* by Juan C. Catalan](https://www.packtpub.com/en-us/product/swiftui-cookbook-9781806663767)
+
+## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Mock
 
@@ -17,7 +112,7 @@
 *   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
 *   [GURL (⭐4)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -101,7 +196,7 @@
 *   [Apache Avro (⭐3.3k) (⭐3.3k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [YAML (⭐503) (⭐499)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
@@ -115,7 +210,7 @@
 
 *   [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -159,7 +254,7 @@
 
 
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS2WIDGET / For desktop
 
@@ -169,7 +264,7 @@
 
 *   [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
@@ -180,7 +275,7 @@
 
 *   [jpease/hex-outdated.nvim (⭐1)](https://github.com/jpease/hex-outdated.nvim) - Display latest Hex package version and status as virtual text in `mix.exs`.
 
-## [7. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [19. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Development Tools & Utilities
 

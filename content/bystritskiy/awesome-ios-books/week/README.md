@@ -6,6 +6,21 @@
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### iOS
+
+*   [*Beginning iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/swift/)
+*   [*Intermediate iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+
+### Swift
+
+*   [*Mastering Swift* by Charles Edge, Joel Rennich, Jeremy Bannister](https://link.springer.com/book/10.1007/979-8-8688-2770-9)
+
+### SwiftUI
+
+*   [*SwiftUI Cookbook, Fourth Edition* by Juan C. Catalan](https://www.packtpub.com/en-us/product/swiftui-cookbook-9781806663767)
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### iOS
@@ -549,7 +564,6 @@
 
 ### iOS
 
-*   [*Beginning iOS 13 Programming with Swift* by Simon Ng](https://www.appcoda.com/learnswift/)
 *   [*Push Notifications by Tutorials* by Scott Grosch, Marin Bencevic, Shai Mishali](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
 
 ### Game Development
@@ -643,7 +657,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐706)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐715)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
@@ -703,10 +717,6 @@
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ## [Aug 12 - Aug 18, 2019](/content/2019/32/README.md)
-
-### iOS
-
-*   [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
 
 ### SwiftUI
 

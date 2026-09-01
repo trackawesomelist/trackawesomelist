@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Sep 01, 2026](/content/2026/09/01/README.md)
+
+### Web frameworks / Isomorphic web frameworks
+
+*   🔥 [Fluxion (⭐14)](https://github.com/parenworks/Fluxion) - Live, server-rendered reactive web UI framework. MIT.
+    *   NEW as of 2026
+    *   blog post: ["Fluxion: Building a Propagator-Based Reactive Web UI Framework in Common Lisp"](https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html)
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Agents
@@ -356,7 +364,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Changing the syntax
 
 *   [Moonli](https://gitlab.com/digikar/moonli) - a Julia/Python-ish syntax layer that transpiles to Common Lisp.
-    *   *experimental*. New as of 2025.
+    *   *experimental*.
 
 ### HTTP Servers / Hunchentoot plugins
 
@@ -416,7 +424,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### C, C++
 
-*   NEW as of 2025 [Cicili (⭐47)](https://github.com/saman-pasha/cicili/) - C generator macro-driven language. GPL3.0.
+*   [Cicili (⭐47)](https://github.com/saman-pasha/cicili/) - C generator macro-driven language. GPL3.0.
     *   "can use lisp libraries to produce compile time content like html, json, sql, ... for inside C generated code".
 *   [crypto-shortcuts](https://codeberg.org/shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
@@ -566,7 +574,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   🚀 [Rooms: Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
     *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
-    *   NEW as of April, 2024.
 
 ### LispWorks / Third-party APIs
 
@@ -704,7 +711,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   🆕 [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT](https://opensource.org/licenses/MIT).
     *   with menus, panes, tabs, dialogs, a file chooser, a flexible event loop…
     *   not a wrapper of another toolkit. Allows incremental GUI development.
-    *   new as of April, 2025.
 
 ### Web views
 
