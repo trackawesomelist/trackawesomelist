@@ -72,20 +72,24 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 ## Contents
 
 *   [Contents](#contents)
+*   [New](#tada-new)
 *   [Official](#official)
 *   [Interfaces](#interfaces)
 *   [Forks](#forks)
+*   [Agent Orchestration & CLI Tools](#agent-orchestration--cli-tools)
 *   [Fun](#fun)
 *   [Development Tools & Utilities](#development-tools--utilities)
+*   [Browser Extensions](#browser-extensions)
 *   [SDKs](#sdks)
 *   [API Bridges & Proxies](#api-bridges--proxies)
 *   [Commands & Extensions](#commands--extensions)
 *   [Prompts](#prompts)
+*   [Education & Study Tools](#education--study-tools)
 *   [MCP Servers](#mcp-servers)
 *   [Neovim Plugins](#neovim-plugins)
-*   [Development Frameworks & Orchestration](#development-frameworks--orchestration)
-*   [Documentation & Learning Resources](#documentation--learning-resources)
-*   [Demo Collections & Examples](#demo-collections--examples)
+*   [Frameworks](#frameworks)
+*   [Documentation & Examples](#documentation--examples)
+*   [Non-Gemini CLI](#non-gemini-cli)
 *   [Contributing](#contributing)
 
 ## Official
@@ -215,6 +219,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native status companion for Gemini CLI, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and tracks Gemini Pro and Flash quota separately, without an Agent Island account or product telemetry. macOS and Windows.
 *   [Hexis (⭐81)](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.
 *   [claude-skills-pro (⭐3)](https://github.com/Hahaknight/claude-skills-pro) - 15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: `npx skills add Hahaknight/claude-skills-pro --agent gemini-cli` (install path verified end-to-end in Gemini CLI).
+*   [Devie AI Quota Tracker (⭐5)](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.
 
 ## Browser Extensions
 

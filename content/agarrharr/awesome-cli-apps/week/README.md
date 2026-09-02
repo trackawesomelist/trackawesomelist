@@ -12,6 +12,14 @@
 
 *   [mcat (⭐1.4k)](https://github.com/Skardyy/mcat) - Markdown, images, video, and document viewer.
 
+### Utilities / Weather
+
+*   [linecast (⭐347)](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
+
+### AI / Agents
+
+*   [AgentBridge (⭐322)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Entertainment / Music
@@ -833,7 +841,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐968)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 

@@ -26,7 +26,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -260,7 +260,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [PingMe (⭐861)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 *   [Discharge (⭐647)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
-*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐968)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 *   [telert (⭐286)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 *   [logdy (⭐2.3k)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 *   [s5cmd (⭐4.2k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
@@ -543,6 +543,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [wego (⭐8.5k)](https://github.com/schachmat/wego)
 *   [weather-cli (⭐95)](https://github.com/riyadhalnur/weather-cli)
 *   [weathr (⭐3k)](https://github.com/veirt/weathr) - ASCII animations.
+*   [linecast (⭐347)](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
 
 ### Browser Replacement
 
@@ -867,6 +868,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [agentty (⭐606)](https://github.com/1ay1/agentty) - C++ agent TUI.
 *   [bosun (⭐42)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 *   [Keen Code (⭐60)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+*   [AgentBridge (⭐322)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
 
 ### LLM Interaction
 

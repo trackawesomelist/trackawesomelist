@@ -8,6 +8,10 @@
 
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
+### Testing Frameworks / Assertion
+
+*   [interface-forge (⭐103)](https://github.com/Goldziher/interface-forge) - Graceful, type-safe mock-data generation for TypeScript, with factories and Faker integration.
+
 ### Generative AI / Other
 
 *   [liter-llm (⭐251)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
@@ -2530,7 +2534,7 @@
 
 *   [emijrp/awesome-awesome (⭐3.2k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐497k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐502k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐11k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)

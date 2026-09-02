@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Sep 02, 2026](/content/2026/09/02/README.md)
+
+### Utilities / Weather
+
+*   [linecast (⭐347)](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
+
+### AI / Agents
+
+*   [AgentBridge (⭐322)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
+
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
 ### Utilities / Markdown
@@ -937,7 +947,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐960)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐968)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ## [Oct 03, 2022](/content/2022/10/03/README.md)
 
