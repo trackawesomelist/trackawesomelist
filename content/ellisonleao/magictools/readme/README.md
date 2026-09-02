@@ -253,7 +253,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 *   :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
-*   :tada: [Dash (⭐423)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+*   :tada: [Dash (⭐425)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 *   :tada: [Dear Imgui (⭐76k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :tada: [DEM Net Elevation API C# (⭐354)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
@@ -331,7 +331,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 *   :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 *   :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-*   :tada: [OpenXRay (⭐3.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [OpenXRay (⭐3.6k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [ORX](https://orx-project.org/) - ORX is a 2.5D Data-driven C/C++ open source & multi-platform game development engine.
 *   :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *   :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
@@ -451,7 +451,9 @@ A curated list of game development resources to make **magic** happen.
 *   [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
 *   [HobbyGameDev](http://www.hobbygamedev.com/)
 *   [Html5 Game Development](http://www.html5gamedevelopment.com/)
+*   [iforce2d](http://www.iforce2d.net/)
 *   [IndieDB](http://www.indiedb.com/)
+*   [indiegames](http://indiegames.com/index.html)
 *   [Mod DB](http://www.moddb.com/)
 *   [Java Gaming](http://www.java-gaming.org/)
 *   [Lost Garden](http://www.lostgarden.com/)
@@ -461,8 +463,7 @@ A curated list of game development resources to make **magic** happen.
 *   [Superlevel](https://superlevel.de/)
 *   [TIGSource](http://www.tigsource.com/)
 *   [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
-*   [iforce2d](http://www.iforce2d.net/)
-*   [indiegames](http://indiegames.com/index.html)
+*   :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 
 ### Books
 

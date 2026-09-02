@@ -2,7 +2,7 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.7K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.8K · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / Overview ]
 
@@ -192,7 +192,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web)
 *   [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software][oss]](https://telegram.org/apps)
 *   [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software][oss]](https://github.com/threema-ch) ![paid] ![star]
-*   [Unigram (⭐5.3k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software][oss]](https://github.com/UnigramDev/Unigram)
+*   [Unigram (⭐5.4k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software][oss]](https://github.com/UnigramDev/Unigram)
 *   [Vencord](https://vencord.dev) - The cutest Discord client mod with lots of plugins. [![Open-Source Software][oss]](https://github.com/Vendicated/Vencord)
 *   [Waow](https://dedg3.com/wao/) - WhatsApp Web client with extra features.
 
@@ -208,7 +208,7 @@ More information in CLAUDE.md and llms.txt.
 ## Customization
 
 *   [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
-*   [OpenShell (⭐9.2k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [OpenShell (⭐9.3k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 *   [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout)
 *   [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
@@ -220,7 +220,7 @@ More information in CLAUDE.md and llms.txt.
 *   [TranslucentTB (⭐20k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
 *   [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
-*   [YASB (⭐5.3k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐5.4k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
 
 ## Data Recovery
@@ -258,8 +258,8 @@ More information in CLAUDE.md and llms.txt.
 *   [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
 *   [Postbox](https://postbox-inc.com/) - Advanced email management application.
 *   [ProtonMail](https://proton.me/mail) - Encrypted email service with end-to-end encryption. [![Open-Source Software][oss]](https://github.com/ProtonMail) ![star]
-*   [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software][oss]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
-*   [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail)
+*   [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software][oss]](https://developer.thunderbird.net/thunderbird-development/building-thunderbird)
+*   [Wino Mail](https://www.winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail)
 
 ## File Management
 
@@ -283,13 +283,12 @@ More information in CLAUDE.md and llms.txt.
 *   [Awesome Games (⭐25k)](https://github.com/leereilly/games) - List of games hosted on GitHub.
 *   [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
 *   [Freeciv](https://www.freeciv.org/) - Free empire-building strategy game inspired by human civilization. [![Open-Source Software][oss]](https://github.com/freeciv/)
-*   [Gale (⭐726)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐742)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 *   [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 *   [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
 *   [Heroic Games Launcher](https://heroicgameslauncher.com/) - A game launcher with support for GOG, Epic Games and Amazon games. [![Open-Source Software][oss]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 *   [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
-*   [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 *   [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
 *   [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software][oss]](https://github.com/JosefNemec/Playnite/)
 *   [Steam](https://store.steampowered.com/) - Leading digital game distribution platform with extensive library management.
@@ -320,7 +319,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software][oss]](https://git.eclipse.org/c/)
 *   [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
 *   [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Controls JetBrains IDE installations and updates.
-*   [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://netbeans.org/community/sources/)
+*   [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://github.com/apache/netbeans)
 *   [PearAI](https://trypear.ai/) - Open source AI code editor with curated integrations of multiple AI tools. [![Open-Source Software][oss]](https://github.com/peardocs/pearai) ![star]
 *   [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder)
 *   [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
@@ -382,19 +381,18 @@ More information in CLAUDE.md and llms.txt.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 *   [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 *   [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
-*   [Kaas (⭐216)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Kaas (⭐215)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 *   [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 *   [MultiCommander](https://multicommander.com/) - Professional file manager.
 *   [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
-*   [STranslate (⭐7.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐7.9k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 *   [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
-*   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 *   [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
 *   [Saga Reader (⭐535)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
@@ -448,7 +446,7 @@ More information in CLAUDE.md and llms.txt.
 *   [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 *   [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
 *   [Certificate Ripper (⭐922)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
-*   [cppcryptfs (⭐954)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [cppcryptfs (⭐957)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 *   [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 *   [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 *   [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
@@ -459,8 +457,7 @@ More information in CLAUDE.md and llms.txt.
 *   [SpyBot](https://www.safer-networking.org/) - Malware and spyware detection and removal.
 *   [System Explorer](https://systemexplorer.net) - Enhanced task manager with advanced system monitoring.
 *   [Tor Project](https://www.torproject.org/) - Anonymous communication network. [![Open-Source Software][oss]](https://github.com/TheTorProject)
-*   [UnChecky](https://unchecky.com/) - Automated unwanted software offer prevention.
-*   [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://www.veracrypt.fr/code/VeraCrypt/)
+*   [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt)
 *   [Viscosity](https://www.sparklabs.com/viscosity/) - Enterprise-ready OpenVPN client.
 
 ## System Utilities
@@ -474,7 +471,7 @@ More information in CLAUDE.md and llms.txt.
 *   [CrunchyCleaner (⭐146)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
 *   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 *   [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
-*   [HardwareExporterWindows (⭐9)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
+*   [HardwareExporterWindows (⭐10)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
 *   [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 *   [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 *   [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
@@ -488,7 +485,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker)
 *   [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent)
 *   [Rufus](https://rufus.ie/) - Bootable USB creation utility. [![Open-Source Software][oss]](https://github.com/pbatard/rufus)
-*   [scrcpy (⭐148k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐149k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
 *   [Servy (⭐2k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 *   [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
@@ -503,11 +500,10 @@ More information in CLAUDE.md and llms.txt.
 
 *   [Alacritty (⭐65k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder)
-*   [ConEmu (⭐9.2k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
+*   [ConEmu (⭐9.3k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 *   [FluentTerminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 *   [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 *   [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
-*   [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 *   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 *   [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby)
 *   [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
@@ -535,7 +531,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 *   [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
 *   [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
-*   [GitLight (⭐929)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐928)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Meld](https://meldmerge.org/) - Visual diff and merge tool. [![Open-Source Software][oss]](https://gitlab.gnome.org/GNOME/meld/)
 *   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 *   [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
@@ -548,7 +544,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Kdenlive](https://kdenlive.org/en/download/) - Video editor focused on transitions and effects. [![Open-Source Software][oss]](https://invent.kde.org/multimedia/kdenlive)
 *   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
-*   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
+*   [PotPlayer](https://potplayer.tv/) - Media player with hardware acceleration and streaming capabilities.
 *   [Screenbox (⭐4.1k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
@@ -567,7 +563,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Window Management
 
-*   [AltSnap (⭐5.1k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
+*   [AltSnap (⭐5.2k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
 *   [FancyZones (⭐138k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
 *   [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 *   [GlazeWM (⭐13k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
@@ -576,7 +572,7 @@ More information in CLAUDE.md and llms.txt.
 
 Thanks to all contributors without you this project would not exist.
 
-<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/helouism'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90733858?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='helouism'/></a> <a href='https://github.com/Pandooroo'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/258675921?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Pandooroo'/></a> <a href='https://github.com/farivar-tabatabaei'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40429523?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='farivar-tabatabaei'/></a> <a href='https://github.com/sjharper79'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/891208?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sjharper79'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://github.com/stkossman'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/170632168?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='stkossman'/></a> <a href='https://github.com/suprunchuk'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57152612?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='suprunchuk'/></a> <a href='https://github.com/tachy0nnn'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154914363?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='tachy0nnn'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/ZGGSONG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49741009?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='ZGGSONG'/></a> <a href='https://github.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://github.com/mnardit'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/10056330?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mnardit'/></a> <a href='https://github.com/nukhes'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79018158?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='nukhes'/></a> <a href='https://github.com/N0mad300'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142749485?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='N0mad300'/></a> <a href='https://github.com/AnakamaTH'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109427414?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='AnakamaTH'/></a> <a href='https://github.com/4worlds4w-svg'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/259966125?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='4worlds4w-svg'/></a> <a href='https://github.com/koolninad'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8643639?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='koolninad'/></a> <a href='https://github.com/Omibranch'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/272266969?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Omibranch'/></a> <a href='https://github.com/Quickz'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/17292064?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Quickz'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/sopaco'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/15891288?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sopaco'/></a> <a href='https://github.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://github.com/Talkdedsec'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/292909750?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Talkdedsec'/></a> <a href='https://github.com/mokosiy'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7067553?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mokosiy'/></a> <a href='https://github.com/jediwade'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/9596313?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='jediwade'/></a> <a href='https://github.com/YashvardhanG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47084179?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='YashvardhanG'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a>
+<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/helouism'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90733858?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='helouism'/></a> <a href='https://github.com/Pandooroo'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/258675921?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Pandooroo'/></a> <a href='https://github.com/farivar-tabatabaei'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40429523?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='farivar-tabatabaei'/></a> <a href='https://github.com/sjharper79'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/891208?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sjharper79'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://github.com/stkossman'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/170632168?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='stkossman'/></a> <a href='https://github.com/suprunchuk'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57152612?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='suprunchuk'/></a> <a href='https://github.com/tachy0nnn'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154914363?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='tachy0nnn'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/ZGGSONG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49741009?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='ZGGSONG'/></a> <a href='https://github.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://github.com/mnardit'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/10056330?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mnardit'/></a> <a href='https://github.com/nukhes'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79018158?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='nukhes'/></a> <a href='https://github.com/N0mad300'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142749485?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='N0mad300'/></a> <a href='https://github.com/AnakamaTH'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109427414?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='AnakamaTH'/></a> <a href='https://github.com/makeusabrew'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/278461?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='makeusabrew'/></a> <a href='https://github.com/koolninad'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8643639?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='koolninad'/></a> <a href='https://github.com/Omibranch'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/272266969?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Omibranch'/></a> <a href='https://github.com/Quickz'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/17292064?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Quickz'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/sopaco'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/15891288?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='sopaco'/></a> <a href='https://github.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://github.com/Talkdedsec'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/292909750?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Talkdedsec'/></a> <a href='https://github.com/mokosiy'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7067553?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='mokosiy'/></a> <a href='https://github.com/jediwade'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/9596313?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='jediwade'/></a> <a href='https://github.com/YashvardhanG'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47084179?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='YashvardhanG'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a>
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 

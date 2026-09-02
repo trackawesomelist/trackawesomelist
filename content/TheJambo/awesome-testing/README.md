@@ -6,6 +6,17 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Sep 02, 2026](/content/2026/09/02/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [qmax-mcp (⭐2)](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
+
+### Software / Test Data Management
+
+*   [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
+*   [dbmask (⭐124)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Software / AI & LLM Testing

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Sep 02, 2026](/content/2026/09/02/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly snapshots of public development and citation activity for open-source and research-native AI systems, content-addressed and byte-reproducible from public inputs. JSON and CSV per snapshot date, CC0, DOI 10.5281/zenodo.21076011.
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
@@ -526,7 +532,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐707)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐706)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -1630,7 +1636,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐102k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐103k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
@@ -1642,7 +1648,7 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐198k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐10k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)

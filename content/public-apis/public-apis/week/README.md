@@ -8,7 +8,46 @@ A collective list of free APIs
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
+### Cryptocurrency
+
+- API: [DefiLlama](https://defillama.com/docs/api)
+
+  Description: Open and transparent DeFi data, TVL, coin prices, volumes, and yields
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Currency Exchange
+
+- API: [api-mint](https://api-mint.hoiwan.workers.dev)
+
+  Description: Free utility APIs: timezone, forex rates, crypto prices, page metadata
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Development
+
+- API: [Crawl Readiness](https://crawlreadiness.com)
+
+  Description: Check if AI crawlers (ChatGPT, Claude, Perplexity, 30+ others) can access any website
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [GcrawlAI](https://gcrawlai.com)
 
@@ -19,6 +58,81 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Labelixa](https://labelixa.com/docs/api)
+
+  Description: Render, validate and generate Zebra ZPL label barcodes as PNG/PDF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [QR Codes](https://qr-api.62-238-102-93.sslip.io/docs)
+
+  Description: Generate QR codes via a single GET request, with logo embedding and custom colors
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Shotanvil](https://shotanvil.com)
+
+  Description: Screenshot, PDF and HTML rendering API with a free tier, API key or x402 auth
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Finance
+
+- API: [FXNewsBias](https://fxnewsbias.com/developers)
+
+  Description: AI-scored news sentiment for the 8 major forex currencies, refreshed every 3 hours
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [Helious](https://helious.io/developers/)
+
+  Description: US Treasury auction results with the tail and bidder split, plus scored economic releases
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [IBAN Analyzer](https://iban-analyzer.com/free-iban-api)
+
+  Description: Resolve an IBAN to its bank name, BIC, city and address for 60+ countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
 
 
 
@@ -36,11 +150,117 @@ A collective list of free APIs
 
 
 
+### Government
+
+- API: [Bidledger](https://jaydemks.github.io/bidledger/api.html)
+
+  Description: Every open public tender in the European Union, rebuilt daily from the official TED data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [FindSaunaPlunge](https://findsaunaplunge.com/api/)
+
+  Description: US cold plunge and sauna venues with dated, source-quoted temperatures and prices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Urgences Québec](https://sante.handled.tools/api)
+
+  Description: Hourly emergency room occupancy, stretcher counts and wait times for every hospital in Quebec, Canada
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Open Data
 
 - API: [PayCrunch](https://paycrunch.co/api.html)
 
   Description: US wages for 1,008 occupations and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [Neetix Liveliness](https://liveliness.neetix.in/api-reference)
+
+  Description: Face liveness, presentation-attack detection and 1:1 face match for identity verification
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [OpenFoot API](https://openfootapi.com/docs)
+
+  Description: Football fixtures, results, standings, lineups, live events and shot-level xG across 75 competitions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Aviation Safety Data](https://himaxym.com/developers)
+
+  Description: 164,068 aircraft accident narratives from 128 official investigation authorities, plus FAA data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LiveTrafficCam](https://bzsasson.github.io/traffic-camera-sources/api.html)
+
+  Description: Live US state DOT traffic cameras with verified live status and measured uptime
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [WeatherTotals](https://weathertotals.com/api)
+
+  Description: Measured US snow, rain, hail and aurora totals by state and city
 
   Auth: No
 
@@ -13313,6 +13533,31 @@ A collective list of free APIs
 
 
 
+### Weather
+
+- API: [Open-Meteo](https://open-meteo.com/)
+
+  Description: Global weather forecast API for non-commercial use
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
+
+  Description: Provide weather information, earthquake information, and climate data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Games & Comics
 
 - API: [Cross Universe](https://crossuniverse.psychpsyo.com/apiDocs.html)
@@ -13406,31 +13651,6 @@ A collective list of free APIs
   Description: Identify sport, brands and gear in an image. Also does image sports captioning
 
   Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-### Weather
-
-- API: [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
-
-  Description: Provide weather information, earthquake information, and climate data
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Open-Meteo](https://open-meteo.com/)
-
-  Description: Global weather forecast API for non-commercial use
-
-  Auth: No
 
   HTTPS: Yes
 

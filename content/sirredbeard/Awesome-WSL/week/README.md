@@ -6,6 +6,12 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 [ [Daily](/content/sirredbeard/Awesome-WSL/README.md) / Weekly / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [marcop135/dotfiles-core (⭐0)](https://github.com/marcop135/dotfiles-core) - Manifest-driven dotfiles for WSL bash plus native Windows (Git Bash, PowerShell) and macOS zsh; one shared sh layer, dry-run installers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### WSL Tools / WSL Utilities
@@ -48,7 +54,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / WSL-Specific Development Tools
 
-*   [claude-code-wsl2-setup (⭐45)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [claude-code-wsl2-setup (⭐48)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Claude Code setup for WSL2 + Windows Terminal: Codex delegation, screenshot paste as WSL paths, Windows notifications, LSP wiring, statusline, and safety/context hygiene hooks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 

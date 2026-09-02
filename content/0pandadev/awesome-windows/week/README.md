@@ -2,15 +2,23 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.7K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.8K · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
+### Email
+
+*   [Wino Mail](https://www.winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bkaankose/Wino-Mail)
+
 ### Screenshot
 
 *   [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
+
+### Video Utilities
+
+*   [PotPlayer](https://potplayer.tv/) - Media player with hardware acceleration and streaming capabilities.
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
@@ -117,7 +125,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [HardwareExporterWindows (⭐9)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/naughtyGitCat/HardwareExporterWindows)
+*   [HardwareExporterWindows (⭐10)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/naughtyGitCat/HardwareExporterWindows)
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -249,7 +257,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Security
 
-*   [cppcryptfs (⭐954)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [cppcryptfs (⭐957)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
@@ -318,11 +326,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Communication
 
-*   [Unigram (⭐5.3k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
+*   [Unigram (⭐5.4k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
 
 ### Customization
 
-*   [OpenShell (⭐9.2k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [OpenShell (⭐9.3k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Productivity
 
@@ -332,7 +340,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [scrcpy (⭐148k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐149k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
@@ -427,7 +435,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [STranslate (⭐7.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐7.9k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
@@ -478,7 +486,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Window Management
 
-*   [AltSnap (⭐5.1k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [AltSnap (⭐5.2k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [FancyZones (⭐138k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [GlazeWM (⭐13k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
@@ -567,7 +575,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Customization
 
 *   [TranslucentTB (⭐20k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [YASB (⭐5.3k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐5.4k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Databases Clients
 
@@ -575,7 +583,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Game Stores
 
-*   [Gale (⭐726)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐742)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### IDEs
 
@@ -584,7 +592,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Productivity
 
 *   [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Kaas (⭐216)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Kaas (⭐215)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Remote Access
 
@@ -604,7 +612,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Version Control
 
-*   [GitLight (⭐929)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐928)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -619,12 +627,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/element-hq/element-web)
 *   [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://telegram.org/apps)
 *   [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/threema-ch) ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-
-## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
-
-### Productivity
-
-*   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/0pandadev/timelens)
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -712,8 +714,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows encryption protocol configuration utility.
 *   [Malwarebytes](https://www.malwarebytes.org/) - Advanced threat protection and removal.
-*   [UnChecky](https://unchecky.com/) - Automated unwanted software offer prevention.
-*   [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://www.veracrypt.fr/code/VeraCrypt/)
+*   [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/veracrypt/VeraCrypt)
 
 ### System Utilities
 
@@ -778,7 +779,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Android Studio](https://developer.android.com/studio/index.html) - Develops and tests Android applications. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://sites.google.com/a/android.com/tools/)
 *   [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://git.eclipse.org/c/)
-*   [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://netbeans.org/community/sources/)
+*   [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/apache/netbeans)
 *   [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
 *   [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Microsoft/vscode)
 
@@ -868,8 +869,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 *   [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Foundry376/Mailspring) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
-*   [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bkaankose/Wino-Mail)
+*   [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://developer.thunderbird.net/thunderbird-development/building-thunderbird)
 
 ### File Management
 
@@ -887,7 +887,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/godotengine/godot)
 *   [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 *   [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/itchio/itch)
-*   [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 *   [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
 *   [Steam](https://store.steampowered.com/) - Leading digital game distribution platform with extensive library management.
 *   [Unity](https://unity3d.com/) - Popular game engine with comprehensive learning resources.
@@ -986,10 +985,9 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Terminal
 
-*   [ConEmu (⭐9.2k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
+*   [ConEmu (⭐9.3k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 *   [FluentTerminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 *   [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
-*   [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 *   [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/microsoft/terminal)
 
 ### Text Editors
@@ -1013,7 +1011,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/HandBrake/HandBrake)
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/olive-editor/olive)
-*   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mltframework/shotcut)
 *   [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
