@@ -29,6 +29,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
+*   [harry0703/MangoDisk (⭐2.1k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
 *   [Skardyy/mcat (⭐1.4k)](https://github.com/Skardyy/mcat) \[[mcat](https://crates.io/crates/mcat)] - View images, video, Markdown, and other documents in the terminal.
 
 ### Applications / Text processing
@@ -40,6 +41,10 @@ A curated list of Rust code and resources.
 *   [astral-sh/uv (⭐89k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
 *   [FerrLabs/FerrFlow (⭐2)](https://github.com/FerrLabs/FerrFlow) \[[ferrflow](https://crates.io/crates/ferrflow)] - Semantic versioning, changelog and tagged releases driven by Conventional Commits, with monorepo support and 16 version-file formats [![build badge](https://github.com/FerrLabs/FerrFlow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FerrLabs/FerrFlow/actions/workflows/ci.yml)
 *   [prefix-dev/pixi (⭐7.7k)](https://github.com/prefix-dev/pixi) \[[pixi](https://crates.io/crates/pixi)] - Fast package management and workflow tool for multi-language projects, built on top of the conda ecosystem.
+
+### Libraries / Artificial Intelligence
+
+*   [tenequm/pond (⭐58)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 

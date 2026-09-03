@@ -6,6 +6,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### .NET Conf 2026 (November 10-12, 2026).
+
+*   Join Microsoft on November 10-12 to celebrate the launch of .NET 11 and learn what's new!
+*   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Videos / Others
@@ -16,24 +23,24 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Authentication
 
-*   [CodeBeam.UltimateAuth (⭐13)](https://github.com/CodeBeamOrg/UltimateAuth) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=86400) A modern authentication framework for .NET that unifies sessions, cookies and tokens into a single model, with built-in support for Blazor Server and WebAssembly applications. [Docs](https://ultimateauth.com).
+*   [CodeBeam.UltimateAuth (⭐14)](https://github.com/CodeBeamOrg/UltimateAuth) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/UltimateAuth?style=flat-square\&cacheSeconds=86400) A modern authentication framework for .NET that unifies sessions, cookies and tokens into a single model, with built-in support for Blazor Server and WebAssembly applications. [Docs](https://ultimateauth.com).
 
 ### ToDos
 
-*   [OpenHabitTracker (⭐262)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
+*   [OpenHabitTracker (⭐275)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
 
 ### Component bundles
 
-*   [Blazor Blueprint (⭐536)](https://github.com/blazorblueprintui/ui) - ![stars](https://img.shields.io/github/stars/blazorblueprintui/ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorblueprintui/ui?style=flat-square\&cacheSeconds=86400) A shadcn/ui inspired component library for Blazor with 75+ styled components, 15 headless primitives, and 1,640+ icons. Features a two-tier architecture with unstyled primitives for full control and pre-styled components for rapid development. Compatible with existing shadcn themes from shadcn/ui and tweakcn. [Documentation and Demo](https://blazorblueprintui.com).
+*   [Blazor Blueprint (⭐572)](https://github.com/blazorblueprintui/ui) - ![stars](https://img.shields.io/github/stars/blazorblueprintui/ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorblueprintui/ui?style=flat-square\&cacheSeconds=86400) A shadcn/ui inspired component library for Blazor with 75+ styled components, 15 headless primitives, and 1,640+ icons. Features a two-tier architecture with unstyled primitives for full control and pre-styled components for rapid development. Compatible with existing shadcn themes from shadcn/ui and tweakcn. [Documentation and Demo](https://blazorblueprintui.com).
 *   [FluentUI Blazor (⭐4.8k)](https://github.com/microsoft/fluentui-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fluentui-blazor?style=flat-square\&cacheSeconds=86400) Microsoft's official FluentUI Web Components for Blazor. ([Samples & demo](https://www.fluentui-blazor.net/)).
 
 ### Routing & Navigation / Modal, Toast & Notifications
 
-*   [Blazouter (⭐69)](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square\&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
+*   [Blazouter (⭐70)](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square\&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
 
 ### Routing & Navigation / Others
 
-*   [ActualLab.Fusion (⭐167)](https://github.com/ActualLab/Fusion) - ![GitHub stars](https://img.shields.io/github/stars/ActualLab/Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ActualLab/Fusion?style=flat-square\&cacheSeconds=86400) Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples (⭐17)](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
+*   [ActualLab.Fusion (⭐176)](https://github.com/ActualLab/Fusion) - ![GitHub stars](https://img.shields.io/github/stars/ActualLab/Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ActualLab/Fusion?style=flat-square\&cacheSeconds=86400) Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples (⭐17)](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
 
 ### Videos / Others
 
@@ -55,7 +62,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [NeoUI (⭐45)](https://github.com/jimmyps/blazor-shadcn-ui) - ![stars](https://img.shields.io/github/stars/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=86400) Production-ready shadcn/ui-inspired component library for Blazor. 100+ styled components, 15 headless primitives, 12 chart types, declarative animations, 3,200+ icons, zero-config pre-built CSS, WCAG 2.1 AA, dark mode, 85 theme combinations, and full .NET 10 Auto rendering mode. MIT licensed.
+*   [NeoUI (⭐56)](https://github.com/jimmyps/blazor-shadcn-ui) - ![stars](https://img.shields.io/github/stars/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=86400) Production-ready shadcn/ui-inspired component library for Blazor. 100+ styled components, 15 headless primitives, 12 chart types, declarative animations, 3,200+ icons, zero-config pre-built CSS, WCAG 2.1 AA, dark mode, 85 theme combinations, and full .NET 10 Auto rendering mode. MIT licensed.
 
 ## [Aug 18 - Aug 24, 2025](/content/2025/33/README.md)
 
@@ -65,17 +72,17 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Others
 
-*   [SaveHere (⭐117)](https://github.com/gudarzi/savehere) - ![stars](https://img.shields.io/github/stars/gudarzi/savehere?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gudarzi/savehere?style=flat-square\&cacheSeconds=86400) Cloud Download Manager for direct links and media files from Youtube/Spotify/etc with media converter and builtin proxy to bypass restrictions.
+*   [SaveHere (⭐118)](https://github.com/gudarzi/savehere) - ![stars](https://img.shields.io/github/stars/gudarzi/savehere?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gudarzi/savehere?style=flat-square\&cacheSeconds=86400) Cloud Download Manager for direct links and media files from Youtube/Spotify/etc with media converter and builtin proxy to bypass restrictions.
 
 ### 2D/3D Rendering engines / Datagrids / tables
 
-*   [BlazorDatasheet (⭐358)](https://github.com/anmcgrath/BlazorDatasheet) - ![stars](https://img.shields.io/github/stars/anmcgrath/BlazorDatasheet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/anmcgrath/BlazorDatasheet?style=flat-square\&cacheSeconds=86400) Excel-like datasheet component with keyboard navigation, formula, filtering, sorting and more.
+*   [BlazorDatasheet (⭐359)](https://github.com/anmcgrath/BlazorDatasheet) - ![stars](https://img.shields.io/github/stars/anmcgrath/BlazorDatasheet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/anmcgrath/BlazorDatasheet?style=flat-square\&cacheSeconds=86400) Excel-like datasheet component with keyboard navigation, formula, filtering, sorting and more.
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
 ### Templates
 
-*   [CleanAspire (⭐219)](https://github.com/neozhu/cleanaspire) - ![stars](https://img.shields.io/github/stars/neozhu/cleanaspire?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/neozhu/cleanaspire?style=flat-square) - CleanAspire is a cloud-native template powered by Aspire for cloud environments with scalability and offline support. Using .NET 9 Minimal APIs and Blazor WebAssembly, it provides a lightweight, fast foundation for building Progressive Web Applications (PWA) optimized for the cloud.
+*   [CleanAspire (⭐218)](https://github.com/neozhu/cleanaspire) - ![stars](https://img.shields.io/github/stars/neozhu/cleanaspire?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/neozhu/cleanaspire?style=flat-square) - CleanAspire is a cloud-native template powered by Aspire for cloud environments with scalability and offline support. Using .NET 9 Minimal APIs and Blazor WebAssembly, it provides a lightweight, fast foundation for building Progressive Web Applications (PWA) optimized for the cloud.
 
 ### Rapid Development Framework
 
@@ -92,7 +99,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Routing & Navigation / Others
 
 *   [BlazorDragDrop (⭐417)](https://github.com/Postlagerkarte/Blazor-DragDrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/Blazor-DragDrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/Blazor-DragDrop?style=flat-square\&cacheSeconds=86400) A simple drag-and-drop library for Blazor components.
-*   [BlazorTreeViews (⭐75)](https://github.com/excubo-ag/Blazor.TreeViews) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) A customizable tree view component for Blazor applications.
+*   [BlazorTreeViews (⭐74)](https://github.com/excubo-ag/Blazor.TreeViews) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) A customizable tree view component for Blazor applications.
 
 ### Community / Others
 
@@ -121,8 +128,8 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### CMS
 
-*   [FluentCMS (⭐559)](https://github.com/fluentcms/FluentCMS) - ![GitHub stars](https://img.shields.io/github/stars/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=86400) FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) [FluentCMS](https://fluentcms.com/).
-*   [ZauberCMS (⭐111)](https://github.com/YodasMyDad/ZauberCMS) - ![stars](https://img.shields.io/github/stars/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=86400) Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.
+*   [FluentCMS (⭐563)](https://github.com/fluentcms/FluentCMS) - ![GitHub stars](https://img.shields.io/github/stars/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=86400) FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) [FluentCMS](https://fluentcms.com/).
+*   [ZauberCMS (⭐112)](https://github.com/YodasMyDad/ZauberCMS) - ![stars](https://img.shields.io/github/stars/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=86400) Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.
 
 ### Others
 
@@ -196,7 +203,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines / Charts
 
-*   [Blazor-ApexCharts (⭐1k)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Blazor-ApexCharts (⭐1.1k)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
 *   [UnlockedData.Chartist.Blazor (⭐7)](https://github.com/UnlockedData/UnlockedData.Chartist.Blazor) - ![last commit](https://img.shields.io/github/last-commit/unlockeddata/unlockeddata.chartist.blazor) Blazor wrapper for [Chartist.js](http://gionkunz.github.io/chartist-js/) bundled with [Chartist.js plugins](http://gionkunz.github.io/chartist-js/plugins.html).
 
 ### 2D/3D Rendering engines / Diagrams
@@ -299,7 +306,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Others
 
-*   [ComponentBuilder (⭐48)](https://github.com/AchievedOwner/ComponentBuilder) - ![last commit](https://img.shields.io/github/last-commit/AchievedOwner/ComponentBuilder) - ![GitHub Repo stars](https://img.shields.io/github/stars/AchievedOwner/ComponentBuilder?style=plastic) An automation framework to create Blazor component by `RenderTreeBuilder`.
+*   [ComponentBuilder (⭐47)](https://github.com/AchievedOwner/ComponentBuilder) - ![last commit](https://img.shields.io/github/last-commit/AchievedOwner/ComponentBuilder) - ![GitHub Repo stars](https://img.shields.io/github/stars/AchievedOwner/ComponentBuilder?style=plastic) An automation framework to create Blazor component by `RenderTreeBuilder`.
 
 ### Component bundles
 
@@ -307,7 +314,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines
 
-*   [BabylonBlazor (⭐87)](https://github.com/AlexNek/BabylonBlazor) - ![GitHub stars](https://img.shields.io/github/stars/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=86400) This library packages the well-known 3D library [Babylon.js](https://www.babylonjs.com/) into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. [Demo application](https://babylonblazorapp202208.azurewebsites.net/) which is showing different parts of library [Pubchem Viewer](https://pubchemviewer.azurewebsites.net/). Show chemical information from pubchem.ncbi.nlm.nih.gov.
+*   [BabylonBlazor (⭐86)](https://github.com/AlexNek/BabylonBlazor) - ![GitHub stars](https://img.shields.io/github/stars/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=86400) This library packages the well-known 3D library [Babylon.js](https://www.babylonjs.com/) into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. [Demo application](https://babylonblazorapp202208.azurewebsites.net/) which is showing different parts of library [Pubchem Viewer](https://pubchemviewer.azurewebsites.net/). Show chemical information from pubchem.ncbi.nlm.nih.gov.
 
 ### 2D/3D Rendering engines / CSS
 
@@ -316,13 +323,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Routing & Navigation / Others
 
 *   [Blazor PWA Updater (⭐167)](https://github.com/jsakamoto/Toolbelt.Blazor.PWA.Updater) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=86400) Provide "Update Now" UI and feature to your Blazor PWA that appears when the next version of one is available.
-*   [Blazor SplitContainer (⭐68)](https://github.com/jsakamoto/Toolbelt.Blazor.SplitContainer) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SplitContainer?style=flat-square\&cacheSeconds=86400) A Blazor component to create panes separated by a slidable splitter bar.
+*   [Blazor SplitContainer (⭐67)](https://github.com/jsakamoto/Toolbelt.Blazor.SplitContainer) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SplitContainer?style=flat-square\&cacheSeconds=86400) A Blazor component to create panes separated by a slidable splitter bar.
 *   [BlazorTooltips (⭐4)](https://github.com/MarvinKlein1508/BlazorTooltips) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/BlazorTooltips?style=flat-square\&cacheSeconds=86400) An implementation of Bootstrap tooltips for both Blazor Server and WebAssembly.  [Demo](https://marvinklein1508.github.io/BlazorTooltips).
-*   [BlazorBarcodeScanner (⭐110)](https://github.com/sabitertan/BlazorBarcodeScanner) - ![GitHub stars](https://img.shields.io/github/stars/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=86400) Barcode Scanner component for Blazor using zxing-js Interop. [Demo](https://sabitertan.github.io/BlazorBarcodeScanner/).
+*   [BlazorBarcodeScanner (⭐113)](https://github.com/sabitertan/BlazorBarcodeScanner) - ![GitHub stars](https://img.shields.io/github/stars/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=86400) Barcode Scanner component for Blazor using zxing-js Interop. [Demo](https://sabitertan.github.io/BlazorBarcodeScanner/).
 
 ### Tools & Utilities / Others
 
-*   [Cropper.Blazor (⭐178)](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
+*   [Cropper.Blazor (⭐181)](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -365,7 +372,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐583)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐584)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### 2D/3D Rendering engines / Charts
 
@@ -390,11 +397,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Routing & Navigation / Others
 
-*   [SignaturePad (⭐104)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
+*   [SignaturePad (⭐105)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Hotkeys2 (⭐140)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor Hotkeys2 (⭐141)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [CodeBeam.GoogleApis.Blazor (⭐9)](https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=86400) An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
@@ -433,7 +440,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Hybrid
 
-*   [Blazor Wasm with ASP.NET Framework 4.x (⭐5)](https://github.com/elgransan/BlazorWasmWithNetFrameworkMVC) - With some tweaks and limitations you can run Blazor Wasm on Net Framework 4.x or in another environment. [Explanation on Medium](https://medium.com/@santiagoc_33226/using-blazor-wasm-with-net-framework-mvc-or-another-old-external-site-7fc0884fcfca).
+*   [Blazor Wasm with ASP.NET Framework 4.x (⭐6)](https://github.com/elgransan/BlazorWasmWithNetFrameworkMVC) - With some tweaks and limitations you can run Blazor Wasm on Net Framework 4.x or in another environment. [Explanation on Medium](https://medium.com/@santiagoc_33226/using-blazor-wasm-with-net-framework-mvc-or-another-old-external-site-7fc0884fcfca).
 
 ### Others
 
@@ -442,12 +449,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐372)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐373)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Community / Others
 
 *   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
-*   [I Love DotNet (⭐153)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [I Love DotNet (⭐154)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
@@ -462,7 +469,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [CleanArchitecture (⭐3.6k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 *   [Flight Finder (⭐1k)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
-*   [Blazor.SVGEditor (⭐339)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
+*   [Blazor.SVGEditor (⭐337)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -488,7 +495,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazor.Sidepanel (⭐45)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+*   [Blazor.Sidepanel (⭐44)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
 ### Podcasts / Others
 
@@ -498,7 +505,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Routing & Navigation / Others
 
-*   [BlazorCurrentDevice (⭐29)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
+*   [BlazorCurrentDevice (⭐30)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
 *   [BlazorStyledTextArea (⭐18)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
 
 ### Others / Others
@@ -537,7 +544,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [BlazorAntivirusProtection (⭐67)](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=86400) Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.
-*   [Phork.Blazor.Reactivity (⭐30)](https://github.com/phorks/phork-blazor-reactivity) - ![stars](https://img.shields.io/github/stars/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
+*   [Phork.Blazor.Reactivity (⭐29)](https://github.com/phorks/phork-blazor-reactivity) - ![stars](https://img.shields.io/github/stars/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
 
 ### Podcasts / Others
 
@@ -551,11 +558,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Games
 
-*   [Trains.NET (⭐252)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
+*   [Trains.NET (⭐253)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
 
 ### IoT
 
-*   [PresenceLight (⭐442)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
+*   [PresenceLight (⭐443)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
@@ -579,7 +586,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tools & Utilities / Others
 
-*   [BlazorTemplater (⭐163)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
+*   [BlazorTemplater (⭐162)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
 *   [MediaSession.Blazor (⭐6)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
@@ -622,7 +629,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐360)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐360)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐364)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐364)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### Routing & Navigation / Others
 
@@ -638,12 +645,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [HAVIT Blazor (⭐598)](https://github.com/havit/Havit.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/havit/Havit.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/havit/Havit.Blazor?style=flat-square\&cacheSeconds=86400) Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. [Interactive documentation & Demos](https://havit.blazor.eu).
+*   [HAVIT Blazor (⭐602)](https://github.com/havit/Havit.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/havit/Havit.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/havit/Havit.Blazor?style=flat-square\&cacheSeconds=86400) Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. [Interactive documentation & Demos](https://havit.blazor.eu).
 
 ### Tools & Utilities / Others
 
-*   [BlazorWorker (⭐479)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
-*   [Blazor.BrowserExtension (⭐441)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
+*   [BlazorWorker (⭐482)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
+*   [Blazor.BrowserExtension (⭐444)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
@@ -703,14 +710,14 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Rapid Development Framework
 
-*   [WalkingTec.Mvvm (WTM) (⭐4.4k)](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square\&cacheSeconds=86400) A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. [Website](https://wtmdoc.walkingtec.cn).
+*   [WalkingTec.Mvvm (WTM) (⭐4.3k)](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square\&cacheSeconds=86400) A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. [Website](https://wtmdoc.walkingtec.cn).
 
 ### Component bundles
 
 *   [Radzen.Blazor (⭐4.3k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
 *   [Blazority (⭐111)](https://github.com/blazority/support) - ![GitHub stars](https://img.shields.io/github/stars/blazority/support?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazority/support?style=flat-square\&cacheSeconds=86400) Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view ([Docs & Demos](https://blazority.com)).
 *   [Start Blazoring](https://startblazoring.com) - A Blazor starter template built using your choice of [Blazorise](https://blazorise.com/) or [MudBlazor](https://mudblazor.com), with more UI library integration coming. It offers a myriad of features such as user registration, login, password reset, two factor; user management, roles, permissioning; background workers, logging, caching, email templates, localization and many more.
-*   [TabBlazor (⭐560)](https://github.com/joadan/TabBlazor) - ![GitHub stars](https://img.shields.io/github/stars/joadan/tabblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐41k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
+*   [TabBlazor (⭐561)](https://github.com/joadan/TabBlazor) - ![GitHub stars](https://img.shields.io/github/stars/joadan/tabblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐42k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
 *   [Blazor.Ionic (⭐41)](https://github.com/kukks/Blazor.Ionic) - ![GitHub stars](https://img.shields.io/github/stars/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=86400) Ionic framework integration for Blazor.
 *   [Blazor Controls Toolkit](https://blazorct.azurewebsites.net/) - Complete toolset for implementing commercial business applications. It includes the equivalent of all Bootstrap JavaScript components, all html5 input types with widgets fallbacks, advanced editable components like DataGrid, TreeView, DetailView, ModalDetail, DetailList. All components have default customizable templates, and support virtualizazion and Drag & Drop. Component rendering is meta-data driven, so component configuration is in part automatic, and in part can be driven with data annotations. The toolset includes also query tools, to issue complex local or remote queries, changes-tracking tools to send only the changed records to the server, advanced validation attributes, globalization tools, "Behaviors" that modify existing components, state management and save, and more.
 
@@ -734,20 +741,20 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tooling / Others
 
-*   [Publish SPA for GitHub Pages (⭐90)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
+*   [Publish SPA for GitHub Pages (⭐91)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐327)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐328)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
 ## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
 
 ### Others
 
-*   [eShopOnBlazor (⭐532)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐404)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [eShopOnBlazor (⭐531)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐403)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 *   [Unofficial eShopOnContainers (⭐5)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐24k)](https://github.com/dotnet-architecture/eShopOnContainers).
 
 ## [Mar 08 - Mar 14, 2021](/content/2021/10/README.md)
@@ -800,14 +807,14 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tools & Utilities / Others
 
-*   [TextCopy (⭐570)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐570)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+*   [TextCopy (⭐571)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐571)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
 ### Component bundles
 
-*   [Element-Blazor (⭐691)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [PanoramicData Blazor UI Components (⭐56)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [Element-Blazor (⭐690)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
+*   [PanoramicData Blazor UI Components (⭐57)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
 
@@ -817,13 +824,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines / Diagrams
 
-*   [Excubo.Blazor.Diagrams (⭐161)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
+*   [Excubo.Blazor.Diagrams (⭐160)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### CMS
 
-*   [JHipster.NET (⭐331)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [JHipster.NET (⭐330)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
 *   [RapidCMS (⭐368)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ### Games
@@ -832,8 +839,8 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tools & Utilities / Others
 
-*   [BlazorGoogleMaps (⭐390)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
-*   [BlazorRouter (⭐71)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
+*   [BlazorGoogleMaps (⭐389)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
+*   [BlazorRouter (⭐72)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐33)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
@@ -846,12 +853,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Material.Blazor (⭐258)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
+*   [Material.Blazor (⭐259)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
 *   [MComponents (⭐68)](https://github.com/manureini/MComponents) - ![stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square\&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 
 ### 2D/3D Rendering engines / CSS
 
-*   [BlazorSize (⭐354)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
+*   [BlazorSize (⭐355)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -861,7 +868,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐129)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐130)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
@@ -886,12 +893,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [Blazor-DragDrop (⭐417)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
 *   [BlazorTransitionableRoute (⭐182)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 *   [Blazor.Grids (⭐48)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
-*   [Blazor.TreeViews (⭐75)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
+*   [Blazor.TreeViews (⭐74)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ### Tools & Utilities / Others
 
 *   [Blazor I18n/Localization Text (⭐285)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐241)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
+*   [MvvmBlazor (⭐240)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
@@ -914,7 +921,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Others
 
-*   [BlazorFileReader (⭐417)](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=86400) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
+*   [BlazorFileReader (⭐418)](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=86400) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 *   [BlazorChatSample (⭐245)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
 *   [Money (⭐212)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
 *   [Planning Poker (⭐67)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
@@ -934,10 +941,10 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Tooling / Others
 
-*   [Blazor Minimum Project Templates (⭐59)](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=86400) A project templates package of Blazor apps without JavaScript and CSS libraries.
-*   [Blazor REPL (⭐245)](https://github.com/BlazorRepl/BlazorRepl) - ![GitHub stars](https://img.shields.io/github/stars/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=86400) Write, compile, execute and share Blazor components entirely in the browser - <https://blazorrepl.com>.
-*   [WebCompiler (⭐166)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
-*   [Tracetool (⭐44)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
+*   [Blazor Minimum Project Templates (⭐61)](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=86400) A project templates package of Blazor apps without JavaScript and CSS libraries.
+*   [Blazor REPL (⭐244)](https://github.com/BlazorRepl/BlazorRepl) - ![GitHub stars](https://img.shields.io/github/stars/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=86400) Write, compile, execute and share Blazor components entirely in the browser - <https://blazorrepl.com>.
+*   [WebCompiler (⭐167)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
+*   [Tracetool (⭐45)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
 
 ## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
 
@@ -952,7 +959,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [bUnit - a testing library for Blazor components (⭐1.3k)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [BlazorApplicationInsights (⭐210)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [BlazorApplicationInsights (⭐211)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -962,7 +969,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines / Datagrids / tables
 
-*   [Grid.Blazor (⭐732)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐730)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ### Tools & Utilities / Others
 
@@ -986,7 +993,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Authentication
 
-*   [TheIdServer (⭐758)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [TheIdServer (⭐757)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
 *   [Blorc.OpenIdConnect (⭐97)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Tools & Utilities / Others
@@ -1010,11 +1017,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [ChartJs.Blazor (⭐716)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐68k)](https://github.com/chartjs/Chart.js) charts to Blazor.
 *   [GG.Net Data Visualization (⭐87)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-*   [Plotly.Blazor (⭐427)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐18k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
+*   [Plotly.Blazor (⭐431)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐18k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [BlazorDateRangePicker (⭐209)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐208)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
@@ -1034,7 +1041,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Routing & Navigation / Others
 
-*   [GEmojiSharp.Blazor (⭐157)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+*   [GEmojiSharp.Blazor (⭐156)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
 ### Others / Others
 
@@ -1048,7 +1055,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐427)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐426)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
@@ -1061,7 +1068,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Routing & Navigation / Others
 
-*   [BlazorMonaco (⭐587)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐46k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
+*   [BlazorMonaco (⭐589)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐47k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -1101,19 +1108,19 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [Blazored.LocalStorage (⭐1.3k)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
-*   [Blazor-State (⭐613)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
+*   [Blazor-State (⭐612)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
 *   [CssBuilder (⭐221)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 
 ### Others / Others
 
 *   [Bolero (⭐1.1k)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-*   [BlazorFabric (⭐816)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+*   [BlazorFabric (⭐813)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
 ### Component bundles
 
-*   [BlazorStrap (⭐930)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐931)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
@@ -1121,12 +1128,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Routing & Navigation / Others
 
-*   [Blazored.Typeahead (⭐445)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐214)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐444)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐212)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [Blazor.Polyfill (⭐122)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+*   [Blazor.Polyfill (⭐121)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
@@ -1151,7 +1158,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Authentication
 
 *   [BlazorBoilerplate (⭐1.9k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
-*   [BlazorWithIdentity (⭐473)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
+*   [BlazorWithIdentity (⭐472)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 

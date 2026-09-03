@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Sep 03, 2026](/content/2026/09/03/README.md)
+
+### Window Management
+
+*   [WinGlide (⭐8)](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/congchuahiep/WinGlide)
+
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
 ### Email

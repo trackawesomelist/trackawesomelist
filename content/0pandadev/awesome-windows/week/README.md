@@ -45,6 +45,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [FrameShift](https://gaurox.dev/frameshift/) - Windows media utility for right-click workflows: convert, compress, crop, cut and edit video, audio and images with local AI features including background removal, image upscaling, audio stem separation (Demucs), denoising (DeepFilterNet) and RIFE interpolation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/gaurox/FrameShift)
 *   [PotPlayer](https://potplayer.tv/) - Media player with hardware acceleration and streaming capabilities.
 
+### Window Management
+
+*   [WinGlide (⭐8)](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/congchuahiep/WinGlide)
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Customization

@@ -12,9 +12,17 @@ A curated list of Rust code and resources.
 
 *   [Tuxedo (⭐1.6k)](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
 
+### Applications / System tools
+
+*   [harry0703/MangoDisk (⭐2.1k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
+
 ### Development tools / Workflow Automation
 
 *   [FerrLabs/FerrFlow (⭐2)](https://github.com/FerrLabs/FerrFlow) \[[ferrflow](https://crates.io/crates/ferrflow)] - Semantic versioning, changelog and tagged releases driven by Conventional Commits, with monorepo support and 16 version-file formats [![build badge](https://github.com/FerrLabs/FerrFlow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FerrLabs/FerrFlow/actions/workflows/ci.yml)
+
+### Libraries / Artificial Intelligence
+
+*   [tenequm/pond (⭐58)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
 
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
