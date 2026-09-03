@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [clickhouse-sql-parser (⭐247)](https://github.com/AfterShip/clickhouse-sql-parser) - Parser for ClickHouse-dialect SQL that produces a typed AST, with traversal helpers, round-trip formatting, and a CLI.
 
+### Financial
+
+*   [glassnode-go (⭐11)](https://github.com/tigusigalpa/glassnode-go) - Go client for Glassnode Basic API with 25 metric categories, typed structs, bulk endpoints, Point-in-Time data, and zero dependencies.
+
 ### Logging
 
 *   [slog-datadog (⭐16)](https://github.com/samber/slog-datadog) - A slog handler for Datadog.
@@ -33,6 +37,11 @@ A curated list of awesome Go frameworks, libraries and software
 ### Mock
 
 *   [wsmock (⭐0)](https://github.com/sing198/wsmock) - Expressive, zero-boilerplate WebSocket mock server for testing with fault injection and assertions.
+
+### Third-party APIs
+
+*   [birdeye-go (⭐9)](https://github.com/tigusigalpa/birdeye-go) - Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.
+*   [nansen-go (⭐16)](https://github.com/tigusigalpa/nansen-go) - Go client for Nansen AI API with Smart Money analytics, token screener, profiler, and zero dependencies.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -82,7 +91,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [agy-mcp (⭐6)](https://github.com/tphakala/agy-mcp) - Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews.
-*   [crewai-go (⭐4)](https://github.com/rhgs/crewai-go) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
+*   [crewai-go (⭐5)](https://github.com/rhgs/crewai-go) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
 
 ### Audio and Music
 
@@ -94,7 +103,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Authentication and Authorization
 
-*   [melange (⭐83)](https://github.com/pthm/melange) - Compiles OpenFGA authorization schemas into PL/pgSQL functions that run fine-grained relationship-based access control checks inside PostgreSQL.
+*   [melange (⭐89)](https://github.com/pthm/melange) - Compiles OpenFGA authorization schemas into PL/pgSQL functions that run fine-grained relationship-based access control checks inside PostgreSQL.
 
 ### Caches
 
@@ -165,7 +174,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [acme-proxy (⭐55)](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
+*   [acme-proxy (⭐56)](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
 *   [deidentify (⭐38)](https://github.com/aliengiraffe/deidentify) - Deterministic, format-preserving removal of personally identifiable information from text and structured data.
 
 ### Web Frameworks
@@ -261,7 +270,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [GoModel (⭐1.1k)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 *   [jargo (⭐69)](https://github.com/gojargo/jargo) - Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.
-*   [semantic-search (⭐4)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
+*   [semantic-search (⭐6)](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
 
 ### Audio and Music
 
@@ -273,7 +282,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [db-migrator.go (⭐19)](https://github.com/raoptimus/db-migrator.go) - CLI for versioned database schema migrations with support for PostgreSQL, MySQL, ClickHouse, Tarantool, and Apache Iceberg.
+*   [db-migrator.go (⭐22)](https://github.com/raoptimus/db-migrator.go) - CLI for versioned database schema migrations with support for PostgreSQL, MySQL, ClickHouse, Tarantool, and Apache Iceberg.
 
 ### Project Layout
 
@@ -285,7 +294,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Server Applications
 
-*   [relay (⭐11)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
+*   [relay (⭐12)](https://github.com/valtors/relay) - MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.
 *   [whois (⭐64)](https://github.com/KincaidYang/whois) - Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.
 
 ### Third-party APIs
@@ -333,11 +342,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Mock
 
-*   [fabricator (⭐29)](https://github.com/Goldziher/fabricator) - Type-safe factories for generating mock and fake data in Go, inspired by factory\_boy and interface-forge.
+*   [fabricator (⭐30)](https://github.com/Goldziher/fabricator) - Type-safe factories for generating mock and fake data in Go, inspired by factory\_boy and interface-forge.
 
 ### Utilities
 
-*   [go-utils (⭐61)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
+*   [go-utils (⭐62)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -411,7 +420,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Selenium and browser control tools
 
-*   [selenosis (⭐86)](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
+*   [selenosis (⭐87)](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 
 ### Markup Languages
 
@@ -454,7 +463,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GooseForum (⭐132)](https://github.com/leancodebox/GooseForum) - Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
+*   [GooseForum (⭐135)](https://github.com/leancodebox/GooseForum) - Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -473,7 +482,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [Anneal (⭐33)](https://github.com/georgebuilds/anneal) - Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.
+*   [Anneal (⭐32)](https://github.com/georgebuilds/anneal) - Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.
 
 ### Third-party APIs
 
@@ -3838,7 +3847,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐2.8k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐2.9k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
@@ -4082,7 +4091,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Tokenizers
 
-*   [sentences (⭐473)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐474)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 
@@ -5193,7 +5202,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [bayesian (⭐815)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
-*   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐904)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [evoli (⭐33)](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
 *   [fonet (⭐86)](https://github.com/Fontinalis/fonet) - A Deep Neural Network library written in Go.
 *   [go-cluster (⭐44)](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
@@ -5201,7 +5210,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-fann (⭐119)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
 *   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
-*   [gobrain (⭐568)](https://github.com/goml/gobrain) - Neural Networks written in go.
+*   [gobrain (⭐569)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐43)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐224)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
 *   [GoLearn (⭐9.4k)](https://github.com/sjwhitworth/golearn) - General Machine Learning library for Go.
@@ -6215,7 +6224,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [skm (⭐1.1k)](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
 *   [StatusOK (⭐1.6k)](https://github.com/sanathp/statusok) - Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 *   [terraform-provider-openapi (⭐283)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
-*   [traefik (⭐64k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
+*   [traefik (⭐65k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐336)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 *   [uTask (⭐1.4k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐25k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!

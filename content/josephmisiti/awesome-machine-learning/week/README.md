@@ -6,6 +6,15 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ [Daily](/content/josephmisiti/awesome-machine-learning/README.md) / Weekly / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Python / Neural Networks
+
+*   [HypercubeESN (⭐1)](https://github.com/dliptak001/HypercubeESN) - Echo State Network on a Boolean hypercube reservoir: XOR Hamming-1 connectivity, no stored adjacency, C++23 + Python (`pip install hypercube-esn`).
+*   [HypercubeWTF (⭐1)](https://github.com/dliptak001/HypercubeWTF) - Frozen hypercube reservoir for static fields (synthetic-time orbit + thin CNN readout). Sibling of HypercubeESN.
+*   [HypercubeCascade (⭐1)](https://github.com/dliptak001/HypercubeCascade) - Etalon transit then WTF orbit on one cube, then a thin HypercubeCNN readout.
+*   [HypercubeHopfield (⭐1)](https://github.com/dliptak001/HypercubeHopfield) - Modern Hopfield associative memory on a hypercube graph with sparse local-attention retrieval (C++23 + Python).
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### C / General-Purpose Machine Learning
@@ -99,7 +108,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [anneal (⭐33)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
+*   [anneal (⭐32)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -304,7 +313,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Opik](https://www.comet.com/site/products/opik/) - Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ([Source Code (⭐21k)](https://github.com/comet-ml/opik/))
+*   [Opik](https://www.comet.com/site/products/opik/) - Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ([Source Code (⭐22k)](https://github.com/comet-ml/opik/))
 
 ### Python / Data Analysis / Data Visualization
 
@@ -364,7 +373,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Opik (⭐21k)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
+*   [Opik (⭐22k)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 
 ### Python / Speech Recognition
 
@@ -786,7 +795,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐277)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐783)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐785)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 *   [Deepchecks (⭐4k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
@@ -1396,7 +1405,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐714)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐715)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
@@ -2382,7 +2391,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐904)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -2394,7 +2403,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
+*   [keras (⭐64k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐198k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) and [Theano (⭐10k)](https://github.com/Theano/Theano).
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -2552,7 +2561,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐473)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐474)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
@@ -2580,7 +2589,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [thinking bayes (⭐1.7k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 *   [nilearn (⭐1.4k)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐10k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐197k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [TensorFlow (⭐198k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐18k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 *   [Annoy (⭐14k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
 *   [skbayes (⭐524)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
@@ -2606,7 +2615,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [gobrain (⭐568)](https://github.com/goml/gobrain) - Neural Networks written in Go.
+*   [gobrain (⭐569)](https://github.com/goml/gobrain) - Neural Networks written in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -2814,7 +2823,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐102k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐103k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
