@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Sep 04, 2026](/content/2026/09/04/README.md)
 
+### Software / API Testing
+
+*   [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+
 ### Software / Test Data Management
 
 *   [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
@@ -107,12 +111,6 @@ A curated list of testing resources
 
 *   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
-## [Jul 21, 2026](/content/2026/07/21/README.md)
-
-### Software / API Testing
-
-*   \[funapi] (<https://funapi.dev>) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
-
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
 ### Software / Accessibility & Usability Testing
@@ -153,7 +151,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
+*   [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
 
 ## [Jun 12, 2026](/content/2026/06/12/README.md)
 
@@ -257,7 +255,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
+*   [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
 
 ### Software / Service Virtualization
 
@@ -268,7 +266,7 @@ A curated list of testing resources
 ### Software / Test Automation Frameworks
 
 *   [ai-natural-language-tests (⭐23)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-*   [OpenTester (⭐28)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+*   [OpenTester (⭐28)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
@@ -349,7 +347,7 @@ A curated list of testing resources
 ### Software / Security Testing
 
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
-*   [Nuclei Scanner (⭐31k)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
+*   [Nuclei Scanner (⭐31k)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
 
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 

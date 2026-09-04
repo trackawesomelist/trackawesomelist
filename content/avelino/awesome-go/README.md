@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [doc-scraper (⭐95)](https://github.com/Sriram-PR/doc-scraper) - Web crawler that converts documentation sites to clean Markdown and JSONL for LLM ingestion (RAG, training data).
 
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
+
 ## [Sep 03, 2026](/content/2026/09/03/README.md)
 
 ### Financial

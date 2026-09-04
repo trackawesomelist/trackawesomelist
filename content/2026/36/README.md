@@ -1,12 +1,154 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2026
 
-44 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### File Search
+
+*   [Find Security Contacts](https://findsecuritycontacts.com) - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
+
+### People Investigations / GitHub
+
+*   [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+
+### Maritime / GitHub
+
+*   [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
+
+## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Extensions and Utilities
+
+*   [playcanvas-react-colyseus (⭐4)](https://github.com/JonasPfi/PlayCanvasReactColyseus) - Starter template for multiplayer games with React and Colyseus.
+
+## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+
+### Introduction
+
+*   [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components)
+*   [Why Web Components?](https://fast.design/docs/3.x/resources/why-web-components/)
+
+### CSS Shadow Parts
+
+*   [CSS shadow parts](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts)
+*   [web-platform-tests (⭐6.1k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part)
+
+### Form Associated Custom Elements
+
+*   [HTML Living Standard: Creating a form-associated custom element](https://html.spec.whatwg.org/dev/custom-elements.html#custom-elements-face-example)
+*   [Form-Associated Custom Elements: Web Components That Belong in a Form](https://dev.to/grimicorn/form-associated-custom-elements-web-components-that-belong-in-a-form-19kd)
+*   [Form-Associated Custom Elements in Practice](https://blog.master.dev/form-associated-custom-elements-in-practice/)
+*   [ElementInternals and Form-Associated Custom Elements](https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements/)
+
+### Accessibility
+
+*   [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components)
+
+### Opinions
+
+*   [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+*   [Web Components Are Not the Future — They’re the Present](https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/)
+*   [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+*   [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+*   [Debunking Web Component Myths and Misconceptions](https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61)
+*   [Let’s talk about web components](https://bradfrost.com/blog/post/lets-talk-about-web-components/)
+*   [A Web Component Story](https://www.abeautifulsite.net/posts/a-web-component-story/)
+*   [Why it’s okay for web components to use frameworks](https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/)
+*   [Misadventures in web components](https://www.falldowngoboone.com/blog/misadventures-in-web-components/)
+*   [What happened to web components?](https://blog.logrocket.com/what-happened-to-web-components/)
+*   [The Failed Criticism of Web Components](https://www.dannymoerkerke.com/blog/the-failed-criticism-of-web-components/)
+*   [The failed promise of Web Components](https://lea.verou.me/blog/2020/09/the-failed-promise-of-web-components/)
+*   [The Flaws Of Web Components (And Possible Solutions)](https://www.thinktecture.com/web-components/web-components-flaws/)
+*   [The Perks Of Web Components](https://www.thinktecture.com/web-components/web-components-perks/")
+*   [There’s No Need To Hate Web Components](https://www.dannymoerkerke.com/blog/theres-no-need-to-hate-web-components/)
+*   [Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+*   [The Web Components journey: wrong ways, lacking parts and promising paths](https://dev.to/webpadawan/the-journey-of-web-components-wrong-ways-lacking-parts-and-promising-paths-1d5a)
+
+### Component Libraries
+
+*   [VSCode Elements (⭐457)](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions.
+*   [Web Awesome (⭐1.3k)](https://github.com/shoelace-style/webawesome) - Open source library of web components from Font Awesome.
+
+### Design Systems
+
+*   [Calcite Design System (⭐373)](https://github.com/Esri/calcite-design-system) - Web Components for Esri's Calcite design framework.
+*   [Lyne Components (⭐66)](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Momentum UI Web Components (⭐212)](https://github.com/momentum-design/momentum-ui/tree/main/web-components) - Set of UI components based on Momentum Design.
+*   [Nessie Design System](https://design.ns.nl) - Web components  by NS Dutch Railways for consumer (external) applications.
+*   [Nucleus design system](https://britishgas.design/introduction/) - Standardised set of reusable components for British Gas.
+*   [Polaris web components](https://shopify.dev/docs/api/app-home/latest/web-components) - Native UI elements that follow Shopify's design system.
+*   [Tractie — NS Design System](https://tractie.ns.nl) -  Web components by NS Dutch Railways for employee internal applications.
+*   [UI5 Web Components (⭐1.8k)](https://github.com/UI5/webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
+
+### Use Cases
+
+*   [Why we use Web Components](https://arielsalminen.com/2019/why-we-use-web-components/)
+
+### Class Based
+
+*   [FAST Element (⭐9.7k)](https://github.com/microsoft/fast/tree/main/packages/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
+
+### Benchmarks
+
+*   [web-components-todo (⭐419)](https://github.com/shprink/web-components-todo) - The same todo application built in different Web Components libraries for benchmark purpose.
+
+### Angular
+
+*   [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujja/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
+*   [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/playfulprogramming-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
+*   [Angular Elements Overview](https://angular.dev/guide/elements)
+*   [Building and consuming Angular Elements as Web Components](https://angular.love/building-and-consuming-angular-elements-as-web-components)
+
+### Svelte
+
+*   [Svelte Custom Element API](https://svelte.dev/docs/svelte/custom-elements)
+
+### Tools
+
+*   [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/) - Codegen for Web Components.
+*   [@web/storybook-builder](https://modern-web.dev/docs/storybook-builder/overview/) - Storybook builder with support for Web Components.
+
+### Tutorials
+
+*   [Getting started with LitElement and TypeScript](https://www.thisdot.co/blog/getting-started-with-litelement-and-typescript)
+*   [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://www.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
+*   [Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
+*   [Web Components Tools: A Comparison](https://developer.vonage.com/en/blog/web-components-tools-a-comparison)
+
+### Podcasts
+
+*   [Code\[ish\], episode 38: Building with Web Components](https://www.heroku.com/codeish-podcasts/38-building-with-web-components/)
+*   [JSJ 424: UI5 and web components with Peter Muessig](https://www.youtube.com/watch?v=LPzYKrBzUoY)
+*   [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://www.devshows.dev/podcasts/web-rush/episode-7-custom-web-components-with-rob-wormald)
+*   [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://www.devshows.dev/podcasts/web-rush/episode-101-back-to-basics-with-native-html-and-litelement)
+
+### Presentations
+
+*   [Frontend Architecture for Scalable Design Systems](https://speakerdeck.com/sghoweri/frontend-architecture-for-scalable-design-systems) by [@salem\_cobalt](https://twitter.com/salem_cobalt)
+*   [Mastering Shadow DOM](https://martine.dev/publications/mastering-shadow-dom) by [@Martine\_Dowden](https://twitter.com/Martine_Dowden)
+
+### History / 2017
+
+*   [Make a Native Web Component with Custom Elements v1 and Shadow DOM v1](https://bendyworks.com/blog/native-web-components/)
+*   [The broken promise of Web Components](https://dmitriid.com/the-broken-promise-of-web-components)
+*   [Regarding the broken promise of Web Components](https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/)
+
+## [4. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Starters/Boilerplates / Other external resources
+
+*   [rails-rocket-sheep (⭐1)](https://github.com/PositiveControl/rails-rocket-sheep) - Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).
+
+### DevTools / Other external resources
+
+*   [mcdview](https://mcdview.dev/) - Turn your schema.rb into an interactive ER diagram on a stable link, no account, and keep it current in CI with history and diffs.
+
+## [5. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Component Libraries
 
@@ -33,20 +175,20 @@
 
 *   [xprem (⭐518)](https://github.com/mercuretechnologies/xprem) - Self-hosted OTA updates for Expo and React Native apps
 
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [FluxDown (⭐2.7k)](https://github.com/zerx-lab/FluxDown) <!--stargazers:zerx-lab/FluxDown--> - Multi-protocol download manager and free IDM alternative, powered by a Rust engine by [zerx-lab](https://github.com/zerx-lab)
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### .NET Conf 2026 (November 10-12, 2026).
 
 *   Join Microsoft on November 10-12 to celebrate the launch of .NET 11 and learn what's new!
 *   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official Resources
 
@@ -70,7 +212,7 @@
 *   [OnchainPulse ASA Safety Scanner](https://onchainpulse.theaslangroupllc.com) - Automated ASA token-safety check: clawback/freeze/manager authorities, default-frozen flag, holder concentration and Tinyman liquidity fused into a deterministic CLEAR/CAUTION/AVOID verdict, per-call via x402 (settles in Algorand USDC).
 *   [OpenChainBench](https://openchainbench.com) - Independent RPC latency and L1 finality benchmarks for Algorand and 20+ other chains. Continuous measurements from 3 global regions, MIT licensed.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Neural Networks
 
@@ -79,19 +221,19 @@
 *   [HypercubeCascade (⭐1)](https://github.com/dliptak001/HypercubeCascade) - Etalon transit then WTF orbit on one cube, then a thin HypercubeCNN readout.
 *   [HypercubeHopfield (⭐1)](https://github.com/dliptak001/HypercubeHopfield) - Modern Hopfield associative memory on a hypercube graph with sparse local-attention retrieval (C++23 + Python).
 
-## [6. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [10. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / General Purpose
 
-*   [The-Vibe-Company/quivr (⭐39k)](https://github.com/The-Vibe-Company/quivr) — RAG for GenAI in apps ☆`39,475`
+*   [The-Vibe-Company/quivr (⭐39k)](https://github.com/The-Vibe-Company/quivr) — RAG for GenAI in apps ☆`39,491`
 
-## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / Desktop & System
 
-*   [matthewrball/abendrot (⭐16)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`16`
+*   [matthewrball/abendrot (⭐16)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`17`
 
-## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring & Status Pages
 
@@ -101,7 +243,7 @@
 
 *   [Spiceworks Community](https://community.spiceworks.com/) - General enterprise IT news and small articles.
 
-## [9. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [13. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Status Lines / Obsidian
 
@@ -116,7 +258,7 @@
 
 *   [faf-cli (⭐34)](https://github.com/Wolfe-Jam/faf-cli) by [Wolfe-Jam](https://github.com/Wolfe-Jam) - Authors and versions CLAUDE.md and AGENTS.md from a repository's actual detected stack, so Claude Code's project context stays in sync with the code instead of drifting. One typed source file (project.faf, an IANA-registered media type) is the single origin for every assistant's context file; a deterministic score reports how complete that context is. The file lives in the repo and carries no telemetry.\ <img src="https://img.shields.io/github/created-at/Wolfe-Jam/faf-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Wolfe-Jam/faf-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Wolfe-Jam/faf-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Assertion
 
@@ -126,19 +268,19 @@
 
 *   [liter-llm (⭐251)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
-## [11. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [15. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Blogs and Portals / Voxel Editors
 
 *   :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 
-## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [16. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
 *   [marcop135/dotfiles-core (⭐0)](https://github.com/marcop135/dotfiles-core) - Manifest-driven dotfiles for WSL bash plus native Windows (Git Bash, PowerShell) and macOS zsh; one shared sh layer, dry-run installers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -146,19 +288,19 @@
 *   [Pokemon Card Sold-Price Reference by Grade (⭐0)](https://github.com/rrh1441/pokemon-card-sold-price-reference) - Median sold price by grade (raw, PSA 9, PSA 10) for 486 Pokemon cards, with sample size and confidence flag per card. CSV, CC BY 4.0, Zenodo DOI.
 *   [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly snapshots of public development and citation activity for open-source and research-native AI systems, content-addressed and byte-reproducible from public inputs. JSON and CSV per snapshot date, CC0, DOI 10.5281/zenodo.21076011.
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [18. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Engines and Platforms
 
 *   [SQLFlow (⭐792)](https://github.com/turbolytics/sql-flow) <sub>![Go/Python](https://img.shields.io/badge/language-Go%2FPython-blue)</sub> - Stream processing engine that runs DuckDB SQL over Kafka, WebSocket, and webhook streams.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
 *   [Zodiac Engine (⭐453)](https://github.com/JeanPhilippeKernel/RendererEngine) - An open-source cross-platform 3D rendering engine and editor (ZEngine) written in C++20 with Vulkan. \[MIT]
 
-## [16. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [20. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Accessibility
 
@@ -172,13 +314,13 @@
 *   [KPictureFrame (⭐5)](https://github.com/Agundur-KDE/KPictureFrame) - A Plasma 6 widget that turns your desktop into a picture frame.
 *   [OSBMonitor (⭐2)](https://github.com/Agundur-KDE/OSBMonitor) - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
 
-## [17. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [21. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [MQTT Commander for iOS](https://mqttcommander.com) - Native iPhone and iPad client with a live topic tree, topic board, JSON inspection, and a 13-stage Connection Doctor. Supports MQTT 3.1.1 and 5.0 over TCP, TLS, mTLS and WebSocket.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Management
 
@@ -188,13 +330,13 @@
 
 *   [Plainpad](https://plainpad.org) - Modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://demo.plainpad.org), [Source Code (⭐439)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Reely (⭐166)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
 
-## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Markdown
 
@@ -208,19 +350,19 @@
 
 *   [AgentBridge (⭐322)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
 
-## [21. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
 *   [MeshSat](https://meshsat.net/) is a self-hosted gateway that carries [Reticulum](https://reticulum.network/) traffic across bearers that normally cannot reach each other, including Meshtastic LoRa, Iridium satellite, cellular SMS, AX.25 packet radio, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Runs as a Docker container on a Raspberry Pi.
 
-## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [26. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Mathematics
 
 *   [Book of Proof](https://richardhammack.github.io/BookOfProof/Main.pdf) - Richard Hammack (PDF)
 
-## [23. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [27. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -235,7 +377,7 @@
 
 *   [*SwiftUI Cookbook, Fourth Edition* by Juan C. Catalan](https://www.packtpub.com/en-us/product/swiftui-cookbook-9781806663767)
 
-## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -319,7 +461,7 @@
 *   [Apache Avro (⭐3.3k) (⭐3.3k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [YAML (⭐503) (⭐499)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -393,7 +535,7 @@
 
 *   [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -657,7 +799,7 @@
 
 
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -668,7 +810,11 @@
 
 *   [jpease/hex-outdated.nvim (⭐1)](https://github.com/jpease/hex-outdated.nvim) - Display latest Hex package version and status as virtual text in `mix.exs`.
 
-## [28. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [32. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [YYLO (⭐57)](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs Gemini CLI alongside Claude Code and Codex in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. Git-native task state, per-agent worktree isolation, installable via npm. MIT.
 
 ### Commands & Extensions
 
@@ -681,19 +827,19 @@
 *   [Devie AI Quota Tracker (⭐5)](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.
 *   [ClawMetry (⭐404)](https://github.com/vivekchand/clawmetry) - Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. [Website](https://clawmetry.com)
 
-## [29. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+## [33. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
 
 ### Web
 
 *   [hcker.news](http://hcker.news/) - Story and Best Comments Timeline
 
-## [30. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [34. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Apps Built with Capacitor / ML Kit
 
 *   [Kapsula](https://dev.to/vladifedorov/running-untrusted-single-file-html-as-a-phone-app-sandbox-exact-alarms-and-a-5-method-bridge-2lc6) - App that runs a single user-supplied HTML file as a sandboxed mini-app with exact alarms, with a write-up of its Capacitor sandbox and bridge architecture.
 
-## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Agents
 
@@ -713,7 +859,7 @@
 
 *   [icl](https://github.com/atgreeen/icl) - the enhanced REPL (see below) includes a very capable notebook feature with advanced charting capabilities.
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -761,7 +907,7 @@
 
 *   [winnow-rs/winnow (⭐940)](https://github.com/winnow-rs/winnow) \[[winnow](https://crates.io/crates/winnow)] - A byte-oriented, zero-copy, parser combinators library. [![Build status](https://github.com/winnow-rs/winnow/workflows/CI/badge.svg)](https://github.com/winnow-rs/winnow/actions)
 
-## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [37. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS2WIDGET / For desktop
 
@@ -779,7 +925,7 @@
 
 *   [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
 
-## [34. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [38. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Protein Property Prediction
 
@@ -789,13 +935,13 @@
 
 *   The resource has clear value to the scope and audience of this collection; highly specialized resources with limited relevance beyond a narrow application context may be declined even when technically sound.
 
-## [35. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [39. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Design Tools / Mechanical and Electrical
 
 *   [Jumpstarter (⭐211)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
-## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [40. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Other Articles & Tutorials
 
@@ -809,7 +955,7 @@
 
 *   [Mine Cart Operator](https://store.steampowered.com/app/3997420/Mine_Cart_Operator/) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
 
-## [37. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [41. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -858,7 +1004,7 @@
 
 *   [PostgreSQL Access Control](https://andersnasell.gumroad.com/l/postgresql-access-control) - The complete mental model: roles, grants, ownership, membership, policies, and default privileges as an integrated system. PDF + video, \~60 min.
 
-## [38. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [42. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Email
 
@@ -901,7 +1047,7 @@
 
 *   [WinGlide (⭐8)](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/congchuahiep/WinGlide)
 
-## [39. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [43. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
@@ -911,7 +1057,15 @@
 
 *   [SpecterAI](https://specterlaw.ai/) - German-law AI assistant for source-linked legal research, contract review, and drafting. `#freemium`
 
-## [40. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+### Video
+
+*   [H3 Max Studio](https://minimaxh3-max.org/) - Independent web app for text-to-video and image-to-video generation with MiniMax H3 Max through fal. `#paid`
+
+## [44. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / API Testing
+
+*   [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
 ### Software / AI & LLM Testing
 
@@ -928,7 +1082,7 @@
 *   [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
 *   [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
 
-## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Trees
 
@@ -977,8 +1131,9 @@
 
 *   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
 *   [GURL (⭐4)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
+*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Productivity
 
@@ -993,7 +1148,7 @@
 *   [Rockxy](https://rockxy.io) - A native macOS HTTP debugging proxy for inspecting HTTPS, API, WebSocket, and GraphQL traffic.
 *   [Tracexy](https://rockxy.io/tracexy) - A native, local-first macOS app for capturing live network traffic and investigating PCAP and PCAPNG files.
 
-## [43. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [47. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -1001,7 +1156,7 @@
 *   [Pangolinfo](https://www.pangolinfo.com/amazon-data-mcp/) - MCP server and REST API exposing 19 read-only Amazon data tools: product details, reviews, keyword search, category and niche analysis, Best Sellers, New Releases, and seller storefronts, plus WIPO trademark and US PACER patent litigation lookups. Connects over Streamable HTTP; Python client available via `pip install pangolinfo-mcp`.
 *   [Seller Calculators](https://sellercalculators.com) - Free Amazon fee and profit margin decision tools for multi-channel sellers.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1026,6 +1181,10 @@
 ### Data Visualization on Maps
 
 *   [SqlInt](https://sqlint.com) — In-browser SQL workspace with free tools including a JOIN visualizer, SQL formatter, CSV/JSON to SQL converters, and practice questions with no account or credit card required.
+
+### IDE and Code Editing
+
+*   [LiveCodes](https://livecodes.io) - An open-source client-side code playground that supports 90+ languages/frameworks. Projects can be saved, exported, shared, synced, deployed (to GitHub Pages) and embedded in web pages. Mobile-friendly. Can be self-hosted. Free for unlimited usage. No account required.
 
 ---
 

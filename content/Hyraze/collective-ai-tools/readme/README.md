@@ -2,7 +2,7 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 228 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 233 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -402,7 +402,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
-*   [agent-qa (⭐953)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
+*   [agent-qa (⭐901)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
@@ -410,7 +410,7 @@ Use these hashtags in search to filter out the tools
 *   [aiXcoder](https://www.aixcoder.com/) - Chinese deep learning software dev assistant. `#freemium`
 *   [AskCodi](https://www.askcodi.com/) - Code generation and refactoring assistant. `#free`
 *   [Augment Code](https://augmentcode.com/) - Industry-leading context engine for developers. `#paid`
-*   [Better Agent (⭐56)](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
+*   [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
 *   [Blackbox AI](https://www.blackbox.ai/) - AI-powered code completion and generation that works in over 20 languages. `#freemium`
 *   [BLACKBOX AI](https://www.blackbox.ai/) - Trusted code auto-completion for enterprises. `#freemium`
 *   [Bolt.new](https://bolt.new/) - AI-powered full-stack web development platform `#freemium`
@@ -1128,6 +1128,7 @@ Use these hashtags in search to filter out the tools
 *   [Flow Studio](https://flowstudio.ai/) - Chat characters, robots, and prompt management. `#free`
 *   [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
 *   [Google Vids](https://workspace.google.com/products/vids/) - Integrated Workspace creation and scripts. `#paid`
+*   [H3 Max Studio](https://minimaxh3-max.org/) - Independent web app for text-to-video and image-to-video generation with MiniMax H3 Max through fal. `#paid`
 *   [Hedra](https://hedra.com/) - Multimodal personal AI creation studio. `#free`
 *   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 *   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`

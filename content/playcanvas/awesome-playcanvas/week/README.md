@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Extensions and Utilities
+
+*   [playcanvas-react-colyseus (⭐4)](https://github.com/JonasPfi/PlayCanvasReactColyseus) - Starter template for multiplayer games with React and Colyseus.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
