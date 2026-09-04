@@ -47,7 +47,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React General Resources
 
 *   [React Official Website](https://react.dev/)
-*   [React GitHub (⭐247k)](https://github.com/facebook/react)
+*   [React GitHub (⭐249k)](https://github.com/facebook/react)
 *   [Reactiflux Discord Channel](https://www.reactiflux.com/)
 *   [React Community](https://react.dev/community)
 *   [React Conferences](https://react.dev/community/conferences)
@@ -87,6 +87,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [8bitcn-ui (⭐2k)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 *   [headlessui (⭐29k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 *   [ruixen-ui (⭐203)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+*   [billingsdk (⭐503)](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
 
 #### React State Management and Data Fetching
 
@@ -120,12 +121,12 @@ A collection of awesome things regarding the React ecosystem.
 #### React Routing
 
 *   [react-router (⭐57k)](https://github.com/remix-run/react-router) - Declarative routing for React
-*   [speedy-router (⭐147)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
+*   [speedy-router (⭐156)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 *   [tanstack-router (⭐15k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools
 
-*   [vite (⭐82k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐83k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [parcel (⭐44k)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 *   [reactotron (⭐16k)](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React and React Native projects
 *   [eslint-plugin-react (⭐9.3k)](https://github.com/jsx-eslint/eslint-plugin-react) - React specific linting rules for ESLint
@@ -141,13 +142,14 @@ A collection of awesome things regarding the React ecosystem.
 *   [react-uploady (⭐1.2k)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 *   [downshift (⭐12k)](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 *   [react-error-boundary (⭐8k)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
+*   [reactuse (⭐1k)](https://github.com/childrentime/reactuse) - Collection of 110+ tree-shakable, SSR-safe, TypeScript-first React Hooks
 
 #### React Testing
 
 *   [jest (⭐45k)](https://github.com/jestjs/jest) - Delightful JavaScript Testing
 *   [react-testing-library (⭐20k)](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 *   [cypress (⭐51k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
-*   [playwright (⭐95k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
+*   [playwright (⭐96k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 #### React Awesome Components
 
@@ -180,6 +182,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [react-jsonschema-form (⭐16k)](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 *   [formily (⭐13k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 *   [tanstack-form (⭐6.7k)](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
+*   [formisch (⭐1.2k)](https://github.com/open-circle/formisch) - The schema-based, headless form library for React
 
 #### React Tables and Grids
 
@@ -205,10 +208,11 @@ A collection of awesome things regarding the React ecosystem.
 
 *   [react-three-fiber (⭐32k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
 *   [ink (⭐40k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-*   [remotion (⭐56k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐58k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 *   [react-pdf (⭐17k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 *   [react-figma (⭐2.7k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 *   [markdown-to-jsx (⭐2.4k)](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
+*   [markstream (⭐3k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React and AI chat interfaces
 
 #### React Internationalization
 
@@ -232,14 +236,16 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
+*   [excalidraw (⭐131k)](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard.
 *   [mattermost-server (⭐39k)](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 *   [kibana (⭐21k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 *   [webamp (⭐11k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 *   [overreacted (⭐7.3k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 *   [wave (⭐22k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-*   [readest (⭐23k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
-*   [bookcars (⭐618)](https://github.com/aelassas/bookcars) - Car rental platform
+*   [readest (⭐24k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+*   [bookcars (⭐627)](https://github.com/aelassas/bookcars) - Car rental platform
 *   [notifuse (⭐2.1k)](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+*   [cate (⭐2.1k)](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
 
 ### React Native
 
@@ -264,6 +270,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [realm-js (⭐6k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 *   [react-native-device-info (⭐6.7k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 *   [react-native-maps (⭐16k)](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
+*   [xprem (⭐518)](https://github.com/mercuretechnologies/xprem) - Self-hosted OTA updates for Expo and React Native apps
 
 ### Contribution
 

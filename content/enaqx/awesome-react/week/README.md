@@ -6,11 +6,38 @@ A collection of awesome things regarding React ecosystem
 
 [ [Daily](/content/enaqx/awesome-react/README.md) / Weekly / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### React Component Libraries
+
+*   [billingsdk (⭐503)](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
+
+### React Libraries
+
+*   [reactuse (⭐1k)](https://github.com/childrentime/reactuse) - Collection of 110+ tree-shakable, SSR-safe, TypeScript-first React Hooks
+
+### React Forms
+
+*   [formisch (⭐1.2k)](https://github.com/open-circle/formisch) - The schema-based, headless form library for React
+
+### React Renderers
+
+*   [markstream (⭐3k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React and AI chat interfaces
+
+### React Real Apps
+
+*   [excalidraw (⭐131k)](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard.
+*   [cate (⭐2.1k)](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
+
+### React Native Libraries
+
+*   [xprem (⭐518)](https://github.com/mercuretechnologies/xprem) - Self-hosted OTA updates for Expo and React Native apps
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### React Routing
 
-*   [speedy-router (⭐147)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
+*   [speedy-router (⭐156)](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
@@ -121,7 +148,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Testing
 
-*   [playwright (⭐95k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
+*   [playwright (⭐96k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 ### React Awesome Components
 
@@ -133,7 +160,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Real Apps
 
-*   [bookcars (⭐618)](https://github.com/aelassas/bookcars) - Car rental platform
+*   [bookcars (⭐627)](https://github.com/aelassas/bookcars) - Car rental platform
 
 ### React Native Libraries
 
@@ -155,7 +182,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Real Apps
 
-*   [readest (⭐23k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+*   [readest (⭐24k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -225,7 +252,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Renderers
 
-*   [remotion (⭐56k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐58k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ### React Native Navigation
 
@@ -275,7 +302,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Development Tools
 
-*   [vite (⭐82k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐83k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [why-did-you-render (⭐13k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Libraries
@@ -468,7 +495,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React General Resources
 
-*   [React GitHub (⭐247k)](https://github.com/facebook/react)
+*   [React GitHub (⭐249k)](https://github.com/facebook/react)
 
 ### React Tutorials
 
