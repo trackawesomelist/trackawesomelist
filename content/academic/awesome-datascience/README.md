@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Sep 05, 2026](/content/2026/09/05/README.md)
+
+### Tools
+
+*   [Kitaru (⭐279)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
+
+### YouTube Videos & Channels / Book Deals (Affiliated)
+
+*   [AI Talks](https://aietalks.com/) - Searchable summaries and topic index for practical AI engineering talks and conference videos.
+
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
 ### Datasets / Book Deals (Affiliated)

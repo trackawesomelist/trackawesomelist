@@ -8,6 +8,14 @@
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
+### Tools
+
+*   [Kitaru (⭐279)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
+
+### YouTube Videos & Channels / Book Deals (Affiliated)
+
+*   [AI Talks](https://aietalks.com/) - Searchable summaries and topic index for practical AI engineering talks and conference videos.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [Pokemon Card Centering Measurements (⭐0)](https://github.com/rrh1441/pokemon-card-centering-measurements) - 320 measured PSA-style centering annotations (left/right and top/bottom border percentages, tilt) across 302 real eBay-listed Pokemon cards. CSV, CC BY 4.0, Zenodo DOI.

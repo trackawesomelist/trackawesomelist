@@ -36,6 +36,10 @@ A curated list of Rust code and resources.
 
 *   [bensadeh/tailspin (⭐7.9k)](https://github.com/bensadeh/tailspin) \[[tailspin](https://crates.io/crates/tailspin)] - A log file highlighter that highlights numbers, dates, IP addresses, UUIDs, and log levels. [![Run Tests](https://github.com/bensadeh/tailspin/workflows/Run%20Tests/badge.svg)](https://github.com/bensadeh/tailspin/actions)
 
+### Applications / Video
+
+*   [Jorji49/streamtop (⭐84)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+
 ### Development tools / Workflow Automation
 
 *   [astral-sh/uv (⭐89k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
@@ -49,6 +53,10 @@ A curated list of Rust code and resources.
 ### Libraries / Computation
 
 *   [ml-rust/numr (⭐51)](https://github.com/ml-rust/numr) \[[numr](https://crates.io/crates/numr)] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration. [![CI](https://github.com/ml-rust/numr/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ml-rust/numr/actions/workflows/ci.yml)
+
+### Libraries / GUI
+
+*   [smithay (⭐3.2k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
 
 ### Libraries / Parsing
 
@@ -101,7 +109,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Workflow Automation
 
-*   [dali-benothmen/woml (⭐125)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+*   [dali-benothmen/woml (⭐128)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -138,11 +146,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [GCWing/BitFun (⭐1.8k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐2.1k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 
 ### Applications / MLOps
 
-*   [Uteke (⭐229)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐237)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
@@ -172,7 +180,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [MoonProxyHQ/moonproxy-desktop (⭐56)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
+*   [MoonProxyHQ/moonproxy-desktop (⭐59)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
 *   [zerx-lab/FluxDown (⭐2.7k)](https://github.com/zerx-lab/FluxDown) - A multi-protocol download manager with a Rust/Tokio engine, supporting HTTP/FTP, BitTorrent, eD2K, HLS and DASH, with IDM-style dynamic segmentation, browser extensions and an aria2-compatible JSON-RPC endpoint.
 
 ### Development tools / Workflow Automation

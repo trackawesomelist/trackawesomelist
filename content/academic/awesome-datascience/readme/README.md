@@ -143,6 +143,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 *   [DeepAlpha (⭐41)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
 *   [CAJAL (⭐20)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 *   [ai-evaluation (⭐117)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
+*   [Kitaru (⭐279)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 
 ### Research & Knowledge Retrieval
 
@@ -1009,6 +1010,7 @@ This section includes some additional reading material, channels to watch, and t
 *   [Serrano.Academy](https://www.youtube.com/@SerranoAcademy)
 *   [End to End Data Science Playlist](https://www.youtube.com/watch?v=S_F_c9e2bz4\&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 *   [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916)
+*   [AI Talks](https://aietalks.com/) - Searchable summaries and topic index for practical AI engineering talks and conference videos.
 
 ## Socialize
 
