@@ -2,50 +2,189 @@
 
 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 47K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 50K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
-## [Feb 23, 2026](/content/2026/02/23/README.md)
+## [Sep 05, 2026](/content/2026/09/05/README.md)
 
-### ⚙️ System (24) / ✏️ Text (13)
+### 🛠️ Utilities (120) / ✏️ Text (14)
 
-*   [MacNTop (⭐0)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
+*   [HomeRec (⭐6)](https://github.com/melissa-pereira-deel/home-rec) - Lightweight native macOS app for recording system audio as high-quality WAV files using ScreenCaptureKit.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+*   [Dorothy (⭐342)](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://dorothyai.app>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/agetns.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/super-agent.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Bolo (⭐9)](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+*   [ClaudeUsageBar (⭐27)](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+
+    **Website:** <https://yagcioglutoprak.github.io/AIQuotaBar/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [R2Drop (⭐5)](https://github.com/superhumancorp/r2drop) - Native macOS menu bar application for uploading files to Cloudflare R2 storage.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://r2drop.com>
+*   [Fazm (⭐333)](https://github.com/m13v/fazm) - The fastest AI computer agent for macOS. Takes voice commands and controls your entire desktop.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://fazm.ai>
+*   [Terminator (⭐2.7k)](https://github.com/gnome-terminator/terminator) - Terminal emulator that lets you open multiple GNOME terminals in one window.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+
+    **Website:** <https://gnome-terminator.org>
+*   [ScreenTranslate (⭐64)](https://github.com/hcmhcs/screenTranslate) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/CorvidLabs/MacNTop (⭐0)](https://github.com/CorvidLabs/MacNTop)
+    **Website:** <https://screentranslate.filient.ai>
 
-    **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
+### 📤 Sharing Files (12) / ✏️ Text (14)
+
+*   [OnionShare (⭐7.1k)](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
+
+    **Website:** <https://onionshare.org/>
+
+### ⏱️ Productivity (80) / ✏️ Text (14)
+
+*   [Shark (⭐7)](https://github.com/SSBun/Shark) - Cursor IDE workspace manager for macOS.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://ssbun.github.io/Shark>
+
+### 📝 Editors (8) / ✏️ Text (14)
+
+*   [Markout (⭐10)](https://github.com/maxmilian/markout) - Native Markdown editor with live preview, offline KaTeX math, Mermaid diagrams, and HTML/PDF export.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/maxmilian/markout (⭐10)](https://github.com/maxmilian/markout)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/maxmilian/markout/main/assets/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### ⌨️ Keyboard (11) / ✏️ Text (14)
+
+*   [LangSwitcher (⭐28)](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter for macOS.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://reg2005.github.io/langSwitcher/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/reg2005/langSwitcher/main/screenshots/general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 📊 Menubar (57) / ✏️ Text (14)
+
+*   [AIQuotaBar (⭐27)](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+
+    **Website:** <https://yagcioglutoprak.github.io/AIQuotaBar/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### ⚙️ System (25) / ✏️ Text (14)
+
+*   [ClearDisk (⭐578)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to reclaim disk space on macOS.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://bysiber.github.io/cleardisk>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+## [Feb 23, 2026](/content/2026/02/23/README.md)
+
+### ⚙️ System (25) / ✏️ Text (14)
+
+*   [MacNTop (⭐16)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/CorvidLabs/MacNTop (⭐16)](https://github.com/CorvidLabs/MacNTop)
 
 ## [Feb 21, 2026](/content/2026/02/21/README.md)
 
-### 💻 IDE (14) / ✏️ Text (13)
+### 💻 IDE (14) / ✏️ Text (14)
 
-*   [Eclipse (⭐142)](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+*   [Eclipse (⭐166)](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://www.eclipse.org>
-
-    **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/>   <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
-*   [VSCodium (⭐30k)](https://github.com/VSCodium/vscodium) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.
+*   [VSCodium (⭐33k)](https://github.com/VSCodium/vscodium) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://vscodium.com/>
 
-    **Badges:** <a href='https://github.com/VSCodium/vscodium/releases/latest'><img src='https://img.shields.io/github/v/release/VSCodium/vscodium?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/VSCodium/vscodium'><img src='https://img.shields.io/github/stars/VSCodium/vscodium?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/VSCodium/vscodium' alt='Last commit'/>   <img src='https://img.shields.io/github/license/VSCodium/vscodium' alt='License'/>
-
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
-### 🎵 Audio (39)
+### 🎵 Audio (40)
 
-*   [LyricGlow (⭐10)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
+*   [LyricGlow (⭐40)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/ateymoori/lyricglow/releases/latest'><img src='https://img.shields.io/github/v/release/ateymoori/lyricglow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ateymoori/lyricglow'><img src='https://img.shields.io/github/stars/ateymoori/lyricglow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ateymoori/lyricglow' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ateymoori/lyricglow' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -59,11 +198,9 @@
 
     </p>
     </details>
-*   [Pulp (⭐77)](https://github.com/bazalp/pulp) - Audio Sample manager.
+*   [Pulp (⭐102)](https://github.com/bazalp/pulp) - Audio Sample manager.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/bazalp/pulp/releases/latest'><img src='https://img.shields.io/github/v/release/bazalp/pulp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bazalp/pulp'><img src='https://img.shields.io/github/stars/bazalp/pulp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bazalp/pulp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bazalp/pulp' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -74,13 +211,11 @@
     </p>
     </details>
 
-### 🎧 Music (16) / ✏️ Text (13)
+### 🎧 Music (16) / ✏️ Text (14)
 
-*   [StargateDAW (⭐804)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+*   [StargateDAW (⭐873)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/stargatedaw/stargate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -99,19 +234,15 @@
 
 ### 💾 Backup (6)
 
-*   [backy (⭐17)](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
+*   [backy (⭐23)](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
-    **Badges:** <a href='https://github.com/vdbsh/backy/releases/latest'><img src='https://img.shields.io/github/v/release/vdbsh/backy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vdbsh/backy'><img src='https://img.shields.io/github/stars/vdbsh/backy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vdbsh/backy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vdbsh/backy' alt='License'/>
+### 💬 Chat (21)
 
-### 💬 Chat (20)
-
-*   [Swiftcord (⭐2.2k)](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
+*   [Swiftcord (⭐2.6k)](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/SwiftcordApp/Swiftcord/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftcordApp/Swiftcord?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SwiftcordApp/Swiftcord'><img src='https://img.shields.io/github/stars/SwiftcordApp/Swiftcord?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SwiftcordApp/Swiftcord' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SwiftcordApp/Swiftcord' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -124,13 +255,11 @@
 
 ### 💰 Cryptocurrency (5)
 
-*   [Bitcoin Core (⭐88k)](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
+*   [Bitcoin Core (⭐90k)](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
 
     **Languages:** <code>C++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
     **Website:** <https://bitcoincore.org/>
-
-    **Badges:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bitcoin/bitcoin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -141,15 +270,13 @@
     </p>
     </details>
 
-### 📺 Terminal (15) / ✏️ Text (13)
+### 📺 Terminal (16) / ✏️ Text (14)
 
-*   [Clipboard (⭐5.7k)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+*   [Clipboard (⭐5.9k)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://GetClipboard.app>
-
-    **Badges:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Slackadays/Clipboard' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -161,11 +288,9 @@
 
     </p>
     </details>
-*   [Tabby (⭐69k)](https://github.com/Eugeny/tabby) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
+*   [Tabby (⭐74k)](https://github.com/Eugeny/tabby) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/Eugeny/tabby/releases/latest'><img src='https://img.shields.io/github/v/release/Eugeny/tabby?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Eugeny/tabby'><img src='https://img.shields.io/github/stars/Eugeny/tabby?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Eugeny/tabby' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Eugeny/tabby' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -178,13 +303,11 @@
     </p>
     </details>
 
-### 📝 Editors (7) / 📱 iOS / macOS (44)
+### 📝 Editors (8) / 📱 iOS / macOS (44)
 
-*   [DevLint (⭐2)](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+*   [DevLint (⭐3)](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/csprasad/DevLint' alt='Last commit'/>   <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -197,15 +320,13 @@
     </p>
     </details>
 
-### 🛠️ Utilities (112) / ✏️ Text (13)
+### 🛠️ Utilities (120) / ✏️ Text (14)
 
-*   [Gridfy (⭐34)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
+*   [Gridfy (⭐36)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://gridfy.astroon.pro/>
-
-    **Badges:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Slllava/gridfy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -219,13 +340,11 @@
 
     </p>
     </details>
-*   [LocationSimulator (⭐2.9k)](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
+*   [LocationSimulator (⭐3.1k)](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://schlaubischlump.github.io/LocationSimulator>
-
-    **Badges:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Schlaubischlump/LocationSimulator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -235,20 +354,16 @@
 
     </p>
     </details>
-*   [Input Source Pro (⭐2.8k)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+*   [Input Source Pro (⭐3.5k)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://inputsource.pro>
-
-    **Badges:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/runjuu/InputSourcePro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
-*   [App Fair (⭐65)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+*   [App Fair (⭐70)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://appfair.app>
-
-    **Badges:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/App-Fair/App' alt='Last commit'/>   <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -262,13 +377,11 @@
 
     </p>
     </details>
-*   [SaneClick (⭐1)](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
+*   [SaneClick (⭐30)](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://saneclick.com>
-
-    **Badges:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClick' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -278,13 +391,11 @@
 
     </p>
     </details>
-*   [ClipFlow (⭐4)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+*   [ClipFlow (⭐12)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/praneeth552/clipflow (⭐4)](https://github.com/praneeth552/clipflow)
-
-    **Badges:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/praneeth552/clipflow' alt='Last commit'/>   <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+    **Website:** [https://github.com/praneeth552/clipflow (⭐12)](https://github.com/praneeth552/clipflow)
 
     <details>
     <summary>Screenshots</summary>
@@ -296,13 +407,11 @@
 
     </p>
     </details>
-*   [OnlySwitch (⭐5.5k)](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+*   [OnlySwitch (⭐5.9k)](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://www.jacklandrin.com/2021/12/01/onlyswitch/>
-
-    **Badges:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jacklandrin/OnlySwitch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -312,13 +421,11 @@
 
     </p>
     </details>
-*   [RustCast (⭐348)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+*   [RustCast (⭐1k)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://rustcast.umangsurana.com>
-
-    **Badges:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/unsecretised/rustcast' alt='Last commit'/>   <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -328,13 +435,11 @@
 
     </p>
     </details>
-*   [SaneBar (⭐182)](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
+*   [SaneBar (⭐278)](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://sanebar.com>
-
-    **Badges:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -346,13 +451,11 @@
 
     </p>
     </details>
-*   [ScreenHint (⭐16)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+*   [ScreenHint (⭐18)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://screenhint.com>
-
-    **Badges:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/salemhilal/ScreenHint' alt='Last commit'/>   <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -366,13 +469,11 @@
 
     </p>
     </details>
-*   [Numi (⭐6.3k)](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+*   [Numi (⭐6.5k)](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://numi.app/>
-
-    **Badges:** <a href='https://github.com/nikolaeu/numi/releases/latest'><img src='https://img.shields.io/github/v/release/nikolaeu/numi?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nikolaeu/numi'><img src='https://img.shields.io/github/stars/nikolaeu/numi?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nikolaeu/numi' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nikolaeu/numi' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -382,20 +483,16 @@
 
     </p>
     </details>
-*   [ActivityWatch (⭐17k)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+*   [ActivityWatch (⭐19k)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://activitywatch.net>
-
-    **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
-*   [Blink Eye (⭐237)](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
+*   [Blink Eye (⭐261)](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://blinkeye.vercel.app/>
-
-    **Badges:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nomandhoni-cs/blink-eye' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -411,13 +508,11 @@
 
     </p>
     </details>
-*   [File Architect (⭐1)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+*   [File Architect (⭐13)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://filearchitect.com>
-
-    **Badges:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/filearchitect/app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -427,20 +522,16 @@
 
     </p>
     </details>
-*   [OmniPrompt (⭐11)](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
+*   [OmniPrompt (⭐12)](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://omniprompt.app/>
-
-    **Badges:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
-*   [SaneClip (⭐10)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+*   [SaneClip (⭐31)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://saneclip.com>
-
-    **Badges:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClip' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -452,13 +543,11 @@
 
     </p>
     </details>
-*   [SaneSales (⭐0)](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
+*   [SaneSales (⭐3)](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://sanesales.com>
-
-    **Badges:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneSales' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -472,13 +561,11 @@
 
     </p>
     </details>
-*   [Screenpipe (⭐17k)](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
+*   [Screenpipe (⭐21k)](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://screenpi.pe>
-
-    **Badges:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/screenpipe/screenpipe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -488,11 +575,9 @@
 
     </p>
     </details>
-*   [Slime (⭐49)](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
+*   [Slime (⭐48)](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Mas0nSun/Slime/releases/latest'><img src='https://img.shields.io/github/v/release/Mas0nSun/Slime?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mas0nSun/Slime'><img src='https://img.shields.io/github/stars/Mas0nSun/Slime?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mas0nSun/Slime' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mas0nSun/Slime' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -502,18 +587,14 @@
 
     </p>
     </details>
-*   [Xournal++ (⭐14k)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
+*   [Xournal++ (⭐15k)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/xournalpp/xournalpp/releases/latest'><img src='https://img.shields.io/github/v/release/xournalpp/xournalpp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xournalpp/xournalpp/'><img src='https://img.shields.io/github/stars/xournalpp/xournalpp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xournalpp/xournalpp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xournalpp/xournalpp' alt='License'/>
-*   [SaneHosts (⭐5)](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
+*   [SaneHosts (⭐22)](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://sanehosts.com>
-
-    **Badges:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneHosts' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -541,39 +622,22 @@
 
     </p>
     </details>
-*   [OpenCore Legacy Patcher (⭐17k)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
+*   [OpenCore Legacy Patcher (⭐18k)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://dortania.github.io/OpenCore-Legacy-Patcher/>
-
-    **Badges:** <a href='https://github.com/dortania/OpenCore-Legacy-Patcher/releases/latest'><img src='https://img.shields.io/github/v/release/dortania/OpenCore-Legacy-Patcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dortania/OpenCore-Legacy-Patcher'><img src='https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dortania/OpenCore-Legacy-Patcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dortania/OpenCore-Legacy-Patcher' alt='License'/>
-*   [PeaZip (⭐6.9k)](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
+*   [PeaZip (⭐7.8k)](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
 
     **Languages:** <code>pascal</code>
 
     **Website:** <https://peazip.github.io/>
-
-    **Badges:** <a href='https://github.com/peazip/PeaZip/releases/latest'><img src='https://img.shields.io/github/v/release/peazip/PeaZip?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/peazip/PeaZip'><img src='https://img.shields.io/github/stars/peazip/PeaZip?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/peazip/PeaZip' alt='Last commit'/>   <img src='https://img.shields.io/github/license/peazip/PeaZip' alt='License'/>
 *   [PlugNPlayMac (⭐9)](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac
 
     **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
-
-    **Badges:** <a href='https://github.com/Piero24/PlugNPlayMac/releases/latest'><img src='https://img.shields.io/github/v/release/Piero24/PlugNPlayMac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Piero24/PlugNPlayMac'><img src='https://img.shields.io/github/stars/Piero24/PlugNPlayMac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Piero24/PlugNPlayMac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Piero24/PlugNPlayMac' alt='License'/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-*   [Smotrite (⭐38)](https://github.com/Lukentui/smotrite-app) - Smotrite is a system monitor for macOS, which just work.
+*   [Smotrite (⭐42)](https://github.com/Lukentui/smotrite-app) - Smotrite is a system monitor for macOS, which just work.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/Lukentui/smotrite-app/releases/latest'><img src='https://img.shields.io/github/v/release/Lukentui/smotrite-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Lukentui/smotrite-app'><img src='https://img.shields.io/github/stars/Lukentui/smotrite-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Lukentui/smotrite-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Lukentui/smotrite-app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -585,20 +649,16 @@
 
     </p>
     </details>
-*   [Stirling-PDF (⭐74k)](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
+*   [Stirling-PDF (⭐91k)](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java <code>html</code> <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>html</code>
 
     **Website:** [stirlingpdf.com](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md/stirlingpdf.com)
-
-    **Badges:** <a href='https://github.com/Stirling-Tools/Stirling-PDF/releases/latest'><img src='https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Stirling-Tools/Stirling-PDF'><img src='https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Stirling-Tools/Stirling-PDF' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Stirling-Tools/Stirling-PDF' alt='License'/>
-*   [TRex (⭐1.7k)](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
+*   [TRex (⭐1.9k)](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://trex.ameba.co/>
-
-    **Badges:** <a href='https://github.com/amebalabs/TRex/releases/latest'><img src='https://img.shields.io/github/v/release/amebalabs/TRex?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/amebalabs/TRex'><img src='https://img.shields.io/github/stars/amebalabs/TRex?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/amebalabs/TRex' alt='Last commit'/>   <img src='https://img.shields.io/github/license/amebalabs/TRex' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -611,15 +671,13 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16)
+### 👨‍💻 Development (18)
 
-*   [JustTags (⭐18)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
+*   [JustTags (⭐21)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://kaphacius.github.io/just-tags/>
-
-    **Badges:** <a href='https://github.com/kaphacius/just-tags/releases/latest'><img src='https://img.shields.io/github/v/release/kaphacius/just-tags?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kaphacius/just-tags'><img src='https://img.shields.io/github/stars/kaphacius/just-tags?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kaphacius/just-tags' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kaphacius/just-tags' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -631,13 +689,11 @@
 
     </p>
     </details>
-*   [M-Courtyard (⭐28)](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.
+*   [M-Courtyard (⭐163)](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-    **Website:** [https://github.com/Mcourtyard/m-courtyard (⭐28)](https://github.com/Mcourtyard/m-courtyard)
-
-    **Badges:** <a href='https://github.com/Mcourtyard/m-courtyard/releases/latest'><img src='https://img.shields.io/github/v/release/Mcourtyard/m-courtyard?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mcourtyard/m-courtyard'><img src='https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mcourtyard/m-courtyard' alt='License'/>
+    **Website:** [https://github.com/Mcourtyard/m-courtyard (⭐163)](https://github.com/Mcourtyard/m-courtyard)
 
     <details>
     <summary>Screenshots</summary>
@@ -652,15 +708,13 @@
     </p>
     </details>
 
-### ⏱️ Productivity (78) / ✏️ Text (13)
+### ⏱️ Productivity (80) / ✏️ Text (14)
 
-*   [Clendar (⭐701)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
+*   [Clendar (⭐727)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041>
-
-    **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -688,13 +742,11 @@
 
     </p>
     </details>
-*   [Freeter (⭐937)](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
+*   [Freeter (⭐1k)](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://freeter.io/>
-
-    **Badges:** <a href='https://github.com/FreeterApp/Freeter/releases/latest'><img src='https://img.shields.io/github/v/release/FreeterApp/Freeter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/FreeterApp/Freeter'><img src='https://img.shields.io/github/stars/FreeterApp/Freeter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/FreeterApp/Freeter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/FreeterApp/Freeter' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -704,13 +756,11 @@
 
     </p>
     </details>
-*   [Readest (⭐17k)](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+*   [Readest (⭐24k)](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://readest.com>
-
-    **Badges:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/readest/readest' alt='Last commit'/>   <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -726,13 +776,11 @@
 
     </p>
     </details>
-*   [Yippy (⭐390)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
+*   [Yippy (⭐398)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://yippy.mattdavo.com>
-
-    **Badges:** <a href='https://github.com/mattDavo/Yippy/releases/latest'><img src='https://img.shields.io/github/v/release/mattDavo/Yippy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mattDavo/Yippy'><img src='https://img.shields.io/github/stars/mattDavo/Yippy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mattDavo/Yippy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mattDavo/Yippy' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -745,13 +793,11 @@
 
 ### ⬇️ Downloader (10) / 📱 iOS / macOS (44)
 
-*   [Applite (⭐6.4k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
+*   [Applite (⭐7k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://aerolite.dev/applite>
-
-    **Badges:** <a href='https://github.com/milanvarady/Applite/releases/latest'><img src='https://img.shields.io/github/v/release/milanvarady/Applite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/milanvarady/Applite'><img src='https://img.shields.io/github/stars/milanvarady/Applite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/milanvarady/Applite' alt='Last commit'/>   <img src='https://img.shields.io/github/license/milanvarady/Applite' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -764,7 +810,7 @@
     </p>
     </details>
 
-### 📤 Sharing Files (11) / ✏️ Text (13)
+### 📤 Sharing Files (12) / ✏️ Text (14)
 
 *   [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
 
@@ -777,8 +823,6 @@
 
     **Website:** <https://ariessciences.com/highlight?product=easy-share-uploader>
 
-    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Easy-Share-Uploader?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Easy-Share-Uploader?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Easy-Share-Uploader' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Easy-Share-Uploader' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -790,15 +834,13 @@
     </p>
     </details>
 
-### 📝 Editors (7) / ✏️ Text (13)
+### 📝 Editors (8) / ✏️ Text (14)
 
-*   [mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+*   [mxMarkEdit (⭐30)](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
     **Languages:** <code>free-pascal</code>
 
-    **Website:** [https://github.com/maxnd/mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit)
-
-    **Badges:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maxnd/mxMarkEdit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
+    **Website:** [https://github.com/maxnd/mxMarkEdit (⭐30)](https://github.com/maxnd/mxMarkEdit)
 
     <details>
     <summary>Screenshots</summary>
@@ -815,34 +857,21 @@
     </p>
     </details>
 
-### 💻 IDE (14) / ✏️ Text (13)
+### 💻 IDE (14) / ✏️ Text (14)
 
-*   [Zed (⭐75k)](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+*   [Zed (⭐89k)](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://zed.dev>
 
-    **Badges:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zed-industries/zed' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+### 📔 Notes (19) / ✏️ Text (14)
 
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-
-### 📔 Notes (19) / ✏️ Text (13)
-
-*   [Notesnook (⭐14k)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+*   [Notesnook (⭐15k)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://notesnook.com>
-
-    **Badges:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/streetwriters/notesnook' alt='Last commit'/>   <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -852,21 +881,17 @@
 
     </p>
     </details>
-*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+*   [Stik (⭐244)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://stik.ink>
 
-    **Badges:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/0xMassi/stik_app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
+### 🎬 Video (20) / ✏️ Text (14)
 
-### 🎬 Video (20) / ✏️ Text (13)
-
-*   [Yape (⭐17)](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.
+*   [Yape (⭐16)](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/leonspok/Yape/releases/latest'><img src='https://img.shields.io/github/v/release/leonspok/Yape?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/leonspok/Yape'><img src='https://img.shields.io/github/stars/leonspok/Yape?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/leonspok/Yape' alt='Last commit'/>   <img src='https://img.shields.io/github/license/leonspok/Yape' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -879,25 +904,21 @@
     </p>
     </details>
 
-### 🔍 Finder (13) / ✏️ Text (13)
+### 🔍 Finder (13) / ✏️ Text (14)
 
-*   [muCommander (⭐1.2k)](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface.
+*   [muCommander (⭐1.3k)](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://www.mucommander.com/>
 
-    **Badges:** <a href='https://github.com/mucommander/mucommander/releases/latest'><img src='https://img.shields.io/github/v/release/mucommander/mucommander?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mucommander/mucommander'><img src='https://img.shields.io/github/stars/mucommander/mucommander?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mucommander/mucommander' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mucommander/mucommander' alt='License'/>
-
-### 🎮 Games (13) / ✏️ Text (13)
+### 🎮 Games (13) / ✏️ Text (14)
 
 *   [Amazing Tic Tac Toe (⭐1)](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://ariessciences.com/highlight?product=tic-tac-toe>
-
-    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Tic-Tac-Toe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Tic-Tac-Toe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Tic-Tac-Toe' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -909,23 +930,19 @@
 
     </p>
     </details>
-*   [Sabaki (⭐2.6k)](https://github.com/SabakiHQ/Sabaki) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
+*   [Sabaki (⭐2.8k)](https://github.com/SabakiHQ/Sabaki) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <http://sabaki.yichuanshen.de>
 
-    **Badges:** <a href='https://github.com/SabakiHQ/Sabaki/releases/latest'><img src='https://img.shields.io/github/v/release/SabakiHQ/Sabaki?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SabakiHQ/Sabaki'><img src='https://img.shields.io/github/stars/SabakiHQ/Sabaki?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SabakiHQ/Sabaki' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SabakiHQ/Sabaki' alt='License'/>
+### 🎨 Graphics (17) / ✏️ Text (14)
 
-### 🎨 Graphics (17) / ✏️ Text (13)
-
-*   [LibreCAD (⭐5.6k)](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
+*   [LibreCAD (⭐6.3k)](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
 
     **Languages:** <code>c++</code> <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://librecad.org>
-
-    **Badges:** <a href='https://github.com/LibreCAD/LibreCAD/releases/latest'><img src='https://img.shields.io/github/v/release/LibreCAD/LibreCAD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LibreCAD/LibreCAD'><img src='https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LibreCAD/LibreCAD' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LibreCAD/LibreCAD' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -935,11 +952,9 @@
 
     </p>
     </details>
-*   [Nugget (⭐525)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility.
+*   [Nugget (⭐589)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/cartesiancs/nugget-app/releases/latest'><img src='https://img.shields.io/github/v/release/cartesiancs/nugget-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cartesiancs/nugget-app'><img src='https://img.shields.io/github/stars/cartesiancs/nugget-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cartesiancs/nugget-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cartesiancs/nugget-app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -950,13 +965,11 @@
     </p>
     </details>
 
-### 📊 Menubar (52) / ✏️ Text (13)
+### 📊 Menubar (57) / ✏️ Text (14)
 
-*   [app-menu (⭐48)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
+*   [app-menu (⭐86)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/barseghyanartur/app-menu/releases/latest'><img src='https://img.shields.io/github/v/release/barseghyanartur/app-menu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/barseghyanartur/app-menu'><img src='https://img.shields.io/github/stars/barseghyanartur/app-menu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/barseghyanartur/app-menu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/barseghyanartur/app-menu' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -974,8 +987,6 @@
 
     **Website:** <https://ariessciences.com/highlight?product=quick-weather>
 
-    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Quick-Weather?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Quick-Weather' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Quick-Weather' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -986,13 +997,11 @@
 
     </p>
     </details>
-*   [Vercel Deployment Menu Bar (⭐25)](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
+*   [Vercel Deployment Menu Bar (⭐30)](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://vercel-deployment-menu-bar.vercel.app/>
-
-    **Badges:** <a href='https://github.com/andrewk17/vercel-deployment-menu-bar/releases/latest'><img src='https://img.shields.io/github/v/release/andrewk17/vercel-deployment-menu-bar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/andrewk17/vercel-deployment-menu-bar'><img src='https://img.shields.io/github/stars/andrewk17/vercel-deployment-menu-bar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/andrewk17/vercel-deployment-menu-bar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/andrewk17/vercel-deployment-menu-bar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1003,15 +1012,13 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (8) / ✏️ Text (13)
+### 🔐 VPN & Proxy (8) / ✏️ Text (14)
 
-*   [VPN Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+*   [VPN Bypass (⭐115)](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/GeiserX/VPN-Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass)
-
-    **Badges:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass' alt='Last commit'/>   <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
+    **Website:** [https://github.com/GeiserX/VPN-Bypass (⭐115)](https://github.com/GeiserX/VPN-Bypass)
 
     <details>
     <summary>Screenshots</summary>
@@ -1029,20 +1036,16 @@
 
     **Website:** <https://www.wireguard.com/>
 
-### 📦 Other (25) / ✏️ Text (13)
+### 📦 Other (25) / ✏️ Text (14)
 
-*   [Gramps (⭐2.8k)](https://github.com/gramps-project/gramps) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
+*   [Gramps (⭐3.1k)](https://github.com/gramps-project/gramps) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://gramps-project.org>
-
-    **Badges:** <a href='https://github.com/gramps-project/gramps/releases/latest'><img src='https://img.shields.io/github/v/release/gramps-project/gramps?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gramps-project/gramps'><img src='https://img.shields.io/github/stars/gramps-project/gramps?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gramps-project/gramps' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gramps-project/gramps' alt='License'/>
-*   [SwitchShuttle (⭐121)](https://github.com/s00d/switchshuttle) - Simple commands shortcut menu for macOS.
+*   [SwitchShuttle (⭐124)](https://github.com/s00d/switchshuttle) - Simple commands shortcut menu for macOS.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Badges:** <a href='https://github.com/s00d/switchshuttle/releases/latest'><img src='https://img.shields.io/github/v/release/s00d/switchshuttle?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/s00d/switchshuttle'><img src='https://img.shields.io/github/stars/s00d/switchshuttle?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/s00d/switchshuttle' alt='Last commit'/>   <img src='https://img.shields.io/github/license/s00d/switchshuttle' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1053,15 +1056,13 @@
     </p>
     </details>
 
-### 🪟 Window Management (16) / ✏️ Text (13)
+### 🪟 Window Management (16) / ✏️ Text (14)
 
-*   [Dockit (⭐251)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+*   [Dockit (⭐282)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** \[[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]\([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
-
-    **Badges:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xicheng148/Dockit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1071,11 +1072,9 @@
 
     </p>
     </details>
-*   [Loop (⭐10k)](https://github.com/MrKai77/Loop) - Window management made elegant.
+*   [Loop (⭐12k)](https://github.com/MrKai77/Loop) - Window management made elegant.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/MrKai77/Loop/releases/latest'><img src='https://img.shields.io/github/v/release/MrKai77/Loop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MrKai77/Loop'><img src='https://img.shields.io/github/stars/MrKai77/Loop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MrKai77/Loop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MrKai77/Loop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1085,11 +1084,9 @@
 
     </p>
     </details>
-*   [Window Glue (⭐212)](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.
+*   [Window Glue (⭐227)](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Conxt/WindowGlue/releases/latest'><img src='https://img.shields.io/github/v/release/Conxt/WindowGlue?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Conxt/WindowGlue'><img src='https://img.shields.io/github/stars/Conxt/WindowGlue?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Conxt/WindowGlue' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Conxt/WindowGlue' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1100,15 +1097,13 @@
     </p>
     </details>
 
-### 🖥️ Wallpaper (12) / ✏️ Text (13)
+### 🖥️ Wallpaper (12) / ✏️ Text (14)
 
-*   [Equinox (⭐1.8k)](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers.
+*   [Equinox (⭐2.1k)](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://equinoxmac.com>
-
-    **Badges:** <a href='https://github.com/rlxone/Equinox/releases/latest'><img src='https://img.shields.io/github/v/release/rlxone/Equinox?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rlxone/Equinox'><img src='https://img.shields.io/github/stars/rlxone/Equinox?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rlxone/Equinox' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rlxone/Equinox' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1121,15 +1116,13 @@
 
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
-### 🛠️ Utilities (112) / ✏️ Text (13)
+### 🛠️ Utilities (120) / ✏️ Text (14)
 
-*   [Bye-AppQuit (⭐54)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+*   [Bye-AppQuit (⭐86)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐54)](https://github.com/designsbymuzeer/Bye-Mac-App)
-
-    **Badges:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App' alt='Last commit'/>   <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
+    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐86)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
     <details>
     <summary>Screenshots</summary>
@@ -1140,15 +1133,13 @@
     </p>
     </details>
 
-### 🪟 Window Management (16) / ✏️ Text (13)
+### 🪟 Window Management (16) / ✏️ Text (14)
 
-*   [Ice (⭐26k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+*   [Ice (⭐29k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://icemenubar.app/>
-
-    **Badges:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jordanbaird/Ice' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1163,13 +1154,11 @@
 
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
-### 🛠️ Utilities (112) / ✏️ Text (13)
+### 🛠️ Utilities (120) / ✏️ Text (14)
 
-*   [MiddleDrag (⭐98)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
+*   [MiddleDrag (⭐232)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/latest'><img src='https://img.shields.io/github/v/release/NullPointerDepressiveDisorder/MiddleDrag?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag'><img src='https://img.shields.io/github/stars/NullPointerDepressiveDisorder/MiddleDrag?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/NullPointerDepressiveDisorder/MiddleDrag' alt='Last commit'/>   <img src='https://img.shields.io/github/license/NullPointerDepressiveDisorder/MiddleDrag' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1182,15 +1171,13 @@
 
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
-### 👨‍💻 Development (16) / 🌍 Web Development (14)
+### 👨‍💻 Development (18) / 🌍 Web Development (14)
 
-*   [Requestly (⭐6.2k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
+*   [Requestly (⭐6.8k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://requestly.com>
-
-    **Badges:** <a href='https://github.com/requestly/requestly/releases/latest'><img src='https://img.shields.io/github/v/release/requestly/requestly?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/requestly/requestly'><img src='https://img.shields.io/github/stars/requestly/requestly?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/requestly/requestly' alt='Last commit'/>   <img src='https://img.shields.io/github/license/requestly/requestly' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1205,13 +1192,11 @@
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### 🎵 Audio (39)
+### 🎵 Audio (40)
 
-*   [\[Un\]MuteMic (⭐133)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
+*   [\[Un\]MuteMic (⭐134)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/CocoaHeadsBrasil/MuteUnmuteMic/releases/latest'><img src='https://img.shields.io/github/v/release/CocoaHeadsBrasil/MuteUnmuteMic?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CocoaHeadsBrasil/MuteUnmuteMic'><img src='https://img.shields.io/github/stars/CocoaHeadsBrasil/MuteUnmuteMic?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CocoaHeadsBrasil/MuteUnmuteMic' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CocoaHeadsBrasil/MuteUnmuteMic' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1221,13 +1206,11 @@
 
     </p>
     </details>
-*   [Audacity (⭐16k)](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software
+*   [Audacity (⭐18k)](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://www.audacityteam.org/>
-
-    **Badges:** <a href='https://github.com/audacity/audacity/releases/latest'><img src='https://img.shields.io/github/v/release/audacity/audacity?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/audacity/audacity'><img src='https://img.shields.io/github/stars/audacity/audacity?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/audacity/audacity' alt='Last commit'/>   <img src='https://img.shields.io/github/license/audacity/audacity' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1237,11 +1220,9 @@
 
     </p>
     </details>
-*   [AUHost (⭐121)](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.
+*   [AUHost (⭐122)](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/vgorloff/AUHost/releases/latest'><img src='https://img.shields.io/github/v/release/vgorloff/AUHost?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vgorloff/AUHost'><img src='https://img.shields.io/github/stars/vgorloff/AUHost?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vgorloff/AUHost' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vgorloff/AUHost' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1254,8 +1235,6 @@
 *   [Aural Player (⭐1.1k)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/kartik-venugopal/aural-player/releases/latest'><img src='https://img.shields.io/github/v/release/kartik-venugopal/aural-player?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kartik-venugopal/aural-player'><img src='https://img.shields.io/github/stars/kartik-venugopal/aural-player?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kartik-venugopal/aural-player' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kartik-venugopal/aural-player' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1271,13 +1250,11 @@
 
     </p>
     </details>
-*   [AutoMute (⭐281)](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
+*   [AutoMute (⭐283)](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://yoni.ninja/automute/>
-
-    **Badges:** <a href='https://github.com/yonilevy/automute/releases/latest'><img src='https://img.shields.io/github/v/release/yonilevy/automute?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yonilevy/automute'><img src='https://img.shields.io/github/stars/yonilevy/automute?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yonilevy/automute' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yonilevy/automute' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1293,8 +1270,6 @@
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-    **Badges:** <a href='https://github.com/kyleneideck/BackgroundMusic/releases/latest'><img src='https://img.shields.io/github/v/release/kyleneideck/BackgroundMusic?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kyleneideck/BackgroundMusic'><img src='https://img.shields.io/github/stars/kyleneideck/BackgroundMusic?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kyleneideck/BackgroundMusic' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kyleneideck/BackgroundMusic' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1303,16 +1278,12 @@
 
     </p>
     </details>
-*   [BlackHole (⭐18k)](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+*   [BlackHole (⭐20k)](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/ExistentialAudio/BlackHole/releases/latest'><img src='https://img.shields.io/github/v/release/ExistentialAudio/BlackHole?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ExistentialAudio/BlackHole'><img src='https://img.shields.io/github/stars/ExistentialAudio/BlackHole?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ExistentialAudio/BlackHole' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ExistentialAudio/BlackHole' alt='License'/>
-*   [CAM (⭐56)](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
+*   [CAM (⭐58)](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/hanayik/CAM/releases/latest'><img src='https://img.shields.io/github/v/release/hanayik/CAM?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hanayik/CAM'><img src='https://img.shields.io/github/stars/hanayik/CAM?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hanayik/CAM' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hanayik/CAM' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1334,8 +1305,6 @@
 
     **Website:** <https://www.clementine-player.org/>
 
-    **Badges:** <a href='https://github.com/clementine-player/Clementine/releases/latest'><img src='https://img.shields.io/github/v/release/clementine-player/Clementine?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/clementine-player/Clementine'><img src='https://img.shields.io/github/stars/clementine-player/Clementine?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/clementine-player/Clementine' alt='Last commit'/>   <img src='https://img.shields.io/github/license/clementine-player/Clementine' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1355,11 +1324,9 @@
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://cogx.org/>
-*   [eqMac2 (⭐6.5k)](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac.
+*   [eqMac2 (⭐6.8k)](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/bitgapp/eqMac/releases/latest'><img src='https://img.shields.io/github/v/release/bitgapp/eqMac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitgapp/eqMac'><img src='https://img.shields.io/github/stars/bitgapp/eqMac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bitgapp/eqMac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bitgapp/eqMac' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1371,11 +1338,9 @@
 
     </p>
     </details>
-*   [fre:ac (⭐1.8k)](https://github.com/enzo1982/freac) - The fre:ac audio converter project.
+*   [fre:ac (⭐1.9k)](https://github.com/enzo1982/freac) - The fre:ac audio converter project.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/enzo1982/freac/releases/latest'><img src='https://img.shields.io/github/v/release/enzo1982/freac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/enzo1982/freac'><img src='https://img.shields.io/github/stars/enzo1982/freac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/enzo1982/freac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/enzo1982/freac' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1385,11 +1350,9 @@
 
     </p>
     </details>
-*   [iTunes-Volume-Control (⭐252)](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.
+*   [iTunes-Volume-Control (⭐250)](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/alberti42/iTunes-Volume-Control/releases/latest'><img src='https://img.shields.io/github/v/release/alberti42/iTunes-Volume-Control?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alberti42/iTunes-Volume-Control'><img src='https://img.shields.io/github/stars/alberti42/iTunes-Volume-Control?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alberti42/iTunes-Volume-Control' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alberti42/iTunes-Volume-Control' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1402,8 +1365,6 @@
 *   [jmc (⭐519)](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/jcm93/jmc/releases/latest'><img src='https://img.shields.io/github/v/release/jcm93/jmc?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jcm93/jmc'><img src='https://img.shields.io/github/stars/jcm93/jmc?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jcm93/jmc' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jcm93/jmc' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1419,11 +1380,9 @@
 
     </p>
     </details>
-*   [LocalRadio (⭐395)](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.
+*   [LocalRadio (⭐408)](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/dsward2/LocalRadio/releases/latest'><img src='https://img.shields.io/github/v/release/dsward2/LocalRadio?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dsward2/LocalRadio'><img src='https://img.shields.io/github/stars/dsward2/LocalRadio?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dsward2/LocalRadio' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dsward2/LocalRadio' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1433,11 +1392,9 @@
 
     </p>
     </details>
-*   [Lyricism (⭐78)](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
+*   [Lyricism (⭐80)](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/lyc2345/Lyricism/releases/latest'><img src='https://img.shields.io/github/v/release/lyc2345/Lyricism?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lyc2345/Lyricism'><img src='https://img.shields.io/github/stars/lyc2345/Lyricism?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lyc2345/Lyricism' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lyc2345/Lyricism' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1451,11 +1408,9 @@
 
     </p>
     </details>
-*   [LyricsX (⭐5.1k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox.
+*   [LyricsX (⭐5.2k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ddddxxx/LyricsX/releases/latest'><img src='https://img.shields.io/github/v/release/ddddxxx/LyricsX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ddddxxx/LyricsX'><img src='https://img.shields.io/github/stars/ddddxxx/LyricsX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ddddxxx/LyricsX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ddddxxx/LyricsX' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1475,8 +1430,6 @@
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-    **Badges:** <a href='https://github.com/bsdelf/mous/releases/latest'><img src='https://img.shields.io/github/v/release/bsdelf/mous?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bsdelf/mous'><img src='https://img.shields.io/github/stars/bsdelf/mous?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bsdelf/mous' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bsdelf/mous' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1491,13 +1444,11 @@
 
     </p>
     </details>
-*   [Scope (⭐53)](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
+*   [Scope (⭐54)](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://billthefarmer.github.io/audiotools/>
-
-    **Badges:** <a href='https://github.com/billthefarmer/audiotools/releases/latest'><img src='https://img.shields.io/github/v/release/billthefarmer/audiotools?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/billthefarmer/audiotools/tree/master/Scope/swift'><img src='https://img.shields.io/github/stars/billthefarmer/audiotools?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/billthefarmer/audiotools' alt='Last commit'/>   <img src='https://img.shields.io/github/license/billthefarmer/audiotools' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1507,16 +1458,12 @@
 
     </p>
     </details>
-*   [shairport-sync (⭐8.5k)](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
+*   [shairport-sync (⭐8.8k)](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/mikebrady/shairport-sync/releases/latest'><img src='https://img.shields.io/github/v/release/mikebrady/shairport-sync?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mikebrady/shairport-sync'><img src='https://img.shields.io/github/stars/mikebrady/shairport-sync?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mikebrady/shairport-sync' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mikebrady/shairport-sync' alt='License'/>
-*   [ShazamScrobbler (⭐130)](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.
+*   [ShazamScrobbler (⭐134)](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/ShazamScrobbler/shazamscrobbler-macos/releases/latest'><img src='https://img.shields.io/github/v/release/ShazamScrobbler/shazamscrobbler-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ShazamScrobbler/shazamscrobbler-macos'><img src='https://img.shields.io/github/stars/ShazamScrobbler/shazamscrobbler-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ShazamScrobbler/shazamscrobbler-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ShazamScrobbler/shazamscrobbler-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1526,11 +1473,9 @@
 
     </p>
     </details>
-*   [Sonora (⭐940)](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.
+*   [Sonora (⭐957)](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/sonoramac/Sonora/releases/latest'><img src='https://img.shields.io/github/v/release/sonoramac/Sonora?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sonoramac/Sonora'><img src='https://img.shields.io/github/stars/sonoramac/Sonora?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sonoramac/Sonora' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sonoramac/Sonora' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1544,8 +1489,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/fabiusBile/Spotify4BigSur/releases/latest'><img src='https://img.shields.io/github/v/release/fabiusBile/Spotify4BigSur?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fabiusBile/Spotify4BigSur'><img src='https://img.shields.io/github/stars/fabiusBile/Spotify4BigSur?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fabiusBile/Spotify4BigSur' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fabiusBile/Spotify4BigSur' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1558,8 +1501,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/kmikiy/SpotMenu/releases/latest'><img src='https://img.shields.io/github/v/release/kmikiy/SpotMenu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kmikiy/SpotMenu'><img src='https://img.shields.io/github/stars/kmikiy/SpotMenu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kmikiy/SpotMenu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kmikiy/SpotMenu' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1568,16 +1509,12 @@
 
     </p>
     </details>
-*   [SpotSpot (⭐137)](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS.
+*   [SpotSpot (⭐138)](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/will-stone/SpotSpot/releases/latest'><img src='https://img.shields.io/github/v/release/will-stone/SpotSpot?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/will-stone/SpotSpot'><img src='https://img.shields.io/github/stars/will-stone/SpotSpot?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/will-stone/SpotSpot' alt='Last commit'/>   <img src='https://img.shields.io/github/license/will-stone/SpotSpot' alt='License'/>
-*   [Suohai (⭐139)](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS.
+*   [Suohai (⭐138)](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Sunnyyoung/Suohai/releases/latest'><img src='https://img.shields.io/github/v/release/Sunnyyoung/Suohai?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Sunnyyoung/Suohai'><img src='https://img.shields.io/github/stars/Sunnyyoung/Suohai?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Sunnyyoung/Suohai' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Sunnyyoung/Suohai' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1591,8 +1528,6 @@
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-    **Badges:** <a href='https://github.com/yingDev/Tickeys/releases/latest'><img src='https://img.shields.io/github/v/release/yingDev/Tickeys?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yingDev/Tickeys'><img src='https://img.shields.io/github/stars/yingDev/Tickeys?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yingDev/Tickeys' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yingDev/Tickeys' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1605,13 +1540,11 @@
 
     </p>
     </details>
-*   [Tuner (⭐59)](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner
+*   [Tuner (⭐60)](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** [https://billthefarmer.github.io/ctuner/ ](https://billthefarmer.github.io/ctuner/)
-
-    **Badges:** <a href='https://github.com/billthefarmer/ctuner/releases/latest'><img src='https://img.shields.io/github/v/release/billthefarmer/ctuner?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/billthefarmer/ctuner'><img src='https://img.shields.io/github/stars/billthefarmer/ctuner?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/billthefarmer/ctuner' alt='Last commit'/>   <img src='https://img.shields.io/github/license/billthefarmer/ctuner' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1625,11 +1558,9 @@
 
     </p>
     </details>
-*   [waveSDR (⭐226)](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
+*   [waveSDR (⭐237)](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/getoffmyhack/waveSDR/releases/latest'><img src='https://img.shields.io/github/v/release/getoffmyhack/waveSDR?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/getoffmyhack/waveSDR'><img src='https://img.shields.io/github/stars/getoffmyhack/waveSDR?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/getoffmyhack/waveSDR' alt='Last commit'/>   <img src='https://img.shields.io/github/license/getoffmyhack/waveSDR' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1640,15 +1571,13 @@
     </p>
     </details>
 
-### 🎧 Music (16) / ✏️ Text (13)
+### 🎧 Music (16) / ✏️ Text (14)
 
-*   [Karaoke Forever (⭐681)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
+*   [Karaoke Forever (⭐893)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.karaoke-eternal.com/>
-
-    **Badges:** <a href='https://github.com/bhj/KaraokeEternal/releases/latest'><img src='https://img.shields.io/github/v/release/bhj/KaraokeEternal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bhj/KaraokeEternal'><img src='https://img.shields.io/github/stars/bhj/KaraokeEternal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bhj/KaraokeEternal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bhj/KaraokeEternal' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1658,26 +1587,18 @@
 
     </p>
     </details>
-*   [Carol (⭐127)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.
+*   [Carol (⭐135)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.
 
     **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
-
-    **Badges:** <a href='https://github.com/AnaghSharma/Carol/releases/latest'><img src='https://img.shields.io/github/v/release/AnaghSharma/Carol?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AnaghSharma/Carol'><img src='https://img.shields.io/github/stars/AnaghSharma/Carol?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AnaghSharma/Carol' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AnaghSharma/Carol' alt='License'/>
-*   [ChordDetector (⭐95)](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!
+*   [ChordDetector (⭐97)](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/cemolcay/ChordDetector/releases/latest'><img src='https://img.shields.io/github/v/release/cemolcay/ChordDetector?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cemolcay/ChordDetector'><img src='https://img.shields.io/github/stars/cemolcay/ChordDetector?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cemolcay/ChordDetector' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cemolcay/ChordDetector' alt='License'/>
 *   [DeezPlayer (⭐50)](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.
 
     **Languages:** <img src='./icons/coffeescript-64.png' alt='CoffeeScript icon' title='CoffeeScript' height='16'/> CoffeeScript
-
-    **Badges:** <a href='https://github.com/imanel/deezplayer/releases/latest'><img src='https://img.shields.io/github/v/release/imanel/deezplayer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/imanel/deezplayer'><img src='https://img.shields.io/github/stars/imanel/deezplayer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/imanel/deezplayer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/imanel/deezplayer' alt='License'/>
 *   [iTunes Graphs (⭐54)](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Zac-Garby/iTunes-Graphs/releases/latest'><img src='https://img.shields.io/github/v/release/Zac-Garby/iTunes-Graphs?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Zac-Garby/iTunes-Graphs'><img src='https://img.shields.io/github/stars/Zac-Garby/iTunes-Graphs?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Zac-Garby/iTunes-Graphs' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Zac-Garby/iTunes-Graphs' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1689,11 +1610,9 @@
 
     </p>
     </details>
-*   [Lilypond UI (⭐33)](https://github.com/doches/lilypond-ui) - Create beautiful musical scores with LilyPond.
+*   [Lilypond UI (⭐35)](https://github.com/doches/lilypond-ui) - Create beautiful musical scores with LilyPond.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/doches/lilypond-ui/releases/latest'><img src='https://img.shields.io/github/v/release/doches/lilypond-ui?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/doches/lilypond-ui'><img src='https://img.shields.io/github/stars/doches/lilypond-ui?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/doches/lilypond-ui' alt='Last commit'/>   <img src='https://img.shields.io/github/license/doches/lilypond-ui' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1707,8 +1626,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/mamal72/lyricsify-mac/releases/latest'><img src='https://img.shields.io/github/v/release/mamal72/lyricsify-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mamal72/lyricsify-mac'><img src='https://img.shields.io/github/stars/mamal72/lyricsify-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mamal72/lyricsify-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mamal72/lyricsify-mac' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -1719,11 +1636,9 @@
 
     </p>
     </details>
-*   [SoundCleod (⭐962)](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
+*   [SoundCleod (⭐961)](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/salomvary/soundcleod/releases/latest'><img src='https://img.shields.io/github/v/release/salomvary/soundcleod?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/salomvary/soundcleod'><img src='https://img.shields.io/github/stars/salomvary/soundcleod?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/salomvary/soundcleod' alt='Last commit'/>   <img src='https://img.shields.io/github/license/salomvary/soundcleod' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1735,13 +1650,11 @@
 
     </p>
     </details>
-*   [spicetify-cli (⭐22k)](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+*   [spicetify-cli (⭐24k)](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://spicetify.app/>
-
-    **Badges:** <a href='https://github.com/spicetify/spicetify-cli/releases/latest'><img src='https://img.shields.io/github/v/release/spicetify/spicetify-cli?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/spicetify/spicetify-cli'><img src='https://img.shields.io/github/stars/spicetify/spicetify-cli?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/spicetify/spicetify-cli' alt='Last commit'/>   <img src='https://img.shields.io/github/license/spicetify/spicetify-cli' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1751,11 +1664,9 @@
 
     </p>
     </details>
-*   [Spotify-Cli-Mac (⭐185)](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes:
+*   [Spotify-Cli-Mac (⭐187)](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes:
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/ersel/spotify-cli-mac/releases/latest'><img src='https://img.shields.io/github/v/release/ersel/spotify-cli-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ersel/spotify-cli-mac'><img src='https://img.shields.io/github/stars/ersel/spotify-cli-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ersel/spotify-cli-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ersel/spotify-cli-mac' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1768,8 +1679,6 @@
 *   [YouTube-Music (⭐2.8k)](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/steve228uk/YouTube-Music/releases/latest'><img src='https://img.shields.io/github/v/release/steve228uk/YouTube-Music?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/steve228uk/YouTube-Music'><img src='https://img.shields.io/github/stars/steve228uk/YouTube-Music?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/steve228uk/YouTube-Music' alt='Last commit'/>   <img src='https://img.shields.io/github/license/steve228uk/YouTube-Music' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1786,15 +1695,13 @@
     </p>
     </details>
 
-### 🎬 Video (20) / ✏️ Text (13)
+### 🎬 Video (20) / ✏️ Text (14)
 
-*   [LosslessCut (⭐38k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
+*   [LosslessCut (⭐43k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://mifi.no/losslesscut/>
-
-    **Badges:** <a href='https://github.com/mifi/lossless-cut/releases/latest'><img src='https://img.shields.io/github/v/release/mifi/lossless-cut?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mifi/lossless-cut'><img src='https://img.shields.io/github/stars/mifi/lossless-cut?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mifi/lossless-cut' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mifi/lossless-cut' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1804,13 +1711,11 @@
 
     </p>
     </details>
-*   [MPV (⭐34k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
+*   [MPV (⭐37k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://mpv.io>
-
-    **Badges:** <a href='https://github.com/mpv-player/mpv/releases/latest'><img src='https://img.shields.io/github/v/release/mpv-player/mpv?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mpv-player/mpv'><img src='https://img.shields.io/github/stars/mpv-player/mpv?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mpv-player/mpv' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mpv-player/mpv' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1823,18 +1728,12 @@
 *   [Acid.Cam.v2.OSX (⭐121)](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/lostjared/Acid.Cam.v2.OSX/releases/latest'><img src='https://img.shields.io/github/v/release/lostjared/Acid.Cam.v2.OSX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lostjared/Acid.Cam.v2.OSX'><img src='https://img.shields.io/github/stars/lostjared/Acid.Cam.v2.OSX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lostjared/Acid.Cam.v2.OSX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lostjared/Acid.Cam.v2.OSX' alt='License'/>
-*   [AppleEvents (⭐825)](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.
+*   [AppleEvents (⭐823)](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/insidegui/AppleEvents/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/AppleEvents?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/AppleEvents'><img src='https://img.shields.io/github/stars/insidegui/AppleEvents?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/AppleEvents' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/AppleEvents' alt='License'/>
 *   [Conferences.digital (⭐760)](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zagahr/Conferences.digital/releases/latest'><img src='https://img.shields.io/github/v/release/zagahr/Conferences.digital?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zagahr/Conferences.digital'><img src='https://img.shields.io/github/stars/zagahr/Conferences.digital?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zagahr/Conferences.digital' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zagahr/Conferences.digital' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1844,11 +1743,9 @@
 
     </p>
     </details>
-*   [Datamosh (⭐112)](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.
+*   [Datamosh (⭐113)](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/maelswarm/Datamosh/releases/latest'><img src='https://img.shields.io/github/v/release/maelswarm/Datamosh?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maelswarm/Datamosh'><img src='https://img.shields.io/github/stars/maelswarm/Datamosh?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maelswarm/Datamosh' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maelswarm/Datamosh' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1861,8 +1758,6 @@
 *   [Face Data (⭐82)](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/xiaohk/FaceData/releases/latest'><img src='https://img.shields.io/github/v/release/xiaohk/FaceData?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xiaohk/FaceData'><img src='https://img.shields.io/github/stars/xiaohk/FaceData?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xiaohk/FaceData' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xiaohk/FaceData' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1877,37 +1772,25 @@
 *   [Gifted (⭐25)](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/vdel26/gifted/releases/latest'><img src='https://img.shields.io/github/v/release/vdel26/gifted?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vdel26/gifted'><img src='https://img.shields.io/github/stars/vdel26/gifted?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vdel26/gifted' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vdel26/gifted' alt='License'/>
-*   [GNU Gatekeeper (⭐85)](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals.
+*   [GNU Gatekeeper (⭐89)](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://www.gnugk.org>
-
-    **Badges:** <a href='https://github.com/willamowius/gnugk/releases/latest'><img src='https://img.shields.io/github/v/release/willamowius/gnugk?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/willamowius/gnugk'><img src='https://img.shields.io/github/stars/willamowius/gnugk?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/willamowius/gnugk' alt='Last commit'/>   <img src='https://img.shields.io/github/license/willamowius/gnugk' alt='License'/>
-*   [HandBrake (⭐22k)](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
+*   [HandBrake (⭐24k)](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/HandBrake/HandBrake/releases/latest'><img src='https://img.shields.io/github/v/release/HandBrake/HandBrake?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/HandBrake/HandBrake'><img src='https://img.shields.io/github/stars/HandBrake/HandBrake?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/HandBrake/HandBrake' alt='Last commit'/>   <img src='https://img.shields.io/github/license/HandBrake/HandBrake' alt='License'/>
 *   [MenuTube (⭐126)](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar!
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/edanchenkov/MenuTube/releases/latest'><img src='https://img.shields.io/github/v/release/edanchenkov/MenuTube?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/edanchenkov/MenuTube'><img src='https://img.shields.io/github/stars/edanchenkov/MenuTube?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/edanchenkov/MenuTube' alt='Last commit'/>   <img src='https://img.shields.io/github/license/edanchenkov/MenuTube' alt='License'/>
-*   [OpenShot (⭐5.5k)](https://github.com/OpenShot/openshot-qt) - Easy to use, quick to learn, and surprisingly powerful video editor.
+*   [OpenShot (⭐6.2k)](https://github.com/OpenShot/openshot-qt) - Easy to use, quick to learn, and surprisingly powerful video editor.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/OpenShot/openshot-qt/releases/latest'><img src='https://img.shields.io/github/v/release/OpenShot/openshot-qt?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/OpenShot/openshot-qt'><img src='https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/OpenShot/openshot-qt' alt='Last commit'/>   <img src='https://img.shields.io/github/license/OpenShot/openshot-qt' alt='License'/>
-*   [Quick Caption (⭐79)](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes.
+*   [Quick Caption (⭐78)](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://apps.apple.com/app/quick-caption/id1363610340>
-
-    **Badges:** <a href='https://apps.apple.com/app/quick-caption/id1363610340'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/LumingYin/Caption/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/Caption?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/Caption'><img src='https://img.shields.io/github/stars/LumingYin/Caption?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LumingYin/Caption' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LumingYin/Caption' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1917,11 +1800,9 @@
 
     </p>
     </details>
-*   [QuickLook Video (⭐3.3k)](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+*   [QuickLook Video (⭐3.5k)](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Marginal/QLVideo/releases/latest'><img src='https://img.shields.io/github/v/release/Marginal/QLVideo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Marginal/QLVideo'><img src='https://img.shields.io/github/stars/Marginal/QLVideo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Marginal/QLVideo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Marginal/QLVideo' alt='License'/>
 *   [Subler](https://bitbucket.org/galad87/subler/src) - Subler is an macOS app created to mux and tag mp4 files.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
@@ -1930,20 +1811,14 @@
 *   [Vid Quiz Creator (⭐3)](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/sahil-a/vidquizcreator/releases/latest'><img src='https://img.shields.io/github/v/release/sahil-a/vidquizcreator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sahil-a/vidquizcreator'><img src='https://img.shields.io/github/stars/sahil-a/vidquizcreator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sahil-a/vidquizcreator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sahil-a/vidquizcreator' alt='License'/>
-*   [VLC (⭐18k)](https://github.com/videolan/vlc) -  VLC is a free and open source cross-platform multimedia player
+*   [VLC (⭐19k)](https://github.com/videolan/vlc) -  VLC is a free and open source cross-platform multimedia player
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://www.videolan.org/vlc/>
-
-    **Badges:** <a href='https://github.com/videolan/vlc/releases/latest'><img src='https://img.shields.io/github/v/release/videolan/vlc?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/videolan/vlc'><img src='https://img.shields.io/github/stars/videolan/vlc?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/videolan/vlc' alt='Last commit'/>   <img src='https://img.shields.io/github/license/videolan/vlc' alt='License'/>
 *   [WebTorrent Desktop (⭐10k)](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/webtorrent/webtorrent-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/webtorrent/webtorrent-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/webtorrent/webtorrent-desktop'><img src='https://img.shields.io/github/stars/webtorrent/webtorrent-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/webtorrent/webtorrent-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/webtorrent/webtorrent-desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1957,19 +1832,15 @@
 
     </p>
     </details>
-*   [Yoda (⭐426)](https://github.com/whoisandy/yoda) - Nifty macOS application which enables you to browse and download videos from YouTube.
+*   [Yoda (⭐427)](https://github.com/whoisandy/yoda) - Nifty macOS application which enables you to browse and download videos from YouTube.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/whoisandy/yoda/releases/latest'><img src='https://img.shields.io/github/v/release/whoisandy/yoda?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/whoisandy/yoda'><img src='https://img.shields.io/github/stars/whoisandy/yoda?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/whoisandy/yoda' alt='Last commit'/>   <img src='https://img.shields.io/github/license/whoisandy/yoda' alt='License'/>
+### 🛠️ Utilities (120) / ✏️ Text (14)
 
-### 🛠️ Utilities (112) / ✏️ Text (13)
-
-*   [MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
+*   [MonitorControl (⭐34k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/MonitorControl/MonitorControl/releases/latest'><img src='https://img.shields.io/github/v/release/MonitorControl/MonitorControl?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MonitorControl/MonitorControl'><img src='https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MonitorControl/MonitorControl' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MonitorControl/MonitorControl' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -1979,16 +1850,12 @@
 
     </p>
     </details>
-*   [NoiseBuddy (⭐733)](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
+*   [NoiseBuddy (⭐732)](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/NoiseBuddy/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/NoiseBuddy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/NoiseBuddy'><img src='https://img.shields.io/github/stars/insidegui/NoiseBuddy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/NoiseBuddy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/NoiseBuddy' alt='License'/>
-*   [PlayStatus (⭐170)](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+*   [PlayStatus (⭐188)](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/nbolar/PlayStatus/releases/latest'><img src='https://img.shields.io/github/v/release/nbolar/PlayStatus?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nbolar/PlayStatus'><img src='https://img.shields.io/github/stars/nbolar/PlayStatus?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nbolar/PlayStatus' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nbolar/PlayStatus' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2004,8 +1871,6 @@
 
     **Website:** <https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12>
 
-    **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/>   <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -2018,8 +1883,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/mohakapt/Stringz/releases/latest'><img src='https://img.shields.io/github/v/release/mohakapt/Stringz?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mohakapt/Stringz'><img src='https://img.shields.io/github/stars/mohakapt/Stringz?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mohakapt/Stringz' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mohakapt/Stringz' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -2030,13 +1893,11 @@
 
     </p>
     </details>
-*   [Boop (⭐4.1k)](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
+*   [Boop (⭐4.2k)](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://boop.okat.best>
-
-    **Badges:** <a href='https://github.com/IvanMathy/Boop/releases/latest'><img src='https://img.shields.io/github/v/release/IvanMathy/Boop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/IvanMathy/Boop'><img src='https://img.shields.io/github/stars/IvanMathy/Boop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/IvanMathy/Boop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/IvanMathy/Boop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2046,11 +1907,9 @@
 
     </p>
     </details>
-*   [MQTTX (⭐4.8k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client.
+*   [MQTTX (⭐5k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/emqx/MQTTX/releases/latest'><img src='https://img.shields.io/github/v/release/emqx/MQTTX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/emqx/MQTTX'><img src='https://img.shields.io/github/stars/emqx/MQTTX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/emqx/MQTTX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/emqx/MQTTX' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2062,11 +1921,9 @@
 
     </p>
     </details>
-*   [Middleclick (⭐2.5k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+*   [Middleclick (⭐2.9k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/artginzburg/MiddleClick-Ventura/releases/latest'><img src='https://img.shields.io/github/v/release/artginzburg/MiddleClick-Ventura?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/artginzburg/MiddleClick-Ventura'><img src='https://img.shields.io/github/stars/artginzburg/MiddleClick-Ventura?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/artginzburg/MiddleClick-Ventura' alt='Last commit'/>   <img src='https://img.shields.io/github/license/artginzburg/MiddleClick-Ventura' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2080,8 +1937,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/87kangsw/ThenGenerator/releases/latest'><img src='https://img.shields.io/github/v/release/87kangsw/ThenGenerator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/87kangsw/ThenGenerator'><img src='https://img.shields.io/github/stars/87kangsw/ThenGenerator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/87kangsw/ThenGenerator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/87kangsw/ThenGenerator' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -2090,11 +1945,9 @@
 
     </p>
     </details>
-*   [Ultra TabSaver (⭐286)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
+*   [Ultra TabSaver (⭐292)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Swift-open-source/UltraTabSaver/releases/latest'><img src='https://img.shields.io/github/v/release/Swift-open-source/UltraTabSaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Swift-open-source/UltraTabSaver'><img src='https://img.shields.io/github/stars/Swift-open-source/UltraTabSaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Swift-open-source/UltraTabSaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2104,18 +1957,14 @@
 
     </p>
     </details>
-*   [dupeGuru (⭐7.3k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+*   [dupeGuru (⭐7.8k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://dupeguru.voltaicideas.net/>
-
-    **Badges:** <a href='https://github.com/arsenetar/dupeguru/releases/latest'><img src='https://img.shields.io/github/v/release/arsenetar/dupeguru?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/arsenetar/dupeguru/'><img src='https://img.shields.io/github/stars/arsenetar/dupeguru?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/arsenetar/dupeguru' alt='Last commit'/>   <img src='https://img.shields.io/github/license/arsenetar/dupeguru' alt='License'/>
-*   [Duplicate Finder (⭐158)](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+*   [Duplicate Finder (⭐160)](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/powerwolf543/DuplicateFinder/releases/latest'><img src='https://img.shields.io/github/v/release/powerwolf543/DuplicateFinder?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/powerwolf543/DuplicateFinder'><img src='https://img.shields.io/github/stars/powerwolf543/DuplicateFinder?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/powerwolf543/DuplicateFinder' alt='Last commit'/>   <img src='https://img.shields.io/github/license/powerwolf543/DuplicateFinder' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2125,11 +1974,9 @@
 
     </p>
     </details>
-*   [zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal.
+*   [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Badges:** <a href='https://github.com/ajeetdsouza/zoxide/releases/latest'><img src='https://img.shields.io/github/v/release/ajeetdsouza/zoxide?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ajeetdsouza/zoxide'><img src='https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ajeetdsouza/zoxide' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ajeetdsouza/zoxide' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2139,11 +1986,9 @@
 
     </p>
     </details>
-*   [baRSS – Menu Bar RSS Reader (⭐147)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
+*   [baRSS – Menu Bar RSS Reader (⭐155)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/relikd/barss/releases/latest'><img src='https://img.shields.io/github/v/release/relikd/barss?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/relikd/barss'><img src='https://img.shields.io/github/stars/relikd/barss?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/relikd/barss' alt='Last commit'/>   <img src='https://img.shields.io/github/license/relikd/barss' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2153,11 +1998,9 @@
 
     </p>
     </details>
-*   [eul (⭐9.8k)](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
+*   [eul (⭐9.9k)](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/gao-sun/eul/releases/latest'><img src='https://img.shields.io/github/v/release/gao-sun/eul?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gao-sun/eul'><img src='https://img.shields.io/github/stars/gao-sun/eul?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gao-sun/eul' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gao-sun/eul' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2167,11 +2010,9 @@
 
     </p>
     </details>
-*   [Grayscale Mode (⭐108)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
+*   [Grayscale Mode (⭐110)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/rkbhochalya/grayscale-mode/releases/latest'><img src='https://img.shields.io/github/v/release/rkbhochalya/grayscale-mode?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rkbhochalya/grayscale-mode'><img src='https://img.shields.io/github/stars/rkbhochalya/grayscale-mode?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rkbhochalya/grayscale-mode' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rkbhochalya/grayscale-mode' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2183,11 +2024,9 @@
 
     </p>
     </details>
-*   [MeetingBar (⭐5.1k)](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings
+*   [MeetingBar (⭐5.3k)](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/leits/MeetingBar/releases/latest'><img src='https://img.shields.io/github/v/release/leits/MeetingBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/leits/MeetingBar'><img src='https://img.shields.io/github/stars/leits/MeetingBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/leits/MeetingBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/leits/MeetingBar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2197,11 +2036,9 @@
 
     </p>
     </details>
-*   [Nocturnal (⭐321)](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.
+*   [Nocturnal (⭐319)](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/joshjon/nocturnal/releases/latest'><img src='https://img.shields.io/github/v/release/joshjon/nocturnal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/joshjon/nocturnal'><img src='https://img.shields.io/github/stars/joshjon/nocturnal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/joshjon/nocturnal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/joshjon/nocturnal' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2211,13 +2048,11 @@
 
     </p>
     </details>
-*   [Pika (⭐2.3k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
+*   [Pika (⭐2.5k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code>
 
     **Website:** <https://superhighfives.com/pika>
-
-    **Badges:** <a href='https://github.com/superhighfives/pika/releases/latest'><img src='https://img.shields.io/github/v/release/superhighfives/pika?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/superhighfives/pika'><img src='https://img.shields.io/github/stars/superhighfives/pika?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/superhighfives/pika' alt='Last commit'/>   <img src='https://img.shields.io/github/license/superhighfives/pika' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2227,11 +2062,9 @@
 
     </p>
     </details>
-*   [SlimHUD - Cyanocitta (⭐460)](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
+*   [SlimHUD - Cyanocitta (⭐467)](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/AlexPerathoner/SlimHUD/releases/latest'><img src='https://img.shields.io/github/v/release/AlexPerathoner/SlimHUD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AlexPerathoner/SlimHUD'><img src='https://img.shields.io/github/stars/AlexPerathoner/SlimHUD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AlexPerathoner/SlimHUD' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AlexPerathoner/SlimHUD' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2243,11 +2076,9 @@
 
     </p>
     </details>
-*   [Stats (⭐36k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+*   [Stats (⭐41k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/exelban/stats/releases/latest'><img src='https://img.shields.io/github/v/release/exelban/stats?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/exelban/stats'><img src='https://img.shields.io/github/stars/exelban/stats?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/exelban/stats' alt='Last commit'/>   <img src='https://img.shields.io/github/license/exelban/stats' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2257,13 +2088,11 @@
 
     </p>
     </details>
-*   [Betaflight Configurator (⭐3.1k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
+*   [Betaflight Configurator (⭐3.3k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://betaflight.com/>
-
-    **Badges:** <a href='https://github.com/betaflight/betaflight-configurator/releases/latest'><img src='https://img.shields.io/github/v/release/betaflight/betaflight-configurator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/betaflight/betaflight-configurator'><img src='https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/betaflight/betaflight-configurator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/betaflight/betaflight-configurator' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2273,18 +2102,14 @@
 
     </p>
     </details>
-*   [Calculeta (⭐27)](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar.
+*   [Calculeta (⭐29)](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/varol/Calculeta/releases/latest'><img src='https://img.shields.io/github/v/release/varol/Calculeta?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/varol/Calculeta'><img src='https://img.shields.io/github/stars/varol/Calculeta?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/varol/Calculeta' alt='Last commit'/>   <img src='https://img.shields.io/github/license/varol/Calculeta' alt='License'/>
 *   [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://devutils.com>
-
-    **Badges:** <a href='https://github.com/DevUtilsApp/DevUtils-app/releases/latest'><img src='https://img.shields.io/github/v/release/DevUtilsApp/DevUtils-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/DevUtilsApp/DevUtils-app'><img src='https://img.shields.io/github/stars/DevUtilsApp/DevUtils-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/DevUtilsApp/DevUtils-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/DevUtilsApp/DevUtils-app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2294,23 +2119,17 @@
 
     </p>
     </details>
-*   [far2l (⭐2.1k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2
+*   [far2l (⭐2.2k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/elfmz/far2l/releases/latest'><img src='https://img.shields.io/github/v/release/elfmz/far2l?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/elfmz/far2l'><img src='https://img.shields.io/github/stars/elfmz/far2l?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/elfmz/far2l' alt='Last commit'/>   <img src='https://img.shields.io/github/license/elfmz/far2l' alt='License'/>
-*   [Spotter (⭐743)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.
+*   [Spotter (⭐739)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/spotter-application/spotter/releases/latest'><img src='https://img.shields.io/github/v/release/spotter-application/spotter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/spotter-application/spotter'><img src='https://img.shields.io/github/stars/spotter-application/spotter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/spotter-application/spotter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/spotter-application/spotter' alt='License'/>
-*   [Super Productivity (⭐18k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
+*   [Super Productivity (⭐22k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://super-productivity.com>
-
-    **Badges:** <a href='https://github.com/johannesjo/super-productivity/releases/latest'><img src='https://img.shields.io/github/v/release/johannesjo/super-productivity?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/johannesjo/super-productivity'><img src='https://img.shields.io/github/stars/johannesjo/super-productivity?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/johannesjo/super-productivity' alt='Last commit'/>   <img src='https://img.shields.io/github/license/johannesjo/super-productivity' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2320,11 +2139,9 @@
 
     </p>
     </details>
-*   [macOS GateKeeper Helper (⭐264)](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+*   [macOS GateKeeper Helper (⭐270)](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
     **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
-
-    **Badges:** <a href='https://github.com/wynioux/macOS-GateKeeper-Helper/releases/latest'><img src='https://img.shields.io/github/v/release/wynioux/macOS-GateKeeper-Helper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wynioux/macOS-GateKeeper-Helper'><img src='https://img.shields.io/github/stars/wynioux/macOS-GateKeeper-Helper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wynioux/macOS-GateKeeper-Helper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wynioux/macOS-GateKeeper-Helper' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2337,8 +2154,6 @@
 *   [Android tool for Mac (⭐5.4k)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mortenjust/androidtool-mac/releases/latest'><img src='https://img.shields.io/github/v/release/mortenjust/androidtool-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mortenjust/androidtool-mac'><img src='https://img.shields.io/github/stars/mortenjust/androidtool-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mortenjust/androidtool-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mortenjust/androidtool-mac' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2354,30 +2169,22 @@
 
     </p>
     </details>
-*   [ArchiveMounter (⭐133)](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
+*   [ArchiveMounter (⭐132)](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ivoronin/ArchiveMounter/releases/latest'><img src='https://img.shields.io/github/v/release/ivoronin/ArchiveMounter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ivoronin/ArchiveMounter'><img src='https://img.shields.io/github/stars/ivoronin/ArchiveMounter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ivoronin/ArchiveMounter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ivoronin/ArchiveMounter' alt='License'/>
-*   [Balena Etcher (⭐33k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+*   [Balena Etcher (⭐34k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://www.balena.io/etcher>
-
-    **Badges:** <a href='https://github.com/balena-io/etcher/releases/latest'><img src='https://img.shields.io/github/v/release/balena-io/etcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/balena-io/etcher'><img src='https://img.shields.io/github/stars/balena-io/etcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/balena-io/etcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/balena-io/etcher' alt='License'/>
 *   [BeardedSpice (⭐2.8k)](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/beardedspice/beardedspice/releases/latest'><img src='https://img.shields.io/github/v/release/beardedspice/beardedspice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/beardedspice/beardedspice'><img src='https://img.shields.io/github/stars/beardedspice/beardedspice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/beardedspice/beardedspice' alt='Last commit'/>   <img src='https://img.shields.io/github/license/beardedspice/beardedspice' alt='License'/>
 *   [Bitwarden (⭐3.5k)](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://bitwarden.com/>
-
-    **Badges:** <a href='https://github.com/bitwarden/desktop/releases/latest'><img src='https://img.shields.io/github/v/release/bitwarden/desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitwarden/desktop'><img src='https://img.shields.io/github/stars/bitwarden/desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bitwarden/desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bitwarden/desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2391,11 +2198,9 @@
 
     </p>
     </details>
-*   [Bitwarden Menu (⭐65)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar
+*   [Bitwarden Menu (⭐64)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/jnsdrtlf/bitwarden-menubar/releases/latest'><img src='https://img.shields.io/github/v/release/jnsdrtlf/bitwarden-menubar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jnsdrtlf/bitwarden-menubar'><img src='https://img.shields.io/github/stars/jnsdrtlf/bitwarden-menubar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jnsdrtlf/bitwarden-menubar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jnsdrtlf/bitwarden-menubar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2409,8 +2214,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/buttercup/buttercup-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/buttercup/buttercup-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/buttercup/buttercup-desktop'><img src='https://img.shields.io/github/stars/buttercup/buttercup-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/buttercup/buttercup-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/buttercup/buttercup-desktop' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -2419,25 +2222,19 @@
 
     </p>
     </details>
-*   [calibre (⭐24k)](https://github.com/kovidgoyal/calibre) - cross platform e-book manager.
+*   [calibre (⭐26k)](https://github.com/kovidgoyal/calibre) - cross platform e-book manager.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://calibre-ebook.com>
-
-    **Badges:** <a href='https://github.com/kovidgoyal/calibre/releases/latest'><img src='https://img.shields.io/github/v/release/kovidgoyal/calibre?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kovidgoyal/calibre'><img src='https://img.shields.io/github/stars/kovidgoyal/calibre?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kovidgoyal/calibre' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kovidgoyal/calibre' alt='License'/>
-*   [Catch (⭐436)](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
+*   [Catch (⭐435)](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mipstian/catch/releases/latest'><img src='https://img.shields.io/github/v/release/mipstian/catch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mipstian/catch/'><img src='https://img.shields.io/github/stars/mipstian/catch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mipstian/catch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mipstian/catch' alt='License'/>
 *   [Clear Clipboard Text Format (⭐10)](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://apps.apple.com/app/clear-clipboard-text-format/id1322855232>
-
-    **Badges:** <a href='https://apps.apple.com/app/clear-clipboard-text-format/id1322855232'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/LumingYin/ClipboardClear/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/ClipboardClear?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/ClipboardClear'><img src='https://img.shields.io/github/stars/LumingYin/ClipboardClear?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LumingYin/ClipboardClear' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LumingYin/ClipboardClear' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2447,11 +2244,9 @@
 
     </p>
     </details>
-*   [CoreLocationCLI (⭐263)](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
+*   [CoreLocationCLI (⭐269)](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/fulldecent/corelocationcli/releases/latest'><img src='https://img.shields.io/github/v/release/fulldecent/corelocationcli?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fulldecent/corelocationcli'><img src='https://img.shields.io/github/stars/fulldecent/corelocationcli?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fulldecent/corelocationcli' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fulldecent/corelocationcli' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2461,11 +2256,9 @@
 
     </p>
     </details>
-*   [CornerCal (⭐240)](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.
+*   [CornerCal (⭐237)](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ekreutz/CornerCal/releases/latest'><img src='https://img.shields.io/github/v/release/ekreutz/CornerCal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ekreutz/CornerCal'><img src='https://img.shields.io/github/stars/ekreutz/CornerCal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ekreutz/CornerCal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ekreutz/CornerCal' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2475,11 +2268,9 @@
 
     </p>
     </details>
-*   [Crypter (⭐465)](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
+*   [Crypter (⭐466)](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/HR/Crypter/releases/latest'><img src='https://img.shields.io/github/v/release/HR/Crypter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/HR/Crypter'><img src='https://img.shields.io/github/stars/HR/Crypter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/HR/Crypter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/HR/Crypter' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2495,18 +2286,14 @@
 
     </p>
     </details>
-*   [ECheck (⭐8)](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.
+*   [ECheck (⭐9)](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/josejuanqm/ECheck/releases/latest'><img src='https://img.shields.io/github/v/release/josejuanqm/ECheck?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/josejuanqm/ECheck'><img src='https://img.shields.io/github/stars/josejuanqm/ECheck?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/josejuanqm/ECheck' alt='Last commit'/>   <img src='https://img.shields.io/github/license/josejuanqm/ECheck' alt='License'/>
-*   [Flying Carpet (⭐5k)](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
+*   [Flying Carpet (⭐5.3k)](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
     **Website:** <https://adequate.systems/>
-
-    **Badges:** <a href='https://github.com/spieglt/flyingcarpet/releases/latest'><img src='https://img.shields.io/github/v/release/spieglt/flyingcarpet?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/spieglt/flyingcarpet'><img src='https://img.shields.io/github/stars/spieglt/flyingcarpet?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/spieglt/flyingcarpet' alt='Last commit'/>   <img src='https://img.shields.io/github/license/spieglt/flyingcarpet' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2516,28 +2303,20 @@
 
     </p>
     </details>
-*   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax.
+*   [fselect (⭐4.5k)](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Badges:** <a href='https://github.com/jhspetersson/fselect/releases/latest'><img src='https://img.shields.io/github/v/release/jhspetersson/fselect?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jhspetersson/fselect'><img src='https://img.shields.io/github/stars/jhspetersson/fselect?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jhspetersson/fselect' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jhspetersson/fselect' alt='License'/>
 *   [Funky (⭐22)](https://github.com/thecatalinstan/Funky) - Easily toggle the function key on your Mac on a per app basis.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/thecatalinstan/Funky/releases/latest'><img src='https://img.shields.io/github/v/release/thecatalinstan/Funky?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/thecatalinstan/Funky'><img src='https://img.shields.io/github/stars/thecatalinstan/Funky?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/thecatalinstan/Funky' alt='Last commit'/>   <img src='https://img.shields.io/github/license/thecatalinstan/Funky' alt='License'/>
 *   [Gray (⭐1.4k)](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zenangst/Gray/releases/latest'><img src='https://img.shields.io/github/v/release/zenangst/Gray?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zenangst/Gray'><img src='https://img.shields.io/github/stars/zenangst/Gray?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zenangst/Gray' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zenangst/Gray' alt='License'/>
 *   [homebrew-cask (⭐22k)](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
 
     **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
 
     **Website:** <https://brew.sh/>
-
-    **Badges:** <a href='https://github.com/Homebrew/homebrew-cask/releases/latest'><img src='https://img.shields.io/github/v/release/Homebrew/homebrew-cask?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Homebrew/homebrew-cask'><img src='https://img.shields.io/github/stars/Homebrew/homebrew-cask?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Homebrew/homebrew-cask' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Homebrew/homebrew-cask' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2550,8 +2329,6 @@
 *   [iOScanX (⭐36)](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/alessiomaffeis/iOScanX/releases/latest'><img src='https://img.shields.io/github/v/release/alessiomaffeis/iOScanX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alessiomaffeis/iOScanX'><img src='https://img.shields.io/github/stars/alessiomaffeis/iOScanX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alessiomaffeis/iOScanX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alessiomaffeis/iOScanX' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2566,25 +2343,17 @@
 *   [Kap (⭐19k)](https://github.com/wulkano/kap) - Screen recorder application built with web technology.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/wulkano/kap/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/kap?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wulkano/kap'><img src='https://img.shields.io/github/stars/wulkano/kap?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wulkano/kap' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wulkano/kap' alt='License'/>
-*   [KeePassXC (⭐26k)](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
+*   [KeePassXC (⭐29k)](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/keepassxreboot/keepassxc/releases/latest'><img src='https://img.shields.io/github/v/release/keepassxreboot/keepassxc?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/keepassxreboot/keepassxc'><img src='https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/keepassxreboot/keepassxc' alt='Last commit'/>   <img src='https://img.shields.io/github/license/keepassxreboot/keepassxc' alt='License'/>
 *   [KeeWeb (⭐13k)](https://github.com/keeweb/keeweb) - Cross-platform password manager compatible with KeePass.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/keeweb/keeweb/releases/latest'><img src='https://img.shields.io/github/v/release/keeweb/keeweb?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/keeweb/keeweb'><img src='https://img.shields.io/github/stars/keeweb/keeweb?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/keeweb/keeweb' alt='Last commit'/>   <img src='https://img.shields.io/github/license/keeweb/keeweb' alt='License'/>
-*   [Keka (⭐6.4k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be.
+*   [Keka (⭐7.2k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://www.keka.io/en/>
-
-    **Badges:** <a href='https://github.com/aonez/Keka/releases/latest'><img src='https://img.shields.io/github/v/release/aonez/Keka?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/aonez/Keka'><img src='https://img.shields.io/github/stars/aonez/Keka?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/aonez/Keka' alt='Last commit'/>   <img src='https://img.shields.io/github/license/aonez/Keka' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2594,21 +2363,15 @@
 
     </p>
     </details>
-*   [Kyapchar (⭐71)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS.
+*   [Kyapchar (⭐70)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/vishaltelangre/Kyapchar/releases/latest'><img src='https://img.shields.io/github/v/release/vishaltelangre/Kyapchar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vishaltelangre/Kyapchar'><img src='https://img.shields.io/github/stars/vishaltelangre/Kyapchar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vishaltelangre/Kyapchar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vishaltelangre/Kyapchar' alt='License'/>
-*   [Lunar (⭐5.4k)](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays.
+*   [Lunar (⭐5.7k)](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/alin23/lunar/releases/latest'><img src='https://img.shields.io/github/v/release/alin23/lunar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alin23/lunar'><img src='https://img.shields.io/github/stars/alin23/lunar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alin23/lunar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alin23/lunar' alt='License'/>
 *   [mac-sound-fix (⭐27)](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/dragstor/mac-sound-fix/releases/latest'><img src='https://img.shields.io/github/v/release/dragstor/mac-sound-fix?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dragstor/mac-sound-fix'><img src='https://img.shields.io/github/stars/dragstor/mac-sound-fix?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dragstor/mac-sound-fix' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dragstor/mac-sound-fix' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2618,13 +2381,11 @@
 
     </p>
     </details>
-*   [MacPacker (⭐378)](https://github.com/sarensw/MacPacker/) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
+*   [MacPacker (⭐593)](https://github.com/sarensw/MacPacker/) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://macpacker.app/>
-
-    **Badges:** <a href='https://github.com/sarensw/MacPacker/releases/latest'><img src='https://img.shields.io/github/v/release/sarensw/MacPacker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sarensw/MacPacker/'><img src='https://img.shields.io/github/stars/sarensw/MacPacker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sarensw/MacPacker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sarensw/MacPacker' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2634,11 +2395,9 @@
 
     </p>
     </details>
-*   [MacPass (⭐6.8k)](https://github.com/MacPass/MacPass) - Native macOS KeePass client.
+*   [MacPass (⭐6.9k)](https://github.com/MacPass/MacPass) - Native macOS KeePass client.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/MacPass/MacPass/releases/latest'><img src='https://img.shields.io/github/v/release/MacPass/MacPass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MacPass/MacPass'><img src='https://img.shields.io/github/stars/MacPass/MacPass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MacPass/MacPass' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MacPass/MacPass' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2648,21 +2407,15 @@
 
     </p>
     </details>
-*   [Maria (⭐636)](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.
+*   [Maria (⭐637)](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/shincurry/Maria/releases/latest'><img src='https://img.shields.io/github/v/release/shincurry/Maria?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shincurry/Maria'><img src='https://img.shields.io/github/stars/shincurry/Maria?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shincurry/Maria' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shincurry/Maria' alt='License'/>
 *   [Meme Maker (⭐73)](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker macOS application for meme creation.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/MemeMaker/Meme-Maker-Mac/releases/latest'><img src='https://img.shields.io/github/v/release/MemeMaker/Meme-Maker-Mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MemeMaker/Meme-Maker-Mac'><img src='https://img.shields.io/github/stars/MemeMaker/Meme-Maker-Mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MemeMaker/Meme-Maker-Mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MemeMaker/Meme-Maker-Mac' alt='License'/>
 *   [Monolingual (⭐564)](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/IngmarStein/Monolingual/releases/latest'><img src='https://img.shields.io/github/v/release/IngmarStein/Monolingual?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/IngmarStein/Monolingual'><img src='https://img.shields.io/github/stars/IngmarStein/Monolingual?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/IngmarStein/Monolingual' alt='Last commit'/>   <img src='https://img.shields.io/github/license/IngmarStein/Monolingual' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2672,52 +2425,36 @@
 
     </p>
     </details>
-*   [Mos (⭐19k)](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction
+*   [Mos (⭐21k)](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Caldis/Mos/releases/latest'><img src='https://img.shields.io/github/v/release/Caldis/Mos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Caldis/Mos'><img src='https://img.shields.io/github/stars/Caldis/Mos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Caldis/Mos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Caldis/Mos' alt='License'/>
-*   [nix-package-manager (⭐16k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
+*   [nix-package-manager (⭐18k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
 
     **Languages:** <code>c++</code> <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>nix</code>
 
     **Website:** <https://nixos.org/explore.html>
-
-    **Badges:** <a href='https://github.com/NixOS/nix/releases/latest'><img src='https://img.shields.io/github/v/release/NixOS/nix?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/NixOS/nix'><img src='https://img.shields.io/github/stars/NixOS/nix?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/NixOS/nix' alt='Last commit'/>   <img src='https://img.shields.io/github/license/NixOS/nix' alt='License'/>
-*   [Nmap (⭐12k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.
+*   [Nmap (⭐13k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://nmap.org>
-
-    **Badges:** <a href='https://github.com/nmap/nmap/releases/latest'><img src='https://img.shields.io/github/v/release/nmap/nmap?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nmap/nmap'><img src='https://img.shields.io/github/stars/nmap/nmap?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nmap/nmap' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nmap/nmap' alt='License'/>
-*   [Noti (⭐913)](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).
+*   [Noti (⭐911)](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/jariz/Noti/releases/latest'><img src='https://img.shields.io/github/v/release/jariz/Noti?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jariz/Noti/'><img src='https://img.shields.io/github/stars/jariz/Noti?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jariz/Noti' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jariz/Noti' alt='License'/>
-*   [NVM (⭐92k)](https://github.com/nvm-sh/nvm) - Node Version Manager.
+*   [NVM (⭐95k)](https://github.com/nvm-sh/nvm) - Node Version Manager.
 
     **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
-
-    **Badges:** <a href='https://github.com/nvm-sh/nvm/releases/latest'><img src='https://img.shields.io/github/v/release/nvm-sh/nvm?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nvm-sh/nvm'><img src='https://img.shields.io/github/stars/nvm-sh/nvm?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nvm-sh/nvm' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nvm-sh/nvm' alt='License'/>
-*   [OpenRocket (⭐1.7k)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
+*   [OpenRocket (⭐3.1k)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://openrocket.info/>
-
-    **Badges:** <a href='https://github.com/openrocket/openrocket/releases/latest'><img src='https://img.shields.io/github/v/release/openrocket/openrocket?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/openrocket/openrocket'><img src='https://img.shields.io/github/stars/openrocket/openrocket?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/openrocket/openrocket' alt='Last commit'/>   <img src='https://img.shields.io/github/license/openrocket/openrocket' alt='License'/>
 *   [Padlock (⭐2.9k)](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/padloc/padloc/releases/latest'><img src='https://img.shields.io/github/v/release/padloc/padloc?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/padloc/padloc'><img src='https://img.shields.io/github/stars/padloc/padloc?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/padloc/padloc' alt='Last commit'/>   <img src='https://img.shields.io/github/license/padloc/padloc' alt='License'/>
-*   [PB for Desktop (⭐518)](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.
+*   [PB for Desktop (⭐516)](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/sidneys/pb-for-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/sidneys/pb-for-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sidneys/pb-for-desktop'><img src='https://img.shields.io/github/stars/sidneys/pb-for-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sidneys/pb-for-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sidneys/pb-for-desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2733,16 +2470,12 @@
 
     </p>
     </details>
-*   [PercentCalculator (⭐29)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.
+*   [PercentCalculator (⭐30)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/cemolcay/PercentCalculator/releases/latest'><img src='https://img.shields.io/github/v/release/cemolcay/PercentCalculator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cemolcay/PercentCalculator'><img src='https://img.shields.io/github/stars/cemolcay/PercentCalculator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cemolcay/PercentCalculator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cemolcay/PercentCalculator' alt='License'/>
-*   [Plain Pasta (⭐86)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard
+*   [Plain Pasta (⭐88)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/hisaac/PlainPasta/releases/latest'><img src='https://img.shields.io/github/v/release/hisaac/PlainPasta?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hisaac/PlainPasta'><img src='https://img.shields.io/github/stars/hisaac/PlainPasta?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hisaac/PlainPasta' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hisaac/PlainPasta' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2754,18 +2487,14 @@
 
     </p>
     </details>
-*   [PowerShell (⭐51k)](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
+*   [PowerShell (⭐55k)](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
 
     **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
-
-    **Badges:** <a href='https://github.com/powershell/powershell/releases/latest'><img src='https://img.shields.io/github/v/release/powershell/powershell?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/powershell/powershell'><img src='https://img.shields.io/github/stars/powershell/powershell?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/powershell/powershell' alt='Last commit'/>   <img src='https://img.shields.io/github/license/powershell/powershell' alt='License'/>
-*   [Rugby (⭐716)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐717)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://swiftyfinch.github.io/en/2021-03-09-rugby-story/>
-
-    **Badges:** <a href='https://github.com/swiftyfinch/Rugby/releases/latest'><img src='https://img.shields.io/github/v/release/swiftyfinch/Rugby?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/swiftyfinch/Rugby'><img src='https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/swiftyfinch/Rugby' alt='Last commit'/>   <img src='https://img.shields.io/github/license/swiftyfinch/Rugby' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2778,35 +2507,23 @@
 *   [ScreenCat (⭐3k)](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/maxogden/screencat/releases/latest'><img src='https://img.shields.io/github/v/release/maxogden/screencat?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maxogden/screencat'><img src='https://img.shields.io/github/stars/maxogden/screencat?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maxogden/screencat' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maxogden/screencat' alt='License'/>
 *   [SlowQuitApps (⭐1.2k)](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/dteoh/SlowQuitApps/releases/latest'><img src='https://img.shields.io/github/v/release/dteoh/SlowQuitApps?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dteoh/SlowQuitApps'><img src='https://img.shields.io/github/stars/dteoh/SlowQuitApps?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dteoh/SlowQuitApps' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dteoh/SlowQuitApps' alt='License'/>
-*   [Telephone (⭐1.1k)](https://github.com/64characters/Telephone) - SIP softphone for macOS.
+*   [Telephone (⭐1.2k)](https://github.com/64characters/Telephone) - SIP softphone for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/64characters/Telephone/releases/latest'><img src='https://img.shields.io/github/v/release/64characters/Telephone?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/64characters/Telephone'><img src='https://img.shields.io/github/stars/64characters/Telephone?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/64characters/Telephone' alt='Last commit'/>   <img src='https://img.shields.io/github/license/64characters/Telephone' alt='License'/>
 *   [The Blockstack Browser (⭐1.1k)](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/stacks-network/blockstack-browser/releases/latest'><img src='https://img.shields.io/github/v/release/stacks-network/blockstack-browser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/stacks-network/blockstack-browser'><img src='https://img.shields.io/github/stars/stacks-network/blockstack-browser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/stacks-network/blockstack-browser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/stacks-network/blockstack-browser' alt='License'/>
-*   [ToTheTop (⭐39)](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.
+*   [ToTheTop (⭐38)](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zenangst/ToTheTop/releases/latest'><img src='https://img.shields.io/github/v/release/zenangst/ToTheTop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zenangst/ToTheTop'><img src='https://img.shields.io/github/stars/zenangst/ToTheTop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zenangst/ToTheTop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zenangst/ToTheTop' alt='License'/>
 *   [wechsel (⭐79)](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://wechsel.weise.io>
-
-    **Badges:** <a href='https://github.com/friedrichweise/wechsel/releases/latest'><img src='https://img.shields.io/github/v/release/friedrichweise/wechsel?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/friedrichweise/wechsel'><img src='https://img.shields.io/github/stars/friedrichweise/wechsel?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/friedrichweise/wechsel' alt='Last commit'/>   <img src='https://img.shields.io/github/license/friedrichweise/wechsel' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2816,28 +2533,22 @@
 
     </p>
     </details>
-*   [Wireshark (⭐9k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
+*   [Wireshark (⭐9.8k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://www.wireshark.org>
-
-    **Badges:** <a href='https://github.com/wireshark/wireshark/releases/latest'><img src='https://img.shields.io/github/v/release/wireshark/wireshark?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wireshark/wireshark'><img src='https://img.shields.io/github/stars/wireshark/wireshark?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wireshark/wireshark' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wireshark/wireshark' alt='License'/>
-*   [Übersicht (⭐4.9k)](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
+*   [Übersicht (⭐5k)](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/felixhageloh/uebersicht/releases/latest'><img src='https://img.shields.io/github/v/release/felixhageloh/uebersicht?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/felixhageloh/uebersicht'><img src='https://img.shields.io/github/stars/felixhageloh/uebersicht?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/felixhageloh/uebersicht' alt='Last commit'/>   <img src='https://img.shields.io/github/license/felixhageloh/uebersicht' alt='License'/>
-
-### 📡 Streaming (3) / ✏️ Text (13)
+### 📡 Streaming (3) / ✏️ Text (14)
 
 *   [Plug (⭐226)](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://www.plugformac.com/>
-
-    **Badges:** <a href='https://github.com/wulkano/Plug/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/Plug?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wulkano/Plug'><img src='https://img.shields.io/github/stars/wulkano/Plug?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wulkano/Plug' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wulkano/Plug' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2847,18 +2558,14 @@
 
     </p>
     </details>
-*   [Galeri (⭐42)](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.
+*   [Galeri (⭐43)](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/michealparks/galeri/releases/latest'><img src='https://img.shields.io/github/v/release/michealparks/galeri?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/michealparks/galeri'><img src='https://img.shields.io/github/stars/michealparks/galeri?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/michealparks/galeri' alt='Last commit'/>   <img src='https://img.shields.io/github/license/michealparks/galeri' alt='License'/>
-*   [OBS Studio (⭐70k)](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
+*   [OBS Studio (⭐75k)](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://obsproject.com/>
-
-    **Badges:** <a href='https://github.com/obsproject/obs-studio/releases/latest'><img src='https://img.shields.io/github/v/release/obsproject/obs-studio?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/obsproject/obs-studio'><img src='https://img.shields.io/github/stars/obsproject/obs-studio?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/obsproject/obs-studio' alt='Last commit'/>   <img src='https://img.shields.io/github/license/obsproject/obs-studio' alt='License'/>
 
 ### 💾 Backup (6)
 
@@ -2870,13 +2577,9 @@
 *   [Mackup (⭐15k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/lra/mackup/releases/latest'><img src='https://img.shields.io/github/v/release/lra/mackup?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lra/mackup'><img src='https://img.shields.io/github/stars/lra/mackup?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lra/mackup' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lra/mackup' alt='License'/>
 *   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/alichtman/shallow-backup/releases/latest'><img src='https://img.shields.io/github/v/release/alichtman/shallow-backup?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alichtman/shallow-backup'><img src='https://img.shields.io/github/stars/alichtman/shallow-backup?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alichtman/shallow-backup' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alichtman/shallow-backup' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2886,24 +2589,18 @@
 
     </p>
     </details>
-*   [Syncalicious (⭐435)](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.
+*   [Syncalicious (⭐444)](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zenangst/Syncalicious/releases/latest'><img src='https://img.shields.io/github/v/release/zenangst/Syncalicious?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zenangst/Syncalicious'><img src='https://img.shields.io/github/stars/zenangst/Syncalicious?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zenangst/Syncalicious' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zenangst/Syncalicious' alt='License'/>
-*   [UrBackup (⭐829)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
+*   [UrBackup (⭐899)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-    **Badges:** <a href='https://github.com/uroni/urbackup_backend/releases/latest'><img src='https://img.shields.io/github/v/release/uroni/urbackup_backend?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/uroni/urbackup_backend'><img src='https://img.shields.io/github/stars/uroni/urbackup_backend?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/uroni/urbackup_backend' alt='Last commit'/>   <img src='https://img.shields.io/github/license/uroni/urbackup_backend' alt='License'/>
-
 ### 🌐 Browser (13)
 
-*   [Beaker Browser (⭐6.8k)](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.
+*   [Beaker Browser (⭐6.7k)](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/beakerbrowser/beaker/releases/latest'><img src='https://img.shields.io/github/v/release/beakerbrowser/beaker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/beakerbrowser/beaker'><img src='https://img.shields.io/github/stars/beakerbrowser/beaker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/beakerbrowser/beaker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/beakerbrowser/beaker' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2915,48 +2612,36 @@
 
     </p>
     </details>
-*   [Brave Browser (⭐21k)](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
+*   [Brave Browser (⭐23k)](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/brave/brave-browser/releases/latest'><img src='https://img.shields.io/github/v/release/brave/brave-browser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/brave/brave-browser'><img src='https://img.shields.io/github/stars/brave/brave-browser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/brave/brave-browser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/brave/brave-browser' alt='License'/>
 *   [browserosaurus (⭐2k)](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/will-stone/browserosaurus/releases/latest'><img src='https://img.shields.io/github/v/release/will-stone/browserosaurus?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/will-stone/browserosaurus'><img src='https://img.shields.io/github/stars/will-stone/browserosaurus?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/will-stone/browserosaurus' alt='Last commit'/>   <img src='https://img.shields.io/github/license/will-stone/browserosaurus' alt='License'/>
 *   [Chromium](https://chromium.googlesource.com/chromium/src/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://www.chromium.org/>
-*   [Finicky (⭐4.6k)](https://github.com/johnste/finicky) - Always opens the right browser.
+*   [Finicky (⭐5k)](https://github.com/johnste/finicky) - Always opens the right browser.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/johnste/finicky/releases/latest'><img src='https://img.shields.io/github/v/release/johnste/finicky?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/johnste/finicky'><img src='https://img.shields.io/github/stars/johnste/finicky?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/johnste/finicky' alt='Last commit'/>   <img src='https://img.shields.io/github/license/johnste/finicky' alt='License'/>
 *   [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://www.mozilla.org/en-US/firefox/browsers/>
-*   [Helium (⭐3.7k)](https://github.com/JadenGeller/Helium) - Floating browser window for macOS.
+*   [Helium (⭐3.6k)](https://github.com/JadenGeller/Helium) - Floating browser window for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/JadenGeller/Helium/releases/latest'><img src='https://img.shields.io/github/v/release/JadenGeller/Helium?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/JadenGeller/Helium'><img src='https://img.shields.io/github/stars/JadenGeller/Helium?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/JadenGeller/Helium' alt='Last commit'/>   <img src='https://img.shields.io/github/license/JadenGeller/Helium' alt='License'/>
-*   [Min Browser (⭐8.8k)](https://github.com/minbrowser/min) - A fast and efficient minimal web browser.
+*   [Min Browser (⭐9.2k)](https://github.com/minbrowser/min) - A fast and efficient minimal web browser.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://minbrowser.org>
-
-    **Badges:** <a href='https://github.com/minbrowser/min/releases/latest'><img src='https://img.shields.io/github/v/release/minbrowser/min?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/minbrowser/min'><img src='https://img.shields.io/github/stars/minbrowser/min?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/minbrowser/min' alt='Last commit'/>   <img src='https://img.shields.io/github/license/minbrowser/min' alt='License'/>
 *   [otter-browser (⭐2k)](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/OtterBrowser/otter-browser/releases/latest'><img src='https://img.shields.io/github/v/release/OtterBrowser/otter-browser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/OtterBrowser/otter-browser'><img src='https://img.shields.io/github/stars/OtterBrowser/otter-browser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/OtterBrowser/otter-browser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/OtterBrowser/otter-browser' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2966,19 +2651,15 @@
 
     </p>
     </details>
-*   [seb-mac (⭐122)](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.
+*   [seb-mac (⭐132)](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-    **Badges:** <a href='https://github.com/SafeExamBrowser/seb-mac/releases/latest'><img src='https://img.shields.io/github/v/release/SafeExamBrowser/seb-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SafeExamBrowser/seb-mac'><img src='https://img.shields.io/github/stars/SafeExamBrowser/seb-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SafeExamBrowser/seb-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SafeExamBrowser/seb-mac' alt='License'/>
-
-### ⏱️ Productivity (78) / ✏️ Text (13)
+### ⏱️ Productivity (80) / ✏️ Text (14)
 
 *   [Pennywise (⭐3.9k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/kamranahmedse/pennywise/releases/latest'><img src='https://img.shields.io/github/v/release/kamranahmedse/pennywise?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kamranahmedse/pennywise'><img src='https://img.shields.io/github/stars/kamranahmedse/pennywise?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kamranahmedse/pennywise' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kamranahmedse/pennywise' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -2994,11 +2675,9 @@
 
     </p>
     </details>
-*   [reventlou (⭐94)](https://github.com/b3z/reventlou) - Personal database as an information management system.
+*   [reventlou (⭐97)](https://github.com/b3z/reventlou) - Personal database as an information management system.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/b3z/reventlou/releases/latest'><img src='https://img.shields.io/github/v/release/b3z/reventlou?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/b3z/reventlou'><img src='https://img.shields.io/github/stars/b3z/reventlou?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/b3z/reventlou' alt='Last commit'/>   <img src='https://img.shields.io/github/license/b3z/reventlou' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3008,13 +2687,11 @@
 
     </p>
     </details>
-*   [sqlectron (⭐4.7k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support.
+*   [sqlectron (⭐4.8k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://sqlectron.github.io/>
-
-    **Badges:** <a href='https://github.com/sqlectron/sqlectron-gui/releases/latest'><img src='https://img.shields.io/github/v/release/sqlectron/sqlectron-gui?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sqlectron/sqlectron-gui'><img src='https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sqlectron/sqlectron-gui' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sqlectron/sqlectron-gui' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3024,13 +2701,11 @@
 
     </p>
     </details>
-*   [linked (⭐979)](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.
+*   [linked (⭐1k)](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
     **Website:** <https://uselinked.com>
-
-    **Badges:** <a href='https://github.com/lostdesign/linked/releases/latest'><img src='https://img.shields.io/github/v/release/lostdesign/linked?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lostdesign/linked'><img src='https://img.shields.io/github/stars/lostdesign/linked?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lostdesign/linked' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lostdesign/linked' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3042,13 +2717,11 @@
 
     </p>
     </details>
-*   [QOwnNotes (⭐5.6k)](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+*   [QOwnNotes (⭐5.9k)](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://www.qownnotes.org/>
-
-    **Badges:** <a href='https://github.com/pbek/QOwnNotes/releases/latest'><img src='https://img.shields.io/github/v/release/pbek/QOwnNotes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pbek/QOwnNotes'><img src='https://img.shields.io/github/stars/pbek/QOwnNotes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pbek/QOwnNotes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pbek/QOwnNotes' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3062,8 +2735,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/AlexPerathoner/Sessions/releases/latest'><img src='https://img.shields.io/github/v/release/AlexPerathoner/Sessions?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AlexPerathoner/Sessions'><img src='https://img.shields.io/github/stars/AlexPerathoner/Sessions?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AlexPerathoner/Sessions' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AlexPerathoner/Sessions' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3072,13 +2743,11 @@
 
     </p>
     </details>
-*   [Itsycal (⭐3.8k)](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
+*   [Itsycal (⭐4k)](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://www.mowglii.com/itsycal/>
-
-    **Badges:** <a href='https://github.com/sfsam/Itsycal/releases/latest'><img src='https://img.shields.io/github/v/release/sfsam/Itsycal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sfsam/Itsycal'><img src='https://img.shields.io/github/stars/sfsam/Itsycal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sfsam/Itsycal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sfsam/Itsycal' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3088,13 +2757,11 @@
 
     </p>
     </details>
-*   [TimeScribe (⭐734)](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
+*   [TimeScribe (⭐887)](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
     **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://timescribe.app>
-
-    **Badges:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/WINBIGFOX/timescribe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3113,18 +2780,12 @@
 *   [Ao (⭐2.2k)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/klaudiosinani/ao' alt='Last commit'/>   <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
-*   [Cerebro (⭐8.5k)](https://github.com/cerebroapp/cerebro) - Cross-platform launcher app.
+*   [Cerebro (⭐8.6k)](https://github.com/cerebroapp/cerebro) - Cross-platform launcher app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/cerebroapp/cerebro/releases/latest'><img src='https://img.shields.io/github/v/release/cerebroapp/cerebro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cerebroapp/cerebro'><img src='https://img.shields.io/github/stars/cerebroapp/cerebro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cerebroapp/cerebro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cerebroapp/cerebro' alt='License'/>
-*   [ClipMenu (⭐928)](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS.
+*   [ClipMenu (⭐932)](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/naotaka/ClipMenu/releases/latest'><img src='https://img.shields.io/github/v/release/naotaka/ClipMenu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/naotaka/ClipMenu'><img src='https://img.shields.io/github/stars/naotaka/ClipMenu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/naotaka/ClipMenu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/naotaka/ClipMenu' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3134,18 +2795,14 @@
 
     </p>
     </details>
-*   [Clocker (⭐599)](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.
+*   [Clocker (⭐617)](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/n0shake/Clocker/releases/latest'><img src='https://img.shields.io/github/v/release/n0shake/Clocker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/n0shake/Clocker'><img src='https://img.shields.io/github/stars/n0shake/Clocker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/n0shake/Clocker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/n0shake/Clocker' alt='License'/>
 *   [Condution (⭐523)](https://github.com/Shabang-Systems/Condution) - Create tasks, manage due dates, and filter with powerful perspectives.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.condution.com>
-
-    **Badges:** <a href='https://github.com/Shabang-Systems/Condution/releases/latest'><img src='https://img.shields.io/github/v/release/Shabang-Systems/Condution?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Shabang-Systems/Condution'><img src='https://img.shields.io/github/stars/Shabang-Systems/Condution?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Shabang-Systems/Condution' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Shabang-Systems/Condution' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3158,13 +2815,9 @@
 *   [ControlPlane (⭐1.8k)](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/dustinrue/ControlPlane/releases/latest'><img src='https://img.shields.io/github/v/release/dustinrue/ControlPlane?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dustinrue/ControlPlane'><img src='https://img.shields.io/github/stars/dustinrue/ControlPlane?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dustinrue/ControlPlane' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dustinrue/ControlPlane' alt='License'/>
 *   [DropPoint (⭐1.1k)](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/GameGodS3/DropPoint/releases/latest'><img src='https://img.shields.io/github/v/release/GameGodS3/DropPoint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GameGodS3/DropPoint'><img src='https://img.shields.io/github/stars/GameGodS3/DropPoint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/GameGodS3/DropPoint' alt='Last commit'/>   <img src='https://img.shields.io/github/license/GameGodS3/DropPoint' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3176,13 +2829,11 @@
 
     </p>
     </details>
-*   [espanso (⭐13k)](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
+*   [espanso (⭐14k)](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://espanso.org>
-
-    **Badges:** <a href='https://github.com/espanso/espanso/releases/latest'><img src='https://img.shields.io/github/v/release/espanso/espanso?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/espanso/espanso'><img src='https://img.shields.io/github/stars/espanso/espanso?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/espanso/espanso' alt='Last commit'/>   <img src='https://img.shields.io/github/license/espanso/espanso' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3195,23 +2846,15 @@
 *   [Flycut (⭐2.7k)](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/TermiT/flycut/releases/latest'><img src='https://img.shields.io/github/v/release/TermiT/flycut?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/TermiT/flycut'><img src='https://img.shields.io/github/stars/TermiT/flycut?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/TermiT/flycut' alt='Last commit'/>   <img src='https://img.shields.io/github/license/TermiT/flycut' alt='License'/>
-*   [KeyHolder (⭐418)](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
+*   [KeyHolder (⭐423)](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Clipy/KeyHolder/releases/latest'><img src='https://img.shields.io/github/v/release/Clipy/KeyHolder?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Clipy/KeyHolder'><img src='https://img.shields.io/github/stars/Clipy/KeyHolder?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Clipy/KeyHolder' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Clipy/KeyHolder' alt='License'/>
-*   [Kiwix (⭐681)](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
+*   [Kiwix (⭐772)](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/kiwix/apple/releases/latest'><img src='https://img.shields.io/github/v/release/kiwix/apple?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kiwix/apple'><img src='https://img.shields.io/github/stars/kiwix/apple?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kiwix/apple' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kiwix/apple' alt='License'/>
-*   [Linked Ideas (⭐370)](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.
+*   [Linked Ideas (⭐375)](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/fespinoza/LinkedIdeas/releases/latest'><img src='https://img.shields.io/github/v/release/fespinoza/LinkedIdeas?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fespinoza/LinkedIdeas'><img src='https://img.shields.io/github/stars/fespinoza/LinkedIdeas?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fespinoza/LinkedIdeas' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fespinoza/LinkedIdeas' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3225,8 +2868,6 @@
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-    **Badges:** <a href='https://github.com/instance01/mac-screenshot-tracker/releases/latest'><img src='https://img.shields.io/github/v/release/instance01/mac-screenshot-tracker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/instance01/mac-screenshot-tracker'><img src='https://img.shields.io/github/stars/instance01/mac-screenshot-tracker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/instance01/mac-screenshot-tracker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/instance01/mac-screenshot-tracker' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3237,11 +2878,9 @@
 
     </p>
     </details>
-*   [Maccy (⭐19k)](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.
+*   [Maccy (⭐21k)](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/p0deje/Maccy/releases/latest'><img src='https://img.shields.io/github/v/release/p0deje/Maccy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/p0deje/Maccy'><img src='https://img.shields.io/github/stars/p0deje/Maccy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/p0deje/Maccy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/p0deje/Maccy' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3251,21 +2890,15 @@
 
     </p>
     </details>
-*   [macOrganizer (⭐126)](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.
+*   [macOrganizer (⭐125)](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/shubhambatra3019/macOrganizer/releases/latest'><img src='https://img.shields.io/github/v/release/shubhambatra3019/macOrganizer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shubhambatra3019/macOrganizer'><img src='https://img.shields.io/github/stars/shubhambatra3019/macOrganizer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shubhambatra3019/macOrganizer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shubhambatra3019/macOrganizer' alt='License'/>
-*   [Manta (⭐5.4k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
+*   [Manta (⭐5.5k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/hql287/Manta/releases/latest'><img src='https://img.shields.io/github/v/release/hql287/Manta?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hql287/Manta'><img src='https://img.shields.io/github/stars/hql287/Manta?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hql287/Manta' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hql287/Manta' alt='License'/>
 *   [Paperless Desktop (⭐633)](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/thomasbrueggemann/paperless-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/thomasbrueggemann/paperless-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/thomasbrueggemann/paperless-desktop'><img src='https://img.shields.io/github/stars/thomasbrueggemann/paperless-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/thomasbrueggemann/paperless-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/thomasbrueggemann/paperless-desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3277,18 +2910,14 @@
 
     </p>
     </details>
-*   [PDF Archiver (⭐328)](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.
+*   [PDF Archiver (⭐340)](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/PDF-Archiver/PDF-Archiver/releases/latest'><img src='https://img.shields.io/github/v/release/PDF-Archiver/PDF-Archiver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/PDF-Archiver/PDF-Archiver'><img src='https://img.shields.io/github/stars/PDF-Archiver/PDF-Archiver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/PDF-Archiver/PDF-Archiver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/PDF-Archiver/PDF-Archiver' alt='License'/>
-*   [Pomodoro Cycle (⭐89)](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS
+*   [Pomodoro Cycle (⭐92)](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
-    **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases (⭐89)](https://github.com/ziulev/pomodoro-cycle-app/releases)
-
-    **Badges:** <a href='https://github.com/ziulev/pomodoro-cycle-app/releases/latest'><img src='https://img.shields.io/github/v/release/ziulev/pomodoro-cycle-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ziulev/pomodoro-cycle-app'><img src='https://img.shields.io/github/stars/ziulev/pomodoro-cycle-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ziulev/pomodoro-cycle-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ziulev/pomodoro-cycle-app' alt='License'/>
+    **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases (⭐92)](https://github.com/ziulev/pomodoro-cycle-app/releases)
 
     <details>
     <summary>Screenshots</summary>
@@ -3298,16 +2927,12 @@
 
     </p>
     </details>
-*   [Quicksilver (⭐2.8k)](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.
+*   [Quicksilver (⭐2.9k)](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/quicksilver/Quicksilver/releases/latest'><img src='https://img.shields.io/github/v/release/quicksilver/Quicksilver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/quicksilver/Quicksilver'><img src='https://img.shields.io/github/stars/quicksilver/Quicksilver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/quicksilver/Quicksilver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/quicksilver/Quicksilver' alt='License'/>
-*   [Quickwords (⭐108)](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.
+*   [Quickwords (⭐105)](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/quickwords/quickwords/releases/latest'><img src='https://img.shields.io/github/v/release/quickwords/quickwords?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/quickwords/quickwords'><img src='https://img.shields.io/github/stars/quickwords/quickwords?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/quickwords/quickwords' alt='Last commit'/>   <img src='https://img.shields.io/github/license/quickwords/quickwords' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3317,18 +2942,14 @@
 
     </p>
     </details>
-*   [SelfControl (⭐4.3k)](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
+*   [SelfControl (⭐4.4k)](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/SelfControlApp/selfcontrol/releases/latest'><img src='https://img.shields.io/github/v/release/SelfControlApp/selfcontrol?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SelfControlApp/selfcontrol'><img src='https://img.shields.io/github/stars/SelfControlApp/selfcontrol?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SelfControlApp/selfcontrol' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SelfControlApp/selfcontrol' alt='License'/>
 *   [Speed Reader (⭐147)](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://apps.apple.com/app/speed-reader/id1258448209>
-
-    **Badges:** <a href='https://apps.apple.com/app/speed-reader/id1258448209'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/LumingYin/SpeedReader/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/SpeedReader?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/SpeedReader'><img src='https://img.shields.io/github/stars/LumingYin/SpeedReader?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LumingYin/SpeedReader' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LumingYin/SpeedReader' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3338,11 +2959,9 @@
 
     </p>
     </details>
-*   [status-bar-todo (⭐123)](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.
+*   [status-bar-todo (⭐124)](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Onix-Systems/osx-status-bar-todo/releases/latest'><img src='https://img.shields.io/github/v/release/Onix-Systems/osx-status-bar-todo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Onix-Systems/osx-status-bar-todo'><img src='https://img.shields.io/github/stars/Onix-Systems/osx-status-bar-todo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Onix-Systems/osx-status-bar-todo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Onix-Systems/osx-status-bar-todo' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3352,13 +2971,11 @@
 
     </p>
     </details>
-*   [StickyNotes (⭐80)](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit.
+*   [StickyNotes (⭐81)](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/LumingYin/StickyNotes/releases (⭐80)](https://github.com/LumingYin/StickyNotes/releases)
-
-    **Badges:** <a href='https://github.com/LumingYin/StickyNotes/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/StickyNotes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/StickyNotes'><img src='https://img.shields.io/github/stars/LumingYin/StickyNotes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LumingYin/StickyNotes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LumingYin/StickyNotes' alt='License'/>
+    **Website:** [https://github.com/LumingYin/StickyNotes/releases (⭐81)](https://github.com/LumingYin/StickyNotes/releases)
 
     <details>
     <summary>Screenshots</summary>
@@ -3368,13 +2985,11 @@
 
     </p>
     </details>
-*   [Strategr (⭐339)](https://github.com/khrykin/StrategrDesktop) - No-fuss time management.
+*   [Strategr (⭐347)](https://github.com/khrykin/StrategrDesktop) - No-fuss time management.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://khrykin.github.io/StrategrDesktop/>
-
-    **Badges:** <a href='https://github.com/khrykin/StrategrDesktop/releases/latest'><img src='https://img.shields.io/github/v/release/khrykin/StrategrDesktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/khrykin/StrategrDesktop'><img src='https://img.shields.io/github/stars/khrykin/StrategrDesktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/khrykin/StrategrDesktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/khrykin/StrategrDesktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3386,23 +3001,17 @@
 
     </p>
     </details>
-*   [stretchly (⭐5.9k)](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.
+*   [stretchly (⭐6.5k)](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/hovancik/stretchly/releases/latest'><img src='https://img.shields.io/github/v/release/hovancik/stretchly?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hovancik/stretchly'><img src='https://img.shields.io/github/stars/hovancik/stretchly?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hovancik/stretchly' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hovancik/stretchly' alt='License'/>
 *   [Thyme (⭐583)](https://github.com/joaomoreno/thyme) - The task timer for OS X.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/joaomoreno/thyme/releases/latest'><img src='https://img.shields.io/github/v/release/joaomoreno/thyme?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/joaomoreno/thyme'><img src='https://img.shields.io/github/stars/joaomoreno/thyme?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/joaomoreno/thyme' alt='Last commit'/>   <img src='https://img.shields.io/github/license/joaomoreno/thyme' alt='License'/>
 *   [Time to Leave (⭐7)](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <code>html</code>
 
     **Website:** <https://timetoleave.app/>
-
-    **Badges:** <a href='https://github.com/thamara/time-to-leave/releases/latest'><img src='https://img.shields.io/github/v/release/thamara/time-to-leave?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/thamara/time-to-leave'><img src='https://img.shields.io/github/stars/thamara/time-to-leave?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/thamara/time-to-leave' alt='Last commit'/>   <img src='https://img.shields.io/github/license/thamara/time-to-leave' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3418,8 +3027,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/michaelvillar/timer-app/releases/latest'><img src='https://img.shields.io/github/v/release/michaelvillar/timer-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/michaelvillar/timer-app'><img src='https://img.shields.io/github/stars/michaelvillar/timer-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/michaelvillar/timer-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/michaelvillar/timer-app' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3433,25 +3040,17 @@
 *   [Toggl Desktop (⭐1.9k)](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/toggl-open-source/toggldesktop/releases/latest'><img src='https://img.shields.io/github/v/release/toggl-open-source/toggldesktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/toggl-open-source/toggldesktop'><img src='https://img.shields.io/github/stars/toggl-open-source/toggldesktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/toggl-open-source/toggldesktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/toggl-open-source/toggldesktop' alt='License'/>
-*   [TomatoBar (⭐3.1k)](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support.
+*   [TomatoBar (⭐3.5k)](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ivoronin/TomatoBar/releases/latest'><img src='https://img.shields.io/github/v/release/ivoronin/TomatoBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ivoronin/TomatoBar'><img src='https://img.shields.io/github/stars/ivoronin/TomatoBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ivoronin/TomatoBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ivoronin/TomatoBar' alt='License'/>
 *   [TrelloApp (⭐23)](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/jlong/TrelloApp/releases/latest'><img src='https://img.shields.io/github/v/release/jlong/TrelloApp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jlong/TrelloApp'><img src='https://img.shields.io/github/stars/jlong/TrelloApp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jlong/TrelloApp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jlong/TrelloApp' alt='License'/>
-*   [Ueli (⭐4.5k)](https://github.com/oliverschwendener/ueli) - A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.
+*   [Ueli (⭐4.6k)](https://github.com/oliverschwendener/ueli) - A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://ueli.app/>
-
-    **Badges:** <a href='https://github.com/oliverschwendener/ueli/releases/latest'><img src='https://img.shields.io/github/v/release/oliverschwendener/ueli?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/oliverschwendener/ueli'><img src='https://img.shields.io/github/stars/oliverschwendener/ueli?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/oliverschwendener/ueli' alt='Last commit'/>   <img src='https://img.shields.io/github/license/oliverschwendener/ueli' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3464,8 +3063,6 @@
 *   [Watson (⭐2.5k)](https://github.com/TailorDev/Watson) - A CLI application for time tracking.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/TailorDev/Watson/releases/latest'><img src='https://img.shields.io/github/v/release/TailorDev/Watson?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/TailorDev/Watson'><img src='https://img.shields.io/github/stars/TailorDev/Watson?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/TailorDev/Watson' alt='Last commit'/>   <img src='https://img.shields.io/github/license/TailorDev/Watson' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3481,8 +3078,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/1000ch/whale/releases/latest'><img src='https://img.shields.io/github/v/release/1000ch/whale?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/1000ch/whale'><img src='https://img.shields.io/github/stars/1000ch/whale?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/1000ch/whale' alt='Last commit'/>   <img src='https://img.shields.io/github/license/1000ch/whale' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3491,21 +3086,17 @@
 
     </p>
     </details>
-*   [Yomu (⭐199)](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.
+*   [Yomu (⭐198)](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/sendyhalim/Yomu/releases/latest'><img src='https://img.shields.io/github/v/release/sendyhalim/Yomu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sendyhalim/Yomu'><img src='https://img.shields.io/github/stars/sendyhalim/Yomu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sendyhalim/Yomu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sendyhalim/Yomu' alt='License'/>
+### 🖥️ Wallpaper (12) / ✏️ Text (14)
 
-### 🖥️ Wallpaper (12) / ✏️ Text (13)
-
-*   [Plash (⭐3.9k)](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
+*   [Plash (⭐4k)](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://sindresorhus.com/plash>
-
-    **Badges:** <a href='https://github.com/sindresorhus/Plash/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Plash?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/Plash'><img src='https://img.shields.io/github/stars/sindresorhus/Plash?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/Plash' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/Plash' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3518,13 +3109,9 @@
 *   [500-mac-wallpaper (⭐28)](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/markcheeky/500-mac-wallpaper/releases/latest'><img src='https://img.shields.io/github/v/release/markcheeky/500-mac-wallpaper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/markcheeky/500-mac-wallpaper'><img src='https://img.shields.io/github/stars/markcheeky/500-mac-wallpaper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/markcheeky/500-mac-wallpaper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/markcheeky/500-mac-wallpaper' alt='License'/>
-*   [Artify (⭐181)](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone
+*   [Artify (⭐180)](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/NghiaTranUIT/artify-macos/releases/latest'><img src='https://img.shields.io/github/v/release/NghiaTranUIT/artify-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/NghiaTranUIT/artify-macos'><img src='https://img.shields.io/github/stars/NghiaTranUIT/artify-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/NghiaTranUIT/artify-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/NghiaTranUIT/artify-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3543,13 +3130,9 @@
 *   [ArtWall (⭐24)](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from artwork.rss
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/JustinFincher/ASWP-for-macOS/releases/latest'><img src='https://img.shields.io/github/v/release/JustinFincher/ASWP-for-macOS?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/JustinFincher/ASWP-for-macOS'><img src='https://img.shields.io/github/stars/JustinFincher/ASWP-for-macOS?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/JustinFincher/ASWP-for-macOS' alt='Last commit'/>   <img src='https://img.shields.io/github/license/JustinFincher/ASWP-for-macOS' alt='License'/>
-*   [BingPaper (⭐169)](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.
+*   [BingPaper (⭐171)](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/pengsrc/BingPaper/releases/latest'><img src='https://img.shields.io/github/v/release/pengsrc/BingPaper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pengsrc/BingPaper'><img src='https://img.shields.io/github/stars/pengsrc/BingPaper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pengsrc/BingPaper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pengsrc/BingPaper' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3561,26 +3144,18 @@
 
     </p>
     </details>
-*   [Desktop Wallpaper Switcher (⭐12)](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers.
+*   [Desktop Wallpaper Switcher (⭐13)](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/VioletGiraffe/desktop-wallpaper-switcher/releases/latest'><img src='https://img.shields.io/github/v/release/VioletGiraffe/desktop-wallpaper-switcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/VioletGiraffe/desktop-wallpaper-switcher'><img src='https://img.shields.io/github/stars/VioletGiraffe/desktop-wallpaper-switcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/VioletGiraffe/desktop-wallpaper-switcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/VioletGiraffe/desktop-wallpaper-switcher' alt='License'/>
-*   [Muzei (⭐251)](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS.
+*   [Muzei (⭐250)](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/naman14/Muzei-macOS/releases/latest'><img src='https://img.shields.io/github/v/release/naman14/Muzei-macOS?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/naman14/Muzei-macOS'><img src='https://img.shields.io/github/stars/naman14/Muzei-macOS?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/naman14/Muzei-macOS' alt='Last commit'/>   <img src='https://img.shields.io/github/license/naman14/Muzei-macOS' alt='License'/>
 *   [pyDailyChanger (⭐9)](https://github.com/IngoMeyer441/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/IngoMeyer441/pyDailyChanger/releases/latest'><img src='https://img.shields.io/github/v/release/IngoMeyer441/pyDailyChanger?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/IngoMeyer441/pyDailyChanger'><img src='https://img.shields.io/github/stars/IngoMeyer441/pyDailyChanger?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/IngoMeyer441/pyDailyChanger' alt='Last commit'/>   <img src='https://img.shields.io/github/license/IngoMeyer441/pyDailyChanger' alt='License'/>
-*   [Satellite Eyes (⭐669)](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead.
+*   [Satellite Eyes (⭐682)](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/tomtaylor/satellite-eyes/releases/latest'><img src='https://img.shields.io/github/v/release/tomtaylor/satellite-eyes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tomtaylor/satellite-eyes'><img src='https://img.shields.io/github/stars/tomtaylor/satellite-eyes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tomtaylor/satellite-eyes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tomtaylor/satellite-eyes' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3594,8 +3169,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/davidcelis/Sunscreen/releases/latest'><img src='https://img.shields.io/github/v/release/davidcelis/Sunscreen?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/davidcelis/Sunscreen'><img src='https://img.shields.io/github/stars/davidcelis/Sunscreen?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/davidcelis/Sunscreen' alt='Last commit'/>   <img src='https://img.shields.io/github/license/davidcelis/Sunscreen' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3608,22 +3181,16 @@
 
     **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
 
-    **Badges:** <a href='https://github.com/diogosantos/WallpaperMenu/releases/latest'><img src='https://img.shields.io/github/v/release/diogosantos/WallpaperMenu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/diogosantos/WallpaperMenu'><img src='https://img.shields.io/github/stars/diogosantos/WallpaperMenu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/diogosantos/WallpaperMenu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/diogosantos/WallpaperMenu' alt='License'/>
+### 🔒 Security (12) / ✏️ Text (14)
 
-### 🔒 Security (11) / ✏️ Text (13)
-
-*   [Privacy Redirect for Safari (⭐183)](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+*   [Privacy Redirect for Safari (⭐182)](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/smmr-software/privacy-redirect-safari/releases/latest'><img src='https://img.shields.io/github/v/release/smmr-software/privacy-redirect-safari?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/smmr-software/privacy-redirect-safari'><img src='https://img.shields.io/github/stars/smmr-software/privacy-redirect-safari?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari' alt='Last commit'/>   <img src='https://img.shields.io/github/license/smmr-software/privacy-redirect-safari' alt='License'/>
-*   [Pareto Security (⭐426)](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+*   [Pareto Security (⭐451)](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://paretosecurity.com/>
-
-    **Badges:** <a href='https://github.com/paretoSecurity/pareto-mac/releases/latest'><img src='https://img.shields.io/github/v/release/paretoSecurity/pareto-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/paretoSecurity/pareto-mac/'><img src='https://img.shields.io/github/stars/paretoSecurity/pareto-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/paretoSecurity/pareto-mac' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3633,13 +3200,11 @@
 
     </p>
     </details>
-*   [Cloaker (⭐428)](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
+*   [Cloaker (⭐434)](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://adequate.systems/>
-
-    **Badges:** <a href='https://github.com/spieglt/cloaker/releases/latest'><img src='https://img.shields.io/github/v/release/spieglt/cloaker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/spieglt/cloaker'><img src='https://img.shields.io/github/stars/spieglt/cloaker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/spieglt/cloaker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/spieglt/cloaker' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3649,23 +3214,17 @@
 
     </p>
     </details>
-*   [Cryptomator (⭐15k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [Cryptomator (⭐16k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://cryptomator.org/>
-
-    **Badges:** <a href='https://github.com/cryptomator/cryptomator/releases/latest'><img src='https://img.shields.io/github/v/release/cryptomator/cryptomator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cryptomator/cryptomator'><img src='https://img.shields.io/github/stars/cryptomator/cryptomator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cryptomator/cryptomator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cryptomator/cryptomator' alt='License'/>
-*   [LuLu (⭐12k)](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
+*   [LuLu (⭐13k)](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/objective-see/LuLu/releases/latest'><img src='https://img.shields.io/github/v/release/objective-see/LuLu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/objective-see/LuLu'><img src='https://img.shields.io/github/stars/objective-see/LuLu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/objective-see/LuLu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/objective-see/LuLu' alt='License'/>
 *   [stronghold (⭐1.2k)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/alichtman/stronghold/releases/latest'><img src='https://img.shields.io/github/v/release/alichtman/stronghold?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alichtman/stronghold'><img src='https://img.shields.io/github/stars/alichtman/stronghold?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alichtman/stronghold' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alichtman/stronghold' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3677,13 +3236,11 @@
 
     </p>
     </details>
-*   [Swifty (⭐949)](https://github.com/swiftyapp/swifty) - Free and offline password manager.
+*   [Swifty (⭐944)](https://github.com/swiftyapp/swifty) - Free and offline password manager.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://getswifty.pro>
-
-    **Badges:** <a href='https://github.com/swiftyapp/swifty/releases/latest'><img src='https://img.shields.io/github/v/release/swiftyapp/swifty?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/swiftyapp/swifty'><img src='https://img.shields.io/github/stars/swiftyapp/swifty?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/swiftyapp/swifty' alt='Last commit'/>   <img src='https://img.shields.io/github/license/swiftyapp/swifty' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3695,23 +3252,19 @@
 
     </p>
     </details>
-*   [VeraCrypt (⭐9.2k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
+*   [VeraCrypt (⭐11k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://www.veracrypt.fr>
 
-    **Badges:** <a href='https://github.com/veracrypt/VeraCrypt/releases/latest'><img src='https://img.shields.io/github/v/release/veracrypt/VeraCrypt?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/veracrypt/VeraCrypt'><img src='https://img.shields.io/github/stars/veracrypt/VeraCrypt?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/veracrypt/VeraCrypt' alt='Last commit'/>   <img src='https://img.shields.io/github/license/veracrypt/VeraCrypt' alt='License'/>
+### 💬 Chat (21)
 
-### 💬 Chat (20)
-
-*   [Adium (⭐362)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
+*   [Adium (⭐391)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://adium.im/>
-
-    **Badges:** <a href='https://github.com/adium/adium/releases/latest'><img src='https://img.shields.io/github/v/release/adium/adium?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/adium/adium'><img src='https://img.shields.io/github/stars/adium/adium?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/adium/adium' alt='Last commit'/>   <img src='https://img.shields.io/github/license/adium/adium' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3721,13 +3274,11 @@
 
     </p>
     </details>
-*   [Beagle IM (⭐203)](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
+*   [Beagle IM (⭐208)](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://beagle.im/>
-
-    **Badges:** <a href='https://github.com/tigase/beagle-im/releases/latest'><img src='https://img.shields.io/github/v/release/tigase/beagle-im?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tigase/beagle-im'><img src='https://img.shields.io/github/stars/tigase/beagle-im?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tigase/beagle-im' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tigase/beagle-im' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3741,8 +3292,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/stonesam92/ChitChat/releases/latest'><img src='https://img.shields.io/github/v/release/stonesam92/ChitChat?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/stonesam92/ChitChat'><img src='https://img.shields.io/github/stars/stonesam92/ChitChat?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/stonesam92/ChitChat' alt='Last commit'/>   <img src='https://img.shields.io/github/license/stonesam92/ChitChat' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3755,8 +3304,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/geeeeeeeeek/electronic-wechat/releases/latest'><img src='https://img.shields.io/github/v/release/geeeeeeeeek/electronic-wechat?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/geeeeeeeeek/electronic-wechat'><img src='https://img.shields.io/github/stars/geeeeeeeeek/electronic-wechat?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/geeeeeeeeek/electronic-wechat' alt='Last commit'/>   <img src='https://img.shields.io/github/license/geeeeeeeeek/electronic-wechat' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3768,13 +3315,9 @@
 *   [Element (⭐13k)](https://github.com/vector-im/element-web) - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/vector-im/element-web/releases/latest'><img src='https://img.shields.io/github/v/release/vector-im/element-web?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vector-im/element-web'><img src='https://img.shields.io/github/stars/vector-im/element-web?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vector-im/element-web' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vector-im/element-web' alt='License'/>
 *   [Franz (⭐4.7k)](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/meetfranz/franz/releases/latest'><img src='https://img.shields.io/github/v/release/meetfranz/franz?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/meetfranz/franz'><img src='https://img.shields.io/github/stars/meetfranz/franz?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/meetfranz/franz' alt='Last commit'/>   <img src='https://img.shields.io/github/license/meetfranz/franz' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3788,8 +3331,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/kelyvin/Google-Allo-For-Desktop/releases/latest'><img src='https://img.shields.io/github/v/release/kelyvin/Google-Allo-For-Desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kelyvin/Google-Allo-For-Desktop'><img src='https://img.shields.io/github/stars/kelyvin/Google-Allo-For-Desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kelyvin/Google-Allo-For-Desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kelyvin/Google-Allo-For-Desktop' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3802,8 +3343,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-    **Badges:** <a href='https://github.com/dcrousso/GroupMe/releases/latest'><img src='https://img.shields.io/github/v/release/dcrousso/GroupMe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dcrousso/GroupMe'><img src='https://img.shields.io/github/stars/dcrousso/GroupMe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dcrousso/GroupMe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dcrousso/GroupMe' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -3812,23 +3351,17 @@
 
     </p>
     </details>
-*   [MessagesHistoryBrowser (⭐94)](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.
+*   [MessagesHistoryBrowser (⭐99)](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/glaurent/MessagesHistoryBrowser/releases/latest'><img src='https://img.shields.io/github/v/release/glaurent/MessagesHistoryBrowser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/glaurent/MessagesHistoryBrowser'><img src='https://img.shields.io/github/stars/glaurent/MessagesHistoryBrowser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/glaurent/MessagesHistoryBrowser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/glaurent/MessagesHistoryBrowser' alt='License'/>
 *   [RocketChat (⭐1.7k)](https://github.com/RocketChat/Rocket.Chat.Electron) - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.rocket.chat/>
-
-    **Badges:** <a href='https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest'><img src='https://img.shields.io/github/v/release/RocketChat/Rocket.Chat.Electron?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/RocketChat/Rocket.Chat.Electron'><img src='https://img.shields.io/github/stars/RocketChat/Rocket.Chat.Electron?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat.Electron' alt='Last commit'/>   <img src='https://img.shields.io/github/license/RocketChat/Rocket.Chat.Electron' alt='License'/>
-*   [Seaglass (⭐527)](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.
+*   [Seaglass (⭐525)](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/neilalexander/seaglass/releases/latest'><img src='https://img.shields.io/github/v/release/neilalexander/seaglass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/neilalexander/seaglass'><img src='https://img.shields.io/github/stars/neilalexander/seaglass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/neilalexander/seaglass' alt='Last commit'/>   <img src='https://img.shields.io/github/license/neilalexander/seaglass' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3838,21 +3371,15 @@
 
     </p>
     </details>
-*   [Signal Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app.
+*   [Signal Desktop (⭐17k)](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/signalapp/Signal-Desktop/releases/latest'><img src='https://img.shields.io/github/v/release/signalapp/Signal-Desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/signalapp/Signal-Desktop'><img src='https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/signalapp/Signal-Desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/signalapp/Signal-Desktop' alt='License'/>
-*   [Telegram (⭐5.5k)](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift.
+*   [Telegram (⭐5.7k)](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/overtake/TelegramSwift/releases/latest'><img src='https://img.shields.io/github/v/release/overtake/TelegramSwift?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/overtake/TelegramSwift'><img src='https://img.shields.io/github/stars/overtake/TelegramSwift?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/overtake/TelegramSwift' alt='Last commit'/>   <img src='https://img.shields.io/github/license/overtake/TelegramSwift' alt='License'/>
-*   [Telegram Desktop (⭐30k)](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
+*   [Telegram Desktop (⭐33k)](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/telegramdesktop/tdesktop/releases/latest'><img src='https://img.shields.io/github/v/release/telegramdesktop/tdesktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/telegramdesktop/tdesktop'><img src='https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/telegramdesktop/tdesktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/telegramdesktop/tdesktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3865,8 +3392,6 @@
 *   [Textual (⭐1.9k)](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Codeux-Software/Textual/releases/latest'><img src='https://img.shields.io/github/v/release/Codeux-Software/Textual?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Codeux-Software/Textual'><img src='https://img.shields.io/github/stars/Codeux-Software/Textual?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Codeux-Software/Textual' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Codeux-Software/Textual' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3885,13 +3410,9 @@
 *   [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/javerous/TorChat-Mac/releases/latest'><img src='https://img.shields.io/github/v/release/javerous/TorChat-Mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/javerous/TorChat-Mac'><img src='https://img.shields.io/github/stars/javerous/TorChat-Mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/javerous/TorChat-Mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/javerous/TorChat-Mac' alt='License'/>
-*   [WhatsAppBar (⭐49)](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar.
+*   [WhatsAppBar (⭐50)](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/aldychris/WhatsAppBar/releases/latest'><img src='https://img.shields.io/github/v/release/aldychris/WhatsAppBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/aldychris/WhatsAppBar'><img src='https://img.shields.io/github/stars/aldychris/WhatsAppBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/aldychris/WhatsAppBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/aldychris/WhatsAppBar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3909,9 +3430,7 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/wireapp/wire-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/wireapp/wire-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wireapp/wire-desktop'><img src='https://img.shields.io/github/stars/wireapp/wire-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wireapp/wire-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wireapp/wire-desktop' alt='License'/>
-
-### 📧 Mail (7) / ✏️ Text (13)
+### 📧 Mail (7) / ✏️ Text (14)
 
 *   [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.
 
@@ -3931,16 +3450,12 @@
 
     </p>
     </details>
-*   [Correo (⭐157)](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.
+*   [Correo (⭐158)](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/amitmerchant1990/correo/releases/latest'><img src='https://img.shields.io/github/v/release/amitmerchant1990/correo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/amitmerchant1990/correo'><img src='https://img.shields.io/github/stars/amitmerchant1990/correo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/amitmerchant1990/correo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/amitmerchant1990/correo' alt='License'/>
-*   [dejalu (⭐638)](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client.
+*   [dejalu (⭐644)](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/dinhvh/dejalu/releases/latest'><img src='https://img.shields.io/github/v/release/dinhvh/dejalu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dinhvh/dejalu'><img src='https://img.shields.io/github/stars/dinhvh/dejalu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dinhvh/dejalu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dinhvh/dejalu' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3950,11 +3465,9 @@
 
     </p>
     </details>
-*   [ElectronMail (⭐1.6k)](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers.
+*   [ElectronMail (⭐1.7k)](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/vladimiry/ElectronMail/releases/latest'><img src='https://img.shields.io/github/v/release/vladimiry/ElectronMail?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vladimiry/ElectronMail'><img src='https://img.shields.io/github/stars/vladimiry/ElectronMail?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vladimiry/ElectronMail' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vladimiry/ElectronMail' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -3966,31 +3479,23 @@
 
     </p>
     </details>
-*   [Mailspring (⭐17k)](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
+*   [Mailspring (⭐18k)](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://getmailspring.com/>
-
-    **Badges:** <a href='https://github.com/Foundry376/Mailspring/releases/latest'><img src='https://img.shields.io/github/v/release/Foundry376/Mailspring?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Foundry376/Mailspring'><img src='https://img.shields.io/github/stars/Foundry376/Mailspring?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Foundry376/Mailspring' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Foundry376/Mailspring' alt='License'/>
 *   [Rambox (⭐6.4k)](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/ramboxapp/community-edition/releases/latest'><img src='https://img.shields.io/github/v/release/ramboxapp/community-edition?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ramboxapp/community-edition'><img src='https://img.shields.io/github/stars/ramboxapp/community-edition?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ramboxapp/community-edition' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ramboxapp/community-edition' alt='License'/>
-*   [SimpleLogin (⭐52)](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address.
+*   [SimpleLogin (⭐53)](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/simple-login/mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/simple-login/mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/simple-login/mac-app'><img src='https://img.shields.io/github/stars/simple-login/mac-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/simple-login/mac-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/simple-login/mac-app' alt='License'/>
 
 ### 💰 Cryptocurrency (5)
 
 *   [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/adamwaite/CoinBar/releases/latest'><img src='https://img.shields.io/github/v/release/adamwaite/CoinBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/adamwaite/CoinBar'><img src='https://img.shields.io/github/stars/adamwaite/CoinBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/adamwaite/CoinBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/adamwaite/CoinBar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4006,21 +3511,15 @@
 
     </p>
     </details>
-*   [Copay (⭐206)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.
+*   [Copay (⭐210)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/bitpay/copay/releases/latest'><img src='https://img.shields.io/github/v/release/bitpay/copay?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitpay/copay'><img src='https://img.shields.io/github/stars/bitpay/copay?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bitpay/copay' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bitpay/copay' alt='License'/>
 *   [Crypto Bar (⭐411)](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/geraldoramos/crypto-bar/releases/latest'><img src='https://img.shields.io/github/v/release/geraldoramos/crypto-bar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/geraldoramos/crypto-bar'><img src='https://img.shields.io/github/stars/geraldoramos/crypto-bar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/geraldoramos/crypto-bar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/geraldoramos/crypto-bar' alt='License'/>
 *   [Float coin (⭐11)](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/kaunteya/FloatCoin/releases/latest'><img src='https://img.shields.io/github/v/release/kaunteya/FloatCoin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kaunteya/FloatCoin'><img src='https://img.shields.io/github/stars/kaunteya/FloatCoin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kaunteya/FloatCoin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kaunteya/FloatCoin' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4037,8 +3536,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/bdash-app/bdash/releases/latest'><img src='https://img.shields.io/github/v/release/bdash-app/bdash?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bdash-app/bdash'><img src='https://img.shields.io/github/stars/bdash-app/bdash?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bdash-app/bdash' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bdash-app/bdash' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4049,13 +3546,11 @@
 
     </p>
     </details>
-*   [Beekeeper Studio (⭐22k)](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
+*   [Beekeeper Studio (⭐24k)](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.beekeeperstudio.io>
-
-    **Badges:** <a href='https://github.com/beekeeper-studio/beekeeper-studio/releases/latest'><img src='https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/beekeeper-studio/beekeeper-studio'><img src='https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/beekeeper-studio/beekeeper-studio' alt='Last commit'/>   <img src='https://img.shields.io/github/license/beekeeper-studio/beekeeper-studio' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4067,11 +3562,9 @@
 
     </p>
     </details>
-*   [DB Browser for SQLite (⭐24k)](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.
+*   [DB Browser for SQLite (⭐25k)](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/sqlitebrowser/sqlitebrowser/releases/latest'><img src='https://img.shields.io/github/v/release/sqlitebrowser/sqlitebrowser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sqlitebrowser/sqlitebrowser'><img src='https://img.shields.io/github/stars/sqlitebrowser/sqlitebrowser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sqlitebrowser/sqlitebrowser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sqlitebrowser/sqlitebrowser' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4081,11 +3574,9 @@
 
     </p>
     </details>
-*   [DBeaver (⭐49k)](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.
+*   [DBeaver (⭐52k)](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
-
-    **Badges:** <a href='https://github.com/dbeaver/dbeaver/releases/latest'><img src='https://img.shields.io/github/v/release/dbeaver/dbeaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dbeaver/dbeaver'><img src='https://img.shields.io/github/stars/dbeaver/dbeaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dbeaver/dbeaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dbeaver/dbeaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4101,13 +3592,11 @@
 
     </p>
     </details>
-*   [DbGate (⭐6.8k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐7.3k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://dbgate.org>
-
-    **Badges:** <a href='https://github.com/dbgate/dbgate/releases/latest'><img src='https://img.shields.io/github/v/release/dbgate/dbgate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dbgate/dbgate'><img src='https://img.shields.io/github/stars/dbgate/dbgate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dbgate/dbgate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dbgate/dbgate' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4127,8 +3616,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/luin/medis/releases/latest'><img src='https://img.shields.io/github/v/release/luin/medis?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/luin/medis'><img src='https://img.shields.io/github/stars/luin/medis?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/luin/medis' alt='Last commit'/>   <img src='https://img.shields.io/github/license/luin/medis' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4137,11 +3624,9 @@
 
     </p>
     </details>
-*   [mongoDB.app (⭐538)](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.
+*   [mongoDB.app (⭐536)](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/gcollazo/mongodbapp/releases/latest'><img src='https://img.shields.io/github/v/release/gcollazo/mongodbapp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gcollazo/mongodbapp'><img src='https://img.shields.io/github/stars/gcollazo/mongodbapp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gcollazo/mongodbapp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gcollazo/mongodbapp' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4154,13 +3639,9 @@
 *   [MongoHub (⭐2.4k)](https://github.com/jeromelebel/MongoHub-Mac) - Add another lightweight Mac Native MongoDB client.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/jeromelebel/MongoHub-Mac/releases/latest'><img src='https://img.shields.io/github/v/release/jeromelebel/MongoHub-Mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jeromelebel/MongoHub-Mac'><img src='https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jeromelebel/MongoHub-Mac' alt='License'/>
 *   [Postbird (⭐1.6k)](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/Paxa/postbird/releases/latest'><img src='https://img.shields.io/github/v/release/Paxa/postbird?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Paxa/postbird'><img src='https://img.shields.io/github/stars/Paxa/postbird?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Paxa/postbird' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Paxa/postbird' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4174,16 +3655,12 @@
 
     </p>
     </details>
-*   [Postgres.app (⭐7.7k)](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.
+*   [Postgres.app (⭐7.8k)](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/PostgresApp/PostgresApp/releases/latest'><img src='https://img.shields.io/github/v/release/PostgresApp/PostgresApp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/PostgresApp/PostgresApp'><img src='https://img.shields.io/github/stars/PostgresApp/PostgresApp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/PostgresApp/PostgresApp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/PostgresApp/PostgresApp' alt='License'/>
 *   [Redis Desktop Manager (⭐23k)](https://github.com/uglide/RedisDesktopManager) - Cross-platform open source database management tool for Redis ®
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/uglide/RedisDesktopManager/releases/latest'><img src='https://img.shields.io/github/v/release/uglide/RedisDesktopManager?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/uglide/RedisDesktopManager'><img src='https://img.shields.io/github/stars/uglide/RedisDesktopManager?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/uglide/RedisDesktopManager' alt='Last commit'/>   <img src='https://img.shields.io/github/license/uglide/RedisDesktopManager' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4193,11 +3670,9 @@
 
     </p>
     </details>
-*   [redis-pro (⭐678)](https://github.com/cmushroom/redis-pro) - Redis management with SwiftUI.
+*   [redis-pro (⭐682)](https://github.com/cmushroom/redis-pro) - Redis management with SwiftUI.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/cmushroom/redis-pro/releases/latest'><img src='https://img.shields.io/github/v/release/cmushroom/redis-pro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cmushroom/redis-pro'><img src='https://img.shields.io/github/stars/cmushroom/redis-pro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cmushroom/redis-pro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cmushroom/redis-pro' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4207,11 +3682,9 @@
 
     </p>
     </details>
-*   [Redis.app (⭐364)](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac.
+*   [Redis.app (⭐363)](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/jpadilla/redisapp/releases/latest'><img src='https://img.shields.io/github/v/release/jpadilla/redisapp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jpadilla/redisapp'><img src='https://img.shields.io/github/stars/jpadilla/redisapp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jpadilla/redisapp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jpadilla/redisapp' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4225,8 +3698,6 @@
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-    **Badges:** <a href='https://github.com/Studio3T/robomongo/releases/latest'><img src='https://img.shields.io/github/v/release/Studio3T/robomongo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Studio3T/robomongo'><img src='https://img.shields.io/github/stars/Studio3T/robomongo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Studio3T/robomongo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Studio3T/robomongo' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4235,18 +3706,14 @@
 
     </p>
     </details>
-*   [Sequel Ace (⭐7.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+*   [Sequel Ace (⭐7.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://sequel-ace.com/>
-
-    **Badges:** <a href='https://github.com/Sequel-Ace/Sequel-Ace/releases/latest'><img src='https://img.shields.io/github/v/release/Sequel-Ace/Sequel-Ace?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Sequel-Ace/Sequel-Ace'><img src='https://img.shields.io/github/stars/Sequel-Ace/Sequel-Ace?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Sequel-Ace/Sequel-Ace' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Sequel-Ace/Sequel-Ace' alt='License'/>
 *   [Sequel Pro (⭐9.2k)](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/sequelpro/sequelpro/releases/latest'><img src='https://img.shields.io/github/v/release/sequelpro/sequelpro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sequelpro/sequelpro'><img src='https://img.shields.io/github/stars/sequelpro/sequelpro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sequelpro/sequelpro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sequelpro/sequelpro' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4259,15 +3726,13 @@
     </p>
     </details>
 
-### 💻 IDE (14) / ✏️ Text (13)
+### 💻 IDE (14) / ✏️ Text (14)
 
-*   [Apache Netbeans (⭐3k)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
+*   [Apache Netbeans (⭐3.1k)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://netbeans.apache.org/>
-
-    **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/>   <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4285,8 +3750,6 @@
 
     **Website:** <https://brackets.io/>
 
-    **Badges:** <a href='https://github.com/brackets-cont/brackets/releases/latest'><img src='https://img.shields.io/github/v/release/brackets-cont/brackets?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/brackets-cont/brackets'><img src='https://img.shields.io/github/stars/brackets-cont/brackets?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/brackets-cont/brackets' alt='Last commit'/>   <img src='https://img.shields.io/github/license/brackets-cont/brackets' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4300,8 +3763,6 @@
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://auroraeditor.com>
-
-    **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4317,8 +3778,6 @@
 
     **Website:** <https://www.codeedit.app/>
 
-    **Badges:** <a href='https://github.com/CodeEditApp/CodeEdit/releases/latest'><img src='https://img.shields.io/github/v/release/CodeEditApp/CodeEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CodeEditApp/CodeEdit'><img src='https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CodeEditApp/CodeEdit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CodeEditApp/CodeEdit' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4327,13 +3786,11 @@
 
     </p>
     </details>
-*   [Geany (⭐3.5k)](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+*   [Geany (⭐3.7k)](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code>
 
     **Website:** <https://www.geany.org/>
-
-    **Badges:** <a href='https://github.com/geany/geany/releases/latest'><img src='https://img.shields.io/github/v/release/geany/geany?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/geany/geany'><img src='https://img.shields.io/github/stars/geany/geany?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/geany/geany' alt='Last commit'/>   <img src='https://img.shields.io/github/license/geany/geany' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4349,8 +3806,6 @@
 
     **Website:** <https://www.jetbrains.com/idea/>
 
-    **Badges:** <a href='https://github.com/JetBrains/intellij-community/releases/latest'><img src='https://img.shields.io/github/v/release/JetBrains/intellij-community?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/JetBrains/intellij-community'><img src='https://img.shields.io/github/stars/JetBrains/intellij-community?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/JetBrains/intellij-community' alt='Last commit'/>   <img src='https://img.shields.io/github/license/JetBrains/intellij-community' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4359,25 +3814,19 @@
 
     </p>
     </details>
-*   [LiveCode (⭐513)](https://github.com/livecode/livecode) - Cross-platform development IDE.
+*   [LiveCode (⭐517)](https://github.com/livecode/livecode) - Cross-platform development IDE.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://livecode.org/>
-
-    **Badges:** <a href='https://github.com/livecode/livecode/releases/latest'><img src='https://img.shields.io/github/v/release/livecode/livecode?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/livecode/livecode'><img src='https://img.shields.io/github/stars/livecode/livecode?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/livecode/livecode' alt='Last commit'/>   <img src='https://img.shields.io/github/license/livecode/livecode' alt='License'/>
 *   [Oni (⭐11k)](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/onivim/oni/releases/latest'><img src='https://img.shields.io/github/v/release/onivim/oni?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onivim/oni'><img src='https://img.shields.io/github/stars/onivim/oni?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onivim/oni' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onivim/oni' alt='License'/>
-*   [Vim (⭐40k)](https://github.com/vim/vim) - ubiquitous text editor
+*   [Vim (⭐41k)](https://github.com/vim/vim) - ubiquitous text editor
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>Vim script</code>
 
     **Website:** <https://www.vim.org/>
-
-    **Badges:** <a href='https://github.com/vim/vim/releases/latest'><img src='https://img.shields.io/github/v/release/vim/vim?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vim/vim'><img src='https://img.shields.io/github/stars/vim/vim?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vim/vim' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vim/vim' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4387,11 +3836,9 @@
 
     </p>
     </details>
-*   [Visual Studio Code (⭐182k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.
+*   [Visual Studio Code (⭐189k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/Microsoft/vscode/releases/latest'><img src='https://img.shields.io/github/v/release/Microsoft/vscode?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Microsoft/vscode'><img src='https://img.shields.io/github/stars/Microsoft/vscode?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Microsoft/vscode' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Microsoft/vscode' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4401,11 +3848,9 @@
 
     </p>
     </details>
-*   [ZeroBraneStudio (⭐2.7k)](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.
+*   [ZeroBraneStudio (⭐2.8k)](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.
 
     **Languages:** <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua
-
-    **Badges:** <a href='https://github.com/pkulchenko/ZeroBraneStudio/releases/latest'><img src='https://img.shields.io/github/v/release/pkulchenko/ZeroBraneStudio?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pkulchenko/ZeroBraneStudio'><img src='https://img.shields.io/github/stars/pkulchenko/ZeroBraneStudio?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pkulchenko/ZeroBraneStudio' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pkulchenko/ZeroBraneStudio' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4416,15 +3861,13 @@
     </p>
     </details>
 
-### 🎨 Graphics (17) / ✏️ Text (13)
+### 🎨 Graphics (17) / ✏️ Text (14)
 
-*   [ColorSet (⭐238)](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
+*   [ColorSet (⭐246)](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://imazing.com/colorset>
-
-    **Badges:** <a href='https://github.com/DigiDNA/ColorSet/releases/latest'><img src='https://img.shields.io/github/v/release/DigiDNA/ColorSet?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/DigiDNA/ColorSet'><img src='https://img.shields.io/github/stars/DigiDNA/ColorSet?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/DigiDNA/ColorSet' alt='Last commit'/>   <img src='https://img.shields.io/github/license/DigiDNA/ColorSet' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4434,11 +3877,9 @@
 
     </p>
     </details>
-*   [Aseprite (⭐36k)](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
+*   [Aseprite (⭐39k)](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/aseprite/aseprite/releases/latest'><img src='https://img.shields.io/github/v/release/aseprite/aseprite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/aseprite/aseprite'><img src='https://img.shields.io/github/stars/aseprite/aseprite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/aseprite/aseprite' alt='Last commit'/>   <img src='https://img.shields.io/github/license/aseprite/aseprite' alt='License'/>
 *   [Blender](https://projects.blender.org/) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
@@ -4463,8 +3904,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/sfragrance/CaptuocrToy/releases/latest'><img src='https://img.shields.io/github/v/release/sfragrance/CaptuocrToy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sfragrance/CaptuocrToy'><img src='https://img.shields.io/github/stars/sfragrance/CaptuocrToy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sfragrance/CaptuocrToy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sfragrance/CaptuocrToy' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4473,13 +3912,11 @@
 
     </p>
     </details>
-*   [FreeCAD (⭐29k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler
+*   [FreeCAD (⭐33k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler
 
     **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://www.freecad.org/>
-
-    **Badges:** <a href='https://github.com/FreeCAD/FreeCAD/releases/latest'><img src='https://img.shields.io/github/v/release/FreeCAD/FreeCAD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/FreeCAD/FreeCAD'><img src='https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/FreeCAD/FreeCAD' alt='Last commit'/>   <img src='https://img.shields.io/github/license/FreeCAD/FreeCAD' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4489,18 +3926,14 @@
 
     </p>
     </details>
-*   [Gaphor (⭐2.2k)](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool for UML and SysML.
+*   [Gaphor (⭐2.3k)](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool for UML and SysML.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://gaphor.org>
-
-    **Badges:** <a href='https://github.com/gaphor/gaphor/releases/latest'><img src='https://img.shields.io/github/v/release/gaphor/gaphor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gaphor/gaphor'><img src='https://img.shields.io/github/stars/gaphor/gaphor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gaphor/gaphor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gaphor/gaphor' alt='License'/>
-*   [GifCapture (⭐963)](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
+*   [GifCapture (⭐967)](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/onmyway133/GifCapture/releases/latest'><img src='https://img.shields.io/github/v/release/onmyway133/GifCapture?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onmyway133/GifCapture'><img src='https://img.shields.io/github/stars/onmyway133/GifCapture?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onmyway133/GifCapture' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onmyway133/GifCapture' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4520,8 +3953,6 @@
 
     **Languages:** <img src='./icons/haskell-64.png' alt='Haskell icon' title='Haskell' height='16'/> Haskell
 
-    **Badges:** <a href='https://github.com/lettier/gifcurry/releases/latest'><img src='https://img.shields.io/github/v/release/lettier/gifcurry?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lettier/gifcurry'><img src='https://img.shields.io/github/stars/lettier/gifcurry?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lettier/gifcurry' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lettier/gifcurry' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4532,11 +3963,9 @@
 
     </p>
     </details>
-*   [Gifski (⭐8.3k)](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs.
+*   [Gifski (⭐8.5k)](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/sindresorhus/Gifski/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Gifski?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/Gifski'><img src='https://img.shields.io/github/stars/sindresorhus/Gifski?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/Gifski' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/Gifski' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4552,11 +3981,9 @@
 
     </p>
     </details>
-*   [InfiniteCanvas (⭐142)](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
+*   [InfiniteCanvas (⭐144)](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/CleanCocoa/InfiniteCanvas/releases/latest'><img src='https://img.shields.io/github/v/release/CleanCocoa/InfiniteCanvas?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CleanCocoa/InfiniteCanvas'><img src='https://img.shields.io/github/stars/CleanCocoa/InfiniteCanvas?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CleanCocoa/InfiniteCanvas' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4570,8 +3997,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/dsward2/macSVG/releases/latest'><img src='https://img.shields.io/github/v/release/dsward2/macSVG?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dsward2/macSVG'><img src='https://img.shields.io/github/stars/dsward2/macSVG?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dsward2/macSVG' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dsward2/macSVG' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4584,8 +4009,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/BafS/Material-Colors-native/releases/latest'><img src='https://img.shields.io/github/v/release/BafS/Material-Colors-native?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/BafS/Material-Colors-native'><img src='https://img.shields.io/github/stars/BafS/Material-Colors-native?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/BafS/Material-Colors-native' alt='Last commit'/>   <img src='https://img.shields.io/github/license/BafS/Material-Colors-native' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4594,16 +4017,12 @@
 
     </p>
     </details>
-*   [Pencil2D Animation (⭐1.6k)](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
+*   [Pencil2D Animation (⭐1.8k)](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/pencil2d/pencil/releases/latest'><img src='https://img.shields.io/github/v/release/pencil2d/pencil?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pencil2d/pencil'><img src='https://img.shields.io/github/stars/pencil2d/pencil?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pencil2d/pencil' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pencil2d/pencil' alt='License'/>
-*   [ScreenToLayers for macOS (⭐162)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
+*   [ScreenToLayers for macOS (⭐168)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/duyquoc/ScreenToLayers/releases/latest'><img src='https://img.shields.io/github/v/release/duyquoc/ScreenToLayers?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/duyquoc/ScreenToLayers'><img src='https://img.shields.io/github/stars/duyquoc/ScreenToLayers?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/duyquoc/ScreenToLayers' alt='Last commit'/>   <img src='https://img.shields.io/github/license/duyquoc/ScreenToLayers' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4614,27 +4033,21 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16) / 📦 Git (20)
+### 👨‍💻 Development (18) / 📦 Git (20)
 
 *   [GitAhead (⭐1.9k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://gitahead.github.io/gitahead.com/>
-
-    **Badges:** <a href='https://github.com/gitahead/gitahead/releases/latest'><img src='https://img.shields.io/github/v/release/gitahead/gitahead?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gitahead/gitahead/'><img src='https://img.shields.io/github/stars/gitahead/gitahead?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gitahead/gitahead' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gitahead/gitahead' alt='License'/>
-*   [Cashew (⭐6)](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker.
+*   [Cashew (⭐7)](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/dhennessy/OpenCashew/releases/latest'><img src='https://img.shields.io/github/v/release/dhennessy/OpenCashew?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dhennessy/OpenCashew'><img src='https://img.shields.io/github/stars/dhennessy/OpenCashew?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dhennessy/OpenCashew' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dhennessy/OpenCashew' alt='License'/>
-*   [Git Interactive Rebase Tool (⭐1.8k)](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase.
+*   [Git Interactive Rebase Tool (⭐1.9k)](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
     **Website:** <https://gitrebasetool.mitmaro.ca/>
-
-    **Badges:** <a href='https://github.com/MitMaro/git-interactive-rebase-tool/releases/latest'><img src='https://img.shields.io/github/v/release/MitMaro/git-interactive-rebase-tool?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MitMaro/git-interactive-rebase-tool'><img src='https://img.shields.io/github/stars/MitMaro/git-interactive-rebase-tool?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MitMaro/git-interactive-rebase-tool' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MitMaro/git-interactive-rebase-tool' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4644,16 +4057,12 @@
 
     </p>
     </details>
-*   [GitBlamePR (⭐33)](https://github.com/maoyama/GitBlamePR) - Mac app that shows pull request last modified each line of a file
+*   [GitBlamePR (⭐34)](https://github.com/maoyama/GitBlamePR) - Mac app that shows pull request last modified each line of a file
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/maoyama/GitBlamePR/releases/latest'><img src='https://img.shields.io/github/v/release/maoyama/GitBlamePR?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maoyama/GitBlamePR'><img src='https://img.shields.io/github/stars/maoyama/GitBlamePR?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maoyama/GitBlamePR' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maoyama/GitBlamePR' alt='License'/>
 *   [Gitee (⭐1.1k)](https://github.com/Nightonke/Gitee) - Gitee, macOS status bar application for Github.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Nightonke/Gitee/releases/latest'><img src='https://img.shields.io/github/v/release/Nightonke/Gitee?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Nightonke/Gitee'><img src='https://img.shields.io/github/stars/Nightonke/Gitee?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Nightonke/Gitee' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Nightonke/Gitee' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4669,11 +4078,9 @@
 
     </p>
     </details>
-*   [Github contributions (⭐81)](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.
+*   [Github contributions (⭐80)](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/remirobert/Github-contributions/releases/latest'><img src='https://img.shields.io/github/v/release/remirobert/Github-contributions?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/remirobert/Github-contributions'><img src='https://img.shields.io/github/stars/remirobert/Github-contributions?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/remirobert/Github-contributions' alt='Last commit'/>   <img src='https://img.shields.io/github/license/remirobert/Github-contributions' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4683,11 +4090,9 @@
 
     </p>
     </details>
-*   [GitHub Desktop (⭐21k)](https://github.com/desktop/desktop) - Simple collaboration from your desktop.
+*   [GitHub Desktop (⭐22k)](https://github.com/desktop/desktop) - Simple collaboration from your desktop.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/desktop/desktop/releases/latest'><img src='https://img.shields.io/github/v/release/desktop/desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/desktop/desktop'><img src='https://img.shields.io/github/stars/desktop/desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/desktop/desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/desktop/desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4701,8 +4106,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/ad/GithubListener/releases/latest'><img src='https://img.shields.io/github/v/release/ad/GithubListener?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ad/GithubListener'><img src='https://img.shields.io/github/stars/ad/GithubListener?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ad/GithubListener' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ad/GithubListener' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4714,15 +4117,11 @@
 *   [GithubNotify (⭐26)](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/erik/github-notify/releases/latest'><img src='https://img.shields.io/github/v/release/erik/github-notify?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/erik/github-notify'><img src='https://img.shields.io/github/stars/erik/github-notify?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/erik/github-notify' alt='Last commit'/>   <img src='https://img.shields.io/github/license/erik/github-notify' alt='License'/>
-*   [Gitify (⭐5.2k)](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar.
+*   [Gitify (⭐5.3k)](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.gitify.io/>
-
-    **Badges:** <a href='https://github.com/manosim/gitify/releases/latest'><img src='https://img.shields.io/github/v/release/manosim/gitify?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/manosim/gitify'><img src='https://img.shields.io/github/stars/manosim/gitify?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/manosim/gitify' alt='Last commit'/>   <img src='https://img.shields.io/github/license/manosim/gitify' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4732,11 +4131,9 @@
 
     </p>
     </details>
-*   [GitSync (⭐100)](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.
+*   [GitSync (⭐101)](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/eonist/GitSync/releases/latest'><img src='https://img.shields.io/github/v/release/eonist/GitSync?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/eonist/GitSync'><img src='https://img.shields.io/github/stars/eonist/GitSync?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/eonist/GitSync' alt='Last commit'/>   <img src='https://img.shields.io/github/license/eonist/GitSync' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4749,8 +4146,6 @@
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/git-up/GitUp/releases/latest'><img src='https://img.shields.io/github/v/release/git-up/GitUp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/git-up/GitUp'><img src='https://img.shields.io/github/stars/git-up/GitUp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/git-up/GitUp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/git-up/GitUp' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4766,26 +4161,18 @@
 
     </p>
     </details>
-*   [GitX (⭐872)](https://github.com/gitx/gitx) - Graphical client for the git version control system.
+*   [GitX (⭐907)](https://github.com/gitx/gitx) - Graphical client for the git version control system.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/gitx/gitx/releases/latest'><img src='https://img.shields.io/github/v/release/gitx/gitx?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gitx/gitx'><img src='https://img.shields.io/github/stars/gitx/gitx?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gitx/gitx' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gitx/gitx' alt='License'/>
 *   [GPM (⭐20)](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mtgto/GPM/releases/latest'><img src='https://img.shields.io/github/v/release/mtgto/GPM?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mtgto/GPM'><img src='https://img.shields.io/github/stars/mtgto/GPM?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mtgto/GPM' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mtgto/GPM' alt='License'/>
-*   [osagitfilter (⭐46)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.
+*   [osagitfilter (⭐47)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.
 
     **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>applescript</code>
-
-    **Badges:** <a href='https://github.com/doekman/osagitfilter/releases/latest'><img src='https://img.shields.io/github/v/release/doekman/osagitfilter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/doekman/osagitfilter'><img src='https://img.shields.io/github/stars/doekman/osagitfilter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/doekman/osagitfilter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/doekman/osagitfilter' alt='License'/>
-*   [Streaker (⭐191)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.
+*   [Streaker (⭐197)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/jamieweavis/streaker/releases/latest'><img src='https://img.shields.io/github/v/release/jamieweavis/streaker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jamieweavis/streaker'><img src='https://img.shields.io/github/stars/jamieweavis/streaker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jamieweavis/streaker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jamieweavis/streaker' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4799,8 +4186,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/marcinreliga/TeamStatus-for-GitHub/releases/latest'><img src='https://img.shields.io/github/v/release/marcinreliga/TeamStatus-for-GitHub?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/marcinreliga/TeamStatus-for-GitHub'><img src='https://img.shields.io/github/stars/marcinreliga/TeamStatus-for-GitHub?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/marcinreliga/TeamStatus-for-GitHub' alt='Last commit'/>   <img src='https://img.shields.io/github/license/marcinreliga/TeamStatus-for-GitHub' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4809,11 +4194,9 @@
 
     </p>
     </details>
-*   [Tempo (⭐184)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist.
+*   [Tempo (⭐312)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/maoyama/Tempo/releases/latest'><img src='https://img.shields.io/github/v/release/maoyama/Tempo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maoyama/Tempo'><img src='https://img.shields.io/github/stars/maoyama/Tempo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maoyama/Tempo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maoyama/Tempo' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4829,8 +4212,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/ptsochantaris/trailer/releases/latest'><img src='https://img.shields.io/github/v/release/ptsochantaris/trailer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ptsochantaris/trailer'><img src='https://img.shields.io/github/stars/ptsochantaris/trailer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ptsochantaris/trailer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ptsochantaris/trailer' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4843,8 +4224,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/Uncommon/Xit/releases/latest'><img src='https://img.shields.io/github/v/release/Uncommon/Xit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Uncommon/Xit'><img src='https://img.shields.io/github/stars/Uncommon/Xit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Uncommon/Xit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Uncommon/Xit' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4854,20 +4233,18 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16)
+### 👨‍💻 Development (18)
 
 *   [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
     **Website:** <https://www.kicad.org/>
-*   [Pasteboard Viewer (⭐809)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards.
+*   [Pasteboard Viewer (⭐849)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://sindresorhus.com/pasteboard-viewer>
-
-    **Badges:** <a href='https://github.com/sindresorhus/Pasteboard-Viewer/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Pasteboard-Viewer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/Pasteboard-Viewer'><img src='https://img.shields.io/github/stars/sindresorhus/Pasteboard-Viewer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/Pasteboard-Viewer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/Pasteboard-Viewer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4892,23 +4269,17 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16) / 🔄 JSON Parsing (4)
+### 👨‍💻 Development (18) / 🔄 JSON Parsing (4)
 
-*   [j2s (⭐233)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
-
-    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zadr/j2s/releases/latest'><img src='https://img.shields.io/github/v/release/zadr/j2s?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zadr/j2s'><img src='https://img.shields.io/github/stars/zadr/j2s?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zadr/j2s' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zadr/j2s' alt='License'/>
-*   [JSON Mapper (⭐27)](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON.
+*   [j2s (⭐238)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/AppCraft-LLC/json-mapper/releases/latest'><img src='https://img.shields.io/github/v/release/AppCraft-LLC/json-mapper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AppCraft-LLC/json-mapper'><img src='https://img.shields.io/github/stars/AppCraft-LLC/json-mapper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AppCraft-LLC/json-mapper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AppCraft-LLC/json-mapper' alt='License'/>
-*   [JSON to Model class (⭐97)](https://github.com/chanonly123/Json-Model-Generator) - Template based highly customizable macOS app to generate classes from JSON string, supports many languages.
+*   [JSON Mapper (⭐28)](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+*   [JSON to Model class (⭐99)](https://github.com/chanonly123/Json-Model-Generator) - Template based highly customizable macOS app to generate classes from JSON string, supports many languages.
 
-    **Badges:** <a href='https://github.com/chanonly123/Json-Model-Generator/releases/latest'><img src='https://img.shields.io/github/v/release/chanonly123/Json-Model-Generator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/chanonly123/Json-Model-Generator'><img src='https://img.shields.io/github/stars/chanonly123/Json-Model-Generator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/chanonly123/Json-Model-Generator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/chanonly123/Json-Model-Generator' alt='License'/>
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     <details>
     <summary>Screenshots</summary>
@@ -4922,8 +4293,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/Ahmed-Ali/JSONExport/releases/latest'><img src='https://img.shields.io/github/v/release/Ahmed-Ali/JSONExport?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Ahmed-Ali/JSONExport'><img src='https://img.shields.io/github/stars/Ahmed-Ali/JSONExport?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Ahmed-Ali/JSONExport' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Ahmed-Ali/JSONExport' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -4933,13 +4302,11 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16) / 🔧 Other Development (5)
+### 👨‍💻 Development (18) / 🔧 Other Development (5)
 
 *   [ChefInspector (⭐10)](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Yasumoto/ChefInspector/releases/latest'><img src='https://img.shields.io/github/v/release/Yasumoto/ChefInspector?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Yasumoto/ChefInspector'><img src='https://img.shields.io/github/stars/Yasumoto/ChefInspector?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Yasumoto/ChefInspector' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Yasumoto/ChefInspector' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4949,16 +4316,12 @@
 
     </p>
     </details>
-*   [macho-browser (⭐129)](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.
+*   [macho-browser (⭐126)](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/dcsch/macho-browser/releases/latest'><img src='https://img.shields.io/github/v/release/dcsch/macho-browser?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dcsch/macho-browser'><img src='https://img.shields.io/github/stars/dcsch/macho-browser?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dcsch/macho-browser' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dcsch/macho-browser' alt='License'/>
-*   [vegvisir (⭐199)](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.
+*   [vegvisir (⭐198)](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/ant4g0nist/vegvisir/releases/latest'><img src='https://img.shields.io/github/v/release/ant4g0nist/vegvisir?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ant4g0nist/vegvisir'><img src='https://img.shields.io/github/stars/ant4g0nist/vegvisir?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ant4g0nist/vegvisir' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ant4g0nist/vegvisir' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4975,13 +4338,11 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16) / 🌍 Web Development (14)
+### 👨‍💻 Development (18) / 🌍 Web Development (14)
 
-*   [aws-s3-uploader (⭐142)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
+*   [aws-s3-uploader (⭐143)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/RafalWilinski/s3-uploader/releases/latest'><img src='https://img.shields.io/github/v/release/RafalWilinski/s3-uploader?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/RafalWilinski/s3-uploader'><img src='https://img.shields.io/github/stars/RafalWilinski/s3-uploader?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/RafalWilinski/s3-uploader' alt='Last commit'/>   <img src='https://img.shields.io/github/license/RafalWilinski/s3-uploader' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -4991,11 +4352,9 @@
 
     </p>
     </details>
-*   [Corectl App for macOS (⭐168)](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process.
+*   [Corectl App for macOS (⭐165)](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/TheNewNormal/corectl.app/releases/latest'><img src='https://img.shields.io/github/v/release/TheNewNormal/corectl.app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/TheNewNormal/corectl.app'><img src='https://img.shields.io/github/stars/TheNewNormal/corectl.app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/TheNewNormal/corectl.app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/TheNewNormal/corectl.app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5009,8 +4368,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/TheNewNormal/coreos-osx/releases/latest'><img src='https://img.shields.io/github/v/release/TheNewNormal/coreos-osx?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/TheNewNormal/coreos-osx'><img src='https://img.shields.io/github/stars/TheNewNormal/coreos-osx?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/TheNewNormal/coreos-osx' alt='Last commit'/>   <img src='https://img.shields.io/github/license/TheNewNormal/coreos-osx' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5019,13 +4376,11 @@
 
     </p>
     </details>
-*   [HTTP Toolkit (⭐699)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
+*   [HTTP Toolkit (⭐722)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://httptoolkit.com/>
-
-    **Badges:** <a href='https://github.com/httptoolkit/httptoolkit-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/httptoolkit/httptoolkit-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/httptoolkit/httptoolkit-desktop'><img src='https://img.shields.io/github/stars/httptoolkit/httptoolkit-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/httptoolkit/httptoolkit-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/httptoolkit/httptoolkit-desktop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5039,11 +4394,9 @@
 
     </p>
     </details>
-*   [Insomnia (⭐38k)](https://github.com/Kong/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.
+*   [Insomnia (⭐40k)](https://github.com/Kong/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/Kong/insomnia/releases/latest'><img src='https://img.shields.io/github/v/release/Kong/insomnia?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Kong/insomnia'><img src='https://img.shields.io/github/stars/Kong/insomnia?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Kong/insomnia' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Kong/insomnia' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5053,16 +4406,12 @@
 
     </p>
     </details>
-*   [iTunesConnect (⭐49)](https://github.com/trulyronak/itunesconnect) - macOS app to let you access iTunesConnect.
+*   [iTunesConnect (⭐51)](https://github.com/trulyronak/itunesconnect) - macOS app to let you access iTunesConnect.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/trulyronak/itunesconnect/releases/latest'><img src='https://img.shields.io/github/v/release/trulyronak/itunesconnect?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/trulyronak/itunesconnect'><img src='https://img.shields.io/github/stars/trulyronak/itunesconnect?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/trulyronak/itunesconnect' alt='Last commit'/>   <img src='https://img.shields.io/github/license/trulyronak/itunesconnect' alt='License'/>
 *   [KubeMonitor (⭐129)](https://github.com/Daniel-Sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Daniel-Sanche/KubeMonitor/releases/latest'><img src='https://img.shields.io/github/v/release/Daniel-Sanche/KubeMonitor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Daniel-Sanche/KubeMonitor'><img src='https://img.shields.io/github/stars/Daniel-Sanche/KubeMonitor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Daniel-Sanche/KubeMonitor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Daniel-Sanche/KubeMonitor' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5076,8 +4425,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/nsriram/KubeSwitch/releases/latest'><img src='https://img.shields.io/github/v/release/nsriram/KubeSwitch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nsriram/KubeSwitch'><img src='https://img.shields.io/github/stars/nsriram/KubeSwitch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nsriram/KubeSwitch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nsriram/KubeSwitch' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5086,33 +4433,23 @@
 
     </p>
     </details>
-*   [Lantern (⭐243)](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.
+*   [Lantern (⭐250)](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/RoyalIcing/Lantern/releases/latest'><img src='https://img.shields.io/github/v/release/RoyalIcing/Lantern?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/RoyalIcing/Lantern'><img src='https://img.shields.io/github/stars/RoyalIcing/Lantern?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/RoyalIcing/Lantern' alt='Last commit'/>   <img src='https://img.shields.io/github/license/RoyalIcing/Lantern' alt='License'/>
-*   [LocalSites (⭐83)](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).
+*   [LocalSites (⭐86)](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/plan44/localSites/releases/latest'><img src='https://img.shields.io/github/v/release/plan44/localSites?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/plan44/localSites'><img src='https://img.shields.io/github/stars/plan44/localSites?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/plan44/localSites' alt='Last commit'/>   <img src='https://img.shields.io/github/license/plan44/localSites' alt='License'/>
-*   [nodeScratchpad (⭐112)](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar.
+*   [nodeScratchpad (⭐111)](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/vsaravind007/nodeScratchpad/releases/latest'><img src='https://img.shields.io/github/v/release/vsaravind007/nodeScratchpad?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vsaravind007/nodeScratchpad'><img src='https://img.shields.io/github/stars/vsaravind007/nodeScratchpad?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vsaravind007/nodeScratchpad' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vsaravind007/nodeScratchpad' alt='License'/>
-*   [SimpleLocalize CLI (⭐72)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+*   [SimpleLocalize CLI (⭐78)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://simplelocalize.io>
-
-    **Badges:** <a href='https://github.com/simplelocalize/simplelocalize-cli/releases/latest'><img src='https://img.shields.io/github/v/release/simplelocalize/simplelocalize-cli?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/simplelocalize/simplelocalize-cli'><img src='https://img.shields.io/github/stars/simplelocalize/simplelocalize-cli?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/simplelocalize/simplelocalize-cli' alt='Last commit'/>   <img src='https://img.shields.io/github/license/simplelocalize/simplelocalize-cli' alt='License'/>
-*   [stts (⭐556)](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
+*   [stts (⭐566)](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/inket/stts/releases/latest'><img src='https://img.shields.io/github/v/release/inket/stts?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/inket/stts'><img src='https://img.shields.io/github/stars/inket/stts?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/inket/stts' alt='Last commit'/>   <img src='https://img.shields.io/github/license/inket/stts' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5123,13 +4460,11 @@
     </p>
     </details>
 
-### 👨‍💻 Development (16) / 📱 iOS / macOS (44)
+### 👨‍💻 Development (18) / 📱 iOS / macOS (44)
 
-*   [AppBox (⭐683)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
+*   [AppBox (⭐693)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation/releases/latest'><img src='https://img.shields.io/github/v/release/getappbox/AppBox-iOSAppsWirelessInstallation?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation'><img src='https://img.shields.io/github/stars/getappbox/AppBox-iOSAppsWirelessInstallation?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/getappbox/AppBox-iOSAppsWirelessInstallation' alt='Last commit'/>   <img src='https://img.shields.io/github/license/getappbox/AppBox-iOSAppsWirelessInstallation' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5143,11 +4478,9 @@
 
     </p>
     </details>
-*   [AppIcons (⭐289)](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.
+*   [AppIcons (⭐297)](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/kuyawa/AppIcons/releases/latest'><img src='https://img.shields.io/github/v/release/kuyawa/AppIcons?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kuyawa/AppIcons'><img src='https://img.shields.io/github/stars/kuyawa/AppIcons?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kuyawa/AppIcons' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kuyawa/AppIcons' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5161,8 +4494,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/arbel03/AppStoreReviewTimes/releases/latest'><img src='https://img.shields.io/github/v/release/arbel03/AppStoreReviewTimes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/arbel03/AppStoreReviewTimes'><img src='https://img.shields.io/github/stars/arbel03/AppStoreReviewTimes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/arbel03/AppStoreReviewTimes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/arbel03/AppStoreReviewTimes' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5173,11 +4504,9 @@
 
     </p>
     </details>
-*   [Asset Catalog Tinkerer (⭐2.8k)](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images.
+*   [Asset Catalog Tinkerer (⭐2.9k)](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/AssetCatalogTinkerer/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/AssetCatalogTinkerer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/AssetCatalogTinkerer'><img src='https://img.shields.io/github/stars/insidegui/AssetCatalogTinkerer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/AssetCatalogTinkerer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/AssetCatalogTinkerer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5191,16 +4520,12 @@
 
     </p>
     </details>
-*   [Assets (⭐38)](https://github.com/e7711bbear/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc).
+*   [Assets (⭐40)](https://github.com/e7711bbear/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/e7711bbear/Assets/releases/latest'><img src='https://img.shields.io/github/v/release/e7711bbear/Assets?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/e7711bbear/Assets'><img src='https://img.shields.io/github/stars/e7711bbear/Assets?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/e7711bbear/Assets' alt='Last commit'/>   <img src='https://img.shields.io/github/license/e7711bbear/Assets' alt='License'/>
 *   [Attabench (⭐1.3k)](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/attaswift/Attabench/releases/latest'><img src='https://img.shields.io/github/v/release/attaswift/Attabench?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/attaswift/Attabench'><img src='https://img.shields.io/github/stars/attaswift/Attabench?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/attaswift/Attabench' alt='Last commit'/>   <img src='https://img.shields.io/github/license/attaswift/Attabench' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5214,16 +4539,12 @@
 
     </p>
     </details>
-*   [AVXCAssets Generator (⭐350)](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.
+*   [AVXCAssets Generator (⭐351)](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/angelvasa/AVXCAssets-Generator/releases/latest'><img src='https://img.shields.io/github/v/release/angelvasa/AVXCAssets-Generator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/angelvasa/AVXCAssets-Generator'><img src='https://img.shields.io/github/stars/angelvasa/AVXCAssets-Generator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/angelvasa/AVXCAssets-Generator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/angelvasa/AVXCAssets-Generator' alt='License'/>
 *   [Board For GitHub (⭐78)](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/JustinFincher/BoardForGitHub/releases/latest'><img src='https://img.shields.io/github/v/release/JustinFincher/BoardForGitHub?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/JustinFincher/BoardForGitHub'><img src='https://img.shields.io/github/stars/JustinFincher/BoardForGitHub?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/JustinFincher/BoardForGitHub' alt='Last commit'/>   <img src='https://img.shields.io/github/license/JustinFincher/BoardForGitHub' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5237,11 +4558,9 @@
 
     </p>
     </details>
-*   [Brisk (⭐676)](https://github.com/br1sk/brisk) - macOS app for submitting radars.
+*   [Brisk (⭐673)](https://github.com/br1sk/brisk) - macOS app for submitting radars.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/br1sk/brisk/releases/latest'><img src='https://img.shields.io/github/v/release/br1sk/brisk?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/br1sk/brisk'><img src='https://img.shields.io/github/stars/br1sk/brisk?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/br1sk/brisk' alt='Last commit'/>   <img src='https://img.shields.io/github/license/br1sk/brisk' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5257,8 +4576,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/xing/calabash-launcher/releases/latest'><img src='https://img.shields.io/github/v/release/xing/calabash-launcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xing/calabash-launcher'><img src='https://img.shields.io/github/stars/xing/calabash-launcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xing/calabash-launcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xing/calabash-launcher' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5273,16 +4590,12 @@
 
     </p>
     </details>
-*   [Cleaner for Xcode (⭐1.6k)](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macOS.
+*   [Cleaner for Xcode (⭐1.5k)](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/waylybaye/XcodeCleaner/releases/latest'><img src='https://img.shields.io/github/v/release/waylybaye/XcodeCleaner?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/waylybaye/XcodeCleaner'><img src='https://img.shields.io/github/stars/waylybaye/XcodeCleaner?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/waylybaye/XcodeCleaner' alt='Last commit'/>   <img src='https://img.shields.io/github/license/waylybaye/XcodeCleaner' alt='License'/>
 *   [CocoaRestClient (⭐2.4k)](https://github.com/mmattozzi/cocoa-rest-client) - Native Apple macOS app for testing HTTP/REST endpoints.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/mmattozzi/cocoa-rest-client/releases/latest'><img src='https://img.shields.io/github/v/release/mmattozzi/cocoa-rest-client?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mmattozzi/cocoa-rest-client'><img src='https://img.shields.io/github/stars/mmattozzi/cocoa-rest-client?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mmattozzi/cocoa-rest-client' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mmattozzi/cocoa-rest-client' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5304,8 +4617,6 @@
 
     **Website:** <https://coronatracker.samabox.com/>
 
-    **Badges:** <a href='https://github.com/MhdHejazi/CoronaTracker/releases/latest'><img src='https://img.shields.io/github/v/release/MhdHejazi/CoronaTracker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MhdHejazi/CoronaTracker'><img src='https://img.shields.io/github/stars/MhdHejazi/CoronaTracker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MhdHejazi/CoronaTracker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MhdHejazi/CoronaTracker' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5316,11 +4627,9 @@
 
     </p>
     </details>
-*   [FilterShop (⭐100)](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters.
+*   [FilterShop (⭐99)](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/KrisYu/FilterShop/releases/latest'><img src='https://img.shields.io/github/v/release/KrisYu/FilterShop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/KrisYu/FilterShop'><img src='https://img.shields.io/github/stars/KrisYu/FilterShop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/KrisYu/FilterShop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/KrisYu/FilterShop' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5334,8 +4643,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/onmyway133/IconGenerator/releases/latest'><img src='https://img.shields.io/github/v/release/onmyway133/IconGenerator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onmyway133/IconGenerator'><img src='https://img.shields.io/github/stars/onmyway133/IconGenerator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onmyway133/IconGenerator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onmyway133/IconGenerator' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5346,11 +4653,9 @@
 
     </p>
     </details>
-*   [Iconizer (⭐888)](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
+*   [Iconizer (⭐890)](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/raphaelhanneken/iconizer/releases/latest'><img src='https://img.shields.io/github/v/release/raphaelhanneken/iconizer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/raphaelhanneken/iconizer'><img src='https://img.shields.io/github/stars/raphaelhanneken/iconizer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/raphaelhanneken/iconizer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/raphaelhanneken/iconizer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5360,21 +4665,15 @@
 
     </p>
     </details>
-*   [Icons.app (⭐571)](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
+*   [Icons.app (⭐633)](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/SAP/macos-icon-generator/releases/latest'><img src='https://img.shields.io/github/v/release/SAP/macos-icon-generator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SAP/macos-icon-generator'><img src='https://img.shields.io/github/stars/SAP/macos-icon-generator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SAP/macos-icon-generator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SAP/macos-icon-generator' alt='License'/>
 *   [InjectionIII (⭐4.6k)](https://github.com/johnno1962/InjectionIII) - overdue Swift rewrite of Injection.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/johnno1962/InjectionIII/releases/latest'><img src='https://img.shields.io/github/v/release/johnno1962/InjectionIII?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/johnno1962/InjectionIII'><img src='https://img.shields.io/github/stars/johnno1962/InjectionIII?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/johnno1962/InjectionIII' alt='Last commit'/>   <img src='https://img.shields.io/github/license/johnno1962/InjectionIII' alt='License'/>
 *   [iOS Images Extractor (⭐2k)](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/devcxm/iOS-Images-Extractor/releases/latest'><img src='https://img.shields.io/github/v/release/devcxm/iOS-Images-Extractor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/devcxm/iOS-Images-Extractor'><img src='https://img.shields.io/github/stars/devcxm/iOS-Images-Extractor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/devcxm/iOS-Images-Extractor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/devcxm/iOS-Images-Extractor' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5389,13 +4688,9 @@
 *   [iSimulator (⭐1.2k)](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/wigl/iSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/wigl/iSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wigl/iSimulator'><img src='https://img.shields.io/github/stars/wigl/iSimulator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wigl/iSimulator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wigl/iSimulator' alt='License'/>
 *   [Knuff (⭐5.2k)](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/KnuffApp/Knuff/releases/latest'><img src='https://img.shields.io/github/v/release/KnuffApp/Knuff?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/KnuffApp/Knuff'><img src='https://img.shields.io/github/stars/KnuffApp/Knuff?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/KnuffApp/Knuff' alt='Last commit'/>   <img src='https://img.shields.io/github/license/KnuffApp/Knuff' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5409,8 +4704,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/yuhua-chen/LayerX/releases/latest'><img src='https://img.shields.io/github/v/release/yuhua-chen/LayerX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yuhua-chen/LayerX'><img src='https://img.shields.io/github/stars/yuhua-chen/LayerX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yuhua-chen/LayerX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yuhua-chen/LayerX' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5422,23 +4715,15 @@
 *   [Localizable.strings (⭐32)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/cristibaluta/Localizable.strings/releases/latest'><img src='https://img.shields.io/github/v/release/cristibaluta/Localizable.strings?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cristibaluta/Localizable.strings'><img src='https://img.shields.io/github/stars/cristibaluta/Localizable.strings?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cristibaluta/Localizable.strings' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cristibaluta/Localizable.strings' alt='License'/>
 *   [Localization Editor (⭐1.5k)](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/igorkulman/iOSLocalizationEditor/releases/latest'><img src='https://img.shields.io/github/v/release/igorkulman/iOSLocalizationEditor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/igorkulman/iOSLocalizationEditor'><img src='https://img.shields.io/github/stars/igorkulman/iOSLocalizationEditor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/igorkulman/iOSLocalizationEditor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/igorkulman/iOSLocalizationEditor' alt='License'/>
 *   [Localizations (⭐129)](https://github.com/e7711bbear/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/e7711bbear/Localizations/releases/latest'><img src='https://img.shields.io/github/v/release/e7711bbear/Localizations?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/e7711bbear/Localizations'><img src='https://img.shields.io/github/stars/e7711bbear/Localizations?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/e7711bbear/Localizations' alt='Last commit'/>   <img src='https://img.shields.io/github/license/e7711bbear/Localizations' alt='License'/>
-*   [Menubar Colors (⭐188)](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.
+*   [Menubar Colors (⭐189)](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/nvzqz/Menubar-Colors/releases/latest'><img src='https://img.shields.io/github/v/release/nvzqz/Menubar-Colors?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nvzqz/Menubar-Colors'><img src='https://img.shields.io/github/stars/nvzqz/Menubar-Colors?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nvzqz/Menubar-Colors' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nvzqz/Menubar-Colors' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5448,11 +4733,9 @@
 
     </p>
     </details>
-*   [Notarize (⭐121)](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts
+*   [Notarize (⭐124)](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/macmade/Notarize/releases/latest'><img src='https://img.shields.io/github/v/release/macmade/Notarize?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/macmade/Notarize'><img src='https://img.shields.io/github/stars/macmade/Notarize?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/macmade/Notarize' alt='Last commit'/>   <img src='https://img.shields.io/github/license/macmade/Notarize' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5462,11 +4745,9 @@
 
     </p>
     </details>
-*   [PodsUpdater (⭐528)](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.
+*   [PodsUpdater (⭐524)](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/kizitonwose/PodsUpdater/releases/latest'><img src='https://img.shields.io/github/v/release/kizitonwose/PodsUpdater?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kizitonwose/PodsUpdater'><img src='https://img.shields.io/github/stars/kizitonwose/PodsUpdater?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kizitonwose/PodsUpdater' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kizitonwose/PodsUpdater' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5482,8 +4763,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/shaojiankui/ProfilesManager/releases/latest'><img src='https://img.shields.io/github/v/release/shaojiankui/ProfilesManager?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shaojiankui/ProfilesManager'><img src='https://img.shields.io/github/stars/shaojiankui/ProfilesManager?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shaojiankui/ProfilesManager' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shaojiankui/ProfilesManager' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5495,8 +4774,6 @@
 *   [PushNotifications (⭐2.3k)](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/onmyway133/PushNotifications/releases/latest'><img src='https://img.shields.io/github/v/release/onmyway133/PushNotifications?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onmyway133/PushNotifications'><img src='https://img.shields.io/github/stars/onmyway133/PushNotifications?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onmyway133/PushNotifications' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onmyway133/PushNotifications' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5516,8 +4793,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/InjoyDeng/ResignTool/releases/latest'><img src='https://img.shields.io/github/v/release/InjoyDeng/ResignTool?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/InjoyDeng/ResignTool'><img src='https://img.shields.io/github/stars/InjoyDeng/ResignTool?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/InjoyDeng/ResignTool' alt='Last commit'/>   <img src='https://img.shields.io/github/license/InjoyDeng/ResignTool' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5526,16 +4801,12 @@
 
     </p>
     </details>
-*   [Resizr (⭐43)](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps.
+*   [Resizr (⭐42)](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/onurgenes/Resizr/releases/latest'><img src='https://img.shields.io/github/v/release/onurgenes/Resizr?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onurgenes/Resizr'><img src='https://img.shields.io/github/stars/onurgenes/Resizr?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onurgenes/Resizr' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onurgenes/Resizr' alt='License'/>
 *   [SmartPush (⭐2.3k)](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/shaojiankui/SmartPush/releases/latest'><img src='https://img.shields.io/github/v/release/shaojiankui/SmartPush?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shaojiankui/SmartPush'><img src='https://img.shields.io/github/stars/shaojiankui/SmartPush?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shaojiankui/SmartPush' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shaojiankui/SmartPush' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5548,18 +4819,12 @@
 *   [TransporterPad (⭐60)](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/iseebi/TransporterPad/releases/latest'><img src='https://img.shields.io/github/v/release/iseebi/TransporterPad?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/iseebi/TransporterPad'><img src='https://img.shields.io/github/stars/iseebi/TransporterPad?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/iseebi/TransporterPad' alt='Last commit'/>   <img src='https://img.shields.io/github/license/iseebi/TransporterPad' alt='License'/>
-*   [WWDC (⭐8.7k)](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.
+*   [WWDC (⭐8.8k)](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/WWDC/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/WWDC?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/WWDC'><img src='https://img.shields.io/github/stars/insidegui/WWDC?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/WWDC' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/WWDC' alt='License'/>
-*   [WWDC.srt (⭐103)](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format.
+*   [WWDC.srt (⭐102)](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ssamadgh/WWDCsrt/releases/latest'><img src='https://img.shields.io/github/v/release/ssamadgh/WWDCsrt?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ssamadgh/WWDCsrt'><img src='https://img.shields.io/github/stars/ssamadgh/WWDCsrt?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ssamadgh/WWDCsrt' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ssamadgh/WWDCsrt' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5575,11 +4840,9 @@
 
     </p>
     </details>
-*   [Xcodes.app (⭐8.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐8.5k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/RobotsAndPencils/XcodesApp/releases/latest'><img src='https://img.shields.io/github/v/release/RobotsAndPencils/XcodesApp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/RobotsAndPencils/XcodesApp'><img src='https://img.shields.io/github/stars/RobotsAndPencils/XcodesApp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/RobotsAndPencils/XcodesApp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/RobotsAndPencils/XcodesApp' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5589,21 +4852,17 @@
 
     </p>
     </details>
-*   [xib2Storyboard (⭐134)](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files.
+*   [xib2Storyboard (⭐133)](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/novemberfiveco/xib2Storyboard/releases/latest'><img src='https://img.shields.io/github/v/release/novemberfiveco/xib2Storyboard?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/novemberfiveco/xib2Storyboard'><img src='https://img.shields.io/github/stars/novemberfiveco/xib2Storyboard?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/novemberfiveco/xib2Storyboard' alt='Last commit'/>   <img src='https://img.shields.io/github/license/novemberfiveco/xib2Storyboard' alt='License'/>
+### 🖼️ Images (17) / ✏️ Text (14)
 
-### 🖼️ Images (17) / ✏️ Text (13)
-
-*   [Iconology (⭐154)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
+*   [Iconology (⭐150)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://apps.apple.com/us/app/iconology/id1463452867>
-
-    **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/>   <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5627,23 +4886,17 @@
 
     </p>
     </details>
-*   [APNGb (⭐322)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.
+*   [APNGb (⭐329)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/shgodoroja/APNGb/releases/latest'><img src='https://img.shields.io/github/v/release/shgodoroja/APNGb?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shgodoroja/APNGb'><img src='https://img.shields.io/github/stars/shgodoroja/APNGb?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shgodoroja/APNGb' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shgodoroja/APNGb' alt='License'/>
 *   [Crunch (⭐3.4k)](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/chrissimpkins/Crunch/releases/latest'><img src='https://img.shields.io/github/v/release/chrissimpkins/Crunch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/chrissimpkins/Crunch'><img src='https://img.shields.io/github/stars/chrissimpkins/Crunch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/chrissimpkins/Crunch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/chrissimpkins/Crunch' alt='License'/>
-*   [ExifCleaner (⭐2.3k)](https://github.com/szTheory/exifcleaner) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
+*   [ExifCleaner (⭐2.6k)](https://github.com/szTheory/exifcleaner) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://exifcleaner.com>
-
-    **Badges:** <a href='https://github.com/szTheory/exifcleaner/releases/latest'><img src='https://img.shields.io/github/v/release/szTheory/exifcleaner?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/szTheory/exifcleaner'><img src='https://img.shields.io/github/stars/szTheory/exifcleaner?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/szTheory/exifcleaner' alt='Last commit'/>   <img src='https://img.shields.io/github/license/szTheory/exifcleaner' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5657,13 +4910,11 @@
 
     </p>
     </details>
-*   [Flameshot (⭐29k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
+*   [Flameshot (⭐31k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://flameshot.org>
-
-    **Badges:** <a href='https://github.com/flameshot-org/flameshot/releases/latest'><img src='https://img.shields.io/github/v/release/flameshot-org/flameshot?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/flameshot-org/flameshot'><img src='https://img.shields.io/github/stars/flameshot-org/flameshot?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/flameshot-org/flameshot' alt='Last commit'/>   <img src='https://img.shields.io/github/license/flameshot-org/flameshot' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5673,11 +4924,9 @@
 
     </p>
     </details>
-*   [Freehand (⭐101)](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch.
+*   [Freehand (⭐102)](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/wddwycc/Freehand/releases/latest'><img src='https://img.shields.io/github/v/release/wddwycc/Freehand?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wddwycc/Freehand'><img src='https://img.shields.io/github/stars/wddwycc/Freehand?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wddwycc/Freehand' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wddwycc/Freehand' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5687,16 +4936,12 @@
 
     </p>
     </details>
-*   [Gimp (⭐6k)](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program.
+*   [Gimp (⭐6.4k)](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/GNOME/gimp/releases/latest'><img src='https://img.shields.io/github/v/release/GNOME/gimp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GNOME/gimp'><img src='https://img.shields.io/github/stars/GNOME/gimp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/GNOME/gimp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/GNOME/gimp' alt='License'/>
-*   [ImageAlpha (⭐481)](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
+*   [ImageAlpha (⭐480)](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/kornelski/ImageAlpha/releases/latest'><img src='https://img.shields.io/github/v/release/kornelski/ImageAlpha?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kornelski/ImageAlpha'><img src='https://img.shields.io/github/stars/kornelski/ImageAlpha?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kornelski/ImageAlpha' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kornelski/ImageAlpha' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5706,11 +4951,9 @@
 
     </p>
     </details>
-*   [Imagine (⭐4.3k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
+*   [Imagine (⭐4.4k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/meowtec/Imagine/releases/latest'><img src='https://img.shields.io/github/v/release/meowtec/Imagine?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/meowtec/Imagine'><img src='https://img.shields.io/github/stars/meowtec/Imagine?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/meowtec/Imagine' alt='Last commit'/>   <img src='https://img.shields.io/github/license/meowtec/Imagine' alt='License'/>
 *   [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is a Free and open source vector graphics editor.
 
     **Languages:** <code>c++</code>
@@ -5728,13 +4971,9 @@
 *   [Katana (⭐366)](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/bluegill/katana/releases/latest'><img src='https://img.shields.io/github/v/release/bluegill/katana?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bluegill/katana'><img src='https://img.shields.io/github/stars/bluegill/katana?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bluegill/katana' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bluegill/katana' alt='License'/>
-*   [PhotoMiner (⭐130)](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.
+*   [PhotoMiner (⭐136)](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/gergelysanta/photominer/releases/latest'><img src='https://img.shields.io/github/v/release/gergelysanta/photominer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gergelysanta/photominer'><img src='https://img.shields.io/github/stars/gergelysanta/photominer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gergelysanta/photominer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gergelysanta/photominer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5754,8 +4993,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/crilleengvall/Screenbar/releases/latest'><img src='https://img.shields.io/github/v/release/crilleengvall/Screenbar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/crilleengvall/Screenbar'><img src='https://img.shields.io/github/stars/crilleengvall/Screenbar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/crilleengvall/Screenbar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/crilleengvall/Screenbar' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5764,11 +5001,9 @@
 
     </p>
     </details>
-*   [Seashore (⭐528)](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
+*   [Seashore (⭐539)](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/robaho/seashore/releases/latest'><img src='https://img.shields.io/github/v/release/robaho/seashore?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/robaho/seashore'><img src='https://img.shields.io/github/stars/robaho/seashore?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/robaho/seashore' alt='Last commit'/>   <img src='https://img.shields.io/github/license/robaho/seashore' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5782,34 +5017,24 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-    **Badges:** <a href='https://github.com/1000ch/WebPonize/releases/latest'><img src='https://img.shields.io/github/v/release/1000ch/WebPonize?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/1000ch/WebPonize'><img src='https://img.shields.io/github/stars/1000ch/WebPonize?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/1000ch/WebPonize' alt='Last commit'/>   <img src='https://img.shields.io/github/license/1000ch/WebPonize' alt='License'/>
-
 ### ⬇️ Downloader (10) / 📱 iOS / macOS (44)
 
-*   [App Downloader (⭐387)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
+*   [App Downloader (⭐412)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/yep/app-downloader/releases/latest'><img src='https://img.shields.io/github/v/release/yep/app-downloader?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yep/app-downloader'><img src='https://img.shields.io/github/stars/yep/app-downloader?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yep/app-downloader' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yep/app-downloader' alt='License'/>
-*   [Extream Download Manager (⭐7.6k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%
+*   [Extream Download Manager (⭐7.9k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://subhra74.github.io/xdm/>
-
-    **Badges:** <a href='https://github.com/subhra74/xdm/releases/latest'><img src='https://img.shields.io/github/v/release/subhra74/xdm?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/subhra74/xdm'><img src='https://img.shields.io/github/stars/subhra74/xdm?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/subhra74/xdm' alt='Last commit'/>   <img src='https://img.shields.io/github/license/subhra74/xdm' alt='License'/>
-*   [Get It (⭐594)](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
+*   [Get It (⭐599)](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Kevin-De-Koninck/Get-It/releases/latest'><img src='https://img.shields.io/github/v/release/Kevin-De-Koninck/Get-It?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Kevin-De-Koninck/Get-It'><img src='https://img.shields.io/github/stars/Kevin-De-Koninck/Get-It?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Kevin-De-Koninck/Get-It' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Kevin-De-Koninck/Get-It' alt='License'/>
-*   [Motrix (⭐51k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [Motrix (⭐54k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://motrix.app/>
-
-    **Badges:** <a href='https://github.com/agalwood/Motrix/releases/latest'><img src='https://img.shields.io/github/v/release/agalwood/Motrix?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/agalwood/Motrix'><img src='https://img.shields.io/github/stars/agalwood/Motrix?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/agalwood/Motrix' alt='Last commit'/>   <img src='https://img.shields.io/github/license/agalwood/Motrix' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5825,11 +5050,9 @@
 
     </p>
     </details>
-*   [Pillager (⭐98)](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C.
+*   [Pillager (⭐102)](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Pjirlip/Pillager/releases/latest'><img src='https://img.shields.io/github/v/release/Pjirlip/Pillager?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Pjirlip/Pillager'><img src='https://img.shields.io/github/stars/Pjirlip/Pillager?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Pjirlip/Pillager' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Pjirlip/Pillager' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5844,13 +5067,9 @@
 *   [udemy-downloader-gui (⭐6.3k)](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/FaisalUmair/udemy-downloader-gui/releases/latest'><img src='https://img.shields.io/github/v/release/FaisalUmair/udemy-downloader-gui?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/FaisalUmair/udemy-downloader-gui'><img src='https://img.shields.io/github/stars/FaisalUmair/udemy-downloader-gui?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/FaisalUmair/udemy-downloader-gui' alt='Last commit'/>   <img src='https://img.shields.io/github/license/FaisalUmair/udemy-downloader-gui' alt='License'/>
-*   [YouTube Downloader for macOS (⭐590)](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.
+*   [YouTube Downloader for macOS (⭐606)](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/latest'><img src='https://img.shields.io/github/v/release/DenBeke/YouTube-Downloader-for-macOS?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/DenBeke/YouTube-Downloader-for-macOS'><img src='https://img.shields.io/github/stars/DenBeke/YouTube-Downloader-for-macOS?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/DenBeke/YouTube-Downloader-for-macOS' alt='Last commit'/>   <img src='https://img.shields.io/github/license/DenBeke/YouTube-Downloader-for-macOS' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5861,15 +5080,13 @@
     </p>
     </details>
 
-### 📝 Editors (7) / 📱 iOS / macOS (44)
+### 📝 Editors (8) / 📱 iOS / macOS (44)
 
-*   [Chime (⭐456)](https://github.com/ChimeHQ/Chime) - An editor for macOS
+*   [Chime (⭐480)](https://github.com/ChimeHQ/Chime) - An editor for macOS
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://www.chimehq.com/>
-
-    **Badges:** <a href='https://github.com/ChimeHQ/Chime/releases/latest'><img src='https://img.shields.io/github/v/release/ChimeHQ/Chime?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ChimeHQ/Chime'><img src='https://img.shields.io/github/stars/ChimeHQ/Chime?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ChimeHQ/Chime' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ChimeHQ/Chime' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5880,7 +5097,7 @@
     </p>
     </details>
 
-### 📝 Editors (7) / 📊 CSV (1)
+### 📝 Editors (8) / 📊 CSV (1)
 
 *   [TableTool (⭐1.4k)](https://github.com/jakob/TableTool) - A simple CSV editor for macOS.
 
@@ -5888,15 +5105,11 @@
 
     **Website:** <https://apps.apple.com/app/table-tool/id1122008420>
 
-    **Badges:** <a href='https://apps.apple.com/app/table-tool/id1122008420'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jakob/TableTool' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
-
-### 📝 Editors (7) / 📋 JSON (2)
+### 📝 Editors (8) / 📋 JSON (2)
 
 *   [JSON Editor (⭐67)](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Badges:** <a href='https://github.com/fand/json-editor-app/releases/latest'><img src='https://img.shields.io/github/v/release/fand/json-editor-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fand/json-editor-app'><img src='https://img.shields.io/github/stars/fand/json-editor-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fand/json-editor-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fand/json-editor-app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5910,8 +5123,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/wellsjo/JSON-Splora/releases/latest'><img src='https://img.shields.io/github/v/release/wellsjo/JSON-Splora?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wellsjo/JSON-Splora'><img src='https://img.shields.io/github/stars/wellsjo/JSON-Splora?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wellsjo/JSON-Splora' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wellsjo/JSON-Splora' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -5923,13 +5134,11 @@
     </p>
     </details>
 
-### 📝 Editors (7) / 📝 Markdown (11)
+### 📝 Editors (8) / 📝 Markdown (12)
 
-*   [Gingko (⭐394)](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.
+*   [Gingko (⭐411)](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.
 
     **Languages:** <img src='./icons/elm-64.png' alt='Elm icon' title='Elm' height='16'/> Elm
-
-    **Badges:** <a href='https://github.com/gingko/client/releases/latest'><img src='https://img.shields.io/github/v/release/gingko/client?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gingko/client'><img src='https://img.shields.io/github/stars/gingko/client?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gingko/client' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gingko/client' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5939,23 +5148,17 @@
 
     </p>
     </details>
-*   [MacDown (⭐9.7k)](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.
+*   [MacDown (⭐9.8k)](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/MacDownApp/macdown/releases/latest'><img src='https://img.shields.io/github/v/release/MacDownApp/macdown?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MacDownApp/macdown'><img src='https://img.shields.io/github/stars/MacDownApp/macdown?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MacDownApp/macdown' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MacDownApp/macdown' alt='License'/>
-*   [Mark Text (⭐54k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
+*   [Mark Text (⭐61k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/marktext/marktext/releases/latest'><img src='https://img.shields.io/github/v/release/marktext/marktext?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/marktext/marktext/'><img src='https://img.shields.io/github/stars/marktext/marktext?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/marktext/marktext' alt='Last commit'/>   <img src='https://img.shields.io/github/license/marktext/marktext' alt='License'/>
-*   [MarkEdit (⭐3.7k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
+*   [MarkEdit (⭐5.5k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://markedit.app/>
-
-    **Badges:** <a href='https://github.com/MarkEdit-app/MarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/MarkEdit-app/MarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MarkEdit-app/MarkEdit'><img src='https://img.shields.io/github/stars/MarkEdit-app/MarkEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MarkEdit-app/MarkEdit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MarkEdit-app/MarkEdit' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -5969,27 +5172,14 @@
 
     </p>
     </details>
-*   [Obsidian plugins & themes (⭐15k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+*   [Obsidian plugins & themes (⭐21k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://obsidian.md/>
-
-    **Badges:** <a href='https://github.com/obsidianmd/obsidian-releases/releases/latest'><img src='https://img.shields.io/github/v/release/obsidianmd/obsidian-releases?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/obsidianmd/obsidian-releases'><img src='https://img.shields.io/github/stars/obsidianmd/obsidian-releases?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/obsidianmd/obsidian-releases' alt='Last commit'/>   <img src='https://img.shields.io/github/license/obsidianmd/obsidian-releases' alt='License'/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
 *   [Pine (⭐3.5k)](https://github.com/lukakerr/Pine) - A modern MacOS markdown editor.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/lukakerr/Pine/releases/latest'><img src='https://img.shields.io/github/v/release/lukakerr/Pine?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lukakerr/Pine'><img src='https://img.shields.io/github/stars/lukakerr/Pine?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lukakerr/Pine' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lukakerr/Pine' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6009,8 +5199,6 @@
 
     **Website:** <https://www.zettlr.com/>
 
-    **Badges:** <a href='https://github.com/Zettlr/Zettlr/releases/latest'><img src='https://img.shields.io/github/v/release/Zettlr/Zettlr?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Zettlr/Zettlr'><img src='https://img.shields.io/github/stars/Zettlr/Zettlr?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Zettlr/Zettlr' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Zettlr/Zettlr' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6020,15 +5208,13 @@
     </p>
     </details>
 
-### 📔 Notes (19) / ✏️ Text (13)
+### 📔 Notes (19) / ✏️ Text (14)
 
-*   [Notenik (⭐106)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
+*   [Notenik (⭐112)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://notenik.app>
-
-    **Badges:** <a href='https://github.com/hbowie/notenik-swift/releases/latest'><img src='https://img.shields.io/github/v/release/hbowie/notenik-swift?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hbowie/notenik-swift'><img src='https://img.shields.io/github/stars/hbowie/notenik-swift?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hbowie/notenik-swift' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hbowie/notenik-swift' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6042,8 +5228,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/BoostIO/BoostNote-Legacy/releases/latest'><img src='https://img.shields.io/github/v/release/BoostIO/BoostNote-Legacy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/BoostIO/BoostNote-Legacy'><img src='https://img.shields.io/github/stars/BoostIO/BoostNote-Legacy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/BoostIO/BoostNote-Legacy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/BoostIO/BoostNote-Legacy' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6052,13 +5236,11 @@
 
     </p>
     </details>
-*   [Dnote (⭐3k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface.
+*   [Dnote (⭐3.1k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface.
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://www.getdnote.com/>
-
-    **Badges:** <a href='https://github.com/dnote/dnote/releases/latest'><img src='https://img.shields.io/github/v/release/dnote/dnote?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dnote/dnote'><img src='https://img.shields.io/github/stars/dnote/dnote?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dnote/dnote' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dnote/dnote' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6068,16 +5250,12 @@
 
     </p>
     </details>
-*   [FromScratch (⭐727)](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app.
+*   [FromScratch (⭐733)](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/Kilian/fromscratch/releases/latest'><img src='https://img.shields.io/github/v/release/Kilian/fromscratch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Kilian/fromscratch'><img src='https://img.shields.io/github/stars/Kilian/fromscratch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Kilian/fromscratch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Kilian/fromscratch' alt='License'/>
-*   [FSNotes (⭐7.2k)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
+*   [FSNotes (⭐7.5k)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/glushchenko/fsnotes/releases/latest'><img src='https://img.shields.io/github/v/release/glushchenko/fsnotes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/glushchenko/fsnotes'><img src='https://img.shields.io/github/stars/glushchenko/fsnotes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/glushchenko/fsnotes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/glushchenko/fsnotes' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6089,21 +5267,15 @@
 
     </p>
     </details>
-*   [joplin (⭐53k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+*   [joplin (⭐56k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/laurent22/joplin/releases/latest'><img src='https://img.shields.io/github/v/release/laurent22/joplin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/laurent22/joplin'><img src='https://img.shields.io/github/stars/laurent22/joplin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/laurent22/joplin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/laurent22/joplin' alt='License'/>
-*   [Jupyter Notebook Viewer (⭐778)](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.
+*   [Jupyter Notebook Viewer (⭐782)](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/tuxu/nbviewer-app/releases/latest'><img src='https://img.shields.io/github/v/release/tuxu/nbviewer-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tuxu/nbviewer-app'><img src='https://img.shields.io/github/stars/tuxu/nbviewer-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tuxu/nbviewer-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tuxu/nbviewer-app' alt='License'/>
-*   [notable (⭐188)](https://github.com/jmcfarlane/notable) - Simple note taking application.
+*   [notable (⭐191)](https://github.com/jmcfarlane/notable) - Simple note taking application.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/jmcfarlane/notable/releases/latest'><img src='https://img.shields.io/github/v/release/jmcfarlane/notable?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jmcfarlane/notable'><img src='https://img.shields.io/github/stars/jmcfarlane/notable?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jmcfarlane/notable' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jmcfarlane/notable' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6119,16 +5291,12 @@
 
     </p>
     </details>
-*   [Notes (⭐19)](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc.
+*   [Notes (⭐20)](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/SauvageP/Notes/releases/latest'><img src='https://img.shields.io/github/v/release/SauvageP/Notes?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SauvageP/Notes'><img src='https://img.shields.io/github/stars/SauvageP/Notes?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SauvageP/Notes' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SauvageP/Notes' alt='License'/>
 *   [NoteTaker (⭐177)](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/NoteTaker/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/NoteTaker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/NoteTaker'><img src='https://img.shields.io/github/stars/insidegui/NoteTaker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/NoteTaker' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/NoteTaker' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6138,11 +5306,9 @@
 
     </p>
     </details>
-*   [Simplenote (⭐1.5k)](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes.
+*   [Simplenote (⭐1.6k)](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Automattic/simplenote-macos/releases/latest'><img src='https://img.shields.io/github/v/release/Automattic/simplenote-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Automattic/simplenote-macos'><img src='https://img.shields.io/github/stars/Automattic/simplenote-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Automattic/simplenote-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Automattic/simplenote-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6152,16 +5318,12 @@
 
     </p>
     </details>
-*   [Standard Notes (⭐6.3k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work.
+*   [Standard Notes (⭐6.6k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/standardnotes/app/releases/latest'><img src='https://img.shields.io/github/v/release/standardnotes/app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/standardnotes/app'><img src='https://img.shields.io/github/stars/standardnotes/app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/standardnotes/app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/standardnotes/app' alt='License'/>
-*   [tmpNote (⭐93)](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes.
+*   [tmpNote (⭐95)](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/buddax2/tmpNote/releases/latest'><img src='https://img.shields.io/github/v/release/buddax2/tmpNote?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/buddax2/tmpNote'><img src='https://img.shields.io/github/stars/buddax2/tmpNote?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/buddax2/tmpNote' alt='Last commit'/>   <img src='https://img.shields.io/github/license/buddax2/tmpNote' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6175,15 +5337,11 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-    **Badges:** <a href='https://github.com/klaudiosinani/tusk/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/tusk?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/klaudiosinani/tusk'><img src='https://img.shields.io/github/stars/klaudiosinani/tusk?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/klaudiosinani/tusk' alt='Last commit'/>   <img src='https://img.shields.io/github/license/klaudiosinani/tusk' alt='License'/>
+### 📝 Editors (8) / 📐 TeX (2)
 
-### 📝 Editors (7) / 📐 TeX (2)
-
-*   [Qilin Editor (⭐439)](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
+*   [Qilin Editor (⭐441)](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/qilin-editor/qilin-app/releases/latest'><img src='https://img.shields.io/github/v/release/qilin-editor/qilin-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/qilin-editor/qilin-app'><img src='https://img.shields.io/github/stars/qilin-editor/qilin-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/qilin-editor/qilin-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/qilin-editor/qilin-app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6198,13 +5356,11 @@
     </p>
     </details>
 
-### 📝 Editors (7) / ✏️ Text (13)
+### 📝 Editors (8) / ✏️ Text (14)
 
-*   [CotEditor (⭐7.6k)](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.
+*   [CotEditor (⭐8.4k)](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/coteditor/CotEditor/releases/latest'><img src='https://img.shields.io/github/v/release/coteditor/CotEditor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/coteditor/CotEditor'><img src='https://img.shields.io/github/stars/coteditor/CotEditor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/coteditor/CotEditor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/coteditor/CotEditor' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6214,18 +5370,14 @@
 
     </p>
     </details>
-*   [MacVim (⭐7.8k)](https://github.com/macvim-dev/macvim) - Text editor for macOS.
+*   [MacVim (⭐7.9k)](https://github.com/macvim-dev/macvim) - Text editor for macOS.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/macvim-dev/macvim/releases/latest'><img src='https://img.shields.io/github/v/release/macvim-dev/macvim?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/macvim-dev/macvim'><img src='https://img.shields.io/github/stars/macvim-dev/macvim?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/macvim-dev/macvim' alt='Last commit'/>   <img src='https://img.shields.io/github/license/macvim-dev/macvim' alt='License'/>
-*   [micro (⭐28k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
+*   [micro (⭐29k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
     **Website:** <https://micro-editor.github.io>
-
-    **Badges:** <a href='https://github.com/zyedidia/micro/releases/latest'><img src='https://img.shields.io/github/v/release/zyedidia/micro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zyedidia/micro'><img src='https://img.shields.io/github/stars/zyedidia/micro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zyedidia/micro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zyedidia/micro' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6241,11 +5393,9 @@
 
     </p>
     </details>
-*   [Noto (⭐294)](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.
+*   [Noto (⭐301)](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/brunophilipe/noto/releases/latest'><img src='https://img.shields.io/github/v/release/brunophilipe/noto?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/brunophilipe/noto'><img src='https://img.shields.io/github/stars/brunophilipe/noto?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/brunophilipe/noto' alt='Last commit'/>   <img src='https://img.shields.io/github/license/brunophilipe/noto' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6261,8 +5411,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/subethaedit/SubEthaEdit/releases/latest'><img src='https://img.shields.io/github/v/release/subethaedit/SubEthaEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/subethaedit/SubEthaEdit'><img src='https://img.shields.io/github/stars/subethaedit/SubEthaEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/subethaedit/SubEthaEdit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/subethaedit/SubEthaEdit' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6277,8 +5425,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/textmate/textmate/releases/latest'><img src='https://img.shields.io/github/v/release/textmate/textmate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/textmate/textmate'><img src='https://img.shields.io/github/stars/textmate/textmate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/textmate/textmate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/textmate/textmate' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6287,28 +5433,22 @@
 
     </p>
     </details>
-*   [Tincta (⭐156)](https://github.com/CodingFriends/Tincta) - One-window text editor with syntax highlighting.
+*   [Tincta (⭐160)](https://github.com/CodingFriends/Tincta) - One-window text editor with syntax highlighting.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://codingfriends.github.io/Tincta/>
-
-    **Badges:** <a href='https://github.com/CodingFriends/Tincta/releases/latest'><img src='https://img.shields.io/github/v/release/CodingFriends/Tincta?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CodingFriends/Tincta'><img src='https://img.shields.io/github/stars/CodingFriends/Tincta?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CodingFriends/Tincta' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CodingFriends/Tincta' alt='License'/>
-*   [VimR (⭐6.9k)](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS.
+*   [VimR (⭐7k)](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/qvacua/vimr/releases/latest'><img src='https://img.shields.io/github/v/release/qvacua/vimr?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/qvacua/vimr'><img src='https://img.shields.io/github/stars/qvacua/vimr?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/qvacua/vimr' alt='Last commit'/>   <img src='https://img.shields.io/github/license/qvacua/vimr' alt='License'/>
-
-### 🧩 Extensions (14) / ✏️ Text (13)
+### 🧩 Extensions (14) / ✏️ Text (14)
 
 *   [AdGuard for Safari (⭐1.2k)](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://adguard.com/en/welcome.html>
-
-    **Badges:** <a href='https://github.com/adguardteam/adguardforsafari/releases/latest'><img src='https://img.shields.io/github/v/release/adguardteam/adguardforsafari?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/adguardteam/adguardforsafari'><img src='https://img.shields.io/github/stars/adguardteam/adguardforsafari?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/adguardteam/adguardforsafari' alt='Last commit'/>   <img src='https://img.shields.io/github/license/adguardteam/adguardforsafari' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6318,11 +5458,9 @@
 
     </p>
     </details>
-*   [BetterPiP (⭐96)](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.
+*   [BetterPiP (⭐91)](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Capevace/BetterPiP/releases/latest'><img src='https://img.shields.io/github/v/release/Capevace/BetterPiP?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Capevace/BetterPiP'><img src='https://img.shields.io/github/stars/Capevace/BetterPiP?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Capevace/BetterPiP' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Capevace/BetterPiP' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6332,13 +5470,11 @@
 
     </p>
     </details>
-*   [Is It Private? (⭐16)](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.
+*   [Is It Private? (⭐17)](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://florian.codes/projects/is-it-private/>
-
-    **Badges:** <a href='https://github.com/ffittschen/IsItPrivate/releases/latest'><img src='https://img.shields.io/github/v/release/ffittschen/IsItPrivate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ffittschen/IsItPrivate'><img src='https://img.shields.io/github/stars/ffittschen/IsItPrivate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ffittschen/IsItPrivate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ffittschen/IsItPrivate' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6348,13 +5484,11 @@
 
     </p>
     </details>
-*   [nef (⭐202)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐201)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://nef.bow-swift.io/>
-
-    **Badges:** <a href='https://github.com/bow-swift/nef-plugin/releases/latest'><img src='https://img.shields.io/github/v/release/bow-swift/nef-plugin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bow-swift/nef-plugin'><img src='https://img.shields.io/github/stars/bow-swift/nef-plugin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bow-swift/nef-plugin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bow-swift/nef-plugin' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6366,11 +5500,9 @@
 
     </p>
     </details>
-*   [PageExtender (⭐156)](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files.
+*   [PageExtender (⭐155)](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/fphilipe/PageExtender.app/releases/latest'><img src='https://img.shields.io/github/v/release/fphilipe/PageExtender.app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fphilipe/PageExtender.app'><img src='https://img.shields.io/github/stars/fphilipe/PageExtender.app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fphilipe/PageExtender.app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fphilipe/PageExtender.app' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6380,11 +5512,9 @@
 
     </p>
     </details>
-*   [PiPifier (⭐795)](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
+*   [PiPifier (⭐797)](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/arnoappenzeller/PiPifier/releases/latest'><img src='https://img.shields.io/github/v/release/arnoappenzeller/PiPifier?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/arnoappenzeller/PiPifier'><img src='https://img.shields.io/github/stars/arnoappenzeller/PiPifier?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/arnoappenzeller/PiPifier' alt='Last commit'/>   <img src='https://img.shields.io/github/license/arnoappenzeller/PiPifier' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6401,15 +5531,11 @@
 *   [PiPTool (⭐363)](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/bfmatei/PiPTool/releases/latest'><img src='https://img.shields.io/github/v/release/bfmatei/PiPTool?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bfmatei/PiPTool'><img src='https://img.shields.io/github/stars/bfmatei/PiPTool?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bfmatei/PiPTool' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bfmatei/PiPTool' alt='License'/>
 *   [Swimat (⭐1.6k)](https://github.com/Jintin/Swimat) - Swimat is an Xcode plug-in to format your Swift code.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://jintin.github.io/Swimat/>
-
-    **Badges:** <a href='https://github.com/Jintin/Swimat/releases/latest'><img src='https://img.shields.io/github/v/release/Jintin/Swimat?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Jintin/Swimat'><img src='https://img.shields.io/github/stars/Jintin/Swimat?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Jintin/Swimat' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Jintin/Swimat' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6420,23 +5546,17 @@
     </p>
     </details>
 
-### 📺 Terminal (15) / ✏️ Text (13)
+### 📺 Terminal (16) / ✏️ Text (14)
 
 *   [cd to...  (⭐2.4k)](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/jbtule/cdto/releases/latest'><img src='https://img.shields.io/github/v/release/jbtule/cdto?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jbtule/cdto'><img src='https://img.shields.io/github/stars/jbtule/cdto?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jbtule/cdto' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jbtule/cdto' alt='License'/>
 *   [Finder Go (⭐1.2k)](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/onmyway133/FinderGo/releases/latest'><img src='https://img.shields.io/github/v/release/onmyway133/FinderGo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/onmyway133/FinderGo'><img src='https://img.shields.io/github/stars/onmyway133/FinderGo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/onmyway133/FinderGo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/onmyway133/FinderGo' alt='License'/>
-*   [OpenInTerminal (⭐6.7k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+*   [OpenInTerminal (⭐7k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Ji4n1ng/OpenInTerminal/releases/latest'><img src='https://img.shields.io/github/v/release/Ji4n1ng/OpenInTerminal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Ji4n1ng/OpenInTerminal'><img src='https://img.shields.io/github/stars/Ji4n1ng/OpenInTerminal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Ji4n1ng/OpenInTerminal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Ji4n1ng/OpenInTerminal' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6448,11 +5568,9 @@
 
     </p>
     </details>
-*   [Alacritty (⭐62k)](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+*   [Alacritty (⭐65k)](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Badges:** <a href='https://github.com/alacritty/alacritty/releases/latest'><img src='https://img.shields.io/github/v/release/alacritty/alacritty?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alacritty/alacritty'><img src='https://img.shields.io/github/stars/alacritty/alacritty?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alacritty/alacritty' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alacritty/alacritty' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6462,16 +5580,12 @@
 
     </p>
     </details>
-*   [Bifrost (⭐84)](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
+*   [Bifrost (⭐85)](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
-
-    **Badges:** <a href='https://github.com/ishuah/bifrost/releases/latest'><img src='https://img.shields.io/github/v/release/ishuah/bifrost?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ishuah/bifrost'><img src='https://img.shields.io/github/stars/ishuah/bifrost?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ishuah/bifrost' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ishuah/bifrost' alt='License'/>
 *   [Console (⭐427)](https://github.com/macmade/Console) - macOS console application.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/macmade/Console/releases/latest'><img src='https://img.shields.io/github/v/release/macmade/Console?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/macmade/Console'><img src='https://img.shields.io/github/stars/macmade/Console?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/macmade/Console' alt='Last commit'/>   <img src='https://img.shields.io/github/license/macmade/Console' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6485,8 +5599,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-    **Badges:** <a href='https://github.com/vercel/hyper/releases/latest'><img src='https://img.shields.io/github/v/release/vercel/hyper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vercel/hyper'><img src='https://img.shields.io/github/stars/vercel/hyper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vercel/hyper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vercel/hyper' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6495,34 +5607,24 @@
 
     </p>
     </details>
-*   [iTerm 2 (⭐17k)](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
+*   [iTerm 2 (⭐18k)](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/gnachman/iTerm2/releases/latest'><img src='https://img.shields.io/github/v/release/gnachman/iTerm2?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gnachman/iTerm2'><img src='https://img.shields.io/github/stars/gnachman/iTerm2?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gnachman/iTerm2' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gnachman/iTerm2' alt='License'/>
-*   [Kitty (⭐31k)](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
+*   [Kitty (⭐35k)](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/kovidgoyal/kitty/releases/latest'><img src='https://img.shields.io/github/v/release/kovidgoyal/kitty?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kovidgoyal/kitty'><img src='https://img.shields.io/github/stars/kovidgoyal/kitty?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kovidgoyal/kitty' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kovidgoyal/kitty' alt='License'/>
-*   [OpenTerminal (⭐106)](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.
+*   [OpenTerminal (⭐107)](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/es-kumagai/OpenTerminal/releases/latest'><img src='https://img.shields.io/github/v/release/es-kumagai/OpenTerminal?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/es-kumagai/OpenTerminal'><img src='https://img.shields.io/github/stars/es-kumagai/OpenTerminal?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/es-kumagai/OpenTerminal' alt='Last commit'/>   <img src='https://img.shields.io/github/license/es-kumagai/OpenTerminal' alt='License'/>
 *   [wallpapper (⭐3.4k)](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/mczachurski/wallpapper/releases/latest'><img src='https://img.shields.io/github/v/release/mczachurski/wallpapper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mczachurski/wallpapper'><img src='https://img.shields.io/github/stars/mczachurski/wallpapper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mczachurski/wallpapper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mczachurski/wallpapper' alt='License'/>
+### 🔍 Finder (13) / ✏️ Text (14)
 
-### 🔍 Finder (13) / ✏️ Text (13)
-
-*   [Clipy (⭐8.4k)](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
+*   [Clipy (⭐8.8k)](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Clipy/Clipy/releases/latest'><img src='https://img.shields.io/github/v/release/Clipy/Clipy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Clipy/Clipy'><img src='https://img.shields.io/github/stars/Clipy/Clipy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Clipy/Clipy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Clipy/Clipy' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6534,16 +5636,12 @@
 
     </p>
     </details>
-*   [CopyQ (⭐11k)](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+*   [CopyQ (⭐12k)](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/hluk/CopyQ/releases/latest'><img src='https://img.shields.io/github/v/release/hluk/CopyQ?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hluk/CopyQ'><img src='https://img.shields.io/github/stars/hluk/CopyQ?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hluk/CopyQ' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hluk/CopyQ' alt='License'/>
-*   [FiScript (⭐522)](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+*   [FiScript (⭐529)](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Mortennn/FiScript/releases/latest'><img src='https://img.shields.io/github/v/release/Mortennn/FiScript?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mortennn/FiScript'><img src='https://img.shields.io/github/stars/Mortennn/FiScript?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mortennn/FiScript' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mortennn/FiScript' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6555,11 +5653,9 @@
 
     </p>
     </details>
-*   [OpenInCode (⭐909)](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.
+*   [OpenInCode (⭐912)](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/sozercan/OpenInCode/releases/latest'><img src='https://img.shields.io/github/v/release/sozercan/OpenInCode?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sozercan/OpenInCode'><img src='https://img.shields.io/github/stars/sozercan/OpenInCode?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sozercan/OpenInCode' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sozercan/OpenInCode' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6572,8 +5668,6 @@
 *   [Quick Look plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/sindresorhus/quick-look-plugins/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/quick-look-plugins?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/quick-look-plugins'><img src='https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/quick-look-plugins' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6590,7 +5684,7 @@
     </p>
     </details>
 
-### 🎮 Games (13) / ✏️ Text (13)
+### 🎮 Games (13) / ✏️ Text (14)
 
 *   [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
@@ -6608,16 +5702,12 @@
 
     </p>
     </details>
-*   [Battle for Wesnoth (⭐6.4k)](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
+*   [Battle for Wesnoth (⭐6.8k)](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/wesnoth/wesnoth/releases/latest'><img src='https://img.shields.io/github/v/release/wesnoth/wesnoth?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/wesnoth/wesnoth'><img src='https://img.shields.io/github/stars/wesnoth/wesnoth?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/wesnoth/wesnoth' alt='Last commit'/>   <img src='https://img.shields.io/github/license/wesnoth/wesnoth' alt='License'/>
-*   [Boxer (⭐785)](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac.
+*   [Boxer (⭐791)](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/alunbestor/Boxer/releases/latest'><img src='https://img.shields.io/github/v/release/alunbestor/Boxer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alunbestor/Boxer'><img src='https://img.shields.io/github/stars/alunbestor/Boxer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alunbestor/Boxer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alunbestor/Boxer' alt='License'/>
 *   [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS.
 
     **Languages:** <code>objective-c</code>
@@ -6635,15 +5725,11 @@
 *   [Dolphin (⭐15k)](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/dolphin-emu/dolphin/releases/latest'><img src='https://img.shields.io/github/v/release/dolphin-emu/dolphin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dolphin-emu/dolphin'><img src='https://img.shields.io/github/stars/dolphin-emu/dolphin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dolphin-emu/dolphin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dolphin-emu/dolphin' alt='License'/>
 *   [Dynamic Dark Mode (⭐516)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://apollozhu.github.io/Dynamic-Dark-Mode/>
-
-    **Badges:** <a href='https://github.com/ApolloZhu/Dynamic-Dark-Mode/releases/latest'><img src='https://img.shields.io/github/v/release/ApolloZhu/Dynamic-Dark-Mode?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ApolloZhu/Dynamic-Dark-Mode'><img src='https://img.shields.io/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ApolloZhu/Dynamic-Dark-Mode' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6653,11 +5739,9 @@
 
     </p>
     </details>
-*   [OpenEmu (⭐17k)](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.
+*   [OpenEmu (⭐18k)](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/OpenEmu/OpenEmu/releases/latest'><img src='https://img.shields.io/github/v/release/OpenEmu/OpenEmu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/OpenEmu/OpenEmu'><img src='https://img.shields.io/github/stars/OpenEmu/OpenEmu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/OpenEmu/OpenEmu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/OpenEmu/OpenEmu' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6667,11 +5751,9 @@
 
     </p>
     </details>
-*   [OpenRCT2 (⭐15k)](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2.
+*   [OpenRCT2 (⭐16k)](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/OpenRCT2/OpenRCT2/releases/latest'><img src='https://img.shields.io/github/v/release/OpenRCT2/OpenRCT2?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/OpenRCT2/OpenRCT2'><img src='https://img.shields.io/github/stars/OpenRCT2/OpenRCT2?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/OpenRCT2/OpenRCT2' alt='Last commit'/>   <img src='https://img.shields.io/github/license/OpenRCT2/OpenRCT2' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6685,8 +5767,6 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/AaronRandall/Screentendo/releases/latest'><img src='https://img.shields.io/github/v/release/AaronRandall/Screentendo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AaronRandall/Screentendo'><img src='https://img.shields.io/github/stars/AaronRandall/Screentendo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AaronRandall/Screentendo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AaronRandall/Screentendo' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6695,18 +5775,14 @@
 
     </p>
     </details>
-*   [Stockfish (⭐528)](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
+*   [Stockfish (⭐537)](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/daylen/stockfish-mac/releases/latest'><img src='https://img.shields.io/github/v/release/daylen/stockfish-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/daylen/stockfish-mac'><img src='https://img.shields.io/github/stars/daylen/stockfish-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/daylen/stockfish-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/daylen/stockfish-mac' alt='License'/>
-*   [Widelands (⭐2.2k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+*   [Widelands (⭐3k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
     **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.widelands.org>
-
-    **Badges:** <a href='https://github.com/widelands/widelands/releases/latest'><img src='https://img.shields.io/github/v/release/widelands/widelands?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/widelands/widelands'><img src='https://img.shields.io/github/stars/widelands/widelands?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/widelands/widelands' alt='Last commit'/>   <img src='https://img.shields.io/github/license/widelands/widelands' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6717,13 +5793,11 @@
     </p>
     </details>
 
-### 🏥 Medical (1) / ✏️ Text (13)
+### 🏥 Medical (1) / ✏️ Text (14)
 
-*   [InVesalius (⭐759)](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software
+*   [InVesalius (⭐800)](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/invesalius/invesalius3/releases/latest'><img src='https://img.shields.io/github/v/release/invesalius/invesalius3?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/invesalius/invesalius3/'><img src='https://img.shields.io/github/stars/invesalius/invesalius3?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/invesalius/invesalius3' alt='Last commit'/>   <img src='https://img.shields.io/github/license/invesalius/invesalius3' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6738,38 +5812,26 @@
     </p>
     </details>
 
-### ⌨️ Keyboard (10) / ✏️ Text (13)
+### ⌨️ Keyboard (11) / ✏️ Text (14)
 
-*   [AnnePro-mac (⭐132)](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
-
-    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/msvisser/AnnePro-mac/releases/latest'><img src='https://img.shields.io/github/v/release/msvisser/AnnePro-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/msvisser/AnnePro-mac'><img src='https://img.shields.io/github/stars/msvisser/AnnePro-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/msvisser/AnnePro-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/msvisser/AnnePro-mac' alt='License'/>
-*   [Fluor (⭐2.1k)](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.
+*   [AnnePro-mac (⭐131)](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+*   [Fluor (⭐2.2k)](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 
-    **Badges:** <a href='https://github.com/Pyroh/Fluor/releases/latest'><img src='https://img.shields.io/github/v/release/Pyroh/Fluor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Pyroh/Fluor'><img src='https://img.shields.io/github/stars/Pyroh/Fluor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Pyroh/Fluor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Pyroh/Fluor' alt='License'/>
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 *   [GokuRakuJoudo (⭐1.4k)](https://github.com/yqrashawn/GokuRakuJoudo) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json
 
     **Languages:** <img src='./icons/clojure-64.png' alt='Clojure icon' title='Clojure' height='16'/> Clojure
-
-    **Badges:** <a href='https://github.com/yqrashawn/GokuRakuJoudo/releases/latest'><img src='https://img.shields.io/github/v/release/yqrashawn/GokuRakuJoudo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yqrashawn/GokuRakuJoudo'><img src='https://img.shields.io/github/stars/yqrashawn/GokuRakuJoudo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yqrashawn/GokuRakuJoudo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yqrashawn/GokuRakuJoudo' alt='License'/>
 *   [Karabiner (⭐3.8k)](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/tekezo/Karabiner/releases/latest'><img src='https://img.shields.io/github/v/release/tekezo/Karabiner?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tekezo/Karabiner'><img src='https://img.shields.io/github/stars/tekezo/Karabiner?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tekezo/Karabiner' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tekezo/Karabiner' alt='License'/>
-*   [Karabiner-Elements (⭐21k)](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+*   [Karabiner-Elements (⭐23k)](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/pqrs-org/Karabiner-Elements/releases/latest'><img src='https://img.shields.io/github/v/release/pqrs-org/Karabiner-Elements?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pqrs-org/Karabiner-Elements'><img src='https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pqrs-org/Karabiner-Elements' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pqrs-org/Karabiner-Elements' alt='License'/>
 *   [Kawa (⭐1.5k)](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/hatashiro/kawa/releases/latest'><img src='https://img.shields.io/github/v/release/hatashiro/kawa?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hatashiro/kawa'><img src='https://img.shields.io/github/stars/hatashiro/kawa?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hatashiro/kawa' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hatashiro/kawa' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6785,8 +5847,6 @@
 
     **Languages:** <code>Objective-C</code>
 
-    **Badges:** <a href='https://github.com/keycastr/keycastr/releases/latest'><img src='https://img.shields.io/github/v/release/keycastr/keycastr?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/keycastr/keycastr'><img src='https://img.shields.io/github/stars/keycastr/keycastr?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/keycastr/keycastr' alt='Last commit'/>   <img src='https://img.shields.io/github/license/keycastr/keycastr' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6798,8 +5858,6 @@
 *   [Thor (⭐1.3k)](https://github.com/gbammc/Thor) - Switch the right application ASAP.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/gbammc/Thor/releases/latest'><img src='https://img.shields.io/github/v/release/gbammc/Thor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gbammc/Thor'><img src='https://img.shields.io/github/stars/gbammc/Thor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gbammc/Thor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gbammc/Thor' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6817,8 +5875,6 @@
 
     **Website:** <https://unshaky.nestederror.com/>
 
-    **Badges:** <a href='https://github.com/aahung/Unshaky/releases/latest'><img src='https://img.shields.io/github/v/release/aahung/Unshaky?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/aahung/Unshaky'><img src='https://img.shields.io/github/stars/aahung/Unshaky?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/aahung/Unshaky' alt='Last commit'/>   <img src='https://img.shields.io/github/license/aahung/Unshaky' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -6830,18 +5886,14 @@
     </p>
     </details>
 
-### 📊 Menubar (52) / ✏️ Text (13)
+### 📊 Menubar (57) / ✏️ Text (14)
 
-*   [Airpass (⭐589)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
+*   [Airpass (⭐590)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/alvesjtiago/airpass/releases/latest'><img src='https://img.shields.io/github/v/release/alvesjtiago/airpass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alvesjtiago/airpass'><img src='https://img.shields.io/github/stars/alvesjtiago/airpass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alvesjtiago/airpass' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alvesjtiago/airpass' alt='License'/>
-*   [Akku (⭐608)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app.
+*   [Akku (⭐604)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
-
-    **Badges:** <a href='https://github.com/jariz/Akku/releases/latest'><img src='https://img.shields.io/github/v/release/jariz/Akku?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jariz/Akku'><img src='https://img.shields.io/github/stars/jariz/Akku?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jariz/Akku' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jariz/Akku' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6854,29 +5906,25 @@
 *   [AnyBar (⭐6k)](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
+*   [BarTranslate (⭐236)](https://github.com/ThijmenDam/BarTranslate) - A handy (native) menu bar translator app that supports Google Translate.
 
-    **Badges:** <a href='https://github.com/tonsky/AnyBar/releases/latest'><img src='https://img.shields.io/github/v/release/tonsky/AnyBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tonsky/AnyBar'><img src='https://img.shields.io/github/stars/tonsky/AnyBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tonsky/AnyBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tonsky/AnyBar' alt='License'/>
-*   [BarTranslate (⭐226)](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate.
-
-    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://thijmendam.github.io/BarTranslate/>
-
-    **Badges:** <a href='https://github.com/ThijmenDam/BarTranslate/releases/latest'><img src='https://img.shields.io/github/v/release/ThijmenDam/BarTranslate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ThijmenDam/BarTranslate'><img src='https://img.shields.io/github/stars/ThijmenDam/BarTranslate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ThijmenDam/BarTranslate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ThijmenDam/BarTranslate' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
     <p>
 
-    <img src='https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+    <img src='https://github.com/ThijmenDam/BarTranslate/raw/master/promo/BarTranslate-AppStore-promo-1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://github.com/ThijmenDam/BarTranslate/raw/master/promo/BarTranslate-AppStore-promo-2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
-*   [CloudyTabs (⭐796)](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.
+*   [CloudyTabs (⭐799)](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/josh-/CloudyTabs/releases/latest'><img src='https://img.shields.io/github/v/release/josh-/CloudyTabs?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/josh-/CloudyTabs'><img src='https://img.shields.io/github/stars/josh-/CloudyTabs?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/josh-/CloudyTabs' alt='Last commit'/>   <img src='https://img.shields.io/github/license/josh-/CloudyTabs' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6886,21 +5934,15 @@
 
     </p>
     </details>
-*   [DatWeatherDoe (⭐531)](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
+*   [DatWeatherDoe (⭐536)](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/inderdhir/DatWeatherDoe/releases/latest'><img src='https://img.shields.io/github/v/release/inderdhir/DatWeatherDoe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/inderdhir/DatWeatherDoe'><img src='https://img.shields.io/github/stars/inderdhir/DatWeatherDoe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/inderdhir/DatWeatherDoe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/inderdhir/DatWeatherDoe' alt='License'/>
-*   [DisplayMenu (⭐49)](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.
+*   [DisplayMenu (⭐48)](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Kwpolska/DisplayMenu/releases/latest'><img src='https://img.shields.io/github/v/release/Kwpolska/DisplayMenu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Kwpolska/DisplayMenu'><img src='https://img.shields.io/github/stars/Kwpolska/DisplayMenu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Kwpolska/DisplayMenu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Kwpolska/DisplayMenu' alt='License'/>
-*   [Dozer (⭐8.6k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items.
+*   [Dozer (⭐8.7k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Mortennn/Dozer/releases/latest'><img src='https://img.shields.io/github/v/release/Mortennn/Dozer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mortennn/Dozer'><img src='https://img.shields.io/github/stars/Mortennn/Dozer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mortennn/Dozer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mortennn/Dozer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6910,16 +5952,12 @@
 
     </p>
     </details>
-*   [gSwitch (⭐920)](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.
+*   [gSwitch (⭐922)](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/CodySchrank/gSwitch/releases/latest'><img src='https://img.shields.io/github/v/release/CodySchrank/gSwitch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CodySchrank/gSwitch'><img src='https://img.shields.io/github/stars/CodySchrank/gSwitch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CodySchrank/gSwitch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CodySchrank/gSwitch' alt='License'/>
-*   [Hidden Bar (⭐13k)](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+*   [Hidden Bar (⭐15k)](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/dwarvesf/hidden/releases/latest'><img src='https://img.shields.io/github/v/release/dwarvesf/hidden?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dwarvesf/hidden'><img src='https://img.shields.io/github/stars/dwarvesf/hidden?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dwarvesf/hidden' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dwarvesf/hidden' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6932,13 +5970,9 @@
 *   [iGlance (⭐2.5k)](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/iglance/iGlance/releases/latest'><img src='https://img.shields.io/github/v/release/iglance/iGlance?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/iglance/iGlance'><img src='https://img.shields.io/github/stars/iglance/iGlance?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/iglance/iGlance' alt='Last commit'/>   <img src='https://img.shields.io/github/license/iglance/iGlance' alt='License'/>
-*   [KubeContext (⭐425)](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.
+*   [KubeContext (⭐428)](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/turkenh/KubeContext/releases/latest'><img src='https://img.shields.io/github/v/release/turkenh/KubeContext?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/turkenh/KubeContext'><img src='https://img.shields.io/github/stars/turkenh/KubeContext?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/turkenh/KubeContext' alt='Last commit'/>   <img src='https://img.shields.io/github/license/turkenh/KubeContext' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6950,13 +5984,11 @@
 
     </p>
     </details>
-*   [LinkLiar (⭐1.4k)](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig)
+*   [LinkLiar (⭐1.5k)](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig)
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://halo.github.io/LinkLiar/>
-
-    **Badges:** <a href='https://github.com/halo/LinkLiar/releases/latest'><img src='https://img.shields.io/github/v/release/halo/LinkLiar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/halo/LinkLiar'><img src='https://img.shields.io/github/stars/halo/LinkLiar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/halo/LinkLiar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/halo/LinkLiar' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6966,28 +5998,20 @@
 
     </p>
     </details>
-*   [Market Bar (⭐29)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar.
+*   [Market Bar (⭐28)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mnndnl/market-bar /releases/latest'><img src='https://img.shields.io/github/v/release/mnndnl/market-bar ?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mnndnl/market-bar '><img src='https://img.shields.io/github/stars/mnndnl/market-bar ?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mnndnl/market-bar ' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mnndnl/market-bar ' alt='License'/>
 *   [Menubar Brightness (⭐79)](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/lucasbento/menubar-brightness/releases/latest'><img src='https://img.shields.io/github/v/release/lucasbento/menubar-brightness?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lucasbento/menubar-brightness'><img src='https://img.shields.io/github/stars/lucasbento/menubar-brightness?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lucasbento/menubar-brightness' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lucasbento/menubar-brightness' alt='License'/>
 *   [MenuMeters (⭐3.1k)](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/yujitach/MenuMeters/releases/latest'><img src='https://img.shields.io/github/v/release/yujitach/MenuMeters?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yujitach/MenuMeters'><img src='https://img.shields.io/github/stars/yujitach/MenuMeters?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yujitach/MenuMeters' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yujitach/MenuMeters' alt='License'/>
-*   [MiniSim (⭐2.3k)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
+*   [MiniSim (⭐3.1k)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://www.minisim.app/>
-
-    **Badges:** <a href='https://github.com/okwasniewski/MiniSim/releases/latest'><img src='https://img.shields.io/github/v/release/okwasniewski/MiniSim?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/okwasniewski/MiniSim'><img src='https://img.shields.io/github/stars/okwasniewski/MiniSim?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/okwasniewski/MiniSim' alt='Last commit'/>   <img src='https://img.shields.io/github/license/okwasniewski/MiniSim' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -6997,16 +6021,12 @@
 
     </p>
     </details>
-*   [Monitor Bar (⭐75)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.
+*   [Monitor Bar (⭐78)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/tidiemme/monitorbar/releases/latest'><img src='https://img.shields.io/github/v/release/tidiemme/monitorbar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/tidiemme/monitorbar'><img src='https://img.shields.io/github/stars/tidiemme/monitorbar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/tidiemme/monitorbar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/tidiemme/monitorbar' alt='License'/>
-*   [Night Shift Control (⭐60)](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps.
+*   [Night Shift Control (⭐61)](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/isaiasmatewos/night-shift-control/releases/latest'><img src='https://img.shields.io/github/v/release/isaiasmatewos/night-shift-control?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/isaiasmatewos/night-shift-control'><img src='https://img.shields.io/github/stars/isaiasmatewos/night-shift-control?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/isaiasmatewos/night-shift-control' alt='Last commit'/>   <img src='https://img.shields.io/github/license/isaiasmatewos/night-shift-control' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7016,11 +6036,9 @@
 
     </p>
     </details>
-*   [Pi Stats (⭐404)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
+*   [Pi Stats (⭐411)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Bunn/PiStats/releases/latest'><img src='https://img.shields.io/github/v/release/Bunn/PiStats?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Bunn/PiStats'><img src='https://img.shields.io/github/stars/Bunn/PiStats?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Bunn/PiStats' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Bunn/PiStats' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7033,13 +6051,9 @@
 *   [PSIBar (⭐25)](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI macOS status bar app.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/nikhilsh/PSIBar/releases/latest'><img src='https://img.shields.io/github/v/release/nikhilsh/PSIBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nikhilsh/PSIBar'><img src='https://img.shields.io/github/stars/nikhilsh/PSIBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nikhilsh/PSIBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nikhilsh/PSIBar' alt='License'/>
-*   [Quickeys (⭐73)](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu.
+*   [Quickeys (⭐74)](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/alexrosenfeld10/Quickeys/releases/latest'><img src='https://img.shields.io/github/v/release/alexrosenfeld10/Quickeys?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/alexrosenfeld10/Quickeys'><img src='https://img.shields.io/github/stars/alexrosenfeld10/Quickeys?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/alexrosenfeld10/Quickeys' alt='Last commit'/>   <img src='https://img.shields.io/github/license/alexrosenfeld10/Quickeys' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7052,13 +6066,9 @@
 *   [SensibleSideButtons (⭐2.1k)](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/archagon/sensible-side-buttons/releases/latest'><img src='https://img.shields.io/github/v/release/archagon/sensible-side-buttons?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/archagon/sensible-side-buttons'><img src='https://img.shields.io/github/stars/archagon/sensible-side-buttons?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/archagon/sensible-side-buttons' alt='Last commit'/>   <img src='https://img.shields.io/github/license/archagon/sensible-side-buttons' alt='License'/>
 *   [Shifty (⭐1.3k)](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/thompsonate/Shifty/releases/latest'><img src='https://img.shields.io/github/v/release/thompsonate/Shifty?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/thompsonate/Shifty'><img src='https://img.shields.io/github/stars/thompsonate/Shifty?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/thompsonate/Shifty' alt='Last commit'/>   <img src='https://img.shields.io/github/license/thompsonate/Shifty' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7068,26 +6078,20 @@
 
     </p>
     </details>
-*   [SwiftBar (⭐3.7k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
+*   [SwiftBar (⭐4.5k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://swiftbar.app>
-
-    **Badges:** <a href='https://github.com/swiftbar/SwiftBar/releases/latest'><img src='https://img.shields.io/github/v/release/swiftbar/SwiftBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/swiftbar/SwiftBar'><img src='https://img.shields.io/github/stars/swiftbar/SwiftBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/swiftbar/SwiftBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/swiftbar/SwiftBar' alt='License'/>
 *   [xbar (⭐18k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/matryer/xbar/releases/latest'><img src='https://img.shields.io/github/v/release/matryer/xbar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/matryer/xbar'><img src='https://img.shields.io/github/stars/matryer/xbar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/matryer/xbar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/matryer/xbar' alt='License'/>
+### 📰 News (6) / ✏️ Text (14)
 
-### 📰 News (6) / ✏️ Text (13)
-
-*   [Diurna (⭐105)](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
+*   [Diurna (⭐106)](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ngquerol/Diurna/releases/latest'><img src='https://img.shields.io/github/v/release/ngquerol/Diurna?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ngquerol/Diurna'><img src='https://img.shields.io/github/stars/ngquerol/Diurna?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ngquerol/Diurna' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ngquerol/Diurna' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7101,8 +6105,6 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-    **Badges:** <a href='https://github.com/owenthereal/hacker-menu/releases/latest'><img src='https://img.shields.io/github/v/release/owenthereal/hacker-menu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/owenthereal/hacker-menu'><img src='https://img.shields.io/github/stars/owenthereal/hacker-menu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/owenthereal/hacker-menu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/owenthereal/hacker-menu' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -7111,26 +6113,20 @@
 
     </p>
     </details>
-*   [NetNewsWire (⭐9.6k)](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.
+*   [NetNewsWire (⭐10k)](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Ranchero-Software/NetNewsWire/releases/latest'><img src='https://img.shields.io/github/v/release/Ranchero-Software/NetNewsWire?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Ranchero-Software/NetNewsWire'><img src='https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Ranchero-Software/NetNewsWire' alt='License'/>
-*   [Vienna (⭐1.9k)](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS.
+*   [Vienna (⭐2k)](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/ViennaRSS/vienna-rss/releases/latest'><img src='https://img.shields.io/github/v/release/ViennaRSS/vienna-rss?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ViennaRSS/vienna-rss'><img src='https://img.shields.io/github/stars/ViennaRSS/vienna-rss?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ViennaRSS/vienna-rss' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ViennaRSS/vienna-rss' alt='License'/>
+### 🎙️ Podcast (7) / ✏️ Text (14)
 
-### 🎙️ Podcast (7) / ✏️ Text (13)
-
-*   [Winds (⭐9.4k)](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+*   [Winds (⭐9.1k)](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://getstream.io/winds/>
-
-    **Badges:** <a href='https://github.com/GetStream/Winds/releases/latest'><img src='https://img.shields.io/github/v/release/GetStream/Winds?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GetStream/Winds'><img src='https://img.shields.io/github/stars/GetStream/Winds?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/GetStream/Winds' alt='Last commit'/>   <img src='https://img.shields.io/github/license/GetStream/Winds' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7146,11 +6142,9 @@
 
     </p>
     </details>
-*   [Cumulonimbus (⭐764)](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.
+*   [Cumulonimbus (⭐767)](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/z-------------/CPod/releases/latest'><img src='https://img.shields.io/github/v/release/z-------------/CPod?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/z-------------/CPod'><img src='https://img.shields.io/github/stars/z-------------/CPod?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/z-------------/CPod' alt='Last commit'/>   <img src='https://img.shields.io/github/license/z-------------/CPod' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7160,11 +6154,9 @@
 
     </p>
     </details>
-*   [Doughnut (⭐238)](https://github.com/dyerc/Doughnut) - Podcast player and library for mac
+*   [Doughnut (⭐249)](https://github.com/dyerc/Doughnut) - Podcast player and library for mac
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/dyerc/Doughnut/releases/latest'><img src='https://img.shields.io/github/v/release/dyerc/Doughnut?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dyerc/Doughnut'><img src='https://img.shields.io/github/stars/dyerc/Doughnut?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dyerc/Doughnut' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dyerc/Doughnut' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7174,13 +6166,11 @@
 
     </p>
     </details>
-*   [gPodder (⭐1.4k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client.
+*   [gPodder (⭐1.5k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** <https://gpodder.github.io/>
-
-    **Badges:** <a href='https://github.com/gpodder/gpodder/releases/latest'><img src='https://img.shields.io/github/v/release/gpodder/gpodder?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gpodder/gpodder'><img src='https://img.shields.io/github/stars/gpodder/gpodder?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gpodder/gpodder' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gpodder/gpodder' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7193,18 +6183,12 @@
 *   [mkchromecast (⭐2.3k)](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/muammar/mkchromecast/releases/latest'><img src='https://img.shields.io/github/v/release/muammar/mkchromecast?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/muammar/mkchromecast'><img src='https://img.shields.io/github/stars/muammar/mkchromecast?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/muammar/mkchromecast' alt='Last commit'/>   <img src='https://img.shields.io/github/license/muammar/mkchromecast' alt='License'/>
 *   [PodcastMenu (⭐1.3k)](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/PodcastMenu/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/PodcastMenu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/PodcastMenu'><img src='https://img.shields.io/github/stars/insidegui/PodcastMenu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/PodcastMenu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/PodcastMenu' alt='License'/>
 *   [Podlive for macOS (⭐47)](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Podlive/podlive-macos/releases/latest'><img src='https://img.shields.io/github/v/release/Podlive/podlive-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Podlive/podlive-macos'><img src='https://img.shields.io/github/stars/Podlive/podlive-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Podlive/podlive-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Podlive/podlive-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7215,13 +6199,11 @@
     </p>
     </details>
 
-### 📦 Other (25) / ✏️ Text (13)
+### 📦 Other (25) / ✏️ Text (14)
 
 *   [Cakebrew (⭐5k)](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/brunophilipe/Cakebrew/releases/latest'><img src='https://img.shields.io/github/v/release/brunophilipe/Cakebrew?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/brunophilipe/Cakebrew'><img src='https://img.shields.io/github/stars/brunophilipe/Cakebrew?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/brunophilipe/Cakebrew' alt='Last commit'/>   <img src='https://img.shields.io/github/license/brunophilipe/Cakebrew' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7231,25 +6213,12 @@
 
     </p>
     </details>
-*   [ChipMunk (⭐700)](https://github.com/esrlabs/chipmunk) - Log analysis tool.
+*   [ChipMunk (⭐856)](https://github.com/esrlabs/chipmunk) - Log analysis tool.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Badges:** <a href='https://github.com/esrlabs/chipmunk/releases/latest'><img src='https://img.shields.io/github/v/release/esrlabs/chipmunk?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/esrlabs/chipmunk'><img src='https://img.shields.io/github/stars/esrlabs/chipmunk?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/esrlabs/chipmunk' alt='Last commit'/>   <img src='https://img.shields.io/github/license/esrlabs/chipmunk' alt='License'/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-*   [DevDocs for macOS (⭐478)](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.
+*   [DevDocs for macOS (⭐484)](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/dteoh/devdocs-macos/releases/latest'><img src='https://img.shields.io/github/v/release/dteoh/devdocs-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dteoh/devdocs-macos'><img src='https://img.shields.io/github/stars/dteoh/devdocs-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dteoh/devdocs-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dteoh/devdocs-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7259,26 +6228,18 @@
 
     </p>
     </details>
-*   [Gas Mask (⭐3.8k)](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS.
+*   [Gas Mask (⭐3.9k)](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/2ndalpha/gasmask/releases/latest'><img src='https://img.shields.io/github/v/release/2ndalpha/gasmask?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/2ndalpha/gasmask'><img src='https://img.shields.io/github/stars/2ndalpha/gasmask?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/2ndalpha/gasmask' alt='Last commit'/>   <img src='https://img.shields.io/github/license/2ndalpha/gasmask' alt='License'/>
 *   [Hosts (⭐1.6k)](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/specialunderwear/Hosts.prefpane/releases/latest'><img src='https://img.shields.io/github/v/release/specialunderwear/Hosts.prefpane?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/specialunderwear/Hosts.prefpane'><img src='https://img.shields.io/github/stars/specialunderwear/Hosts.prefpane?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/specialunderwear/Hosts.prefpane' alt='Last commit'/>   <img src='https://img.shields.io/github/license/specialunderwear/Hosts.prefpane' alt='License'/>
-*   [ImageOptim (⭐9.7k)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
+*   [ImageOptim (⭐10k)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/ImageOptim/ImageOptim/releases/latest'><img src='https://img.shields.io/github/v/release/ImageOptim/ImageOptim?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ImageOptim/ImageOptim'><img src='https://img.shields.io/github/stars/ImageOptim/ImageOptim?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ImageOptim/ImageOptim' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ImageOptim/ImageOptim' alt='License'/>
 *   [Keyframes Player (⭐70)](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/insidegui/KeyframesPlayer/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/KeyframesPlayer?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/insidegui/KeyframesPlayer'><img src='https://img.shields.io/github/stars/insidegui/KeyframesPlayer?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/insidegui/KeyframesPlayer' alt='Last commit'/>   <img src='https://img.shields.io/github/license/insidegui/KeyframesPlayer' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7291,13 +6252,9 @@
 *   [Lepton (⭐10k)](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux).
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/hackjutsu/Lepton/releases/latest'><img src='https://img.shields.io/github/v/release/hackjutsu/Lepton?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/hackjutsu/Lepton'><img src='https://img.shields.io/github/stars/hackjutsu/Lepton?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/hackjutsu/Lepton' alt='Last commit'/>   <img src='https://img.shields.io/github/license/hackjutsu/Lepton' alt='License'/>
 *   [Letters (⭐28)](https://github.com/klaaspieter/letters) - Teach your kids the alphabet and how to type.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/klaaspieter/letters/releases/latest'><img src='https://img.shields.io/github/v/release/klaaspieter/letters?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/klaaspieter/letters'><img src='https://img.shields.io/github/stars/klaaspieter/letters?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/klaaspieter/letters' alt='Last commit'/>   <img src='https://img.shields.io/github/license/klaaspieter/letters' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7316,23 +6273,15 @@
 *   [macGist (⭐130)](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Bunn/macGist/releases/latest'><img src='https://img.shields.io/github/v/release/Bunn/macGist?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Bunn/macGist'><img src='https://img.shields.io/github/stars/Bunn/macGist?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Bunn/macGist' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Bunn/macGist' alt='License'/>
-*   [Platypus (⭐3.3k)](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts.
+*   [Platypus (⭐3.4k)](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/sveinbjornt/Platypus/releases/latest'><img src='https://img.shields.io/github/v/release/sveinbjornt/Platypus?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sveinbjornt/Platypus'><img src='https://img.shields.io/github/stars/sveinbjornt/Platypus?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sveinbjornt/Platypus' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sveinbjornt/Platypus' alt='License'/>
-*   [QorumLogs (⭐783)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
+*   [QorumLogs (⭐778)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Esqarrouth/QorumLogs/releases/latest'><img src='https://img.shields.io/github/v/release/Esqarrouth/QorumLogs?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Esqarrouth/QorumLogs'><img src='https://img.shields.io/github/stars/Esqarrouth/QorumLogs?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Esqarrouth/QorumLogs' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Esqarrouth/QorumLogs' alt='License'/>
 *   [React Native Debugger (⭐10k)](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/jhen0409/react-native-debugger/releases/latest'><img src='https://img.shields.io/github/v/release/jhen0409/react-native-debugger?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jhen0409/react-native-debugger'><img src='https://img.shields.io/github/stars/jhen0409/react-native-debugger?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jhen0409/react-native-debugger' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jhen0409/react-native-debugger' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7345,13 +6294,9 @@
 *   [Reactotron (⭐16k)](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/infinitered/reactotron/releases/latest'><img src='https://img.shields.io/github/v/release/infinitered/reactotron?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/infinitered/reactotron'><img src='https://img.shields.io/github/stars/infinitered/reactotron?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/infinitered/reactotron' alt='Last commit'/>   <img src='https://img.shields.io/github/license/infinitered/reactotron' alt='License'/>
 *   [RktMachine (⭐36)](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/woofwoofinc/rktmachine/releases/latest'><img src='https://img.shields.io/github/v/release/woofwoofinc/rktmachine?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/woofwoofinc/rktmachine'><img src='https://img.shields.io/github/stars/woofwoofinc/rktmachine?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/woofwoofinc/rktmachine' alt='Last commit'/>   <img src='https://img.shields.io/github/license/woofwoofinc/rktmachine' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7366,13 +6311,9 @@
 *   [Ruby.app (⭐48)](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu).
 
     **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
-
-    **Badges:** <a href='https://github.com/gosu/ruby-app/releases/latest'><img src='https://img.shields.io/github/v/release/gosu/ruby-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gosu/ruby-app'><img src='https://img.shields.io/github/stars/gosu/ruby-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gosu/ruby-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gosu/ruby-app' alt='License'/>
 *   [Shuttle (⭐4.6k)](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/fitztrev/shuttle/releases/latest'><img src='https://img.shields.io/github/v/release/fitztrev/shuttle?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fitztrev/shuttle'><img src='https://img.shields.io/github/stars/fitztrev/shuttle?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fitztrev/shuttle' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fitztrev/shuttle' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7385,13 +6326,9 @@
 *   [SwiftyBeaver (⭐6.1k)](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/SwiftyBeaver/SwiftyBeaver/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftyBeaver/SwiftyBeaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SwiftyBeaver/SwiftyBeaver'><img src='https://img.shields.io/github/stars/SwiftyBeaver/SwiftyBeaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SwiftyBeaver/SwiftyBeaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SwiftyBeaver/SwiftyBeaver' alt='License'/>
-*   [syncthing-macosx (⭐3.5k)](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.
+*   [syncthing-macosx (⭐3.9k)](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/syncthing/syncthing-macos/releases/latest'><img src='https://img.shields.io/github/v/release/syncthing/syncthing-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/syncthing/syncthing-macos'><img src='https://img.shields.io/github/stars/syncthing/syncthing-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/syncthing/syncthing-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/syncthing/syncthing-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7404,13 +6341,9 @@
 *   [Unused (⭐1.4k)](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/jeffhodnett/Unused/releases/latest'><img src='https://img.shields.io/github/v/release/jeffhodnett/Unused?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jeffhodnett/Unused'><img src='https://img.shields.io/github/stars/jeffhodnett/Unused?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jeffhodnett/Unused' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jeffhodnett/Unused' alt='License'/>
 *   [Vagrant Manager (⭐1.9k)](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/lanayotech/vagrant-manager/releases/latest'><img src='https://img.shields.io/github/v/release/lanayotech/vagrant-manager?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lanayotech/vagrant-manager'><img src='https://img.shields.io/github/stars/lanayotech/vagrant-manager?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lanayotech/vagrant-manager' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lanayotech/vagrant-manager' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7421,20 +6354,16 @@
     </p>
     </details>
 
-### ▶️ Player (6) / ✏️ Text (13)
+### ▶️ Player (6) / ✏️ Text (14)
 
-*   [IINA (⭐44k)](https://github.com/iina/iina) - The modern video player for macOS.
+*   [IINA (⭐46k)](https://github.com/iina/iina) - The modern video player for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://iina.io>
-
-    **Badges:** <a href='https://github.com/iina/iina/releases/latest'><img src='https://img.shields.io/github/v/release/iina/iina?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/iina/iina'><img src='https://img.shields.io/github/stars/iina/iina?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/iina/iina' alt='Last commit'/>   <img src='https://img.shields.io/github/license/iina/iina' alt='License'/>
 *   [MacMorpheus (⭐300)](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/emoRaivis/MacMorpheus/releases/latest'><img src='https://img.shields.io/github/v/release/emoRaivis/MacMorpheus?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/emoRaivis/MacMorpheus'><img src='https://img.shields.io/github/stars/emoRaivis/MacMorpheus?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/emoRaivis/MacMorpheus' alt='Last commit'/>   <img src='https://img.shields.io/github/license/emoRaivis/MacMorpheus' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7444,11 +6373,9 @@
 
     </p>
     </details>
-*   [Movie Monad (⭐435)](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+.
+*   [Movie Monad (⭐436)](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+.
 
     **Languages:** <img src='./icons/haskell-64.png' alt='Haskell icon' title='Haskell' height='16'/> Haskell
-
-    **Badges:** <a href='https://github.com/lettier/movie-monad/releases/latest'><img src='https://img.shields.io/github/v/release/lettier/movie-monad?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lettier/movie-monad'><img src='https://img.shields.io/github/stars/lettier/movie-monad?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lettier/movie-monad' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lettier/movie-monad' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7464,15 +6391,11 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/niltsh/MPlayerX/releases/latest'><img src='https://img.shields.io/github/v/release/niltsh/MPlayerX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/niltsh/MPlayerX'><img src='https://img.shields.io/github/stars/niltsh/MPlayerX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/niltsh/MPlayerX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/niltsh/MPlayerX' alt='License'/>
-
-### 🌙 Screensaver (10) / ✏️ Text (13)
+### 🌙 Screensaver (10) / ✏️ Text (14)
 
 *   [Aerial (⭐21k)](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/JohnCoates/Aerial/releases/latest'><img src='https://img.shields.io/github/v/release/JohnCoates/Aerial?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/JohnCoates/Aerial'><img src='https://img.shields.io/github/stars/JohnCoates/Aerial?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/JohnCoates/Aerial' alt='Last commit'/>   <img src='https://img.shields.io/github/license/JohnCoates/Aerial' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7492,8 +6415,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/pedrommcarrasco/Brooklyn/releases/latest'><img src='https://img.shields.io/github/v/release/pedrommcarrasco/Brooklyn?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pedrommcarrasco/Brooklyn'><img src='https://img.shields.io/github/stars/pedrommcarrasco/Brooklyn?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pedrommcarrasco/Brooklyn' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pedrommcarrasco/Brooklyn' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -7504,11 +6425,9 @@
 
     </p>
     </details>
-*   [Epoch Flip Clock Screensaver (⭐235)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver) - Unix epoch timestamp flip clock screensaver.
+*   [Epoch Flip Clock Screensaver (⭐234)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver) - Unix epoch timestamp flip clock screensaver.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/releases/latest'><img src='https://img.shields.io/github/v/release/chrstphrknwtn/epoch-flip-clock-screensaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver'><img src='https://img.shields.io/github/stars/chrstphrknwtn/epoch-flip-clock-screensaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/chrstphrknwtn/epoch-flip-clock-screensaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/chrstphrknwtn/epoch-flip-clock-screensaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7521,13 +6440,9 @@
 *   [Image-As-Wallpaper (⭐6)](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ved62/Image-As-Wallpaper/releases/latest'><img src='https://img.shields.io/github/v/release/ved62/Image-As-Wallpaper?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ved62/Image-As-Wallpaper'><img src='https://img.shields.io/github/stars/ved62/Image-As-Wallpaper?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ved62/Image-As-Wallpaper' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ved62/Image-As-Wallpaper' alt='License'/>
-*   [Irvue (⭐260)](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS.
+*   [Irvue (⭐257)](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/leonspok/Irvue-Screensaver/releases/latest'><img src='https://img.shields.io/github/v/release/leonspok/Irvue-Screensaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/leonspok/Irvue-Screensaver'><img src='https://img.shields.io/github/stars/leonspok/Irvue-Screensaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/leonspok/Irvue-Screensaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/leonspok/Irvue-Screensaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7541,11 +6456,9 @@
 
     </p>
     </details>
-*   [Life Saver (⭐227)](https://github.com/amiantos/lifesaver) - An abstract screensaver based on Conway's Game of Life implemented with SpriteKit
+*   [Life Saver (⭐242)](https://github.com/amiantos/lifesaver) - An abstract screensaver based on Conway's Game of Life implemented with SpriteKit
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/amiantos/lifesaver/releases/latest'><img src='https://img.shields.io/github/v/release/amiantos/lifesaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/amiantos/lifesaver'><img src='https://img.shields.io/github/stars/amiantos/lifesaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/amiantos/lifesaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/amiantos/lifesaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7559,13 +6472,11 @@
 
     </p>
     </details>
-*   [MinimalClock (⭐128)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time.
+*   [MinimalClock (⭐133)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://mattiarossini.github.io/MinimalClock/>
-
-    **Badges:** <a href='https://github.com/mattiarossini/MinimalClock/releases/latest'><img src='https://img.shields.io/github/v/release/mattiarossini/MinimalClock?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mattiarossini/MinimalClock'><img src='https://img.shields.io/github/stars/mattiarossini/MinimalClock?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mattiarossini/MinimalClock' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mattiarossini/MinimalClock' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7575,11 +6486,9 @@
 
     </p>
     </details>
-*   [MusaicFM (⭐343)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm
+*   [MusaicFM (⭐350)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/obrhoff/MusaicFM/releases/latest'><img src='https://img.shields.io/github/v/release/obrhoff/MusaicFM?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/obrhoff/MusaicFM'><img src='https://img.shields.io/github/stars/obrhoff/MusaicFM?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/obrhoff/MusaicFM' alt='Last commit'/>   <img src='https://img.shields.io/github/license/obrhoff/MusaicFM' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7593,8 +6502,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/vpeschenkov/Predator/releases/latest'><img src='https://img.shields.io/github/v/release/vpeschenkov/Predator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vpeschenkov/Predator'><img src='https://img.shields.io/github/stars/vpeschenkov/Predator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vpeschenkov/Predator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vpeschenkov/Predator' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -7605,11 +6512,9 @@
 
     </p>
     </details>
-*   [The GitHub Matrix Screensaver (⭐591)](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.
+*   [The GitHub Matrix Screensaver (⭐590)](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/winterbe/github-matrix-screensaver/releases/latest'><img src='https://img.shields.io/github/v/release/winterbe/github-matrix-screensaver?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/winterbe/github-matrix-screensaver'><img src='https://img.shields.io/github/stars/winterbe/github-matrix-screensaver?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/winterbe/github-matrix-screensaver' alt='Last commit'/>   <img src='https://img.shields.io/github/license/winterbe/github-matrix-screensaver' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7622,15 +6527,13 @@
     </p>
     </details>
 
-### 📤 Sharing Files (11) / ✏️ Text (13)
+### 📤 Sharing Files (12) / ✏️ Text (14)
 
-*   [Cyberduck (⭐4.2k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+*   [Cyberduck (⭐4.7k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
     **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
     **Website:** <https://cyberduck.io>
-
-    **Badges:** <a href='https://github.com/iterate-ch/cyberduck/releases/latest'><img src='https://img.shields.io/github/v/release/iterate-ch/cyberduck?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/iterate-ch/cyberduck'><img src='https://img.shields.io/github/stars/iterate-ch/cyberduck?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/iterate-ch/cyberduck' alt='Last commit'/>   <img src='https://img.shields.io/github/license/iterate-ch/cyberduck' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7642,73 +6545,49 @@
 
     </p>
     </details>
-*   [Deluge (⭐1.7k)](https://github.com/deluge-torrent/deluge) - Lightweight cross-platform BitTorrent client.
+*   [Deluge (⭐1.8k)](https://github.com/deluge-torrent/deluge) - Lightweight cross-platform BitTorrent client.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Badges:** <a href='https://github.com/deluge-torrent/deluge/releases/latest'><img src='https://img.shields.io/github/v/release/deluge-torrent/deluge?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/deluge-torrent/deluge'><img src='https://img.shields.io/github/stars/deluge-torrent/deluge?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/deluge-torrent/deluge' alt='Last commit'/>   <img src='https://img.shields.io/github/license/deluge-torrent/deluge' alt='License'/>
-*   [mac2imgur (⭐958)](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
+*   [mac2imgur (⭐957)](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mileswd/mac2imgur/releases/latest'><img src='https://img.shields.io/github/v/release/mileswd/mac2imgur?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mileswd/mac2imgur'><img src='https://img.shields.io/github/stars/mileswd/mac2imgur?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mileswd/mac2imgur' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mileswd/mac2imgur' alt='License'/>
 *   [NitroShare (⭐1.7k)](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
     **Website:** <https://nitroshare.net>
-
-    **Badges:** <a href='https://github.com/nitroshare/nitroshare-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/nitroshare/nitroshare-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nitroshare/nitroshare-desktop'><img src='https://img.shields.io/github/stars/nitroshare/nitroshare-desktop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nitroshare/nitroshare-desktop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nitroshare/nitroshare-desktop' alt='License'/>
-*   [qBittorrent (⭐35k)](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt.
+*   [qBittorrent (⭐40k)](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/qbittorrent/qBittorrent/releases/latest'><img src='https://img.shields.io/github/v/release/qbittorrent/qBittorrent?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/qbittorrent/qBittorrent'><img src='https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/qbittorrent/qBittorrent' alt='Last commit'/>   <img src='https://img.shields.io/github/license/qbittorrent/qBittorrent' alt='License'/>
-*   [Rhea (⭐93)](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.
+*   [Rhea (⭐94)](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/timonus/Rhea/releases/latest'><img src='https://img.shields.io/github/v/release/timonus/Rhea?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/timonus/Rhea'><img src='https://img.shields.io/github/stars/timonus/Rhea?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/timonus/Rhea' alt='Last commit'/>   <img src='https://img.shields.io/github/license/timonus/Rhea' alt='License'/>
-*   [Soduto (⭐421)](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
+*   [Soduto (⭐426)](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
     **Website:** <https://soduto.com/>
-
-    **Badges:** <a href='https://github.com/soduto/Soduto/releases/latest'><img src='https://img.shields.io/github/v/release/soduto/Soduto?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/soduto/Soduto'><img src='https://img.shields.io/github/stars/soduto/Soduto?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/soduto/Soduto' alt='Last commit'/>   <img src='https://img.shields.io/github/license/soduto/Soduto' alt='License'/>
-*   [Transmission (⭐14k)](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository.
+*   [Transmission (⭐15k)](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
-
-    **Badges:** <a href='https://github.com/transmission/transmission/releases/latest'><img src='https://img.shields.io/github/v/release/transmission/transmission?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/transmission/transmission'><img src='https://img.shields.io/github/stars/transmission/transmission?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/transmission/transmission' alt='Last commit'/>   <img src='https://img.shields.io/github/license/transmission/transmission' alt='License'/>
-*   [Tribler (⭐5.2k)](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
+*   [Tribler (⭐5.3k)](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-    **Badges:** <a href='https://github.com/Tribler/tribler/releases/latest'><img src='https://img.shields.io/github/v/release/Tribler/tribler?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Tribler/tribler'><img src='https://img.shields.io/github/stars/Tribler/tribler?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Tribler/tribler' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Tribler/tribler' alt='License'/>
+### 👥 Social Networking (9) / ✏️ Text (14)
 
-### 👥 Social Networking (9) / ✏️ Text (13)
-
-*   [Caprine (⭐7.3k)](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
+*   [Caprine (⭐7.4k)](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/sindresorhus/caprine#features/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/caprine#features?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/caprine#features'><img src='https://img.shields.io/github/stars/sindresorhus/caprine#features?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/caprine#features' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/caprine#features' alt='License'/>
-*   [Goofy (⭐976)](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
+*   [Goofy (⭐985)](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/danielbuechele/goofy/releases/latest'><img src='https://img.shields.io/github/v/release/danielbuechele/goofy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/danielbuechele/goofy'><img src='https://img.shields.io/github/stars/danielbuechele/goofy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/danielbuechele/goofy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/danielbuechele/goofy' alt='License'/>
 *   [Leviathan (⭐41)](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Swiftodon/Leviathan/releases/latest'><img src='https://img.shields.io/github/v/release/Swiftodon/Leviathan?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Swiftodon/Leviathan'><img src='https://img.shields.io/github/stars/Swiftodon/Leviathan?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Swiftodon/Leviathan' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Swiftodon/Leviathan' alt='License'/>
 *   [Messenger (⭐2.8k)](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/rsms/fb-mac-messenger/releases/latest'><img src='https://img.shields.io/github/v/release/rsms/fb-mac-messenger?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rsms/fb-mac-messenger'><img src='https://img.shields.io/github/stars/rsms/fb-mac-messenger?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rsms/fb-mac-messenger' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rsms/fb-mac-messenger' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7718,16 +6597,12 @@
 
     </p>
     </details>
-*   [Product Hunt (⭐644)](https://github.com/producthunt/producthunt-osx) - share and discover your favorite new products and applications.
+*   [Product Hunt (⭐643)](https://github.com/producthunt/producthunt-osx) - share and discover your favorite new products and applications.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/producthunt/producthunt-osx/releases/latest'><img src='https://img.shields.io/github/v/release/producthunt/producthunt-osx?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/producthunt/producthunt-osx'><img src='https://img.shields.io/github/stars/producthunt/producthunt-osx?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/producthunt/producthunt-osx' alt='Last commit'/>   <img src='https://img.shields.io/github/license/producthunt/producthunt-osx' alt='License'/>
-*   [Quail (⭐56)](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.
+*   [Quail (⭐57)](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-    **Badges:** <a href='https://github.com/1000ch/quail/releases/latest'><img src='https://img.shields.io/github/v/release/1000ch/quail?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/1000ch/quail'><img src='https://img.shields.io/github/stars/1000ch/quail?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/1000ch/quail' alt='Last commit'/>   <img src='https://img.shields.io/github/license/1000ch/quail' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7740,13 +6615,9 @@
 *   [Ramme (⭐3.3k)](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
-
-    **Badges:** <a href='https://github.com/terkelg/ramme/releases/latest'><img src='https://img.shields.io/github/v/release/terkelg/ramme?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/terkelg/ramme'><img src='https://img.shields.io/github/stars/terkelg/ramme?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/terkelg/ramme' alt='Last commit'/>   <img src='https://img.shields.io/github/license/terkelg/ramme' alt='License'/>
 *   [RedditOS (⭐4k)](https://github.com/Dimillian/RedditOS) - A SwiftUI Reddit client for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/Dimillian/RedditOS/releases/latest'><img src='https://img.shields.io/github/v/release/Dimillian/RedditOS?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Dimillian/RedditOS'><img src='https://img.shields.io/github/stars/Dimillian/RedditOS?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Dimillian/RedditOS' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Dimillian/RedditOS' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7756,11 +6627,9 @@
 
     </p>
     </details>
-*   [Simpo (⭐41)](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.
+*   [Simpo (⭐40)](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/KeliCheng/Simpo/releases/latest'><img src='https://img.shields.io/github/v/release/KeliCheng/Simpo?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/KeliCheng/Simpo'><img src='https://img.shields.io/github/stars/KeliCheng/Simpo?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/KeliCheng/Simpo' alt='Last commit'/>   <img src='https://img.shields.io/github/license/KeliCheng/Simpo' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7773,13 +6642,11 @@
     </p>
     </details>
 
-### ⚙️ System (24) / ✏️ Text (13)
+### ⚙️ System (25) / ✏️ Text (14)
 
-*   [Apple Juice (⭐523)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
+*   [Apple Juice (⭐522)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/raphaelhanneken/apple-juice/releases/latest'><img src='https://img.shields.io/github/v/release/raphaelhanneken/apple-juice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/raphaelhanneken/apple-juice'><img src='https://img.shields.io/github/stars/raphaelhanneken/apple-juice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice' alt='Last commit'/>   <img src='https://img.shields.io/github/license/raphaelhanneken/apple-juice' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7796,8 +6663,6 @@
 *   [AppPolice (⭐1.1k)](https://github.com/AppPolice/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/AppPolice/AppPolice/releases/latest'><img src='https://img.shields.io/github/v/release/AppPolice/AppPolice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/AppPolice/AppPolice'><img src='https://img.shields.io/github/stars/AppPolice/AppPolice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/AppPolice/AppPolice' alt='Last commit'/>   <img src='https://img.shields.io/github/license/AppPolice/AppPolice' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7817,8 +6682,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/Kevin-De-Koninck/Clean-Me/releases/latest'><img src='https://img.shields.io/github/v/release/Kevin-De-Koninck/Clean-Me?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Kevin-De-Koninck/Clean-Me'><img src='https://img.shields.io/github/stars/Kevin-De-Koninck/Clean-Me?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Kevin-De-Koninck/Clean-Me' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Kevin-De-Koninck/Clean-Me' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -7829,11 +6692,9 @@
 
     </p>
     </details>
-*   [Diagnostics (⭐211)](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
+*   [Diagnostics (⭐213)](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/macmade/Diagnostics/releases/latest'><img src='https://img.shields.io/github/v/release/macmade/Diagnostics?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/macmade/Diagnostics'><img src='https://img.shields.io/github/stars/macmade/Diagnostics?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/macmade/Diagnostics' alt='Last commit'/>   <img src='https://img.shields.io/github/license/macmade/Diagnostics' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7846,13 +6707,9 @@
 *   [DisableMonitor (⭐1.4k)](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Eun/DisableMonitor/releases/latest'><img src='https://img.shields.io/github/v/release/Eun/DisableMonitor?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Eun/DisableMonitor'><img src='https://img.shields.io/github/stars/Eun/DisableMonitor?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Eun/DisableMonitor' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Eun/DisableMonitor' alt='License'/>
 *   [Fanny (⭐1.4k)](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/DanielStormApps/Fanny/releases/latest'><img src='https://img.shields.io/github/v/release/DanielStormApps/Fanny?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/DanielStormApps/Fanny'><img src='https://img.shields.io/github/stars/DanielStormApps/Fanny?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/DanielStormApps/Fanny' alt='Last commit'/>   <img src='https://img.shields.io/github/license/DanielStormApps/Fanny' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7865,13 +6722,9 @@
 *   [HoRNDIS (⭐3.3k)](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-
-    **Badges:** <a href='https://github.com/jwise/HoRNDIS/releases/latest'><img src='https://img.shields.io/github/v/release/jwise/HoRNDIS?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jwise/HoRNDIS'><img src='https://img.shields.io/github/stars/jwise/HoRNDIS?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jwise/HoRNDIS' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jwise/HoRNDIS' alt='License'/>
-*   [Juice (⭐768)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
+*   [Juice (⭐770)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/brianmichel/Juice/releases/latest'><img src='https://img.shields.io/github/v/release/brianmichel/Juice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/brianmichel/Juice'><img src='https://img.shields.io/github/stars/brianmichel/Juice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/brianmichel/Juice' alt='Last commit'/>   <img src='https://img.shields.io/github/license/brianmichel/Juice' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7883,11 +6736,9 @@
 
     </p>
     </details>
-*   [KeepingYouAwake (⭐6.2k)](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+*   [KeepingYouAwake (⭐6.9k)](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/newmarcel/KeepingYouAwake/releases/latest'><img src='https://img.shields.io/github/v/release/newmarcel/KeepingYouAwake?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/newmarcel/KeepingYouAwake'><img src='https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/newmarcel/KeepingYouAwake' alt='Last commit'/>   <img src='https://img.shields.io/github/license/newmarcel/KeepingYouAwake' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7897,11 +6748,9 @@
 
     </p>
     </details>
-*   [Latest (⭐4.4k)](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+*   [Latest (⭐4.7k)](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/mangerlahn/Latest/releases/latest'><img src='https://img.shields.io/github/v/release/mangerlahn/Latest?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mangerlahn/Latest'><img src='https://img.shields.io/github/stars/mangerlahn/Latest?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mangerlahn/Latest' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mangerlahn/Latest' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7911,11 +6760,9 @@
 
     </p>
     </details>
-*   [Loading (⭐619)](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS.
+*   [Loading (⭐621)](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/BonzaiThePenguin/Loading/releases/latest'><img src='https://img.shields.io/github/v/release/BonzaiThePenguin/Loading?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/BonzaiThePenguin/Loading'><img src='https://img.shields.io/github/stars/BonzaiThePenguin/Loading?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/BonzaiThePenguin/Loading' alt='Last commit'/>   <img src='https://img.shields.io/github/license/BonzaiThePenguin/Loading' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7925,13 +6772,11 @@
 
     </p>
     </details>
-*   [macOSLucidaGrande (⭐238)](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font.
+*   [macOSLucidaGrande (⭐241)](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases (⭐238)](https://github.com/LumingYin/macOSLucidaGrande/releases)
-
-    **Badges:** <a href='https://github.com/LumingYin/macOSLucidaGrande/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/macOSLucidaGrande?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/macOSLucidaGrande'><img src='https://img.shields.io/github/stars/LumingYin/macOSLucidaGrande?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LumingYin/macOSLucidaGrande' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LumingYin/macOSLucidaGrande' alt='License'/>
+    **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases (⭐241)](https://github.com/LumingYin/macOSLucidaGrande/releases)
 
     <details>
     <summary>Screenshots</summary>
@@ -7941,16 +6786,12 @@
 
     </p>
     </details>
-*   [Overkill (⭐535)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐534)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/KrauseFx/overkill-for-mac/releases/latest'><img src='https://img.shields.io/github/v/release/KrauseFx/overkill-for-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/KrauseFx/overkill-for-mac'><img src='https://img.shields.io/github/stars/KrauseFx/overkill-for-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/KrauseFx/overkill-for-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/KrauseFx/overkill-for-mac' alt='License'/>
 *   [ProfileCreator (⭐1.5k)](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/ProfileCreator/ProfileCreator/releases/latest'><img src='https://img.shields.io/github/v/release/ProfileCreator/ProfileCreator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ProfileCreator/ProfileCreator'><img src='https://img.shields.io/github/stars/ProfileCreator/ProfileCreator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ProfileCreator/ProfileCreator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ProfileCreator/ProfileCreator' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7960,11 +6801,9 @@
 
     </p>
     </details>
-*   [Sloth (⭐8.8k)](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
+*   [Sloth (⭐8.9k)](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/sveinbjornt/Sloth/releases/latest'><img src='https://img.shields.io/github/v/release/sveinbjornt/Sloth?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sveinbjornt/Sloth'><img src='https://img.shields.io/github/stars/sveinbjornt/Sloth?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sveinbjornt/Sloth' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sveinbjornt/Sloth' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -7978,16 +6817,12 @@
 
     </p>
     </details>
-*   [Turbo Boost Switcher (⭐1.5k)](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
+*   [Turbo Boost Switcher (⭐1.6k)](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/rugarciap/Turbo-Boost-Switcher/releases/latest'><img src='https://img.shields.io/github/v/release/rugarciap/Turbo-Boost-Switcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rugarciap/Turbo-Boost-Switcher'><img src='https://img.shields.io/github/stars/rugarciap/Turbo-Boost-Switcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rugarciap/Turbo-Boost-Switcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rugarciap/Turbo-Boost-Switcher' alt='License'/>
-*   [VerticalBar (⭐223)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.
+*   [VerticalBar (⭐225)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/DeromirNeves/DockSeparator/releases/latest'><img src='https://img.shields.io/github/v/release/DeromirNeves/DockSeparator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/DeromirNeves/DockSeparator'><img src='https://img.shields.io/github/stars/DeromirNeves/DockSeparator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/DeromirNeves/DockSeparator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/DeromirNeves/DockSeparator' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8003,13 +6838,11 @@
 
     **Website:** <https://www.wireshark.org/>
 
-### 🎚️ Touch Bar (6) / ✏️ Text (13)
+### 🎚️ Touch Bar (6) / ✏️ Text (14)
 
-*   [Muse (⭐635)](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
+*   [Muse (⭐637)](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/xzzz9097/Muse/releases/latest'><img src='https://img.shields.io/github/v/release/xzzz9097/Muse?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xzzz9097/Muse'><img src='https://img.shields.io/github/stars/xzzz9097/Muse?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xzzz9097/Muse' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xzzz9097/Muse' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8022,15 +6855,11 @@
 *   [MyTouchbarMyRules (⭐4.3k)](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/toxblh/MTMR/releases/latest'><img src='https://img.shields.io/github/v/release/toxblh/MTMR?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/toxblh/MTMR'><img src='https://img.shields.io/github/stars/toxblh/MTMR?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/toxblh/MTMR' alt='Last commit'/>   <img src='https://img.shields.io/github/license/toxblh/MTMR' alt='License'/>
 *   [Pock (⭐10k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://pock.app/>
-
-    **Badges:** <a href='https://github.com/pock/pock/releases/latest'><img src='https://img.shields.io/github/v/release/pock/pock?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/pock/pock'><img src='https://img.shields.io/github/stars/pock/pock?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/pock/pock' alt='Last commit'/>   <img src='https://img.shields.io/github/license/pock/pock' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8040,21 +6869,15 @@
 
     </p>
     </details>
-*   [Touch Bar Preview (⭐81)](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.
+*   [Touch Bar Preview (⭐83)](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/touchbar/Touch-Bar-Preview/releases/latest'><img src='https://img.shields.io/github/v/release/touchbar/Touch-Bar-Preview?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/touchbar/Touch-Bar-Preview'><img src='https://img.shields.io/github/stars/touchbar/Touch-Bar-Preview?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/touchbar/Touch-Bar-Preview' alt='Last commit'/>   <img src='https://img.shields.io/github/license/touchbar/Touch-Bar-Preview' alt='License'/>
 *   [Touch Bar Simulator (⭐1.9k)](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/sindresorhus/touch-bar-simulator/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/touch-bar-simulator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sindresorhus/touch-bar-simulator'><img src='https://img.shields.io/github/stars/sindresorhus/touch-bar-simulator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sindresorhus/touch-bar-simulator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sindresorhus/touch-bar-simulator' alt='License'/>
-*   [Touch Emoji (⭐55)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.
+*   [Touch Emoji (⭐56)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/ilyalesik/touch-emoji/releases/latest'><img src='https://img.shields.io/github/v/release/ilyalesik/touch-emoji?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ilyalesik/touch-emoji'><img src='https://img.shields.io/github/stars/ilyalesik/touch-emoji?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ilyalesik/touch-emoji' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ilyalesik/touch-emoji' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8067,28 +6890,20 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (8) / ✏️ Text (13)
+### 🔐 VPN & Proxy (8) / ✏️ Text (14)
 
 *   [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/yichengchen/clashX/releases/latest'><img src='https://img.shields.io/github/v/release/yichengchen/clashX?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/yichengchen/clashX'><img src='https://img.shields.io/github/stars/yichengchen/clashX?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/yichengchen/clashX' alt='Last commit'/>   <img src='https://img.shields.io/github/license/yichengchen/clashX' alt='License'/>
 *   [rvc-mac (⭐19)](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client macOS Menu App.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/riboseinc/cryptode-mac/releases/latest'><img src='https://img.shields.io/github/v/release/riboseinc/cryptode-mac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/riboseinc/cryptode-mac'><img src='https://img.shields.io/github/stars/riboseinc/cryptode-mac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/riboseinc/cryptode-mac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/riboseinc/cryptode-mac' alt='License'/>
 *   [ShadowsocksX-NG (⭐33k)](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest'><img src='https://img.shields.io/github/v/release/shadowsocks/ShadowsocksX-NG?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/shadowsocks/ShadowsocksX-NG'><img src='https://img.shields.io/github/stars/shadowsocks/ShadowsocksX-NG?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/shadowsocks/ShadowsocksX-NG' alt='Last commit'/>   <img src='https://img.shields.io/github/license/shadowsocks/ShadowsocksX-NG' alt='License'/>
-*   [Specht (⭐814)](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.
+*   [Specht (⭐810)](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zhuhaow/Specht/releases/latest'><img src='https://img.shields.io/github/v/release/zhuhaow/Specht?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zhuhaow/Specht'><img src='https://img.shields.io/github/stars/zhuhaow/Specht?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zhuhaow/Specht' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zhuhaow/Specht' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8101,23 +6916,17 @@
 *   [SpechtLite (⭐2.9k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Badges:** <a href='https://github.com/zhuhaow/SpechtLite/releases/latest'><img src='https://img.shields.io/github/v/release/zhuhaow/SpechtLite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zhuhaow/SpechtLite'><img src='https://img.shields.io/github/stars/zhuhaow/SpechtLite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zhuhaow/SpechtLite' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zhuhaow/SpechtLite' alt='License'/>
-*   [Tunnelblick (⭐3.2k)](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
+*   [Tunnelblick (⭐3.3k)](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-    **Badges:** <a href='https://github.com/Tunnelblick/Tunnelblick/releases/latest'><img src='https://img.shields.io/github/v/release/Tunnelblick/Tunnelblick?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Tunnelblick/Tunnelblick'><img src='https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Tunnelblick/Tunnelblick' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Tunnelblick/Tunnelblick' alt='License'/>
+### 🪟 Window Management (16) / ✏️ Text (14)
 
-### 🪟 Window Management (16) / ✏️ Text (13)
-
-*   [AltTab (⭐15k)](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
+*   [AltTab (⭐16k)](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://alt-tab-macos.netlify.app/>
-
-    **Badges:** <a href='https://github.com/lwouis/alt-tab-macos/releases/latest'><img src='https://img.shields.io/github/v/release/lwouis/alt-tab-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lwouis/alt-tab-macos'><img src='https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/lwouis/alt-tab-macos' alt='Last commit'/>   <img src='https://img.shields.io/github/license/lwouis/alt-tab-macos' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8131,8 +6940,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/ianyh/Amethyst/releases/latest'><img src='https://img.shields.io/github/v/release/ianyh/Amethyst?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ianyh/Amethyst'><img src='https://img.shields.io/github/stars/ianyh/Amethyst?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ianyh/Amethyst' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ianyh/Amethyst' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -8145,11 +6952,9 @@
 
     </p>
     </details>
-*   [AppGrid (⭐659)](https://github.com/mjolnirapp/AppGrid) - Grid-based keyboard window manager for macOS.
+*   [AppGrid (⭐666)](https://github.com/mjolnirapp/AppGrid) - Grid-based keyboard window manager for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/mjolnirapp/AppGrid/releases/latest'><img src='https://img.shields.io/github/v/release/mjolnirapp/AppGrid?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mjolnirapp/AppGrid'><img src='https://img.shields.io/github/stars/mjolnirapp/AppGrid?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mjolnirapp/AppGrid' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mjolnirapp/AppGrid' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8165,8 +6970,6 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Badges:** <a href='https://github.com/mamiksik/Desktop-Profiles/releases/latest'><img src='https://img.shields.io/github/v/release/mamiksik/Desktop-Profiles?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mamiksik/Desktop-Profiles'><img src='https://img.shields.io/github/stars/mamiksik/Desktop-Profiles?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mamiksik/Desktop-Profiles' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mamiksik/Desktop-Profiles' alt='License'/>
-
     <details>
     <summary>Screenshots</summary>
     <p>
@@ -8177,16 +6980,12 @@
 
     </p>
     </details>
-*   [Hammerspoon (⭐14k)](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
+*   [Hammerspoon (⭐16k)](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
 
     **Languages:** <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/Hammerspoon/hammerspoon/releases/latest'><img src='https://img.shields.io/github/v/release/Hammerspoon/hammerspoon?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Hammerspoon/hammerspoon'><img src='https://img.shields.io/github/stars/Hammerspoon/hammerspoon?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Hammerspoon/hammerspoon' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Hammerspoon/hammerspoon' alt='License'/>
 *   [Phoenix (⭐4.5k)](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/kasper/phoenix/releases/latest'><img src='https://img.shields.io/github/v/release/kasper/phoenix?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kasper/phoenix'><img src='https://img.shields.io/github/stars/kasper/phoenix?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kasper/phoenix' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kasper/phoenix' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8196,18 +6995,14 @@
 
     </p>
     </details>
-*   [Rectangle (⭐28k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
+*   [Rectangle (⭐30k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://rectangleapp.com>
-
-    **Badges:** <a href='https://github.com/rxhanson/Rectangle/releases/latest'><img src='https://img.shields.io/github/v/release/rxhanson/Rectangle?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rxhanson/Rectangle'><img src='https://img.shields.io/github/stars/rxhanson/Rectangle?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rxhanson/Rectangle' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rxhanson/Rectangle' alt='License'/>
 *   [ShiftIt (⭐5.5k)](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/fikovnik/ShiftIt/releases/latest'><img src='https://img.shields.io/github/v/release/fikovnik/ShiftIt?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/fikovnik/ShiftIt'><img src='https://img.shields.io/github/stars/fikovnik/ShiftIt?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/fikovnik/ShiftIt' alt='Last commit'/>   <img src='https://img.shields.io/github/license/fikovnik/ShiftIt' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>
@@ -8224,18 +7019,12 @@
 *   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Slate is a window management application similar to Divvy and SizeUp
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/jigish/slate/releases/latest'><img src='https://img.shields.io/github/v/release/jigish/slate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jigish/slate'><img src='https://img.shields.io/github/stars/jigish/slate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jigish/slate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jigish/slate' alt='License'/>
 *   [Spectacle (⭐14k)](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/eczarny/spectacle/releases/latest'><img src='https://img.shields.io/github/v/release/eczarny/spectacle?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/eczarny/spectacle'><img src='https://img.shields.io/github/stars/eczarny/spectacle?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/eczarny/spectacle' alt='Last commit'/>   <img src='https://img.shields.io/github/license/eczarny/spectacle' alt='License'/>
-*   [Yabai (⭐28k)](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning.
+*   [Yabai (⭐30k)](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning.
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-
-    **Badges:** <a href='https://github.com/koekeishiya/yabai/releases/latest'><img src='https://img.shields.io/github/v/release/koekeishiya/yabai?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/koekeishiya/yabai'><img src='https://img.shields.io/github/stars/koekeishiya/yabai?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/koekeishiya/yabai' alt='Last commit'/>   <img src='https://img.shields.io/github/license/koekeishiya/yabai' alt='License'/>
 
     <details>
     <summary>Screenshots</summary>

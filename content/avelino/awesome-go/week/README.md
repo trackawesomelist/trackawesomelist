@@ -18,7 +18,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Relational Database Drivers
 
-*   [go-mssqldb](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
+*   [go-mssqldb (⭐409)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
 
 ### Financial
 
@@ -42,6 +42,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [caddy-waf (⭐808)](https://github.com/fabriziosalmi/caddy-waf) - Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting.
 
+### Server Applications
+
+*   [Casdoor (⭐14k)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
+
 ### Mock
 
 *   [wsmock (⭐0)](https://github.com/sing198/wsmock) - Expressive, zero-boilerplate WebSocket mock server for testing with fault injection and assertions.
@@ -59,6 +63,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
 *   [GURL (⭐4)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
+*   [Plakar (⭐2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 *   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
@@ -124,7 +129,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [orderbook (⭐11)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
+*   [orderbook (⭐16)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
 
 ### Science and Data Analysis
 
@@ -2795,10 +2800,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [coherence-go-client (⭐15)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 
-### Forms
-
-*   [checker (⭐48)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
-
 ### Security
 
 *   [beelzebub (⭐2.2k)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
@@ -2806,6 +2807,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
+
+### Validation
+
+*   [checker (⭐48)](https://github.com/cinar/checker) - Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 

@@ -10,7 +10,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Relational Database Drivers
 
-*   [go-mssqldb](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
+*   [go-mssqldb (⭐409)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
+
+### Server Applications
+
+*   [Casdoor (⭐14k)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [Plakar (⭐2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 
 ## [Sep 04, 2026](/content/2026/09/04/README.md)
 
@@ -145,7 +153,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [orderbook (⭐11)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
+*   [orderbook (⭐16)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
 
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
@@ -3245,13 +3253,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
-### Forms
-
-*   [checker (⭐48)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
-
 ### Server Applications
 
 *   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
+
+### Validation
+
+*   [checker (⭐48)](https://github.com/cinar/checker) - Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 

@@ -2,15 +2,25 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 349 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 350 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / Weekly / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Archives and primary sources / Global
+
+*   [LUX: Yale Collections Discovery](https://lux.collections.yale.edu/) - Cross-collection discovery portal for exploring cultural and natural heritage materials held by Yale University’s museums, libraries, archives, and galleries.
+
+### Archives and primary sources / Switzerland
+
+*   [e-codices](https://www.e-codices.unifr.ch/en) - Virtual manuscript library of Switzerland.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Archives and primary sources / Global
 
-*   [Castlemap](https://thecastlemap.com/) - Interactive world map and open CC0 dataset of 2,400 castles, fortresses, palaces, and ruins across 131 countries.
+*   [Castlemap](https://thecastlemap.com/) - Interactive world map and downloadable CC0 dataset of castles, fortresses, palaces, and ruins around the world.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -26,7 +36,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Europe
 
-*   [RunoVerse](https://runoverse.org/) - Research platform for Finnish and Estonian runosong oral folk poetry with cross-lingual comparison and geographic analysis.
+*   [RunoVerse](https://runoverse.org/) - Exploration toolkit for Finnic runosong (runolaulu, regilaul) across four folklore corpora, with lemma search, cross-lingual verse comparison and geographic analysis.
 
 ### Archives and primary sources / Global
 
@@ -460,8 +470,8 @@ Find primary sources online and learn how to research history digitally.
 
 *   [Computer History (⭐3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐4.4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
-*   [Research Tools (⭐2.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐991)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐2.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐998)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -489,7 +499,6 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / Switzerland
 
 *   [COSMOV](http://www.cosmov.uzh.ch/) - Includes a digital edition of the events of the Zurich summer of 1968.
-*   [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland.
 *   [e-manuscripta](https://www.e-manuscripta.ch/) - Manuscript material from Swiss libraries and archives.
 *   [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
 

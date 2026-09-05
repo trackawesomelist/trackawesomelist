@@ -12,6 +12,7 @@ A curated list of Rust code and resources.
 
 *   [Picodata (⭐120)](https://github.com/picodata/picodata) \[[picodata-plugin](https://crates.io/crates/picodata-plugin)] - Distributed PostgreSQL-compatible database with a plugin model in Rust; Redis and Cassandra wire compatibility via commercial plugins.
 *   [PRQL (⭐11k)](https://github.com/PRQL/prql) \[[prqlc](https://crates.io/crates/prqlc)] - A modern language for transforming data, compiling to readable SQL. [![Tests](https://github.com/PRQL/prql/actions/workflows/tests.yml/badge.svg)](https://github.com/PRQL/prql/actions)
+*   [teaql/teaql-rs (⭐13)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
 
 ### Applications / MLOps
 

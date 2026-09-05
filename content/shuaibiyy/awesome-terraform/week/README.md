@@ -6,6 +6,25 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Learning and Studying
+
+*   [Terraform Terminal Simulator](https://devops-daily.com/games/terraform-terminal-simulator) - Practice init, plan, and apply in a simulated terminal in the browser. Free and open source, no signup.
+
+### Community Modules / Miscellaneous
+
+*   [terraform-helm-kepler (⭐0)](https://github.com/fabiocicerchia/terraform-helm-kepler) - Terraform module to deploy Kepler (Kubernetes power profiling) via Helm.
+
+### Providers / Community providers
+
+*   [terraform-provider-seerr (⭐5)](https://github.com/Josh-Archer/terraform-provider-seerr) - Terraform provider for Seerr (Overseerr/Jellyseerr).
+*   [terraform-provider-paddle (⭐0)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
+
+### Tools / CI
+
+*   [opentofu-updater-action (⭐1)](https://github.com/drumandbytes/opentofu-updater-action) - GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Providers / Community providers

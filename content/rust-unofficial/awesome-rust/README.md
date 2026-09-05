@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
+### Applications / Database
+
+*   [teaql/teaql-rs (⭐13)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
+
 ### Applications / Video
 
 *   [Jorji49/streamtop (⭐84)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.

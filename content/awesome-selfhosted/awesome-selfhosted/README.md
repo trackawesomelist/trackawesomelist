@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Sep 05, 2026](/content/2026/09/05/README.md)
+
+### Software / Media Management
+
+*   [Houndarr](https://av1155.github.io/houndarr/) - Scheduled backlog searches for Radarr, Sonarr, Lidarr, Readarr and Whisparr. Works through missing and cutoff-unmet items in small rate-limited batches with per-item cooldowns and hourly caps, to avoid overloading indexers. ([Source Code (⭐281)](https://github.com/av1155/houndarr)) `AGPL-3.0` `Python/Docker`
+
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
 ### Software / Note-taking & Editors
@@ -138,7 +144,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Network Utilities
 
-*   [PlugNPiN](https://deepspace2.github.io/PlugNPiN) - Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager. ([Source Code (⭐69)](https://github.com/deepspace2/plugnpin)) `GPL-3.0` `Docker`
+*   [PlugNPiN](https://deepspace2.github.io/PlugNPiN) - Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager. ([Source Code (⭐70)](https://github.com/deepspace2/plugnpin)) `GPL-3.0` `Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -152,7 +158,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [NextGIS Web](https://nextgis.com/nextgis-web/) - Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code (⭐275)](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`
+*   [NextGIS Web](https://nextgis.com/nextgis-web/) - Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code (⭐280)](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -188,15 +194,15 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code (⭐147)](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
+*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code (⭐148)](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
 
 ### Software / Database Management
 
-*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver). ([Source Code (⭐190)](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
+*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). ([Source Code (⭐404)](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [snowshare (⭐83)](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
+*   [snowshare (⭐84)](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -204,11 +210,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Proxy
 
-*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code (⭐240)](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
+*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code (⭐246)](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Travel Organization
 
-*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐275)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐280)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
@@ -260,13 +266,13 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo Galleries
 
-*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐28k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐29k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### Software / Miscellaneous
 
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐45)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐46)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
@@ -999,10 +1005,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Actual](https://actualbudget.org) - Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐28k)](https://github.com/actualbudget/actual)) `MIT` `Nodejs/Docker`
 
 ## [May 25, 2025](/content/2025/05/25/README.md)
-
-### Software / Analytics
-
-*   [Vince](https://www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics). ([Source Code (⭐2k)](https://github.com/vinceanalytics/vince)) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -2553,10 +2555,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Tasks.md (⭐2.2k)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
 
-### Software / Wikis
-
-*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐379)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
-
 ## [May 23, 2023](/content/2023/05/23/README.md)
 
 ### Software / Office Suites
@@ -3878,10 +3876,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code (⭐382)](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`
 
-### Software / Automation
-
-*   [feedmixer (⭐238)](https://github.com/cristoper/feedmixer) - Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed (returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\&f=https://americancynic.net/atom.xml\&n=1)) `WTFPL` `Python`
-
 ### Software / Blogging Platforms
 
 *   [Chyrp Lite](https://chyrplite.net) - Extra-awesome, extra-lightweight blog engine. ([Source Code (⭐493)](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`
@@ -4050,7 +4044,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Proxy
 
-*   [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code (⭐8k)](https://github.com/yarrick/iodine)) `ISC` `C/deb`
 *   [Privoxy](https://www.privoxy.org) - Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPL-2.0` `C/deb`
 
 ### Software / Resource Planning
@@ -4408,7 +4401,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐2.8k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐2.9k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ## [Mar 11, 2021](/content/2021/03/11/README.md)
 

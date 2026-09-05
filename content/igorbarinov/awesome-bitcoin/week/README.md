@@ -6,6 +6,16 @@ A curated list of bitcoin services and tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-bitcoin/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
+
+### Playgrounds
+
+*   [Raw transaction decoder](https://808bits.com/tools/raw-transaction-decoder/) - Paste a raw Bitcoin transaction (legacy, SegWit or Taproot) and see every byte named: scripts disassembled, addresses derived, witness and sequence fields explained. Runs in the browser, no server.
+
+### Read
+
+*   [Bitcoin Book of BIPs](https://adamdecaf.github.io/bitcoin-bips-book/) - Deployed and complete [BIPs (⭐11k)](https://github.com/bitcoin/bips), grouped by theme. PDF, ePUB, and web.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Blockchain dump

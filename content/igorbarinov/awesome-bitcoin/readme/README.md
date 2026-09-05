@@ -222,6 +222,7 @@ A curated list of bitcoin services and tools for software developers
 *   [Bitauth IDE](https://ide.bitauth.com/) – An interactive development environment for Bitcoin contracts.
 *   [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
 *   [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
+*   [Raw transaction decoder](https://808bits.com/tools/raw-transaction-decoder/) - Paste a raw Bitcoin transaction (legacy, SegWit or Taproot) and see every byte named: scripts disassembled, addresses derived, witness and sequence fields explained. Runs in the browser, no server.
 
 ## Blockchain dump
 
@@ -245,6 +246,7 @@ A curated list of bitcoin services and tools for software developers
 *   [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 *   [Mastering Bitcoin (⭐25k)](https://github.com/bitcoinbook/bitcoinbook)
 *   [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
+*   [Bitcoin Book of BIPs](https://adamdecaf.github.io/bitcoin-bips-book/) - Deployed and complete [BIPs (⭐11k)](https://github.com/bitcoin/bips), grouped by theme. PDF, ePUB, and web.
 *   [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 *   [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
 *   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐163)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
@@ -275,7 +277,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
 
 ***

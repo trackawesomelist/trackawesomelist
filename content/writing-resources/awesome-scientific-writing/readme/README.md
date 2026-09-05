@@ -2,7 +2,7 @@
 
 :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/writing-resources/awesome-scientific-writing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) · ⭐ 875 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/writing-resources/awesome-scientific-writing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) · ⭐ 998 · 🏷️ Miscellaneous
 
 [ [Daily](/content/writing-resources/awesome-scientific-writing/README.md) / [Weekly](/content/writing-resources/awesome-scientific-writing/week/README.md) / Overview ]
 
@@ -30,26 +30,25 @@ document**.
 *   [Spell Checking and Linting](#spell-checking-and-linting)
 *   [Templates](#templates)
     *   [Articles](#articles)
-    *   [Presentations](#presentations)
     *   [Books](#books)
 *   [Tutorials](#tutorials)
 *   [Other Lists](#other-lists)
 
 ## Word Processors
 
-*   [Marktext (⭐52k)](https://github.com/marktext/marktext) - Markdown text editor.
-*   [R Studio (⭐4.9k)](https://github.com/rstudio/rstudio) - IDE for R.
-    *   [bookdown (⭐4k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+*   [Marktext (⭐61k)](https://github.com/marktext/marktext) - Markdown text editor.
+*   [R Studio (⭐5k)](https://github.com/rstudio/rstudio) - IDE for R.
+    *   [bookdown (⭐4.1k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
     *   [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 *   [Vim](https://www.vim.org/) - Command line text editor.
-    *   [fzf-bibtex (⭐133)](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
+    *   [fzf-bibtex (⭐132)](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
         with Vim integration which uses fzf (a fuzzy finder implemented in Go).
-    *   [vim-pandoc (⭐967)](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
-    *   [vim-pandoc-syntax (⭐424)](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
+    *   [vim-pandoc (⭐966)](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
+    *   [vim-pandoc-syntax (⭐427)](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
 *   [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
-    *   [Markdown All in One (⭐3.1k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
+    *   [Markdown All in One (⭐3.3k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
         Markdown support in VSCode, such as preview and auto completion to name a few.
-    *   [Markdown Preview Enhanced (⭐4.3k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
+    *   [Markdown Preview Enhanced (⭐4.4k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
         integration and utilities.
 *   [Zettlr](https://www.zettlr.com/) - Markdown editor which
     integrates CSL, BibLaTeX, Pandoc and many other tools
@@ -63,11 +62,13 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
     repository with over 9000 free CSL citation styles and an online
     editor to create new ones.
 *   [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+*   [ScholarRef (⭐1)](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
+    (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 *   [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
     share research.
     *   [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
         BibTeX / BibLaTeX integration for Zotero.
-    *   [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
+    *   [Zotero OCR (⭐821)](https://github.com/UB-Mannheim/zotero-ocr) - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
 *   [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
@@ -94,23 +95,26 @@ Supplementary files and tools.
     tools to do it :link:.
 *   [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
     a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+*   [Manubot](https://manubot.org/) - Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.
+*   [latex2arxiv (⭐5)](https://github.com/YuZh98/latex2arxiv) - Command-line tool which converts
+    a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
+    draft markup, and flags arXiv submission blockers before upload.
 *   [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
     a superset of CommonMark markdown with reStructuredText like features.
+*   [MyST Markdown CLI](https://mystmd.org/) - Command-line tools for building scientific documents from MyST Markdown with citations, cross-references, and HTML, PDF, and Word output.
 *   [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
     reStructuredText and more.
 *   [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
     library :bookmark: :link:.
-    *   [Academic Markdown (⭐354)](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
-        elements, making it a superset of Pandoc Markdown flavour :bookmark:
-        :link:.
-    *   [Pandoc filters (⭐40k)](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
+    *   [Pandoc filters (⭐46k)](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
         addons to pandoc which implement extra features such as citations and
         cross-references.
     *   [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
         to John MacFarlane's pandocfilters.
 *   [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
+*   [Typst (⭐56k)](https://github.com/typst/typst) - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 
 ## Spell Checking and Linting
 
@@ -118,18 +122,18 @@ Supplementary files and tools.
 *   [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 *   [LanguageTool](https://languagetool.org/) - Open source grammar, style and
     spell Checker.
-*   [LanguageCheck (⭐109)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
-*   [Markdown lint tool (⭐2k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
-*   [proselint (⭐4.5k)](https://github.com/amperser/proselint) - Linter for prose.
+*   [LanguageCheck (⭐111)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
+*   [Markdown lint tool (⭐2.1k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
+*   [proselint (⭐4.6k)](https://github.com/amperser/proselint) - Linter for prose.
 *   [remarklint (⭐1k)](https://github.com/remarkjs/remark-lint) - Markdown linter.
-*   [restructuredtext-lint (⭐180)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+*   [restructuredtext-lint (⭐183)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
 *   [textlint](https://textlint.github.io/) - Pluggable linting tool for text
     and Markdown.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
     style checking on LaTeX documents.
-*   [Vale (⭐5.1k)](https://github.com/errata-ai/vale) - Free, open-source linter for
+*   [Vale (⭐6.1k)](https://github.com/errata-ai/vale) - Free, open-source linter for
     prose built with speed and extensibility in mind.
-*   [write-good (⭐5k)](https://github.com/btford/write-good) - Naive linter for English
+*   [write-good (⭐5.1k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
 ## Templates
@@ -138,30 +142,13 @@ Reusable minimalist examples.
 
 ### Articles
 
-*   [Pandoc Markdown-LaTeX
-    Boilerplate (⭐101)](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
-    how to integrate Pandoc with an existing LaTeX template which
-    requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
-    `latexmk` dependency.
-*   [Paper Templates for GitHub Pages (⭐1)](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
-*   [scientific-markdown (⭐54)](https://github.com/JensErat/scientific-markdown/#readme) - Example
-    for use of Markdown for scientific publications using Pandoc and
-    `latexmk`.
-*   [Steve's R Markdown Templates (⭐927)](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
-
-### Presentations
-
-*   [pandoc-starter (⭐539)](https://github.com/jez/pandoc-starter/#readme) - Templates for
-    articles, Beamer presentations etc. using Markdown files and Makefiles for
-    getting started with Pandoc.
-*   [slides (⭐3)](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
-    presentations using Pandoc.
+*   [Paper Templates for GitHub Pages (⭐2)](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
 
 ### Books
 
-*   [bookdown-demo (⭐528)](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
+*   [bookdown-demo (⭐533)](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
     example of a book based on R Markdown and bookdown.
-*   [Eisvogel (⭐6.9k)](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
+*   [Eisvogel (⭐7.2k)](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
 *   [Template for writing a PhD thesis in
     Markdown (⭐1.3k)](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
     organization of files to provide a framework for writing a PhD thesis in
@@ -172,22 +159,13 @@ Reusable minimalist examples.
 How to generate articles and presentations for scientific purposes.
 
 *   [3 frameworks into one — Write your next paper with R Studio!](https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers.
-*   [Book on Riemann solvers (⭐282)](https://github.com/clawpack/riemann_book/#readme) - This
+*   [Book on Riemann solvers (⭐294)](https://github.com/clawpack/riemann_book/#readme) - This
     example uses a custom `nbconvert` template and shows how to store your
     notebooks with no output (for version control) while automatically executing
     them before running `bookbook`, so that PDF and HTML versions include the
     output.
 *   [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
 *   [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
-*   [Katrin Leinweber's Ph.D.
-    thesis (⭐50)](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
-    work flow involving several tools, but primarily Pandoc, `latexmk` and
-    Academic Markdown.
-*   [Scott Selisker](https://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
-*   [Teaching and learning with
-    Jupyter (⭐458)](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
-    written in R Markdown, bookdown and also rendered as HTML, PDF and
-    EPUB.
 *   [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 *   [Writing scientific papers for ACPD using Emacs
     Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
@@ -196,9 +174,9 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-*   [Awesome Jupyter (⭐4.5k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-*   [Awesome LaTeX (⭐1.6k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-*   [Awesome Markdown (⭐903)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+*   [Awesome Jupyter (⭐4.7k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+*   [Awesome LaTeX (⭐1.7k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+*   [Awesome Markdown (⭐955)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 *   [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
