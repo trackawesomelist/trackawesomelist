@@ -1,18 +1,106 @@
 # Awesome List Updates on Sep 06, 2026
 
-6 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Examples
+
+*   [Isthimius/Gondwana (⭐14)](https://github.com/Isthimius/Gondwana/wiki)
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Task Queues
+
+*   [django-ox (⭐84)](https://github.com/oxpull/django-ox) - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
+*   [django-absurd (⭐18)](https://github.com/lincolnloop/django-absurd) - Django integration for Absurd, a Postgres-native durable workflow system.
+
+### Developer Tools / Static Analysis
+
+*   [django-orm-lens (⭐73)](https://github.com/FROWNINGdev/django-orm-lens) - Model-level static analysis: ER diagrams, N+1 detection, schema drift, and blast radius in CI, without a database or Django boot.
+
+### Hosting / Deployment Services
+
+*   [DeployHQ](https://www.deployhq.com) - Deploys from Git to your servers over SSH, SFTP, or S3, with build steps and rollbacks.
+
+### Hosting / Self-Hosted Deployment
+
+*   [Coolify](https://coolify.io) - Self-hosted PaaS with a web UI for Docker apps and databases, with an optional paid cloud control plane.
+*   [Dokploy](https://dokploy.com) - Self-hosted PaaS with a web UI, built on Docker and Traefik, with an optional paid cloud control plane.
+*   [CapRover](https://caprover.com) - Self-hosted PaaS with a web UI and one-click apps, built on Docker Swarm.
+*   [Kamal](https://kamal-deploy.org) - Deploy containers to any server over SSH with zero downtime, from Basecamp.
+
+### Projects / Open Source Projects
+
+*   [Revel (⭐107)](https://github.com/letsrevel/revel-backend) - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
+*   [venueless (⭐225)](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
+*   [pretix (⭐2.5k)](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
+*   [pretalx (⭐938)](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
+
+## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+
+### Runtimes/Frontends
+
+*   [JupyterLite (⭐4.9k)](https://github.com/jupyterlite/jupyterlite) - Jupyter distribution that runs entirely in the browser.
+*   [OpenFiles](https://openfiles.pansysoft.app/) - Desktop file workspace for editing/running local Jupyter notebooks and 350+ other file formats.
+
+### Visualization
+
+*   [K3D-jupyter (⭐1k)](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays.
+
+### Tables
+
+*   [buckaroo (⭐685)](https://github.com/buckaroo-data/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+
+### JupyterLab Extensions
+
+*   [jupyter-resource-usage (⭐538)](https://github.com/jupyter-server/jupyter-resource-usage) - Extension to display system metrics.
+
+### Domain-Specific Projects
+
+*   [jupyter-shopsavvy (⭐0)](https://github.com/shopsavvy/jupyter-shopsavvy) - Magic commands for product search, price comparison/history charts using the ShopSavvy API.
+
+### Articles/Guides/Tutorials
+
+*   [Accessibility for Screen Readers](https://hack5.dev/accessibility/jupyter/terminal/2026/02/19/accessible-jupyer.html) - Guide for converting Jupyter Notebooks to a screen-reader-compatible format.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Miscellaneous
+
+*   [OpenReader](https://docs.openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Source Code (⭐501)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
+
+## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+### Extensions and Utilities
+
+*   [playcanvas-opti-pixel (⭐2)](https://github.com/AlexAPPi/playcanvas-opti-pixel) - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Dependency Management / Quickfix
+
+*   [mm4cN/nvim-conan (⭐8)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [apple-userhost (⭐2)](https://github.com/Boursyt/apple-userhost-zsh-theme) - 2-line prompt with an Apple icon. Includes decorators for user\@hostname, current directory and `git` status
+*   [katana (⭐1)](https://github.com/KakshiDEV56/zsh-katana) - A minimalist, samurai-inspired prompt theme. Renders the current directory and Git branch/status as two compact, dark steel-toned segments, joined by a Powerline-style separator, with a single crimson accent used for Git status.
+*   [nick (⭐0)](https://github.com/seankoji-com/zsh-theme-nick) - A Powerline-style ZSH theme derived from [agnoster](https://gist.github.com/3712874), with a `git` segment that never blocks the prompt. Includes decorators for exit status, job count, user\@host, `git` status, node version and current directory.
+
+## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [DOS File Path Magic Tricks](https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
@@ -31,7 +119,11 @@
 
 *   [Awesome C (⭐12k)](https://github.com/oz123/awesome-c) 1
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Artificial Intelligence
+
+*   [snip (⭐435)](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.
 
 ### Advanced Console UIs
 
@@ -46,13 +138,13 @@
 
 *   [spotify-screensaver (⭐0)](https://github.com/benzjeremy/spotify-screensaver) - Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
 *   [lamco-admin/lamco-rdp-server (⭐105)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -305,7 +397,7 @@
 
 
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Backup
 

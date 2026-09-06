@@ -38,6 +38,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [internetarchive/openlibrary (⭐6.6k)](https://github.com/internetarchive/openlibrary/wiki)
 *   [JustArchiNET/ArchiSteamFarm (⭐14k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 *   [GyulyVGC/sniffnet (⭐41k)](https://github.com/GyulyVGC/sniffnet/wiki)
+*   [Isthimius/Gondwana (⭐14)](https://github.com/Isthimius/Gondwana/wiki)
 
 ## Useful links with tips & tricks
 

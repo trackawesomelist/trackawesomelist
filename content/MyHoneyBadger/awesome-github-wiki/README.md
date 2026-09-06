@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
 
+## [Sep 06, 2026](/content/2026/09/06/README.md)
+
+### Examples
+
+*   [Isthimius/Gondwana (⭐14)](https://github.com/Isthimius/Gondwana/wiki)
+
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
 ### Popular AI Tools
