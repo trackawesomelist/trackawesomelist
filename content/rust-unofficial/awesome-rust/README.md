@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Sep 06, 2026](/content/2026/09/06/README.md)
+
+### Applications / Utilities
+
+*   [lamco-admin/lamco-rdp-server (⭐105)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
+
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
 ### Applications / Database
@@ -5916,7 +5922,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alacritty (⭐65k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐66k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 

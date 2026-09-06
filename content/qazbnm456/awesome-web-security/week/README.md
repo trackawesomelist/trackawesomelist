@@ -59,6 +59,7 @@
 
 *   [A glimpse into GitHub's Bug Bounty workflow](https://github.blog/2017-02-22-githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
 *   [How we abused Slack's TURN servers to gain access to internal services](https://www.enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty/) - Written by [@sandrogauci](https://twitter.com/sandrogauci).
+*   [DOS File Path Magic Tricks](https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -289,7 +290,6 @@
 
 ### Miscellaneous / Server-Side Request Forgery
 
-*   [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 *   [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)

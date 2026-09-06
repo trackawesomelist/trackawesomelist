@@ -16,6 +16,10 @@
 
 *   [linecast (⭐347)](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
 
+### Utilities / Backup
+
+*   [Plakar (⭐2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+
 ### AI / Agents
 
 *   [AgentBridge (⭐322)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
@@ -32,7 +36,7 @@
 
 ### Utilities / macOS
 
-*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Mole (⭐66k)](https://github.com/tw93/Mole) - Clean your Mac and more.
 *   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ### AI / Agents
@@ -157,7 +161,7 @@
 
 *   [upterm (⭐1.3k)](https://github.com/owenthereal/upterm) - Instant terminal sharing.
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
 *   [explainshell](https://explainshell.com) - Type a snippet to see the help text for each argument.
 
@@ -217,7 +221,7 @@
 
 ### Development / Database
 
-*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+*   [pgxcli (⭐75)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -288,7 +292,7 @@
 
 ### Development / HTTP Client
 
-*   [httptap (⭐797)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐808)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -322,7 +326,7 @@
 
 *   [golazo (⭐841)](https://github.com/0xjuanma/golazo) - Soccer matches.
 
-### Data Manipulation / Professional: Resume
+### Data Manipulation / Backup
 
 *   [nless (⭐277)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
 
@@ -408,7 +412,7 @@
 *   [resumx (⭐170)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 *   [YAMLResume (⭐1.5k)](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
-### Data Manipulation / Professional: Resume
+### Data Manipulation / Backup
 
 *   [sc-im (⭐5.7k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
@@ -473,7 +477,7 @@
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
@@ -793,7 +797,7 @@
 
 *   [clevercli (⭐164)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
 *   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
@@ -965,13 +969,13 @@
 *   [speedtest-cli (⭐14k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 *   [bandwhich (⭐12k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
+### Utilities / Backup
+
+*   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+
 ### Files and Directories / Directory Navigation
 
 *   [fz (⭐574)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
-
-### Version Control / Git
-
-*   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### Version Control / Emoji
 
@@ -1176,7 +1180,7 @@
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 *   [eureka (⭐873)](https://github.com/simeg/eureka) - Input and store your ideas.
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
 *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers.
@@ -1267,7 +1271,7 @@
 *   [lazydocker (⭐53k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
-### Data Manipulation / Professional: Resume
+### Data Manipulation / Backup
 
 *   [visidata (⭐9.3k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
@@ -1418,9 +1422,9 @@
 
 *   [QuickWall (⭐193)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
-*   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐18k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ### Data Manipulation / JSON
 
@@ -1545,7 +1549,7 @@
 
 ### Other Resources / LLM Interaction
 
-*   [awesome-shell (⭐37k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-shell (⭐38k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐67k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
@@ -1737,7 +1741,7 @@
 
 *   [happyfinder (⭐335)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐44)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐67k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐68k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐83k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ### Images / Image Conversion
@@ -1783,7 +1787,7 @@
 *   [SAWS (⭐5.3k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 *   [s3cmd (⭐4.9k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
-### Command Line Learning / Professional: Resume
+### Command Line Learning / Backup
 
 *   [The Fuck (⭐98k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [tldr (⭐64k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.

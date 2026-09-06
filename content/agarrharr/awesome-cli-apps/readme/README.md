@@ -79,6 +79,7 @@ Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) lis
     *   [Internet Speedtest](#internet-speedtest)
     *   [Science](#science)
     *   [Professional: Resume](#professional-resume)
+    *   [Backup](#backup)
 *   [Command Line Learning](#command-line-learning)
 *   [Data Manipulation](#data-manipulation)
     *   [Processors](#processors)
@@ -246,7 +247,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [usql (⭐10k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 *   [rdsai-cli (⭐62)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 *   [squix (⭐268)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
-*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+*   [pgxcli (⭐75)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Devops
 
@@ -319,7 +320,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [ain (⭐621)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 *   [curlie (⭐3.7k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 *   [ATAC (⭐3.7k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-*   [httptap (⭐797)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐808)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -441,7 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [dark-mode (⭐687)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 *   [clippy (⭐245)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 *   [anvil (⭐116)](https://github.com/0xjuanma/anvil) - Config management and app installations.
-*   [Mole (⭐64k)](https://github.com/tw93/Mole) - Clean your Mac and more.
+*   [Mole (⭐66k)](https://github.com/tw93/Mole) - Clean your Mac and more.
 *   [Raccoon (⭐130)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ### Terminal Sharing Utilities
@@ -573,6 +574,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [resumx (⭐170)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 *   [YAMLResume (⭐1.5k)](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
+### Backup
+
+*   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+*   [Plakar (⭐2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+
 ## Command Line Learning
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
@@ -583,7 +589,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [tldr (⭐64k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐509)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐413)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
-*   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐18k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 *   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
@@ -723,7 +729,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [happyfinder (⭐335)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐44)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐67k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐68k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐83k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐4.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐44k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
@@ -760,7 +766,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [import-github-labels-cli (⭐20)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 *   [git-all-branches (⭐10)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 *   [czg (⭐1.5k)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
-*   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 *   [lazygit (⭐82k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 *   [gitui (⭐22k)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
@@ -880,7 +885,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 *   [awesome-cli-apps-in-a-csv (⭐2.6k)](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
 *   [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
-*   [awesome-shell (⭐37k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-shell (⭐38k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐67k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.

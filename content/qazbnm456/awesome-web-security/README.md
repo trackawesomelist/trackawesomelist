@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/qazbnm456/awesome-web-security/week/README.md) / [Overview](/content/qazbnm456/awesome-web-security/readme/README.md) ]
 
+## [Sep 06, 2026](/content/2026/09/06/README.md)
+
+### Miscellaneous / Server-Side Request Forgery
+
+*   [DOS File Path Magic Tricks](https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
+
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
 ### CSRF - Cross-Site Request Forgery
@@ -309,7 +315,6 @@
 
 ### Miscellaneous / Server-Side Request Forgery
 
-*   [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 *   [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
 
 ## [May 22, 2020](/content/2020/05/22/README.md)

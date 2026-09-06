@@ -6,6 +6,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 06, 2026](/content/2026/09/06/README.md)
+
+### Advanced Console UIs
+
+*   [lazyteams (⭐1)](https://github.com/agmonetti/lazyteams) - Keyboard-driven terminal user interface for Microsoft Teams.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [docklite (⭐0)](https://github.com/benzjeremy/docklite) - Lightweight Portainer alternative for Docker container management with real-time SSE metrics.
+*   [mq-studio (⭐43)](https://github.com/amigoer/mq-studio) - Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [spotify-screensaver (⭐0)](https://github.com/benzjeremy/spotify-screensaver) - Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
+
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
 ### Relational Database Drivers
