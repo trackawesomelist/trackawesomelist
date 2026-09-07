@@ -104,6 +104,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.7k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 *   [Evidently (⭐7.8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [FlexViz (⭐6)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
 *   [hvplot](https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization in Jupyter.
 *   [ipychart (⭐134)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 *   [ipycytoscape (⭐289)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
@@ -160,6 +161,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 *   [nbscan (⭐24)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
+*   [Notebook Lens](https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer) - View .ipynb notebooks with outputs inside JetBrains IDEs without running a kernel.
 *   [notedown (⭐859)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 *   [Papermill (⭐6.5k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 *   [Ploomber (⭐3.6k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.

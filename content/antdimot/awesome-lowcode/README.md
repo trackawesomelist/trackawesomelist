@@ -6,6 +6,20 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Sep 07, 2026](/content/2026/09/07/README.md)
+
+### AI
+
+*   [Erupt (⭐2.8k)](https://github.com/erupts/erupt) - Annotation-driven Java/Spring Boot admin framework and AI harness. One annotated JPA entity becomes a full admin page with RBAC, Excel import/export and OpenAPI; ships 50+ LLM providers, MCP-native tools and A2A agents configurable from the admin UI. Self-hostable, open source (Java, Apache-2.0).
+
+### Visual programming
+
+*   [Naratake](https://naratake.com/en) - Drag-and-drop website builder for local businesses with 40 industry starting points, 111 components and 15 design styles. Publishes a real Next.js app with full source-code export.
+
+### Misc
+
+*   [CapMonster Cloud](https://capmonster.cloud) - Cloud captcha solving service for reCAPTCHA, Cloudflare Turnstile and other captcha types, useful for automation, scraping and no-code workflows.
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### AI

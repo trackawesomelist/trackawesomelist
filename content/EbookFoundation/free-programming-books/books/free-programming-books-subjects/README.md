@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Sep 07, 2026](/content/2026/09/07/README.md)
+
+### Artificial Intelligence
+
+*   [Research, Rewritten](https://hallieren.github.io/research-rewritten/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
+*   [The Last Mile](https://hallieren.github.io/the-last-mile/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
+
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
 ### Mathematics
@@ -16,7 +23,7 @@
 
 ### Artificial Intelligence
 
-*   [AI Agent Evaluation](https://hallieren.github.io/ai-agent-evaluation/) - Hallie Ren (HTML) *( :construction: in process)* (CC BY-NC-SA)
+*   [AI Agent Evaluation](https://hallieren.github.io/ai-agent-evaluation/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 

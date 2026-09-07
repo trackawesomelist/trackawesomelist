@@ -150,7 +150,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Artificial Intelligence
 
-*   [AI Agent Evaluation](https://hallieren.github.io/ai-agent-evaluation/) - Hallie Ren (HTML) *( :construction: in process)* (CC BY-NC-SA)
+*   [AI Agent Evaluation](https://hallieren.github.io/ai-agent-evaluation/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 *   [AI Safety for Fleshy Humans](https://aisafety.dance) - Nicky Case and Hack Club *( :construction: in process)* (CC BY-NC)
 *   [Artificial Intelligence, 3rd Edition (1993)](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) - Patrick Henry Winston (PDF)
 *   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
@@ -171,10 +171,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 *   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.5k)](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 *   [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
+*   [Research, Rewritten](https://hallieren.github.io/research-rewritten/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 *   [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 *   [The Agentic AI Hub](https://daily.dev/agentic-ai-hub/) - daily.dev (HTML) (CC BY)
 *   [The Claude Code Book (⭐0)](https://github.com/bartek-890/the-claude-code-book) - Bartłomiej Krupa (Markdown) (CC BY-NC-ND)
 *   [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
+*   [The Last Mile](https://hallieren.github.io/the-last-mile/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 *   [The Math Behind Artificial Intelligence: A Guide to AI Foundations](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
 *   [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 

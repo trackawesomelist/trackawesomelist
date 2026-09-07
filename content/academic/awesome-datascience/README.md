@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Sep 07, 2026](/content/2026/09/07/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [PhilanthroPy (⭐8)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
+
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
 ### Tools
@@ -851,7 +857,7 @@
 ### Free Courses
 
 *   [MLSys-NYU-2022 (⭐558)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐888)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [Hands-on Train and Deploy ML (⭐889)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
 

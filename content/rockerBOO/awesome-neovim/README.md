@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 07, 2026](/content/2026/09/07/README.md)
+
+### Bars and Lines / Colorscheme Switchers
+
+*   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Dependency Management / Quickfix

@@ -968,6 +968,7 @@ then it is not supported:
 *   [neur1n/noline.nvim (⭐1)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets nor constraints.
 *   [OXY2DEV/bars.nvim (⭐95)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
 *   [zaakiy/line-justice.nvim (⭐16)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
+*   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
 
 ### Statusline
 

@@ -6,6 +6,38 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Learning and Studying
+
+*   [DevOpsLesson Terraform Playground](https://devopslesson.com/playground/terraform) - Free browser-based Terraform simulator with guided HCL exercises and practice commands.
+
+### Tutorials and Blog Posts / Beginner Guides
+
+*   [Introduction to Terraform](https://devopslesson.com/tutorials/terraform/introduction-to-terraform) - Beginner-friendly guide to Terraform fundamentals — providers, resources, state, and your first apply with hands-on examples.
+
+### Tutorials and Blog Posts / Azure
+
+*   [azure-az104 (⭐1)](https://github.com/victorlane/azure-az104) - AZ-104 Azure Administrator study notes and hands-on Terraform examples, including a landing-zone reference architecture.
+
+### Community Modules / Miscellaneous
+
+*   [terraform-helm-carbon-intensity-exporter (⭐0)](https://github.com/fabiocicerchia/terraform-helm-carbon-intensity-exporter) - Terraform/Helm module to deploy the Kubernetes Carbon Intensity Exporter.
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-nxip (⭐0)](https://github.com/uk-sw/terraform-provider-nxip) - Provider for [nxip](https://nx-ip.com), IPAM with pool-based CIDR allocation across cloud and on-premise. :heavy\_dollar\_sign:
+
+### Providers / Community providers
+
+*   [terraform-provider-seekrit (⭐0)](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
+
+### Tools / Community providers
+
+*   [Cynative (⭐197)](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
+*   [Datadef](https://datadef.io/repo-to-diagram) - Generates architecture diagrams and docs from a Terraform repo: parses `.tf` files without running `terraform init` or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavy\_dollar\_sign:
+*   [SyncVey (⭐0)](https://github.com/MR-TABATA/SyncVey) - Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Learning and Studying

@@ -6,6 +6,16 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Sep 07, 2026](/content/2026/09/07/README.md)
+
+### Visualization
+
+*   [FlexViz (⭐6)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
+
+### Rendering/Publishing/Conversion
+
+*   [Notebook Lens](https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer) - View .ipynb notebooks with outputs inside JetBrains IDEs without running a kernel.
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Runtimes/Frontends

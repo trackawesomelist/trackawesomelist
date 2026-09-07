@@ -213,7 +213,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W\&B
 *   [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 *   [MLSys-NYU-2022 (⭐558)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐888)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [Hands-on Train and Deploy ML (⭐889)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 *   [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 *   [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 *   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
@@ -456,6 +456,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
 *   [PerpetualBooster (⭐706)](https://github.com/perpetual-ml/perpetual)
 *   [JAX (⭐36k)](https://github.com/google/jax)
+*   [PhilanthroPy (⭐8)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
 ### Deep Learning Packages
 
