@@ -215,6 +215,7 @@ Use these hashtags in search to filter out the tools
 *   [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing. `#free`
 *   [Bubbling Duck](https://maoya.com/) - Multi-modal platform with contextual memory. `#free`
 *   [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them. `#freemium`
+*   [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only. `#free`
 *   [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
 *   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 *   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
@@ -323,6 +324,7 @@ Use these hashtags in search to filter out the tools
 *   [Formula bot](https://formulabot.com/) - Instant formula generation without registration. `#free`
 *   [FormX.ai](https://formx.ai/) - Automated data extraction from invoices/contracts. `#free`
 *   [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
+*   [ParlayAPI MCP (⭐0)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 *   [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
 *   [Rows](https://rows.com/) - Redefined spreadsheet for team data analysis. `#free`
 *   [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. `#freemium`

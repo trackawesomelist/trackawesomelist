@@ -185,6 +185,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [bare-devcontainer/templates (⭐1)](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/zig).
 *   [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 *   [Illusionna/LocalTransfer (⭐589)](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
+*   [deatil/zig-rsa (⭐0)](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
 
 ### Linker
 

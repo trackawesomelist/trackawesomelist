@@ -8,6 +8,10 @@
 
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
+### Intensive Programs
+
+*   [Great Learning Data Science Programs](https://www.mygreatlearning.com/data-science/courses) - A collection of online data science and analytics certificate, postgraduate, and degree programs.
+
 ### General Machine Learning Packages / Deep Learning architectures
 
 *   [PhilanthroPy (⭐8)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.

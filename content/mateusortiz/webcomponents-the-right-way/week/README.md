@@ -6,6 +6,34 @@ A curated list of awesome Web Components resources.
 
 [ [Daily](/content/mateusortiz/webcomponents-the-right-way/README.md) / Weekly / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Interoperability
+
+*   [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/en/blog/javascript-frameworks-meet-web-components/)
+
+### Class Based
+
+*   [Stencil (⭐13k)](https://github.com/stenciljs/core) - Compiler for generating Web Components.
+
+### History / 2016
+
+*   [Demythstifying Web Components](https://backalleycoder.com/posts/demythstifying-web-components/)
+*   [Web Component Challenges](https://archive.is/RUhaE)
+*   [Why web components are so important](https://archive.is/aHSeX)
+
+### History / 2015
+
+*   [Microsoft Edge and Web Components](https://archive.is/BtcAM)
+
+### History / 2014
+
+*   [Building an Accessible Disclosure Button – using Web Components](https://stevefaulkner.github.io/Articles/Building%20an%20Accessible%20Disclosure%20Button%20%E2%80%93%20using%20Web%20Components.html)
+
+### History / 2012
+
+*   [Notes on Web Components + ARIA](https://stevefaulkner.github.io/Articles/Notes%20on%20Web%20Components%20+%20ARIA.html)
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Introduction
@@ -128,7 +156,7 @@ A curated list of awesome Web Components resources.
 
 ### Component Libraries
 
-*   [PlayCanvas Web Components (⭐107)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐109)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -351,7 +379,6 @@ A curated list of awesome Web Components resources.
 ### History / 2016
 
 *   [Extensible web components](https://adactio.com/journal/11052)
-*   [Web Component Challenges](https://blog.revillweb.com/web-component-challenges-a09ebc598d65)
 *   [Web Components and progressive enhancement](https://onishi.ltd/articles/2016/08/web-components-and-progressive-enhancement/)
 *   [Update on standardizing Shadow DOM and Custom Elements](https://annevankesteren.nl/2015/07/shadow-dom-custom-elements-update)
 
@@ -405,7 +432,6 @@ A curated list of awesome Web Components resources.
 *   [Working with Custom Elements](https://web.dev/customelements/)
 *   [Breaking Development: Web Components](https://www.lukew.com/ff/entry.asp?1752)
 *   [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://youtu.be/fqULJBBEVQE)
-*   [Web Components: Getting Started](https://vimeo.com/68212204)
 *   [Shadow DOM 101](https://web.dev/shadowdom/)
 *   [Shadow DOM 201](https://web.dev/shadowdom-201/)
 *   [Shadow DOM 301](https://web.dev/shadowdom-301/)
@@ -433,7 +459,6 @@ A curated list of awesome Web Components resources.
 ### History / 2016
 
 *   [What's New in Shadow DOM v1 (by examples)](https://hayatoito.github.io/2016/shadowdomv1/)
-*   [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
 
 ### History / 2014
 
@@ -954,10 +979,6 @@ A curated list of awesome Web Components resources.
 
 *   [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 
-### History / 2014
-
-*   [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
-
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
 ### Introduction
@@ -1065,10 +1086,6 @@ A curated list of awesome Web Components resources.
 *   [ING Open-Sources Lion, Its White-Label Web Component Library – Q\&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
 *   [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 
-### Class Based
-
-*   [Stencil (⭐13k)](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
-
 ### Angular
 
 *   [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
@@ -1106,7 +1123,6 @@ A curated list of awesome Web Components resources.
 ### Interoperability
 
 *   [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
-*   [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 *   [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
 
 ## [Aug 05 - Aug 11, 2019](/content/2019/31/README.md)
@@ -1202,7 +1218,6 @@ A curated list of awesome Web Components resources.
 
 ### History / 2015
 
-*   [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
 *   [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 
 ### History / 2014
@@ -1215,10 +1230,6 @@ A curated list of awesome Web Components resources.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
-### Class Based
-
-*   [slim.js (⭐1k)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
-
 ### History / 2018
 
 *   [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
@@ -1229,7 +1240,6 @@ A curated list of awesome Web Components resources.
 
 ### History / 2016
 
-*   [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 *   [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 ### History / 2015
@@ -1249,5 +1259,4 @@ A curated list of awesome Web Components resources.
 
 ### History / 2012
 
-*   [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 *   [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
