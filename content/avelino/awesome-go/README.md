@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Goroutines
+
+*   [goscade (⭐23)](https://github.com/ognick/goscade) - Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Artificial Intelligence

@@ -1,12 +1,136 @@
 # Awesome List Updates on Sep 14 - Sep 20, 2026
 
-16 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+
+### Platforms
+
+*   [AgentBox (⭐375)](https://github.com/madarco/agentbox) - Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B). Sub-second checkpoints, per-box browser/VS Code/shells, git credentials kept on the host. MIT.
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Database clients
+
+*   [leveldb (⭐8)](https://github.com/vlang/leveldb) - LevelDB implementation in pure V.
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Goroutines
+
+*   [goscade (⭐23)](https://github.com/ognick/goscade) - Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.
+
+## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### RPG
+
+*   [jminequest](https://codeberg.org/glowiak/jminequest)) - A Java reimplementation of the 2014 mobile game Mine Quest by Tapps Tecnologia da Informacao Ltda
+
+## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [lint (⭐278)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
+*   [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
+
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+
+### Agents
+
+*   [Nova-TradingAgent (⭐25)](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
+*   [OpenCandle (⭐23)](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
+
+### Skills
+
+*   [Quant Research (⭐3)](https://github.com/Jimmy7892/quant-research-skill) - Agent skill for backtest validation using parameter stability, selection-bias checks, and walk-forward evaluation.
+*   [Market Brief (⭐0)](https://github.com/beepboop2025/market-brief) - Agent skill for source-linked funding and liquidity briefs, preserving observation dates and missing-data states.
+*   [AI Trader Team (⭐2)](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
+*   [Bargo Congress API (⭐0)](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
+*   [financeskills (⭐19)](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+
+### Market Data
+
+*   [livetennisapi/livetennisapi-mcp (⭐158)](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+
+### Research & Analysis
+
+*   [heubme2020/datasinking (⭐0)](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+
+### Courses & Books & Blogs
+
+*   [ai-agent-playbook (⭐30)](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
+
+### Technical Analysis
+
+*   [PineTS (⭐539)](https://github.com/LuxAlgo/PineTS) - Open-source Pine Script transpiler and runtime for indicators and strategies in Node.js and browsers, using live or custom market data.
+
+### Data Sources / Traditional Markets
+
+*   [SPZCO](https://spzco.com) - Research terminal for U.S. congressional trades, executive disclosures, institutional holdings, and insider filings, with links to source documents.
+*   [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
+*   [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q\&A segmentation.
+*   [The Stall (⭐7)](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+
+### Data Sources / Crypto Currencies
+
+*   [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
+*   [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
+
+### Data Sources / Prediction Markets
+
+*   [Live Tennis API](https://docs.livetennisapi.com) - Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.
+
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+
+### Accounting / Bookkeeping
+
+*   [Blnk (⭐526)](https://github.com/blnkfinance/blnk) - 💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.
+
+## [8. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+
+### Security
+
+*   [Cartography (⭐4k)](https://github.com/cartography-cncf/cartography) - 🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+
+### Password-based auth / Identifiers
+
+*   [Dumb Password Rules (⭐3k)](https://github.com/duffn/dumb-password-rules) - 🆓 Shaming sites with dumb password rules.
+*   [A Well-Known URL for Changing Passwords (⭐907)](https://github.com/w3c/webappsec-change-password-url) - 🆓 Specification defining site resource for password updates.
+
+### Authorization / RBAC frameworks
+
+*   [Athenz (⭐1k)](https://github.com/AthenZ/athenz) - 🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
+
+### Authorization / ABAC frameworks
+
+*   [Casbin (⭐20k)](https://github.com/apache/casbin) - 🆓 Open-source access control library for Golang projects.
+
+### OAuth2 & OpenID / Other tools
+
+*   [Casdoor (⭐14k)](https://github.com/casdoor/casdoor) - 🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform. Supports OAuth 2, OIDC, SAML 2, CAS, LDAP and SCIM, social logins, user management, WebAuthn and TOTP/MFA.
+
+### Secret Management / Other tools
+
+*   [`sops`](https://github.com/getsops/sops) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+*   [`gitleaks`](https://github.com/gitleaks/gitleaks) - 🆓 Audit Git repos for secrets.
+
+### Trust & Safety / Fraud
+
+*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐777)](https://github.com/Stream-AD/MIDAS) - 🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+
+### Privacy / Anonymization
+
+*   [Presidio (⭐11k)](https://github.com/data-privacy-stack/presidio) - 🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
+
+### Competitive Analysis / GDPR
+
+*   [Google Cloud Developer's Cheat Sheet (⭐8.2k)](https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+
+## [9. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Chatbots
 
@@ -16,13 +140,17 @@
 
 *   [ParlayAPI MCP (⭐0)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 
-## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+### Real Estate
+
+*   [Altyst](https://altyst.ai/) - Turns a commercial property's address, listing link, or offering memorandum into a full editable underwriting model with cash flows, IRR, and DSCR. `#paid`
+
+## [10. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Observability & Monitoring / Observability
 
 *   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) by [Continuum AI](https://github.com/Continuum-AI-Corp) - Records a Claude Code run through a local proxy and replays it offline, reproducing it byte-for-byte with the network off, or forking it from any checkpoint onto a different model. Capture happens below the harness, so shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic. (NB: Status: "Early")\ <img src="https://img.shields.io/github/created-at/Continuum-AI-Corp/OrcaReplay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Continuum-AI-Corp/OrcaReplay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Continuum-AI-Corp/OrcaReplay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
@@ -32,13 +160,13 @@
 
 *   [AprilNEA/OpenLogi/crates/openlogi-hidpp (⭐20k)](https://github.com/AprilNEA/OpenLogi/tree/main/crates/openlogi-hidpp) \[[openlogi-hidpp](https://crates.io/crates/openlogi-hidpp)] - OpenLogi's vendored fork of the hidpp crate for Logitech HID++ protocol support.
 
-## [4. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [12. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Editor and IDE Integrations / French
 
 *   [OrchidE](https://www.orchide.dev) - Full-featured [Ansible language support](https://plugins.jetbrains.com/plugin/12626-orchide--ansible-language-support) for IntelliJ-based IDEs, with code completion, syntax highlighting, inspections, quick documentation, navigation across playbooks, roles and inventories, and integrated Ansible Vault support.
 
-## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Interoperability
 
@@ -66,7 +194,7 @@
 
 *   [Notes on Web Components + ARIA](https://stevefaulkner.github.io/Articles/Notes%20on%20Web%20Components%20+%20ARIA.html)
 
-## [6. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [14. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -86,7 +214,7 @@
 *   [pedronaugusto/zcgltf (⭐0)](https://github.com/pedronaugusto/zcgltf) - Zig bindings for cgltf — glTF 2.0 parsing, validation, accessor reading and writing. AI-assisted.
 *   [pedronaugusto/zrecast (⭐0)](https://github.com/pedronaugusto/zrecast) - Zig bindings for recastnavigation — navmesh baking, path queries, off-mesh links, dynamic obstacles through a tile cache and crowd steering. AI-assisted.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 
@@ -96,7 +224,7 @@
 
 *   [Pelmet](https://pelmet.fif7y.com) - Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fif7y/pelmet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Productivity
 
@@ -124,7 +252,7 @@
 *   [Posnic POS](https://posnic.io/) - Posnic POS is offline-first open-source POS and billing software for retail shops and restaurants, built as a JavaScript/Electron desktop app with a local MongoDB-backed checkout.
 *   [Twenty](https://twenty.com) - Twenty is an open-source CRM whose data model is a runtime artifact — every custom object, field, view, role, and AI agent is a row in metadata tables, with the GraphQL schema and SQL queries rebuilt per workspace on demand. Written in TypeScript with NestJS, React, PostgreSQL, and a native MCP server for Claude/ChatGPT/Cursor.
 
-## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -138,13 +266,13 @@
 
 *   [CapMonster Cloud](https://capmonster.cloud) - Cloud captcha solving service for reCAPTCHA, Cloudflare Turnstile and other captcha types, useful for automation, scraping and no-code workflows.
 
-## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [18. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [Notebook Lens](https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer) - View .ipynb notebooks with outputs inside JetBrains IDEs without running a kernel.
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [19. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Mobile
 
@@ -162,6 +290,7 @@
 ### Scaffold
 
 *   [Product Plate (⭐35)](https://github.com/rodrgds/productplate) - An open-source SvelteKit + Convex starter for building SaaS products.
+*   [My SvelteKit Starter (⭐1)](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 *   [microfolio (⭐143)](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ### HTTP Requests / Form Components
@@ -176,13 +305,13 @@
 
 *   [PR Cockpit (⭐44)](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Bars and Lines / Colorscheme Switchers
 
 *   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [21. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Intensive Programs
 
@@ -192,14 +321,14 @@
 
 *   [PhilanthroPy (⭐8)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Research, Rewritten](https://hallieren.github.io/research-rewritten/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 *   [The Last Mile](https://hallieren.github.io/the-last-mile/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 
-## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [23. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Charts and Dashboards
 
@@ -214,7 +343,7 @@
 
 *   [dbmask (⭐124)](https://github.com/sealandseacat/dbmask) - Open-source tool that scans SQL databases for sensitive columns, masks them with deterministic fakes, and validates the masked copy row by row against the original.
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Learning and Studying
 

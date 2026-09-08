@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Scaffold
+
+*   [My SvelteKit Starter (⭐1)](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Mobile

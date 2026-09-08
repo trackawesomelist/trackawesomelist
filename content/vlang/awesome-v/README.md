@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Database clients
+
+*   [leveldb (⭐8)](https://github.com/vlang/leveldb) - LevelDB implementation in pure V.
+
 ## [Aug 26, 2026](/content/2026/08/26/README.md)
 
 ### Utility
@@ -17,7 +23,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editor plugins / Zed
 
-*   [zed-v (⭐38)](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
+*   [zed-v (⭐40)](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
 
 ## [Aug 15, 2026](/content/2026/08/15/README.md)
 
@@ -34,8 +40,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 
-*   [v-jwt (⭐1)](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
-*   [v-sm3 (⭐0)](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
+*   [v-jwt (⭐2)](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
+*   [v-sm3 (⭐1)](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
 
 ## [Aug 08, 2026](/content/2026/08/08/README.md)
 
@@ -47,7 +53,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [waterjail (⭐0)](https://github.com/tailsmails/waterjail) - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
+*   [waterjail](https://github.com/tailsmails/waterjail) - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
 
 ## [Jul 18, 2026](/content/2026/07/18/README.md)
 
@@ -103,14 +109,14 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Networking
 
-*   [netr (⭐3)](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
+*   [netr](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 
 ## [Jul 11, 2026](/content/2026/07/11/README.md)
 
 ### Command-line
 
-*   [gatevay (⭐1)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
-*   [pixviper (⭐1)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
+*   [gatevay](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
+*   [pixviper](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
 
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
@@ -122,7 +128,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [anyside (⭐0)](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
+*   [anyside](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 
 ### Scientific computing
 
@@ -132,7 +138,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [newfolder (⭐4)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
+*   [newfolder](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
 
 ## [Jun 21, 2026](/content/2026/06/21/README.md)
 
@@ -144,14 +150,14 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [lagger (⭐3)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
+*   [lagger](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 
 ## [Jun 18, 2026](/content/2026/06/18/README.md)
 
 ### Command-line
 
-*   [fastgit (⭐3)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
-*   [musicc (⭐3)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
+*   [fastgit](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [musicc](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
 
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
@@ -163,8 +169,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [netprint (⭐5)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
-*   [salty (⭐3)](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
+*   [netprint](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [salty](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
 
 ## [May 23, 2026](/content/2026/05/23/README.md)
 
@@ -182,13 +188,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editors
 
-*   [vro (⭐5)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+*   [vro (⭐7)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ## [May 09, 2026](/content/2026/05/09/README.md)
 
 ### Command-line
 
-*   [envelop (⭐4)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
+*   [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
 
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
@@ -253,7 +259,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [bobatea (⭐23)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
+*   [bobatea (⭐25)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
 
 ### Utility
 
@@ -306,7 +312,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Utility
 
-*   [vanadium (⭐1)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
+*   [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 
 ## [Feb 21, 2026](/content/2026/02/21/README.md)
 
@@ -827,7 +833,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Interpreters/Compilers
 
-*   [monkey\_v (⭐38)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
+*   [monkey\_v (⭐45)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 *   [v (⭐38k)](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 *   [vbf (⭐20)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 *   [vcc (⭐110)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
@@ -885,7 +891,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Discord
 
-*   [discord.v (⭐118)](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
+*   [discord.v (⭐116)](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
 *   [viscord (⭐23)](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
 *   [vord (⭐5)](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
 

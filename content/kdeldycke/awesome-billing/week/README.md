@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kdeldycke/awesome-billing/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Accounting / Bookkeeping
+
+*   [Blnk (⭐526)](https://github.com/blnkfinance/blnk) - 💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.
+
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Finance / Currencies
@@ -26,7 +32,7 @@
 
 ### Invoice / Generators
 
-*   [Invoice Builder (⭐460)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
+*   [Invoice Builder (⭐982)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 *   [microinvoice (⭐147)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
 ### Payments / Electronic invoices
@@ -95,11 +101,11 @@
 
 ### Cost Forecast / Market Research
 
-*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐9.9k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
+*   [`sktime`](https://github.com/alan-turing-institute/sktime) - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial (⭐10k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
 
 ### Accounting / Bookkeeping
 
-*   [Formance Ledger (⭐1.3k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
+*   [Formance Ledger (⭐1.4k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
 ### Accounting / Software design and implementation
 
@@ -108,11 +114,11 @@
 
 ### Invoice / Electronic invoices
 
-*   [GOBL (⭐294)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
+*   [GOBL (⭐302)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
 ### Business Intelligence / Tools
 
-*   [Apache Superset (⭐74k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
+*   [Apache Superset (⭐75k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -155,7 +161,7 @@
 
 ### Invoice / Generators
 
-*   [klirr (⭐134)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐138)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
 
@@ -212,7 +218,7 @@
 ### Payments / Electronic invoices
 
 *   [The Best Payment Gateway for Startups](https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
-*   [Hyperswitch (⭐43k)](https://github.com/juspay/hyperswitch) - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
+*   [Hyperswitch (⭐44k)](https://github.com/juspay/hyperswitch) - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
 
 ### Payments / Bank Accounts
 
@@ -238,7 +244,7 @@
 ### Business Intelligence / Customer Lifetime Value
 
 *   [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
-*   [PyMC-Marketing (⭐1.2k)](https://github.com/pymc-labs/pymc-marketing) - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
+*   [PyMC-Marketing (⭐1.3k)](https://github.com/pymc-labs/pymc-marketing) - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
 
 ### Business Intelligence / Data Engineering
 
@@ -262,7 +268,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [CGRateS (⭐508)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
+*   [CGRateS (⭐514)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -367,7 +373,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐10k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+*   [Lago (⭐11k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 ### Pricing / Subscription Plans
 
@@ -407,10 +413,6 @@
 *   [Fintech Open Source Foundation](https://github.com/finos) - 🆓 Linux Foundation project hosting open-source projects for financial services.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
-
-### Accounting / Bookkeeping
-
-*   [Go DB Ledger (⭐510)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -544,7 +546,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐173)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐177)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Business Intelligence / Metrics
 
@@ -567,7 +569,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐302)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐308)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 ### Payments / Bank Accounts
@@ -598,7 +600,7 @@
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐183)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+*   [InvoiceGenerator (⭐184)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
 *   [Ruby Invoicing Framework (⭐266)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
@@ -690,7 +692,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐108k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐109k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Payments / Bank Accounts
 
@@ -835,7 +837,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐2.2k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐2.3k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 

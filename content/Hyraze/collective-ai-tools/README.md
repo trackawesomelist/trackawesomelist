@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Real Estate
+
+*   [Altyst](https://altyst.ai/) - Turns a commercial property's address, listing link, or offering memorandum into a full editable underwriting model with cash flows, IRR, and DSCR. `#paid`
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Chatbots
@@ -281,7 +287,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Finance
 
-*   [SwiftAlerts](https://swiftalerts.trade/) - Connect Claude, Codex, Cursor, and other AI assistants to structured market intelligence. `#paid` `#finance` `#analytics`
+*   [SwiftAlerts](https://swiftalerts.trade/) - Connect Claude, Codex, Cursor, and other AI assistants to structured market intelligence. `#paid`
 
 ### Image Generator
 

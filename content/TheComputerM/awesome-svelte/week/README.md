@@ -24,6 +24,7 @@
 ### Scaffold
 
 *   [Product Plate (⭐35)](https://github.com/rodrgds/productplate) - An open-source SvelteKit + Convex starter for building SaaS products.
+*   [My SvelteKit Starter (⭐1)](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 *   [microfolio (⭐143)](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ### HTTP Requests / Form Components

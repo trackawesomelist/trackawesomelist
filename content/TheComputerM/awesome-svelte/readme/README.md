@@ -286,6 +286,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [svelte-docs-starter (⭐90)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 *   [template-svelte (⭐82)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 *   [generic-app-template (⭐66)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
+*   [My SvelteKit Starter (⭐1)](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 *   [microfolio (⭐143)](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ## Utilities

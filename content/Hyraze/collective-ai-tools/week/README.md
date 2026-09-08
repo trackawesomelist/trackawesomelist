@@ -16,6 +16,10 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [ParlayAPI MCP (⭐0)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 
+### Real Estate
+
+*   [Altyst](https://altyst.ai/) - Turns a commercial property's address, listing link, or offering memorandum into a full editable underwriting model with cash flows, IRR, and DSCR. `#paid`
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Developer Tools
@@ -244,7 +248,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Finance
 
-*   [SwiftAlerts](https://swiftalerts.trade/) - Connect Claude, Codex, Cursor, and other AI assistants to structured market intelligence. `#paid` `#finance` `#analytics`
+*   [SwiftAlerts](https://swiftalerts.trade/) - Connect Claude, Codex, Cursor, and other AI assistants to structured market intelligence. `#paid`
 
 ### Image Generator
 
