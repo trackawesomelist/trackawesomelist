@@ -6,6 +6,41 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Shadow DOM
+
+*   [The Shadow DOM Explained: Achieving True Encapsulation in Web Components](https://medium.com/@rgndunes/the-shadow-dom-explained-achieving-true-encapsulation-in-web-components-e3422f5957cd)
+
+### Accessibility
+
+*   [Shadow DOM Focus Delegation: Getting delegatesFocus Right](https://blog.master.dev/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
+*   [Web Components and accessibility](https://www.accessibility-developer-guide.com/knowledge/web-components/)
+
+### Opinions
+
+*   [Liskov's Gun: The parallel evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
+*   [Web Components are not Framework Components — and That’s Okay](https://lea.verou.me/blog/2024/wcs-vs-frameworks/)
+*   [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/) by Jim Nielsen
+*   [HTML Web Components](https://adactio.com/journal/20618) by Jeremy Keith
+
+### Component Libraries
+
+*   [Morpheus (⭐22)](https://github.com/romshark/morpheus) - An experimental web components UI kit.
+
+### Design Systems
+
+*   [PIE Design System](https://pie.design) - Just Eat Takeaway.com’s global design system
+*   [Porsche Design System](https://designsystem.porsche.com/v4/) - Toolkit for creating web applications based on Web Components.
+
+### Use Cases
+
+*   [Post Mortem: Rewriting AgnosticUI with Lit Web Components](https://blog.master.dev/post-mortem-rewriting-agnosticui-with-lit-web-components/)
+
+### Tutorials
+
+*   [The Missing Link for Web Components](https://blog.master.dev/the-missing-link-for-web-components/)
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Interoperability
@@ -124,8 +159,6 @@ A curated list of awesome Web Components resources.
 ### Tutorials
 
 *   [Getting started with LitElement and TypeScript](https://www.thisdot.co/blog/getting-started-with-litelement-and-typescript)
-*   [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://www.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-*   [Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
 *   [Web Components Tools: A Comparison](https://developer.vonage.com/en/blog/web-components-tools-a-comparison)
 
 ### Podcasts
@@ -363,7 +396,6 @@ A curated list of awesome Web Components resources.
 
 ### Introduction
 
-*   [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
 *   [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
 
 ### Accessibility
@@ -372,16 +404,17 @@ A curated list of awesome Web Components resources.
 
 ### History / 2019
 
-*   [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
-*   [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
-*   [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
-*   [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
-*   [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
-*   [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
+*   *2019-09-02* [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
+*   *2019-07-01* [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
+*   *2019-06-30* [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
+*   *2019-06-30* [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
+*   *2019-06-29* [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+*   *2019-03-18* [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+*   *2019-02-05* [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
 
 ### History / 2018
 
-*   [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
+*   *2018-07-06* [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
 
 ### History / 2017
 
@@ -466,8 +499,8 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
-*   [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
+*   *2018-08-19* [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
+*   *2018-04-17* [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
 
 ### History / 2016
 
@@ -781,13 +814,8 @@ A curated list of awesome Web Components resources.
 
 ## [Jun 18, 2020](/content/2020/06/18/README.md)
 
-### Form Associated Custom Elements
-
-*   [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
-
 ### Limitations
 
-*   [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
 *   [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
 *   [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
 
@@ -797,6 +825,11 @@ A curated list of awesome Web Components resources.
 *   [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 *   [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 *   [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
+
+### History / 2019
+
+*   *2019-07-01* [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
+*   *2019-04-09* [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
 
 ### History / 2017
 
@@ -890,7 +923,6 @@ A curated list of awesome Web Components resources.
 *   [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
 *   [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 *   [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
-*   [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 *   [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ### Examples
@@ -918,6 +950,10 @@ A curated list of awesome Web Components resources.
 *   [Better Apps: Delivering Universal UI Patterns as Web Components](https://youtu.be/mtHf7crZZIQ) by [@janmiksovsky](https://twitter.com/janmiksovsky)
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
+
+### History / 2019
+
+*   *2019-12-02* [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 
 ## [May 25, 2020](/content/2020/05/25/README.md)
 
@@ -1036,7 +1072,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
+*   *2018-12-19* [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 
 ## [May 07, 2020](/content/2020/05/07/README.md)
 
@@ -1046,7 +1082,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2019
 
-*   [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
+*   *2019-04-08* [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 
 ### History / 2017
 
@@ -1103,23 +1139,15 @@ A curated list of awesome Web Components resources.
 
 ## [Apr 27, 2020](/content/2020/04/27/README.md)
 
-### Introduction
-
-*   [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
-*   [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-
 ### Custom Elements
 
-*   [All about HTML Custom Elements (⭐203)](https://github.com/shawnbot/custom-elements)
 *   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [web-platform-tests (⭐6.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
-*   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 *   [Shadow DOM in depth (⭐239)](https://github.com/praveenpuglia/shadow-dom-in-depth)
-*   [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 *   [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 *   [web-platform-tests (⭐6.1k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
@@ -1178,7 +1206,11 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+*   *2018-11-29* [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+*   *2018-11-15* [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+*   *2018-11-08* [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+*   *2018-08-21* [All about HTML Custom Elements (⭐203)](https://github.com/shawnbot/custom-elements)
+*   *2018-07-16* [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
 
@@ -1197,7 +1229,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
+*   *2018-11-28* [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 
 ### History / 2014
 
@@ -1215,7 +1247,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+*   *2018-05-23* [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
 ### History / 2016
 
@@ -1357,7 +1389,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+*   *2018-11-21* [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 
 ## [Dec 04, 2018](/content/2018/12/04/README.md)
 
@@ -1369,7 +1401,7 @@ A curated list of awesome Web Components resources.
 
 ### History / 2018
 
-*   [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
+*   *2018-05-21* [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 
 ### History / 2017
 

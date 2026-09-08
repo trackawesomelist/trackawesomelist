@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Tools
+
+*   [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
+
 ## [Aug 11, 2026](/content/2026/08/11/README.md)
 
 ### Tools
@@ -154,13 +160,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐21k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐22k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐419)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐421)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 
@@ -199,7 +205,7 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐123)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐125)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
@@ -242,7 +248,7 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.7k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.8k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 

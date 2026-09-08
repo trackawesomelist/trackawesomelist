@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [goscade (⭐23)](https://github.com/ognick/goscade) - Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.
 
+### Security
+
+*   [y509 (⭐27)](https://github.com/kanywst/y509) - TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Artificial Intelligence

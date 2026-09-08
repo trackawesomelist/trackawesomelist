@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Sep 08, 2026](/content/2026/09/08/README.md)
+
+### Mail
+
+*   [Mailtrap](https://mailtrap.io/) - Email delivery platform for developers to test emails in a sandbox and send transactional and bulk emails via API and SMTP.
+
 ## [Aug 23, 2026](/content/2026/08/23/README.md)
 
 ### Monitoring

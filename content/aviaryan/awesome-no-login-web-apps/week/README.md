@@ -2,9 +2,88 @@
 
 🚀 Awesome (free) web apps that work without login
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 3.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / Weekly / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
+
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Audio and Video
+
+*   [Canvas Maker for Spotify Artists](https://spotifyedits.com) - Make a looping 9:16 Canvas video, artist header, avatar and cover art for a Spotify release. Encodes in the browser with WebCodecs, so files are never uploaded.
+*   [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos right in your browser with the WebCodecs API; no upload, no account needed.
+*   [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
+*   [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
+*   [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
+
+### Business and Finance
+
+*   [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
+*   [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+
+### Document Editors / Others
+
+*   [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+
+### Drawing / Others
+
+*   [SVG-Edit](https://svg-edit.github.io/svgedit/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+*   [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+
+### File Converters / Others
+
+*   [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
+*   [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+
+### File Hosting/Sharing / Others
+
+*   [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
+*   [cv.cm](https://cv.cm/) - Paste text, images, audio, video or files and get an ultra-short link to share; with Markdown, code highlighting and auto-translation.
+
+### Games / Others
+
+*   [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
+*   [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
+*   [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+
+### Graphics, Image and Design / Others
+
+*   [DigicamFilter](https://digicamfilter.online/) - Adds an old-camera look (CCD, iPhone 4, disposable, Y2K, film grain) to your photos. Runs fully in the browser, nothing uploaded.
+*   [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
+*   [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
+*   [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+
+### Privacy, Security and Cryptography / Others
+
+*   [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
+
+### Programming Editors and IDEs / Others
+
+*   [DartPad](https://dartpad.dev/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+
+### Programming Tools / Others
+
+*   [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.
+*   [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
+
+### Search Engines / Others
+
+*   [Google Fonts](https://fonts.google.com/) - Collection of open-source fonts by google.
+
+### Study and Education / Others
+
+*   [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+
+### Utilities (uncategorized) / Others
+
+*   [Folicle Hair Self-Checks](https://folicle.app/tools) - Free Norwood scale, Ludwig scale and hair-shedding self-check calculators that run entirely in the browser with no signup.
+*   [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
+*   [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
+*   [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+
+### Miscellaneous / Others
+
+*   [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
@@ -21,12 +100,6 @@
 ### Miscellaneous / Others
 
 *   [Dub](https://dub.sh/) - Open-source link shortener.
-
-## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
-
-### Audio and Video
-
-*   [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -96,20 +169,12 @@
 
 *   [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 
-### Utilities (uncategorized) / Others
-
-*   [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
-
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
 ### Audio and Video
 
 *   [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 *   [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
-
-### Communication
-
-*   [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
 
 ### Drawing / Others
 
@@ -125,10 +190,6 @@
 ### Graphics, Image and Design / Others
 
 *   [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
-
-### Internet Downloaders / Others
-
-*   [dOnline](http://https://doonline.cc/video-downloader-converter.html/) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.
 
 ### Notepads and Notebooks / Others
 
@@ -157,7 +218,6 @@
 ### Programming Editors and IDEs / Others
 
 *   [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
-*   [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
 
 ### Search Engines / Others
 
@@ -194,18 +254,6 @@
 ### Graphics, Image and Design / Others
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
-
-## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
-
-### Graphics, Image and Design / Others
-
-*   [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
-
-## [Mar 25 - Mar 31, 2019](/content/2019/12/README.md)
-
-### File Hosting/Sharing / Others
-
-*   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
 ## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
 
@@ -286,7 +334,6 @@
 
 ### Programming Tools / Others
 
-*   [pForm](http://www.phpform.org/) - Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.
 *   [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 
 ### Text based tools / Others
@@ -326,12 +373,6 @@
 
 *   [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 
-## [Oct 02 - Oct 08, 2017](/content/2017/40/README.md)
-
-### Business and Finance
-
-*   [ICOStats.com](https://icostats.com/) - Track & compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
-
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
 ### Graphics, Image and Design / Others
@@ -348,7 +389,7 @@
 
 ### Music, Radio and Podcasts / Others
 
-*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
+*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐24)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
@@ -409,11 +450,6 @@
 
 *   [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
 *   [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-*   [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
-
-### Utilities (uncategorized) / Others
-
-*   [TallTweets](http://talltweets.com/) - Send tweets longer than 140 characters.
 
 ### Miscellaneous / Others
 
@@ -449,8 +485,6 @@
 
 ### Business and Finance
 
-*   [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
-*   [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account.
 *   [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 *   [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 
@@ -470,7 +504,6 @@
 *   [Dillinger](http://dillinger.io/) - Powerful Markdown WYSIWYG with export to HTML and PDF. User account to save documents.
 *   [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 *   [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
-*   [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 
 ### Document Editors / Others
 
@@ -496,15 +529,12 @@
 *   [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 *   [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 *   [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
-*   [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 
 ### Music, Radio and Podcasts / Others
 
 *   [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
 *   [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
-*   [Stitcher](http://www.stitcher.com/) - Listen to podcast online.
 *   [AnyAudio](http://anyaudio.in/) - Stream and download music.
-*   [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
 *   [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
 *   [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 *   [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
@@ -521,16 +551,12 @@
 *   [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
 *   [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 *   [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
-*   [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
-*   [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
 *   [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
-*   [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
 
 ### Programming Tools / Others
 
 *   [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 *   [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
-*   [JavaScript compressor](http://javascriptcompressor.com/) - JavaScript compressor and obfuscater.
 *   [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
 *   [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 *   [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
@@ -542,7 +568,6 @@
 *   [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
 *   [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures.
 *   [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
-*   [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 *   [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 *   [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 
@@ -554,8 +579,6 @@
 ### Utilities (uncategorized) / Others
 
 *   [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats (PDF, JPEG, ZIP) just by submitting link.
-*   [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (metadata) of any image.
-*   [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 
 ### Miscellaneous / Others
 
@@ -619,7 +642,6 @@
 
 ### Search Engines / Others
 
-*   [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 *   [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 *   [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 
@@ -636,7 +658,6 @@
 
 ### Drawing / Others
 
-*   [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
 *   [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 *   [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 *   [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
@@ -655,12 +676,6 @@
 
 *   [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 *   [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-
-## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
-
-### Drawing / Others
-
-*   [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
 
 ## [Feb 20 - Feb 26, 2017](/content/2017/8/README.md)
 
@@ -690,7 +705,6 @@
 ### Internet Downloaders / Others
 
 *   [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-*   [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 *   [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 *   [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 

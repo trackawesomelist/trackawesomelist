@@ -12,7 +12,7 @@ A curated list of awesome Web Font Icons
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome (⭐492k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -87,8 +87,8 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of \~1380 flat icons that offer complete coverage of the main Font Awesome icon set
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 *   [Icons8 Line Awesome (⭐1.3k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
-*   [Akar Icons (⭐419)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
-*   [Tabler Icons (⭐21k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Akar Icons (⭐421)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Tabler Icons (⭐22k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [Lucide](https://lucide.dev) - A fork of Feather Icons with more than 500 additional icons.
 *   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
 *   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
@@ -116,9 +116,9 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 
 ## Merchants
 
-*   [Bitcoin-Icons (⭐123)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐125)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 *   [CMC Cryptocurrency Icons (⭐251)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
-*   [Cryptocurrency Icons (⭐2.7k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.8k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 *   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
 ## Tools
@@ -133,4 +133,5 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [IconKing](https://iconking.net) - Free browser-based Lottie animation viewer, color editor, and .json/.lottie converter. No account required, 100% client-side.
 *   [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
 *   [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
+*   [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
 

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
 
+### Database / Stats Tracking
+
+*   [caskstrength/nvim-dbeer](https://codeberg.org/caskstrength/nvim-dbeer) - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### AI / Diagnostics
