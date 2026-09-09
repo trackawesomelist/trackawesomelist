@@ -6,6 +6,13 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Sep 09, 2026](/content/2026/09/09/README.md)
+
+### Open Source Software / Obsidian
+
+*   [Netresearch Agentic Skills (⭐55)](https://github.com/netresearch/claude-code-marketplace) by [Netresearch](https://github.com/netresearch) - Skills for assessing and enhancing software projects to meet enterprise-grade standards for security, quality, and automation. Strong collection covering a range of development frameworks, enterprise-readiness, security, GitHub release management, branding, code review - really useful and well curated.\ <img src="https://img.shields.io/github/created-at/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [OSS Autopilot (⭐13)](https://github.com/costajohnt/oss-autopilot) by [John Costa](https://github.com/costajohnt) - End-to-end open source contribution manager. Discovers contributable issues across GitHub, tracks PRs across multiple repos, diagnoses CI failures, and drafts maintainer responses. Great collection of skills and agents for GitHub contributors, plus a sleek dashboard, standalone CLI and MCP server.\ <img src="https://img.shields.io/github/created-at/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Observability & Monitoring / Observability

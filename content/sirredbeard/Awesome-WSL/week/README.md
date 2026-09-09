@@ -6,6 +6,12 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 [ [Daily](/content/sirredbeard/Awesome-WSL/README.md) / Weekly / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### WSL Tools / For Managing WSL Installations
+
+*   [WSL Manager (⭐4k)](https://github.com/bostrot/wsl2-distro-manager) - Free, open-source GUI for WSL: install distros from a catalogue or any Docker image, copy, move, back up and compact them, edit `.wslconfig`, mount disks, manage a remote host's WSL over SSH; optional AI assistant and MCP server. Also manages native Linux VMs on macOS. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### WSL Tools / Miscellaneous Tools
@@ -174,12 +180,6 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   Ubuntu® and Canonical® are registered trademark of Canonical Limited in the United States and/or other countries. [\*](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy)
 *   The AlmaLinux OS Marks are trademarks of AlmaLinux OS Foundation. [\*](https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/)
 
-## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
-
-### WSL Tools / For Managing WSL Installations
-
-*   [WSL Distro Manager (⭐4k)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
 ### WSL Tools / WSL Utilities
@@ -299,7 +299,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / Terminals
 
-*   [Alacritty (⭐65k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+*   [Alacritty (⭐66k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
@@ -616,7 +616,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 *   [Awesome VSCode (⭐29k)](https://github.com/viatsko/awesome-vscode)
 *   [Awesome Bash (⭐10k)](https://github.com/awesome-lists/awesome-bash)
-*   [Awesome Shell (⭐37k)](https://github.com/alebcay/awesome-shell)
+*   [Awesome Shell (⭐38k)](https://github.com/alebcay/awesome-shell)
 *   [Awesome Powershell (⭐5.4k)](https://github.com/janikvonrotz/awesome-powershell)
 *   [Awesome Linux (⭐5.1k)](https://github.com/aleksandar-todorovic/awesome-linux)
 

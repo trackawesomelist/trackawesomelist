@@ -279,6 +279,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [Million (⭐18k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 *   [Whatsup (⭐153)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 *   [Remult (⭐3.2k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+*   [sprae (⭐206)](https://github.com/dy/sprae) - Reactive HTML attributes with no build step, signals-based, with a CSP-safe build.
 
 ## Node-Powered CMS Frameworks
 
@@ -611,7 +612,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [crossroads (⭐1.4k)](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 *   [davis.js (⭐529)](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 *   [navaid (⭐796)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
-*   [speedy-router (⭐147)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
+*   [speedy-router (⭐156)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
 
 ## Security
 

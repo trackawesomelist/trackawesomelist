@@ -14,6 +14,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
+*   [mist (⭐1)](https://github.com/iSerganov/mist) - Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.
 *   [y509 (⭐27)](https://github.com/kanywst/y509) - TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
@@ -121,7 +122,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Video
 
-*   [mosaic (⭐20)](https://github.com/farshidrezaei/mosaic) - Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).
+*   [mosaic (⭐23)](https://github.com/farshidrezaei/mosaic) - Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -221,7 +222,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [Goshtoso (⭐20)](https://github.com/araihu/goshtoso) - Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.
+*   [Goshtoso (⭐22)](https://github.com/araihu/goshtoso) - Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
@@ -304,7 +305,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [LAN Orangutan (⭐710)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+*   [LAN Orangutan (⭐852)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -341,7 +342,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [httpsms-go (⭐15)](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
+*   [httpsms-go (⭐18)](https://github.com/NdoleStudio/httpsms-go) - Go client for the httpSMS API.
 *   [lemonsqueezy-go (⭐90)](https://github.com/NdoleStudio/lemonsqueezy-go) - Go client for the Lemon Squeezy API.
 *   [sonarqube-client-go (⭐6)](https://github.com/BoxBoxJason/sonarqube-client-go) - Go client library and command-line client for the SonarQube Web API.
 
@@ -392,7 +393,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [LightCMS (⭐27)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+*   [LightCMS (⭐28)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -454,7 +455,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [paystack-sdk-go (⭐3)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
+*   [paystack-sdk-go (⭐4)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
 
 ### Testing Frameworks
 
@@ -466,7 +467,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Markup Languages
 
-*   [picoloom (⭐84)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
+*   [picoloom (⭐85)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -6387,7 +6388,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/)
 *   [The Go Programming Language](https://www.gopl.io/)
 *   [The Golang Standard Library by Example (Chinese) (⭐9.5k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-*   [Web Application with Go the Anti-Textbook (⭐3.2k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+*   [Web Application with Go the Anti-Textbook (⭐3.3k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 ### Gophers / Libraries for creating HTTP middlewares
 

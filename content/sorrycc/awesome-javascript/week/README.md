@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### MVC Frameworks and Libraries / Runner
+
+*   [sprae (⭐206)](https://github.com/dy/sprae) - Reactive HTML attributes with no build step, signals-based, with a CSP-safe build.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Testing Frameworks / Assertion
@@ -20,7 +26,7 @@
 
 ### Routing / Runner
 
-*   [speedy-router (⭐147)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
+*   [speedy-router (⭐156)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
 
 ### Misc / Other
 

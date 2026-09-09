@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Sep 09, 2026](/content/2026/09/09/README.md)
+
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [TorchDR (⭐215)](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Intensive Programs

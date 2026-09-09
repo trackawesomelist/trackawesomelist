@@ -327,7 +327,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [extraterm (⭐2.8k)](https://github.com/sedwards2009/extraterm) - Open source project to build a terminal emulator and expand it with new features to support modern workflows. ![github project][githublogo]
 *   [Hyper](https://hyper.is/) - A terminal built on web technologies. ![github project][githublogo]
 *   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
-*   [Alacritty (⭐65k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+*   [Alacritty (⭐66k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 *   [Fluent Terminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 *   [KKTerm (⭐447)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 *   [Yaw](https://yaw.sh) - A cross-platform terminal that auto-detects WSL along with PowerShell, CMD, and Git Bash on Windows.
@@ -339,7 +339,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [LxRunOffline (⭐4.3k)](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing WSL. ![github project][githublogo]
 *   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
 *   [WSL GUI Tool (⭐108)](https://github.com/emeric-martineau/wsl-gui-tool) - A graphical tool to manage (run, stop, import, export...) WSL. ![github project][githublogo]
-*   [WSL Distro Manager (⭐4k)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project][githublogo]
+*   [WSL Manager (⭐4k)](https://github.com/bostrot/wsl2-distro-manager) - Free, open-source GUI for WSL: install distros from a catalogue or any Docker image, copy, move, back up and compact them, edit `.wslconfig`, mount disks, manage a remote host's WSL over SSH; optional AI assistant and MCP server. Also manages native Linux VMs on macOS. ![github project][githublogo]
 *   [WSL UI (⭐365)](https://github.com/octasoft-ltd/wsl-ui) - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project][githublogo]
 *   [WSL Dashboard (⭐3.6k)](https://github.com/owu/wsl-dashboard) - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project][githublogo]
 
@@ -432,7 +432,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 *   [Awesome VSCode (⭐29k)](https://github.com/viatsko/awesome-vscode)
 *   [Awesome Bash (⭐10k)](https://github.com/awesome-lists/awesome-bash)
-*   [Awesome Shell (⭐37k)](https://github.com/alebcay/awesome-shell)
+*   [Awesome Shell (⭐38k)](https://github.com/alebcay/awesome-shell)
 *   [Awesome Powershell (⭐5.4k)](https://github.com/janikvonrotz/awesome-powershell)
 *   [Awesome Linux (⭐5.1k)](https://github.com/aleksandar-todorovic/awesome-linux)
 

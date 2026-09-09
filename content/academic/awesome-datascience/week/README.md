@@ -16,6 +16,10 @@
 
 *   [PhilanthroPy (⭐8)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [TorchDR (⭐215)](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Tools

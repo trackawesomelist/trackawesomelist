@@ -464,6 +464,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 #### PyTorch Ecosystem
 
 *   [PyTorch (⭐103k)](https://github.com/pytorch/pytorch)
+*   [TorchDR (⭐215)](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)

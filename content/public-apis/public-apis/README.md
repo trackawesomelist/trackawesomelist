@@ -6,6 +6,50 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Sep 09, 2026](/content/2026/09/09/README.md)
+
+### Development
+
+- API: [APIzone](https://apizone.io/api-docs)
+
+  Description: Independent uptime & status monitoring for 200+ popular APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Jobven](https://jobven.com/docs/getting-started)
+
+  Description: Job postings tracked as roles open and close, with webhooks on changes, from employer career pages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Source Projects
+
+- API: [Libraries.io](https://libraries.io/api)
+
+  Description: Metadata, dependencies and release history for open-source packages across 30+ managers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Development
