@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 09, 2026](/content/2026/09/09/README.md)
+
+### Plugin Manager
+
+*   [alyxshang/nuwa.nvim (⭐1)](https://github.com/alyxshang/nuwa.nvim) - A light package manager.
+
+### AI / Diagnostics
+
+*   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+
+### Bars and Lines / Colorscheme Switchers
+
+*   [olivgr/winbarbuf.nvim (⭐2)](https://github.com/olivgr/winbarbuf.nvim) - Clickable buffer list in the winbar.
+
+### Git / Quickfix
+
+*   [mm4cN/nvim-gitlab (⭐3)](https://github.com/mm4cN/nvim-gitlab) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
+
 ## [Sep 08, 2026](/content/2026/09/08/README.md)
 
 ### Database / Stats Tracking
@@ -496,10 +514,6 @@ Collections of awesome neovim plugins.
 *   [akasataikisiti/tabLocalBuffer.nvim (⭐6)](https://github.com/akasataikisiti/tabLocalBuffer.nvim) - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
 
 ## [May 06, 2026](/content/2026/05/06/README.md)
-
-### Plugin Manager
-
-*   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 
 ### Bars and Lines / Statusline
 

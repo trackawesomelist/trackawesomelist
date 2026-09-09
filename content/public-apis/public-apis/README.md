@@ -8,6 +8,16 @@ A collective list of free APIs
 
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
+### APIs Covered Under APILayer Suite!
+
+- API: [Filestack](https://www.filestack.com/signup-free//?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Powerful API to upload, transform & deliver any file into your app
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://github.com/public-apis/public-apis/blob/master/README.md/www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode)
+
+
+
 ### Development
 
 - API: [APIzone](https://apizone.io/api-docs)
@@ -2765,16 +2775,6 @@ A collective list of free APIs
 
 
 ## [Jun 13, 2026](/content/2026/06/13/README.md)
-
-### APIs Covered Under APILayer Suite!
-
-- API: [Filestack](https://www.filestack.com/signup-start/)
-
-  Description: Powerful API to upload, transform & deliver any file into your app
-
-  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://github.com/public-apis/public-apis/blob/master/README.md/www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode)
-
-
 
 ### Business
 

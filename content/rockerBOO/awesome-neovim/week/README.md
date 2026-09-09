@@ -8,9 +8,22 @@ Collections of awesome neovim plugins.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
+### Plugin Manager
+
+*   [alyxshang/nuwa.nvim (⭐1)](https://github.com/alyxshang/nuwa.nvim) - A light package manager.
+
+### AI / Diagnostics
+
+*   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+
 ### Bars and Lines / Colorscheme Switchers
 
 *   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+*   [olivgr/winbarbuf.nvim (⭐2)](https://github.com/olivgr/winbarbuf.nvim) - Clickable buffer list in the winbar.
+
+### Git / Quickfix
+
+*   [mm4cN/nvim-gitlab (⭐3)](https://github.com/mm4cN/nvim-gitlab) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 
 ### Database / Stats Tracking
 
@@ -394,10 +407,6 @@ Collections of awesome neovim plugins.
 *   [cxwx/keywound.nvim (⭐2)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
-
-### Plugin Manager
-
-*   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 
 ### Color / Markdown and LaTeX
 

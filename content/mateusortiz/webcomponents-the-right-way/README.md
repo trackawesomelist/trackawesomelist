@@ -6,6 +6,20 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Sep 09, 2026](/content/2026/09/09/README.md)
+
+### Component Libraries
+
+*   [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
+
+### Class Based
+
+*   [Snice](https://gitlab.com/Hedzer/snice) - Elegant decorators for building web components declaratively or imperatively.
+
+### Functional
+
+*   [pion (⭐98)](https://github.com/pionjs/pion) - React's Hooks API for web components with lit-html.
+
 ## [Sep 08, 2026](/content/2026/09/08/README.md)
 
 ### Shadow DOM

@@ -31,6 +31,7 @@ A curated list of awesome Web Components resources.
 ### Component Libraries
 
 *   [Morpheus (⭐22)](https://github.com/romshark/morpheus) - An experimental web components UI kit.
+*   [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
 
 ### Design Systems
 
@@ -43,7 +44,12 @@ A curated list of awesome Web Components resources.
 
 ### Class Based
 
+*   [Snice](https://gitlab.com/Hedzer/snice) - Elegant decorators for building web components declaratively or imperatively.
 *   [Stencil (⭐13k)](https://github.com/stenciljs/core) - Compiler for generating Web Components.
+
+### Functional
+
+*   [pion (⭐98)](https://github.com/pionjs/pion) - React's Hooks API for web components with lit-html.
 
 ### Tutorials
 

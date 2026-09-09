@@ -12,6 +12,10 @@
 
 *   [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
 
+### Phone Number Research / GitHub
+
+*   [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Phone — Instantly. Scans multiple sites for phone presence, breaches, validity and more.
+
 ### Domain and IP Research / GitHub
 
 *   [Vacato](https://vacato.io) - Free RDAP domain availability watchlist: scheduled checks + Telegram/email/Slack when status looks available (not a registrar or drop-catcher). Free tier: 10 domains.
@@ -29,6 +33,16 @@
 *   [sprae (⭐206)](https://github.com/dy/sprae) - Reactive HTML attributes with no build step, signals-based, with a CSP-safe build.
 
 ## [4. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- API: [Filestack](https://www.filestack.com/signup-free//?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Powerful API to upload, transform & deliver any file into your app
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://github.com/public-apis/public-apis/blob/master/README.md/www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode)
+
+
 
 ### Development
 
@@ -374,6 +388,10 @@
 
 ## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
+### Applications
+
+*   [tunnetio/Tunnet (⭐103)](https://github.com/tunnetio/Tunnet) - Private mesh networking with public tunnels, identity-based SSH, and P2P file transfer
+
 ### Applications / Observability
 
 *   [madesroches/micromegas (⭐52)](https://github.com/madesroches/micromegas) \[[micromegas](https://crates.io/crates/micromegas)] - Observability backend for logs, metrics and traces, with low-overhead Rust instrumentation. Stores telemetry as Parquet on object storage and queries it with SQL. [![Rust](https://github.com/madesroches/micromegas/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/madesroches/micromegas/actions/workflows/rust.yml)
@@ -417,6 +435,7 @@
 ### Component Libraries
 
 *   [Morpheus (⭐22)](https://github.com/romshark/morpheus) - An experimental web components UI kit.
+*   [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
 
 ### Design Systems
 
@@ -429,7 +448,12 @@
 
 ### Class Based
 
+*   [Snice](https://gitlab.com/Hedzer/snice) - Elegant decorators for building web components declaratively or imperatively.
 *   [Stencil (⭐13k)](https://github.com/stenciljs/core) - Compiler for generating Web Components.
+
+### Functional
+
+*   [pion (⭐98)](https://github.com/pionjs/pion) - React's Hooks API for web components with lit-html.
 
 ### Tutorials
 
@@ -483,6 +507,10 @@
 
 *   [Keelhaven](https://keelhaven.app) - Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shenxianpeng/keelhaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Pelmet](https://pelmet.fif7y.com) - Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fif7y/pelmet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Productivity
+
+*   [CalmMouse](https://calmmouse.malikzhang.com/) - Stop the Magic Mouse scrolling the page every time you click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Malik1942/CalmMouse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [30. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -567,9 +595,22 @@
 
 ## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
+### Plugin Manager
+
+*   [alyxshang/nuwa.nvim (⭐1)](https://github.com/alyxshang/nuwa.nvim) - A light package manager.
+
+### AI / Diagnostics
+
+*   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+
 ### Bars and Lines / Colorscheme Switchers
 
 *   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+*   [olivgr/winbarbuf.nvim (⭐2)](https://github.com/olivgr/winbarbuf.nvim) - Clickable buffer list in the winbar.
+
+### Git / Quickfix
+
+*   [mm4cN/nvim-gitlab (⭐3)](https://github.com/mm4cN/nvim-gitlab) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 
 ### Database / Stats Tracking
 
@@ -619,6 +660,7 @@
 
 ### Tutorials and Blog Posts / Beginner Guides
 
+*   [Complete Terraform Course in French (Free)](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.
 *   [Introduction to Terraform](https://devopslesson.com/tutorials/terraform/introduction-to-terraform) - Beginner-friendly guide to Terraform fundamentals — providers, resources, state, and your first apply with hands-on examples.
 
 ### Tutorials and Blog Posts / Azure
@@ -642,6 +684,7 @@
 *   [Cynative (⭐197)](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
 *   [Datadef](https://datadef.io/repo-to-diagram) - Generates architecture diagrams and docs from a Terraform repo: parses `.tf` files without running `terraform init` or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavy\_dollar\_sign:
 *   [SyncVey (⭐0)](https://github.com/MR-TABATA/SyncVey) - Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.
+*   [tfmodcache (⭐0)](https://github.com/Rezarys/tfmodcache) - Local, shared module cache for Terraform and OpenTofu; `terraform init` stops re-downloading modules it already has. I am the author.
 
 ---
 

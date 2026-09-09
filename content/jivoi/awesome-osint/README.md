@@ -12,6 +12,10 @@
 
 *   [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
 
+### Phone Number Research / GitHub
+
+*   [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Phone — Instantly. Scans multiple sites for phone presence, breaches, validity and more.
+
 ### Domain and IP Research / GitHub
 
 *   [Vacato](https://vacato.io) - Free RDAP domain availability watchlist: scheduled checks + Telegram/email/Slack when status looks available (not a registrar or drop-catcher). Free tier: 10 domains.
