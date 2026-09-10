@@ -27,7 +27,7 @@
 
 ### Drawing / Others
 
-*   [SVG-Edit](https://svg-edit.github.io/svgedit/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+*   [SVG-Edit](https://svgedit.netlify.app/) - Powerful SVG editor with lots of features. Open source.
 *   [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
 
 ### File Converters / Others
@@ -55,6 +55,7 @@
 
 ### Privacy, Security and Cryptography / Others
 
+*   [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
 *   [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
 
 ### Programming Editors and IDEs / Others
@@ -255,12 +256,6 @@
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
-## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
-
-### Document Editors / Markdown
-
-*   [HackMD](https://hackmd.io) - A collaborative, powerful, real-time online markdown editor with preview.
-
 ## [Dec 10 - Dec 16, 2018](/content/2018/50/README.md)
 
 ### Graphics, Image and Design / Others
@@ -430,10 +425,6 @@
 
 *   [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 
-### Privacy, Security and Cryptography / Others
-
-*   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
-
 ### Programming Editors and IDEs / Others
 
 *   [Codepen.io](https://codepen.io/) - Playground for front end web development.
@@ -481,7 +472,6 @@
 *   [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
 *   [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
 *   [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
-*   [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 
 ### Business and Finance
 
@@ -548,8 +538,6 @@
 ### Programming Editors and IDEs / Others
 
 *   [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
-*   [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
-*   [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 *   [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 *   [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 
@@ -689,23 +677,18 @@
 
 *   [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
 *   [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
-*   [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
 *   [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 *   [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 
 ### File Hosting/Sharing / Others
 
-*   [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
 *   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
-*   [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 *   [SendVid](https://sendvid.com/) - Video hosting service.
 *   [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 
 ### Internet Downloaders / Others
 
-*   [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-*   [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 *   [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 
 ### Privacy, Security and Cryptography / Others

@@ -565,6 +565,7 @@ Use these hashtags in search to filter out the tools
 *   [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
 *   [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 *   [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
+*   [StudyArena](https://studyarena.com) - Students compare three AI explanations for free, vote before seeing model names, then reveal which models answered. `#freemium` `#education`
 *   [Tencent Coding](https://www.tencent.com/) - Popularization platform for master skills. 148 `#free`
 *   [Text With Authors](https://textwith.me/authors/) - Chat with famous authors, poets, playwrights, philosophers and more from classical literature. `#freemium`
 *   [Text With History](https://textwith.me/history/) - Chat with famous politicians, scientists, artists, world leaders and more. Also includes history tutors. `#freemium`

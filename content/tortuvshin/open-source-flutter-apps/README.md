@@ -6,6 +6,12 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### Business
+
+*   [Posnic POS](https://www.posnic.com/) - Posnic POS is offline-first open-source POS and billing software for retail shops and restaurants, built as a JavaScript/Electron desktop app with a local MongoDB-backed checkout.
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Productivity
@@ -31,7 +37,6 @@ A curated, self-refreshing directory of real open-source application codebases -
 ### Business
 
 *   [Mise](https://devshakib.jumyn.com/apps/mise) - Mise is a self-hosted restaurant system for macOS that runs a till, a kitchen display, QR table ordering, and a back office from one machine on the restaurant's own network.
-*   [Posnic POS](https://posnic.io/) - Posnic POS is offline-first open-source POS and billing software for retail shops and restaurants, built as a JavaScript/Electron desktop app with a local MongoDB-backed checkout.
 *   [Twenty](https://twenty.com) - Twenty is an open-source CRM whose data model is a runtime artifact — every custom object, field, view, role, and AI agent is a row in metadata tables, with the GraphQL schema and SQL queries rebuilt per workspace on demand. Written in TypeScript with NestJS, React, PostgreSQL, and a native MCP server for Claude/ChatGPT/Cursor.
 
 ## [Aug 31, 2026](/content/2026/08/31/README.md)

@@ -6,6 +6,16 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Apps
+
+*   [AI Video Prompt Cheatsheet (⭐0)](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. [Demo](https://videoprompts.cdqyfdbymn.me)
+
+### Books
+
+*   [The Concise TypeScript Book (⭐10k)](https://github.com/gibbok/typescript-book) - A free and open-source reference guide for TypeScript fundamentals and practical patterns, designed for use with Next.js and React.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Apps

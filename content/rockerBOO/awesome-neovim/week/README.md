@@ -17,6 +17,10 @@ Collections of awesome neovim plugins.
 *   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
     *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 
+### Colorscheme / Markdown and LaTeX
+
+*   [rezniqov/soviet.nvim (⭐18)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+
 ### Bars and Lines / Colorscheme Switchers
 
 *   [nvim-mini/mini.nvim#mini.statuscolumn (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.

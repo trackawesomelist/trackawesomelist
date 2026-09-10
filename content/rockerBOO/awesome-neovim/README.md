@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
+### Colorscheme / Markdown and LaTeX
+
+*   [rezniqov/soviet.nvim (⭐18)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+
 ### External / Plugin Template
 
 *   [caskstrength/nvim-springtime](https://codeberg.org/caskstrength/nvim-springtime) - A scaffold builder based on Spring Initializr.

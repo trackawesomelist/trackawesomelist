@@ -24,6 +24,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Education
 
 *   [10xhuman](https://10xhuman.net/?lang=en) - AI-guided project learning in Korean, English and Japanese, with a free project brief and downloadable workbook to get started. `#education`
+*   [StudyArena](https://studyarena.com) - Students compare three AI explanations for free, vote before seeing model names, then reveal which models answered. `#freemium` `#education`
 
 ### Image Generator
 

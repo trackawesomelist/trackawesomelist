@@ -13,7 +13,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/README.md/CONTRIBUTING.md)
-[![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
 Curated list of awesome web apps that work without requesting you to create an account.
@@ -61,7 +60,6 @@ To save the world from creating user accounts and installing software applicatio
 *   [Filelab Audio Editor](http://www.avs4you.com) - Audio editor with basic features like trim, merge, cut audio.
 *   [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 *   [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
-*   [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 *   [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 *   [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 *   [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
@@ -101,7 +99,6 @@ To save the world from creating user accounts and installing software applicatio
 
 *   [Dillinger](http://dillinger.io/) - Powerful Markdown WYSIWYG with export to HTML and PDF. User account to save documents.
 *   [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
-*   [HackMD](https://hackmd.io) - A collaborative, powerful, real-time online markdown editor with preview.
 *   [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 *   [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
 
@@ -117,7 +114,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Drawing
 
-*   [SVG-Edit](https://svg-edit.github.io/svgedit/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+*   [SVG-Edit](https://svgedit.netlify.app/) - Powerful SVG editor with lots of features. Open source.
 *   [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 *   [Witeboard](https://witeboard.com/) - A real-time whiteboard for your team. No signups required.
 *   [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
@@ -135,7 +132,6 @@ To save the world from creating user accounts and installing software applicatio
 
 *   [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
 *   [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
-*   [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
 *   [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 *   [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 *   [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
@@ -147,9 +143,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### File Hosting/Sharing
 
-*   [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
 *   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
-*   [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 *   [SendVid](https://sendvid.com/) - Video hosting service.
 *   [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
@@ -216,8 +210,6 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Internet Downloaders
 
-*   [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-*   [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 *   [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 *   [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 *   [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
@@ -251,7 +243,7 @@ To save the world from creating user accounts and installing software applicatio
 *   [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 *   [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 *   [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-*   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
+*   [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
 *   [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 *   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 *   [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
@@ -260,8 +252,6 @@ To save the world from creating user accounts and installing software applicatio
 
 *   [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 *   [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
-*   [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
-*   [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 *   [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 *   [Codepen.io](https://codepen.io/) - Playground for front end web development.
 *   [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.

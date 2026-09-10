@@ -16,7 +16,7 @@
 
 [Next.js (⭐142k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐497k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐814)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐814)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -192,6 +192,7 @@
 
 ## Apps
 
+*   [AI Video Prompt Cheatsheet (⭐0)](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. [Demo](https://videoprompts.cdqyfdbymn.me)
 *   [Reely (⭐166)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
 *   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
 *   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
@@ -247,6 +248,7 @@
 *   [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - Use Next.js serverless features to access databases and authenticate users in your React applications
 *   [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - Build a full-stack software-as-a-service application using Next.js, Prisma ORM, Cloudinary API, Chakra-UI and React Hook Form.
 *   [Real World Next.js](https://www.amazon.com/Real-World-Next-js-high-performance-applications-production-ebook/dp/B08XY1MCV1?Adv-Srch-Books-Submit.x=0\&Adv-Srch-Books-Submit.y=0\&qid=1652828645\&refinements=p_66:9781801079877\&s=books\&sr=1-1\&unfiltered=1\&linkCode=sl1\&tag=misko0a-20\&linkId=1039970a67ec37bfcaa25cf6c77a5591\&language=en_US\&ref_=as_li_ss_tl) - Build scalable, high-performance, and modern web applications using Next.js, the React framework for production
+*   [The Concise TypeScript Book (⭐10k)](https://github.com/gibbok/typescript-book) - A free and open-source reference guide for TypeScript fundamentals and practical patterns, designed for use with Next.js and React.
 
 ## Videos
 
