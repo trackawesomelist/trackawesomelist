@@ -1415,7 +1415,7 @@ Thanks to our main contributors
 *   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐33k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐34k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetection](https://www.changedetection.com)
 *   [Deltafeed](https://bitreading.com/deltafeed)
 *   [DiggReader](https://digg.com/login?next=%2Freader)
@@ -1725,6 +1725,7 @@ Thanks to our main contributors
 *   [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 *   [OnionScan (⭐3.3k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 *   [MalwareIntel](https://malwareintel.es) - Free threat intelligence platform aggregating 70+ CTI feeds into a knowledge graph. 273K+ IOCs, 4200+ malware families, 3632 detection rules (Sigma/YARA), Sigma-to-SIEM converter, and detection packages bundling TTPs + IOCs + rules per family.
+*   [Malwagon](https://malwagon.com) - Online malware analysis sandbox. Detonates a submitted file or URL and publishes the report, and lets you search past public scans by indicator: IP, domain, URL, mutex, registry key, hash or JA3/JA4 fingerprint. Reports are readable without an account; a free tier adds submissions, an API and a command line client.
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 *   [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 *   [PhishingSecLists (⭐88)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.

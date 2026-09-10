@@ -262,7 +262,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
+<!--lint disable double-link-->
+
 *   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
+
+<!--lint enable double-link-->
+
 *   [raymondware/herdr.nvim (⭐1)](https://github.com/raymondware/herdr.nvim) - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
 *   [saya-ashen/agent-workbench.nvim (⭐26)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 *   [nwiizo/signalbox.nvim (⭐5)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
@@ -434,7 +440,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Prgebish/sigil.nvim (⭐36)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 *   [satozawa/graft.nvim (⭐12)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 *   [kibi2/tirenvi.nvim (⭐39)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
-*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐24)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 <!--lint disable double-link -->
 
@@ -895,7 +901,7 @@ then it is not supported:
 *   [ankushbhagats/pastel.nvim (⭐36)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐12)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 *   [hyperb1iss/silkcircuit (⭐59)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
-*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐70)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐23)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐19)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
 *   [Aejkatappaja/cendre (⭐164)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
@@ -1351,7 +1357,7 @@ then it is not supported:
 *   [wsdjeg/code-runner.nvim (⭐6)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 *   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 *   [negativo/nx-nvim (⭐5)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
-*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐9)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 *   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 *   [JulOuellet/bzl.nvim (⭐2)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 
@@ -1557,7 +1563,7 @@ then it is not supported:
 *   [chrisgrieser/nvim-recorder (⭐288)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 *   [sontungexpt/bim.nvim (⭐13)](https://github.com/sontungexpt/bim.nvim) - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 *   [folke/which-key.nvim (⭐7.3k)](https://github.com/folke/which-key.nvim) - Shows a popup with possible keybindings of the command you started typing.
-*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐55)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 *   [nvim-mini/mini.nvim#mini.clue (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 *   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 *   [Iron-E/nvim-cartographer (⭐54)](https://github.com/Iron-E/nvim-cartographer) - A more convenient `:map`ping syntax for Lua environments.
@@ -2039,6 +2045,7 @@ These tools are used externally to Neovim to enhance the experience.
 *   [ellisonleao/nvim-plugin-template (⭐475)](https://github.com/ellisonleao/nvim-plugin-template) - Another plugin template, using GitHub's template feature.
 *   [2KAbhishek/template.nvim (⭐19)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 *   [jkeresman01/spring-initializr.nvim (⭐21)](https://github.com/jkeresman01/spring-initializr.nvim) - Scaffold Spring Boot projects with a Telescope-powered UI.
+*   [caskstrength/nvim-springtime](https://codeberg.org/caskstrength/nvim-springtime) - A scaffold builder based on Spring Initializr.
 *   [DrKJeff16/nvim-plugin-boilerplate (⭐15)](https://github.com/DrKJeff16/nvim-plugin-boilerplate) - A documented template for new plugins generated by a script. Includes tests, CI utilities, etc.
 *   [chrisgrieser/nvim-pseudometa-plugin-template (⭐41)](https://github.com/chrisgrieser/nvim-pseudometa-plugin-template) - Template for new plugins.
 

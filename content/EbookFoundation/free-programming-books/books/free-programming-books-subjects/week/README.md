@@ -10,6 +10,8 @@
 
 ### Artificial Intelligence
 
+*   [AI: From First Principles](https://www.thequery.in/books/ai-from-first-principles) - Addy (HTML, EPUB)
+*   [RAG + Knowledge Graph Master Course](https://www.thequery.in/books/rag-kg-master-course) - Addy (HTML, EPUB)
 *   [Research, Rewritten](https://hallieren.github.io/research-rewritten/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 *   [The Last Mile](https://hallieren.github.io/the-last-mile/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 

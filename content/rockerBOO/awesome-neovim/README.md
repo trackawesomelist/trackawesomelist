@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### External / Plugin Template
+
+*   [caskstrength/nvim-springtime](https://codeberg.org/caskstrength/nvim-springtime) - A scaffold builder based on Spring Initializr.
+
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
 ### Plugin Manager
@@ -15,6 +21,7 @@ Collections of awesome neovim plugins.
 ### AI / Diagnostics
 
 *   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 
 ### Bars and Lines / Colorscheme Switchers
 
@@ -111,7 +118,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐24)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
@@ -209,13 +216,13 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐55)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ## [Jul 21, 2026](/content/2026/07/21/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐70)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -293,7 +300,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐9)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 

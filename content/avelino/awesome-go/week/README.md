@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [goscade (⭐23)](https://github.com/ognick/goscade) - Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.
 
+### Query Language
+
+*   [gnata (⭐253)](https://github.com/RecoLabs/gnata) - Pure-Go implementation of the JSONata 2.x query and transformation language.
+
 ### Security
 
 *   [mist (⭐1)](https://github.com/iSerganov/mist) - Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.

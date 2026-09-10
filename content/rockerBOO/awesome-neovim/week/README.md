@@ -15,6 +15,7 @@ Collections of awesome neovim plugins.
 ### AI / Diagnostics
 
 *   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 
 ### Bars and Lines / Colorscheme Switchers
 
@@ -28,6 +29,10 @@ Collections of awesome neovim plugins.
 ### Database / Stats Tracking
 
 *   [caskstrength/nvim-dbeer](https://codeberg.org/caskstrength/nvim-dbeer) - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
+
+### External / Plugin Template
+
+*   [caskstrength/nvim-springtime](https://codeberg.org/caskstrength/nvim-springtime) - A scaffold builder based on Spring Initializr.
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
@@ -91,7 +96,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [itsfernn/vimtex-follow (⭐22)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐24)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -148,7 +153,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐65)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐70)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix
@@ -161,7 +166,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐54)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐55)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ### Editing Support / Scrollbar
 
@@ -226,7 +231,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [lewistg/pesto.nvim (⭐8)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+*   [lewistg/pesto.nvim (⭐9)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 

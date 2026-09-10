@@ -464,6 +464,7 @@ Use these hashtags in search to filter out the tools
 *   [MarsX](https://www.marsx.dev/) - MicroApps and no-code software development. `#freemium`
 *   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
+*   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
 *   [OpenCode (⭐203k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
@@ -493,6 +494,7 @@ Use these hashtags in search to filter out the tools
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
+*   [YYLO (⭐57)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 *   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -533,6 +535,7 @@ Use these hashtags in search to filter out the tools
 
 ## Education
 
+*   [10xhuman](https://10xhuman.net/?lang=en) - AI-guided project learning in Korean, English and Japanese, with a free project brief and downloadable workbook to get started. `#education`
 *   [AI University Hall](https://www.aidaxue.com/) - iFlytek programming and AI training platform. `#free`
 *   [Alibaba Cloud Path](https://www.alibabagroup.com/) - 871 class hours and 26 free courses. `#free`
 *   [ClassPoint AI](https://www.classpoint.io/) - AI tool for teachers to generate questions out of any PowerPoint slide. `#free`
@@ -769,6 +772,7 @@ Use these hashtags in search to filter out the tools
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
 *   [stockimg.ai](https://stockimg.ai/) - Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more. `#freemium`
 *   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
+*   [Vivify GPT Image 2.5](https://vivify.video/models/gpt-image-2-5) - Generate product visuals and edit reference images with Flare or Sunburst in a browser. `#paid`
 *   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 *   [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. `#freemium`
 
@@ -1140,9 +1144,11 @@ Use these hashtags in search to filter out the tools
 *   [JiMeng AI](https://jimeng.jianying.com/) - 2K high-definition art and shot generation. `#freemium`
 *   [Kling AI Video](https://kling.kuaishou.com/) - High-quality video generation with realistic motion and physics `#freemium`
 *   [LensGo](https://lensgo.ai/) - character style transfer tool (Shutdown 2025). `#free`
+*   [LiveFaceSwap AI](https://livefaceswap.ai/) - Cloud-based live webcam transformations with face, outfit, and style references plus desktop virtual-camera output. `#paid`
 *   [LTX Studio](https://ltx.studio/) - Film production platform for story control. `#free`
 *   [Luma AI](https://lumalabs.ai/) - AI-powered 3D capture and video generation from text prompts. `#freemium`
 *   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Advanced AI video generation with cinematic quality `#freemium`
+*   [LumiYing](https://lumiying.com/) - Generates videos and images from text and visual references using multiple AI models in one workspace. `#paid`
 *   [Medeo](https://medeo.ai/) - Integrates ChatGPT, Kling, and ElevenLabs. `#freemium`
 *   [MetaMirror](https://metamirror.io/) - transforms scripts into videos viaSymbiosis engine. `#paid`
 *   [Moonvalley](https://moonvalley.ai/) - AI-powered video generation with advanced editing capabilities `#freemium`

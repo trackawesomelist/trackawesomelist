@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### Query Language
+
+*   [gnata (⭐253)](https://github.com/RecoLabs/gnata) - Pure-Go implementation of the JSONata 2.x query and transformation language.
+
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
 ### Security

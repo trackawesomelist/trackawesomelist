@@ -18,11 +18,75 @@ A collective list of free APIs
 
 
 
+### Business
+
+- API: [InvoiceIn](https://invoicein.peculiar.systems/)
+
+  Description: Parse and validate received e-invoices: XRechnung, ZUGFeRD, Peppol, FatturaPA, KSeF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Development
 
 - API: [APIzone](https://apizone.io/api-docs)
 
   Description: Independent uptime & status monitoring for 200+ popular APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [NuGet](https://learn.microsoft.com/en-us/nuget/api/overview)
+
+  Description: .NET package versions, metadata and search
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Peak](https://peak.fo/docs)
+
+  Description: Cloudflare Turnstile and 5-second challenge solving, pay per successful solve, 1,000 free solves
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [Bucketlist Dream of the Day](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag)
+
+  Description: Daily travel and life-experience inspiration with canonical links and images
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [EstimateTax](https://estimatetax.net/api/)
+
+  Description: US federal, state and local income tax calculation for 2026, with the source of every figure
 
   Auth: No
 
@@ -46,6 +110,20 @@ A collective list of free APIs
 
 
 
+### Open Data
+
+- API: [SlashYear](https://slashyear.com/api)
+
+  Description: 86,902 historical events as JSON, each quoted from a cited Wikipedia revision
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Open Source Projects
 
 - API: [Libraries.io](https://libraries.io/api)
@@ -57,6 +135,62 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Science & Math
+
+- API: [Semantic Scholar](https://api.semanticscholar.org/)
+
+  Description: Academic search engine for papers, authors, and citations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [Postproxy](https://postproxy.dev/getting-started/quickstart/)
+
+  Description: Publish posts, comments, DMs, and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Text Analysis
+
+- API: [ToHuman](https://tohuman.io/ai-humanizer-api)
+
+  Description: Rewrite AI-assisted drafts into natural, human-sounding text that reads like you wrote it
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Vehicle
+
+- API: [Wheelwise](https://cars.limoja.ai/api/search?q=BMW\&limit=1)
+
+  Description: UK used-car listings with fair-price grade, 36-month resale forecast and true monthly cost per advert
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 

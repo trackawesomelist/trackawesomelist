@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### Artificial Intelligence
+
+*   [AI: From First Principles](https://www.thequery.in/books/ai-from-first-principles) - Addy (HTML, EPUB)
+*   [RAG + Knowledge Graph Master Course](https://www.thequery.in/books/rag-kg-master-course) - Addy (HTML, EPUB)
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Artificial Intelligence

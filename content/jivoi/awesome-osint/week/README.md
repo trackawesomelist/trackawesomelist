@@ -20,6 +20,10 @@
 
 *   [Vacato](https://vacato.io) - Free RDAP domain availability watchlist: scheduled checks + Telegram/email/Slack when status looks available (not a registrar or drop-catcher). Free tier: 10 domains.
 
+### Threat Intelligence / GitHub
+
+*   [Malwagon](https://malwagon.com) - Online malware analysis sandbox. Detonates a submitted file or URL and publishes the report, and lets you search past public scans by indicator: IP, domain, URL, mutex, registry key, hash or JA3/JA4 fingerprint. Reports are readable without an account; a free tier adds submissions, an API and a command line client.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### File Search
@@ -1878,7 +1882,7 @@
 ### Web Monitoring / GitHub
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐33k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐34k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / GitHub
 

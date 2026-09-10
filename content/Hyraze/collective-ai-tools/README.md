@@ -6,6 +6,26 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### Developer Tools
+
+*   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
+*   [YYLO (⭐57)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+
+### Education
+
+*   [10xhuman](https://10xhuman.net/?lang=en) - AI-guided project learning in Korean, English and Japanese, with a free project brief and downloadable workbook to get started. `#education`
+
+### Image Generator
+
+*   [Vivify GPT Image 2.5](https://vivify.video/models/gpt-image-2-5) - Generate product visuals and edit reference images with Flare or Sunburst in a browser. `#paid`
+
+### Video
+
+*   [LiveFaceSwap AI](https://livefaceswap.ai/) - Cloud-based live webcam transformations with face, outfit, and style references plus desktop virtual-camera output. `#paid`
+*   [LumiYing](https://lumiying.com/) - Generates videos and images from text and visual references using multiple AI models in one workspace. `#paid`
+
 ## [Sep 08, 2026](/content/2026/09/08/README.md)
 
 ### Real Estate

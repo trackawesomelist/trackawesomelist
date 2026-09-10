@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Sep 10, 2026](/content/2026/09/10/README.md)
+
+### Threat Intelligence / GitHub
+
+*   [Malwagon](https://malwagon.com) - Online malware analysis sandbox. Detonates a submitted file or URL and publishes the report, and lets you search past public scans by indicator: IP, domain, URL, mutex, registry key, hash or JA3/JA4 fingerprint. Reports are readable without an account; a free tier adds submissions, an API and a command line client.
+
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
 ### Social Media Tools / Instagram
@@ -1946,7 +1952,7 @@
 ### Web Monitoring / GitHub
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐33k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐34k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / GitHub
 

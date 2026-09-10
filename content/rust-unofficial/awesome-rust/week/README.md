@@ -10,6 +10,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
+*   [runmat-org/runmat (⭐252)](https://github.com/runmat-org/runmat) \[[runmat](https://crates.io/crates/runmat)] - A runtime for MATLAB-syntax numerical programs, with GPU acceleration through wgpu. [![CI](https://github.com/runmat-org/runmat/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/runmat-org/runmat/actions/workflows/ci.yml)
 *   [tunnetio/Tunnet (⭐103)](https://github.com/tunnetio/Tunnet) - Private mesh networking with public tunnels, identity-based SSH, and P2P file transfer
 
 ### Applications / Observability
@@ -19,6 +20,10 @@ A curated list of Rust code and resources.
 ### Applications / Utilities
 
 *   [ja7ad/hydra (⭐246)](https://github.com/ja7ad/hydra) - An open-source, high-performance download manager and accelerator that splits every file across parallel connections and mirror sources. Featuring dynamic range stealing and real-time stall recovery for Windows, macOS, and Linux.
+
+### Libraries / Data processing
+
+*   [PSU3D0/formualizer (⭐177)](https://github.com/PSU3D0/formualizer) \[[formualizer](https://crates.io/crates/formualizer)] - Embeddable spreadsheet engine that parses, evaluates and mutates Excel workbooks: 400+ functions, Arrow-backed storage, incremental recalculation, Python and WASM bindings [![CI](https://github.com/PSU3D0/formualizer/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/PSU3D0/formualizer/actions/workflows/ci.yml)
 
 ### Libraries / Peripherals
 
@@ -993,6 +998,7 @@ A curated list of Rust code and resources.
 
 *   Game Engines
     *   [AscendingCreations/AscendingGraphics (⭐14)](https://github.com/AscendingCreations/AscendingGraphics) - A 2D Rendering Framework using WGPU and Winit. - [![Crates.io](https://img.shields.io/crates/v/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics) [![license](https://img.shields.io/crates/l/ascending_graphics.svg)](https://github.com/AscendingCreations/AscendingGraphics/blob/main/LICENSE.MIT) [![Crates.io](https://img.shields.io/crates/d/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics)
+    *   [Balaur (⭐54)](https://github.com/balaurengine/balaur) - A deterministic 2D and 3D game engine with Rune scripting, Rapier physics and a built-in editor [![Test](https://github.com/balaurengine/balaur/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/balaurengine/balaur/actions/workflows/test.yml)
     *   [Bevy (⭐48k)](https://github.com/bevyengine/bevy) - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐4.7k)](https://github.com/ggez/ggez) - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
