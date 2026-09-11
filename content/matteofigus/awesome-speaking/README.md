@@ -2,9 +2,15 @@
 
 Resources about public speaking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.5K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 2K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/matteofigus/awesome-speaking/week/README.md) / [Overview](/content/matteofigus/awesome-speaking/readme/README.md) ]
+
+## [Sep 11, 2026](/content/2026/09/11/README.md)
+
+### Websites
+
+*   [speaking.app](https://speaking.app/) - AI speech practice with feedback on pacing, filler words, structure, and clarity.
 
 ## [Nov 21, 2023](/content/2023/11/21/README.md)
 
@@ -56,7 +62,7 @@ Resources about public speaking
 
 ### CFP
 
-*   [IT CFP List (⭐374)](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
+*   [IT CFP List (⭐373)](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
 ## [Oct 23, 2017](/content/2017/10/23/README.md)
 
@@ -72,7 +78,7 @@ Resources about public speaking
 
 ### Miscellaneous
 
-*   [Public Speaking (⭐1.4k)](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
+*   [Public Speaking (⭐1.5k)](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
 
 ## [Oct 18, 2017](/content/2017/10/18/README.md)
 
@@ -110,7 +116,7 @@ Resources about public speaking
 
 ### Miscellaneous
 
-*   [Awesome (⭐278k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome (⭐502k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 
 ## [Mar 29, 2017](/content/2017/03/29/README.md)
 
@@ -144,12 +150,12 @@ Resources about public speaking
 
 ### Miscellaneous
 
-*   [Awesome Community (⭐235)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
+*   [Awesome Community (⭐284)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 ### Websites
 
 *   [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-*   [awesome-talks (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+*   [awesome-talks (⭐6.2k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 *   [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 *   [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 

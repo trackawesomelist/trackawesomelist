@@ -8,6 +8,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
+### Commands & Extensions
+
+*   [iOS Agent Skill (⭐33)](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
+
 ### Development Tools & Utilities
 
 *   [Usage HUD](https://hud.thaliabloom.com/) - Native macOS menu-bar meter that shows your Gemini CLI usage window next to Claude, Codex, Grok and Ollama, with a confidence label on every number. Paid, $9.

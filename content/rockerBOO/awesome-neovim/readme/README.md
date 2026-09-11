@@ -1148,6 +1148,7 @@ then it is not supported:
 *   [cxwx/lazyUrlUpdate.nvim (⭐6)](https://github.com/cxwx/lazyUrlUpdate.nvim) - Update plugin under cursor by `lazy.nvim`.
 *   [sontungexpt/url-open (⭐108)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 *   [crusj/bookmarks.nvim (⭐248)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
+*   [Doehnert/laravel-log-watcher.nvim (⭐1)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
 *   [jbyuki/instant.nvim (⭐1.4k)](https://github.com/jbyuki/instant.nvim) - A collaborative editing plugin written in Lua with no dependencies.
 *   [chrisgrieser/nvim-genghis (⭐222)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
 *   [figsoda/nix-develop.nvim (⭐71)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting.
@@ -1395,7 +1396,7 @@ then it is not supported:
 *   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐95)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for built-in Lua development.
 *   [DrKJeff16/wezterm-types (⭐221)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for LuaLS, including support for community plugins.
-*   [chrisgve/databox.nvim (⭐13)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐23k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐13)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐24k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐131)](https://github.com/BirdeeHub/lze) - A lazy-loading library for plugins.
 *   [lumen-oss/lz.n (⭐290)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for plugins.
 *   [jrop/morph.nvim (⭐136)](https://github.com/jrop/morph.nvim) - A React-like renderer for building interactive buffers/TUIs.

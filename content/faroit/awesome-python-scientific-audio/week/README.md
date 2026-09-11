@@ -6,15 +6,21 @@
 
 [ [Daily](/content/faroit/awesome-python-scientific-audio/README.md) / Weekly / [Overview](/content/faroit/awesome-python-scientific-audio/readme/README.md) ]
 
-## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Audio Related Packages
 
-*   Total number of packages: 67
+*   Total number of packages: 68
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [pyfar](https://pyfar.readthedocs.io) [:octocat: (⭐129)](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
+*   [phonometry](https://jmrplens.github.io/phonometry/) [:octocat: (⭐113)](https://github.com/jmrplens/phonometry) [:package:](https://pypi.org/project/phonometry/) - Standard-conformant acoustic measurement (formerly PyOctaveBand): fractional-octave filtering, sound level metrology, psychoacoustics, building and underwater acoustics, each metric checked against its governing standard.
+
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Audio Related Packages / Transformations - General DSP
+
+*   [pyfar](https://pyfar.readthedocs.io) [:octocat: (⭐136)](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
 
 ### Tutorials / Wrappers for Audio Plugins
 
@@ -24,7 +30,7 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [visqol-python (⭐2)](https://github.com/talker93/visqol-python) [:octocat: (⭐2)](https://github.com/talker93/visqol-python) [:package:](https://pypi.org/project/visqol-python/) - Port of Google's ViSQOL audio/speech quality metric (MOS-LQO) that installs without Bazel.
+*   [visqol-python (⭐4)](https://github.com/talker93/visqol-python) [:octocat: (⭐4)](https://github.com/talker93/visqol-python) [:package:](https://pypi.org/project/visqol-python/) - Port of Google's ViSQOL audio/speech quality metric (MOS-LQO) that installs without Bazel.
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
@@ -36,27 +42,27 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [audioFlux (⭐3.3k)](https://github.com/libAudioFlux/audioFlux) [:octocat: (⭐3.3k)](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐3.4k)](https://github.com/libAudioFlux/audioFlux) [:octocat: (⭐3.4k)](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
 ### Audio Related Packages / Feature extraction
 
-*   [spafe (⭐483)](https://github.com/SuperKogito/spafe) [:octocat: (⭐483)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
+*   [spafe (⭐485)](https://github.com/SuperKogito/spafe) [:octocat: (⭐485)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
 
 ### Audio Related Packages / Data augmentation
 
-*   [pydiogment (⭐85)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐85)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
+*   [pydiogment (⭐84)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐84)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [sound\_field\_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat: (⭐106)](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) [:package:](https://pypi.org/project/sound-field-analysis/) - Analyze, visualize and process sound field data recorded by spherical microphone arrays.
+*   [sound\_field\_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat: (⭐107)](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) [:package:](https://pypi.org/project/sound-field-analysis/) - Analyze, visualize and process sound field data recorded by spherical microphone arrays.
 
 ### Audio Related Packages / Realtime applications
 
-*   [ReTiSAR (⭐80)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐80)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binaural rendering of streamed or IR-based high-order spherical microphone array signals.
+*   [ReTiSAR (⭐81)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐81)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binaural rendering of streamed or IR-based high-order spherical microphone array signals.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -64,13 +70,13 @@
 
 *   [musdb](http://dsdtools.readthedocs.io) [:octocat: (⭐201)](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
 *   [audiomate (⭐139)](https://github.com/ynop/audiomate) [:octocat: (⭐139)](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - Loading different types of audio datasets.
-*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐406)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
+*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐413)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [matchering (⭐2.5k)](https://github.com/sergree/matchering) [:octocat: (⭐2.5k)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
+*   [matchering (⭐2.6k)](https://github.com/sergree/matchering) [:octocat: (⭐2.6k)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
 
 ### Audio Related Packages / Deep Learning
 
@@ -80,7 +86,7 @@
 
 ### Audio Related Packages / Source Separation
 
-*   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐646)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
+*   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐643)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
 
@@ -92,20 +98,20 @@
 
 ### Audio Related Packages / Realtime applications
 
-*   [Jupylet (⭐251)](https://github.com/nir/jupylet) [:octocat: (⭐251)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
+*   [Jupylet (⭐252)](https://github.com/nir/jupylet) [:octocat: (⭐252)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
 ### Audio Related Packages / Data augmentation
 
 *   [audiomentations (⭐2.3k)](https://github.com/iver56/audiomentations) [:octocat: (⭐2.3k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
-*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐237)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
+*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐238)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Audio Related Packages / Speech Processing
 
-*   [pyannote.audio (⭐10k)](https://github.com/pyannote/pyannote-audio) [:octocat: (⭐10k)](https://github.com/pyannote/pyannote-audio) [:package:](https://pypi.org/project/pyannote-audio/) - Neural building blocks for speaker diarization.
+*   [pyannote.audio (⭐11k)](https://github.com/pyannote/pyannote-audio) [:octocat: (⭐11k)](https://github.com/pyannote/pyannote-audio) [:package:](https://pypi.org/project/pyannote-audio/) - Neural building blocks for speaker diarization.
 
 ### Scientific Papers / Wrappers for Audio Plugins
 
@@ -120,50 +126,50 @@
 ### Audio Related Packages / Source Separation
 
 *   [commonfate (⭐17)](https://github.com/aliutkus/commonfate) [:octocat: (⭐17)](https://github.com/aliutkus/commonfate) [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
-*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐559)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
+*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐561)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 
 ### Audio Related Packages / Web Audio
 
-*   [TimeSide (Beta) (⭐393)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐393)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
+*   [TimeSide (Beta) (⭐394)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐394)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
-*   [mingus (⭐925)](https://github.com/bspaans/python-mingus) [:octocat: (⭐925)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
+*   [mingus (⭐927)](https://github.com/bspaans/python-mingus) [:octocat: (⭐927)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
 ### Audio Related Packages / Read-Write
 
-*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐3.2k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
+*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐3.3k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐72)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐73)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ### Audio Related Packages / Speech Processing
 
 *   [deepspeech (⭐27k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐27k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
 *   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐159)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
-*   [pypesq (⭐410)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐410)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
-*   [pystoi (⭐360)](https://github.com/mpariente/pystoi) [:octocat: (⭐360)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
+*   [pypesq (⭐413)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐413)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
+*   [pystoi (⭐362)](https://github.com/mpariente/pystoi) [:octocat: (⭐362)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
 *   [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 
 ### Audio Related Packages / Environmental Sounds
 
-*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐160)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
+*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐161)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [cochlea (⭐126)](https://github.com/mrkrd/cochlea) [:octocat: (⭐126)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
+*   [cochlea (⭐130)](https://github.com/mrkrd/cochlea) [:octocat: (⭐130)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
 *   [Loudness (⭐40)](https://github.com/deeuu/loudness) [:octocat: (⭐40)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
-*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐771)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
-*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐72)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐782)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
+*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐73)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ## [Aug 13 - Aug 19, 2018](/content/2018/33/README.md)
 
@@ -175,11 +181,11 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [essentia](http://essentia.upf.edu) [:octocat: (⭐3.6k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
+*   [essentia](http://essentia.upf.edu) [:octocat: (⭐3.7k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
 
 ### Audio Related Packages / Deep Learning
 
-*   [Kapre (⭐946)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐946)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
+*   [Kapre (⭐947)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐947)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
 *   [TorchAudio (⭐2.9k)](https://github.com/pytorch/audio) [:octocat: (⭐2.9k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
 
 ### Tutorials / Wrappers for Audio Plugins
@@ -206,7 +212,7 @@
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐553)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐558)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 
 ## [Oct 09 - Oct 15, 2017](/content/2017/41/README.md)
 
@@ -218,13 +224,13 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐90)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
+*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐92)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
 ### Audio Related Packages / Read-Write
 
-*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.9k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
+*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐2k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 
 ### Audio Related Packages / Feature extraction
 
@@ -238,15 +244,15 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐559)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
+*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐562)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐8.4k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐8.6k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐140k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐141k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 ### Tutorials / Wrappers for Audio Plugins
 
@@ -257,62 +263,62 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [PyWorldVocoder (⭐788)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐788)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
+*   [PyWorldVocoder (⭐793)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐793)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐106)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
+*   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐109)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 
 ## [Jun 19 - Jun 25, 2017](/content/2017/25/README.md)
 
 ### Audio Related Packages / Feature extraction
 
 *   [audiolazy (⭐712)](https://github.com/danilobellini/audiolazy) [:octocat: (⭐712)](https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) - Realtime Audio Processing lib, general purpose.
-*   [aubio](http://aubio.org/) [:octocat: (⭐3.7k)](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, Python interface.
+*   [aubio](http://aubio.org/) [:octocat: (⭐3.8k)](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, Python interface.
 *   [python\_speech\_features (⭐2.4k)](https://github.com/jameslyons/python_speech_features) [:octocat: (⭐2.4k)](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 
 ### Audio Related Packages / Read-Write
 
-*   [audioread (⭐536)](https://github.com/beetbox/audioread) [:octocat: (⭐536)](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-*   [pySox (⭐538)](https://github.com/rabitt/pysox) [:octocat: (⭐538)](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
-*   [tinytag (⭐817)](https://github.com/devsnd/tinytag) [:octocat: (⭐817)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
+*   [audioread (⭐538)](https://github.com/beetbox/audioread) [:octocat: (⭐538)](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+*   [pySox (⭐540)](https://github.com/rabitt/pysox) [:octocat: (⭐540)](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
+*   [tinytag (⭐839)](https://github.com/devsnd/tinytag) [:octocat: (⭐839)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [AudioTK (⭐252)](https://github.com/mbrucher/AudioTK) [:octocat: (⭐252)](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters).
+*   [AudioTK (⭐253)](https://github.com/mbrucher/AudioTK) [:octocat: (⭐253)](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters).
 *   [Gammatone (⭐229)](https://github.com/detly/gammatone) [:octocat: (⭐229)](https://github.com/detly/gammatone) - Gammatone filterbank implementation.
-*   [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat: (⭐420)](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper for FFTW(3).
+*   [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat: (⭐423)](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper for FFTW(3).
 *   [MDCT (⭐55)](https://github.com/nils-werner/mdct) [:octocat: (⭐55)](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) - MDCT transform.
 *   [pydub](http://pydub.com) [:octocat: (⭐9.8k)](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
-*   [pytftb](http://tftb.nongnu.org) [:octocat: (⭐279)](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
-*   [PyRubberband (⭐218)](https://github.com/bmcfee/pyrubberband) [:octocat: (⭐218)](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
-*   [Resampy](http://resampy.readthedocs.io) [:octocat: (⭐283)](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
+*   [pytftb](http://tftb.nongnu.org) [:octocat: (⭐283)](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
+*   [PyRubberband (⭐217)](https://github.com/bmcfee/pyrubberband) [:octocat: (⭐217)](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
+*   [Resampy](http://resampy.readthedocs.io) [:octocat: (⭐282)](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
 *   [STFT](http://stft.readthedocs.io) [:octocat: (⭐48)](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 
 ### Audio Related Packages / Speech Processing
 
-*   [aeneas](https://www.readbeyond.it/aeneas/) [:octocat: (⭐2.8k)](https://github.com/readbeyond/aeneas/) [:package:](https://pypi.python.org/pypi/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages.
-*   [pyAudioAnalysis (⭐6.2k)](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat: (⭐6.2k)](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization.
+*   [aeneas](https://www.readbeyond.it/aeneas/) [:octocat: (⭐2.9k)](https://github.com/readbeyond/aeneas/) [:package:](https://pypi.python.org/pypi/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages.
+*   [pyAudioAnalysis (⭐6.3k)](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat: (⭐6.3k)](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization.
 *   [py-webrtcvad (⭐2.5k)](https://github.com/wiseman/py-webrtcvad) [:octocat: (⭐2.5k)](https://github.com/wiseman/py-webrtcvad) [:package:](https://pypi.python.org/pypi/webrtcvad/) -  Interface to the WebRTC Voice Activity Detector.
 *   [SpeechRecognition (⭐9k)](https://github.com/Uberi/speech_recognition) [:octocat: (⭐9k)](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -  Wrapper for several ASR engines and APIs, online and offline.
 
 ### Audio Related Packages / Music Information Retrieval
 
 *   [Catchy (⭐22)](https://github.com/jvbalen/catchy) [:octocat: (⭐22)](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery.
-*   [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat: (⭐1.6k)](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition.
-*   [mir\_eval](http://craffel.github.io/mir_eval/) [:octocat: (⭐700)](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss\_eval implementation.
+*   [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat: (⭐1.7k)](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition.
+*   [mir\_eval](http://craffel.github.io/mir_eval/) [:octocat: (⭐711)](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss\_eval implementation.
 
 ### Audio Related Packages / Realtime applications
 
 *   [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat: (⭐1.4k)](https://github.com/belangeo/pyo) - Realtime audio dsp engine.
-*   [python-sounddevice (⭐1.2k)](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) - PortAudio wrapper providing realtime audio I/O with NumPy.
+*   [python-sounddevice (⭐1.3k)](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) - PortAudio wrapper providing realtime audio I/O with NumPy.
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [beets](http://beets.io/) [:octocat: (⭐15k)](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-*   [medleydb](http://medleydb.readthedocs.io) [:octocat: (⭐212)](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
+*   [beets](http://beets.io/) [:octocat: (⭐16k)](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+*   [medleydb](http://medleydb.readthedocs.io) [:octocat: (⭐217)](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 *   [Soundcloud API (⭐112)](https://github.com/soundcloud/soundcloud-python) [:octocat: (⭐112)](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
 
 ### Audio Related Packages / Wrappers for Audio Plugins
@@ -326,7 +332,7 @@
 
 ### Books / Wrappers for Audio Plugins
 
-*   [Python Data Science Handbook (⭐48k)](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks.
+*   [Python Data Science Handbook (⭐50k)](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks.
 *   [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) - Meinard Müller, comes with Python exercises.
 
 ### Scientific Papers / Wrappers for Audio Plugins
@@ -344,7 +350,7 @@
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
-*   [Music21](http://web.mit.edu/music21/) [:octocat: (⭐2.5k)](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
+*   [Music21](http://web.mit.edu/music21/) [:octocat: (⭐2.6k)](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
 *   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1.6k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 *   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐1k)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
@@ -362,4 +368,4 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐1.8k)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐1.9k)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).

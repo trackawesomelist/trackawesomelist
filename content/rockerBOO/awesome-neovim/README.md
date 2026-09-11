@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 11, 2026](/content/2026/09/11/README.md)
+
+### Utility / Cursorline
+
+*   [Doehnert/laravel-log-watcher.nvim (⭐1)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
+
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Colorscheme / Markdown and LaTeX
@@ -1555,7 +1561,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [chrisgve/databox.nvim (⭐13)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐23k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐13)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐24k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐131)](https://github.com/BirdeeHub/lze) - A lazy-loading library for plugins.
 *   [lumen-oss/lz.n (⭐290)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for plugins.
 
