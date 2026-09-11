@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Sep 11, 2026](/content/2026/09/11/README.md)
+
+### Finance / Audio Record and Process
+
+*   [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Posnic/POS)
+
+### Utilities / Menu Bar Tools
+
+*   [Candela](https://candela.fyi) - Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Rydersel/Candela) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Utilities / Password Management

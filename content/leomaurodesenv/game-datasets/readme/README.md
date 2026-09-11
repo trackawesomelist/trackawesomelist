@@ -62,7 +62,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
 *   [Riot Games](https://developer.riotgames.com/) - Active games, match history, and ranked statistics.
 *   [smm-course-search (⭐4)](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker game.
-*   [smm-course-viewer (⭐18)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
+*   [smm-course-viewer (⭐19)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 *   [smm-maker-profile (⭐1)](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
 *   [Steam Database](https://github.com/SteamDatabase) - Series of tools to Steam data. [Website](https://steamdb.info/).
 *   [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
@@ -80,22 +80,22 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 *   [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
 *   [Dungeon and Cave Generation (⭐21)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
-*   [Dungeon Crawl: Stone Soup (⭐2.9k)](https://github.com/crawl/crawl) - Roguelike adventure.
+*   [Dungeon Crawl: Stone Soup (⭐3k)](https://github.com/crawl/crawl) - Roguelike adventure.
 *   [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 *   [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
 *   [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 *   [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 *   [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 *   [Malmo (⭐4.3k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-*   [microRTS (⭐357)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
+*   [microRTS (⭐360)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
 *   [MiniDungeons (⭐9)](https://github.com/sentientdesigns/minidungeons) - Procedural dungeon-like game.
 *   [Morai-Maker-Engine (⭐20)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 *   [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 *   [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 *   [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
 *   [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
-*   [polyworld (⭐208)](https://github.com/polyworld/polyworld) - Artificial life system.
-*   [qengine (⭐885)](https://github.com/klaussilveira/qengine) - Retro game engine.
+*   [polyworld (⭐210)](https://github.com/polyworld/polyworld) - Artificial life system.
+*   [qengine (⭐892)](https://github.com/klaussilveira/qengine) - Retro game engine.
 *   [Retro Contest (⭐3.6k)](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 *   [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 *   [Showdown AI Competition (⭐16)](https://github.com/scotchkorean27/showdownaiclient) - Competition of Pokemon battle.
@@ -107,19 +107,19 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [veloren](https://gitlab.com/veloren/veloren) - Sandbox game. [Website](https://veloren.net/).
 *   [Vindinium (⭐0)](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
 *   [Visual Doom AI Competition (⭐2.1k)](https://github.com/mwydmuch/ViZDoom) - Doom game competition.
-*   [Wargus (⭐425)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐432)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ### Mobile
 
 *   [Habitica (⭐1.8k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
-*   [Pixel Dungeon (⭐3.9k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
-*   [Shattered Pixel Dungeon (⭐6.4k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
+*   [Pixel Dungeon (⭐4k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
+*   [Shattered Pixel Dungeon (⭐6.5k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
 
 ### Web
 
 *   [Digger (⭐95)](https://github.com/lutzroeder/digger) - Boulderdash game.
-*   [Duck Hunt (⭐630)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
-*   [Infinite Mario Bros (⭐525)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
+*   [Duck Hunt (⭐632)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Infinite Mario Bros (⭐528)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 *   [Onslaught! Arena (⭐203)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
 *   [TapAI (⭐1)](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game.
@@ -170,7 +170,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes.
 *   [Fortnite Statistics\_80 Games](https://data.world/kreynol3/fortnite-statistics80-games) - End games statistics.
 *   [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
-*   [GamingVideoSET (⭐6)](https://github.com/NabajeetBarman/GamingHDRVideoSET) - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
+*   [GamingVideoSET (⭐7)](https://github.com/NabajeetBarman/GamingHDRVideoSET) - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
 *   [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
 *   [GTA-3D Dataset (⭐147)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 *   [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
@@ -190,8 +190,10 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
 *   [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 *   [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
+*   [Pokémon Card Centering Measurements](https://zenodo.org/records/21788534) - Measured centering percentages (L/R and T/B) on 302 real Pokémon TCG eBay listings, with PSA 10 pass/fail windows.
+*   [Pokémon Card Sold-Price Reference by Grade](https://zenodo.org/records/22124729) - Median sold prices by grade (raw, PSA 9, PSA 10) and sample counts for 486 Pokémon TCG cards.
 *   [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
-*   [Pokémon GO Pokédex (⭐133)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
+*   [Pokémon GO Pokédex (⭐134)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 *   [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
 *   [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 *   [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
@@ -213,7 +215,6 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
 *   [The Quick, Draw! Dataset (⭐6.8k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 *   [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
-*   [VGLocations Public Preview Dataset](https://vglocations.org/video-game-locations-datasets/) - A curated geospatial dataset of real-world video game locations, with free CSV releases containing up to 3,000 locations.
 *   [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records.
 *   [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
 
@@ -265,7 +266,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 *   [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 *   [data.world](https://data.world) - Datasets.
 *   [datasets-games (⭐14)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
-*   [Games of Coding (⭐2.1k)](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
+*   [Games of Coding (⭐2.2k)](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
 *   [Games on GitHub (⭐25k)](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
 *   [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset\&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
 *   [Gym OpenAI (⭐37k)](https://github.com/openai/gym) - Game toolkit for reinforcement learning algorithms.

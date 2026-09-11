@@ -11,6 +11,11 @@
 ### GUI Applications / Status page
 
 *   [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+*   [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
+
+### Games / Status page
+
+*   [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 

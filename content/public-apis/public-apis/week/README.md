@@ -18,6 +18,20 @@ A collective list of free APIs
 
 
 
+### Art & Design
+
+- API: [Smithsonian Open Access (⭐7)](https://github.com/Smithsonian/smithsonian-openaccess)
+
+  Description: Smithsonian collection metadata and open-access digital media
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Business
 
 - API: [InvoiceIn](https://invoicein.peculiar.systems/)
@@ -96,6 +110,20 @@ A collective list of free APIs
 
 
 
+### Government
+
+- API: [UK Legislation Changes](https://uk-legal-changes.pages.dev/docs)
+
+  Description: Point-in-time amendment history for UK law
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Jobs
 
 - API: [Jobven](https://jobven.com/docs/getting-started)
@@ -138,6 +166,20 @@ A collective list of free APIs
 
 
 
+### Photography
+
+- API: [Screenshot Studio](https://www.screenshot-studio.com/docs)
+
+  Description: Capture web pages as images through a public HTTP API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Science & Math
 
 - API: [Semantic Scholar](https://api.semanticscholar.org/)
@@ -163,6 +205,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [TrendsMCP](https://www.trendsmcp.ai/docs)
+
+  Description: Live keyword trend data from Google, TikTok, YouTube, Amazon and Reddit
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 

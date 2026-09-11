@@ -12,8 +12,13 @@
 
 *   [Lyrimuse (⭐8)](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Yudaotor/lyrimuse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Finance / Audio Record and Process
+
+*   [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Posnic/POS)
+
 ### Utilities / Menu Bar Tools
 
+*   [Candela](https://candela.fyi) - Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Rydersel/Candela) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Keelhaven](https://keelhaven.app) - Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shenxianpeng/keelhaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Pelmet](https://pelmet.fif7y.com) - Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fif7y/pelmet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 

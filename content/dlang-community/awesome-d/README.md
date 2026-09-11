@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/dlang-community/awesome-d/week/README.md) / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Sep 11, 2026](/content/2026/09/11/README.md)
+
+### GUI Applications / Status page
+
+*   [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
+
+### Games / Status page
+
+*   [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
+
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
 ### GUI Applications / Status page

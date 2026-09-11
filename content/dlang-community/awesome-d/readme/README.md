@@ -10,7 +10,7 @@
 
 # Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐316k)](https://github.com/vinta/awesome-python).
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐320k)](https://github.com/vinta/awesome-python).
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues (⭐762)](https://github.com/dlang-community/awesome-d/issues) or by [editing this file (⭐762)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
@@ -422,6 +422,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [Inochi Creator (⭐1.2k)](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
 *   [Inochi Session (⭐404)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
 *   [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+*   [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
 
 ## Game Bindings
 
@@ -506,6 +507,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 *   [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
 *   [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
+*   [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
 
 ## Internationalization
 
