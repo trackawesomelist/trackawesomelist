@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 12, 2026](/content/2026/09/12/README.md)
+
+### Code Runner / Quickfix
+
+*   [wurli/jet.nvim (⭐24)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
+
+### Editing Support / Scrollbar
+
+*   [Nagato-Yuzuru/bang.nvim (⭐5)](https://github.com/Nagato-Yuzuru/bang.nvim) - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
+
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
 ### Utility / Cursorline

@@ -6,6 +6,24 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Sep 12, 2026](/content/2026/09/12/README.md)
+
+### Accessibility
+
+*   [How Shadow DOM and accessibility are in conflict](https://alice.pages.igalia.com/blog/how-shadow-dom-and-accessibility-are-in-conflict/)
+
+### Usage Patterns
+
+*   [Managing event listeners in custom elements](https://knowler.dev/blog/managing-event-listeners-in-custom-elements)
+
+### Case Studies
+
+*   [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
+
+### Podcasts
+
+*   [ShopTalk Show, episode 657: David Darnes on Web Components and Design Systems](https://shoptalkshow.com/657/)
+
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 
 ### Component Libraries
@@ -364,8 +382,6 @@ A curated list of awesome Web Components resources.
 *   [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 *   [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 *   [Shadow DOM styling](https://javascript.info/shadow-dom-style)
-*   [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
-*   [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 
 ### HTML Templates
 
@@ -374,6 +390,11 @@ A curated list of awesome Web Components resources.
 *   [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
 *   [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
 *   [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
+
+### Usage Patterns
+
+*   [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
+*   [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
@@ -659,7 +680,7 @@ A curated list of awesome Web Components resources.
 
 ## [Jan 09, 2021](/content/2021/01/09/README.md)
 
-### Custom Elements
+### Usage Patterns
 
 *   [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 

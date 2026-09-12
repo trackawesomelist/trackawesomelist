@@ -14,8 +14,13 @@ A curated list of awesome Web Components resources.
 
 ### Accessibility
 
+*   [How Shadow DOM and accessibility are in conflict](https://alice.pages.igalia.com/blog/how-shadow-dom-and-accessibility-are-in-conflict/)
 *   [Shadow DOM Focus Delegation: Getting delegatesFocus Right](https://blog.master.dev/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
 *   [Web Components and accessibility](https://www.accessibility-developer-guide.com/knowledge/web-components/)
+
+### Usage Patterns
+
+*   [Managing event listeners in custom elements](https://knowler.dev/blog/managing-event-listeners-in-custom-elements)
 
 ### Interoperability
 
@@ -27,6 +32,10 @@ A curated list of awesome Web Components resources.
 *   [Web Components are not Framework Components — and That’s Okay](https://lea.verou.me/blog/2024/wcs-vs-frameworks/)
 *   [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/) by Jim Nielsen
 *   [HTML Web Components](https://adactio.com/journal/20618) by Jeremy Keith
+
+### Case Studies
+
+*   [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 
 ### Component Libraries
 
@@ -54,6 +63,10 @@ A curated list of awesome Web Components resources.
 ### Tutorials
 
 *   [The Missing Link for Web Components](https://blog.master.dev/the-missing-link-for-web-components/)
+
+### Podcasts
+
+*   [ShopTalk Show, episode 657: David Darnes on Web Components and Design Systems](https://shoptalkshow.com/657/)
 
 ### History / 2016
 
@@ -301,8 +314,6 @@ A curated list of awesome Web Components resources.
 *   [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 *   [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 *   [Shadow DOM styling](https://javascript.info/shadow-dom-style)
-*   [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
-*   [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 
 ### HTML Templates
 
@@ -312,6 +323,11 @@ A curated list of awesome Web Components resources.
 *   [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
 *   [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
 *   [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
+
+### Usage Patterns
+
+*   [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
+*   [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 
 ### Codelabs
 
@@ -628,7 +644,7 @@ A curated list of awesome Web Components resources.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
-### Custom Elements
+### Usage Patterns
 
 *   [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 

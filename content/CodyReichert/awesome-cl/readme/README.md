@@ -259,7 +259,7 @@ Work In Progress:
 
 ## Machine Learning
 
-*   [MGL (⭐649)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
+*   [MGL (⭐650)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐129)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1548,7 +1548,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 *   [css-lite (⭐82)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 *   [find-port (⭐0)](https://github.com/lisp-maintainers/find-port) -  Programmatically find open ports. [MIT][200].
 *   [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
-*   [trivial-download (⭐39)](https://github.com/eudoxia0/trivial-download) - Download files.
+*   [trivial-download (⭐0)](https://github.com/sharplispers/trivial-download) - Download files.
     *   currently archived and unmaintained. [MIT][200].
 *   [cl-cookie (⭐20)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 *   [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
@@ -2013,7 +2013,7 @@ Tools:
 
 ## Zed
 
-*   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
+*   [zed-dl (⭐17)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
 ## Geany (experimental)
 
@@ -2163,7 +2163,7 @@ See also the [Persistent object databases](#persistent-object-databases) section
 
 ## Compression / decompression
 
-*   [chipz (⭐18)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
+*   [chipz (⭐15)](https://github.com/sharplispers/chipz) - A decompression library. [3-clause BSD][15].
 *   [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 *   [zippy](https://codeberg.org/shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib][33].
 *   [archive (⭐34)](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD\_3Clause][15]. A pure Common Lisp replacement for the `tar` program.
@@ -2179,7 +2179,7 @@ See also the [Persistent object databases](#persistent-object-databases) section
 
 ## Date and time
 
-*   ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+*   ⭐ [local-time (⭐117)](https://github.com/sharplispers/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
     *   [local-time documentation](https://local-time.common-lisp.dev/), [github mirror (⭐116)](https://github.com/dlowe-net/local-time).
 *   [fuzzy-dates](https://codeberg.org/shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
 *   [cl-date-time-parser (⭐19)](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].

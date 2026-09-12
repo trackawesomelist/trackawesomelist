@@ -1326,6 +1326,7 @@ then it is not supported:
 
 ## Code Runner
 
+*   [wurli/jet.nvim (⭐24)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 *   [rafcamlet/nvim-luapad (⭐692)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 *   [michaelb/sniprun (⭐1.7k)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from your editor.
 *   [CRAG666/code\_runner.nvim (⭐691)](https://github.com/CRAG666/code_runner.nvim) - The best code runner you could have, with super powers.
@@ -1658,6 +1659,7 @@ then it is not supported:
 *   [nvim-mini/mini.nvim#mini.operators (⭐9.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 *   [gbprod/yanky.nvim (⭐1.3k)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 *   [sQVe/sort.nvim (⭐217)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+*   [Nagato-Yuzuru/bang.nvim (⭐5)](https://github.com/Nagato-Yuzuru/bang.nvim) - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
 *   [booperlv/nvim-gomove (⭐204)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 *   [hinell/duplicate.nvim (⭐25)](https://github.com/hinell/duplicate.nvim) - Duplicate lines and blocks of lines easily; undo and unfolding support; full OOP.
 *   [hinell/move.nvim (⭐14)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐369)](https://github.com/fedepujol/move.nvim).

@@ -6,6 +6,22 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
+
+### Others / Web project skeletons and generators
+
+*   [trivial-download (⭐0)](https://github.com/sharplispers/trivial-download) - Download files.
+    *   currently archived and unmaintained. [MIT](https://opensource.org/licenses/MIT).
+
+### Compression / decompression / Third-party APIs
+
+*   [chipz (⭐15)](https://github.com/sharplispers/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+
+### Date and time / Third-party APIs
+
+*   ⭐ [local-time (⭐117)](https://github.com/sharplispers/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   [local-time documentation](https://local-time.common-lisp.dev/), [github mirror (⭐116)](https://github.com/dlowe-net/local-time).
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Agents
@@ -30,7 +46,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Zed / Third-party APIs
 
-*   [zed-dl (⭐15)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
+*   [zed-dl (⭐17)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
@@ -183,13 +199,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
         specializations, call relationships, and metadata — all without
         parsing source code. Includes a live Emacs integration that shows
         code intelligence as you navigate and a web-based graph viewer.
-
-## [May 04 - May 10, 2026](/content/2026/18/README.md)
-
-### Date and time / Third-party APIs
-
-*   ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   [local-time documentation](https://local-time.common-lisp.dev/), [github mirror (⭐116)](https://github.com/dlowe-net/local-time).
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -1890,7 +1899,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Machine Learning
 
-*   [MGL (⭐649)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐650)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐129)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1982,8 +1991,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Others / Web project skeletons and generators
 
 *   [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
-*   [trivial-download (⭐39)](https://github.com/eudoxia0/trivial-download) - Download files.
-    *   currently archived and unmaintained. [MIT](https://opensource.org/licenses/MIT).
 
 ### Running scripts / Third-party APIs
 
@@ -2280,7 +2287,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Compression / decompression / Third-party APIs
 
-*   [chipz (⭐18)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Developer utilities / Third-party APIs
