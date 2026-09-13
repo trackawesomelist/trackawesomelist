@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 391K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 396K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md) / Overview ]
 
@@ -221,7 +221,7 @@
 
 ### Android
 
-*   [Android Open Text book (⭐253)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android Open Text book (⭐252)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 *   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 *   [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - @nobuoka
 *   [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi Inc.
@@ -247,7 +247,7 @@
 *   [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - trl:Mike G, 千旦裕司
 *   [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - @nattou\_curry
 *   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, trl:@yakstcom
-*   [The Art of Command Line (⭐161k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐162k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 *   [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 
 ### C
@@ -304,7 +304,7 @@
 
 *   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
 *   [Git ユーザマニュアル (バージョン 1.5.3 以降用)](https://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
-*   [GitHubカンニング・ペーパー (⭐58k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [GitHubカンニング・ペーパー (⭐59k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
 *   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 *   [Steins;Git 第二版](https://o2project.github.io/steins-git) - Shota Kubota
 *   [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial) - 株式会社ヌーラボ
@@ -386,7 +386,7 @@
 
 #### Backbone.js
 
-*   [Backboneドキュメント日本語訳 (⭐212)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
+*   [Backboneドキュメント日本語訳 (⭐213)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 #### jQuery
 
@@ -465,7 +465,7 @@
 
 *   [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 *   [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF)
-*   [The Little Redis Book (⭐159)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
+*   [The Little Redis Book (⭐160)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 ### Objective-C
 
@@ -562,7 +562,7 @@
 
 *   [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, `trl:` 八田 昌三, `trl:` 安川 要平
 *   [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, `trl:` 八田 昌三, `trl:` 安川 要平
-*   [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
+*   [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 *   [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 *   [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 *   [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏

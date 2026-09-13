@@ -13,12 +13,17 @@ A curated list of Rust code and resources.
 *   [runmat-org/runmat (⭐255)](https://github.com/runmat-org/runmat) \[[runmat](https://crates.io/crates/runmat)] - A runtime for MATLAB-syntax numerical programs, with GPU acceleration through wgpu. [![CI](https://github.com/runmat-org/runmat/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/runmat-org/runmat/actions/workflows/ci.yml)
 *   [tunnetio/Tunnet (⭐103)](https://github.com/tunnetio/Tunnet) - Private mesh networking with public tunnels, identity-based SSH, and P2P file transfer
 
+### Applications / Audio and Music
+
+*   [rusty-amp (⭐52)](https://github.com/danylokravchenko/rusty-amp) - A complete guitar amp and pedalboard rig with external plugins support that runs right in your terminal.
+
 ### Applications / Observability
 
 *   [madesroches/micromegas (⭐52)](https://github.com/madesroches/micromegas) \[[micromegas](https://crates.io/crates/micromegas)] - Observability backend for logs, metrics and traces, with low-overhead Rust instrumentation. Stores telemetry as Parquet on object storage and queries it with SQL. [![Rust](https://github.com/madesroches/micromegas/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/madesroches/micromegas/actions/workflows/rust.yml)
 
 ### Applications / Productivity
 
+*   [alphaXiv/OpenResearch (⭐1.7k)](https://github.com/alphaXiv/OpenResearch) - A local-first workspace for running parallel research agents with Claude Code, Codex, OpenCode, or Cursor, with reproducible experiment tracking. [![CI](https://github.com/alphaXiv/OpenResearch/actions/workflows/ci.yml/badge.svg)](https://github.com/alphaXiv/OpenResearch/actions/workflows/ci.yml)
 *   [Beetroot (⭐222)](https://github.com/mnardit/beetroot-releases) - Clipboard manager for Windows with AI transforms, OCR, and fuzzy search.
 *   [tinyhumansai/opencompany (⭐114)](https://github.com/tinyhumansai/opencompany) - Open-source runtime that assembles AI agents into a working company: shared work board, handoffs between agents, human approvals, scheduled and DAG workflows. Runs on any model you bring, self-hosted with Docker. [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/tinyhumansai/opencompany)
 

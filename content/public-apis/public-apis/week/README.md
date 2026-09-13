@@ -82,6 +82,20 @@ A collective list of free APIs
 
 
 
+### Email
+
+- API: [Best Temp Mail](https://best-tempmail.com/api)
+
+  Description: Disposable inboxes for automated email testing, with OTP extraction
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Entertainment
 
 - API: [Bucketlist Dream of the Day](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag)
@@ -233,6 +247,31 @@ A collective list of free APIs
 
 
 
+### Transportation
+
+- API: [ArcNautical](https://arcnautical.com/developers/)
+
+  Description: Screen any ship by IMO for OFAC/EU/UN/UK sanctions, ownership opacity and a vetting grade
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Windsock](https://windsock.ai/app/docs)
+
+  Description: Aircraft valuations, FAA registry lookups, cost of ownership and aviation market data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Vehicle
 
 - API: [Wheelwise](https://cars.limoja.ai/api/search?q=BMW\&limit=1)
@@ -244,6 +283,31 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Weather
+
+- API: [KNMI](https://developer.dataplatform.knmi.nl/)
+
+  Description: Dutch weather, radar and climate data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Météo-France](https://portail-api.meteofrance.fr/)
+
+  Description: French weather forecasts and alerts
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 
@@ -3406,7 +3470,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐126)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐127)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -4652,7 +4716,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐229)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐231)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -10520,7 +10584,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐192)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐193)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 

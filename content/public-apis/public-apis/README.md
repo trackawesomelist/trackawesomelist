@@ -6,6 +6,72 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Email
+
+- API: [Best Temp Mail](https://best-tempmail.com/api)
+
+  Description: Disposable inboxes for automated email testing, with OTP extraction
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Transportation
+
+- API: [ArcNautical](https://arcnautical.com/developers/)
+
+  Description: Screen any ship by IMO for OFAC/EU/UN/UK sanctions, ownership opacity and a vetting grade
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Windsock](https://windsock.ai/app/docs)
+
+  Description: Aircraft valuations, FAA registry lookups, cost of ownership and aviation market data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Weather
+
+- API: [KNMI](https://developer.dataplatform.knmi.nl/)
+
+  Description: Dutch weather, radar and climate data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Météo-France](https://portail-api.meteofrance.fr/)
+
+  Description: French weather forecasts and alerts
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
 ### Art & Design
@@ -4033,7 +4099,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐126)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐127)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -4691,7 +4757,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐229)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐231)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -11871,7 +11937,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐192)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐193)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 

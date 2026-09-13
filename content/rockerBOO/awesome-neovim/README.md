@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Utility / Cursorline
+
+*   [7KiLL/copybara.nvim (⭐2)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
+
 ## [Sep 12, 2026](/content/2026/09/12/README.md)
 
 ### Code Runner / Quickfix

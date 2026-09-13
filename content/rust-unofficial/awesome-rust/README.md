@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Applications / Audio and Music
+
+*   [rusty-amp (⭐52)](https://github.com/danylokravchenko/rusty-amp) - A complete guitar amp and pedalboard rig with external plugins support that runs right in your terminal.
+
+### Applications / Productivity
+
+*   [alphaXiv/OpenResearch (⭐1.7k)](https://github.com/alphaXiv/OpenResearch) - A local-first workspace for running parallel research agents with Claude Code, Codex, OpenCode, or Cursor, with reproducible experiment tracking. [![CI](https://github.com/alphaXiv/OpenResearch/actions/workflows/ci.yml/badge.svg)](https://github.com/alphaXiv/OpenResearch/actions/workflows/ci.yml)
+
 ## [Sep 12, 2026](/content/2026/09/12/README.md)
 
 ### Development tools / Workflow Automation

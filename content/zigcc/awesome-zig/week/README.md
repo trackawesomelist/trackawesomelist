@@ -11,6 +11,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Fundamentals / Utility
 
 *   [deatil/zig-rsa (⭐0)](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
+*   [lkraider/keywise (⭐1)](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
 ### Language Essentials / File Format Processing
 
@@ -839,7 +840,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [ghostty (⭐60k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
+*   [ghostty (⭐61k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 

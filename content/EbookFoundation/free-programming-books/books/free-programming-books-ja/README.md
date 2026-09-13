@@ -2,9 +2,15 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 391K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 396K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/readme/README.md) ]
+
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Ruby / Flask
+
+*   [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 
 ## [Jul 05, 2026](/content/2026/07/05/README.md)
 
@@ -74,7 +80,7 @@
 ### Git / 理論計算機科学
 
 *   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
-*   [GitHubカンニング・ペーパー (⭐58k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [GitHubカンニング・ペーパー (⭐59k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
 *   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 *   [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
@@ -123,7 +129,7 @@
 
 ### NoSQL / Vue.js
 
-*   [The Little Redis Book (⭐159)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
+*   [The Little Redis Book (⭐160)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 ### R / Flask
 
@@ -464,7 +470,6 @@
 
 ### Ruby / Flask
 
-*   [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
 *   [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 *   [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 *   [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
@@ -805,7 +810,7 @@
 
 ### Bash / 理論計算機科学
 
-*   [The Art of Command Line (⭐161k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐162k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 
 ### D / 理論計算機科学
 
@@ -827,7 +832,7 @@
 
 ### Android / 理論計算機科学
 
-*   [Android Open Text book (⭐253)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android Open Text book (⭐252)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 *   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
 ### AppleScript / 理論計算機科学
@@ -942,7 +947,7 @@
 
 ### JavaScript / Backbone.js
 
-*   [Backboneドキュメント日本語訳 (⭐212)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
+*   [Backboneドキュメント日本語訳 (⭐213)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 ## [Nov 08, 2013](/content/2013/11/08/README.md)
 

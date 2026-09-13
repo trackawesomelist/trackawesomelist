@@ -172,7 +172,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [NilsIrl/dockerc (⭐4.9k)](https://github.com/NilsIrl/dockerc) - Container image to single executable compiler.
 *   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐37)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
-*   [ghostty (⭐60k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
+*   [ghostty (⭐61k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 *   [midasdf/zt (⭐66)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐61)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 *   [zdu (⭐3)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
@@ -186,6 +186,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 *   [Illusionna/LocalTransfer (⭐589)](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 *   [deatil/zig-rsa (⭐0)](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
+*   [lkraider/keywise (⭐1)](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
 ### Linker
 

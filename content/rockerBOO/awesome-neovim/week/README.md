@@ -29,6 +29,7 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [Doehnert/laravel-log-watcher.nvim (⭐1)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
+*   [7KiLL/copybara.nvim (⭐2)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ### Code Runner / Quickfix
 

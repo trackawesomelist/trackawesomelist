@@ -1197,6 +1197,7 @@ then it is not supported:
 *   [ChuYanLon/telegram.nvim (⭐15)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 *   [paulburgess1357/nvim-mcp (⭐61)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 *   [dpezto/chezmoi-template.nvim (⭐9)](https://github.com/dpezto/chezmoi-template.nvim) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
+*   [7KiLL/copybara.nvim (⭐2)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ### CSV Files
 
