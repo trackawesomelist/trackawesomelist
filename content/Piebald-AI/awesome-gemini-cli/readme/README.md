@@ -316,6 +316,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 *   [deja-vu (⭐793)](https://github.com/vshulcz/deja-vu) - Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: `deja install gemini-auto`.
 *   [Mnemoverse Memory (⭐1)](https://github.com/mnemoverse/gemini-extension) - Hosted memory shared across MCP clients: write a memory in Gemini CLI, recall it in Claude Code, Cursor, VS Code, or any other MCP client. Remote Streamable HTTP with OAuth sign-in, no API key to paste. Install: `gemini extensions install https://github.com/mnemoverse/gemini-extension`.
 *   [ContextStream](https://contextstream.io) - Shared project context for Cursor, Claude Code, Codex, Grok. Intelligence isn’t the bottleneck. Context is. Remote MCP for Gemini CLI and other coding agents: `https://mcp.contextstream.io/mcp`.
+*   [dsh-skills-anywhere (⭐2)](https://github.com/noteflowai/dsh-skills-anywhere) - MCP server that exposes every Agent Skill installed for Gemini CLI, Claude Code, Codex, Cursor and 60+ other agents, plus Claude Code plugin marketplaces and any GitHub skills repo, as `find_skills`/`open_skill` tools and `skill://` resources, read in place with zero copies or symlinks.
 
 ## Neovim Plugins
 

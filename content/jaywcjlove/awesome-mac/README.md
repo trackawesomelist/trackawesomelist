@@ -12,6 +12,10 @@
 
 *   [JustMD](https://justmd.nuta.life/) - Open-source Markdown editor for local files that hides syntax outside the line being edited. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yuraist/just-md) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6779422717)
 
+### AI Tools / Other Tools
+
+*   [Wayfinder](https://wayfinder-ai.pages.dev/) - Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Finance / Audio Record and Process
 
 *   [MRRDock](https://mrrdock.simoneruggiero.com) - Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/simonsruggi/MRRDock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

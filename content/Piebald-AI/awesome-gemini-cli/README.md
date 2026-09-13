@@ -17,6 +17,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [LintLang (⭐67)](https://github.com/hermes-labs-ai/lintlang) - Static linter and Gemini CLI extension for agent instructions, tool descriptions, and prompt configuration.
 *   [Cohesivity (⭐1)](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 
+### MCP Servers
+
+*   [dsh-skills-anywhere (⭐2)](https://github.com/noteflowai/dsh-skills-anywhere) - MCP server that exposes every Agent Skill installed for Gemini CLI, Claude Code, Codex, Cursor and 60+ other agents, plus Claude Code plugin marketplaces and any GitHub skills repo, as `find_skills`/`open_skill` tools and `skill://` resources, read in place with zero copies or symlinks.
+
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
 ### Commands & Extensions

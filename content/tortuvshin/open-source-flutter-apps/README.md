@@ -6,6 +6,12 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Tools
+
+*   [SubnetDesk (⭐549)](https://github.com/zibo-chen/SubnetDesk) - SubnetDesk is a cross-platform remote desktop for devices already connected by a LAN, routed private network, or VPN, with direct IP or hostname connections and local mDNS discovery.
+
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Business
@@ -137,7 +143,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [Ejimo (⭐61)](https://github.com/albemala/emoji-picker) - A cross-platform emoji and symbol picker that goes beyond the system keyboard.
 *   [flutter\_server\_box (⭐8.6k)](https://github.com/lollipopkit/flutter_server_box) - A Flutter-based, cross-platform client for monitoring and administering remote Linux, Unix, and Windows servers over SSH — combining real-time status charts, an embedded xterm terminal, SFTP file transfer, and Docker / systemd / S.M.A.R.T. management on iOS, Android, macOS, Linux, and Windows.
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit) that wraps a customized libgit2 fork and re-implements everything else — including its own rebase engine — to keep operations and the live commit graph fast on large repositories.
-*   [Immich (⭐113k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [Immich (⭐114k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [MarketMonk (⭐60)](https://github.com/brandonp2412/MarketMonk) - A Flutter stock and portfolio tracker that combines Yahoo Finance market data, interactive charts, local trade records, and multiple account support.
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
@@ -151,7 +157,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [flutter-pos-system (⭐607)](https://github.com/evan361425/flutter-pos-system) - An offline-first Flutter point-of-sale app for small restaurants and shops that runs ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt printing, custom analytics charts, and Google Sheets export entirely on-device with no remote backend.
 *   [localmind (⭐205)](https://github.com/abdulmominsakib/localmind) - A Flutter mobile chat client that connects to on-device LLMs and any OpenAI-compatible server — Ollama, LM Studio, OpenRouter — with markdown rendering, voice input, and an MCP tool layer.
 *   [roxum-ide (⭐601)](https://github.com/heckmon/roxum-ide) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
-*   [rustdesk (⭐122k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
+*   [rustdesk (⭐123k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
 
 ### Communication
 

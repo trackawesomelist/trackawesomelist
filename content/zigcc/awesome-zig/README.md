@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [lkraider/keywise (⭐1)](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
+### Data & Science / Machine Learning Framework
+
+*   [myzonerocks/gosslens (⭐7)](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Fundamentals / Utility

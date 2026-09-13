@@ -34,6 +34,17 @@ A collective list of free APIs
 
 ### Business
 
+- API: [GlobalEntity](https://www.globalentityapi.com/docs)
+
+  Description: Official company data from 56 European business registers as normalized JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [InvoiceIn](https://invoicein.peculiar.systems/)
 
   Description: Parse and validate received e-invoices: XRechnung, ZUGFeRD, Peppol, FatturaPA, KSeF
@@ -45,12 +56,95 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [KontragentPro](https://kontragentpro.ru/api/v2/docs)
+
+  Description: Russian company data from state registers by INN or OGRN: profile, finances, timeline
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [1inch](https://business.1inch.com/portal/documentation)
+
+  Description: API for querying decentralize exchange
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [CoinNudge](https://coinnudge.site/data/api-docs)
+
+  Description: Current crypto market breadth, funding and open-interest research datasets
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Currency Exchange
+
+- API: [FXpeek](https://fxpeek.com/en/api)
+
+  Description: Source-linked historical reference exchange rates with CSV, JSON and an MCP server
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Development
 
 - API: [APIzone](https://apizone.io/api-docs)
 
   Description: Independent uptime & status monitoring for 200+ popular APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Fair Draw](https://bettip.co.za/fair-draw/api/)
+
+  Description: Verifiable random draws bound to the drand public randomness beacon
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Hex (⭐53)](https://github.com/hexpm/specifications)
+
+  Description: Elixir and Erlang package versions and docs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Is This Site Down?](https://downforjustmeoreveryone.com/api)
+
+  Description: Check if any website is down, from two continents; live status, uptime history and TLS expiry
 
   Auth: No
 
@@ -81,6 +175,31 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Serply](https://serply.io/docs)
+
+  Description: Google, Bing, News, Scholar and Maps search results and page scraping as JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [PDFMint](https://pdf.mintapis.com/docs)
+
+  Description: HTML, Markdown or a URL to PDF or PNG, with a no-key demo endpoint and a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 
 ### Email
 
@@ -89,6 +208,17 @@ A collective list of free APIs
   Description: Disposable inboxes for automated email testing, with OTP extraction
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [inboxsink](https://inboxsink.com/docs)
+
+  Description: Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -123,8 +253,70 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [VoxOdds](https://voxodds.com/api)
+
+  Description: Polymarket and Kalshi odds, all-in executable quotes, EV checks and audited forecast scores
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+  : 
+
+
+- API: [XFINLAB](https://www.xfinlab.com/intelligence-api.html)
+
+  Description: Market events, sentiment, technical analysis and macro data for stocks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Geocoding
+
+- API: [TrustyData](https://trustydata.fr/docs/)
+
+  Description: French address checks, INSEE company search and routing on official open data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Unblock Master IP](https://www.unblockmaster.com/free-ip-api/)
+
+  Description: IP geolocation plus datacenter and VPN detection for any IPv4 or IPv6 address
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Government
+
+- API: [Right to Disconnect](https://righttodisconnect.jdries.nl/api/)
+
+  Description: Right-to-disconnect employment law by EU country: binding status, statute, and sanctions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [UK Legislation Changes](https://uk-legal-changes.pages.dev/docs)
 
@@ -135,6 +327,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Health
+
+- API: [Stanza DSCSA Verifier](https://stanzaapi.com/tools/pharma-dscsa)
+
+  Description: Verify FDA DSCSA and EU FMD pharmaceutical serialization barcodes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -180,6 +386,20 @@ A collective list of free APIs
 
 
 
+### Personality
+
+- API: [PositiveQuotation](https://positivequotation.com/developers/public-domain-quotes-api)
+
+  Description: Source-verified public-domain English proverbs with provenance
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Photography
 
 - API: [Screenshot Studio](https://www.screenshot-studio.com/docs)
@@ -196,6 +416,28 @@ A collective list of free APIs
 
 ### Science & Math
 
+- API: [MyGene.info](https://docs.mygene.info/)
+
+  Description: Gene annotation queries and ID lookup
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [RCSB PDB](https://data.rcsb.org/)
+
+  Description: 3D structures of proteins and nucleic acids
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Semantic Scholar](https://api.semanticscholar.org/)
 
   Description: Academic search engine for papers, authors, and citations
@@ -205,6 +447,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+### Security
+
+- API: [Presend](https://presend.pages.dev/api)
+
+  Description: Security and developer utility API -- malware, vulnerability, and domain checks, no signup
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -221,6 +477,17 @@ A collective list of free APIs
   CORS: No
 
 
+- API: [SwarmMemo](https://swarmmemo.com/protocol.md)
+
+  Description: Public bulletin board where AI agents and humans read, post and reply, no account or key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [TrendsMCP](https://www.trendsmcp.ai/docs)
 
   Description: Live keyword trend data from Google, TikTok, YouTube, Amazon and Reddit
@@ -230,6 +497,34 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+### Sports & Fitness
+
+- API: [QiuXiaoCe Football](https://www.qiuxiaoce.com/data-docs/)
+
+  Description: Football teams, leagues, standings, scorers and match intelligence data
+
+  Auth: `No`
+
+  HTTPS: `Yes`
+
+  CORS: `Unknown`
+
+
+
+### Test Data
+
+- API: [Sampuli](https://sampuli.site/api)
+
+  Description: Format-true synthetic test data for 90 countries: IDs, IBANs, cards, addresses
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -273,6 +568,17 @@ A collective list of free APIs
 
 
 ### Vehicle
+
+- API: [TransparentCars](https://transparent.pt/en/api)
+
+  Description: Fair-price valuation and yearly road tax (IUC) for used cars in Portugal
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Wheelwise](https://cars.limoja.ai/api/search?q=BMW\&limit=1)
 
@@ -7421,20 +7727,6 @@ A collective list of free APIs
   Description: Indexing protocol for querying networks like Ethereum with GraphQL
 
   Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Cryptocurrency
-
-- API: [1inch](https://1inch.io/api/)
-
-  Description: API for querying decentralize exchange
-
-  Auth: No
 
   HTTPS: Yes
 

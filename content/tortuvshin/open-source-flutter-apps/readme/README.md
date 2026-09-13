@@ -104,11 +104,12 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 *   [flutter\_server\_box (⭐8.6k)](https://github.com/lollipopkit/flutter_server_box) - A Flutter-based, cross-platform client for monitoring and administering remote Linux, Unix, and Windows servers over SSH — combining real-time status charts, an embedded xterm terminal, SFTP file transfer, and Docker / systemd / S.M.A.R.T. management on iOS, Android, macOS, Linux, and Windows.
 *   [GitUp (⭐12k)](https://github.com/git-up/GitUp) - GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit) that wraps a customized libgit2 fork and re-implements everything else — including its own rebase engine — to keep operations and the live commit graph fast on large repositories.
 *   [Helm](https://devshakib.jumyn.com/apps/helm) - Helm is a macOS system toolkit that puts fifteen maintenance and monitoring tools behind one window and one menu-bar item, covering storage, hardware metrics, and clipboard history.
-*   [Immich (⭐113k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [Immich (⭐114k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [MangoDisk](https://mangodisk.app/) - MangoDisk is a safety-first disk cleaner and storage analyzer for macOS and Windows that scans locally, visualizes disk usage, and lets users review paths and sizes before removal.
 *   [MarketMonk (⭐60)](https://github.com/brandonp2412/MarketMonk) - A Flutter stock and portfolio tracker that combines Yahoo Finance market data, interactive charts, local trade records, and multiple account support.
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
 *   [Shieldxy](https://rockxy.io/shieldxy) - An auditable macOS application firewall and connection monitor with explicit local network controls.
+*   [SubnetDesk (⭐549)](https://github.com/zibo-chen/SubnetDesk) - SubnetDesk is a cross-platform remote desktop for devices already connected by a LAN, routed private network, or VPN, with direct IP or hostname connections and local mDNS discovery.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
 *   [SwiftTerm (⭐1.7k)](https://github.com/migueldeicaza/SwiftTerm) - An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
 *   [Tura (⭐608)](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
@@ -124,7 +125,7 @@ request — see [CONTRIBUTING.md](https://github.com/tortuvshin/open-apps/blob/m
 *   [OpenDesign (⭐95k)](https://github.com/nexu-io/open-design) - A local-first Apache-2.0 desktop and web application that turns any of 27 coding-agent CLIs into a design engine, producing HTML prototypes, PDFs, PPTX decks, images, and HyperFrames MP4 against a portable `DESIGN.md` brand contract, with BYOK across OpenAI / Anthropic / Azure / Google / Ollama and an MCP stdio server for agent-native integration.
 *   [Rockxy](https://rockxy.io) - A native macOS HTTP debugging proxy for inspecting HTTPS, API, WebSocket, and GraphQL traffic.
 *   [roxum-ide (⭐601)](https://github.com/heckmon/roxum-ide) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
-*   [rustdesk (⭐122k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
+*   [rustdesk (⭐123k)](https://github.com/rustdesk/rustdesk) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access.
 *   [Tracexy](https://rockxy.io/tracexy) - A native, local-first macOS app for capturing live network traffic and investigating PCAP and PCAPNG files.
 
 ## Communication

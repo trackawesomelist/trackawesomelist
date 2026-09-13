@@ -17,6 +17,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [npmonster/yayl (⭐2)](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 
+### Data & Science / Machine Learning Framework
+
+*   [myzonerocks/gosslens (⭐7)](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
+
 ### Interoperability / FFI Bindings
 
 *   [pedronaugusto/zjolt (⭐0)](https://github.com/pedronaugusto/zjolt) - Zig bindings for Jolt Physics — the whole runtime, from shapes and the step to constraints, characters, vehicles, ragdolls, soft bodies and hair. AI-assisted.

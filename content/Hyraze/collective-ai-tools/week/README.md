@@ -19,6 +19,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
+*   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [YYLO (⭐57)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 
 ### Education
@@ -28,14 +29,20 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Image Generator
 
+*   [AI Image](https://aiimage.com) - Generate and edit images from text prompts and reference pictures in a browser. `#paid` `#design`
 *   [Vivify GPT Image 2.5](https://vivify.video/models/gpt-image-2-5) - Generate product visuals and edit reference images with Flare or Sunburst in a browser. `#paid`
 
 ### Real Estate
 
 *   [Altyst](https://altyst.ai/) - Turns a commercial property's address, listing link, or offering memorandum into a full editable underwriting model with cash flows, IRR, and DSCR. `#paid`
 
+### Resume
+
+*   [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) and AI resume builder; State of ATS 2026 (738 employers, Workday 37.9%). `#freemium`
+
 ### Video
 
+*   [C2Anime](https://c2anime.com/) - AI Anime Agent that turns stories into animated short films with voices and sound. `#paid` `#animation`
 *   [LiveFaceSwap AI](https://livefaceswap.ai/) - Cloud-based live webcam transformations with face, outfit, and style references plus desktop virtual-camera output. `#paid`
 *   [LumiYing](https://lumiying.com/) - Generates videos and images from text and visual references using multiple AI models in one workspace. `#paid`
 

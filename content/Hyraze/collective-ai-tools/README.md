@@ -6,6 +6,24 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 13, 2026](/content/2026/09/13/README.md)
+
+### Developer Tools
+
+*   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
+
+### Image Generator
+
+*   [AI Image](https://aiimage.com) - Generate and edit images from text prompts and reference pictures in a browser. `#paid` `#design`
+
+### Resume
+
+*   [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) and AI resume builder; State of ATS 2026 (738 employers, Workday 37.9%). `#freemium`
+
+### Video
+
+*   [C2Anime](https://c2anime.com/) - AI Anime Agent that turns stories into animated short films with voices and sound. `#paid` `#animation`
+
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Developer Tools

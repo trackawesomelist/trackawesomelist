@@ -587,6 +587,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [zml (⭐4k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 *   [Zigrad (⭐196)](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 *   [SilasMarvin/dnns-from-scratch-in-zig (⭐80)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
+*   [myzonerocks/gosslens (⭐7)](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
 
 ### Large Language Model
 

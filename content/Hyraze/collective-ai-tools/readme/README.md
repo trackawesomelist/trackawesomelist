@@ -468,6 +468,7 @@ Use these hashtags in search to filter out the tools
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
 *   [OpenCode (⭐203k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
 *   [Quest AI](https://www.quest.ai/) - Intelligent Q\&A and info retrieval for dev. `#freemium`
@@ -743,6 +744,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
 *   [Adobe Firefly 3](https://www.adobe.com/products/firefly.html) - Adobe's latest AI image generation with commercial-safe content `#freemium`
+*   [AI Image](https://aiimage.com) - Generate and edit images from text prompts and reference pictures in a browser. `#paid` `#design`
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `#freemium`
 *   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `#freemium`
 *   [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's latest image generation model with improved quality and safety `#freemium`
@@ -1024,6 +1026,7 @@ Use these hashtags in search to filter out the tools
 
 *   [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Free, open-source resume checker that scores your resume against a job description (0–100), flags missing ATS keywords, and runs fully in-browser so nothing is uploaded. `#free` `#opensource`
 *   [Resume Roaster](https://resume.roastlabai.com/) - AI-powered resume critique with ATS scoring and keyword gap analysis. Upload your resume, get brutally honest feedback on what a recruiter sees, and identify keyword gaps against any job description. `#freemium`
+*   [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) and AI resume builder; State of ATS 2026 (738 employers, Workday 37.9%). `#freemium`
 *   [CVExpert](https://cvexpert.com/) - Free, no-sign-up CV health and CV–job keyword checks that run in the browser without uploading or saving pasted text. `#free`
 *   [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day `#freemium`
 *   [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications `#freemium`
@@ -1115,6 +1118,7 @@ Use these hashtags in search to filter out the tools
 ## Video
 
 *   [AVCLabs](https://www.avclabs.com/) - 100% free automatic video background remover. `#free`
+*   [C2Anime](https://c2anime.com/) - AI Anime Agent that turns stories into animated short films with voices and sound. `#paid` `#animation`
 *   [Captions](https://www.captions.ai/) - AI creative studio application for creators. `#freemium`
 *   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 *   [Clipfly](https://www.clipfly.com/) - Integrated video generation and enhancement. `#freemium`
