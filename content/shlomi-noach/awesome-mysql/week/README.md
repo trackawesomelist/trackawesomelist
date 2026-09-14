@@ -6,16 +6,26 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ [Daily](/content/shlomi-noach/awesome-mysql/README.md) / Weekly / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Deployment
+
+*   [dbdeployer (⭐47)](https://github.com/ProxySQL/dbdeployer) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+
+### HA
+
+*   [Orchestrator (⭐55)](https://github.com/ProxySQL/orchestrator) - MySQL replication topology management and High Availability solution.
+
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### GUI
 
-*   [StackRender (⭐465)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
-*   [LibreDB Studio (⭐133)](https://github.com/libredb/libredb-studio) - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
+*   [StackRender (⭐540)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
+*   [LibreDB Studio (⭐404)](https://github.com/libredb/libredb-studio) - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
 
 ### Toolkits
 
-*   [sqlaxe (⭐8)](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
+*   [sqlaxe (⭐9)](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -27,7 +37,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### GUI
 
-*   [TablePro (⭐5.5k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+*   [TablePro (⭐5.9k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -37,7 +47,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### GUI
 
-*   [squix (⭐266)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
+*   [squix (⭐268)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -53,7 +63,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Backup
 
-*   [Portabase (⭐1.6k)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
+*   [Portabase (⭐1.7k)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ### Connectors
 
@@ -61,37 +71,37 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Security
 
-*   [myanon (⭐124)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+*   [myanon (⭐127)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 
 ### Toolkits
 
-*   [sql-splitter (⭐13)](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
+*   [sql-splitter (⭐16)](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
 
 ### Incubating
 
-*   [VillageSQL (⭐167)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
+*   [VillageSQL (⭐179)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Benchmarking
 
-*   [HammerDB (⭐775)](https://github.com/TPC-Council/HammerDB) - An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.
+*   [HammerDB (⭐786)](https://github.com/TPC-Council/HammerDB) - An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.
 
 ### Server
 
-*   [MyVector (⭐24)](https://github.com/askdba/myvector) - Native vector search plugin for MySQL, shipped as a server plugin.
+*   [MyVector (⭐27)](https://github.com/askdba/myvector) - Native vector search plugin for MySQL, shipped as a server plugin.
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Backup
 
-*   [Databasus (⭐7.9k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐8.4k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### MCP
 
-*   [MySQL MCP Server (⭐39)](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
+*   [MySQL MCP Server (⭐42)](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
 *   [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
 ### Toolkits
@@ -102,7 +112,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### MCP
 
-*   [MCP MariaDB Server (⭐189)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+*   [MCP MariaDB Server (⭐202)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -114,13 +124,13 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Connectors
 
-*   [wtx (⭐394)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
+*   [wtx (⭐400)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
 ### Connectors
 
-*   [ballerinax/mysql (⭐111)](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
+*   [ballerinax/mysql (⭐110)](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
@@ -132,11 +142,11 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Connectors
 
-*   [MyZql (⭐74)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [MyZql (⭐75)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
 ### Deployment
 
-*   [MariaDB4j (⭐899)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
+*   [MariaDB4j (⭐900)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 
 ## [Jun 03 - Jun 09, 2024](/content/2024/23/README.md)
 
@@ -148,13 +158,13 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [DBD::MariaDB (⭐41)](https://github.com/perl5-dbi/DBD-MariaDB) - MariaDB and MySQL driver for the Perl5 Database Interface.
 *   [DBD::mysql (⭐67)](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface.
-*   [MariaDB Connector/J (⭐359)](https://github.com/mariadb-corporation/mariadb-connector-j) - LGPL-licensed MariaDB Client Library for Java Applications.
+*   [MariaDB Connector/J (⭐364)](https://github.com/mariadb-corporation/mariadb-connector-j) - LGPL-licensed MariaDB Client Library for Java Applications.
 *   [MySQL C API](https://dev.mysql.com/downloads/c-api/) - Official C driver for MySQL.
-*   [MySQL Connector/C++ (⭐707)](https://github.com/mysql/mysql-connector-cpp) - Official C/C++ driver for MySQL.
+*   [MySQL Connector/C++ (⭐708)](https://github.com/mysql/mysql-connector-cpp) - Official C/C++ driver for MySQL.
 *   [MySQL Connector/J (⭐1k)](https://github.com/mysql/mysql-connector-j) - a standardized database driver for the Java platforms and development.
 *   [MySQL Connector/NET (⭐333)](https://github.com/mysql/mysql-connector-net) - a standardized database driver for .Net platforms and development.
 *   [MySQL Connector/Node.js (⭐160)](https://github.com/mysql/mysql-connector-nodejs) - Official Node.js driver for MySQL.
-*   [MySQL Connector/Python (⭐958)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
+*   [MySQL Connector/Python (⭐957)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
 *   [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 
 ### Development
@@ -167,19 +177,18 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### GUI
 
 *   [Adminer (⭐7.8k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-*   [DBeaver (⭐51k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+*   [DBeaver (⭐52k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
 *   [HeidiSQL (⭐6.2k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 *   [MySQL Shell (⭐222)](https://github.com/mysql/mysql-shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
-*   [MySQL Workbench (⭐995)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
+*   [MySQL Workbench (⭐999)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 *   [OmniDB: Web tool for database management (⭐3.3k)](https://github.com/OmniDB/OmniDB)
 *   [Percona Monitoring and Management (⭐1.1k)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
 *   [phpMyAdmin (⭐7.9k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 
 ### HA
 
-*   [Galera Cluster (⭐497)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
-*   [mha4mysql-node (⭐409)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-*   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
+*   [Galera Cluster (⭐499)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
+*   [mha4mysql-node (⭐407)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
 
 ### Server
 
@@ -206,7 +215,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [Dumpling (⭐40k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 *   [MyDumper (⭐3.2k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
-*   [Percona Xtrabackup (⭐1.5k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+*   [Percona Xtrabackup (⭐1.6k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ### Benchmarking
 
@@ -214,7 +223,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Binlog-Replication
 
-*   [DM (⭐462)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+*   [DM (⭐464)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 
 ### Connectors
 
@@ -223,7 +232,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### GUI
 
 *   [SQLyog Community edition (⭐2.3k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-*   [WebDB (⭐334)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
+*   [WebDB (⭐333)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ### Proxy
 
@@ -281,7 +290,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### Binlog-Replication
 
 *   [Kingbus (⭐892)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐380)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [mysql-ripple (⭐379)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [Jan 28 - Feb 03, 2019](/content/2019/4/README.md)
 
@@ -295,9 +304,9 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [Anemometer (⭐1.4k)](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 *   [innodb-ruby (⭐1.8k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
-*   [innotop (⭐803)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+*   [innotop (⭐802)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 *   [MySQL Explain Analyzer (⭐98)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
-*   [mysql-statsd (⭐101)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
+*   [mysql-statsd (⭐102)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 *   [pstop (⭐211)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 
 ### Benchmarking
@@ -322,17 +331,17 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Development
 
-*   [Shift (⭐738)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+*   [Shift (⭐737)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 
 ### GUI
 
 *   [mycli (⭐12k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [Ocelot GUI (⭐63)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
+*   [Ocelot GUI (⭐64)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 *   [pspg (⭐2.7k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 
 ### HA
 
-*   [replication-manager (⭐737)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
+*   [replication-manager (⭐741)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
 ### Proxy
 
@@ -340,7 +349,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Schema
 
-*   [common\_schema (⭐127)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+*   [common\_schema (⭐126)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
 *   [sys (⭐827)](https://github.com/mysql/mysql-sys) (archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See [sys schema docs](https://dev.mysql.com/doc/refman/8.4/en/sys-schema.html)
 
 ### Security
@@ -349,7 +358,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Server
 
-*   [MariaDB (⭐8.1k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
+*   [MariaDB (⭐8.2k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 *   [MySQL Server & MySQL Cluster (⭐12k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 *   [TiDB (⭐40k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 

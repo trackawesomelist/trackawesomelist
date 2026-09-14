@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/writing-resources/awesome-scientific-writing/week/README.md) / [Overview](/content/writing-resources/awesome-scientific-writing/readme/README.md) ]
 
+## [Sep 14, 2026](/content/2026/09/14/README.md)
+
+### Bibliography
+
+*   [citecheck (⭐3)](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
+
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
 ### Bibliography
@@ -171,7 +177,7 @@
 
 ### Word Processors
 
-*   [R Studio (⭐5k)](https://github.com/rstudio/rstudio) - IDE for R.
+*   [R Studio (⭐5.1k)](https://github.com/rstudio/rstudio) - IDE for R.
     *   [bookdown (⭐4.1k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
     *   [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 *   [Zettlr](https://www.zettlr.com/) - Markdown editor which

@@ -37,7 +37,7 @@ document**.
 ## Word Processors
 
 *   [Marktext (⭐61k)](https://github.com/marktext/marktext) - Markdown text editor.
-*   [R Studio (⭐5k)](https://github.com/rstudio/rstudio) - IDE for R.
+*   [R Studio (⭐5.1k)](https://github.com/rstudio/rstudio) - IDE for R.
     *   [bookdown (⭐4.1k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
     *   [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 *   [Vim](https://www.vim.org/) - Command line text editor.
@@ -61,6 +61,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 *   [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
     repository with over 9000 free CSL citation styles and an online
     editor to create new ones.
+*   [citecheck (⭐3)](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
 *   [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 *   [ScholarRef (⭐1)](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
     (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
