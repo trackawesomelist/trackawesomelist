@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.6K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.5K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -13,12 +13,12 @@
 > A curated list of awesome and free educational resources that focuses on learn by doing.
 
 <div align="center">
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://github.com/brootware/awesome-cyber-security-university/raw/main/assets/purpleteam.png" width="250"/></a>
+<a href="https://brootware.Github.io/awesome-cyber-security-university/"><img src="https://github.com/brootware/awesome-cyber-security-university/raw/main/assets/purpleteam.png" width="250"/></a>
 <br/>
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.Github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a> <a href="https://github.com/brootware/awesome-cyber-security-university/actions/workflows/ci.yml"><img src="https://github.com/brootware/awesome-cyber-security-university/actions/workflows/ci.yml/badge.svg?branch=main" /></a>
 
 </div>
 
@@ -57,7 +57,7 @@ There are 6 parts to this.
 
 <!--lint disable double-link-->
 
-As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
+As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://Github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
 
 <!--lint disable double-link-->
 
@@ -67,7 +67,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐2.6k)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐3.5k)](https://Github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 
@@ -82,7 +82,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Linux Fundamentals 2](https://tryhackme.com/room/linuxfundamentalspart2) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 *   [Linux Fundamentals 3](https://tryhackme.com/room/linuxfundamentalspart3) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 *   [Pentesting fundamentals](https://tryhackme.com/room/pentestingfundamentals) - Fundamentals of penetration testing.
-*   [Principles of security](https://tryhackme.com/room/principlesofsecurity) - Principles of security.
+*   [Principles of security](https://tryhackme.com/room/principlesofsecurity) - Learn the principles of information security that secures data and protects systems from abuse.
 *   [Red Team Engagements](https://tryhackme.com/room/redteamengagements) - Intro to red team engagements.
 *   [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 *   [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
@@ -133,7 +133,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Agent Sudo](https://tryhackme.com/room/agentsudoctf) - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
 *   [The Cod Caper](https://tryhackme.com/room/thecodcaper) - A guided room taking you through infiltrating and exploiting a Linux system.
 *   [Ice](https://tryhackme.com/room/ice) - Deploy & hack into a Windows machine, exploiting a very poorly secured media server.
-*   [Lazy Admin](https://tryhackme.com/room/lazyadmin) - Easy linux machine to practice your skills.
+*   [Lazy Admin](https://tryhackme.com/room/lazyadmin) - Easy Linux machine to practice your skills.
 *   [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - This is a machine that allows you to practice web app hacking and privilege escalation.
 *   [Bypassing UAC](https://tryhackme.com/room/bypassinguac) - Learn common ways to bypass User Account Control (UAC) in Windows hosts.
 
@@ -151,7 +151,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit) - Can you hack into the Year of the Rabbit box without falling down a hole.
 *   [DevelPy](https://tryhackme.com/room/bsidesgtdevelpy) - Boot2root machine for FIT and bsides Guatemala CTF.
 *   [Jack of all trades](https://tryhackme.com/room/jackofalltrades) - Boot-to-root originally designed for Securi-Tay 2020.
-*   [Bolt](https://tryhackme.com/room/bolt) - Bolt themed machine to root into.
+*   [Bolt](https://tryhackme.com/room/bolt) - A boot to root Bolt themed machine.
 
 <!--lint disable double-link-->
 
@@ -185,12 +185,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Capture the flag](https://tryhackme.com/room/c4ptur3th3fl4g) - Another beginner-level CTF challenge.
 *   [Pickle Rick](https://tryhackme.com/room/picklerick) -  Rick and Morty themed LFI challenge.
 
-> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
+> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or Git profile. You can continue doing the below CTFs.
 
 <details>
   <summary>Click here to get your red team badge!</summary>
 
-<https://gist.github.com/brootware/e30a10dbccf334eb95da7ea59d6f87fe>
+<https://gist.Github.com/brootware/e30a10dbccf334eb95da7ea59d6f87fe>
 
 </details>
 
@@ -202,14 +202,14 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 1 - Tools
 
-*   [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
+*   [Introduction to diGital forensics](https://tryhackme.com/room/introdiGitalforensics) - Intro to DiGital Forensics.
 *   [Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals1xbx) -  Intro to Windows.
 *   [Nessus](https://tryhackme.com/room/rpnessusredux) - Intro to nessus scan.
 *   [Mitre](https://tryhackme.com/room/mitre) -  Intro to Mitre attack framework.
 *   [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
 *   [Yara](https://tryhackme.com/room/yara) -  Intro to yara for malware analysis.
 *   [OpenVAS](https://tryhackme.com/room/openvas) - Intro to openvas.
-*   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  Intro to honeypots.
+*   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  A guided room covering the deployment of honeypots and analysis of botnet activities.
 *   [Volatility](https://cyberdefenders.org/blueteam-ctf-challenges/redline/) - Intro to memory analysis with volatility.
 *   [Red Line](https://tryhackme.com/room/btredlinejoxr3d) - Learn how to use Redline to perform memory analysis and scan for IOCs on an endpoint.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
@@ -220,18 +220,14 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 2 - Security Operations, Incident Response & Threat Hunting
 
-*   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - Investigating Windows.
+*   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done.
 *   [Juicy Details](https://tryhackme.com/room/juicydetails) - A popular juice shop has been breached! Analyze the logs to see what had happened.
 *   [Carnage](https://tryhackme.com/room/c2carnage) - Apply your analytical skills to analyze the malicious network traffic using Wireshark.
-*   [Squid Game](https://tryhackme.com/room/squidgameroom) - Squid game-themed CTF.
+*   [Squid Game](https://tryhackme.com/room/squidgameroom) - A CTF room with Squid Game theme.
 *   [Splunk Boss of the SOC V1](https://tryhackme.com/room/bpsplunk) - Part of the Blue Primer series, learn how to use Splunk to search through massive amounts of information.
 *   [Splunk Boss of the SOC V2](https://cyberdefenders.org/blueteam-ctf-challenges/16) - Splunk analysis vol 2.
 *   [Splunk Boss of the SOC V3](https://cyberdefenders.org/blueteam-ctf-challenges/8) - Splunk analysis vol 3.
 *   [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
-*   [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Execution (TA0002).
-*   [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Credential Access (TA0006).
-*   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
-*   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
 
 <!--lint disable double-link-->
 
@@ -284,12 +280,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [JVM reverse engineering](https://tryhackme.com/room/jvmreverseengineering) - Learn Reverse Engineering for Java Virtual Machine bytecode.
 *   [Get PDF (Malicious Document)](https://cyberdefenders.org/blueteam-ctf-challenges/47) - Reversing PDF malware.
 
-> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
+> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or Git profile. You can continue doing the below CTFs.
 
 <details>
  <summary>Click here to get your blue team badge!</summary>
 
-<https://gist.github.com/brootware/62b76a84aaa8d6f55c82f6f329ad6d2d>
+<https://gist.Github.com/brootware/62b76a84aaa8d6f55c82f6f329ad6d2d>
 
 </details>
 
@@ -303,12 +299,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Natas](https://overthewire.org/wargames/natas/) - Teaches the basics of serverside web-security.
 *   [Post Exploitation Basics](https://tryhackme.com/room/postexploit) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
 *   [Smag Grotto](https://tryhackme.com/room/smaggrotto) - An obsecure boot to root machine.
-*   [Dogcat](https://tryhackme.com/room/dogcat) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
+*   [Dogcat](https://tryhackme.com/room/dogcat) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a Docker container.
 *   [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep) - Practice stack-based buffer overflows.
 *   [Break out the cage](https://tryhackme.com/room/breakoutthecage1) - Help Cage bring back his acting career and investigate the nefarious going on of his agent.
 *   [Lian Yu](https://tryhackme.com/room/lianyu) - A beginner-level security challenge.
 *   [Insecure Kubernetes](https://tryhackme.com/room/insekube) - Exploiting Kubernetes by leveraging a Grafana LFI vulnerability.
-*   [The Great Escape (docker)](https://tryhackme.com/room/thegreatescape) - Escaping docker container.
+*   [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape) - Escaping Docker container.
 *   [Solr Exploiting Log4j](https://tryhackme.com/room/solar) - Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.
 *   [Spring4Shell](https://tryhackme.com/room/spring4shell) - Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework.
 *   [Most Recent threats](https://tryhackme.com/module/recent-threats) - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
@@ -360,13 +356,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Special thanks to everyone who forked or starred the repository ❤️
+Special thanks to everyone who forked or starred the repository ❤️!
 
-[![Stargazers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/stars/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/stargazers)
-
-[![Forkers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/forks/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/network/members)
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
@@ -376,8 +368,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <table>
   <tr>
-    <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Documentation">📖</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Code">💻</a></td>
-    <td align="center"><a href="https://lucidcode.com"><img src="https://avatars.githubusercontent.com/u/1631870?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Paul Coder</b></sub></a><br /><a href="https://github.com/brootware/cyber-security-university/commits?author=IAmCoder" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://brootware.Github.io"><img src="https://avatars.Githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://Github.com/brootware/cyber-security-university/commits?author=brootware" title="Documentation">📖</a> <a href="https://Github.com/brootware/cyber-security-university/commits?author=brootware" title="Code">💻</a></td>
+    <td align="center"><a href="https://lucidcode.com"><img src="https://avatars.Githubusercontent.com/u/1631870?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Paul Coder</b></sub></a><br /><a href="https://Github.com/brootware/cyber-security-university/commits?author=IAmCoder" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -387,7 +379,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors (⭐8k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the [all-contributors (⭐8.1k)](https://Github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 <!--lint disable double-link-->
 

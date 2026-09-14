@@ -2,9 +2,44 @@
 
 A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 979 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 990 · 🏷️ Security
 
 [ Daily / [Weekly](/content/cpuu/awesome-fuzzing/week/README.md) / [Overview](/content/cpuu/awesome-fuzzing/readme/README.md) ]
+
+## [Sep 14, 2026](/content/2026/09/14/README.md)
+
+### Papers / The Network and Distributed System Security Symposium (NDSS)
+
+*   [ADGFUZZ: Assignment Dependency-Guided Fuzzing for Robotic Vehicles, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1014-paper.pdf)
+*   [An LLM-Driven Fuzzing Framework for Detecting Logic Instruction Bugs in PLCs, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f1081-paper.pdf)
+*   [BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f94-paper.pdf)
+*   [DOM-XSS Detection via Webpage Interaction Fuzzing and URL Component Synthesis, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1467-paper.pdf)
+*   [FirmAgent: Leveraging Fuzzing to Assist LLM Agents with IoT Firmware Vulnerability Discovery, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1943-paper.pdf)
+*   [Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1486-paper.pdf)
+*   [GoldenFuzz: Generative Golden Reference Hardware Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1663-paper.pdf)
+*   [HyperMirage: Direct State Manipulation in Hybrid Virtual CPU Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1763-paper.pdf)
+*   [MUTATO: Enhancing Fuzz Drivers with Adaptive API Option Mutation, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s820-paper.pdf)
+*   [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf)
+*   [PortRush: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f587-paper.pdf)
+*   [ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f118-paper.pdf)
+*   [RTCON: Context-Adaptive Function-Level Fuzzing for RTOS Kernels, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f1600-paper.pdf)
+
+### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
+
+*   [Batch Me If You Can: Coverage-guided RPKI Fuzzing at Scale, 2026](https://doi.org/10.1109/sp63933.2026.00188)
+*   [Camveil: Unveiling Security Camera Vulnerabilities through Multi-Protocol Coordinated Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00002)
+*   [deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses, 2026](https://doi.org/10.1109/sp63933.2026.00060)
+*   [Fizzle: A Framework for Deterministic and Reproducible Network Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00091)
+*   [Fuzzing the Physical Space: Physics-Aware Testing of Black-Box Industrial Control Systems, 2026](https://doi.org/10.1109/sp63933.2026.00178)
+*   [Jazzer: Coverage-Guided Fuzzing for Semantic Vulnerabilities in the Java Ecosystem, 2026](https://doi.org/10.1109/sp63933.2026.00134)
+*   [PILOT: Command-line Interface Fuzzing via Path-Guided, Iterative Large Language Model Prompting, 2026](https://doi.org/10.1109/sp63933.2026.00211)
+*   [SmuFuzz: Enable Deep System Management Mode Fuzzing in Fully Featured UEFI Runtime Environment, 2026](https://doi.org/10.1109/sp63933.2026.00011)
+*   [Specializing Language Models for Textual Fuzzing via Reinforcement Learning, 2026](https://doi.org/10.1109/sp63933.2026.00184)
+*   [StepStone: LLM-Based GPU Kernel Driver Fuzzing via User-Space Libraries, 2026](https://doi.org/10.1109/sp63933.2026.00124)
+*   [Stop Starving or Stuffing Me: Boosting Firmware Fuzzing Efficiency with On-demand Input Delivery, 2026](https://doi.org/10.1109/sp63933.2026.00155)
+*   [TrigFuzz: Triggering Conditions Guided Directed Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00156)
+*   [Web Application Vulnerability Repair via Context-Aware Fault Localization and Directed Differential Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00237)
+*   [zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits, 2026](https://doi.org/10.1109/sp63933.2026.00049)
 
 ## [Jul 09, 2026](/content/2026/07/09/README.md)
 
@@ -16,7 +51,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / API
 
-*   [WuppieFuzz (⭐213)](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL.
+*   [WuppieFuzz (⭐226)](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL.
 
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
@@ -174,17 +209,17 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Kernel
 
-*   [ACTOR (⭐40)](https://github.com/ucsb-seclab/actor) (2023) - An action-guided kernel fuzzing framework that generates inputs leveraging triggered actions and their temporal relationships.
-*   [NTFuzz (⭐112)](https://github.com/SoftSec-KAIST/NTFuzz) (2021) - A type-aware Windows kernel fuzzer that statically analyzes system binaries to infer system call types for more effective fuzzing.
+*   [ACTOR (⭐42)](https://github.com/ucsb-seclab/actor) (2023) - An action-guided kernel fuzzing framework that generates inputs leveraging triggered actions and their temporal relationships.
+*   [NTFuzz (⭐113)](https://github.com/SoftSec-KAIST/NTFuzz) (2021) - A type-aware Windows kernel fuzzer that statically analyzes system binaries to infer system call types for more effective fuzzing.
 *   [KRACE (⭐32)](https://github.com/sslab-gatech/krace) (2020) - A coverage-guided fuzzing framework that detects data races in kernel file systems by exploring concurrency through multi-threaded syscall sequences.
 *   [Razzer (⭐377)](https://github.com/compsec-snu/razzer) (2019) - A kernel fuzzer that uses static analysis and two-phase fuzzing to detect race conditions and concurrency bugs in Linux kernels.
-*   [Hydra (⭐175)](https://github.com/sslab-gatech/hydra) (2019) - A fuzzing framework for automatically discovering semantic bugs in file systems using input mutators, feedback engines, and customizable checkers.
-*   [Janus (⭐236)](https://github.com/sslab-gatech/janus) (2019) - A file system fuzzer that finds memory corruptions in Linux kernel file systems by mutating both filesystem images and syscall sequences simultaneously.
-*   [DIFUZE (⭐386)](https://github.com/ucsb-seclab/difuze) (2017) - An interface-aware fuzzer for Linux kernel drivers that automatically recovers ioctl interfaces via LLVM analysis and generates targeted test cases.
+*   [Hydra (⭐178)](https://github.com/sslab-gatech/hydra) (2019) - A fuzzing framework for automatically discovering semantic bugs in file systems using input mutators, feedback engines, and customizable checkers.
+*   [Janus (⭐238)](https://github.com/sslab-gatech/janus) (2019) - A file system fuzzer that finds memory corruptions in Linux kernel file systems by mutating both filesystem images and syscall sequences simultaneously.
+*   [DIFUZE (⭐385)](https://github.com/ucsb-seclab/difuze) (2017) - An interface-aware fuzzer for Linux kernel drivers that automatically recovers ioctl interfaces via LLVM analysis and generates targeted test cases.
 *   [IMF (⭐112)](https://github.com/SoftSec-KAIST/IMF) (2017) - A kernel API fuzzer that leverages automated API model inference to discover vulnerabilities in macOS kernel APIs.
-*   [kAFL (⭐593)](https://github.com/rub-syssec/kafl) (2017) - A hardware-assisted x86-64 VM kernel fuzzing framework with performant VM reloads for finding OS kernel vulnerabilities.
+*   [kAFL (⭐595)](https://github.com/rub-syssec/kafl) (2017) - A hardware-assisted x86-64 VM kernel fuzzing framework with performant VM reloads for finding OS kernel vulnerabilities.
 *   [syzkaller (⭐6.3k)](https://github.com/google/syzkaller) (2015) - An unsupervised coverage-guided kernel fuzzer supporting FreeBSD, Fuchsia, gVisor, Linux, NetBSD, OpenBSD, and Windows.
-*   [Trinity (⭐905)](https://github.com/kernelslacker/trinity) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
+*   [Trinity (⭐910)](https://github.com/kernelslacker/trinity) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
 
 ## [Nov 20, 2023](/content/2023/11/20/README.md)
 
@@ -199,10 +234,10 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / CPU
 
-*   [DifuzzRTL (⭐103)](https://github.com/compsec-snu/difuzz-rtl) - A differential fuzz testing approach for CPU verification.
+*   [DifuzzRTL (⭐101)](https://github.com/compsec-snu/difuzz-rtl) - A differential fuzz testing approach for CPU verification.
 *   [MorFuzz (⭐52)](https://github.com/sycuricon/MorFuzz) - A generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
 *   [SpecFuzz (⭐32)](https://github.com/tudinfse/SpecFuzz) - A tool to enable fuzzing for Spectre vulnerabilities.
-*   [Transynther (⭐19)](https://github.com/vernamlab/Medusa) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
+*   [Transynther (⭐20)](https://github.com/vernamlab/Medusa) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 
 ### Tools / Web
 
@@ -213,18 +248,18 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 ### Tools / Blockchain
 
 *   [Fluffy (⭐62)](https://github.com/snuspl/fluffy) - A multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
-*   [LOKI (⭐21)](https://github.com/ConsensusFuzz/LOKI) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
+*   [LOKI (⭐20)](https://github.com/ConsensusFuzz/LOKI) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
 
 ### Tools / DBMS
 
-*   [Squirrel (⭐214)](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
+*   [Squirrel (⭐215)](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
 ### Tools / File
 
-*   [AFL++ (⭐6.6k)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL with more speed, more and better mutations, more and better instrumentation, and custom module support.
-*   [Angora (⭐953)](https://github.com/AngoraFuzzer/Angora) - A mutation-based coverage guided fuzzer that increases branch coverage by solving path constraints without symbolic execution.
+*   [AFL++ (⭐6.8k)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL with more speed, more and better mutations, more and better instrumentation, and custom module support.
+*   [Angora (⭐957)](https://github.com/AngoraFuzzer/Angora) - A mutation-based coverage guided fuzzer that increases branch coverage by solving path constraints without symbolic execution.
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 

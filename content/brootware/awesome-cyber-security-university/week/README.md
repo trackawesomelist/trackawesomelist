@@ -2,9 +2,19 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.6K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.5K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / Weekly / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Free Beginner Blue Team Path / Level 1 - Tools
+
+*   [Introduction to diGital forensics](https://tryhackme.com/room/introdiGitalforensics) - Intro to DiGital Forensics.
+
+### Bonus CTF practice and Latest CVEs / Level 5 - Malware and Reverse Engineering
+
+*   [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape) - Escaping Docker container.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -76,15 +86,6 @@
 
 *   [Bypassing UAC](https://tryhackme.com/room/bypassinguac) - Learn common ways to bypass User Account Control (UAC) in Windows hosts.
 
-## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
-
-### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
-
-*   [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Execution (TA0002).
-*   [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Credential Access (TA0006).
-*   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
-*   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
-
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Free Beginner Blue Team Path / Level 1 - Tools
@@ -129,7 +130,7 @@
 *   [Inclusion](https://tryhackme.com/room/inclusion) - A beginner-level LFI challenge.
 *   [Juiceshop](https://tryhackme.com/room/owaspjuiceshop) - This room uses the OWASP juice shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
 *   [Jack of all trades](https://tryhackme.com/room/jackofalltrades) - Boot-to-root originally designed for Securi-Tay 2020.
-*   [Bolt](https://tryhackme.com/room/bolt) - Bolt themed machine to root into.
+*   [Bolt](https://tryhackme.com/room/bolt) - A boot to root Bolt themed machine.
 
 ### Free Beginner Red Team Path / Level 5 - Reverse Engineering & Pwn
 
@@ -149,8 +150,8 @@
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
-*   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - Investigating Windows.
-*   [Squid Game](https://tryhackme.com/room/squidgameroom) - Squid game-themed CTF.
+*   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done.
+*   [Squid Game](https://tryhackme.com/room/squidgameroom) - A CTF room with Squid Game theme.
 
 ### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
@@ -184,12 +185,6 @@
 *   [Carpe Diem 1](https://tryhackme.com/room/carpediem1) - Recover your client's encrypted files before the ransomware timer runs out.
 *   [EnterPrize](https://tryhackme.com/room/enterprize) - Enterprise-themed network to hack into.
 
-## [May 23 - May 29, 2022](/content/2022/21/README.md)
-
-### Free Beginner Blue Team Path / Level 1 - Tools
-
-*   [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
-
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
@@ -200,7 +195,7 @@
 *   [Linux Fundamentals 2](https://tryhackme.com/room/linuxfundamentalspart2) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 *   [Linux Fundamentals 3](https://tryhackme.com/room/linuxfundamentalspart3) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 *   [Pentesting fundamentals](https://tryhackme.com/room/pentestingfundamentals) - Fundamentals of penetration testing.
-*   [Principles of security](https://tryhackme.com/room/principlesofsecurity) - Principles of security.
+*   [Principles of security](https://tryhackme.com/room/principlesofsecurity) - Learn the principles of information security that secures data and protects systems from abuse.
 *   [Red Team Engagements](https://tryhackme.com/room/redteamengagements) - Intro to red team engagements.
 *   [Google Dorking](https://tryhackme.com/room/googledorking) - Explaining how Search Engines work and leveraging them into finding hidden content!
 
@@ -220,7 +215,7 @@
 *   [Agent Sudo](https://tryhackme.com/room/agentsudoctf) - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
 *   [The Cod Caper](https://tryhackme.com/room/thecodcaper) - A guided room taking you through infiltrating and exploiting a Linux system.
 *   [Ice](https://tryhackme.com/room/ice) - Deploy & hack into a Windows machine, exploiting a very poorly secured media server.
-*   [Lazy Admin](https://tryhackme.com/room/lazyadmin) - Easy linux machine to practice your skills.
+*   [Lazy Admin](https://tryhackme.com/room/lazyadmin) - Easy Linux machine to practice your skills.
 
 ### Free Beginner Red Team Path / Level 4 - Web
 
@@ -254,7 +249,7 @@
 *   [Mitre](https://tryhackme.com/room/mitre) -  Intro to Mitre attack framework.
 *   [Yara](https://tryhackme.com/room/yara) -  Intro to yara for malware analysis.
 *   [OpenVAS](https://tryhackme.com/room/openvas) - Intro to openvas.
-*   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  Intro to honeypots.
+*   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  A guided room covering the deployment of honeypots and analysis of botnet activities.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
@@ -298,9 +293,8 @@
 *   [Bandit](https://overthewire.org/wargames/bandit/) - Aimed at absolute beginners and teaches the basics of remote server access.
 *   [Natas](https://overthewire.org/wargames/natas/) - Teaches the basics of serverside web-security.
 *   [Post Exploitation Basics](https://tryhackme.com/room/postexploit) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
-*   [Dogcat](https://tryhackme.com/room/dogcat) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
+*   [Dogcat](https://tryhackme.com/room/dogcat) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a Docker container.
 *   [Insecure Kubernetes](https://tryhackme.com/room/insekube) - Exploiting Kubernetes by leveraging a Grafana LFI vulnerability.
-*   [The Great Escape (docker)](https://tryhackme.com/room/thegreatescape) - Escaping docker container.
 *   [Solr Exploiting Log4j](https://tryhackme.com/room/solar) - Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.
 *   [Spring4Shell](https://tryhackme.com/room/spring4shell) - Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework.
 *   [Most Recent threats](https://tryhackme.com/module/recent-threats) - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
