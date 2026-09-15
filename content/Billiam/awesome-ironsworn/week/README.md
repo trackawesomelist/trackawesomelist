@@ -2,9 +2,15 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 189 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 194 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Hacks and homebrew / Starforged
+
+*   [Ironsworn: Aura & Iron](https://chimeric-grove.itch.io/ironsworn-aura-and-iron) - Powerful abilities and combat mechanics for Ironsworn
 
 ## [Aug 03 - Aug 09, 2026](/content/2026/31/README.md)
 
@@ -498,7 +504,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Starforged
 
-*   [isscrolls (⭐31)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐32)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 
 ### Hacks and homebrew / Starforged
 
@@ -550,8 +556,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Starforged
 
-*   [DataForged (⭐217)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐161)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐220)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐166)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 

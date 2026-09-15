@@ -6,6 +6,231 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Cryptocurrency
+
+- API: [HostDeFi](https://hostdefi.com/docs/api/)
+
+  Description: Free A+–F token-safety grades across Solana and EVM chains
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [The Coin Analysis](https://www.thecoinanalysis.com/developers)
+
+  Description: Live and historical cryptocurrency prices, market caps, volatility and drawdown
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Aether Bridge](https://a-to-mind.com)
+
+  Description: Autonomous agent team management and API workflow orchestration
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Renderwolf](https://ironfang.uk/renderwolf/docs)
+
+  Description: Screenshots, PDFs, dynamic images, QR codes and video from URLs or HTML
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Documents & Productivity
+
+- API: [FaturaPDF](https://rapidapi.com/leosanchees2014/api/brazilian-invoice-receipt-pdf-api-cpf-cnpj)
+
+  Description: Generate Brazilian invoice/receipt PDFs with checksum-validated CPF/CNPJ and PIX QR
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Email
+
+- API: [Email Validator by LifeStep](https://email.lifestep.io)
+
+  Description: Validate email syntax and MX, detect disposable/role addresses, suggest typo fixes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [RankFabrik Verify](https://rankfabrik.com/produits/verification)
+
+  Description: Validate email addresses for deliverability, syntax and disposable detection
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Environment
+
+- API: [GridHub](https://grid-hub.app/developers)
+
+  Description: Live wholesale electricity prices and demand across 25 grid zones
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Banking Access Index](https://www.globalsolo.global/data/banking-access-index)
+
+  Description: Which US business banking providers accept founders by country of residence, with sources
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Drillr](https://drillr.ai/docs/api)
+
+  Description: Fundamentals, filings, earnings, ownership and events for US, China and Japan equities
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Geocoding
+
+- API: [IP99](https://ip99.com/api)
+
+  Description: IP geolocation with proxy, VPN and datacenter risk and the age of the evidence
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [JobsPipe](https://docs.jobspipe.dev)
+
+  Description: Live job postings from 30+ ATS feeds and job boards in one normalized JSON schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Microburbs](https://www.microburbs.com.au/developers/api-docs)
+
+  Description: Australian property and suburb data: valuations, sales, rents, schools, demographics, risk, zoning
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Photography
+
+- API: [Kavel](https://kavel.readthedocs.io/)
+
+  Description: Generate and edit images with AI, no key or account required
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Shopping
+
+- API: [CartScout](https://rapidapi.com/veselinveselinov06/api/cartscout-api)
+
+  Description: Price, stock, variants and GTIN from Shopify, WooCommerce, Walmart and eBay product pages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Pangolinfo Amazon Data](https://docs.pangolinfo.com)
+
+  Description: Amazon product, review, search and Best Sellers data across 20+ marketplaces
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### URL Shorteners
+
+- API: [Lix.li](https://lix.li/api)
+
+  Description: URL shortener with analytics, QR codes, UTM tags and custom domains
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -749,20 +974,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
-
-
-
-### Environment
-
-- API: [gridcarbon](https://gridcarbon.dev)
-
-  Description: Hourly grid carbon intensity in gCO2eq/kWh for 45 zones in Europe, the US and Great Britain
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -5170,20 +5381,6 @@ A collective list of free APIs
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
-### Animals
-
-- API: [Cat Facts](https://catfact.ninja/)
-
-  Description: Random cat facts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Books
 
 - API: [Runyankole Bible](https://runyankole-bible-api.vercel.app)
@@ -6135,20 +6332,6 @@ A collective list of free APIs
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
-### Animals
-
-- API: [xeno-canto](https://xeno-canto.org/explore/api)
-
-  Description: Bird recordings
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Books
 
 - API: [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html)
@@ -6178,31 +6361,6 @@ A collective list of free APIs
 
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
-
-### Animals
-
-- API: [HTTP Cat](https://http.cat/)
-
-  Description: Cat for every HTTP Status
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [HTTP Dog](https://http.dog/)
-
-  Description: Dogs for every HTTP response status code
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Business
 
@@ -7678,20 +7836,6 @@ A collective list of free APIs
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
-### Animals
-
-- API: [MeowFacts (⭐549)](https://github.com/wh-iterabb-it/meowfacts)
-
-  Description: Get random cat facts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-
 ### Anime
 
 - API: [Trace Moe](https://soruly.github.io/trace.moe-api/#/)
@@ -7763,42 +7907,6 @@ A collective list of free APIs
 
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
-
-### Animals
-
-- API: [Axolotl](https://theaxolotlapi.netlify.app/)
-
-  Description: Collection of axolotl pictures and facts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-- API: [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59)
-
-  Description: Retrieve recent or notable birding observations within a region
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-- API: [FishWatch](https://www.fishwatch.gov/developers)
-
-  Description: Information and pictures about individual fish species
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Email
 
@@ -8507,31 +8615,6 @@ A collective list of free APIs
 
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
-
-### Animals
-
-- API: [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html)
-
-  Description: Resource to help get pets adopted
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Petfinder](https://www.petfinder.com/developers/)
-
-  Description: Petfinder is dedicated to helping pets find homes, another resource to get pets adopted
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Anime
 
@@ -10222,20 +10305,6 @@ A collective list of free APIs
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
-### Animals
-
-- API: [Dog Facts](https://kinduff.github.io/dog-api/)
-
-  Description: Random facts of Dogs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Anti-Malware
 
 - API: [MalDatabase](https://maldatabase.com/api-doc.html)
@@ -10829,75 +10898,6 @@ A collective list of free APIs
 
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
-
-### Animals
-
-- API: [Cataas](https://cataas.com/)
-
-  Description: Cat as a service (cats pictures and gifs)
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-- API: [Cats](https://docs.thecatapi.com/)
-
-  Description: Pictures of cats from Tumblr
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-- API: [Dog Facts](https://dukengn.github.io/Dog-facts-API/)
-
-  Description: Random dog facts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)
-
-  Description: IUCN Red List of Threatened Species
-
-  Auth: `apiKey`
-
-  HTTPS: No
-
-  CORS: No
-
-
-- API: [Movebank (⭐193)](https://github.com/movebank/movebank-api-doc)
-
-  Description: Movement and Migration data of animals
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [The Dog](https://thedogapi.com/)
-
-  Description: A public service all about Dogs, free to use when making your fancy new App, Website or Service
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
-
-
 
 ### Art & Design
 
@@ -14541,20 +14541,6 @@ A collective list of free APIs
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Animals
-
-- API: [RandomDuck](https://random-d.uk/api)
-
-  Description: Random pictures of ducks
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-
 ### Cloud Storage & File Sharing
 
 - API: [Web3 Storage](https://web3.storage/)
@@ -14809,20 +14795,6 @@ A collective list of free APIs
 
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
-
-### Animals
-
-- API: [PlaceBear](https://placebear.com/)
-
-  Description: Placeholder bear pictures
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Authentication & Authorization
 
@@ -16322,20 +16294,6 @@ A collective list of free APIs
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
-### Animals
-
-- API: [Shibe.Online](http://shibe.online/)
-
-  Description: Random pictures of Shiba Inu, cats or birds
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Development
 
 - API: [GETPing](https://www.getping.info)
@@ -16740,20 +16698,6 @@ A collective list of free APIs
 
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
-
-### Animals
-
-- API: [PlaceDog](https://place.dog)
-
-  Description: Placeholder Dog pictures
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Finance
 
@@ -19393,24 +19337,6 @@ A collective list of free APIs
 
 
 
-## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
-
-### Animals
-
-- API: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)
-
-  Description: Daily cat facts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-  : 
-
-
-
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
 ### Games & Comics
@@ -20216,53 +20142,6 @@ A collective list of free APIs
 
 
 ## [Sep 10 - Sep 16, 2018](/content/2018/37/README.md)
-
-### Animals
-
-- API: [Dogs](https://dog.ceo/dog-api/)
-
-  Description: Based on the Stanford Dogs Dataset
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [RandomDog](https://random.dog/woof.json)
-
-  Description: Random pictures of dogs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [RandomFox](https://randomfox.ca/floof/)
-
-  Description: Random pictures of foxes
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-- API: [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home)
-
-  Description: Adoption
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ### Anime
 

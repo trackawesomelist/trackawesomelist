@@ -2,7 +2,7 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4.1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4.9K · 🏷️ Learn
 
 [ [Daily](/content/karlhorky/learn-to-program/README.md) / [Weekly](/content/karlhorky/learn-to-program/week/README.md) / Overview ]
 
@@ -142,7 +142,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Udacity](https://www.udacity.com/)
 
-**Free** platform for computer science and web development courses\
+**Freemium** platform for computer science and web development courses\
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
@@ -154,6 +154,11 @@ This list aims to be a curated set of high quality educational resources. The av
 
 **Free** online book covering all stages of creating a Ruby on Rails application\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
+
+#### [The Concise TypeScript Book (⭐10k)](https://github.com/gibbok/typescript-book)
+
+**Free** open-source book covering TypeScript fundamentals through advanced concepts\
+*(TypeScript, JavaScript)*
 
 #### LinkedIn Learning: [Web Development](https://www.linkedin.com/learning/topics/web-development), [Web Design](https://www.linkedin.com/learning/topics/web-design)
 
@@ -237,7 +242,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [Awesome CS Courses (⭐57k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐71k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*

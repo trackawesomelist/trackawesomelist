@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
+### Applications / Productivity
+
+*   [jchultarsky/mirador (⭐305)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
+
 ### Applications / Video
 
 *   [tonhowtf/omniget (⭐12k)](https://github.com/tonhowtf/omniget) - A desktop app to download videos, courses, music and books from 1,800+ sites, with a built-in player, reader and study library. [![CI](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml)

@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gslog (⭐2)](https://github.com/maguro/gslog) - Google Cloud Logging handler for log/slog, with OpenTelemetry trace and baggage, and Kubernetes podinfo labels.
 
+### Third-party APIs
+
+*   [featureflip-go (⭐0)](https://github.com/canopy-labs/featureflip-go) - Go SDK for [Featureflip](https://featureflip.io/) feature flags, with local evaluation and streaming updates.
+
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
 *   [GopherFlow (⭐14)](https://github.com/RealZimboGuy/gopherflow) - Durable workflow engine with a built-in web console, backed by Postgres, MySQL or SQLite.

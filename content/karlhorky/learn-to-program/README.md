@@ -2,9 +2,18 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4.1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4.9K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/karlhorky/learn-to-program/week/README.md) / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
+
+## [Sep 15, 2026](/content/2026/09/15/README.md)
+
+### Intermediate
+
+#### [The Concise TypeScript Book (⭐10k)](https://github.com/gibbok/typescript-book)
+
+**Free** open-source book covering TypeScript fundamentals through advanced concepts\
+*(TypeScript, JavaScript)*
 
 ## [Oct 12, 2024](/content/2024/10/12/README.md)
 
@@ -277,7 +286,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 #### [Udacity](https://www.udacity.com/)
 
-**Free** platform for computer science and web development courses\
+**Freemium** platform for computer science and web development courses\
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
@@ -310,7 +319,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐57k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐71k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*

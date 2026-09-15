@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 15, 2026](/content/2026/09/15/README.md)
+
+### Third-party APIs
+
+*   [featureflip-go (⭐0)](https://github.com/canopy-labs/featureflip-go) - Go SDK for [Featureflip](https://featureflip.io/) feature flags, with local evaluation and streaming updates.
+
 ## [Sep 14, 2026](/content/2026/09/14/README.md)
 
 ### Goroutines

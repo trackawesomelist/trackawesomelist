@@ -2,9 +2,15 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 189 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 194 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Sep 15, 2026](/content/2026/09/15/README.md)
+
+### Hacks and homebrew / Starforged
+
+*   [Ironsworn: Aura & Iron](https://chimeric-grove.itch.io/ironsworn-aura-and-iron) - Powerful abilities and combat mechanics for Ironsworn
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
@@ -513,7 +519,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Starforged
 
-*   [isscrolls (⭐31)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐32)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 
 ## [Sep 13, 2021](/content/2021/09/13/README.md)
 
@@ -581,8 +587,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Starforged
 
-*   [DataForged (⭐217)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐161)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐220)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐166)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 
 ### Hacks and homebrew / Starforged
 

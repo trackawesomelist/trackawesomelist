@@ -6,6 +6,29 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Fundamentals / Utility
+
+*   [ktarasov/check\_links (⭐5)](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
+
+### Language Essentials / File Format Processing
+
+*   [pedronaugusto/strand (⭐0)](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
+
+### Systems Programming / Operating Systems
+
+*   [pedronaugusto/conduit (⭐0)](https://github.com/pedronaugusto/conduit) - Starts child processes and gives them pseudo-terminals, on a pty in their own session with a window size, or on pipes killed and reaped with a deadline. AI-assisted.
+*   [pedronaugusto/lookout (⭐0)](https://github.com/pedronaugusto/lookout) - A file-system watcher for Zig: one Watcher type over each platform's own notification interface, and a polling backend that needs nothing from the kernel. AI-assisted.
+
+### Data & Science / Database
+
+*   [pedronaugusto/chronicle (⭐0)](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
+
+### Multimedia & Graphics / Graphics Library
+
+*   [pedronaugusto/morse (⭐0)](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Fundamentals / Utility
