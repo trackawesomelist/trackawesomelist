@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 714 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 724 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -16,9 +16,9 @@ Awesome iOS Books helps developers find books for learning and deepening Apple p
 
 The list includes beginner-friendly books, advanced references, framework-specific guides, interview preparation. Entries link to official shop, publisher, author, or product pages where possible.
 
-|                                                                           Awesome                                                                           | Books |    Last updated   |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  215  | September 1, 2026 |
+|                                                                           Awesome                                                                           | Books |    Last updated    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  219  | September 15, 2026 |
 
 ## How to Find a Book
 
@@ -55,6 +55,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## iOS
 
+*   [*Exploring MusicKit and Apple Music API* by Rudrank Riyam](https://rudrank.gumroad.com/l/musickit)
+*   [*Profiling Swift Apps* by Mark Szymczyk](https://payhip.com/b/6Z4LG)
 *   [*Practical Tips for Junior iOS Developers* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/fjTSv)
 *   [*iOS 26 Programming for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-us/product/ios-26-programming-for-beginners-9781806023936)
 *   [*Beginning iPhone Development with SwiftUI* by Wallace Wang](https://link.springer.com/book/10.1007/978-1-4842-9541-0)
@@ -143,6 +145,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## SwiftUI
 
+*   [*SwiftUI Under Load* by Mike Salari](https://salari.dev/books/swiftui-under-load/)
 *   [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
 *   [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 *   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
@@ -253,6 +256,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Metal
 
+*   [*Master Photo and Video Editing with Metal* by Bogdan Redkin, Victor Yaskevich](https://link.springer.com/book/10.1007/979-8-8688-0832-6)
 *   [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
 *   [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
 *   [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
@@ -350,7 +354,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Contributing and License
 
-*   [See the guide (⭐715)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐724)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

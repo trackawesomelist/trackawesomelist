@@ -217,6 +217,20 @@ A collective list of free APIs
 
 
 
+### Sports & Fitness
+
+- API: [Parlay](https://parlay-api.com/docs)
+
+  Description: Real-time sports odds and player props from 45+ sportsbooks and sources across 90+ sports
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### URL Shorteners
 
 - API: [Lix.li](https://lix.li/api)

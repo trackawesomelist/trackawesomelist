@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Technical Demos
+
+*   [Water](https://marklundin.github.io/water/) - High fidelity water simulation with caustics.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Extensions and Utilities
@@ -24,7 +30,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / Browser Games
 
-*   [Quake (⭐8)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
+*   [Quake (⭐12)](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
 
 ### 3D Gaussian Splatting / YouTube Playables
 

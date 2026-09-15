@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [jgonmor16/hdlsnip.nvim (⭐2)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
+
 ### Utility / Cursorline
 
 *   [javanoo6/persist-toggle.nvim (⭐1)](https://github.com/javanoo6/persist-toggle.nvim) - Persistent registry for runtime toggle states and preferences.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Animation / CSV Files
 
 *   [josstei/whisk.nvim (⭐58)](https://github.com/josstei/whisk.nvim) - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
+
+### Code Runner / Quickfix
+
+*   [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
