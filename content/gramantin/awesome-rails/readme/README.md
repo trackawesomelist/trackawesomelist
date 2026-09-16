@@ -110,7 +110,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 *   [rails jobs on RubyJobBoard](https://www.rubyjobboard.com)
 
-> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job (⭐48k)](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
+> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job (⭐49k)](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
 [Back to top][link_toc]
 
@@ -310,7 +310,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [dgidb (⭐97)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐14k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
 *   [discourse (⭐48k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
-*   [docuseal (⭐18k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐19k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 *   [ekylibre (⭐489)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
 *   [eol (⭐61)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
@@ -330,7 +330,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [hackershare (⭐664)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
 *   [hashrobot (⭐48)](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
 *   [helpy (⭐2.5k)](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2). - [:earth\_africa:](https://helpy.io/)
-*   [hitobito (⭐477)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [hitobito (⭐478)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
 *   [hours (⭐1k)](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2).
 *   [human-essentials (⭐590)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 *   [inaturalist (⭐850)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
@@ -569,6 +569,7 @@ A curated list of awesome things related to Ruby on Rails
 ### DevTools
 
 *   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [ERB Snippets + View Audit for Rails](https://getreadystack.com/tools/erb-rails-view-snippets-audit) - Paste or open one .html.erb view and see every raw, html\_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in.
 *   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 *   [Optic (⭐1.5k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 *   [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.

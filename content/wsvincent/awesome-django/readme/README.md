@@ -119,6 +119,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-admin-sortable2 (⭐885)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 *   [django-admin-collaborator (⭐105)](https://github.com/brktrlw/django-admin-collaborator) - Add real-time user presence, edit locks, and chat to Django admin with Channels and Redis.
 *   [dj-control-room (⭐567)](https://github.com/django-control-room/dj-control-room) - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
+*   [django-admin-mcp (⭐18)](https://github.com/7tg/django-admin-mcp) - Expose admin-registered models to MCP clients (AI assistants like Claude): CRUD, admin actions, and history through your ModelAdmin classes, capped by Django permissions.
 
 ### Admin Themes
 
@@ -128,7 +129,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-semantic-admin (⭐183)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
 *   [django-jet-reboot (⭐496)](https://github.com/assem-ch/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 *   [django-baton (⭐995)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
-*   [django-unfold (⭐3.6k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
+*   [django-unfold (⭐3.7k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 *   [django-daisy (⭐363)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
 *   [django-smartbase-admin (⭐128)](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
@@ -152,7 +153,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-tastypie (⭐3.9k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 *   [drf-spectacular (⭐2.9k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 *   [django-webhook (⭐226)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
-*   [strawberry-django (⭐503)](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
+*   [strawberry-django (⭐504)](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
 
 <!--lint enable double-link-->
 
@@ -263,7 +264,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-maintenance-mode (⭐527)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 *   [django-freeze (⭐130)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 *   [django-nh3 (⭐43)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
-*   [Weblate (⭐6k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+*   [Weblate (⭐6.1k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 *   [Django-Classy-Doc (⭐51)](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.
 *   [iommi (⭐1.1k)](https://github.com/iommirocks/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
@@ -315,7 +316,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
 *   [Scout](https://scoutapm.com/docs/python/django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
 *   [django-silk (⭐5k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
-*   [py-spy (⭐15k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+*   [py-spy (⭐16k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 *   [pyinstrument (⭐8k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 *   [django-zeal (⭐208)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
 
@@ -435,12 +436,12 @@ Standalone tools that help in developing Django projects.
 *   [coveragepy (⭐3.4k)](https://github.com/coveragepy/coveragepy) - Code coverage measurement.
 *   [faker (⭐19k)](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 *   [pillow (⭐14k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
-*   [pytest (⭐14k)](https://github.com/pytest-dev/pytest/) - Testing framework.
+*   [pytest (⭐15k)](https://github.com/pytest-dev/pytest/) - Testing framework.
 *   [python-decouple (⭐3k)](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 *   [python-slugify (⭐1.6k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 *   [sentry-python (⭐2.2k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 *   [python-socketio (⭐4.4k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
-*   [Ruff (⭐49k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+*   [Ruff (⭐50k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ## Resources
 
@@ -451,7 +452,7 @@ Standalone tools that help in developing Django projects.
 *   [Project Website](https://www.djangoproject.com/) - Official Django website.
 *   [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 *   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
-*   [Source Code (⭐90k)](https://github.com/django/django/) - Hosted on GitHub.
+*   [Source Code (⭐91k)](https://github.com/django/django/) - Hosted on GitHub.
 
 ### Educational
 
@@ -610,13 +611,13 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 *   [Flagsmith (⭐6.5k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 *   [OpenContracts (⭐1.5k)](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 *   [Baserow (⭐5.8k)](https://github.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
-*   [Django CRM Admin (⭐615)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
+*   [Django CRM Admin (⭐625)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 *   [linkding (⭐11k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 *   [pythonic-news (⭐542)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 *   [Revel (⭐107)](https://github.com/letsrevel/revel-backend) - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
 *   [venueless (⭐225)](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
 *   [pretix (⭐2.5k)](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
-*   [pretalx (⭐938)](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
+*   [pretalx (⭐941)](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
 
 ## Django REST Framework
 

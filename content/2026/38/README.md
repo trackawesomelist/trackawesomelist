@@ -1,12 +1,93 @@
 # Awesome List Updates on Sep 21 - Sep 27, 2026
 
-36 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-mcp (⭐18)](https://github.com/7tg/django-admin-mcp) - Expose admin-registered models to MCP clients (AI assistants like Claude): CRUD, admin actions, and history through your ModelAdmin classes, capped by Django permissions.
+
+## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+
+### Tools
+
+*   [Extension.js (⭐5.2k)](https://github.com/extension-js/extension.js) - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Job Portal
+
+*   [Jobs in JS](https://jobsinjs.com/vue-developer-jobs/) - Vue.js developer jobs in the US, Canada and UK. Updated daily.
+
+### Projects Using Vue.js / Open Source
+
+*   [DentalPin (⭐78)](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
+
+### Components & Libraries / Frameworks
+
+*   [Vue Lynx](https://vue.lynxjs.org) - A Vue 3 custom renderer for [Lynx](https://lynxjs.org), rendering to native iOS and Android views and compiling to web from one codebase.
+*   [Vy UI](https://vyui.dev) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.
+*   [Bloggrify (⭐167)](https://github.com/bloggrify/bloggrify) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
+
+### Components & Libraries / UI Components
+
+*   [map-chart (⭐13)](https://github.com/noeGnh/map-chart) - Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.
+*   [icon-picker (⭐10)](https://github.com/noeGnh/icon-picker) component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).
+*   [vue-date-rail (⭐0)](https://github.com/devslab-kr/vue-date-rail) - Horizontal infinite-scroll date rail (day/month strip) picker for Vue 3. Headless composable core, Intl-based i18n, min/max & disabled dates, event marker slot, desktop wheel/drag scrolling, Tailwind-ready unstyled mode. Zero dependencies.
+*   [numkey (⭐0)](https://github.com/devslab-kr/numkey) - Numeric input formatting for Vue 3 — live thousands grouping with a stable caret, string-first canonical v-model (money-safe), leading-zero cleanup, opt-in locale separators and Korean amount reading. [Demo](https://devslab-kr.github.io/numkey/)
+*   [blok (⭐36)](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+*   [kokey (⭐1)](https://github.com/devslab-kr/kokey) - Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. [Demo](https://devslab-kr.github.io/kokey/)
+
+### Components & Libraries / UI Utilities
+
+*   [jsonschema-editor (⭐1)](https://github.com/eumicro/jsonschema-editor) - JSON Schema and UI Schema form editor for Vue 3, with fillable forms, nested structures, and oneOf type selection.
+
+### Components & Libraries / Utilities
+
+*   [@i18n-micro/vue (⭐250)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
+*   [crd-ui (⭐22)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
+
+### Components & Libraries / Integrations
+
+*   [recaptcha-vue (⭐7)](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
+
+### Components & Libraries / Scaffold
+
+*   [OxideDock (⭐98)](https://github.com/fridzema/oxide-dock) - Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### oh-my-zsh
+
+*   [awesome-lazy-zsh (⭐25)](https://github.com/AmJaradat01/awesome-lazy-zsh) - automates your ZSH setup with 46 plugins, 5 themes, configuration profiles, and service installation. It installs dependencies, manages Oh My Zsh, and gives you a beautiful interactive CLI to build the terminal environment you want.
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [boot-kit (⭐0)](https://github.com/seankoji-com/zsh-boot-kit) - Adds instrumentation to your ZSH environment.
+*   [herdr (⭐70)](https://github.com/robbyrussell/herdr-ohmyzsh) - Manages [herdr](https://herdr.dev/) agent management.
+*   [pyroclear (⭐206)](https://github.com/shreyanth-sureshkrishnaa/pyroclear) - A terminal clear replacement that burns your screen down before wiping it.
+*   [terminal-pet (⭐4)](https://github.com/Zezoo123/terminal-pet) - Hooks `preexec`/`precmd` up to [terminal-pet (⭐4)](https://github.com/Zezoo123/terminal-pet), an animated pixel-art pet that sits on your terminal window and reacts to your commands (macOS).
+*   [termrec (⭐0)](https://github.com/termrec/termrec.zsh) - This hook enables [termrec (⭐0)](https://github.com/termrec/termrec) to split the session into per-command sections while it generates a command-aware transcript.
+*   [worktree-jump (⭐0)](https://github.com/Jermic/worktree-jump) - Lists `git` worktrees in a compact table and lets you jump to one by typing its number at the next shell prompt.
+*   [yazi (⭐0)](https://github.com/NiziL/yazi.plugin.zsh) - a tiny plugin for [yazi (⭐42k)](https://github.com/sxyazi/yazi) integration.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [corbon (⭐20)](https://github.com/spideythedev/corbon-zsh-theme) - A lightweight, highly customizable theme that gives you control over the layout, segments, Git information, colors, symbols, path display, command timing, and more without turning configuration into a mess.
+*   [port (⭐1)](https://github.com/stiermid/port) - A minimal theme combining the robbyrussell layout with the gentoo `git` workflow. Built on ZSH's built-in `vcs_info` — no external dependencies, no prompt frameworks required. Shows the current directory, version-control state (Git and SVN), and command exit status in a single compact line.
+
+## [5. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### DevTools / Other external resources
+
+*   [ERB Snippets + View Audit for Rails](https://getreadystack.com/tools/erb-rails-view-snippets-audit) - Paste or open one .html.erb view and see every raw, html\_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in.
+
+## [6. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Monitoring and Observability
 
@@ -40,7 +121,7 @@
 *   [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) - Autonomous research system with Prompt Economy design, scaling scientist/coder/auditor loops across more than ten domains with a 30-day unattended run (2026).
 *   [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) - First benchmark for multi-agent orchestration prompt writing, evaluating 33 LLMs across 110 scenarios and 10 loop topologies (2026).
 
-## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -61,7 +142,7 @@
 *   [Cloud-IAM](https://www.cloud-iam.com) - Managed Keycloak SaaS with dedicated instances deployed in 20 minutes. ISO 27001:2022, SOC 2 Type 2, SecNumCloud 3.2 certified. 70+ regions, 99.98% SLA.
 *   [Perfsys](https://perfsys.com/solutions/keycloak-sso/) - Managed Keycloak deployment and SSO integration on AWS.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management
 
@@ -71,13 +152,17 @@
 
 *   [Neverkin](https://neverkin.com/) - Collaborative writing, worldbuilding and D\&D-session-planning app. Tools for organizing your notes and stories. ([Demo](https://app.neverkin.com/guest-login), [Source Code (⭐13)](https://github.com/Tenebrie/neverkin/)) `GPL-3.0` `Nodejs/Docker`
 
-## [4. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [9. Awesome Go](/content/abordage/awesome-go/week/README.md)
+
+### Data Formats / Serialization
+
+*   [golang/protobuf (⭐10k)](https://github.com/golang/protobuf) — Protocol buffers for Go ☆`10,085`
 
 ### Utilities / Strings
 
 *   [huandu/xstrings (⭐1.4k)](https://github.com/huandu/xstrings) — String functions from other langs ☆`1,412`
 
-## [5. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Code Analysis
 
@@ -88,7 +173,7 @@
     *   [prospector (⭐2.1k)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
     *   [repowise (⭐6.3k)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
 
-## [6. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [11. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### 🌟 Purpose
 
@@ -128,13 +213,13 @@
 *   Update the relevant JSON file in the `data/` folder.
 *   Open a Pull Request.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Technical Demos
 
 *   [Water](https://marklundin.github.io/water/) - High fidelity water simulation with caustics.
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -149,7 +234,7 @@
 
 *   [*Master Photo and Video Editing with Metal* by Bogdan Redkin, Victor Yaskevich](https://link.springer.com/book/10.1007/979-8-8688-0832-6)
 
-## [9. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [14. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -172,7 +257,7 @@
 
 *   [pedronaugusto/morse (⭐0)](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
 
-## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -411,7 +496,7 @@
 
 
 
-## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Communities
 
@@ -424,6 +509,10 @@
 ### Clients
 
 *   [zodql (⭐2)](https://github.com/mattiasahlsen/zodql) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
+
+### Databases & ORMs / React
+
+*   [Simfinity.js (⭐7)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
 
 ### JavaScript Examples / React
 
@@ -494,7 +583,7 @@
 
 *   [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
 
-## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [17. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Intermediate
 
@@ -503,49 +592,53 @@
 **Free** open-source book covering TypeScript fundamentals through advanced concepts\
 *(TypeScript, JavaScript)*
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [18. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Starforged
 
 *   [Ironsworn: Aura & Iron](https://chimeric-grove.itch.io/ironsworn-aura-and-iron) - Powerful abilities and combat mechanics for Ironsworn
 
-## [14. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [19. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Git and accessories
 
 *   [relnote](https://loki-inu.github.io/relnote/) - Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
 
-## [15. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+
+### Design & Graphics / Image Tools
+
+*   [joshlin2201/itspaint (⭐16)](https://github.com/joshlin2201/itspaint) — MS Paint for the Mac with screenshot markup and pixel-art tools ☆`16`
 
 ### Design & Graphics / Screen Capture
 
-*   [apoorvdarshan/TetherShot (⭐16)](https://github.com/apoorvdarshan/TetherShot) — Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally. ☆`16`
+*   [apoorvdarshan/TetherShot (⭐16)](https://github.com/apoorvdarshan/TetherShot) — Pixel-perfect iPhone screen capture over USB or Wi-Fi ☆`17`
 
 ### Developer Tools / API Tools
 
-*   [RockxyApp/Rockxy (⭐1.4k)](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,368`
+*   [RockxyApp/Rockxy (⭐1.4k)](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,372`
 
 ### Developer Tools / Developer Utilities
 
-*   [yylo-dev/yylo (⭐57)](https://github.com/yylo-dev/yylo) — Cross-platform command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. ☆`59`
+*   [yylo-dev/yylo (⭐57)](https://github.com/yylo-dev/yylo) — CLI orchestrator for agent tasks, validation, and merges ☆`59`
 
 ### Networking / Network Analysis
 
-*   [RockxyApp/Tracexy (⭐132)](https://github.com/RockxyApp/Tracexy) — Native, local-first network intelligence for macOS ☆`132`
+*   [RockxyApp/Tracexy (⭐132)](https://github.com/RockxyApp/Tracexy) — Native, local-first network intelligence for macOS ☆`134`
 
-## [16. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [21. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Mathematical & Statistical Functions
 
 *   [polars-stats (⭐35)](https://github.com/FBruzzesi/polars-stats) - Polars expression plugin that exposes scipy.stats-style probability distributions by [@FBruzzesi](https://github.com/FBruzzesi).
 
-## [17. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [22. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [From DNS Evidence to a Finding: DNS and Mail Security Methodology](https://admintoolkit.io/guides/dns-mail-security-methodology/) - How DNSSEC, DANE, SPF/DKIM/DMARC and SMTP transport evidence becomes a finding, with the decision logic for each, the `dig` invocations to reproduce it independently, and the false positives to expect.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -563,13 +656,13 @@
 
 *   [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harry0703/MangoDisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Online database creator apps
 
 *   [Busabase](https://busabase.com/) - Open-source database and workspace for AI agents that turns agent output into data, docs, skills, and apps with human-reviewed changes.
 
-## [20. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [25. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Bibliography
 
@@ -580,13 +673,13 @@
 *   [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
 *   [rumdl (⭐1.5k)](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 
-## [21. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [26. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### CAD Specific / KiCad
 
 *   [Awesome KiCad Projects (⭐107)](https://github.com/way2pramil/awesome-kicad-projects) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 
-## [22. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Texture Tools
 
@@ -596,13 +689,13 @@
 
 *   :free: [AI Workflow for Game Designers](https://eremes81.github.io/game-design-ai-practice-en/)
 
-## [23. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [28. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### More resources
 
 *   [Button Hover Specimens](https://jsabutis.github.io/button-interaction-specs/) - Catalogue of 131 button hover mechanisms and 117 press states on one identical button, each with its own markup and code to copy. Same label, same box, same rule, so the interaction is the only variable. No dependencies.
 
-## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### AI
 
@@ -637,7 +730,7 @@
 
 *   [Blazor Developer Tools (⭐119)](https://github.com/joe-gregory/blazor-devtools) - ![GitHub stars](https://img.shields.io/github/stars/joe-gregory/blazor-devtools?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/joe-gregory/blazor-devtools?style=flat-square\&cacheSeconds=86400) The first visual DevTools for Blazor. Browser extension that adds a "Blazor" tab to Chrome/Edge DevTools with component tree visualization, timeline profiler, flamegraph, and "why did this render?" diagnostics. No code changes required for basic tracking. [blazordevelopertools.com](https://blazordevelopertools.com/).
 
-## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -655,7 +748,7 @@
 
 *   [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 
-## [26. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -665,7 +758,7 @@
 
 *   [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a \~470-entry glossary, CC-BY-SA with no ads or affiliates.
 
-## [27. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [32. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Deployment
 
@@ -675,13 +768,13 @@
 
 *   [Orchestrator (⭐55)](https://github.com/ProxySQL/orchestrator) - MySQL replication topology management and High Availability solution.
 
-## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [33. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Graphics Programming
 
 *   [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) - Gabriel Gambetta (HTML)
 
-## [29. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [34. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
@@ -698,13 +791,13 @@
 *   [squirrelscan (⭐268)](https://github.com/squirrelscan/squirrelscan) - Website audit MCP server for coding agents: run audits, read reports, and fix findings from Gemini CLI or any MCP client. 260+ rules across SEO, performance, security, accessibility, and agent experience, with fixes mapped to source. MIT CLI with a local stdio server (`squirrel mcp`) or hosted Remote MCP with OAuth: `gemini mcp add --transport http squirrelscan https://mcp.squirrelscan.com/mcp`.
 *   [Glasser (⭐1)](https://github.com/glasser-ai/plugins) - One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: `gemini mcp add --transport http glasser https://api.glasser.ai/mcp`.
 
-## [30. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [35. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Writing & Prose Quality / Obsidian
 
 *   [Claude Style Patch (⭐138)](https://github.com/andrewroxby/claude-style-patch) by [Andrew Roxby](https://github.com/andrewroxby) - A CLAUDE.md section that constrains Claude's prose style. It bans specific habits, including announcing a point before making it, colon-hinged sentences where the left side labels the right, verbless fragment openers, and stacked compression. Each rule names the habit, shows an example, and gives the rewrite.\ <img src="https://img.shields.io/github/created-at/andrewroxby/claude-style-patch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/andrewroxby/claude-style-patch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/andrewroxby/claude-style-patch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/andrewroxby/claude-style-patch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [31. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [36. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
@@ -720,7 +813,7 @@
 
 *   [ARADURU File Format Test Corpus](https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/) - Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.
 
-## [32. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [37. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -844,7 +937,7 @@
 *   [BuzzBee (⭐9)](https://github.com/OMH4ck/BuzzBee) (2024) - A DBMS fuzzer that uses semantic abstraction, context-sensitive constraints, and dependency-guided mutations to generate database queries.
 *   [SQLRight (⭐66)](https://github.com/PSU-Security-Universe/sqlright) (2022) - A DBMS fuzzer that combines coverage feedback, validity-oriented query mutations, and result-checking oracles to detect logical bugs.
 
-## [33. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [38. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Blue Team Path / Level 1 - Tools
 
@@ -854,7 +947,7 @@
 
 *   [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape) - Escaping Docker container.
 
-## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Goroutines
 
@@ -864,6 +957,14 @@
 
 *   [gslog (⭐2)](https://github.com/maguro/gslog) - Google Cloud Logging handler for log/slog, with OpenTelemetry trace and baggage, and Kubernetes podinfo labels.
 
+### Messaging
+
+*   [hypermatch (⭐37)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
+
+### Security
+
+*   [grim (⭐0)](https://github.com/ijin82/grim) - Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.
+
 ### Third-party APIs
 
 *   [featureflip-go (⭐0)](https://github.com/canopy-labs/featureflip-go) - Go SDK for [Featureflip](https://featureflip.io/) feature flags, with local evaluation and streaming updates.
@@ -872,11 +973,19 @@
 
 *   [GopherFlow (⭐14)](https://github.com/RealZimboGuy/gopherflow) - Durable workflow engine with a built-in web console, backed by Postgres, MySQL or SQLite.
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [RyanCodrai/turbovec (⭐17k)](https://github.com/RyanCodrai/turbovec) \[[turbovec](https://crates.io/crates/turbovec)] - A vector index built on TurboQuant, written in Rust with SIMD-accelerated search and Python bindings
+
+### Applications / Finance
+
+*   [wealthfolio/wealthfolio (⭐9k)](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker: investments, net worth, spending, and simulations.
+
+### Applications / Observability
+
+*   [parseablehq/parseable (⭐2.5k)](https://github.com/parseablehq/parseable) - An AI-native unified observability platform for collecting and analyzing logs, metrics, traces and events.
 
 ### Applications / Productivity
 
@@ -891,7 +1000,7 @@
 
 *   [kunobi-ninja/kache (⭐794)](https://github.com/kunobi-ninja/kache) \[[kache](https://crates.io/crates/kache)] - Content-addressed compiler cache for Rust and C/C++ ([website](https://ninja.kunobi.com/product/kache)) [![CI](https://github.com/kunobi-ninja/kache/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kunobi-ninja/kache/actions/workflows/ci.yml)
 
-## [36. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Image
 

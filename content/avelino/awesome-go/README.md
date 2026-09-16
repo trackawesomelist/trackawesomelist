@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 16, 2026](/content/2026/09/16/README.md)
+
+### Messaging
+
+*   [hypermatch (⭐37)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
+
+### Security
+
+*   [grim (⭐0)](https://github.com/ijin82/grim) - Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.
+
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
 ### Third-party APIs
@@ -135,7 +145,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
-*   [GURL (⭐4)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
+*   [GURL (⭐5)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
 
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
@@ -262,12 +272,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [go-arch (⭐3)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
+*   [go-arch (⭐4)](https://github.com/SalvucciFacundo/go-arch) - CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
 
 ### Networking
 
 *   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
-*   [netchan (⭐7)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+*   [netchan (⭐8)](https://github.com/matveynator/netchan) - Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -560,7 +570,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐12)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐14)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
@@ -2417,10 +2427,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### GUI
 
 *   [cimgui-go (⭐541)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐76k)](https://github.com/ocornut/imgui) via [cimgui (⭐2k)](https://github.com/cimgui/cimgui).
-
-### Messaging
-
-*   [hypermatch (⭐37)](https://github.com/SchwarzIT/hypermatch) - A very fast and efficient Go library for matching events to a large set of rules
 
 ## [Sep 24, 2024](/content/2024/09/24/README.md)
 

@@ -149,6 +149,7 @@ Awesome list of GraphQL
 *   [graphql-sequelize (⭐1.9k)](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 *   [graphql-bookshelf (⭐184)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 *   [join-monster (⭐2.7k)](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+*   [Simfinity.js (⭐7)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
 
 ##### PubSub
 

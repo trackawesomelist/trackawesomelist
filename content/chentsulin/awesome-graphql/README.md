@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Sep 16, 2026](/content/2026/09/16/README.md)
+
+### Databases & ORMs / React
+
+*   [Simfinity.js (⭐7)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
+
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
 ### Communities

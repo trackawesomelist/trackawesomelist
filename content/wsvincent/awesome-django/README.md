@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Sep 16, 2026](/content/2026/09/16/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-mcp (⭐18)](https://github.com/7tg/django-admin-mcp) - Expose admin-registered models to MCP clients (AI assistants like Claude): CRUD, admin actions, and history through your ModelAdmin classes, capped by Django permissions.
+
 ## [Sep 06, 2026](/content/2026/09/06/README.md)
 
 ### Third-Party Packages / Task Queues
@@ -33,7 +39,7 @@ A curated list of awesome things related to Django
 *   [Revel (⭐107)](https://github.com/letsrevel/revel-backend) - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
 *   [venueless (⭐225)](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
 *   [pretix (⭐2.5k)](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
-*   [pretalx (⭐938)](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
+*   [pretalx (⭐941)](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
 
 ## [Aug 15, 2026](/content/2026/08/15/README.md)
 
@@ -140,7 +146,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / APIs
 
-*   [strawberry-django (⭐503)](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
+*   [strawberry-django (⭐504)](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
 
 ### Third-Party Packages / Dependency Injection
 
@@ -290,7 +296,7 @@ A curated list of awesome things related to Django
 
 ### Projects / Open Source Projects
 
-*   [Django CRM Admin (⭐615)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
+*   [Django CRM Admin (⭐625)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 
 ## [Dec 09, 2024](/content/2024/12/09/README.md)
 
@@ -331,7 +337,7 @@ A curated list of awesome things related to Django
 
 ### Python Packages / Static Analysis
 
-*   [Ruff (⭐49k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+*   [Ruff (⭐50k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ### Resources / Educational
 
@@ -401,7 +407,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-unfold (⭐3.6k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
+*   [django-unfold (⭐3.7k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 
 ### Third-Party Packages / Commands
 
@@ -575,7 +581,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / General
 
-*   [Weblate (⭐6k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+*   [Weblate (⭐6.1k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
 ### Projects / Boilerplate
 
@@ -1025,7 +1031,7 @@ A curated list of awesome things related to Django
 
 *   [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
 *   [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
-*   [py-spy (⭐15k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+*   [py-spy (⭐16k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 
 ### Third-Party Packages / Search
 
@@ -1075,7 +1081,7 @@ A curated list of awesome things related to Django
 
 *   [black (⭐42k)](https://github.com/psf/black) - Uncompromising Python code formatter.
 *   [pillow (⭐14k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
-*   [pytest (⭐14k)](https://github.com/pytest-dev/pytest/) - Testing framework.
+*   [pytest (⭐15k)](https://github.com/pytest-dev/pytest/) - Testing framework.
 *   [python-slugify (⭐1.6k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 *   [sentry-python (⭐2.2k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 
@@ -1083,7 +1089,7 @@ A curated list of awesome things related to Django
 
 *   [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 *   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
-*   [Source Code (⭐90k)](https://github.com/django/django/) - Hosted on GitHub.
+*   [Source Code (⭐91k)](https://github.com/django/django/) - Hosted on GitHub.
 
 ### Resources / Community
 

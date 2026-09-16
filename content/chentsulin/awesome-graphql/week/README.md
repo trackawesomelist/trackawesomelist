@@ -20,6 +20,10 @@ Awesome list of GraphQL
 
 *   [zodql (⭐2)](https://github.com/mattiasahlsen/zodql) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
 
+### Databases & ORMs / React
+
+*   [Simfinity.js (⭐7)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
+
 ### JavaScript Examples / React
 
 *   [Apollo React example for GitHub GraphQL API (⭐113)](https://github.com/katopz/react-apollo-graphql-github-example) - Example using Apollo React with the GitHub GraphQL API and Create React App.
