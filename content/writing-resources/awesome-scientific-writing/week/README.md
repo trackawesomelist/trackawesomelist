@@ -12,6 +12,11 @@
 
 *   [citecheck (⭐3)](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
 
+### Spell Checking and Linting
+
+*   [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
+*   [rumdl (⭐1.5k)](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Bibliography

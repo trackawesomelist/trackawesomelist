@@ -125,9 +125,11 @@ Supplementary files and tools.
     spell Checker.
 *   [LanguageCheck (⭐111)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 *   [Markdown lint tool (⭐2.1k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
+*   [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
 *   [proselint (⭐4.6k)](https://github.com/amperser/proselint) - Linter for prose.
 *   [remarklint (⭐1k)](https://github.com/remarkjs/remark-lint) - Markdown linter.
 *   [restructuredtext-lint (⭐183)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+*   [rumdl (⭐1.5k)](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 *   [textlint](https://textlint.github.io/) - Pluggable linting tool for text
     and Markdown.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and

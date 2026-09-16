@@ -5,9 +5,9 @@
 
 - [Top Repos](top/README.md)
   - [Public Apis](/content/content/public-apis/public-apis/README.md)
+  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Python](/content/content/vinta/awesome-python/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
-  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
@@ -2146,6 +2146,7 @@
 - [Days](daily/README.md)
   - [2026](2026/month/README.md)
     - [9](2026/9/day/README.md)
+      - [Sep 16, 2026](2026/09/16/README.md)
       - [Sep 15, 2026](2026/09/15/README.md)
       - [Sep 14, 2026](2026/09/14/README.md)
       - [Sep 13, 2026](2026/09/13/README.md)

@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/writing-resources/awesome-scientific-writing/week/README.md) / [Overview](/content/writing-resources/awesome-scientific-writing/readme/README.md) ]
 
+## [Sep 16, 2026](/content/2026/09/16/README.md)
+
+### Spell Checking and Linting
+
+*   [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
+*   [rumdl (⭐1.5k)](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
+
 ## [Sep 14, 2026](/content/2026/09/14/README.md)
 
 ### Bibliography
