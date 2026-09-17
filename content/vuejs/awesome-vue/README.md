@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Sep 17, 2026](/content/2026/09/17/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [AI Gist (⭐880)](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
+
+### Components & Libraries / UI Utilities
+
+*   \[ufbr] - An Universal File Based Router with Vuejs support.
+
 ## [Sep 16, 2026](/content/2026/09/16/README.md)
 
 ### Resources / Job Portal
@@ -850,7 +864,7 @@
 
 *   [vue-default-page (⭐34)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐3)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐2.5k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐2.6k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
@@ -2896,7 +2910,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐196)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐197)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [Feb 29, 2020](/content/2020/02/29/README.md)
 
@@ -3733,4 +3747,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐211k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐213k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)

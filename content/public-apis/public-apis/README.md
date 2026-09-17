@@ -6,6 +6,241 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Sep 17, 2026](/content/2026/09/17/README.md)
+
+### Art & Design
+
+- API: [Face Shape Guide Lookup](https://myfaceshapechart.com/openapi.json)
+
+  Description: Read-only lookup for published face-shape guide records
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [CorpStacking](https://www.corpstacking.com/feed.json)
+
+  Description: Corporate, government and ETF Bitcoin, Ethereum and Solana treasury disclosures
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Deep Blue Alpha](https://deepbluealpha.io/whale-api)
+
+  Description: Real-time Ethereum whale wallet tracking, DEX trades, net flow, and conviction scoring
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Framejet](https://framejet.dev/docs)
+
+  Description: Website screenshot API with cookie banners and chat widgets removed; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Nerdulator](https://nerdulator.com/api)
+
+  Description: Everything derivable from one value: numbers, dates, colours, UUIDs, cron expressions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SegmentLite](https://segmentlite-api-dfru.fly.dev)
+
+  Description: Lightweight event routing and webhook fan-out API alternative to Segment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Dictionaries
+
+- API: [SayItVid](https://sayitvid.com)
+
+  Description: English video pronunciation search with timestamps, IPA phonetics and subtitle context
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Sales Tax Calculator](https://salestaxcalculatorapi.com)
+
+  Description: Computes exact sales tax amounts and breakdowns for checkout and billing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Government
+
+- API: [Edgrapi](https://edgrapi.com/docs)
+
+  Description: US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [Stanza UDI Decoder](https://stanzaapi.com/tools/udi-decoder)
+
+  Description: Decode and validate FDA GUDID and EU MDR medical device UDI barcodes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Open Data
+
+- API: [Big Data Explained](https://bigdataexplained.com/data)
+
+  Description: Cloud data warehouse list prices, read daily from AWS and Azure pricing APIs, with price history
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [CoworkingView](https://coworkingview.com/openapi.json)
+
+  Description: Coworking spaces and offices in 63 European and Gulf cities with operator-published prices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Security
+
+- API: [CompliAPI](https://docs.compliapi.com)
+
+  Description: Screen crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK sanctions lists
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [Cito UFC API](https://citoapi.com/ufc-api/)
+
+  Description: UFC and MMA fight data: fighters, cards, round stats, rankings and live state
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [FanLine Wire](https://fanlinewire.com/docs)
+
+  Description: Real-time FanDuel Sportsbook odds — live & in-play and pre-match, with a keyless public snapshot
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OddsBench](https://oddsbench.xyz/api/)
+
+  Description: Independent monthly latency benchmark of sports odds APIs, with free JSON and CSV data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PinnWire](https://pinnwire.com/docs.html)
+
+  Description: Real-time Pinnacle odds for 13 sports — live and prematch over REST, WebSocket and SSE drop alerts
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Test Data
+
+- API: [Waldrand Avatar](https://avatar.waldrand.dev)
+
+  Description: Deterministic SVG/PNG/WebP avatars from any string, four styles
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
 ### Cryptocurrency
@@ -3434,19 +3669,6 @@ A collective list of free APIs
 
 
 ### Finance
-
-- API: [Edgrapi](https://edgrapi.com)
-
-  Description: Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
 
 - API: [StockFit](https://api.stockfit.io/docs)
 

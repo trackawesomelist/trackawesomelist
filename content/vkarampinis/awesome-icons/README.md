@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Sep 17, 2026](/content/2026/09/17/README.md)
+
+### Archive of Icons
+
+*   [SVGicons](https://svgicons.com/) - Search and browse open-source SVG icon sets for web and application development.
+
 ## [Sep 08, 2026](/content/2026/09/08/README.md)
 
 ### Tools

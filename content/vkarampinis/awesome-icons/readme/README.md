@@ -12,7 +12,7 @@ A curated list of awesome Web Font Icons
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -42,6 +42,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
 *   [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries.
 *   [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
+*   [SVGicons](https://svgicons.com/) - Search and browse open-source SVG icon sets for web and application development.
 
 ## Generic
 
