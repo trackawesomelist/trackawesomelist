@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
+### Standard CLI
+
+*   [Fling-CLI (⭐0)](https://github.com/SatyamKumarCS/Fling-CLI) - Terminal-based peer-to-peer file and message transfer tool over custom reliable UDP.
+
 ### Goroutines
 
 *   [go-future (⭐103)](https://github.com/jizhuozhi/go-future) - A Future/Promise library with generic combinators and a DAG execution engine.

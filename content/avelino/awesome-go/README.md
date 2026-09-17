@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 17, 2026](/content/2026/09/17/README.md)
+
+### Standard CLI
+
+*   [Fling-CLI (⭐0)](https://github.com/SatyamKumarCS/Fling-CLI) - Terminal-based peer-to-peer file and message transfer tool over custom reliable UDP.
+
 ## [Sep 16, 2026](/content/2026/09/16/README.md)
 
 ### Messaging

@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### APIs, Data, and ML
+
+*   [Webhooker](https://webhooker.eu/) - Webhook gateway hosted in Germany. Signature verification, retries, dead letter queue and replay. Free plan: 10,000 events per month.
+*   [Tinyfish](https://www.tinyfish.ai) - Free web search and fetch API with rate limits.
+
+### Issue Tracking and Project Management
+
+*   [myspec.dev](https://myspec.dev/) - Spec-Driven Development (SDD) architect tool that interviews developers and generates structured 4-file spec bundles with MCP server integration. Free tier covers 20 projects and 100 spec files.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Testing
@@ -185,10 +196,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Generative AI
 
 *   [telemetry.dev](https://telemetry.dev) - Observability for AI/LLM apps built on OpenTelemetry. Traces model calls and tool steps with tokens, cost, latency and errors; send OTLP over HTTP from any language or use the TypeScript SDKs. Free plan includes 10,000 spans/month, 7-day retention, 1 project and 2 seats, no credit card.
-
-### Payment and Billing Integration
-
-*   [Codex](https://www.codex.io) - Real-time crypto and prediction market data API for pricing, charts, transactions, wallet balances, and trending data. The free tier offers 10,000 requests for free per month, with credit card or crypto authentication required.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
@@ -443,10 +450,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [RedirHub](https://www.redirhub.com/) - API-first URL redirect infrastructure with custom nameservers, edge network, HTTPS, and proactive link monitoring. Free plan includes 2 hostnames, 100K requests per month, auto-SSL, path forwarding, and REST API access.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
-
-### APIs, Data, and ML
-
-*   [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US and Canadian postal codes with address validation, radius search, and Census demographics. 2,500 free requests/day.
 
 ### Web Hosting
 
@@ -768,7 +771,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
-*   [KillBait API](https://killbait.com/api/doc) - KillBait API allows users to submit URLs for content evaluation, detecting potential clickbait and categorizing articles. The API is designed for moderate publishing frequency, with limits of 1 submission per hour and 10 per day. Media partners can request higher limits.
 
 ### Tools for Teams and Collaboration
 
@@ -894,7 +896,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
 *   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
 
 ### Testing
@@ -972,10 +973,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
 
-### APIs, Data, and ML
-
-*   [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
-
 ### Management System
 
 *   [serveravatar.com](https://serveravatar.com) - Manage and monitor PHP-based web servers with automated configurations. Free for one server.
@@ -1033,7 +1030,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [drawDB](https://drawdb.app/) - Free and open-source online database diagram editor with no signup required.
 *   [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
 
 ### Remote Desktop Tools
@@ -1187,7 +1183,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Mintlify](https://mintlify.com) - Modern standard for API documentation. Beautiful and easy-to-maintain UI components, in-app search, and interactive playground. Free for 1 editor.
-*   [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
 
 ### Code Quality
 
@@ -1240,7 +1235,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐34k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐35k)](https://github.com/langfuse/langfuse)
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -1249,10 +1244,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [JSONing](https://jsoning.com/api/) - Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
-
-### APIs, Data, and ML
-
-*   [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
 
 ### Tools for Teams and Collaboration
 
@@ -2059,10 +2050,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
-### APIs, Data, and ML
-
-*   [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.
-
 ### Tools for Teams and Collaboration
 
 *   [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
@@ -2191,10 +2178,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Issue Tracking and Project Management
 
 *   [Clockify](https://clockify.me) - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.
-
-### Payment and Billing Integration
-
-*   [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -2614,10 +2597,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
-### APIs, Data, and ML
-
-*   [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
-
 ### Tools for Teams and Collaboration
 
 *   [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
@@ -2950,7 +2929,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Export SDK](https://exportsdk.com) - PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.
-*   [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100 free requests / month.
 
 ### Translation Management
 
@@ -3116,10 +3094,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
-### APIs, Data, and ML
-
-*   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
-
 ### Email
 
 *   [EmailJS](https://www.emailjs.com/) - This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
@@ -3210,12 +3184,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Paiza](https://paiza.cloud/en/) - Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
-
-## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
-
-### APIs, Data, and ML
-
-*   [Scraper's Proxy](https://scrapersproxy.com) - Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
@@ -3445,7 +3413,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
-*   [Kreya](https://kreya.app) - Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
 *   [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
 *   [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
 
@@ -3723,7 +3690,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, phone number validation, or email validation.
 *   [MockAPI](https://www.mockapi.io/) - MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/2 resources per project for free.
 *   [wrapapi.com](https://wrapapi.com/) - Turn any website into a parameterized API. 30k API calls per month.
-*   [Zenscrape](https://zenscrape.com/web-scraping-api) - Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
@@ -3865,10 +3831,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
-### APIs, Data, and ML
-
-*   [ScrapingAnt](https://scrapingant.com/) - Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free 10,000 API credits.
-
 ### DNS
 
 *   [zilore.com](https://zilore.com/en/dns) - Free DNS hosting for 5 domains.
@@ -3913,10 +3875,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
-
-### APIs, Data, and ML
-
-*   [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
 
 ### Tools for Teams and Collaboration
 
@@ -4319,7 +4277,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
-*   [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
 
 ### Testing
 
@@ -4448,12 +4405,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Log Management
 
 *   [bugfender.com](https://bugfender.com/) - Free up to 100k log lines/day with 24 hours retention
-
-## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
-
-### APIs, Data, and ML
-
-*   [Colaboratory](https://colab.research.google.com) - Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
 
 ## [Sep 10 - Sep 16, 2018](/content/2018/37/README.md)
 
