@@ -2,9 +2,15 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 431 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 439 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / Weekly / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
+
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Software and Tools
+
+*   [ListCraft HQ](https://listcrafthq.com) - Free, no-signup suite of calculators for sellers covering profit margin, markup, break-even, ROAS, CAC, and LTV. No login or paywall.
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
@@ -18,7 +24,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Other
 
-*   [Awesome China Sourcing (⭐0)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: a six-step supplier verification system (license check, factory video call, reference check), quality inspection checklists, Incoterms cheat sheet, and negotiation templates.
+*   [Awesome China Sourcing (⭐1)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
@@ -36,7 +42,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Software and Tools
 
-*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐9)](https://github.com/BuyWhere/buywhere-mcp)
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐12)](https://github.com/BuyWhere/buywhere-mcp)
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 

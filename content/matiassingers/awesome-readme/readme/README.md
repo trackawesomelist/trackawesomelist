@@ -31,6 +31,7 @@ images, screenshots, GIFs, text formatting, etc.
 *   [Armync/Arminc-AutoExec (⭐375)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description, and compliance with the recommended community standards.
 *   [athityakumar/colorls (⭐5.1k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 *   [aurumz-rgb/ReviewAid (⭐13)](https://github.com/aurumz-rgb/ReviewAid/#readme) - Project banner with academic badges. Features architecture diagrams, AI provider logos, collapsible workflows, and comparison tables.
+*   [Bonevane/Bridge (⭐3)](https://github.com/Bonevane/Bridge#readme) - A shared palette for the project banner and architecture diagram. The problem is set out as three cards with the solution as a walkthrough. A security model table shows what's exposed in each state. Getting started covers both installing a release and building from source. Clear screenshots of both platforms alongside a roadmap checklist and acknowledgements with licenses.
 *   [brenocq/implot3d (⭐1.3k)](https://github.com/brenocq/implot3d#readme) - Project banner with GIFs. Link to online demo. Multiple CI badges. Dynamic roadmap with auto-updating SVGs that reflect feature discussions in real-time, powered by GitHub Actions. Displays the 5 most recent discussions with clickable images for quick access. Clean, well-structured layout with intuitive navigation and star history.
 *   [ccostan/Home-AssistantConfig (⭐5.3k)](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 *   [choojs/choo (⭐6.8k)](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
@@ -64,7 +65,7 @@ images, screenshots, GIFs, text formatting, etc.
 *   [hmpl-language/hmpl (⭐966)](https://github.com/hmpl-language/hmpl#readme) - Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.
 *   [htmlhint/HTMLHint (⭐3.3k)](https://github.com/htmlhint/HTMLHint#readme) - Centered hero animation as the masthead. Concise tagline. Useful badges (npm version, OpenSSF best practices, downloads, license). Quick navigation links. Table of contents. Sectioned installation guide for local and global use, with both ESM and CommonJS code samples.
 *   [httpie/httpie (⭐38k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-*   [hywax/mafl (⭐754)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐755)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 *   [IgorAntun/node-chat (⭐766)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 *   [iharsh234/WebApp (⭐96)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 *   [ivanperez-keera/Yampa (⭐487)](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
@@ -133,7 +134,7 @@ This can also be a dedicated section of your README.md files.
 *   [Oh My Zsh (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐76k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 *   [Tauri (⭐111k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
-*   [VS Code (⭐190k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
+*   [VS Code (⭐192k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ## Articles
 
@@ -174,7 +175,7 @@ This can also be a dedicated section of your README.md files.
 
 Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
 
-*   [Gifski (⭐8.5k)](https://github.com/sindresorhus/Gifski#readme) - **Free** - More vivid colors than the rest, but still keeps size low.
+*   [Gifski (⭐8.6k)](https://github.com/sindresorhus/Gifski#readme) - **Free** - More vivid colors than the rest, but still keeps size low.
 *   [Giphy Capture](https://giphy.com/apps/giphycapture) - **Free** - Easy to upload to giphy.com, with a slightly annoying UX.
 *   [LICEcap](https://www.cockos.com/licecap/) - **Free** - Less intuitive, but with more features.
 *   [ScreenToGif (⭐28k)](https://github.com/NickeManarin/ScreenToGif/) - **Free** - Open source, with a customizable UI and easily editable GIFs, easy to get started.

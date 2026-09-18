@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Sep 18, 2026](/content/2026/09/18/README.md)
+
+### Components & Libraries / Dev Tools
+
+*   [Poveste (⭐2)](https://github.com/poveste-dev/poveste) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
+
 ## [Sep 17, 2026](/content/2026/09/17/README.md)
 
 ### Projects Using Vue.js / Open Source

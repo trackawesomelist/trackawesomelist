@@ -33,7 +33,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 *   [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
 *   [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
 *   [Wiki & Bug Tracker](https://trac.ffmpeg.org) - Lots of great info on here.
-*   [CLI flags (⭐51)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
+*   [CLI flags (⭐52)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 ## JavaScript
 
@@ -41,7 +41,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 *   [ffmpeg-probe (⭐16)](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
 *   [ffmpeg-concat (⭐989)](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 *   [editly (⭐5.5k)](https://github.com/mifi/editly) - Declarative video editing tool and library with slick animations and transitions.
-*   [ffmpeg-generate-video-preview (⭐161)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
+*   [ffmpeg-generate-video-preview (⭐162)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 *   [ffmpeg-extract-frame (⭐16)](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video.
 *   [ffmpeg-extract-frames (⭐64)](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using FFmpeg.
 *   [gif-extract-frames (⭐33)](https://github.com/transitive-bullshit/gif-extract-frames) - Extracts frames from GIFs including inter-frame coalescing.
@@ -51,10 +51,11 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 *   [ffmpeg-static (⭐1.4k)](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 *   [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 *   [ffparser (⭐8)](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
+*   [lottie-render (⭐2)](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 
 ## Native
 
-*   [ffmpeg-gl-transition (⭐720)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+*   [ffmpeg-gl-transition (⭐719)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 ## Mobile
 
@@ -66,7 +67,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 *   [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 *   [Learn FFmpeg libav the Hard Way (⭐11k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
-*   [A Beginner's FFmpeg Cookbook (⭐101)](https://github.com/talwrii/ffmpeg-cookbook)
+*   [A Beginner's FFmpeg Cookbook (⭐103)](https://github.com/talwrii/ffmpeg-cookbook)
 *   [FFmpeg Cookbook](https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2) - Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).
 *   [FFmpeg Cheatsheet for Video Automation (⭐1.7k)](https://github.com/rendi-api/ffmpeg-cheatsheet)
 

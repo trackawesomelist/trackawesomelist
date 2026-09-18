@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/transitive-bullshit/awesome-ffmpeg/week/README.md) / [Overview](/content/transitive-bullshit/awesome-ffmpeg/readme/README.md) ]
 
+## [Sep 18, 2026](/content/2026/09/18/README.md)
+
+### JavaScript
+
+*   [lottie-render (⭐2)](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+
 ## [Aug 24, 2026](/content/2026/08/24/README.md)
 
 ### Tutorials
@@ -22,7 +28,7 @@
 
 ### Tutorials
 
-*   [A Beginner's FFmpeg Cookbook (⭐101)](https://github.com/talwrii/ffmpeg-cookbook)
+*   [A Beginner's FFmpeg Cookbook (⭐103)](https://github.com/talwrii/ffmpeg-cookbook)
 
 ## [Apr 22, 2020](/content/2020/04/22/README.md)
 
@@ -56,7 +62,7 @@
 
 *   [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
 *   [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
-*   [CLI flags (⭐51)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
+*   [CLI flags (⭐52)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 ### JavaScript
 
@@ -69,7 +75,7 @@
 
 ### Native
 
-*   [ffmpeg-gl-transition (⭐720)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+*   [ffmpeg-gl-transition (⭐719)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 ## [Jul 31, 2018](/content/2018/07/31/README.md)
 
@@ -108,7 +114,7 @@
 
 ### JavaScript
 
-*   [ffmpeg-generate-video-preview (⭐161)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
+*   [ffmpeg-generate-video-preview (⭐162)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 *   [ffmpeg-on-progress (⭐14)](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
 
 ### Mobile

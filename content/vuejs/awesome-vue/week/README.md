@@ -50,6 +50,10 @@
 
 *   [recaptcha-vue (⭐7)](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 
+### Components & Libraries / Dev Tools
+
+*   [Poveste (⭐2)](https://github.com/poveste-dev/poveste) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
+
 ### Components & Libraries / Scaffold
 
 *   [OxideDock (⭐98)](https://github.com/fridzema/oxide-dock) - Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.

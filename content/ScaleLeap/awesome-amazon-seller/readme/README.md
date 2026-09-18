@@ -2,7 +2,7 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 431 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 439 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / Overview ]
 
@@ -26,13 +26,14 @@ A curated list of tools and resources for Amazon sellers.
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 *   [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
+*   [ListCraft HQ](https://listcrafthq.com) - Free, no-signup suite of calculators for sellers covering profit margin, markup, break-even, ROAS, CAC, and LTV. No login or paywall.
 *   [Advigator](https://www.advigator.com) - Amazon Advertising Software
 *   [ListingPic](https://listingpic.com/amazon-product-image-checker/) - Free browser-based tool for checking Amazon product images and marketplace listing thumbnails before publishing.
 *   [AiHello AutoPilot](https://www.aihello.com/) - Amazon PPC Ads Automation Software.
 *   [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. Residential proxies and TLS impersonation handled server-side. 1000 free requests on signup.
 *   [Amzmailer](https://amzmailer.com/) - Feedback software and email autoresponder to send Amazon customers automated emails.
 *   *   [amztool](https://amztool.me) - Open-web Sponsored Products bulk-sheet generator. Reusable keyword dictionaries, one-click ad-group cloning, exports upload-ready .xlsx. Free tier. Companion [open spec](https://github.com/lizhl6/amazon-sp-bulk-sheet-spec) describes the schema.
-*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐9)](https://github.com/BuyWhere/buywhere-mcp)
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐12)](https://github.com/BuyWhere/buywhere-mcp)
 *   [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
 *   [ASINspector](https://asinspector.com/) - Sales trend data, unique product ideas, mobile scanner, best-seller rankings.
 *   [BQool](https://www.bqool.com/) - Scheduled repricing, compete against buy box price, comprehensive dashboard & reports, repricing history log.
@@ -102,7 +103,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ## Other
 
-*   [Awesome China Sourcing (⭐0)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: a six-step supplier verification system (license check, factory video call, reference check), quality inspection checklists, Incoterms cheat sheet, and negotiation templates.
+*   [Awesome China Sourcing (⭐1)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 *   [chdh-tools-dataset (⭐4)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 *   [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 *   [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.

@@ -97,21 +97,22 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 |                                               |                                           |                                     |
 | --------------------------------------------- | ----------------------------------------- | ----------------------------------- |
-| [.env](#dotenv)                               | [Embedded Ruby (a.k.a. ERB, eRuby)](#erb) | [Protocol Buffers](#protobuf)       |
-| [AI-generated code](#ai-generated-code)       | [Gherkin](#gherkin)                       | [Puppet](#puppet)                   |
-| [Ansible](#ansible)                           | [HTML](#html)                             | [Rails](#rails)                     |
-| [Archive](#archive)                           | [JSON](#json)                             | [Security/SAST](#security)          |
-| [Azure Resource Manager](#arm)                | [Kubernetes](#kubernetes)                 | [Smart Contracts](#smart-contracts) |
-| [Binaries](#binary)                           | [LaTeX](#latex)                           | [Support](#support)                 |
-| [Build tools](#buildtool)                     | [Laravel](#laravel)                       | [Template-Languages](#template)     |
-| [CSS/SASS/SCSS](#css)                         | [Makefiles](#make)                        | [Terraform](#terraform)             |
-| [Config Files](#configfile)                   | [Markdown](#markdown)                     | [Translation](#translation)         |
-| [Configuration Management](#configmanagement) | [Metalinter](#meta)                       | [Uses LLM/model](#uses-llm)         |
-| [Containers](#container)                      | [Mobile](#mobile)                         | [Vue.js](#vue)                      |
-| [Continuous Integration](#ci)                 | [Nix](#nix)                               | [Writing](#writing)                 |
-| [Deno](#deno)                                 | [Node.js](#nodejs)                        | [XML](#xml)                         |
-| [Dockerfile](#dockerfile)                     | [Packages](#package)                      | [YAML](#yaml)                       |
-| [Embedded](#embedded)                         | [Prometheus](#prometheus)                 | [git](#git)                         |
+| [.env](#dotenv)                               | [Embedded Ruby (a.k.a. ERB, eRuby)](#erb) | [Puppet](#puppet)                   |
+| [AI-generated code](#ai-generated-code)       | [Gherkin](#gherkin)                       | [Rails](#rails)                     |
+| [Agent Skills](#skill)                        | [HTML](#html)                             | [Security/SAST](#security)          |
+| [Ansible](#ansible)                           | [JSON](#json)                             | [Smart Contracts](#smart-contracts) |
+| [Archive](#archive)                           | [Kubernetes](#kubernetes)                 | [Support](#support)                 |
+| [Azure Resource Manager](#arm)                | [LaTeX](#latex)                           | [Template-Languages](#template)     |
+| [Binaries](#binary)                           | [Laravel](#laravel)                       | [Terraform](#terraform)             |
+| [Build tools](#buildtool)                     | [Makefiles](#make)                        | [Translation](#translation)         |
+| [CSS/SASS/SCSS](#css)                         | [Markdown](#markdown)                     | [Uses LLM/model](#uses-llm)         |
+| [Config Files](#configfile)                   | [Metalinter](#meta)                       | [Vue.js](#vue)                      |
+| [Configuration Management](#configmanagement) | [Mobile](#mobile)                         | [Writing](#writing)                 |
+| [Containers](#container)                      | [Nix](#nix)                               | [XML](#xml)                         |
+| [Continuous Integration](#ci)                 | [Node.js](#nodejs)                        | [YAML](#yaml)                       |
+| [Deno](#deno)                                 | [Packages](#package)                      | [git](#git)                         |
+| [Dockerfile](#dockerfile)                     | [Prometheus](#prometheus)                 |                                     |
+| [Embedded](#embedded)                         | [Protocol Buffers](#protobuf)             |                                     |
 
 </details>
 
@@ -1824,6 +1825,14 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [thailint](https://thai-lint.readthedocs.io/) — Multi-language linter targeting anti-patterns that appear disproportionately in AI-generated code: duplicated blocks across files, excessive nesting, magic numbers, Single Responsibility violations, and linter suppressions added without justification. Covers Python, TypeScript, JavaScript and Rust from one configuration, ships a pre-commit hook per rule, and emits text, JSON or SARIF for CI.
 
+<a id="skill"></a>
+
+<h2>Agent Skills</h2>
+
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
+
+*   [trentclaw](https://trent.ai/) — Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.
+
 <a id="ansible"></a>
 
 <h2>Ansible</h2>
@@ -1963,6 +1972,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   [dotenv-linter](https://dotenv-linter.readthedocs.io/en/latest) — Linting dotenv files like a charm.
 
 *   [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/) — Lightning-fast linter for .env files. Written in Rust
+
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 <details>
 <summary>Show Deprecated</summary>
@@ -2207,6 +2218,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 <h2>JSON</h2>
 
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
+
 *   [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
 <details>
@@ -2314,6 +2327,8 @@ but with the following improvements:
 *   [mdsf (⭐112)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
 *   [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
+
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 *   [textlint](https://textlint.github.io/) — textlint is an open source text linting utility written in JavaScript.
 
@@ -2524,6 +2539,8 @@ but with the following improvements:
 
 *   [scorecard (⭐5.7k)](https://github.com/ossf/scorecard) — Security Scorecards - Security health metrics for Open Source
 
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
+
 *   [squirrelscan](https://squirrelscan.com) — squirrelscan is a website QA tool built for coding agents such as Claude Code and Cursor. Its squirrel CLI crawls a live site and runs 260+ audit rules across SEO, performance, security, accessibility, structured data and agent experience, then returns exact source-mapped fixes. Runs from the terminal, CI, the cloud, or over MCP.
 
 *   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
@@ -2693,6 +2710,8 @@ but with the following improvements:
 <a id="yaml"></a>
 
 <h2>YAML</h2>
+
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 *   [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 

@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Sep 18, 2026](/content/2026/09/18/README.md)
+
+### Community / Other external resources
+
+*   [rails on X](https://x.com/rails)
+
 ## [Sep 16, 2026](/content/2026/09/16/README.md)
 
 ### DevTools / Other external resources
@@ -44,12 +50,6 @@ A curated list of awesome things related to Ruby on Rails
 
 *   [tidewave (⭐474)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
 
-## [May 23, 2026](/content/2026/05/23/README.md)
-
-### External Resources / Video tutorials
-
-*   [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/ruby-rails) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
-
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
 ### Starters/Boilerplates / Other external resources
@@ -84,7 +84,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [maybe (⭐54k)](https://github.com/maybe-finance/maybe) - The personal finance app for everyone (using Rails 7.2.2). - [:earth\_africa:](https://maybefinance.com/)
+*   [maybe (⭐54k)](https://github.com/maybe-finance/maybe) - The personal finance app for everyone (using Rails 7.2.2).
 
 ### Starters/Boilerplates / Other external resources
 
@@ -100,7 +100,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [Listopia (⭐38)](https://github.com/spaquet/listopia) - A modern list / task management app (using Rails 8). - [:earth\_africa:](https://listopia-dhv.pages.dev)
+*   [Listopia (⭐38)](https://github.com/spaquet/listopia) - A modern list / task management app (using Rails 8).
 
 ## [Jun 17, 2025](/content/2025/06/17/README.md)
 
@@ -124,7 +124,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [freeATS (⭐45)](https://github.com/freeats/freeats/) - An open source applicant tracking system with self-hosting capabilities (using Rails 7.1). - [:earth\_africa:](https://www.freeats.com/)
+*   [freeATS (⭐45)](https://github.com/freeats/freeats/) - An open source applicant tracking system with self-hosting capabilities (using Rails 7.1).
 
 ## [Sep 23, 2024](/content/2024/09/23/README.md)
 
@@ -146,7 +146,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [united](https://codeberg.org/reesericci/united) - A free and open membership directory for collective organizations (using Rails main). - [🌍](https://united.obl.ong)
+*   [united](https://codeberg.org/reesericci/united) - A free and open membership directory for collective organizations (using Rails main).
 
 ### Gems / Other external resources
 
@@ -180,7 +180,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐24)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
+*   [obl.ong (⭐24)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1)
 
 ## [Dec 16, 2023](/content/2023/12/16/README.md)
 
@@ -244,14 +244,9 @@ A curated list of awesome things related to Ruby on Rails
 
 *   [The Rails 7 Way](https://leanpub.com/therails7way)
 
-### External Resources / Other external resources
-
-*   [Explore Ruby](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources.
-
 ### Jobs / Other external resources
 
 *   [rails jobs on remoteok.com](https://remoteok.com/remote-ruby-jobs)
-*   [rails jobs on RubyJobBoard](https://www.rubyjobboard.com)
 
 ### Articles / Other external resources
 
@@ -260,13 +255,12 @@ A curated list of awesome things related to Ruby on Rails
 *   [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack)
 *   [Adding Super Fast Frontend Search in Rails with Lunr](https://blog.cloud66.com/adding-super-fast-frontend-search-in-rails-with-lunr)
 *   [Five Practices for Robust Ruby on Rails Applications](https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications)
-*   [Build a Rails application with VueJS using JSX](https://nebulab.com/blog/build-rails-application-vuejs-using-jsx)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [blackCandy (⭐4.4k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
 *   [dcaf\_case\_management (⭐92)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
-*   [eol (⭐61)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
+*   [eol (⭐61)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2
 *   [mastodon (⭐50k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
 *   [postal (⭐17k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
 *   [scholarsphere (⭐13)](https://github.com/psu-libraries/scholarsphere) - A digital assets management app - using Rails 6.1
@@ -295,7 +289,6 @@ A curated list of awesome things related to Ruby on Rails
 
 ### External Resources / Youtube channels
 
-*   [TypeFast](https://www.youtube.com/@typefastco/videos)
 *   [APPSIMPACT Academy](https://www.youtube.com/@APPSIMPACTAcademy/videos)
 *   [Mix & Go](https://www.youtube.com/@mixandgo/videos)
 *   [Phil Smy](https://www.youtube.com/@PhilSmy/videos)
@@ -326,12 +319,6 @@ A curated list of awesome things related to Ruby on Rails
 ### Open Source Rails Apps / Other external resources
 
 *   [human-essentials (⭐590)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
-
-## [Oct 17, 2022](/content/2022/10/17/README.md)
-
-### Jobs / Other external resources
-
-*   [rails jobs on rubyonremote.com](https://rubyonremote.com/)
 
 ## [Oct 16, 2022](/content/2022/10/16/README.md)
 
@@ -364,15 +351,15 @@ A curated list of awesome things related to Ruby on Rails
 *   [discourse (⭐48k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
 *   [ekylibre (⭐489)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [expertiza (⭐194)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
-*   [fairmondo (⭐110)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1). - [:earth\_africa:](https://www.fairmondo.de)
+*   [fairmondo (⭐110)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1).
 *   [fat-free-crm (⭐3.6k)](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
 *   [feedbin (⭐3.8k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
 *   [forem (⭐23k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
 *   [fromthepage (⭐186)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
 *   [gitlabhq (⭐25k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
-*   [growstuff (⭐475)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
-*   [hackershare (⭐664)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
-*   [hitobito (⭐478)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [growstuff (⭐475)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1).
+*   [hackershare (⭐664)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0).
+*   [hitobito (⭐478)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
 *   [inaturalist (⭐850)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐4.8k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.6k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
@@ -387,17 +374,11 @@ A curated list of awesome things related to Ruby on Rails
 *   [quant (⭐136)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
 *   [racing\_on\_rails (⭐41)](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 6.1).
 *   [rapidFTR (⭐284)](https://github.com/rapidftr/RapidFTR) - An information provider app for aid workers (using Rails 4.0).
-*   [redmine (⭐2.4k)](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1). - [:earth\_africa:](http://demo.redmine.org)
+*   [redmine (⭐2.4k)](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1).
 *   [theodinproject (⭐4.6k)](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
 *   [tracks (⭐1.2k)](https://github.com/TracksApp/tracks) - A goal tracking app (using Rails 6.0). - [:earth\_africa:](https://www.getontracks.org)
 *   [vglist (⭐159)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
 *   [websiteOne (⭐144)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
-
-## [Sep 17, 2022](/content/2022/09/17/README.md)
-
-### External Resources / Video tutorials
-
-*   [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
 
 ## [Sep 08, 2022](/content/2022/09/08/README.md)
 
@@ -416,12 +397,6 @@ A curated list of awesome things related to Ruby on Rails
 *   [react\_on\_rails (⭐5.2k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
 *   [shakapacker (⭐489)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
-## [Aug 17, 2022](/content/2022/08/17/README.md)
-
-### Jobs / Other external resources
-
-*   [rails jobs on web3.career](https://web3.career/ruby-jobs)
-
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
 ### Open Source Rails Apps / Other external resources
@@ -433,12 +408,6 @@ A curated list of awesome things related to Ruby on Rails
 ### Starters/Boilerplates / Other external resources
 
 *   [rails\_new (⭐164)](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
-
-## [Feb 07, 2022](/content/2022/02/07/README.md)
-
-### Jobs / Other external resources
-
-*   [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 
@@ -498,8 +467,6 @@ A curated list of awesome things related to Ruby on Rails
 *   [Building a Component Library in Rails With Storybook](https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4)
 *   [How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago](https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0)
 *   [Endless Scroll / Infinite Loading with Turbo Streams & Stimulus](https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89)
-*   [How to balance the public APIs of an open-source library — practical examples from RailsEventStore](https://blog.arkency.com/how-to-balance-the-public-apis-of-open-source-library-practical-examples-from-railseventstore/)
-*   [Rack apps mounted in Rails — how to protect access to them?](https://blog.arkency.com/common-authentication-for-mounted-rack-apps-in-rails/)
 *   [Creating Custom Postgres Data Types in Rails](https://pganalyze.com/blog/custom-postgres-data-types-ruby-rails)
 *   [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 *   [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
@@ -681,13 +648,11 @@ A curated list of awesome things related to Ruby on Rails
 *   [coderwall (legacy) (⭐856)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
 *   [coderwall (next) (⭐200)](https://github.com/coderwall/coderwall-next) - A social network app for software engineers - using Rails 5.0
 *   [contribulator (⭐84)](https://github.com/24pullrequests/contribulator) - An open source project finder app - using Rails 5.1
-*   [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - A carpooling app - using Rails 5.0 (archived).
 *   [crowdAI (⭐152)](https://github.com/crowdAI/crowdai) - An app for data science challenges (using Rails 5.2). - [:earth\_africa:](https://www.aicrowd.com/crowdai.html)
-*   [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
 *   [follow-all (⭐80)](https://github.com/codeforamerica/follow-all) - A Twitter account management app (using Rails 4.2). (archived).
 *   [graff\_mags (⭐19)](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app (using Rails 4.1).
 *   [hashrobot (⭐48)](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
-*   [helpy (⭐2.5k)](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2). - [:earth\_africa:](https://helpy.io/)
+*   [helpy (⭐2.5k)](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2).
 *   [hours (⭐1k)](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2).
 *   [intercityup.com (⭐112)](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
 *   [kitsu-tools (⭐2.1k)](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform (using Rails 4.1).
@@ -749,13 +714,6 @@ A curated list of awesome things related to Ruby on Rails
 *   [When Should You Upgrade Your Rails Application?](https://blog.planetargon.com/entries/when-should-you-upgrade-your-rails-application)
 *   [Helpful Resources for Upgrading Your Rails App Version](https://blog.planetargon.com/entries/helpful-resources-for-your-rails-upgrade)
 *   [Upgrading Rails: Interview with Eileen Uchitelle](https://blog.planetargon.com/entries/upgrading-rails-an-interview-with-eileen-uchitelle)
-*   [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](https://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
-*   [How well Rails developers actually test their apps](https://blog.arkency.com/how-well-rails-developers-actually-test-their-apps/)
-*   [Rails multitenancy story in 11 snippets of code](https://blog.arkency.com/rails-multitenancy-story-in-11-snippets-of-code/)
-*   [Painless Rails upgrades](https://blog.arkency.com/painless-rails-upgrades/)
-*   [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
-*   [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
-*   [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
 *   [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 *   [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
 *   [Understanding the Model-View-Controller (MVC) Architecture in Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/)
@@ -797,7 +755,6 @@ A curated list of awesome things related to Ruby on Rails
 ### Articles / Other external resources
 
 *   [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
-*   [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 *   [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
 *   [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
 *   [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
@@ -839,5 +796,4 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Community / Other external resources
 
-*   [rails on Twitter](https://twitter.com/rails)
 *   [rails on Reddit](https://www.reddit.com/r/rails/)

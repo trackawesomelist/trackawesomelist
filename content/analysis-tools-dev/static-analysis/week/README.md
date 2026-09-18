@@ -31,6 +31,7 @@
 
 ### Other / [Other](#other-1)
 
+*   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 *   [cookstyle](https://docs.chef.io/workstation/cookstyle/) — Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
@@ -152,6 +153,7 @@
 *   **quality** :warning: — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 *   **Traceroute** :warning: — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 *   [thailint](https://thai-lint.readthedocs.io/) — Multi-language linter targeting anti-patterns that appear disproportionately in AI-generated code: duplicated blocks across files, excessive nesting, magic numbers, Single Responsibility violations, and linter suppressions added without justification. Covers Python, TypeScript, JavaScript and Rust from one configuration, ships a pre-commit hook per rule, and emits text, JSON or SARIF for CI.
+*   [trentclaw](https://trent.ai/) — Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.
 *   **pure** :warning: — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
 *   **AzSK** :warning: — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 *   **binbloom** :warning: — Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
@@ -170,7 +172,6 @@
 *   [krane (⭐745)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
     It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 *   **anchore** :warning: — Discover, analyze, and certify container images. A service that analyzes Docker images and applies user-defined acceptance policies  to allow automated container image validation and certification
-*   [trentclaw](https://trent.ai/) — Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.
 *   [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 *   **gherkin-lint** :warning: — A linter for the Gherkin-Syntax written in Javascript.
 *   **HTML Tidy** :warning: — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.

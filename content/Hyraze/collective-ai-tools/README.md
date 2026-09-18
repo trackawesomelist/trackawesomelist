@@ -6,6 +6,12 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 18, 2026](/content/2026/09/18/README.md)
+
+### Productivity
+
+*   [Screenpipe](https://screenpipe.com/) - Captures screen text and audio transcripts locally, making computer history searchable for people and AI assistants through MCP and a local API. `#freemium` `#productivity`
+
 ## [Sep 13, 2026](/content/2026/09/13/README.md)
 
 ### Developer Tools
@@ -87,7 +93,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [SandBase CLI (⭐85)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐170)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
@@ -279,7 +285,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [codex-profiles (⭐107)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [codex-profiles (⭐146)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 
 ## [Jul 08, 2026](/content/2026/07/08/README.md)
 
@@ -359,14 +365,14 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
-*   [Codex CLI (⭐120k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐125k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Gemini CLI (⭐107k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐203k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐208k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`

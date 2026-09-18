@@ -11,7 +11,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐231)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐231)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐237)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐237)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/hanishrao/collective-ai-tools)
@@ -424,8 +424,8 @@ Use these hashtags in search to filter out the tools
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
-*   [Codex CLI (⭐120k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
-*   [codex-profiles (⭐107)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [Codex CLI (⭐125k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [codex-profiles (⭐146)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. `#freemium`
@@ -467,7 +467,7 @@ Use these hashtags in search to filter out the tools
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐203k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐208k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
@@ -478,7 +478,7 @@ Use these hashtags in search to filter out the tools
 *   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
 *   [ReviewCerberus (⭐32)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
-*   [SandBase CLI (⭐85)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐170)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
@@ -957,6 +957,7 @@ Use these hashtags in search to filter out the tools
 *   [Raycast AI](https://www.raycast.com/ai) - Mac-native operating system AI extension. `#freemium`
 *   [Reclaim AI](https://reclaim.ai/) - AI-powered calendar management and time blocking. `#freemium`
 *   [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
+*   [Screenpipe](https://screenpipe.com/) - Captures screen text and audio transcripts locally, making computer history searchable for people and AI assistants through MCP and a local API. `#freemium` `#productivity`
 *   [Soda Office](https://soda.office/) - Comprehensive navigation for office and life tools. `#free`
 *   [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
 *   [Taskade](https://www.taskade.com/) - Taskade elegantly unifies your team tasks, notes, and mind, stripping away the noise to reveal the essence of productivity. `#freemium`

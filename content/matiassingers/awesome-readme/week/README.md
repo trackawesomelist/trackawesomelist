@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ [Daily](/content/matiassingers/awesome-readme/README.md) / Weekly / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Examples
+
+*   [Bonevane/Bridge (⭐3)](https://github.com/Bonevane/Bridge#readme) - A shared palette for the project banner and architecture diagram. The problem is set out as three cards with the solution as a walkthrough. A security model table shows what's exposed in each state. Getting started covers both installing a release and building from source. Clear screenshots of both platforms alongside a roadmap checklist and acknowledgements with licenses.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Tools
@@ -209,7 +215,7 @@ A curated list of awesome READMEs
 *   [Oh My Zsh (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐76k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 *   [Tauri (⭐111k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
-*   [VS Code (⭐190k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
+*   [VS Code (⭐192k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ### Articles
 
@@ -233,7 +239,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [hywax/mafl (⭐754)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐755)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 *   [Owloops/updo (⭐1.1k)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
@@ -308,7 +314,7 @@ A curated list of awesome READMEs
 
 ### Creating GIFs
 
-*   [Gifski (⭐8.5k)](https://github.com/sindresorhus/Gifski#readme) - **Free** - More vivid colors than the rest, but still keeps size low.
+*   [Gifski (⭐8.6k)](https://github.com/sindresorhus/Gifski#readme) - **Free** - More vivid colors than the rest, but still keeps size low.
 *   [LICEcap](https://www.cockos.com/licecap/) - **Free** - Less intuitive, but with more features.
 *   [terminalizer (⭐16k)](https://github.com/faressoft/terminalizer) - **Free** - Record your terminal and generate animated GIF images or share a web player.
 

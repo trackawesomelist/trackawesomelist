@@ -6,6 +6,12 @@
 
 [ [Daily](/content/transitive-bullshit/awesome-ffmpeg/README.md) / Weekly / [Overview](/content/transitive-bullshit/awesome-ffmpeg/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### JavaScript
+
+*   [lottie-render (⭐2)](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Tutorials
@@ -22,7 +28,7 @@
 
 ### Tutorials
 
-*   [A Beginner's FFmpeg Cookbook (⭐101)](https://github.com/talwrii/ffmpeg-cookbook)
+*   [A Beginner's FFmpeg Cookbook (⭐103)](https://github.com/talwrii/ffmpeg-cookbook)
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -42,7 +48,7 @@
 
 *   [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
 *   [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
-*   [CLI flags (⭐51)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
+*   [CLI flags (⭐52)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 ### JavaScript
 
@@ -62,7 +68,7 @@
 
 ### Native
 
-*   [ffmpeg-gl-transition (⭐720)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+*   [ffmpeg-gl-transition (⭐719)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -97,7 +103,7 @@
 
 *   [fluent-ffmpeg (⭐8.2k)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 *   [ffmpeg-probe (⭐16)](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
-*   [ffmpeg-generate-video-preview (⭐161)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
+*   [ffmpeg-generate-video-preview (⭐162)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 *   [ffmpeg-extract-frame (⭐16)](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video.
 *   [ffmpeg-extract-audio (⭐18)](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
 *   [ffmpeg-on-progress (⭐14)](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
