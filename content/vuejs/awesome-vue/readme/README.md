@@ -1154,6 +1154,7 @@ Tooltips / popovers
 
 *   [v-idle (⭐69)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 *   [vue-timer-hook (⭐182)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [Clock UI (⭐5)](https://github.com/clock-ui/clock-ui) - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 
 #### Calendar
 
@@ -1181,8 +1182,10 @@ Tooltips / popovers
 
 #### Audio / Video
 
+*   [vue-aliplay-player (⭐0)](https://github.com/Jabo2017/vue-aliplay-player) - Vue 3 wrapper for Aliplayer (Alibaba Cloud video player) with TypeScript support.
 *   [vue-audio-visual (⭐799)](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 *   [vue-h5-audio-controls (⭐12)](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
+*   [vue-super-player (⭐0)](https://github.com/Jabo2017/vue-super-player) - Multi-kernel video player component for Vue 3 (native / HLS / FLV / Aliplayer).
 *   [vue-use-sound (⭐559)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
 *   [Vue-Player (⭐11)](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
@@ -1761,6 +1764,7 @@ Payment utilities.
 *   [vue-x-platforms (⭐21)](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 *   [mevn-boilerplate (⭐246)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 *   [monorepo-template (⭐8)](https://github.com/Nagell/monorepo_template) - 🗂️ Vue 3 monorepo template with pnpm, Nx, Vite, Tailwind CSS, Storybook, TypeScript, and ready-to-use shared libraries.
+*   [Extension.js (⭐5.2k)](https://github.com/extension-js/extension.js) - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
 
 #### Universal
 

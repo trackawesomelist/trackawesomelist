@@ -8,9 +8,19 @@
 
 ## [Sep 18, 2026](/content/2026/09/18/README.md)
 
+### Components & Libraries / UI Components
+
+*   [Clock UI (⭐5)](https://github.com/clock-ui/clock-ui) - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
+*   [vue-aliplay-player (⭐0)](https://github.com/Jabo2017/vue-aliplay-player) - Vue 3 wrapper for Aliplayer (Alibaba Cloud video player) with TypeScript support.
+*   [vue-super-player (⭐0)](https://github.com/Jabo2017/vue-super-player) - Multi-kernel video player component for Vue 3 (native / HLS / FLV / Aliplayer).
+
 ### Components & Libraries / Dev Tools
 
 *   [Poveste (⭐2)](https://github.com/poveste-dev/poveste) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
+
+### Components & Libraries / Scaffold
+
+*   [Extension.js (⭐5.2k)](https://github.com/extension-js/extension.js) - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
 
 ## [Sep 17, 2026](/content/2026/09/17/README.md)
 
