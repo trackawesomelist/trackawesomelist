@@ -18,6 +18,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [SnapEnv](https://snapenv.io/) - Secure environment variable manager for dev teams. AES-256-GCM encryption at rest, CLI, Kubernetes operator, and audit log. Free plan includes 3 projects, 3 members, and 3 environments per project, forever.
 
+### Education and Career Development
+
+*   [DevOpsLesson](https://devopslesson.com/) - Free DevOps tutorials, cheatsheets, troubleshooting guides, roadmaps, interview preparation and DevOps tools: Dockerfile Linter, K8S YAML file generator, Regex Tester.
+
 ### PaaS
 
 *   [Deplexo](https://deplexo.com/) - Developer-focused PaaS for deploying and hosting applications with Git-based deployments, custom domains, automatic HTTPS, and Dockerfile support. Run Node.js, Python, Go, Java, Rust, PHP, static sites, and more. The free tier includes 1 app with 0.25 vCPU, 128 MB RAM, 250 MB disk, and 100 GB bandwidth.

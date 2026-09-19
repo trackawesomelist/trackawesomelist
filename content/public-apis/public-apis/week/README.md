@@ -57,6 +57,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [SoloLuck](https://sololuck.io/api)
+
+  Description: Bitcoin solo mining pool stats, per-address miner stats and an open dataset of solo-mined blocks
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [The Coin Analysis](https://www.thecoinanalysis.com/developers)
 
   Description: Live and historical cryptocurrency prices, market caps, volatility and drawdown
@@ -82,6 +93,17 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [Agent Nexus](https://agentnexus.app/llms.txt)
+
+  Description: Continuously probed registry of APIs, MCP servers and CLIs callable by agents
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Framejet](https://framejet.dev/docs)
 
   Description: Website screenshot API with cookie banners and chat widgets removed; free tier
@@ -91,6 +113,28 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [Litport Free Proxy](https://litport.net/docs/free-proxy-api)
+
+  Description: Live-tested HTTP, SOCKS4, and SOCKS5 proxies with latency, uptime, and geolocation
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [NameGender](https://namegender.com/docs)
+
+  Description: Gender from a first name, full name, email or username, with probability
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Nerdulator](https://nerdulator.com/api)
@@ -157,6 +201,17 @@ A collective list of free APIs
 
 ### Email
 
+- API: [Email Spam Tester](https://email-spam-tester.com/api-docs/)
+
+  Description: Send a test message and get a spam score, 41 checks with RFC citations and a fix plan
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Email Validator by LifeStep](https://email.lifestep.io)
 
   Description: Validate email syntax and MX, detect disposable/role addresses, suggest typo fixes
@@ -177,6 +232,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [Xeramail Temp Mail](https://xeramail.com/docs/api)
+
+  Description: Temp email address REST API for privacy, testing, automation with OTP extraction
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -231,8 +297,32 @@ A collective list of free APIs
   : 
 
 
+- API: [XOOMAR](https://xoomar.com/markets/api)
+
+  Description: US market data from SEC, FINRA, CFTC and the Fed: filings, insiders, earnings dates, short interest
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
 
 ### Geocoding
+
+- API: [AtlasFetch](https://atlasfetch.xyz/docs)
+
+  Description: Reverse geocode coordinates to country, region and municipality with ISO 3166 codes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [IP99](https://ip99.com/api)
 
@@ -253,6 +343,17 @@ A collective list of free APIs
   Description: US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [EU VAT Rates by Commodity Code (⭐0)](https://github.com/humora2504/eu-vat-by-commodity-code)
+
+  Description: EU VAT rates mapped to CN and CPA commodity codes, all 27 member states
+
+  Auth: `No`
 
   HTTPS: Yes
 
@@ -285,6 +386,31 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [RankFabrik Jobs](https://rankfabrik.com/produits/emplois)
+
+  Description: Aggregated job postings search, deduplicated on identifier, with coverage per segment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### News
+
+- API: [NewsMesh](https://newsmesh.co/docs)
+
+  Description: Premium news data from thousands of sources
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -338,6 +464,20 @@ A collective list of free APIs
 
 
 
+### Science & Math
+
+- API: [Open Ephemeris](https://openephemeris.com/docs)
+
+  Description: Sub-arcsecond planetary positions, natal charts, transits, and Human Design from NASA JPL DE440
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Security
 
 - API: [CompliAPI](https://docs.compliapi.com)
@@ -349,6 +489,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [ThreatCluster](https://threatcluster.io/api/public/v1/docs)
+
+  Description: Threat intelligence: incident clusters, validated IOCs, CVEs, ransomware leak-site victims
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -412,6 +563,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [OddsRadarWire](https://oddsradarwire.com/docs.html)
+
+  Description: Live and prematch Betradar odds with raw no-vig probabilities, REST and SSE
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Parlay](https://parlay-api.com/docs)
 
   Description: Real-time sports odds and player props from 45+ sportsbooks and sources across 90+ sports
@@ -440,6 +602,42 @@ A collective list of free APIs
 - API: [Waldrand Avatar](https://avatar.waldrand.dev)
 
   Description: Deterministic SVG/PNG/WebP avatars from any string, four styles
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Aether-X Port Congestion](https://aether-x-oracle-production.up.railway.app/docs)
+
+  Description: Real-time port congestion risk scores, ETA delays and waiting vessels for 15 global ports
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Aether-X Port Congestion Oracle](https://rapidapi.com/belegante/api/aether-x-port-congestion-oracle)
+
+  Description: Predictive port congestion, ETA delay and freight volatility signals for 16 global ports
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [GTFS Scorecard (⭐1)](https://github.com/ChelseaKR/gtfs-scorecard/blob/main/docs/api.md)
+
+  Description: Data-quality grades and prioritized fixes for 2,400+ public transit GTFS feed records
 
   Auth: No
 
