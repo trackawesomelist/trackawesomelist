@@ -151,6 +151,7 @@ Use these hashtags in search to filter out the tools
 *   [Jackey](https://jackey.elixpo.com/) - A Discord bot that generates and remixes images from text prompts, helping communities create stunning visuals instantly. `#free` `#opensource`
 *   [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
 *   [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork `#free`
+*   [RestorePhoto](https://restorephoto.org/) - Improves facial clarity in old portraits and blurry family photos with browser-based AI. `#freemium` `#photo`
 *   [seaart.ai](https://www.seaart.ai/) - AI image generation tool with advanced configurations available, tons of ready to use models and image enhancements, text to img , img to text and much. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -404,7 +405,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
-*   [agent-qa (⭐901)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
+*   [agent-qa (⭐885)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
@@ -1016,6 +1017,7 @@ Use these hashtags in search to filter out the tools
 *   [Consensus](https://consensus.app/) - AI-powered research engine that finds and summarizes scientific papers. `#freemium`
 *   [Elicit](https://elicit.org/) - AI research assistant that helps you find and analyze academic papers. `#freemium`
 *   [Lime AI](https://www.datalimeai.com/) - AI-powered research assistant for data-related tasks, designed to streamline and simplify data research and analysis processes. `#paid`
+*   [Musuw](https://musuw.com/) - AI knowledge workspace with cited answers, connected Wiki pages, and a knowledge graph. `#freemium`
 *   [NotebookLM](https://notebooklm.google.com/) - Google’s multimodal research thinking assistant. `#free`
 *   [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered research discovery and organization tool. `#free`
 *   [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search engine with paper recommendations. `#free`

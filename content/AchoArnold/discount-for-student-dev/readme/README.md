@@ -2,7 +2,7 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 3.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐97k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐137k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -182,7 +182,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 ## PaaS
 
-*   [Amazon Web Services](https://www.awseducate.com/application) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+*   [Amazon Web Services](https://aws.amazon.com/education/awseducate/) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
 *   [Google Cloud Platform](https://cloud.google.com) \[TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
@@ -222,7 +222,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 ## Maps
 
-*   [Mapbox](https://www.mapbox.com/community/education) \[CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
+*   [Mapbox](https://www.mapbox.com/education) \[CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
 
 ## Localization
 
@@ -242,7 +242,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [NameCheap](https://nc.me) \[FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
 
-*   [.tech](https://get.tech/students) \[DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
+*   [.tech](https://get.tech/github-student-developer-pack) \[DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 
 *   [name.com](https://www.name.com/partner/github-students)\[FREE] - Domain names, web hosting, and websites. One free domain name and free Advanced Security (SSL, privacy protection, and more) via [Github Student Developer Pack](https://education.github.com/pack).
 

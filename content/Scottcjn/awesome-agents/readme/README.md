@@ -66,14 +66,15 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Hivekeep (⭐54)](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 *   [Aeon (⭐718)](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
 *   [Atomic Agent (⭐2.5k)](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required, 56 built-in tools across browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system on macOS, Linux, and Windows.
+*   [Agent QA (⭐885)](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS, with reviewable run evidence.
 
 ## Frameworks
 
 *Libraries and frameworks for building agent systems programmatically.*
 
-*   [LangChain (⭐145k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LangChain (⭐147k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐52k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
-*   [CrewAI (⭐58k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
+*   [CrewAI (⭐59k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
 *   [Autogen (⭐61k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐29k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐42k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
@@ -81,7 +82,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Pydantic AI (⭐20k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
 *   [Swarm (⭐22k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 *   [Smolagents (⭐29k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
-*   [LangGraph (⭐41k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+*   [LangGraph (⭐42k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
 *   [LightAgent (⭐1.2k)](https://github.com/wanxingai/LightAgent) - Lightweight Python framework for tool-using agents, memory-backed assistants, deterministic workflows, and multi-agent collaboration.
 *   [DSPy (⭐38k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 *   [Rivet (⭐4.7k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.

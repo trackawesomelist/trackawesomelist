@@ -23,6 +23,7 @@ Collections of awesome neovim plugins.
 ### Animation / CSV Files
 
 *   [josstei/whisk.nvim (⭐58)](https://github.com/josstei/whisk.nvim) - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
+*   [RedEye-Developers/starfall.nvim (⭐12)](https://github.com/RedEye-Developers/starfall.nvim) - Star twinkling, falling and shooting star crossing animation in background.
 
 ### Code Runner / Quickfix
 
@@ -165,7 +166,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [tan-wei/zimablue.nvim (⭐2)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐65)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐71)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ### Utility / Cursorline
 
@@ -280,7 +281,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [dominic-righthere/markdown-pipetable.nvim (⭐7)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐8)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
 ### Project / Markdown and LaTeX
 

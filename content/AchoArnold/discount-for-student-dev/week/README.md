@@ -2,9 +2,23 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 3.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
+
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### PaaS
+
+*   [Amazon Web Services](https://aws.amazon.com/education/awseducate/) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+
+### Maps
+
+*   [Mapbox](https://www.mapbox.com/education) \[CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
+
+### Domain Name Registers
+
+*   [.tech](https://get.tech/github-student-developer-pack) \[DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 
 ## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
 
@@ -243,16 +257,11 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### PaaS
 
-*   [Amazon Web Services](https://www.awseducate.com/application) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 *   [Heroku](https://www.heroku.com/students)\[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
 
 ### CI / CD
 
 *   [ConfigCat](https://configcat.com/student/) \[FREE] - Learn feature flags with the industry leading feature flag service.1000 feature flags, ∞ users for free.
-
-### Maps
-
-*   [Mapbox](https://www.mapbox.com/community/education) \[CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
 
 ### Domain Name Registers
 
@@ -396,7 +405,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### Domain Name Registers
 
-*   [.tech](https://get.tech/students) \[DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 *   [name.com](https://www.name.com/partner/github-students)\[FREE] - Domain names, web hosting, and websites. One free domain name and free Advanced Security (SSL, privacy protection, and more) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ### Security

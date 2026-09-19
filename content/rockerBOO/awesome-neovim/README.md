@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 19, 2026](/content/2026/09/19/README.md)
+
+### Animation / CSV Files
+
+*   [RedEye-Developers/starfall.nvim (⭐12)](https://github.com/RedEye-Developers/starfall.nvim) - Star twinkling, falling and shooting star crossing animation in background.
+
 ## [Sep 17, 2026](/content/2026/09/17/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
@@ -203,7 +209,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [mitander/flume.nvim (⭐65)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐71)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -368,7 +374,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [dominic-righthere/markdown-pipetable.nvim (⭐7)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐8)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
 

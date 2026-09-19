@@ -480,6 +480,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [Graphite (⭐27k)](https://github.com/GraphiteEditor/Graphite) - Vector-based graphics editor.
 *   [Imager (⭐729)](https://github.com/imager-io/imager) - Automated image optimization.
 *   [oxipng (⭐4.2k)](https://github.com/oxipng/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/oxipng/oxipng/workflows/oxipng/badge.svg)](https://github.com/oxipng/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
+*   [sorairolake/favico (⭐10)](https://github.com/sorairolake/favico) \[[favico](https://crates.io/crates/favico)] - An utility for creating favicons [![CI](https://github.com/sorairolake/favico/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/favico/actions/workflows/CI.yaml)
 *   [Sprite Fusion Pixel Snapper (⭐3.2k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).
 *   [visioncortex/vtracer (⭐7.1k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
 
@@ -692,7 +693,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [gitbutlerapp/gitbutler (⭐22k)](https://github.com/gitbutlerapp/gitbutler) - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
 *   [gitui (⭐22k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
 *   [GQL (⭐3.5k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
-*   [harry0703/MangoDisk (⭐2.1k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
+*   [harry0703/MangoDisk (⭐2.9k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
 *   [httm (⭐1.7k)](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
 *   [hyperb1iss/unifly (⭐256)](https://github.com/hyperb1iss/unifly) \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml)
 *   [j0ru/kickoff (⭐482)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
@@ -737,6 +738,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [sitkevij/hex (⭐567)](https://github.com/sitkevij/hex) - A colorized hexdump terminal utility.
 *   [Skardyy/mcat (⭐1.4k)](https://github.com/Skardyy/mcat) \[[mcat](https://crates.io/crates/mcat)] - View images, video, Markdown, and other documents in the terminal.
 *   [skim (⭐7k)](https://github.com/skim-rs/skim) - A fuzzy finder
+*   [sorairolake/rzopfli (⭐5)](https://github.com/sorairolake/rzopfli) \[[rzopfli](https://crates.io/crates/rzopfli)] - A lossless data compression tool using Zopfli [![CI](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml)
 *   [supercilex/fuc (⭐533)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 *   [theBGuy/GitDesktop (⭐218)](https://github.com/theBGuy/GitDesktop) - Keyboard-first Git desktop client with PR, issue, discussion, CI and notification management across GitHub, GitLab and Bitbucket, plus Jira linking and AI agent integration; Tauri + Rust backend [![Release](https://github.com/theBGuy/GitDesktop/actions/workflows/release.yml/badge.svg)](https://github.com/theBGuy/GitDesktop/actions/workflows/release.yml)
 *   [timhartmann7/omnyssh (⭐849)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
@@ -838,6 +840,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [rustic-rs/rustic (⭐3.3k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 *   [ruvnet/RuView (⭐93k)](https://github.com/ruvnet/RuView) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
 *   [sorairolake/qrtool (⭐296)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [sorairolake/randgen (⭐2)](https://github.com/sorairolake/randgen) \[[randgen](https://crates.io/crates/randgen)] - Generate pseudo-random bytes [![CI](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml)
 *   [splashboard (⭐214)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
 *   [str4d/rage (⭐3.7k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐24k)](https://github.com/FiloSottile/age).
 *   [suckit (⭐810)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
@@ -940,6 +943,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
 *   [clog-tool/clog-cli (⭐920)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [cloudflare/foundations (⭐1.7k)](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
+*   [cordx56/rustowl (⭐5.2k)](https://github.com/cordx56/rustowl) \[[rustowl](https://crates.io/crates/rustowl)] - Visualize Ownership and Lifetimes in Rust [![CI](https://github.com/cordx56/rustowl/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/cordx56/rustowl/actions/workflows/checks.yml)
 *   [create-rust-app (⭐1.6k)](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 *   [dan-t/rusty-tags (⭐425)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
 *   [datanymizer/datanymizer (⭐571)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
@@ -1339,7 +1343,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [juyterman1000/entroly (⭐443)](https://github.com/juyterman1000/entroly) - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.
 *   [memvid/memvid (⭐17k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 *   [pydantic/monty (⭐8.2k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
-*   [tenequm/pond (⭐58)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
+*   [tenequm/pond (⭐69)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
 
 ### Astronomy
 
@@ -1505,7 +1509,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] - A 7z decompressor/compressor written in pure rust.
+    *   [hasenbanck/sevenz-rust2 (⭐117)](https://github.com/hasenbanck/sevenz-rust2) \[[sevenz-rust2](https://crates.io/crates/sevenz-rust2)] - A 7z decompressor/compressor written in pure Rust [![Rust](https://github.com/hasenbanck/sevenz-rust2/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/hasenbanck/sevenz-rust2/actions/workflows/rust.yml)
 *   [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html)
     *   [dropbox/rust-brotli (⭐943)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
     *   [ende76/brotli-rs (⭐65)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
@@ -1515,6 +1519,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [zopfli (⭐55)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 *   gzp
     *   [sstadick/gzp (⭐180)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+*   LZMA
+    *   [hasenbanck/lzma-rust2 (⭐49)](https://github.com/hasenbanck/lzma-rust2) \[[lzma-rust2](https://crates.io/crates/lzma-rust2)] - LZMA / LZMA2 / LZIP / XZ compression ported from [tukaani xz for java](https://tukaani.org/xz/java.html) [![Rust](https://github.com/hasenbanck/lzma-rust2/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/hasenbanck/lzma-rust2/actions/workflows/rust.yml)
 *   miniz
     *   [rust-lang/flate2-rs (⭐1.1k)](https://github.com/rust-lang/flate2-rs) - [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
 *   [paxit (⭐1)](https://github.com/roquess/paxit) \[[paxit](https://crates.io/crates/paxit)] - Flexible library for compressing and decompressing files using various algorithms (zip, tar, gzip, xz, zst, etc.) with modular design for easy extension
@@ -1764,6 +1770,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [burntSushi/jiff (⭐2.9k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 *   [chronotope/chrono (⭐3.9k)](https://github.com/chronotope/chrono) - Date and time library
 *   [Mnwa/ms (⭐36)](https://github.com/Mnwa/ms) \[[ms-converter](https://crates.io/crates/ms-converter)] - it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild)
+*   [sorairolake/dos-date-time (⭐0)](https://github.com/sorairolake/dos-date-time) \[[dos-date-time](https://crates.io/crates/dos-date-time)] - An MS-DOS date and time library [![CI](https://github.com/sorairolake/dos-date-time/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/dos-date-time/actions/workflows/CI.yaml)
 *   [sorairolake/nt-time (⭐13)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
 *   [time-rs/time (⭐1.3k)](https://github.com/time-rs/time) - [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
@@ -1836,6 +1843,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [mrhooray/crc-rs (⭐234)](https://github.com/mrhooray/crc-rs) - Rust implementation of CRC(16, 32, 64) with support of various standards
 *   CSV
     *   [BurntSushi/rust-csv (⭐2k)](https://github.com/BurntSushi/rust-csv) - A fast and flexible CSV reader and writer, with support for Serde
+*   Data Matrix
+    *   [jannschu/datamatrix-rs (⭐20)](https://github.com/jannschu/datamatrix-rs) \[[datamatrix](https://crates.io/crates/datamatrix)] - Data Matrix (ECC 200) decoding and encoding with an optimizing encoder [![CI](https://github.com/jannschu/datamatrix-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jannschu/datamatrix-rs/actions/workflows/ci.yml)
 *   EDN
     *   [edn-rs (⭐81)](https://github.com/naomijub/edn-rs) \[[edn-rs](https://crates.io/crates/edn-rs)] - crate to parse and emit EDN format into Rust types.
 *   [FlatBuffers](https://flatbuffers.dev/)
@@ -1860,6 +1869,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   ProtocolBuffers
     *   [stepancheg/rust-protobuf (⭐3k)](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
     *   [tokio-rs/prost (⭐4.8k)](https://github.com/tokio-rs/prost) - [![continuous integration](https://github.com/tokio-rs/prost/workflows/continuous%20integration/badge.svg?branch=master)](https://github.com/tokio-rs/prost/actions)
+*   QR code
+    *   [magiclen/qrcode-generator (⭐72)](https://github.com/magiclen/qrcode-generator) \[[qrcode-generator](https://crates.io/crates/qrcode-generator)] - Generates ISO/IEC 18004 QR Code and Micro QR Code symbols and ISO/IEC 23941 rMQR symbols in pure Rust, then renders them as grayscale, PNG and SVG images. [![CI](https://github.com/magiclen/qrcode-generator/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/magiclen/qrcode-generator/actions/workflows/ci.yml)
+    *   [sorairolake/qrcode-rust2 (⭐2)](https://github.com/sorairolake/qrcode-rust2) \[[qrcode2](https://crates.io/crates/qrcode2)] - A QR code encoding library [![CI](https://github.com/sorairolake/qrcode-rust2/actions/workflows/CI.yaml/badge.svg?branch=main)](https://github.com/sorairolake/qrcode-rust2/actions/workflows/CI.yaml)
+    *   [WanzenBug/rqrr (⭐84)](https://github.com/WanzenBug/rqrr) \[[rqrr](https://crates.io/crates/rqrr)] - Detect and read QR codes from any image source [![CI](https://github.com/WanzenBug/rqrr/actions/workflows/CI.yaml/badge.svg?branch=master)](https://github.com/WanzenBug/rqrr/actions/workflows/CI.yaml)
 *   rkyv
     *   [rkyv/rkyv (⭐4.4k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] - rkyv (archive) is a zero-copy deserialization framework
 *   RON (Rusty Object Notation)

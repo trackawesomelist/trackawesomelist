@@ -436,7 +436,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [OXY2DEV/markdoc.nvim (⭐53)](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
 *   [YousefHadder/markdown-plus.nvim (⭐291)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 *   [Myzel394/easytables.nvim (⭐146)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit Markdown tables with a live preview and useful helpers.
-*   [dominic-righthere/markdown-pipetable.nvim (⭐7)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐8)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 *   [tttol/md-outline.nvim (⭐5)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 *   [rogue-87/inlyne.nvim (⭐4)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne (⭐1.3k)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 *   [Prgebish/sigil.nvim (⭐36)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
@@ -913,7 +913,7 @@ then it is not supported:
 *   [alsi-lawr/neotheme.nvim (⭐6)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 *   [tan-wei/zimablue.nvim (⭐2)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐65)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐71)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 *   [aadielpr/bono.nvim (⭐4)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][L/D][Lua]`*** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
@@ -1224,6 +1224,7 @@ then it is not supported:
 *   [y3owk1n/undo-glow.nvim (⭐106)](https://github.com/y3owk1n/undo-glow.nvim/) - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 *   [gen740/SmoothCursor.nvim (⭐403)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 *   [indium114/smudge.nvim (⭐11)](https://github.com/indium114/smudge.nvim) - Performant cursor animations.
+*   [RedEye-Developers/starfall.nvim (⭐12)](https://github.com/RedEye-Developers/starfall.nvim) - Star twinkling, falling and shooting star crossing animation in background.
 
 <!--lint disable double-link -->
 

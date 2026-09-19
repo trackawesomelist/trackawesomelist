@@ -8,9 +8,17 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
+### Art
+
+*   [RestorePhoto](https://restorephoto.org/) - Improves facial clarity in old portraits and blurry family photos with browser-based AI. `#freemium` `#photo`
+
 ### Productivity
 
 *   [Screenpipe](https://screenpipe.com/) - Captures screen text and audio transcripts locally, making computer history searchable for people and AI assistants through MCP and a local API. `#freemium` `#productivity`
+
+### Research
+
+*   [Musuw](https://musuw.com/) - AI knowledge workspace with cited answers, connected Wiki pages, and a knowledge graph. `#freemium`
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
@@ -259,7 +267,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [agent-qa (⭐901)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
+*   [agent-qa (⭐885)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
 
 ### Image Editing
 

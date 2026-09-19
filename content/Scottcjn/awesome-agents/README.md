@@ -6,6 +6,12 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ Daily / [Weekly](/content/Scottcjn/awesome-agents/week/README.md) / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Sep 19, 2026](/content/2026/09/19/README.md)
+
+### Platforms
+
+*   [Agent QA (⭐885)](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS, with reviewable run evidence.
+
 ## [Sep 16, 2026](/content/2026/09/16/README.md)
 
 ### Platforms
@@ -235,9 +241,9 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Frameworks
 
-*   [LangChain (⭐145k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LangChain (⭐147k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐52k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
-*   [CrewAI (⭐58k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
+*   [CrewAI (⭐59k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
 *   [Autogen (⭐61k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐29k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐42k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
@@ -245,7 +251,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [Pydantic AI (⭐20k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
 *   [Swarm (⭐22k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 *   [Smolagents (⭐29k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
-*   [LangGraph (⭐41k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+*   [LangGraph (⭐42k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
 *   [DSPy (⭐38k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 *   [Rivet (⭐4.7k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐30k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.

@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [wealthfolio/wealthfolio (⭐9k)](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker: investments, net worth, spending, and simulations.
 
+### Applications / Image processing
+
+*   [sorairolake/favico (⭐10)](https://github.com/sorairolake/favico) \[[favico](https://crates.io/crates/favico)] - An utility for creating favicons [![CI](https://github.com/sorairolake/favico/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/favico/actions/workflows/CI.yaml)
+
 ### Applications / Observability
 
 *   [parseablehq/parseable (⭐2.5k)](https://github.com/parseablehq/parseable) - An AI-native unified observability platform for collecting and analyzing logs, metrics, traces and events.
@@ -27,16 +31,22 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
+*   [sorairolake/rzopfli (⭐5)](https://github.com/sorairolake/rzopfli) \[[rzopfli](https://crates.io/crates/rzopfli)] - A lossless data compression tool using Zopfli [![CI](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml)
 *   [timhartmann7/omnyssh (⭐849)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
 *   [matugen (⭐2k)](https://github.com/InioX/matugen) - Generates color palette from image or color using templates.
 *   [pastel (⭐6.5k)](https://github.com/sharkdp/pastel) - Helps working with colors: generate, mix, random color.
+*   [sorairolake/randgen (⭐2)](https://github.com/sorairolake/randgen) \[[randgen](https://crates.io/crates/randgen)] - Generate pseudo-random bytes [![CI](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml)
 
 ### Applications / Video
 
 *   [tonhowtf/omniget (⭐12k)](https://github.com/tonhowtf/omniget) - A desktop app to download videos, courses, music and books from 1,800+ sites, with a built-in player, reader and study library. [![CI](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml)
+
+### Development tools / Workflow Automation
+
+*   [cordx56/rustowl (⭐5.2k)](https://github.com/cordx56/rustowl) \[[rustowl](https://crates.io/crates/rustowl)] - Visualize Ownership and Lifetimes in Rust [![CI](https://github.com/cordx56/rustowl/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/cordx56/rustowl/actions/workflows/checks.yml)
 
 ### Development tools / Build system
 
@@ -45,6 +55,24 @@ A curated list of Rust code and resources.
 ### Libraries / Caching
 
 *   [kunobi-ninja/kache (⭐794)](https://github.com/kunobi-ninja/kache) \[[kache](https://crates.io/crates/kache)] - Content-addressed compiler cache for Rust and C/C++ ([website](https://ninja.kunobi.com/product/kache)) [![CI](https://github.com/kunobi-ninja/kache/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kunobi-ninja/kache/actions/workflows/ci.yml)
+
+### Libraries / Compression
+
+*   LZMA
+    *   [hasenbanck/lzma-rust2 (⭐49)](https://github.com/hasenbanck/lzma-rust2) \[[lzma-rust2](https://crates.io/crates/lzma-rust2)] - LZMA / LZMA2 / LZIP / XZ compression ported from [tukaani xz for java](https://tukaani.org/xz/java.html) [![Rust](https://github.com/hasenbanck/lzma-rust2/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/hasenbanck/lzma-rust2/actions/workflows/rust.yml)
+
+### Libraries / Date and time
+
+*   [sorairolake/dos-date-time (⭐0)](https://github.com/sorairolake/dos-date-time) \[[dos-date-time](https://crates.io/crates/dos-date-time)] - An MS-DOS date and time library [![CI](https://github.com/sorairolake/dos-date-time/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/dos-date-time/actions/workflows/CI.yaml)
+
+### Libraries / Encoding
+
+*   Data Matrix
+    *   [jannschu/datamatrix-rs (⭐20)](https://github.com/jannschu/datamatrix-rs) \[[datamatrix](https://crates.io/crates/datamatrix)] - Data Matrix (ECC 200) decoding and encoding with an optimizing encoder [![CI](https://github.com/jannschu/datamatrix-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jannschu/datamatrix-rs/actions/workflows/ci.yml)
+*   QR code
+    *   [magiclen/qrcode-generator (⭐72)](https://github.com/magiclen/qrcode-generator) \[[qrcode-generator](https://crates.io/crates/qrcode-generator)] - Generates ISO/IEC 18004 QR Code and Micro QR Code symbols and ISO/IEC 23941 rMQR symbols in pure Rust, then renders them as grayscale, PNG and SVG images. [![CI](https://github.com/magiclen/qrcode-generator/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/magiclen/qrcode-generator/actions/workflows/ci.yml)
+    *   [sorairolake/qrcode-rust2 (⭐2)](https://github.com/sorairolake/qrcode-rust2) \[[qrcode2](https://crates.io/crates/qrcode2)] - A QR code encoding library [![CI](https://github.com/sorairolake/qrcode-rust2/actions/workflows/CI.yaml/badge.svg?branch=main)](https://github.com/sorairolake/qrcode-rust2/actions/workflows/CI.yaml)
+    *   [WanzenBug/rqrr (⭐84)](https://github.com/WanzenBug/rqrr) \[[rqrr](https://crates.io/crates/rqrr)] - Detect and read QR codes from any image source [![CI](https://github.com/WanzenBug/rqrr/actions/workflows/CI.yaml/badge.svg?branch=master)](https://github.com/WanzenBug/rqrr/actions/workflows/CI.yaml)
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
@@ -108,7 +136,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [harry0703/MangoDisk (⭐2.1k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
+*   [harry0703/MangoDisk (⭐2.9k)](https://github.com/harry0703/MangoDisk) - Cross-platform disk cleanup and space analysis app with deep cleanup, treemap visualization, duplicate detection, app uninstallation, and developer artifact cleanup. [![Cross-platform Check](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml/badge.svg)](https://github.com/harry0703/MangoDisk/actions/workflows/cross-platform-check.yml)
 *   [Skardyy/mcat (⭐1.4k)](https://github.com/Skardyy/mcat) \[[mcat](https://crates.io/crates/mcat)] - View images, video, Markdown, and other documents in the terminal.
 
 ### Applications / Text processing
@@ -131,7 +159,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [tenequm/pond (⭐58)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
+*   [tenequm/pond (⭐69)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
@@ -2849,7 +2877,7 @@ A curated list of Rust code and resources.
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] - A 7z decompressor/compressor written in pure rust.
+    *   [hasenbanck/sevenz-rust2 (⭐117)](https://github.com/hasenbanck/sevenz-rust2) \[[sevenz-rust2](https://crates.io/crates/sevenz-rust2)] - A 7z decompressor/compressor written in pure Rust [![Rust](https://github.com/hasenbanck/sevenz-rust2/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/hasenbanck/sevenz-rust2/actions/workflows/rust.yml)
 
 ### Libraries / Graph algorithms
 
