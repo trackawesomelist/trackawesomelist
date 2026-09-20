@@ -6,6 +6,17 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Sep 20, 2026](/content/2026/09/20/README.md)
+
+### Blockchain API and Web services
+
+*   [Insight (⭐1.2k)](https://github.com/bitpay/insight)
+*   [BTC Connect](https://particlenetwork.readme.io/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
+
+### Playgrounds
+
+*   [Bitcore Playground](https://bitpay.github.io/bitcore-playground/app/)
+
 ## [Sep 14, 2026](/content/2026/09/14/README.md)
 
 ### Utilities
@@ -165,12 +176,6 @@ A curated list of bitcoin services and tools for software developers
 
 *   [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 
-## [Jan 30, 2026](/content/2026/01/30/README.md)
-
-### Utilities
-
-*   [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
-
 ## [Dec 23, 2025](/content/2025/12/23/README.md)
 
 ### Rust Libraries
@@ -280,10 +285,6 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Feb 16, 2024](/content/2024/02/16/README.md)
 
-### Blockchain API and Web services
-
-*   [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
-
 ### Additional Resources
 
 *   [@lopp / Lightning Developers](https://twitter.com/i/lists/981976067551490048) - Software developers with experience working on LN implementations / applications.
@@ -300,12 +301,6 @@ A curated list of bitcoin services and tools for software developers
 ### Blockchain API and Web services
 
 *   [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
-
-## [Apr 16, 2023](/content/2023/04/16/README.md)
-
-### Wallets API
-
-*   [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
@@ -391,7 +386,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### .Net Libraries
 
-*   [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+*   [NBitcoin (⭐1.9k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
 ## [Oct 23, 2020](/content/2020/10/23/README.md)
 
@@ -499,7 +494,7 @@ A curated list of bitcoin services and tools for software developers
 
 *   [BitcoinDatabaseGenerator (⭐127)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 *   [Blockparser+SQL (⭐60)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
-*   [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
+*   [BitcoinABE (⭐977)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 
 ### Full nodes
 
@@ -523,7 +518,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐82)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐82)](https://github.com/alexk111/One-Time-Address) - A better way to share your Bitcoin address.
 
 ## [Apr 28, 2019](/content/2019/04/28/README.md)
 
@@ -591,12 +586,6 @@ A curated list of bitcoin services and tools for software developers
 
 *   [BlockTrail PHP SDK (⭐47)](https://github.com/blocktrail/blocktrail-sdk-php)
 
-## [Jan 20, 2016](/content/2016/01/20/README.md)
-
-### Playgrounds
-
-*   [Bitcore Playground](https://bitcore.io/playground/)
-
 ## [Dec 08, 2015](/content/2015/12/08/README.md)
 
 ### Open Source Wallets
@@ -651,7 +640,6 @@ A curated list of bitcoin services and tools for software developers
 
 ### Blockchain API and Web services
 
-*   [Insight](https://insight.is)
 *   [Chain.com](https://chain.com)
 
 ### Wallets API

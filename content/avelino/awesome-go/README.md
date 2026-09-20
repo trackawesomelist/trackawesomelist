@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [geo-engine-go (⭐0)](https://github.com/AlexG695/geo-engine-go) - Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [sortie (⭐187)](https://github.com/sortie-ai/sortie) - Turn tracker tickets into autonomous coding agent sessions.
+
 ## [Sep 19, 2026](/content/2026/09/19/README.md)
 
 ### Dependency Injection
@@ -109,7 +113,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Relational Database Drivers
 
-*   [go-mssqldb (⭐409)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
+*   [go-mssqldb (⭐410)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
 
 ### Server Applications
 
@@ -117,7 +121,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Plakar (⭐2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+*   [Plakar (⭐2.1k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 
 ## [Sep 04, 2026](/content/2026/09/04/README.md)
 

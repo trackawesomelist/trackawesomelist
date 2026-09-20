@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Sep 20, 2026](/content/2026/09/20/README.md)
 
+### Development tools / Build system
+
+*   [rui314/mold (⭐17k)](https://github.com/rui314/mold) - A modern, high-speed linker for Linux, macOS, and Windows (ELF, Mach-O, PE)
+
 ### Development tools / Testing
 
 *   Code Coverage
@@ -164,7 +168,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [teaql/teaql-rs (⭐13)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
+*   [teaql/teaql-rs (⭐15)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
 
 ### Applications / Video
 

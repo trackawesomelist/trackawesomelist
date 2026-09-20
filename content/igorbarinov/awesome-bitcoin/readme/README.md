@@ -17,14 +17,17 @@ A curated list of bitcoin services and tools for software developers
 
 *   [Utilities](#utilities)
 *   [Blockchain API and Web services](#blockchain-api-and-web-services)
+*   [Market Data API](#market-data-api)
 *   [Wallets API](#wallets-api)
 *   [Open Source wallets](#open-source-wallets)
+*   [Privacy projects](#privacy-projects)
 *   [Blockchain Explorers](#blockchain-explorers)
 *   [C Libraries](#c-libraries)
 *   [C++ Libraries](#c-libraries-1)
 *   [JavaScript Libraries](#javascript-libraries)
 *   [PHP Libraries](#php-libraries)
 *   [Ruby Libraries](#ruby-libraries)
+*   [Rust Libraries](#rust-libraries)
 *   [Python Libraries](#python-libraries)
 *   [Java Libraries](#java-libraries)
 *   [Scala Libraries](#scala-libraries)
@@ -46,7 +49,6 @@ A curated list of bitcoin services and tools for software developers
 *   [PaperVault (⭐66)](https://github.com/boazeb/papervault) - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
 *   [Pycoin (⭐1.4k)](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
 *   [bx (⭐643)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
-*   [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
 *   [txwatcher (⭐50)](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 *   [hellobitcoin (⭐255)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 *   [Mining visualization](https://yogh.io/landing/)
@@ -72,13 +74,13 @@ A curated list of bitcoin services and tools for software developers
 *   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 *   [BlockCypher](https://www.blockcypher.com)
 *   [Esplora (⭐1.3k)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
-*   [Insight](https://insight.is)
+*   [Insight (⭐1.2k)](https://github.com/bitpay/insight)
 *   [Chain.com](https://chain.com)
 *   [Coinbase Wallet](https://wallet.coinbase.com/)
 *   [Chainradar API (⭐5)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
-*   [One-Time Address (⭐82)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐82)](https://github.com/alexk111/One-Time-Address) - A better way to share your Bitcoin address.
 *   [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
-*   [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
+*   [BTC Connect](https://particlenetwork.readme.io/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 *   [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
 *   [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 *   [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
@@ -99,7 +101,6 @@ A curated list of bitcoin services and tools for software developers
 *   [Coinbase](https://developers.coinbase.com)
 *   [Blockchain.com](https://www.blockchain.com/api)
 *   [BIP32](http://bip32.org)
-*   [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
 
@@ -204,7 +205,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## .Net Libraries
 
-*   [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+*   [NBitcoin (⭐1.9k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 *   [BitcoinLib (⭐413)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 
 ## Haskell Libraries
@@ -216,7 +217,7 @@ A curated list of bitcoin services and tools for software developers
 *   [Script Playground](https://www.crmarsh.com/script-playground/)
 *   [Bitcoin IDE (⭐222)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
 *   [Script Debugger (⭐45)](https://github.com/kallewoof/btcdeb)
-*   [Bitcore Playground](https://bitcore.io/playground/)
+*   [Bitcore Playground](https://bitpay.github.io/bitcore-playground/app/)
 *   [Mnemonic Code generator](https://iancoleman.io/bip39/)
 *   [blockchain-demo (⭐5.7k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 *   [Bitcoin Script Debugger (⭐60)](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
@@ -229,7 +230,7 @@ A curated list of bitcoin services and tools for software developers
 
 *   [BitcoinDatabaseGenerator (⭐127)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 *   [Blockparser+SQL (⭐60)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
-*   [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
+*   [BitcoinABE (⭐977)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 *   [Chaingraph (⭐60)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 *   [nodsig (⭐0)](https://github.com/amenano/nodsig) - Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.
 
@@ -279,7 +280,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome (⭐502k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
 
 ***

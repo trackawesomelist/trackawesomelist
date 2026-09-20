@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Sep 20, 2026](/content/2026/09/20/README.md)
+
+### Web
+
+*   [かなたそ](https://search.kanataso.com/) - あの言葉、いつの配信だったかな。気になる発言を探して、その時刻の配信へ。 \[日本語]
+
 ## [Sep 17, 2026](/content/2026/09/17/README.md)
 
 ### Web

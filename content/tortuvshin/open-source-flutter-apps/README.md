@@ -6,6 +6,17 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Sep 20, 2026](/content/2026/09/20/README.md)
+
+### Productivity
+
+*   [AI Novel Writer](https://www.orz.md/ai-novel-writer/) - AI Novel Writer is a local-first desktop workspace that keeps characters, worldbuilding, outlines, chapter plans, drafting, review, and revision in one long-form fiction project.
+*   [Taskuary](https://taskuary.com) - Taskuary brings email, chat messages, and reports into a local work inbox, uses AI to organize tasks and prepare replies, and routes work to agents for the owner to review.
+
+### Business
+
+*   [OpenPost](https://openpo.st) - Self-hosted social publishing app for preparing, reviewing, scheduling, and tracking posts across several networks.
+
 ## [Sep 13, 2026](/content/2026/09/13/README.md)
 
 ### Tools
@@ -49,7 +60,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Productivity
 
-*   [Weiyu (⭐9)](https://github.com/Sutera-Diffusus/WeChat-daily) - Weiyu is a local-first Windows desktop app that turns readable WeChat messages into searchable daily briefings, with history, speech-to-text, AI-assisted analysis, and a Codex bridge.
+*   [Weiyu (⭐27)](https://github.com/Sutera-Diffusus/WeChat-daily) - Weiyu is a local-first Windows desktop app that turns readable WeChat messages into searchable daily briefings, with history, speech-to-text, AI-assisted analysis, and a Codex bridge.
 
 ### Tools
 
@@ -93,7 +104,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Productivity
 
-*   [AppFlowy (⭐76k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [AppFlowy (⭐77k)](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [Butterfly (⭐2k)](https://github.com/LinwoodDev/Butterfly) - Butterfly is a Flutter note-taking and drawing app whose central object is an infinite canvas — pages hold freehand ink, text, shapes, images, areas, and waypoints in a custom `.bfly` document model, with optional WebDAV sync, OneNote import, and PDF/SVG export.
 *   [Feather (⭐4.7k)](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 *   [Habo (⭐1.5k)](https://github.com/xpavle00/Habo) - Habo is a Flutter-based, privacy-first habit tracker for iOS and Android that keeps every habit, note, and streak on-device by default and only syncs through an end-to-end encrypted Supabase backend.
@@ -105,10 +116,10 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [LibreTrack (⭐364)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app.
 *   [Linkwarden (⭐20k)](https://github.com/linkwarden/linkwarden) - Linkwarden is a self-hosted collaborative bookmark manager that captures every saved page as a screenshot, PDF, and HTML snapshot to defend against link rot.
 *   [Memex (⭐719)](https://github.com/memex-lab/memex) - Memex is a Flutter-based, local-first AI journal for iOS and Android that captures text, photo, and voice fragments, runs them through a multi-agent skill system on a BYO-LLM, and weaves them into timeline cards, P.A.R.A.-organized Markdown knowledge, and chart-driven insights.
-*   [mhabit (⭐1.5k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
+*   [mhabit (⭐1.6k)](https://github.com/FriesI23/mhabit) - mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily completion against configurable curves, stores everything locally, and syncs across devices through any WebDAV endpoint.
 *   [Notesnook (⭐15k)](https://github.com/streetwriters/notesnook) - Notesnook is a cross-platform, end-to-end encrypted note-taking app with web, desktop, and mobile clients that sync through a zero-knowledge server.
 *   [OnionBrowser (⭐2.7k)](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
-*   [storypad (⭐951)](https://github.com/theachoem/storypad) - Storypad is an offline-first Flutter diary and journal app that uses a timeline instead of folders, layers mood tracking, photo memories, and customizable typography over a local ObjectBox store with optional Google Drive sync.
+*   [storypad (⭐961)](https://github.com/theachoem/storypad) - Storypad is an offline-first Flutter diary and journal app that uses a timeline instead of folders, layers mood tracking, photo memories, and customizable typography over a local ObjectBox store with optional Google Drive sync.
 *   [UTM (⭐35k)](https://github.com/utmapp/UTM) - Run virtual machines on iOS and macOS — Windows, Linux, and retro operating systems.
 *   [YouTrack Mobile (⭐285)](https://github.com/JetBrains/youtrack-mobile) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects.
 
@@ -148,7 +159,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [PeopleInSpace (⭐3.4k)](https://github.com/joreilly/PeopleInSpace) - PeopleInSpace is a Kotlin Multiplatform reference app that shares architecture and data code across iOS, Android, desktop, web, and wearable clients.
 *   [SwiftHub (⭐3.1k)](https://github.com/khoren93/SwiftHub) - SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and personal-access-token authentication.
 *   [SwiftTerm (⭐1.7k)](https://github.com/migueldeicaza/SwiftTerm) - An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
-*   [Tura (⭐608)](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
+*   [Tura (⭐635)](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
 *   [Unwrap (⭐2.3k)](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 *   [xbmc (⭐21k)](https://github.com/xbmc/xbmc) - Kodi is a free, open-source cross-platform media-center and entertainment-hub application written primarily in C++ with a CMake build system, built on FFmpeg for codec support and featuring a binary addon framework, hardware-accelerated video playback, and a JSON-RPC control surface — running natively on Android, Linux, BSD, macOS, iOS, tvOS, and Windows.
 

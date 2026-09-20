@@ -11,6 +11,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 ### Web
 
 *   [Yomoru](https://yomoru.com/) - Find where to continue an anime's story in the manga or light novel, then choose an edition. \[English/日本語/Español/Français]
+*   [かなたそ](https://search.kanataso.com/) - あの言葉、いつの配信だったかな。気になる発言を探して、その時刻の配信へ。 \[日本語]
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
