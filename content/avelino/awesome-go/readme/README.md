@@ -1425,6 +1425,13 @@ additional ordered map implementations.
 *Geographic tools and servers*
 
 *   [borders (⭐1)](https://github.com/kpfaulkner/borders) - Detects image borders and converts to GeoJSON for GIS operations.
+
+<!---->
+
+*   [geo-engine-go (⭐0)](https://github.com/AlexG695/geo-engine-go) - Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.
+
+<!---->
+
 *   [geoos (⭐531)](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms.
 *   [geoserver (⭐94)](https://github.com/hishamkaram/geoserver) - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 *   [gismanager (⭐54)](https://github.com/hishamkaram/gismanager) - Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.
@@ -3791,7 +3798,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [tsuru](https://tsuru.io/) - Extensible and open source Platform as a Service software.
 *   [vaku (⭐160)](https://github.com/lingrino/vaku) - CLI & API for folder-based functions in Vault like copy, move, and search.
 *   [vFlow (⭐1.2k)](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
-*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
+*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 *   [Wave Terminal](https://waveterm.dev) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 *   [wellington (⭐301)](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 *   [woke (⭐517)](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.

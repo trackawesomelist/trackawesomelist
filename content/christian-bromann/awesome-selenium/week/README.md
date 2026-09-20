@@ -6,6 +6,12 @@ A curated list of delightful Selenium resources.
 
 [ [Daily](/content/christian-bromann/awesome-selenium/README.md) / Weekly / [Overview](/content/christian-bromann/awesome-selenium/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Cloud Services / Desktop GUI Automation (non-browser-centric)
+
+*   [TestMu AI (Formerly LambdaTest)](https://www.testmuai.com/selenium-automation) - Test your website for cross browser compatibility on 3000+ real browsers & OS. Get Free Trial.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### CSS Regression Testing / Dart
@@ -16,7 +22,7 @@ A curated list of delightful Selenium resources.
 
 ### CSS Regression Testing / Dart
 
-*   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
+*   [Website-Diff (⭐1)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -44,7 +50,7 @@ A curated list of delightful Selenium resources.
 
 ### Device Farms / Desktop GUI Automation (non-browser-centric)
 
-*   [OpenSTF (⭐4.3k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
+*   [OpenSTF (⭐4.6k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Specifications / Desktop GUI Automation (non-browser-centric)
 
@@ -96,12 +102,6 @@ A curated list of delightful Selenium resources.
 
 *   [Helium (⭐8.3k)](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 
-## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
-
-### Cloud Services / Desktop GUI Automation (non-browser-centric)
-
-*   [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
-
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
 ### Containers / Kubernetes
@@ -118,7 +118,7 @@ A curated list of delightful Selenium resources.
 
 ### Containers / Kubernetes
 
-*   [Callisto (⭐116)](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
+*   [Callisto (⭐115)](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
 
 ## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
 
@@ -130,7 +130,7 @@ A curated list of delightful Selenium resources.
 
 ### Containers / Kubernetes
 
-*   [Moon (⭐268)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+*   [Moon (⭐279)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 
@@ -142,13 +142,13 @@ A curated list of delightful Selenium resources.
 
 ### Containers / Kubernetes
 
-*   [kubernetes/examples (⭐6.5k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+*   [kubernetes/examples (⭐6.8k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
 ## [Apr 16 - Apr 22, 2018](/content/2018/16/README.md)
 
 ### Tools / Java
 
-*   [seleniumQuery (⭐72)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
+*   [seleniumQuery (⭐74)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 
 ## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
 
@@ -168,16 +168,16 @@ A curated list of delightful Selenium resources.
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
-*   [WinAppDriver (⭐4k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-*   [Winium (⭐400)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-*   [QtWebDriver (⭐199)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-*   [AutoItDriverServer (⭐33)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
-*   [AutoPyDriverServer (⭐18)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
+*   [WinAppDriver (⭐4.1k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
+*   [Winium (⭐399)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+*   [QtWebDriver (⭐200)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
+*   [AutoItDriverServer (⭐32)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
+*   [AutoPyDriverServer (⭐17)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
 *   [SilkAppDriver (⭐8)](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
 
 ### Desktop Tools / Desktop GUI Automation (non-browser-centric)
 
-*   [SWET (⭐39)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
+*   [SWET (⭐40)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 *   [Looking Glass (⭐54)](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
 *   [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 *   [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
@@ -185,7 +185,7 @@ A curated list of delightful Selenium resources.
 ### Selenium Grid / Desktop GUI Automation (non-browser-centric)
 
 *   [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-*   [SeLion (⭐286)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
+*   [SeLion (⭐289)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
 *   [Selenium Grid Extensions (⭐46)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
@@ -196,7 +196,7 @@ A curated list of delightful Selenium resources.
 
 ### Tools / Python
 
-*   [Selene (⭐727)](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
+*   [Selene (⭐732)](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 
 ### Tools / Java
 
@@ -212,13 +212,13 @@ A curated list of delightful Selenium resources.
 
 ### Tools / C#
 
-*   [Atata (⭐503)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐502)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
 
 ### Containers / Docker
 
-*   [Ggr (⭐311)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+*   [Ggr (⭐310)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
 *   [Selenoid (⭐2.7k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
@@ -250,13 +250,13 @@ A curated list of delightful Selenium resources.
 ### Containers / Docker
 
 *   [elgalu/docker-selenium (⭐1.4k)](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-*   [SeleniumHQ/docker-selenium (⭐8.6k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+*   [SeleniumHQ/docker-selenium (⭐8.7k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ## [Jan 30 - Feb 05, 2017](/content/2017/5/README.md)
 
 ### Tools / PHP
 
-*   [Steward (⭐222)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+*   [Steward (⭐223)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 ### Tools / Groovy
 
@@ -287,14 +287,14 @@ A curated list of delightful Selenium resources.
 
 ### CSS Regression Testing / Dart
 
-*   [WebdriverCSS (⭐610)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+*   [WebdriverCSS (⭐607)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Driver / Desktop (browsers)
 
-*   [Firefox (⭐34k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+*   [Firefox (⭐35k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
 *   [Geckodriver (⭐7.5k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
-*   [Safari (⭐34k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+*   [Safari (⭐35k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
 ## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
 
@@ -329,7 +329,7 @@ A curated list of delightful Selenium resources.
 
 ### Tools / Javascript
 
-*   [selenium-webdriver (⭐34k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
+*   [selenium-webdriver (⭐35k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 *   [WD (⭐1.5k)](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 *   [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 *   [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
@@ -339,7 +339,7 @@ A curated list of delightful Selenium resources.
 
 *   [Anemone (⭐1.6k)](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 *   [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-*   [Spidr (⭐834)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+*   [Spidr (⭐836)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 *   [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
 ### Tools / Python
@@ -352,8 +352,8 @@ A curated list of delightful Selenium resources.
 
 ### Driver / Desktop (browsers)
 
-*   [Internet Explorer (⭐34k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-*   [Opera (⭐269)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
+*   [Internet Explorer (⭐35k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+*   [Opera (⭐268)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 
 ### Web Scraping / Mining / Desktop GUI Automation (non-browser-centric)
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 20, 2026](/content/2026/09/20/README.md)
+
+### Command Line / Indent
+
+*   [juniorsundar/cling.nvim (⭐25)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
+
 ## [Sep 19, 2026](/content/2026/09/19/README.md)
 
 ### Animation / CSV Files

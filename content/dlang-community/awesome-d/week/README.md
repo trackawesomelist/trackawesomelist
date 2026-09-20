@@ -6,6 +6,12 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
+
+### Games / Status page
+
+*   [Game of life](https://codeberg.org/GuineaPigUuhh/game-of-life-d) - Recreation of Conway's Game of Life in D.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### GUI Applications / Status page
@@ -545,7 +551,7 @@
 
 ### Dev Tools / Status page
 
-*   [D-Scanner (⭐256)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [D-Scanner (⭐258)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
 *   [dfmt (⭐218)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Status page
@@ -856,7 +862,7 @@
 
 ### Tutorials / Status page
 
-*   [D Template Tutorial (⭐236)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐235)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Status page
 
@@ -866,7 +872,7 @@
 
 ### Organizations / Status page
 
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐425)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐426)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## [Jul 21 - Jul 27, 2014](/content/2014/29/README.md)
 

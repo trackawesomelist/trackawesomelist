@@ -6,6 +6,18 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Sep 20, 2026](/content/2026/09/20/README.md)
+
+### Development tools / Testing
+
+*   Code Coverage
+    *   [supercorp-ai/supercov (⭐63)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
+    *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
+
+### Libraries / Parsing
+
+*   [mazznoer/csscolorparser-rs (⭐79)](https://github.com/mazznoer/csscolorparser-rs) \[[csscolorparser](https://crates.io/crates/csscolorparser)] - CSS color parser library [![CI](https://github.com/mazznoer/csscolorparser-rs/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/mazznoer/csscolorparser-rs/actions/workflows/rust.yml)
+
 ## [Sep 19, 2026](/content/2026/09/19/README.md)
 
 ### Applications / Image processing
@@ -156,11 +168,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [Jorji49/streamtop (⭐84)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+*   [Jorji49/streamtop (⭐111)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
 
 ### Libraries / GUI
 
-*   [smithay (⭐3.2k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
+*   [smithay (⭐3.3k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
 
 ## [Sep 03, 2026](/content/2026/09/03/README.md)
 
@@ -282,7 +294,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Workflow Automation
 
-*   [dali-benothmen/woml (⭐128)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+*   [dali-benothmen/woml (⭐129)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
 
 ## [Aug 18, 2026](/content/2026/08/18/README.md)
 
@@ -341,11 +353,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [GCWing/BitFun (⭐2.1k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐2.3k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 
 ### Applications / MLOps
 
-*   [Uteke (⭐237)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐260)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
@@ -363,7 +375,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [MoonProxyHQ/moonproxy-desktop (⭐59)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
+*   [MoonProxyHQ/moonproxy-desktop (⭐58)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
 
 ## [Jul 30, 2026](/content/2026/07/30/README.md)
 
@@ -3017,6 +3029,7 @@ A curated list of Rust code and resources.
     *   [bastibense/libharu\_ng (⭐20)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
     *   [fschutt/printpdf (⭐1.1k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [gastongouron/ironpress (⭐694)](https://github.com/gastongouron/ironpress) \[[ironpress](https://crates.io/crates/ironpress)] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies. [![CI](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml)
+    *   [hayro (⭐766)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
     *   [J-F-Liu/lopdf (⭐2.3k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐150)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
     *   [yfedoseev/pdf\_oxide (⭐1k)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
@@ -4471,8 +4484,6 @@ A curated list of Rust code and resources.
 
 ### Development tools / Testing
 
-*   Code Coverage
-    *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 *   Continuous Integration
     *   [trust (⭐1.3k)](https://github.com/japaric/trust) - A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 *   Frameworks and Runners

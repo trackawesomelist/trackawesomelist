@@ -133,7 +133,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 *   [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet, SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 *   [DlangScience](https://github.com/DlangScience) - A focal point and first port of call for scientific libraries and tooling for D.
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐425)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐426)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 *   [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 *   [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/workspace/repositories/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 *   [libmir](https://github.com/libmir) - D's numeric library development team
@@ -158,7 +158,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 *   [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4\&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV\&ab_channel=MikeShah) - An introductory video series about programming in D.
 *   [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-*   [D Template Tutorial (⭐236)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐235)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 *   [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 *   [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
 *   [OpenGL tutorials (⭐0)](https://github.com/drewet/opengl-tutorials) - OpenGL tutorials in D.
@@ -214,7 +214,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Tools for more productive D development.*
 
-*   [D-Scanner (⭐256)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [D-Scanner (⭐258)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
 *   [dfmt (⭐218)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ## Build Tools
@@ -508,6 +508,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
 *   [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
 *   [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
+*   [Game of life](https://codeberg.org/GuineaPigUuhh/game-of-life-d) - Recreation of Conway's Game of Life in D.
 
 ## Internationalization
 

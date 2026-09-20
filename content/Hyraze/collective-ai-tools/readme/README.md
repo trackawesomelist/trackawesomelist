@@ -2,7 +2,7 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 233 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 238 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -496,7 +496,7 @@ Use these hashtags in search to filter out the tools
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
-*   [YYLO (⭐57)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 *   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1174,6 +1174,7 @@ Use these hashtags in search to filter out the tools
 *   [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
 *   [Runway Gen-3](https://runwayml.com/) - Latest generation of AI video creation with improved realism and control `#freemium`
 *   [Runway ML](https://runwayml.com/) - AI-powered video editing and generation platform with advanced features. `#freemium`
+*   [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or course into up to 20 vertical 9:16 shorts with word-by-word captions. `#freemium`
 *   [SkyReels](https://skyreels.ai/) - One-click text-to-animation platform. `#freemium`
 *   [Sora](https://openai.com/sora) - OpenAI's revolutionary text-to-video generation model with high-quality results `#freemium`
 *   [Spikes Studio](https://spikes.studio/) - identifies segments for social media short-form. `#free`

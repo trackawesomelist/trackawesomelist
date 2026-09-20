@@ -151,7 +151,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [fcsonline/drill (⭐2.3k)](https://github.com/fcsonline/drill) - A HTTP load testing application inspired by Ansible syntax
 *   [fend (⭐1k)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend/actions/workflows/actions.yml)
 *   [Fractalide (⭐892)](https://github.com/fractalide/fractalide) - Simple microservices
-*   [GCWing/BitFun (⭐2.1k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐2.3k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 *   [giga-grabber (⭐170)](https://github.com/chanderlud/giga-grabber) - A very fast and relatively stable Mega downloader [![build](https://github.com/chanderlud/giga-grabber/actions/workflows/release.yml/badge.svg)](https://github.com/chanderlud/giga-grabber/actions/workflows/release.yml)
 *   [glzr-io/glazewm (⭐13k)](https://github.com/glzr-io/glazewm) - A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands
 *   [google/mdbook-i18n-helpers (⭐224)](https://github.com/google/mdbook-i18n-helpers) \[[mdbook-i18n-helpers](https://crates.io/crates/mdbook-i18n-helpers)] - Internationalization and rendering extensions for mdbook.
@@ -502,7 +502,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [api7/aisix (⭐154)](https://github.com/api7/aisix) - Open-source AI gateway for LLMs and AI agents: one OpenAI-compatible API plus a native Anthropic Messages API in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, and other OpenAI-compatible endpoints, with MCP and A2A gateways, semantic routing, guardrails, and semantic caching. [![CI](https://github.com/api7/aisix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/api7/aisix/actions/workflows/ci.yml)
 *   [cocoindex (⭐12k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh context for AI agents, with incremental processing
 *   [TensorZero (⭐12k)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
-*   [Uteke (⭐237)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐260)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ### Observability
 
@@ -824,7 +824,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [Linus-Mussmaecher/rucola (⭐536)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
 *   [matugen (⭐2k)](https://github.com/InioX/matugen) - Generates color palette from image or color using templates.
 *   [Mobslide (⭐488)](https://github.com/thewh1teagle/mobslide) - Desktop application that turns your smartphone into presentation remote controller.
-*   [MoonProxyHQ/moonproxy-desktop (⭐59)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
+*   [MoonProxyHQ/moonproxy-desktop (⭐58)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
 *   [mprocs (⭐2.7k)](https://github.com/pvolok/mprocs) - TUI for running multiple processes
 *   [mrjackwills/oxker (⭐1.8k)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
 *   [nix-community/nix-init (⭐1.5k)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
@@ -867,7 +867,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 *   [dertuxmalwieder/yaydl (⭐319)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 *   [gyroflow/gyroflow (⭐9.5k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
 *   [harlanc/xiu (⭐2.3k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
-*   [Jorji49/streamtop (⭐84)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+*   [Jorji49/streamtop (⭐111)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
 *   [Michael-A-Kuykendall/muxide (⭐74)](https://github.com/Michael-A-Kuykendall/muxide) \[[muxide](https://crates.io/crates/muxide)] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.
 *   [tonhowtf/omniget (⭐12k)](https://github.com/tonhowtf/omniget) - A desktop app to download videos, courses, music and books from 1,800+ sites, with a built-in player, reader and study library. [![CI](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tonhowtf/omniget/actions/workflows/ci.yml)
 *   [vidmerger (⭐151)](https://github.com/TGotwig/vidmerger) - Merge video & audio files via CLI
@@ -925,7 +925,7 @@ See also [A comparison of operating systems written in Rust (⭐863)](https://gi
 ### Workflow Automation
 
 *   [cowork-forge (⭐92)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
-*   [dali-benothmen/woml (⭐128)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+*   [dali-benothmen/woml (⭐129)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
 *   [SouravRoy-ETL/duckle (⭐1.3k)](https://github.com/SouravRoy-ETL/duckle) - Visual-first, open-source data studio (ETL/ELT) that runs entirely on DuckDB. Drag sources, transforms and sinks onto a canvas and it compiles to plain DuckDB SQL; 300+ connectors and a built-in MCP server. [![release](https://github.com/SouravRoy-ETL/duckle/actions/workflows/release.yml/badge.svg)](https://github.com/SouravRoy-ETL/duckle/actions/workflows/release.yml)
 
 ## Development tools
@@ -1220,6 +1220,7 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 *   Assertions and Matchers
     *   [googletest-json-serde](https://crates.io/crates/googletest-json-serde) [![Latest Version](https://img.shields.io/crates/v/googletest-json-serde.svg)](https://crates.io/crates/googletest-json-serde) - A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. [![Build Status](https://github.com/chege/googletest-json-serde/actions/workflows/ci.yaml/badge.svg)](https://github.com/chege/googletest-json-serde/actions)
 *   Code Coverage
+    *   [supercorp-ai/supercov (⭐63)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 *   Continuous Integration
     *   [trust (⭐1.3k)](https://github.com/japaric/trust) - A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
@@ -2017,6 +2018,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [bastibense/libharu\_ng (⭐20)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
     *   [fschutt/printpdf (⭐1.1k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [gastongouron/ironpress (⭐694)](https://github.com/gastongouron/ironpress) \[[ironpress](https://crates.io/crates/ironpress)] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies. [![CI](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml)
+    *   [hayro (⭐766)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
     *   [J-F-Liu/lopdf (⭐2.3k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐150)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
     *   [yfedoseev/pdf\_oxide (⭐1k)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
@@ -2072,7 +2074,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [Sciter](https://sciter.com/)
     *   [sciter-sdk/rust-sciter (⭐824)](https://github.com/sciter-sdk/rust-sciter) - Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 *   [slint-ui/slint (⭐24k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) - [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
-*   [smithay (⭐3.2k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
+*   [smithay (⭐3.3k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
 *   [tauri-apps/tauri (⭐111k)](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐5k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 *   [tauri-apps/wry (⭐5k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 *   [xilem (⭐5.5k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.7k)](https://github.com/linebender/druid).
@@ -2220,6 +2222,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [lalrpop/lalrpop (⭐3.5k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
 *   [m4rw3r/chomp (⭐241)](https://github.com/m4rw3r/chomp) - A fast monadic-style parser combinator
 *   [Marwes/combine (⭐1.4k)](https://github.com/Marwes/combine) - parser combinator library
+*   [mazznoer/csscolorparser-rs (⭐79)](https://github.com/mazznoer/csscolorparser-rs) \[[csscolorparser](https://crates.io/crates/csscolorparser)] - CSS color parser library [![CI](https://github.com/mazznoer/csscolorparser-rs/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/mazznoer/csscolorparser-rs/actions/workflows/rust.yml)
 *   [nrc/zero (⭐51)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] - zero-allocation parsing of binary data
 *   [ophi-dev/antlr-rust-runtime (⭐19)](https://github.com/ophi-dev/antlr-rust-runtime) \[[antlr-rust-runtime](https://crates.io/crates/antlr-rust-runtime)] - ANTLR v4 runtime with a pure-Rust parser generator: generates parsers directly from `.g4` grammars (no Java required), validated against the official ANTLR conformance testsuite. [![build badge](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml)
 *   [oxc-project/oxc (⭐23k)](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)

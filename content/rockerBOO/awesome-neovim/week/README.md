@@ -29,6 +29,10 @@ Collections of awesome neovim plugins.
 
 *   [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 
+### Command Line / Indent
+
+*   [juniorsundar/cling.nvim (⭐25)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Plugin Manager
