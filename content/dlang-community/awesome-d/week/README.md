@@ -6,6 +6,12 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### GUI Applications / Status page
+
+*   [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Games / Status page
@@ -16,7 +22,6 @@
 
 ### GUI Applications / Status page
 
-*   [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 *   [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
 
 ### Games / Status page

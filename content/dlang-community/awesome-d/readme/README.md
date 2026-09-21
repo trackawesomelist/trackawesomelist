@@ -421,7 +421,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [tilix (⭐5.7k)](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
 *   [Inochi Creator (⭐1.2k)](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
 *   [Inochi Session (⭐404)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
-*   [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+*   [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 *   [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
 
 ## Game Bindings

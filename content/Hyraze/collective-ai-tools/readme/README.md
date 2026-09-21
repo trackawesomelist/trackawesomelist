@@ -718,8 +718,8 @@ Use these hashtags in search to filter out the tools
 *   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
 *   [Crisp](https://crisp.photos/) - Free AI photo upscaler that runs entirely in your browser. No upload, no signup, no watermark. Includes a dedicated anime upscaler. `#free`
 *   [Cutout.Pro](https://www.cutout.pro/) - Creative visual platform and automated tasks. `#free`
-*   [Image Candy](https://imagecandy.com/) - Online Image Editor - Image Candy `#free`
 *   [igly.ai](https://igly.ai/) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill. `#freemium`
+*   [Image Candy](https://imagecandy.com/) - Online Image Editor - Image Candy `#free`
 *   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
 *   [Leonardo.ai](https://leonardo.ai/) - Generative platform with Veo 3 and Phoenix. `#free`
 *   [LiblibAI](https://www.liblib.art/) - LoRA model training and online generation. `#free`
@@ -732,21 +732,23 @@ Use these hashtags in search to filter out the tools
 *   [PhotosStyle](https://www.photosstyle.com/art) - Online AI photo style converter for turning images into anime, sketches, line art, oil paintings, cartoons, and other creative styles. `#freemium`
 *   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
 *   [Rao Edits](https://raoedits.top/) - Generate images from text and edit reference photos for social, product, and creative workflows. `#paid`
+*   [Remove Bg](https://www.remove-bg.dev/) - AI background remover for product photos, portraits, and logos with transparent PNG download. `#free`
 *   [remove.bg](https://remove.bg/) - Online background remover (5 seconds)1. `#free`
 *   [Skybox AI](https://skybox.blockadelabs.com/) - 360° virtual world panorama generation. `#freemium`
+*   [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - In-browser AI background removal — runs entirely on your device via ONNX Runtime, no upload, no signup, open source. `#free` `#opensource`
+*   [Upscale Image](https://www.upscaleimg.org/) - AI image upscaler to improve resolution and recover detail in portraits, product shots, and artwork. `#free`
 *   [Upscayl](https://upscayl.org/) - Open-source image resolution amplifier. `#free`
 *   [WHEE](https://www.whee.com/) - Meitu Inc. one-stop visual creative service. `#free`
 *   [Wipe](https://wipe.photos/) - Remove people and objects from photos entirely in your browser. No upload, no signup, no watermark. `#free`
-*   [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - In-browser AI background removal — runs entirely on your device via ONNX Runtime, no upload, no signup, open source. `#free` `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Generator
 
-*   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
 *   [Adobe Firefly 3](https://www.adobe.com/products/firefly.html) - Adobe's latest AI image generation with commercial-safe content `#freemium`
 *   [AI Image](https://aiimage.com) - Generate and edit images from text prompts and reference pictures in a browser. `#paid` `#design`
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `#freemium`
+*   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
 *   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `#freemium`
 *   [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's latest image generation model with improved quality and safety `#freemium`
 *   [Flux Pro](https://flux.ai/) - High-quality image generation with fine-tuned control and consistency `#freemium`
@@ -756,8 +758,8 @@ Use these hashtags in search to filter out the tools
 *   [ID Photo API AI](https://idphoto.ai/) - Passport Photo API to convert regular photo to passport photo. `#freemium`
 *   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
 *   [Ideogram 2.0](https://ideogram.ai/) - Advanced text-to-image generator with superior text rendering capabilities `#freemium`
-*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 *   [Image 2](https://image2.to/) - AI image and video generator for creating, editing, and transforming visuals from prompts. `#freemium`
+*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 *   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 *   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
 *   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
@@ -773,12 +775,13 @@ Use these hashtags in search to filter out the tools
 *   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond. `#free`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
 *   [Rentoor](https://rentoor.vercel.app) - Enhance your images with Rentoor's super-resolution feature, restoring clarity and detail for stunning visuals. `#freemium`
+*   [Seed Imagine](https://www.seedimagine.com/) - Browser-based AI workspace for text-to-image and photo-to-video creative assets. `#freemium`
+*   [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. `#freemium`
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
 *   [stockimg.ai](https://stockimg.ai/) - Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more. `#freemium`
 *   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
 *   [Vivify GPT Image 2.5](https://vivify.video/models/gpt-image-2-5) - Generate product visuals and edit reference images with Flare or Sunburst in a browser. `#paid`
 *   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
-*   [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1072,6 +1075,7 @@ Use these hashtags in search to filter out the tools
 
 ## Social Media
 
+*   [Jev Social](https://socai-io.github.io/jev-social/) - Local-first social research agent that uses Jev and socai to capture Instagram, TikTok, and LinkedIn evidence in Chrome. `#opensource`
 *   [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker `#free`
 *   [StoriAI](https://storiai.com/) - Elevate Your Brand's Social Presence with StoriAI `#paid`
 
@@ -1140,8 +1144,10 @@ Use these hashtags in search to filter out the tools
 *   [Filmora](https://filmora.wondershare.com/) - Wondershare AI enhancement and short videos. `#free`
 *   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
 *   [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`
+*   [Flow AI Video](https://www.flowaivideo.org/) - AI video generation workspace for text-to-video and image-to-video creative workflows. `#freemium`
 *   [Flow Studio](https://flowstudio.ai/) - Chat characters, robots, and prompt management. `#free`
 *   [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
+*   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
 *   [Google Vids](https://workspace.google.com/products/vids/) - Integrated Workspace creation and scripts. `#paid`
 *   [H3 Max Studio](https://minimaxh3-max.org/) - Independent web app for text-to-video and image-to-video generation with MiniMax H3 Max through fal. `#paid`
 *   [Hedra](https://hedra.com/) - Multimodal personal AI creation studio. `#free`
@@ -1188,14 +1194,15 @@ Use these hashtags in search to filter out the tools
 *   [Unscreen](https://www.unscreen.com/) - 100% automatic online background removal. `#free`
 *   [Veed Background](https://www.veed.io/tools/background-remover) - Online background removal and green-screen. `#free`
 *   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
+*   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
 *   [Video Ocean](https://videoocean.com/) - Text-to-video scene simulation platform. `#free`
+*   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
 *   [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render. `#freemium`
 *   [VidLux AI](https://vidlux.ai/) - An all-in-one AI video creation platform for generating and editing videos from text, images, videos, and audio references. `#freemium`
 *   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
 *   [Vidu](https://www.vidu.studio/) - Long-duration video large model (Tsinghua). `#free`
 *   [Viggle](https://viggle.ai/) - Driven by 3D basic model to move characters. `#free`
 *   [Vizard](https://vizard.ai/) - identifies highlights to create short social clips. `#free`
-*   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
 *   [Vozo](https://www.vozo.ai/) - Video localization and natural voice dubbing. `#free`
 *   [WinkStudio](https://wink.meitu.com/) - Meitu image restoration and portrait retouch. `#free`
 *   [Xiling Digital Human](https://xiling.baidu.com/) - Marketing promotion and content output avatars. `#free`

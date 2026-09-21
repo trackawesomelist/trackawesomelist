@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/leomaurodesenv/game-datasets/week/README.md) / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
 
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### Dataset / Web
+
+*   [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code (⭐1)](https://github.com/rajeshsureddi/GameScope).
+*   [Slay the Spire Runs](https://drive.google.com/drive/folders/1c7MwTdLxnPgvmPbBEfNWa45YAUU53H0l) - 77 million Slay the Spire Runs from 2018-2020.
+
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
 ### Dataset / Web
@@ -64,7 +71,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Esports (⭐105)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
+*   [Awesome Esports (⭐107)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 

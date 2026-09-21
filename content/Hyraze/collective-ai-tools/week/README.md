@@ -6,6 +6,27 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Image Editing
+
+*   [Remove Bg](https://www.remove-bg.dev/) - AI background remover for product photos, portraits, and logos with transparent PNG download. `#free`
+*   [Upscale Image](https://www.upscaleimg.org/) - AI image upscaler to improve resolution and recover detail in portraits, product shots, and artwork. `#free`
+
+### Image Generator
+
+*   [Seed Imagine](https://www.seedimagine.com/) - Browser-based AI workspace for text-to-image and photo-to-video creative assets. `#freemium`
+
+### Social Media
+
+*   [Jev Social](https://socai-io.github.io/jev-social/) - Local-first social research agent that uses Jev and socai to capture Instagram, TikTok, and LinkedIn evidence in Chrome. `#opensource`
+
+### Video
+
+*   [Flow AI Video](https://www.flowaivideo.org/) - AI video generation workspace for text-to-video and image-to-video creative workflows. `#freemium`
+*   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
+*   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Art
@@ -400,8 +421,8 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Video
 
-*   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
 *   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
+*   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 

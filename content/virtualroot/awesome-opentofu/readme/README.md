@@ -81,7 +81,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [asdf-opentofu (⭐31)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 *   [tenv (⭐1.4k)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 *   [tfswitcher (⭐4)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
-*   [tofuenv (⭐235)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [tofuenv (⭐236)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ### Wrappers
 
@@ -91,7 +91,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [Terragrunt (⭐9.8k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 *   [Terramate (⭐3.6k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 *   [easy\_infra (⭐78)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
-*   [pug (⭐694)](https://github.com/leg100/pug) - A terminal user interface for power users.
+*   [pug (⭐700)](https://github.com/leg100/pug) - A terminal user interface for power users.
 *   [tf (⭐88)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 *   [tfam (⭐25)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 *   [tfexe (⭐4)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
@@ -141,11 +141,11 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Registry
 
 *   [library.tf](https://library.tf/) - An indexer of registries for providers and modules with insights and documentation.
-*   [boring-registry (⭐291)](https://github.com/boring-registry/boring-registry) - An open-source module and provider registry compatible with OpenTofu.
+*   [boring-registry (⭐292)](https://github.com/boring-registry/boring-registry) - An open-source module and provider registry compatible with OpenTofu.
 *   [hermitcrab (⭐50)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 *   [terrac (⭐34)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for Terraform modules.
-*   [terralist (⭐513)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [terralist (⭐519)](https://github.com/terralist/terralist) - Private registry for providers and modules.
 *   [citizen (⭐654)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 *   [petra (⭐44)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
 *   [tapir (⭐239)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
@@ -160,7 +160,8 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 *   [zed Extension (⭐8)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 *   [terratag (⭐1.1k)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
-*   [tfupdate (⭐657)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
+*   [tfupdate (⭐656)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
+*   [bare-devcontainer/templates (⭐1)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
 
 ## Learning
 
@@ -191,7 +192,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
 *   [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
 *   [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
-*   [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
 *   [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
 *   [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
 

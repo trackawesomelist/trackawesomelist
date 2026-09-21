@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/dlang-community/awesome-d/week/README.md) / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### GUI Applications / Status page
+
+*   [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+
 ## [Sep 20, 2026](/content/2026/09/20/README.md)
 
 ### Games / Status page
@@ -21,12 +27,6 @@
 ### Games / Status page
 
 *   [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
-
-## [Sep 09, 2026](/content/2026/09/09/README.md)
-
-### GUI Applications / Status page
-
-*   [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 
 ## [Jun 28, 2026](/content/2026/06/28/README.md)
 
