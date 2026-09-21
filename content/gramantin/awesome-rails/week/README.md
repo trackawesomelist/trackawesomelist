@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ [Daily](/content/gramantin/awesome-rails/README.md) / Weekly / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Gems / Other external resources
+
+*   [activerecord-postgresql-branched (⭐4)](https://github.com/carldaws/activerecord-postgresql-branched) - Database adapter that gives each git branch its own PostgreSQL schema. [:red\_circle:](https://rubygems.org/gems/activerecord-postgresql-branched)
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Community / Other external resources
@@ -20,7 +26,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails-rocket-sheep (⭐1)](https://github.com/PositiveControl/rails-rocket-sheep) - Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).
+*   [rails-rocket-sheep (⭐2)](https://github.com/PositiveControl/rails-rocket-sheep) - Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).
 
 ### DevTools / Other external resources
 
@@ -178,7 +184,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐24)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1)
+*   [obl.ong (⭐23)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1)
 
 ## [Dec 11 - Dec 17, 2023](/content/2023/50/README.md)
 
@@ -190,7 +196,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [somleng (⭐97)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
+*   [somleng (⭐98)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -264,9 +270,9 @@ A curated list of awesome things related to Ruby on Rails
 ### Gems / Other external resources
 
 *   [rails\_admin (⭐8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐426)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [rails\_semantic\_logger (⭐428)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails (⭐877)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [rubocop-rails (⭐876)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
 *   [view\_component (⭐3.6k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
@@ -307,32 +313,32 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [human-essentials (⭐590)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+*   [human-essentials (⭐593)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [activeWorkflow (⭐865)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
+*   [activeWorkflow (⭐864)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 *   [airCasting (⭐64)](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
-*   [alaveteli (⭐418)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
+*   [alaveteli (⭐419)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
 *   [api.rss (⭐346)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
 *   [autolab (⭐809)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
 *   [beatstream (⭐124)](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
-*   [bike\_index (⭐309)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
+*   [bike\_index (⭐308)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
 *   [calagator (⭐447)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
 *   [campo (⭐436)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
-*   [chatwoot (⭐36k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
+*   [chatwoot (⭐37k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
 *   [codetriage (⭐1.5k)](https://github.com/codetriage/codetriage) - An open source project finder app (using Rails 7.0). - [:earth\_africa:](https://www.codetriage.com/)
-*   [coursemology2 (⭐157)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
+*   [coursemology2 (⭐158)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
 *   [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 5.2).
-*   [crowdtiltOpen (⭐598)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
+*   [crowdtiltOpen (⭐595)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
 *   [cw-ovp (⭐31)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
 *   [danbooru (⭐2.8k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
 *   [dgidb (⭐97)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐14k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
 *   [discourse (⭐48k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
-*   [ekylibre (⭐489)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
+*   [ekylibre (⭐492)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [expertiza (⭐194)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
 *   [fairmondo (⭐110)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1).
 *   [fat-free-crm (⭐3.6k)](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
@@ -340,10 +346,10 @@ A curated list of awesome things related to Ruby on Rails
 *   [forem (⭐23k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
 *   [fromthepage (⭐186)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
 *   [gitlabhq (⭐25k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
-*   [growstuff (⭐475)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1).
+*   [growstuff (⭐474)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1).
 *   [hackershare (⭐664)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0).
 *   [hitobito (⭐478)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
-*   [inaturalist (⭐850)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
+*   [inaturalist (⭐856)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐4.8k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.6k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
 *   [openFarm (⭐1.7k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
@@ -351,7 +357,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [openstreetmap-website (⭐2.8k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐2.2k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
 *   [passwordPusher (⭐3.2k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
-*   [planningalerts-app (⭐115)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
+*   [planningalerts-app (⭐116)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
 *   [popHealth (⭐127)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 *   [publify (⭐1.9k)](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
 *   [quant (⭐136)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
@@ -360,7 +366,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [redmine (⭐2.4k)](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1).
 *   [theodinproject (⭐4.6k)](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
 *   [tracks (⭐1.2k)](https://github.com/TracksApp/tracks) - A goal tracking app (using Rails 6.0). - [:earth\_africa:](https://www.getontracks.org)
-*   [vglist (⭐159)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
+*   [vglist (⭐160)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
 *   [websiteOne (⭐144)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
 
 ### Gems / Other external resources
@@ -375,7 +381,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Open Source Rails Apps / Other external resources
 
-*   [alonetone (⭐381)](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
+*   [alonetone (⭐382)](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
 
 ### Gems / Other external resources
 
@@ -392,7 +398,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_new (⭐164)](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
+*   [rails\_new (⭐163)](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -411,7 +417,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐631)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_api\_base (⭐634)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
 *   [rails\_hotwire\_base (⭐77)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
@@ -518,7 +524,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [ciao (⭐2k)](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
 *   [coRM (⭐27)](https://github.com/SIGIRE/CoRM) - A customer relationship management app - using Rails 3.2 - [:earth\_africa:](http://www.corm.fr)
 *   [coderwall (legacy) (⭐856)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
-*   [coderwall (next) (⭐200)](https://github.com/coderwall/coderwall-next) - A social network app for software engineers - using Rails 5.0
+*   [coderwall (next) (⭐199)](https://github.com/coderwall/coderwall-next) - A social network app for software engineers - using Rails 5.0
 *   [contribulator (⭐84)](https://github.com/24pullrequests/contribulator) - An open source project finder app - using Rails 5.1
 *   [crowdAI (⭐152)](https://github.com/crowdAI/crowdai) - An app for data science challenges (using Rails 5.2). - [:earth\_africa:](https://www.aicrowd.com/crowdai.html)
 *   [follow-all (⭐80)](https://github.com/codeforamerica/follow-all) - A Twitter account management app (using Rails 4.2). (archived).
@@ -528,7 +534,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [hours (⭐1k)](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2).
 *   [intercityup.com (⭐112)](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
 *   [kitsu-tools (⭐2.1k)](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform (using Rails 4.1).
-*   [lavish (⭐688)](https://github.com/mquan/lavish) - A color scheme generator (using Rails 4.2).
+*   [lavish (⭐687)](https://github.com/mquan/lavish) - A color scheme generator (using Rails 4.2).
 *   [lifeToRemind (⭐11)](https://github.com/eduqg/LifeToRemind) - A career planning app (using Rails 5.2).
 *   [obtvse2 (⭐255)](https://github.com/natew/obtvse2) - A blogging app (using Rails 4.0).
 *   [onebody (⭐1.4k)](https://github.com/seven1m/onebody) - A social networking app for churches - using Rails 5.1
@@ -539,7 +545,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [socify (⭐375)](https://github.com/scaffeinate/socify) - A social networking platform - using Rails 5.0
 *   [splits-io (⭐142)](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. (using Rails 6.0). - [:earth\_africa:](https://splits.io)
 *   [spokenvote (⭐44)](https://github.com/Spokenvote/spokenvote) - A social voting app (using Rails 4.2).
-*   [stackneveroverflow (⭐166)](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - using Rails 5.0
+*   [stackneveroverflow (⭐165)](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - using Rails 5.0
 *   [teambox (⭐1.8k)](https://github.com/redbooth/teambox) - A collaboration app - using Rails 3.0 - [:earth\_africa:](https://redbooth.com) (archived).
 *   [trado (⭐153)](https://github.com/Jellyfishboy/trado) - An e-commerce platform (using Rails 4.2).
 *   [whitehall (⭐1k)](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
@@ -558,7 +564,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [activerecord-pg\_enum (⭐163)](https://github.com/alassek/activerecord-pg_enum) - A gem to integrate PostgreSQL's enumerated types with the Rails enum feature. [:red\_circle:](https://rubygems.org/gems/activerecord-pg_enum)
 *   [activerecord-postgis-adapter (⭐936)](https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord connection adapter for PostGIS. [:red\_circle:](https://rubygems.org/gems/activerecord-postgis-adapter)
 *   [activerecord-postgres\_enum (⭐366)](https://github.com/bibendi/activerecord-postgres_enum) - A gem to adds migration and schema.rb support to PostgreSQL enum data types. [:red\_circle:](https://rubygems.org/gems/activerecord-postgres_enum)
-*   [activerecord-sqlserver-adapter (⭐981)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
+*   [activerecord-sqlserver-adapter (⭐980)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
 *   [activerecord-typedstore (⭐467)](https://github.com/byroot/activerecord-typedstore) - A gem to implement `ActiveRecord::Store` with type definition. [:red\_circle:](https://rubygems.org/gems/activerecord-typedstore)
 *   [activity\_notification (⭐519)](https://github.com/simukappu/activity_notification) - A gem to integrate user activity notification. [:red\_circle:](https://rubygems.org/gems/activity_notification)
 *   [aggregate\_root (⭐1.6k)](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root) - A gem to handle event sourcing. [:red\_circle:](https://rubygems.org/gems/aggregate_root)
@@ -572,8 +578,8 @@ A curated list of awesome things related to Ruby on Rails
 *   [avo (⭐1.8k)](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
 *   [better\_errors (⭐6.9k)](https://github.com/BetterErrors/better_errors) - A tool to provide better error page. [:red\_circle:](https://rubygems.org/gems/better_errors)
 *   [brakeman (⭐7.3k)](https://github.com/presidentbeef/brakeman) - A gem to scan code against security vulnerabilities. [:red\_circle:](https://rubygems.org/gems/brakeman)
-*   [breadcrumbs\_on\_rails (⭐951)](https://github.com/weppos/breadcrumbs_on_rails) - A gem to create & manage breadcrumbs-style navigation. [:red\_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
-*   [bulma-rails (⭐354)](https://github.com/joshuajansen/bulma-rails) - A wrapper for Bulma, a CSS framework based on flexbox. [:red\_circle:](https://rubygems.org/gems/bulma-rails)
+*   [breadcrumbs\_on\_rails (⭐950)](https://github.com/weppos/breadcrumbs_on_rails) - A gem to create & manage breadcrumbs-style navigation. [:red\_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
+*   [bulma-rails (⭐353)](https://github.com/joshuajansen/bulma-rails) - A wrapper for Bulma, a CSS framework based on flexbox. [:red\_circle:](https://rubygems.org/gems/bulma-rails)
 *   [cancancan (⭐5.7k)](https://github.com/cancancommunity/cancancan) - A gem to handle authorization. [:red\_circle:](https://rubygems.org/gems/cancancan)
 *   [carrierwave (⭐8.8k)](https://github.com/carrierwaveuploader/carrierwave) - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/carrierwave)
 *   [caxlsx\_rails (⭐762)](https://github.com/caxlsx/caxlsx_rails) - A gem to generate entity-relationship diagram. [:red\_circle:](https://rubygems.org/gems/caxlsx_rails)
@@ -599,7 +605,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [lograge (⭐3.6k)](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red\_circle:](https://rubygems.org/gems/lograge)
 *   [mailkick (⭐975)](https://github.com/ankane/mailkick) - A tool to handle mail unsubscriptions. [:red\_circle:](https://rubygems.org/gems/mailkick)
 *   [marginalia (⭐1.8k)](https://github.com/basecamp/marginalia) - A gem to attach comments to ActiveRecord's SQL queries. [:red\_circle:](https://rubygems.org/gems/marginalia)
-*   [metka (⭐76)](https://github.com/jetrockets/metka) - A gem to manage tags using Postgresql array columns. [:red\_circle:](https://rubygems.org/gems/metka)
+*   [metka (⭐77)](https://github.com/jetrockets/metka) - A gem to manage tags using Postgresql array columns. [:red\_circle:](https://rubygems.org/gems/metka)
 *   [money-rails (⭐1.9k)](https://github.com/RubyMoney/money-rails) - A gem to integrate Money gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/money-rails)
 *   [paloma (⭐93)](https://github.com/gnclmorais/paloma) - A gem to manage page-specific JavaScript in Rails apps. [:red\_circle:](https://rubygems.org/gems/paloma)
 *   [pgcli-rails (⭐35)](https://github.com/mattbrictson/pgcli-rails) - A replacement of `rails:dbconsole` command to manage Postgresql. [:red\_circle:](https://rubygems.org/gems/pgcli-rails)
@@ -613,9 +619,9 @@ A curated list of awesome things related to Ruby on Rails
 *   [redisWebManager (⭐169)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance. [:red\_circle:](https://rubygems.org/gems/redis_web_manager)
 *   [reform-rails (⭐100)](https://github.com/trailblazer/reform-rails) - A gem to wrap Reform gem, a form validation tool, with Rails app. [:red\_circle:](https://rubygems.org/gems/reform-rails)
 *   [rgeo-activerecord (⭐109)](https://github.com/rgeo/rgeo-activerecord) - A gem to provide common tools used by RGeo-based spatial adapters. [:red\_circle:](https://rubygems.org/gems/rgeo-activerecord)
-*   [rodauth-rails (⭐758)](https://github.com/janko/rodauth-rails) - A gem to wrap Rodauth, an authentication handler, for Rails apps. [:red\_circle:](https://rubygems.org/gems/rodauth-rails)
-*   [rollup (⭐353)](https://github.com/ankane/rollup) -  A gem to handle time-series data in Rails [:red\_circle:](https://rubygems.org/gems/rollups)
-*   [route\_translator (⭐949)](https://github.com/enriclluelles/route_translator) - A tool to handle route translation. [:red\_circle:](https://rubygems.org/gems/route_translator)
+*   [rodauth-rails (⭐759)](https://github.com/janko/rodauth-rails) - A gem to wrap Rodauth, an authentication handler, for Rails apps. [:red\_circle:](https://rubygems.org/gems/rodauth-rails)
+*   [rollup (⭐354)](https://github.com/ankane/rollup) -  A gem to handle time-series data in Rails [:red\_circle:](https://rubygems.org/gems/rollups)
+*   [route\_translator (⭐950)](https://github.com/enriclluelles/route_translator) - A tool to handle route translation. [:red\_circle:](https://rubygems.org/gems/route_translator)
 *   [rspec-rails (⭐5.3k)](https://github.com/rspec/rspec-rails) - A testing framework. [:red\_circle:](https://rubygems.org/gems/rspec-rails)
 *   [scenic (⭐3.6k)](https://github.com/scenic-views/scenic) - A gem to manage database views. [:red\_circle:](https://rubygems.org/gems/scenic)
 *   [searchkick (⭐6.7k)](https://github.com/ankane/searchkick) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/searchkick)
@@ -626,8 +632,8 @@ A curated list of awesome things related to Ruby on Rails
 *   [sorbet-rails (⭐630)](https://github.com/chanzuckerberg/sorbet-rails) - A gem to integrate Sorbet gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/sorbet-rails)
 *   [spree (⭐16k)](https://github.com/spree/spree) - An open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/spree)
 *   [spring (⭐2.8k)](https://github.com/rails/spring) - A gem to preload Rails app. [:red\_circle:](https://rubygems.org/gems/spring)
-*   [sprockets (⭐985)](https://github.com/rails/sprockets) - A gem to compile & serve web assets. [:red\_circle:](https://rubygems.org/gems/sprockets)
-*   [stimulus-rails (⭐727)](https://github.com/hotwired/stimulus-rails) - A gem to integrate Stimulus.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/stimulus-rails)
+*   [sprockets (⭐986)](https://github.com/rails/sprockets) - A gem to compile & serve web assets. [:red\_circle:](https://rubygems.org/gems/sprockets)
+*   [stimulus-rails (⭐728)](https://github.com/hotwired/stimulus-rails) - A gem to integrate Stimulus.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/stimulus-rails)
 *   [tinymce-rails (⭐822)](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red\_circle:](https://rubygems.org/gems/tinymce-rails)
 *   [transloadit-rails (⭐47)](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red\_circle:](https://rubygems.org/gems/transloadit-rails)
 *   [trove (⭐80)](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red\_circle:](https://rubygems.org/gems/trove)
@@ -646,7 +652,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [rails-devise-graphql (⭐284)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
 *   [rails-template(mattbrictson) (⭐1.1k)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 *   [rails-template(TristanToye) (⭐34)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
-*   [rails-template(ackama) (⭐382)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(ackama) (⭐385)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 *   [rails-template(astrocket) (⭐79)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
 *   [rails-template(dao42) (⭐378)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
 *   [rails-templates(lewagon) (⭐681)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.

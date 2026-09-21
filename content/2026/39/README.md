@@ -1,18 +1,126 @@
 # Awesome List Updates on Sep 28 - Oct 04, 2026
 
-10 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [1. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+
+### Other Creators / ML Kit
+
+*   [@erkamyaman/capacitor-foldable (⭐10)](https://github.com/erkamyaman/capacitor-foldable) - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
+
+## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Law & Finance / Others
+
+*   [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
+
+## [3. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+
+### Web
+
+*   [SeichiGo](https://seichigo.com/en/map) - Worldwide map of 50,000+ real-life anime locations across 1,500+ series, with an itinerary planner. \[English/日本語/中文]
+
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Visualization
+
+*   [torchvista (⭐765)](https://github.com/sachinhosmani/torchvista) - Interactive tool to visualize the forward pass of PyTorch models as a graph in notebooks.
+
+### JupyterLab Extensions
+
+*   [devscholar (⭐3)](https://github.com/pallaprolus/devscholar-jupyter) - Hover metadata, PDF preview and BibTeX export for paper references (arXiv, DOI) in notebook cells.
+
+### Testing
+
+*   [Jupyter Notebook Validator Operator (⭐3)](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Kubernetes operator for validation against golden baselines and model endpoints.
+
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Converters / Rust
+
+*   [gtfs-osm-import (⭐30)](https://github.com/Gabboxl/gtfs-osm-import) - Java tool for importing GTFS data into OpenStreetMap, with conflict checks against existing OSM elements.
+*   *   [RoutePress GTFS to GeoJSON Converter](https://www.getroutepress.com/free-tools/gtfs-to-geojson) - Free, easy-to-use browser tool that converts GTFS shapes and stops into GeoJSON for use in ArcGIS, QGIS, and other GIS software. No installation required.
+
+### GTFS Validators / Rust
+
+*   [GTFS.guru](https://gtfs.guru/) - Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.
+
+### Web Apps (closed source) / Rust
+
+*   [El Tracker](https://www.el-tracker.com/home) - Realtime tracker for Chicago Transit Authority (CTA) Loop trains.
+*   [WMATA Exit Optimizer](https://wmata-exit-optimizer.com/) - Suggests which train car to board for the shortest walk to your destination station's exit on the WMATA Metro.
+*   [Transfer Hero](https://transferhero.app/) - Realtime metro trip planning for WMATA that surfaces useful transfers.
+
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [RetroArr](https://retroarr.app) `⚠` - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ([Source Code (⭐10)](https://github.com/RiDDiX/RetroArr)) `MIT` `Docker/.NET`
+
+## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Articles
+
+*   [The Complete Guide to Higher-Order Components in Next.js With TypeScript](https://burakdev.com/blogs/the-complete-guide-to-higher-order-components-in-next-js-react-with-typescript)
+
+### Boilerplates
+
+*   [Ultimate Blog Editor (⭐3)](https://github.com/Masculinn/blog-editor) - An open-source Markdown and Lexical-based blog editor with Supabase sync, MDX rendering, draft/post and media management.
+
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Development / Devops
+
+*   [RunWisp (⭐49)](https://github.com/runwisp/runwisp) - Featureful cron and supervisord replacement.
+
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Other / [Other](#other-1)
+
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+*   **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
+
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### JavaScript / General-Purpose Machine Learning
+
+*   [AI on Browser (⭐18)](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
+
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tutorials and Blog Posts / Miscellaneous
+
+*   [The terraform-docs GitHub Action: A Complete CI Setup Guide](https://devtoolhub.com/terraform-docs-github-action/) - Generating and auto-committing module docs on every PR with terraform-docs, including the OIDC/permissions gotchas that break it in CI.
+
+### Community Modules / Miscellaneous
+
+*   [terraform-helm-cloud-carbon-footprint (⭐0)](https://github.com/fabiocicerchia/terraform-helm-cloud-carbon-footprint) - Terraform/Helm module to deploy Cloud Carbon Footprint on Kubernetes.
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-featureflip (⭐0)](https://github.com/canopy-labs/terraform-provider-featureflip) - Provider for [Featureflip](https://featureflip.io/) feature flags: projects, environments, flags, targeting rules, segments and SDK keys.
+
+### Tools / Community providers
+
+*   [TerraDrift (⭐0)](https://github.com/niravraychura/terradrift) - Self-hosted Terraform/OpenTofu drift CLI for CI and cron (plan-based; not unmanaged-resource inventory).
+
+## [12. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Gems / Other external resources
+
+*   [activerecord-postgresql-branched (⭐4)](https://github.com/carldaws/activerecord-postgresql-branched) - Database adapter that gives each git branch its own PostgreSQL schema. [:red\_circle:](https://rubygems.org/gems/activerecord-postgresql-branched)
+
+## [13. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Helpers
 
 *   [bare-devcontainer/templates (⭐1)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
 
-## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [14. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Image Editing
 
@@ -33,25 +141,25 @@
 *   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
 *   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
 
-## [3. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### GUI Applications / Status page
 
 *   [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### PDF
 
 *   [PDF4QT (⭐1.5k)](https://github.com/JakubMelka/PDF4QT) - PDF toolkit with a rendering and editing library, a viewer and command line tools. \[MIT] [website](https://jakubmelka.github.io/)
 
-## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
 *   [pgwd (⭐7)](https://github.com/hrodrig/pgwd) - CLI that monitors PostgreSQL connection counts (total, active, idle, stale) and notifies via Slack and/or Loki when thresholds are exceeded. Supports Kubernetes (kubectl port-forward) and optional run context in notifications.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -92,7 +200,7 @@
 
 *   [Arazzo Specification (⭐472) (⭐468)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
@@ -102,7 +210,7 @@
 
 *   [ExcalidrawZ](https://excalidrawz.chocoford.com/) - Open-source native Excalidraw client with local file management and iCloud sync. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chocoford/ExcalidrawZ) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 
-## [8. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -880,14 +988,14 @@
 
 
 
-## [9. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [21. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code (⭐1)](https://github.com/rajeshsureddi/GameScope).
 *   [Slay the Spire Runs](https://drive.google.com/drive/folders/1c7MwTdLxnPgvmPbBEfNWa45YAUU53H0l) - 77 million Slay the Spire Runs from 2018-2020.
 
-## [10. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
+## [22. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
 
 ### SVG
 

@@ -566,7 +566,7 @@ Further resources:
 *   [goro (⭐373)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 *   [gorse](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 *   [therfoo (⭐18)](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
-*   [anneal (⭐32)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
+*   [anneal (⭐33)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
 *   [neat (⭐73)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **\[Deprecated]**
 *   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang. **\[Deprecated]**
 *   [go-ml (⭐199)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
@@ -593,7 +593,7 @@ Further resources:
 *   [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
 *   [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
 *   [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - A statistics library.
-*   [SVGo (⭐2.2k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
+*   [SVGo (⭐2.3k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
 *   [glot (⭐404)](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
 *   [globe (⭐1.6k)](https://github.com/mmcloughlin/globe) - Globe wireframe visualization.
 *   [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
@@ -808,6 +808,7 @@ Further resources:
 *   [WebDNN (⭐2k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 *   [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 *   [Kandle (⭐10)](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
+*   [AI on Browser (⭐18)](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
 
 <a name="javascript-speech-recognition"></a>
 
@@ -2122,7 +2123,7 @@ Further resources:
 *   [Fiddler AI](https://www.fiddler.ai) - The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
 *   [Maxim AI](https://getmaxim.ai) - The agent simulation, evaluation, and observability platform helping product teams ship their AI applications with the quality and speed needed for real-world use.
 *   [promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
-*   [Agentic Radar (⭐1k)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+*   [Agentic Radar (⭐1.1k)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 *   [ClawMoat (⭐43)](https://github.com/darfaz/clawmoat) - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse. Zero deps, MIT licensed.
 *   [Agentic Signal (⭐163)](https://github.com/code-forge-temple/agentic-signal) - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.
 *   [Agentfield (⭐2.6k)](https://github.com/Agent-Field/agentfield) - Open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.

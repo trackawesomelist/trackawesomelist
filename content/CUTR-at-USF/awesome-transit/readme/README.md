@@ -200,11 +200,13 @@ Converters from various static schedule formats to and from GTFS.
 *   [Chouette](https://enroute.atlassian.net/wiki/spaces/PUBLIC/pages/539426886/Chouette+Convert) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
 *   [extract-gtfs-pathways (⭐4)](https://github.com/derhuerst/extract-gtfs-pathways) – Command-line tool to extract pathways as GeoJSON from a GTFS dataset.
 *   [extract-gtfs-shapes (⭐6)](https://github.com/derhuerst/extract-gtfs-shapes) – Command-line tool to extract shapes as GeoJSON from a GTFS dataset.
+*   [gtfs-osm-import (⭐30)](https://github.com/Gabboxl/gtfs-osm-import) - Java tool for importing GTFS data into OpenStreetMap, with conflict checks against existing OSM elements.
 *   [GTFS-OSM-Sync (⭐97)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 *   [gtfs-parser (⭐6)](https://github.com/ioTransit/gtfs-parser) - The GTFS-PARSER library is a library to allow javascript to parse gtfs and create geojson on client or server.
 *   [gtfs-service-area (⭐4)](https://github.com/cal-itp/gtfs-service-area) - Compute a transit service area from static GTFS. Results are output as single-layer .geojson files. Dockerized version of [gtfs-to-geojson (⭐159)](https://github.com/BlinkTagInc/gtfs-to-geojson).
 *   [GTFS-route-shapes (⭐20)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
 *   [gtfs-to-geojson (⭐159)](https://github.com/BlinkTagInc/gtfs-to-geojson) - Javascript tool that converts transit data in GTFS shapes and stops into geoJSON. This is useful for creating maps of transit routes.
+*   *   [RoutePress GTFS to GeoJSON Converter](https://www.getroutepress.com/free-tools/gtfs-to-geojson) - Free, easy-to-use browser tool that converts GTFS shapes and stops into GeoJSON for use in ArcGIS, QGIS, and other GIS software. No installation required.
 *   [gtfs2gps (⭐83)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 *   [gtfs2emis (⭐35)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 *   [gtsf (⭐3)](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.
@@ -304,6 +306,7 @@ Converters from various static schedule formats to and from GTFS.
 *   [Transit App's gtfs-fares-v2-validator (⭐7)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 *   [Transport Validator (⭐49)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
 *   [gtfs-accessiblity-validator (⭐2)](https://github.com/BlinkTagInc/gtfs-accessibility-validator) - Validates the presence of accessiblity-related fields and files in a GTFS file. Can be a command line tool or node.js package.
+*   [GTFS.guru](https://gtfs.guru/) - Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.
 
 ### GTFS Realtime
 
@@ -533,6 +536,9 @@ Apps people use when taking transit.
 *   [TransSee](https://www.transsee.ca/) - Real-time transit predictions based on actual travel times, vehicle locations, schedules and maps. Premium gives you access to a detailed history of schedules, vehicle locations, stop arrivals, schedule adherance, charts and graphs. For an additional fee custom queries can be run on this data.
 *   [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
 *   [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
+*   [El Tracker](https://www.el-tracker.com/home) - Realtime tracker for Chicago Transit Authority (CTA) Loop trains.
+*   [WMATA Exit Optimizer](https://wmata-exit-optimizer.com/) - Suggests which train car to board for the shortest walk to your destination station's exit on the WMATA Metro.
+*   [Transfer Hero](https://transferhero.app/) - Realtime metro trip planning for WMATA that surfaces useful transfers.
 *   [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
 *   [Bus RT Insights](https://busrtinsights.com) - Web-based transit analytics platform that turns GTFS and GTFS-Realtime data into automated KPIs, service delivery analysis, load profiles, and interactive maps and dashboards for any agency that has GTFS and GTFS-RT publicly available.
 *   [haltestelle.net](https://haltestelle.net) - Live departure boards for every stop in Germany's VRR and VRS transit networks (Rhine-Ruhr / Rhine-Sieg, NRW), powered by the TRIAS realtime interface. Also shows live vehicle positions along each line and real-time elevator/escalator status — runs entirely in the browser, no app needed.

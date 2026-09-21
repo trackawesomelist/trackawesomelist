@@ -6,6 +6,24 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Tutorials and Blog Posts / Miscellaneous
+
+*   [The terraform-docs GitHub Action: A Complete CI Setup Guide](https://devtoolhub.com/terraform-docs-github-action/) - Generating and auto-committing module docs on every PR with terraform-docs, including the OIDC/permissions gotchas that break it in CI.
+
+### Community Modules / Miscellaneous
+
+*   [terraform-helm-cloud-carbon-footprint (⭐0)](https://github.com/fabiocicerchia/terraform-helm-cloud-carbon-footprint) - Terraform/Helm module to deploy Cloud Carbon Footprint on Kubernetes.
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-featureflip (⭐0)](https://github.com/canopy-labs/terraform-provider-featureflip) - Provider for [Featureflip](https://featureflip.io/) feature flags: projects, environments, flags, targeting rules, segments and SDK keys.
+
+### Tools / Community providers
+
+*   [TerraDrift (⭐0)](https://github.com/niravraychura/terradrift) - Self-hosted Terraform/OpenTofu drift CLI for CI and cron (plan-based; not unmanaged-resource inventory).
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Learning and Studying
@@ -53,7 +71,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Providers / Community providers
 
 *   [terraform-provider-seerr (⭐5)](https://github.com/Josh-Archer/terraform-provider-seerr) - Terraform provider for Seerr (Overseerr/Jellyseerr).
-*   [terraform-provider-paddle (⭐0)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
+*   [terraform-provider-paddle (⭐1)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 
 ### Tools / CI
 

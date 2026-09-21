@@ -2,7 +2,7 @@
 
 ⚡️ A curated list of awesome things related to Capacitor.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/capawesome-team/awesome-capacitorjs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) · ⭐ 192 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/capawesome-team/awesome-capacitorjs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) · ⭐ 205 · 🏷️ Platforms
 
 [ [Daily](/content/capawesome-team/awesome-capacitorjs/README.md) / [Weekly](/content/capawesome-team/awesome-capacitorjs/week/README.md) / Overview ]
 
@@ -79,7 +79,7 @@ A curated list of awesome things related to Capacitor.
 *   [CLI](https://capacitorjs.com/docs/cli)
 *   [Community](https://capacitorjs.com/community)
 *   [Blog](https://ionic.io/blog/tag/capacitor)
-*   [Repository (⭐16k)](https://github.com/ionic-team/capacitor)
+*   [Repository (⭐17k)](https://github.com/ionic-team/capacitor)
 *   [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -391,77 +391,78 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capacitor Community
 
-*   [@capacitor-community/admob (⭐294)](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob.
+*   [@capacitor-community/admob (⭐298)](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob.
 *   [@capacitor-community/app-icon (⭐102)](https://github.com/capacitor-community/app-icon) - Capacitor plugin for managing an iOS app's icon.
 *   [@capacitor-community/apple-sign-in (⭐168)](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support.
-*   [@capacitor-community/background-geolocation (⭐247)](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-*   [@capacitor-community/bluetooth-le (⭐359)](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy.
+*   [@capacitor-community/background-geolocation (⭐249)](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
+*   [@capacitor-community/bluetooth-le (⭐361)](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy.
 *   [@capacitor-community/camera-preview (⭐228)](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code.
-*   [@capacitor-community/contacts (⭐145)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
+*   [@capacitor-community/contacts (⭐144)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
 *   [@capacitor-community/date-picker (⭐94)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
 *   [@capacitor-community/electron (⭐398)](https://github.com/capacitor-community/electron) - Capacitor plugin to run Capacitor apps on Electron.
-*   [@capacitor-community/facebook-login (⭐113)](https://github.com/capacitor-community/facebook-login) - Facebook Login support.
-*   [@capacitor-community/google-maps (⭐162)](https://github.com/capacitor-community/google-maps) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
+*   [@capacitor-community/facebook-login (⭐114)](https://github.com/capacitor-community/facebook-login) - Facebook Login support.
+*   [@capacitor-community/google-maps (⭐161)](https://github.com/capacitor-community/google-maps) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
 *   [@capacitor-community/intercom (⭐70)](https://github.com/capacitor-community/intercom) - Enable Intercom for Capacitor apps.
-*   [@capacitor-community/keep-awake (⭐176)](https://github.com/capacitor-community/keep-awake) - Capacitor plugin to prevent devices from dimming or locking the screen.
-*   [@capacitor-community/media (⭐134)](https://github.com/capacitor-community/media) - Capacitor plugin to activate extra media features.
-*   [@capacitor-community/native-audio (⭐152)](https://github.com/capacitor-community/native-audio) - Capacitor community plugin for playing sounds.
+*   [@capacitor-community/keep-awake (⭐174)](https://github.com/capacitor-community/keep-awake) - Capacitor plugin to prevent devices from dimming or locking the screen.
+*   [@capacitor-community/media (⭐133)](https://github.com/capacitor-community/media) - Capacitor plugin to activate extra media features.
+*   [@capacitor-community/native-audio (⭐154)](https://github.com/capacitor-community/native-audio) - Capacitor community plugin for playing sounds.
 *   [@capacitor-community/native-market (⭐34)](https://github.com/capacitor-community/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [@capacitor-community/photoviewer (⭐70)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
 *   [@capacitor-community/privacy-screen (⭐103)](https://github.com/capacitor-community/privacy-screen) - Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
-*   [@capacitor-community/safe-area (⭐177)](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
+*   [@capacitor-community/safe-area (⭐178)](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 *   [@capacitor-community/screen-brightness (⭐31)](https://github.com/capacitor-community/screen-brightness) - Capacitor community plugin for controlling screen brightness on iOS and Android devices.
-*   [@capacitor-community/speech-recognition (⭐129)](https://github.com/capacitor-community/speech-recognition) - Capacitor community plugin for speech recognition.
-*   [@capacitor-community/sqlite (⭐658)](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
-*   [@capacitor-community/stripe (⭐248)](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor.
+*   [@capacitor-community/speech-recognition (⭐130)](https://github.com/capacitor-community/speech-recognition) - Capacitor community plugin for speech recognition.
+*   [@capacitor-community/sqlite (⭐662)](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
+*   [@capacitor-community/stripe (⭐247)](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor.
 *   [@capacitor-community/text-to-speech (⭐130)](https://github.com/capacitor-community/text-to-speech) - Capacitor plugin for synthesizing speech from text.
 *   [@capacitor-community/vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3/4 Plugin for Capacitor.
 
 ### Capgo
 
-*   [@capgo/camera-preview (⭐50)](https://github.com/Cap-go/capacitor-camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
-*   [@capgo/capacitor-crisp (⭐18)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
-*   [@capgo/capacitor-flash (⭐24)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
-*   [@capgo/capacitor-mute (⭐15)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-*   [@capgo/capacitor-screen-recorder (⭐27)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [@capgo/capacitor-updater (⭐825)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
-*   [@capgo/inappbrowser (⭐131)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-*   [@capgo/native-audio (⭐75)](https://github.com/Cap-go/capacitor-native-audio) - Capacitor plugin for native audio engine (fork).
-*   [@capgo/native-market (⭐16)](https://github.com/Cap-go/capacitor-native-market) - Capacitor community plugin for native market for Play Store/App Store.
-*   [@capgo/nativegeocoder (⭐41)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [@capgo/camera-preview (⭐51)](https://github.com/Cap-go/capacitor-camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+*   [@capgo/capacitor-crisp (⭐19)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [@capgo/capacitor-flash (⭐25)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+*   [@capgo/capacitor-mute (⭐16)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+*   [@capgo/capacitor-screen-recorder (⭐29)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+*   [@capgo/capacitor-updater (⭐856)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+*   [@capgo/inappbrowser (⭐134)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [@capgo/native-audio (⭐77)](https://github.com/Cap-go/capacitor-native-audio) - Capacitor plugin for native audio engine (fork).
+*   [@capgo/native-market (⭐18)](https://github.com/Cap-go/capacitor-native-market) - Capacitor community plugin for native market for Play Store/App Store.
+*   [@capgo/nativegeocoder (⭐42)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 
 ### Aparajita
 
-*   [@aparajita/capacitor-dark-mode (⭐34)](https://github.com/aparajita/capacitor-dark-mode) – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
+*   [@aparajita/capacitor-dark-mode (⭐33)](https://github.com/aparajita/capacitor-dark-mode) – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
 *   [@aparajita/capacitor-ios-silent-notifications (⭐9)](https://github.com/aparajita/capacitor-ios-silent-notifications) – Silent (AKA remote) notification support for Capacitor apps on iOS.
 *   [@aparajita/capacitor-logger (⭐22)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
-*   [@aparajita/capacitor-secure-storage (⭐166)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
+*   [@aparajita/capacitor-secure-storage (⭐168)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 
 ### Transistor Software
 
-*   [@transistorsoft/capacitor-background-fetch (⭐92)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both iOS and Android.
-*   [@transistorsoft/capacitor-background-geolocation (⭐143)](https://github.com/transistorsoft/capacitor-background-geolocation) - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
+*   [@transistorsoft/capacitor-background-fetch (⭐91)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both iOS and Android.
+*   [@transistorsoft/capacitor-background-geolocation (⭐144)](https://github.com/transistorsoft/capacitor-background-geolocation) - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
 
 ### Luan Freitas
 
 *   [capacitor-app-attest (⭐4)](https://github.com/ludufre/capacitor-app-attest) - Apple Attest with Ionic Capacitor.
 *   [capacitor-live-activities (⭐19)](https://github.com/ludufre/capacitor-live-activities) - Capacitor plugin to use Live Activities on iOS 16.2+.
 *   [capacitor-lottie-splash-screen (⭐21)](https://github.com/ludufre/capacitor-lottie-splash-screen) - Capacitor plugin to use Lottie animations as splash screen.
-*   [capacitor-screenshot (⭐19)](https://github.com/ludufre/capacitor-screenshot) - Capacitor plugin to take screenshots.
+*   [capacitor-screenshot (⭐18)](https://github.com/ludufre/capacitor-screenshot) - Capacitor plugin to take screenshots.
 
 ### Other Creators
 
 *   [@cartona/capacitor-google-play-availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 *   [@codetrix-studio/capacitor-google-auth (⭐334)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 *   [@ebarooni/capacitor-calendar (⭐87)](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
-*   [@revenuecat/purchases-capacitor (⭐231)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [@erkamyaman/capacitor-foldable (⭐10)](https://github.com/erkamyaman/capacitor-foldable) - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
+*   [@revenuecat/purchases-capacitor (⭐232)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 *   [@smartcompanion/native-audio-player (⭐5)](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 *   [@teamhive/capacitor-video-recorder (⭐61)](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
-*   [@wahr/capacitor-websocket-client (⭐52)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+*   [@wahr/capacitor-websocket-client (⭐51)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 *   [capacitor-bing-translator (⭐2)](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
-*   [capacitor-plugin-safe-area (⭐144)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
+*   [capacitor-plugin-safe-area (⭐145)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 *   [capacitor-video-player (⭐130)](https://github.com/harmonwood/capacitor-video-player) - Capacitor Video Player Plugin.
-*   [send-intent (⭐133)](https://github.com/mindlib-capacitor/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
+*   [send-intent (⭐134)](https://github.com/mindlib-capacitor/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 
 ## Firebase
 
@@ -480,7 +481,7 @@ Everything related to using Firebase in a Capacitor app. See the [Firebase plugi
 *   [@capacitor-firebase/performance](https://capawesome.io/docs/sdks/capacitor/firebase/performance-monitoring/) - Capacitor plugin for Firebase Performance Monitoring.
 *   [@capacitor-firebase/remote-config](https://capawesome.io/docs/sdks/capacitor/firebase/remote-config/) - Capacitor plugin for Firebase Remote Config.
 *   [@capacitor-firebase/storage](https://capawesome.io/docs/sdks/capacitor/firebase/cloud-storage/) - Capacitor plugin for Firebase Cloud Storage.
-*   [@capacitor-community/fcm (⭐273)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
+*   [@capacitor-community/fcm (⭐272)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
 *   [@capacitor-community/firebase-analytics (⭐178)](https://github.com/capacitor-community/firebase-analytics) - Enable Firebase Analytics for Capacitor Apps.
 *   [capacitor-firebase-auth (⭐263)](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
 
@@ -514,12 +515,12 @@ Free and open source Capacitor starter apps.
 *   [capacitor-audio-recorder-demo (⭐0)](https://github.com/capawesome-team/capacitor-audio-recorder-demo) - Simple Capacitor app to demonstrate the use of the Audio Recorder plugin.
 *   [capacitor-privacy-screen-demo (⭐1)](https://github.com/capawesome-team/capacitor-privacy-screen-demo) - Simple demo app to demonstrate the use of the Capacitor Privacy Screen plugin.
 *   [capacitor-live-update-demo (⭐6)](https://github.com/capawesome-team/capacitor-live-update-demo) - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
-*   [capacitor-angular-starter-guide-demo (⭐7)](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) - Simple Ionic Angular app, built as part of the Capawesome starter guide.
+*   [capacitor-angular-starter-guide-demo (⭐8)](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) - Simple Ionic Angular app, built as part of the Capawesome starter guide.
 
 ## Tools
 
 *   [Docgen (⭐13)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐121)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Plugin generator (⭐123)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
 *   [Assets (⭐583)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 *   [Capver (⭐21)](https://github.com/capawesome-team/capver) - CLI for managing versions in a Capacitor project across multiple platforms.
 *   [Tailwind Capacitor (⭐21)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
@@ -537,7 +538,7 @@ Free and open source Capacitor starter apps.
 Production apps whose use of Capacitor is publicly documented.
 
 *   [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association, migrated to Capacitor.
-*   [AI Gist (⭐861)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
+*   [AI Gist (⭐880)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
 *   [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped to the app stores as PWAs wrapped with Capacitor.
 *   [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
 *   [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.
@@ -563,7 +564,7 @@ Production apps whose use of Capacitor is publicly documented.
 ## Related Lists
 
 *   [Alexintosh/Awesome-Ionic (⭐1.5k)](https://github.com/Alexintosh/Awesome-Ionic)
-*   [Cap-go/awesome-ionic (⭐864)](https://github.com/Cap-go/awesome-ionic)
+*   [Cap-go/awesome-ionic (⭐865)](https://github.com/Cap-go/awesome-ionic)
 
 ## Freelancers
 

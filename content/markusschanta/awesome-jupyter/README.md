@@ -6,11 +6,25 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### Visualization
+
+*   [torchvista (⭐765)](https://github.com/sachinhosmani/torchvista) - Interactive tool to visualize the forward pass of PyTorch models as a graph in notebooks.
+
+### JupyterLab Extensions
+
+*   [devscholar (⭐3)](https://github.com/pallaprolus/devscholar-jupyter) - Hover metadata, PDF preview and BibTeX export for paper references (arXiv, DOI) in notebook cells.
+
+### Testing
+
+*   [Jupyter Notebook Validator Operator (⭐3)](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Kubernetes operator for validation against golden baselines and model endpoints.
+
 ## [Sep 07, 2026](/content/2026/09/07/README.md)
 
 ### Visualization
 
-*   [FlexViz (⭐6)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
+*   [FlexViz (⭐18)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
 
 ### Rendering/Publishing/Conversion
 
@@ -29,11 +43,11 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Tables
 
-*   [buckaroo (⭐685)](https://github.com/buckaroo-data/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+*   [buckaroo (⭐686)](https://github.com/buckaroo-data/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
 
 ### JupyterLab Extensions
 
-*   [jupyter-resource-usage (⭐538)](https://github.com/jupyter-server/jupyter-resource-usage) - Extension to display system metrics.
+*   [jupyter-resource-usage (⭐539)](https://github.com/jupyter-server/jupyter-resource-usage) - Extension to display system metrics.
 
 ### Domain-Specific Projects
 
@@ -69,7 +83,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Testing
 
-*   [pointblank (⭐491)](https://github.com/posit-dev/pointblank) - Notebook-friendly testing of DataFrames and database tables for data quality purposes.
+*   [pointblank (⭐490)](https://github.com/posit-dev/pointblank) - Notebook-friendly testing of DataFrames and database tables for data quality purposes.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -85,7 +99,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Tables
 
-*   [ITables (⭐974)](https://github.com/mwouts/itables) - Pandas and Polars DataFrames rendered as interactive [datatables-net](https://datatables.net/) tables.
+*   [ITables (⭐976)](https://github.com/mwouts/itables) - Pandas and Polars DataFrames rendered as interactive [datatables-net](https://datatables.net/) tables.
 
 ### JupyterLab Extensions
 
@@ -118,7 +132,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 ### Tables
 
 *   [ipyaggrid (⭐65)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
-*   [ipydatagrid (⭐642)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
+*   [ipydatagrid (⭐640)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -210,7 +224,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipyvizzu (⭐972)](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
+*   [ipyvizzu (⭐969)](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
 
 ## [Jun 27, 2022](/content/2022/06/27/README.md)
 
@@ -248,7 +262,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [ipyvolume (⭐2k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
 *   [ipywebrtc (⭐253)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
 *   [ipywidgets (⭐3.3k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
-*   [jupyter-manim (⭐199)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐93k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+*   [jupyter-manim (⭐199)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐94k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 *   [tributary (⭐466)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 
 ### Tables
@@ -261,7 +275,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐245)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-fs (⭐246)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
 *   [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 *   [jupyterlab-executor (⭐18)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐2)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
@@ -342,7 +356,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipychart (⭐134)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐133)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
@@ -353,7 +367,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Evidently (⭐7.8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐7.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [May 17, 2021](/content/2021/05/17/README.md)
 
@@ -411,7 +425,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Rendering/Publishing/Conversion
 
-*   [Jupytext (⭐7.2k)](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
+*   [Jupytext (⭐7.3k)](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 
 ## [Nov 19, 2020](/content/2020/11/19/README.md)
 
@@ -581,7 +595,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [ipytree (⭐133)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
 *   [xleaflet (⭐93)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐15)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
-*   [xwidgets (⭐146)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+*   [xwidgets (⭐147)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## [Mar 11, 2019](/content/2019/03/11/README.md)
 
@@ -621,7 +635,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Testing
 
-*   [ipytest (⭐336)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐337)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ## [Sep 03, 2018](/content/2018/09/03/README.md)
 
@@ -641,7 +655,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 ### JupyterLab Extensions
 
 *   [drawio (⭐623)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [latex (⭐686)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [latex (⭐685)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 *   [variableinspector (⭐1.2k)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
 ## [Aug 29, 2018](/content/2018/08/29/README.md)
@@ -681,7 +695,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [JupyterHub (⭐8.3k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 *   [JupyterLab (⭐15k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [kaggle/docker-python (⭐2.7k)](https://github.com/kaggle/docker-python) - Kaggle Python Docker image that includes datasets and packages.
-*   [nteract (⭐167)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
+*   [nteract (⭐175)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
 *   [Stencila (⭐903)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education
@@ -710,7 +724,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [Bookbook (⭐100)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 *   [nbscan (⭐24)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-*   [notedown (⭐859)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+*   [notedown (⭐860)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 *   [Papermill (⭐6.5k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 *   [pynb (⭐249)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 *   [RISE (⭐3.7k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
@@ -755,7 +769,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 *   [Jupyter Notebook Themes (⭐9.8k)](https://github.com/dunovank/jupyter-themes)
 *   [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-*   [Lectures on scientific computing with Python (⭐3.6k)](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Lectures on scientific computing with Python (⭐3.7k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [pytudes (⭐24k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 *   [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 *   [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.

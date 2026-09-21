@@ -23,37 +23,13 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) is based
 
 ## Sponsors
 
-This project would not be possible without the generous support of our sponsors.
+Thank you to CodeRabbit for sponsoring this project, and to everyone who has supported it over the years.
 
-<table>
-   <tr>
-      <td>
-         <a href="https://www.pixee.ai/">
-            <picture>
-               <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/pixee-light.png">
-               <img width="200px" alt="Pixee" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/pixee-dark.png">
-            </picture>
-         </a>
-      </td>
-      <td>
-         <a href="https://coderabbit.ai">
-            <img width="200px" alt="CodeRabbit" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/code-rabbit.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://semgrep.dev/">
-            <img width="200px" alt="Semgrep" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/semgrep.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://offensive360.com/">
-            <img width="200px" alt="Offensive360" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/offensive360.png" />
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://coderabbit.ai">
+  <img width="200px" alt="CodeRabbit" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/code-rabbit.svg" />
+</a>
 
-If you also want to support this project, head over to our [GitHub Sponsors page](https://github.com/sponsors/analysis-tools-dev).
+Support this project through [GitHub Sponsors](https://github.com/sponsors/analysis-tools-dev) or [Open Collective](https://opencollective.com/analysis-tools).
 
 ## Meaning of symbols
 
@@ -173,7 +149,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [CppDepend](https://www.cppdepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
-*   [cpplint (⭐1.8k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
+*   [cpplint (⭐1.9k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 
 *   [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
@@ -285,7 +261,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [CppDepend](https://www.cppdepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
-*   [cpplint (⭐1.8k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
+*   [cpplint (⭐1.9k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 
 *   [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
@@ -701,6 +677,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [JSLint (⭐3.7k)](https://github.com/douglascrockford/JSLint) [:information\_source: (⭐15k)](https://github.com/analysis-tools-dev/static-analysis/issues/223) — The JavaScript Code Quality Tool.
 
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 *   [Polymer-analyzer (⭐437)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
 
 *   [retire.js](https://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
@@ -731,8 +709,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   **jshint** [:information\_source: (⭐15k)](https://github.com/analysis-tools-dev/static-analysis/issues/223) :warning: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
 *   **JSPrime** :warning: — Static security analysis tool.
-
-*   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 *   **plato** :warning: — Visualize JavaScript source complexity.
 
@@ -2404,10 +2380,10 @@ but with the following improvements:
 
 *   [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 <details>
 <summary>Show Deprecated</summary>
-
-*   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 *   **standard** :warning: — An npm module that checks for Javascript Styleguide issues.
 
@@ -2529,6 +2505,8 @@ but with the following improvements:
 
 *   [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 *   [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
 *   [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
@@ -2580,8 +2558,6 @@ but with the following improvements:
 *   **iblessing** :warning: — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
 *   **LunaSec** :warning: — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
-
-*   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 *   **QuantifiedCode** :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
@@ -2688,8 +2664,6 @@ but with the following improvements:
 
 *   [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
-*   [misspell-fixer (⭐196)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
-
 *   [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
 *   [proselint (⭐4.6k)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
@@ -2702,6 +2676,8 @@ but with the following improvements:
 *   **After the Deadline** :warning: — Spell, style and grammar checker.
 
 *   **alex** :warning: — Catch insensitive, inconsiderate writing
+
+*   **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
 
 *   **write-good** :warning: — A linter with a focus on eliminating "weasel words".
 

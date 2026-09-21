@@ -6,6 +6,23 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ [Daily](/content/CUTR-at-USF/awesome-transit/README.md) / Weekly / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### GTFS Converters / Rust
+
+*   [gtfs-osm-import (⭐30)](https://github.com/Gabboxl/gtfs-osm-import) - Java tool for importing GTFS data into OpenStreetMap, with conflict checks against existing OSM elements.
+*   *   [RoutePress GTFS to GeoJSON Converter](https://www.getroutepress.com/free-tools/gtfs-to-geojson) - Free, easy-to-use browser tool that converts GTFS shapes and stops into GeoJSON for use in ArcGIS, QGIS, and other GIS software. No installation required.
+
+### GTFS Validators / Rust
+
+*   [GTFS.guru](https://gtfs.guru/) - Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.
+
+### Web Apps (closed source) / Rust
+
+*   [El Tracker](https://www.el-tracker.com/home) - Realtime tracker for Chicago Transit Authority (CTA) Loop trains.
+*   [WMATA Exit Optimizer](https://wmata-exit-optimizer.com/) - Suggests which train car to board for the shortest walk to your destination station's exit on the WMATA Metro.
+*   [Transfer Hero](https://transferhero.app/) - Realtime metro trip planning for WMATA that surfaces useful transfers.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust

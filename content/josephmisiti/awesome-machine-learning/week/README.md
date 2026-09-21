@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ [Daily](/content/josephmisiti/awesome-machine-learning/README.md) / Weekly / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### JavaScript / General-Purpose Machine Learning
+
+*   [AI on Browser (⭐18)](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Tools / Educational Tools
@@ -124,7 +130,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [anneal (⭐32)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
+*   [anneal (⭐33)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -323,7 +329,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [Localforge](https://localforge.dev/) – Is an [open source (⭐398)](https://github.com/rockbite/localforge) on-prem AI coding autonomous assistant that lives inside your repo, edits and tests files at SSD speed. Think Claude Code but with UI. plug in any LLM (OpenAI, Gemini, Ollama, etc.) and let it work for you.
 *   [Maxim AI](https://getmaxim.ai) - The agent simulation, evaluation, and observability platform helping product teams ship their AI applications with the quality and speed needed for real-world use.
-*   [Agentic Radar (⭐1k)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+*   [Agentic Radar (⭐1.1k)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
@@ -1956,7 +1962,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / Data Analysis / Data Visualization
 
-*   [SVGo (⭐2.2k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
+*   [SVGo (⭐2.3k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
 *   [RF (⭐115)](https://github.com/fxsjy/RF.go) - Random forests implementation in Go. **\[Deprecated]**
 
 ### Haskell / General-Purpose Machine Learning

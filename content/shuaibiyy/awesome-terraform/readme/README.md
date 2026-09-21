@@ -192,6 +192,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 *   [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
 *   [Terraform cost estimation (⭐727)](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, free cost estimation from a Terraform plan (0.12+) or state file. Also available in the browser at [terraform-cost-estimation.com](https://terraform-cost-estimation.com).
 *   [How to Debug Terraform Projects: Tutorial](https://spacelift.io/blog/terraform-debug)
+*   [The terraform-docs GitHub Action: A Complete CI Setup Guide](https://devtoolhub.com/terraform-docs-github-action/) - Generating and auto-committing module docs on every PR with terraform-docs, including the OIDC/permissions gotchas that break it in CI.
 
 ## Community Modules
 
@@ -250,6 +251,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-gce-atlantis (⭐38)](https://github.com/runatlantis/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
 *   [terraform-google-project-factory (⭐963)](https://github.com/terraform-google-modules/terraform-google-project-factory) - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
 *   [terraform-helm-carbon-intensity-exporter (⭐0)](https://github.com/fabiocicerchia/terraform-helm-carbon-intensity-exporter) - Terraform/Helm module to deploy the Kubernetes Carbon Intensity Exporter.
+*   [terraform-helm-cloud-carbon-footprint (⭐0)](https://github.com/fabiocicerchia/terraform-helm-cloud-carbon-footprint) - Terraform/Helm module to deploy Cloud Carbon Footprint on Kubernetes.
 *   [terraform-helm-kepler (⭐0)](https://github.com/fabiocicerchia/terraform-helm-kepler) - Terraform module to deploy Kepler (Kubernetes power profiling) via Helm.
 *   [terraform-kubestack (⭐714)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
 *   [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/latest) - Installs Kubernetes on Linode Instances.
@@ -308,6 +310,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-dominos (⭐1.2k)](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
 *   [terraform-provider-elasticstack (⭐209)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 *   [terraform-provider-env0 (⭐39)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-featureflip (⭐0)](https://github.com/canopy-labs/terraform-provider-featureflip) - Provider for [Featureflip](https://featureflip.io/) feature flags: projects, environments, flags, targeting rules, segments and SDK keys.
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
 *   [terraform-provider-gitlab (⭐436)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
 *   [terraform-provider-graphql (⭐59)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
@@ -358,7 +361,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-coolify (⭐24)](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
 *   [terraform-provider-appstore (⭐1)](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
 *   [terraform-provider-expo (⭐1)](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
-*   [terraform-provider-paddle (⭐0)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
+*   [terraform-provider-paddle (⭐1)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 *   [terraform-provider-seekrit (⭐0)](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
 
 ## Testing
@@ -455,6 +458,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terracost (⭐356)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 *   [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
 *   [TerraDepot (⭐65)](https://github.com/derBroBro/TerraDepot) - Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
+*   [TerraDrift (⭐0)](https://github.com/niravraychura/terradrift) - Self-hosted Terraform/OpenTofu drift CLI for CI and cron (plan-based; not unmanaged-resource inventory).
 *   [terradozer (⭐2)](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
 *   [terraeasy (⭐35)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
 *   [terraform-ai-skills (⭐2)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.

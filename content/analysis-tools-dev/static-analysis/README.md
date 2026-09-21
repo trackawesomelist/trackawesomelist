@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### Other / [Other](#other-1)
+
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+*   **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
+
 ## [Sep 18, 2026](/content/2026/09/18/README.md)
 
 ### Other / [Other](#other-1)
@@ -424,16 +431,15 @@
 *   [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 *   [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
-### Other / [Other](#other-1)
-
-*   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
-*   [mdl (⭐2.1k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
-*   **alex** :warning: — Catch insensitive, inconsiderate writing
-
 ### Multiple languages / [Other](#other-1)
 
 *   [Hound CI](https://houndci.com) — Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 *   [sqlvet (⭐500)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
+
+### Other / [Other](#other-1)
+
+*   [mdl (⭐2.1k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
+*   **alex** :warning: — Catch insensitive, inconsiderate writing
 
 ## [Oct 18, 2025](/content/2025/10/18/README.md)
 
@@ -466,12 +472,6 @@
 ### Other / [Other](#other-1)
 
 *   [DatabaseConsistency (⭐1.2k)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
-
-## [Sep 22, 2025](/content/2025/09/22/README.md)
-
-### Other / [Other](#other-1)
-
-*   [misspell-fixer (⭐196)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 
 ## [Sep 19, 2025](/content/2025/09/19/README.md)
 
@@ -509,7 +509,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cpplint (⭐1.8k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
+*   [cpplint (⭐1.9k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 *   **ENRE-cpp** :warning: — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-cpp is a ENtity Relationship Extractor for C/C++ based on @eclipse/CDT. (Under development)
 *   **flint++** :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 *   **MATE** :warning: — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.

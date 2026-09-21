@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### Articles
+
+*   [The Complete Guide to Higher-Order Components in Next.js With TypeScript](https://burakdev.com/blogs/the-complete-guide-to-higher-order-components-in-next-js-react-with-typescript)
+
+### Boilerplates
+
+*   [Ultimate Blog Editor (⭐3)](https://github.com/Masculinn/blog-editor) - An open-source Markdown and Lexical-based blog editor with Supabase sync, MDX rendering, draft/post and media management.
+
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Apps
@@ -20,14 +30,14 @@
 
 ### Apps
 
-*   [Reely (⭐166)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
+*   [Reely (⭐171)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
 
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### Apps
 
 *   [FileFlex (⭐0)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
-*   [DevScratchpad (⭐0)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
+*   [DevScratchpad (⭐1)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 *   [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
@@ -58,7 +68,7 @@
 
 ### Extensions
 
-*   [Frontman (⭐679)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+*   [Frontman (⭐703)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
@@ -106,7 +116,7 @@
 
 ### Extensions
 
-*   [Vercel AI SDK (⭐26k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
+*   [Vercel AI SDK (⭐27k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 *   [CopilotKit (⭐37k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 
 ## [Jun 17, 2025](/content/2025/06/17/README.md)
@@ -172,7 +182,7 @@
 ### Apps
 
 *   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐122k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [shadcn/ui (⭐124k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [Jun 30, 2023](/content/2023/06/30/README.md)
 
@@ -194,7 +204,7 @@
 
 ### Boilerplates
 
-*   [Next.js Enterprise (⭐7.4k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+*   [Next.js Enterprise (⭐7.5k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 
 ## [May 13, 2023](/content/2023/05/13/README.md)
 
@@ -335,7 +345,7 @@
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐454)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐452)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
 ## [Jan 01, 2021](/content/2021/01/01/README.md)
 
@@ -439,7 +449,7 @@
 
 ### Boilerplates
 
-*   [Devii (⭐497)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ## [Jul 02, 2020](/content/2020/07/02/README.md)
 
@@ -457,7 +467,7 @@
 
 ### Extensions
 
-*   [next-img (⭐276)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐277)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [Jun 06, 2020](/content/2020/06/06/README.md)
 
@@ -475,11 +485,11 @@
 
 ### Extensions
 
-*   [next-connect (⭐1.6k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.7k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ### Apps
 
-*   [Tottem (⭐974)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐975)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [May 27, 2020](/content/2020/05/27/README.md)
 
@@ -619,7 +629,7 @@
 
 ### Extensions
 
-*   [next-session (⭐358)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐359)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## [Jun 10, 2019](/content/2019/06/10/README.md)
 
@@ -691,7 +701,7 @@
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐174)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐173)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [Dec 01, 2018](/content/2018/12/01/README.md)
 
@@ -751,7 +761,7 @@
 
 ### Boilerplates
 
-*   [NextJS TypeScript Starter Kit (⭐337)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
+*   [NextJS TypeScript Starter Kit (⭐336)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
 *   [Typescript Monorepo Next Example (⭐44)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [Aug 09, 2018](/content/2018/08/09/README.md)
@@ -814,7 +824,7 @@
 
 ### Boilerplates
 
-*   [Staart (⭐314)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Staart (⭐313)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ## [Jan 22, 2018](/content/2018/01/22/README.md)
 
@@ -848,7 +858,7 @@
 
 ### Apps
 
-*   [Snape (⭐847)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐846)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [Dec 02, 2017](/content/2017/12/02/README.md)
@@ -882,7 +892,7 @@
 
 ### Apps
 
-*   [Gank (⭐131)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐130)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## [Oct 17, 2017](/content/2017/10/17/README.md)
 
@@ -951,7 +961,7 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐949)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐948)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [Next Simple Blog (⭐556)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 

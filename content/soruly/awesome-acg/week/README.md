@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ [Daily](/content/soruly/awesome-acg/README.md) / Weekly / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Web
+
+*   [SeichiGo](https://seichigo.com/en/map) - Worldwide map of 50,000+ real-life anime locations across 1,500+ series, with an itinerary planner. \[English/日本語/中文]
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Web

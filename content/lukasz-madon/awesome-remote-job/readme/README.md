@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 48K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 49K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / Overview ]
 
@@ -278,7 +278,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Interviewing
 
 1.  [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-2.  [awesome-interviews (⭐84k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+2.  [awesome-interviews (⭐85k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 3.  [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 4.  [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 5.  [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
@@ -816,7 +816,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 2.  [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
 3.  [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
 4.  [Gather](https://www.gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
-5.  [Hopp (⭐647)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+5.  [Hopp (⭐682)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
 6.  [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
 7.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 8.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
@@ -874,11 +874,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 2.  [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
 3.  [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
 4.  [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
+5.  [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
 
 ## Others
 
 1.  [awesome-digital-nomads (⭐1.1k)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-2.  [Established Remote (⭐8.9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+2.  [Established Remote (⭐9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 3.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
 4.  [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
 5.  [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.

@@ -2,9 +2,15 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 48K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 49K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Sep 21, 2026](/content/2026/09/21/README.md)
+
+### Law & Finance / Others
+
+*   [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
 
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
@@ -60,7 +66,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Hopp (⭐647)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+*   [Hopp (⭐682)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
 *   [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
 
 ### Tools / Others
@@ -216,7 +222,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Interviewing
 
 *   [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-*   [awesome-interviews (⭐84k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐85k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 *   [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
@@ -922,7 +928,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐8.9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 

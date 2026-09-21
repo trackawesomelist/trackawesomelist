@@ -6,6 +6,13 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Other / [Other](#other-1)
+
+*   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+*   **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -388,7 +395,6 @@
 
 ### Other / [Other](#other-1)
 
-*   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 *   [TangleGuard](https://tangleguard.com/) :copyright: — Helps you understand and maintain a scalable software architecture. To do so, it generates a interactive, nested dependency graph out of the source code. You can choose the level of details and get the portion of your codebase that matters to you.
 *   [mdl (⭐2.1k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 *   **alex** :warning: — Catch insensitive, inconsiderate writing
@@ -425,12 +431,6 @@
 
 *   [DatabaseConsistency (⭐1.2k)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 
-## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
-
-### Other / [Other](#other-1)
-
-*   [misspell-fixer (⭐196)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
-
 ## [Sep 22 - Sep 28, 2025](/content/2025/38/README.md)
 
 ### Other / [Other](#other-1)
@@ -459,7 +459,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cpplint (⭐1.8k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
+*   [cpplint (⭐1.9k)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 *   **ENRE-cpp** :warning: — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-cpp is a ENtity Relationship Extractor for C/C++ based on @eclipse/CDT. (Under development)
 *   **flint++** :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 *   **MATE** :warning: — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
