@@ -6,6 +6,58 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 28, 2026](/content/2026/09/28/README.md)
+
+### Plugin Manager
+
+*   [okram78/vahti.nvim (⭐5)](https://github.com/okram78/vahti.nvim) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
+
+### LSP
+
+*   [batoaqaa/nvim-pio (⭐20)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+
+### Utility / Cursorline
+
+*   [ChrisGVE/docshelf.nvim (⭐3)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
+
+## [Sep 27, 2026](/content/2026/09/27/README.md)
+
+### Utility / Cursorline
+
+*   [justinhj/battery.nvim (⭐74)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
+
+## [Sep 25, 2026](/content/2026/09/25/README.md)
+
+### LSP
+
+*   [antosha417/nvim-lsp-file-operations (⭐429)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
+
+### Code Runner / Quickfix
+
+*   [pewpewnor/dove.nvim (⭐3)](https://github.com/pewpewnor/dove.nvim) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
+
+### UI / OS-specific
+
+*   [simifalaye/minibuffer.nvim (⭐140)](https://github.com/simifalaye/minibuffer.nvim) - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
+
+## [Sep 22, 2026](/content/2026/09/22/README.md)
+
+### LSP
+
+*   [carldaws/miser.nvim (⭐19)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
+
+### AI / Diagnostics
+
+*   [jaitd/fieldguide.nvim (⭐2)](https://github.com/jaitd/fieldguide.nvim) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
+
+### Programming Languages Support / Diagnostics
+
+*   [ag-libs/lathe.nvim (⭐0)](https://github.com/ag-libs/lathe.nvim) - Java language server for Maven — code intelligence, diagnostics, run/test/debug, no classpath setup.
+
+### Utility / Cursorline
+
+*   [rifen/timescope (⭐5)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
+
 ## [Sep 20, 2026](/content/2026/09/20/README.md)
 
 ### Command Line / Indent
@@ -48,29 +100,29 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [7KiLL/copybara.nvim (⭐2)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
+*   [7KiLL/copybara.nvim (⭐6)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ## [Sep 12, 2026](/content/2026/09/12/README.md)
 
 ### Code Runner / Quickfix
 
-*   [wurli/jet.nvim (⭐24)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
+*   [wurli/jet.nvim (⭐33)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 
 ### Editing Support / Scrollbar
 
-*   [Nagato-Yuzuru/bang.nvim (⭐5)](https://github.com/Nagato-Yuzuru/bang.nvim) - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
+*   [Nagato-Yuzuru/bang.nvim (⭐10)](https://github.com/Nagato-Yuzuru/bang.nvim) - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
 
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
 ### Utility / Cursorline
 
-*   [Doehnert/laravel-log-watcher.nvim (⭐1)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
+*   [Doehnert/laravel-log-watcher.nvim (⭐2)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
 
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [rezniqov/soviet.nvim (⭐18)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+*   [rezniqov/soviet.nvim (⭐29)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 
 ### External / Plugin Template
 
@@ -111,7 +163,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Quickfix
 
-*   [mm4cN/nvim-conan (⭐8)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+*   [mm4cN/nvim-conan (⭐9)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
@@ -182,7 +234,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [itsfernn/vimtex-follow (⭐24)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
+*   [itsfernn/vimtex-follow (⭐23)](https://github.com/itsfernn/vimtex-follow) - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
@@ -192,13 +244,13 @@ Collections of awesome neovim plugins.
 
 ### Icon / Cursorline
 
-*   [Mirsmog/real-icons.nvim (⭐74)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
+*   [Mirsmog/real-icons.nvim (⭐79)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
 
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/cendre (⭐164)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [Aejkatappaja/cendre (⭐165)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
@@ -266,7 +318,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [artur-shaik/jc.nvim (⭐59)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+*   [artur-shaik/jc.nvim (⭐61)](https://github.com/artur-shaik/jc.nvim) - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -286,7 +338,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐70)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐73)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -374,7 +426,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [jjuchara/obsidian-tasks.nvim (⭐7)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
+*   [jjuchara/obsidian-tasks.nvim (⭐8)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
@@ -393,10 +445,6 @@ Collections of awesome neovim plugins.
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
 ## [Jun 27, 2026](/content/2026/06/27/README.md)
-
-### LSP
-
-*   [nvim-pio (⭐20)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 
 ### Editing Support / Scrollbar
 
@@ -443,7 +491,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [gunasekar/markview-smart-tables.nvim (⭐7)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐8)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 
 ### Database / Stats Tracking
 
@@ -453,7 +501,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [leblocks/toggle.nvim (⭐13)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐12)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
@@ -5795,7 +5843,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐400)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐402)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 
@@ -6000,7 +6048,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Markdown and LaTeX
 
-*   [jvgrootveld/telescope-zoxide (⭐371)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐39k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐371)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐40k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

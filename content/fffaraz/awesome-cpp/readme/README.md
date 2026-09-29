@@ -115,7 +115,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [C++ Workflow (⭐14k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 *   [CGraph (⭐2.3k)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. \[BSD]
-*   [Coost (⭐4.2k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
+*   [Coost (⭐4.2k)](https://github.com/idealvin/coost) - A lightweight, dependency-free C++ library with go-style coroutines, logging, config and other utilities. \[MIT]
 *   [Cxxomfort](https://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. \[MIT]
 *   [Dlib (⭐14k)](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. \[Boost] [website](https://dlib.net/)
 *   [EASTL (⭐9.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
@@ -169,7 +169,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Recast/Detour (⭐7.9k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [TensorFlow (⭐200k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 *   [Txeo (⭐54)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow. \[Apache]
-*   [oneDNN (⭐4k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐4.1k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 *   [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. \[Boost]
 *   [tiny-dnn (⭐6k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
 *   [Veles (⭐916)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
@@ -585,7 +585,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nonius (⭐365)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐3.3k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 *   [snitch (⭐318)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐508)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐585)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐5.4k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 *   [utest.h (⭐994)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
@@ -886,7 +886,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Caffe (⭐35k)](https://github.com/BVLC/caffe) - A fast framework for neural networks. \[BSD]
 *   [catboost (⭐9.1k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
 *   [CCV (⭐7.2k)](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. \[BSD]
-*   [darknet (⭐26k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
+*   [darknet (⭐27k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
 *   [Dlib (⭐14k)](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](https://dlib.net/)
 *   [FAISS (⭐41k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
 *   [FANN (⭐1.8k)](https://github.com/libfann/fann) - Fast Artificial Neural Network library in C. \[LGPL]
@@ -895,7 +895,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [ggml (⭐15k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
 *   [libsvm (⭐4.7k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 *   [m2cgen (⭐3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
-*   [MeTA (⭐717)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
+*   [MeTA (⭐719)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT]
 *   [Minerva (⭐712)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 *   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](https://www.mlpack.org/)
 *   [ncnn (⭐24k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
@@ -1306,6 +1306,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](https://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
 *   [lwan (⭐6k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
+*   [Mach (⭐0)](https://github.com/machframework/mach) - A modern C++20 web framework focused on performance, type safety, and developer experience. \[MIT] [website](https://machframework.dev/).
 *   [oat++ (⭐8.7k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 *   [Pistache](https://pistacheio.github.io/pistache/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 *   [QDjango (⭐276)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
@@ -1525,7 +1526,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. \[MIT]
 *   [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 *   [Microsoft Visual Studio](https://www.visualstudio.com/) - An IDE from Microsoft.
-*   [Microsoft Visual Studio Code (⭐192k)](https://github.com/microsoft/vscode) :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
+*   [Microsoft Visual Studio Code (⭐193k)](https://github.com/microsoft/vscode) :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
 *   [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 *   [Qt Creator (⭐3.1k)](https://github.com/qt-creator/qt-creator) :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt. \[GPL3 with exceptions] [website](https://www.qt.io/product/development-tools)
 *   [rtags (⭐1.8k)](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.

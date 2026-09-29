@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Sep 28, 2026](/content/2026/09/28/README.md)
+
+### Gems / Other external resources
+
+*   [transaction\_guard (⭐2)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
+
 ## [Sep 21, 2026](/content/2026/09/21/README.md)
 
 ### Gems / Other external resources
@@ -365,7 +371,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [gitlabhq (⭐25k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 *   [growstuff (⭐474)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1).
 *   [hackershare (⭐664)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0).
-*   [hitobito (⭐478)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
+*   [hitobito (⭐479)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
 *   [inaturalist (⭐856)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐4.8k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.6k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)

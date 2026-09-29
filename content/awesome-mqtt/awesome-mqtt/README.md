@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Sep 23, 2026](/content/2026/09/23/README.md)
+
+### Tools
+
+*   [Cortex (⭐3.2k)](https://github.com/cortex-docs/cortex) - Generates interactive documentation, typed SDKs, and MCP servers from AsyncAPI definitions, including MQTT APIs.
+
 ## [Sep 18, 2026](/content/2026/09/18/README.md)
 
 ### Monitoring / Firmwares for ESP based Devices

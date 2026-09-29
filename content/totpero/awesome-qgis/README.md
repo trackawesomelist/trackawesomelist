@@ -1,10 +1,16 @@
 # Track Awesome Qgis Updates Daily
 
-An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
+An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles, resources and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 31 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 33 · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/totpero/awesome-qgis/week/README.md) / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
+
+## [Sep 28, 2026](/content/2026/09/28/README.md)
+
+### Plugins / Remote Sensing
+
+*   [AI Edit by TerraLab](https://plugins.qgis.org/plugins/AI_Edit/) - Edit aerial and satellite imagery from a text prompt: land cover, building extraction, object removal, flood simulation. Georeferenced output.
 
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 

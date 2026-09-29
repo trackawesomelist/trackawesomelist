@@ -131,7 +131,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [ImageScript (⭐676)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐677)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 *   [kavel (⭐0)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 *   [monke (⭐6)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
@@ -148,6 +148,7 @@ This list is a collection of the best Deno modules and resources.
 ### Mail
 
 *   [deno-smtp (⭐83)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
+*   [dmarc-rua (⭐2)](https://github.com/domaincanary/dmarc-rua) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
 ### Markdown
 

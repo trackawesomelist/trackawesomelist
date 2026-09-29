@@ -101,6 +101,7 @@ A curated list of game development resources to make **magic** happen.
 *   :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
 *   :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 *   :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
+*   :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 *   :money\_with\_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 *   :tada: [Tilesplit (⭐3)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -254,7 +255,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 *   :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
-*   :tada: [Dash (⭐425)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+*   :tada: [Dash (⭐426)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 *   :tada: [Dear Imgui (⭐76k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :tada: [DEM Net Elevation API C# (⭐355)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
@@ -299,7 +300,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [is::Engine (⭐235)](https://github.com/Is-Daouda/is-Engine) - C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.
 *   :tada: [Jitter (⭐47)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-*   :tada: [JNGL (⭐317)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐318)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 *   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 *   :tada: [Juno (⭐25)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 *   :tada: [Juno (⭐169)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
@@ -337,6 +338,7 @@ A curated list of game development resources to make **magic** happen.
 *   :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *   :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 *   :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+*   :tada: [Parlour (⭐4)](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).
 *   :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 *   :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 *   :tada: [Pixel Vision 8 (⭐1.8k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
@@ -387,7 +389,7 @@ A curated list of game development resources to make **magic** happen.
 
 ### AI
 
-*   :tada: [AI Game Developer (⭐4.2k)](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
+*   :tada: [AI Game Developer (⭐4.3k)](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 *   :money\_with\_wings: [Coplay](https://coplay.dev?ref=github\&utm_source=magictools) - AI Copilot for Unity
 *   :tada: [Fluent Behaviour Tree (⭐397)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
@@ -401,6 +403,7 @@ A curated list of game development resources to make **magic** happen.
 
 ### Collections
 
+*   :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 *   :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 *   :free: [Freesound](http://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
 *   :free: [Musopen](https://musopen.org/) - Royalty free music.
@@ -539,10 +542,10 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Doom 3 (⭐3.6k)](https://github.com/id-Software/DOOM-3)
 *   :tada: [Doom (⭐20k)](https://github.com/id-Software/DOOM)
 *   :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
-*   :tada: [Legend of Elya (⭐131)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
+*   :tada: [Legend of Elya (⭐144)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 *   :tada: [NetHack (⭐3.9k)](https://github.com/NetHack/NetHack)
 *   :tada: [OpenRA (⭐17k)](https://github.com/OpenRA/OpenRA)
-*   :tada: [OpenTTD (⭐8.2k)](https://github.com/OpenTTD/OpenTTD)
+*   :tada: [OpenTTD (⭐8.3k)](https://github.com/OpenTTD/OpenTTD)
 *   :tada: [Prince of Persia (⭐6.9k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 *   :tada: [Quake 2 (⭐3.3k)](https://github.com/id-Software/Quake-2)
 *   :tada: [Quake III Arena (⭐8.2k)](https://github.com/id-Software/Quake-III-Arena)

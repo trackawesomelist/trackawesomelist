@@ -2,7 +2,7 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 25K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 26K · 🏷️ Theory
 
 [ [Daily](/content/tayllan/awesome-algorithms/README.md) / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / Overview ]
 
@@ -11,9 +11,9 @@ A curated list of awesome places to learn and/or practice algorithms.
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Inspired by [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
-If you want to contribute, please read the [contribution guidelines (⭐25k)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
+If you want to contribute, please read the [contribution guidelines (⭐26k)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 *   [Awesome Algorithms](#awesome-algorithms)
     *   [Beginner-Friendly](#beginner-friendly)
@@ -42,6 +42,7 @@ If you want to contribute, please read the [contribution guidelines (⭐25k)](ht
 *   [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 *   [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
 *   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
+*   [leetcode-py (⭐140)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 
 ## Programming Contest
 
@@ -110,8 +111,8 @@ If you want to contribute, please read the [contribution guidelines (⭐25k)](ht
 
 ## Related Awesome List
 
-*   [Theoretical Computer Science (⭐1.1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
-*   [Math (⭐14k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Theoretical Computer Science (⭐1.2k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
+*   [Math (⭐16k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## License
 

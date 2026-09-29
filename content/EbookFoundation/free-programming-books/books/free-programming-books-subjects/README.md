@@ -2,9 +2,26 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 396K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 397K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
+
+## [Sep 24, 2026](/content/2026/09/24/README.md)
+
+### Graphics Programming
+
+*   [Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html) - Peter Shirley, Trevor David Black, Steve Hollasch (HTML)
+*   [Ray Tracing: The Rest of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) - Peter Shirley, Trevor David Black, Steve Hollasch (HTML)
+
+## [Sep 22, 2026](/content/2026/09/22/README.md)
+
+### Artificial Intelligence
+
+*   [Understanding Modern LLM Systems: A Field Guide to RAG, Agents, and Beyond](https://llmknowledge.pages.dev) - koe (HTML)
+
+### Prompt Engineering / Mathematics For Computer Science
+
+*   [Delta: Closing the Specification Gap](https://acuity.press) - Sandeep Dhuri (PDF, EPUB)
 
 ## [Sep 14, 2026](/content/2026/09/14/README.md)
 
@@ -74,13 +91,13 @@
 
 ### IDE and editors
 
-*   [Vim Book (⭐27)](https://github.com/dariubs/vim-book) - Dariush Abbasi (Markdown, HTML) (CC BY)
+*   [Vim Book (⭐29)](https://github.com/dariubs/vim-book) - Dariush Abbasi (Markdown, HTML) (CC BY)
 
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
 ### Game Development
 
-*   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
+*   [AI Workflow for Game Designers (⭐3)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
@@ -121,7 +138,7 @@
 
 ### Misc / Mathematics For Computer Science
 
-*   [Front-end Debugging Tools Handbook (⭐58)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
+*   [Front-end Debugging Tools Handbook (⭐60)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 
 ## [Jan 31, 2026](/content/2026/01/31/README.md)
 
@@ -268,7 +285,7 @@
 
 ### 0 - Meta-Lists
 
-*   [Build your own X (⭐545k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐549k)](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Security & Privacy / Mathematics For Computer Science
 
@@ -284,14 +301,14 @@
 
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐891)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐891)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐899)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐899)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 
 ## [Oct 06, 2025](/content/2025/10/06/README.md)
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [The SELINUX Coloring Book (⭐538)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+*   [The SELINUX Coloring Book (⭐542)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
 
 ## [Oct 05, 2025](/content/2025/10/05/README.md)
 
@@ -316,7 +333,7 @@
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [The SELinux Notebook (⭐756)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
+*   [The SELinux Notebook (⭐755)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 ## [Oct 03, 2025](/content/2025/10/03/README.md)
 
@@ -330,7 +347,7 @@
 
 ### Software Architecture / Mathematics For Computer Science
 
-*   [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree (⭐3.8k)](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
+*   [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree (⭐3.9k)](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
 
 ## [Oct 02, 2025](/content/2025/10/02/README.md)
 
@@ -507,7 +524,7 @@
 
 ### Programming / Mathematics For Computer Science
 
-*   [The Super Programmer (⭐140)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
+*   [The Super Programmer (⭐141)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
 
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
@@ -898,7 +915,7 @@
 
 ### Professional Development / Mathematics For Computer Science
 
-*   [How to Stand Out as a Software Engineer (⭐8)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐9)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ## [Oct 10, 2023](/content/2023/10/10/README.md)
 
@@ -1245,7 +1262,7 @@
 
 ### Machine Learning
 
-*   [Machine Learning for Beginners (⭐90k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐91k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 
 ## [Oct 21, 2022](/content/2022/10/21/README.md)
 
@@ -1590,7 +1607,7 @@
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐9.8k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐9.9k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
 ### Version Control Systems / Mathematics For Computer Science
 
@@ -2007,7 +2024,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐457)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐460)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 
@@ -2208,7 +2225,7 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐449)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐450)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions / Mathematics For Computer Science

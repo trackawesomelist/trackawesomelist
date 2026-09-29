@@ -27,6 +27,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 *   [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
 *   [ListCraft HQ](https://listcrafthq.com) - Free, no-signup suite of calculators for sellers covering profit margin, markup, break-even, ROAS, CAC, and LTV. No login or paywall.
+*   [AdsTurbo](https://adsturbo.ai) - AI video ad generator: turn an Amazon product link into short video ads with AI UGC actors, translate into 35+ languages. Free plan.
 *   [Advigator](https://www.advigator.com) - Amazon Advertising Software
 *   [ListingPic](https://listingpic.com/amazon-product-image-checker/) - Free browser-based tool for checking Amazon product images and marketplace listing thumbnails before publishing.
 *   [AiHello AutoPilot](https://www.aihello.com/) - Amazon PPC Ads Automation Software.
@@ -78,6 +79,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Amazon Product Opportunity Explorer](https://sell.amazon.com/tools/product-opportunity-explorer) - Official Amazon tool for exploring product opportunity niches and reviewing demand, competition, and search trends.
 *   [Amazon Revenue Calculator](https://sell.amazon.com/tools) - Official Amazon tool for estimating selling fees, fulfillment costs, and revenue by fulfillment method.
 *   [CPSC Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here) - U.S. Consumer Product Safety Commission tool that helps identify basic consumer product safety requirements.
+*   [Ryndix Amazon category data (⭐0)](https://github.com/Ryndix/ryndix-category-data) - Free CC BY 4.0 dataset of Amazon US category snapshots: units, price bands, review distribution, cost per click, fee load and pre-advertising unit economics for five categories.
 *   [USPTO Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) - Official USPTO search tool for U.S. patents and patent application publications.
 
 ## Podcasts

@@ -6,6 +6,22 @@
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / Weekly / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Audio and Video
+
+*   [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+
+### File Hosting/Sharing / Others
+
+*   [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine’s copies of old web pages. No account needed to search or read.
+*   [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
+
+### Programming Tools / Others
+
+*   [Azimutt](https://azimutt.app) - Dynamic, interactive ER-style exploration for large and complex databases: search, follow relations, find paths, and build focused layouts incrementally; the explorer works with no account, though saving layouts and documentation may require one.
+*   [Dadroit V Web](https://dadroit.com/vweb/) - Fast viewer for large JSON files (up to 50 MB in the browser) with a collapsible tree view, text/RegEx search, copy-path, and export of the whole file or a selected branch to JSON (formatted or minified) or CSV. Opens local files, pasted data, or URLs, including Basic/Bearer-authenticated API endpoints. Runs client-side, so no data leaves your machine.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Audio and Video
@@ -38,7 +54,6 @@
 ### File Hosting/Sharing / Others
 
 *   [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
-*   [cv.cm](https://cv.cm/) - Paste text, images, audio, video or files and get an ultra-short link to share; with Markdown, code highlighting and auto-translation.
 
 ### Games / Others
 
@@ -86,21 +101,11 @@
 
 *   [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
 
-## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
-
-### Miscellaneous / Others
-
-*   [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
-
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Utilities (uncategorized) / Others
 
 *   [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
-
-### Miscellaneous / Others
-
-*   [Dub](https://dub.sh/) - Open-source link shortener.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -117,10 +122,6 @@
 ### Games / Others
 
 *   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
-
-### Graphics, Image and Design / Others
-
-*   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
 ### Study and Education / Others
 
@@ -204,12 +205,6 @@
 
 *   [Randommer](https://randommer.io/) - Random data generator and validator.
 
-## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
-
-### Communication
-
-*   [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
-
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
 ### Privacy, Security and Cryptography / Others
@@ -227,12 +222,6 @@
 ### Study and Education / Others
 
 *   [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
-
-## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
-
-### Miscellaneous / Others
-
-*   [Morsify](https://morsify.net) - Online Morse code translator.
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
@@ -279,10 +268,6 @@
 
 *   [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 
-### Miscellaneous / Others
-
-*   [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
-
 ## [Jul 16 - Jul 22, 2018](/content/2018/29/README.md)
 
 ### Drawing / Others
@@ -294,10 +279,6 @@
 *   [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 
 ## [May 07 - May 13, 2018](/content/2018/19/README.md)
-
-### Programming Tools / Others
-
-*   [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 
 ### Text based tools / Others
 
@@ -347,10 +328,6 @@
 
 *   [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
-### Notepads and Notebooks / Others
-
-*   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
-
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
 ### Games / Others
@@ -392,10 +369,6 @@
 
 *   [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 
-### Internet Downloaders / Others
-
-*   [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
-
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
 ### Audio and Video
@@ -413,10 +386,6 @@
 *   [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 *   [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
 
-### Internet Downloaders / Others
-
-*   [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-
 ### Music, Radio and Podcasts / Others
 
 *   [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
@@ -433,14 +402,12 @@
 
 *   [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 *   [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
-*   [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 *   [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
 *   [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 
 ### Search Engines / Others
 
 *   [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
-*   [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 
 ### Miscellaneous / Others
 
@@ -486,8 +453,6 @@
 ### Document Editors / Latex
 
 *   [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration.
-*   [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in the free account.
-*   [Sharelatex](https://www.sharelatex.com) `[Account]` - Latex editor with unlimited private projects. 1 collaborator in free account.
 
 ### Document Editors / Markdown
 
@@ -517,7 +482,6 @@
 *   [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
 *   [Coolors](https://coolors.co/) - Color palettes generator.
 *   [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
-*   [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 *   [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 
 ### Music, Radio and Podcasts / Others
@@ -526,8 +490,6 @@
 *   [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
 *   [AnyAudio](http://anyaudio.in/) - Stream and download music.
 *   [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
-*   [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
-*   [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 
 ### Notepads and Notebooks / Others
 
@@ -571,7 +533,6 @@
 ### Miscellaneous / Others
 
 *   [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
-*   [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -586,11 +547,6 @@
 ### Utilities (uncategorized) / Others
 
 *   [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
-*   [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
-
-### Miscellaneous / Others
-
-*   [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
 ## [May 08 - May 14, 2017](/content/2017/19/README.md)
 
@@ -601,10 +557,6 @@
 ### Drawing / Others
 
 *   [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
-
-### Text based tools / Others
-
-*   [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 
 ### Utilities (uncategorized) / Others
 
@@ -669,9 +621,7 @@
 
 ### Communication
 
-*   [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 *   [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
-*   [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 
 ### File Converters / Others
 
@@ -682,21 +632,12 @@
 
 ### File Hosting/Sharing / Others
 
-*   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
-*   [SendVid](https://sendvid.com/) - Video hosting service.
-*   [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-
-### Internet Downloaders / Others
-
-*   [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 
 ### Privacy, Security and Cryptography / Others
 
-*   [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 *   [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 
 ### Miscellaneous / Others
 
-*   [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 *   [Superbetize](http://superbetize.com/) - Categorize your grocery list.

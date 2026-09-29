@@ -6,11 +6,23 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 24, 2026](/content/2026/09/24/README.md)
+
+### Tools / Platforms
+
+*   [Pixeltable (⭐1.6k)](https://github.com/pixeltable/pixeltable): Declarative multimodal AI data engine providing versioned tables, computed columns, and native LangChain VectorStore (`langchain-pixeltable`) and LangGraph memory store (`langgraph-store-pixeltable`) integrations. [![GitHub Repo stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=social)](https://github.com/pixeltable/pixeltable)
+
+## [Sep 22, 2026](/content/2026/09/22/README.md)
+
+### Tools / Services
+
+*   [Tenuo (⭐92)](https://github.com/tenuo-ai/tenuo): Per-call authorization for LangChain and LangGraph tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+
 ## [Aug 11, 2026](/content/2026/08/11/README.md)
 
 ### LangChain Framework
 
-*   [LangChain (⭐143k)](https://github.com/langchain-ai/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
+*   [LangChain (⭐147k)](https://github.com/langchain-ai/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 *   [LangChain.js (⭐18k)](https://github.com/langchain-ai/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social)
 *   [Twitter account](https://x.com/LangChainAI): follow to get fresh updates
 
@@ -20,7 +32,7 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐153k)](https://github.com/langflow-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
+*   [Langflow (⭐155k)](https://github.com/langflow-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
 
 ### Tools / Services
 
@@ -29,72 +41,72 @@
 
 ### Tools / Agents
 
-*   [Private GPT (⭐57k)](https://github.com/zylon-ai/private-gpt): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social)
+*   [Private GPT (⭐58k)](https://github.com/zylon-ai/private-gpt): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social)
 *   [Colossal-AI (⭐41k)](https://github.com/hpcaitech/ColossalAI): LLM training and inference system whose ColossalChat application implements LLM with RLHF ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
-*   [CrewAI (⭐56k)](https://github.com/crewAIInc/crewAI): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social)
+*   [CrewAI (⭐59k)](https://github.com/crewAIInc/crewAI): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social)
 *   [ThinkGPT (⭐1.6k)](https://github.com/jina-ai/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/thinkgpt?style=social)
 *   [SuperAgent (⭐6.7k)](https://github.com/superagent-ai/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/superagent-ai/superagent?style=social)
-*   [Multi-Modal LangChain agents in Production (⭐477)](https://github.com/steamship-core/langchain-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/langchain-production-starter?style=social)
-*   [BlockAGI (⭐322)](https://github.com/orgexyz/BlockAGI): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/BlockAGI?style=social)
-*   [deepagents (⭐28k)](https://github.com/langchain-ai/deepagents): LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
+*   [Multi-Modal LangChain agents in Production (⭐479)](https://github.com/steamship-core/langchain-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/langchain-production-starter?style=social)
+*   [BlockAGI (⭐325)](https://github.com/orgexyz/BlockAGI): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/BlockAGI?style=social)
+*   [deepagents (⭐30k)](https://github.com/langchain-ai/deepagents): LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
 
 ### Tools / Templates
 
-*   [AI (⭐26k)](https://github.com/vercel/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/ai?style=social)
-*   [Mem0 (⭐62k)](https://github.com/mem0ai/mem0): Universal memory layer for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+*   [AI (⭐27k)](https://github.com/vercel/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/ai?style=social)
+*   [Mem0 (⭐66k)](https://github.com/mem0ai/mem0): Universal memory layer for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Quivr (⭐39k)](https://github.com/QuivrHQ/quivr): Opinionated RAG for integrating GenAI into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social)
+*   [Quivr (⭐40k)](https://github.com/QuivrHQ/quivr): Opinionated RAG for integrating GenAI into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
 *   [DB GPT (⭐20k)](https://github.com/eosphoros-ai/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
-*   [Paper QA (⭐9k)](https://github.com/Future-House/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social)
-*   [Chat Langchain (⭐6.4k)](https://github.com/langchain-ai/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=social)
+*   [Paper QA (⭐9.2k)](https://github.com/Future-House/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social)
+*   [Chat Langchain (⭐6.5k)](https://github.com/langchain-ai/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=social)
 *   [Entaoai (⭐866)](https://github.com/akshata29/entaoai): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/entaoai?style=social)
-*   [Robby-Chatbot (⭐814)](https://github.com/yvann-ba/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
+*   [Robby-Chatbot (⭐813)](https://github.com/yvann-ba/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
 *   [AI Chatbot (⭐21k)](https://github.com/vercel/chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/chatbot?style=social)
 *   [GPT Migrate (⭐7k)](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
-*   [LobeHub (⭐81k)](https://github.com/lobehub/lobehub) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social)
-*   [PersonalityChatbot (⭐63)](https://github.com/minhbtrc/langchain-chatbot): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/minhbtrc/langchain-chatbot?style=social)
+*   [LobeHub (⭐83k)](https://github.com/lobehub/lobehub) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social)
+*   [PersonalityChatbot (⭐62)](https://github.com/minhbtrc/langchain-chatbot): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/minhbtrc/langchain-chatbot?style=social)
 
 ### Learn / Notebooks
 
 *   [LangChain Handbook (⭐3k)](https://github.com/pinecone-io/examples): Pinecone / James Briggs' LangChain handbook
-*   [BYO Knowledge Graph (⭐199)](https://github.com/prof-frink-lab/slangchain)
+*   [BYO Knowledge Graph (⭐198)](https://github.com/prof-frink-lab/slangchain)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LlamaIndex (⭐51k)](https://github.com/run-llama/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+*   [LlamaIndex (⭐52k)](https://github.com/run-llama/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 *   [AGiXT (⭐3.2k)](https://github.com/Josh-XT/AGiXT): Dynamic AI agent automation platform that orchestrates instruction following and complex task management. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social)
-*   [MetaGPT (⭐70k)](https://github.com/FoundationAgents/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)
+*   [MetaGPT (⭐71k)](https://github.com/FoundationAgents/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)
 *   [Hyv (⭐24)](https://github.com/blib-la/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/blib-la/hyv?style=social)
 *   [Axflow (⭐1.1k)](https://github.com/axflow/axflow): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [Outlines (⭐15k)](https://github.com/dottxt-ai/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social)
-*   [Letta (⭐24k)](https://github.com/letta-ai/letta): Platform for stateful agents with advanced memory that learn and self-improve ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social)
-*   [Agentlabs (⭐555)](https://github.com/agentlabs-dev/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-dev/agentlabs?style=social)
-*   [OpenAgent (⭐5.5k)](https://github.com/the-open-agent/openagent): Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=social)
+*   [Outlines (⭐16k)](https://github.com/dottxt-ai/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social)
+*   [Letta (⭐25k)](https://github.com/letta-ai/letta): Platform for stateful agents with advanced memory that learn and self-improve ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social)
+*   [Agentlabs (⭐558)](https://github.com/agentlabs-dev/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-dev/agentlabs?style=social)
+*   [OpenAgent (⭐5.6k)](https://github.com/the-open-agent/openagent): Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=social)
 *   [SWE Agent (⭐20k)](https://github.com/SWE-agent/SWE-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social)
-*   [AgentRun (⭐376)](https://github.com/tjmlabs/AgentRun): The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/tjmlabs/AgentRun?style=social)
-*   [AgentScope (⭐29k)](https://github.com/agentscope-ai/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)
+*   [AgentRun (⭐379)](https://github.com/tjmlabs/AgentRun): The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/tjmlabs/AgentRun?style=social)
+*   [AgentScope (⭐32k)](https://github.com/agentscope-ai/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)
 *   [Agno (⭐42k)](https://github.com/agno-agi/agno): Build, run, and manage agent platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
 
 ## [Apr 27, 2026](/content/2026/04/27/README.md)
 
 ### Open Source Projects / Knowledge Management
 
-*   [pdfmux (⭐80)](https://github.com/NameetP/pdfmux): PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Native LangChain document loader (`PdfmuxLoader`); built for RAG pipelines that can't tolerate silent extraction failures. ![GitHub Repo stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=social)
+*   [pdfmux (⭐82)](https://github.com/NameetP/pdfmux): PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Native LangChain document loader (`PdfmuxLoader`); built for RAG pipelines that can't tolerate silent extraction failures. ![GitHub Repo stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Promptise Foundry (⭐861)](https://github.com/promptise-com/foundry): Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain `BaseChatModel`. ![GitHub Repo stars](https://img.shields.io/github/stars/promptise-com/foundry?style=social)
+*   [Promptise Foundry (⭐873)](https://github.com/promptise-com/foundry): Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain `BaseChatModel`. ![GitHub Repo stars](https://img.shields.io/github/stars/promptise-com/foundry?style=social)
 
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
 ### Tools / Platforms
 
-*   [traceAI (⭐211)](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+*   [traceAI (⭐221)](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
 ## [Jan 05, 2026](/content/2026/01/05/README.md)
 
@@ -106,13 +118,13 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Mastra AI (⭐27k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
+*   [Mastra AI (⭐28k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Bifrost (⭐6.9k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+*   [Bifrost (⭐8.1k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 
 ## [May 10, 2025](/content/2025/05/10/README.md)
 
@@ -124,7 +136,7 @@
 
 ### Ports to other languages
 
-*   [Langchain-hs (⭐52)](https://github.com/tusharad/langchain-hs): Haskell implementation of Haskell. ![GitHub Repo stars](https://img.shields.io/github/stars/tusharad/langchain-hs?style=social)
+*   [Langchain-hs (⭐55)](https://github.com/tusharad/langchain-hs): Haskell implementation of Haskell. ![GitHub Repo stars](https://img.shields.io/github/stars/tusharad/langchain-hs?style=social)
 *   [Langchain (⭐1.2k)](https://github.com/brainlid/langchain): Elixir implementation of a LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/brainlid/langchain?style=social)
 *   [Langchain-rust (⭐1.3k)](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
@@ -132,13 +144,13 @@
 
 ### Tools / Services
 
-*   [Agentic Radar (⭐1k)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+*   [Agentic Radar (⭐1.1k)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### Tools / Services
 
-*   [LangWatch (⭐3.5k)](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
+*   [LangWatch (⭐4.8k)](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 
 ## [Mar 05, 2025](/content/2025/03/05/README.md)
 
@@ -162,20 +174,20 @@
 
 ### Tools / Services
 
-*   [LangFair (⭐261)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
+*   [LangFair (⭐262)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
 ## [Aug 18, 2024](/content/2024/08/18/README.md)
 
 ### Tools / Services
 
-*   [CopilotKit (⭐36k)](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+*   [CopilotKit (⭐37k)](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
 
 ## [Aug 17, 2024](/content/2024/08/17/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [AI Scientist (⭐14k)](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)
-*   [DSPy (⭐36k)](https://github.com/stanfordnlp/dspy): The framework for programming—not prompting—foundation models ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
+*   [AI Scientist (⭐15k)](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)
+*   [DSPy (⭐38k)](https://github.com/stanfordnlp/dspy): The framework for programming—not prompting—foundation models ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
 
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
@@ -187,13 +199,13 @@
 
 ### Tools / Services
 
-*   [Llama-github (⭐292)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
+*   [Llama-github (⭐293)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rigging (⭐419)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
+*   [Rigging (⭐418)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
 *   [Vision agent (⭐5.3k)](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
-*   [llama-agents (⭐438)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
+*   [llama-agents (⭐451)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
 *   [Claude Engineer (⭐11k)](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)
 
 ## [May 16, 2024](/content/2024/05/16/README.md)
@@ -206,7 +218,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Pipecat (⭐14k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Pipecat (⭐16k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 
 ## [May 01, 2024](/content/2024/05/01/README.md)
 
@@ -218,8 +230,8 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLama Cpp Agent (⭐652)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
-*   [FinRobot (⭐7.7k)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
+*   [LLama Cpp Agent (⭐658)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
+*   [FinRobot (⭐8.1k)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
 *   [Groq Ruby (⭐116)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
 
 ## [Apr 20, 2024](/content/2024/04/20/README.md)
@@ -275,17 +287,17 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Agency (⭐514)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
-*   [MicroAgent (⭐826)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
+*   [MicroAgent (⭐825)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [bondai (⭐223)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
+*   [bondai (⭐224)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
 *   [Chidori (⭐1.4k)](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)
 *   [Langroid (⭐4.1k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
-*   [Langstream (⭐417)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
+*   [Langstream (⭐416)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
@@ -302,7 +314,7 @@
 
 ### Tools / Agents
 
-*   [GPT Researcher (⭐29k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+*   [GPT Researcher (⭐30k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 
 ### Tools / Platforms
 
@@ -317,11 +329,11 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Magentic (⭐2.4k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐60k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Autogen (⭐61k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 
 ### Complement to this list / Videos Playlists
 
-*   [Awesome Language Agents (⭐1.2k)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+*   [Awesome Language Agents (⭐1.3k)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
 ## [Sep 26, 2023](/content/2023/09/26/README.md)
 
@@ -350,7 +362,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Promptfoo (⭐24k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+*   [Promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
 ## [Sep 03, 2023](/content/2023/09/03/README.md)
 
@@ -362,7 +374,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLFn (⭐96)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
+*   [LLFn (⭐95)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
 *   [Lagent (⭐2.3k)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
 
 ## [Aug 24, 2023](/content/2023/08/24/README.md)
@@ -387,13 +399,13 @@
 
 ### Ports to other languages
 
-*   [LangChainDart (⭐685)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
+*   [LangChainDart (⭐688)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
 
 ## [Aug 12, 2023](/content/2023/08/12/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [AgentFlow (⭐320)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
+*   [AgentFlow (⭐321)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 
 ## [Aug 11, 2023](/content/2023/08/11/README.md)
 
@@ -409,7 +421,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐707)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐708)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
@@ -444,7 +456,7 @@
 
 ### Tools / Agents
 
-*   [Autonomous HR Chatbot (⭐459)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [Autonomous HR Chatbot (⭐462)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
@@ -480,7 +492,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [DocNavigator (⭐130)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
+*   [DocNavigator (⭐129)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -488,7 +500,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [OpenLLM (⭐12k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
+*   [OpenLLM (⭐13k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
 *   [FlagAI (⭐3.9k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 *   [AI.JSX (⭐1.1k)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
@@ -496,13 +508,13 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MindGeniusAI (⭐280)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐281)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## [Jun 12, 2023](/content/2023/06/12/README.md)
 
 ### Tools / Services
 
-*   [Langchain Decorators (⭐233)](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
+*   [Langchain Decorators (⭐232)](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -512,7 +524,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [Anything LLM (⭐65k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
+*   [Anything LLM (⭐66k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -520,14 +532,14 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [ReLLM (⭐511)](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
+*   [ReLLM (⭐510)](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
 *   [OpenDAN (⭐2.1k)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
 
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [TermGPT (⭐412)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
+*   [TermGPT (⭐413)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
@@ -537,11 +549,11 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [TutorGPT (⭐921)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+*   [TutorGPT (⭐931)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [e2b (⭐13k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐14k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ## [Jun 02, 2023](/content/2023/06/02/README.md)
@@ -554,7 +566,7 @@
 
 ### Tools / Agents
 
-*   [Voyager (⭐7.1k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+*   [Voyager (⭐7.2k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
@@ -590,13 +602,13 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Dust (⭐1.4k)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
+*   [Dust (⭐1.5k)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
 
 ## [May 20, 2023](/content/2023/05/20/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [snowChat ❄️ (⭐553)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+*   [snowChat ❄️ (⭐552)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 
 ## [May 19, 2023](/content/2023/05/19/README.md)
 
@@ -608,8 +620,8 @@
 
 ### Tools / Services
 
-*   [GPTCache (⭐8.1k)](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
-*   [Dify (⭐152k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+*   [GPTCache (⭐8.2k)](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
+*   [Dify (⭐157k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -632,7 +644,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Botpress (⭐15k)](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
-*   [Haystack (⭐26k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
+*   [Haystack (⭐27k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 
 ## [May 13, 2023](/content/2023/05/13/README.md)
 
@@ -649,13 +661,13 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MM ReAct (⭐967)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
+*   [MM ReAct (⭐966)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 
 ## [May 09, 2023](/content/2023/05/09/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [OpenLM (⭐368)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐214)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
+*   [OpenLM (⭐368)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐213)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 
 ## [May 08, 2023](/content/2023/05/08/README.md)
 
@@ -666,7 +678,7 @@
 ### Open Source Projects / Other / Chatbots
 
 *   [Langchain Chat (⭐1k)](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
-*   [Langchain Chat Websocket (⭐97)](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
+*   [Langchain Chat Websocket (⭐96)](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
 *   [langchain\_yt\_tools (⭐76)](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 
 ## [May 06, 2023](/content/2023/05/06/README.md)
@@ -679,11 +691,11 @@
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐9.6k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐9.7k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐778)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐777)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -697,32 +709,32 @@
 
 ### Tools / Services
 
-*   [Langchain visualizer (⭐737)](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
-*   [LLM Strategy (⭐400)](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
+*   [Langchain visualizer (⭐738)](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
+*   [LLM Strategy (⭐401)](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
 *   [datasetGPT (⭐300)](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
 
 ### Tools / Agents
 
-*   [PyCodeAGI (⭐185)](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
+*   [PyCodeAGI (⭐184)](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 
 ### Tools / Templates
 
-*   [create-t3-turbo-ai (⭐354)](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
-*   [Streamlit Template (⭐297)](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
+*   [create-t3-turbo-ai (⭐353)](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
+*   [Streamlit Template (⭐298)](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
 *   [Codespaces Template (⭐113)](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 *   [Gradio Template (⭐138)](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Book GPT (⭐436)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
+*   [Book GPT (⭐437)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 *   [Doc Search (⭐598)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
-*   [Fact Checker (⭐312)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
-*   [QABot (⭐245)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
+*   [Fact Checker (⭐314)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
+*   [QABot (⭐244)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
 *   [FlowGPT (⭐302)](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Semantic Kernel (⭐28k)](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
+*   [Semantic Kernel (⭐29k)](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
 *   [Promptify (⭐4.6k)](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
 *   [PromptSource (⭐3k)](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
 *   [MiniChain (⭐1.2k)](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
@@ -731,7 +743,7 @@
 ### Complement to this list / Videos Playlists
 
 *   [Awesome LLM (⭐27k)](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
-*   [LLaMA Cult and More (⭐449)](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
+*   [LLaMA Cult and More (⭐447)](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
 
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 

@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 350 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 352 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -63,6 +63,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 *   [Archives Portal Europe](https://www.archivesportaleurope.net/) - European archives search engine.
 *   [Encyclopédie d'histoire numérique](https://ehne.fr/) - European History through renewed historiographic objects and major contemporary challenges.
+*   [Euro-Climhist](https://www.echdb.unibe.ch/selection/welcome/de) - Database of documentary weather and climate data for Europe, with a focus on Switzerland and free registration.
 *   [EuroDocs – Online Sources for European History](https://eudocs.lib.byu.edu/index.php/Main_Page) - A curated directory of online primary sources for European history, organized by country and period, with many items hosted by reputable institutions and using Dublin Core metadata.
 *   [Europeana](https://www.europeana.eu/) - Search engine for European textual and non-textual archival sources.
 *   [handrit.is](https://www.handrit.is/) - Catalogue of more than 15'000 manuscripts (12th–20th century) in Icelandic, Old Norse, Danish and Latin (plus a few other languages) with more than 4'000 manuscripts digitally available.
@@ -202,6 +203,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Sources Online](https://sources-online.org/index.html) - A platform for digital scholarly text editions, integrating TEI Publisher and IIIF in Switzerland.
 *   [swisscollections](https://swisscollections.ch/) - Meta search engine for historical and modern collections in Swiss libraries and archives.
 *   [swissnatcoll](https://swissnatcoll.ch/) - Swiss Natural History Collections portal providing open access to specimen data from natural history collections preserved in Switzerland.
+*   [SWISSTOVAL](https://swisstoval.unibe.ch/rechner/index_ger.html) - Historical money-value calculator that converts Swiss sums and early modern coins from 1600 to 2025.
 *   [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
 *   [transcriptiones](http://transcriptiones.ch) - Create, share and access transcriptions of historical manuscripts.
 
@@ -232,10 +234,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Data Visualization (⭐4.4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐998)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐1k)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐349)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐349)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐352)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐352)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
 

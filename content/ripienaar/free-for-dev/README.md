@@ -6,6 +6,69 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 28, 2026](/content/2026/09/28/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [TeamSort](https://teamsort.world) - Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.
+
+### Generative AI
+
+*   [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
+*   [onomeo](https://onomeo.com/) - Onomeo gives you one key for dozens of AI models. Plug it right into tools like Cline, SillyTavern, or Open WebUI using standard OpenAI format. 35 models are completely free (60 requests / 5 hrs per user, pooled at 450 / 5 hrs across all users). Daily check-in credits let you use big models like Claude and GPT, up to a daily limit. Extra credits start at $5/month. We’re in open beta, so expect occasional instability. It’s great for casual use, but not ready to be a daily driver. Feedback is always welcome.
+
+### Screenshot APIs
+
+*   [Ironfang Render](https://ironfang.com/render) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
+
+## [Sep 27, 2026](/content/2026/09/27/README.md)
+
+### PaaS
+
+*   [SnapDeploy](https://snapdeploy.dev/) - Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.
+
+### Managed Data Services
+
+*   [ReviveDB](https://revivedb.dev/) - A way back for your Supabase app. ReviveDB keeps recovery points of your database and Auth, Storage files, Edge Functions and supported project configuration, and only calls a backup ready once your database has been restored from it and compared. The free plan covers one project with weekly backups and three recovery points.
+
+## [Sep 26, 2026](/content/2026/09/26/README.md)
+
+### APIs, Data, and ML
+
+*   [timezone.io](https://www.timezone.io/docs/worldtimeapi) - Current time, UTC offset and DST for any time zone or IP address, compatible with the shut-down WorldTimeAPI (clients only change the host). Free with no API key or sign-up, 60 requests/minute per IP, over HTTPS or plain HTTP.
+*   [URLpipe](https://urlpipe.dev) - Read any page after its JavaScript runs: Markdown, screenshots, metadata, console errors and Lighthouse audits. Free 1000 credits per month.
+
+## [Sep 25, 2026](/content/2026/09/25/README.md)
+
+### APIs, Data, and ML
+
+*   [flaky](https://flakyapi.dev) - A mock API where you can paste your JSON and simulate API problems like delays, errors, failed requests, and malformed responses. 1,000 requests per day without a key, or 10,000 requests per day with a free key. There is no paid tier.
+
+### Forms
+
+*   [Lucid Forms](https://lucidforms.co/) - Form endpoint for websites. Add working contact forms to any HTML, JS framework, or no-code site without building a backend. Free plan includes 250 submissions/month, email notifications, smart spam filtering, and Google Sheets integration.
+
+### Analytics, Events and Statistics
+
+*   [Stats4U](https://www.stats4u.net/) - A visitor counter and web stats service operated from Poland, since 2006. Website owners choose a counter design copy the code and paste it into their site; no account is required. Free without paid plans. Privacy First: Stats4U does not set cookies and Counter data is processed on the operator's own server in the EU.
+
+## [Sep 23, 2026](/content/2026/09/23/README.md)
+
+### APIs, Data, and ML
+
+*   [Formfeed](https://formfeed.dev) - API for PDF and image generation from JSON with a simple API or automation tools like Zapier & Make. The free plan includes 100 free PDF conversions per month.
+
+### Monitoring
+
+*   [watchcron.com](https://watchcron.com) - Cron job monitoring with heartbeat pings and alerts. Free tier with up to 5 monitors and email notifications.
+
+## [Sep 22, 2026](/content/2026/09/22/README.md)
+
+### Email
+
+*   [Email Spam Tester](https://email-spam-tester.com/) - Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.
+*   [SendRaven](https://sendraven.ai) - SendRaven provides an email API for transactional email and agent-driven conversations, including inbound replies and threads. The free tier includes 3,000 outbound emails per month, unlimited contacts and inbound replies, card is required.
+
 ## [Sep 20, 2026](/content/2026/09/20/README.md)
 
 ### Code Quality
@@ -121,10 +184,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
-
-### Screenshot APIs
-
-*   [Renderwolf](https://ironfang.uk/renderwolf) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
 
 ## [Aug 25, 2026](/content/2026/08/25/README.md)
 
@@ -556,7 +615,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2k)](https://github.com/future-agi/future-agi)
+*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2.1k)](https://github.com/future-agi/future-agi)
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
@@ -946,7 +1005,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
-*   [Wraps](https://wraps.dev) - email automation workflows, 5k tracked events and unlimited contacts free.
+*   [Wraps](https://wraps.dev) - Email infrastructure deployed to your own AWS account (SES), with a dashboard. Pay AWS directly for sending. Free plan covers 1 AWS account, unlimited domains and contacts.
 
 ### Forms
 
@@ -1045,12 +1104,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [Apply.build](https://apply.build/) - Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
-
-## [Nov 26, 2025](/content/2025/11/26/README.md)
-
-### Generative AI
-
-*   [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product includes 25k spans and ingestion volume of 1gb per month.
 
 ## [Nov 25, 2025](/content/2025/11/25/README.md)
 
@@ -1440,7 +1493,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐7.9k)](https://github.com/tutao/tutanota), so you can self-host.
+*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐8k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
@@ -2661,12 +2714,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Forms
 
 *   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
-
-## [Jan 27, 2023](/content/2023/01/27/README.md)
-
-### APIs, Data, and ML
-
-*   [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
 
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
@@ -4459,7 +4506,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CI and CD
 
 *   [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
-*   [Squash Labs](https://www.squash.io/) - creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
 
 ### Issue Tracking and Project Management
 

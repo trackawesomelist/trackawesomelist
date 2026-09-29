@@ -6,6 +6,16 @@ A curated list of tools and resources for Amazon sellers.
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / Weekly / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Software and Tools
+
+*   [AdsTurbo](https://adsturbo.ai) - AI video ad generator: turn an Amazon product link into short video ads with AI UGC actors, translate into 35+ languages. Free plan.
+
+### Product Research and Pre-Launch
+
+*   [Ryndix Amazon category data (⭐0)](https://github.com/Ryndix/ryndix-category-data) - Free CC BY 4.0 dataset of Amazon US category snapshots: units, price bands, review distribution, cost per click, fee load and pre-advertising unit economics for five categories.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Software and Tools

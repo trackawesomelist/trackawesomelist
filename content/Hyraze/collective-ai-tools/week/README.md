@@ -6,7 +6,47 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Avatars
+
+*   [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site) - Turns one authorized photo into an original anime-style social avatar without requiring an account. `#free`
+
+### Business
+
+*   [Statsnet](https://statsnet.co) - Background check any company in the world: registration, executives, courts and finances.`#freemium`
+
+### Developer Tools
+
+*   [Hyperconsciousness (⭐2)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
+*   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
+*   [RAG Citation Coverage Auditor (⭐0)](https://github.com/edilec/rag-citation-coverage-auditor) - Offline CLI that checks declared RAG answer citations against approved retrieval sources and explicit claim support in local exports. `#free` `#opensource` `#rag`
+
+### Image Generator
+
+*   [GPT Image 2.5 Generator](https://gptimage2-5.pics/) - Create images from prompts and edit reference images in a browser, with Flare for speed or Sunburst for finer detail. `#paid` `#design`
+*   [PhotoGenerAI](https://photogenerai.com) - Free AI photo generator and editor — create and edit photos in the browser, no sign-up required. `#freemium`
+
+### Real Estate
+
+*   [CoworkingView MCP](https://coworkingview.com/en/mcp) - Hosted MCP server and REST API that let AI assistants search and compare coworking spaces and private offices in Europe and the UAE, with operator-published prices. `#free` `#mcp`
+
+### Writing
+
+*   [kdpbook.io](https://kdpbook.io/) - Turns a book described in a chat, or your own manuscript, into Amazon KDP-ready files: interior PDF, full-wrap cover PDF, Kindle EPUB and listing sheet. `#freemium`
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Developer Tools
+
+*   [Codex Quota Overlay (⭐2)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
+*   [Cortex (⭐3.2k)](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
+*   [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
+*   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
+
+### Human Resources
+
+*   [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/) - Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs. `#freemium`
 
 ### Image Editing
 
@@ -23,7 +63,9 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Video
 
+*   [AIVG](https://ai-video-generators.com/image-to-video) - Animate a photo into a short video with a choice of AI video models. `#paid` `#video`
 *   [Flow AI Video](https://www.flowaivideo.org/) - AI video generation workspace for text-to-video and image-to-video creative workflows. `#freemium`
+*   [Magic Hour](https://magichour.ai/) - AI video creation platform for text-to-video, image-to-video, lip sync, face swap, and production APIs. `#freemium` `#video`
 *   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
 *   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
 
@@ -58,7 +100,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
-*   [OrcaReplay (⭐171)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
+*   [OrcaReplay (⭐261)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 
 ### Education
@@ -252,7 +294,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Customer Support
 
-*   [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. `#paid`
+*   [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject. `#paid`
 
 ### Developer Tools
 

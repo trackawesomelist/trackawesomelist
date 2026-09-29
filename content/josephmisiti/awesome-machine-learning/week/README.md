@@ -12,6 +12,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [AI on Browser (⭐18)](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
 
+### Python / Natural Language Processing
+
+*   [yasbd-lib (⭐30)](https://github.com/speedyk-005/yasbd-lib) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Tools / Educational Tools
@@ -1110,7 +1114,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐43k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐44k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 

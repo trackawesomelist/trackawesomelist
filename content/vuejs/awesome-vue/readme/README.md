@@ -1057,6 +1057,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 *   [Jordium Gantt Vue3 (⭐124)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
 *   [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies.
 *   [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
+*   [vtable-guild (⭐12)](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
 
 #### Notification
 
@@ -1502,7 +1503,7 @@ Tooltips / popovers
 *   [@lottiefiles/dotlottie-vue (⭐877)](https://github.com/LottieFiles/dotlottie-web) Official LottieFiles Vue component supporting the .lottie format (75% smaller files); convert and preview with [IconKing](https://iconking.net)
 *   [vue-countup-v3 (⭐182)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 *   [timered-counter (⭐7)](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
-*   [ssgoi (⭐964)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+*   [ssgoi (⭐972)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
 
 #### Meta Tags
 
@@ -1565,7 +1566,7 @@ Tooltips / popovers
 *   [swrv (⭐2.3k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 *   [vue-vroom (⭐11)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 *   [tanstack-query (⭐50k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
-*   [@stitchapi/vue (⭐18)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
+*   [@stitchapi/vue (⭐19)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 #### i18n
 
@@ -1596,7 +1597,7 @@ Tooltips / popovers
 *   [v-bucket (⭐44)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [harlem (⭐515)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [exome (⭐281)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐283)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 *   [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
 
 ##### Mobx
@@ -1662,7 +1663,7 @@ Tooltips / popovers
 
 Payment utilities.
 
-*   [crd-ui (⭐22)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
+*   [crd-ui (⭐23)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
 
 ##### Stripe
 
@@ -1679,7 +1680,7 @@ Payment utilities.
 *   [vue-tweet (⭐45)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 *   [vue-tg (⭐280)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 *   [@rollgate/sdk-vue (⭐3)](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
-*   [@agentskit/vue (⭐25)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+*   [@agentskit/vue (⭐27)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
 *   [recaptcha-vue (⭐7)](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 
 #### Vue CLI Plugins

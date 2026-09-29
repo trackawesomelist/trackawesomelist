@@ -2,9 +2,15 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 25K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 26K · 🏷️ Theory
 
 [ [Daily](/content/tayllan/awesome-algorithms/README.md) / Weekly / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
+
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Beginner-Friendly / Interactive Learning & Visualization
+
+*   [leetcode-py (⭐140)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -56,7 +62,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Theoretical Computer Science (⭐1.1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐1.2k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -116,7 +122,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Math (⭐14k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐16k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 

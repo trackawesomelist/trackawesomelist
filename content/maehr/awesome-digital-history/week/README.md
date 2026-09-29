@@ -2,9 +2,19 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 350 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 352 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / Weekly / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### Archives and primary sources / Europe
+
+*   [Euro-Climhist](https://www.echdb.unibe.ch/selection/welcome/de) - Database of documentary weather and climate data for Europe, with a focus on Switzerland and free registration.
+
+### Archives and primary sources / Switzerland
+
+*   [SWISSTOVAL](https://swisstoval.unibe.ch/rechner/index_ger.html) - Historical money-value calculator that converts Swiss sums and early modern coins from 1600 to 2025.
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
@@ -471,7 +481,7 @@ Find primary sources online and learn how to research history digitally.
 *   [Computer History (⭐3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐4.4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Research Tools (⭐2.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐998)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐1k)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 

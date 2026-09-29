@@ -84,7 +84,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Green Mahjong (⭐104)](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 *   [Kriegspiel (⭐30)](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 *   [Chessmata (⭐18)](https://github.com/jonradoff/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
-*   [Lichess (⭐19k)](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+*   [Lichess (⭐19k)](https://github.com/lichess-org/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 *   [Pip (⭐10)](https://github.com/playpip/pip-web) - Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only. Runs in the browser, installs as a PWA and works offline. Built with Next.js and TypeScript.
 *   [Wolfcha (⭐701)](https://github.com/oil-oil/wolfcha) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs. Built with Next.js and TypeScript.
 
@@ -101,7 +101,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Ceros Snake (⭐6)](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
 *   [CHANG€ (⭐47)](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers.
 *   [Chromacore (⭐47)](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
-*   [Jolly Jumper (⭐72)](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
+*   [Jolly Jumper (⭐72)](https://github.com/dino-foot/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
 *   [Clumsy Bird (⭐1.6k)](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJavaScript.
 *   [Coffee Snake (⭐34)](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript.
 *   [Coil (⭐59)](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail.
@@ -134,12 +134,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [PixelPlatformer (⭐28)](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
 *   [PolyBranch (⭐168)](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, let's see how long can you hold up as you approach terminal velocity.
 *   [Protocol 390 (⭐21)](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
-*   [Raging Gardens (⭐27)](https://github.com/petarov/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
+*   [Raging Gardens (⭐27)](https://github.com/kenamick/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
 *   [Release Cycles (⭐77)](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
 *   [Save The Forest (⭐19)](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
-*   [SKALP](https://github.com/amudotcom-byte/skalp) - 60-second trading-floor reflex game. Go long or short, ride the chart, close before it reverses — and don't get liquidated.
 *   [Ski Free (⭐551)](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
-*   [Snake (⭐29)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
+*   [Snake (⭐29)](https://github.com/xurxodiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 *   [Snake\_new (⭐59)](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
 *   [Space-Shooter (⭐20)](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
 *   [Spashal (⭐8)](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
@@ -200,7 +199,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Anagramica (⭐14)](https://github.com/binarymax/anagramica) - A word game and API for anagrams.
 *   [Astry (⭐604)](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb.
 *   [Beatrix (⭐21)](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm.
-*   [BitBot (⭐53)](https://github.com/recardona/BitBot) - HTML/JavaScript game where you control a bot, which must sense, plan, and act.
+*   [BitBot (⭐53)](https://github.com/sweetcarolinagames/BitBot) - HTML/JavaScript game where you control a bot, which must sense, plan, and act.
 *   [BlicblockJavaScript (⭐18)](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
 *   [Blockrain.js (⭐994)](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that.
 *   [Branching Out (⭐72)](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home.
@@ -221,7 +220,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Orbium (⭐90)](https://github.com/bni/orbium) - Modern version of the 90's game Logical.
 *   [Parity (⭐47)](https://github.com/abejfehr/parity) - A numbers puzzle game.
 *   [Pond (⭐57)](https://github.com/Zolmeister/pond) - The Pound is about relaxing and exploring a beautiful world.
-*   [Pop Pop Win (⭐154)](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart.
+*   [Pop Pop Win (⭐154)](https://github.com/dart-lang/sample-pop_pop_win) - Implementation of Minesweeper in Dart.
 *   [Prism (⭐28)](https://github.com/Zolmeister/prism) - Match all the colors.
 *   [Push and Fork (⭐41)](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.
 *   [Shape Experiment (⭐10)](https://github.com/binarymax/shape) - The shape recognition reflex game.
@@ -244,15 +243,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Others
 
-*   [Beast (⭐59)](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
+*   [Beast (⭐59)](https://github.com/dominikwilkowski/beast) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 *   [Binb (⭐308)](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game.
-*   [CyberPong (⭐7)](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
+*   [CyberPong (⭐7)](https://github.com/georgegognadze/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 *   [Dental Defender: Saga of the Candy Horde (⭐50)](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam.
 *   [Descensus 2 (⭐19)](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 *   [Hauberk (⭐2.2k)](https://github.com/munificent/hauberk) - ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 *   [HeartLine (⭐3)](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
 *   [Project: Starfighter (⭐51)](https://github.com/pr-starfighter/starfighter) - Space shoot 'em up game.
-*   [Psiral (⭐71)](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner.
+*   [Psiral (⭐71)](https://github.com/kenamick/psiral) - JavaScript/HTML5 game, GitHub Game Off 2 winner.
 *   [Squirts (⭐40)](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 *   [The Killer (⭐17)](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame".
 *   [Turkey Cooking Simulator (⭐26)](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family.
@@ -264,7 +263,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 *   [Hypersomnia (⭐1.6k)](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 *   [OpenTomb (⭐1.4k)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
-*   [OpenLiberty (⭐448)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+*   [OpenLiberty (⭐456)](https://github.com/openfw-game/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 ### Arcade
 
@@ -276,13 +275,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Falling Time (⭐28)](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 *   [Kroniax (⭐20)](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
 *   [Missile Command (⭐22)](https://github.com/chadpaulson/missile-command) - Clone in Lua with LÖVE.
-*   [Mystic Mine (⭐85)](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
-*   [OpenLieroX (⭐298)](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
+*   [Mystic Mine (⭐85)](https://github.com/dewitters/MysticMine) - Single and multiplayer action game with mining carts.
+*   [OpenLieroX (⭐298)](https://github.com/openlierox/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 *   [OSGG (⭐13)](https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
-*   [Savage Wheels (⭐42)](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
-*   [Space Shooter (⭐526)](https://github.com/prodicus/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
+*   [Savage Wheels (⭐42)](https://github.com/kenamick/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
+*   [Space Shooter (⭐526)](https://github.com/tasdikrahman/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
 *   [SDL-Ball (⭐18)](https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
-*   [Taisei (⭐1.6k)](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
+*   [Taisei (⭐1.6k)](https://github.com/taisei-project/taisei) - Fan-made, open Source clone of the Touhou series.
 *   [Teeworlds (⭐2.6k)](https://github.com/teeworlds/teeworlds) - Online multi-player platform 2D shooter.
 *   [Wannabe Tempest (⭐19)](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
 *   [Witch Blast (⭐228)](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
@@ -297,14 +296,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### FPS
 
 *   [AssaultCube (⭐1.1k)](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
-*   [Darkest Hour (⭐8)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+*   [Darkest Hour (⭐10)](https://github.com/Darklight-Games/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 *   [Freedoom (⭐1.3k)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 *   [GlPortal (⭐383)](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 *   [Ioquake3 (⭐2.8k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 *   [Nazi Zombies Portable (⭐806)](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 *   [OpenLara (⭐5.1k)](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine.
 *   [Openspades (⭐1.2k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
-*   [Red Eclipse (⭐530)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
+*   [Red Eclipse (⭐533)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 *   [Urban Terror (⭐77)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 *   [Warsow (⭐79)](https://github.com/Warsow/qfusion) - Fast-paced FPS in a futuristic cartoonish world.
@@ -313,7 +312,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### MMORPG
 
 *   [Open-Ko (⭐358)](https://github.com/Open-KO/KnightOnline) - Reimplementation of old-school Knight Online that replicates the 1299 client functionality while preserving accuracy and compatibility with the version 1299 client and server.
-*   [Meridian 59 (⭐513)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
+*   [Meridian 59 (⭐514)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
 *   [Reia (⭐939)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 *   [Stendhal (⭐702)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 *   [Veloren (⭐7.5k)](https://github.com/veloren/veloren) - An action-adventure role-playing game set in a vast fantasy world.
@@ -332,17 +331,17 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [NetHack (⭐3.9k)](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
 *   [OpenMW (⭐6.6k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 *   [Shattered Pixel Dungeon (⭐6.5k)](https://github.com/00-Evan/shattered-pixel-dungeon) - An open source game based on the source code of Pixel Dungeon by Watabou.
-*   [The Legend of Zelda: Mystery of Solarus DX (⭐196)](https://github.com/christopho/zsdx) - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
-*   [Valyria Tear (⭐257)](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
-*   [Legend of Elya (⭐131)](https://github.com/Scottcjn/legend-of-elya-n64) - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on MIPS R4300i at 60 tok/s. Zelda-style dungeon crawler with AI NPCs. Built with libdragon SDK.
+*   [The Legend of Zelda: Mystery of Solarus DX (⭐196)](https://github.com/solarus-games/zsdx) - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
+*   [Valyria Tear (⭐257)](https://github.com/ValyriaTear/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+*   [Legend of Elya (⭐144)](https://github.com/Scottcjn/legend-of-elya-n64) - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on MIPS R4300i at 60 tok/s. Zelda-style dungeon crawler with AI NPCs. Built with libdragon SDK.
 
 ### Platform
 
 *   [AAAAXY (⭐300)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 *   [Commander Genius (⭐224)](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-*   [DDraceNetwork (⭐819)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐828)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 *   [Elemental One (⭐46)](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework.
-*   [Escape of the cat (⭐8)](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD (⭐258)](http://github.com/instead-hub/instead).
+*   [Escape of the cat (⭐8)](https://github.com/hugeping/catesc) - Hardcore oldschool platformer on [INSTEAD (⭐258)](http://github.com/instead-hub/instead).
 *   [Frogatto (⭐701)](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 *   [Gish (⭐355)](https://github.com/blinry/gish) - Award-winning physics platformer.
 *   [Journey to the Center of Hawkthorne (⭐1.1k)](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
@@ -365,7 +364,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [IRMINGARD (⭐7)](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 *   [Minilens (⭐143)](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 *   [Nudoku (⭐374)](https://github.com/jubalh/nudoku) - Ncurses based CLI sudoku game.
-*   [PuzzleDash (⭐11)](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game.
+*   [PuzzleDash (⭐11)](https://github.com/wozniakty/PuzzleDash) - Match-3 puzzle game.
 *   [Tictactoe (⭐13)](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses.
 *   [Wizznic (⭐43)](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 *   [PokerTH (⭐648)](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay.
@@ -384,7 +383,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Blackvoxel (⭐108)](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
 *   [Blocks Beyond the Stars (⭐35)](https://github.com/marceld23/BlocksBeyondTheStars) - Block-based 3D space crafting sandbox with procedurally generated planets, block-by-block ship & base building and self-hostable multiplayer (Unity client, .NET server).
 *   [Craft (⭐11k)](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
-*   [Endless Sky (⭐7.5k)](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
+*   [Endless Sky (⭐7.6k)](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 *   [Freeminer (⭐465)](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 *   [Minecraft (⭐5.4k)](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 *   [Manic Digger (⭐402)](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
@@ -394,7 +393,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Space Engineers (⭐3k)](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Voxel-based sandbox game set in an asteroid field in space.
 *   [Starbound (⭐145)](https://github.com/rwf93/Starbound) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
 *   [Terasology (⭐3.9k)](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
-*   [The Powder Toy (⭐5.3k)](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+*   [The Powder Toy (⭐5.3k)](https://github.com/The-Powder-Toy/The-Powder-Toy) - Falling-sand physics sandbox game.
 *   [Unturned (⭐3.8k)](https://github.com/SmartlyDressedGames/U3-SDK) - Free open-world zombie survival sandbox game.
 
 ### Simulation
@@ -407,25 +406,25 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Beyond all Reason (BAR) (⭐4.2k)](https://github.com/beyond-all-reason/Beyond-All-Reason) - RTS born from mods of the Total Annihilation on the SpringRTS game engine.
 *   [Caesaria (⭐294)](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 *   [Colobot (⭐1.2k)](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
-*   [CorsixTH (⭐4.5k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
+*   [CorsixTH (⭐4.6k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
 *   [Curse of War (⭐363)](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
 *   [Harris (⭐29)](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
 *   [Hedgewars (⭐557)](https://github.com/hedgewars/hw) - A turn based strategy, artillery, action and comedy game.
 *   [KaM Remake (⭐378)](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
 *   [KeeperRL (⭐1k)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [Last Colony (⭐93)](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
-*   [MegaGlest (⭐417)](https://github.com/MegaGlest/megaglest-source) - Real-time strategy game engine (cross-platform, 3-d).
+*   [MegaGlest (⭐420)](https://github.com/MegaGlest/megaglest-source) - Real-time strategy game engine (cross-platform, 3-d).
 *   [Micropolis (⭐1.1k)](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
 *   [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game.
 *   [Openage (⭐14k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 *   [OpenDungeons (⭐503)](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
-*   [OpenE2140 (⭐71)](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
-*   [OpenFodder (⭐603)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
-*   [OpenKrush (⭐125)](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
+*   [OpenE2140 (⭐72)](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
+*   [OpenFodder (⭐605)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+*   [OpenKrush (⭐126)](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [OpenRA (⭐17k)](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
 *   [OpenSA (⭐123)](https://github.com/Dzierzan/OpenSA) - Remake of Swarm Assault based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [OpenTTD (⭐8.2k)](https://github.com/OpenTTD/OpenTTD) - Transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
-*   [OpenXcom (⭐2.2k)](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
+*   [OpenXcom (⭐2.2k)](https://github.com/OpenXcom/OpenXcom) - Clone of the original X-COM.
 *   [Pax Britannica (⭐100)](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
 *   [PCOTM (Phone Case of the Monster) (⭐7)](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
 *   [Pikifen (⭐85)](https://github.com/Espyo/Pikifen) - Fan-made Pikmin-based engine, built with flexibility in mind.
@@ -433,19 +432,20 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Polly-B-Gone (⭐64)](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 *   [OpenRCT2 (⭐16k)](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
 *   [Race into Space (⭐229)](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
-*   [Romanov's Vengeance (⭐338)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
+*   [Romanov's Vengeance (⭐340)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [Seven Kingdoms: Ancient Adversaries (⭐266)](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 *   [Shattered Paradise (⭐82)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [Source of Tales (⭐59)](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 *   [Tanks of Freedom (⭐1.2k)](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
-*   [The Battle for Wesnoth (⭐6.8k)](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
+*   [The Battle for Wesnoth (⭐6.9k)](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 *   [Unknown Horizons (⭐1.5k)](https://github.com/unknown-horizons/unknown-horizons) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
-*   [Voxeliq (⭐169)](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
-*   [Wargus (⭐432)](https://github.com/Wargus/wargus) - Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
-*   [Warzone 2100 (⭐3.9k)](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
+*   [Voxeliq (⭐169)](https://github.com/bonesoul/voxeliq) - Block-based game engine implementation developed with C#.
+*   [Wargus (⭐436)](https://github.com/Wargus/wargus) - Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
+*   [Warzone 2100 (⭐4k)](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 *   [Wyrmsun (⭐332)](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
-*   [Zero-K (⭐824)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐827)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
+*   [Standard of Iron (⭐58)](https://github.com/djeada/Standard-of-Iron) - Single-player real-time strategy game set during an alternate Second Punic War, with formation command, direct commander control, and settlement management.
 
 ## Mobile Games
 
@@ -455,12 +455,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [ChaseWhisplyProject (⭐551)](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 *   [Colorphun (⭐85)](https://github.com/prakhar1989/colorphun) - Simple color based Android Game.
 *   [Game of Life (⭐105)](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules.
-*   [Gidi Games (⭐70)](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
+*   [Gidi Games (⭐70)](https://github.com/victordibia/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 *   [Green Wall (⭐22)](https://github.com/awlzac/greenwall) - Weirdly addictive arcade-style Android game, where you fling fruit at a wall. Project developed using Android Studio 1.0.
 *   [Memory Game (⭐596)](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
 *   [Pimple Popper (⭐46)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 *   [Pixel Dungeon (⭐4k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
-*   [PuzzleGame (⭐67)](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
+*   [PuzzleGame (⭐67)](https://github.com/victordibia/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 *   [Wannabe Tempest (⭐21)](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 *   [ZapZap (⭐0)](https://github.com/noubar/zapzap) - Very simple reaction measuring game that can also be played together on the same device.
 
@@ -475,8 +475,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [FinalFighter (⭐16)](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
 *   [Gorillas (⭐247)](https://github.com/Lyndir/Gorillas) - Iphone port of the popular old QBasic game.
 *   [Light Jockey (⭐17)](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
-*   [Lumio (⭐177)](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
-*   [Sakura Fly (⭐113)](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
+*   [Lumio (⭐177)](https://github.com/sephine/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
+*   [Sakura Fly (⭐114)](https://github.com/cl7/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 *   [Wolfenstein 3D (⭐539)](https://github.com/id-Software/Wolf3D-iOS) - iOS Source Release.
 
 ## Chat bots
@@ -496,7 +496,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [OpenJK (⭐2.3k)](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 *   [Prince of Persia (⭐6.9k)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 *   [UFO RUN (⭐64)](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
-*   [System Shock (⭐1.5k)](https://github.com/NightDiveStudios/shockmac) - Source code for original System Shock game (PowerMac version), more readable fork available [here (⭐39)](https://github.com/ToxicFrog/shockmac).
+*   [System Shock (⭐1.5k)](https://github.com/NightDive-Studio/shockmac) - Source code for original System Shock game (PowerMac version), more readable fork available [here (⭐39)](https://github.com/ToxicFrog/shockmac).
 *   [Rogue Legacy (⭐1.9k)](https://github.com/flibitijibibo/RogueLegacy1/) - Source code for Rogue Legacy 1.
 
 ## Frameworks/Engines/Libraries
@@ -509,31 +509,31 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Babylon.js (⭐26k)](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 *   [Bgfx (⭐17k)](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
 *   [Chilli Works (⭐162)](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
-*   [Chipmunk Physics (⭐2.4k)](https://github.com/slembcke/Chipmunk-Physics) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
+*   [Chipmunk Physics (⭐2.4k)](https://github.com/slembcke/Chipmunk2D) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
 *   [ChoiceScript (⭐458)](https://github.com/dfabulich/choicescript) - A language/engine for developing text-based multiple-choice interactive novels.
 *   [Cocos2d for Android (⭐599)](https://github.com/ZhouWeikuan/cocos2d) - Based on cocos2d-Android-0.82, and now ported from cocos2d-iphone 0.99.4.
-*   [Cocos2d for iPhone (⭐4k)](https://github.com/cocos2d/cocos2d-iphone) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
+*   [Cocos2d for iPhone (⭐4k)](https://github.com/cocos2d/cocos2d-objc) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
 *   [Cocos2d for HTML5 (⭐3.2k)](https://github.com/cocos2d/cocos2d-HTML5) - Cocos2d for Web Browsers. Built using JavaScript.
 *   [Cocos2d-x (⭐19k)](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 *   [Crafty (⭐3.6k)](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
-*   [CutJavaScript (⭐2.6k)](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
-*   [Dash (⭐425)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
+*   [CutJavaScript (⭐2.6k)](https://github.com/piqnt/stage.js) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
+*   [Dash (⭐426)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 *   [Duality (⭐1.4k)](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 *   [EaselJavaScript (⭐8.2k)](https://github.com/createjs/easeljs) - Library to make working with the Canvas element easier.
 *   [EntityJavaScript (⭐185)](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 *   [Evennia MUD/MU\* Creation System (⭐2.1k)](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 *   [Flare (⭐40)](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
-*   [Flashpunk (⭐395)](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
+*   [Flashpunk (⭐396)](https://github.com/useflashpunk/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 *   [Flixel (⭐1.1k)](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
 *   [GameJavaScript (⭐467)](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
 *   [GamePlay (⭐4.9k)](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
-*   [GemRB (⭐1.2k)](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
+*   [GemRB (⭐1.3k)](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 *   [GenesisEngine (⭐47)](https://github.com/SaintGimp/GenesisEngine) - Allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 *   [Gladiator 3D (⭐32)](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
-*   [Godot (⭐117k)](https://github.com/okamstudio/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+*   [Godot (⭐117k)](https://github.com/godotengine/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
 *   [HaxeFlixel (⭐2.2k)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 *   [Ikemen GO (⭐1.5k)](https://github.com/ikemen-engine/Ikemen-GO/) - An open-source fighting game engine that supports MUGEN resources. Written in Go.
-*   [JiGS (⭐88)](https://github.com/Techbot/JiGS-PHP-RPG-engine) - Online RPG and Trading Game Engine built in PHP.
+*   [JiGS (⭐87)](https://github.com/Techbot/JiGS-RPG-engine) - Online RPG and Trading Game Engine built in PHP.
 *   [JMonkeyEngine (⭐4.3k)](https://github.com/jMonkeyEngine/jmonkeyengine) - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
 *   [Kiwi.js (⭐1.5k)](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJavaScript for publishing to the AppStore.
 *   [LibGDX (⭐25k)](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework.
@@ -541,28 +541,28 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [LibSDL2pp (⭐601)](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
 *   [Matter.js (⭐18k)](https://github.com/liabru/matter-js) - JavaScript 2D rigid body physics engine for the web.
 *   [MelonJavaScript (⭐6.4k)](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
-*   [MonoGame (⭐14k)](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
+*   [MonoGame (⭐14k)](https://github.com/MonoGame/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 *   [Oimo.js (⭐3.2k)](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for JavaScript.
 *   [OpenRTS (⭐1.5k)](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 *   [osu-framework (⭐2k)](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
 *   [Oxygine (⭐814)](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
-*   [panda.js (⭐768)](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
-*   [Phaser (⭐40k)](https://github.com/photonstorm/phaser) - Fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+*   [panda.js (⭐770)](https://github.com/ekelokorpi/panda-engine) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
+*   [Phaser (⭐40k)](https://github.com/phaserjs/phaser) - Fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 *   [PhysicsJavaScript (⭐3.7k)](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
-*   [pixi.js (⭐48k)](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses WebGL with canvas fallback.
+*   [pixi.js (⭐48k)](https://github.com/pixijs/pixijs) - Super fast HTML 5 2D rendering engine that uses WebGL with canvas fallback.
 *   [Plasma (⭐236)](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 *   [PlayCanvas (⭐17k)](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
 *   [QICI Engine (⭐905)](https://github.com/qiciengine/qiciengine) - Free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 *   [Quasi-Engine (⭐56)](https://github.com/INdT/Quasi-Engine) - QtQuick framework that intends to be a complete toolset to ease 2d game development.
 *   [Ren'py (⭐6.8k)](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
-*   [SFML (⭐12k)](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
-*   [Solarus (⭐731)](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
+*   [SFML (⭐12k)](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library.
+*   [Solarus (⭐732)](https://github.com/solarus-games/solarus) - An Action-RPG game engine written in C++.
 *   [Spring (⭐4k)](https://github.com/spring/spring) - Real Time Strategy game engine.
 *   [Starling (⭐3.1k)](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, macOS), and to the browser (via the Flash plugin).
 *   [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJavaScript powered game engine and framework (2D & 3D with WebGL).
 *   [Tesseract (⭐193)](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
-*   [Three.js (⭐115k)](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
-*   [Tiled (⭐13k)](https://github.com/bjorn/tiled) - General purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
+*   [Three.js (⭐116k)](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
+*   [Tiled (⭐13k)](https://github.com/mapeditor/tiled) - General purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 *   [Torque 2D (⭐1.7k)](https://github.com/TorqueGameEngines/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 *   [Torque 3D (⭐3.4k)](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
 *   [Turbulenz Engine (⭐5.1k)](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
@@ -580,7 +580,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Halo::Reach::API (⭐18)](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
 *   [IodineGBA (⭐291)](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 *   [Itch (⭐2.8k)](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
-*   [JavaScript Breakouts (⭐542)](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of Breakout.
 *   [Leaderboard(Java) (⭐26)](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
 *   [Leaderboard(PHP) (⭐25)](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
 *   [Leaderboard(Python) (⭐21)](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).

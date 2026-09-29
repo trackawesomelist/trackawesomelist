@@ -6,6 +6,12 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Sep 25, 2026](/content/2026/09/25/README.md)
+
+### Cognitive Development
+
+*   [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) by **Edward Kmett** (YOW! 2014) \[40:58]
+
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
 ### Software Development
@@ -20,7 +26,7 @@ Awesome online talks and screencasts
 
 ### Methodologies
 
-*   [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (Al Agents Montreal) \[01:20:45]
+*   [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (AI Agents Montreal) \[01:20:45]
 
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
@@ -197,12 +203,6 @@ Awesome online talks and screencasts
 ### Software Design
 
 *   [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** (Ruby Midwest 2011) \[1:06:38]
-
-## [Feb 03, 2019](/content/2019/02/03/README.md)
-
-### Cognitive Development
-
-*   [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) by **Edward Kmett** (YOW! 2014) \[40:58]
 
 ## [Oct 18, 2018](/content/2018/10/18/README.md)
 

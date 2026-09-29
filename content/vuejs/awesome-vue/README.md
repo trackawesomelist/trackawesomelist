@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Sep 24, 2026](/content/2026/09/24/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vtable-guild (⭐12)](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
+
 ## [Sep 18, 2026](/content/2026/09/18/README.md)
 
 ### Components & Libraries / UI Components
@@ -68,7 +74,7 @@
 ### Components & Libraries / Utilities
 
 *   [@i18n-micro/vue (⭐250)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
-*   [crd-ui (⭐22)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
+*   [crd-ui (⭐23)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
 
 ### Components & Libraries / Integrations
 
@@ -119,7 +125,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [@stitchapi/vue (⭐18)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
+*   [@stitchapi/vue (⭐19)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 ### Components & Libraries / Scaffold
 
@@ -151,7 +157,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [@agentskit/vue (⭐25)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+*   [@agentskit/vue (⭐27)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
 
 ### Components & Libraries / Scaffold
 
@@ -373,7 +379,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [ssgoi (⭐964)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+*   [ssgoi (⭐972)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
 
 ### Components & Libraries / Dev Tools
 
@@ -947,7 +953,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐281)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐283)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
