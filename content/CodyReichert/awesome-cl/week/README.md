@@ -6,6 +6,18 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Web development utilities / Testing HTTP requests
+
+*   [the-great-rouclere (⭐1)](https://github.com/phoe/the-great-rouclere) - Programmable HTTP mocking library in Common Lisp. MIT.
+    *   "allows the programmer to set "if-then" expectations for incoming HTTP requests, letting the programmer specify responses in a declarative way".
+
+### Utils / Third-party APIs
+
+*   [infix-math (⭐34)](https://github.com/ruricolist/infix-math) - An extensible infix syntax for math. MIT.
+    *   can also turn the REPL into a calculator.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Emacs / Third-party APIs
@@ -53,7 +65,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Zed / Third-party APIs
 
-*   [zed-dl (⭐17)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
+*   [zed-dl (⭐20)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
@@ -286,6 +298,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [datastar-cl (⭐66)](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
     *   online demo: <https://dataspice.interlaye.red/>
+    *   current dependency (not in Quicklisp, as of Sept. 2026): [lc-sse](https://codeberg.org/fsm/lc-sse)
 
 ### Job processing / Third-party APIs
 
@@ -1906,7 +1919,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Machine Learning
 
-*   [MGL (⭐650)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐651)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -2196,7 +2209,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Utils / Third-party APIs
 
-*   [cmu-infix (⭐39)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐7)](https://github.com/mrcdr/polisher).
+*   [cmu-infix (⭐39)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp.
+    *   see also [polisher (⭐7)](https://github.com/mrcdr/polisher).
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 

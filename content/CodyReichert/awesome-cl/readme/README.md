@@ -152,6 +152,7 @@ sellers who aren't evil for physical resources.
         *   [Browser tests](#browser-tests)
         *   [Form handling](#form-handling)
         *   [User login and password management](#user-login-and-password-management)
+        *   [Testing HTTP requests](#testing-http-requests)
         *   [Web project skeletons and generators](#web-project-skeletons-and-generators)
     *   [Others](#others)
         *   [Email](#email)
@@ -259,7 +260,7 @@ Work In Progress:
 
 ## Machine Learning
 
-*   [MGL (⭐650)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
+*   [MGL (⭐651)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1449,6 +1450,7 @@ SDK for **[Datastar](https://data-star.dev/)**:
 
 *   [datastar-cl (⭐66)](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
     *   online demo: <https://dataspice.interlaye.red/>
+    *   current dependency (not in Quicklisp, as of Sept. 2026): [lc-sse](https://codeberg.org/fsm/lc-sse)
 
 See also:
 
@@ -1533,6 +1535,11 @@ out of the box availability for CL:
     *   [cas-demo (⭐2)](https://github.com/fferrere/cas-demo) - a demo project.
 
 See also mito-auth and the Hunchentoot and Clack plugins above.
+
+### Testing HTTP requests
+
+*   [the-great-rouclere (⭐1)](https://github.com/phoe/the-great-rouclere) - Programmable HTTP mocking library in Common Lisp. MIT.
+    *   "allows the programmer to set "if-then" expectations for incoming HTTP requests, letting the programmer specify responses in a declarative way".
 
 ### Web project skeletons and generators
 
@@ -1719,7 +1726,10 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 
 ## Utils
 
-*   [cmu-infix (⭐39)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐7)](https://github.com/mrcdr/polisher).
+*   [infix-math (⭐34)](https://github.com/ruricolist/infix-math) - An extensible infix syntax for math. MIT.
+    *   can also turn the REPL into a calculator.
+*   [cmu-infix (⭐39)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp.
+    *   see also [polisher (⭐7)](https://github.com/mrcdr/polisher).
 
 # Parallelism and Concurrency
 
@@ -2015,7 +2025,7 @@ Tools:
 
 ## Zed
 
-*   [zed-dl (⭐17)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
+*   [zed-dl (⭐20)](https://github.com/etyurkin/zed-cl) - Common Lisp language support for the Zed editor with integrated LSP server and Jupyter kernel support. Built with LLMs. NEW in 2026.
 
 ## Geany (experimental)
 
@@ -2098,6 +2108,8 @@ These are applications or bits of code that make development in Common Lisp easi
 *   [lake (⭐97)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT][200].
 
 # Unit Testing
+
+See also the "testing HTTP requests" subsection.
 
 *   ⭐ [FiveAM (⭐213)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
     *   [FiveAM documentation](https://fiveam.common-lisp.dev/docs/index.html)
