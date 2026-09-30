@@ -1,18 +1,47 @@
 # Awesome List Updates on Oct 05 - Oct 11, 2026
 
-26 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [1. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### 2D/3D Rendering engines / Charts
+
+*   [BlazorGraphs (⭐39)](https://github.com/EdoParis/BlazorCharts) - ![stars](https://img.shields.io/github/stars/Edoparis/BlazorCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Edoparis/BlazorCharts) This is a NuGet package to draw lightweight svg charts and gauges for Blazor without js. [blazorgraphs.it](https://www.blazorgraphs.it).
+
+### Routing & Navigation / Others
+
+*   [Linq2Dashboard (⭐2)](https://github.com/joadan/Linq2Dashboard) - ![stars](https://img.shields.io/github/stars/joadan/Linq2Dashboard?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Linq2Dashboard?style=flat-square\&cacheSeconds=86400) Interactive exploration of large in-memory collections: facets with counts, metrics and the matching rows, all updating together on every click. Core engine with no UI dependency plus Blazor components. [Demo](https://joadan.github.io/Linq2Dashboard/).
+
+## [2. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Tools and session management
+
+*   [muxly](https://muxly.sh/) Native tmux client for iPhone and iPad, built around tmux control mode for native window tabs, pane navigation, smooth scrolling, and more
+
+## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+
+### Blockchain API and Web services
+
+*   [Luganodes RPC](https://rpc.luganodes.com) - Bitcoin Core JSON-RPC endpoints on dedicated bare-metal infrastructure with a free tier.
+
+## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Tools
+
+*   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
+*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
+
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Themes
 
 *   [Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind (⭐84)](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify)
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Web development utilities / Testing HTTP requests
 
@@ -24,26 +53,26 @@
 *   [infix-math (⭐34)](https://github.com/ruricolist/infix-math) - An extensible infix syntax for math. MIT.
     *   can also turn the REPL into a calculator.
 
-## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [Molecule](https://docs.ansible.com/projects/molecule/) - Framework for developing and testing Ansible roles.
 
-## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
 *   [claude-code-go (⭐49)](https://github.com/lancekrogers/claude-code-go) - Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [JoyHak/MarkdownToBBCode (⭐5)](https://github.com/JoyHak/MarkdownToBBCode#readme) - Concise documentation. Colorful syntax conversion demonstration. Side-by-side comparison.
 *   [JoyHak/QuickSwitch (⭐149)](https://github.com/JoyHak/QuickSwitch#readme) - Project banner. Sequential structure. Spoilers to reduce visual cluttering. Helpful icons in headers. Clickable badges and hyperlinks. GIF demo.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Chat
 
@@ -66,13 +95,7 @@
 
 *   [cbirds (⭐68)](https://github.com/clainstone/cbirds) - A flock of birds simulation.
 
-## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
-
-### File Management / File Utilities
-
-*   [adileo/squirreldisk (⭐1.8k)](https://github.com/adileo/squirreldisk) — Free, open-source disk usage analyzer for macOS, Windows and Linux. See what fills your disk, servers (SSH) and cloud storage in an animated sunburst or treemap, and clean it up safely. A DaisyDisk, WizTree and WinDirStat alternative, in native Rust ☆`1,840`
-
-## [8. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [11. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Avatars
 
@@ -102,19 +125,23 @@
 
 *   [kdpbook.io](https://kdpbook.io/) - Turns a book described in a chat, or your own manuscript, into Amazon KDP-ready files: interior PDF, full-wrap cover PDF, Kindle EPUB and listing sheet. `#freemium`
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Tools Built with Polars / Miscellaneous
 
 *   [Ciaren (⭐15)](https://github.com/ciaren-labs/Ciaren) - A local-first visual ETL and ML workflow builder that runs flows on pandas or Polars and exports readable Polars or lazy Polars code, by [@ciaren-labs](https://github.com/ciaren-labs).
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
 *   [kemal-identity (⭐6)](https://github.com/urunsiyabend/kemal-identity) - Authentication and identity primitives with first-class Kemal integration
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / System tools
+
+*   [adileo/squirreldisk (⭐1.8k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
 
 ### Applications / Finance
 
@@ -123,6 +150,13 @@
 ### Development tools / Formatters
 
 *   [rvben/rumdl (⭐1.5k)](https://github.com/rvben/rumdl) \[[rumdl](https://crates.io/crates/rumdl)] - A fast Markdown linter and formatter written in Rust [![CI](https://github.com/rvben/rumdl/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rvben/rumdl/actions/workflows/ci.yml)
+
+### Development tools / Testing
+
+*   Code Coverage
+    *   [minikin/cargo-crap (⭐409)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
+    *   [supercorp-ai/supercov (⭐63)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
+    *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
 ### Libraries / Authentication
 
@@ -137,19 +171,19 @@
 
 *   [mohamadzoh/phonelib (⭐19)](https://github.com/mohamadzoh/phonelib) \[[phonelib](https://crates.io/crates/phonelib)] - A dependency-free Rust library for parsing, validating, formatting, and normalizing international phone numbers.
 
-## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Logging
 
 *   [logfire (⭐4.5k)](https://github.com/pydantic/logfire) - The observability platform for Python, from the makers of Pydantic.
 
-## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Mail
 
 *   [dmarc-rua (⭐2)](https://github.com/domaincanary/dmarc-rua) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
-## [14. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Servers / React
 
@@ -254,34 +288,50 @@
 *   [4 Reasons you should try out GraphQL](https://www.freecodecamp.org/news/introduction-to-graphql-1d8011b80159) - Introduction to GraphQL and its benefits over REST APIs.
 *   [Build a GraphQL API with Siler on top of Swoole](https://openswoole.com/article/Build-a-GraphQL-API-on-top-of-Swoole) - Tutorial for building a PHP GraphQL API with Siler and Swoole.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [TeamSort](https://teamsort.world) - Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.
+
+### Code Quality
+
+*   [tomosu.ai](https://tomosu.ai/) - Scores a repository or pull request with a 0-100 Production Reliability Index, plus fix suggestions and a merge verdict. Free for one repository (public or private) through the VS Code/Cursor plugin, web scan, and GitHub App PR comments.
+
+### Crash and Exception Handling
+
+*   [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
 
 ### Generative AI
 
 *   [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
 *   [onomeo](https://onomeo.com/) - Onomeo gives you one key for dozens of AI models. Plug it right into tools like Cline, SillyTavern, or Open WebUI using standard OpenAI format. 35 models are completely free (60 requests / 5 hrs per user, pooled at 450 / 5 hrs across all users). Daily check-in credits let you use big models like Claude and GPT, up to a daily limit. Extra credits start at $5/month. We’re in open beta, so expect occasional instability. It’s great for casual use, but not ready to be a daily driver. Feedback is always welcome.
 
+### Managed Data Services
+
+*   [Neon](https://neon.com) - Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.
+
 ### Screenshot APIs
 
 *   [Ironfang Render](https://ironfang.com/render) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
 
-## [16. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [19. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Simulator
+
+*   [OpenGG (⭐0)](https://github.com/tymsky/OpenGG) - Open-source engine for Gearhead Garage: The Virtual Mechanic (1999), the car repair game; requires the original game files.
 
 ### Strategy
 
 *   [Zero Hour Reforged (⭐66)](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) - Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.
 
-## [17. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [20. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -299,41 +349,45 @@
 
 *   [JarnDev/autodap.nvim (⭐24)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
-## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [22. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
 
 *   [PySAD (⭐294)](https://github.com/selimfirat/pysad) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Python library for anomaly detection on streaming data, with online detectors, stream simulators, and evaluators.
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [23. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### SAML / Other tools
 
 *   [SAML: A Fractal of Bad Design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) - “SAML is being crushed under the weight of its own complexity.” The author lists five flaws that compound: **“1. Built on XML; 2. Canonicalization; 3. Enveloped signatures; 4. 'Kitchen-sink' design; 5. Ossification.”** So instead of one more mitigation, identity providers get a deprecation plan: stop onboarding SAML integrations, migrate customers to OIDC, set a sunset date.
 
-## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [transaction\_guard (⭐2)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
 
-## [22. Awesome Qgis](/content/totpero/awesome-qgis/week/README.md)
+## [25. Awesome Qgis](/content/totpero/awesome-qgis/week/README.md)
 
 ### Plugins / Remote Sensing
 
 *   [AI Edit by TerraLab](https://plugins.qgis.org/plugins/AI_Edit/) - Edit aerial and satellite imagery from a text prompt: land cover, building extraction, object removal, flood simulation. Georeferenced output.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Markup and CSS
 
 *   [Carve (⭐6)](https://github.com/markup-carve/carve-php) - A PHP parser for [Carve](https://markup-carve.github.io/carve/), a lightweight markup language derived from Markdown and Djot.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Voice-to-Text / Audio Record and Process
 
 *   [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Free on-device AI dictation and voice editing from Google that works in any app, currently English only. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Browsers / Audio Record and Process
+
+*   [Yalqen](https://yalqen.com/) - Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YSamed/yalqen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Translation Tools / Audio Record and Process
 
@@ -353,7 +407,11 @@
 
 *   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Remap keys and customize keyboard behavior on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
+### Utilities / System Related Tools
+
+*   [MacFanPro (⭐7)](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/macfanpro/macfanpro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -662,7 +720,7 @@
 
 
 
-## [26. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [29. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Becoming a Bioinformatician / Tools
 

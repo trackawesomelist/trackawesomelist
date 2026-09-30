@@ -304,6 +304,7 @@ If you are looking for not only remakes have a look at:
 *   [Librelancer (⭐608)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 *   [Endless Sky (⭐7.6k)](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 *   [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
+*   [OpenGG (⭐0)](https://github.com/tymsky/OpenGG) - Open-source engine for Gearhead Garage: The Virtual Mechanic (1999), the car repair game; requires the original game files.
 
 ## Strategy
 

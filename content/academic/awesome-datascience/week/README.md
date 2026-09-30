@@ -6,6 +6,13 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Tools
+
+*   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
+*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Tools
@@ -66,7 +73,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [FlexViz (⭐18)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
+*   [FlexViz (⭐53)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -488,7 +495,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐706)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐708)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 

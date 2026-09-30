@@ -146,6 +146,8 @@ This section contains agent frameworks and tools that are useful for data scienc
 *   [ai-evaluation (⭐120)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 *   [Kitaru (⭐292)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 *   [Jev Social (⭐90)](https://github.com/socai-io/jev-social) - Read-only social research agent that lets Jev choose bounded Instagram, TikTok, and LinkedIn operations, runs them through the local socai CLI in Chrome, and preserves source-linked evidence beside a cited report.
+*   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
+*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 
 ### Research & Knowledge Retrieval
 
@@ -464,7 +466,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
-*   [PerpetualBooster (⭐706)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐708)](https://github.com/perpetual-ml/perpetual)
 *   [JAX (⭐36k)](https://github.com/google/jax)
 *   [PhilanthroPy (⭐11)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
@@ -570,7 +572,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Dash](https://plotly.com/dash/)
 *   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
 *   [torchvista (⭐765)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
-*   [FlexViz (⭐18)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
+*   [FlexViz (⭐53)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
 ### Miscellaneous Tools
 

@@ -8,6 +8,10 @@ Actively maintained open-source game remakes.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
+### Simulator
+
+*   [OpenGG (⭐0)](https://github.com/tymsky/OpenGG) - Open-source engine for Gearhead Garage: The Virtual Mechanic (1999), the car repair game; requires the original game files.
+
 ### Strategy
 
 *   [Zero Hour Reforged (⭐66)](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) - Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.

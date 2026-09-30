@@ -520,6 +520,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [semanticdiff.com](https://app.semanticdiff.com/) - Programming language aware diff for GitHub pull requests and commits, free for public repositories
 *   [shields.io](https://shields.io) - Quality metadata badges for open source projects
 *   [sonarcloud.io](https://sonarcloud.io) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+*   [tomosu.ai](https://tomosu.ai/) - Scores a repository or pull request with a 0-100 Production Reliability Index, plus fix suggestions and a merge verdict. Free for one repository (public or private) through the VS Code/Cursor plugin, web scan, and GitHub App PR comments.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -841,6 +842,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [rollbar.com](https://rollbar.com/) - Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
 *   [Semaphr](https://semaphr.com) - Free all-in-one kill switch for your mobile apps.
 *   [sentry.io](https://sentry.io/) - Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+*   [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
 *   [Whitespace](https://whitespace.dev) - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1243,7 +1245,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [MemCachier](https://www.memcachier.com/) - Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - free tier gives 512 MB
 *   [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).
-*   [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage per project, 100 Projects ,10 branches per project, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
+*   [Neon](https://neon.com) - Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.
 *   [Nile](https://www.thenile.dev/) - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings
 *   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 500MB total storage, 5 databases, integrated with Prisma ORM.
 *   [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.

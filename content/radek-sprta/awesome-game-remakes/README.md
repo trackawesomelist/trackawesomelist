@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Simulator
+
+*   [OpenGG (⭐0)](https://github.com/tymsky/OpenGG) - Open-source engine for Gearhead Garage: The Virtual Mechanic (1999), the car repair game; requires the original game files.
+
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
 ### Strategy
