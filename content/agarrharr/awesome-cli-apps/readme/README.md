@@ -145,6 +145,7 @@ Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) lis
 *   [ytm-player (⭐511)](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 *   [tunein-cli (⭐109)](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
 *   [cliamp (⭐4.4k)](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
+*   [mpv-music (⭐25)](https://github.com/FurqanHun/mpv-music) - Daemonless music player.
 
 ### Video
 
@@ -153,7 +154,7 @@ Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.8k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐5.5k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐191k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 *   [cinema (⭐37)](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 *   [capcut-cli (⭐804)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 

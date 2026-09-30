@@ -6,6 +6,12 @@ A curated list of awesome Lit resources.
 
 [ Daily / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / [Overview](/content/web-padawan/awesome-lit/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Tools / Building
+
+*   [vite-plugin-lit](https://www.npmjs.com/package/@oddsquad/vite-plugin-lit) - Vite plugin for Lit adding HMR support, shadow root CSS helpers and a DevTools panel.
+
 ## [Sep 25, 2026](/content/2026/09/25/README.md)
 
 ### Extensions

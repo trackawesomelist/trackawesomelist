@@ -8,6 +8,10 @@ A curated list of awesome things related to Ruby on Rails
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
+### Open Source Rails Apps / Other external resources
+
+*   [RexOne (⭐6)](https://github.com/rex-9/rexone-core) - Sovereign full-stack application foundation spanning Rails 8 API, React 19, and Flutter mobile (using Rails 8.1). - [:earth\_africa:](https://rexone.rex9.me)
+
 ### Gems / Other external resources
 
 *   [transaction\_guard (⭐2)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)

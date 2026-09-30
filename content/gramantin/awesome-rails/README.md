@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Open Source Rails Apps / Other external resources
+
+*   [RexOne (⭐6)](https://github.com/rex-9/rexone-core) - Sovereign full-stack application foundation spanning Rails 8 API, React 19, and Flutter mobile (using Rails 8.1). - [:earth\_africa:](https://rexone.rex9.me)
+
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
 ### Gems / Other external resources

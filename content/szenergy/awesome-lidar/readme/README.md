@@ -172,6 +172,8 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐54)](https://github.com/virtual-vehicle/pointcloudset) ![](https://img.shields.io/github/stars/virtual-vehicle/pointcloudset?color=yellow\&style=flat-square\&logo=github)
 *   [LAStools](https://rapidlasso.de/lastools/) - C++ library and command-line tools for pointcloud processing and data compressing.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.1k)](https://github.com/LAStools/LAStools) ![](https://img.shields.io/github/stars/LAStools/LAStools?color=yellow\&style=flat-square\&logo=github)
+*   [lasrs-cpp (⭐0)](https://github.com/bloom256/lasrs-cpp) - C++20 and C library for reading and writing LAS, LAZ and COPC with parallel LAZ decoding, built on the Rust crates las-rs and laz-rs.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐0)](https://github.com/bloom256/lasrs-cpp) ![](https://img.shields.io/github/stars/bloom256/lasrs-cpp?color=yellow\&style=flat-square\&logo=github)
 
 ## Frameworks
 
@@ -363,7 +365,7 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 *   [Lichtblick suite](https://github.com/lichtblick-suite) - Lichtblick is an open-source alternative to Foxglove Studio for visualizing and analyzing robotics data.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.1k)](https://github.com/lichtblick-suite/lichtblick) ![](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [Rerun](https://rerun.io/) - Rerun is a tool for time-aware multimodal data stack and visualizations.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/rerun-io/rerun) ![](https://img.shields.io/github/stars/rerun-io/rerun?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/rerun-io/rerun) ![](https://img.shields.io/github/stars/rerun-io/rerun?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/@rerundotio/videos)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐5.8k)](https://github.com/cnr-isti-vclab/meshlab) ![](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?color=yellow\&style=flat-square\&logo=github)

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Entertainment / Music
+
+*   [mpv-music (⭐25)](https://github.com/FurqanHun/mpv-music) - Daemonless music player.
+
 ## [Sep 29, 2026](/content/2026/09/29/README.md)
 
 ### Entertainment / Chat
@@ -964,7 +970,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐191k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 

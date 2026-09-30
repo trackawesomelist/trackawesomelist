@@ -8,6 +8,10 @@
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
+### Entertainment / Music
+
+*   [mpv-music (⭐25)](https://github.com/FurqanHun/mpv-music) - Daemonless music player.
+
 ### Entertainment / Chat
 
 *   [signal-cli (⭐4.9k)](https://github.com/AsamK/signal-cli) - Signal client.
@@ -856,7 +860,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐191k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

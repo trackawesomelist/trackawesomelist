@@ -6,6 +6,13 @@ Find primary sources online and learn how to research history digitally.
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Archives and primary sources / Switzerland
+
+*   [Books as Data](https://books-as-data.ch/) - Full-text and metadata corpus of 1700–1900 prints from four Swiss libraries, with bulk export and IIIF images.
+*   [Swissvotes](https://swissvotes.ch/) - Database of Swiss federal popular votes since 1848, including results, contextual information, analyses, original documents, and downloadable data.
+
 ## [Sep 23, 2026](/content/2026/09/23/README.md)
 
 ### Archives and primary sources / Europe

@@ -8,6 +8,10 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
+### ToDos
+
+*   [StudyLife (⭐1)](https://github.com/lukislp/studylife) - ![stars](https://img.shields.io/github/stars/lukislp/studylife?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lukislp/studylife?style=flat-square\&cacheSeconds=86400) Self-hosted study organizer: calendar, exam/study planner, focus timer, notes and a progress dashboard, with a growing family of add-ons (native app, browser extensions, CLI, VS Code, Telegram, Discord, Home Assistant...) built on Blazor WebAssembly + ASP.NET Core. [Demo](https://studylife-demo.lktec.org).
+
 ### 2D/3D Rendering engines / Charts
 
 *   [BlazorGraphs (⭐39)](https://github.com/EdoParis/BlazorCharts) - ![stars](https://img.shields.io/github/stars/Edoparis/BlazorCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Edoparis/BlazorCharts) This is a NuGet package to draw lightweight svg charts and gauges for Blazor without js. [blazorgraphs.it](https://www.blazorgraphs.it).

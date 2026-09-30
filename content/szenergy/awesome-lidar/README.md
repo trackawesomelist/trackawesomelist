@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/szenergy/awesome-lidar/week/README.md) / [Overview](/content/szenergy/awesome-lidar/readme/README.md) ]
 
+## [Sep 30, 2026](/content/2026/09/30/README.md)
+
+### Libraries
+
+*   [lasrs-cpp (⭐0)](https://github.com/bloom256/lasrs-cpp) - C++20 and C library for reading and writing LAS, LAZ and COPC with parallel LAZ decoding, built on the Rust crates las-rs and laz-rs.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐0)](https://github.com/bloom256/lasrs-cpp) ![](https://img.shields.io/github/stars/bloom256/lasrs-cpp?color=yellow\&style=flat-square\&logo=github)
+
 ## [Sep 23, 2026](/content/2026/09/23/README.md)
 
 ### Related awesome / LIDAR-other-sensor calibration
@@ -53,7 +60,7 @@
 *   [Lichtblick suite](https://github.com/lichtblick-suite) - Lichtblick is an open-source alternative to Foxglove Studio for visualizing and analyzing robotics data.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.1k)](https://github.com/lichtblick-suite/lichtblick) ![](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [Rerun](https://rerun.io/) - Rerun is a tool for time-aware multimodal data stack and visualizations.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/rerun-io/rerun) ![](https://img.shields.io/github/stars/rerun-io/rerun?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/rerun-io/rerun) ![](https://img.shields.io/github/stars/rerun-io/rerun?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/@rerundotio/videos)
 *   [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
 
