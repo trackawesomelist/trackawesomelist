@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [claude-code-go (⭐49)](https://github.com/lancekrogers/claude-code-go) - Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.
 
+### SQL Query Builders
+
+*   [dba (⭐2)](https://github.com/kran/dba) - SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Artificial Intelligence
@@ -298,7 +302,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Video
 
-*   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+*   [mpeg-ts-analyzer (⭐37)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -463,7 +467,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐14)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [skillreaper (⭐58)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
 ### File Handling
@@ -5446,7 +5450,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Project Layout
 
 *   [ardanlabs/service (⭐4.1k)](https://github.com/ardanlabs/service) - A [starter kit (⭐4.1k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
-*   [cookiecutter-golang (⭐737)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+*   [cookiecutter-golang (⭐736)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-sample (⭐140)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐621)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
 *   [go-todo-backend (⭐336)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.

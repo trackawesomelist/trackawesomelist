@@ -6,6 +6,22 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 01, 2026](/content/2026/10/01/README.md)
+
+### Software / Security Testing
+
+*   [Darkmoon (⭐970)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+
+### Software / Test Data Management
+
+*   [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
+*   [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
+*   [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
+
+### Software / Performance & Load Testing
+
+*   [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
+
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
 ### Software / UI & End-to-End Testing
@@ -91,7 +107,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [Waterfall AI Test (⭐7)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
+*   [Waterfall AI Test (⭐8)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 
 ### Software / Accessibility & Usability Testing
 
@@ -101,7 +117,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [optics-framework (⭐11)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
+*   [optics-framework (⭐56)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
 ## [Aug 23, 2026](/content/2026/08/23/README.md)
 
@@ -134,7 +150,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Behave (⭐4)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
+*   [Awesome Behave (⭐5)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
 
 ## [Jul 28, 2026](/content/2026/07/28/README.md)
 
@@ -182,17 +198,17 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [DATAMIMIC CE (⭐39)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
+*   [DATAMIMIC CE (⭐116)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome AI Testing (⭐95)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
+*   [Awesome AI Testing (⭐126)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [nika (⭐76)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐89)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 
@@ -214,7 +230,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [tapflow (⭐613)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+*   [tapflow (⭐805)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 
 ## [Jun 07, 2026](/content/2026/06/07/README.md)
 
@@ -226,7 +242,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [Jumpstarter (⭐218)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐223)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
@@ -336,7 +352,7 @@ A curated list of testing resources
 
 ### Blogs / A/B Testing
 
-*   [And others (⭐117)](https://github.com/ChristoWolf/awesome-testing-blogs)
+*   [And others (⭐119)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
@@ -348,19 +364,19 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Webhook Debugger (⭐13)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+*   [Webhook Debugger (⭐14)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐36)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐35)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [voicetest (⭐34)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [voicetest (⭐35)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -368,7 +384,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [flutter-skill (⭐372)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐383)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / A/B Testing
@@ -433,11 +449,11 @@ A curated list of testing resources
 ### Software / API Testing
 
 *   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
-*   [Swagger Coverage Tool (⭐26)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+*   [Swagger Coverage Tool (⭐27)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
 
-*   [UI Coverage Tool (⭐9)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+*   [UI Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
 ### Software / Performance & Load Testing
 
@@ -485,7 +501,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐776)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐794)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -552,7 +568,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐508)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
@@ -643,7 +659,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+*   [QA Wolf (⭐3.5k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 
 ### Software / Test Management
 

@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Oct 01, 2026](/content/2026/10/01/README.md)
+
+### Python
+
+*   [mindshub (⭐40k)](https://github.com/mindsdb/mindshub) *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### C++
@@ -41,7 +47,6 @@ A list of awesome beginners-friendly projects.
 
 *   [django cookiecutter (⭐14k)](https://github.com/cookiecutter/cookiecutter-django) *(label: hacktoberfest)* <br> An implementation of Python for backend web development.
 *   [FastAPI (⭐103k)](https://github.com/fastapi/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
-*   [MindsDB (⭐40k)](https://github.com/mindsdb/minds) *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
 
 ### Rust
 

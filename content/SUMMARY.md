@@ -2145,6 +2145,8 @@
       - [overview](/content/Scottcjn/awesome-agents/readme/README.md)
 - [Days](daily/README.md)
   - [2026](2026/month/README.md)
+    - [10](2026/10/day/README.md)
+      - [Oct 01, 2026](2026/10/01/README.md)
     - [9](2026/9/day/README.md)
       - [Sep 30, 2026](2026/09/30/README.md)
       - [Sep 29, 2026](2026/09/29/README.md)

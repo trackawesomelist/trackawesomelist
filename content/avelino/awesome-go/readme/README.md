@@ -247,7 +247,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [keen-code (⭐69)](https://github.com/mochow13/keen-code) - A context-efficient terminal-based AI coding agent. Provider agnostic, supports MCPs, Agent Skills, Subagents, and more. Comes with a simple and straightforward TUI.
 *   [langchaingo (⭐9.7k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 *   [langgraphgo (⭐305)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
-*   [llm-box (⭐14)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [LocalAI (⭐49k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [localaik (⭐16)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 *   [mcp-go (⭐9.2k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
@@ -932,6 +932,7 @@ additional ordered map implementations.
 *   [bqb (⭐194)](https://github.com/nullism/bqb) - Lightweight and easy to learn query builder.
 *   [buildsqlx (⭐188)](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL.
 *   [builq (⭐98)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [dba (⭐2)](https://github.com/kran/dba) - SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.
 *   [dbq (⭐416)](https://github.com/rocketlaunchr/dbq) - Zero boilerplate database operations for Go.
 *   [Dotsql (⭐739)](https://github.com/gchaincl/dotsql) - Go library that helps you keep sql files in one place and use them with ease.
 *   [gendry (⭐1.6k)](https://github.com/didi/gendry) - Non-invasive SQL builder and powerful data binder.
@@ -2003,7 +2004,7 @@ additional ordered map implementations.
 ***Unofficial** set of patterns for structuring projects.*
 
 *   [ardanlabs/service (⭐4.1k)](https://github.com/ardanlabs/service) - A [starter kit (⭐4.1k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
-*   [cookiecutter-golang (⭐737)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+*   [cookiecutter-golang (⭐736)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-blueprint (⭐9k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
 *   [go-ddd (⭐812)](https://github.com/sklinkert/go-ddd) - Domain-Driven Design template with CQRS, value objects, idempotent commands, and a transactional outbox.
 *   [go-grpc-bazel-example (⭐2)](https://github.com/esurdam/go-grpc-bazel-example) - Example monorepo for Go gRPC microservices with Bazel, grpc-gateway, OpenAPI, and Kubernetes.
@@ -3304,7 +3305,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 <!---->
 
 *   [mp4ff (⭐658)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
-*   [mpeg-ts-analyzer (⭐36)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+*   [mpeg-ts-analyzer (⭐37)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
 *   [v4l (⭐89)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
 **[⬆ back to top](#contents)**
