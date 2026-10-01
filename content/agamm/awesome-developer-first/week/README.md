@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Monitoring
+
+*   [Phare](https://phare.io) - Uptime monitoring, incident management and status pages. REST API, first-party Terraform support, and plenty of integrations.
+
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
 ### Mail
@@ -156,7 +162,7 @@ A curated list of awesome developer-first tools products.
 *   [Amazon Q](https://aws.amazon.com/q/developer/) - Amazon’s AI assistant.
 *   [Cline](https://cline.bot/) - Open-source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/cline/cline)
 *   [CodeParrot](https://codeparrot.ai/) - Frontend component AI assistant for VS Code.
-*   [CodeSquire](https://codesquire.ai) - Browser extension for AI generation in Jupyter/BigQuery etc…
+*   [CodeSquire](https://codesquire.ai) - Browser extension for AI generation in Jupyter/BigQuery etc.
 *   [Cody](https://sourcegraph.com/cody) - Sourcegraph’s coding assistant.
 *   [Continue](https://www.continue.dev/) - AI coding assistant for VS Code and JetBrains.
 *   [Cursor](https://www.cursor.com/) - A VS Code fork built from the ground up with AI.
@@ -233,7 +239,7 @@ A curated list of awesome developer-first tools products.
 
 ### Mail
 
-*   [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access for automation and QA.
+*   [Zyntra](https://zyntra.app/) - Unlimited e-mail inboxes with API/UI access for automation and QA.
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
@@ -259,7 +265,7 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC), SCIM provisioning to your existing auth setup like Firebase, Auth0, or Cognito without rewrites. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2025#06)
+*   [Scalekit](https://scalekit.com) - Add enterprise SSO (SAML, OIDC), SCIM provisioning to your existing auth setup like Firebase, Auth0, or Cognito without rewrites. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2025#06)
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
@@ -309,8 +315,7 @@ A curated list of awesome developer-first tools products.
 
 ### Deployment Hosting
 
-*   [Reflex](https://reflex.dev/) - Python framework to build and deploy
-    web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/reflex-dev/reflex)
+*   [Reflex](https://reflex.dev/) - Python framework to build and deploy web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/reflex-dev/reflex)
 
 ### Localization
 
@@ -495,7 +500,7 @@ A curated list of awesome developer-first tools products.
 
 ### Automation
 
-*   [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
+*   [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -890,7 +895,7 @@ A curated list of awesome developer-first tools products.
 
 ### Orchestration
 
-*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
+*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 

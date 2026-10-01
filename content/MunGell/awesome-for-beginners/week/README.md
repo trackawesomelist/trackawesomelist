@@ -12,15 +12,9 @@ A list of awesome beginners-friendly projects.
 
 *   [MoveIt (⭐2.1k)](https://github.com/moveit/moveit) *(label: good first issue)* <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 
-### Go
-
-*   [Dragonfly (⭐3.3k)](https://github.com/dragonflyoss/dragonfly) *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
-*   [Helm (⭐30k)](https://github.com/helm/helm) *(label: good first issue)* <br> The Kubernetes Package Manager
-*   [Incus (⭐6.2k)](https://github.com/lxc/incus) *(label: easy)* <br> System container and virtual machine manager.
-*   [Meshery (⭐12k)](https://github.com/meshery/meshery) *(label: good first issue)* <br> Meshery, the service mesh management plane.
-
 ### JavaScript
 
+*   [Posnic (⭐5)](https://github.com/Posnic/POS) *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
 *   [altair (⭐5.4k)](https://github.com/altair-graphql/altair) *(label: good first issue)* <br> A beautiful feature-rich GraphQL Client for all platforms.
 *   [Create React App (⭐103k)](https://github.com/react/create-react-app) *(label: good first issue)* <br> Create React apps with no build configuration.
 *   [Decap CMS (⭐19k)](https://github.com/decaporg/decap-cms) *(label: good first issue)* <br> Open source content management for your git workflow.
@@ -32,6 +26,25 @@ A list of awesome beginners-friendly projects.
 *   [React Native (⭐127k)](https://github.com/react/react-native) *(label: Good-first-issue)* <br> A framework for building native apps with React.
 *   [stryker (⭐3.2k)](https://github.com/stryker-mutator/stryker-js) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
 *   [WarpDrive (⭐3.2k)](https://github.com/warp-drive-data/warp-drive) *(label: Good-for-New-Contributors)* <br> A data persistence library for Ember.js.
+
+### Go
+
+*   [Dragonfly (⭐3.3k)](https://github.com/dragonflyoss/dragonfly) *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
+*   [Helm (⭐30k)](https://github.com/helm/helm) *(label: good first issue)* <br> The Kubernetes Package Manager
+*   [Incus (⭐6.2k)](https://github.com/lxc/incus) *(label: easy)* <br> System container and virtual machine manager.
+*   [Meshery (⭐12k)](https://github.com/meshery/meshery) *(label: good first issue)* <br> Meshery, the service mesh management plane.
+
+### Java
+
+*   [Checkstyle (⭐9.6k)](https://github.com/checkstyle/checkstyle) *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
+*   [Hiero SDK Java (⭐264)](https://github.com/hiero-ledger/hiero-sdk-java) *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
+
+### TypeScript
+
+*   [DevShelf (⭐5)](https://github.com/RitualDev-Lab/DevShelf) *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+*   [OffPDF (⭐27)](https://github.com/McanKul/offpdf) *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
+*   [reatom (⭐1.4k)](https://github.com/reatom/reatom) *(label: good first issue)* <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+*   [tinyhttp (⭐2.9k)](https://github.com/tinyhttp/tinyhttp) *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 
 ### PHP
 
@@ -48,11 +61,6 @@ A list of awesome beginners-friendly projects.
 *   [Ockam (⭐4.6k)](https://github.com/build-trust/ockam) *(label: good first issue)* <br> End-to-end encryption and mutual authentication for distributed applications.
 *   [Rustfmt (⭐7k)](https://github.com/rust-lang/rustfmt) *(label: good first issue)* <br> A tool for formatting Rust code according to style guidelines.
 *   [videocall-rs (⭐1.8k)](https://github.com/security-union/videocall-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
-
-### TypeScript
-
-*   [reatom (⭐1.4k)](https://github.com/reatom/reatom) *(label: good first issue)* <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
-*   [tinyhttp (⭐2.9k)](https://github.com/tinyhttp/tinyhttp) *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -358,9 +366,15 @@ A list of awesome beginners-friendly projects.
 *   [Wikimedia Commons Android App (⭐1.2k)](https://github.com/commons-app/apps-android-commons) *(label: good first issue)* <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 *   [zerocode (⭐1k)](https://github.com/authorjapps/zerocode) *(label: good first issue)* <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 
-### Typescript
+### TypeScript
 
 *   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
+*   [Amplication (⭐16k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+*   [Booster (⭐447)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+*   [LitmusChaos (⭐5.6k)](https://github.com/litmuschaos/litmus) *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
+*   [TypeScript (⭐111k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
+*   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
+*   [Visual Studio Code (⭐193k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 ### Kotlin
 
@@ -425,7 +439,6 @@ A list of awesome beginners-friendly projects.
 *   [chef (⭐8.2k)](https://github.com/chef/chef) *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 *   [Hanami (⭐6.4k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.9k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
-*   [mapknitter (⭐274)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 *   [ohai (⭐690)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐1.1k)](https://github.com/openSUSE/open-build-service) *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
 *   [osem (⭐927)](https://github.com/openSUSE/osem) *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
@@ -443,17 +456,7 @@ A list of awesome beginners-friendly projects.
 ### Scala
 
 *   [playframework (⭐13k)](https://github.com/playframework/playframework) *(label: good first issue)* <br> The High Velocity Web Framework
-*   [Twitter Util (⭐2.7k)](https://github.com/twitter/util) *(label: good first issue)* <br> Wonderful reusable code from Twitter
 
 ### Smalltalk
 
 *   [Pharo (⭐1.5k)](https://github.com/pharo-project/pharo) *(label: good first issue)* <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
-
-### TypeScript
-
-*   [Amplication (⭐16k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-*   [Booster (⭐447)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
-*   [LitmusChaos (⭐5.6k)](https://github.com/litmuschaos/litmus) *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
-*   [TypeScript (⭐111k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
-*   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-*   [Visual Studio Code (⭐193k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.

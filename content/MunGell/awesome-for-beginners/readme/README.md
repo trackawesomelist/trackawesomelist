@@ -31,22 +31,22 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Table of Contents:
 
-|      | Languages                                                                                           |
-| ---- | --------------------------------------------------------------------------------------------------- |
-| Misc | [.NET](#net)                                                                                        |
-| A    | [Angular](#angular), [Ansible](#ansible)                                                            |
-| C    | [C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)                                  |
-| D    | [Dart](#dart)                                                                                       |
-| E    | [Elixir](#elixir), [Elm](#elm)                                                                      |
-| G    | [Go](#go)                                                                                           |
-| H    | [Haskell](#haskell)                                                                                 |
-| J    | [Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia) |
-| K    | [Kotlin](#kotlin)                                                                                   |
-| M    | [Markdown](#markdown)                                                                               |
-| P    | [Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)                                          |
-| R    | [Ruby](#ruby), [Rust](#rust)                                                                        |
-| S    | [Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)                                           |
-| T    | [TypeScript](#typescript), [Typescript](#typescript)                                                |
+|      | Languages                                                                |
+| ---- | ------------------------------------------------------------------------ |
+| Misc | [.NET](#net)                                                             |
+| A    | [Angular](#angular), [Ansible](#ansible)                                 |
+| C    | [C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)       |
+| D    | [Dart](#dart)                                                            |
+| E    | [Electron](#electron), [Elixir](#elixir), [Elm](#elm)                    |
+| G    | [Go](#go)                                                                |
+| H    | [Haskell](#haskell)                                                      |
+| J    | [Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia) |
+| K    | [Kotlin](#kotlin)                                                        |
+| M    | [Markdown](#markdown)                                                    |
+| P    | [Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)               |
+| R    | [Ruby](#ruby), [Rust](#rust)                                             |
+| S    | [Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)                |
+| T    | [TypeScript](#typescript)                                                |
 
 ## .NET
 
@@ -101,6 +101,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [flutter (⭐179k)](https://github.com/flutter/flutter) *(label: good first issue)* <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 *   [OpenFoodFacts (⭐1.4k)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
+## Electron
+
+*   [Posnic (⭐5)](https://github.com/Posnic/POS) *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
+
 ## Elixir
 
 *   [Ecto (⭐6.5k)](https://github.com/elixir-ecto/ecto) *(label: Level:Starter)* <br> Ecto is a database wrapper and language integrated query for Elixir
@@ -138,9 +142,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Java
 
 *   [Catima - Android App (⭐1.7k)](https://github.com/CatimaLoyalty/Android) *(label: good first issue)* <br> Catima, a Loyalty Card & Ticket Manager for Android
+*   [Checkstyle (⭐9.6k)](https://github.com/checkstyle/checkstyle) *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
 *   [Codename One (⭐1.9k)](https://github.com/codenameone/CodenameOne) *(label: good first issue)* <br> Cross-platform mobile app development framework for Java developers
 *   [DSA (⭐143)](https://github.com/abhishektripathi66/DSA) *(label: good first issue)* <br> DSA questions practising repo for Java developers
 *   [elasticsearch (⭐78k)](https://github.com/elastic/elasticsearch) *(label: good first issue)* <br> Open Source, Distributed, RESTful Search Engine.
+*   [Hiero SDK Java (⭐264)](https://github.com/hiero-ledger/hiero-sdk-java) *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
 *   [JabRef (⭐4.8k)](https://github.com/JabRef/jabref) *(label: good first issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 *   [OpenMetadata (⭐15k)](https://github.com/open-metadata/OpenMetadata) *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 *   [QuestDB (⭐17k)](https://github.com/questdb/questdb) *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
@@ -154,6 +160,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 *   [altair (⭐5.4k)](https://github.com/altair-graphql/altair) *(label: good first issue)* <br> A beautiful feature-rich GraphQL Client for all platforms.
 *   [Ancient Beast (⭐1.9k)](https://github.com/FreezingMoon/AncientBeast) *(label: easy)* <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+*   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
 *   [Babel (⭐44k)](https://github.com/babel/babel) *(label: good first issue)* <br> A compiler for writing next generation JavaScript.
 *   [Berry - Active development trunk for Yarn (⭐8.1k)](https://github.com/yarnpkg/berry) *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
 *   [Botpress (⭐15k)](https://github.com/botpress/botpress) *(label: contributor-friendly)* <br> The only sane way to build great bots.
@@ -162,6 +169,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Create React App (⭐103k)](https://github.com/react/create-react-app) *(label: good first issue)* <br> Create React apps with no build configuration.
 *   [cypress (⭐51k)](https://github.com/cypress-io/cypress) *(label: good first issue)* <br> Fast, easy and reliable testing for anything that runs in a browser.
 *   [Decap CMS (⭐19k)](https://github.com/decaporg/decap-cms) *(label: good first issue)* <br> Open source content management for your git workflow.
+*   [DevShelf (⭐5)](https://github.com/RitualDev-Lab/DevShelf) *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 *   [electron (⭐123k)](https://github.com/electron/electron) *(label: good first issue)* <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 *   [Ember.js (⭐23k)](https://github.com/emberjs/ember.js) *(label: Good-for-New-Contributors)* <br> A JavaScript framework for creating ambitious web applications.
 *   [ESLint (⭐28k)](https://github.com/eslint/eslint) *(label: good first issue)* <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
@@ -193,6 +201,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [nuclear (⭐19k)](https://github.com/nukeop/nuclear) *(label: good first issue)* <br> Multiplatform music player that streams from free sources.
 *   [p5.js (⭐24k)](https://github.com/processing/p5.js) *(label: good first issue)* <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 *   [pixi.js (⭐48k)](https://github.com/pixijs/pixijs) *(label: 🤩 Good First PR)* <br> A 2D JavaScript Renderer
+*   [Posnic (⭐5)](https://github.com/Posnic/POS) *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
 *   [PouchDB (⭐18k)](https://github.com/apache/pouchdb) *(label: help-wanted)* <br> PouchDB is a pocket-sized database.
 *   [ramda-adjunct (⭐687)](https://github.com/char0n/ramda-adjunct) *(label: help-wanted)* <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 *   [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) *(label: difficulty::easy)* <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
@@ -216,10 +225,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [VuePress (⭐23k)](https://github.com/vuejs/vuepress) *(label: good first issue)* <br> Minimalistic Vue-powered static site generator
 *   [WarpDrive (⭐3.2k)](https://github.com/warp-drive-data/warp-drive) *(label: Good-for-New-Contributors)* <br> A data persistence library for Ember.js.
 *   [webdriver.io (⭐9.8k)](https://github.com/webdriverio/webdriverio) *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
-
-## Javascript
-
-*   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
 
 ## JSON
 
@@ -317,7 +322,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [chef (⭐8.2k)](https://github.com/chef/chef) *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 *   [Hanami (⭐6.4k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.9k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
-*   [mapknitter (⭐274)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 *   [multiwoven (⭐1.7k)](https://github.com/Multiwoven/multiwoven) *(label: good first issue)* <br> The open-source reverse ETL, data activation platform for modern data teams.
 *   [ohai (⭐690)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐1.1k)](https://github.com/openSUSE/open-build-service) *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
@@ -330,6 +334,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Hyper (⭐16k)](https://github.com/hyperium/hyper) *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
 *   [nushell (⭐41k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
 *   [Ockam (⭐4.6k)](https://github.com/build-trust/ockam) *(label: good first issue)* <br> End-to-end encryption and mutual authentication for distributed applications.
+*   [OffPDF (⭐27)](https://github.com/McanKul/offpdf) *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 *   [Pyrefly (⭐7k)](https://github.com/facebook/pyrefly) *(label: good first issue)* <br> A fast Python typechecker and IDE written in Rust.
 *   [Readest (⭐25k)](https://github.com/readest/readest) *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 *   [Rust-Clippy (⭐14k)](https://github.com/rust-lang/rust-clippy) *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
@@ -343,7 +348,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Scala
 
 *   [playframework (⭐13k)](https://github.com/playframework/playframework) *(label: good first issue)* <br> The High Velocity Web Framework
-*   [Twitter Util (⭐2.7k)](https://github.com/twitter/util) *(label: good first issue)* <br> Wonderful reusable code from Twitter
 
 ## Smalltalk
 
@@ -357,9 +361,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 *   [activist (⭐748)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 *   [Amplication (⭐16k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+*   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
 *   [Berry - Active development trunk for Yarn (⭐8.1k)](https://github.com/yarnpkg/berry) *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
 *   [Booster (⭐447)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 *   [Devopness (⭐563)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+*   [DevShelf (⭐5)](https://github.com/RitualDev-Lab/DevShelf) *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 *   [DocsGPT (⭐18k)](https://github.com/arc53/DocsGPT) *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 *   [H2O Wave (⭐4.3k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Hasura GraphQL Engine (⭐32k)](https://github.com/hasura/graphql-engine) *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -369,6 +375,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [LitmusChaos (⭐5.6k)](https://github.com/litmuschaos/litmus) *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
 *   [Manifest (⭐7.5k)](https://github.com/mnfst/manifest) *(label: good first issue)* <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
 *   [Metabase (⭐49k)](https://github.com/metabase/metabase) *(label: good first issue)* <br> Open source business intelligence and analytics platform
+*   [OffPDF (⭐27)](https://github.com/McanKul/offpdf) *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 *   [OpenMetadata (⭐15k)](https://github.com/open-metadata/OpenMetadata) *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 *   [Oppia (⭐6.8k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 *   [Readest (⭐25k)](https://github.com/readest/readest) *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
@@ -382,10 +389,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Visual Studio Code (⭐193k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 *   [Vite (⭐83k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 *   [Vitest (⭐17k)](https://github.com/vitest-dev/vitest) *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
-
-## Typescript
-
-*   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
 
 ## Contribute
 

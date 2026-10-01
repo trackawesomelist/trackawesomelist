@@ -2,9 +2,15 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.2K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.3K · 🏷️ Media
 
 [ [Daily](/content/Siilwyn/awesome-pixel-art/README.md) / Weekly / [Overview](/content/Siilwyn/awesome-pixel-art/readme/README.md) ]
+
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Tools / Editors
+
+*   [Tessarium](https://joelj.itch.io/tessarium) - Free with paid upgrade, works on Linux, macOS, Windows and in the browser. Tile-first level editor where editing a tile updates every placement.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 

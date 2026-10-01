@@ -8,6 +8,20 @@ A list of awesome beginners-friendly projects.
 
 ## [Oct 01, 2026](/content/2026/10/01/README.md)
 
+### JavaScript
+
+*   [Posnic (⭐5)](https://github.com/Posnic/POS) *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
+
+### Java
+
+*   [Checkstyle (⭐9.6k)](https://github.com/checkstyle/checkstyle) *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
+*   [Hiero SDK Java (⭐264)](https://github.com/hiero-ledger/hiero-sdk-java) *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
+
+### TypeScript
+
+*   [DevShelf (⭐5)](https://github.com/RitualDev-Lab/DevShelf) *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+*   [OffPDF (⭐27)](https://github.com/McanKul/offpdf) *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
+
 ### Python
 
 *   [mindshub (⭐40k)](https://github.com/mindsdb/mindshub) *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
@@ -388,9 +402,15 @@ A list of awesome beginners-friendly projects.
 *   [Wikimedia Commons Android App (⭐1.2k)](https://github.com/commons-app/apps-android-commons) *(label: good first issue)* <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 *   [zerocode (⭐1k)](https://github.com/authorjapps/zerocode) *(label: good first issue)* <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 
-### Typescript
+### TypeScript
 
 *   [appsmith (⭐41k)](https://github.com/appsmithorg/appsmith) *(label: good first issue)* <br> Drag & Drop internal tool builder
+*   [Amplication (⭐16k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+*   [Booster (⭐447)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+*   [LitmusChaos (⭐5.6k)](https://github.com/litmuschaos/litmus) *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
+*   [TypeScript (⭐111k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
+*   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
+*   [Visual Studio Code (⭐193k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 ### Kotlin
 
@@ -454,7 +474,6 @@ A list of awesome beginners-friendly projects.
 *   [chef (⭐8.2k)](https://github.com/chef/chef) *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 *   [Hanami (⭐6.4k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.9k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
-*   [mapknitter (⭐274)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 *   [ohai (⭐690)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐1.1k)](https://github.com/openSUSE/open-build-service) *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
 *   [osem (⭐927)](https://github.com/openSUSE/osem) *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
@@ -472,17 +491,7 @@ A list of awesome beginners-friendly projects.
 ### Scala
 
 *   [playframework (⭐13k)](https://github.com/playframework/playframework) *(label: good first issue)* <br> The High Velocity Web Framework
-*   [Twitter Util (⭐2.7k)](https://github.com/twitter/util) *(label: good first issue)* <br> Wonderful reusable code from Twitter
 
 ### Smalltalk
 
 *   [Pharo (⭐1.5k)](https://github.com/pharo-project/pharo) *(label: good first issue)* <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
-
-### TypeScript
-
-*   [Amplication (⭐16k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-*   [Booster (⭐447)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
-*   [LitmusChaos (⭐5.6k)](https://github.com/litmuschaos/litmus) *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
-*   [TypeScript (⭐111k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
-*   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-*   [Visual Studio Code (⭐193k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.

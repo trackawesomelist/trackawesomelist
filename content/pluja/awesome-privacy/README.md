@@ -6,6 +6,16 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Oct 01, 2026](/content/2026/10/01/README.md)
+
+### PC / MacOS
+
+*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10 or 11, you can use [Win11Debloat (⭐58k)](https://github.com/Raphire/Win11Debloat), or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+
+### Decentralized
+
+*   [Nostr](https://nostr.com/) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### Analytics
@@ -676,10 +686,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
-### PC / MacOS
-
-*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10, you can use [this tool (⭐3.7k)](https://github.com/builtbybel/privatezilla), or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
-
 ### Desktop / Alternative clients/modifications of Discord:
 
 *   [Ungoogled Chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.
@@ -725,12 +731,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Self-hosted
 
 *   [Memos (⭐63k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
-
-## [Dec 16, 2022](/content/2022/12/16/README.md)
-
-### Decentralized
-
-*   [Nostr (⭐12k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
 
 ## [Nov 24, 2022](/content/2022/11/24/README.md)
 
@@ -1092,7 +1092,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Imgur
 
-*   [Imgin](https://git.voidnet.tech/kev/imgin) - A minimalist, tor-friendly, read-only Imgur proxy insipired by software like Invidious, Nitter, and Bibliogram.
 *   [rimgo](https://codeberg.org/video-prize-ranch/rimgo#instances) - An alternative frontend for Imgur. Read-only, no-js, Based on rimgu and rewritten in Go.
 
 ## [Mar 07, 2022](/content/2022/03/07/README.md)

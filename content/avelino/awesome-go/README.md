@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [dba (⭐2)](https://github.com/kran/dba) - SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.
 
+### Networking
+
+*   [expose (⭐9)](https://github.com/kernelshard/expose) - Lightweight, open-source secure tunneling tool to expose local servers to the internet.
+
 ## [Sep 29, 2026](/content/2026/09/29/README.md)
 
 ### Artificial Intelligence
@@ -91,7 +95,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [grim (⭐0)](https://github.com/ijin82/grim) - Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.
+*   [grim (⭐1)](https://github.com/ijin82/grim) - Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.
 
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
@@ -228,7 +232,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Trees
 
-*   [skiplist (⭐428)](https://github.com/huandu/skiplist) - Fast and easy-to-use skip list for Go.
+*   [skiplist (⭐429)](https://github.com/huandu/skiplist) - Fast and easy-to-use skip list for Go.
 
 ### Logging
 

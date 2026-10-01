@@ -1,12 +1,108 @@
 # Awesome List Updates on Oct 01, 2026
 
-4 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### PC / MacOS
+
+*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10 or 11, you can use [Win11Debloat (⭐58k)](https://github.com/Raphire/Win11Debloat), or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+
+### Decentralized
+
+*   [Nostr](https://nostr.com/) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### Compression
+
+*   [rubyzip (⭐1.4k)](https://github.com/rubyzip/rubyzip) - A Ruby library for reading and writing zip files.
+
+### HTML/XML Parsing
+
+*   [Loofah (⭐1k)](https://github.com/flavorjones/loofah) - A general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri, with built-in HTML sanitizers.
+
+### Optimizations
+
+*   [Oj (⭐3.2k)](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller.
+
+### PDF
+
+*   [typst (⭐42)](https://github.com/actsasflinn/typst-rb) - Ruby binding to Typst, a markup-based typesetting system, to compile documents to PDF, SVG, PNG or HTML.
+
+### Spreadsheets and Documents
+
+*   [fast\_excel (⭐362)](https://github.com/Paxa/fast_excel) - Ultra fast Excel (xlsx) writer for Ruby, a wrapper for libxlsxwriter using FFI.
+
+## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+### Tools
+
+*   [sbc.compare](https://sbc.compare/raspberry-pi) - Benchmarks, specs and prices for 20+ Raspberry Pi models, from the Zero to the Pi 5 in every RAM size, all tested in-house with the same methodology, with side-by-side comparisons.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Design and Product / Design Tools
+
+*   [Screen Loupe](https://ayenora.github.io/screen-loupe/) - Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ayenora/screen-loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [OpenWA](https://www.open-wa.org) `⚠` - WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers). ([Source Code (⭐15k)](https://github.com/rmyndharis/OpenWA), [Clients (⭐58)](https://github.com/rmyndharis/OpenWA-plugins)) `MIT` `Docker`
+
+## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+
+### Tools / Editors
+
+*   [Tessarium](https://joelj.itch.io/tessarium) - Free with paid upgrade, works on Linux, macOS, Windows and in the browser. Tile-first level editor where editing a tile updates every placement.
+
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### Swift / Svelte
+
+*   [The iOS Weekly Brief](https://iosweeklybrief.com/). A weekly, hand-curated filter of the best iOS and Swift links for experienced engineers, each with the author's own comment on why it matters.
+
+### Open Source / Svelte
+
+*   [Nossletter](https://nossletter.tech/). A free daily newsletter breaking down the best merged PRs in open source.
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [Siteefy Newsletter](https://newsletter.siteefy.com/). AI and technology updates for people who build things.
+
+### Miscellaneous / Svelte
+
+*   [Mr. Jay's Language Learning Tips](https://mrjkorea.github.io/wait-for-languages/). A free weekly newsletter with one practical language-learning tip for learners, teachers, and parents, written by an English teacher in Korea.
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Scrolling / Scrollbar
+
+*   [mihovilrak/scroll.nvim (⭐17)](https://github.com/mihovilrak/scroll.nvim) - Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.
+
+### Pre-made Configuration / Stats Tracking
+
+*   [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
+
+## [9. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+
+### Hosting and media
+
+*   [Serveronet](https://serveronet.org/) is a P2P Network of Websites. You can deploy decentralized websites which behave like classic Internet Sites. It's Free and Open source. You can use it on your own PC as a client or deploy on a public hosting server. Serveronet is a Cryptographic Peer 2 Peer Network of Sites.
+
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Monitoring
+
+*   [Phare](https://phare.io) - Uptime monitoring, incident management and status pages. REST API, first-party Terraform support, and plenty of integrations.
+
+## [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Security Testing
 
@@ -22,13 +118,17 @@
 
 *   [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### SQL Query Builders
 
 *   [dba (⭐2)](https://github.com/kran/dba) - SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+### Networking
+
+*   [expose (⭐9)](https://github.com/kernelshard/expose) - Lightweight, open-source secure tunneling tool to expose local servers to the internet.
+
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -104,7 +204,21 @@
 
 *   [YAML (⭐505) (⭐505)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [14. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+
+### JavaScript
+
+*   [Posnic (⭐5)](https://github.com/Posnic/POS) *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
+
+### Java
+
+*   [Checkstyle (⭐9.6k)](https://github.com/checkstyle/checkstyle) *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
+*   [Hiero SDK Java (⭐264)](https://github.com/hiero-ledger/hiero-sdk-java) *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
+
+### TypeScript
+
+*   [DevShelf (⭐5)](https://github.com/RitualDev-Lab/DevShelf) *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+*   [OffPDF (⭐27)](https://github.com/McanKul/offpdf) *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 
 ### Python
 

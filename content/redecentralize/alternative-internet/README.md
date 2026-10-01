@@ -6,6 +6,12 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 [ Daily / [Weekly](/content/redecentralize/alternative-internet/week/README.md) / [Overview](/content/redecentralize/alternative-internet/readme/README.md) ]
 
+## [Oct 01, 2026](/content/2026/10/01/README.md)
+
+### Hosting and media
+
+*   [Serveronet](https://serveronet.org/) is a P2P Network of Websites. You can deploy decentralized websites which behave like classic Internet Sites. It's Free and Open source. You can use it on your own PC as a client or deploy on a public hosting server. Serveronet is a Cryptographic Peer 2 Peer Network of Sites.
+
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
 ### Messaging
@@ -22,7 +28,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Social Networks
 
-*   [WarpNet (⭐152)](https://github.com/Warp-net/warpnet) WarpNet is a MVP of decentralized, peer-to-peer social network inspired by Twitter, built with Go and Vue. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source. GNU GPL licensed.
+*   [WarpNet (⭐157)](https://github.com/Warp-net/warpnet) WarpNet is a MVP of decentralized, peer-to-peer social network inspired by Twitter, built with Go and Vue. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source. GNU GPL licensed.
 
 ## [Sep 17, 2024](/content/2024/09/17/README.md)
 
@@ -91,7 +97,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Developer tools and frameworks
 
-*   [DB3 Network (⭐385)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+*   [DB3 Network (⭐386)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 
 ## [Nov 18, 2022](/content/2022/11/18/README.md)
 
@@ -187,7 +193,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Dead
 
-*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐482)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
+*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐481)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
 ## [Dec 14, 2021](/content/2021/12/14/README.md)
 
@@ -250,7 +256,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Hosting and media
 
-*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐1.5k)](https://github.com/kr1sp1n/awesome-gemini)
+*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐1.6k)](https://github.com/kr1sp1n/awesome-gemini)
 
 ## [Mar 29, 2021](/content/2021/03/29/README.md)
 
@@ -345,8 +351,8 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 *   The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
 *   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
 *   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
-*   [Bitmarkets (⭐111)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
-*   [P (⭐407)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [Bitmarkets (⭐110)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
+*   [P (⭐406)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
 *   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
 *   [OTRTalk (⭐51)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 *   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
@@ -409,7 +415,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Uncategorised
 
-*   [git-dit (⭐463)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
+*   [git-dit (⭐464)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
 ## [Dec 13, 2019](/content/2019/12/13/README.md)
 
@@ -420,7 +426,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Dead
 
-*   [CloudBank (⭐30)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
+*   [CloudBank (⭐29)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
 
 ## [Nov 04, 2019](/content/2019/11/04/README.md)
 
@@ -526,7 +532,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Messaging
 
-*   [aenigma (⭐168)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
+*   [aenigma (⭐169)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
 ## [Nov 11, 2018](/content/2018/11/11/README.md)
@@ -672,7 +678,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 *   [gitsync (⭐53)](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
 *   [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 *   [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
-*   [qaul.net (⭐725)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+*   [qaul.net (⭐729)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
