@@ -870,9 +870,9 @@ additional ordered map implementations.
 
 ### Database Schema Migration
 
-*   [atlas (⭐8.7k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐8.8k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐49)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
-*   [bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐15k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐150)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [db-migrator.go (⭐22)](https://github.com/raoptimus/db-migrator.go) - CLI for versioned database schema migrations with support for PostgreSQL, MySQL, ClickHouse, Tarantool, and Apache Iceberg.
 *   [dbmate (⭐7.4k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
@@ -1376,6 +1376,7 @@ additional ordered map implementations.
 *Awesome game development libraries.*
 
 *   [Ark (⭐300)](https://github.com/mlange-42/ark) - Archetype-based Entity Component System (ECS) for Go.
+*   [due (⭐964)](https://github.com/dobyte/due) - Distributed game server framework with a modular component design, providing tcp, kcp, ws and quic gateways.
 *   [Ebitengine (⭐14k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 *   [ecs (⭐176)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 *   [engo (⭐1.8k)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
@@ -2504,6 +2505,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [certificates (⭐38)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
 *   [CertMagic (⭐5.6k)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 *   [Coraza (⭐3.8k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [coraza-rule-validator (⭐0)](https://github.com/stardothosting/coraza-rule-validator) - Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment.
 *   [Crenox (⭐27)](https://github.com/crenoxhq/crenox) - Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.
 *   [deidentify (⭐40)](https://github.com/aliengiraffe/deidentify) - Deterministic, format-preserving removal of personally identifiable information from text and structured data.
 *   [dongle (⭐1.1k)](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding\&decoding and encryption\&decryption.
@@ -3264,6 +3266,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Validator (⭐7)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 *   [valix (⭐32)](https://github.com/marrow16/valix) Go package for validating requests
 *   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+*   [vx (⭐0)](https://github.com/sevlyar/vx) - Validation built from small, composable checks with zero dependencies and a reconstructable error path.
     **[⬆ back to top](#contents)**
 
 ## Version Control

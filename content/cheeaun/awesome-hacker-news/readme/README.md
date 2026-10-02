@@ -65,6 +65,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker News Books](https://hackernewsbooks.com/)
 *   [Hacker News Daily](http://www.daemonology.net/hn-daily/)
 *   [Hacker News in Chinese](https://hn.buzzing.cc/)
+*   [HN Top10](https://news.archerlab.dev) – Daily top 10 Hacker News stories translated and summarized in Korean
 *   [Hacker News Rankings](http://hnrankings.info/)
 *   [Hacker News Reader PWA App](https://app.hn-reader.com)
 *   [Hacker News Summary](https://hackernews.betacat.io/)
@@ -185,7 +186,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Haiker](https://haiker.app)
 *   [HNReader (⭐195)](https://github.com/mattrighetti/HNReaderApp)
-*   [touchHNews (⭐193)](https://github.com/mrmekon/toucHNews)
+*   [touchHNews (⭐192)](https://github.com/mrmekon/toucHNews)
 
 ### Linux
 
@@ -196,7 +197,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 *   [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
-*   [Gem for Hacker News (⭐86)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐88)](https://github.com/Livinglist/Gem)
 *   [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 *   [Hack Later](http://brushedtype.co/apps/hack-later/)
 *   [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
@@ -214,7 +215,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
 *   [HackerFlow](https://hackerflow.app)
 *   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
@@ -245,7 +246,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Emacs
 
 *   [Gnus Backend (⭐66)](https://github.com/dickmao/nnhackernews)
-*   [Hacker News Emacs Client (⭐260)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐261)](https://github.com/clarete/hackernews.el)
 
 ### Command Line
 

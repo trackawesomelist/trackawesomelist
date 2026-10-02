@@ -12,6 +12,10 @@
 
 *   [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/emilwagman/amber-notes) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Developer Tools / Developer Utilities
+
+*   [Runner (⭐172)](https://github.com/yicheng47/runner) - Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yicheng47/runner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / Audio Record and Process
 
 *   [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Digisensus/digisensus-recorder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -106,7 +110,7 @@
 
 ### Input Methods / Audio Record and Process
 
-*   [vChewing 唯音 (⭐598)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [vChewing 唯音 (⭐631)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 

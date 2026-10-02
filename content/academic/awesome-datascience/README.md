@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [US Provider Industry Payments (⭐0)](https://github.com/npiwho/us-provider-payments) - 1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.
+*   [US Tariff Data (⭐0)](https://github.com/checkdutyrates/us-tariff-data) - The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### Tools
@@ -1459,7 +1466,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐33k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐34k)](https://github.com/lutzroeder/netron)
 
 ## [Nov 23, 2021](/content/2021/11/23/README.md)
 
@@ -1701,7 +1708,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐103k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐104k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
@@ -1713,7 +1720,7 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐200k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐201k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐10k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)

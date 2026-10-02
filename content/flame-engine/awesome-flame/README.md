@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Plugins & Libraries
+
+*   [flame\_flutter3d (⭐30)](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Other Articles & Tutorials
@@ -72,7 +78,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Education
 
-*   [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj (⭐6)](https://github.com/mglsj/visual_graphs)
+*   [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj (⭐7)](https://github.com/mglsj/visual_graphs)
 
 ### App Releases / Action
 
@@ -298,13 +304,13 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [leap (⭐52)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐51)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## [Aug 15, 2022](/content/2022/08/15/README.md)
 
 ### Open Source / Casual
 
-*   [New Super Jumper (⭐179)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
+*   [New Super Jumper (⭐178)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
 
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 
@@ -322,11 +328,11 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐133)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐134)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐249)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐251)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
@@ -432,7 +438,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Ghost Rigger (⭐264)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ghost Rigger (⭐265)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 ## [May 31, 2020](/content/2020/05/31/README.md)
 

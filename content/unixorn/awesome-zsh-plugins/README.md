@@ -6,6 +6,21 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [zshrs-fasd (⭐0)](https://github.com/MenkeTechnologies/zshrs-fasd) - Native [zshrs (⭐17)](https://github.com/MenkeTechnologies/zshrs) plugin for [fasd (⭐5.9k)](https://github.com/clvv/fasd).
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [agy (⭐0)](https://github.com/feRpicoral/zsh-agy-completion) - Tab completion for the [Antigravity CLI](https://antigravity.google/docs/cli/overview).
+*   [vercel (⭐0)](https://github.com/feRpicoral/zsh-vercel-completion) - Tab completion for the [Vercel CLI](https://vercel.com/docs/cli).
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [cad0p (⭐1)](https://github.com/cad0p/cad0p-zsh-theme) - One-line theme with a 24-hour clock, `user@host`, current directory and `git` status decorations. Based on the geoffgarside theme from Oh-My-ZSH.
+
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -56,9 +71,9 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [boot-kit (⭐0)](https://github.com/seankoji-com/zsh-boot-kit) - Adds instrumentation to your ZSH environment.
-*   [herdr (⭐70)](https://github.com/robbyrussell/herdr-ohmyzsh) - Manages [herdr](https://herdr.dev/) agent management.
-*   [pyroclear (⭐206)](https://github.com/shreyanth-sureshkrishnaa/pyroclear) - A terminal clear replacement that burns your screen down before wiping it.
-*   [terminal-pet (⭐4)](https://github.com/Zezoo123/terminal-pet) - Hooks `preexec`/`precmd` up to [terminal-pet (⭐4)](https://github.com/Zezoo123/terminal-pet), an animated pixel-art pet that sits on your terminal window and reacts to your commands (macOS).
+*   [herdr (⭐82)](https://github.com/robbyrussell/herdr-ohmyzsh) - Manages [herdr](https://herdr.dev/) agent management.
+*   [pyroclear (⭐215)](https://github.com/shreyanth-sureshkrishnaa/pyroclear) - A terminal clear replacement that burns your screen down before wiping it.
+*   [terminal-pet (⭐10)](https://github.com/Zezoo123/terminal-pet) - Hooks `preexec`/`precmd` up to [terminal-pet (⭐10)](https://github.com/Zezoo123/terminal-pet), an animated pixel-art pet that sits on your terminal window and reacts to your commands (macOS).
 *   [termrec (⭐0)](https://github.com/termrec/termrec.zsh) - This hook enables [termrec (⭐0)](https://github.com/termrec/termrec) to split the session into per-command sections while it generates a command-aware transcript.
 *   [worktree-jump (⭐0)](https://github.com/Jermic/worktree-jump) - Lists `git` worktrees in a compact table and lets you jump to one by typing its number at the next shell prompt.
 *   [yazi (⭐0)](https://github.com/NiziL/yazi.plugin.zsh) - a tiny plugin for [yazi (⭐42k)](https://github.com/sxyazi/yazi) integration.
@@ -81,9 +96,9 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ansible-fzf (⭐0)](https://github.com/alexiszamanidis/zsh-ansible-fzf/) - A plugin that completes ansible-playbook tags and works with fzf-tab.
-*   [cage (⭐0)](https://github.com/matijaoe/cage.plugin.zsh) - Adds command for [age (⭐24k)](https://github.com/FiloSottile/age). It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.
-*   [deja (⭐752)](https://github.com/Giammarco-Ferranti/deja) - Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.
-*   [dual-history (⭐0)](https://github.com/odurif0/zsh-dual-history) - Keeps AI coding agent instructions (such as Forge's `:`-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns `Ctrl+R` into an fzf interface switchable between All, Human and AI views, merged chronologically.
+*   [cage (⭐1)](https://github.com/matijaoe/cage.plugin.zsh) - Adds command for [age (⭐24k)](https://github.com/FiloSottile/age). It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.
+*   [deja (⭐859)](https://github.com/Giammarco-Ferranti/deja) - Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.
+*   [dual-history (⭐1)](https://github.com/odurif0/zsh-dual-history) - Keeps AI coding agent instructions (such as Forge's `:`-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns `Ctrl+R` into an fzf interface switchable between All, Human and AI views, merged chronologically.
 *   [git-branch (⭐4)](https://github.com/cpwillis/omz-git-branch) - Augments `git` features, designed especially for users who prefer aesthetically pleasing branch naming conventions. It visually formats the current `git` branch name or commit hash, considering customisable variables like hiding status, maximum branch length, prefix, and suffix trimming, with an option to display `git status`.
 *   [histpop (⭐0)](https://github.com/undefined443/histpop) - Removes the last record from `~/.zsh_history`. Useful right after running a command you don't want kept in your shell history (e.g. one containing a typo'd password or a temporary secret). Running `histpop` itself is also removed from history, so it leaves no trace.
 *   [psmon (⭐0)](https://github.com/dumidusw/psmon) - Lightweight interactive process monitor using standard Linux utilities (`ps`, `awk`, `lsof`) with live watch mode, resource sorting, and tree-aware process killing.
@@ -589,7 +604,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-candy (⭐1)](https://github.com/SihaoLiu/ai-candy) - A responsive [oh-my-zsh](https://github.com/ohmyzsh) theme for the AI-assisted developer who works across containers, VMs, and bare metal. Includes decorators for OS, kernel info, whether it is a `ssh` session, `git` status, GitHub integration, AI tool status and smart caching.
 *   [bright-catpuccin (⭐3)](https://github.com/Tailung42/bright_catppuccin_zsh_theme) - A vibrant, modern ZSH prompt built on the beautiful Catppuccin Mocha palette with bright color vibes. Includes decorators for `git` status, python `venv`, conda env, smart path truncation, command execution time for long-running commands, optional username\@hostname, smart path truncation, background jobs and command exit status.
 *   [infinite (⭐4)](https://github.com/The-Infinitys/zsh-infinite) - A highly customizable and dynamic ZSH theme written in Rust. Infinite offers a powerful CLI tool to manage your ZSH prompt's appearance, allowing for dynamic content, sophisticated coloring, and unique visual separators.
 
@@ -981,7 +995,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐125k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
+*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐128k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
 
 ## [Jul 08, 2025](/content/2025/07/08/README.md)
 
@@ -2402,7 +2416,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chaos (⭐1)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
 *   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 
 ## [Aug 05, 2023](/content/2023/08/05/README.md)
@@ -3121,11 +3134,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yt-dlp (⭐11)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐191k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐11)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)

@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
+### Software / Analytics
+
+*   [Socioboard (⭐1.5k)](https://github.com/Socioboard-developers/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
+
 ### Software / Communication - Custom Communication Systems
 
 *   [OpenWA](https://www.open-wa.org) `⚠` - WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers). ([Source Code (⭐15k)](https://github.com/rmyndharis/OpenWA), [Clients (⭐58)](https://github.com/rmyndharis/OpenWA-plugins)) `MIT` `Docker`
@@ -2250,10 +2254,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
-### Software / Analytics
-
-*   [Socioboard (⭐1.5k)](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
-
 ### Software / Communication - Custom Communication Systems
 
 *   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐1.2k)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
@@ -2389,7 +2389,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Analytics
 
-*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐33k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐34k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 
 ### Software / Network Utilities
 
@@ -2791,7 +2791,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Source Code (⭐14k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Source Code (⭐15k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 
 ### Software / File Transfer & Synchronization
 

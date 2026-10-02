@@ -13,6 +13,11 @@
 *   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
 *   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 
+### Datasets / Book Deals (Affiliated)
+
+*   [US Provider Industry Payments (⭐0)](https://github.com/npiwho/us-provider-payments) - 1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.
+*   [US Tariff Data (⭐0)](https://github.com/checkdutyrates/us-tariff-data) - The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.
+
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Awesome Python Math Packages (⭐17)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
@@ -1309,7 +1314,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐33k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐34k)](https://github.com/lutzroeder/netron)
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -1520,7 +1525,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐103k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐104k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
@@ -1532,7 +1537,7 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐200k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐201k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐10k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)

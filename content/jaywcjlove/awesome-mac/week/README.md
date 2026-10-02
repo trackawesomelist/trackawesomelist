@@ -12,6 +12,10 @@
 
 *   [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/emilwagman/amber-notes) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Developer Tools / Developer Utilities
+
+*   [Runner (⭐172)](https://github.com/yicheng47/runner) - Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yicheng47/runner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Design and Product / Design Tools
 
 *   [Screen Loupe](https://ayenora.github.io/screen-loupe/) - Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ayenora/screen-loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -95,7 +99,7 @@
 ### Input Methods / Audio Record and Process
 
 *   [Qingjian 青简](https://qingjian.app/) - Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qingjian-team/qingjian) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [vChewing 唯音 (⭐598)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [vChewing 唯音 (⭐631)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 

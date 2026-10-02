@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Web
+
+*   [HN Top10](https://news.archerlab.dev) – Daily top 10 Hacker News stories translated and summarized in Korean
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Web
@@ -54,7 +60,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐86)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐88)](https://github.com/Livinglist/Gem)
 
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
@@ -278,7 +284,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -407,7 +413,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### macOS / Nevix
 
-*   [touchHNews (⭐193)](https://github.com/mrmekon/toucHNews)
+*   [touchHNews (⭐192)](https://github.com/mrmekon/toucHNews)
 
 ### iOS / Nevix
 
@@ -425,7 +431,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Emacs / Nevix
 
-*   [Hacker News Emacs Client (⭐260)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐261)](https://github.com/clarete/hackernews.el)
 
 ### Command Line / Nevix
 

@@ -103,7 +103,7 @@ This project is dedicated to collecting high-quality macOS software and organizi
 
 Feel free to **star** ⭐ and **fork** 🍴 to support the project!
 
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines (⭐115k)](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome (⭐507k)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines (⭐115k)](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome (⭐514k)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
 
 **Explanation**
 
@@ -470,6 +470,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [ProcessSpy](https://process-spy.app/) - A clean and powerful process monitor.
 *   [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
 *   [Responsively](https://responsively.app) - A must-have devtool for web developers for quicker responsive web development. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
+*   [Runner (⭐172)](https://github.com/yicheng47/runner) - Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal. [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 *   [SCM Breeze (⭐2.9k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 *   [SecureCRT](https://www.vandyke.com/products/securecrt/) - Terminal emulation which supports SSH, Telnet or other protocols.
 *   [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - Automatically downloads websites. [![App Store][app-store Icon]](https://apps.apple.com/in/app/sitesucker/id442168834?platform=mac)
@@ -1076,7 +1077,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Rocket](https://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
 *   [Touch Emoji (⭐56)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 *   [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV.
-*   [vChewing 唯音 (⭐598)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
+*   [vChewing 唯音 (⭐631)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 *   [betterglobekey (⭐106)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
 *   [InputSourcePro](https://inputsource.pro/) - Tool for automatically switching input sources by app or website. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 

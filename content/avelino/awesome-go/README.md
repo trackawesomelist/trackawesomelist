@@ -6,6 +6,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Game Development
+
+*   [due (⭐964)](https://github.com/dobyte/due) - Distributed game server framework with a modular component design, providing tcp, kcp, ws and quic gateways.
+
+### Security
+
+*   [coraza-rule-validator (⭐0)](https://github.com/stardothosting/coraza-rule-validator) - Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment.
+
+### Validation
+
+*   [vx (⭐0)](https://github.com/sevlyar/vx) - Validation built from small, composable checks with zero dependencies and a reconstructable error path.
+    **[⬆ back to top](#contents)**
+
 ## [Oct 01, 2026](/content/2026/10/01/README.md)
 
 ### SQL Query Builders
@@ -2342,7 +2357,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Validation
 
 *   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
-    **[⬆ back to top](#contents)**
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -4300,7 +4314,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐15k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [Aug 24, 2022](/content/2022/08/24/README.md)
 
@@ -5505,7 +5519,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [atlas (⭐8.7k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐8.8k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐49)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [darwin (⭐150)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [go-fixtures (⭐32)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
