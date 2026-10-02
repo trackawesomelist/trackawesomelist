@@ -12,11 +12,21 @@ A curated list of testing resources
 
 *   [Darkmoon (⭐970)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
+### Software / AI & LLM Testing
+
+*   [OrcaPromptVault (⭐28)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
+
+### Software / Service Virtualization
+
+*   [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
+
 ### Software / Test Data Management
 
+*   [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
 *   [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
 *   [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
 *   [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
+*   [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
 
 ### Software / Performance & Load Testing
 
@@ -293,7 +303,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐144)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Software / Accessibility & Usability Testing
 
@@ -675,7 +685,6 @@ A curated list of testing resources
 
 ### Blogs / A/B Testing
 
-*   [Michael Bolton](http://www.developsense.com/blog/)
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
@@ -749,7 +758,6 @@ A curated list of testing resources
 
 ### Training (Includes developer training for automation testers) / A/B Testing
 
-*   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
 *   [Cybrary](https://www.cybrary.it/) - Online free security training.
 

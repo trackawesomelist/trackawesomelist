@@ -6,6 +6,244 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 02, 2026](/content/2026/10/02/README.md)
+
+### Data Validation
+
+- API: [sthan.io Address Autocomplete](https://sthan.io/products/address-autocomplete-usa)
+
+  Description: Real-time US address suggestions as users type
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+  : 
+
+
+
+### Development
+
+- API: [AgentPay Domain Lookup](https://agentpay-lookup.agentpay-apis.workers.dev)
+
+  Description: DNS records, WHOIS/RDAP, IP ownership and domain reports for AI agents, paid per call via x402
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ChartBytes](https://chartbytes.meridian-digital.pro)
+
+  Description: Chart image API: turn a URL into a PNG or SVG chart (bar, line, area, scatter, pie, donut, stacked)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Screenshot Happy](https://screenshot-api-production-ffd7.up.railway.app/docs)
+
+  Description: Website screenshot API (PNG/JPEG/PDF) with full-page capture and visual-diff monitors
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Documents & Productivity
+
+- API: [AgentPay Doc Tools](https://agentpay-tools.agentpay-apis.workers.dev)
+
+  Description: PDF to text, RSS/Atom/JSON feeds to JSON and sitemaps to URL lists, paid per call via x402
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [contix](https://contix.es/api/#herramientas)
+
+  Description: Spain: IBAN validation with bank and BIC, EU VAT number check (VIES), Modelo 303 VAT sums
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [TickerMint](https://tickermint.cards/developers)
+
+  Description: Daily market prices and price history for Pokémon, One Piece, Lorcana and Yu-Gi-Oh cards
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Geocoding
+
+- API: [sthan.io India PIN Code Autocomplete](https://sthan.io/products/pincode-autocomplete-ind)
+
+  Description: Autocomplete Indian PIN codes as users type
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [sthan.io Reverse Geocoding](https://sthan.io/products/reverse-geocoding-usa)
+
+  Description: Convert latitude and longitude to the nearest US street address
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Government
+
+- API: [Open Government, Portugal](https://dados.gov.pt/en/recursos/desenvolvimento/referencia-api)
+
+  Description: Portugal Government Open Data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Jobs2Careers](https://docs.talroo.com/api/search)
+
+  Description: Job aggregator
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Vibeworker](https://tryvibeworker.com/docs)
+
+  Description: Upwork job listings with client data and AI fit scores, plus webhooks and RSS
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Open Data
+
+- API: [CoworkingView](https://coworkingview.com/en/api)
+
+  Description: Coworking spaces and offices in 63 European and Gulf cities with operator-published prices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Science & Math
+
+- API: [Botlero](https://botlero.com/api/robots)
+
+  Description: Sourced, quoted specs for humanoid robots
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [Football Leagues](https://football-api.yuvron.online/reference)
+
+  Description: Standings, fixtures, live scores, lineups and player stats for 11 European football competitions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MoviOdds](https://moviodds.com/doc)
+
+  Description: Real-time bet365 soccer odds, every market, pre-match and in-play, over REST and WebSocket
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Test Data
+
+- API: [loremfile](https://loremfile.dev/docs/manifest)
+
+  Description: Hotlinkable CC0 sample files in 78 formats, each with a SHA-256 in a JSON manifest
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Supercrontab Mock Endpoints](https://supercrontab.com/mock)
+
+  Description: Mock endpoints in 8 formats, each returning any of 14 HTTP status codes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Sep 29, 2026](/content/2026/09/29/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -699,17 +937,6 @@ A collective list of free APIs
 
 
 ### Development
-
-- API: [ChartBytes](https://chartbytes.onrender.com)
-
-  Description: Chart image API: turn a URL into a PNG or SVG chart (bar, pie, donut, stacked)
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
 
 - API: [Google PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/get-started)
 
@@ -2170,17 +2397,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: [CoworkingView](https://coworkingview.com/openapi.json)
-
-  Description: Coworking spaces and offices in 63 European and Gulf cities with operator-published prices
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
 
 
 
@@ -3754,20 +3970,6 @@ A collective list of free APIs
 - API: [flaky](https://flakyapi.dev)
 
   Description: Fake REST API with chaos controls: force any status code, add latency, or a failure rate
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-### Transportation
-
-- API: [Wander Atlas](https://wanderatlasguides.com/api/)
-
-  Description: Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries
 
   Auth: No
 
@@ -14071,17 +14273,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
-
-
-- API: [Open Government, Portugal](https://dados.gov.pt/en/docapi/)
-
-  Description: Portugal Government Open Data
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 - API: [Open Government, Slovakia](https://data.gov.sk/en/)
@@ -25080,17 +25271,6 @@ A collective list of free APIs
   Auth: `apiKey`
 
   HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)
-
-  Description: Job aggregator
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
 
   CORS: Unknown
 

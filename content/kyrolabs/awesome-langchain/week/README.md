@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kyrolabs/awesome-langchain/README.md) / Weekly / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Tools / Agents
+
+*   [RedAmon (⭐2.9k)](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Tools / Services
@@ -122,7 +128,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Bifrost (⭐8.1k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+*   [Bifrost (⭐8.5k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
@@ -449,7 +455,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [Anything LLM (⭐66k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
+*   [Anything LLM (⭐67k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
