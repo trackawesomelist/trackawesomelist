@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Messaging
+
+*   [kiln (⭐3)](https://github.com/rafaelaugustos/kiln) - Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Game Development

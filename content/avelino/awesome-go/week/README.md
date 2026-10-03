@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [due (⭐964)](https://github.com/dobyte/due) - Distributed game server framework with a modular component design, providing tcp, kcp, ws and quic gateways.
 
+### Messaging
+
+*   [kiln (⭐3)](https://github.com/rafaelaugustos/kiln) - Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.
+
 ### Networking
 
 *   [expose (⭐9)](https://github.com/kernelshard/expose) - Lightweight, open-source secure tunneling tool to expose local servers to the internet.

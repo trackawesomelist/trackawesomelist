@@ -6,6 +6,253 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Development
+
+- API: [BountyCheck](https://bountycheck.vercel.app)
+
+  Description: Claimability verdicts for GitHub bounty issues; free stats and sample, checks paid per call via x402
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Index Agentica](https://indexagentica.com/agents/)
+
+  Description: Agent-first directory of skills, MCP servers, tools, protocols and APIs as JSON, markdown, llms.txt
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Scrappa](https://scrappa.co/docs)
+
+  Description: Google Search, Maps, Jobs, YouTube and review site results as structured JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [DocCheap](https://doc.cheap/docs)
+
+  Description: Read passports, ID cards and driver's licences into JSON, $0.01 per recognised document
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [matchwire.win](https://matchwire.win/docs/)
+
+  Description: Matched prediction-market games across Kalshi, Polymarket US/Intl and Predict.fun
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Government
+
+- API: [SukuuData](https://sukuudata.com/quickstart)
+
+  Description: Ghana's schools, 2026 SHS placement register and CSSPS choice validation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Techmap](https://api.techmap.io/jobs-api)
+
+  Description: Job postings from 185 sources in 250 countries and territories, with an archive since 2020
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [The Deploy Log (⭐0)](https://github.com/dotcomjack/the-deploy-log)
+
+  Description: 1,000+ AI deployments, each linked to the publisher's own page, JSON and CSV, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Phone
+
+- API: [PlaceCall](https://api.voygr.tech/docs)
+
+  Description: AI agent places phone calls to US businesses and returns the outcome, transcript and recording
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Security
+
+- API: [Agent Verifier](https://packet.guru/agents/reference)
+
+  Description: Self-check for AI agents: verifies Web Bot Auth signatures and shows how a request looks
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [VPNDetection](https://docs.vpndetection.io/api)
+
+  Description: Check whether an IPv4 or IPv6 address belongs to VPN infrastructure, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [BirkinBagStock](https://birkinbagstock.com/.well-known/openapi.json)
+
+  Description: Independent Hermès resale index: inventory, market prices, auction calendar and results
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OneFindMe](https://onefindme.com/mcp)
+
+  Description: Search AliExpress in any language: price, rating and orders for the delivery country
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [FastSocial Instagram Data](https://fastsocial.co/instagram-api/docs)
+
+  Description: Public Instagram data: profiles, posts, reels, stories, comments and a daily top-accounts ranking
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [GramScraper](https://gramscraper.com)
+
+  Description: Instagram and TikTok data API with 91 endpoints for profiles, posts, stories, reels, and comments
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [ChargeAlong](https://chargealong.io/docs/)
+
+  Description: EV charging sites in AU, NZ, US, UK and Canada, with nearby search and trip planning
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [BulkTranscripts](https://bulktranscripts.co/docs)
+
+  Description: YouTube transcripts for a video, a whole channel or a playlist, plus YouTube search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TranscriptYT](https://transcript-yt.com/docs)
+
+  Description: YouTube transcripts as JSON, text, SRT or VTT in 150+ languages, with AI fallback
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [UGCdrop](https://ugcdrop.com/api)
+
+  Description: Search real UGC video clips (reactions, hooks, b-roll) by emotion, niche, age and setting
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Data Validation
@@ -19081,20 +19328,6 @@ A collective list of free APIs
   CORS: Unknown
 
   : 
-
-
-
-### Machine Learning
-
-- API: [IPS Online](https://docs.identity.ps/docs)
-
-  Description: Face and License Plate Anonymization
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
 
 
 

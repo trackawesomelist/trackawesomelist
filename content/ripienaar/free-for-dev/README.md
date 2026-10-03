@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Testing
+
+*   [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable. Free up to 10 GB.
+
+### Crash and Exception Handling
+
+*   [Everframe](https://everframe.dev/) - Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### Tools for Teams and Collaboration
@@ -2856,12 +2866,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Authentication, Authorization, and User Management
 
 *   [ZITADEL Cloud](https://zitadel.com) - A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
-
-## [Oct 18, 2022](/content/2022/10/18/README.md)
-
-### Messaging and Streaming
-
-*   [engagespot.co](https://engagespot.co/) - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.
 
 ## [Oct 17, 2022](/content/2022/10/17/README.md)
 

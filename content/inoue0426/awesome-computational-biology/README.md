@@ -6,6 +6,61 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### General Biomedical Agents
+
+*   [Biomni (⭐3.9k)](https://github.com/snap-stanford/Biomni) — General-purpose biomedical AI agent integrating planning, code execution, specialized tools, databases, and software across diverse biomedical research tasks.
+*   [ToolUniverse (⭐1.7k)](https://github.com/mims-harvard/ToolUniverse) — Unified scientific tool ecosystem for building AI scientists that can discover, select, and execute biomedical tools and databases.
+*   [BioMedAgent (⭐143)](https://github.com/BOBQWERA/BioMedAgent) — Self-evolving multi-agent framework for autonomous biomedical data analysis with tool discovery, workflow planning, code generation, execution, correction, and cross-omics analysis.
+*   [BioMaster (⭐114)](https://github.com/ai4nucleome/BioMaster) — Multi-agent system for automated and auditable bioinformatics workflows spanning RNA-seq, ChIP-seq, single-cell, spatial omics, Hi-C, long reads, metagenomics, and proteomics.
+*   [BRAD (⭐64)](https://github.com/Jpickard1/BRAD) — Retrieval-augmented bioinformatics assistant integrating scientific literature, databases, external tools, and executable workflows.
+
+### Therapeutics & Drug Discovery Agents
+
+*   [TxAgent (⭐655)](https://github.com/mims-harvard/TxAgent) — Therapeutic reasoning agent using multi-step reasoning and a large scientific tool universe for drug interactions, contraindications, and personalized treatment analysis.
+*   [Medea (⭐131)](https://github.com/mims-harvard/Medea) — Multi-agent therapeutic discovery system combining research planning, biological data analysis, literature reasoning, and multi-LLM deliberation across single-cell, cell-line, and patient contexts.
+*   [DrugAgent (⭐1)](https://github.com/inoue0426/DrugAgent) — Multi-agent biomedical evidence synthesis framework for computational drug discovery with reliability-aware aggregation.
+
+### Bioinformatics & Omics Agents
+
+*   [STELLA (⭐156)](https://github.com/zaixizhang/STELLA) — Self-evolving biomedical research agent that expands its tool repertoire and supports literature reasoning, computational analysis, and laboratory-oriented scientific workflows.
+*   [AutoBA (⭐239)](https://github.com/JoshuaChou2018/AutoBA) — Automated multi-omics analysis agent that plans, executes, and repairs bioinformatics workflows from natural-language objectives.
+*   [GenoMAS (⭐135)](https://github.com/Liu-Hy/GenoMAS) — Multi-agent framework for code-driven gene-expression analysis with planning, execution, debugging, backtracking, and GEO/TCGA-based scientific discovery.
+*   [BIA (⭐45)](https://github.com/biagent-dev/bia) — Bioinformatics agent for GEO search, sample metadata extraction, count-matrix processing, and pipeline extraction from papers.
+*   [BioAgents (⭐47)](https://github.com/microsoft/bioinformagus) — Multi-agent bioinformatics assistant using specialized language models and retrieval for genomics workflow development and troubleshooting.
+*   [Genomi (⭐484)](https://github.com/exon-research/genomi) — Local-first genomics agent runtime that indexes personal variants, queries evidence, and generates evidence-grounded reports while keeping raw genome data on-device.
+
+### Multi-Agent Scientific Labs
+
+*   [Virtual Lab (⭐738)](https://github.com/zou-group/virtual-lab) — Human–AI collaborative research environment in which an LLM principal investigator coordinates specialized scientist agents for scientific discovery.
+*   [Agent Laboratory (⭐5.9k)](https://github.com/SamuelSchmidgall/AgentLaboratory) — End-to-end multi-agent research workflow for literature review, experimentation, implementation, analysis, and report generation.
+
+### Paper & Workflow Agents
+
+*   [Paper2Agent (⭐3.6k)](https://github.com/jmiao24/Paper2Agent) — Multi-agent system that transforms research papers and associated code into interactive, testable scientific agents and MCP tools.
+
+### Cancer Genome Foundation Models / Protein Structure Prediction and Design
+
+*   [TESSERA (⭐6)](https://github.com/JW-Sidhom-Lab/tessera) — Cancer-genome foundation model jointly pretrained on somatic SNVs and copy-number alterations from TCGA using masked reconstruction and cross-modal contrastive learning.
+
+### Single-Cell Epigenomics Foundation Models / Protein Structure Prediction and Design
+
+*   [EpiAgent (⭐72)](https://github.com/xy-chen16/EpiAgent) — scATAC-seq foundation model pretrained on \~5M cells and >35B tokens for representation learning, annotation, imputation, perturbation prediction, and in-silico cCRE knockout.
+*   [SCARF](https://doi.org/10.1101/2025.04.07.647689) — Single-cell RNA+ATAC foundation model pretrained on >2.7M cells for multimodal representation, matching, cross-omics translation, and few-shot annotation.
+*   [scDNAm-GPT (⭐20)](https://github.com/ChaoqiLiang/scDNAm-GPM) — Foundation model for single-cell whole-genome bisulfite sequencing with whole-genome context modeling at single-CpG resolution.
+*   [EpiFoundation](https://doi.org/10.1101/2025.02.05.636688) — Foundation model for scATAC-seq using peak-to-gene aligned pretraining for cell representation, annotation, batch correction, and gene-expression prediction.
+*   [ChromFound (⭐6)](https://github.com/SAIS-LifeScience/ChromFound) — Genome-aware scATAC-seq foundation model pretrained on 1.97M cells across tissues and disease contexts for zero-shot cell representations, annotation, and cross-omics prediction.
+*   [Atacformer](https://doi.org/10.1101/2025.11.03.685753) — Transformer foundation model for scATAC-seq that learns embeddings of cis-regulatory elements for clustering, annotation, and reference mapping.
+*   [CLM-X](https://doi.org/10.64898/2026.02.17.704943) — Multi-way Transformer foundation model jointly handling RNA-only, ATAC-only, and paired RNA–ATAC single-cell inputs for integration, translation, annotation, and perturbation prediction.
+
+### Other Omics Foundation Models / Protein Structure Prediction and Design
+
+*   [CAPTAIN](https://doi.org/10.1038/s41467-026-72882-y) — Multimodal foundation model pretrained on co-assayed single-cell RNA and protein for joint representation learning and cross-modal downstream tasks.
+*   [HiCFoundation](https://doi.org/10.1038/s41592-026-03097-8) — Hi-C foundation model pretrained on large-scale chromatin-contact maps for 3D-genome analysis, epigenomic prediction, and single-cell Hi-C adaptation.
+*   [OmicsFM (⭐6)](https://github.com/CompOmics/OmicsFM) — Modality-agnostic molecular-expression foundation model with matched proteomics, bulk-transcriptomics, and single-cell-transcriptomics checkpoints.
+*   [VirTues (⭐156)](https://github.com/bunnelab/virtues) — Spatial-proteomics foundation model learning marker-aware representations across proteins, cells, niches, and tissues from multiplexed imaging.
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Drug Response & Perturbation
@@ -85,11 +140,14 @@ Awesome list of computational biology.
 *   [Boltz-2 (⭐4.2k)](https://github.com/jwohlwend/boltz) — Biomolecular foundation model jointly predicting complex structures and binding affinities for protein–ligand interaction modeling and virtual screening.
 *   [Protenix (⭐2.1k)](https://github.com/bytedance/Protenix) — Trainable biomolecular structure-prediction framework for proteins, nucleic acids, ligands, and complexes with open training and inference pipelines.
 
+### Cancer Genome Foundation Models / Protein Structure Prediction and Design
+
+*   [MutationProjector](https://doi.org/10.1101/2025.09.08.674723) — Pan-cancer genotype foundation model trained on mutations and copy-number alterations from >30K tumors for clinical representation learning.
+
 ### Other Omics Foundation Models / Protein Structure Prediction and Design
 
 *   [MethylGPT (⭐67)](https://github.com/albert-ying/MethylGPT) — Transformer foundation model for DNA methylation pretrained on >150K human methylomes across thousands of datasets, with 3M/7M/15M parameter variants.
 *   [CpGPT (⭐82)](https://github.com/lucascamillomd/CpGPT) — DNA methylation foundation model pretrained on >150K samples for zero-shot imputation, array conversion, reference mapping, and downstream phenotype prediction.
-*   [MutationProjector](https://doi.org/10.1101/2025.09.08.674723) — Tumor-genome foundation model pretrained on somatic alterations from >30K tumors to learn representations for cancer subtype and treatment-response tasks.
 *   [Casanovo Foundation (⭐1)](https://github.com/Noble-Lab/casanovo-tl) — Tandem mass-spectrometry proteomics foundation model that reuses a pretrained Casanovo spectrum encoder for spectrum quality, chimericity, and post-translational-modification prediction.
 
 ### RNA Foundation Models / Protein Structure Prediction and Design
@@ -160,9 +218,9 @@ Awesome list of computational biology.
 
 *   [Matcha (⭐35)](https://github.com/LigandPro/Matcha) — Multi-stage Riemannian flow matching model for physically valid molecular docking with scoring, pose filtering, and benchmarks.
 
-### LLM for Biology
+### Bioinformatics & Omics Agents
 
-*   [CASSIA (⭐107)](https://github.com/ElliotXie/CASSIA) — Multi-agent LLM for reference-free, interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, scoring, and reporting agents.
+*   [CASSIA (⭐107)](https://github.com/ElliotXie/CASSIA) — Multi-agent LLM framework for reference-free and interpretable single-cell cell-type annotation with dedicated annotation, validation, scoring, and reporting agents.
 
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
@@ -503,7 +561,7 @@ Awesome list of computational biology.
 *   [Molecular Transformer (⭐429)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
 *   [TargetDiff (⭐347)](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 
-### LLM for Biology
+### General Biomedical Agents
 
 *   [ClawBio (⭐1.1k)](https://github.com/ClawBio/ClawBio) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 
