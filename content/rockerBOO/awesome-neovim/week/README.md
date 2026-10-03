@@ -32,6 +32,10 @@ Collections of awesome neovim plugins.
 
 *   [mihovilrak/scroll.nvim (⭐17)](https://github.com/mihovilrak/scroll.nvim) - Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.
 
+### Editing Support / Folding
+
+*   [markosnarinian/distill.nvim (⭐9)](https://github.com/markosnarinian/distill.nvim) - Fold logging and debug calls while preserving your function, class, and block folds.
+
 ### Session / Indent
 
 *   [wurli/servery.nvim (⭐63)](https://github.com/wurli/servery.nvim) - Jump between sessions using your favourite fuzzy finder.
@@ -39,6 +43,11 @@ Collections of awesome neovim plugins.
 ### Pre-made Configuration / Stats Tracking
 
 *   [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
+
+### UI / OS-specific
+
+*   [mjmjm0101/quickui.nvim (⭐16)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [markosnarinian/ln.nvim (⭐3)](https://github.com/markosnarinian/ln.nvim) - Relative numbers on the active window, absolute everywhere else.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -385,10 +394,6 @@ Collections of awesome neovim plugins.
 
 *   [neur1n/hyphen.nvim (⭐5)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 
-### Editing Support / Folding
-
-*   [fold-logging.nvim (⭐9)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
-
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### AI / Diagnostics
@@ -468,10 +473,6 @@ Collections of awesome neovim plugins.
 ### Editing Support / Comment
 
 *   [kuri-sun/todoage.nvim (⭐30)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
-
-### UI / OS-specific
-
-*   [ln.nvim (⭐3)](https://github.com/markosnarinian/ln.nvim) - Relative numbers on the active window, absolute everywhere else.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
@@ -610,10 +611,6 @@ Collections of awesome neovim plugins.
 
 *   [dlyongemallo/diffview.nvim (⭐343)](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
 *   [kokusenz/deltaview.nvim (⭐127)](https://github.com/kokusenz/deltaview.nvim) - Inline/unified diff viewer with Tree-sitter syntax highlighting and diff highlighting in the style of [delta (⭐32k)](https://github.com/dandavison/delta), with enhanced navigational features.
-
-### UI / OS-specific
-
-*   [quickui.nvim (⭐16)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 

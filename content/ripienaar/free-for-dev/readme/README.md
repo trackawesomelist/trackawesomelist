@@ -904,6 +904,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
 *   [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
 *   [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
+*   [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
 *   [Email Spam Tester](https://email-spam-tester.com/) - Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.
 *   [EmailGuard](https://emailguard.lazrek.com/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
 *   [EmailJS](https://www.emailjs.com/) - This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
@@ -936,6 +937,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
 *   [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
 *   [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
+*   [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
 *   [Plunk](https://useplunk.com) - 3K emails/month for free
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
@@ -1531,6 +1533,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Aptabase](https://aptabase.com) - Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
 *   [Avo](https://avo.app/) - Simplified analytics release workflow. Single-source-of-truth tracking plan, type-safe analytics tracking library, in-app debuggers, and data observability to catch all data issues before you release. Free for two workspace members and 1 hour data observability lookback.
 *   [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
+*   [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
 *   [Census](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
 *   [Clicky](https://clicky.com) - Website Analytics Platform. Free Plan for one website with 3000 views analytics.
 *   [counter.dev](https://counter.dev) - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
@@ -1725,6 +1728,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
 *   [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
 *   [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+*   [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

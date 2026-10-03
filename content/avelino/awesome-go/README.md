@@ -8,9 +8,49 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
+### Audio and Music
+
+*   [voxrai-ai (⭐4)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC.
+
+### Iterators
+
+*   [glinq (⭐17)](https://github.com/CreateLab/glinq) - LINQ-like lazy evaluation library with type-safe generics, performance optimizations and zero dependencies.
+
+### Miscellaneous Data Structures and Algorithms
+
+*   [xsync (⭐1.7k)](https://github.com/puzpuzpuz/xsync) - Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table.
+
+### SQL Query Builders
+
+*   [sqlcredo (⭐3)](https://github.com/Klojer/sqlcredo) - Package for type-safe generic SQL CRUD operations with pagination, transactions, debugging, and custom raw SQL extensions.
+
+### File Handling
+
+*   [goflat (⭐10)](https://github.com/lzambarda/goflat) - Context-aware generic flat file marshaler/unmarshaler.
+
 ### Messaging
 
 *   [kiln (⭐3)](https://github.com/rafaelaugustos/kiln) - Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.
+
+### Networking
+
+*   [corsproxy (⭐2)](https://github.com/melihbirim/corsproxy) - CORS proxy server with SSRF protection, host allow/blocklisting, and optional API key authentication.
+
+### Security
+
+*   [nurago/pkg/redact (⭐26)](https://github.com/tecnickcom/nurago/tree/main/pkg/redact) - Removes secrets from log lines and HTTP dumps in a single pass, covering headers, JSON, XML, URL-encoded data, JWTs, PEM keys, and vendor tokens.
+
+### Template Engines
+
+*   [liquidgo (⭐15)](https://github.com/Notifuse/liquidgo) - Full Go implementation of Shopify's Liquid template engine.
+
+### Web Frameworks
+
+*   [shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) - Unofficial shadcn/ui port for Go and templ: accessible UI components with CLI and registry.
+
+### WebAssembly / Libraries for creating HTTP middlewares
+
+*   [wasmtime-go (⭐913)](https://github.com/bytecodealliance/wasmtime-go) - Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding).
 
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
@@ -25,7 +65,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Validation
 
 *   [vx (⭐0)](https://github.com/sevlyar/vx) - Validation built from small, composable checks with zero dependencies and a reconstructable error path.
-    **[⬆ back to top](#contents)**
 
 ## [Oct 01, 2026](/content/2026/10/01/README.md)
 
@@ -1284,12 +1323,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [localaik (⭐16)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 
-## [Mar 31, 2026](/content/2026/03/31/README.md)
-
-### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [kepfi](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
-
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
 ### Artificial Intelligence
@@ -2228,10 +2261,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [entpassgen (⭐7)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 
-### Web Frameworks
-
-*   [templui (⭐1.7k)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
-
 ### Webhooks Server / Libraries for creating HTTP middlewares
 
 *   [WebhookX (⭐300)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
@@ -2363,6 +2392,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Validation
 
 *   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+    **[⬆ back to top](#contents)**
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -5278,7 +5308,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [minimp3 (⭐134)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
 *   [Oto (⭐2k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐845)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
-    -[voxrai-ai (⭐4)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC
 
 ### Authentication and Authorization
 

@@ -6,6 +6,20 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Applications / Productivity
+
+*   [Xoshbin/asyar (⭐858)](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design. [![CodeQL](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql)
+
+### Development tools / Workflow Automation
+
+*   [persiyanov/herdr-reviewr (⭐823)](https://github.com/persiyanov/herdr-reviewr) - Terminal pane for reviewing a coding agent's diff and sending line comments back to Claude Code, Codex, OpenCode or Pi. [![CI](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml/badge.svg)](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml)
+
+### Libraries / Data processing
+
+*   [AndreaBozzo/dataprof (⭐21)](https://github.com/AndreaBozzo/dataprof) \[[dataprof](https://crates.io/crates/dataprof)] - Data profiling and quality gates for CSV, JSON, Parquet and Arrow, with Python bindings [![CI](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml)
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Applications / Productivity
@@ -182,7 +196,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [timhartmann7/omnyssh (⭐849)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
+*   [timhartmann7/omnyssh (⭐1.1k)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
@@ -318,7 +332,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Computation
 
-*   [ml-rust/numr (⭐54)](https://github.com/ml-rust/numr) \[[numr](https://crates.io/crates/numr)] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration. [![CI](https://github.com/ml-rust/numr/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ml-rust/numr/actions/workflows/ci.yml)
+*   [ml-rust/numr (⭐57)](https://github.com/ml-rust/numr) \[[numr](https://crates.io/crates/numr)] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration. [![CI](https://github.com/ml-rust/numr/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ml-rust/numr/actions/workflows/ci.yml)
 
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
@@ -418,7 +432,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [lockbook/lockbook (⭐435)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
+*   [lockbook/lockbook (⭐439)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
 
 ## [Aug 17, 2026](/content/2026/08/17/README.md)
 
@@ -3720,7 +3734,7 @@ A curated list of Rust code and resources.
 
 *   Other
     *   [build-trust/ockam (⭐4.6k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
-    *   [zannis/shove (⭐6)](https://github.com/zannis/shove) \[[shove](https://crates.io/crates/shove)] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups [![CI](https://github.com/zannis/shove/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zannis/shove/actions/workflows/ci.yml)
+    *   [zannis/shove (⭐8)](https://github.com/zannis/shove) \[[shove](https://crates.io/crates/shove)] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups [![CI](https://github.com/zannis/shove/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zannis/shove/actions/workflows/ci.yml)
 
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 

@@ -21,7 +21,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 We use the *[Golang Bridge (⭐441)](https://github.com/gobridge/about-us/blob/master/README.md)* community Slack for instant communication, follow the [form here to join](https://invite.slack.golangbridge.org/).
 
-<a href="https://www.producthunt.com/posts/awesome-go?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-go" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=291535&theme=light" alt="awesome-go - Curated list awesome Go frameworks, libraries and software | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/awesome-go?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-go" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=291535&theme=light" alt="awesome-go - Curated list of awesome Go frameworks, libraries and software | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 **Sponsorships:**
 
@@ -289,7 +289,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [music-theory (⭐463)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 *   [Oto (⭐2k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐845)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
-    -[voxrai-ai (⭐4)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC
+*   [voxrai-ai (⭐4)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC.
 
 **[⬆ back to top](#contents)**
 
@@ -603,7 +603,6 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [abstruse (⭐961)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 *   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 *   [CDS (⭐4.8k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
-*   [coverage (⭐1)](https://github.com/jbunds/coverage) - A simple Web UI for Go test coverage, and the [go-test-coverage-html-report](https://github.com/marketplace/actions/go-test-coverage-html-report) reusable GitHub Action.
 *   [dot (⭐36)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
 *   [drone (⭐38k)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
 *   [go-beautiful-html-coverage (⭐24)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
@@ -678,6 +677,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 
 ### Iterators
 
+*   [glinq (⭐17)](https://github.com/CreateLab/glinq) - LINQ-like lazy evaluation library with type-safe generics, performance optimizations and zero dependencies.
 *   [gloop (⭐28)](https://github.com/alvii147/gloop) - Convenient looping using Go's range-over-func feature.
 *   [goterator (⭐20)](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities.
 *   [iter (⭐197)](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
@@ -716,6 +716,7 @@ additional ordered map implementations.
 *   [hyperloglog (⭐1.1k)](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 *   [quadtree (⭐41)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 *   [slices (⭐23)](https://github.com/twharmon/slices) - Pure, generic functions for slices.
+*   [xsync (⭐1.7k)](https://github.com/puzpuzpuz/xsync) - Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table.
 
 ### Nullable Types
 
@@ -787,8 +788,8 @@ additional ordered map implementations.
 *   [clusteredBigCache (⭐45)](https://github.com/oaStuff/clusteredBigCache) - BigCache with clustering support and individual item expiration.
 *   [coherence-go-client (⭐15)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 *   [couchcache (⭐64)](https://github.com/codingsince1985/couchcache) - RESTful caching micro-service backed by Couchbase server.
-*   [EchoVault (⭐536)](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store compatible with Redis clients.
 *   [easycache (⭐121)](https://github.com/hugocarreira/easycache) - A simple way to use in-memory cache in Golang (TTL/FIFO/LRU/LFU).
+*   [EchoVault (⭐536)](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store compatible with Redis clients.
 *   [fastcache (⭐2.4k)](https://github.com/VictoriaMetrics/fastcache) - fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.
 *   [GCache (⭐2.7k)](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.
 *   [gdcache (⭐14)](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
@@ -952,6 +953,7 @@ additional ordered map implementations.
 *   [sg (⭐7)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 *   [sq (⭐200)](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
 *   [sqlc (⭐18k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
+*   [sqlcredo (⭐3)](https://github.com/Klojer/sqlcredo) - Package for type-safe generic SQL CRUD operations with pagination, transactions, debugging, and custom raw SQL extensions.
 *   [sqlf (⭐189)](https://github.com/leporo/sqlf) - Fast SQL query builder.
 *   [sqlh (⭐15)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
 *   [sqlingo (⭐455)](https://github.com/lqs/sqlingo) - A lightweight DSL to build SQL in Go.
@@ -1269,6 +1271,7 @@ additional ordered map implementations.
 *   [go-exiftool (⭐299)](https://github.com/barasher/go-exiftool) - Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...).
 *   [go-gtfs (⭐47)](https://github.com/artonge/go-gtfs) - Load gtfs files in go.
 *   [go-wkhtmltopdf (⭐1.2k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
+*   [goflat (⭐10)](https://github.com/lzambarda/goflat) - Context-aware generic flat file marshaler/unmarshaler.
 *   [gofs (⭐528)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 *   [gopdfrab (⭐2)](https://github.com/voidrab/gopdfrab) - PDF/A processing for Go.
 *   [gulter (⭐72)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
@@ -2198,6 +2201,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [chicha-ip-proxy (⭐5)](https://github.com/matveynator/chicha-ip-proxy) - Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
 *   [cidranger (⭐969)](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 *   [cloudflared (⭐16k)](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel).
+*   [corsproxy (⭐2)](https://github.com/melihbirim/corsproxy) - CORS proxy server with SSRF protection, host allow/blocklisting, and optional API key authentication.
 *   [dhcp6 (⭐80)](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 *   [dns (⭐8.8k)](https://github.com/miekg/dns) - Go library for working with DNS.
 *   [dnsmonster (⭐363)](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture/Monitoring Framework.
@@ -2489,8 +2493,8 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *Libraries that are used to help make your application more secure.*
 
-*   [acmetool (⭐2.1k)](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 *   [acme-proxy (⭐58)](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
+*   [acmetool (⭐2.1k)](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 *   [acopw-go](https://sr.ht/~jamesponddotco/acopw-go/) - Small cryptographically secure password generator package for Go.
 *   [acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
 *   [aes-ctr-drbg (⭐9)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
@@ -2534,6 +2538,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [mist (⭐1)](https://github.com/iSerganov/mist) - Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.
 *   [multikey (⭐13)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 *   [nacl (⭐550)](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
+*   [nurago/pkg/redact (⭐26)](https://github.com/tecnickcom/nurago/tree/main/pkg/redact) - Removes secrets from log lines and HTTP dumps in a single pass, covering headers, JSON, XML, URL-encoded data, JWTs, PEM keys, and vendor tokens.
 *   [optimus-go (⭐368)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐289)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐78)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
@@ -2662,6 +2667,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
 *   [jet (⭐1.4k)](https://github.com/CloudyKit/jet) - Jet template engine.
 *   [liquid (⭐356)](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
+*   [liquidgo (⭐15)](https://github.com/Notifuse/liquidgo) - Full Go implementation of Shopify's Liquid template engine.
 *   [maroto (⭐2.8k)](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 *   [pongo2 (⭐3.1k)](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 *   [quicktemplate (⭐3.3k)](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
@@ -2915,8 +2921,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [appstore-sdk-go (⭐6)](https://github.com/Kachit/appstore-sdk-go) - Unofficial Golang SDK for AppStore Connect API.
 *   [aws-encryption-sdk-go (⭐23)](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
 *   [aws-sdk-go (⭐3.7k)](https://github.com/aws/aws-sdk-go-v2) - The official AWS SDK for the Go programming language.
-*   [bqwriter (⭐16)](https://github.com/OTA-Insight/bqwriter) - High Level Go Library to write data into [Google BigQuery](https://cloud.google.com/bigquery) at a high throughout.
 *   [birdeye-go (⭐17)](https://github.com/tigusigalpa/birdeye-go) - Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.
+*   [bqwriter (⭐16)](https://github.com/OTA-Insight/bqwriter) - High Level Go Library to write data into [Google BigQuery](https://cloud.google.com/bigquery) at a high throughout.
 *   [brewerydb (⭐20)](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
 *   [cachet (⭐90)](https://github.com/andygrunwald/cachet) - Go client library for [Cachet (open source status page system)](https://cachethq.io/).
 *   [circleci (⭐65)](https://github.com/jszwedko/go-circleci) - Go client library for interacting with CircleCI's API.
@@ -3266,8 +3272,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [validator (⭐20k)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 *   [Validator (⭐7)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 *   [valix (⭐32)](https://github.com/marrow16/valix) Go package for validating requests
-*   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
 *   [vx (⭐0)](https://github.com/sevlyar/vx) - Validation built from small, composable checks with zero dependencies and a reconstructable error path.
+*   [Zog (⭐1.2k)](https://github.com/Oudwins/zog) - A [Zod (⭐44k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
     **[⬆ back to top](#contents)**
 
 ## Version Control
@@ -3357,7 +3363,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [rk-boot (⭐571)](https://github.com/rookie-ninja/rk-boot) - A bootstrapper library for building enterprise go microservice with Gin and gRPC quickly and easily.
 *   [Ronykit (⭐38)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
 *   [rux (⭐101)](https://github.com/gookit/rux) - Simple and fast web framework for build golang HTTP applications.
-*   [templui (⭐1.7k)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
+*   [shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) - Unofficial shadcn/ui port for Go and templ: accessible UI components with CLI and registry.
 *   [togo (⭐5)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
 *   [uAdmin (⭐356)](https://github.com/uadmin/uadmin) - Fully featured web framework for Golang, inspired by Django.
 *   [WebGo (⭐309)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
@@ -3441,6 +3447,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [tinygo (⭐18k)](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 *   [vert (⭐108)](https://github.com/norunners/vert) - Interop between Go and JS values.
 *   [wasmbrowsertest (⭐212)](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests in your browser.
+*   [wasmtime-go (⭐913)](https://github.com/bytecodealliance/wasmtime-go) - Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding).
 *   [webapi (⭐182)](https://github.com/gowebapi/webapi) - Bindings for DOM and HTML generated from WebIDL.
 
 **[⬆ back to top](#contents)**
@@ -3676,7 +3683,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [k9s (⭐35k)](https://github.com/derailed/k9s) - Kubernetes CLI to manage your clusters in style.
 *   [kala (⭐2.2k)](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 *   [kcli (⭐225)](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
-*   [kepfi](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
 *   [kind (⭐16k)](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 *   [ko (⭐8.5k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 *   [kool (⭐726)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
@@ -3814,9 +3820,9 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [tldx (⭐1.9k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
 *   [toxiproxy (⭐12k)](https://github.com/shopify/toxiproxy) - Proxy to simulate network and system conditions for automated tests.
 *   [tsuru](https://tsuru.io/) - Extensible and open source Platform as a Service software.
+*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 *   [vaku (⭐160)](https://github.com/lingrino/vaku) - CLI & API for folder-based functions in Vault like copy, move, and search.
 *   [vFlow (⭐1.2k)](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
-*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 *   [Wave Terminal](https://waveterm.dev) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 *   [wellington (⭐301)](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 *   [woke (⭐517)](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.

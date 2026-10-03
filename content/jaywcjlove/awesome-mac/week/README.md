@@ -21,6 +21,10 @@
 
 *   [Screen Loupe](https://ayenora.github.io/screen-loupe/) - Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ayenora/screen-loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Audio and Video Tools / File Sharing
+
+*   [OpenSpatial (⭐3)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / Audio Record and Process
 
 *   [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Digisensus/digisensus-recorder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -67,6 +71,10 @@
 ### Utilities / System Related Tools
 
 *   [MacFanPro (⭐7)](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/macfanpro/macfanpro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Gaming Software / System Related Tools
+
+*   [Classic Game Box (⭐3)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lazyfury/classic-game-box)
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 

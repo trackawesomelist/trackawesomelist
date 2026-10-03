@@ -26,6 +26,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Everframe](https://everframe.dev/) - Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.
 *   [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
 
+### Email
+
+*   [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
+*   [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
+
 ### Generative AI
 
 *   [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
@@ -35,9 +40,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Neon](https://neon.com) - Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.
 
+### Analytics, Events and Statistics
+
+*   [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
+
 ### Screenshot APIs
 
 *   [Ironfang Render](https://ironfang.com/render) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
+
+### Other Free Resources
+
+*   [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 

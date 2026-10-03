@@ -12,9 +12,17 @@
 
 *   [Frpc-Desktop (⭐6.9k)](https://github.com/luckjiawei/frpc-desktop) - Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luckjiawei/frpc-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Audio and Video Tools / File Sharing
+
+*   [OpenSpatial (⭐3)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Window Management
 
 *   [DockLens (⭐7)](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/firstfu/DockLens-app)
+
+### Gaming Software / System Related Tools
+
+*   [Classic Game Box (⭐3)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lazyfury/classic-game-box)
 
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 

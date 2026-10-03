@@ -16,6 +16,19 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Everframe](https://everframe.dev/) - Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.
 
+### Email
+
+*   [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
+*   [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
+
+### Analytics, Events and Statistics
+
+*   [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
+
+### Other Free Resources
+
+*   [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### Tools for Teams and Collaboration

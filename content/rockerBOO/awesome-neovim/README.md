@@ -12,6 +12,15 @@ Collections of awesome neovim plugins.
 
 *   [jonestristand/dune.nvim (⭐2)](https://github.com/jonestristand/dune.nvim) - ***`[TS][LSP][Lua]`*** Four (plus one) variants inspired by Frank Herbert's Dune.
 
+### Editing Support / Folding
+
+*   [markosnarinian/distill.nvim (⭐9)](https://github.com/markosnarinian/distill.nvim) - Fold logging and debug calls while preserving your function, class, and block folds.
+
+### UI / OS-specific
+
+*   [mjmjm0101/quickui.nvim (⭐16)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [markosnarinian/ln.nvim (⭐3)](https://github.com/markosnarinian/ln.nvim) - Relative numbers on the active window, absolute everywhere else.
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Session / Indent
@@ -478,10 +487,6 @@ Collections of awesome neovim plugins.
 
 *   [neur1n/hyphen.nvim (⭐5)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 
-### Editing Support / Folding
-
-*   [fold-logging.nvim (⭐9)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
-
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
 ### LSP
@@ -594,12 +599,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [marekh19/meowsoot.nvim (⭐38)](https://github.com/marekh19/meowsoot.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
-
-## [May 31, 2026](/content/2026/05/31/README.md)
-
-### UI / OS-specific
-
-*   [ln.nvim (⭐3)](https://github.com/markosnarinian/ln.nvim) - Relative numbers on the active window, absolute everywhere else.
 
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
@@ -782,10 +781,6 @@ Collections of awesome neovim plugins.
 ### LSP
 
 *   [retran/meow.yarn.nvim (⭐82)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
-
-### UI / OS-specific
-
-*   [quickui.nvim (⭐16)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 

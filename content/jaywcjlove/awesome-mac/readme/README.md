@@ -995,6 +995,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. ![Freeware][Freeware Icon]
 *   [Natron](https://natrongithub.github.io/) - Open-source node-based compositing software. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
+*   [OpenSpatial (⭐3)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
 *   [Perian](https://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 *   [MyMedia (⭐100)](https://github.com/photangralenphie/MyMedia) - Display and watch your local movie and TV show library. [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]
@@ -1671,6 +1672,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Gaming Software
 
 *   [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware][Freeware Icon]
+*   [Classic Game Box (⭐3)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
 *   [Highball](https://gethighball.com) - Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 *   [OpenEmu](https://openemu.org/) - Retro game emulator frontend for multiple console systems. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 *   [PlayCover (⭐12k)](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)

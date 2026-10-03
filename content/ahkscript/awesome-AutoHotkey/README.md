@@ -6,6 +6,25 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 [ Daily / [Weekly](/content/ahkscript/awesome-AutoHotkey/week/README.md) / [Overview](/content/ahkscript/awesome-AutoHotkey/readme/README.md) ]
 
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Clipboard
+
+*   [WinClip (⭐35)](https://github.com/TheArkive/WinClip_ahk2) - by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
+
+### Filesystem / Web
+
+*   [SpicyKeys (⭐0)](https://github.com/spicykeys/spicykeys.github.io) - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
+
+### Integrated Development Environment / Web
+
+*   [SciTE4AutoHotkey](https://www.autohotkey.com/scite4ahk/) - SciTE-based IDE for AutoHotkey.
+
+### (Use in) other programming languages / Web
+
+*   [.NET Framework Interop (CLR, C#, VB)](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4633) - Forum thread and documentation for the CLR library. The original download ~~[link](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip)~~ is no longer available.
+*   [PYAHK](https://pyahk.readthedocs.io/en/latest/) - Documentation for the Python interface. The original download ~~[link](https://bitbucket.org/kitsu/pyahk/downloads)~~ is no longer available.
+
 ## [Sep 18, 2026](/content/2026/09/18/README.md)
 
 ### Typing / Web
@@ -28,12 +47,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ### Networking / Web
 
 *   [Rufaydium WebDriver (⭐30)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
-
-## [Nov 28, 2021](/content/2021/11/28/README.md)
-
-### Filesystem / Web
-
-*   [SpicyKeys](https://spicykeys.github.io/) - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
 
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 
@@ -349,7 +362,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Plotting (graphs, bars, charts and etc) / Web
 
-*   [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
+*   [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download ~~[link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip)~~ (dead link).
 
 ### Mouse / Web
 
@@ -362,10 +375,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ### Window Management / Web
 
 *   [WindowPadX (⭐233)](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
-
-### (Use in) other programming languages / Web
-
-*   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
 ## [Apr 05, 2016](/content/2016/04/05/README.md)
 
@@ -399,10 +408,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *   [SnapX (⭐43)](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 
 ## [Jan 05, 2016](/content/2016/01/05/README.md)
-
-### Clipboard
-
-*   [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
 
@@ -511,7 +516,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ### Interpreter / Web
 
 *   [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
-*   [AutoHotkey DLL (⭐69)](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
+*   [AutoHotkey DLL (⭐69)](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation ~~[link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html)~~ (dead link).
 
 ### Debugging / Web
 
@@ -549,7 +554,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### (Use in) other programming languages / Web
 
-*   [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4633).
 *   [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
 *   [Exo-Javascript (⭐116)](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link (⭐10)](https://github.com/joedf/Exo-CLI.ahk).
 *   [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - Tutorial [link](https://autohotkey.com/boards/viewtopic.php?f=7\&t=32), C/C++ to MCode Generator forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4642).
@@ -632,9 +636,3 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ### Library Distributions / Web
 
 *   [ahk-libs (⭐162)](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
-
-## [Aug 04, 2014](/content/2014/08/04/README.md)
-
-### Integrated Development Environment / Web
-
-*   [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
