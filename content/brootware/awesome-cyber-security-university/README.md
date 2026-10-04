@@ -2,9 +2,15 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.5K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.6K · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Oct 04, 2026](/content/2026/10/04/README.md)
+
+### Introduction and Pre-Security / Level 1 - Intro
+
+*   [WebTerm Learn](https://learn.webterm.app/en/courses) - Free Linux command line courses where each lesson ends in hands-on exercises in a simulated terminal in the browser. A free account is needed after the first lesson.
 
 ## [Sep 14, 2026](/content/2026/09/14/README.md)
 

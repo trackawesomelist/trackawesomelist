@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / Weekly / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### AI and Machine Learning / Visual Studio
+
+*   [Predge](https://api.predge.io/.well-known/x402) - Polymarket whale trades, wallet scores and smart-money signals for AI agents, paid per call over x402 with USDC on Algorand via the GoPlausible facilitator.
+
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
 ### Official Resources
@@ -101,7 +107,7 @@
 
 *   [algonoderewards (⭐19)](https://github.com/cryptomalgo/algonoderewards) - Track and visualize Algorand node rewards using Nodely API.
 *   [lazylora (⭐13)](https://github.com/aorumbayev/lazylora) - Terminal UI for exploring Algorand blockchain.
-*   [txnDuck (⭐19)](https://github.com/No-Cash-7970/txnDuck) - Transaction building tool for Algorand blockchain.
+*   [txnDuck (⭐20)](https://github.com/No-Cash-7970/txnDuck) - Transaction building tool for Algorand blockchain.
 *   [wen-tools (⭐23)](https://github.com/LoafPickleWW/wen-tools) - Bulk operations tool for Algorand.
 *   [xGov-Guru (⭐4)](https://github.com/SilentRhetoric/xGov-Guru) - Tool to browse xGov voting data and proposals.
 
@@ -123,7 +129,7 @@
 
 ### Nodes & Consensus Participation / Visual Studio
 
-*   [nodekit (⭐56)](https://github.com/algorandfoundation/nodekit) - Terminal user interface for running and managing Algorand nodes locally.
+*   [nodekit (⭐55)](https://github.com/algorandfoundation/nodekit) - Terminal user interface for running and managing Algorand nodes locally.
 *   [reti (⭐44)](https://github.com/algorandfoundation/reti) - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 
 ### AI and Machine Learning / Visual Studio
@@ -151,7 +157,7 @@
 
 *   [AlgoKit Docs](https://dev.algorand.co/algokit/algokit-intro/) - Official Algorand AlgoKit documentation.
 *   [algokit-avm-vscode-debugger (⭐13)](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
-*   [algokit-cli (⭐190)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
+*   [algokit-cli (⭐192)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 *   [algokit-client-generator-py (⭐3)](https://github.com/algorandfoundation/algokit-client-generator-py) - Algorand AlgoKit Typed Client Generator for Python.
 *   [algokit-client-generator-ts (⭐5)](https://github.com/algorandfoundation/algokit-client-generator-ts) - Algorand AlgoKit Typed Client Generator for TypeScript.
 *   [algokit-lora](https://lora.algokit.io/mainnet) - Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).
@@ -170,7 +176,7 @@
 
 ### Smart Contract Development / Frameworks & Utilities
 
-*   [d-asa (⭐10)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
+*   [d-asa (⭐13)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
 
 ### Algorand Request for Comments / Visual Studio
 
@@ -317,7 +323,7 @@
 
 ### Projects
 
-*   [staketaxcsv (⭐271)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
+*   [staketaxcsv (⭐268)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 
 ### Deployment & Environment / Visual Studio
 
@@ -628,7 +634,7 @@
 
 ### Language SDKs & Tools / Rust
 
-*   [rust-algorand-sdk (⭐70)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐71)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Language SDKs & Tools / Swift
 
@@ -692,8 +698,8 @@
 
 ### Language SDKs & Tools / Python
 
-*   [py-algorand-sdk (⭐275)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [py-algorand-sdk (⭐274)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [tinyman-py-sdk (⭐119)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 ### Language SDKs & Tools / Java
 
@@ -710,7 +716,7 @@
 
 ### Smart Contract Development / Languages & Compilers
 
-*   [pyteal (⭐289)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal (⭐288)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 
 ### Smart Contract Development / Frameworks & Utilities
 
@@ -730,7 +736,7 @@
 
 ### Deployment & Environment / Visual Studio
 
-*   [Algorand Sandbox (⭐241)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [Algorand Sandbox (⭐240)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 
 ### Blockchain Explorers / Visual Studio
 

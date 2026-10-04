@@ -11,6 +11,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [claude-code-go (⭐49)](https://github.com/lancekrogers/claude-code-go) - Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.
+*   [Genkit (⭐6.5k)](https://github.com/firebase/genkit) - Framework created by Google for building AI-powered and agentic applications in idiomatic Go.
 
 ### Audio and Music
 
@@ -32,6 +33,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [dba (⭐2)](https://github.com/kran/dba) - SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.
 *   [sqlcredo (⭐3)](https://github.com/Klojer/sqlcredo) - Package for type-safe generic SQL CRUD operations with pagination, transactions, debugging, and custom raw SQL extensions.
+
+### Date and Time
+
+*   [timex (⭐22)](https://github.com/invzhi/timex) - A Go package that extends the standard library time with dedicated date and time-of-day types.
+
+### Error Handling
+
+*   [go-bruh (⭐3)](https://github.com/aisbergg/go-bruh) - Error handling with stack traces, custom formatting, and observability integration.
 
 ### File Handling
 
@@ -64,6 +73,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [axiom (⭐32)](https://github.com/Nikita-Filonov/axiom) - Composable Go test framework with fixtures, hooks, retries, metadata, plugins, and parallel execution.
 
+### Mock
+
+*   [gomocker (⭐1)](https://github.com/zhongjie-cai/gomocker) - A live mocker library for functions and methods in Golang for unit testing with fluent syntax, no code-gen needed.
+
 ### UUID
 
 *   [nanoid (⭐36)](https://github.com/sixafter/nanoid) - Efficient, cryptographically secure generator for fast, concurrent NanoID and UUID creation.
@@ -76,13 +89,39 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [shadcn-templ (⭐1.7k)](https://github.com/axadrn/shadcn-templ) - Unofficial shadcn/ui port for Go and templ: accessible UI components with CLI and registry.
 
+### Middlewares / Actual middlewares
+
+*   [apitally (⭐8)](https://github.com/apitally/apitally-go) - API monitoring and analytics middleware with metrics, logging, and alerts. Works with Chi, Echo, Fiber, and Gin.
+
 ### WebAssembly / Libraries for creating HTTP middlewares
 
 *   [wasmtime-go (⭐913)](https://github.com/bytecodealliance/wasmtime-go) - Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding).
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [lima (⭐22k)](https://github.com/lima-vm/lima) - Linux virtual machines with a focus on running containers and local VM workloads.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [claude-grep (⭐2)](https://github.com/evoleinik/claude-grep) - Search Claude Code session history with regex and semantic (vector) search.
+*   [SiteBrush (⭐0)](https://github.com/matveynator/sitebrush) - Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.
+
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GoWest Conference](https://gowestconf.com/) - Lehi, USA.
+
+### Free e-books / Libraries for creating HTTP middlewares
+
+*   [An Introduction to Programming in Go](https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro)
+
+### Websites / Libraries for creating HTTP middlewares
+
+*   [ReadyToTouch (⭐2k)](https://github.com/readytotouch/readytotouch) - Open-source list of [companies](https://readytotouch.com/golang/companies) and [jobs](https://readytotouch.com/golang/jobs) using Go in production.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [Go Language Tutorial](https://www.tpointtech.com/go-tutorial) - Learn Go language Tutorial.
+*   [Programming for Lovers](https://programmingforlovers.com) - Free introductory programming course with Go code-alongs built around scientific applications.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -5951,7 +5990,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-lark (⭐247)](https://github.com/go-lark/lark) - An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platform.
 *   [go-marathon (⭐198)](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
 *   [go-myanimelist (⭐45)](https://github.com/nstratos/go-myanimelist) - Go client library for accessing the [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2).
-*   [go-openproject (⭐19)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://docs.openproject.org/api/) API.
+*   [go-openproject (⭐19)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://www.openproject.org/docs/api/) API.
 *   [go-postman-collection (⭐85)](https://github.com/rbretecher/go-postman-collection) - Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) (compatible with Insomnia).
 *   [go-sophos (⭐12)](https://github.com/esurdam/go-sophos) - Go client library for the [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) with zero dependencies.
 *   [go-swagger-ui (⭐11)](https://github.com/esurdam/go-swagger-ui) - Go library containing precompiled [Swagger UI](https://swagger.io/tools/swagger-ui/) for serving swagger json.
@@ -6516,8 +6555,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [GopherCon Russia](https://www.gophercon-russia.ru) - Moscow, Russia.
 *   [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore.
 *   [GopherCon UK](https://www.gophercon.co.uk/) - London, UK.
-*   [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
-*   [GoWest Conference](https://www.gowestconf.com/) - Lehi, USA.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -6532,7 +6569,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Free e-books / Libraries for creating HTTP middlewares
 
 *   [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
-*   [An Introduction to Programming in Go](http://www.golang-book.com/)
 *   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 *   [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 *   [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
@@ -6681,7 +6717,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Go By Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
 *   [Go Cheat Sheet (⭐8.8k)](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.
 *   [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
-*   [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - Learn Go language Tutorial.
 *   [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - Learn Go programming.
 *   [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 *   [go-clean-template (⭐7.7k)](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services.

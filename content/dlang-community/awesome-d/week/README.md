@@ -20,13 +20,28 @@
 
 *   [Andrei Alexandrescu, PhD](https://erdani.org/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
 
+### Events / Status page
+
+*   [D Programming Language Symposium](https://dlangsymposium.com/) - A two-day symposium on the D language featuring a colloquium and talks.
+
+### Dev Tools / Status page
+
+*   [dejadoc](https://codeberg.org/ddn/dejadoc) - Static documentation generator for D packages, generating searchable HTML documentation from DUB registry packages. See it in action at [dlang.uk](https://dlang.uk).
+
 ### CLI Applications / Status page
 
 *   [websitino (⭐95)](https://github.com/trikko/websitino) - Single-binary static file server for local development, with directory listing, Markdown rendering and https.
 
+### GUI Applications / Status page
+
+*   [dterm](https://codeberg.org/dejan/dterm) - A minimalistic terminal emulator written in D using GTK4 and VTE.
+*   [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using [giD (⭐44)](https://github.com/Kymorphia/gid) (GTK 4 and GStreamer).
+*   [Veb](https://codeberg.org/ddn/veb) - Minimal, tabbed web browser written in D using [giD (⭐44)](https://github.com/Kymorphia/gid) (GTK4, libadwaita, WebKitGTK 6).
+
 ### Game Libraries / Status page
 
 *   [wasip1libc-d (⭐3)](https://github.com/Kapendev/wasip1libc-d) - A minimal WASI Preview 1 libc + browser host.
+*   [raylib-d-template (⭐5)](https://github.com/Kapendev/raylib-d-template) - A simple template for raylib-d projects.
 
 ### Cryptography / Language Processing
 
@@ -161,7 +176,7 @@
 ### Official Websites
 
 *   [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
-*   [Issue tracker](https://github.com/dlang) – Official issue tracker for D.
+*   [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 *   [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
 
 ### People / Status page

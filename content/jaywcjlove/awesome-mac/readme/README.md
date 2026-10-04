@@ -848,6 +848,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 *   [CodexBar](https://codexbar.app) - Show usage stats for OpenAI Codex and Claude Code, without having to login. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 *   [Cursor Voice](https://cursorvoice.app) - Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
+*   [DataNexa](https://mingozacwu.github.io/datanexa-site/) - Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents. [![Open-Source Software][OSS Icon]](https://github.com/MingoZacwu/DataNexa) ![Freeware][Freeware Icon]
 *   [DeepDeck](https://deepdeck.getmegaportal.com/) - Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks. [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 *   [Desktop Control (⭐67)](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 *   [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
@@ -1129,7 +1130,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 *   [Web (⭐666)](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 *   [Vivaldi](https://vivaldi.com) - The browser that puts you in control. ![Freeware][Freeware Icon]
-*   [Yalqen](https://yalqen.com/) - Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar. [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
+*   [Yalqen](https://yalqen.com/) - Open-source Chromium browser for developers with vertical tabs, a keyboard-first command bar, built-in developer tools, and ad and tracker blocking. [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
 *   [Yandex](https://browser.yandex.com/) - The quick and secure browser from Yandex for computers. ![Freeware][Freeware Icon]
 *   [Zen](https://zen-browser.app/) - A beautifully designed, privacy-focused, and feature-rich browser ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 

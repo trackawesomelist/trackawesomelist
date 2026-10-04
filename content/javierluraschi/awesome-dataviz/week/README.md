@@ -36,9 +36,10 @@
 
 ### C++ tools / Misc
 
-*   [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
+*   [Visualization Toolkit (VTK) (⭐3.2k)](https://github.com/Kitware/VTK) - open-source library for 3d Graphics, image processing and visualization.
+*   [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitHub (⭐1.7k)](https://github.com/Kitware/ParaView))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing. (C++, MIT, [GitHub (⭐2.2k)](https://github.com/nmwsharp/polyscope))
-*   [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub (⭐4.7k)](https://github.com/f3d-app/f3d))
+*   [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub (⭐4.7k)](https://github.com/f3d-app/f3d))
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization. (C++/Python, BSD, [GitHub (⭐481)](https://github.com/topology-tool-kit/ttk))
 
 ### Golang tools / Misc
@@ -56,6 +57,7 @@
 *   [bqplot (⭐3.7k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks.
 *   [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 *   [Quibbler (⭐332)](https://github.com/Technion-Kishony-lab/quibbler) - Your data and anything you plot is effortlessly live and interactive.
+*   [Rerun (⭐12k)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
 *   [syd (⭐30)](https://github.com/landoskape/syd) - A package for making GUIs around matplotlib figures easy, fast, and streamlined.
 *   [uniplot (⭐461)](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 *   [pyecharts (⭐16k)](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
@@ -64,7 +66,6 @@
 
 ### Rust tools / Misc
 
-*   [Rerun (⭐12k)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
 *   [malevich (⭐69)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
 
 ### Other tools / Misc
@@ -76,7 +77,7 @@
 *   [ink-uplot (⭐1)](https://github.com/planadecu/ink-uplot) - Render uPlot charts in the terminal (React Ink) with truecolor Unicode and kitty/sixel/iTerm2 graphics.
 *   [Squey](https://squey.org) - Visualization software for exploring and understanding large amounts of tabular data (using parallel coordinates, timeseries and scatter plots).
 *   [RATH (⭐4.7k)](https://github.com/Kanaries/Rath) - Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.
-*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+*   [ERD Lab](https://erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 *   [Plotivy](https://plotivy.app/) - Scientific data visualization tool, with AI-generated reproducible Python code, and research-oriented design best practices built in.
 
 ### Books / Misc
@@ -89,7 +90,9 @@
 *   [Global Data Tracker](https://globaldatatracker.com/) - Interactive country-statistics explorer with historical charts and globe views.
 *   [Plottie](https://plottie.art) - Open-access library of scientific plots for inspiration and AI visualization tool.
 *   [The Planet Thinks](https://theplanetthinks.com/) - Real-time visualization of Wikipedia edits on a 3D globe
+*   [VivaMap](https://vivamap.ch) - Interactive quality-of-life map of Swiss and Dutch municipalities, scored on an H3 hexagon grid.
 *   [Marble Taxonomy Explorer](https://ashutoshsinghpr7.github.io/marble-taxonomy-explorer/) - Interactive knowledge graph visualization of 1,590 learning topics using Cytoscape.js with force-directed, concentric, and BFS layouts. [Source (⭐9)](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer)
+*   [Hal9](https://hal9.com) is the corporate sponsor.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -213,7 +216,6 @@
 ### Books / Misc
 
 *   [Interactive Data Visualization for the Web](https://chimera.labs.oreilly.com/books/1230000000345) by Scott Murray. Available to read online. Focused on D3.
-*   [Data Visualization Toolkit](https://datavisualizationtoolkit.com) by Barrett Austin Clark. Uses D3, Ruby on Rails, Postgres, PostGIS, & Leaflet.
 *   [Data Visualisation: A Handbook for Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/) by Andy Kirk
 
 ### Catalogs / Misc
@@ -240,7 +242,7 @@
 *   [Makeover Monday](https://www.makeovermonday.co.uk/) blog - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) on twitter
 *   [University of Washington Interactive Data Lab Papers](https://idl.cs.washington.edu/papers)
 *   Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
-*   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer, he builds predictive visualizations at [Hal9](https://hal9.com).
+*   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
@@ -259,12 +261,6 @@
 ### Python tools / Misc
 
 *   [ipychart (⭐133)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
-
-## [May 18 - May 24, 2020](/content/2020/20/README.md)
-
-### Websites / Misc
-
-*   [Data For Visualization](https://dataforvisualization.com/) blog - Storytelling with data from the software developer's eye
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
@@ -436,12 +432,6 @@
 
 *   [ggplot (⭐3.7k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 
-## [Dec 05 - Dec 11, 2016](/content/2016/49/README.md)
-
-### JavaScript tools / Maps
-
-*   [CARTO](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
-
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
 ### JavaScript tools / Maps
@@ -547,10 +537,6 @@
 *   [Nadieh Bremer](https://twitter.com/NadiehBremer)
 
 ## [Sep 28 - Oct 04, 2015](/content/2015/39/README.md)
-
-### C++ tools / Misc
-
-*   [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ### Ruby tools / Misc
 

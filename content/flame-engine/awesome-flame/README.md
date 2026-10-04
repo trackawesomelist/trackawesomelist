@@ -6,6 +6,23 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Oct 04, 2026](/content/2026/10/04/README.md)
+
+### App Releases / Arcade
+
+*   Oh Dash! - [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
+
+### App Releases / Casual
+
+*   Dhoruba - [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
+*   Wormo - [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique.
+    By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+*   Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu)
+
+### App Releases / Sports
+
+*   Cycling Escape - [GitHub (⭐11)](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Plugins & Libraries
@@ -126,17 +143,11 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
 
-## [May 09, 2024](/content/2024/05/09/README.md)
-
-### Open Source / Casual
-
-*   [Flappy Dash](https://github.com/RutvikPanchal246/FlappyDash)  - Gives classic flappy bird game play experience. Get it on [Play Store](https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash). By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
-
 ## [Apr 23, 2024](/content/2024/04/23/README.md)
 
 ### App Releases / Puzzle Games
 
-*   [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
+*   [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
 ## [Jan 28, 2024](/content/2024/01/28/README.md)
 
@@ -194,7 +205,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Simulation
 
-*   Random Race - [Android](https://play.google.com/store/apps/details?id=com.sopivasti.randomrace), [iOS](https://apps.apple.com/us/app/random-race-simulator/id6450887585) - A racing simulation app with cute dinos to help you make decisions when you find yourself indecisive. By [Sopivasti](https://www.sopivasti.com/)
+*   Random Race - [Android](https://play.google.com/store/apps/details?id=com.sopivasti.randomrace) - A racing simulation app with cute dinos to help you make decisions when you find yourself indecisive. By [Sopivasti](https://www.sopivasti.com/)
 
 ## [Apr 18, 2023](/content/2023/04/18/README.md)
 
@@ -219,12 +230,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### App Releases / Casual
 
 *   TTG - Through The Galaxies - [Android](https://play.google.com/store/apps/details?id=dev.app2pack.ttg), [iOS](https://apps.apple.com/app/ttg-through-the-galaxy/id6444870791?platform=iphone) - Control the rocket to go through the planets to gain higher and higher score. By [imaNNeo](https://github.com/imaNNeo)
-
-## [Dec 13, 2022](/content/2022/12/13/README.md)
-
-### App Releases / Arcade
-
-*   Oh Dash! - [Android](https://play.google.com/store/apps/details?id=br.arkd.owdash), [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -269,7 +274,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Casual
 
-*   [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick), [iOS](https://apps.apple.com/us/app/brick-mania/id1574554961) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital](https://www.dong.digital "Dong Digital").
+*   [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital](https://www.dong.digital "Dong Digital").
 
 ### App Releases / Educational
 
@@ -342,7 +347,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Board
 
-*   Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
+*   Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
 ## [Oct 28, 2021](/content/2021/10/28/README.md)
 
@@ -353,12 +358,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### App Releases / Online Multiplayer
 
 *   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐117)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
-
-## [Jun 05, 2021](/content/2021/06/05/README.md)
-
-### App Releases / Sports
-
-*   Cycling Escape - [Android](https://play.google.com/store/apps/details?id=be.wive.cyclingescape), [iOS](https://apps.apple.com/us/app/cycling-escape/id1553634302#?platform=iphone), [GitHub (⭐11)](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)
 
 ## [May 10, 2021](/content/2021/05/10/README.md)
 
@@ -380,33 +379,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
 
-## [Mar 14, 2021](/content/2021/03/14/README.md)
-
-### App Releases / Metroidvania
-
-*   [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales\&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
-
-### App Releases / Tower Defense
-
-*   Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
-
 ## [Jan 30, 2021](/content/2021/01/30/README.md)
-
-### App Releases / Casual
-
-*   Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique.
-    By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 ### App Releases / Puzzle Games
 
 *   Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
     By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
-
-## [Dec 28, 2020](/content/2020/12/28/README.md)
-
-### App Releases / Casual
-
-*   Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
 ## [Dec 18, 2020](/content/2020/12/18/README.md)
 
@@ -455,7 +433,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Casual
 
-*   KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
+*   KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
 ## [Apr 18, 2020](/content/2020/04/18/README.md)
 

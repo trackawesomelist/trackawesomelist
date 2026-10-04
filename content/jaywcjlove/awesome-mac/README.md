@@ -8,6 +8,10 @@
 
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
+### AI Tools / Other Tools
+
+*   [DataNexa](https://mingozacwu.github.io/datanexa-site/) - Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MingoZacwu/DataNexa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Cleanup and Uninstall
 
 *   [MacDirStat (⭐67)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/phalladar/MacDirStat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -70,7 +74,7 @@
 
 ### Browsers / Audio Record and Process
 
-*   [Yalqen](https://yalqen.com/) - Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YSamed/yalqen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Yalqen](https://yalqen.com/) - Open-source Chromium browser for developers with vertical tabs, a keyboard-first command bar, built-in developer tools, and ad and tracker blocking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YSamed/yalqen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 

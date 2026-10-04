@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.5K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 3.6K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -57,7 +57,7 @@ There are 6 parts to this.
 
 <!--lint disable double-link-->
 
-As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://Github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
+As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/awesome-cyber-security-university/blob/main/README.md/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
 
 <!--lint disable double-link-->
 
@@ -67,7 +67,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐3.5k)](https://Github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐3.6k)](https://Github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 
@@ -86,6 +86,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Red Team Engagements](https://tryhackme.com/room/redteamengagements) - Intro to red team engagements.
 *   [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 *   [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+*   [WebTerm Learn](https://learn.webterm.app/en/courses) - Free Linux command line courses where each lesson ends in hands-on exercises in a simulated terminal in the browser. A free account is needed after the first lesson.
 
 <!-- markdownlint-disable MD036 -->
 

@@ -2,7 +2,7 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.9K · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / Overview ]
 
@@ -27,7 +27,7 @@ More information in CLAUDE.md and llms.txt.
 
 > \[!CAUTION]
 >
-> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected.
+> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected. This is **NOT** a list for your new AI tool or whisper transcribe wrapper.
 
 > \[!NOTE]
 >
@@ -170,15 +170,15 @@ More information in CLAUDE.md and llms.txt.
 *   [btop4win (⭐2k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 *   [Cinema (⭐37)](https://github.com/marm00/cinema) - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Fastfetch (⭐24k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [gallery-dl (⭐19k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Fastfetch (⭐25k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [gallery-dl (⭐20k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [gitty (⭐28)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
 *   [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases)
 *   [Scoop (⭐25k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [winfetch (⭐1.8k)](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch)
 *   [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
-*   [yt-dlp (⭐188k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## Communication
 
@@ -208,19 +208,19 @@ More information in CLAUDE.md and llms.txt.
 ## Customization
 
 *   [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
-*   [OpenShell (⭐9.3k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [OpenShell (⭐9.4k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 *   [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout)
 *   [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 *   [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 *   [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
 *   [Sucrose Wallpaper Engine (⭐1.5k)](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
-*   [Talkdedsec Visual (⭐0)](https://github.com/Talkdedsec1/tlk-visual) - Adjusts screen brightness, contrast, gamma and colour temperature in real time. [![Open-Source Software][oss]](https://github.com/Talkdedsec1/tlk-visual)
+*   [Talkdedsec Visual (⭐2)](https://github.com/Talkdedsec1/tlk-visual) - Adjusts screen brightness, contrast, gamma and colour temperature in real time. [![Open-Source Software][oss]](https://github.com/Talkdedsec1/tlk-visual)
 *   [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 *   [TranslucentTB (⭐20k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
 *   [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
-*   [YASB (⭐5.4k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐5.6k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
 
 ## Data Recovery
@@ -284,7 +284,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Awesome Games (⭐25k)](https://github.com/leereilly/games) - List of games hosted on GitHub.
 *   [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
 *   [Freeciv](https://www.freeciv.org/) - Free empire-building strategy game inspired by human civilization. [![Open-Source Software][oss]](https://github.com/freeciv/)
-*   [Gale (⭐742)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐808)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 *   [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 *   [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
@@ -380,12 +380,12 @@ More information in CLAUDE.md and llms.txt.
 *   [KeePassXC](https://keepassxc.org/) = Local open-source KeePass client. [![Open-Source Software][oss]](https://github.com/keepassxreboot/keepassxc)
 *   [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software][oss]](https://github.com/padloc/padloc)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star]
-*   [Vaultwarden (⭐66k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden)
+*   [Vaultwarden (⭐68k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden)
 
 ## Productivity
 
 *   [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
+*   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction. [![Open-Source Software][oss]](https://github.com/mnardit/beetroot-releases)
 *   [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 *   [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
@@ -398,15 +398,15 @@ More information in CLAUDE.md and llms.txt.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
 *   [OpenHabitTracker](https://openhabittracker.net) - Take notes, plan tasks, and track habits. [![Open-Source Software][oss]](https://github.com/Jinjinov/OpenHabitTracker)
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
-*   [STranslate (⭐7.9k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐8.2k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 *   [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 *   [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
-*   [Saga Reader (⭐535)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-*   [EyeRest (⭐28)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+*   [Saga Reader (⭐539)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [EyeRest (⭐30)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 *   [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us\&gl=JO\&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
 
@@ -424,13 +424,13 @@ More information in CLAUDE.md and llms.txt.
 ## Remote Access
 
 *   [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
-*   [Moonlight (⭐18k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ![star]
+*   [Moonlight (⭐19k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ![star]
 *   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. ![star]
 *   [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
 *   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
 *   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software][oss]](https://github.com/rustdesk/rustdesk)
 *   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
-*   [Sunshine (⭐41k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software][oss]](https://github.com/LizardByte/Sunshine) ![star]
+*   [Sunshine (⭐42k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software][oss]](https://github.com/LizardByte/Sunshine) ![star]
 *   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
 *   [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
@@ -440,12 +440,12 @@ More information in CLAUDE.md and llms.txt.
 *   [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 *   [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ![star]
 *   [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
-*   [YAKC (⭐104)](https://github.com/iammodev/YAKC) - Keystroke and mouse-click visualizer for screencasts, streaming and presentations. [![Open-Source Software][oss]](https://github.com/iammodev/YAKC)
+*   [YAKC (⭐113)](https://github.com/iammodev/YAKC) - Keystroke and mouse-click visualizer for screencasts, streaming and presentations. [![Open-Source Software][oss]](https://github.com/iammodev/YAKC)
 *   [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - Screen zoom and annotation tool for presentations.
 
 ## Screenshot
 
-*   [Capter (⭐235)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
+*   [Capter (⭐238)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 *   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 *   [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
 *   [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
@@ -456,8 +456,9 @@ More information in CLAUDE.md and llms.txt.
 
 *   [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 *   [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
-*   [Certificate Ripper (⭐922)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
-*   [cppcryptfs (⭐957)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [capyknock](https://plinioseniore.github.io/capyknock/) - Single Packet Authorization in fwknop style [![Open-Source Software][oss]](https://github.com/plinioseniore/capyknock)
+*   [Certificate Ripper (⭐928)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
+*   [cppcryptfs (⭐967)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 *   [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 *   [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 *   [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
@@ -479,10 +480,10 @@ More information in CLAUDE.md and llms.txt.
 *   [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 *   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 *   [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
-*   [CrunchyCleaner (⭐146)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
+*   [CrunchyCleaner (⭐156)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
 *   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 *   [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
-*   [HardwareExporterWindows (⭐10)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
+*   [HardwareExporterWindows (⭐9)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
 *   [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 *   [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 *   [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
@@ -490,13 +491,13 @@ More information in CLAUDE.md and llms.txt.
 *   [LightBulb (⭐2.8k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 *   [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
 *   [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
-*   [neohtop (⭐9.3k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
+*   [neohtop (⭐9.4k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
 *   [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 *   [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
 *   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker)
 *   [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent)
 *   [Rufus](https://rufus.ie/) - Bootable USB creation utility. [![Open-Source Software][oss]](https://github.com/pbatard/rufus)
-*   [scrcpy (⭐149k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐151k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
 *   [Servy (⭐2k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 *   [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
@@ -506,11 +507,11 @@ More information in CLAUDE.md and llms.txt.
 *   [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 *   [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 *   [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
-*   [GPU Shark (⭐5)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
+*   [GPU Shark (⭐31)](https://github.com/k1gs/Gpu-Shark) - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 
 ## Terminal
 
-*   [Alacritty (⭐65k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Alacritty (⭐66k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder)
 *   [ConEmu (⭐9.3k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 *   [FluentTerminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
@@ -543,7 +544,7 @@ More information in CLAUDE.md and llms.txt.
 *   [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 *   [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
 *   [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
-*   [GitLight (⭐928)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐927)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Meld](https://meldmerge.org/) - Visual diff and merge tool. [![Open-Source Software][oss]](https://gitlab.gnome.org/GNOME/meld/)
 *   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 *   [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
@@ -558,7 +559,7 @@ More information in CLAUDE.md and llms.txt.
 *   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
 *   [PotPlayer](https://potplayer.tv/) - Media player with hardware acceleration and streaming capabilities.
-*   [Screenbox (⭐4.1k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
+*   [Screenbox (⭐4.5k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 *   [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
@@ -576,11 +577,11 @@ More information in CLAUDE.md and llms.txt.
 
 ## Window Management
 
-*   [AltSnap (⭐5.2k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
-*   [FancyZones (⭐138k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
+*   [AltSnap (⭐5.3k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
+*   [FancyZones (⭐139k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
 *   [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 *   [GlazeWM (⭐13k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
-*   [WinGlide (⭐8)](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide)
+*   [WinGlide (⭐11)](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide)
 
 ## Backers
 

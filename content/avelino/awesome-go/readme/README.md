@@ -240,6 +240,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [Cynative (⭐208)](https://github.com/cynative/cynative) - Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research.
 *   [dakera-go (⭐7)](https://github.com/dakera-ai/dakera-go) - Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
 *   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
+*   [Genkit (⭐6.5k)](https://github.com/firebase/genkit) - Framework created by Google for building AI-powered and agentic applications in idiomatic Go.
 *   [goai (⭐211)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 *   [GoModel (⭐1.2k)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 *   [hotplex (⭐50)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
@@ -1074,6 +1075,7 @@ additional ordered map implementations.
 *   [strftime (⭐14)](https://github.com/awoodbeck/strftime) - C99-compatible strftime formatter.
 *   [timespan (⭐84)](https://github.com/SaidinWoT/timespan) - For interacting with intervals of time, defined as a start time and a duration.
 *   [timeutil (⭐193)](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
+*   [timex (⭐22)](https://github.com/invzhi/timex) - A Go package that extends the standard library time with dedicated date and time-of-day types.
 *   [tuesday (⭐13)](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
 
 **[⬆ back to top](#contents)**
@@ -1246,6 +1248,7 @@ additional ordered map implementations.
 *   [exception (⭐38)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 *   [Falcon (⭐11)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 *   [Fault (⭐308)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+*   [go-bruh (⭐3)](https://github.com/aisbergg/go-bruh) - Error handling with stack traces, custom formatting, and observability integration.
 *   [go-errr (⭐2)](https://github.com/go-errr/go) - Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go.
 *   [go-multierror (⭐2.6k)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
 *   [metaerr (⭐6)](https://github.com/quantumcycle/metaerr) - A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
@@ -2772,6 +2775,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-txdb (⭐753)](https://github.com/DATA-DOG/go-txdb) - Single transaction based database driver mainly for testing purposes.
 *   [gomock (⭐3.4k)](https://github.com/uber-go/mock) - Mocking framework for the Go programming language.
 *   [gomock (⭐7)](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
+*   [gomocker (⭐1)](https://github.com/zhongjie-cai/gomocker) - A live mocker library for functions and methods in Golang for unit testing with fluent syntax, no code-gen needed.
 *   [govcr (⭐200)](https://github.com/seborama/govcr) - HTTP mock for Golang: record and replay HTTP interactions for offline testing.
 *   [hoverfly (⭐2.5k)](https://github.com/SpectoLabs/hoverfly) - HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
 *   [httpmock (⭐2.1k)](https://github.com/jarcoal/httpmock) - Easy mocking of HTTP responses from external resources.
@@ -2960,7 +2964,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-marathon (⭐198)](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
 *   [go-myanimelist (⭐45)](https://github.com/nstratos/go-myanimelist) - Go client library for accessing the [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2).
 *   [go-openai (⭐11k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
-*   [go-openproject (⭐19)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://docs.openproject.org/api/) API.
+*   [go-openproject (⭐19)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://www.openproject.org/docs/api/) API.
 *   [go-postman-collection (⭐85)](https://github.com/rbretecher/go-postman-collection) - Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) (compatible with Insomnia).
 *   [go-redoc (⭐95)](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/).
 *   [go-restcountries (⭐3)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
@@ -3380,6 +3384,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 #### Actual middlewares
 
+*   [apitally (⭐8)](https://github.com/apitally/apitally-go) - API monitoring and analytics middleware with metrics, logging, and alerts. Works with Chi, Echo, Fiber, and Gin.
 *   [client-timing (⭐25)](https://github.com/posener/client-timing) - An HTTP client for Server-Timing header.
 *   [CORS (⭐2.9k)](https://github.com/rs/cors) - Easily add CORS capabilities to your API.
 *   [echo-middleware (⭐16)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
@@ -3698,6 +3703,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [KubeVPN (⭐1.4k)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 *   [KusionStack (⭐1.3k)](https://github.com/KusionStack/kusion) - A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
+*   [lima (⭐22k)](https://github.com/lima-vm/lima) - Linux virtual machines with a focus on running containers and local VM workloads.
 *   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐33)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐309)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
@@ -3814,6 +3820,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [ScheduleGate (⭐2)](https://github.com/gjunqueira-sys/ScheduleGate) - DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.
 *   [Seaweed File System (⭐41)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
+*   [SiteBrush (⭐0)](https://github.com/matveynator/sitebrush) - Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [sonic (⭐2.1k)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.
 *   [spotify-screensaver (⭐0)](https://github.com/benzjeremy/spotify-screensaver) - Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
@@ -3878,8 +3885,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GopherCon Russia](https://www.gophercon-russia.ru) - Moscow, Russia.
 *   [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore.
 *   [GopherCon UK](https://www.gophercon.co.uk/) - London, UK.
-*   [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
-*   [GoWest Conference](https://www.gowestconf.com/) - Lehi, USA.
+*   [GoWest Conference](https://gowestconf.com/) - Lehi, USA.
 
 **[⬆ back to top](#contents)**
 
@@ -3906,7 +3912,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### Free e-books
 
 *   [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
-*   [An Introduction to Programming in Go](http://www.golang-book.com/)
+*   [An Introduction to Programming in Go](https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro)
 *   [Build a blockchain from scratch in Go with gRPC (⭐554)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 *   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 *   [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -4079,6 +4085,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Libs.tech](https://libs.tech/go) – Awesome Go libraries and hidden gems
 *   [Made with Golang](https://madewithgolang.com/?ref=awesome-go)
 *   [pkg.go.dev](https://pkg.go.dev/) - Documentation for open source Go packages.
+*   [ReadyToTouch (⭐2k)](https://github.com/readytotouch/readytotouch) - Open-source list of [companies](https://readytotouch.com/golang/companies) and [jobs](https://readytotouch.com/golang/jobs) using Go in production.
 *   [studygolang](https://studygolang.com) - The community of studygolang in China.
 *   [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 *   [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
@@ -4104,7 +4111,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Go Cheat Sheet (⭐8.8k)](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.
 *   [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
 *   [Go in 7 days (⭐167)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
-*   [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - Learn Go language Tutorial.
+*   [Go Language Tutorial](https://www.tpointtech.com/go-tutorial) - Learn Go language Tutorial.
 *   [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - Learn Go programming.
 *   [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 *   [go-clean-template (⭐7.7k)](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services.
@@ -4128,6 +4135,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Series of articles in order to learn Golang language by concrete applications as example.
 *   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 *   [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
+*   [Programming for Lovers](https://programmingforlovers.com) - Free introductory programming course with Go code-alongs built around scientific applications.
 *   [Programming with Google Go](https://www.coursera.org/specializations/google-golang) - Coursera Specialization to learn about Go from scratch.
 *   [Scaling Go Applications](https://betterstack.com/community/guides/scaling-go/) - Everything about building, deploying and scaling Go applications in production.
 *   [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)

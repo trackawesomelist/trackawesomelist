@@ -21,6 +21,10 @@
 
 *   [Screen Loupe](https://ayenora.github.io/screen-loupe/) - Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ayenora/screen-loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### AI Tools / Other Tools
+
+*   [DataNexa](https://mingozacwu.github.io/datanexa-site/) - Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MingoZacwu/DataNexa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / File Sharing
 
 *   [OpenSpatial (⭐3)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -39,7 +43,7 @@
 
 ### Browsers / Audio Record and Process
 
-*   [Yalqen](https://yalqen.com/) - Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YSamed/yalqen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Yalqen](https://yalqen.com/) - Open-source Chromium browser for developers with vertical tabs, a keyboard-first command bar, built-in developer tools, and ad and tracker blocking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YSamed/yalqen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Translation Tools / Audio Record and Process
 

@@ -10,7 +10,7 @@
 
 # Awesome Dataviz
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Test](https://github.com/javierluraschi/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Test](https://github.com/hal9ai/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
 
 A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python (⭐323k)](https://github.com/vinta/awesome-python) and originally created by [fasouto](https://github.com/fasouto).
 
@@ -85,7 +85,6 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ### Maps
 
-*   [CARTO](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 *   [Cesium (⭐16k)](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 *   [CanvasGlobe (⭐0)](https://github.com/Shree-hari/canvas-globe) - Interactive Canvas 2D globes and flat world maps for JavaScript and React.
 *   [Deck.gl](https://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
@@ -141,10 +140,10 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 *   [LargeVis (⭐711)](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
 *   [PlotJuggler (⭐6.2k)](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
-*   [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
-*   [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
+*   [Visualization Toolkit (VTK) (⭐3.2k)](https://github.com/Kitware/VTK) - open-source library for 3d Graphics, image processing and visualization.
+*   [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitHub (⭐1.7k)](https://github.com/Kitware/ParaView))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing. (C++, MIT, [GitHub (⭐2.2k)](https://github.com/nmwsharp/polyscope))
-*   [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub (⭐4.7k)](https://github.com/f3d-app/f3d))
+*   [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub (⭐4.7k)](https://github.com/f3d-app/f3d))
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization. (C++/Python, BSD, [GitHub (⭐481)](https://github.com/topology-tool-kit/ttk))
 
 ## Golang tools
@@ -218,7 +217,6 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 ## Rust tools
 
 *   [malevich (⭐69)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
-*   [Rerun (⭐12k)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
 
 ## Markup-based tools
 
@@ -245,7 +243,7 @@ Tools that are not tied to a particular platform or language.
 *   [RATH (⭐4.7k)](https://github.com/Kanaries/Rath) - Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.
 *   [X6](https://x6.antv.vision/en) - diagram creation library for rapid construction of DAG diagrams, ER diagrams, flowcharts and other applications, maintained by Alibaba
 *   [Graphviz](https://graphviz.org/) - Open source graph visualization command line tool and library. From input text to SVG,PDF,interactive web graph browser.
-*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+*   [ERD Lab](https://erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 *   [Plotivy](https://plotivy.app/) - Scientific data visualization tool, with AI-generated reproducible Python code, and research-oriented design best practices built in.
 
 # Resources
@@ -261,7 +259,6 @@ Tools that are not tied to a particular platform or language.
 *   [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) by Robert I. Kabacoff. A complete learning resource for R and tidyverse.
 *   [Everyday Data Visualization](https://www.manning.com/books/everyday-data-visualization) by Desireé Abbott. A field guide for design techniques that will improve the charts, reports, and data dashboards you build every day.
 *   [Interactive Data Visualization for the Web](https://chimera.labs.oreilly.com/books/1230000000345) by Scott Murray. Available to read online. Focused on D3.
-*   [Data Visualization Toolkit](https://datavisualizationtoolkit.com) by Barrett Austin Clark. Uses D3, Ruby on Rails, Postgres, PostGIS, & Leaflet.
 *   [Data Visualisation: A Handbook for Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/) by Andy Kirk
 
 ## Catalogs
@@ -300,7 +297,6 @@ Tools that are not tied to a particular platform or language.
 
 ## Websites
 
-*   [Data For Visualization](https://dataforvisualization.com/) blog - Storytelling with data from the software developer's eye
 *   [Ann K. Emery](https://annkemery.com/)'s blog
 *   [Data Visualization Society](https://www.datavisualizationsociety.com/) - The Data Visualization Society is an organization dedicated to fostering community for data visualization professionals.
 *   [eagereyes](https://eagereyes.org/)
@@ -318,6 +314,7 @@ Tools that are not tied to a particular platform or language.
 *   [Truth & Beauty Operations](https://truth-and-beauty.net/)
 *   [University of Washington Interactive Data Lab Papers](https://idl.cs.washington.edu/papers)
 *   [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch
+*   [VivaMap](https://vivamap.ch) - Interactive quality-of-life map of Swiss and Dutch municipalities, scored on an H3 hexagon grid.
 *   [Marble Taxonomy Explorer](https://ashutoshsinghpr7.github.io/marble-taxonomy-explorer/) - Interactive knowledge graph visualization of 1,590 learning topics using Cytoscape.js with force-directed, concentric, and BFS layouts. [Source (⭐9)](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer)
 
 # Contributing
@@ -332,11 +329,12 @@ Thanks for your suggestions!
 # Contributors
 
 *   Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
-*   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer, he builds predictive visualizations at [Hal9](https://hal9.com).
+*   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer.
+*   [Hal9](https://hal9.com) is the corporate sponsor.
 
 # License
 
-Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/javierluraschi/awesome-dataviz/blob/main/README.md/LICENSE).
+Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/hal9ai/awesome-dataviz/blob/main/README.md/LICENSE).
 
 ***
 

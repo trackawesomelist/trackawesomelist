@@ -95,7 +95,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 *   [AlgoKit Docs](https://dev.algorand.co/algokit/algokit-intro/) - Official Algorand AlgoKit documentation.
 *   [algokit-avm-vscode-debugger (⭐13)](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
-*   [algokit-cli (⭐190)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
+*   [algokit-cli (⭐192)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 *   [algokit-client-generator-py (⭐3)](https://github.com/algorandfoundation/algokit-client-generator-py) - Algorand AlgoKit Typed Client Generator for Python.
 *   [algokit-client-generator-ts (⭐5)](https://github.com/algorandfoundation/algokit-client-generator-ts) - Algorand AlgoKit Typed Client Generator for TypeScript.
 *   [algokit-core (⭐15)](https://github.com/algorandfoundation/algokit-core) - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
@@ -187,10 +187,10 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 *   [Pipeline-UI (⭐30)](https://github.com/headline-design/pipeline-ui) - A React.js based component library for rapid deployment of Algorand Dapps.
 *   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 *   [Sign Zero](https://sign-zero.vercel.app/) - Lightweight demo app exploring authentication and signing flows.
-*   [staketaxcsv (⭐271)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
+*   [staketaxcsv (⭐268)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 *   [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 *   [TinyBar App (⭐11)](https://github.com/aorumbayev/tinybar) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
-*   [txnDuck (⭐19)](https://github.com/No-Cash-7970/txnDuck) - Transaction building tool for Algorand blockchain.
+*   [txnDuck (⭐20)](https://github.com/No-Cash-7970/txnDuck) - Transaction building tool for Algorand blockchain.
 *   [WalletConnect Example DApp (⭐23)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 *   [wen-tools (⭐23)](https://github.com/LoafPickleWW/wen-tools) - Bulk operations tool for Algorand.
 *   [xGov-Guru (⭐4)](https://github.com/SilentRhetoric/xGov-Guru) - Tool to browse xGov voting data and proposals.
@@ -234,9 +234,9 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Python
 
-*   [py-algorand-sdk (⭐275)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [py-algorand-sdk (⭐274)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
 *   [smart-asa (⭐31)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
-*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [tinyman-py-sdk (⭐119)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 #### JavaScript & TypeScript
 
@@ -265,7 +265,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Rust
 
-*   [rust-algorand-sdk (⭐70)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐71)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 #### Swift
 
@@ -287,7 +287,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 *   [algoml (⭐22)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 *   [aqua-compiler (⭐2)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
-*   [pyteal (⭐289)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal (⭐288)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 *   [tealish](https://tealish.tinyman.org) - Readable Algorand VM language enabling procedural-style TEAL focused on clarity.
@@ -297,7 +297,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 *   [avm-semantics (⭐15)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
 *   [beaker (⭐95)](https://github.com/algorandfoundation/beaker) - Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)
-*   [d-asa (⭐10)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
+*   [d-asa (⭐13)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
 *   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 
 ### CLI
@@ -337,7 +337,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Deployment & Environment
 
-*   [Algorand Sandbox (⭐241)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [Algorand Sandbox (⭐240)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 *   [Algorand Sandbox Dev (⭐16)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
 *   [Official Algod Container](https://hub.docker.com/r/algorand/algod) - Algod Docker Hub image from Algorand Inc.
 *   [Official Conduit Container](https://hub.docker.com/r/algorand/conduit) - Conduit Docker Hub image from Algorand Inc.
@@ -393,7 +393,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 *   [Algorand Node UI (⭐28)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 *   [AlloCTRL (⭐15)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
-*   [nodekit (⭐56)](https://github.com/algorandfoundation/nodekit) - Terminal user interface for running and managing Algorand nodes locally.
+*   [nodekit (⭐55)](https://github.com/algorandfoundation/nodekit) - Terminal user interface for running and managing Algorand nodes locally.
 *   [Nodely](https://nodely.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 *   [reti (⭐44)](https://github.com/algorandfoundation/reti) - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
@@ -451,6 +451,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 *   [arcontextify (⭐8)](https://github.com/aorumbayev/arcontextify) - Algorand ARC-56 to MCP server converter.
 *   [corvid-agent (⭐1)](https://github.com/corvid-agent/corvid-agent) - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
 *   [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
+*   [Predge](https://api.predge.io/.well-known/x402) - Polymarket whale trades, wallet scores and smart-money signals for AI agents, paid per call over x402 with USDC on Algorand via the GoPlausible facilitator.
 *   [VibeKit (⭐27)](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 
 ## Application Platforms & Examples

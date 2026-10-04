@@ -8,9 +8,17 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
+### Commands & Extensions
+
+*   [Supercov (⭐63)](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents. Gemini CLI extension that runs the project's existing tests, measures line, branch and MC/DC coverage, and hands Gemini the untested code to test next. Install with `gemini extensions install https://github.com/supercorp-ai/supercov`.
+
 ### Development Tools & Utilities
 
 *   [Caprock (⭐14)](https://github.com/dspv/caprock) - Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.
+
+### MCP Servers
+
+*   [Connections (⭐1)](https://github.com/Lunarwerx/connections-gemini-extension) - Work a free Connections contact book, follow-ups, ticketed event pages, notes and email from Gemini CLI; no card needed for the account. Remote Streamable HTTP MCP server with OAuth sign-in at `https://studio.connections.icu/v1/mcp`. Install: `gemini extensions install https://github.com/Lunarwerx/connections-gemini-extension`.
 
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
@@ -193,19 +201,19 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [ClawMetry (⭐417)](https://github.com/vivekchand/clawmetry) - Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. [Website](https://clawmetry.com)
+*   [ClawMetry (⭐424)](https://github.com/vivekchand/clawmetry) - Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. [Website](https://clawmetry.com)
 
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
 ### Development Tools & Utilities
 
-*   [Devie AI Quota Tracker (⭐14)](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.
+*   [Devie AI Quota Tracker (⭐16)](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.
 
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
 ### Development Tools & Utilities
 
-*   [claude-skills-pro (⭐4)](https://github.com/Hahaknight/claude-skills-pro) - 15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: `npx skills add Hahaknight/claude-skills-pro --agent gemini-cli` (install path verified end-to-end in Gemini CLI).
+*   [claude-skills-pro (⭐5)](https://github.com/Hahaknight/claude-skills-pro) - 15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: `npx skills add Hahaknight/claude-skills-pro --agent gemini-cli` (install path verified end-to-end in Gemini CLI).
 
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
@@ -244,7 +252,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Agent QA (⭐885)](https://github.com/vostride/agent-qa) - Source-available (FSL-1.1-ALv2) QA agent for natural-language web and mobile tests. Run `agent-qa mcp` for authoring, execution, artifacts, and failure triage; dashboard-backed tools need a running dashboard and `dashboardUrl`. Model and infrastructure costs are separate.
+*   [Agent QA (⭐898)](https://github.com/vostride/agent-qa) - Source-available (FSL-1.1-ALv2) QA agent for natural-language web and mobile tests. Run `agent-qa mcp` for authoring, execution, artifacts, and failure triage; dashboard-backed tools need a running dashboard and `dashboardUrl`. Model and infrastructure costs are separate.
 
 ## [Aug 16, 2026](/content/2026/08/16/README.md)
 
@@ -254,7 +262,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [LWC (⭐56)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
+*   [LWC (⭐63)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
 
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
