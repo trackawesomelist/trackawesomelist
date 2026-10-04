@@ -6,6 +6,12 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Oct 04, 2026](/content/2026/10/04/README.md)
+
+### Software and Tools
+
+*   [Sellantica](https://sellantica.ai) - Amazon PPC automation for sellers and agencies: one-click campaign structures, keyword harvesting from auto campaigns, bid optimization with explainable reasoning, and per-product P\&L. EU-hosted.
+
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
 ### Product Research and Pre-Launch
@@ -59,7 +65,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Software and Tools
 
-*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐12)](https://github.com/BuyWhere/buywhere-mcp)
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐15)](https://github.com/BuyWhere/buywhere-mcp)
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 
@@ -91,7 +97,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Other
 
-*   [chdh-tools-dataset (⭐4)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
+*   [chdh-tools-dataset (⭐5)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 
 ## [Dec 13, 2025](/content/2025/12/13/README.md)
 

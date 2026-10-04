@@ -6,6 +6,493 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 04, 2026](/content/2026/10/04/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Kuro](https://meetkuro.com/agents/)
+
+  Description: Create AI images, video clips, voice-overs, music and editable storyboard films
+
+  Auth: `OAuth`
+
+  Transport: `HTTP`
+
+  Install: –
+
+
+- Name: [RegSentry](https://regsentry.com/mcp-guide)
+
+  Description: Inspect authorized static tracking signals and review supplied consent evidence
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.regsentry/tracking-inspector)
+
+
+- Name: [Vuntum (⭐0)](https://github.com/RAAAAAGEEEEE/vuntum-mcp)
+
+  Description: Sourced, dated data on consumer robots and physical AI: specs, prices, evidence
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/RAAAAAGEEEEE/vuntum-mcp)
+
+
+
+### Art & Design
+
+- API: [raFont](https://rafont.com/api-docs)
+
+  Description: 1,500+ free downloadable fonts with categories, tags and preview images
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Blockchain
+
+- API: [Dwellir](https://www.dwellir.com/docs)
+
+  Description: RPC endpoints for 150+ blockchain networks, including Ethereum, Solana, Polkadot and Hyperliquid
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Business
+
+- API: [PeopleSearch](https://peoplesearch.im/developers)
+
+  Description: People and company search in plain English, with verified work emails and email verification
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [UGC VZ](https://ugc-vz.de/developers)
+
+  Description: Directory of DACH user-generated-content creators with topics, cities, rates and contact requests
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Calendar
+
+- API: [India Public Holidays](https://calendar-api-web.vercel.app/docs)
+
+  Description: Official Indian public holidays for the Central government and 36 states/UTs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [BitcoinYield](https://bitcoinyield.co/docs)
+
+  Description: Live yields on BTC, ETH and stablecoins across DeFi and CeFi, with an A-D risk grade per offer
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [bilbop](https://api.bilbop.org)
+
+  Description: Solana USDC x402 pay-per-call tools for agents: SPL mint info, token brief, text summarize, Piper TTS, brand feedback
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Dudelytics](https://dudelytics.com/en/dpmi/data/)
+
+  Description: Productive crypto indices, daily benchmarks, sector indices and market-stress data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Development
+
+- API: [API Tool Calls](https://apitoolcalls.com/api/)
+
+  Description: API Tool Calls: Home cost planners, page to Markdown, SEO checks and recalls
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [ScrapingBot](https://scrapingbot.io)
+
+  Description: Web scraping, AI extraction, and public TikTok, Instagram, Google and Amazon data as JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [TidyTools](https://tools.yukai.uk/llms.txt)
+
+  Description: Web page to clean Markdown and AI crawler robots.txt checks, free without a key (rate limited)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [Thirds](https://thirds.ai/docs/api)
+
+  Description: Create branded PDFs and images from HTML or reusable templates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Email
+
+- API: [MailRambo](https://www.mailrambo.com/developers)
+
+  Description: Verify email deliverability with a strict yes/no, disposable and catch-all detection
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Finance
+
+- API: [Brainy Prices](https://prices.brainy.ae/developers.html)
+
+  Description: UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [Pink Agentic AI Payments](https://pinkwallet.com/agentic/developers/)
+
+  Description: Approval layer for AI agent payments: per-agent budgets, rules, single-use credentials, sandbox
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Food & Drink
+
+- API: [CookbookSocial Nutrition](https://cookbooksocial.app/api)
+
+  Description: Nutrition data for 4,631 ingredients with food names in 19 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Geocoding
+
+- API: [Locio](https://locio.com.au/docs/)
+
+  Description: Australian address autocomplete, validation and geocoding from the G-NAF national register
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Veridion](https://www.veridionmarkets.com/data-api/docs)
+
+  Description: US congressional stock-trade disclosures and the President's OGE reports, linked to each filing
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Dabloons](https://dabloons.net/llms.txt)
+
+  Description: Bounty board where AI agents post and work tasks like PR reviews, bug repros and install checks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Machine Learning
+
+- API: [Cohere](https://docs.cohere.com/reference/about)
+
+  Description: NLP API for text generation, embeddings, classification and summarization with a free trial tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [GEN](https://gen.pro/docs#ai-agents)
+
+  Description: Create and edit video projects, with credit-based AI media generation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Nonobench](https://www.nonobench.com/how-it-works)
+
+  Description: Open-source benchmark of how well LLMs solve nonogram puzzles
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OpenRouter](https://openrouter.ai/docs/quick-start)
+
+  Description: Unified API for 300+ LLMs from OpenAI, Anthropic, Meta, Mistral and more, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Replicate](https://replicate.com/docs/reference/http)
+
+  Description: Run open-source AI models in the cloud including image generation, LLMs and audio models
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Speak AI](https://docs.speakai.co)
+
+  Description: Transcribe and analyze audio and video in 100+ languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Together AI](https://docs.together.ai/docs/quickstart)
+
+  Description: Fast inference API for open-source LLMs including Llama, Qwen, DeepSeek with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [CollegeCalcAI](https://collegecalcai.com/developers)
+
+  Description: US college admission chance estimates and admissions data for 1,100+ colleges
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Edgepedia](https://www.edgechat.ai/developers)
+
+  Description: Search and read Edgepedia, a free and growing encyclopedia with citations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Vuntum](https://vuntum.com/en/api-mcp)
+
+  Description: Sourced, dated facts on consumer robots and physical AI, licensed CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Personality
+
+- API: [Astro Agents](https://astro-agent.dev/llms.txt)
+
+  Description: Deterministic Western and Vedic astrology: natal charts, transits, kundli, dashas, panchang
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [SoldStack](https://soldstack.fly.dev/docs)
+
+  Description: Sold resale listings from Poshmark with median price, days to sell and net payout after fees
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [WhensTheRace](https://whenstherace.com/f1-schedule-json/)
+
+  Description: F1 season schedule with UTC session start times as JSON, RSS and iCal
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [ConnectMeGuru](https://www.connectmeguru.com/api/mcp)
+
+  Description: Search and purchase prepaid travel eSIM data plans across 190+ countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Cruise Itinerary](https://cruise-itinerary.com/docs)
+
+  Description: Cruise sailings, day-by-day itineraries, weekly fare history, port traffic and a cruise price index
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [Arcmira](https://arcmira.com/docs)
+
+  Description: Search indexed YouTube transcripts for timestamped passages and mentions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
 ### Development

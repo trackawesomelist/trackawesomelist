@@ -2,9 +2,94 @@
 
 :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/javierluraschi/awesome-dataviz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) · ⭐ 3.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/javierluraschi/awesome-dataviz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 javierluraschi/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) · ⭐ 4.4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/javierluraschi/awesome-dataviz/week/README.md) / [Overview](/content/javierluraschi/awesome-dataviz/readme/README.md) ]
+
+## [Oct 04, 2026](/content/2026/10/04/README.md)
+
+### JavaScript tools / Charting libraries
+
+*   [dxcharts-lite (⭐101)](https://github.com/devexperts/dxcharts-lite) - Flexible financial charting library based on HTML5 canvas.
+*   [Glyph (⭐3)](https://github.com/seanhanca/glyph) - Deterministic chart library — same JSON spec → same SVG bytes, every platform. Grammar of graphics with DuckDB inside, MCP-native for AI agents, byte-identical visual regression, SHA-256 provenance seal. Apache 2.0.
+*   [Observable Plot (⭐5.4k)](https://github.com/observablehq/plot) - A JavaScript library for exploratory data visualization.
+
+### JavaScript tools / Charting libraries for graphs
+
+*   [Vizdom (⭐193)](https://github.com/vizdom-dev/vizdom) - A declarative graph layout and rendering engine for Javascript/Typescript powered by Rust/WebAssembly.
+
+### JavaScript tools / Maps
+
+*   [CanvasGlobe (⭐0)](https://github.com/Shree-hari/canvas-globe) - Interactive Canvas 2D globes and flat world maps for JavaScript and React.
+*   [Globedots (⭐0)](https://github.com/swamoth/globedots) - Dot-matrix WebGL2 globe in 17 kB with markers, arcs, labels, heat maps, and a day-night line.
+*   [Pharos AI](https://conflicts.app) - Open-source OSINT conflict-tracking dashboard with geospatial visualization using Deck.gl, MapLibre, and React. ([Source Code (⭐182)](https://github.com/Juliusolsson05/pharos-ai))
+*   [VectorAtlas](https://vectoratlas.menelabs.com/) - Free, 80KB SVG world map with one path per country, id-keyed by ISO 3166-1 alpha-2 code, ready for choropleths.
+
+### JavaScript tools / React
+
+*   [Graphic Walker (⭐3.3k)](https://github.com/Kanaries/graphic-walker) - An embeddable React component that functions as an open source alternative to Tableau, which allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
+
+### JavaScript tools / Misc
+
+*   [ODataMap (⭐10)](https://github.com/CherishChenCherish/odatamap) - Interactive scientific research data map. Visualizes 250M+ papers across 7 knowledge continents using D3.js. [Demo](https://odatamap.cherishchen2510.workers.dev)
+*   [gp-treemap (⭐10)](https://github.com/imbue-ai/gp-treemap) - Open source HTML canvas treemap component supporting millions of nodes, and some functional resource usage tools, like disk and S3 usage visualization ([GrandPerspective](https://grandperspectiv.sourceforge.net/)-style)
+
+### C++ tools / Misc
+
+*   [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
+*   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing. (C++, MIT, [GitHub (⭐2.2k)](https://github.com/nmwsharp/polyscope))
+*   [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub (⭐4.7k)](https://github.com/f3d-app/f3d))
+*   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization. (C++/Python, BSD, [GitHub (⭐481)](https://github.com/topology-tool-kit/ttk))
+
+### Golang tools / Misc
+
+*   [go-echarts (⭐7.6k)](https://github.com/chenjiandongx/go-echarts) - Simple yet powerful data visualizing library for Go.
+
+### Machine Learning tools / Misc
+
+*   [Phoenix (⭐12k)](https://github.com/Arize-ai/phoenix) - ML observability in a notebook with UMAP visualizations
+*   [Comet (⭐176)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
+*   [Opik (⭐22k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
+
+### Python tools / Misc
+
+*   [bqplot (⭐3.7k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks.
+*   [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
+*   [Quibbler (⭐332)](https://github.com/Technion-Kishony-lab/quibbler) - Your data and anything you plot is effortlessly live and interactive.
+*   [syd (⭐30)](https://github.com/landoskape/syd) - A package for making GUIs around matplotlib figures easy, fast, and streamlined.
+*   [uniplot (⭐461)](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
+*   [pyecharts (⭐16k)](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+*   [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK. (Python, MIT, [GitHub (⭐2.3k)](https://github.com/marcomusy/vedo))
+*   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data. (Python, BSD, [GitHub (⭐559)](https://github.com/yt-project/yt))
+
+### Rust tools / Misc
+
+*   [Rerun (⭐12k)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
+*   [malevich (⭐69)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
+
+### Other tools / Misc
+
+*   [Resseract Lite (⭐7)](https://github.com/abistarun/resseract-lite) - A Data Analytics and Visualization Tool with flexible architecture to visualize and analyse data
+*   [ChartDB (⭐23k)](https://github.com/chartdb/chartdb) - An Open-source tool to visualize database schemas and generate ER diagrams from a single query.
+*   [csvtodashboard](https://csvtodashboard.com) - Turn a CSV or Excel file into an auto-built dashboard in the browser - client-side, no upload.
+*   [DAC (⭐777)](https://github.com/bruin-data/dac) - Dashboard-as-code tool that builds interactive dashboards from YAML and TSX definitions
+*   [ink-uplot (⭐1)](https://github.com/planadecu/ink-uplot) - Render uPlot charts in the terminal (React Ink) with truecolor Unicode and kitty/sixel/iTerm2 graphics.
+*   [Squey](https://squey.org) - Visualization software for exploring and understanding large amounts of tabular data (using parallel coordinates, timeseries and scatter plots).
+*   [RATH (⭐4.7k)](https://github.com/Kanaries/Rath) - Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.
+*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+*   [Plotivy](https://plotivy.app/) - Scientific data visualization tool, with AI-generated reproducible Python code, and research-oriented design best practices built in.
+
+### Books / Misc
+
+*   [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) by Robert I. Kabacoff. A complete learning resource for R and tidyverse.
+*   [Everyday Data Visualization](https://www.manning.com/books/everyday-data-visualization) by Desireé Abbott. A field guide for design techniques that will improve the charts, reports, and data dashboards you build every day.
+
+### Websites / Misc
+
+*   [Global Data Tracker](https://globaldatatracker.com/) - Interactive country-statistics explorer with historical charts and globe views.
+*   [Plottie](https://plottie.art) - Open-access library of scientific plots for inspiration and AI visualization tool.
+*   [The Planet Thinks](https://theplanetthinks.com/) - Real-time visualization of Wikipedia edits on a 3D globe
+*   [Marble Taxonomy Explorer](https://ashutoshsinghpr7.github.io/marble-taxonomy-explorer/) - Interactive knowledge graph visualization of 1,590 learning topics using Cytoscape.js with force-directed, concentric, and BFS layouts. [Source (⭐9)](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer)
 
 ## [Feb 17, 2022](/content/2022/02/17/README.md)
 
@@ -16,19 +101,19 @@
 
 ### Python tools / Misc
 
-*   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
+*   [pptk (⭐635)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
 ## [Dec 19, 2021](/content/2021/12/19/README.md)
 
 ### JavaScript tools / Maps
 
-*   [L7 (⭐2.9k)](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba
-*   [L7 Plot (⭐41)](https://github.com/antvis/L7Plot) - Geospatial Visualization Chart Library, maintained by Alibaba
-*   [Dipper (⭐23)](https://github.com/antvis/dipper) - Map application development framework powered by L7, maintained by Alibaba.
+*   [L7 (⭐4.1k)](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba
+*   [L7 Plot (⭐91)](https://github.com/antvis/L7Plot) - Geospatial Visualization Chart Library, maintained by Alibaba
+*   [Dipper (⭐29)](https://github.com/antvis/dipper) - Map application development framework powered by L7, maintained by Alibaba.
 
 ### JavaScript tools / React
 
-*   [Graphin (⭐782)](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.
+*   [Graphin (⭐1.1k)](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.
 
 ## [Dec 16, 2021](/content/2021/12/16/README.md)
 
@@ -38,19 +123,19 @@
 
 ### JavaScript tools / Charting libraries for graphs
 
-*   [G6 (⭐9.3k)](https://github.com/antvis/g6) - Graph visualization library powered by Javascript & Typescript, maintained by Alibaba
+*   [G6 (⭐12k)](https://github.com/antvis/g6) - Graph visualization library powered by Javascript & Typescript, maintained by Alibaba
 
 ### JavaScript tools / React
 
-*   [BizCharts (⭐6k)](https://github.com/alibaba/BizCharts) - Data visualization library based on [G2 (⭐11k)](https://github.com/antvis/G2) and React
+*   [BizCharts (⭐6.2k)](https://github.com/alibaba/BizCharts) - Data visualization library based on [G2 (⭐13k)](https://github.com/antvis/G2) and React
 
-### React Native / React
+### JavaScript tools / React Native
 
-*   [F2 (⭐7.8k)](https://github.com/antvis/F2) - An elegant, interactive and flexible charting library for mobile, maintained by Alibaba
+*   [F2 (⭐8k)](https://github.com/antvis/F2) - An elegant, interactive and flexible charting library for mobile, maintained by Alibaba
 
-### React Native / Misc
+### JavaScript tools / Misc
 
-*   [Graphology (⭐755)](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.
+*   [Graphology (⭐1.8k)](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.
 
 ### Other tools / Misc
 
@@ -78,7 +163,7 @@
 *   [Chart.js](https://www.chartjs.org/) - Charts with the canvas tag.
 *   [Chartist.js](https://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
 *   [Dygraphs](https://dygraphs.com/) - Interactive line charts library that works with huge datasets.
-*   [Echarts (⭐53k)](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets.
+*   [Echarts (⭐67k)](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets.
 *   [TechanJS](https://techanjs.org/) - Stock and financial charts.
 
 ### JavaScript tools / Charting libraries for graphs
@@ -94,9 +179,9 @@
 
 ### JavaScript tools / React
 
-*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](https://nivo.rocks).
+*   [nivo (⭐14k)](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](https://nivo.rocks).
 
-### React Native / Misc
+### JavaScript tools / Misc
 
 *   [Textures.js](https://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 *   [Timeline.js](https://timeline.knightlab.com/) -  Create interactive timelines.
@@ -106,7 +191,6 @@
 
 *   [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 *   [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
-*   [mayai](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 *   [matplotlib](https://matplotlib.org/) - 2D plotting library.
 *   [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 *   [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
@@ -163,17 +247,17 @@
 
 ### JavaScript tools / Charting libraries
 
-*   [lit-line (⭐13)](https://github.com/apinet/lit-line) - SVG Line Chart Web Component - light, fast, interactive & fully responsive.
-*   [React wrapper (⭐3.8k)](https://github.com/hustcc/echarts-for-react)
+*   [lit-line (⭐22)](https://github.com/apinet/lit-line) - SVG Line Chart Web Component - light, fast, interactive & fully responsive.
+*   [React wrapper (⭐5k)](https://github.com/hustcc/echarts-for-react)
 
 ### JavaScript tools / Charting libraries for graphs
 
-*   [diagram.js (⭐1.3k)](https://github.com/bpmn-io/diagram-js) - Javascript diagram library serving as the basis for camunda's online BPMN modeler.
-*   [Uber React Digraph (⭐2.4k)](https://github.com/uber/react-digraph) - React.js based directed graph library maintained by UBER.
+*   [diagram.js (⭐1.9k)](https://github.com/bpmn-io/diagram-js) - Javascript diagram library serving as the basis for camunda's online BPMN modeler.
+*   [Uber React Digraph (⭐2.6k)](https://github.com/uber/react-digraph) - React.js based directed graph library maintained by UBER.
 
 ### Machine Learning tools / Misc
 
-*   [TensorWatch (⭐3.3k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for data science and machine learning
+*   [TensorWatch (⭐3.5k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for data science and machine learning
 
 ### Websites / Misc
 
@@ -183,7 +267,7 @@
 
 ### JavaScript tools / Charting libraries
 
-*   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+*   [Vizzu (⭐2k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
@@ -195,7 +279,7 @@
 
 ### Python tools / Misc
 
-*   [ipychart (⭐62)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐133)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
@@ -217,7 +301,7 @@
 
 ### Other tools / Misc
 
-*   [Mermaid (⭐51k)](https://github.com/knsv/mermaid) - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
+*   [Mermaid (⭐91k)](https://github.com/knsv/mermaid) - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
 
 ### Podcasts / Misc
 
@@ -225,17 +309,17 @@
 
 ## [Oct 10, 2019](/content/2019/10/10/README.md)
 
-### React Native / Misc
+### JavaScript tools / Misc
 
 *   [Vega-Lite](https://vega.github.io/vega-lite/) - is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis.
 
 ### Python tools / Misc
 
-*   [pandas-profiling (⭐9.7k)](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
+*   [pandas-profiling (⭐14k)](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
 
 ### Other tools / Misc
 
-*   [Visual-Insights (⭐342)](https://github.com/ObservedObserver/visual-insights) - Automatic insights extraction and visualization specification in data analysis.
+*   [Visual-Insights (⭐4.7k)](https://github.com/ObservedObserver/visual-insights) - Automatic insights extraction and visualization specification in data analysis.
 
 ### Websites / Misc
 
@@ -245,7 +329,7 @@
 
 ### Python tools / Misc
 
-*   [three.py (⭐84)](https://github.com/stemkoski/three.py/) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
+*   [three.py (⭐121)](https://github.com/stemkoski/three.py/) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
 
 ### Websites / Misc
 
@@ -256,18 +340,13 @@
 
 ### Golang tools / Misc
 
-*   [plot (⭐2.3k)](https://github.com/gonum/plot) - API for building and drawing plots in Go.
-*   [go-echars (⭐5k)](https://github.com/chenjiandongx/go-echarts) - Simple yet powerful data visualizing library for Go.
-
-### Python tools / Misc
-
-*   [pyechars (⭐13k)](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+*   [plot (⭐3k)](https://github.com/gonum/plot) - API for building and drawing plots in Go.
 
 ## [Aug 23, 2019](/content/2019/08/23/README.md)
 
 ### Python tools / Misc
 
-*   [Chartify (⭐3.2k)](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
+*   [Chartify (⭐3.7k)](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
 
 ## [Jun 12, 2019](/content/2019/06/12/README.md)
 
@@ -279,14 +358,14 @@
 
 ### Python tools / Misc
 
-*   [PyVista (⭐1.5k)](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+*   [PyVista (⭐3.8k)](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
 ## [Feb 14, 2019](/content/2019/02/14/README.md)
 
 ### JavaScript tools / Charting libraries
 
 *   [ApexCharts](https://apexcharts.com/) - Modern & Interactive SVG Charts.
-*   [TOAST UI Chart (⭐5.2k)](https://github.com/nhnent/tui.chart) - Complete library with support for legacy browsers.
+*   [TOAST UI Chart (⭐5.4k)](https://github.com/nhnent/tui.chart) - Complete library with support for legacy browsers.
 
 ## [Oct 30, 2018](/content/2018/10/30/README.md)
 
@@ -320,7 +399,7 @@
 
 ### JavaScript tools / React
 
-*   [React Svg Textures (⭐29)](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
+*   [React Svg Textures (⭐32)](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
 
 ## [Dec 04, 2017](/content/2017/12/04/README.md)
 
@@ -358,58 +437,58 @@
 
 ### Python tools / Misc
 
-*   [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js (⭐15k)](https://github.com/plotly/plotly.js)
+*   [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js (⭐18k)](https://github.com/plotly/plotly.js)
 
 ## [Feb 20, 2017](/content/2017/02/20/README.md)
 
 ### C++ tools / Misc
 
-*   [LargeVis (⭐670)](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
+*   [LargeVis (⭐711)](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
 
 ## [Feb 07, 2017](/content/2017/02/07/README.md)
 
 ### C++ tools / Misc
 
-*   [PlotJuggler (⭐3.1k)](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
+*   [PlotJuggler (⭐6.2k)](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
 
 ## [Feb 06, 2017](/content/2017/02/06/README.md)
 
 ### Python tools / Misc
 
-*   [missingno (⭐3.3k)](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
+*   [missingno (⭐4.2k)](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 
 ## [Jan 23, 2017](/content/2017/01/23/README.md)
 
 ### Python tools / Misc
 
-*   [ggplot (⭐3.6k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
+*   [ggplot (⭐3.7k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 
 ## [Dec 05, 2016](/content/2016/12/05/README.md)
 
 ### JavaScript tools / Maps
 
-*   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
+*   [CARTO](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
 ## [Oct 26, 2016](/content/2016/10/26/README.md)
 
 ### JavaScript tools / React
 
-*   [Recharts (⭐19k)](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
+*   [Recharts (⭐28k)](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
 
 ### Android tools / Misc
 
-*   [DecoView (⭐988)](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
-*   [WilliamChart (⭐4.9k)](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
+*   [DecoView (⭐984)](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
+*   [WilliamChart (⭐5.1k)](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## [Oct 24, 2016](/content/2016/10/24/README.md)
 
 ### JavaScript tools / Maps
 
-*   [DataMaps (⭐3.7k)](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
+*   [DataMaps (⭐3.8k)](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 
 ### JavaScript tools / d3
 
-*   See [Awesome D3 (⭐4.9k)](https://github.com/wbkd/awesome-d3)
+*   See [Awesome D3 (⭐5.3k)](https://github.com/wbkd/awesome-d3)
 
 ### Python tools / Misc
 
@@ -419,11 +498,11 @@
 
 ### JavaScript tools / Maps
 
-*   [Cesium (⭐9.4k)](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+*   [Cesium (⭐16k)](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 
 ### iOS tools / Misc
 
-*   [BEMSimpleLineGraph (⭐2.7k)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
+*   [BEMSimpleLineGraph (⭐2.6k)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 
 ## [Sep 25, 2016](/content/2016/09/25/README.md)
 
@@ -435,10 +514,10 @@
 
 ### JavaScript tools / React
 
-*   [React-vis (⭐8.4k)](https://github.com/uber/react-vis) - React components to build data visualizations.
+*   [React-vis (⭐8.8k)](https://github.com/uber/react-vis) - React components to build data visualizations.
 *   [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
 
-### React Native / Misc
+### JavaScript tools / Misc
 
 *   [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
 
@@ -454,7 +533,7 @@
 
 ### Python tools / Misc
 
-*   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
+*   [diagram (⭐408)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
 ## [Jul 09, 2016](/content/2016/07/09/README.md)
 
@@ -464,33 +543,33 @@
 
 ### iOS tools / Misc
 
-*   [Charts (⭐26k)](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
+*   [Charts (⭐28k)](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
 
 ## [Feb 22, 2016](/content/2016/02/22/README.md)
 
 ### JavaScript tools / Charting libraries
 
-*   [Plotly.js (⭐15k)](https://github.com/plotly/plotly.js/) - Powerful declarative library with support for 20 chart types.
+*   [Plotly.js (⭐18k)](https://github.com/plotly/plotly.js/) - Powerful declarative library with support for 20 chart types.
 
 ### R tools / Misc
 
-*   [plotly (⭐2.3k)](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+*   [plotly (⭐2.7k)](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 
 ## [Jan 29, 2016](/content/2016/01/29/README.md)
 
 ### Python tools / Misc
 
-*   [glumpy (⭐1.1k)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
+*   [glumpy (⭐1.3k)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 
 ## [Dec 19, 2015](/content/2015/12/19/README.md)
 
 ### JavaScript tools / Charting libraries
 
-*   [Epoch (⭐5k)](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+*   [Epoch (⭐4.9k)](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 
 ### Other tools / Misc
 
-*   [Gephi (⭐5k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+*   [Gephi (⭐6.7k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
 ## [Nov 10, 2015](/content/2015/11/10/README.md)
 
@@ -506,11 +585,11 @@
 
 ### Ruby tools / Misc
 
-*   [Chartkick (⭐6k)](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
+*   [Chartkick (⭐6.5k)](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
 ### Other tools / Misc
 
-*   [Charted (⭐2.8k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
+*   [Charted (⭐2.7k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 
 ## [Jul 30, 2015](/content/2015/07/30/README.md)
 
@@ -530,13 +609,13 @@
 
 ### Android tools / Misc
 
-*   [MPAndroidChart (⭐36k)](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
+*   [MPAndroidChart (⭐38k)](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
 
 ## [Jul 27, 2015](/content/2015/07/27/README.md)
 
 ### Other tools / Misc
 
-*   [Spark (⭐5.9k)](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages (⭐5.9k)](https://github.com/holman/spark/wiki/Alternative-Implementations).
+*   [Spark (⭐6.1k)](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages (⭐6.1k)](https://github.com/holman/spark/wiki/Alternative-Implementations).
 
 ## [Jul 25, 2015](/content/2015/07/25/README.md)
 
@@ -546,25 +625,25 @@
 
 ### iOS tools / Misc
 
-*   [PNChart (⭐9.7k)](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
+*   [PNChart (⭐9.6k)](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
 ## [Jul 24, 2015](/content/2015/07/24/README.md)
 
 ### JavaScript tools / Charting libraries for graphs
 
-*   [VivaGraph (⭐3.5k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
+*   [VivaGraph (⭐3.9k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
-### React Native / Misc
+### JavaScript tools / Misc
 
 *   [Piecon (⭐2.3k)](https://github.com/lipka/piecon) - Pie charts in your favicon.
 
 ### Golang tools / Misc
 
-*   [svgo (⭐1.9k)](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
+*   [svgo (⭐2.3k)](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
 ### iOS tools / Misc
 
-*   [JBChartView (⭐3.8k)](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
+*   [JBChartView (⭐3.7k)](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
 
 ### Websites / Misc
 
