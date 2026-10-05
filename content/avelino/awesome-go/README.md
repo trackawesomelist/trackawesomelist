@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 05, 2026](/content/2026/10/05/README.md)
+
+### Security
+
+*   [FCaptcha (⭐220)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [metricsd (⭐1)](https://github.com/0x524A/metricsd) - Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
+
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
 ### Artificial Intelligence
@@ -314,7 +324,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
+*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 
 ## [Sep 03, 2026](/content/2026/09/03/README.md)
 
@@ -435,7 +445,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Audio and Music
 
-*   [go-wav (⭐3)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
+*   [go-wav (⭐4)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 
 ### Financial
 

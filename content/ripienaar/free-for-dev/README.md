@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 05, 2026](/content/2026/10/05/README.md)
+
+### PaaS
+
+*   [velixir](https://velixir.net/) - EU-hosted PaaS that builds web apps from source in any language (Node.js, Python, Go, Ruby, PHP, Java, Elixir, Rust, .NET and more), no Dockerfile needed. The free tier includes one app (0.25 vCPU, 256 MB RAM) that sleeps when idle, custom domains with TLS, and no credit card.
+
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
 ### Testing

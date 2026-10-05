@@ -441,7 +441,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [OXY2DEV/markdoc.nvim (⭐53)](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
 *   [YousefHadder/markdown-plus.nvim (⭐293)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 *   [Myzel394/easytables.nvim (⭐148)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit Markdown tables with a live preview and useful helpers.
-*   [dominic-righthere/markdown-pipetable.nvim (⭐8)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐10)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 *   [tttol/md-outline.nvim (⭐5)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 *   [rogue-87/inlyne.nvim (⭐4)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne (⭐1.3k)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 *   [Prgebish/sigil.nvim (⭐36)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
@@ -1341,6 +1341,7 @@ then it is not supported:
 
 ## Code Runner
 
+*   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 *   [wurli/jet.nvim (⭐33)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 *   [rafcamlet/nvim-luapad (⭐690)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 *   [michaelb/sniprun (⭐1.7k)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from your editor.
@@ -1810,7 +1811,7 @@ then it is not supported:
 *   [gelguy/wilder.nvim (⭐1.5k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 *   [vzze/cmdline.nvim (⭐26)](https://github.com/vzze/cmdline.nvim) - Helix-like command line with fuzzy autocompletion.
 *   [nvim-mini/mini.nvim#mini.cmdline (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
-*   [juniorsundar/cling.nvim (⭐25)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
+*   [juniorsundar/cling.nvim (⭐27)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
 
 <!--lint disable double-link -->
 
@@ -2008,13 +2009,6 @@ then it is not supported:
 *   [pgosar/CyberNvim (⭐381)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 *   [sontungexpt/stinvim (⭐53)](https://github.com/sontungexpt/stinvim) - Configuration for Full-Stack developers.
 *   [Abstract-IDE/Abstract (⭐212)](https://github.com/Abstract-IDE/Abstract) - Configuration to achieve the power of Modern IDE.
-
-<!--lint disable double-link -->
-
-*   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular distribution, inspired by [spacemacs (⭐25k)](https://github.com/syl20bnr/spacemacs).
-
-<!--lint enable double-link -->
-
 *   [CosmicNvim/CosmicNvim (⭐1.2k)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 *   [artart222/CodeArt (⭐905)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
 *   [LazyVim/LazyVim (⭐28k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.

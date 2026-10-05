@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 05, 2026](/content/2026/10/05/README.md)
+
+### Image Search / GitHub
+
+*   [Reverse Image Search Anywhere](https://reverseimage.app/) - Free browser extension and web tool for searching images across Google Lens, Yandex, Bing Visual Search, and TinEye, including images on sites where direct image URLs fail.
+
+### Threat Intelligence / GitHub
+
+*   [Dread Scraper (⭐2)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
+
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
 ### Web History and Website Capture / GitHub
@@ -1127,7 +1137,7 @@
 
 ### Web Monitoring / GitHub
 
-*   [Website-Diff (⭐1)](https://github.com/GeiserX/Website-Diff)
+*   [Website-Diff (⭐2)](https://github.com/GeiserX/Website-Diff)
 
 ### Threat Intelligence / GitHub
 

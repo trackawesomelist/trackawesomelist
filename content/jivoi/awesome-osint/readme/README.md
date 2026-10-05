@@ -1093,6 +1093,7 @@ Thanks to our main contributors
 *   [PicTriev](https://www.pictriev.com) - a face search engine.
 *   [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 *   [Pixsy](https://www.pixsy.com/) - Take back control of your images. See where & how your images are being used online!
+*   [Reverse Image Search Anywhere](https://reverseimage.app/) - Free browser extension and web tool for searching images across Google Lens, Yandex, Bing Visual Search, and TinEye, including images on sites where direct image URLs fail.
 *   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 *   [Surfface](https://surfface.com) - face search and people finder indexing social profiles and public images from social media and the web.
 *   [TinEye](https://tineye.com) - Reverse image search engine.
@@ -1449,7 +1450,7 @@ Thanks to our main contributors
 *   [visualping](https://visualping.io)
 *   [WebReader](https://www.getwebreader.com)
 *   [WebSite Watcher](https://www.aignes.com/index.htm)
-*   [Website-Diff (⭐1)](https://github.com/GeiserX/Website-Diff)
+*   [Website-Diff (⭐2)](https://github.com/GeiserX/Website-Diff)
 *   [Winds](https://winds.getstream.io)
 
 ## [↑](#-table-of-contents) Browsers
@@ -1721,6 +1722,7 @@ Thanks to our main contributors
 
 *   [defend.network](https://defend.network) - Free, no-login cyber threat intelligence publishing daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog. Content is structured by threat type, industry, and severity, with remediation guidance. RSS feed at defend.network/feed.xml.
 *   [DFIR Platform](https://platform.dfir-lab.ch) - Threat intelligence platform with multi-source IOC enrichment, phishing email analysis, exposure scanning, and domain reputation scoring. Free tier available.
+*   [Dread Scraper (⭐2)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
 *   [Dropbase](https://dropbase.fun) -  a fast breach, malware log, and OSINT search workspace with daily credits, map tools, and live community chat.
 *   [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 *   [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.

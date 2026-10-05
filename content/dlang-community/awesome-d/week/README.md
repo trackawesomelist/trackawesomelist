@@ -6,6 +6,13 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Build Tools / Status page
+
+*   [rules\_d (⭐27)](https://github.com/bazel-contrib/rules_d) - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
+*   [gazelle\_d (⭐0)](https://github.com/dcarp/gazelle_d) - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Blogs / Status page
@@ -890,7 +897,7 @@
 
 ### Tutorials / Status page
 
-*   [D Template Tutorial (⭐235)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐234)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Status page
 

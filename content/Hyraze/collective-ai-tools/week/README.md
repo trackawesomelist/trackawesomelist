@@ -2,9 +2,15 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 238 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 245 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
+
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Fashion
+
+*   [RealFun Color](https://color.realfun.online/) - Provides selfie-based personal color analysis and checks clothing colors against a personal color profile. `#freemium`
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -120,7 +126,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
 *   [OrcaReplay (⭐261)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
-*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐63)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 
 ### Education
 
@@ -353,7 +359,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [agent-qa (⭐885)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
+*   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
 
 ### Image Editing
 
@@ -633,7 +639,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
-*   [Twinny (⭐3.6k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
+*   [Twinny (⭐3.7k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 *   [Warp](https://www.warp.dev/) - Parallel agent operation for fast completion. `#paid`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 

@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Security
+
+*   [FCaptcha (⭐220)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [metricsd (⭐1)](https://github.com/0x524A/metricsd) - Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Artificial Intelligence
@@ -295,7 +305,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [GURL (⭐5)](https://github.com/matveynator/gurl) - When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
 *   [Plakar (⭐2.1k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 *   [spotify-screensaver (⭐0)](https://github.com/benzjeremy/spotify-screensaver) - Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
-*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
+*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
@@ -348,7 +358,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-audio-resampler (⭐11)](https://github.com/tphakala/go-audio-resampler) - Pure-Go, high-quality audio resampler with SIMD acceleration.
 *   [go-flac (⭐2)](https://github.com/tphakala/go-flac) - Native Go FLAC encoder and decoder with SIMD acceleration.
 *   [go-opus (⭐3)](https://github.com/tphakala/go-opus) - Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder.
-*   [go-wav (⭐3)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
+*   [go-wav (⭐4)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 
 ### Authentication and Authorization
 

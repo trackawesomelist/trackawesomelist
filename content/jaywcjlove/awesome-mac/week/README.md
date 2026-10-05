@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Reading and Writing Tools / Ebooks
+
+*   [Rapid Reader (⭐1)](https://github.com/Zer0codestuff/Rapid-Reader) - Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Voice-to-Text / Audio Record and Process
+
+*   [WhisperDrop 2 (⭐0)](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Productivity
+
+*   [OpenNaga (⭐2)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/OpenNaga) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Reading and Writing Tools / Note-taking
@@ -769,7 +783,7 @@
 
 ### Remote Login Software / System Related Tools
 
-*   [MoonProxy (⭐58)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MoonProxy (⭐61)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 

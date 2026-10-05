@@ -159,7 +159,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 *   [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4\&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV\&ab_channel=MikeShah) - An introductory video series about programming in D.
 *   [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-*   [D Template Tutorial (⭐235)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐234)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 *   [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 *   [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
 *   [OpenGL tutorials (⭐0)](https://github.com/drewet/opengl-tutorials) - OpenGL tutorials in D.
@@ -224,6 +224,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Manage projects and compile software from source code.*
 
 *   [dub (⭐740)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [rules\_d (⭐27)](https://github.com/bazel-contrib/rules_d) - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
+*   [gazelle\_d (⭐0)](https://github.com/dcarp/gazelle_d) - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
 *   [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 *   [premake (⭐3)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 *   [reggae (⭐190)](https://github.com/atilaneves/reggae) - meta build system in D

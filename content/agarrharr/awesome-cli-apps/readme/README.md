@@ -26,7 +26,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -206,6 +206,7 @@ Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) lis
 *   [mk (⭐140)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 *   [dotenv-diff (⭐81)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 *   [ota (⭐80)](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+*   [herdr-reviewr (⭐823)](https://github.com/persiyanov/herdr-reviewr) - Review a coding agent's diff and send line comments back to it.
 
 ### Text Editors
 
@@ -264,7 +265,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [PingMe (⭐865)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 *   [Discharge (⭐646)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
-*   [updatecli (⭐985)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐995)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 *   [telert (⭐288)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 *   [logdy (⭐2.3k)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 *   [s5cmd (⭐4.2k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
@@ -309,7 +310,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [yo (⭐4k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 *   [boilr (⭐1.8k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 *   [cookiecutter (⭐25k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐831)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [mevn-cli (⭐832)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 *   [scaffold-static (⭐129)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### HTTP Server
@@ -598,7 +599,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [Wat (⭐508)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐414)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐18k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐868)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
@@ -749,7 +750,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [srgn (⭐912)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 *   [rawhide (⭐60)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 *   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
-*   [reflex (⭐74)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+*   [reflex (⭐75)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 *   [Vexor (⭐241)](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
 *   [ygrep (⭐60)](https://github.com/yetidevworks/ygrep) - Indexed code search backed by a local Tantivy full-text index.
 
@@ -777,7 +778,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [lazygit (⭐83k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 *   [gitui (⭐23k)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+*   [ggc (⭐286)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 *   [AI Git Narrator (⭐120)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 *   [gibr (⭐109)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
@@ -801,7 +802,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [imgur-uploader-cli (⭐61)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.7k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 *   [optimizt (⭐184)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
-*   [freeze (⭐4.8k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+*   [freeze (⭐4.9k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 *   [rclip (⭐1k)](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
 
 ### Gif Creation
@@ -876,7 +877,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [lean-ctx (⭐3.8k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 *   [hcom (⭐522)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 *   [toktrack (⭐192)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
-*   [OpenCode (⭐208k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+*   [OpenCode (⭐212k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 *   [Nanocoder (⭐2.5k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 *   [faf-cli (⭐41)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 *   [agentty (⭐615)](https://github.com/1ay1/agentty) - C++ agent TUI.

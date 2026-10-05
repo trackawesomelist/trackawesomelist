@@ -2,16 +2,34 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 391K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 397K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/readme/README.md) ]
+
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### C++
+
+*   [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
+
+## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
+
+### Golang
+
+*   [Go 指南](https://web.archive.org/web/20251210000637/https://tour.go-zh.org/list) (《A Tour of Go》中文版) *( :card\_file\_box: archived)*
+
+## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
+
+### 人工智能
+
+*   [理解现代大语言模型系统-从RAG到全景](https://llmknowledge.pages.dev/zh/) - koe
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
 ### 人工智能
 
-*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐0)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
-*   [遊戲策劃實務即用的 AI · Claude Code 活用法 (⭐0)](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
+*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐10)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
+*   [遊戲策劃實務即用的 AI · Claude Code 活用法 (⭐1)](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -32,7 +50,7 @@
 *   [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
 *   [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
 *   [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
-*   [深度学习500问 (⭐57k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
+*   [深度学习500问 (⭐58k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 *   [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
@@ -123,7 +141,7 @@
 *   [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 *   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
-*   [Github帮助文档 (⭐841)](https://github.com/waylau/github-help) - Way Lau
+*   [Github帮助文档 (⭐842)](https://github.com/waylau/github-help) - Way Lau
 *   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
 *   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
 *   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
@@ -135,7 +153,7 @@
 ### Android
 
 *   [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
-*   [Google Material Design 中文协同翻译 (⭐3.1k)](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
+*   [Google Material Design 中文协同翻译 (⭐3k)](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -155,7 +173,7 @@
 
 ### Golang
 
-*   [Go 简易教程 (⭐412)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2.3k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+*   [Go 简易教程 (⭐411)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2.3k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
 *   [The Little Go Book 繁體中文翻譯版 (⭐136)](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trl.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
 
 ### JavaScript / AngularJS
@@ -230,13 +248,13 @@
 ### JavaScript / Backbone.js
 
 *   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-*   [Backbone.js入门教程第二版 (⭐939)](https://github.com/the5fire/backbonejs-learning-note)
+*   [Backbone.js入门教程第二版 (⭐938)](https://github.com/the5fire/backbonejs-learning-note)
 *   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *( :card\_file\_box: archived)*
 
 ### JavaScript / D3.js
 
 *   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
-*   [官方API文档 (⭐113k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+*   [官方API文档 (⭐114k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
 *   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 ### JavaScript / Electron.js
@@ -256,8 +274,8 @@
 ### JavaScript / React.js
 
 *   [Learn React & Webpack by building the Hacker News front page (⭐408)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐712)](https://github.com/hateonion/react-bits-CN)
-*   [React webpack-cookbook (⭐267)](https://github.com/fakefish/react-webpack-cookbook)
+*   [React-Bits 中文文档 (⭐713)](https://github.com/hateonion/react-bits-CN)
+*   [React webpack-cookbook (⭐266)](https://github.com/fakefish/react-webpack-cookbook)
 *   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 *   [React.js 中文文档](https://discountry.github.io/react/)
 
@@ -309,7 +327,7 @@
 
 ### Golang
 
-*   [Go 命令教程 (⭐3.5k)](https://github.com/hyper-carrot/go_command_tutorial)
+*   [Go 命令教程 (⭐3.4k)](https://github.com/hyper-carrot/go_command_tutorial)
 
 ### Groovy
 
@@ -349,7 +367,7 @@
 
 *   [构建自己的AngularJS (⭐389)](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
 *   [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
-*   [AngularJS入门教程 (⭐569)](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) ( :card\_file\_box: *archived*)
+*   [AngularJS入门教程 (⭐568)](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) ( :card\_file\_box: *archived*)
 
 ### JavaScript / Node.js
 
@@ -363,7 +381,7 @@
 *   [Node.js 包教不包会 (⭐16k)](https://github.com/alsotang/node-lessons)
 *   [Node.js Fullstack《從零到一的進撃》 (⭐356)](https://github.com/jollen/nodejs-fullstack-lessons)
 *   [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-*   [Nodejs Wiki Book (⭐413)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+*   [Nodejs Wiki Book (⭐415)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
 *   [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 *   [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
 
@@ -411,7 +429,7 @@
 
 *   [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 *   [理解Linux进程 (⭐1k)](https://github.com/tobegit3hub/understand_linux_process)
-*   [命令行的艺术 (⭐162k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+*   [命令行的艺术 (⭐163k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 *   [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 *   [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 *   [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
@@ -513,7 +531,7 @@
 
 ### C
 
-*   [新概念 C 语言教程 (⭐516)](https://github.com/limingth/NCCL)
+*   [新概念 C 语言教程 (⭐519)](https://github.com/limingth/NCCL)
 
 ### C++
 
@@ -534,13 +552,12 @@
 *   [学习Go语言](http://mikespook.com/learning-go/)
 *   [Go 编程基础 (⭐9.1k)](https://github.com/Unknwon/go-fundamental-programming)
 *   [Go 入门指南 (⭐35k)](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
-*   [Go 语言实战笔记 (⭐264)](https://github.com/rujews/go-in-action-notes)
-*   [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
+*   [Go 语言实战笔记 (⭐262)](https://github.com/rujews/go-in-action-notes)
 
 ### HTML and CSS
 
 *   [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
-*   [通用 CSS 笔记、建议与指导 (⭐676)](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+*   [通用 CSS 笔记、建议与指导 (⭐675)](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 *   [学习CSS布局](http://zh.learnlayout.com)
 
 ### iOS
@@ -549,9 +566,9 @@
 
 ### Java
 
-*   [用jersey构建REST服务 (⭐170)](https://github.com/waylau/RestDemo)
-*   [Java 编码规范 (⭐214)](https://github.com/waylau/java-code-conventions)
-*   [Java Servlet 3.1 规范 (⭐166)](https://github.com/waylau/servlet-3.1-specification)
+*   [用jersey构建REST服务 (⭐169)](https://github.com/waylau/RestDemo)
+*   [Java 编码规范 (⭐213)](https://github.com/waylau/java-code-conventions)
+*   [Java Servlet 3.1 规范 (⭐165)](https://github.com/waylau/servlet-3.1-specification)
 
 ### JavaScript
 
@@ -592,7 +609,7 @@
 
 ### Rust / Django
 
-*   [通过例子学习 Rust (⭐140)](https://github.com/rustcc/rust-by-example/)
+*   [通过例子学习 Rust (⭐139)](https://github.com/rustcc/rust-by-example/)
 
 ### Shell / Django
 
@@ -669,7 +686,7 @@
 
 ### C++
 
-*   [C/C++ Primer (⭐307)](https://github.com/andycai/cprimer) - andycai
+*   [C/C++ Primer (⭐306)](https://github.com/andycai/cprimer) - andycai
 
 ### Java
 
@@ -718,8 +735,8 @@
 *   [Disque 使用教程](http://disque.huangz.me)
 *   [Redis 命令参考](http://redisdoc.com)
 *   [Redis 设计与实现](http://redisbook.com)
-*   [The Little MongoDB Book (⭐520)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-*   [The Little Redis Book (⭐579)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+*   [The Little MongoDB Book (⭐515)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+*   [The Little Redis Book (⭐578)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 
 ### PostgreSQL / Yii
 
@@ -731,7 +748,7 @@
 
 ### VBA (Microsoft Visual Basic Applications) / Deno
 
-*   [简明Excel VBA (⭐706)](https://github.com/Youchien/concise-excel-vba)
+*   [简明Excel VBA (⭐714)](https://github.com/Youchien/concise-excel-vba)
 
 ## [Aug 13 - Aug 19, 2018](/content/2018/33/README.md)
 
@@ -803,7 +820,7 @@
 ### Rust / Django
 
 *   [Rust 官方教程 (⭐1.8k)](https://github.com/KaiserY/rust-book-chinese)
-*   [Rust 语言学习笔记 (⭐159)](https://github.com/photino/rust-notes)
+*   [Rust 语言学习笔记 (⭐160)](https://github.com/photino/rust-notes)
 *   [RustPrimer (⭐1.8k)](https://github.com/rustcc/RustPrimer)
 
 ## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
@@ -851,7 +868,7 @@
 
 ### C++
 
-*   [100个gcc小技巧 (⭐549)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
+*   [100个gcc小技巧 (⭐548)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 *   [100个gdb小技巧 (⭐3.2k)](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 *   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 *   [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
@@ -862,7 +879,7 @@
 
 *   [Go 官方文档翻译 (⭐147)](https://github.com/golang-china/golangdoc.translations)
 *   [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
-*   [Network programming with Go 中文翻译版本 (⭐581)](https://github.com/astaxie/NPWG_zh)
+*   [Network programming with Go 中文翻译版本 (⭐580)](https://github.com/astaxie/NPWG_zh)
 
 ### HTML and CSS
 
@@ -876,15 +893,15 @@
 
 ### Java
 
-*   [Activiti 5.x 用户指南 (⭐195)](https://github.com/waylau/activiti-5.x-user-guide)
+*   [Activiti 5.x 用户指南 (⭐194)](https://github.com/waylau/activiti-5.x-user-guide)
 *   [Apache MINA 2 用户指南 (⭐219)](https://github.com/waylau/apache-mina-2.x-user-guide)
-*   [H2 Database 教程 (⭐46)](https://github.com/waylau/h2-database-doc)
+*   [H2 Database 教程 (⭐45)](https://github.com/waylau/h2-database-doc)
 *   [JSSE 参考指南 (⭐29)](https://github.com/waylau/jsse-reference-guide)
 *   [Spring Framework 4.x参考文档 (⭐1.4k)](https://github.com/waylau/spring-framework-4-reference)
 
 ### JavaScript
 
-*   [Airbnb JavaScript 规范 (⭐635)](https://github.com/adamlu/javascript-style-guide)
+*   [Airbnb JavaScript 规范 (⭐634)](https://github.com/adamlu/javascript-style-guide)
 
 ### PHP / Zepto.js
 
@@ -912,7 +929,7 @@
 
 ### HTML and CSS
 
-*   [CSS3 Tutorial 《CSS3 教程》 (⭐208)](https://github.com/waylau/css3-tutorial)
+*   [CSS3 Tutorial 《CSS3 教程》 (⭐207)](https://github.com/waylau/css3-tutorial)
 *   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 *   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 
@@ -930,8 +947,7 @@
 ### C++
 
 *   [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-*   [CGDB中文手册 (⭐276)](https://github.com/leeyiw/cgdb-manual-in-chinese)
-*   [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+*   [CGDB中文手册 (⭐275)](https://github.com/leeyiw/cgdb-manual-in-chinese)
 
 ### Android
 
@@ -939,8 +955,8 @@
 
 ### Golang
 
-*   [Go 语言标准库 (⭐9.6k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-*   [Go语言博客实践 (⭐392)](https://github.com/achun/Go-Blog-In-Action)
+*   [Go 语言标准库 (⭐9.5k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+*   [Go语言博客实践 (⭐391)](https://github.com/achun/Go-Blog-In-Action)
 
 ### iOS
 
@@ -949,16 +965,16 @@
 
 ### Java
 
-*   [Apache Shiro 用户指南 (⭐463)](https://github.com/waylau/apache-shiro-1.2.x-reference)
-*   [Jersey 2.x 用户指南 (⭐239)](https://github.com/waylau/Jersey-2.x-User-Guide)
+*   [Apache Shiro 用户指南 (⭐461)](https://github.com/waylau/apache-shiro-1.2.x-reference)
+*   [Jersey 2.x 用户指南 (⭐238)](https://github.com/waylau/Jersey-2.x-User-Guide)
 *   [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 *   [Netty 4.x 用户指南 (⭐2.3k)](https://github.com/waylau/netty-4-user-guide)
 *   [Netty 实战(精髓) (⭐1.8k)](https://github.com/waylau/essential-netty-in-action)
-*   [REST 实战 (⭐467)](https://github.com/waylau/rest-in-action)
+*   [REST 实战 (⭐465)](https://github.com/waylau/rest-in-action)
 
 ### JavaScript
 
-*   [javascript 的 12 个怪癖 (⭐263)](https://github.com/justjavac/12-javascript-quirks)
+*   [javascript 的 12 个怪癖 (⭐260)](https://github.com/justjavac/12-javascript-quirks)
 
 ## [Oct 12 - Oct 18, 2015](/content/2015/41/README.md)
 

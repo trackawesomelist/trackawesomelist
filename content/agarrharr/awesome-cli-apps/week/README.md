@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Development / Chat
+
+*   [herdr-reviewr (⭐823)](https://github.com/persiyanov/herdr-reviewr) - Review a coding agent's diff and send line comments back to it.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Entertainment / Music
@@ -217,7 +223,7 @@
 
 ### AI / Agents
 
-*   [OpenCode (⭐208k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+*   [OpenCode (⭐212k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 *   [Nanocoder (⭐2.5k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### AI / LLM Interaction
@@ -301,7 +307,7 @@
 
 ### Files and Directories / Search
 
-*   [reflex (⭐74)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+*   [reflex (⭐75)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -486,7 +492,7 @@
 ### Images / Emoji
 
 *   [optimizt (⭐184)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
-*   [freeze (⭐4.8k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+*   [freeze (⭐4.9k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Screensavers / Image Conversion
 
@@ -641,7 +647,7 @@
 
 ### Version Control / Git
 
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+*   [ggc (⭐286)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 *   [AI Git Narrator (⭐120)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 
 ### Images / Image Conversion
@@ -811,7 +817,7 @@
 
 ### Development / Boilerplate
 
-*   [mevn-cli (⭐831)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [mevn-cli (⭐832)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 
 ### Files and Directories / Directory Navigation
 
@@ -838,7 +844,7 @@
 
 ### Command Line Learning / Backup
 
-*   [yai (⭐868)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ### Files and Directories / File Managers
 
@@ -884,7 +890,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐985)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐995)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 

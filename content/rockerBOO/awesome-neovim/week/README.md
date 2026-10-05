@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Code Runner / Quickfix
+
+*   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Plugin Manager
@@ -102,7 +108,7 @@ Collections of awesome neovim plugins.
 
 ### Command Line / Indent
 
-*   [juniorsundar/cling.nvim (⭐25)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
+*   [juniorsundar/cling.nvim (⭐27)](https://github.com/juniorsundar/cling.nvim) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
@@ -356,7 +362,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [dominic-righthere/markdown-pipetable.nvim (⭐8)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+*   [dominic-righthere/markdown-pipetable.nvim (⭐10)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
 ### Project / Markdown and LaTeX
 
@@ -4584,7 +4590,6 @@ Collections of awesome neovim plugins.
 
 ### Pre-made Configuration / Stats Tracking
 
-*   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular distribution, inspired by [spacemacs (⭐25k)](https://github.com/syl20bnr/spacemacs).
 *   [hackorum/VapourNvim (⭐560)](https://github.com/hackorum/VapourNvim) - Configuration for the ultimate Vim IDE-like experience.
 
 ### UI / OS-specific

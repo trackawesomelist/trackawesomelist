@@ -329,6 +329,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 *   [Klib](https://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?platform=mac)
 *   [Koodo Reader](https://www.koodoreader.com/en) - All-in-one eBook reader supporting over 15 formats. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
+*   [Rapid Reader (⭐1)](https://github.com/Zer0codestuff/Rapid-Reader) - Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 *   [Readest (⭐25k)](https://github.com/readest/readest) - Open-source ebook reader with a clean interface and powerful reading tools. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 *   [ReadAny](https://codedogqby.github.io/ReadAny/) - AI-powered e-book reader with semantic search, chat, and note management. [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
 *   [Scribus](https://www.scribus.net/) - Professional layout and publishing software. [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
@@ -1104,6 +1105,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 *   [VoxFlow (⭐45)](https://github.com/xingbofeng/VoxFlow) - Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows. [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 *   [Voxt (⭐850)](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
+*   [WhisperDrop 2 (⭐0)](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 *   [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 *   [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
@@ -1498,6 +1500,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 *   [OpenClip](https://getopenclip.app) - Lightweight floating action bar for macOS that turns selected text into instant actions. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
 *   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
+*   [OpenNaga (⭐2)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 *   [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 *   [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - Search and discovery with AI.
@@ -1691,7 +1694,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [AnyDesk](https://anydesk.com) - Provides remote access across multiple machines.
 *   [HopToDesk](https://www.hoptodesk.com/) - Open-source remote desktop and remote support tool with end-to-end encrypted sessions. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
-*   [MoonProxy (⭐58)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
+*   [MoonProxy (⭐61)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 *   [Moonlight (⭐19k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 *   [Parsec](https://parsec.app) - Low-latency remote desktop and game streaming tool.
 *   [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.

@@ -6,6 +6,22 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 05, 2026](/content/2026/10/05/README.md)
+
+### Science & Math
+
+- API: [Oliver's mTOR Atlas](https://mtor-atlas.org/api/)
+
+  Description: Curated mTOR research: studies by evidence type, pathway claims, open questions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
 ### APIs Covered Under APILayer Suite!

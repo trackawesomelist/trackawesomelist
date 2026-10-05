@@ -2,7 +2,7 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 238 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 245 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -408,7 +408,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
-*   [agent-qa (⭐885)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
+*   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
@@ -499,7 +499,7 @@ Use these hashtags in search to filter out the tools
 *   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
-*   [Twinny (⭐3.6k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
+*   [Twinny (⭐3.7k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 *   [v0](https://v0.dev/) - AI-powered UI component generator by Vercel. `#free`
 *   [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
 *   [Vercel AI SDK](https://sdk.vercel.ai/) - TypeScript toolkit for building AI-powered applications with streaming, agents, and tool calling. `#free` `#opensource`
@@ -507,7 +507,7 @@ Use these hashtags in search to filter out the tools
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
-*   [YYLO (⭐60)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐63)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 *   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
 *   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
@@ -609,8 +609,9 @@ Use these hashtags in search to filter out the tools
 *   [DressMeAI](https://dressmeai.com/) - AI virtual try-on from a person photo and clothing image. `#paid`
 *   [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. `#free`
 *   [Intelistyle](https://www.intelistyle.com/) -  offers personalized styling and virtual try-on features for a better online shopping experience. `#paid`
-*   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
 *   [Outfit Roast](https://outfit.roastlabai.com/) - AI-powered outfit analysis that rates your look for any occasion, gives honest style feedback, and tells you exactly what to change. Upload a photo and get scored. `#freemium`
+*   [RealFun Color](https://color.realfun.online/) - Provides selfie-based personal color analysis and checks clothing colors against a personal color profile. `#freemium`
+*   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

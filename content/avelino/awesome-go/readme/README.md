@@ -280,7 +280,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [go-mpris (⭐22)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
 *   [go-opus (⭐3)](https://github.com/tphakala/go-opus) - Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder.
 *   [go-resample (⭐0)](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
-*   [go-wav (⭐3)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
+*   [go-wav (⭐4)](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 *   [GoAudio (⭐432)](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
 *   [gocue (⭐1)](https://github.com/iSerganov/gocue) - Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap.
 *   [gosamplerate (⭐39)](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
@@ -2521,6 +2521,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [dotlock (⭐4)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 *   [encid (⭐7)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 *   [entpassgen (⭐7)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
+*   [FCaptcha (⭐220)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
 *   [firewalld-rest (⭐344)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 *   [fort (⭐79)](https://github.com/djadmin/fort) - Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
 *   [go-generate-password (⭐57)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
@@ -3708,6 +3709,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [lwc (⭐33)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐309)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Mantil (⭐115)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
+*   [metricsd (⭐1)](https://github.com/0x524A/metricsd) - Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
 *   [minikube (⭐32k)](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 *   [Moby (⭐72k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
 *   [Mora (⭐314)](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
@@ -3832,7 +3834,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [tldx (⭐1.9k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
 *   [toxiproxy (⭐12k)](https://github.com/shopify/toxiproxy) - Proxy to simulate network and system conditions for automated tests.
 *   [tsuru](https://tsuru.io/) - Extensible and open source Platform as a Service software.
-*   [untis-go (⭐1)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
+*   [untis-go (⭐0)](https://github.com/benzjeremy/untis-go) - Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.
 *   [vaku (⭐160)](https://github.com/lingrino/vaku) - CLI & API for folder-based functions in Vault like copy, move, and search.
 *   [vFlow (⭐1.2k)](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
 *   [Wave Terminal](https://waveterm.dev) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
