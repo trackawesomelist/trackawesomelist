@@ -922,6 +922,7 @@ then it is not supported:
 *   [aadielpr/bono.nvim (⭐4)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][L/D][Lua]`*** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 *   [jonestristand/dune.nvim (⭐2)](https://github.com/jonestristand/dune.nvim) - ***`[TS][LSP][Lua]`*** Four (plus one) variants inspired by Frank Herbert's Dune.
+*   [2giosangmitom/nightfall.nvim (⭐49)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
 
 <!--lint disable double-link -->
 

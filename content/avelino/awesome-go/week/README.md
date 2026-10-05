@@ -8,9 +8,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Advanced Console UIs
+
+*   [huh (⭐7.2k)](https://github.com/charmbracelet/huh) - Lightweight library for building interactive forms and prompts in the terminal.
+
+### Machine Learning
+
+*   [gorse (⭐9.8k)](https://github.com/gorse-io/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+
 ### Security
 
 *   [FCaptcha (⭐220)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
+
+### Testing Frameworks
+
+*   [prettycov (⭐3)](https://github.com/screwyprof/prettycov) - Draws a Go coverage profile as a package tree with a total on every row.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -208,7 +220,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [sortie (⭐187)](https://github.com/sortie-ai/sortie) - Turn tracker tickets into autonomous coding agent sessions.
+*   [sortie (⭐196)](https://github.com/sortie-ai/sortie) - Turn tracker tickets into autonomous coding agent sessions.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
@@ -253,7 +265,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Relational Database Drivers
 
-*   [go-mssqldb (⭐410)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
+*   [go-mssqldb (⭐411)](https://github.com/microsoft/go-mssqldb) - Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.
 
 ### Financial
 
@@ -279,7 +291,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Server Applications
 
-*   [Casdoor (⭐14k)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
+*   [Casdoor (⭐15k)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
 
 ### Mock
 
@@ -370,7 +382,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [orderbook (⭐16)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
+*   [orderbook (⭐22)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
 
 ### Science and Data Analysis
 
@@ -5469,7 +5481,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Goptuna (⭐280)](https://github.com/c-bata/goptuna) - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 *   [goRecommend (⭐205)](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.
 *   [gorgonia (⭐5.9k)](https://github.com/gorgonia/gorgonia) - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
-*   [gorse](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 *   [goscore (⭐101)](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
 *   [gosseract (⭐3.1k)](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 *   [libsvm (⭐73)](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.

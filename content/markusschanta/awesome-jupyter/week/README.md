@@ -6,6 +6,12 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ [Daily](/content/markusschanta/awesome-jupyter/README.md) / Weekly / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Rendering/Publishing/Conversion
+
+*   [ipynbtopdf](https://ipynbtopdf.xyz/) - Browser-only Jupyter notebook to PDF converter; no upload or LaTeX toolchain.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Visualization
@@ -24,7 +30,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [FlexViz (⭐18)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
+*   [FlexViz (⭐53)](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
 
 ### Rendering/Publishing/Conversion
 
@@ -347,7 +353,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Evidently (⭐7.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 

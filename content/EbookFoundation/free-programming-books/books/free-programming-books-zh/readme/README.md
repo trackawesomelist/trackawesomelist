@@ -441,7 +441,7 @@
 *   [Java Servlet 3.1 规范 (⭐165)](https://github.com/waylau/servlet-3.1-specification)
 *   [Jersey 2.x 用户指南 (⭐238)](https://github.com/waylau/Jersey-2.x-User-Guide)
 *   [JSSE 参考指南 (⭐29)](https://github.com/waylau/jsse-reference-guide)
-*   [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+*   [MyBatis中文文档](https://mybatis.org/mybatis-3/zh_CN/)
 *   [Netty 4.x 用户指南 (⭐2.3k)](https://github.com/waylau/netty-4-user-guide)
 *   [Netty 实战(精髓) (⭐1.8k)](https://github.com/waylau/essential-netty-in-action)
 *   [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)

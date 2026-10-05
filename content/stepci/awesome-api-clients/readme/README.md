@@ -18,69 +18,70 @@ If you wish to contribute: [start a pull request (⭐1.1k)](https://github.com/s
 
 ## Web-Based
 
-*   [Restfox](https://restfox.dev) ([repo (⭐2.7k)](https://github.com/flawiddsouza/Restfox)) - Offline-first web HTTP client
-*   [Hoppscotch](https://hoppscotch.io) ([repo (⭐79k)](https://github.com/hoppscotch/hoppscotch)) - Open source API development ecosystem
+*   [Restfox](https://restfox.dev) ([repo (⭐2.8k)](https://github.com/flawiddsouza/Restfox)) - Offline-first web HTTP client
+*   [Hoppscotch](https://hoppscotch.io) ([repo (⭐81k)](https://github.com/hoppscotch/hoppscotch)) - Open source API development ecosystem
 *   [Firecamp](https://firecamp.io) ([repo (⭐2.6k)](https://github.com/firecamp-dev/firecamp)) - Open Source Postman Alternative inspired by VS Code DX
 *   [gRPC UI (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 *   [Yaade](https://docs.yaade.io) ([repo (⭐2k)](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 *   Prestige ([repo (⭐402)](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
-*   [Requestly](https://requestly.com) ([repo (⭐6.7k)](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
+*   [Requestly](https://requestly.com) ([repo (⭐6.8k)](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
 
 ## Desktop
 
-*   [Bruno](https://usebruno.com) ([repo (⭐43k)](https://github.com/usebruno/bruno)) - Opensource IDE For Exploring and Testing APIs
+*   [Bruno](https://usebruno.com) ([repo (⭐47k)](https://github.com/usebruno/bruno)) - Opensource IDE For Exploring and Testing APIs
 *   [Yaak](https://yaak.app) ([repo (⭐19k)](https://github.com/yaakapp/app)) - The most intuitive desktop API client
-*   [API Dash (⭐2.8k)](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client
+*   [API Dash (⭐2.9k)](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client
 *   [ezy](https://www.getezy.dev) ([repo (⭐1k)](https://github.com/getezy/ezy)) - GUI client for gRPC/gRPC-Web
 *   [BloomRPC (⭐9k)](https://github.com/bloomrpc/bloomrpc) - (unmaintained) The missing GUI Client for gRPC services
 *   [Milkman (⭐1.3k)](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
-*   [Insomnium (⭐3.5k)](https://github.com/ArchGPT/insomnium) - (unmaintained) Insomnium is a 100% local and privacy-focus open-source API client (based on Insomnia)
-*   [Pororoca](https://pororoca.io) ([repo (⭐657)](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
-*   [Nightingale REST Client](https://nightingale.rest/) ([repo (⭐831)](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
-*   [Requestly](https://requestly.com) ([repo (⭐6.7k)](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
-*   [Cartero](https://cartero.danirod.es/) ([repo (⭐997)](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
-*   [Voiden](https://voiden.md) ([repo (⭐1k)](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
-*   [EasyPostman (⭐640)](https://github.com/lakernote/EasyPostman) - An open-source API debugging and performance testing tool inspired by Postman and a simplified JMeter
+*   [Insomnium](https://github.com/ArchGPT/insomnium) - (unmaintained) Insomnium is a 100% local and privacy-focus open-source API client (based on Insomnia)
+*   [Pororoca](https://pororoca.io) ([repo (⭐669)](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
+*   [Nightingale REST Client](https://nightingale.rest/) ([repo (⭐834)](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
+*   [Requestly](https://requestly.com) ([repo (⭐6.8k)](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
+*   [Cartero](https://cartero.danirod.es/) ([repo (⭐1k)](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
+*   [Voiden](https://voiden.md) ([repo (⭐1.9k)](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
+*   [EasyPostman (⭐721)](https://github.com/lakernote/EasyPostman) - An open-source API debugging and performance testing tool inspired by Postman and a simplified JMeter
 
 ## IDE
 
-*   [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo (⭐6k)](https://github.com/Huachao/vscode-restclient)) - Send HTTP request and view the response in Visual Studio Code
+*   [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo (⭐6.1k)](https://github.com/Huachao/vscode-restclient)) - Send HTTP request and view the response in Visual Studio Code
 *   [restclient.el (⭐2k)](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
-*   [verb (⭐746)](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
-*   [rest.nvim (⭐2k)](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
-*   [kulala.nvim (⭐2k)](https://github.com/mistweaverco/kulala.nvim) - A minimal REST-Client Interface for Neovim.
-*   [resterm (⭐1.7k)](https://github.com/unkn0wn-root/resterm) - Terminal REST/Graphql/gRPC client written in Go.
+*   [verb (⭐767)](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
+*   [rest.nvim (⭐2.1k)](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
+*   [kulala.nvim (⭐18)](https://github.com/mistweaverco/kulala.nvim) - A minimal REST-Client Interface for Neovim.
+*   [resterm (⭐2k)](https://github.com/unkn0wn-root/resterm) - Terminal REST/Graphql/gRPC client written in Go.
 
 ## CLI
 
-*   [curl](https://curl.se) ([repo (⭐42k)](https://github.com/curl/curl)) - Command line tool and library for transferring data with URLs (since 1998)
-*   [HTTPie](https://httpie.io/cli) ([repo (⭐38k)](https://github.com/httpie/cli)) - HTTPie CLI: human-friendly HTTP client for the API era
+*   [curl](https://curl.se) ([repo (⭐43k)](https://github.com/curl/curl)) - Command line tool and library for transferring data with URLs (since 1998)
+*   [HTTPie](https://httpie.io/cli) ([repo (⭐39k)](https://github.com/httpie/cli)) - HTTPie CLI: human-friendly HTTP client for the API era
 *   [grpcurl (⭐13k)](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-*   [xh (⭐7.8k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+*   [xh (⭐8.1k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 *   [posting (⭐12k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal
-*   [curlie (⭐3.6k)](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie
-*   [HttpRepl (⭐709)](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
-*   [ain (⭐622)](https://github.com/jonaslu/ain) - A HTTP API client for the terminal, uses curl, wget or httpie to make the actual calls
+*   [curlie (⭐3.7k)](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie
+*   [HttpRepl (⭐711)](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
+*   [ain (⭐621)](https://github.com/jonaslu/ain) - A HTTP API client for the terminal, uses curl, wget or httpie to make the actual calls
 *   [evans (⭐4.5k)](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
-*   [httpYac](https://httpyac.github.io/) ([repo (⭐823)](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
-*   [ATAC](https://atac.julien-cpsn.com/) ([repo (⭐3.6k)](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
-*   [Better Curl Saul (⭐321)](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
-*   [Slumber](https://slumber.lucaspickering.me/) ([repo (⭐902)](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
+*   [httpYac](https://httpyac.github.io/) ([repo (⭐883)](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
+*   [ATAC](https://atac.julien-cpsn.com/) ([repo (⭐3.7k)](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
+*   [Better Curl Saul (⭐318)](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
+*   [Slumber](https://slumber.lucaspickering.me/) ([repo (⭐1.2k)](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
+*   [resto (⭐286)](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI
 
 ## Automated Testing
 
 *   [Step CI](https://stepci.com) ([repo (⭐1.9k)](https://github.com/stepci/stepci)) - Open-source API Test Automation framework
 *   [Hurl](https://hurl.dev) ([repo (⭐19k)](https://github.com/Orange-OpenSource/hurl)) - Hurl, run and test HTTP requests with plain text.
-*   [Karate](https://karatelabs.github.io/karate/) ([repo (⭐8.8k)](https://github.com/karatelabs/karate)) - Test Automation Made Simple
-*   [Tavern](https://taverntesting.github.io) ([repo (⭐1.1k)](https://github.com/taverntesting/tavern)) - Automated RESTful API testing
+*   [Karate](https://karatelabs.github.io/karate/) ([repo (⭐9k)](https://github.com/karatelabs/karate)) - Test Automation Made Simple
+*   [Tavern](https://taverntesting.github.io) ([repo (⭐1.2k)](https://github.com/taverntesting/tavern)) - Automated RESTful API testing
 *   [Venom (⭐1.2k)](https://github.com/ovh/venom) - Manage and run your integration tests with efficiency
 *   [pyresttest (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python Rest Testing
-*   [runn (⭐626)](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario
+*   [runn (⭐651)](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario
 *   [scenarigo (⭐1)](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server
-*   [Schemathesis](https://schemathesis.readthedocs.io/) ([repo (⭐3.3k)](https://github.com/schemathesis/schemathesis)) - Specification-centric API testing tool for Open API and GraphQL-based applications
+*   [Schemathesis](https://schemathesis.readthedocs.io/) ([repo (⭐3.6k)](https://github.com/schemathesis/schemathesis)) - Specification-centric API testing tool for Open API and GraphQL-based applications
 *   [Dredd (⭐4.2k)](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 *   [abao (⭐352)](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
 *   [HttpRunner](https://httprunner.com/httprunner/) ([repo (⭐4.3k)](https://github.com/httprunner/httprunner))
-*   [k6](https://k6.io) ([repo (⭐31k)](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
-*   [Artillery](https://artillery.io) ([repo (⭐9k)](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+*   [k6](https://k6.io) ([repo (⭐32k)](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
+*   [Artillery](https://artillery.io) ([repo (⭐9.1k)](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
 

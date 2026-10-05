@@ -6,6 +6,12 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Spreadsheets and Documents
+
+*   [SimpleXlsxReader (⭐190)](https://github.com/woahdae/simple_xlsx_reader) - A fast xlsx reader that parses cell values into plain Ruby primitives and dates/times.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Compression
@@ -353,6 +359,7 @@
 *   Data analysis/structures
     *   [daru (⭐1.1k)](https://github.com/SciRuby/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
     *   [Daru::View (⭐98)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Polars (⭐997)](https://github.com/ankane/ruby-polars) - Blazingly fast DataFrames for Ruby, powered by Polars.
     *   [Rgl (⭐424)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ### Search

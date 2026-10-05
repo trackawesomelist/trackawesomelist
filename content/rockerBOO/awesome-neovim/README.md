@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
+### Colorscheme / Markdown and LaTeX
+
+*   [2giosangmitom/nightfall.nvim (⭐49)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
+
 ### Code Runner / Quickfix
 
 *   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.

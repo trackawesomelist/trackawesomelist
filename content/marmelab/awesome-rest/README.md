@@ -6,6 +6,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 [ Daily / [Weekly](/content/marmelab/awesome-rest/week/README.md) / [Overview](/content/marmelab/awesome-rest/readme/README.md) ]
 
+## [Oct 05, 2026](/content/2026/10/05/README.md)
+
+### Documentation / Symfony2
+
+*   [Sourcey](https://sourcey.com/docs) - Static documentation generator from OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown sources.
+
 ## [Sep 23, 2026](/content/2026/09/23/README.md)
 
 ### Documentation / Symfony2
@@ -34,12 +40,6 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 *   [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
 *   [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
-
-## [Mar 31, 2026](/content/2026/03/31/README.md)
-
-### Documentation / Symfony2
-
-*   [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
@@ -625,7 +625,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying / Symfony2
 
-*   [resty (⭐2.7k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+*   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 *   [jq (⭐36k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 
 ### Mocking / Symfony2
