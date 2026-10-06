@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 [ [Daily](/content/francoism90/awesome-kde/README.md) / Weekly / [Overview](/content/francoism90/awesome-kde/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Plasma desktop / Extensions
+
+*   [Krema (⭐37)](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Plasma desktop / Scripts
