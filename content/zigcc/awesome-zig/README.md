@@ -6,6 +6,20 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Oct 06, 2026](/content/2026/10/06/README.md)
+
+### Language Essentials / Data Structure and Algorithm
+
+*   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+
+### Network & Web / Network
+
+*   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
+
+### Multimedia & Graphics / GUI
+
+*   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
+
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Fundamentals / Utility

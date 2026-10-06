@@ -8,10 +8,18 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Artificial Intelligence
+
+*   [golem (⭐3)](https://github.com/abubakarsiddik31/golem) - Framework for building dependable AI agents with typed dependencies, zero external dependencies, and native MCP support.
+
 ### Advanced Console UIs
 
 *   [glamour (⭐3.7k)](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for terminal applications.
 *   [huh (⭐7.2k)](https://github.com/charmbracelet/huh) - Lightweight library for building interactive forms and prompts in the terminal.
+
+### JSON
+
+*   [jseq (⭐0)](https://github.com/bobg/jseq) - Streaming JSON parser.
 
 ### Machine Learning
 
@@ -2815,7 +2823,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [config-file-validator (⭐517)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐515)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -3139,7 +3147,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐274)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐276)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -5627,7 +5635,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gosms (⭐1.5k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐108)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐435)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐362)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐363)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐835)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐449)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐274)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
@@ -6505,7 +6513,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐339)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐40k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐77)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.

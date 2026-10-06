@@ -8,13 +8,23 @@ A curated list of Rust code and resources.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Applications / Social networks
+
+*   Matrix
+    *   [poljar/weechat-matrix-rs (⭐411)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
+
 ### Libraries / Artificial Intelligence
 
 *   [cmccomb/rust-automl (⭐38)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
+*   [samvallad33/vestige (⭐632)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
 *   [cmccomb/vote (⭐0)](https://github.com/cmccomb/vote) \[[vote](https://crates.io/crates/vote)] - Common preference aggregation and voting methods
+
+### Libraries / Cryptography
+
+*   [suradet-ps/encryptman-keyring (⭐0)](https://github.com/suradet-ps/encryptman-keyring) \[[encryptman-keyring](https://crates.io/crates/encryptman-keyring)] - OS keychain-backed master key storage for encryptman [![CI](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -281,7 +291,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [lamco-admin/lamco-rdp-server (⭐119)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
+*   [lamco-admin/lamco-rdp-server (⭐125)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
 
 ### Applications / Video
 
@@ -1909,7 +1919,7 @@ A curated list of Rust code and resources.
     *   [Keats/tera (⭐4.3k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.6k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
     *   [mitsuhiko/minijinja (⭐2.8k)](https://github.com/mitsuhiko/minijinja) \[[minijinja](https://crates.io/crates/minijinja)] - minimal dependency template engine based on Jinja2. [![Tests](https://img.shields.io/github/actions/workflow/status/mitsuhiko/minijinja/tests.yml?branch=main\&logo=github)](https://github.com/mitsuhiko/minijinja/actions/workflows/tests.yml)
-    *   [rshtml/rshtml (⭐44)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
+    *   [rshtml/rshtml (⭐42)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
     *   [Stebalien/horrorshow-rs (⭐352)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
@@ -4050,6 +4060,7 @@ A curated list of Rust code and resources.
     *   [LMDB](https://www.symas.com/lmdb.php) \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [meilisearch/heed (⭐915)](https://github.com/meilisearch/heed) \[[heed](https://crates.io/crates/heed)] - Fully typed LMDB wrappers with minimum overhead
         *   [vhbit/lmdb-rs (⭐113)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - Rust bindings for LMDB
+    *   [Minigraf (⭐129)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [MongrelDB](https://www.mongreldb.com)

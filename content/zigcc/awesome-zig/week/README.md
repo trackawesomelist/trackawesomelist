@@ -12,9 +12,21 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
 
+### Language Essentials / Data Structure and Algorithm
+
+*   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+
 ### Language Essentials / Command Line and Argument Parser
 
 *   [hgrsd/zopt](https://codeberg.org/hgrsd/zopt) - Low-ceremony schemaless command line argument parser for the Zig ecosystem. No-AI.
+
+### Network & Web / Network
+
+*   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
+
+### Multimedia & Graphics / GUI
+
+*   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 

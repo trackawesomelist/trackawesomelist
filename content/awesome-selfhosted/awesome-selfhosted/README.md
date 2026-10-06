@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Oct 06, 2026](/content/2026/10/06/README.md)
+
+### Software / Software Development - API Management
+
+*   [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐24)](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`
+
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
 ### Software / Knowledge Management Tools
@@ -64,7 +70,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [RetroArr](https://retroarr.app) `⚠` - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ([Source Code (⭐10)](https://github.com/RiDDiX/RetroArr)) `MIT` `Docker/.NET`
+*   [RetroArr](https://retroarr.app) `⚠` - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ([Source Code (⭐13)](https://github.com/RiDDiX/RetroArr)) `MIT` `Docker/.NET`
 
 ## [Sep 16, 2026](/content/2026/09/16/README.md)
 
@@ -108,7 +114,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Management
 
-*   [Houndarr](https://av1155.github.io/houndarr/) - Scheduled backlog searches for Radarr, Sonarr, Lidarr, Readarr and Whisparr. Works through missing and cutoff-unmet items in small rate-limited batches with per-item cooldowns and hourly caps, to avoid overloading indexers. ([Source Code (⭐288)](https://github.com/av1155/houndarr)) `AGPL-3.0` `Python/Docker`
+*   [Houndarr](https://av1155.github.io/houndarr/) - Scheduled backlog searches for Radarr, Sonarr, Lidarr, Readarr and Whisparr. Works through missing and cutoff-unmet items in small rate-limited batches with per-item cooldowns and hourly caps, to avoid overloading indexers. ([Source Code (⭐292)](https://github.com/av1155/houndarr)) `AGPL-3.0` `Python/Docker`
 
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
@@ -160,11 +166,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - Digital signage device and content management system with SMIL playlist support and scheduling. ([Source Code (⭐145)](https://github.com/garlic-signage/garlic-hub)) `AGPL-3.0` `Docker`
+*   [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - Digital signage device and content management system with SMIL playlist support and scheduling. ([Source Code (⭐146)](https://github.com/garlic-signage/garlic-hub)) `AGPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
-*   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐626)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
+*   [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code (⭐628)](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
 
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
@@ -252,11 +258,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / DNS
 
-*   [Numa](https://numa.rs/) - Ad-blocking DNS resolver with DNSSEC-validating recursive resolution, DoH/DoT/Oblivious DoH, ephemeral overrides, and local service domains, in a single Rust binary (alternative to Pi-hole, AdGuard Home, NextDNS). ([Source Code (⭐1.4k)](https://github.com/razvandimescu/numa)) `MIT` `Rust/Docker/Nix`
+*   [Numa](https://numa.rs/) - Ad-blocking DNS resolver with DNSSEC-validating recursive resolution, DoH/DoT/Oblivious DoH, ephemeral overrides, and local service domains, in a single Rust binary (alternative to Pi-hole, AdGuard Home, NextDNS). ([Source Code (⭐1.5k)](https://github.com/razvandimescu/numa)) `MIT` `Rust/Docker/Nix`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [NextGIS Web](https://nextgis.com/nextgis-web/) - Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code (⭐284)](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`
+*   [NextGIS Web](https://nextgis.com/nextgis-web/) - Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code (⭐289)](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -292,27 +298,27 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code (⭐149)](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
+*   [Habitat](https://gethabitat.org/) - A Platform for Local Communities. ([Source Code (⭐150)](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`
 
 ### Software / Database Management
 
-*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). ([Source Code (⭐810)](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
+*   [LibreDB Studio](https://libredb.org) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). ([Source Code (⭐1.1k)](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [snowshare (⭐86)](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
+*   [snowshare (⭐88)](https://github.com/TuroYT/snowshare) - File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Tiramisu (⭐138)](https://github.com/MrRobotoGit/tiramisu) - BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`
+*   [Tiramisu (⭐142)](https://github.com/MrRobotoGit/tiramisu) - BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`
 
 ### Software / Proxy
 
-*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code (⭐252)](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
+*   [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code (⭐255)](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Travel Organization
 
-*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐283)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+*   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐282)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
@@ -469,7 +475,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Learning and Courses
 
-*   [Helium](https://www.heliumedu.com) - Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ([Demo](https://app.heliumedu.com), [Source Code (⭐8)](https://github.com/HeliumEdu/platform)) `MIT` `Python/Docker`
+*   [Helium](https://www.heliumedu.com) - Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ([Demo](https://app.heliumedu.com), [Source Code (⭐9)](https://github.com/HeliumEdu/platform)) `MIT` `Python/Docker`
 
 ### Software / Media Management
 
@@ -494,12 +500,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Video Surveillance
 
 *   [Strix (⭐894)](https://github.com/eduard256/Strix) - Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. `MIT` `Go/Docker`
-
-## [May 27, 2026](/content/2026/05/27/README.md)
-
-### Software / Software Development - API Management
-
-*   [Aastro](https://starwalkn.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐24)](https://github.com/starwalkn/aastro)) `Apache-2.0` `Go/Docker`
 
 ## [May 26, 2026](/content/2026/05/26/README.md)
 
@@ -1017,7 +1017,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐4k)](https://github.com/dagucloud/dagu)) `GPL-3.0` `Go/Docker`
+*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐4.3k)](https://github.com/dagucloud/dagu)) `GPL-3.0` `Go/Docker`
 
 ## [Jul 19, 2025](/content/2025/07/19/README.md)
 
@@ -1312,10 +1312,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Mail Delivery Agents
 
 *   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐761)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
-
-### Software / Money, Budgeting & Management
-
-*   [ExpenseOwl (⭐1.5k)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
 
 ### Software / Note-taking & Editors
 
@@ -1800,7 +1796,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Pelican Panel](https://pelican.dev/) - Web application for easy management of game servers, offering a user-friendly interface for deploying, configuring, and managing servers, server monitoring tools, and extensive customization options (fork of Pterodactyl). ([Source Code (⭐2.3k)](https://github.com/pelican/panel)) `AGPL-3.0` `PHP/Docker`
+*   [Pelican Panel](https://pelican.dev/) - Web application for easy management of game servers, offering a user-friendly interface for deploying, configuring, and managing servers, server monitoring tools, and extensive customization options (fork of Pterodactyl). ([Source Code (⭐2.4k)](https://github.com/pelican/panel)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Personal Dashboards
 
@@ -4833,12 +4829,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Internet of Things (IoT)
 
 *   [FHEM](https://fhem.de/fhem.html) - Automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ([Source Code](https://svn.fhem.de/trac)) `GPL-3.0` `Perl`
-
-## [Oct 24, 2019](/content/2019/10/24/README.md)
-
-### Software / Software Development - Project Management
-
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐20k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ## [Oct 15, 2019](/content/2019/10/15/README.md)
 

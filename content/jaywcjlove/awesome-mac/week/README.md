@@ -15,6 +15,11 @@
 ### AI Tools / Other Tools
 
 *   [ThinkWatch Lite](https://thinkwat.ch/lite/) - Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mu (⭐403)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [Sonar (⭐8)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 

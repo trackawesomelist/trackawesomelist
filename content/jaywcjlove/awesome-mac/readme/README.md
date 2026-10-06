@@ -872,6 +872,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Loadout](https://loadout.migsilva.dev) - See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/loadout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 *   [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
+*   [mu (⭐403)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 *   [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 *   [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 *   [Prevail](https://prevail.sh) - Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
@@ -1011,6 +1012,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Sangeet (⭐4)](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 *   [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
 *   [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
+*   [Sonar (⭐8)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
 *   [Spotifly (⭐163)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 *   [SpotMenu (⭐3.1k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 *   [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]

@@ -2,9 +2,25 @@
 
 The list of continuous integration services and tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 4.1K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 4.2K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/ligurio/awesome-ci/week/README.md) / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
+
+## [Oct 06, 2026](/content/2026/10/06/README.md)
+
+- Name: [Crow CI](https://crowci.com)
+
+  Description: Lightweight, fast and extensible. FOSS. Golang + Vue
+
+  Features: Self-hostable, multi-forge, Docker & Kubernetes backends, DAG support, secret storage, HA
+
+  Supported repositories: Forgejo, GitHub, GitLab, Gitea, Bitbucket, Bitbucket Datacenter
+
+  Documentation: [Documentation](https://docs.crowci.com)
+
+  Price: [Open Source](https://codefloe.com/crowci/crow)
+
+
 
 ## [Aug 27, 2026](/content/2026/08/27/README.md)
 
@@ -24,7 +40,7 @@ The list of continuous integration services and tools
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐896)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐901)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -61,19 +77,6 @@ The list of continuous integration services and tools
   Price: [Free for opensource projects](https://softwareintegrity.coverity.com/free-trial-coverity.html)
 
   Stars: 
-
-
-- Name: [Crow CI](https://crowci.dev)
-
-  Description: Lightweight, fast and extensible. FOSS. Golang + Vue
-
-  Features: Self-hostable, multi-forge, Docker & Kubernetes backends, DAG support, secret storage, HA
-
-  Supported repositories: Forgejo, GitHub, GitLab, Gitea, Bitbucket, Bitbucket Datacenter
-
-  Documentation: [Documentation](https://crowci.dev)
-
-  Price: [Open Source](https://codeberg.org/crowci)
 
 
 
@@ -178,7 +181,7 @@ The list of continuous integration services and tools
 
 ## [May 16, 2024](/content/2024/05/16/README.md)
 
-- Name: [Laminar CI (⭐352)](https://github.com/ohwgiles/laminar)
+- Name: [Laminar CI (⭐356)](https://github.com/ohwgiles/laminar)
 
   Description: Fast and lightweight Continuous Integration
 
@@ -310,7 +313,7 @@ The list of continuous integration services and tools
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐592)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐594)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -558,7 +561,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation (⭐712)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐404)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐403)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -584,7 +587,7 @@ The list of continuous integration services and tools
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
 
-- Name: [minci (⭐32)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐31)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 
@@ -638,7 +641,7 @@ The list of continuous integration services and tools
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
-- Name: [Abstruse CI (⭐959)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐961)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -646,7 +649,7 @@ The list of continuous integration services and tools
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐959)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐961)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -760,7 +763,7 @@ The list of continuous integration services and tools
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐1k)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐1.1k)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -1006,7 +1009,7 @@ The list of continuous integration services and tools
 
   Documentation: [Documentation](https://jenkins.io/doc/)
 
-  Price: [Open Source (⭐26k)](https://github.com/jenkinsci/jenkins)
+  Price: [Open Source (⭐27k)](https://github.com/jenkinsci/jenkins)
 
   Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
 
@@ -1026,7 +1029,7 @@ The list of continuous integration services and tools
   Stars: 
 
 
-- Name: [Previs (⭐322)](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐319)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -1034,7 +1037,7 @@ The list of continuous integration services and tools
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation (⭐322)](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐319)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 

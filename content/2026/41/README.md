@@ -1,52 +1,288 @@
 # Awesome List Updates on Oct 12 - Oct 18, 2026
 
-29 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [1. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+
+### Other
+
+*   [Checkout Page](https://checkoutpage.com/platforms/framer) - Native plugin for selling digital products, subscriptions, and event tickets on your Framer site through your own Stripe account.
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Software Development - API Management
+
+*   [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐24)](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`
+
+## [3. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### \- [NFC](https://en.wikipedia.org/wiki/Near_field_communication) / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
+
+*   [Awesome NFC (⭐0)](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
+
+## [4. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+
+- : [Arena by Dravensoft](https://arena.dravensoft.org)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐2)](https://github.com/dravensoft-dev/arena)
+
+
+- : [BLiP](https://takenet.github.io/blip-ds/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐45)](https://github.com/takenet/blip-ds)
+
+
+- : [Bold (Bridge Design System)](https://bold.bridge.ufsc.tech/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐83)](https://github.com/laboratoriobridge/bold)
+
+
+- : [Cloudflare Kumo](https://kumo-ui.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐4k)](https://github.com/cloudflare/kumo)
+
+
+- : [daisyUI](https://daisyui.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐43k)](https://github.com/saadeghi/daisyui)
+
+
+- : [eBay Skin](https://opensource.ebay.com/evo-web/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐51)](https://github.com/eBay/evo-web)
+
+
+- : [Firefox Acorn Design System](https://acorn.firefox.com/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: 
+
+
+- : [haus](https://haus.hipuku.dev)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐0)](https://github.com/hipuku/haus)
+
+
+- : [HeroUI](https://heroui.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐31k)](https://github.com/heroui-inc/heroui)
+
+
+- : [Meta Astryx](https://astryx.atmeta.com/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐14k)](https://github.com/facebook/astryx)
+
+
+- : [MUI: Base UI](https://base-ui.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐11k)](https://github.com/mui/base-ui)
+
+
+- : [MUI: Material UI](https://mui.com/material-ui/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐99k)](https://github.com/mui/material-ui)
+
+
+- : [NVIDIA Elements Design System](https://nvidia.github.io/elements/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐94)](https://github.com/NVIDIA/elements)
+
+
+- : [Okta Odyssey Design System](https://odyssey-storybook.okta.design/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐113)](https://github.com/okta/odyssey)
+
+
+- : [Pivotal](https://pivotal-cf.github.io/pivotal-ui/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐639)](https://github.com/pivotal-cf/pivotal-ui)
+
+
+- : [Scania Digital Design System](https://tegel.scania.com)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐38)](https://github.com/scania-digital-design-system/tegel)
+
+
+- : [usva.](https://usva.build)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐3)](https://github.com/matt-pasek/usva)
+
+
+
+## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
+- Name: [Crow CI](https://crowci.com)
+
+  Description: Lightweight, fast and extensible. FOSS. Golang + Vue
+
+  Features: Self-hostable, multi-forge, Docker & Kubernetes backends, DAG support, secret storage, HA
+
+  Supported repositories: Forgejo, GitHub, GitLab, Gitea, Bitbucket, Bitbucket Datacenter
+
+  Documentation: [Documentation](https://docs.crowci.com)
+
+  Price: [Open Source](https://codefloe.com/crowci/crow)
+
+
+
+## [6. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Plasma desktop / Extensions
 
 *   [Krema (⭐37)](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 
-## [2. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Communication / Collaboration
 
-*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,906`
+*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,908`
 
-## [3. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [8. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### CLI & Terminal / Standard CLI
 
 *   [jessevdk/go-flags (⭐2.7k)](https://github.com/jessevdk/go-flags) — Command-line option parser ☆`2,694`
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Validation
 
 *   [dataprof (⭐21)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
 
-## [5. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+## [10. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### CLI
 
 *   [resto (⭐286)](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI
 
-## [6. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [11. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
 *   [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
 
+### Language Essentials / Data Structure and Algorithm
+
+*   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+
 ### Language Essentials / Command Line and Argument Parser
 
 *   [hgrsd/zopt](https://codeberg.org/hgrsd/zopt) - Low-ceremony schemaless command line argument parser for the Zig ecosystem. No-AI.
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+### Network & Web / Network
+
+*   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
+
+### Multimedia & Graphics / GUI
+
+*   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
+
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -54,9 +290,10 @@
     *   Evergreen Compose supplies a shared, precompiled Android runtime. Application builds require EGCL and egcl-target-android (runtime API 4), no JDK, Kotlin compiler, Gradle, Android SDK or NDK.
     *   Develop inside the running app. Connect Emacs with SLY or icl to the phone's Lisp image through an ADB-forwarded Slynk port. Evaluate Lisp, inspect application state, and update the running UI without rebuilding or reinstalling the APK
 
-### AI-developped
+### Work in progress
 
-*   [Evergreen (⭐28)](https://github.com/atgreen/evergreen): Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.
+*   [LCL - Lua Common Lisp](https://codeberg.org/gsou/LCL) -  Lua Common Lisp is an implementation of Common Lisp targeting the Lua language. The goal of this project is to provide an implementation of Common Lisp that can be used wherever an unmodified Lua VM is running.
+*   (LLM) [Evergreen (⭐28)](https://github.com/atgreen/evergreen): Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.
     *   new as of Oct, 2026
     *   *warning: this is an experiment. The parts that do work may not behave the way you expect, or the way the standard says they should. It may never work.*
     *   Lightweight fibers with synchronous socket I/O
@@ -67,21 +304,31 @@
     *   Native Android applications with Slime-style development: see [evergreen-compose (⭐2)](https://github.com/atgreen/evergreen-compose)
     *   *Core code, test suites, and documentation were almost entirely generated by AI assistants following high-level human prompts and specification. Conceptual architecture, prompt direction, and repository orchestration (minimal manual code review or line-by-line verification).*
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Spreadsheets and Documents
 
 *   [SimpleXlsxReader (⭐190)](https://github.com/woahdae/simple_xlsx_reader) - A fast xlsx reader that parses cell values into plain Ruby primitives and dates/times.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Social networks
+
+*   Matrix
+    *   [poljar/weechat-matrix-rs (⭐411)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 
 ### Libraries / Artificial Intelligence
 
 *   [cmccomb/rust-automl (⭐38)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
+*   [samvallad33/vestige (⭐632)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
 *   [cmccomb/vote (⭐0)](https://github.com/cmccomb/vote) \[[vote](https://crates.io/crates/vote)] - Common preference aggregation and voting methods
+
+### Libraries / Cryptography
+
+*   [suradet-ps/encryptman-keyring (⭐0)](https://github.com/suradet-ps/encryptman-keyring) \[[encryptman-keyring](https://crates.io/crates/encryptman-keyring)] - OS keychain-backed master key storage for encryptman [![CI](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -91,25 +338,25 @@
 
 *   [cmccomb/rust-stop-words (⭐26)](https://github.com/cmccomb/rust-stop-words) \[[stop-words](https://crates.io/crates/stop-words)] - Common stop words in many languages
 
-## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [15. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [ipynbtopdf](https://ipynbtopdf.xyz/) - Browser-only Jupyter notebook to PDF converter; no upload or LaTeX toolchain.
 
-## [11. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [16. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [Sourcey](https://sourcey.com/docs) - Static documentation generator from OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown sources.
 
-## [12. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [17. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Adventure
 
 *   [Flipendo (⭐0)](https://github.com/kroplabeskidu/flipendo) - Source port of Harry Potter and the Philosopher's Stone and Chamber of Secrets (PC, KnowWonder) on SurrealEngine. Requires the original game files.
 
-## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [18. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4
 
@@ -119,7 +366,7 @@
 
 *   [MSDF Atlas Studio (⭐2)](https://github.com/sachinthankachan/msdf-atlas-studio) - High-performance desktop studio for generating multi-channel signed distance field (MSDF) font texture atlases with live shader preview.
 
-## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Shadow DOM
 
@@ -140,13 +387,13 @@
 *   [wpt/css-shadow (⭐6.2k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part)
 *   [wpt/template-element (⭐6.2k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [pmux](https://pmux.io) Drop-in tmux wrapper that lets you reach your sessions from the Pocketmux iOS/Android app (paid) over an end-to-end encrypted, peer-to-peer connection
 
-## [16. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
@@ -160,13 +407,23 @@
 
 *   [LinkMCP](https://app.linkmcp.io) - Hosted LinkedIn MCP server for your own LinkedIn account: profile and company lookups, people and Sales Navigator search, inbox, posts and comments, connection requests, and work email finding. Remote Streamable HTTP with OAuth sign-in; the server is closed source. Paid plans from $19/month, 7-day free trial without a card. Install: `gemini extensions install https://github.com/linkmcp-io/linkmcp`.
 
-## [17. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [22. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Fashion
 
 *   [RealFun Color](https://color.realfun.online/) - Provides selfie-based personal color analysis and checks clothing colors against a personal color profile. `#freemium`
 
-## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Speciality Search Engines
+
+*   [bgpmap.net](https://bgpmap.net) - Free multi-vantage BGP looking glass for IP and prefix reconnaissance, with per-prefix AS-path graphs, RPKI validation and shareable snapshots.
+
+### Social Media Tools / Telegram
+
+*   [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
+*   [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
+*   [Tme-s (⭐0)](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
 
 ### Image Search / GitHub
 
@@ -176,19 +433,27 @@
 
 *   [Dread Scraper (⭐2)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
 
-## [19. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Build Tools / Status page
 
 *   [rules\_d (⭐27)](https://github.com/bazel-contrib/rules_d) - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
 *   [gazelle\_d (⭐0)](https://github.com/dcarp/gazelle_d) - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
 
-## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [golem (⭐3)](https://github.com/abubakarsiddik31/golem) - Framework for building dependable AI agents with typed dependencies, zero external dependencies, and native MCP support.
 
 ### Advanced Console UIs
 
 *   [glamour (⭐3.7k)](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for terminal applications.
 *   [huh (⭐7.2k)](https://github.com/charmbracelet/huh) - Lightweight library for building interactive forms and prompts in the terminal.
+
+### JSON
+
+*   [jseq (⭐0)](https://github.com/bobg/jseq) - Streaming JSON parser.
 
 ### Machine Learning
 
@@ -210,7 +475,7 @@
 
 *   [metricsd (⭐1)](https://github.com/0x524A/metricsd) - Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -219,6 +484,11 @@
 ### AI Tools / Other Tools
 
 *   [ThinkWatch Lite](https://thinkwat.ch/lite/) - Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mu (⭐403)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [Sonar (⭐8)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -232,7 +502,7 @@
 
 *   [OpenNaga (⭐2)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/OpenNaga) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [22. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -510,7 +780,7 @@
 
 
 
-## [23. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [28. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -528,7 +798,7 @@
 
 *   [MapAtlas](https://mapatlas.eu) - REST API for geocoding, routing, isochrone, matrix, map matching, and MVT vector tiles built on OpenStreetMap data. ([Docs](https://docs.mapatlas.xyz/))
 
-## [24. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [29. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -857,7 +1127,7 @@
 *   Use the format `- [Name](https://github.com/owner/repo) - Short description.` and link to the source repository when there is one.
 *   The website is rebuilt from this file automatically; see [site/](https://github.com/hal9ai/awesome-dataviz/blob/main/README.md/site/) for how it works.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -879,7 +1149,7 @@
 
 *   [Splainly](https://splainly.app) - Create product explainer videos for sales and marketing needs. Videos are free to create and can be downloaded or remain hosted on Splainly. A small watermark will be applied and can be removed with a $5 purchase.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -889,19 +1159,19 @@
 
 *   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 
-## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Editors
 
 *   [Phoenix Code](https://phcode.dev/) - Code editor for web designers and front-end developers. ([Source Code (⭐3k)](https://github.com/phcode-dev/phoenix)) `MIT` `JavaScript`
 
-## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Chat
 
 *   [herdr-reviewr (⭐823)](https://github.com/persiyanov/herdr-reviewr) - Review a coding agent's diff and send line comments back to it.
 
-## [29. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [34. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### C++
 

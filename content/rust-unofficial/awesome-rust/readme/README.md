@@ -667,6 +667,8 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
     *   [Dorion (⭐2.6k)](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! ![build](https://img.shields.io/github/actions/workflow/status/SpikeHD/Dorion/build.yml)
 *   Mastodon
     *   [Rustodon (⭐878)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
+*   Matrix
+    *   [poljar/weechat-matrix-rs (⭐411)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 *   Telegram
     *   [tgt (⭐1k)](https://github.com/FedericoBruzzone/tgt) - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml)
 *   WhatsApp
@@ -838,7 +840,7 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
 *   [guoxbin/dtool (⭐380)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 *   [IvanWng97/pixtuoid (⭐485)](https://github.com/IvanWng97/pixtuoid) \[[pixtuoid](https://crates.io/crates/pixtuoid)] - Terminal pixel-art office that visualizes Claude Code sessions as animated coworkers in real time. [![CI](https://img.shields.io/github/actions/workflow/status/IvanWng97/pixtuoid/ci.yml?branch=main)](https://github.com/IvanWng97/pixtuoid/actions/workflows/ci.yml)
 *   [ja7ad/hydra (⭐685)](https://github.com/ja7ad/hydra) - An open-source, high-performance download manager and accelerator that splits every file across parallel connections and mirror sources. Featuring dynamic range stealing and real-time stall recovery for Windows, macOS, and Linux.
-*   [lamco-admin/lamco-rdp-server (⭐119)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
+*   [lamco-admin/lamco-rdp-server (⭐125)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
 *   [Linus-Mussmaecher/rucola (⭐539)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
 *   [matugen (⭐2k)](https://github.com/InioX/matugen) - Generates color palette from image or color using templates.
 *   [Mobslide (⭐488)](https://github.com/thewh1teagle/mobslide) - Desktop application that turns your smartphone into presentation remote controller.
@@ -1371,6 +1373,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [juyterman1000/entroly (⭐470)](https://github.com/juyterman1000/entroly) - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.
 *   [memvid/memvid (⭐17k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 *   [pydantic/monty (⭐8.5k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
+*   [samvallad33/vestige (⭐632)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 *   [tenequm/pond (⭐75)](https://github.com/tenequm/pond) \[[pond-db](https://crates.io/crates/pond-db)] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL [![build badge](https://github.com/tenequm/pond/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenequm/pond/actions/workflows/ci.yml)
 
 ### Astronomy
@@ -1643,6 +1646,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [sorairolake/abcrypt (⭐26)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 *   [sorairolake/scryptenc-rs (⭐9)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
 *   [suradet-ps/encryptman (⭐1)](https://github.com/suradet-ps/encryptman) \[[encryptman](https://crates.io/crates/encryptman)] - AES-256-GCM encryption for application settings with HKDF key derivation [![CI](https://github.com/suradet-ps/encryptman/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/suradet-ps/encryptman/actions/workflows/ci.yml)
+*   [suradet-ps/encryptman-keyring (⭐0)](https://github.com/suradet-ps/encryptman-keyring) \[[encryptman-keyring](https://crates.io/crates/encryptman-keyring)] - OS keychain-backed master key storage for encryptman [![CI](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/suradet-ps/encryptman-keyring/actions/workflows/ci.yml)
 *   [verifyfetch (⭐158)](https://github.com/hamzaydia/verifyfetch) - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
 
 ### Data processing
@@ -1741,6 +1745,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [LMDB](https://www.symas.com/lmdb.php) \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [meilisearch/heed (⭐915)](https://github.com/meilisearch/heed) \[[heed](https://crates.io/crates/heed)] - Fully typed LMDB wrappers with minimum overhead
         *   [vhbit/lmdb-rs (⭐113)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - Rust bindings for LMDB
+    *   [Minigraf (⭐129)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [MongrelDB](https://www.mongreldb.com)
@@ -2369,7 +2374,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [Keats/tera (⭐4.3k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.6k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
     *   [mitsuhiko/minijinja (⭐2.8k)](https://github.com/mitsuhiko/minijinja) \[[minijinja](https://crates.io/crates/minijinja)] - minimal dependency template engine based on Jinja2. [![Tests](https://img.shields.io/github/actions/workflow/status/mitsuhiko/minijinja/tests.yml?branch=main\&logo=github)](https://github.com/mitsuhiko/minijinja/actions/workflows/tests.yml)
-    *   [rshtml/rshtml (⭐44)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
+    *   [rshtml/rshtml (⭐42)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
     *   [Stebalien/horrorshow-rs (⭐352)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 *   Mustache
     *   [rustache/rustache (⭐215)](https://github.com/rustache/rustache) - a Rust implementation of the Mustache spec

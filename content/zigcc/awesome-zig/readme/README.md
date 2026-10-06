@@ -248,6 +248,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [OrlovEvgeny/lo.zig (⭐38)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 *   [CogitatorTech/ordered (⭐39)](https://github.com/CogitatorTech/ordered) - A sorted collection library (sorted sets and sorted maps) for Zig.
 *   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
+*   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
 
 ### String Processing
 
@@ -479,6 +480,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [zigtls (⭐7)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 *   [zora (⭐0)](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 *   [zig-nostr/nostr (⭐11)](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
+*   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
 
 ### Browser
 
@@ -699,6 +701,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [meszmate/zigzag (⭐568)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 *   [happystraw/zig-webview (⭐10)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 *   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
+*   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 
 ### Game Development
 

@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Oct 06, 2026](/content/2026/10/06/README.md)
+
+### Work in progress
+
+*   [LCL - Lua Common Lisp](https://codeberg.org/gsou/LCL) -  Lua Common Lisp is an implementation of Common Lisp targeting the Lua language. The goal of this project is to provide an implementation of Common Lisp that can be used wherever an unmodified Lua VM is running.
+
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Mobile
@@ -14,9 +20,9 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   Evergreen Compose supplies a shared, precompiled Android runtime. Application builds require EGCL and egcl-target-android (runtime API 4), no JDK, Kotlin compiler, Gradle, Android SDK or NDK.
     *   Develop inside the running app. Connect Emacs with SLY or icl to the phone's Lisp image through an ADB-forwarded Slynk port. Evaluate Lisp, inspect application state, and update the running UI without rebuilding or reinstalling the APK
 
-### AI-developped
+### Work in progress
 
-*   [Evergreen (⭐28)](https://github.com/atgreen/evergreen): Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.
+*   (LLM) [Evergreen (⭐28)](https://github.com/atgreen/evergreen): Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.
     *   new as of Oct, 2026
     *   *warning: this is an experiment. The parts that do work may not behave the way you expect, or the way the standard says they should. It may never work.*
     *   Lightweight fibers with synchronous socket I/O
@@ -75,6 +81,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Agents
 
 *   [Autolith (⭐363)](https://github.com/lambda-symbolics/autolith) - a live, self-modifying Common Lisp agent.
+    *   <https://autolith.rocks/>
 
 ### Reference
 

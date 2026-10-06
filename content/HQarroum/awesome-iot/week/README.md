@@ -6,6 +6,12 @@
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / Weekly / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### \- [NFC](https://en.wikipedia.org/wiki/Near_field_communication) / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
+
+*   [Awesome NFC (⭐0)](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Software / Libraries and Tools
@@ -44,7 +50,7 @@
 
 ### Software / Frameworks
 
-*   [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents (⭐103)](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
+*   [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents (⭐105)](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -97,7 +103,7 @@
 
 ### Software / Libraries and Tools
 
-*   [ble-scale-sync (⭐174)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+*   [ble-scale-sync (⭐177)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
 
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
 

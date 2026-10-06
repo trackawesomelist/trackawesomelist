@@ -242,6 +242,7 @@ Please take a quick gander at the [contribution guidelines (⭐186k)](https://gi
 *   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 *   [Genkit (⭐6.5k)](https://github.com/firebase/genkit) - Framework created by Google for building AI-powered and agentic applications in idiomatic Go.
 *   [goai (⭐211)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
+*   [golem (⭐3)](https://github.com/abubakarsiddik31/golem) - Framework for building dependable AI agents with typed dependencies, zero external dependencies, and native MCP support.
 *   [GoModel (⭐1.2k)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 *   [hotplex (⭐50)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 *   [jargo (⭐98)](https://github.com/gojargo/jargo) - Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.
@@ -1728,6 +1729,7 @@ additional ordered map implementations.
 *   [JayDiff (⭐111)](https://github.com/yazgazan/jaydiff) - JSON diff utility written in Go.
 *   [jettison (⭐180)](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
 *   [jscan (⭐101)](https://github.com/romshark/jscan) - High performance zero-allocation JSON iterator.
+*   [jseq (⭐0)](https://github.com/bobg/jseq) - Streaming JSON parser.
 *   [JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct.
 *   [JSON-to-Proto](https://json-to-proto.github.io/) - Convert JSON to Protobuf online.
 *   [json2go (⭐142)](https://github.com/m-zajac/json2go) - Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all.
@@ -2092,7 +2094,7 @@ additional ordered map implementations.
 *   [gosms (⭐1.5k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐108)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐435)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐362)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐363)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐835)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐449)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐274)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
@@ -3063,7 +3065,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [clipboard (⭐862)](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package in Go.
 *   [clockwork (⭐729)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 *   [cmd (⭐161)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
-*   [config-file-validator (⭐517)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐515)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 *   [contem (⭐6)](https://github.com/maxbolgarin/contem) - Drop-in context.Context replacement for graceful shutdown Go applications.
 *   [cookie (⭐114)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
 *   [copy-pasta (⭐56)](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
@@ -3769,7 +3771,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [claude-grep (⭐2)](https://github.com/evoleinik/claude-grep) - Search Claude Code session history with regex and semantic (vector) search.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐339)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐40k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [CrunchyCleaner (⭐156)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
 *   [dispositio (⭐13)](https://github.com/tsraveling/dispositio) - Terminal tool for planning large projects in simple markdown.
@@ -3777,7 +3779,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [dp (⭐77)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
 *   [drive (⭐6.7k)](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
 *   [Duplicacy (⭐5.7k)](https://github.com/gilbertchen/duplicacy) - A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.
-*   [fjira (⭐274)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐276)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 *   [Gebug (⭐631)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 *   [gfile (⭐760)](https://github.com/Antonito/gfile) - Securely transfer files between two computers, without any third party, over WebRTC.
 *   [Go Package Store (⭐891)](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.

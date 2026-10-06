@@ -16,7 +16,7 @@
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -132,7 +132,7 @@ Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) lis
 *   [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
 *   [HStreamDB (⭐723)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 *   [IoTSharp.Gateways (⭐33)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
-*   [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents (⭐103)](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
+*   [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents (⭐105)](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
 
 #### Middlewares
 
@@ -166,7 +166,7 @@ Inspired by the [awesome (⭐507k)](https://github.com/sindresorhus/awesome) lis
 #### Libraries and Tools
 
 *   [aem-modbus-simulator (⭐2)](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Python Modbus RTU/TCP slave simulator emulating the LRI AEM-60DC8 industrial DC monitor. Mirrors 147 holding registers, 8 DC channels, six baudrates (4,800-115,200). Useful for SCADA/PLC integration testing without physical hardware.
-*   [ble-scale-sync (⭐174)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+*   [ble-scale-sync (⭐177)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
 *   [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
 *   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
 *   [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
@@ -349,6 +349,8 @@ Extensible Messaging and Presence Protocol (XMPP) is a communications protocol f
 ### <img width="50" src="http://vectorlogofree.com/wp-content/uploads/2012/12/nfc-logo-vector-400x400.png" /> - [NFC](https://en.wikipedia.org/wiki/Near_field_communication)
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
+
+*   [Awesome NFC (⭐0)](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
 
 ### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 
