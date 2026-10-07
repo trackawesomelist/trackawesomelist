@@ -8,6 +8,10 @@
 
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
+### Collections / Voxel Editors
+
+*   :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
+
 ### Ads / Voxel Editors
 
 *   :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.

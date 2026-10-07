@@ -6,6 +6,16 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Oct 07, 2026](/content/2026/10/07/README.md)
+
+### Tools / Paid and commercially available materials
+
+*   [npnp (⭐34)](https://github.com/ref42/npnp) CLI tool for batch-exporting LCSC/EasyEDA components to KiCad and Altium Designer libraries.
+
+### Firmware projects / WIP
+
+*   [oreboot (⭐1.8k)](https://github.com/oreboot/oreboot): platform initialization firmware (first code to run) to bring up application processors, a fork of coreboot with no C, all written in Rust, leveraging Rust Embedded traits and crates
+
 ## [Oct 02, 2026](/content/2026/10/02/README.md)
 
 ### Books, blogs, and training materials / Paid and commercially available materials
@@ -361,7 +371,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [probe-rs (⭐2.9k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
+*   [probe-rs (⭐3k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
 
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 

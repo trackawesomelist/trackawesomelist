@@ -288,6 +288,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 ### Database
 
+*   [aimdb-dev/aimdb (⭐101)](https://github.com/aimdb-dev/aimdb) \[[aimdb-core](https://crates.io/crates/aimdb-core)] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. [![CI](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml)
 *   [apecloud/ape-dts (⭐604)](https://github.com/apecloud/ape-dts) - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
 *   [Atomic-Server (⭐1.6k)](https://github.com/ontola/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/ontola/atomic-server/actions/workflows/release_please.yml/badge.svg)](https://github.com/ontola/atomic-server/actions)
 *   [ayarotsky/redis-shield (⭐101)](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
@@ -412,7 +413,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   [pikeru (⭐65)](https://github.com/dvhar/pikeru) - File picker for linux with good thumbnails and search
 *   [spacedriveapp/spacedrive (⭐39k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
 *   [xplr (⭐4.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐42k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐43k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Finance
 
@@ -582,6 +583,7 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
 *   [iwe-org/iwe (⭐1.7k)](https://github.com/iwe-org/iwe) \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml)
 *   [jchultarsky/mirador (⭐318)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
 *   [kruseio/hygg (⭐359)](https://github.com/kruseio/hygg) \[[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
+*   [leepokai/Codync (⭐176)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
 *   [LLDAP (⭐6.5k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 *   [lockbook/lockbook (⭐439)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
 *   [mag123c/toktrack (⭐192)](https://github.com/mag123c/toktrack) - Fast TUI/CLI that tracks token usage and cost across AI coding CLIs (Claude Code, Codex, Gemini CLI, and more), with a persistent cache that survives CLI data deletion. [![CI](https://github.com/mag123c/toktrack/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mag123c/toktrack/actions/workflows/ci.yml)
@@ -755,7 +757,7 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
 *   [Skardyy/mcat (⭐1.4k)](https://github.com/Skardyy/mcat) \[[mcat](https://crates.io/crates/mcat)] - View images, video, Markdown, and other documents in the terminal.
 *   [skim (⭐7k)](https://github.com/skim-rs/skim) - A fuzzy finder
 *   [sorairolake/hf (⭐33)](https://github.com/sorairolake/hf) \[[hf](https://crates.io/crates/hf)] - Cross-platform hidden file library and utility [![CI](https://github.com/sorairolake/hf/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/hf/actions/workflows/CI.yaml)
-*   [sorairolake/ngrv (⭐6)](https://github.com/sorairolake/ngrv) \[[ngrv](https://crates.io/crates/ngrv)] - A terminal-based pipe viewer similar to `pv(1)` [![CI](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml)
+*   [sorairolake/ngrv (⭐8)](https://github.com/sorairolake/ngrv) \[[ngrv](https://crates.io/crates/ngrv)] - A terminal-based pipe viewer similar to `pv(1)` [![CI](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml)
 *   [sorairolake/rzopfli (⭐7)](https://github.com/sorairolake/rzopfli) \[[rzopfli](https://crates.io/crates/rzopfli)] - A lossless data compression tool using Zopfli [![CI](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml)
 *   [supercilex/fuc (⭐534)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 *   [theBGuy/GitDesktop (⭐227)](https://github.com/theBGuy/GitDesktop) - Keyboard-first Git desktop client with PR, issue, discussion, CI and notification management across GitHub, GitLab and Bitbucket, plus Jira linking and AI agent integration; Tauri + Rust backend [![Release](https://github.com/theBGuy/GitDesktop/actions/workflows/release.yml/badge.svg)](https://github.com/theBGuy/GitDesktop/actions/workflows/release.yml)
@@ -1427,7 +1429,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [oauth2 (⭐1.2k)](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth2 client library
 *   [oxide-auth (⭐784)](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![CI](https://github.com/HeroicKatora/oxide-auth/actions/workflows/ci.yml/badge.svg)](https://github.com/HeroicKatora/oxide-auth/actions/workflows/ci.yml)
 *   [sgrust01/jwtvault (⭐67)](https://github.com/sgrust01/jwtvault) - Async library to manage and orchestrate JWT workflow
-*   [tenuo-ai/tenuo (⭐92)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
+*   [tenuo-ai/tenuo (⭐101)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
 *   [yup-oauth2 (⭐245)](https://github.com/dermesser/yup-oauth2) - An oauth2 client implementation providing the Device, Installed and Service Account flows
 
 ### Automotive

@@ -8,6 +8,14 @@ A curated list of Rust code and resources.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Applications / Database
+
+*   [aimdb-dev/aimdb (⭐101)](https://github.com/aimdb-dev/aimdb) \[[aimdb-core](https://crates.io/crates/aimdb-core)] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. [![CI](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml)
+
+### Applications / Productivity
+
+*   [leepokai/Codync (⭐176)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
+
 ### Applications / Social networks
 
 *   Matrix
@@ -74,7 +82,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Authentication
 
-*   [tenuo-ai/tenuo (⭐92)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
+*   [tenuo-ai/tenuo (⭐101)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
 
 ### Libraries / Data processing
 
@@ -117,7 +125,7 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [sorairolake/hf (⭐33)](https://github.com/sorairolake/hf) \[[hf](https://crates.io/crates/hf)] - Cross-platform hidden file library and utility [![CI](https://github.com/sorairolake/hf/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/hf/actions/workflows/CI.yaml)
-*   [sorairolake/ngrv (⭐6)](https://github.com/sorairolake/ngrv) \[[ngrv](https://crates.io/crates/ngrv)] - A terminal-based pipe viewer similar to `pv(1)` [![CI](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml)
+*   [sorairolake/ngrv (⭐8)](https://github.com/sorairolake/ngrv) \[[ngrv](https://crates.io/crates/ngrv)] - A terminal-based pipe viewer similar to `pv(1)` [![CI](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/ngrv/actions/workflows/CI.yaml)
 
 ### Applications / Text editors
 
@@ -2784,7 +2792,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐42k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐43k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Applications / Graphics
 

@@ -12,6 +12,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [dataprof (⭐21)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
 
+### Polars plugins / General utilities / Performance
+
+*   [polars-telemetry (⭐0)](https://github.com/jan-krueger/polars-telemetry) - Python package that profiles Polars queries: per-node timings and row counts, both plans in a browser viewer, findings on what slows a query down, and export to OpenTelemetry or DogStatsD by [@jan-krueger](https://github.com/jan-krueger).
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Tools Built with Polars / Miscellaneous

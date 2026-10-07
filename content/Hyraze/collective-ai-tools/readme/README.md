@@ -478,6 +478,7 @@ Use these hashtags in search to filter out the tools
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
 *   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
 *   [OpenCode (⭐212k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [Orbi](https://orbi.build/?ref=oss-collective-ai-tools) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
 *   [OrcaReplay (⭐261)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
@@ -611,6 +612,7 @@ Use these hashtags in search to filter out the tools
 *   [Intelistyle](https://www.intelistyle.com/) -  offers personalized styling and virtual try-on features for a better online shopping experience. `#paid`
 *   [Outfit Roast](https://outfit.roastlabai.com/) - AI-powered outfit analysis that rates your look for any occasion, gives honest style feedback, and tells you exactly what to change. Upload a photo and get scored. `#freemium`
 *   [RealFun Color](https://color.realfun.online/) - Provides selfie-based personal color analysis and checks clothing colors against a personal color profile. `#freemium`
+*   [TryOnSwap](https://tryonswap.com/en) - Creates AI fashion previews from model photos and garment references, with single-item or up-to-five-piece outfits; paid credit packs and introductory credits after email verification. `#paid`
 *   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -620,7 +622,9 @@ Use these hashtags in search to filter out the tools
 *   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
 *   [Cleo](https://web.meetcleo.com/) - AI financial assistant chatbot that helps users budget, save, and manage money in a fun, conversational way. `#freemium`
 *   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
+*   [FXMacroData](https://fxmacrodata.com/) - Official-source macroeconomic releases, release calendars, central bank rates and FX data for 22 currencies, served over a REST API and a hosted MCP server for Claude, ChatGPT, Cursor and other AI assistants; USD data works without a key. `#freemium` `#mcp`
 *   [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. `#free`
+*   [Invompt](https://invompt.com/) - Turns work from Claude, ChatGPT, or Cursor into invoices, quotes, and estimates you review before sending, through the hosted MCP at `https://mcp.invompt.com/mcp`. You can try it as a guest, with no account. `#free`
 *   [Koyfin](https://www.koyfin.com/) - AI-powered financial data and visualization platform that provides advanced charting, analytics, and market dashboards. `#freemium`
 *   [SwiftAlerts](https://swiftalerts.trade/) - Connect Claude, Codex, Cursor, and other AI assistants to structured market intelligence. `#paid`
 *   [Uptrends.ai](https://uptrends.ai/) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. `#paid`
@@ -897,6 +901,7 @@ Use these hashtags in search to filter out the tools
 *   [Boomy](https://boomy.com/) - Create and share AI-generated music in seconds `#freemium`
 *   [Mubert](https://mubert.com/) - AI-generated music for content creators and businesses `#freemium`
 *   [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. `#free`
+*   [Songifted](https://songifted.com/) - Creates personalized AI song gifts from names and memories, with lyrics approval before recording, a free 45-second preview, and paid full songs. `#paid`
 *   [Soundraw](https://soundraw.io/) - AI music generator with customizable styles and moods `#freemium`
 *   [Suno AI](https://suno.ai/) - AI-powered music creation platform that generates complete songs from text prompts `#freemium`
 *   [Udio](https://udio.com/) - Advanced AI music generator with high-quality audio output and style control `#freemium`
@@ -1136,6 +1141,7 @@ Use these hashtags in search to filter out the tools
 *   [MonkeyEatingMango](https://monkeyeatingmango.com/) - Your complete trip, planned in minutes with routes, attractions, budgets, and food guide. `#free`
 *   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
 *   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
+*   [SkyAccess MCP (⭐1)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
 *   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 *   [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
 *   [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`

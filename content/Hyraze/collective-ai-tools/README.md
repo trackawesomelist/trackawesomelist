@@ -6,6 +6,29 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 07, 2026](/content/2026/10/07/README.md)
+
+### Developer Tools
+
+*   [Orbi](https://orbi.build/?ref=oss-collective-ai-tools) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
+
+### Fashion
+
+*   [TryOnSwap](https://tryonswap.com/en) - Creates AI fashion previews from model photos and garment references, with single-item or up-to-five-piece outfits; paid credit packs and introductory credits after email verification. `#paid`
+
+### Finance
+
+*   [FXMacroData](https://fxmacrodata.com/) - Official-source macroeconomic releases, release calendars, central bank rates and FX data for 22 currencies, served over a REST API and a hosted MCP server for Claude, ChatGPT, Cursor and other AI assistants; USD data works without a key. `#freemium` `#mcp`
+*   [Invompt](https://invompt.com/) - Turns work from Claude, ChatGPT, or Cursor into invoices, quotes, and estimates you review before sending, through the hosted MCP at `https://mcp.invompt.com/mcp`. You can try it as a guest, with no account. `#free`
+
+### Music
+
+*   [Songifted](https://songifted.com/) - Creates personalized AI song gifts from names and memories, with lyrics approval before recording, a free 45-second preview, and paid full songs. `#paid`
+
+### Travel
+
+*   [SkyAccess MCP (⭐1)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
+
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Fashion

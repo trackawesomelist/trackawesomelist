@@ -2,16 +2,22 @@
 
 The definitive list that answers "I want to do X in Python, which tool should I use?"
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vinta/awesome-python/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vinta/awesome-python](https://github.com/vinta/awesome-python) · ⭐ 322K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vinta/awesome-python/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vinta/awesome-python](https://github.com/vinta/awesome-python) · ⭐ 326K · 🏷️ Programming Languages
 
 [ [Daily](/content/vinta/awesome-python/README.md) / Weekly / [Overview](/content/vinta/awesome-python/readme/README.md) ]
+
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### **Sponsors**
+
+*   [iPulse AI](https://ipulseai.com) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Projects / AI and Agents
 
 *   Vendor Agent SDKs
-    *   [claude-agent-sdk (⭐8.1k)](https://github.com/anthropics/claude-agent-sdk-python) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
+    *   [claude-agent-sdk (⭐8.2k)](https://github.com/anthropics/claude-agent-sdk-python) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
     *   [openai-agents (⭐30k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
     *   [google-adk (⭐22k)](https://github.com/google/adk-python) - Google's code-first toolkit for building, evaluating, and deploying AI agents.
 *   Model Context Protocol
@@ -26,7 +32,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [faster-whisper (⭐26k)](https://github.com/SYSTRAN/faster-whisper) - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
     *   [openai-whisper (⭐110k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
     *   [gTTS (⭐2.6k)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
-    *   [funasr (⭐20k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
+    *   [funasr (⭐21k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
 
 ### Projects / Machine Learning
 
@@ -34,7 +40,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [prophet (⭐20k)](https://github.com/facebook/prophet) - A tool for producing forecasts for time series with multiple seasonality and trend changes.
     *   [statsforecast (⭐4.9k)](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
     *   [sktime (⭐10k)](https://github.com/sktime/sktime) - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
-    *   [timesfm (⭐33k)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
+    *   [timesfm (⭐34k)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
 
 ### Projects / Web APIs
 
@@ -79,7 +85,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Specialized
     *   [graphviz (⭐1.8k)](https://github.com/xflr6/graphviz) - Simple Python interface for creating and rendering Graphviz graphs.
     *   [cartopy (⭐1.6k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
-    *   [graphify (⭐120k)](https://github.com/Graphify-Labs/graphify) - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
+    *   [graphify (⭐125k)](https://github.com/Graphify-Labs/graphify) - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
 
 ### Projects / Science
 
@@ -104,7 +110,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
     *   [responses (⭐4.3k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [vcrpy (⭐3k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
-    *   [respx (⭐835)](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
+    *   [respx (⭐839)](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
     *   [time-machine (⭐1k)](https://github.com/adamchainz/time-machine) - Travel through time in your tests by mocking the current time at the C level.
 *   Object Factories
     *   [factory-boy (⭐3.8k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
@@ -155,7 +161,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Audio
     *   [soundfile (⭐864)](https://github.com/bastibe/python-soundfile) - An audio library for reading and writing sound files, based on libsndfile, CFFI, and NumPy.
-    *   [librosa (⭐8.6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [librosa (⭐8.7k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
     *   [pydub (⭐9.8k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
 *   Video
     *   [av (⭐3.3k)](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
@@ -165,8 +171,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Game Frameworks
     *   [pyglet (⭐2.2k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
-    *   [pygame-ce (⭐1.7k)](https://github.com/pygame-community/pygame-ce) - An actively developed drop-in replacement with new features and performance improvements ([pygame (⭐8.9k)](https://github.com/pygame/pygame) fork).
-    *   [pygame (⭐8.9k)](https://github.com/pygame/pygame) - Pygame is a set of Python modules designed for writing games.
+    *   [pygame-ce (⭐1.7k)](https://github.com/pygame-community/pygame-ce) - An actively developed drop-in replacement with new features and performance improvements ([pygame (⭐9k)](https://github.com/pygame/pygame) fork).
+    *   [pygame (⭐9k)](https://github.com/pygame/pygame) - Pygame is a set of Python modules designed for writing games.
     *   [arcade (⭐2.1k)](https://github.com/pythonarcade/arcade) - An easy-to-use library for creating 2D arcade games.
 
 ### Projects / Package Repositories
@@ -207,8 +213,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Fine-tuning
     *   [peft (⭐22k)](https://github.com/huggingface/peft) - A library for parameter-efficient fine-tuning of large pretrained models.
     *   [trl (⭐19k)](https://github.com/huggingface/trl) - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
-    *   [unsloth (⭐76k)](https://github.com/unslothai/unsloth) - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
-    *   [axolotl (⭐12k)](https://github.com/axolotl-ai-cloud/axolotl) - A framework for fine-tuning and post-training large language models.
+    *   [unsloth (⭐77k)](https://github.com/unslothai/unsloth) - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
+    *   [axolotl (⭐13k)](https://github.com/axolotl-ai-cloud/axolotl) - A framework for fine-tuning and post-training large language models.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -236,23 +242,23 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / AI and Agents
 
 *   Orchestration
-    *   [langchain (⭐147k)](https://github.com/langchain-ai/langchain) - A framework for building agents and LLM-powered applications.
-    *   [langgraph (⭐42k)](https://github.com/langchain-ai/langgraph) - Low-level orchestration framework for building stateful, long-running LLM agents.
+    *   [langchain (⭐148k)](https://github.com/langchain-ai/langchain) - A framework for building agents and LLM-powered applications.
+    *   [langgraph (⭐43k)](https://github.com/langchain-ai/langgraph) - Low-level orchestration framework for building stateful, long-running LLM agents.
     *   [pydantic-ai (⭐20k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
     *   [crewai (⭐59k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
 *   Prompt Optimization
-    *   [dspy (⭐38k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
+    *   [dspy (⭐39k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
 *   Data Layer
     *   [instructor (⭐14k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
     *   [llama-index (⭐52k)](https://github.com/run-llama/llama_index) - A toolkit for building RAG pipelines and agents over your data.
-    *   [mem0 (⭐66k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
+    *   [mem0 (⭐67k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
     *   [openviking (⭐39k)](https://github.com/volcengine/OpenViking) - A context database for AI agents that unifies memory, resources, and skills.
     *   [semantica (⭐14k)](https://github.com/semantica-agi/semantica) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 *   Pre-trained Models
     *   [transformers (⭐167k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
 *   LLM Inference and Serving
-    *   [sglang (⭐36k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
-    *   [vllm (⭐92k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+    *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
+    *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
     *   [mlx-lm (⭐7.2k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
 
 ### Projects / Deep Learning
@@ -271,7 +277,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Chinese
     *   [jieba (⭐35k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
     *   [pypinyin (⭐5.4k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
-    *   [pangu.py (⭐278)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
+    *   [pangu.py (⭐280)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
 
 ### Projects / Computer Vision
 
@@ -290,7 +296,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
         *   [awesome-django (⭐11k)](https://github.com/wsvincent/awesome-django)
     *   [bottle (⭐8.8k)](https://github.com/bottlepy/bottle) - A fast and simple micro-framework distributed as a single file with no dependencies.
     *   [pyramid (⭐4.1k)](https://github.com/Pylons/pyramid) - A small, fast, down-to-earth, open source Python web framework.
-    *   [fasthtml (⭐7k)](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app.
+    *   [fasthtml (⭐7.1k)](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app.
 *   Asynchronous
     *   [starlette (⭐13k)](https://github.com/Kludex/starlette) - A lightweight ASGI framework and toolkit for building high-performance async services.
     *   [tornado (⭐22k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
@@ -350,12 +356,12 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Database Drivers
 
 *   ClickHouse
-    *   [clickhouse-connect (⭐521)](https://github.com/ClickHouse/clickhouse-connect) - The official ClickHouse client, with SQLAlchemy and Superset connectors.
+    *   [clickhouse-connect (⭐525)](https://github.com/ClickHouse/clickhouse-connect) - The official ClickHouse client, with SQLAlchemy and Superset connectors.
     *   [clickhouse-driver (⭐1.3k)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
 *   Other Relational Databases
     *   [pyodbc (⭐3.1k)](https://github.com/mkleehammer/pyodbc) - An ODBC bridge for connecting to SQL Server and any other ODBC-accessible database.
-    *   [oracledb (⭐451)](https://github.com/oracle/python-oracledb) - The official Python driver for Oracle Database, successor to cx\_Oracle.
-    *   [mssql-python (⭐473)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance.
+    *   [oracledb (⭐454)](https://github.com/oracle/python-oracledb) - The official Python driver for Oracle Database, successor to cx\_Oracle.
+    *   [mssql-python (⭐475)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance.
 *   NoSQL Databases
     *   [redis (⭐14k)](https://github.com/redis/redis-py) - The Python client for Redis.
     *   [pymongo (⭐4.4k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
@@ -367,9 +373,9 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Search
 
-*   [opensearch-py (⭐470)](https://github.com/opensearch-project/opensearch-py) - The official low-level Python client for [OpenSearch](https://opensearch.org/).
+*   [opensearch-py (⭐471)](https://github.com/opensearch-project/opensearch-py) - The official low-level Python client for [OpenSearch](https://opensearch.org/).
 *   [elasticsearch (⭐4.4k)](https://github.com/elastic/elasticsearch-py) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/elasticsearch).
-*   [meilisearch (⭐602)](https://github.com/meilisearch/meilisearch-python) - The official Python client for the [Meilisearch](https://www.meilisearch.com/) search engine.
+*   [meilisearch (⭐605)](https://github.com/meilisearch/meilisearch-python) - The official Python client for the [Meilisearch](https://www.meilisearch.com/) search engine.
 
 ### Projects / Data Analysis
 
@@ -383,7 +389,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Financial Data
     *   [yfinance (⭐25k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐23k)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
-    *   [edgartools (⭐2.7k)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
+    *   [edgartools (⭐2.8k)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
     *   [openbb (⭐74k)](https://github.com/openbq-org/OpenBB) - A financial data platform for analysts, quants and AI agents.
 
 ### Projects / Data Visualization
@@ -453,8 +459,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Frameworks
     *   [pytest (⭐15k)](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
-        *   [awesome-pytest (⭐575)](https://github.com/augustogoulart/awesome-pytest)
-    *   [hypothesis (⭐9k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+        *   [awesome-pytest (⭐576)](https://github.com/augustogoulart/awesome-pytest)
+    *   [hypothesis (⭐9.1k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
     *   [robotframework (⭐12k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
 *   Test Runners
     *   [tox (⭐3.9k)](https://github.com/tox-dev/tox) - Auto builds and tests distributions in multiple Python versions.
@@ -468,7 +474,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Documentation
 
-*   [mkdocs-material (⭐27k)](https://github.com/squidfunk/mkdocs-material) - A documentation framework and Material Design theme built on MkDocs.
+*   [mkdocs-material (⭐28k)](https://github.com/squidfunk/mkdocs-material) - A documentation framework and Material Design theme built on MkDocs.
 
 ### Projects / DevOps Tools
 
@@ -488,11 +494,11 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   [pyspark (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
 *   [ray (⭐44k)](https://github.com/ray-project/ray/) - A unified framework for scaling AI and Python applications.
 *   [joblib (⭐4.4k)](https://github.com/joblib/joblib) - Parallel computing and disk-based caching for Python functions.
-*   [mpi4py (⭐923)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
+*   [mpi4py (⭐927)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
 
 ### Projects / Messaging
 
-*   [confluent-kafka (⭐510)](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Python client for Apache Kafka, built on librdkafka.
+*   [confluent-kafka (⭐516)](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Python client for Apache Kafka, built on librdkafka.
 *   [pika (⭐3.9k)](https://github.com/pika/pika) - Pure-Python RabbitMQ/AMQP 0-9-1 client library.
 *   [paho-mqtt (⭐2.4k)](https://github.com/eclipse-paho/paho.mqtt.python) - The Eclipse Paho MQTT client for Python.
 
@@ -509,35 +515,35 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [pgcli (⭐13k)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
     *   [mycli (⭐12k)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     *   [litecli (⭐3.3k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
-    *   [iredis (⭐2.7k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
+    *   [iredis (⭐2.8k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
 *   Downloaders
     *   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 *   Shells
-    *   [xonsh (⭐9.6k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
+    *   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
 *   Terminal Workflow
     *   [tmuxp (⭐4.6k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐50k)](https://github.com/tmux/tmux) session manager.
 
 ### Projects / GUI Development
 
 *   Qt
-    *   [PySide6 (⭐133)](https://github.com/pyside/pyside-setup) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), largely API-compatible with PyQt6 but with different licensing.
+    *   [PySide6 (⭐134)](https://github.com/pyside/pyside-setup) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), largely API-compatible with PyQt6 but with different licensing.
     *   [PyQt6](https://www.riverbankcomputing.com/static/Docs/PyQt6/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 *   Tkinter
     *   [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
     *   [customtkinter (⭐14k)](https://github.com/tomschimansky/customtkinter) - A modern and customizable python UI-library based on Tkinter.
 *   Web-based
-    *   [pywebview (⭐6k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+    *   [pywebview (⭐6.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
     *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
     *   [flet (⭐17k)](https://github.com/flet-dev/flet) - Cross-platform GUI framework for building modern apps in pure Python.
 
 ### Projects / Text Processing
 
 *   Encoding and Unicode
-    *   [charset-normalizer (⭐795)](https://github.com/jawah/charset_normalizer) - Universal character encoding detector, and a dependency of requests.
+    *   [charset-normalizer (⭐800)](https://github.com/jawah/charset_normalizer) - Universal character encoding detector, and a dependency of requests.
     *   [chardet (⭐2.7k)](https://github.com/chardet/chardet) - Python character encoding detector.
     *   [ftfy (⭐4.1k)](https://github.com/rspeer/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
 *   Fuzzy Matching
-    *   [rapidfuzz (⭐4.1k)](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching using various string metrics, with a C++ core.
+    *   [rapidfuzz (⭐4.2k)](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching using various string metrics, with a C++ core.
 *   General
     *   [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     *   [pyfiglet (⭐1.6k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
@@ -549,7 +555,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [parsy (⭐452)](https://github.com/python-parsy/parsy) - Easy, generic parser combinator library for creating parsers.
 *   Transliteration and Slugs
     *   [python-slugify (⭐1.6k)](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
-    *   [unidecode (⭐609)](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
+    *   [unidecode (⭐611)](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
 *   Unique identifiers
     *   [shortuuid (⭐2.2k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 
@@ -563,8 +569,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [pyelftools (⭐2.3k)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 *   File Conversion
-    *   [markitdown (⭐186k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-    *   [docling (⭐67k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
+    *   [markitdown (⭐189k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+    *   [docling (⭐68k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
 *   Excel
     *   [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
     *   [xlsxwriter (⭐4k)](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
@@ -578,22 +584,22 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [reportlab](https://docs.reportlab.com/) - An open-source library for generating PDFs and graphics.
     *   [pdfminer.six (⭐7k)](https://github.com/pdfminer/pdfminer.six) - A community-maintained fork of PDFMiner for extracting information from PDF documents.
 *   HTML-to-PDF
-    *   [weasyprint (⭐9.6k)](https://github.com/Kozea/WeasyPrint) - A visual rendering engine for HTML and CSS that can export to PDF.
+    *   [weasyprint (⭐9.7k)](https://github.com/Kozea/WeasyPrint) - A visual rendering engine for HTML and CSS that can export to PDF.
 *   Data Formats
     *   [tomllib](https://docs.python.org/3/library/tomllib.html) - (Python standard library) Parse TOML files.
-    *   [pyyaml (⭐2.9k)](https://github.com/yaml/pyyaml) - A full-featured YAML framework for Python.
+    *   [pyyaml (⭐3k)](https://github.com/yaml/pyyaml) - A full-featured YAML framework for Python.
 
 ### Projects / Image Processing
 
 *   Barcodes and QR Codes
     *   [qrcode (⭐4.9k)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
-    *   [python-barcode (⭐655)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
+    *   [python-barcode (⭐658)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 
 ### Projects / Audio & Video Processing
 
 *   Metadata
     *   [mutagen (⭐2k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐841)](https://github.com/tinytag/tinytag) - A library for reading audio file metadata of MP3, MP4, WAV, OGG, FLAC, WMA, and AIFF files.
+    *   [tinytag (⭐842)](https://github.com/tinytag/tinytag) - A library for reading audio file metadata of MP3, MP4, WAV, OGG, FLAC, WMA, and AIFF files.
     *   [beets (⭐16k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 
 ### Projects / Implementations
@@ -666,7 +672,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Task Queues
 
-*   [taskiq (⭐2.3k)](https://github.com/taskiq-python/taskiq) - Distributed task queue with native asyncio support and pluggable brokers.
+*   [taskiq (⭐2.4k)](https://github.com/taskiq-python/taskiq) - Distributed task queue with native asyncio support and pluggable brokers.
 
 ### Resources / Newsletters
 
@@ -693,7 +699,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / AI and Agents
 
 *   Agent Skills
-    *   [django-ai-plugins (⭐146)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+    *   [django-ai-plugins (⭐150)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
     *   [sentry-skills (⭐1k)](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
     *   [trailofbits-skills (⭐7.2k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
 
@@ -727,7 +733,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Template Engines
 
 *   [jinja (⭐12k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
-*   [mako (⭐459)](https://github.com/sqlalchemy/mako) - Hyperfast and lightweight templating for the Python platform.
+*   [mako (⭐460)](https://github.com/sqlalchemy/mako) - Hyperfast and lightweight templating for the Python platform.
 
 ### Projects / Admin Panels
 
@@ -771,7 +777,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Quantum Computing
 
-*   [qiskit (⭐7.8k)](https://github.com/Qiskit/qiskit) - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+*   [qiskit (⭐7.9k)](https://github.com/Qiskit/qiskit) - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 *   [qutip (⭐2.1k)](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
 *   [pennylane (⭐3.5k)](https://github.com/PennyLaneAI/pennylane) - A cross-platform library for quantum computing, quantum machine learning, and quantum chemistry.
 
@@ -843,7 +849,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   3D Engines
     *   [panda3d (⭐5.2k)](https://github.com/panda3d/panda3d) - 3D game engine developed jointly by Disney and contributors from around the world.
 *   Visual Novels
-    *   [renpy (⭐6.8k)](https://github.com/renpy/renpy) - A Visual Novel engine.
+    *   [renpy (⭐6.9k)](https://github.com/renpy/renpy) - A Visual Novel engine.
 
 ### Projects / Implementations
 
@@ -890,10 +896,10 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Web Scraping
 
 *   Frameworks
-    *   [browser-use (⭐115k)](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
-    *   [scrapy (⭐64k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
-    *   [crawl4ai (⭐84k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
-    *   [stagehand (⭐25k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
+    *   [browser-use (⭐117k)](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
+    *   [scrapy (⭐65k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
+    *   [crawl4ai (⭐85k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
+    *   [stagehand (⭐26k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
     *   [jev-ultrafast (⭐20k)](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 
 ### Projects / Serialization
@@ -976,7 +982,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Geolocation
 
-*   [geojson (⭐994)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
+*   [geojson (⭐997)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 
 ### Projects / Debugging Tools
 
@@ -997,11 +1003,11 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / HTML Manipulation
 
-*   [markupsafe (⭐697)](https://github.com/pallets/markupsafe) - Safely adds untrusted strings to HTML/XML markup.
+*   [markupsafe (⭐698)](https://github.com/pallets/markupsafe) - Safely adds untrusted strings to HTML/XML markup.
 
 ### Projects / Implementations
 
-*   [cpython (⭐77k)](https://github.com/python/cpython) - Default, most widely used implementation of the Python programming language written in C.
+*   [cpython (⭐78k)](https://github.com/python/cpython) - Default, most widely used implementation of the Python programming language written in C.
 *   [micropython (⭐22k)](https://github.com/micropython/micropython) - A lean and efficient Python implementation for microcontrollers and constrained systems.
 
 ### Projects / Functional Programming
@@ -1047,7 +1053,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Database Drivers
 
-*   SQLite - [awesome-sqlite (⭐405)](https://github.com/planetopendata/awesome-sqlite)
+*   SQLite - [awesome-sqlite (⭐407)](https://github.com/planetopendata/awesome-sqlite)
     *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQLite interface compliant with DB-API 2.0.
     *   [sqlite-utils (⭐2.2k)](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 
@@ -1061,7 +1067,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Penetration Testing
 
-*   [sqlmap (⭐38k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+*   [sqlmap (⭐39k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
 
@@ -1137,7 +1143,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / HTTP Clients
 
 *   General
-    *   [requests (⭐54k)](https://github.com/psf/requests) - HTTP Requests for Humans.
+    *   [requests (⭐55k)](https://github.com/psf/requests) - HTTP Requests for Humans.
     *   [aiohttp (⭐17k)](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
     *   [httpx2 (⭐1.5k)](https://github.com/pydantic/httpx2) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx (⭐16k)](https://github.com/encode/httpx) fork).
     *   [urllib3 (⭐4.1k)](https://github.com/urllib3/urllib3) - An HTTP library with thread-safe connection pooling, file post, and more.
@@ -1183,7 +1189,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Package Repositories
 
-*   [bandersnatch (⭐553)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐552)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
 
@@ -1283,7 +1289,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Built-in Classes Enhancement
 
-*   [attrs (⭐5.8k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [attrs (⭐5.9k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 *   [bidict (⭐1.6k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
@@ -1344,7 +1350,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Documentation
 
-*   [sphinx (⭐8k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
+*   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
     *   [awesome-sphinxdoc (⭐979)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 
 ### Projects / Network Virtualization

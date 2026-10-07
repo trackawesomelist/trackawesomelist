@@ -228,7 +228,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 *   [espflash (⭐746)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
 *   [espup (⭐456)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 *   [uf2 (⭐33)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
-*   [probe-rs (⭐2.9k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
+*   [probe-rs (⭐3k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
 *   [embedded-test (⭐192)](https://github.com/probe-rs/embedded-test): A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
     *   [defmt (⭐1.2k)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
@@ -243,6 +243,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 *   [commitment-issues (⭐20)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
 *   [scope (⭐69)](https://github.com/matheuswhite/scope-rs) Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 *   [mint (⭐4)](https://github.com/tomrford/mint) A CLI tool for firmware parametrisation. Combines data (xlsx/json) and layouts (toml) to generate static binary files (hex/mot) with support for multiple ABIs, schema fingerprinting, checksums, header generation and more.
+*   [npnp (⭐34)](https://github.com/ref42/npnp) CLI tool for batch-exporting LCSC/EasyEDA components to KiCad and Altium Designer libraries.
 
 [embedded-hal-mock]: https://crates.io/crates/embedded-hal-mock
 
@@ -1740,10 +1741,6 @@ Work in progress drivers. Help the authors make these crates awesome!
 
 [device-driver]: https://crates.io/crates/device-driver
 
-[embedded-3dgfx]: https://crates.io/crates/embedded-3dgfx
-
-[embedded-gui]: https://crates.io/crates/embedded-gui
-
 [endian_codec]: https://crates.io/crates/endian_codec
 
 [menu]: https://github.com/thejpster/menu
@@ -1837,6 +1834,7 @@ There are many ways to handle panics in embedded devices, these crates provide h
 *   [🤖 hypervisor (⭐19)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
 *   [🤖 RS-Key (⭐555)](https://github.com/TheMaxMur/RS-Key): no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 *   [🤖 vkey (⭐2)](https://github.com/vaulttec-dev/vaulttec-key): `no_std` USB hardware-key firmware for the ESP32-C6 (esp-hal, no ESP-IDF, no allocator, `unsafe_code = "forbid"`) storing TOTP secrets, passwords and project `.env` files under AES-256-GCM, keyed by Argon2id over a PIN and bound to an eFuse HMAC key, with Secure Boot v2 and a button press for every secret. No HID on this chip, so no FIDO/WebAuthn. Ships with a host CLI that flashes the board and speaks the same `wire.rs` compiled into both ends.
+*   [oreboot (⭐1.8k)](https://github.com/oreboot/oreboot): platform initialization firmware (first code to run) to bring up application processors, a fork of coreboot with no C, all written in Rust, leveraging Rust Embedded traits and crates
 
 ## Old books, blogs, and training materials
 
