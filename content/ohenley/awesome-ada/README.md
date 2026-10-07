@@ -6,6 +6,59 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Oct 07, 2026](/content/2026/10/07/README.md)
+
+### Open source / GPL (with linking exception)
+
+*   [gnat-patches (⭐0)](https://github.com/flyology-ada/gnat-patches) - Curated GCC/GNAT patchsets against checksum-pinned upstream sources, each backed by an executable regression, published as patched native toolchain builds for GCC 13 through 16.
+
+### Runtimes / GPL (no linking exception)
+
+*   [flyology (⭐9)](https://github.com/flyology-ada/flyology) - Experimental GNAT runtime extension for ordinary Ada tasking, adding task-aware I/O and an opt-in lightweight lane that runs designated tasks as fibers on shared event loops.
+
+### Distributed / GPL (no linking exception)
+
+*   [ipfs (⭐0)](https://github.com/kokhlo/ipfs) - InterPlanetary File System client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.
+
+### Terminal User Interface / GPL (no linking exception)
+
+*   [flyology-tui (⭐0)](https://github.com/flyology-ada/flyology-tui) - Typed, declarative terminal user-interface toolkit for Ada.
+
+### Database / GPL (no linking exception)
+
+*   [flyology-postgres (⭐0)](https://github.com/flyology-ada/flyology-postgres) - Client and server primitives for the PostgreSQL frontend/backend protocol, built on [flyology (⭐9)](https://github.com/flyology-ada/flyology) task-aware I/O.
+
+### Web / GPL (no linking exception)
+
+*   [flyology-http (⭐0)](https://github.com/flyology-ada/flyology-http) - HTTP/1.1 clients and servers with opt-in HTTP/2 and HTTP/3 engines and WebSocket support, built on [flyology (⭐9)](https://github.com/flyology-ada/flyology) task-aware I/O.
+
+### Algorithms, Containers and Protocols / GPL (no linking exception)
+
+*   [flyology-allocators (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_allocators) - Caller-owned buddy, best-fit, TLSF, and slab/span allocation algorithms with no hosted operating system dependency.
+*   [flyology-cachelines (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_cachelines) - Cache-line-aware storage, ownership-aware groups, grouped arrays, and host cache queries.
+
+### Format Readers, Writers and Checkers / GPL (no linking exception)
+
+*   [flyology-iri (⭐0)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_iri) - Allocation-conscious URI, IRI, and WHATWG URL parsing.
+*   [flyology-rdf (⭐0)](https://github.com/flyology-ada/flyology-rdf) - RDF 1.2 terms, streaming Turtle, TriG, N-Triples and N-Quads parsing, RDFC-1.0 dataset canonicalization, Notation3, and SPARQL 1.1 query syntax.
+
+### Networking and Communication Middleware / GPL (no linking exception)
+
+*   [flyology-quic (⭐0)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_quic) - Experimental bounded QUIC transport with protocol state, streams, loss recovery, and congestion control.
+
+### General Purpose Computing / GPL (no linking exception)
+
+*   [flyology-simd (⭐0)](https://github.com/flyology-ada/flyology-simd) - Portable, strongly typed SIMD foundations for Ada.
+
+### Utilities / GPL (no linking exception)
+
+*   [flyology-bench (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_bench) - Adaptive microbenchmarking with balanced comparisons, diagnostics, baselines, and machine-readable reports.
+*   [flyology-debug (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_debug) - Bounded in-memory tracing, producer shards, retained batches, and persistent gauges.
+
+### Linux and POSIX / GPL (no linking exception)
+
+*   [flyology-numa (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_numa) - Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.
+
 ## [Sep 23, 2026](/content/2026/09/23/README.md)
 
 ### Editors / GPL (no linking exception)

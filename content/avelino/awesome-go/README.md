@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 07, 2026](/content/2026/10/07/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [Spinifex (⭐346)](https://github.com/mulgadc/spinifex) - Self-hosted, AWS-compatible cloud platform providing EC2, EBS, S3, VPC and IAM APIs for bare-metal, edge and on-premises infrastructure.
+
 ## [Oct 06, 2026](/content/2026/10/06/README.md)
 
 ### Artificial Intelligence

@@ -224,6 +224,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### GPL (with linking exception)
 
 *   [fsf-gnat (⭐59)](https://github.com/alire-project/GNAT-FSF-builds/releases) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
+*   [gnat-patches (⭐0)](https://github.com/flyology-ada/gnat-patches) - Curated GCC/GNAT patchsets against checksum-pinned upstream sources, each backed by an executable regression, published as patched native toolchain builds for GCC 13 through 16.
 
 #### MIT
 
@@ -311,10 +312,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-runtime (⭐35)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 *   [cortex-gnat-rts (⭐80)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 *   [adawebpack (⭐84)](https://github.com/godunko/adawebpack) - GNAT RTL for WebAssembly and bindings for Web API.
+*   [flyology (⭐9)](https://github.com/flyology-ada/flyology) - Experimental GNAT runtime extension for ordinary Ada tasking, adding task-aware I/O and an opt-in lightweight lane that runs designated tasks as fibers on shared event loops.
 
 [ada-runtime]: https://github.com/Componolit/ada-runtime
 
 [adawebpack]: https://github.com/godunko/adawebpack
+
+[flyology]: https://github.com/flyology-ada/flyology
 
 ## OS and Kernels
 
@@ -368,6 +372,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Distributed
 
 *   [poly-orb (⭐24)](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
+*   [ipfs (⭐0)](https://github.com/kokhlo/ipfs) - InterPlanetary File System client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.
 
 ### Graphical User Interface
 
@@ -393,6 +398,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 *   [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
 *   [areadline (⭐10)](https://github.com/samueltardieu/areadline) - Ada binding to the readline library.
+*   [flyology-tui (⭐0)](https://github.com/flyology-ada/flyology-tui) - Typed, declarative terminal user-interface toolkit for Ada.
 
 ### 3D
 
@@ -406,6 +412,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-ado (⭐30)](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
 *   [ada-base (⭐35)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 *   [apq-base (⭐2)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
+*   [flyology-postgres (⭐0)](https://github.com/flyology-ada/flyology-postgres) - Client and server primitives for the PostgreSQL frontend/backend protocol, built on [flyology] task-aware I/O.
 
 ### Web
 
@@ -425,6 +432,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [swagger-ada (⭐31)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 *   [ews (⭐23)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
 *   [matreshka (⭐15)](https://github.com/godunko/matreshka) - Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+*   [flyology-http (⭐0)](https://github.com/flyology-ada/flyology-http) - HTTP/1.1 clients and servers with opt-in HTTP/2 and HTTP/3 engines and WebSocket support, built on [flyology] task-aware I/O.
 
 [matreshka]: https://github.com/godunko/matreshka
 
@@ -538,6 +546,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [agpl (⭐5)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 *   [az3 (⭐7)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 *   [chests (⭐5)](https://github.com/JeremyGrosser/chests) - Bounded containers for embedded systems.
+*   [flyology-allocators (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_allocators) - Caller-owned buddy, best-fit, TLSF, and slab/span allocation algorithms with no hosted operating system dependency.
+*   [flyology-cachelines (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_cachelines) - Cache-line-aware storage, ownership-aware groups, grouped arrays, and host cache queries.
 
 [ada-language-server]: https://github.com/AdaCore/ada_language_server
 
@@ -615,6 +625,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-toml (⭐38)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 *   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 *   [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
+*   [flyology-iri (⭐0)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_iri) - Allocation-conscious URI, IRI, and WHATWG URL parsing.
+*   [flyology-rdf (⭐0)](https://github.com/flyology-ada/flyology-rdf) - RDF 1.2 terms, streaming Turtle, TriG, N-Triples and N-Quads parsing, RDFC-1.0 dataset canonicalization, Notation3, and SPARQL 1.1 query syntax.
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -632,6 +644,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
 *   [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 *   [coap-spark (⭐8)](https://github.com/mgrojo/coap_spark) - A formally verified implementation of CoAP, the Constrained Application Protocol.
+*   [flyology-quic (⭐0)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_quic) - Experimental bounded QUIC transport with protocol state, streams, loss recovery, and congestion control.
 
 ### Chatting and Communication
 
@@ -668,6 +681,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [opencl-ada (⭐18)](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 *   [boehmgc-ada (⭐7)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 *   [ada-bfd (⭐8)](https://github.com/stcarrez/ada-bfd) - An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
+*   [flyology-simd (⭐0)](https://github.com/flyology-ada/flyology-simd) - Portable, strongly typed SIMD foundations for Ada.
 
 ### Sound
 
@@ -707,6 +721,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 *   [ux-strings (⭐18)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 *   [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
+*   [flyology-bench (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_bench) - Adaptive microbenchmarking with balanced comparisons, diagnostics, baselines, and machine-readable reports.
+*   [flyology-debug (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_debug) - Bounded in-memory tracing, producer shards, retained batches, and persistent gauges.
 
 ### Robotics
 
@@ -722,6 +738,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [inotify-ada (⭐9)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 *   [dl-ada (⭐1)](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
 *   [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
+*   [flyology-numa (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_numa) - Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.
 
 ### Windows and .NET
 
