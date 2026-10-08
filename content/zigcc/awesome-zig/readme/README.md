@@ -173,7 +173,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐37)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
 *   [ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
-*   [midasdf/zt (⭐71)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐73)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐62)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 *   [zdu (⭐3)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 *   [zmx (⭐2.2k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
@@ -249,6 +249,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [CogitatorTech/ordered (⭐39)](https://github.com/CogitatorTech/ordered) - A sorted collection library (sorted sets and sorted maps) for Zig.
 *   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 *   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+*   [guanchzhou/zig-planar (⭐0)](https://github.com/guanchzhou/zig-planar) - Planarity testing with embeddings, Kuratowski certificates, and 4- and 5-coloring of planar graphs. AI-assisted.
 
 ### String Processing
 
@@ -561,7 +562,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [kristoff-it/redis-cuckoofilter (⭐232)](https://github.com/kristoff-it/redis-cuckoofilter) - Hashing-function agnostic Cuckoo filters for Redis.
 *   [kristoff-it/zig-okredis (⭐294)](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
-*   [speed2exe/myzql (⭐77)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [speed2exe/myzql (⭐78)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 *   [karlseguin/pg.zig (⭐601)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐190)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 *   [thanos/couchbase-zig-client (⭐2)](https://github.com/thanos/couchbase-zig-client) - A wrapper around Couchbase's c library libcoucbase.
@@ -614,6 +615,11 @@ A collaborative list of awesome Zig libraries and resources.
 *   [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; \~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
 *   [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 *   [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
+*   [guanchzhou/zig-select (⭐0)](https://github.com/guanchzhou/zig-select) - Budgeted selection of retrieved chunks for LLM context: knapsack packing, score calibration, and diversity. AI-assisted.
+*   [guanchzhou/zig-diffuse (⭐0)](https://github.com/guanchzhou/zig-diffuse) - Re-ranking of retrieval scores by diffusion on link and nearest-neighbor graphs. AI-assisted.
+*   [guanchzhou/zig-lsh (⭐0)](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
+*   [guanchzhou/zig-rabitq (⭐0)](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
+*   [guanchzhou/zig-pq (⭐0)](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
 
 ### Machine Learning
 
@@ -735,7 +741,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [nitanmarcel/ScriptHookVZig (⭐8)](https://github.com/nitanmarcel/ScriptHookVZig) - Library to write GTA V mods in Zig.
 *   [PixelGuys/Cubyz (⭐3.7k)](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 *   [deckarep/dungeon-rush (⭐13)](https://github.com/deckarep/dungeon-rush) - An SDL snake style game ported to Zig. Originally written in C.
-*   [ringtailsoftware/zigtris (⭐33)](https://github.com/ringtailsoftware/zigtris) - Zigtris, a terminal tetris.
+*   [ringtailsoftware/zigtris (⭐32)](https://github.com/ringtailsoftware/zigtris) - Zigtris, a terminal tetris.
 *   [ringtailsoftware/zoridor (⭐16)](https://github.com/ringtailsoftware/zoridor) - Zoridor, a Quoridor game for terminal and web with a machine opponent.
 *   [ringtailsoftware/zero-jetpack (⭐3)](https://github.com/ringtailsoftware/zero-jetpack) - Zero-Jetpack a web game about Ziguanas carrying eggs.
 *   [six519/YieArKUNGFUZig (⭐10)](https://github.com/six519/YieArKUNGFUZig) - A Yie Ar Kung-Fu clone created in Zig with raylib.
@@ -764,7 +770,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [brian-sinquin/mimg (⭐0)](https://github.com/brian-sinquin/mimg) - A chained-modifiers Image processing Command-line tool.
 *   [dmtrKovalenko/odiff (⭐3.2k)](https://github.com/dmtrKovalenko/odiff) - ODiff - A very fast SIMD-first image comparison library (with Node.js API).
 *   [foxnne/pixi (⭐1)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
-*   [freref/fancy-cat (⭐561)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
+*   [freref/fancy-cat (⭐571)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
 
 ## Interoperability
 

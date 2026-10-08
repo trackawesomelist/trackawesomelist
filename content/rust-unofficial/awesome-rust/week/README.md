@@ -12,6 +12,14 @@ A curated list of Rust code and resources.
 
 *   [aimdb-dev/aimdb (⭐101)](https://github.com/aimdb-dev/aimdb) \[[aimdb-core](https://crates.io/crates/aimdb-core)] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. [![CI](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml)
 
+### Applications / Graphics
+
+*   [storytold/cadcraft (⭐627)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
+
+### Applications / Image processing
+
+*   [storytold/lightcraft (⭐4.9k)](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+
 ### Applications / Productivity
 
 *   [leepokai/Codync (⭐176)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)

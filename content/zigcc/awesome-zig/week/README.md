@@ -15,6 +15,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Language Essentials / Data Structure and Algorithm
 
 *   [guanchzhou/zig-hilbert (⭐0)](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+*   [guanchzhou/zig-planar (⭐0)](https://github.com/guanchzhou/zig-planar) - Planarity testing with embeddings, Kuratowski certificates, and 4- and 5-coloring of planar graphs. AI-assisted.
 
 ### Language Essentials / Command Line and Argument Parser
 
@@ -23,6 +24,14 @@ A collaborative list of awesome Zig libraries and resources.
 ### Network & Web / Network
 
 *   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
+
+### Data & Science / Large Language Model
+
+*   [guanchzhou/zig-select (⭐0)](https://github.com/guanchzhou/zig-select) - Budgeted selection of retrieved chunks for LLM context: knapsack packing, score calibration, and diversity. AI-assisted.
+*   [guanchzhou/zig-diffuse (⭐0)](https://github.com/guanchzhou/zig-diffuse) - Re-ranking of retrieval scores by diffusion on link and nearest-neighbor graphs. AI-assisted.
+*   [guanchzhou/zig-lsh (⭐0)](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
+*   [guanchzhou/zig-rabitq (⭐0)](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
+*   [guanchzhou/zig-pq (⭐0)](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
 
 ### Multimedia & Graphics / GUI
 
@@ -299,7 +308,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [midasdf/zt (⭐71)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐73)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
 ### Data & Science / Database
 
@@ -895,7 +904,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Image and Video Processing
 
-*   [freref/fancy-cat (⭐561)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
+*   [freref/fancy-cat (⭐571)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
 
 ### Interoperability / FFI Bindings
 
@@ -1018,7 +1027,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Game Development
 
-*   [ringtailsoftware/zigtris (⭐33)](https://github.com/ringtailsoftware/zigtris) - Zigtris, a terminal tetris.
+*   [ringtailsoftware/zigtris (⭐32)](https://github.com/ringtailsoftware/zigtris) - Zigtris, a terminal tetris.
 *   [ringtailsoftware/zoridor (⭐16)](https://github.com/ringtailsoftware/zoridor) - Zoridor, a Quoridor game for terminal and web with a machine opponent.
 *   [ringtailsoftware/zero-jetpack (⭐3)](https://github.com/ringtailsoftware/zero-jetpack) - Zero-Jetpack a web game about Ziguanas carrying eggs.
 
@@ -1231,7 +1240,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Data & Science / Database
 
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
-*   [speed2exe/myzql (⭐77)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [speed2exe/myzql (⭐78)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 *   [karlseguin/pg.zig (⭐601)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐190)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 

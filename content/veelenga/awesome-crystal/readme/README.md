@@ -16,7 +16,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐507k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐514k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search shards at [shards.info](https://shards.info) for more.
@@ -527,6 +527,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Scheduling
 
+*   [cronaute (⭐2)](https://github.com/jbox-web/cronaute) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
 *   [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
 *   [schedule.cr (⭐77)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 *   [tasker (⭐57)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs

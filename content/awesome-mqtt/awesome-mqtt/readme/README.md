@@ -187,6 +187,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 *   [Python MQTT Client Shell (⭐59)](https://github.com/bapowell/python-mqtt-client-shell) - Text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 *   [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method (⭐0)](https://github.com/visoar/mqtt-acl-linter).
 *   [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
+*   [Spitfire](https://spitfire.tr/en/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
 *   [Wireshark-MQTT (⭐95)](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
 *   [VSMQTT (⭐17)](https://github.com/rpdswtk/vsmqtt) - Simple MQTT client integrated in Visual Studio Code.
 *   [MQTTX (⭐5.1k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
@@ -295,6 +296,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 
 ### Rust
 
+*   [AimDB (⭐101)](https://github.com/aimdb-dev/aimdb) - Typed, versioned data contracts over MQTT from `no_std` microcontrollers (Embassy) to the cloud (Tokio), with schema migrations at the hub.
 *   [mqtt-rs (⭐186)](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
 *   [mqtt-typed-client (⭐11)](https://github.com/holovskyi/mqtt-typed-client) - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
 *   [rumqtt (⭐203)](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure Rust MQTT client.
@@ -583,7 +585,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 *   [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/) - MQTT dashboard application.
 *   [node-red-dashboard (⭐1.4k)](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 *   [PlotJuggler (⭐6.2k)](https://github.com/facontidavide/PlotJuggler) - Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.
-*   [ZigDash](https://gitlab.com/tamamg/zigdash) - Free, open-source Material 3 MQTT dashboard for Android, built for Zigbee2MQTT with automatic device discovery.
+*   [ZigDash](https://gitlab.com/tamamg/zigdash) - Free, open-source Material 3 MQTT dashboard for Android, built for Zigbee2MQTT with automatic device discovery. Also on [Google Play](https://play.google.com/store/apps/details?id=com.giladtamam.zigdash).
 
 <!--lint disable double-link-->
 

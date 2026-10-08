@@ -53,6 +53,7 @@ Additional lists you might find useful:
     *   [Markup](#markup)
     *   [Migration](#migration)
     *   [Miscellaneous](#miscellaneous)
+    *   [Monitoring](#monitoring)
     *   [Navigation](#navigation)
     *   [Notifications and Real-time Communication](#notifications-and-real-time-communication)
     *   [ORM / Database / Datamapping](#orm--database--datamapping)
@@ -127,6 +128,8 @@ Additional lists you might find useful:
 
 *   [CakeDC/Users plugin (⭐522)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 
+*   [CakePasskeys plugin (⭐1)](https://github.com/dereuromark/cakephp-passkeys) - Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.
+
 *   [CakeVerification plugin (⭐0)](https://github.com/salines/cakephp-verification) - Two-factor verification supporting email OTP, email magic link, SMS OTP, and TOTP (Google Authenticator).
 
 *   [TinyAuth plugin (⭐131)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
@@ -168,6 +171,7 @@ Additional lists you might find useful:
 *   [CakephpWhoops plugin (⭐14)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops (⭐13k)](https://github.com/filp/whoops).
 *   [DebugKit plugin (⭐839)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 *   [Execution order (⭐21)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
+*   [OrcaServices/Heartbeat plugin (⭐4)](https://github.com/orca-services/cakephp-heartbeat) - A plugin providing an application heartbeat status page with configurable sensors.
 *   [Sentry plugin (⭐12)](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 *   [Setup plugin (⭐35)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
@@ -263,6 +267,12 @@ Additional lists you might find useful:
 *   [Tools plugin (⭐333)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 *   [Workflow plugin (⭐3)](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 
+### Monitoring
+
+*Application monitoring and observability.*
+
+*   [Crustum/Rhythm plugin (⭐0)](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
+
 ### Navigation
 
 *Building navigation structures.*
@@ -318,6 +328,7 @@ Additional lists you might find useful:
 *   [FractalTransformerView plugin (⭐18)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 *   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 *   [SwaggerBake plugin (⭐60)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   [SwaggerUi plugin (⭐1)](https://github.com/orca-services/cakephp-swagger-ui) - A plugin for publishing Swagger UIs based on OpenAPI specification files.
 
 ### Search
 
@@ -325,6 +336,7 @@ Additional lists you might find useful:
 
 *   [Cake/Elasticsearch plugin (⭐86)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 *   [CakeDC/SearchFilter plugin (⭐3)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+*   [Crustum/Explorator plugin (⭐0)](https://github.com/Crustum/explorator) - Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).
 *   [PlumSearch plugin (⭐19)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 *   [Search plugin (⭐171)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 *   [Tags plugin (⭐17)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
@@ -384,11 +396,14 @@ Additional lists you might find useful:
 
 *   [CakePHP CodeSniffer rules (⭐232)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 *   [CakephpFixtureFactories plugin (⭐4)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [DataValidationTesting plugin (⭐0)](https://github.com/orca-services/cakephp-data-validation-testing) - A plugin to help testing data validation.
 *   [FriendsOfCake/Fixturize plugin (⭐24)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
 ### Third Party APIs
 
 *Accessing third party APIs.*
+
+*   [Crustum/Saloon plugin (⭐0)](https://github.com/Crustum/saloon) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
 
 ## Software
 

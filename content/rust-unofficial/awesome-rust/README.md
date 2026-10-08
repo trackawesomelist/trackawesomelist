@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 08, 2026](/content/2026/10/08/README.md)
+
+### Applications / Graphics
+
+*   [storytold/cadcraft (⭐627)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
+
+### Applications / Image processing
+
+*   [storytold/lightcraft (⭐4.9k)](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
 ### Applications / Database

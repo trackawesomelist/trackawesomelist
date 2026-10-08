@@ -6,6 +6,36 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Oct 08, 2026](/content/2026/10/08/README.md)
+
+### Plugins / Authentication and Authorization
+
+*   [CakePasskeys plugin (⭐1)](https://github.com/dereuromark/cakephp-passkeys) - Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.
+
+### Plugins / Debugging
+
+*   [OrcaServices/Heartbeat plugin (⭐4)](https://github.com/orca-services/cakephp-heartbeat) - A plugin providing an application heartbeat status page with configurable sensors.
+
+### Plugins / Monitoring
+
+*   [Crustum/Rhythm plugin (⭐0)](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
+
+### Plugins / REST and API
+
+*   [SwaggerUi plugin (⭐1)](https://github.com/orca-services/cakephp-swagger-ui) - A plugin for publishing Swagger UIs based on OpenAPI specification files.
+
+### Plugins / Search
+
+*   [Crustum/Explorator plugin (⭐0)](https://github.com/Crustum/explorator) - Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).
+
+### Plugins / Testing
+
+*   [DataValidationTesting plugin (⭐0)](https://github.com/orca-services/cakephp-data-validation-testing) - A plugin to help testing data validation.
+
+### Plugins / Third Party APIs
+
+*   [Crustum/Saloon plugin (⭐0)](https://github.com/Crustum/saloon) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
+
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
 ### Plugins / Code Analysis

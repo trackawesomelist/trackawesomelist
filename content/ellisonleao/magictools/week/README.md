@@ -12,6 +12,10 @@
 
 *   :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 
+### Music and Audio Editors / Voxel Editors
+
+*   :money\_with\_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
+
 ### Ads / Voxel Editors
 
 *   :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
@@ -24,7 +28,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Parlour (⭐4)](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).
+*   :tada: [Parlour (⭐6)](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).
 
 ### Collections / Voxel Editors
 
@@ -135,7 +139,7 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [Legend of Elya (⭐144)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
+*   :tada: [Legend of Elya (⭐147)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -391,7 +395,7 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [OpenRA (⭐17k)](https://github.com/OpenRA/OpenRA)
+*   :tada: [OpenRA (⭐18k)](https://github.com/OpenRA/OpenRA)
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Oct 08, 2026](/content/2026/10/08/README.md)
+
+### Scheduling
+
+*   [cronaute (⭐2)](https://github.com/jbox-web/cronaute) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
+
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
 ### Framework Components

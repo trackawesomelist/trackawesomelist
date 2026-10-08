@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Databases & Spreadsheets
+
+*   [Prisma Postgres](https://www.prisma.io/postgres) - Managed Postgres with a free plan (1.01 GB, 200k operations/month, 50 databases) and paid plans from $10/month.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Monitoring
