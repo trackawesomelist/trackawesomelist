@@ -167,7 +167,7 @@ If you are looking for not only remakes have a look at:
 *   [qfusion (⭐79)](https://github.com/Warsow/qfusion) - This is Warsow's fork of qfusion, the id Tech 2 derived game engine.
 *   [quake3-rust-edition (⭐5)](https://github.com/Oli97430/quake3-rust-edition) - id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.
 *   [Quake3e (⭐1.5k)](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
-*   [quakeforge (⭐69)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
+*   [quakeforge (⭐70)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 *   [Raze (⭐886)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 *   [RBDOOM-3-BFG (⭐1.9k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
@@ -281,6 +281,15 @@ If you are looking for not only remakes have a look at:
 *   [OpenNFS (⭐838)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 *   [OutRun (⭐92)](https://github.com/ZgzInfinity/OutRun) - A new version of the game Out Run of 1986 for PC using SFML and C++
 *   [Quarantine (⭐0)](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
+*   [Scale Miniatures (⭐6)](https://github.com/hivvu/scale-miniatures) - Open source recomp of Micro Machines in TypeScript.
+*   [Street Rod (⭐3)](https://github.com/kylofon/street-rod-sdl3) - Recomp of Street Rod.
+*   [Street Rod Enhanced (⭐6)](https://github.com/kylofon/streetrod-enhanced) - Enhanced version of Street Rod.
+*   [Test Drive (⭐14)](https://github.com/kylofon/test-drive-sdl3) - Open-source recomp of Test Drive (1987).
+*   [Test Drive Enhanced (⭐15)](https://github.com/kylofon/testdrive-enhanced) - Enhanced version of Test Drive.
+*   [Test Drive II (⭐4)](https://github.com/kylofon/test-drive-2-sdl3) - Open-source recomp of Test Drive II: The Duel.
+*   [Test Drive II Enhanced (⭐12)](https://github.com/kylofon/testdrive2-enhanced) - Enhanced version of Test Drive II: The Duel.
+*   [Test Drive III (⭐7)](https://github.com/kylofon/test-drive-3-sdl3) - Recomp of Test Drive III: The Passion.
+*   [Test Drive III Enhanced (⭐16)](https://github.com/kylofon/testdrive3-enhanced) - Enhanced version of Test Drive III: The Passion.
 *   [tube64 (⭐25)](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
 *   [SpagettiKart (⭐2.4k)](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
 *   [Vangers (⭐737)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
@@ -290,11 +299,16 @@ If you are looking for not only remakes have a look at:
 
 ## Simulator
 
+*   [Aces of the Pacific (⭐2)](https://github.com/kylofon/aces-of-the-pacific-sdl3) - Recomp of Dynamix' Aces of the Pacific.
+*   [Aces of the Pacific Enhanced (⭐7)](https://github.com/kylofon/acesofthepacific-enhanced) - Enhanced version of Dynamix' Aces of the Pacific.
 *   [darknova2 (⭐0)](https://github.com/deadjim/darknova2) - Dark Nova ]\[ — cross-platform space trading game (Space Trader remake)
 *   [Descent3 (⭐3)](https://github.com/DMJC/Descent3) - Descent 3 by Outrage Entertainment
 *   [DXX-Rebirth (⭐638)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 *   [dxx-redux (⭐73)](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro.
 *   [dxx-vr (⭐4)](https://github.com/DMJC/dxx-vr) - Descent 1&2 VR source port based on DXX-Retro
+*   [F-15 II (⭐140)](https://github.com/neuviemeporte/f15se2-re) - Recomp of MicroProse F-15 II.
+*   [F-15 II Enhanced (⭐20)](https://github.com/neuviemeporte/f15se2-ex) - Enhanced version of Microprose F-15 II.
+*   [F-19 (⭐1)](https://github.com/xor2003/f19re) - Recomp of MicroProse F-19.
 *   [FLUF](https://codeberg.org/TheStarport/FLUF) - Freelancer Universal Framework
 *   [freelancer-retold](https://codeberg.org/TheStarport/freelancer-retold) - A campaign and gameplay rework for the 2003 game Freelancer.
 *   [forsaken-3ds (⭐2)](https://github.com/colbyshores/forsaken-3ds) - Nintendo 3DS port of Forsaken (1998)
@@ -304,8 +318,17 @@ If you are looking for not only remakes have a look at:
 *   [FS2Open (⭐488)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 *   [Librelancer (⭐608)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 *   [Endless Sky (⭐7.6k)](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+*   [Gunboat (⭐2)](https://github.com/PlasticCog/Gunboat) - Open-source recomp of the game Gunboat.
 *   [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
 *   [OpenGG (⭐0)](https://github.com/tymsky/OpenGG) - Open-source engine for Gearhead Garage: The Virtual Mechanic (1999), the car repair game; requires the original game files.
+*   [OpenPrivateer](https://openprivateer.org/) - Open-source remake of Wing Commander: Privateer (1993). Requires original game files.
+*   [OpenTIE (⭐324)](https://github.com/elyosh/Opentie) - Open-source recomp of TIE Fighter.
+*   [OpenXvT (⭐43)](https://github.com/elyosh/Openxvt) - Open-source recomp of X-Wing vs Tie Fighter.
+*   [OpenXW (⭐101)](https://github.com/elyosh/OpenXW) - Open-source recomp of X-Wing.
+*   [OpenXWA (⭐146)](https://github.com/elyosh/Openxwa) - Open-source recomp of X-Wing Alliance.
+*   [stunts (⭐37)](https://github.com/ACatWithEbola/playstunts) - Open-source recomp of Stunts. Playable on the website.
+*   [wc1-re (⭐49)](https://github.com/neuromancer/wc1-re) - Open-source recomp of Wing Commander.
+*   [wc2-re (⭐23)](https://github.com/neuromancer/wc2-re) - Open-source recomp of Wing Commander II.
 
 ## Strategy
 
@@ -409,6 +432,7 @@ If you are looking for not only remakes have a look at:
 *   [Syndicate Wars (⭐251)](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.
 *   [Romanov's Vengeance (⭐340)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   [Sourcehold (⭐281)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+*   [Space Empires 4 (⭐11)](https://github.com/lowlevelmetal/OpenSE4) - Spec-based remake of Space Empires 4.
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - A real-time strategy game made with LÖVE based on the original Stronghold by Firefly studios.
 *   [terra-concordia-public (⭐0)](https://github.com/terraconcordiagame/terra-concordia-public) - Press kit, release notes & community resources for Terra Concordia — a digital eurogame by NCB Company.
 *   [TheOldWorld (⭐0)](https://github.com/Towhidul-Islam5797/TheOldWorld) - 2D Isometric RTS Game

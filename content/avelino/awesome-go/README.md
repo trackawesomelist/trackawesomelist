@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 08, 2026](/content/2026/10/08/README.md)
+
+### Standard CLI
+
+*   [vibecheck (⭐210)](https://github.com/rshdhere/vibecheck) - Cross-platform CLI that generates Git commit messages automatically from code changes.
+
+### Third-party APIs
+
+*   [gghstats (⭐6)](https://github.com/hrodrig/gghstats) - Self-hosted GitHub traffic dashboard that stores clones and views in SQLite beyond the 14-day API window.
+
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -323,7 +333,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [snip (⭐451)](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.
+*   [snip (⭐464)](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.
 
 ### Advanced Console UIs
 
@@ -6101,7 +6111,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### JSON
 
 *   [ajson (⭐292)](https://github.com/spyzhov/ajson) - Abstract JSON for golang with JSONPath support.
-*   [ask (⭐58)](https://github.com/simonnilsson/ask) - Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types.
+*   [ask (⭐59)](https://github.com/simonnilsson/ask) - Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types.
 *   [dynjson (⭐16)](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs.
 *   [ej (⭐10)](https://github.com/lucassscaravelli/ej) - Write and read JSON from different sources succinctly.
 *   [epoch (⭐17)](https://github.com/vtopc/epoch) - Contains primitives for marshaling/unmarshalling Unix timestamp/epoch to/from build-in time.Time type in JSON.

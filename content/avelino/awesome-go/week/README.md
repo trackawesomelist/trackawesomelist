@@ -17,6 +17,10 @@ A curated list of awesome Go frameworks, libraries and software
 *   [glamour (⭐3.7k)](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for terminal applications.
 *   [huh (⭐7.2k)](https://github.com/charmbracelet/huh) - Lightweight library for building interactive forms and prompts in the terminal.
 
+### Standard CLI
+
+*   [vibecheck (⭐210)](https://github.com/rshdhere/vibecheck) - Cross-platform CLI that generates Git commit messages automatically from code changes.
+
 ### JSON
 
 *   [jseq (⭐0)](https://github.com/bobg/jseq) - Streaming JSON parser.
@@ -35,6 +39,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
+*   [gghstats (⭐6)](https://github.com/hrodrig/gghstats) - Self-hosted GitHub traffic dashboard that stores clones and views in SQLite beyond the 14-day API window.
 *   [openapi (⭐275)](https://github.com/speakeasy-api/openapi) - Parse, validate, and manipulate OpenAPI, Swagger, Arazzo, and OpenAPI Overlay documents.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -263,7 +268,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [snip (⭐451)](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.
+*   [snip (⭐464)](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.
 
 ### Advanced Console UIs
 
@@ -5392,7 +5397,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### JSON
 
 *   [ajson (⭐292)](https://github.com/spyzhov/ajson) - Abstract JSON for golang with JSONPath support.
-*   [ask (⭐58)](https://github.com/simonnilsson/ask) - Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types.
+*   [ask (⭐59)](https://github.com/simonnilsson/ask) - Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types.
 *   [dynjson (⭐16)](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs.
 *   [ej (⭐10)](https://github.com/lucassscaravelli/ej) - Write and read JSON from different sources succinctly.
 *   [epoch (⭐17)](https://github.com/vtopc/epoch) - Contains primitives for marshaling/unmarshalling Unix timestamp/epoch to/from build-in time.Time type in JSON.

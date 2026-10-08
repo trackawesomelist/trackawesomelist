@@ -6,6 +6,41 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Oct 08, 2026](/content/2026/10/08/README.md)
+
+### Racing
+
+*   [Scale Miniatures (⭐6)](https://github.com/hivvu/scale-miniatures) - Open source recomp of Micro Machines in TypeScript.
+*   [Street Rod (⭐3)](https://github.com/kylofon/street-rod-sdl3) - Recomp of Street Rod.
+*   [Street Rod Enhanced (⭐6)](https://github.com/kylofon/streetrod-enhanced) - Enhanced version of Street Rod.
+*   [Test Drive (⭐14)](https://github.com/kylofon/test-drive-sdl3) - Open-source recomp of Test Drive (1987).
+*   [Test Drive Enhanced (⭐15)](https://github.com/kylofon/testdrive-enhanced) - Enhanced version of Test Drive.
+*   [Test Drive II (⭐4)](https://github.com/kylofon/test-drive-2-sdl3) - Open-source recomp of Test Drive II: The Duel.
+*   [Test Drive II Enhanced (⭐12)](https://github.com/kylofon/testdrive2-enhanced) - Enhanced version of Test Drive II: The Duel.
+*   [Test Drive III (⭐7)](https://github.com/kylofon/test-drive-3-sdl3) - Recomp of Test Drive III: The Passion.
+*   [Test Drive III Enhanced (⭐16)](https://github.com/kylofon/testdrive3-enhanced) - Enhanced version of Test Drive III: The Passion.
+
+### Simulator
+
+*   [Aces of the Pacific (⭐2)](https://github.com/kylofon/aces-of-the-pacific-sdl3) - Recomp of Dynamix' Aces of the Pacific.
+*   [Aces of the Pacific Enhanced (⭐7)](https://github.com/kylofon/acesofthepacific-enhanced) - Enhanced version of Dynamix' Aces of the Pacific.
+*   [F-15 II (⭐140)](https://github.com/neuviemeporte/f15se2-re) - Recomp of MicroProse F-15 II.
+*   [F-15 II Enhanced (⭐20)](https://github.com/neuviemeporte/f15se2-ex) - Enhanced version of Microprose F-15 II.
+*   [F-19 (⭐1)](https://github.com/xor2003/f19re) - Recomp of MicroProse F-19.
+*   [Gunboat (⭐2)](https://github.com/PlasticCog/Gunboat) - Open-source recomp of the game Gunboat.
+*   [OpenPrivateer](https://openprivateer.org/) - Open-source remake of Wing Commander: Privateer (1993). Requires original game files.
+*   [OpenTIE (⭐324)](https://github.com/elyosh/Opentie) - Open-source recomp of TIE Fighter.
+*   [OpenXvT (⭐43)](https://github.com/elyosh/Openxvt) - Open-source recomp of X-Wing vs Tie Fighter.
+*   [OpenXW (⭐101)](https://github.com/elyosh/OpenXW) - Open-source recomp of X-Wing.
+*   [OpenXWA (⭐146)](https://github.com/elyosh/Openxwa) - Open-source recomp of X-Wing Alliance.
+*   [stunts (⭐37)](https://github.com/ACatWithEbola/playstunts) - Open-source recomp of Stunts. Playable on the website.
+*   [wc1-re (⭐49)](https://github.com/neuromancer/wc1-re) - Open-source recomp of Wing Commander.
+*   [wc2-re (⭐23)](https://github.com/neuromancer/wc2-re) - Open-source recomp of Wing Commander II.
+
+### Strategy
+
+*   [Space Empires 4 (⭐11)](https://github.com/lowlevelmetal/OpenSE4) - Spec-based remake of Space Empires 4.
+
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Adventure
@@ -335,7 +370,7 @@ Actively maintained open-source game remakes.
 
 *   [DOOM64-EX-Plus-Enhanced (⭐41)](https://github.com/Styd051/DOOM64-EX-Plus-Enhanced) - fork of the Doom 64 EX+ engine, Its main goal is to show what the Doom 64 engine would have looked like if it hadn't been limited by the N64 console.
 *   [EDGE-classic (⭐102)](https://github.com/edge-classic/EDGE-classic) - Cross-Platform OpenGL Doom Source Port with powerful modding features.
-*   [quakeforge (⭐69)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
+*   [quakeforge (⭐70)](https://github.com/quakeforge/quakeforge) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
 *   [SeriousSamAlphaRemake (⭐31)](https://github.com/tx00100xt/SeriousSamAlphaRemake) - Serious Sam Alpha Remake open source project based.
 
 ### Platformer
