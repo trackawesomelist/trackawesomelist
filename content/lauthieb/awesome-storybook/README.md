@@ -2,9 +2,19 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 394 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 422 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/lauthieb/awesome-storybook/week/README.md) / [Overview](/content/lauthieb/awesome-storybook/readme/README.md) ]
+
+## [Oct 09, 2026](/content/2026/10/09/README.md)
+
+### Community resources
+
+*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.
+
+### Examples
+
+*   [Bestax - Storybook](https://bestax.io/storybook/)
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -53,7 +63,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Community resources
 
-*   [Documentation Primitives (⭐36)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## [Oct 23, 2019](/content/2019/10/23/README.md)
 
@@ -65,7 +75,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Official resources
 
-*   [Brand's materials (⭐101)](https://github.com/storybookjs/brand)
+*   [Brand's materials (⭐110)](https://github.com/storybookjs/brand)
 
 ### Blog posts
 
@@ -90,7 +100,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Examples
 
-*   [Shared React Components Boilerplate (⭐86)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐87)](https://github.com/shared-components/shared-react-components-example)
 
 ## [Apr 16, 2019](/content/2019/04/16/README.md)
 

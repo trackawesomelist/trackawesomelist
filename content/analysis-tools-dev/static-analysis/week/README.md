@@ -12,6 +12,14 @@
 
 *   [bashate (⭐399)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
+### Multiple languages / [Other](#other-1)
+
+*   [Kin](https://kinlab.ai) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
+
+### Other / [Other](#other-1)
+
+*   [ember-template-lint (⭐265)](https://github.com/ember-template-lint/ember-template-lint) — Linter for Ember or Handlebars templates.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Other / [Other](#other-1)
@@ -200,7 +208,6 @@
 *   **mythril** :warning: — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
 *   **solium** :warning: — Solium is a linter to identify and fix style and security issues in Solidity smart contracts.
 *   **LibVCS4j** :warning: — A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.
-*   **ember-template-lint** :warning: — Linter for Ember or Handlebars templates.
 *   **Vetur** :warning: — Vue tooling for VS Code, powered by vls (vue language server). Vetur has support for formatting embedded HTML, CSS, SCSS, JS, TypeScript, and more. Vetur only has a "whole document formatter" and cannot format arbitrary ranges.
 *   **write-good** :warning: — A linter with a focus on eliminating "weasel words".
 *   [vastlint](https://vastlint.org) :copyright: — Validator and linter for VAST XML ad tags. Checks wrappers and inline tags against the IAB VAST 2.0-4.3 specification and can auto-fix deterministic issues.

@@ -6,6 +6,12 @@ A curated list of awesome Lit resources.
 
 [ Daily / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / [Overview](/content/web-padawan/awesome-lit/readme/README.md) ]
 
+## [Oct 09, 2026](/content/2026/10/09/README.md)
+
+### Similar libraries / Other Tools
+
+*   [pion (⭐82)](https://github.com/pionjs/pion) - React Hooks API for web components using lit-html.
+
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
 ### Tools / Building

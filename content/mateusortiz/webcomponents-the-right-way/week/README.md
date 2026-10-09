@@ -18,6 +18,7 @@ A curated list of awesome Web Components resources.
 
 ### Component Libraries
 
+*   [Accesserty UI Kit (⭐2)](https://github.com/Accesserty/UI-Kit) - HTML-first accessible web components with built-in keyboard behavior, state handling, and i18n. No runtime dependencies.
 *   [Marvelous UI (⭐1)](https://github.com/marvelous-ui/marvelous-ui) - Framework-agnostic custom elements and CSS components with design tokens and no runtime dependencies.
 
 ### Web Platform Tests

@@ -2,7 +2,7 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 394 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 422 · 🏷️ Front-End Development
 
 [ [Daily](/content/lauthieb/awesome-storybook/README.md) / [Weekly](/content/lauthieb/awesome-storybook/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 # Awesome Storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/lauthieb/awesome-storybook/raw/master/storybook-logo.svg" align="right" width="80">](https://storybook.js.org)
+[<img src="https://github.com/lauthieb/awesome-storybook/raw/main/storybook-logo.svg" align="right" width="80">](https://storybook.js.org)
 
 > A curated list of awesome resources about Storybook's ecosystem :art:
 
@@ -39,13 +39,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [GitHub](https://github.com/storybookjs)
 *   [Medium](https://medium.com/storybookjs)
 *   [Discord](https://discord.gg/storybook)
-*   [Brand's materials (⭐101)](https://github.com/storybookjs/brand)
+*   [Brand's materials (⭐110)](https://github.com/storybookjs/brand)
 *   [Design system](https://master--5ccbc373887ca40020446347.chromatic.com/)
 
 ## Community resources
 
 *   [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
-*   [Documentation Primitives (⭐36)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.
 
 ## Examples
 
@@ -55,11 +56,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Salesforce - Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 *   [Auth0/OKta - Quantum Design System](https://quantum.okta.design/)
 *   [AXA France - Design System](https://axafrance.github.io/react-toolkit/latest/storybook/)
-*   [Shared React Components Boilerplate (⭐86)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐87)](https://github.com/shared-components/shared-react-components-example)
 *   [Apideck - Components](https://www.apideck.design/)
 *   [Qui - Vue 2/3 Design system](https://qui-max.netlify.app/?path=/story/intro--page)
 *   [Mística - Design system](https://mistica-web.vercel.app/?path=/story/welcome--welcome)
 *   [Recharts - Storybook](https://recharts.org/en-US/storybook)
+*   [Bestax - Storybook](https://bestax.io/storybook/)
 
 ## Tutorials
 
@@ -139,5 +141,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/master/README.md/CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/main/README.md/CONTRIBUTING.md) first.
 

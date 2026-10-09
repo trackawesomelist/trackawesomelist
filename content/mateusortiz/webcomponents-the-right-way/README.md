@@ -6,6 +6,12 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Oct 09, 2026](/content/2026/10/09/README.md)
+
+### Component Libraries
+
+*   [Accesserty UI Kit (⭐2)](https://github.com/Accesserty/UI-Kit) - HTML-first accessible web components with built-in keyboard behavior, state handling, and i18n. No runtime dependencies.
+
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Shadow DOM
