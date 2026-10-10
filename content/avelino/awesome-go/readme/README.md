@@ -2518,6 +2518,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Cameradar (⭐5.2k)](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 *   [canery (⭐8)](https://github.com/rluders/canery) - Minimal, stateless authorization engine with a pluggable evaluation model.
 *   [certificates (⭐38)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
+*   [certifier (⭐1)](https://github.com/0x524a/certifier) - Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.
 *   [CertMagic (⭐5.6k)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 *   [Coraza (⭐3.8k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 *   [coraza-rule-validator (⭐0)](https://github.com/stardothosting/coraza-rule-validator) - Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment.
@@ -3335,6 +3336,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [mp4ff (⭐658)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 *   [mpeg-ts-analyzer (⭐37)](https://github.com/small-teton/mpeg-ts-analyzer) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
+*   [onvif-go (⭐40)](https://github.com/0x524a/onvif-go) - ONVIF client, WS-Discovery and virtual camera server for IP cameras.
+*   [rtspeek (⭐1)](https://github.com/0x524a/rtspeek) - Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.
 *   [v4l (⭐89)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
 **[⬆ back to top](#contents)**

@@ -36,6 +36,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
+*   [certifier (⭐1)](https://github.com/0x524a/certifier) - Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.
 *   [FCaptcha (⭐220)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
 
 ### Testing Frameworks
@@ -46,6 +47,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gghstats (⭐6)](https://github.com/hrodrig/gghstats) - Self-hosted GitHub traffic dashboard that stores clones and views in SQLite beyond the 14-day API window.
 *   [openapi (⭐275)](https://github.com/speakeasy-api/openapi) - Parse, validate, and manipulate OpenAPI, Swagger, Arazzo, and OpenAPI Overlay documents.
+
+### Video
+
+*   [onvif-go (⭐40)](https://github.com/0x524a/onvif-go) - ONVIF client, WS-Discovery and virtual camera server for IP cameras.
+*   [rtspeek (⭐1)](https://github.com/0x524a/rtspeek) - Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 

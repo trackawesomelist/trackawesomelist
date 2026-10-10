@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### Python / Speech Recognition
+
+*   [tiny-audio (⭐153)](https://github.com/alexkroman/tiny-audio) - Minimal, hackable PyTorch/Hugging Face codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector, with word timestamps, speaker diarization and a free course.
+
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
 ### Python / Computer Vision
@@ -262,7 +268,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Rust / Natural Language Processing
 
-*   [shimmy (⭐5.9k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+*   [shimmy (⭐6k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 
 ### Tools / Misc
 

@@ -8,6 +8,14 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Software / Inventory Management
+
+*   [CellarBoss](https://cellarboss.org) - Wine inventory management system. ([Source Code (⭐2)](https://github.com/CellarBoss/cellarboss)) `GPL-3.0` `Docker/Nodejs`
+
+### Software / Self-hosting Solutions
+
+*   [Mother-of-All-Self-Hosting (⭐1.1k)](https://github.com/mother-of-all-self-hosting/mash-playbook) - Ansible playbook which helps you host services as Docker containers on your own server. `AGPL-3.0` `Ansible/Docker`
+
 ### Software / Software Development - API Management
 
 *   [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐24)](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`
@@ -50,7 +58,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PKVault (⭐268)](https://github.com/Chnapy/PKVault) - Centralized Pokémon storage management & Pokedex app (alternative to Pokémon Home). ([Demo](https://pkvault-demo.chnapy.dev)) `GPL-3.0` `Docker`
+*   [PKVault (⭐324)](https://github.com/Chnapy/PKVault) - Centralized Pokémon storage management & Pokedex app (alternative to Pokémon Home). ([Demo](https://pkvault-demo.chnapy.dev)) `GPL-3.0` `Docker`
 *   [RetroArr](https://retroarr.app) `⚠` - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ([Source Code (⭐13)](https://github.com/RiDDiX/RetroArr)) `MIT` `Docker/.NET`
 
 ### Software / Media Management
@@ -59,7 +67,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Project Management
 
-*   [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ([Source Code (⭐1.8k)](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`
+*   [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ([Source Code (⭐1.9k)](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
@@ -684,7 +692,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Infisical Community Edition](https://infisical.com/) - Platform for secrets, certificates, and privileged access management. ([Source Code (⭐29k)](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
+*   [Infisical Community Edition](https://infisical.com/) - Platform for secrets, certificates, and privileged access management. ([Source Code (⭐30k)](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
 
 ### Software / Money, Budgeting & Management
 
@@ -843,7 +851,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Management
 
 *   [Reaparr](https://www.reaparr.rocks/) `⚠` - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐699)](https://github.com/Reaparr/Reaparr)) `GPL-3.0` `Docker`
-*   [yt-dlp Web UI (⭐2.6k)](https://github.com/marcopiovanello/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -1700,7 +1707,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Management
 
-*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐509)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐511)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 
 ### Software / Miscellaneous
 
@@ -2194,10 +2201,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Games - Administrative Utilities & Control Panels
 
 *   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐42k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
-
-### Software / Pastebins
-
-*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐1.2k)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - API Management
 

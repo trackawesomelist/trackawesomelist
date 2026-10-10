@@ -6,6 +6,33 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [Mudroom (⭐2)](https://github.com/Kernel-Hunter/mudroom) - Runs Gemini CLI, Claude Code, Codex, Aider and opencode inside a Linux micro-VM on a copy-on-write clone of your project, with a network allowlist and a pull-request-style diff review before changes are applied.
+*   [Drevon](https://www.drevon.dev) - Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
+*   [DHI Orbit (⭐1)](https://github.com/Dv04/dhi-orbit) - Local web dashboard that lists Gemini CLI and Antigravity chats alongside Claude Code, Codex and Cursor on one board, with what needs an answer and a reply box (`gemini --resume <id> -p`). Python standard library only, MIT.
+*   [Crewly (⭐86)](https://github.com/stevehuang0115/crewly) - MIT-licensed, local platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Gemini CLI, Claude Code, and Codex, with task delegation through agent skills, shared persistent memory, and a web dashboard of live agent terminals. Requires one of these agent CLIs installed and logged in.
+
+### Commands & Extensions
+
+*   [assay (⭐102)](https://github.com/awss1i/assay) - Deterministic QA for web pages, with a Gemini CLI skill. assay opens the page in Chromium with Playwright, drives every control, and reports where the page contradicts itself, with no LLM and the same result on every run. The skill tells Gemini CLI to run assay after it changes a page and report what it found. Install with `pip install assay-ui`, then add the skill file. MIT.
+
+### Development Tools & Utilities
+
+*   [yoink (⭐5)](https://github.com/MajidRaimi/yoink) - Saves and switches Gemini CLI Google logins (oauth\_creds.json and google\_accounts.json) alongside Claude Code, Codex, Kimi Code and GitHub Copilot logins, from a CLI or a macOS menu bar app.
+*   [MacMD Viewer](https://macmdviewer.com) - Read-only Markdown viewer for macOS 14+ for the GEMINI.md and plan files Gemini CLI writes. Renders Mermaid diagrams and highlighted code, reloads when the file changes on disk, and adds Quick Look previews in Finder. Paid, $19.99 one-time.
+*   [aisw (⭐124)](https://github.com/burakdede/aisw) - Saves Gemini CLI logins and API keys as named profiles and switches the live `~/.gemini` state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: [aiswitcher.dev](https://aiswitcher.dev).
+
+### MCP Servers
+
+*   [FXMacroData](https://fxmacrodata.com) - Official macroeconomic releases, central bank decisions, release calendars, FX rates and COT positioning for 22 currencies, with release timestamps and source links. Remote Streamable HTTP server; USD releases (last 90 days, 15-minute delay), the USD calendar and the USD catalogue work with no sign-in or API key, other currencies and FX rates need a key. Add with: `gemini mcp add --transport http fxmacrodata https://mcp.fxmacrodata.com`.
+*   [Selvedge (⭐24)](https://github.com/masondelan/selvedge) - Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: `selvedge setup --agent gemini`.
+*   [Unsora (⭐2)](https://github.com/Shipped-Studio/unsora) - AI content generation and social media scheduling from Gemini CLI: generate images, video, music and voiceovers, clip long videos into short clips, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest. Official open-source MCP server (AGPL-3.0, in `apps/mcp`), hosted as remote Streamable HTTP with OAuth sign-in or an API key. Paid plans from $19/month with a 3-day free trial. Add with: `gemini mcp add --transport http unsora https://mcp.tryunsora.com/mcp`.
+*   [looot (⭐1)](https://github.com/loootai/looot-mcp) - Remote MCP server (OAuth sign-in) that searches, prices and runs 2,500+ data API endpoints from 90+ providers (emails, phones, company and people search, Google results, web pages) on one prepaid balance. Ships a Gemini CLI extension manifest.
+*   [BulkPublish (⭐3)](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) - Draft, schedule, cross-post and analyze social media posts on 15 platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more) from Gemini CLI. Hosted Streamable HTTP with OAuth sign-in, or local stdio via `npx -y @bulkpublish/mcp-server` with an API key; free plan available. MIT. Add with: `gemini mcp add --transport http bulkpublish https://mcp.bulkpublish.com/mcp`.
+
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
 
 ### Commands & Extensions
@@ -38,7 +65,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [MAQAMI Travel (⭐2)](https://github.com/negm17111995/mcp-server) - Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then prebook and book a chosen offer after the user confirms. Remote Streamable HTTP (`https://mcp.maqami.co/`), no sign-in or API key. Install: `gemini extensions install https://github.com/negm17111995/mcp-server`.
+*   [MAQAMI Travel (⭐2)](https://github.com/negm17111995/mcp-server) - Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then send the customer a secure checkout link on book.maqami.co for the offer they choose. Remote Streamable HTTP (`https://mcp.maqami.co/`), no sign-in or API key. Install: `gemini extensions install https://github.com/negm17111995/mcp-server`.
 
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 

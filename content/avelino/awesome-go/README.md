@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### Security
+
+*   [certifier (⭐1)](https://github.com/0x524a/certifier) - Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.
+
+### Video
+
+*   [onvif-go (⭐40)](https://github.com/0x524a/onvif-go) - ONVIF client, WS-Discovery and virtual camera server for IP cameras.
+*   [rtspeek (⭐1)](https://github.com/0x524a/rtspeek) - Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.
+
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
 
 ### Artificial Intelligence

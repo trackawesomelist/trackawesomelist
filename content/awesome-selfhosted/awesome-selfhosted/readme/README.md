@@ -1024,7 +1024,7 @@ Utilities for managing game servers and game libraries.
 *   [Minus Games](https://accessory.github.io/minus_games_user_guide) - Sync games and save files across multiple devices. ([Source Code (⭐47)](https://github.com/Accessory/minus_games)) `MIT` `Rust`
 *   [Ownfoil (⭐921)](https://github.com/a1ex4/ownfoil) - Nintendo Switch library manager, with automated management tasks (file identification and organization, missing updates/DLC), serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication. `AGPL-3.0` `Docker/Python`
 *   [Pelican Panel](https://pelican.dev/) - Web application for easy management of game servers, offering a user-friendly interface for deploying, configuring, and managing servers, server monitoring tools, and extensive customization options (fork of Pterodactyl). ([Source Code (⭐2.4k)](https://github.com/pelican/panel)) `AGPL-3.0` `PHP/Docker`
-*   [PKVault (⭐268)](https://github.com/Chnapy/PKVault) - Centralized Pokémon storage management & Pokedex app (alternative to Pokémon Home). ([Demo](https://pkvault-demo.chnapy.dev)) `GPL-3.0` `Docker`
+*   [PKVault (⭐324)](https://github.com/Chnapy/PKVault) - Centralized Pokémon storage management & Pokedex app (alternative to Pokémon Home). ([Demo](https://pkvault-demo.chnapy.dev)) `GPL-3.0` `Docker`
 *   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐9.3k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
 *   [PufferPanel](https://www.pufferpanel.com/) - Game server management panel designed for both small networks and game server providers. ([Source Code (⭐1.8k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 *   [RetroArr](https://retroarr.app) `⚠` - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ([Source Code (⭐13)](https://github.com/RiDDiX/RetroArr)) `MIT` `Docker/.NET`
@@ -1159,6 +1159,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 *See also: [awesome-sysadmin/IT Asset Management (⭐35k)](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)*
 
 *   [Cannery](https://cannery.app) - Firearm and ammunition tracker app. ([Source Code](https://gitlab.com/shibaobun/cannery)) `AGPL-3.0` `Docker`
+*   [CellarBoss](https://cellarboss.org) - Wine inventory management system. ([Source Code (⭐2)](https://github.com/CellarBoss/cellarboss)) `GPL-3.0` `Docker/Nodejs`
 *   [DVinyl (⭐235)](https://github.com/Kyonew/DVinyl) `⚠` - Modern collection manager for physical media (vinyls, CDs, cassettes, books, movies, and video games). `MIT` `Nodejs/Docker`
 *   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the home user. ([Demo](https://demo.homebox.software/), [Source Code (⭐7.4k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
 *   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
@@ -1271,7 +1272,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [nefarious](https://lardbit.github.io/nefarious/) - Automate downloading Movies and TV Shows. ([Source Code (⭐1.3k)](https://github.com/lardbit/nefarious)) `GPL-3.0` `Python`
 *   [Ombi](https://ombi.io/) - Content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐4.1k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
 *   [Pinchflat (⭐5.4k)](https://github.com/kieraneglin/pinchflat) `⚠` - Download YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
-*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐509)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐511)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 *   [Radarr](https://radarr.video/) - Automatically download movies via Usenet and BitTorrent (fork of Sonarr). ([Source Code (⭐14k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
 *   [Ratelog](https://ratelog.org) - Movie tracker and rating app (alternative to Letterboxd). ([Source Code (⭐18)](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`
 *   [Reaparr](https://www.reaparr.rocks/) `⚠` - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐699)](https://github.com/Reaparr/Reaparr)) `GPL-3.0` `Docker`
@@ -1284,7 +1285,6 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [Youtarr (⭐1.7k)](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
 *   [youtube-dl-nas](https://hyeonsangjeon.github.io/youtube-dl-nas/) `⚠` - Authenticated yt-dlp download queue for video, audio and subtitles, with history, mobile sharing and NAS file management (fork of youtube-dl-server). ([Source Code (⭐200)](https://github.com/hyeonsangjeon/youtube-dl-nas)) `MIT` `Python/Docker`
 *   [YoutubeDL-Server (⭐318)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
-*   [yt-dlp Web UI (⭐2.6k)](https://github.com/marcopiovanello/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 ### Media Streaming
 
@@ -1422,7 +1422,7 @@ Software that does not fit in another section.
 *   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. ([Source Code (⭐14k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
 *   [HortusFox](https://hortusfox.github.io) - Collaborative plant management and tracking system for plant enthusiasts. ([Source Code (⭐1.7k)](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
 *   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐342)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
-*   [Infisical Community Edition](https://infisical.com/) - Platform for secrets, certificates, and privileged access management. ([Source Code (⭐29k)](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
+*   [Infisical Community Edition](https://infisical.com/) - Platform for secrets, certificates, and privileged access management. ([Source Code (⭐30k)](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
 *   [iSponsorBlockTV (⭐6.2k)](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - Block and skip sponsors, while also muting and skipping ads on YouTube. `GPL-3.0` `Docker/Python`
 *   [IT-Tools by sharevb (⭐1.7k)](https://github.com/sharevb/it-tools) - Collection of handy online tools for developers (fork of [it-tools (⭐41k)](https://github.com/CorentinTh/it-tools)). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
 *   [Jelu](https://bayang.github.io/jelu-web) - Read and to-read list book tracker. ([Source Code (⭐744)](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
@@ -1608,7 +1608,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 *   [ByteStash (⭐2.5k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐2.5k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 *   [Chiyogami (⭐80)](https://github.com/rhee876527/chiyogami) - Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ([Demo](https://chiyogami.myaddr.dev/)) `BSD-3-Clause` `Docker`
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐641)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Python`
-*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐1.2k)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 *   [lesma](https://lesma.eu) - Simple paste app friendly with browser and command line. ([Demo](https://lesma.eu), [Source Code](https://gitlab.com/ogarcia/lesma)) `GPL-3.0` `Rust/Docker`
 *   [Local Content Share (⭐494)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
 *   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐16)](https://github.com/not-three/main)) `AGPL-3.0` `Nodejs/Docker`
@@ -1815,6 +1814,7 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [HomelabOS](https://homelabos.com) - Offline privacy-centric data-center. Deploy over 100 services with a few commands. ([Source Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
 *   [HomeServerHQ](https://www.homeserverhq.com/) - All-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. ([Source Code (⭐71)](https://github.com/homeserverhq/hshq)) `GPL-3.0` `Shell`
 *   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐54)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
+*   [Mother-of-All-Self-Hosting (⭐1.1k)](https://github.com/mother-of-all-self-hosting/mash-playbook) - Ansible playbook which helps you host services as Docker containers on your own server. `AGPL-3.0` `Ansible/Docker`
 *   [NextCloudPi (⭐2.9k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 *   [Nirvati](https://nirvati.org) - Easily 1-click spin up popular self-hosted apps from a convenient web interface. ([Source Code](https://gitlab.com/nirvati-ug/nirvati/backend)) `AGPL-3.0` `Rust/K8S`
 *   [OpenMediaVault](https://www.openmediavault.org/) - Network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code (⭐7k)](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
@@ -1964,7 +1964,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 *   [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([Source Code (⭐4.5k)](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby/Docker`
 *   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code (⭐15k)](https://github.com/theonedev/onedev)) `MIT` `Java/Docker/K8S`
 *   [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code (⭐16k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
-*   [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ([Source Code (⭐1.8k)](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`
+*   [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ([Source Code (⭐1.9k)](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`
 *   [Pagure](https://pagure.io/pagure) - Lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Docker/Python/deb`
 *   [Phorge](https://we.phorge.it/) - Community-driven platform for collaborating, managing, organizing and reviewing software development projects. ([Source Code](https://we.phorge.it/source/phorge/)) `Apache-2.0` `PHP`
 *   [Plane](https://plane.so) - Track issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐60k)](https://github.com/makeplane/plane)) `AGPL-3.0` `Docker`

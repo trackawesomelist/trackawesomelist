@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 396K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 399K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md) / Overview ]
 
@@ -118,7 +118,7 @@
 #### ガベージコレクション
 
 *   [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
-*   [徹底解剖「G1GC」実装編 (⭐339)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+*   [徹底解剖「G1GC」実装編 (⭐338)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 #### グラフィックスプログラミング
 
@@ -247,7 +247,7 @@
 *   [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - trl:Mike G, 千旦裕司
 *   [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - @nattou\_curry
 *   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, trl:@yakstcom
-*   [The Art of Command Line (⭐162k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐163k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 *   [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 
 ### C
@@ -411,7 +411,7 @@
 
 #### Vue.js
 
-*   [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
+*   [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
 
 ### Julia
 
@@ -471,7 +471,7 @@
 
 *   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 *   [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @\_marycore
-*   [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+*   [Objective-C プログラミング言語](https://web.archive.org/web/20150918225253/https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF) *( :card\_file\_box: archived)*
 *   [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
 ### OCaml
@@ -566,7 +566,7 @@
 *   [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 *   [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 *   [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
-*   [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+*   [お気楽 Ruby プログラミング入門](https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠 *( :card\_file\_box: archived)*
 *   [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 *   [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, `trl:` 青木靖
 *   [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)

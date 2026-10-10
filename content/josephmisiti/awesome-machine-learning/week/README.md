@@ -12,6 +12,10 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [YOLO Annotator (⭐0)](https://github.com/ILYAGRISH/yolo-annotator) - Offline desktop tool (PyQt6) for labeling images: boxes, polygons, oriented boxes, keypoints, brush masks and semantic/panoptic regions. Exports YOLO, COCO (incl. RLE and Panoptic), Pascal VOC, LabelMe and PNG masks.
 
+### Python / Speech Recognition
+
+*   [tiny-audio (⭐153)](https://github.com/alexkroman/tiny-audio) - Minimal, hackable PyTorch/Hugging Face codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector, with word timestamps, speaker diarization and a free course.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
@@ -249,7 +253,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Rust / Natural Language Processing
 
-*   [shimmy (⭐5.9k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+*   [shimmy (⭐6k)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 
 ### Tools / Misc
 

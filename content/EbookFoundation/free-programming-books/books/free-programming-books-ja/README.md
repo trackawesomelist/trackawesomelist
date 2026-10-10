@@ -2,9 +2,25 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 396K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 399K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/readme/README.md) ]
+
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### JavaScript / Vue.js
+
+*   [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
+
+## [Oct 03, 2026](/content/2026/10/03/README.md)
+
+### Objective-C / Vue.js
+
+*   [Objective-C プログラミング言語](https://web.archive.org/web/20150918225253/https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF) *( :card\_file\_box: archived)*
+
+### Ruby / Flask
+
+*   [お気楽 Ruby プログラミング入門](https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠 *( :card\_file\_box: archived)*
 
 ## [Sep 13, 2026](/content/2026/09/13/README.md)
 
@@ -17,12 +33,6 @@
 ### 0 - 言語非依存 / ゲーム開発
 
 *   [ゲームプランナーのための AI 実務ワークフロー (⭐0)](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
-
-## [May 10, 2026](/content/2026/05/10/README.md)
-
-### JavaScript / Vue.js
-
-*   [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
 
 ## [Aug 18, 2025](/content/2025/08/18/README.md)
 
@@ -585,7 +595,7 @@
 ### 0 - 言語非依存 / ガベージコレクション
 
 *   [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
-*   [徹底解剖「G1GC」実装編 (⭐339)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+*   [徹底解剖「G1GC」実装編 (⭐338)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 ## [Oct 28, 2020](/content/2020/10/28/README.md)
 
@@ -732,7 +742,6 @@
 ### Ruby / Flask
 
 *   [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, `trl:` 八田 昌三, `trl:` 安川 要平
-*   [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
 *   [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 
 ### Scheme / Flask
@@ -784,10 +793,6 @@
 
 *   [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
 
-### Objective-C / Vue.js
-
-*   [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
-
 ## [Oct 02, 2016](/content/2016/10/02/README.md)
 
 ### Java / Spock Framework
@@ -810,7 +815,7 @@
 
 ### Bash / 理論計算機科学
 
-*   [The Art of Command Line (⭐162k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐163k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 
 ### D / 理論計算機科学
 
