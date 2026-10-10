@@ -1,25 +1,68 @@
 # Awesome List Updates on Oct 12 - Oct 18, 2026
 
-62 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+
+### :books: Literature / Scientific Research
+
+*   :mortar\_board: [Building a smart and automated tool for packed malware detection using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis:25193) (June 2020)
+*   :newspaper: [A packer identification method based on section-entropy plot](https://link.springer.com/article/10.1186/s42400-025-00416-y) (February 2026)  :star:
+*   :notebook: [Packing induced bias in deep learning malware classifiers: A systematic experimental study](https://ieeexplore.ieee.org/abstract/document/11395794) (February 2026)
+
+### :package: Packers / After 2010
+
+*   [HimitsuShell (⭐68)](https://github.com/HimitsuShell/HimitsuShell) - A shell script protector that converts shell scripts into binaries with an embedded interpreter, obfuscation, and anti-debug protections (shc alternative).
+
+### :wrench: Tools / Before 2000
+
+*   [XVolkolak (⭐4)](https://github.com/horsicq/XVolkolak) - Qt/CMake emulator-unpacker project with a GUI and a console application.
+
+## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+
+### Training and awareness (art. 39)
+
+*   [RansomLeak GDPR Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive exercises on lawful bases, DSAR handling, breach response, DPIA, records of processing, and cross-border transfers.
+
+### Tools
+
+*   [consentprobe (⭐0)](https://github.com/Elijas121/consentprobe) - CLI and GitHub Action that tests whether a website stops tracking after the visitor rejects cookies.
+*   [disclosedby](https://disclosedby.com) - Dated record of the subprocessor lists software companies publish under art. 28, with what changed and when; open JSON, Markdown and an MCP server.
+
+### Related
+
+*   [PIPEDA vs GDPR: What Canadian Companies Must Know](https://traztech.ca/blog/pipeda-vs-gdpr) - Comparison of Canadian and EU privacy regulations for companies operating in both jurisdictions.
+
+## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Games
+
+*   [VCraft (⭐6)](https://github.com/gabytz777/vcraft) - A voxel sandbox game written entirely in V with procedural terrain, biomes, water, mining/building, and a hotbar HUD.
+
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### MVC Frameworks and Libraries / Runner
+
+*   [pion (⭐131)](https://github.com/pionjs/pion) - React Hooks API for standard web components with lit-html.
+
+## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
 ### JavaScript / Vue.js
 
 *   [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
 
-## [2. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [6. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / General Purpose
 
 *   [Berrry-Computer/vibe-compiler (⭐70)](https://github.com/Berrry-Computer/vibe-compiler) — RAG for integrating GenAI in apps ☆`70`
 *   [Berrry-Computer/poorcoder (⭐60)](https://github.com/Berrry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`60`
 
-## [3. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [7. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### 🌟 Purpose
 
@@ -59,7 +102,7 @@
 *   Run `python3 scripts/add_resource.py paper` or `python3 scripts/add_resource.py dataset` to add your entry (or edit the JSON files in `public/data/` by hand).
 *   Open a Pull Request.
 
-## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [8. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Community resources
 
@@ -69,13 +112,7 @@
 
 *   [Bestax - Storybook](https://bestax.io/storybook/)
 
-## [5. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
-
-### Similar libraries / Other Tools
-
-*   [pion (⭐82)](https://github.com/pionjs/pion) - React Hooks API for web components using lit-html.
-
-## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -85,19 +122,19 @@
 
 *   [Tour Group Headset and Loudspeaker Rules](https://huggingface.co/datasets/first-point/tour-group-headset-rules) - 198 written rules from 36 countries on how guided tour groups may be heard at museums, palaces, archaeological sites and historic city centres (headset requirements, loudspeaker bans), each checked against its official source. CSV and JSONL, CC-BY-4.0.
 
-## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [10. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Templates
 
 *   [Full-Stack AI Agent Template (⭐1.9k)](https://github.com/vstorm-co/full-stack-ai-agent-template): FastAPI + Next.js project generator where the agent backend can be LangChain, LangGraph or DeepAgents (or Pydantic AI), with WebSocket streaming, RAG, auth and Docker setup ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=social)
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### iOS / React
 
 *   [Baton (⭐14)](https://github.com/shergin/baton) - Relay-style GraphQL client for SwiftUI and Jetpack Compose, with a fragment beside each view and a normalized store the UI observes.
 
-## [9. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [12. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Boilerplates
 
@@ -107,7 +144,7 @@
 
 *   [@zikojs/preact-console (⭐22)](https://github.com/zikojs/console/tree/main/packages/integrations/preact) - A console-like UI component for Preact that renders JavaScript console output directly inside your application.
 
-## [10. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [13. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / UI & End-to-End Testing
 
@@ -129,13 +166,13 @@
 
 *   [Everframe](https://everframe.dev) - In-app bug reporter for mobile, web and TV apps that attaches an annotated screenshot, console, network, device info and an optional replay of the moments before the bug.
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Scheduling
 
 *   [cronaute (⭐2)](https://github.com/jbox-web/cronaute) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
 
-## [12. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [15. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -150,13 +187,13 @@
 *   [WordPress Packages](https://wp-packages.org/) - Composer repository for WordPress.org plugins and themes.
 *   [WP Sec Adv (⭐27)](https://github.com/typisttech/wpsecadv) - Composer repository for WordPress security advisories.
 
-## [13. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [16. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Business
 
 *   [Things Many People Find Too Obvious To Have Told You Already](https://threadreaderapp.com/thread/936615043126370306.html) - Reads like a list of falsehoods about the tech business: “There is no hidden reserve of smart people who know what they're doing, anywhere. Not in government, not in science, not in tech, (…) nowhere.”
 
-## [14. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [17. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -166,13 +203,13 @@
 
 *   [AimDB (⭐101)](https://github.com/aimdb-dev/aimdb) - Typed, versioned data contracts over MQTT from `no_std` microcontrollers (Embassy) to the cloud (Tokio), with schema migrations at the hub.
 
-## [15. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [18. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Incubating
 
 *   [masume (⭐103)](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 
-## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [19. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -186,19 +223,19 @@
 
 *   [ember-template-lint (⭐265)](https://github.com/ember-template-lint/ember-template-lint) — Linter for Ember or Handlebars templates.
 
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
 *   [Prisma Postgres](https://www.prisma.io/postgres) - Managed Postgres with a free plan (1.01 GB, 200k operations/month, 50 databases) and paid plans from $10/month.
 
-## [18. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [solid\_objects (⭐40)](https://github.com/cardmagic/solid-objects-ruby) - A gem for SQL-backed virtual actors: durable state, ordered calls, and reminders in the app's SQLite, PostgreSQL, or MySQL database (pre-1.0). [:red\_circle:](https://rubygems.org/gems/solid_objects)
 
-## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Authentication and Authorization
 
@@ -228,13 +265,13 @@
 
 *   [Crustum/Saloon plugin (⭐0)](https://github.com/Crustum/saloon) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
 
-## [20. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [23. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Boardgame
 
 *   [Parlour (⭐4)](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table for Blitz and Wild.
 
-## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -244,7 +281,7 @@
 
 *   [tiny-audio (⭐153)](https://github.com/alexkroman/tiny-audio) - Minimal, hackable PyTorch/Hugging Face codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector, with word timestamps, speaker diarization and a free course.
 
-## [22. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [25. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
@@ -265,7 +302,7 @@
 
 *   [TerraVision (⭐1.6k)](https://github.com/patrickchugh/terravision) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
-## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
@@ -275,19 +312,19 @@
 
 *   [oreboot (⭐1.8k)](https://github.com/oreboot/oreboot): platform initialization firmware (first code to run) to bring up application processors, a fork of coreboot with no C, all written in Rust, leveraging Rust Embedded traits and crates
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Style Tools
 
 *   [cpp-linter-hooks (⭐50)](https://github.com/cpp-linter/cpp-linter-hooks) - Pre-commit hooks for C/C++ powered by clang-format and clang-tidy. \[MIT]
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### **Sponsors**
 
 *   [iPulse AI](https://ipulseai.com) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
 
-## [26. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [29. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Documentation, Knowledge & Learning
 
@@ -304,56 +341,95 @@
 ### Research & Scientific Inquiry / Data Visualization
 
 *   [Claude Scientific Skills (⭐48k)](https://github.com/K-Dense-AI/scientific-agent-skills) by [K-Dense](https://github.com/K-Dense-AI) - "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.\ <img src="https://img.shields.io/github/created-at/K-Dense-AI/scientific-agent-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/K-Dense-AI/scientific-agent-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/K-Dense-AI/scientific-agent-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [geo-sleuth (⭐1.7k)](https://github.com/Oldcircle/geo-sleuth) by [Oldcircle](https://github.com/Oldcircle) - An agent skill that geolocates a photo with no readable text. Single-purpose Python scripts search and rank candidates using OpenStreetMap geometry, elevation skylines, satellite imagery and street view. The answer comes with a camera position, heading, error radius and an evidence image. NOTE: Scripts involve contact with Baidu and Yandex.\ <img src="https://img.shields.io/github/created-at/Oldcircle/geo-sleuth?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Oldcircle/geo-sleuth?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Oldcircle/geo-sleuth?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Oldcircle/geo-sleuth?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Providers, Runtime & Integration Infrastructure / Data Visualization
 
+*   [Agents Can Communicate (ACC) (⭐129)](https://github.com/automatis-tools/agents-can-communicate) by [Mykola Maksymenko](https://github.com/maksymenkoml) - Local, multi-provider agent communication tool. Adds hooks and a skill to exchange questions and reviews, and saves decisions, verification results and handoffs for later sessions. Each session keeps its own client, model, conversation and permissions.\ <img src="https://img.shields.io/github/created-at/automatis-tools/agents-can-communicate?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/automatis-tools/agents-can-communicate?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/automatis-tools/agents-can-communicate?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/automatis-tools/agents-can-communicate?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Claude Code Local (⭐3.3k)](https://github.com/nicedreamzapp/claude-code-local) by [Matt Macosko](https://github.com/nicedreamzapp) - Runs Claude Code fully on-device on Apple Silicon: a native MLX server speaks the Anthropic Messages API, so the unmodified claude CLI works against local Qwen, Gemma and Llama models with no cloud calls. Includes RAM-based model selection, a tool-call parser for local models' output formats, and a verified-offline mode.\ <img src="https://img.shields.io/github/created-at/nicedreamzapp/claude-code-local?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/nicedreamzapp/claude-code-local?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/nicedreamzapp/claude-code-local?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Repowire (⭐265)](https://github.com/prassanna-ravishankar/repowire) by [Prassanna Ravishankar](https://github.com/prassanna-ravishankar) - A live mesh network that connects Claude Code and other providers so they can talk to each other in real time. Built for emergent coordination. Agents discover each other and share context across project boundaries. Uses tmux sessions as the coordination layer with logical "circles" for peer isolation. Includes a web dashboard and Telegram bot.\ <img src="https://img.shields.io/github/created-at/prassanna-ravishankar/repowire?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/prassanna-ravishankar/repowire?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/prassanna-ravishankar/repowire?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/prassanna-ravishankar/repowire?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [SPARDA (⭐8)](https://github.com/zakariagharzouli/sparda) by [Zakaria Gharzouli (Residual Labs)](https://github.com/zakariagharzouli) - Converts a running Express or FastAPI app into an MCP server by AST-parsing its routes and injecting a marked, byte-for-byte-removable `/mcp` router, so the agent can operate your live application (real auth, real data) rather than just read files. Exceptionally safety-minded: writes are disabled by default behind two-phase confirmation, docstrings are sanitized against prompt injection, a circuit-breaker quarantines failing routes, nothing leaves the machine, and persistence stores structure never payloads.\ <img src="https://img.shields.io/github/created-at/zakariagharzouli/sparda?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/zakariagharzouli/sparda?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/zakariagharzouli/sparda?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/zakariagharzouli/sparda?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Remote Control, Notifications & Voice I/O / Data Visualization
 
-*   [anotifier (⭐27)](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) by [Amin Dhouib (Devino Solutions)](https://github.com/DevinoSolutions) - A zero-dependency, cross-platform notifier that fires a desktop toast and a free phone push (via ntfy) the moment Claude Code (or Codex/Cursor/Gemini) finishes a task or needs input, wired up by a one-command setup. The standout among notifiers is its testing rigor — CI drives the *real* agent CLIs end to end and asserts real ntfy round-trips and real OS toast delivery, no mocks.\ <img src="https://img.shields.io/github/created-at/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [anotifier (⭐30)](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) by [Amin Dhouib (Devino Solutions)](https://github.com/DevinoSolutions) - A zero-dependency, cross-platform notifier that fires a desktop toast and a free phone push (via ntfy) the moment Claude Code (or Codex/Cursor/Gemini) finishes a task or needs input, wired up by a one-command setup. The standout among notifiers is its testing rigor — CI drives the *real* agent CLIs end to end and asserts real ntfy round-trips and real OS toast delivery, no mocks.\ <img src="https://img.shields.io/github/created-at/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Claude CLI ↔ Telegram (⭐36)](https://github.com/Imolatte/claude-cli-telegram) by [Imolatte](https://github.com/Imolatte) - A feature-rich Telegram bot that turns your machine into a remote Claude Code terminal driven from your phone: streaming tool progress, voice input, a git panel, Mac remote control, and 30+ commands. Its standout is the approval flow — dangerous-op Approve/Deny taps are injected straight into the real terminal prompt via `tmux send-keys`, so you authorize from your phone without killing the session or losing context.\ <img src="https://img.shields.io/github/created-at/Imolatte/claude-cli-telegram?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Imolatte/claude-cli-telegram?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Imolatte/claude-cli-telegram?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Imolatte/claude-cli-telegram?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Alternative Clients / Data Visualization
 
 *   [Agent Workbench (⭐2)](https://github.com/cvelasquez/agent-workbench) by [cvelasquez](https://github.com/cvelasquez) - Local web UI that runs the unmodified Claude Code CLI in a pseudo-terminal and adds tabs, a browsable history of past sessions, conversations rendered as cards, a context meter, and the agent's multiple-choice questions answered from the UI.\ <img src="https://img.shields.io/github/created-at/cvelasquez/agent-workbench?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/cvelasquez/agent-workbench?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/cvelasquez/agent-workbench?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/cvelasquez/agent-workbench?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
+### Status Lines / Data Visualization
+
+*   [claude-carbon (⭐211)](https://github.com/gwittebolle/claude-carbon) by [Gaëtan Wittebolle](https://github.com/gwittebolle) - Tracks the carbon footprint of Claude Code sessions, feautring a live CO2 estimate in the status line, computed locally from token usage, next to the session cost.\ <img src="https://img.shields.io/github/created-at/gwittebolle/claude-carbon?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/gwittebolle/claude-carbon?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/gwittebolle/claude-carbon?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/gwittebolle/claude-carbon?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ### Design & UI/UX / Data Visualization
 
+*   [atelier (⭐1)](https://github.com/EthanY33/atelier) by [Ethan Yucetepe](https://github.com/EthanY33) - Claude Code plugin with eight design-automation skills driven by one schema-validated brand.json: design tokens for CSS, Tailwind, TypeScript and Figma, social cards, favicon and app-icon sets, responsive AVIF and WebP images, HTML-to-video recording, a WCAG 2.1 AA audit, and a runtime UX audit covering bfcache, INP, dialogs and mobile viewports.\ <img src="https://img.shields.io/github/created-at/EthanY33/atelier?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/EthanY33/atelier?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/EthanY33/atelier?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/EthanY33/atelier?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [bdg (Browser Debugger CLI) (⭐152)](https://github.com/szymdzum/browser-debugger-cli) by [szymdzum](https://github.com/szymdzum) - A CLI and Claude Code skill for UI debugging in Chrome using the DevTools Protocol, including DOM inspection, browser events, rendered styles, and detailed layout information.\ <img src="https://img.shields.io/github/created-at/szymdzum/browser-debugger-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/szymdzum/browser-debugger-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/szymdzum/browser-debugger-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/szymdzum/browser-debugger-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Logo Designer Skill (⭐143)](https://github.com/neonwatty/logo-designer-skill) by [neonwatty](https://github.com/neonwatty) - Create and evolve SVG logos with Claude Code.  Turns a project brief into distinct concepts you can compare side by side, then guides refinement, checks favicon legibility, and exports production-ready PNGs.\ <img src="https://img.shields.io/github/created-at/neonwatty/logo-designer-skill?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/neonwatty/logo-designer-skill?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/neonwatty/logo-designer-skill?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/neonwatty/logo-designer-skill?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Pinpoint (⭐3)](https://github.com/gowtham012/pinpoint) by [gowtham012](https://github.com/gowtham012) - Local MCP server, Claude Code hooks and a Chrome extension for marking up a running app: clicking an element (or one in the iOS Simulator) and typing a change delivers the comment to Claude Code with the selector, DOM path, computed styles, component chain, source-file hint and a cropped screenshot.\ <img src="https://img.shields.io/github/created-at/gowtham012/pinpoint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/gowtham012/pinpoint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/gowtham012/pinpoint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/gowtham012/pinpoint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Writing & Prose Quality / Data Visualization
 
 *   [oh-my-patent (⭐103)](https://github.com/illusionaireal/oh-my-patent) by [illusionaireal](https://github.com/illusionaireal) - A plugin for turning technical ideas into patent disclosures.\ <img src="https://img.shields.io/github/created-at/illusionaireal/oh-my-patent?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/illusionaireal/oh-my-patent?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/illusionaireal/oh-my-patent?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/illusionaireal/oh-my-patent?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Scientific Writing Skills (⭐3)](https://github.com/dvdsosa/scientific-writing-skills) by [David Sosa-Trejo](https://github.com/dvdsosa) - Six Agent Skills for scientific writing based on Stanford's Writing in the Sciences course: sentence-level prose editing, IMRaD manuscript structure, the writing process, peer review and publication, grants and recommendation letters, and lay summaries and press. Ships as the sciwrite Claude Code plugin with four stdlib-only Python audit scripts.\ <img src="https://img.shields.io/github/created-at/dvdsosa/scientific-writing-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/dvdsosa/scientific-writing-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/dvdsosa/scientific-writing-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/dvdsosa/scientific-writing-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Story Skills (⭐287)](https://github.com/danjdewhurst/story-skills) by [Daniel Dewhurst](https://github.com/danjdewhurst) - Skills for planning and drafting fiction as markdown with YAML frontmatter: story bible, characters, worldbuilding, arcs, scenes, and chapters. Includes a dependency-free CLI whose continuity checker flags characters appearing after their death, payoffs placed before their setup, and stale story state.\ <img src="https://img.shields.io/github/created-at/danjdewhurst/story-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/danjdewhurst/story-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/danjdewhurst/story-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/danjdewhurst/story-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Infrastructure & DevOps / Data Visualization
 
+*   [mirrord (⭐29)](https://github.com/metalbear-co/skills) by [MetalBear](https://github.com/metalbear-co) - Agent skills and a Claude Code plugin marketplace for mirrord, which runs a local process inside a live Kubernetes cluster's network, environment and traffic. Lets Claude verify changes against real services, databases and queues instead of mocks, with skills for config, CI, database branching, Kafka queue splitting and preview environments.\ <img src="https://img.shields.io/github/created-at/metalbear-co/skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/metalbear-co/skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/metalbear-co/skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/metalbear-co/skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [pwa2play (⭐1)](https://github.com/degordonstech/pwa2play) by [degordonstech](https://github.com/degordonstech) - Packages a PWA into a signed Play Store Android bundle with Bubblewrap and checks target API level, signing key reuse, assetlinks fingerprints and version codes before upload.\ <img src="https://img.shields.io/github/created-at/degordonstech/pwa2play?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/degordonstech/pwa2play?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/degordonstech/pwa2play?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/degordonstech/pwa2play?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Security / Data Visualization
+
+*   [Gryph (⭐173)](https://github.com/safedep/gryph) by [SafeDep](https://github.com/safedep) - Gryph is a security layer for AI coding agents. It hooks into Claude Code and enforces YAML policy rules that block, warn, or guide actions in real time, then logs every event to a local SQLite database for review and audit.\ <img src="https://img.shields.io/github/created-at/safedep/gryph?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/safedep/gryph?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/safedep/gryph?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/safedep/gryph?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Agent Orchestration / Data Visualization
 
+*   [Agent 007 (⭐4)](https://github.com/bill10/agent-007) by [bill10](https://github.com/bill10) - A self-hosted office with a pleasing pixel-art UI where one manager agent, Billion, takes a mission, posts jobs to a board, and reviews and merges pull requests that Claude Code and Codex workers open from their own git worktrees. Accessible from desktop or mobile.\ <img src="https://img.shields.io/github/created-at/bill10/agent-007?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/bill10/agent-007?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/bill10/agent-007?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/bill10/agent-007?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [Consort (⭐32)](https://github.com/databricks-solutions/consort) by [Kevin Hartman](https://github.com/kevin-hartman) - Spec-first, test-driven agent framework: runs the build loop against live Lakebase Postgres branches under a deterministic orchestrator, with human-approval gates.\ <img src="https://img.shields.io/github/created-at/databricks-solutions/consort?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/databricks-solutions/consort?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/databricks-solutions/consort?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/databricks-solutions/consort?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [OpenRig (⭐5.9k)](https://github.com/mvschwarz/openrig) by [Mike Schwarz](https://github.com/mvschwarz) - Combines Claude Code, Codex, and Pi terminal sessions into persistent long-running teams. Agents message each other directly over tmux and queue work to each other, instead of the user relaying messages. Teams and agents are saved as YAML files, and a running team can be snapshotted and restored later.\ <img src="https://img.shields.io/github/created-at/mvschwarz/openrig?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/mvschwarz/openrig?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/mvschwarz/openrig?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/mvschwarz/openrig?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Agent Orchestration / Ralph Wiggum
 
 *   [ralph-harness (⭐3)](https://github.com/vkuprin/ralph-harness) by [Vitaly Kuprin](https://github.com/vkuprin) - A CLI that runs Claude Code in a loop, with a fresh `claude -p` process for each iteration in a harness-owned git worktree.\ <img src="https://img.shields.io/github/created-at/vkuprin/ralph-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/vkuprin/ralph-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/vkuprin/ralph-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/vkuprin/ralph-harness?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-### Skills / Dynamic Workflows
+### Agent Orchestration / SDLC
+
+*   [Charrette (⭐7)](https://github.com/Ovich/charrette) by [Stefan Teofanovic](https://github.com/Ovich) - A Claude Code plugin with agent skills for designing software before code is written: brainstorm boards, plans cut into slices and run by subagents, working HTML mockups, development workbenches and layered pull request reviews. Every document renders live in a bundled local viewer with Mermaid diagrams, outside the repository.\ <img src="https://img.shields.io/github/created-at/Ovich/charrette?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Ovich/charrette?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Ovich/charrette?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Ovich/charrette?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [napkin-to-blueprint (⭐6)](https://github.com/tsmztech/napkin-to-blueprint) by [Tapas Mukherjee](https://github.com/tsmztech) - A five-stage pipeline of Claude Code slash commands and specialized subagents that turns a raw product idea into a build-ready blueprint: an interview-driven brief, researched feature definitions, per-feature specs with acceptance criteria, and an architecture with a database schema.\ <img src="https://img.shields.io/github/created-at/tsmztech/napkin-to-blueprint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/tsmztech/napkin-to-blueprint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/tsmztech/napkin-to-blueprint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/tsmztech/napkin-to-blueprint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [OctoShell (⭐4)](https://github.com/savvasioakeim/OctoShell) by [savvasioakeim](https://github.com/savvasioakeim) - Terminal workspace for Windows and macOS, built on command blocks, that runs Claude Code in git worktrees, one per task, each with its own shell and dev server. Features include Strategy Mode (several agents plan a change before writing code), a Reviewer agent that reads each change for regressions, and QA Mode (checklist over the running app).\ <img src="https://img.shields.io/github/created-at/savvasioakeim/OctoShell?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/savvasioakeim/OctoShell?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/savvasioakeim/OctoShell?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/savvasioakeim/OctoShell?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Skills / SDLC
 
 *   [Cooklang skills (⭐9)](https://github.com/cooklang/cooklang-skills) by [dubadub](https://github.com/dubadub) - Skills and an MCP server that let AI agents work with [Cooklang](https://cooklang.org/) recipes: plain-text .cook recipes and .menu meal plans in a folder you own.\ <img src="https://img.shields.io/github/created-at/cooklang/cooklang-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/cooklang/cooklang-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/cooklang/cooklang-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/cooklang/cooklang-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [localpr (⭐4)](https://github.com/gilles-g/localpr) by [gilles-g](https://github.com/gilles-g) - Reviews Claude's uncommitted changes in a local GitHub-style pull request page: comment on any line, send comments in batches while Claude keeps working, ask Claude questions answered inline in the thread, and get each comment back marked fixed or refused.\ <img src="https://img.shields.io/github/created-at/gilles-g/localpr?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/gilles-g/localpr?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/gilles-g/localpr?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/gilles-g/localpr?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
+### Observability & Monitoring / SDLC
+
+*   [bough (⭐118)](https://github.com/nickelsec/bough) by [nickelsec](https://github.com/nickelsec) - Reads Claude Code JSONL session transcripts and draws a project's history as a creatively-styled diagram: a day, the tasks inside it, and every prompt, with the ones that ended in a commit marked. Segments work from pauses in the record rather than anything the user labelled, and prompts can be searched by the words they contain.\ <img src="https://img.shields.io/github/created-at/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Observability & Monitoring / Session Monitors
+
+*   [cc-semaphore (⭐1)](https://github.com/patakuti/cc-semaphore) by [patakuti](https://github.com/patakuti/) - A lightweight session monitor for parallel Claude Code sessions. Aggregates running/waiting/idle status across sessions into the OS status bar or system tray, with the same experience on native Linux (GNOME Shell extension) and Windows (system tray via WSL). Also includes a scriptable trigger system for state-transition commands.\ <img src="https://img.shields.io/github/created-at/patakuti/cc-semaphore?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/patakuti/cc-semaphore?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/patakuti/cc-semaphore?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/patakuti/cc-semaphore?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [wattop (⭐1)](https://github.com/jasonm4130/wattop) by [Jasonm4130](https://github.com/jasonm4130) - Terminal monitor for Apple Silicon Macs that shows live Claude Code and Codex sessions, including subagent and workflow trees, with output tokens/s, context fill and estimated cost beside CPU/GPU power, temperatures and fans. Reads local transcripts.\ <img src="https://img.shields.io/github/created-at/jasonm4130/wattop?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/jasonm4130/wattop?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/jasonm4130/wattop?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/jasonm4130/wattop?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Observability & Monitoring / Usage & Cost
+
+*   [Codeburn (⭐11k)](https://github.com/getagentseal/codeburn) by [iamtoruk](https://github.com/iamtoruk) - Breakdown of local spend down by project, model, git branch and task. Tracks plan quotas, and identifies token waste, including unused MCP servers, verbose CLAUDE.md, repeated file reads, and more.\ <img src="https://img.shields.io/github/created-at/getagentseal/codeburn?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/getagentseal/codeburn?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [context-tax (⭐1)](https://github.com/gethrbr/context-tax) by [Harbor](https://gethrbr.com) - A zero-dependency CLI (npx context-tax) that reads Claude Code session transcripts to measure what is sent on every turn before the first prompt: system prompt, MCP tool names, the skill listing and instruction files. It prices each item per use, counts skills sent without a description once the listing budget runs out, and `context-tax fix` points each finding at the setting that turns it off.\ <img src="https://img.shields.io/github/created-at/gethrbr/context-tax?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/gethrbr/context-tax?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/gethrbr/context-tax?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/gethrbr/context-tax?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ### Configuration / Observability
 
-*   [claude-code-zsh-completion (⭐12)](https://github.com/1160054/claude-code-zsh-completion) by [1160054](https://github.com/1160054) - Zsh completion for the Claude Code CLI. Dynamically completes sessions, MCP servers, agents, models and plugins from the user's configuration.\ <img src="https://img.shields.io/github/created-at/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [claude-code-zsh-completion (⭐13)](https://github.com/1160054/claude-code-zsh-completion) by [1160054](https://github.com/1160054) - Zsh completion for the Claude Code CLI. Dynamically completes sessions, MCP servers, agents, models and plugins from the user's configuration.\ <img src="https://img.shields.io/github/created-at/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/1160054/claude-code-zsh-completion?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [clausona (⭐49)](https://github.com/larcane97/clausona) by [larcane97](https://github.com/larcane97) - A CLI and TUI for running several Claude Code accounts on one machine. Each account gets its own config directory through a shell hook, keeping its own sign-in and history, while plugins, settings, skills, commands and agents are symlinked to one primary directory.\ <img src="https://img.shields.io/github/created-at/larcane97/clausona?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/larcane97/clausona?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/larcane97/clausona?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/larcane97/clausona?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ### Lists & Collections / Observability
 
 *   [Awesome Claude Code Mods (⭐304)](https://github.com/karanb192/awesome-claude-code-mods) by [Karan Bansal](https://github.com/karanb192) - A community list of Claude Code mods built with function hooks. Scans public GitHub repositories and shows what the validator reports each mod can read, write, run or send over the network.\ <img src="https://img.shields.io/github/created-at/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / GPL (with linking exception)
 
@@ -406,7 +482,7 @@
 
 *   [flyology-numa (⭐9)](https://github.com/flyology-ada/flyology/tree/main/flyology_numa) - Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.
 
-## [28. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
@@ -424,7 +500,7 @@
 
 *   :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
 
-## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [32. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Tracing & Profiling
 
@@ -466,13 +542,17 @@
 
 *   [noice-json-rpc (⭐46)](https://github.com/nojvek/noice-json-rpc) - Proxy-based TypeScript/JS library exposing CDP domains directly as an API.
 
-## [30. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [33. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Other
 
 *   [Checkout Page](https://checkoutpage.com/platforms/framer) - Native plugin for selling digital products, subscriptions, and event tickets on your Framer site through your own Stripe account.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Analytics
+
+*   [Dreeve](https://dreeve.app/) `⚠` - Statistics dashboard generated from Strava data. ([Demo](https://statistics-for-strava.robiningelbrecht.be/), [Source Code (⭐2.1k)](https://github.com/dreeveapp/dreeve)) `AGPL-3.0` `Docker/K8S`
 
 ### Software / Inventory Management
 
@@ -486,13 +566,13 @@
 
 *   [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐24)](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`
 
-## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [35. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### \- [NFC](https://en.wikipedia.org/wiki/Near_field_communication) / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Awesome NFC (⭐0)](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
 
-## [33. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [36. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Arena by Dravensoft](https://arena.dravensoft.org)
 
@@ -682,7 +762,7 @@
 
 
 
-## [34. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [37. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Crow CI](https://crowci.com)
 
@@ -698,34 +778,34 @@
 
 
 
-## [35. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [38. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Plasma desktop / Extensions
 
 *   [Krema (⭐37)](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 
-## [36. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Communication / Collaboration
 
-*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,912`
+*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,911`
 
 ### System Tools / System Utilities
 
-*   [tamia6/AppDuo (⭐99)](https://github.com/tamia6/AppDuo) — Native macOS app cloner with custom names, icons, and separate data directories. ☆`101`
+*   [tamia6/AppDuo (⭐99)](https://github.com/tamia6/AppDuo) — Native macOS app cloner with custom names, icons, and separate data directories. ☆`105`
 
-## [37. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [40. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### CLI & Terminal / Standard CLI
 
-*   [jessevdk/go-flags (⭐2.7k)](https://github.com/jessevdk/go-flags) — Command-line option parser ☆`2,694`
+*   [jessevdk/go-flags (⭐2.7k)](https://github.com/jessevdk/go-flags) — Command-line option parser ☆`2,693`
 *   [peterh/liner (⭐1.1k)](https://github.com/peterh/liner) — Pure Go line editor with history, inspired by linenoise ☆`1,098`
 
 ### Scripting / Code Generators
 
 *   [dave/jennifer (⭐3.6k)](https://github.com/dave/jennifer) — Code generator for Go ☆`3,630`
 
-## [38. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [41. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Data Manipulation
 
@@ -739,13 +819,13 @@
 
 *   [polars-telemetry (⭐0)](https://github.com/jan-krueger/polars-telemetry) - Python package that profiles Polars queries: per-node timings and row counts, both plans in a browser viewer, findings on what slows a query down, and export to OpenTelemetry or DogStatsD by [@jan-krueger](https://github.com/jan-krueger).
 
-## [39. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+## [42. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### CLI
 
 *   [resto (⭐286)](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI
 
-## [40. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [43. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -776,7 +856,7 @@
 
 *   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -798,13 +878,17 @@
     *   Native Android applications with Slime-style development: see [evergreen-compose (⭐2)](https://github.com/atgreen/evergreen-compose)
     *   *Core code, test suites, and documentation were almost entirely generated by AI assistants following high-level human prompts and specification. Conceptual architecture, prompt direction, and repository orchestration (minimal manual code review or line-by-line verification).*
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [45. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Spreadsheets and Documents
 
 *   [SimpleXlsxReader (⭐190)](https://github.com/woahdae/simple_xlsx_reader) - A fast xlsx reader that parses cell values into plain Ruby primitives and dates/times.
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [pelazas/p2pmux (⭐72)](https://github.com/pelazas/p2pmux) \[[p2pmux](https://crates.io/crates/p2pmux)] - Peer-to-peer terminal multiplexer for macOS and Linux where multiple users and machines join the same session; every pane is a real shell on the machine of whoever opened it [![CI](https://github.com/pelazas/p2pmux/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/pelazas/p2pmux/actions/workflows/ci.yml)
 
 ### Applications / Database
 
@@ -833,10 +917,23 @@
 
 *   [storytold/effectcraft (⭐3k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
 
+### Applications / Web Servers
+
+*   [ferronweb/ferron (⭐2.2k)](https://github.com/ferronweb/ferron) - A fast, modern web server built for production debugging. [![Rust (Ferron 3.x)](https://github.com/ferronweb/ferron/actions/workflows/rust.yml/badge.svg)](https://github.com/ferronweb/ferron/actions/workflows/rust.yml)
+
+### Development tools / Build system
+
+*   [euv-cli (⭐14)](https://github.com/euv-dev/euv) \[[euv-cli](https://crates.io/crates/euv-cli)] - The official CLI tool for the euv UI framework, providing dev/release profiles with run/build modes, hot reload, and wasm-pack integration.
+
+### Development tools / Static analysis
+
+*   [MykytaStel/repopilot (⭐24)](https://github.com/MykytaStel/repopilot) \[[repopilot](https://crates.io/crates/repopilot)] - Local, deterministic review of Git changes, including AI-agent edits: weakened tests and checks, callers broken by removed APIs, and risky boundary changes; CLI, MCP server and agent hooks [![CI](https://github.com/MykytaStel/repopilot/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/MykytaStel/repopilot/actions/workflows/ci.yaml)
+
 ### Libraries / Artificial Intelligence
 
 *   [cmccomb/rust-automl (⭐38)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
-*   [samvallad33/vestige (⭐632)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
+*   [Mattbusel/tokio-prompt-orchestrator (⭐59)](https://github.com/Mattbusel/tokio-prompt-orchestrator) \[[tokio-prompt-orchestrator](https://crates.io/crates/tokio-prompt-orchestrator)] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.
+*   [samvallad33/vestige (⭐648)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
@@ -848,7 +945,7 @@
 
 ### Libraries / Data processing
 
-*   [faucet-hq/faucet-stream (⭐13)](https://github.com/faucet-hq/faucet-stream) \[[faucet-core](https://crates.io/crates/faucet-core)] - ETL that governs your data while it moves: a config-driven data-movement platform with pluggable source and sink connectors, CDC, in-flight masking and quality checks, run from YAML by a single binary or embedded as a library [![CI](https://github.com/faucet-hq/faucet-stream/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/faucet-hq/faucet-stream/actions/workflows/ci.yml)
+*   [faucet-hq/faucet-stream (⭐16)](https://github.com/faucet-hq/faucet-stream) \[[faucet-core](https://crates.io/crates/faucet-core)] - ETL that governs your data while it moves: a config-driven data-movement platform with pluggable source and sink connectors, CDC, in-flight masking and quality checks, run from YAML by a single binary or embedded as a library [![CI](https://github.com/faucet-hq/faucet-stream/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/faucet-hq/faucet-stream/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -858,19 +955,19 @@
 
 *   [cmccomb/rust-stop-words (⭐26)](https://github.com/cmccomb/rust-stop-words) \[[stop-words](https://crates.io/crates/stop-words)] - Common stop words in many languages
 
-## [44. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [47. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [ipynbtopdf](https://ipynbtopdf.xyz/) - Browser-only Jupyter notebook to PDF converter; no upload or LaTeX toolchain.
 
-## [45. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [Sourcey](https://sourcey.com/docs) - Static documentation generator from OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown sources.
 
-## [46. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [49. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -973,7 +1070,7 @@
 *   [Project Wormhole](https://gitlab.com/znixian/xftl) - Rebuild of FTL (Subset Games). Ported to Android in [Pocket Wormhole (⭐40)](https://github.com/adamkulik/pocket-wormhole).
 *   [Space Empires 4 (⭐11)](https://github.com/lowlevelmetal/OpenSE4) - Spec-based remake of Space Empires 4.
 
-## [47. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [50. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4
 
@@ -983,7 +1080,7 @@
 
 *   [MSDF Atlas Studio (⭐2)](https://github.com/sachinthankachan/msdf-atlas-studio) - High-performance desktop studio for generating multi-channel signed distance field (MSDF) font texture atlases with live shader preview.
 
-## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [51. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Shadow DOM
 
@@ -1005,13 +1102,13 @@
 *   [wpt/css-shadow (⭐6.2k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part)
 *   [wpt/template-element (⭐6.2k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
-## [49. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [52. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [pmux](https://pmux.io) Drop-in tmux wrapper that lets you reach your sessions from the Pocketmux iOS/Android app (paid) over an end-to-end encrypted, peer-to-peer connection
 
-## [50. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [53. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
@@ -1040,6 +1137,7 @@
 *   [yoink (⭐5)](https://github.com/MajidRaimi/yoink) - Saves and switches Gemini CLI Google logins (oauth\_creds.json and google\_accounts.json) alongside Claude Code, Codex, Kimi Code and GitHub Copilot logins, from a CLI or a macOS menu bar app.
 *   [MacMD Viewer](https://macmdviewer.com) - Read-only Markdown viewer for macOS 14+ for the GEMINI.md and plan files Gemini CLI writes. Renders Mermaid diagrams and highlighted code, reloads when the file changes on disk, and adds Quick Look previews in Finder. Paid, $19.99 one-time.
 *   [aisw (⭐124)](https://github.com/burakdede/aisw) - Saves Gemini CLI logins and API keys as named profiles and switches the live `~/.gemini` state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: [aiswitcher.dev](https://aiswitcher.dev).
+*   [LynxPrompt (⭐52)](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app that turns one set of AI coding rules into the file each tool reads: Gemini CLI's `GEMINI.md`, `AGENTS.md`, `CLAUDE.md`, Cursor rules and Copilot instructions, 30 rule-file formats in all. Blueprints carry variables so a team shares one set across projects, and the `lynxp` CLI writes the files into each repository. AGPL-3.0.
 
 ### API Bridges & Proxies
 
@@ -1055,12 +1153,19 @@
 *   [looot (⭐1)](https://github.com/loootai/looot-mcp) - Remote MCP server (OAuth sign-in) that searches, prices and runs 2,500+ data API endpoints from 90+ providers (emails, phones, company and people search, Google results, web pages) on one prepaid balance. Ships a Gemini CLI extension manifest.
 *   [BulkPublish (⭐3)](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) - Draft, schedule, cross-post and analyze social media posts on 15 platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more) from Gemini CLI. Hosted Streamable HTTP with OAuth sign-in, or local stdio via `npx -y @bulkpublish/mcp-server` with an API key; free plan available. MIT. Add with: `gemini mcp add --transport http bulkpublish https://mcp.bulkpublish.com/mcp`.
 *   [Datacircle](https://docs.datacircle.dev/mcp-server) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: `gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp`.
+*   [Tapetide MCP (⭐136)](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for Gemini CLI: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings for about 8,200 NSE and BSE stocks. Remote Streamable HTTP with OAuth or a free personal token, or local stdio via `npx -y tapetide-mcp`; free plan available. MIT. Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.
 
-## [51. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [54. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+
+### Chatbots
+
+*   [Honer AI](https://xoner4.github.io/) - Android assistant for AI conversations, writing, translation, and web search with sources, with Russian and English interfaces. `#free`
 
 ### Developer Tools
 
+*   [ERIUS PHONE](https://eriusphone.com/) - Hosted Android phones that an AI agent controls over an HTTP API or an open-source MCP server to use and test apps: read the screen, tap, type, swipe, install APKs, and pull crash logs. Early access.`#paid` `#testing` `#opensource`
 *   [Orbi](https://orbi.build/?ref=oss-collective-ai-tools) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
+*   [VideoGen API](https://videogen.io/videogen-api) - REST API with TypeScript and Python SDKs for creating editable marketing videos from storyboards, scripts and voiceovers, then editing and exporting projects; a VideoGen account and paid generation credits are required. `#paid` `#api`
 
 ### Fashion
 
@@ -1069,18 +1174,51 @@
 
 ### Finance
 
+*   [Equibles](https://equibles.com/) - US stock market data for ChatGPT, Claude and other AI assistants through a hosted MCP server and a REST API, covering SEC filings, financial statements, earnings call transcripts, insider and congressional trades and 13F holdings. `#freemium` `#mcp`
 *   [FXMacroData](https://fxmacrodata.com/) - Official-source macroeconomic releases, release calendars, central bank rates and FX data for 22 currencies, served over a REST API and a hosted MCP server for Claude, ChatGPT, Cursor and other AI assistants; USD data works without a key. `#freemium` `#mcp`
 *   [Invompt](https://invompt.com/) - Turns work from Claude, ChatGPT, or Cursor into invoices, quotes, and estimates you review before sending, through the hosted MCP at `https://mcp.invompt.com/mcp`. You can try it as a guest, with no account. `#free`
+*   [Tapetide](https://tapetide.com/mcp) - Indian stock market MCP server: research, screen and track about 8,200 NSE and BSE stocks from Claude, ChatGPT, Cursor or any MCP client. `#freemium` `#mcp` `#opensource`
+
+### Image Generator
+
+*   [MyPhotoAI](https://myphotoai.io/) - Turn your selfies into AI headshots and portraits. `#paid`
 
 ### Music
 
 *   [Songifted](https://songifted.com/) - Creates personalized AI song gifts from names and memories, with lyrics approval before recording, a free 45-second preview, and paid full songs. `#paid`
 
+### Productivity
+
+*   [Tale](https://tale.dev/) - Open-source project workspace where teams assign tasks to AI agents in persistent sandboxes and review their reports and deliverables together. `#free` `#opensource`
+
+### Search Engine
+
+*   [AI Compare](https://www.aicompare.ninja/en/) - Free editorial AI-tool search and comparison with sourced pricing, limits, and an LLM API cost calculator. `#free` `#research`
+
+### Social Media
+
+*   [Unsora](https://tryunsora.com/) - Generates AI images, video, music and voiceovers and schedules or publishes posts to YouTube, TikTok, Instagram, LinkedIn and other connected accounts. `#paid` `#opensource`
+
 ### Travel
 
 *   [SkyAccess MCP (⭐1)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
 
-## [52. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+### Video
+
+*   [DoneCut](https://donecut.com/) - Upload raw footage and an AI editor returns a finished YouTube video or Shorts with captions, motion graphics and music. `#paid`
+*   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 studio for 30-second video requests with free prompt planners, one-time paid packs, an eligibility-limited first trial, and an account-scoped generation API. `#paid`
+*   [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
+*   [VideoGen](https://videogen.io/) - Creates editable product and marketing videos from storyboards, scripts and voiceovers in a browser editor with captions and exports; paid generation credits are required. `#paid` `#video`
+
+### Writing
+
+*   [Dearovo](https://www.dearovo.com/) - AI relationship message writer with context, tone, and length controls. `#freemium`
+
+## [55. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Google Dorks Tools
+
+*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 
 ### Speciality Search Engines
 
@@ -1097,18 +1235,30 @@
 
 *   [Reverse Image Search Anywhere](https://reverseimage.app/) - Free browser extension and web tool for searching images across Google Lens, Yandex, Bing Visual Search, and TinEye, including images on sites where direct image URLs fail.
 
+### Image Analysis / GitHub
+
+*   [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
+
+### Data and Statistics / GitHub
+
+*   [NarcoScope](https://narcoscope.com) - Public-interest explorer of official drug-market prices, precursor flows, seizures, and public-health context, with source links and explicit evidence gaps.
+
+### Web Monitoring / GitHub
+
+*   [Wayback-Diff (⭐2)](https://github.com/GeiserX/Wayback-Diff)
+
 ### Threat Intelligence / GitHub
 
 *   [Dread Scraper (⭐2)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
 
-## [53. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [56. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Build Tools / Status page
 
 *   [rules\_d (⭐27)](https://github.com/bazel-contrib/rules_d) - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
 *   [gazelle\_d (⭐0)](https://github.com/dcarp/gazelle_d) - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
 
-## [54. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [57. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1117,6 +1267,7 @@
 
 ### Advanced Console UIs
 
+*   [eyez (⭐1)](https://github.com/tech-thinker/eyez) - eyez is a handy CLI tool that lets you view images directly in your terminal, with support for most terminal emulators.
 *   [glamour (⭐3.7k)](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for terminal applications.
 *   [huh (⭐7.2k)](https://github.com/charmbracelet/huh) - Lightweight library for building interactive forms and prompts in the terminal.
 
@@ -1135,6 +1286,10 @@
 ### Machine Learning
 
 *   [gorse (⭐9.8k)](https://github.com/gorse-io/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+
+### Networking
+
+*   [telepath (⭐3)](https://github.com/tech-thinker/telepath) - telepath is a powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
 
 ### Security
 
@@ -1155,16 +1310,24 @@
 *   [onvif-go (⭐40)](https://github.com/0x524a/onvif-go) - ONVIF client, WS-Discovery and virtual camera server for IP cameras.
 *   [rtspeek (⭐1)](https://github.com/0x524a/rtspeek) - Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.
 
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [gocondense (⭐20)](https://github.com/abemedia/gocondense) - A gofmt-compatible formatter that condenses multi-line constructs onto single lines where they fit.
+
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [metricsd (⭐1)](https://github.com/0x524A/metricsd) - Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
 *   [Spinifex (⭐346)](https://github.com/mulgadc/spinifex) - Self-hosted, AWS-compatible cloud platform providing EC2, EBS, S3, VPC and IAM APIs for bare-metal, edge and on-premises infrastructure.
 
-## [55. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
 *   [Rapid Reader (⭐1)](https://github.com/Zer0codestuff/Rapid-Reader) - Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Developer Utilities
+
+*   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gitemre/device-hub-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Terminal Apps / Databases
 
@@ -1173,6 +1336,10 @@
 ### Design and Product / Design Tools
 
 *   [Redlamp](https://redlamp.app) - Native, open-source raw photo editor that keeps Lightroom Classic's Develop workflow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pdcgomes/redlamp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Screen Recording
+
+*   [Caplo (⭐22)](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
 
 ### AI Tools / Other Tools
 
@@ -1198,6 +1365,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
+*   [Boost (⭐16)](https://github.com/Kernel-Hunter/boost) - Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kernel-Hunter/boost) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Menu bar cleaner for developer caches (Xcode, Docker, simulators, node\_modules) with a 2D/3D disk usage treemap. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexkads/MAC-LIMPO) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
@@ -1205,7 +1373,11 @@
 *   [OpenNaga (⭐2)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/OpenNaga) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [QDuo](https://xueshi.dev/qduo/) - Popup at the cursor that runs your own actions on selected text in any app: AI prompts, search, text transforms, Shortcuts, and shell scripts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/XueshiQiao/qduo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+### Utilities / Finder Tools
+
+*   [FinderRight (⭐14)](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/funny-dog/FinderRight) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -1483,7 +1655,7 @@
 
 
 
-## [57. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [60. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -1501,7 +1673,7 @@
 
 *   [MapAtlas](https://mapatlas.eu) - REST API for geocoding, routing, isochrone, matrix, map matching, and MVT vector tiles built on OpenStreetMap data. ([Docs](https://docs.mapatlas.xyz/))
 
-## [58. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [61. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -1825,10 +1997,11 @@
 *   [uMap (⭐1.6k)](https://github.com/umap-project/umap) - Web app for creating maps with OpenStreetMap layers and embedding them in websites.
 *   [VisiData (⭐9.3k)](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for exploring and arranging tabular data, with basic plotting.
 
-## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [62. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
+*   [IP99](https://ip99.com/) - IP risk and geolocation API with passive DNS and certificate transparency. Free without a key: 500 IP lookups/day; 10 domain/cert trial lookups/day.
 *   [Network Data Labs](https://www.networkdatalabs.com) - An IP geolocation API with accuracy radius and confidence level, ASN, and Tor, known VPN, privacy relay and hosting signals. The free plan includes 1,000 requests per day.
 *   [Orshot](https://orshot.com) - Automate Videos, PDFs and Images from templates via API, n8n, Zapier and AI Agents. Design templates in a visual editor (or import from Canva or Figma), then automate bulk generation from your data source. The free plan includes 100 render credits every month.
 
@@ -1856,7 +2029,7 @@
 
 *   [StarDesk](https://www.stardesk.net) - Free remote desktop for work and gaming with 4K HDR/144fps streaming across Windows, macOS, iOS, and Android.
 
-## [60. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [63. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -1870,13 +2043,13 @@
 
 *   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 
-## [61. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [64. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Editors
 
 *   [Phoenix Code](https://phcode.dev/) - Code editor for web designers and front-end developers. ([Source Code (⭐3k)](https://github.com/phcode-dev/phoenix)) `MIT` `JavaScript`
 
-## [62. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [65. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Chat
 

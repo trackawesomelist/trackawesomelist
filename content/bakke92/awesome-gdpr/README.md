@@ -2,15 +2,30 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 253 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 263 · 🏷️ Security
 
 [ Daily / [Weekly](/content/bakke92/awesome-gdpr/week/README.md) / [Overview](/content/bakke92/awesome-gdpr/readme/README.md) ]
+
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### Training and awareness (art. 39)
+
+*   [RansomLeak GDPR Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive exercises on lawful bases, DSAR handling, breach response, DPIA, records of processing, and cross-border transfers.
+
+### Tools
+
+*   [consentprobe (⭐0)](https://github.com/Elijas121/consentprobe) - CLI and GitHub Action that tests whether a website stops tracking after the visitor rejects cookies.
+*   [disclosedby](https://disclosedby.com) - Dated record of the subprocessor lists software companies publish under art. 28, with what changed and when; open JSON, Markdown and an MCP server.
+
+### Related
+
+*   [PIPEDA vs GDPR: What Canadian Companies Must Know](https://traztech.ca/blog/pipeda-vs-gdpr) - Comparison of Canadian and EU privacy regulations for companies operating in both jurisdictions.
 
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Tools
 
-*   [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
+*   [Comparison of Consent Management Platforms (⭐0)](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
@@ -22,7 +37,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [dstack (⭐496)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
+*   [dstack (⭐558)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -76,7 +91,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Rights of the data subject (art. 12 - 23)
 
-*   [Open source privacy notice template (Juro)](https://github.com/juro-privacy/free-privacy-notice)
+*   [Open source privacy notice template (Juro) (⭐173)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## [Feb 11, 2022](/content/2022/02/11/README.md)
 
@@ -88,7 +103,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Awesome: Privacy (⭐19k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐20k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 
 ## [Apr 05, 2021](/content/2021/04/05/README.md)
 
@@ -118,13 +133,13 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Developers Guide to HIPAA Compliance (⭐1.7k)](https://github.com/truevault/hipaa-compliance-developers-guide)
+*   [Developers Guide to HIPAA Compliance (⭐1.8k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## [Feb 24, 2021](/content/2021/02/24/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐352)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐357)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Publications
 
@@ -187,7 +202,7 @@ Protection of natural persons with regard to the processing of personal data and
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐9.1k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐9.4k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -210,5 +225,5 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Privacy Respecting (⭐2k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐467k)](https://github.com/sindresorhus/awesome#security)
+*   [Privacy Respecting (⭐2.1k)](https://github.com/nikitavoloboev/privacy-respecting)
+*   [Awesome: Security (⭐514k)](https://github.com/sindresorhus/awesome#security)

@@ -8,6 +8,10 @@
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Google Dorks Tools
+
+*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+
 ### Speciality Search Engines
 
 *   [bgpmap.net](https://bgpmap.net) - Free multi-vantage BGP looking glass for IP and prefix reconnaissance, with per-prefix AS-path graphs, RPKI validation and shareable snapshots.
@@ -22,6 +26,18 @@
 ### Image Search / GitHub
 
 *   [Reverse Image Search Anywhere](https://reverseimage.app/) - Free browser extension and web tool for searching images across Google Lens, Yandex, Bing Visual Search, and TinEye, including images on sites where direct image URLs fail.
+
+### Image Analysis / GitHub
+
+*   [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
+
+### Data and Statistics / GitHub
+
+*   [NarcoScope](https://narcoscope.com) - Public-interest explorer of official drug-market prices, precursor flows, seizures, and public-health context, with source links and explicit evidence gaps.
+
+### Web Monitoring / GitHub
+
+*   [Wayback-Diff (⭐2)](https://github.com/GeiserX/Wayback-Diff)
 
 ### Threat Intelligence / GitHub
 
@@ -1099,10 +1115,6 @@
 ### Web History and Website Capture / GitHub
 
 *   [Wayback-Archive (⭐39)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
-
-### Web Monitoring / GitHub
-
-*   [Website-Diff (⭐2)](https://github.com/GeiserX/Website-Diff)
 
 ### Threat Intelligence / GitHub
 
@@ -2584,7 +2596,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐93k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐94k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### Browsers / GitHub
 

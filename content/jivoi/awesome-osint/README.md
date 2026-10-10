@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 10, 2026](/content/2026/10/10/README.md)
+
+### Google Dorks Tools
+
+*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+
+### Image Analysis / GitHub
+
+*   [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
+
+### Data and Statistics / GitHub
+
+*   [NarcoScope](https://narcoscope.com) - Public-interest explorer of official drug-market prices, precursor flows, seizures, and public-health context, with source links and explicit evidence gaps.
+
+### Web Monitoring / GitHub
+
+*   [Wayback-Diff (⭐2)](https://github.com/GeiserX/Wayback-Diff)
+
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
 ### Social Media Tools / Telegram
@@ -1152,10 +1170,6 @@
 ### People Investigations / GitHub
 
 *   [BuscaPaginasBlancas (⭐3)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
-
-### Web Monitoring / GitHub
-
-*   [Website-Diff (⭐2)](https://github.com/GeiserX/Website-Diff)
 
 ### Threat Intelligence / GitHub
 
@@ -2692,7 +2706,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐93k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐94k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ## [Oct 09, 2020](/content/2020/10/09/README.md)
 
