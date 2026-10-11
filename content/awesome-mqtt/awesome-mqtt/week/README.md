@@ -10,7 +10,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [Spitfire](https://spitfire.tr/en/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
+*   [Spitfire](https://usespitfire.com/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
 
 ### Rust
 

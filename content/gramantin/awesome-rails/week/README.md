@@ -12,6 +12,10 @@ A curated list of awesome things related to Ruby on Rails
 
 *   [solid\_objects (⭐40)](https://github.com/cardmagic/solid-objects-ruby) - A gem for SQL-backed virtual actors: durable state, ordered calls, and reminders in the app's SQLite, PostgreSQL, or MySQL database (pre-1.0). [:red\_circle:](https://rubygems.org/gems/solid_objects)
 
+### DevTools / Other external resources
+
+*   [Keploy](https://keploy.io) - Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Open Source Rails Apps / Other external resources

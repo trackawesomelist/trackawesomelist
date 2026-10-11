@@ -8,6 +8,10 @@
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
+### Tools / Agents
+
+*   [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (<https://img.shields.io/github/stars/bytedance/deer-flow?style=social>)
+
 ### Tools / Templates
 
 *   [Full-Stack AI Agent Template (⭐1.9k)](https://github.com/vstorm-co/full-stack-ai-agent-template): FastAPI + Next.js project generator where the agent backend can be LangChain, LangGraph or DeepAgents (or Pydantic AI), with WebSocket streaming, RAG, auth and Docker setup ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=social)

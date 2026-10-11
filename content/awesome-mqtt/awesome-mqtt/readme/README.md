@@ -187,7 +187,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 *   [Python MQTT Client Shell (⭐59)](https://github.com/bapowell/python-mqtt-client-shell) - Text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 *   [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method (⭐0)](https://github.com/visoar/mqtt-acl-linter).
 *   [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
-*   [Spitfire](https://spitfire.tr/en/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
+*   [Spitfire](https://usespitfire.com/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
 *   [Wireshark-MQTT (⭐95)](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
 *   [VSMQTT (⭐17)](https://github.com/rpdswtk/vsmqtt) - Simple MQTT client integrated in Visual Studio Code.
 *   [MQTTX (⭐5.1k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.

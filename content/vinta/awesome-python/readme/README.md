@@ -149,7 +149,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *   Agent Skills
     *   [django-ai-plugins (⭐150)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
     *   [sentry-skills (⭐1k)](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
-    *   [trailofbits-skills (⭐7.2k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
+    *   [trailofbits-skills (⭐7.5k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
 *   Orchestration
     *   [langchain (⭐148k)](https://github.com/langchain-ai/langchain) - A framework for building agents and LLM-powered applications.
     *   [langgraph (⭐43k)](https://github.com/langchain-ai/langgraph) - Low-level orchestration framework for building stateful, long-running LLM agents.
@@ -164,7 +164,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [fastmcp (⭐28k)](https://github.com/PrefectHQ/fastmcp) - A high-level, Pythonic framework for building MCP servers and clients.
 *   Personal Assistants
     *   [hermes-agent (⭐251k)](https://github.com/NousResearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
-    *   [AstrBot (⭐41k)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
+    *   [AstrBot (⭐42k)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 *   Prompt Optimization
     *   [dspy (⭐39k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
 *   Data Layer
@@ -174,13 +174,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [openviking (⭐39k)](https://github.com/volcengine/OpenViking) - A context database for AI agents that unifies memory, resources, and skills.
     *   [semantica (⭐14k)](https://github.com/semantica-agi/semantica) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 *   Pre-trained Models
-    *   [transformers (⭐167k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+    *   [transformers (⭐168k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+    *   [sentence-transformers (⭐19k)](https://github.com/huggingface/sentence-transformers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
 *   LLM Inference and Serving
     *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
     *   [mlx-lm (⭐7.2k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
 *   LLM Gateways
-    *   [litellm (⭐60k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
+    *   [litellm (⭐61k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
 *   Image and Video Generation
     *   [diffusers (⭐35k)](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
 *   Fine-tuning
@@ -290,7 +291,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [django-rest-framework (⭐30k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
     *   [django-ninja (⭐9.2k)](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
     *   [strawberry-django (⭐504)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
-    *   [django-modern-rest (⭐1.5k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
+    *   [django-modern-rest (⭐1.5k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies.
 *   Flask
     *   [flask-restx (⭐2.2k)](https://github.com/python-restx/flask-restx) - Fully featured framework for fast, easy and documented API development with Flask.
     *   [flask-smorest (⭐717)](https://github.com/marshmallow-code/flask-smorest) - A Flask/Marshmallow-based REST API framework with automatic OpenAPI documentation.
@@ -406,7 +407,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [scrapy (⭐65k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
     *   [crawl4ai (⭐85k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
     *   [stagehand (⭐26k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-    *   [jev-ultrafast (⭐20k)](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
+    *   [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 *   Content Extraction
     *   [markdownify (⭐2.3k)](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown, with customizable tag handling.
     *   [feedparser (⭐2.4k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
@@ -521,7 +522,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   General
     *   [awswrangler (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
-    *   [dlt (⭐5.9k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
+    *   [dlt (⭐6k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 *   Financial Data
     *   [yfinance (⭐25k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐23k)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
@@ -675,7 +676,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *   Load Testing
     *   [locust (⭐28k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 *   API Testing
-    *   [schemathesis (⭐3.6k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
+    *   [schemathesis (⭐3.7k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
 *   Mock
     *   [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
     *   [responses (⭐4.3k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
@@ -795,6 +796,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [apscheduler (⭐7.6k)](https://github.com/agronholm/apscheduler) - A light but powerful in-process task scheduler that lets you schedule functions.
     *   [schedule (⭐12k)](https://github.com/dbader/schedule) - Python job scheduling for humans.
 *   Workflow Orchestration
+    *   [temporalio (⭐1.2k)](https://github.com/temporalio/sdk-python) - Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.
     *   [dagster (⭐16k)](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
     *   [apache-airflow (⭐47k)](https://github.com/apache/airflow) - Airflow is a platform to programmatically author, schedule and monitor workflows.
     *   [prefect (⭐24k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
@@ -827,7 +829,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [click (⭐18k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
     *   [typer (⭐20k)](https://github.com/fastapi/typer) - Modern CLI framework that uses Python type hints. Built on Click.
     *   [prompt\_toolkit (⭐11k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
-    *   [fire (⭐28k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
+    *   [cyclopts](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
 *   Terminal Rendering
     *   [rich (⭐57k)](https://github.com/Textualize/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
     *   [tqdm (⭐31k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
@@ -1142,7 +1144,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *   [impacket (⭐16k)](https://github.com/fortra/impacket) - A collection of Python classes for working with network protocols, widely used for Windows and Active Directory testing.
 *   [sqlmap (⭐39k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 *   [pwntools (⭐14k)](https://github.com/Gallopsled/pwntools) - A CTF framework and exploit development library.
-*   [sherlock-project (⭐93k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [sherlock-project (⭐94k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Supply Chain Security
 
@@ -1210,7 +1212,7 @@ Where to discover learning resources or new Python libraries.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐323k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐326k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 ***
 

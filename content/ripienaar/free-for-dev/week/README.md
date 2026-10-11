@@ -30,6 +30,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [velixir](https://velixir.net/) - EU-hosted PaaS that builds web apps from source in any language (Node.js, Python, Go, Ruby, PHP, Java, Elixir, Rust, .NET and more), no Dockerfile needed. The free tier includes one app (0.25 vCPU, 256 MB RAM) that sleeps when idle, custom domains with TLS, and no credit card.
 
+### Issue Tracking and Project Management
+
+*   [AgileHero](https://agilehero.io/) - All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.
+
+### Storage and Media Processing
+
+*   [imgduck.com](https://imgduck.com/) - Minimalist and fast image hosting service with direct link and API support. Free tier offers 1GB storage and unlimited requests per month
+
 ### Miscellaneous
 
 *   [Splainly](https://splainly.app) - Create product explainer videos for sales and marketing needs. Videos are free to create and can be downloaded or remain hosted on Splainly. A small watermark will be applied and can be removed with a $5 purchase.

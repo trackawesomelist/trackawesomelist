@@ -21,6 +21,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
+*   [gozen](https://github.com/tech-thinker/gozen) - gozen is a simplified golang MVC framework to generate projects and components with Support of REST, gRPC etc. Higly customizable and easy to add any api layer or worker.
 *   [vibecheck (⭐210)](https://github.com/rshdhere/vibecheck) - Cross-platform CLI that generates Git commit messages automatically from code changes.
 
 ### Job Scheduler
@@ -3295,7 +3296,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Goroutines
 
-*   [flowmatic](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
+*   [flowmatic (⭐402)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
 
 ### Query Language
 
@@ -3996,7 +3997,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [countries (⭐524)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
-*   [evaluator](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
+*   [evaluator (⭐42)](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
 *   [jsend (⭐21)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -5227,7 +5228,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gonet (⭐1.3k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.7k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
 *   [Leaf (⭐5.5k)](https://github.com/name5566/leaf) - Lightweight game server framework.
-*   [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
+*   [nano (⭐3.2k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.7k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.8k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 *   [prototype (⭐109)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
@@ -5239,7 +5240,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [generis](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 *   [go-enum (⭐961)](https://github.com/abice/go-enum) - Code generation for enums from code comments.
-*   [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
+*   [go-linq (⭐3.8k)](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
 *   [goderive (⭐1.3k)](https://github.com/awalterschulze/goderive) - Derives functions from input types
 *   [goverter (⭐884)](https://github.com/jmattheis/goverter) - Generate converters by defining an interface.
 *   [GoWrap (⭐1.3k)](https://github.com/hexdigest/gowrap) - Generate decorators for Go interfaces using simple templates.
@@ -6122,7 +6123,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dbt (⭐70)](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 *   [Death (⭐199)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 *   [delve (⭐660)](https://github.com/derekparker/delve) - Go debugger.
-*   [dlog](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
+*   [dlog (⭐17)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
 *   [equalizer (⭐89)](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.
 *   [ergo (⭐651)](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.

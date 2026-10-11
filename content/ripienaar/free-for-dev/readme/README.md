@@ -1298,6 +1298,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Issue Tracking and Project Management
 
 *   [acunote.com](https://www.acunote.com/) - Free project management and SCRUM software for up to 5 team members
+*   [AgileHero](https://agilehero.io/) - All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.
 *   [asana.com](https://asana.com/) - Free for private project with collaborators
 *   [Backlog](https://backlog.com) - Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
 *   [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
@@ -1386,6 +1387,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Imgbot](https://github.com/marketplace/imgbot) - Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
 *   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
 *   [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
+*   [imgduck.com](https://imgduck.com/) - Minimalist and fast image hosting service with direct link and API support. Free tier offers 1GB storage and unlimited requests per month
 *   [internxt.com](https://internxt.com) - Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
 *   [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
 *   [LibreQR](https://libreqr.com) - Free QR code generator focused on privacy and no tracking. Free to use with no data collection.

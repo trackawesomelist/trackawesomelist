@@ -12,6 +12,14 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   [iPulse AI](https://ipulseai.com) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
 
+### Projects / Job Schedulers
+
+*   Workflow Orchestration
+    *   [temporalio (⭐1.2k)](https://github.com/temporalio/sdk-python) - Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.
+    *   [dagster (⭐16k)](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+    *   [apache-airflow (⭐47k)](https://github.com/apache/airflow) - Airflow is a platform to programmatically author, schedule and monitor workflows.
+    *   [prefect (⭐24k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Projects / AI and Agents
@@ -25,9 +33,9 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [fastmcp (⭐28k)](https://github.com/PrefectHQ/fastmcp) - A high-level, Pythonic framework for building MCP servers and clients.
 *   Personal Assistants
     *   [hermes-agent (⭐251k)](https://github.com/NousResearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
-    *   [AstrBot (⭐41k)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
+    *   [AstrBot (⭐42k)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 *   LLM Gateways
-    *   [litellm (⭐60k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
+    *   [litellm (⭐61k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
 *   Speech
     *   [faster-whisper (⭐26k)](https://github.com/SYSTRAN/faster-whisper) - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
     *   [openai-whisper (⭐110k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
@@ -124,13 +132,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Build Tools
 
 *   [poethepoet (⭐2.1k)](https://github.com/nat-n/poethepoet) - A task runner that defines tasks in pyproject.toml and works with poetry or uv.
-
-### Projects / Job Schedulers
-
-*   Workflow Orchestration
-    *   [dagster (⭐16k)](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-    *   [apache-airflow (⭐47k)](https://github.com/apache/airflow) - Airflow is a platform to programmatically author, schedule and monitor workflows.
-    *   [prefect (⭐24k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
 ### Projects / Logging
 
@@ -255,7 +256,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [openviking (⭐39k)](https://github.com/volcengine/OpenViking) - A context database for AI agents that unifies memory, resources, and skills.
     *   [semantica (⭐14k)](https://github.com/semantica-agi/semantica) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 *   Pre-trained Models
-    *   [transformers (⭐167k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+    *   [transformers (⭐168k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+    *   [sentence-transformers](https://github.com/huggingface/sentence-transformers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
 *   LLM Inference and Serving
     *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
@@ -309,7 +311,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [django-rest-framework (⭐30k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
     *   [django-ninja (⭐9.2k)](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
     *   [strawberry-django (⭐504)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
-    *   [django-modern-rest (⭐1.5k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
+    *   [django-modern-rest (⭐1.5k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies.
 *   Framework Agnostic
     *   [fastapi (⭐103k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
     *   [strawberry (⭐4.7k)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
@@ -385,7 +387,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   General
     *   [awswrangler (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
-    *   [dlt (⭐5.9k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
+    *   [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 *   Financial Data
     *   [yfinance (⭐25k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐23k)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
@@ -470,7 +472,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [selenium (⭐35k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
     *   [seleniumbase (⭐13k)](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation & testing, with stealth options.
 *   API Testing
-    *   [schemathesis (⭐3.6k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
+    *   [schemathesis (⭐3.7k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
 
 ### Projects / Documentation
 
@@ -629,7 +631,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Penetration Testing
 
-*   [sherlock-project (⭐93k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [sherlock-project (⭐94k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Projects / Supply Chain Security
 
@@ -701,7 +703,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Agent Skills
     *   [django-ai-plugins (⭐150)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
     *   [sentry-skills (⭐1k)](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
-    *   [trailofbits-skills (⭐7.2k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
+    *   [trailofbits-skills (⭐7.5k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
 
 ### Projects / Implementations
 
@@ -900,7 +902,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [scrapy (⭐65k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
     *   [crawl4ai (⭐85k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
     *   [stagehand (⭐26k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-    *   [jev-ultrafast (⭐20k)](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
+    *   [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 
 ### Projects / Serialization
 
@@ -917,7 +919,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [click (⭐18k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
     *   [typer (⭐20k)](https://github.com/fastapi/typer) - Modern CLI framework that uses Python type hints. Built on Click.
     *   [prompt\_toolkit (⭐11k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
-    *   [fire (⭐28k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
+    *   [cyclopts](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
 
 ### Projects / Functional Programming
 

@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Oct 11, 2026](/content/2026/10/11/README.md)
+
+### Plugins / I18n
+
+*   [dereuromark/cakephp-i18n-lint](https://github.com/dereuromark/cakephp-i18n-lint) - Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.
+
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
 ### Plugins / Authentication and Authorization

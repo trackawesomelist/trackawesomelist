@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Oct 11, 2026](/content/2026/10/11/README.md)
+
+### DevTools / Other external resources
+
+*   [Keploy](https://keploy.io) - Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.
+
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
 ### Gems / Other external resources

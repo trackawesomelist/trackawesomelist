@@ -6,6 +6,12 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 
 [ [Daily](/content/totpero/awesome-qgis/README.md) / Weekly / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Plugins / Analysis and Processing
+
+*   [AI Agent by TerraLab](https://plugins.qgis.org/plugins/AI_Agent/) - Describe a GIS task in plain words; the agent finds open data, runs Processing tools, styles the map and builds the print layout, with one-click undo. Freemium, free tier.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### Plugins / Remote Sensing

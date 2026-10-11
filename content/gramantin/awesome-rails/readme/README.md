@@ -550,11 +550,12 @@ A curated list of awesome things related to Ruby on Rails
 
 *   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 *   [ERB Snippets + View Audit for Rails](https://getreadystack.com/tools/erb-rails-view-snippets-audit) - Paste or open one .html.erb view and see every raw, html\_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in.
-*   [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 *   [Optic (⭐1.5k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 *   [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
 *   [mcdview](https://mcdview.dev/) - Turn your schema.rb into an interactive ER diagram on a stable link, no account, and keep it current in CI with history and diffs.
 *   [Dash](https://kapeli.com/dash) - Offline API documentation browser for macOS with instant search for Rails docs and 200+ other frameworks.
+*   [Keploy](https://keploy.io) - Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.
 
 [Back to top][link_toc]
 

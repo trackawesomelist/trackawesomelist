@@ -1,12 +1,135 @@
 # Awesome List Updates on Oct 11, 2026
 
-10 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Qgis](/content/totpero/awesome-qgis/README.md)
+
+### Plugins / Analysis and Processing
+
+*   [AI Agent by TerraLab](https://plugins.qgis.org/plugins/AI_Agent/) - Describe a GIS task in plain words; the agent finds open data, runs Processing tools, styles the map and builds the print layout, with one-click undo. Freemium, free tier.
+
+## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Tools / Agents
+
+*   [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (<https://img.shields.io/github/stars/bytedance/deer-flow?style=social>)
+
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Telegram
+
+*   [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+
+## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+
+### Beginner-Friendly / Interactive Learning & Visualization
+
+*   [DSA View View](https://dsa-view-view.vercel.app/) - Runs your own TypeScript algorithm functions in the browser and shows arrays, matrices, trees, linked lists, stacks, and pointers changing step by step, with built-in LeetCode-style examples.
+
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Standard CLI
+
+*   [gozen](https://github.com/tech-thinker/gozen) - gozen is a simplified golang MVC framework to generate projects and components with Support of REST, gRPC etc. Higly customizable and easy to add any api layer or worker.
+
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Projects / Job Schedulers
+
+*   Workflow Orchestration
+    *   [temporalio (⭐1.2k)](https://github.com/temporalio/sdk-python) - Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.
+    *   [dagster (⭐16k)](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+    *   [apache-airflow (⭐47k)](https://github.com/apache/airflow) - Airflow is a platform to programmatically author, schedule and monitor workflows.
+    *   [prefect (⭐24k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+
+## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+
+### Productivity
+
+*   [Orkas](https://openappscout.com/apps/orkas/) - Orkas is an open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents in parallel or sequence through one chat. ([Source](https://github.com/Orkas-AI/Orkas))
+*   [Plainsay](https://openappscout.com/apps/plainsay/) - Plainsay is an MIT-licensed macOS dictation app that transcribes on-device with Whisper large-v3-turbo or Parakeet TDT 0.6B v3. Local mode is free, with no account and no telemetry. ([Source (⭐12)](https://github.com/conrader/plainsay))
+*   [Tale](https://openappscout.com/apps/tale/) - Tale is an MIT-licensed, self-hosted project workspace for agent tasks, shared context and team review of reports and deliverables. ([Source (⭐33)](https://github.com/tale-project/tale))
+
+### Developer Tools
+
+*   [Open Reports](https://openappscout.com/apps/open-reports/) - Open Reports is an MIT-licensed web report designer and rendering engine for creating and rendering invoices, statements and other operational documents from JSON definitions. ([Source](https://github.com/varaprasadreddy9676/open-reports))
+
+## [8. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+
+### Tools
+
+*   [Spitfire](https://usespitfire.com/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
+
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Issue Tracking and Project Management
+
+*   [AgileHero](https://agilehero.io/) - All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.
+
+### Storage and Media Processing
+
+*   [imgduck.com](https://imgduck.com/) - Minimalist and fast image hosting service with direct link and API support. Free tier offers 1GB storage and unlimited requests per month
+
+## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+
+### Tools / Other Tools
+
+*   [Lit Inspector](https://chromewebstore.google.com/detail/lit-inspector/faojnglflincboehhgkjgehnapjgiieh) - Chrome DevTools extension for inspecting Lit components: component tree, reactive properties, update counts, and a lifecycle timeline.
+
+## [11. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+
+### Articles / Using specific tools
+
+*   [Using GNU Stow to manage your dotfiles](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+*   [Dotfiles and dev tools provisioned by Ansible](https://blog.palcu.net/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
+
+### Find dotfiles repos / Using specific tools
+
+*   [Archlinux collection](https://wiki.archlinux.org/title/Dotfiles)
+
+### Tools / Ansible
+
+*   [GNU Stow](https://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate
+    directories on the filesystem, and makes them appear to be installed in the same place.
+
+### Archive/abandoned projects / macOS
+
+*   [antigen](https://antigen.sharats.me)
+*   [osxc](https://osxc.github.io)
+
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+
+### Table of Contents / Engines and Platforms
+
+*   [Clink](https://github.com/orhaugh/clink) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Embedded-first, Arrow-native stream processing engine with streaming SQL and exactly-once checkpoints.
+
+### Table of Contents / Data Integration and Pipelines
+
+*   [OLake](https://github.com/datazip-inc/olake) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.
+
+## [13. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+
+### 🛠️ Tools / 🌱 Third Party
+
+*   [keploy/keploy (⭐18k)](https://github.com/keploy/keploy) - Records real traffic to a Fiber app and replays it as tests with mocked SQL, Redis, and HTTP calls.
+
+## [14. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### DevTools / Other external resources
+
+*   [Keploy](https://keploy.io) - Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.
+
+## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+
+### Plugins / I18n
+
+*   [dereuromark/cakephp-i18n-lint](https://github.com/dereuromark/cakephp-i18n-lint) - Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.
+
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
@@ -16,7 +139,7 @@
 
 *   [FreeImageRe (⭐31)](https://github.com/agruzdev/FreeImageRe) - A fork of FreeImage to support latest image codecs and adjust for modern compilers. All original formats and plugins are maintained. \[GPLv2, GPLv3, FIPL]
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
@@ -26,13 +149,13 @@
 
 *   [Oleafly/Oleafly (⭐212)](https://github.com/Oleafly/Oleafly) - A desktop editor for writing papers and theses in LaTeX, Typst and Markdown, with a built-in Tectonic engine and live PDF preview. Built with Tauri. [![CI](https://github.com/Oleafly/Oleafly/actions/workflows/ci.yml/badge.svg?branch=main\&event=push)](https://github.com/Oleafly/Oleafly/actions/workflows/ci.yml)
 
-## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [18. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Tools / Incompatible
 
 *   [Capgo Skills (⭐72)](https://github.com/Cap-go/capgo-skills) - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [19. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / AI Gateway
 
@@ -104,7 +227,11 @@
 
 *   [YAML (⭐506) (⭐505)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [TunnelFlow](https://github.com/XRSec/TunnelFlow) - Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/XRSec/TunnelFlow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -114,7 +241,7 @@
 
 *   [MemStats](https://memstats.chungxon.dev/) - Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sown-oss/MemStats) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [21. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -532,7 +659,7 @@
 
 
 
-## [7. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [22. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
@@ -543,13 +670,13 @@
 
 *   [PlayerSells Open Data (⭐0)](https://github.com/playersells/open-data/) - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
 
-## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/) - Independent directory and publication built with Next.js for finding ceramic-coating shops in the United States and understanding coating options.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -564,7 +691,7 @@
 
 *   [partner (⭐1)](https://github.com/epicseven-cup/partner-theme-zsh) - Theme where every `git` branch hatches its own pet. Your pet evolves as you commit on the branch, so your prompt shows how much work you've put in. Includes decorators for `git` branch and current directory.
 
-## [10. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [25. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Development Tools & Utilities
 
@@ -574,6 +701,8 @@
 
 *   [QRX (⭐2)](https://github.com/qrxcodes/qrx-mcp) - Turn a text prompt and a link into an artistic, branded QR code from Gemini CLI. Each code is checked to scan before it is returned and uses a hosted qrx.to short link. Remote Streamable HTTP with OAuth sign-in or an API key, or local stdio via `npx -y @qrxcodes/mcp`. MIT. Add with: `gemini mcp add --transport http qrx https://qrx.codes/mcp`.
 *   [Hoot Lens (⭐2)](https://github.com/Parallel-Platforms/hootlens-mcp) - Session replays and click heatmaps from real website visits. Find clicks that broke, jump to the JavaScript error and source line, and check whether a fix helped. Remote with OAuth (`httpUrl: https://mcp.hootlens.com/mcp`) or local with `npx -y @hootlens/mcp`. Demo with sample data, no sign-in: `https://mcp.hootlens.com/demo`.
+*   [Blawgy (⭐2)](https://github.com/adamgusky/blawgy-mcp) - Run your SEO blog from Gemini CLI. Research keywords, manage the content plan, write and update SEO blog posts with images and internal links, publish them to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, and read Search Console traffic, rankings and indexing status. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source, included on every paid plan with a free trial. Add with `gemini mcp add --transport http blawgy https://app.blawgy.com/mcp`.
+*   [DropTheHassle (⭐2)](https://github.com/bosmdavid-gif/dropthehassle-mcp) - Lets Gemini CLI publish the site it built on a real HTTPS link instead of localhost: a free link, no account needed. For your own .com it hands the human a €19/$19-a-year payment link; after payment the site goes live on it with no DNS. No tool spends money. For claimed sites, ask it for visitors, leads or site status. Remote Streamable HTTP, no sign-in for the first publish, or local stdio via `npx -y dropthehassle-mcp`. MIT. Add with: `gemini mcp add --transport http dropthehassle https://dropthehassle.com/mcp`.
 
 ---
 

@@ -16,6 +16,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 *   [OrcaServices/Heartbeat plugin (⭐4)](https://github.com/orca-services/cakephp-heartbeat) - A plugin providing an application heartbeat status page with configurable sensors.
 
+### Plugins / I18n
+
+*   [dereuromark/cakephp-i18n-lint](https://github.com/dereuromark/cakephp-i18n-lint) - Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.
+
 ### Plugins / Monitoring
 
 *   [Crustum/Rhythm plugin (⭐0)](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Oct 11, 2026](/content/2026/10/11/README.md)
+
+### Tools / Agents
+
+*   [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (<https://img.shields.io/github/stars/bytedance/deer-flow?style=social>)
+
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
 
 ### Tools / Templates

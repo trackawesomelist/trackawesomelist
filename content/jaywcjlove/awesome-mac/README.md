@@ -8,6 +8,10 @@
 
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
+### Developer Tools / Developer Utilities
+
+*   [TunnelFlow](https://github.com/XRSec/TunnelFlow) - Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/XRSec/TunnelFlow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Voice-to-Text / Audio Record and Process
 
 *   [inlaut](https://inlaut.de) - Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tobymarks/inlaut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

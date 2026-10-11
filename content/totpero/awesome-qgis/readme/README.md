@@ -79,6 +79,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 *   [LF Tools](https://plugins.qgis.org/plugins/lftools/) - Cartographic production, surveying, drone mapping, and GNSS tools.
 *   [ArcGeek Calculator](https://plugins.qgis.org/plugins/ArcGeekCalculator/) - Coordinate calculations, conversions, and watershed analysis.
 *   [Fast Density Analysis](https://plugins.qgis.org/plugins/fast_kernel_density_analysis/) - Fast kernel density visualization for geospatial analytics.
+*   [AI Agent by TerraLab](https://plugins.qgis.org/plugins/AI_Agent/) - Describe a GIS task in plain words; the agent finds open data, runs Processing tools, styles the map and builds the print layout, with one-click undo. Freemium, free tier.
 
 ### Remote Sensing
 

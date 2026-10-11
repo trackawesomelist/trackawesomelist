@@ -6,11 +6,17 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
 
+## [Oct 11, 2026](/content/2026/10/11/README.md)
+
+### Beginner-Friendly / Interactive Learning & Visualization
+
+*   [DSA View View](https://dsa-view-view.vercel.app/) - Runs your own TypeScript algorithm functions in the browser and shows arrays, matrices, trees, linked lists, stacks, and pointers changing step by step, with built-in LeetCode-style examples.
+
 ## [Sep 23, 2026](/content/2026/09/23/README.md)
 
 ### Beginner-Friendly / Interactive Learning & Visualization
 
-*   [leetcode-py (⭐140)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
+*   [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 
 ## [Apr 19, 2026](/content/2026/04/19/README.md)
 
@@ -86,7 +92,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Cheat Sheet / YouTube Playlist
 
-*   [Tech Interview Cheat Sheet (⭐4.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [May 06, 2022](/content/2022/05/06/README.md)
 
@@ -122,7 +128,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Math (⭐16k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Sep 11, 2020](/content/2020/09/11/README.md)
 

@@ -6,6 +6,27 @@ A curated list of dotfiles resources.
 
 [ [Daily](/content/webpro/awesome-dotfiles/README.md) / Weekly / [Overview](/content/webpro/awesome-dotfiles/readme/README.md) ]
 
+## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
+
+### Articles / Using specific tools
+
+*   [Using GNU Stow to manage your dotfiles](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+*   [Dotfiles and dev tools provisioned by Ansible](https://blog.palcu.net/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
+
+### Find dotfiles repos / Using specific tools
+
+*   [Archlinux collection](https://wiki.archlinux.org/title/Dotfiles)
+
+### Tools / Ansible
+
+*   [GNU Stow](https://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate
+    directories on the filesystem, and makes them appear to be installed in the same place.
+
+### Archive/abandoned projects / macOS
+
+*   [antigen](https://antigen.sharats.me)
+*   [osxc](https://osxc.github.io)
+
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Articles / Tutorials
@@ -14,11 +35,11 @@ A curated list of dotfiles resources.
 
 ### Tools / Ansible
 
-*   [dotly (⭐1.3k)](https://github.com/CodelyTV/dotly) - Modular Zsh-based dotfiles framework for macOS, Linux, and WSL.
-*   [DotState (⭐360)](https://github.com/serkanyersen/dotstate) - Git-backed dotfile manager with profiles, automatic backups, and an interactive terminal interface.
-*   [themer (⭐5.8k)](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
-*   [Tuckr (⭐479)](https://github.com/RaphGL/Tuckr) - Cross-platform, Stow-style dotfile manager with groups, hooks, and deployment validation.
-*   [yadm (⭐6.4k)](https://github.com/yadm-dev/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
+*   [dotly](https://github.com/CodelyTV/dotly) - Modular Zsh-based dotfiles framework for macOS, Linux, and WSL.
+*   [DotState](https://github.com/serkanyersen/dotstate) - Git-backed dotfile manager with profiles, automatic backups, and an interactive terminal interface.
+*   [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
+*   [Tuckr (⭐489)](https://github.com/RaphGL/Tuckr) - Cross-platform, Stow-style dotfile manager with groups, hooks, and deployment validation.
+*   [yadm](https://github.com/yadm-dev/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
     additional features.
 
 ### Miscellaneous / macOS
@@ -27,7 +48,7 @@ A curated list of dotfiles resources.
 
 ### Archive/abandoned projects / macOS
 
-*   [YADR (⭐7k)](https://github.com/skwp/dotfiles)
+*   [YADR](https://github.com/skwp/dotfiles)
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -43,19 +64,19 @@ A curated list of dotfiles resources.
 
 ### Tools / Ansible
 
-*   [dotter (⭐2k)](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in Rust.
-*   [dots (⭐129)](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple
+*   [dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in Rust.
+*   [dots](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple
     OSs!
 *   [home-manager (⭐10k)](https://github.com/nix-community/home-manager) - Manage a user environment using Nix.
-*   [lnk (⭐651)](https://github.com/yarlson/lnk) - Git-native dotfiles management without extra config.
-*   [OpenBoot (⭐266)](https://github.com/openbootdotdev/openboot) - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
+*   [lnk](https://github.com/yarlson/lnk) - Git-native dotfiles management without extra config.
+*   [OpenBoot (⭐275)](https://github.com/openbootdotdev/openboot) - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
     configuration, and macOS preferences via interactive TUI.
-*   [yolk (⭐434)](https://github.com/elkowar/yolk) - Dotfile manager with inline templating via comments, so files stay valid even un-deployed.
+*   [yolk](https://github.com/elkowar/yolk) - Dotfile manager with inline templating via comments, so files stay valid even un-deployed.
 
 ### Archive/abandoned projects / macOS
 
-*   [rkalis's dotfiles (⭐259)](https://github.com/rkalis/dotfiles)
-*   [Zero.sh (⭐324)](https://github.com/zero-sh/zero.sh)
+*   [rkalis's dotfiles](https://github.com/rkalis/dotfiles)
+*   [Zero.sh](https://github.com/zero-sh/zero.sh)
 
 ## [Jun 23 - Jun 29, 2025](/content/2025/25/README.md)
 
@@ -71,13 +92,13 @@ A curated list of dotfiles resources.
 
 ### Tools / Ansible
 
-*   [rotz (⭐427)](https://github.com/volllly/rotz) - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
+*   [rotz](https://github.com/volllly/rotz) - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Tools / Ansible
 
-*   [xdg-ninja (⭐3.3k)](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
+*   [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 
 ### Miscellaneous / macOS
 
@@ -88,7 +109,7 @@ A curated list of dotfiles resources.
 
 ### Archive/abandoned projects / macOS
 
-*   [macOS Defaults (⭐1.4k)](https://github.com/kevinSuttle/macOS-Defaults)
+*   [macOS Defaults](https://github.com/kevinSuttle/macOS-Defaults)
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -108,13 +129,12 @@ A curated list of dotfiles resources.
 
 ### Related Lists / macOS
 
-*   [Awesome Fish (⭐5k)](https://github.com/jorgebucaran/awsm.fish) - Curated list of packages, prompts, and resources for the fish shell.
+*   [Awesome Fish (⭐5.1k)](https://github.com/jorgebucaran/awsm.fish) - Curated list of packages, prompts, and resources for the fish shell.
 *   [Awesome Sysadmin (⭐35k)](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 
 ### Archive/abandoned projects / macOS
 
-*   [antigen](http://antigen.sharats.me)
-*   [dotstow (⭐99)](https://github.com/clayrisser/dotstow)
+*   [dotstow](https://github.com/clayrisser/dotstow)
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -130,11 +150,11 @@ A curated list of dotfiles resources.
 
 ### Tools / Ansible
 
-*   [toml-bombadil (⭐335)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ### Archive/abandoned projects / macOS
 
-*   [dotbare (⭐728)](https://github.com/kazhala/dotbare)
+*   [dotbare (⭐730)](https://github.com/kazhala/dotbare)
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
@@ -149,10 +169,8 @@ A curated list of dotfiles resources.
     orchestration engine.
 *   [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from
     others into your own configuration files.
-*   [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate
-    directories on the filesystem, and makes them appear to be installed in the same place.
-*   [homesick (⭐2.4k)](https://github.com/technicalpickles/homesick) - Clone and manage Git-based dotfiles repositories with symlinks.
-*   [rcm (⭐3.2k)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
+*   [homesick](https://github.com/technicalpickles/homesick) - Clone and manage Git-based dotfiles repositories with symlinks.
+*   [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 
 ### Miscellaneous / macOS
 
@@ -160,20 +178,20 @@ A curated list of dotfiles resources.
 
 ### Related Lists / macOS
 
-*   [Awesome Dev Env (⭐3.3k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development
+*   [Awesome Dev Env (⭐3.4k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development
     environment.
-*   [Awesome Shell (⭐37k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+*   [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 *   [Awesome Zsh Plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
 *   [Terminals Are Sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ### Archive/abandoned projects / macOS
 
-*   [Bork (⭐218)](https://github.com/mattly/bork)
-*   [Cider (⭐838)](https://github.com/msanders/cider)
-*   [dev-setup (⭐6.3k)](https://github.com/donnemartin/dev-setup)
-*   [dotfiles (⭐588)](https://github.com/jbernard/dotfiles)
+*   [Bork](https://github.com/mattly/bork)
+*   [Cider](https://github.com/msanders/cider)
+*   [dev-setup](https://github.com/donnemartin/dev-setup)
+*   [dotfiles](https://github.com/jbernard/dotfiles)
 *   [ellipsis (⭐364)](https://github.com/ellipsis/ellipsis)
-*   [Pearl (⭐237)](https://github.com/pearl-core/pearl)
+*   [Pearl](https://github.com/pearl-core/pearl)
 *   [vcsh (⭐2.3k)](https://github.com/RichiH/vcsh) ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html), [article](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 
 ## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
@@ -194,35 +212,28 @@ A curated list of dotfiles resources.
 *   [Shell startup scripts](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 *   [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
-### Articles / Using specific tools
-
-*   [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-*   [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
-
 ### Find dotfiles repos / Using specific tools
 
 *   [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
-*   [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 
 ### Tools / Ansible
 
-*   [chezmoi (⭐21k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐8k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-*   [dotdrop (⭐1.9k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+*   [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [dotdrop (⭐2k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 *   [Fisher (⭐9.4k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
-*   [homeshick (⭐2.2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+*   [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 *   [mackup (⭐15k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
 ### Tools / macOS
 
-*   [dockutil (⭐1.6k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
+*   [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
 *   [mas (⭐12k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Archive/abandoned projects / macOS
 
 *   [bashdot (⭐108)](https://github.com/bashdot/bashdot)
-*   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
-*   [battleschool (⭐420)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐419)](https://github.com/eduardolundgren/dotfiles)
+*   [Bashstrap](https://github.com/barryclark/bashstrap)
+*   [battleschool (⭐419)](https://github.com/spencergibb/battleschool)
+*   [Eduardo's dotfiles (⭐420)](https://github.com/eduardolundgren/dotfiles)
 *   [kody (⭐140)](https://github.com/jh3y/kody)
-*   [osxc](http://osxc.github.io)
