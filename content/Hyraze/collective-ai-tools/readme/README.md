@@ -139,6 +139,7 @@ Use these hashtags in search to filter out the tools
 *   [LoginLlama](https://loginllama.app/) - Enhance Security with LoginLlama's Suspicious Login Detection `#freemium`
 *   [Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer. `#free`
 *   [Luminal](https://getluminal.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
+*   [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
 *   [Yingdao AI Power](https://www.yingdao.com/) - Build enterprise AI applications without coding. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -322,6 +323,7 @@ Use these hashtags in search to filter out the tools
 *   [Baidu GBI](https://www.baidu.com/) - Generative BI and data visualization tool. `#paid`
 *   [ChatExcel](https://chatexcel.co/) - Chat-style spreadsheet processing and analysis. `#free`
 *   [CSV-GPT](https://getluminal.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
+*   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
 *   [Dataspot](https://dataspot.com/) - Understand any data instantly using AI `#freemium`
 *   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
 *   [Excelly-AI](https://excelly-ai.io/) - Text-to-formula for Excel and Google Sheets. `#free`
@@ -415,6 +417,7 @@ Use these hashtags in search to filter out the tools
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
 *   [AI Router](https://ai-router.dev) - Hosted OpenAI-compatible API relay with unified multi-model access, personal API keys, and per-key usage visibility. `#freemium`
 *   [aiXcoder](https://www.aixcoder.com/) - Chinese deep learning software dev assistant. `#freemium`
+*   [Archcore (⭐68)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
 *   [AskCodi](https://www.askcodi.com/) - Code generation and refactoring assistant. `#free`
 *   [Augment Code](https://augmentcode.com/) - Industry-leading context engine for developers. `#paid`
 *   [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
@@ -1075,6 +1078,7 @@ Use these hashtags in search to filter out the tools
 *   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
 *   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
 *   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
+*   [Blawgy](https://blawgy.com/) - Writes and publishes SEO blog posts to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, with an MCP server so any AI agent can research keywords, manage the plan and publish. `#paid` `#seo`
 *   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
 *   [Frizerly](https://www.thefrizerly.com/) - AI agent that learns your business and competitors to automatically publish SEO blogs. `#paid`
 *   [GrowthBar](https://www.growthbarseo.com/) - SEO tool designed to help marketers, bloggers, and content teams create SEO-friendly content. `#paid`
@@ -1120,6 +1124,7 @@ Use these hashtags in search to filter out the tools
 *   [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
 *   [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
 *   [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
+*   [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries and step-by-step plans. `#freemium`
 *   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 *   [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
 *   [SummaryTube](https://summarytube.com/) - AI Youtube Video Summarizer. Get key AI insights, extract key moments and transcription. `#freemium`
@@ -1222,6 +1227,7 @@ Use these hashtags in search to filter out the tools
 *   [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
 *   [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or course into up to 20 vertical 9:16 shorts with word-by-word captions. `#freemium`
 *   [SkyReels](https://skyreels.ai/) - One-click text-to-animation platform. `#freemium`
+*   [Sora2 Hub](https://sora2hub.org/) - AI image and video generation platform for text-to-video, image-to-video and text-to-image in one workspace. `#freemium`
 *   [Sora](https://openai.com/sora) - OpenAI's revolutionary text-to-video generation model with high-quality results `#freemium`
 *   [Spikes Studio](https://spikes.studio/) - identifies segments for social media short-form. `#free`
 *   [Step Video](https://step.ai/) - Multi-theme creation and description optimizer. `#free`

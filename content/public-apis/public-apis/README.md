@@ -6,6 +6,368 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 12, 2026](/content/2026/10/12/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Agent Nexus](https://agentnexus.app)
+
+  Description: Find agent-callable APIs, MCP servers and CLIs by capability, with live health and uptime data
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/agent-nexus)
+
+
+
+### Art & Design
+
+- API: [3DTexel](https://3dtexel.com/developers/#public-api)
+
+  Description: Search free CC0 PBR materials, HDRIs, decals and 3D models for games
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Business
+
+- API: [RegisterWire](https://www.registerwire.uk/docs/index.html)
+
+  Description: Real-time alerts on UK company register changes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Data Validation
+
+- API: [invowerk](https://invowerk.dev/docs)
+
+  Description: Validate e-invoices (ZUGFeRD, Factur-X, XRechnung, Peppol BIS) and get a validation report
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Development
+
+- API: [Domain Info by LifeStep](https://dns.lifestep.io)
+
+  Description: DNS records, SPF/DMARC detection and TLS certificate expiry
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [QR Code by LifeStep](https://qr.lifestep.io)
+
+  Description: Generate QR codes as PNG or SVG with size, border and color options
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [Convert Online](https://convert.online/api-docs)
+
+  Description: Online file converter for image, video, audio, document, ebook, font, archive and CAD formats
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [flatmark](https://flatmark.dev/docs)
+
+  Description: Convert PDF, Word, PowerPoint, Excel and HTML documents to Markdown for RAG and agents
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [pdfrender](https://pdfrender.dev/docs)
+
+  Description: HTML and CSS to PDF with page headers, footers and page numbers, no headless browser
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TeamSort](https://teamsort.world/developers)
+
+  Description: Create a ranked-choice poll from a text prompt and get a shareable link
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [TempMailGrab](https://tempmailgrab.com/api-docs)
+
+  Description: Disposable inboxes for email testing with OTP extraction and webhooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Entertainment
+
+- API: [Yes or No Oracle](https://yesnooracle.app/api)
+
+  Description: Random yes/no/maybe answers in 7 themed oracle voices (Magic 8 Ball, Tarot, and more)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Environment
+
+- API: [GridVigil](https://gridvigil.com/developers)
+
+  Description: Pressure scores, demand, generation mix and alerts for the 10 major U.S. power grids
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Mycelium](https://api.mycelium.global/docs/v1)
+
+  Description: Corporate carbon emissions disclosures (scope 1, 2 and 3), company-reported and estimated
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [sensor.community (⭐126)](https://github.com/opendata-stuttgart/meta/wiki/EN-APIs)
+
+  Description: Community air quality sensor network data worldwide
+
+  Auth: `User-Agent`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [CardBinCheck](https://cardbincheck.com/bin-lookup-api)
+
+  Description: Card BIN/IIN lookup: network, issuer, country and card type for the first 6-8 digits
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [India GST HSN & SAC](https://gst-hsn-sac-api.vercel.app/docs)
+
+  Description: Indian GST HSN and SAC classification code lookup and search
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Boletín Oficial del Estado (BOE)](https://www.boe.es/datosabiertos/)
+
+  Description: Official Spanish State Gazette open data: laws, summaries and XML/JSON APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [India LGD Index](https://india-lgd-index-api.vercel.app/docs)
+
+  Description: Free, keyless Indian states, districts, sub-districts and development blocks with LGD codes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [THC Open Mindfulness Resources](https://api.theholisticcare.com/docs)
+
+  Description: Free mindfulness resources and research metadata
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : [Postman](https://www.postman.com/mohanthc-793029/thc-open-mindfulness-api/collection/oz842bb/thc-open-mindfulness-resources-api)
+
+
+
+### Open Data
+
+- API: [ProductGuru](https://myproduct.guru/lookup/)
+
+  Description: Consumer product-safety recall notices from 11 government registers, looked up by barcode (EAN/GTIN)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [iNaturalist](https://api.inaturalist.org/v1/docs/)
+
+  Description: Citizen-science wildlife observations with species identification and mapping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [Profitvana](https://www.profitvana.com/developers)
+
+  Description: Seller fees for 31 marketplaces and payment processors, verified monthly
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Text Analysis
+
+- API: [eidosSpeech](https://eidosspeech.xyz)
+
+  Description: Free text-to-speech API with 1,200+ neural voices in 75+ languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [TransCAPI](https://www.transcapi.com/docs)
+
+  Description: Live bus and rail departures, vehicles, disruptions and journey planning for Great Britain
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [RankFabrik Captions](https://rankfabrik.com/produits/transcription)
+
+  Description: Extract transcripts and captions from YouTube videos
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Weather
+
+- API: [FMI Open Data](https://en.ilmatieteenlaitos.fi/open-data)
+
+  Description: Finnish weather, sea, climate and radar observations via open WFS
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
 ### APIs Covered Under APILayer Suite!

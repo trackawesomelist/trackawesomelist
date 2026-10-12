@@ -6,6 +6,16 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Oct 12, 2026](/content/2026/10/12/README.md)
+
+### Network & Web / Network
+
+*   [zig-nostr/deed (⭐5)](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
+
+### Multimedia & Graphics / GUI
+
+*   [zig-nostr/plaza (⭐8)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
+
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
 ### Language Essentials / Data Structure and Algorithm
@@ -1828,7 +1838,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [ashpil/moonshine (⭐141)](https://github.com/ashpil/moonshine) - A general purpose ray traced renderer built with Zig + Vulkan.
 *   [fabioarnold/nanovg-zig (⭐249)](https://github.com/fabioarnold/nanovg-zig) - [NanoVG (⭐5.7k)](https://github.com/memononen/nanovg) - Zig Version. A small anti-aliased hardware-accelerated vector graphics library. [fabioarnold.github.io/nanovg-zig/](https://fabioarnold.github.io/nanovg-zig/).
 *   [fubark/cosmic (⭐361)](https://github.com/fubark/cosmic) - A platform for computing and creating applications. [cosmic.ooo](https://www.cosmic.ooo/).
-*   [renerocksai/slides (⭐60)](https://github.com/renerocksai/slides) - This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui (⭐76k)](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) based, OpenGL-rendered slideshow app in Zig.
+*   [renerocksai/slides (⭐60)](https://github.com/renerocksai/slides) - This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui (⭐77k)](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) based, OpenGL-rendered slideshow app in Zig.
 *   [TinyVG/sdk (⭐301)](https://github.com/TinyVG/sdk) - TinyVG software development kit. [tinyvg.tech/](https://tinyvg.tech/).
 *   [andrewrk/zig-vulkan-triangle (⭐162)](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, glfw, and Zig.
 *   [cshenton/learnopengl (⭐145)](https://github.com/cshenton/learnopengl) - Zig Learn OpenGL.

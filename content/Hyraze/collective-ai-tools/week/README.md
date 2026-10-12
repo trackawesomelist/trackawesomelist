@@ -6,6 +6,32 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### App Builder
+
+*   [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
+
+### Data & BI
+
+*   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
+
+### Developer Tools
+
+*   [Archcore (⭐68)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
+
+### SEO
+
+*   [Blawgy](https://blawgy.com/) - Writes and publishes SEO blog posts to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, with an MCP server so any AI agent can research keywords, manage the plan and publish. `#paid` `#seo`
+
+### Summarizer
+
+*   [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries and step-by-step plans. `#freemium`
+
+### Video
+
+*   [Sora2 Hub](https://sora2hub.org/) - AI image and video generation platform for text-to-video, image-to-video and text-to-image in one workspace. `#freemium`
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Chatbots
