@@ -215,7 +215,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   General
     *   [scikit-learn (⭐67k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-    *   [pgmpy (⭐3.3k)](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
+    *   [pgmpy (⭐3.4k)](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
     *   [feature-engine (⭐2.3k)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 *   Gradient Boosting
     *   [xgboost (⭐29k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
@@ -407,7 +407,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [scrapy (⭐65k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
     *   [crawl4ai (⭐85k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
     *   [stagehand (⭐26k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-    *   [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
+    *   [jev-ultrafast (⭐23k)](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 *   Content Extraction
     *   [markdownify (⭐2.3k)](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown, with customizable tag handling.
     *   [feedparser (⭐2.4k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
@@ -445,7 +445,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   MySQL - [awesome-mysql (⭐2.6k)](https://github.com/shlomi-noach/awesome-mysql)
     *   [pymysql (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL and MariaDB client library, based on PEP 249.
-    *   [mysqlclient (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL and MariaDB connector ([MySQLdb1 (⭐663)](https://github.com/farcepest/MySQLdb1) fork).
+    *   [mysqlclient (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL and MariaDB connector ([MySQLdb1 (⭐664)](https://github.com/farcepest/MySQLdb1) fork).
 *   PostgreSQL - [awesome-postgres (⭐12k)](https://github.com/dhamaniasad/awesome-postgres)
     *   [psycopg (⭐2.5k)](https://github.com/psycopg/psycopg) - A PostgreSQL adapter for Python, the successor to psycopg2.
     *   [asyncpg (⭐8.1k)](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
@@ -724,7 +724,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for generating project documentation.*
 
-*   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
+*   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx) - Python Documentation generator.
     *   [awesome-sphinxdoc (⭐979)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 *   [mkdocs-material (⭐28k)](https://github.com/squidfunk/mkdocs-material) - A documentation framework and Material Design theme built on MkDocs.
 *   [diagrams (⭐43k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
@@ -765,7 +765,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   [pyspark (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
 *   [dask (⭐14k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-*   [ray (⭐44k)](https://github.com/ray-project/ray/) - A unified framework for scaling AI and Python applications.
+*   [ray (⭐44k)](https://github.com/ray-project/ray) - A unified framework for scaling AI and Python applications.
 *   [joblib (⭐4.4k)](https://github.com/joblib/joblib) - Parallel computing and disk-based caching for Python functions.
 *   [mpi4py (⭐927)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
 
@@ -826,10 +826,10 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   General
     *   [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
-    *   [click (⭐18k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
+    *   [click (⭐18k)](https://github.com/pallets/click) - A package for creating beautiful command line interfaces in a composable way.
     *   [typer (⭐20k)](https://github.com/fastapi/typer) - Modern CLI framework that uses Python type hints. Built on Click.
     *   [prompt\_toolkit (⭐11k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
-    *   [cyclopts](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
+    *   [cyclopts (⭐1.3k)](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
 *   Terminal Rendering
     *   [rich (⭐57k)](https://github.com/Textualize/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
     *   [tqdm (⭐31k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
@@ -857,7 +857,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [cookiecutter (⭐25k)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     *   [copier (⭐3.6k)](https://github.com/copier-org/copier) - A library and command-line utility for rendering project templates.
 *   Shells
-    *   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
+    *   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh) - A Python-powered shell. Full-featured and cross-platform.
 *   Terminal Workflow
     *   [tmuxp (⭐4.6k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐50k)](https://github.com/tmux/tmux) session manager.
 
@@ -878,7 +878,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
     *   [customtkinter (⭐14k)](https://github.com/tomschimansky/customtkinter) - A modern and customizable python UI-library based on Tkinter.
 *   Web-based
-    *   [pywebview (⭐6.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+    *   [pywebview (⭐6.1k)](https://github.com/r0x0r/pywebview) - A lightweight cross-platform native wrapper around a webview component.
     *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
     *   [flet (⭐17k)](https://github.com/flet-dev/flet) - Cross-platform GUI framework for building modern apps in pure Python.
 
@@ -919,7 +919,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *   [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
 *   [xmltodict (⭐5.8k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 *   [markupsafe (⭐698)](https://github.com/pallets/markupsafe) - Safely adds untrusted strings to HTML/XML markup.
-*   [justhtml (⭐1.2k)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
+*   [justhtml (⭐1.2k)](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
 
 ### File Format Processing
 
@@ -1038,7 +1038,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   [functools](https://docs.python.org/3/library/functools.html) - (Python standard library) Higher-order functions and operations on callable objects.
 *   [more-itertools (⭐4.1k)](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond `itertools`.
-*   [toolz (⭐5.2k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz (⭐1.1k)](https://github.com/pytoolz/cytoolz/) for Cython-accelerated performance.
+*   [toolz (⭐5.2k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz (⭐1.1k)](https://github.com/pytoolz/cytoolz) for Cython-accelerated performance.
 *   [funcy (⭐3.5k)](https://github.com/Suor/funcy) - A fancy and practical functional tools.
 *   [returns (⭐4.4k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
@@ -1088,7 +1088,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
     *   [poetry (⭐34k)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
     *   [hatch (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
     *   [pipx (⭐13k)](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
-    *   [conda (⭐7.5k)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+    *   [conda (⭐7.5k)](https://github.com/conda/conda) - Cross-platform, Python-agnostic binary package manager.
 *   Build Backends
     *   [setuptools (⭐2.9k)](https://github.com/pypa/setuptools) - The historical and still most widely used pyproject build backend.
     *   [hatchling (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible build backend from the hatch project.
@@ -1101,7 +1101,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *   [pypiserver (⭐2.1k)](https://github.com/pypiserver/pypiserver) - A minimal PyPI server for uploading and installing packages with pip.
 *   [devpi (⭐1.2k)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
-*   [bandersnatch (⭐552)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐552)](https://github.com/pypa/bandersnatch) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ### Distribution
 

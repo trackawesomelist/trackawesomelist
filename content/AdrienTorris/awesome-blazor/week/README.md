@@ -6,6 +6,18 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Videos / Others
+
+*   [.NET Day Online 2026, by JetBrains](https://www.youtube.com/live/adwmjYzQhaU?si=g9SNYD-JnE3c8XPb\&t=19792) - October 7, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-32%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Escape the Monolith: Scaling Blazor with .NET Aspire and Azure Container Apps, with Michael Washington.
+*   [Blazor Hybrid: One UI for Web, iOS, Android & Desktop (.NET MAUI)](https://www.youtube.com/watch?v=b9siFlZE6XQ) - July 20, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-65%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Blazor Hybrid + .NET MAUI: build your UI once with Razor components and ship it to the browser, iOS, Android, Windows, and macOS – with full native API access from a single .NET codebase. David Ortinau, Principal Product Manager on the .NET team at Microsoft, breaks down how Blazor Hybrid works under the hood: Razor components hosted in a BlazorWebView, running in one .NET process with no web server on the device. He walks through the .NET MAUI Blazor Web App template, native platform concerns like Android safe areas, and real production-grade Blazor Hybrid apps – Sentence Studio (an AI-powered language learning app orchestrated with .NET Aspire), PolyPilot (an app the .NET MAUI team built entirely with AI agents), and MAUI Sherpa (an open-source toolbox for cross-platform developers). He also shares the .NET 11 roadmap: CoreCLR as the single runtime across platforms (WASM support still in progress), the path to Native AOT, .NET Watch everywhere, a unified Hot Reload pipeline, and MAUI DevFlow – tooling that gives AI coding agents eyes and hands inside your running app.
+
+### Articles / Others
+
+*   [Should I break down my Blazor page into multiple components?](https://www.blazrlytics.com/blog/should-i-break-down-my-blazor-page-into-multiple-components) - October 6, 2026 - Article describing the pros and cons about breaking down a Blazor page into multiple components.
+    \*[Build Agentic UI with the new Blazor AI components](https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/) - September 28, 2026 - Build Agentic UI with the new Blazor AI components for streamed content, tools, approvals, shared state, and generative experiences.
+
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### ToDos
@@ -82,7 +94,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### ToDos
 
-*   [OpenHabitTracker (⭐283)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
+*   [OpenHabitTracker (⭐293)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
 
 ### Component bundles
 

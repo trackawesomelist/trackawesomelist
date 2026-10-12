@@ -2,21 +2,27 @@
 
 A curated list of awesome downloadable SVG/PNG/Font icon projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 977 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 1K · 🏷️ Media
 
 [ [Daily](/content/notlmn/awesome-icons/README.md) / Weekly / [Overview](/content/notlmn/awesome-icons/readme/README.md) ]
+
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### General
+
+*   [Energy Icons (⭐12)](https://github.com/Sam-r-passmore/energy-icons#readme) - Open source icons for the energy transition and everyday UI, with 1,279 icons in two optical sizes and two weights. ([Website](https://energyicons.com))
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Special
 
-*   [GeoIcons (⭐9)](https://github.com/getgeoicons/geoicons#readme) - Geographic map icons as tree-shakable SVG components. ([Website](https://geoicons.io))
+*   [GeoIcons (⭐14)](https://github.com/getgeoicons/geoicons#readme) - Geographic map icons as tree-shakable SVG components. ([Website](https://geoicons.io))
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Other / Frameworks
 
-*   [Unicon (⭐12)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
+*   [Unicon (⭐16)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -30,7 +36,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### Other / Frameworks
 
-*   [Iconify Deign (⭐6.2k)](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
+*   [Iconify Deign (⭐6.4k)](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 *   [React Icons (⭐13k)](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
@@ -49,7 +55,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### Logos
 
-*   [Web3 Icons (⭐254)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
+*   [Web3 Icons (⭐285)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -61,7 +67,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### Logos
 
-*   [VectorLogoZone (⭐429)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
+*   [VectorLogoZone (⭐437)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
@@ -73,15 +79,15 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### General
 
-*   [IconPark (⭐9.1k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
-*   [Remix Icon (⭐8.2k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
+*   [IconPark (⭐9k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
+*   [Remix Icon (⭐8.4k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
 ### General
 
 *   [Fluent System Icons (⭐11k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
-*   [Teenyicons (⭐1.8k)](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching\_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
+*   [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching\_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 
 ### Logos
 
@@ -99,13 +105,13 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 ### General
 
 *   [Bootstrap Icons (⭐8.1k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
-*   [Tabler Icons (⭐21k)](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
+*   [Tabler Icons (⭐22k)](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
 ### General
 
-*   [Picon (⭐27)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
+*   [Picon (⭐29)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
@@ -121,15 +127,11 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 *   Flaticon - The largest database of free vector icons. ([Website](https://flaticon.com))
 *   Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 
-### Other / Paid
-
-*   [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
-
 ## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
 
 ### General
 
-*   [VSCode Icons (⭐948)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐951)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
@@ -148,14 +150,14 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 *   [Font Awesome (⭐77k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 *   [Ion icons (⭐18k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 *   [Material design icons (⭐54k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
-*   [Octicons (⭐8.7k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
+*   [Octicons (⭐8.8k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 ### Logos
 
-*   [Cryptocurrency icons (⭐2.7k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
+*   [Cryptocurrency icons (⭐2.8k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 *   [Dev icons (⭐2.8k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
-*   [Simple icons (⭐25k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org/))
+*   [Simple icons (⭐26k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org/))
 
 ### Other / CSS only
 
@@ -166,7 +168,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 ### General
 
 *   [Super Tiny Icons (⭐15k)](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-*   [Weather icons (⭐7.1k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+*   [Weather icons (⭐7.2k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 
 ### Logos
 

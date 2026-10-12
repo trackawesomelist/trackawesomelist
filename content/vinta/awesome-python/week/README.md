@@ -6,6 +6,37 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 [ [Daily](/content/vinta/awesome-python/README.md) / Weekly / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Projects / Documentation
+
+*   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx) - Python Documentation generator.
+    *   [awesome-sphinxdoc (⭐979)](https://github.com/ygzgxyz/awesome-sphinxdoc)
+
+### Projects / Distributed Computing
+
+*   [ray (⭐44k)](https://github.com/ray-project/ray) - A unified framework for scaling AI and Python applications.
+
+### Projects / CLI Tools
+
+*   Shells
+    *   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh) - A Python-powered shell. Full-featured and cross-platform.
+
+### Projects / GUI Development
+
+*   Web-based
+    *   [pywebview (⭐6.1k)](https://github.com/r0x0r/pywebview) - A lightweight cross-platform native wrapper around a webview component.
+    *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
+    *   [flet (⭐17k)](https://github.com/flet-dev/flet) - Cross-platform GUI framework for building modern apps in pure Python.
+
+### Projects / HTML Manipulation
+
+*   [justhtml (⭐1.2k)](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
+
+### Projects / Package Repositories
+
+*   [bandersnatch (⭐552)](https://github.com/pypa/bandersnatch) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### **Sponsors**
@@ -257,7 +288,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [semantica (⭐14k)](https://github.com/semantica-agi/semantica) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 *   Pre-trained Models
     *   [transformers (⭐168k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
-    *   [sentence-transformers](https://github.com/huggingface/sentence-transformers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
+    *   [sentence-transformers (⭐19k)](https://github.com/huggingface/sentence-transformers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
 *   LLM Inference and Serving
     *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
@@ -387,7 +418,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   General
     *   [awswrangler (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
-    *   [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
+    *   [dlt (⭐6k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 *   Financial Data
     *   [yfinance (⭐25k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐23k)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
@@ -494,7 +525,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Distributed Computing
 
 *   [pyspark (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
-*   [ray (⭐44k)](https://github.com/ray-project/ray/) - A unified framework for scaling AI and Python applications.
 *   [joblib (⭐4.4k)](https://github.com/joblib/joblib) - Parallel computing and disk-based caching for Python functions.
 *   [mpi4py (⭐927)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
 
@@ -520,8 +550,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [iredis (⭐2.8k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
 *   Downloaders
     *   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
-*   Shells
-    *   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
 *   Terminal Workflow
     *   [tmuxp (⭐4.6k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐50k)](https://github.com/tmux/tmux) session manager.
 
@@ -533,10 +561,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Tkinter
     *   [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
     *   [customtkinter (⭐14k)](https://github.com/tomschimansky/customtkinter) - A modern and customizable python UI-library based on Tkinter.
-*   Web-based
-    *   [pywebview (⭐6.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
-    *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
-    *   [flet (⭐17k)](https://github.com/flet-dev/flet) - Cross-platform GUI framework for building modern apps in pure Python.
 
 ### Projects / Text Processing
 
@@ -715,7 +739,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   General
     *   [scikit-learn (⭐67k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-    *   [pgmpy (⭐3.3k)](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
+    *   [pgmpy (⭐3.4k)](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
     *   [feature-engine (⭐2.3k)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 
 ### Projects / Recommender Systems
@@ -753,7 +777,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   MySQL - [awesome-mysql (⭐2.6k)](https://github.com/shlomi-noach/awesome-mysql)
     *   [pymysql (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL and MariaDB client library, based on PEP 249.
-    *   [mysqlclient (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL and MariaDB connector ([MySQLdb1 (⭐663)](https://github.com/farcepest/MySQLdb1) fork).
+    *   [mysqlclient (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL and MariaDB connector ([MySQLdb1 (⭐664)](https://github.com/farcepest/MySQLdb1) fork).
 
 ### Projects / Database
 
@@ -837,7 +861,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / HTML Manipulation
 
 *   [lxml (⭐3.1k)](https://github.com/lxml/lxml) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-*   [justhtml (⭐1.2k)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
 
 ### Projects / File Format Processing
 
@@ -871,7 +894,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [poetry (⭐34k)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
     *   [hatch (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
     *   [pipx (⭐13k)](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
-    *   [conda (⭐7.5k)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+    *   [conda (⭐7.5k)](https://github.com/conda/conda) - Cross-platform, Python-agnostic binary package manager.
 
 ### Projects / Configuration Files
 
@@ -902,7 +925,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [scrapy (⭐65k)](https://github.com/scrapy/scrapy) - A fast high-level web crawling and scraping framework.
     *   [crawl4ai (⭐85k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
     *   [stagehand (⭐26k)](https://github.com/browserbase/stagehand) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-    *   [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
+    *   [jev-ultrafast (⭐23k)](https://github.com/browser-use/jev-ultrafast) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 
 ### Projects / Serialization
 
@@ -916,10 +939,10 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   General
     *   [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
-    *   [click (⭐18k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
+    *   [click (⭐18k)](https://github.com/pallets/click) - A package for creating beautiful command line interfaces in a composable way.
     *   [typer (⭐20k)](https://github.com/fastapi/typer) - Modern CLI framework that uses Python type hints. Built on Click.
     *   [prompt\_toolkit (⭐11k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
-    *   [cyclopts](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
+    *   [cyclopts (⭐1.3k)](https://github.com/BrianPugh/cyclopts) - Build CLIs from type-hinted functions, with docstring-based help.
 
 ### Projects / Functional Programming
 
@@ -1014,7 +1037,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Functional Programming
 
-*   [toolz (⭐5.2k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz (⭐1.1k)](https://github.com/pytoolz/cytoolz/) for Cython-accelerated performance.
+*   [toolz (⭐5.2k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz (⭐1.1k)](https://github.com/pytoolz/cytoolz) for Cython-accelerated performance.
 
 ### Projects / Distribution
 
@@ -1187,12 +1210,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   [paramiko (⭐9.9k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 
-## [Mar 25 - Mar 31, 2019](/content/2019/12/README.md)
-
-### Projects / Package Repositories
-
-*   [bandersnatch (⭐552)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
-
 ## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
 
 ### Projects / Deep Learning
@@ -1349,11 +1366,6 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   pdb-like Debugger
     *   [ipdb (⭐2k)](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
     *   [pudb (⭐3.2k)](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger.
-
-### Projects / Documentation
-
-*   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
-    *   [awesome-sphinxdoc (⭐979)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 
 ### Projects / Network Virtualization
 
