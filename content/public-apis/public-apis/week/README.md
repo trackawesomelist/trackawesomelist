@@ -50,6 +50,20 @@ A collective list of free APIs
 
 
 
+### Calendar
+
+- API: [Intellibook](https://www.intellibookai.com/docs)
+
+  Description: Appointment booking and availability API for salons and clinics
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Data Validation
 
 - API: [invowerk](https://invowerk.dev/docs)
@@ -90,12 +104,34 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [SolidPing](https://docs.solidping.io/docs/api)
+
+  Description: Create and run uptime checks, read results and incidents, manage status pages, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Documents & Productivity
 
 - API: [Convert Online](https://convert.online/api-docs)
 
   Description: Online file converter for image, video, audio, document, ebook, font, archive and CAD formats
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Emboss](https://getemboss.ai/docs)
+
+  Description: Make PDF forms fillable, fill them from JSON or documents, and read filled forms back
 
   Auth: `apiKey`
 
@@ -228,6 +264,31 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Live SEC Form 4 Insider Trades](https://rapidapi.com/crisp-point-studio-crisp-point-studio-default/api/live-sec-form-4-insider-trades)
+
+  Description: Latest SEC Form 4 insider trading filings from EDGAR, by ticker or market-wide
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Games & Comics
+
+- API: [Master Setter](https://api.master-setter.com)
+
+  Description: Pokémon TCG cards and sets in 14 languages, with every printing and variant
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Government
 
@@ -256,6 +317,17 @@ A collective list of free APIs
 
 ### Health
 
+- API: [FDA Recalls](https://rapidapi.com/crisp-point-studio-crisp-point-studio-default/api/live-fda-product-food-recalls)
+
+  Description: Latest FDA food, drug and product recall notices as JSON with keyword search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 - API: [THC Open Mindfulness Resources](https://api.theholisticcare.com/docs)
 
   Description: Free mindfulness resources and research metadata
@@ -270,13 +342,52 @@ A collective list of free APIs
 
 
 
+### Machine Learning
+
+- API: [Lacuna](https://lacuna.mergeinc.workers.dev/agents.md)
+
+  Description: Public board where AI agents post problems as seeks and agents who solved them offer help
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Open Data
+
+- API: [Kvartiry-Phuket](https://kvartiry-phuket.com/otkrytye-dannye/#english)
+
+  Description: Russian-language Phuket real estate guides, asking prices, condo assessment rates, weather, beaches
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [ProductGuru](https://myproduct.guru/lookup/)
 
   Description: Consumer product-safety recall notices from 11 government registers, looked up by barcode (EAN/GTIN)
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Photography
+
+- API: [localscreenshot](https://localscreenshot.com)
+
+  Description: Screenshot or PDF rendering of any public page, from 227 countries
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -298,6 +409,31 @@ A collective list of free APIs
 
 
 
+### Security
+
+- API: [CISA Known Exploited Vulnerabilities](https://rapidapi.com/crisp-point-studio-crisp-point-studio-default/api/live-cisa-cybersecurity-vulnerabilities-kev)
+
+  Description: CISA KEV catalog of actively exploited CVEs as JSON, filterable by vendor, with CWE and due dates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [IPScanner](https://ipscanner.io/api-documentation)
+
+  Description: IP network class (residential, mobile, hosting, VPN, residential proxy, Tor) with a confidence score
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Shopping
 
 - API: [Profitvana](https://www.profitvana.com/developers)
@@ -305,6 +441,31 @@ A collective list of free APIs
   Description: Seller fees for 31 marketplaces and payment processors, verified monthly
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [AcesAPI](https://acesapi.com/docs)
+
+  Description: ATP and WTA tennis since 2007: match results, draws, rankings, head to head, surface Elo and odds
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [FastballAPI](https://fastballapi.com/docs)
+
+  Description: MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -340,6 +501,20 @@ A collective list of free APIs
 
 
 
+### Vehicle
+
+- API: [NHTSA Vehicle Recalls](https://rapidapi.com/crisp-point-studio-crisp-point-studio-default/api/live-nhtsa-vehicle-recalls)
+
+  Description: NHTSA safety recalls by model year, make and model with component, consequence and remedy
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Video
 
 - API: [RankFabrik Captions](https://rankfabrik.com/produits/transcription)
@@ -367,21 +542,21 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [NOAA CO-OPS](https://api.tidesandcurrents.noaa.gov/api/prod/)
+
+  Description: US coastal tides, water levels, currents and meteorological observations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### APIs Covered Under APILayer Suite!
-
-- Name: [Monocrawl (⭐1)](https://github.com/monocrawl/monocrawl-mcp)
-
-  Description: Public posts, profiles, comments and products from 70+ social, shopping and search platforms
-
-  Auth: `apiKey`
-
-  Transport: `stdio`, `HTTP`
-
-  Install: [Glama](https://glama.ai/mcp/connectors/com.monocrawl/mcp)
-
 
 - Name: [Catastro GPS (⭐1)](https://github.com/TheHiddenPandaDev/catastro_gps_mcp)
 
@@ -403,6 +578,17 @@ A collective list of free APIs
   Transport: `HTTP`
 
   Install: [Glama](https://glama.ai/mcp/connectors/ai.edgechat/edgepedia)
+
+
+- Name: [Monocrawl (⭐1)](https://github.com/monocrawl/monocrawl-mcp)
+
+  Description: Public posts, profiles, comments and products from 70+ social, shopping and search platforms
+
+  Auth: `apiKey`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.monocrawl/mcp)
 
 
 - Name: [Silicon Floor](https://siliconfloor.com/docs/mcp)
@@ -1036,15 +1222,15 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
-- Name: [OpenSwissData (⭐0)](https://github.com/cammac-creator/openswissdata/tree/main/sdks/mcp-server)
+- Name: [corpusAI Cloud Pricing](https://cloud.trycorpus.ai/docs#quick-start-for-agents)
 
-  Description: Swiss customs tariff (TARES), FINMA register and warnings, NOGA/NACE/ISIC code crosswalks
+  Description: Cloud, GPU and LLM token prices for agents, free discovery tools and paid per-call data
 
   Auth: No
 
   Transport: `stdio`, `HTTP`
 
-  Install: [Glama](https://glama.ai/mcp/connectors/io.github.cammac-creator/openswissdata)
+  Install: [npm](https://www.npmjs.com/package/corpus-cloud-pricing-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=corpus-cloud-pricing)
 
 
 - Name: [Kuro](https://meetkuro.com/agents/)
@@ -1058,15 +1244,15 @@ A collective list of free APIs
   Install: –
 
 
-- Name: [corpusAI Cloud Pricing](https://cloud.trycorpus.ai/docs#quick-start-for-agents)
+- Name: [OpenSwissData (⭐0)](https://github.com/cammac-creator/openswissdata/tree/main/sdks/mcp-server)
 
-  Description: Cloud, GPU and LLM token prices for agents, free discovery tools and paid per-call data
+  Description: Swiss customs tariff (TARES), FINMA register and warnings, NOGA/NACE/ISIC code crosswalks
 
   Auth: No
 
   Transport: `stdio`, `HTTP`
 
-  Install: [npm](https://www.npmjs.com/package/corpus-cloud-pricing-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=corpus-cloud-pricing)
+  Install: [Glama](https://glama.ai/mcp/connectors/io.github.cammac-creator/openswissdata)
 
 
 - Name: [RegSentry](https://regsentry.com/mcp-guide)
@@ -2247,17 +2433,6 @@ A collective list of free APIs
   Install: [Cursor](https://cursor.directory/plugins/apilayer-mcp-adapter) · [Glama](https://glama.ai/mcp/connectors/com.apilayer.mcp/apilayer-mcp-adapter)
 
 
-- Name: [GitHub (⭐33k)](https://github.com/github/github-mcp-server)
-
-  Description: Repos, issues, PRs, code search
-
-  Auth: `OAuth`
-
-  Transport: `stdio`, `HTTP`
-
-  Install: [Glama](https://glama.ai/mcp/servers/@github/github-mcp-server)
-
-
 - Name: [Filesystem (⭐91k)](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)
 
   Description: Read/write local files
@@ -2267,6 +2442,17 @@ A collective list of free APIs
   Transport: `stdio`
 
   Install: –
+
+
+- Name: [GitHub (⭐33k)](https://github.com/github/github-mcp-server)
+
+  Description: Repos, issues, PRs, code search
+
+  Auth: `OAuth`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/@github/github-mcp-server)
 
 
 
@@ -2426,7 +2612,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐193)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐194)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -7945,7 +8131,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐127)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐128)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -8066,7 +8252,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐130)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -9158,7 +9344,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐230)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐224)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 

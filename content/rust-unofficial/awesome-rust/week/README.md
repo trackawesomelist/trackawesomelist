@@ -8,6 +8,14 @@ A curated list of Rust code and resources.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Applications
+
+*   [Aster-Privacy/Aster-Mail (⭐78)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
+
+### Applications / Productivity
+
+*   [raine/aven (⭐174)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
+
 ### Applications / System tools
 
 *   [MenkeTechnologies/fusevm](https://crates.io/crates/fusevm) - a polygot virtual machine and JIT
