@@ -8,6 +8,10 @@
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Tools / Data
+
+*   [OLake (⭐1.5k)](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
+
 ### Tools / Desktop
 
 *   [BsonJet](https://bsonjet.com) - Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health
@@ -15,6 +19,10 @@
 ### Tools / Development
 
 *   [Keploy (⭐19k)](https://github.com/keploy/keploy) - Records real MongoDB query results and replays them as mocks in tests, without a running database
+
+### Tools / Monitoring
+
+*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Self-hosted uptime monitor with a MongoDB ping check and alerting
 
 ### Tools / Shell
 

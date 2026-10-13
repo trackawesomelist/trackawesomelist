@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Oct 13, 2026](/content/2026/10/13/README.md)
+
+### Videos / Others
+
+*   [Blazor Community Standup: Build agentic experiences with the Blazor AI Components](https://www.youtube.com/watch?v=XT6KEenXgEc) - October 6, 2026 - ![duration](https://img.shields.io/badge/Duration:%20-68%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Modern AI applications are more than chat experiences. Learn how to use the new Blazor AI Components to build agent-centric apps where AI agents actively participate in the user experience, driving workflows, taking actions, and helping users get work done.
+
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
 ### Videos / Others
