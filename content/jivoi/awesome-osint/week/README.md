@@ -12,6 +12,10 @@
 
 *   [Facebook GraphQL Scraper (⭐18)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
 
+### Email Search / Email Check / GitHub
+
+*   [OpenLeads (⭐32)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Google Dorks Tools
@@ -2189,7 +2193,7 @@
 
 ### Username Check / GitHub
 
-*   [Maigret (⭐38k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐39k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 

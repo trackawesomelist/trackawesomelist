@@ -140,6 +140,7 @@ Use these hashtags in search to filter out the tools
 *   [Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer. `#free`
 *   [Luminal](https://getluminal.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
 *   [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
+*   [VibeKit](https://vibekit.bot/) - Mobile-first AI app builder where each app gets its own persistent coding agent that builds it, hosts it on a live domain and keeps improving it, from an iPhone or the web. `#freemium`
 *   [Yingdao AI Power](https://www.yingdao.com/) - Build enterprise AI applications without coding. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -466,7 +467,7 @@ Use these hashtags in search to filter out the tools
 *   [Heabsy](https://heabsy.com/) - OpenAI- and Anthropic-compatible inference API for open models, with an EEA tier on dedicated GPUs in EEA data centres and zero data retention. `#paid`
 *   [HeyCLI](https://heycli.com/) - Natural language execution for Linux terminals. `#paid`
 *   [Hocoos](https://hocoos.com/) - AI-driven no-code website construction tool. `#paid`
-*   [Hyperconsciousness (⭐2)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
+*   [Hyperconsciousness (⭐7)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
 *   [Imgcook](https://www.imgcook.com/) - Taobao design-to-code intelligent tool. `#free`
 *   [JamGPT](https://jam.dev/) - Automated error reporting and fixing assistant. `#free`
 *   [Jet Browser (⭐2)](https://github.com/masakaai/jet-browser) - Portable WPE WebKit runtime for agents with isolated Docker sessions, native input, DOM/text reads, fresh screenshots, and ordered JSONL, MCP, and JavaScript SDK interfaces. `#free` `#opensource`

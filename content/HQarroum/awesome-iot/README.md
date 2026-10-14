@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Oct 14, 2026](/content/2026/10/14/README.md)
+
+### Software / Operating systems
+
+*   [Snappy Ubuntu](https://ubuntu.com/core) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
+
+### Software / Miscellaneous
+
+*   [ESP32 iPhone Agent (⭐1.7k)](https://github.com/onehumanbeing/esp32-iphone-agent) - An ESP32-S3 plugged into an iPhone acts as a Wi-Fi-controlled USB mouse and keyboard, so an AI vision model can operate the phone through AirPlay screen mirroring.
+
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
+
+*   [AIOTI](https://aioti.eu/) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Software / Middlewares
@@ -18,7 +32,7 @@
 
 ## [Oct 06, 2026](/content/2026/10/06/README.md)
 
-### \- [NFC](https://en.wikipedia.org/wiki/Near_field_communication) / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
+### [NFC](https://en.wikipedia.org/wiki/Near_field_communication) / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Awesome NFC (⭐0)](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
 
@@ -78,7 +92,7 @@
 
 ### Software / Frameworks
 
-*   [Jumpstarter (⭐223)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
+*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
 
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
@@ -146,12 +160,6 @@
 
 *   [AtomVM](https://atomvm.org/) - Brings Erlang, Elixir, Gleam and other functional languages to microcontrollers.
 
-## [Dec 26, 2023](/content/2023/12/26/README.md)
-
-### Software / Middlewares
-
-*   [Zilla](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
-
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
 ### Software / Middlewares
@@ -190,12 +198,6 @@
 
 *   [WisBlock](https://www.rakwireless.com/en-us/products/wisblock) - WisBlock is a modular system that makes it easy to implement low power wide area network (LPWAN) into IoT solutions. WisBlock consists of a base board, core compute module and combination of several sensor modules.
 
-## [Oct 12, 2022](/content/2022/10/12/README.md)
-
-### Software / Libraries and Tools
-
-*   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
-
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
 ### Hardware
@@ -228,12 +230,6 @@
 
 *   [authBroker (⭐8)](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
 
-## [May 01, 2022](/content/2022/05/01/README.md)
-
-### Software / Operating systems
-
-*   [Android Things](https://developer.android.com/things/) - **Note: Android Things is depreciated.** Android Things extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.
-
 ## [Mar 10, 2022](/content/2022/03/10/README.md)
 
 ### Software / Libraries and Tools
@@ -251,12 +247,6 @@
 ### Software / Frameworks
 
 *   [AREG SDK (⭐367)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
-
-## [Oct 21, 2021](/content/2021/10/21/README.md)
-
-### Software / Frameworks
-
-*   [Macchina.io](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
 ## [Oct 08, 2021](/content/2021/10/08/README.md)
 
@@ -331,7 +321,6 @@
 
 ### Software / Operating systems
 
-*   [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 *   [Tiny OS (⭐1.5k)](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 
 ## [Sep 02, 2020](/content/2020/09/02/README.md)
@@ -396,12 +385,6 @@
 
 *   [MyController (⭐155)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
-## [Dec 03, 2018](/content/2018/12/03/README.md)
-
-### Software / Middlewares
-
-*   [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
-
 ## [Nov 30, 2018](/content/2018/11/30/README.md)
 
 ### Software / Operating systems
@@ -451,12 +434,6 @@
 ### Software / Middlewares
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
-
-## [Oct 31, 2017](/content/2017/10/31/README.md)
-
-### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
-
-*   [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
 
 ## [Oct 25, 2017](/content/2017/10/25/README.md)
 
@@ -613,12 +590,6 @@
 
 *   [Countly IoT Analytics (⭐5.9k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
-## [Dec 18, 2015](/content/2015/12/18/README.md)
-
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
-
-*   [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
-
 ## [Nov 05, 2015](/content/2015/11/05/README.md)
 
 ### Software / Middlewares
@@ -675,10 +646,6 @@
 ### Software / Miscellaneous
 
 *   [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
-
-### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
-
-*   [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 
 ## [Oct 14, 2015](/content/2015/10/14/README.md)
 

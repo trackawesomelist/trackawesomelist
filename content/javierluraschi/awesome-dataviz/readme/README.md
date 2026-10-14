@@ -12,7 +12,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Test](https://github.com/hal9ai/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
 
-A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python (⭐323k)](https://github.com/vinta/awesome-python) and originally created by [fasouto](https://github.com/fasouto).
+A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python (⭐326k)](https://github.com/vinta/awesome-python) and originally created by [fasouto](https://github.com/fasouto).
 
 Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, rankings, live GitHub stats, comparisons and an MCP server for AI assistants, all generated from this README.
 
@@ -303,7 +303,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 
 *   [Aim (⭐6.3k)](https://github.com/aimhubio/aim) - Experiment tracker with a UI to explore and compare ML runs and metrics.
 *   [BertViz (⭐8.2k)](https://github.com/jessevig/bertviz) - Visualize attention in Transformer language models such as BERT and GPT-2.
-*   [Comet (⭐176)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
+*   [Comet (⭐174)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
 *   [dtreeviz (⭐3.2k)](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation library for Python.
 *   [Embedding Atlas (⭐5k)](https://github.com/apple/embedding-atlas) - Interactive visualization of large embeddings with search, filtering and density views, by Apple.
 *   [FiftyOne (⭐11k)](https://github.com/voxel51/fiftyone) - Tool for visualizing, curating and evaluating computer vision datasets and models.
@@ -392,7 +392,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 *   [viser (⭐2.8k)](https://github.com/viser-project/viser) - Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.
 *   [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 *   [Vizro (⭐3.8k)](https://github.com/mckinsey/vizro) - Low-code toolkit from McKinsey for building data visualization apps and dashboards, built on Dash.
-*   [Voilà (⭐5.9k)](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone interactive web applications.
+*   [Voilà (⭐6k)](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone interactive web applications.
 *   [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 *   [WordCloud (⭐11k)](https://github.com/amueller/word_cloud) - Word cloud generator for Python.
 *   [ydata-profiling (⭐14k)](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - Generates statistical analytic reports with visualization for quick data analysis (formerly pandas-profiling).
@@ -435,7 +435,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 ## Rust tools
 
 *   [Charming (⭐2.6k)](https://github.com/yuankunzhang/charming) - Chart rendering library for Rust powered by Apache ECharts.
-*   [malevich (⭐69)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
+*   [malevich (⭐71)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
 *   [Plotly.rs (⭐1.5k)](https://github.com/plotly/plotly.rs) - Plotly.js-based interactive plotting library for Rust.
 *   [Plotters (⭐4.6k)](https://github.com/plotters-rs/plotters) - Drawing library for data plotting in Rust, with bitmap, SVG, WebAssembly and GUI backends.
 
@@ -482,7 +482,7 @@ Tools that are not tied to a particular platform or language.
 *   [mcp-server-chart (⭐4.4k)](https://github.com/antvis/mcp-server-chart) - MCP server from AntV that lets AI agents generate more than 25 chart types.
 *   [Orange (⭐5.7k)](https://github.com/biolab/orange3) - Visual programming tool for data mining, machine learning and interactive data visualization.
 *   [Plotivy](https://plotivy.app/) - Scientific data visualization tool, with AI-generated reproducible Python code, and research-oriented design best practices built in.
-*   [QGIS (⭐14k)](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
+*   [QGIS (⭐15k)](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
 *   [RATH (⭐4.7k)](https://github.com/Kanaries/Rath) - Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.
 *   [RAW](https://rawgraphs.io) - Create web visualizations from CSV or Excel files.
 *   [Resseract Lite (⭐7)](https://github.com/abistarun/resseract-lite) - A Data Analytics and Visualization Tool with flexible architecture to visualize and analyse data
@@ -570,20 +570,16 @@ Tools that are not tied to a particular platform or language.
 
 # Contributing
 
-*   Please check for duplicates first.
-*   Use the format `- [Name](https://github.com/owner/repo) - Short description.` and link to the source repository when there is one.
-*   Keep descriptions short, simple and unbiased.
-*   Please make an individual commit for each suggestion
-*   Add a new category if needed.
-*   The website is rebuilt from this file automatically; see [site/](https://github.com/hal9ai/awesome-dataviz/blob/main/README.md/site/) for how it works.
+Suggestions are welcome! Please read [Suggesting a Library](https://github.com/hal9ai/awesome-dataviz/blob/main/README.md/CONTRIBUTING.md) first: it covers what we list, the star and age guidelines, and the entry format.
 
 Thanks for your suggestions!
 
 # Contributors
 
-*   Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
+*   [Fabio Souto](https://fabiosouto.me/) originally created this repo.
 *   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer.
 *   [Hal9](https://hal9.com) is the corporate sponsor.
+*   [Cloudish](https://cloudish.ai) hosts [awesomedataviz.com](https://awesomedataviz.com).
 
 # License
 

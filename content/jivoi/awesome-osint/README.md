@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 14, 2026](/content/2026/10/14/README.md)
+
+### Email Search / Email Check / GitHub
+
+*   [OpenLeads (⭐32)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Social Media Tools / Facebook
@@ -2286,7 +2292,7 @@
 
 ### Username Check / GitHub
 
-*   [Maigret (⭐38k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐39k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [Jul 31, 2022](/content/2022/07/31/README.md)
 

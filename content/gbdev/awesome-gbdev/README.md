@@ -6,6 +6,17 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Oct 14, 2026](/content/2026/10/14/README.md)
+
+### Blog posts / Syntax highlighting packages
+
+*   [DOTs for GBC](https://www.gmiller.net/2019/04/dots-for-gameboy-color/) - Making of a Game Boy Color port of the Dots game in C with GBDK, from code to a physical cartridge with box art. Includes the source code and a one-hour development commentary video.
+*   Making a Game Boy game in 2017: A "Sheep It Up!" Post-Mortem ([part 1](https://www.gamedeveloper.com/programming/making-a-game-boy-game-in-2017-a-quot-sheep-it-up-quot-post-mortem-part-1-2-), [part 2](https://www.gamedeveloper.com/programming/making-a-game-boy-game-in-2017-a-quot-sheep-it-up-quot-post-mortem-part-2-2-))
+
+### Reverse Engineering / Syntax highlighting packages
+
+*   [Super Mario Land 2 - Memory Exploration](https://www.youtube.com/watch?v=FPzuYWbnln4) - Video by Retro Game Mechanics Explained on how the game stores levels in memory, and what happens when Mario goes out of bounds.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Emulator Development / Misc
@@ -981,7 +992,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Printing on the Game Boy Printer using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/)
 *   [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - What is it and how to use it to make cheat codes.
 *   [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - Bypassing the Nintendo logo check.
-*   Making a Game Boy game in 2017: A "Sheep It Up!" Post-Mortem ([part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 *   [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - Every cartridge has to show the authentic logo to be considered valid and be run, but obviously some companies managed to exploit the check system.
 
 ### Websites / Syntax highlighting packages
@@ -1100,15 +1110,15 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 *   [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.
 
-### ASM / Music drivers and trackers
-
-*   [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
-
 ### ASM / Timings
 
 *   [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
 *   [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 *   [STAT interrupt timings](http://gameboy.mongenel.com/dmg/istat98.txt)
+
+### Blog posts / Syntax highlighting packages
+
+*   [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
 
 ### Related projects / Syntax highlighting packages
 

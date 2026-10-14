@@ -6,6 +6,13 @@
 
 [ [Daily](/content/javierluraschi/awesome-dataviz/README.md) / Weekly / [Overview](/content/javierluraschi/awesome-dataviz/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Websites / Misc
+
+*   [Fabio Souto](https://fabiosouto.me/) originally created this repo.
+*   [Cloudish](https://cloudish.ai) hosts [awesomedataviz.com](https://awesomedataviz.com).
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### JavaScript tools / Charting libraries
@@ -250,7 +257,7 @@
 *   [vedo (⭐2.3k)](https://github.com/marcomusy/vedo) - Library for scientific analysis and visualization of 3D objects based on VTK.
 *   [viser (⭐2.8k)](https://github.com/viser-project/viser) - Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.
 *   [Vizro (⭐3.8k)](https://github.com/mckinsey/vizro) - Low-code toolkit from McKinsey for building data visualization apps and dashboards, built on Dash.
-*   [Voilà (⭐5.9k)](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone interactive web applications.
+*   [Voilà (⭐6k)](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone interactive web applications.
 *   [WordCloud (⭐11k)](https://github.com/amueller/word_cloud) - Word cloud generator for Python.
 *   [ydata-profiling (⭐14k)](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - Generates statistical analytic reports with visualization for quick data analysis (formerly pandas-profiling).
 *   [yt (⭐559)](https://github.com/yt-project/yt) - Toolkit for analysis and visualization of volumetric data.
@@ -320,7 +327,7 @@
 *   [LabPlot (⭐486)](https://github.com/KDE/labplot) - KDE application for interactive scientific plotting, data analysis and visualization.
 *   [mcp-server-chart (⭐4.4k)](https://github.com/antvis/mcp-server-chart) - MCP server from AntV that lets AI agents generate more than 25 chart types.
 *   [Orange (⭐5.7k)](https://github.com/biolab/orange3) - Visual programming tool for data mining, machine learning and interactive data visualization.
-*   [QGIS (⭐14k)](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
+*   [QGIS](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
 *   [Sampler (⭐15k)](https://github.com/sqshq/sampler) - Terminal dashboard that runs shell commands and visualizes their output, configured with YAML.
 *   [SandDance (⭐7.1k)](https://github.com/microsoft/SandDance) - Visual data exploration and presentation with animated unit visualizations, from Microsoft Research.
 *   [sankeydiagram.net](https://sankeydiagram.net/) - Web app for creating and sharing Sankey diagrams of flows and budgets without code.
@@ -329,11 +336,6 @@
 *   [ttyplot (⭐1.4k)](https://github.com/tenox7/ttyplot) - Real-time terminal plotting utility that reads data from standard input.
 *   [uMap (⭐1.6k)](https://github.com/umap-project/umap) - Web app for creating maps with OpenStreetMap layers and embedding them in websites.
 *   [VisiData (⭐9.3k)](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for exploring and arranging tabular data, with basic plotting.
-
-### Websites / Misc
-
-*   Use the format `- [Name](https://github.com/owner/repo) - Short description.` and link to the source repository when there is one.
-*   The website is rebuilt from this file automatically; see [site/](https://github.com/hal9ai/awesome-dataviz/blob/main/README.md/site/) for how it works.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -372,7 +374,7 @@
 
 ### Machine Learning tools / Misc
 
-*   [Comet (⭐176)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
+*   [Comet (⭐174)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
 *   [Opik (⭐22k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
 *   [Phoenix (⭐12k)](https://github.com/Arize-ai/phoenix) - ML observability in a notebook with UMAP visualizations
 
@@ -388,7 +390,7 @@
 
 ### Rust tools / Misc
 
-*   [malevich (⭐69)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
+*   [malevich (⭐71)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
 
 ### Other tools / Misc
 
@@ -552,7 +554,6 @@
 *   [Junk Charts](https://junkcharts.typepad.com/) - Kaiser Fung takes apart why certain datavizes work/don't work
 *   [Makeover Monday](https://www.makeovermonday.co.uk/) blog - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) on twitter
 *   [University of Washington Interactive Data Lab Papers](https://idl.cs.washington.edu/papers)
-*   Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
 *   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
@@ -800,7 +801,7 @@
 
 ### Other tools / Misc
 
-*   [Gephi (⭐6.7k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+*   [Gephi](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -862,10 +863,3 @@
 
 *   [JBChartView (⭐3.7k)](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
 *   [PNChart (⭐9.6k)](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
-
-### Websites / Misc
-
-*   Please check for duplicates first.
-*   Keep descriptions short, simple and unbiased.
-*   Please make an individual commit for each suggestion
-*   Add a new category if needed.

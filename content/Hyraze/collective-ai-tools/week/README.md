@@ -11,6 +11,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### App Builder
 
 *   [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
+*   [VibeKit](https://vibekit.bot/) - Mobile-first AI app builder where each app gets its own persistent coding agent that builds it, hosts it on a live domain and keeps improving it, from an iPhone or the web. `#freemium`
 
 ### Data & BI
 
@@ -112,7 +113,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [Heabsy](https://heabsy.com/) - OpenAI- and Anthropic-compatible inference API for open models, with an EEA tier on dedicated GPUs in EEA data centres and zero data retention. `#paid`
-*   [Hyperconsciousness (⭐2)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
+*   [Hyperconsciousness (⭐7)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
 *   [molt](https://solvyx.xyz/work/molt) - Coding agent that won't say done on a false claim — on-disk verification and receipts for accepts/refusals. `#free` `#opensource`
 *   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
 *   [RAG Citation Coverage Auditor (⭐0)](https://github.com/edilec/rag-citation-coverage-auditor) - Offline CLI that checks declared RAG answer citations against approved retrieval sources and explicit claim support in local exports. `#free` `#opensource` `#rag`
