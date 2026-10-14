@@ -2,7 +2,7 @@
 
 A curated list of awesome GIF resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-gif/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) · ⭐ 680 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-gif/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) · ⭐ 702 · 🏷️ Media
 
 [ [Daily](/content/davisonio/awesome-gif/README.md) / [Weekly](/content/davisonio/awesome-gif/week/README.md) / Overview ]
 
@@ -48,36 +48,36 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## General Tools
 
 *   [FFmpeg](https://www.ffmpeg.org)
-*   [ImageMagick](https://imagemagick.org/script/index.php)
+*   [ImageMagick](https://imagemagick.org/)
 *   [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 *   [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
 ## Utilities
 
-*   [Gifgen (⭐562)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [Gifgen (⭐566)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 *   [Gifify (⭐1.1k)](https://github.com/jclem/gifify) - Convert screen recording into GIF.
 *   [Screengif (⭐1.3k)](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
 *   [Gifline (⭐69)](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
 *   [Tty2gif (⭐160)](https://github.com/z24/tty2gif) - Record scripts and their outputs into both binary and GIF formats.
-*   [Gifit (⭐134)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
-*   [Ccapture.js (⭐3.7k)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
+*   [Gifit (⭐138)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
+*   [Ccapture.js (⭐3.8k)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 *   [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
-*   [gifski (⭐5.4k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
+*   [gifski (⭐5.7k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 *   [Gifcurry (⭐1.4k)](https://github.com/lettier/gifcurry) - Open-source, Haskell-built editor for GIF makers.
 
 ## Libraries
 
 ### C++
 
-*   [Gif-h (⭐536)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
-*   [msf\_gif (⭐230)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
+*   [Gif-h (⭐544)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
+*   [msf\_gif (⭐240)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
-<h3 id="c-sharp">C#</h2>
+<h3 id="c-sharp">C#</h3>
 
-*   [dot-screencap (⭐34)](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF.
-*   [WpfAnimatedGif (⭐680)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
-*   [XamlAnimatedGif (⭐462)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
-*   [AnimatedGif (⭐154)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
+*   [dot-screencap (⭐34)](https://github.com/Speiser/dot-screencap) - A simple library to record your screen and save it as animated GIF.
+*   [WpfAnimatedGif (⭐684)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
+*   [XamlAnimatedGif (⭐471)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+*   [AnimatedGif (⭐156)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
 
 ### Haxe
 
@@ -85,29 +85,29 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-*   [Android-gif-drawable (⭐9.7k)](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android.
+*   [Android-gif-drawable (⭐9.6k)](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android.
 *   [GifImageView (⭐1.2k)](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images.
 *   [Gif-animation (⭐178)](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF.
-*   [Android-gif-encoder (⭐350)](https://github.com/nbadal/android-gif-encoder) - Animated GIF encoder for Android.
+*   [Android-gif-encoder (⭐346)](https://github.com/nbadal/android-gif-encoder) - Animated GIF encoder for Android.
 
 ### JavaScript
 
 *   [Gif.js (⭐5k)](https://github.com/jnordberg/gif.js) - Create GIF from the DOM.
-*   [Omggif (⭐744)](https://github.com/deanm/omggif) - GIF 89a encoder and decoder.
-*   [Animated\_GIF (⭐228)](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs.
-*   [Gifffer (⭐784)](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs.
+*   [Omggif (⭐743)](https://github.com/deanm/omggif) - GIF 89a encoder and decoder.
+*   [Animated\_GIF (⭐229)](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs.
+*   [Gifffer (⭐778)](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs.
 *   [Gifplayer (⭐461)](https://github.com/rubentd/gifplayer) - JQuery plugin to play and stop animated GIFs.
 *   [node-gify (⭐300)](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using FFmpeg and gifsicle.
-*   [Gifencoder (⭐477)](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js.
+*   [Gifencoder (⭐476)](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js.
 
 ### PHP
 
-*   [GifCreator (⭐326)](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images.
-*   [GifFrameExtractor (⭐179)](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF.
+*   [GifCreator (⭐325)](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images.
+*   [GifFrameExtractor (⭐178)](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF.
 
 ### Objective-C
 
-*   [FLAnimatedImage (⭐8k)](https://github.com/Flipboard/FLAnimatedImage) - GIF engine for iOS by FlipBoard.
+*   [FLAnimatedImage (⭐7.9k)](https://github.com/Flipboard/FLAnimatedImage) - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
@@ -307,7 +307,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp (⭐150k)](https://github.com/yt-dlp/yt-dlp)
+[yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp)
 
 ## Miscellaneous
 
@@ -317,12 +317,12 @@ yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 The best ways to use this list are:
 
-*   By browing the [contents](#contents).
-*   By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+*   By browsing the [contents](#contents).
+*   By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents.
 
 ## Credits
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list (⭐442k)](https://github.com/sindresorhus/awesome/issues/872) by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list (⭐514k)](https://github.com/sindresorhus/awesome/issues/872) by [Ismail Baaj](https://ismailbaaj.fr).
 

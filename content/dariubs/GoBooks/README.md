@@ -2,13 +2,19 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 19K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 20K · 🏷️ Books
 
 [ Daily / [Weekly](/content/dariubs/GoBooks/week/README.md) / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
+## [Oct 14, 2026](/content/2026/10/14/README.md)
+
+### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
+
+*   [TypeScript Books (⭐189)](https://github.com/tscollege/typescript-books) - A curated, hand-picked list of the best TypeScript books for learning TypeScript.
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
-### Advanced Books / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+### Advanced Books / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://amzn.to/4y3Un8a)
 
 *   Take a deep dive into Go's concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
 *   Be able to diagnose concurrency and performance issues using Go's profiler, execution tracing, and benchmarking tools.
@@ -17,16 +23,16 @@ List of Golang books
 
 ### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
 
-*   [Dev Books (⭐61)](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books
-*   [AI Books (⭐65)](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence
+*   [Dev Books (⭐99)](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books
+*   [AI Books (⭐91)](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence
 
 ## [Jan 28, 2026](/content/2026/01/28/README.md)
 
 ### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
 
-*   [JavaScript Books (⭐131)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript
-*   [PostgreSQL Books (⭐60)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL
-*   [Python Books (⭐22)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
+*   [JavaScript Books (⭐162)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript
+*   [PostgreSQL Books (⭐135)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL
+*   [Python Books (⭐60)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
 
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
@@ -43,7 +49,7 @@ List of Golang books
 
 ## [Apr 07, 2024](/content/2024/04/07/README.md)
 
-### Starter Books / [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](hhttps://amzn.to/4ceJWWQ)
+### Starter Books / [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.to/4ceJWWQ)
 
 *   Write idiomatic code in Go and design a Go project
 *   Understand the reasons behind Go's design decisions
@@ -64,7 +70,7 @@ List of Golang books
 
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
-### Advanced Books / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+### Advanced Books / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://amzn.to/4y3Un8a)
 
 *   Understand the differences between Concurrency and Parallelism.
 *   Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
@@ -74,7 +80,7 @@ List of Golang books
 
 ## [Jul 23, 2022](/content/2022/07/23/README.md)
 
-### Advanced Books / [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+### Advanced Books / [Practical Go: Building Scalable Network and Non-Network Applications](https://amzn.to/4vl3sXG)
 
 *   Writing command line applications
 *   Writing a HTTP services and clients
@@ -128,7 +134,7 @@ List of Golang books
 
 ## [Jul 31, 2021](/content/2021/07/31/README.md)
 
-### Starter Books / [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](hhttps://amzn.to/4ceJWWQ)
+### Starter Books / [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.to/4ceJWWQ)
 
 *   Set up a Go development environment for a solo developer or team
 *   Learn how and when to use reflection, unsafe, and cgo

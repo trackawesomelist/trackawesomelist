@@ -2,19 +2,21 @@
 
 A curated list of awesome GIF resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-gif/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) · ⭐ 680 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-gif/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) · ⭐ 702 · 🏷️ Media
 
 [ Daily / [Weekly](/content/davisonio/awesome-gif/week/README.md) / [Overview](/content/davisonio/awesome-gif/readme/README.md) ]
 
-## [Mar 13, 2026](/content/2026/03/13/README.md)
+## [Oct 14, 2026](/content/2026/10/14/README.md)
 
 ### General Tools
 
-*   [ImageMagick](https://imagemagick.org/script/index.php)
+*   [ImageMagick](https://imagemagick.org/)
+
+## [Mar 13, 2026](/content/2026/03/13/README.md)
 
 ### Utilities
 
-*   [Gifit (⭐134)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
+*   [Gifit (⭐138)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
 
 ### Libraries / Swift
 
@@ -32,8 +34,8 @@ A curated list of awesome GIF resources.
 
 ### Libraries / C++
 
-*   [WpfAnimatedGif (⭐680)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
-*   [XamlAnimatedGif (⭐462)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+*   [WpfAnimatedGif (⭐684)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
+*   [XamlAnimatedGif (⭐471)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 
 ### Community / Swift
 
@@ -53,7 +55,7 @@ A curated list of awesome GIF resources.
 
 ### Libraries / C++
 
-*   [msf\_gif (⭐230)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
+*   [msf\_gif (⭐240)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
 
@@ -63,7 +65,7 @@ A curated list of awesome GIF resources.
 
 ### Libraries / C++
 
-*   [Gif-h (⭐536)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
+*   [Gif-h (⭐544)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
 
 ## [Jul 28, 2019](/content/2019/07/28/README.md)
 
@@ -75,13 +77,13 @@ A curated list of awesome GIF resources.
 
 ### Libraries / C++
 
-*   [AnimatedGif (⭐154)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
+*   [AnimatedGif (⭐156)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
 
 ## [Sep 09, 2018](/content/2018/09/09/README.md)
 
 ### Utilities
 
-*   [gifski (⭐5.4k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
+*   [gifski (⭐5.7k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 
 ## [Jun 05, 2017](/content/2017/06/05/README.md)
 
@@ -101,16 +103,16 @@ A curated list of awesome GIF resources.
 
 ### Utilities
 
-*   [Gifgen (⭐562)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [Gifgen (⭐566)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 *   [Screengif (⭐1.3k)](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
 *   [Gifline (⭐69)](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
 *   [Tty2gif (⭐160)](https://github.com/z24/tty2gif) - Record scripts and their outputs into both binary and GIF formats.
-*   [Ccapture.js (⭐3.7k)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
+*   [Ccapture.js (⭐3.8k)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 *   [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 
 ### Libraries / C++
 
-*   [dot-screencap (⭐34)](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF.
+*   [dot-screencap (⭐34)](https://github.com/Speiser/dot-screencap) - A simple library to record your screen and save it as animated GIF.
 
 ### Libraries / Haxe
 
@@ -118,29 +120,29 @@ A curated list of awesome GIF resources.
 
 ### Libraries / Java
 
-*   [Android-gif-drawable (⭐9.7k)](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android.
+*   [Android-gif-drawable (⭐9.6k)](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android.
 *   [GifImageView (⭐1.2k)](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images.
 *   [Gif-animation (⭐178)](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF.
-*   [Android-gif-encoder (⭐350)](https://github.com/nbadal/android-gif-encoder) - Animated GIF encoder for Android.
+*   [Android-gif-encoder (⭐346)](https://github.com/nbadal/android-gif-encoder) - Animated GIF encoder for Android.
 
 ### Libraries / JavaScript
 
 *   [Gif.js (⭐5k)](https://github.com/jnordberg/gif.js) - Create GIF from the DOM.
-*   [Omggif (⭐744)](https://github.com/deanm/omggif) - GIF 89a encoder and decoder.
-*   [Animated\_GIF (⭐228)](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs.
-*   [Gifffer (⭐784)](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs.
+*   [Omggif (⭐743)](https://github.com/deanm/omggif) - GIF 89a encoder and decoder.
+*   [Animated\_GIF (⭐229)](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs.
+*   [Gifffer (⭐778)](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs.
 *   [Gifplayer (⭐461)](https://github.com/rubentd/gifplayer) - JQuery plugin to play and stop animated GIFs.
 *   [node-gify (⭐300)](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using FFmpeg and gifsicle.
-*   [Gifencoder (⭐477)](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js.
+*   [Gifencoder (⭐476)](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js.
 
 ### Libraries / PHP
 
-*   [GifCreator (⭐326)](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images.
-*   [GifFrameExtractor (⭐179)](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF.
+*   [GifCreator (⭐325)](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images.
+*   [GifFrameExtractor (⭐178)](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF.
 
 ### Libraries / Objective-C
 
-*   [FLAnimatedImage (⭐8k)](https://github.com/Flipboard/FLAnimatedImage) - GIF engine for iOS by FlipBoard.
+*   [FLAnimatedImage (⭐7.9k)](https://github.com/Flipboard/FLAnimatedImage) - GIF engine for iOS by FlipBoard.
 
 ### Libraries / Swift
 

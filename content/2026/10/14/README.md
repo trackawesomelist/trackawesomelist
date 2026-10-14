@@ -1,24 +1,125 @@
 # Awesome List Updates on Oct 14, 2026
 
-7 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Concurrency / Goroutines
+
+*   [hmdsefi/gowl (⭐71)](https://github.com/hmdsefi/gowl) — Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and monitor their status. ☆`71`
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [scarletkc/Hatoba (⭐77)](https://github.com/scarletkc/Hatoba) - Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account [![CI](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml)
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Projects / AI and Agents
+
+*   LLM Inference and Serving
+    *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+    *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
+    *   [mlx-lm (⭐7.3k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
+
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+
+### Images / Other
+
+*   [SnapDOM (⭐8.2k)](https://github.com/zumerlab/snapdom) - Fast, dependency-free DOM to image capture (PNG, JPG, WebP, SVG) with PDF and vector SVG plugins.
+
+## [5. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+
+### Clients
+
+*   [![Textual-icon](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.textualapp.com/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source (⭐1.9k)](https://github.com/Codeux-Software/Textual)) `macOS`
+*   [gamja](https://codeberg.org/emersion/gamja) - A simple IRC web client. `Web`
+*   [Goguma](https://goguma.im/) - An IRC client for mobile devices, from the creator of soju. ([source](https://codeberg.org/emersion/goguma)) `Android` `Linux`
+
+### Channels / Platforms
+
+*   [#Ubuntu](https://ubuntu.com/community/docs/support)@Libera.Chat - Official Ubuntu support channel. ([rules](https://ubuntu.com/community/docs/ethos/code-of-conduct))
+
+### Miscellaneous / Platforms
+
+*   [img2irc (⭐46)](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
+
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+
+### Creating GIFs
+
+*   [ezgif](https://ezgif.com/) - **Free** - Online GIF maker and editor with lots of features.
+
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Feature Toggles Management Platforms
+
+*   [Flagpool](https://www.flagpool.io/en/) - Feature flag management platform with a focus on simplicity and ease of use. Free plan includes creating up to 10 new flags per month, unlimited requests and targeting rules.
+
+### PaaS
+
+*   [Staxa](https://staxa.dev/) - Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.
+
+## [8. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+
+### General Tools
+
+*   [ImageMagick](https://imagemagick.org/)
+
+## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+
+### Projects / Automation, Manufacturing, and Robotics
+
+*   [Gearotons M17 (⭐14)](https://github.com/tomrodinger/servomotor) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
+*   [SO-ARM 102 (⭐139)](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
+
+### Projects / Consumer Devices
+
+*   [Tiny Film Camera (⭐18)](https://github.com/SuveenE/tiny-film-camera) - Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.
+
+### Platforms / Integrated Circuit
+
+*   [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+*   [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
+
+### Related Awesome / Integrated Circuit
+
+*   [Awesome KiCad Projects (⭐198)](https://github.com/way2pramil/awesome-kicad-projects) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
+
+## [10. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+### App Releases / Arcade
+
+*   Taco Rain - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.tacorain), [iOS](https://apps.apple.com/us/app/taco-rain-catch-the-tacos/id6802783584) - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By [Illumination Development](https://illuminationdevelopment.com)
+
+## [11. GoBooks](/content/dariubs/GoBooks/README.md)
+
+### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
+
+*   [TypeScript Books (⭐189)](https://github.com/tscollege/typescript-books) - A curated, hand-picked list of the best TypeScript books for learning TypeScript.
+
+## [12. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### App Builder
 
 *   [VibeKit](https://vibekit.bot/) - Mobile-first AI app builder where each app gets its own persistent coding agent that builds it, hosts it on a live domain and keeps improving it, from an iPhone or the web. `#freemium`
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Email Search / Email Check / GitHub
 
 *   [OpenLeads (⭐32)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [JET Pilot](https://jet-pilot.app/) - Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/unxsist/jet-pilot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Terminal Apps / Databases
 
@@ -28,14 +129,18 @@
 
 *   [Utter (⭐2)](https://github.com/h3x-levi/Utter) - On-device voice dictation and meeting transcription powered by whisper.cpp and Metal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/h3x-levi/Utter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+### Utilities / System Related Tools
+
+*   [ftop (⭐262)](https://github.com/Nongfsq/ftop) - Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Nongfsq/ftop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [15. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Websites / Misc
 
 *   [Fabio Souto](https://fabiosouto.me/) originally created this repo.
 *   [Cloudish](https://cloudish.ai) hosts [awesomedataviz.com](https://awesomedataviz.com).
 
-## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [16. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Operating systems
 
@@ -49,7 +154,7 @@
 
 *   [AIOTI](https://aioti.eu/) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 
-## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Blog posts / Syntax highlighting packages
 
@@ -60,7 +165,7 @@
 
 *   [Super Mario Land 2 - Memory Exploration](https://www.youtube.com/watch?v=FPzuYWbnln4) - Video by Retro Game Mechanics Explained on how the game stores levels in memory, and what happens when Mario goes out of bounds.
 
-## [7. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -104,6 +209,7 @@
 *   [Datacircle](https://docs.datacircle.dev/mcp-server?utm_source=awesome-gemini-cli\&utm_medium=referral) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: `gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp`.
 *   [LinkedNav](https://www.linkednav.com/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted MCP server for LinkedIn outreach in your own LinkedNav account: find leads, launch campaigns, send, and reply. LinkedNav detects LinkedIn buying signals and sends personalized outreach you approve. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Free 7-day trial. An independent service, not affiliated with LinkedIn. Add with: `gemini mcp add --transport http linkednav https://mcp.linkednav.com/`.
 *   [HeyReagent](https://heyreagent.com/linkedin-mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted LinkedIn MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts. Remote Streamable HTTP with OAuth sign-in, no key to paste; the server is closed source. Free plan available. An independent service, not affiliated with LinkedIn. Add with: `gemini mcp add --transport http heyreagent https://api.heyreagent.com/mcp`.
+*   [Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent?utm_source=awesome-gemini-cli\&utm_medium=referral) - Self-healing GitHub Actions runners with a hosted MCP server for coding agents: read the CI failures self-heal could not fix (root cause, failing file, logs), check run status, dispatch workflows, and run commands on fresh ephemeral runners. Remote Streamable HTTP with a Latchkey API key; the server is closed source. Add with: `gemini mcp add --transport http latchkey https://latchkey.dev/mcp --header "Authorization: Bearer $LATCHKEY_TOKEN"`.
 
 ---
 

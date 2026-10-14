@@ -696,7 +696,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
-*   [bencher (⭐909)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐915)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 
@@ -796,7 +796,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [PhotoSwipe (⭐25k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 *   [jcSlider (⭐61)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 *   [basic-jquery-slider (⭐538)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
-*   [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+*   [jQuery.adaptive-slider (⭐54)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 *   [slidr (⭐1.5k)](https://github.com/bchanx/slidr) - add some slide effects.
 *   [Flickity (⭐7.6k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 *   [Glide.js (⭐7.7k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
@@ -818,9 +818,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [At.js (⭐5.2k)](https://github.com/ichord/At.js) - Add GitHub like mentions autocomplete to your application.
 *   [Placeholders.js (⭐942)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
-*   [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
+*   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 *   [vanilla-masker (⭐10)](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
-*   [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
+*   [Ion.CheckRadio (⭐69)](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 *   [awesomplete (⭐7k)](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - <https://projects.verou.me/awesomplete/>
 
 ### Calendar
@@ -959,6 +959,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Drift (⭐1.6k)](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 *   [Magnificent.js (⭐166)](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
 *   [Panolens.js (⭐2.9k)](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+*   [SnapDOM (⭐8.2k)](https://github.com/zumerlab/snapdom) - Fast, dependency-free DOM to image capture (PNG, JPG, WebP, SVG) with PDF and vector SVG plugins.
 
 ## Gesture
 

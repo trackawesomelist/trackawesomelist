@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Images / Other
+
+*   [SnapDOM (⭐8.2k)](https://github.com/zumerlab/snapdom) - Fast, dependency-free DOM to image capture (PNG, JPG, WebP, SVG) with PDF and vector SVG plugins.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### MVC Frameworks and Libraries / Runner
@@ -224,7 +230,7 @@
 
 ### Benchmark / Runner
 
-*   [bencher (⭐909)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐915)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
@@ -1802,7 +1808,7 @@
 ### Sliders / Runner
 
 *   [basic-jquery-slider (⭐538)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
-*   [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+*   [jQuery.adaptive-slider (⭐54)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 *   [slidr (⭐1.5k)](https://github.com/bchanx/slidr) - add some slide effects.
 
 ### Video/Audio / Other
@@ -1989,7 +1995,7 @@
 ### Form Widgets / Input
 
 *   [typeahead.js (⭐16k)](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
-*   [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
+*   [Ion.CheckRadio (⭐69)](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 
 ### Form Widgets / Calendar
 
@@ -2468,7 +2474,7 @@
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
 *   [Placeholders.js (⭐942)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
-*   [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
+*   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
 ### Form Widgets / Calendar
 

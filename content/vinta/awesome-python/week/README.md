@@ -8,6 +8,13 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Projects / AI and Agents
+
+*   LLM Inference and Serving
+    *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+    *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
+    *   [mlx-lm (⭐7.3k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
+
 ### Projects / Documentation
 
 *   [sphinx (⭐8.1k)](https://github.com/sphinx-doc/sphinx) - Python Documentation generator.
@@ -101,7 +108,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Content Extraction
     *   [markdownify (⭐2.3k)](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown, with customizable tag handling.
     *   [feedparser (⭐2.4k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
-    *   [trafilatura (⭐6.9k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
+    *   [trafilatura (⭐7k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
 ### Projects / Email
 
@@ -235,7 +242,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   General
     *   [import-linter (⭐1.2k)](https://github.com/seddonym/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
     *   [vulture (⭐4.8k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
-    *   [complexipy (⭐865)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
+    *   [complexipy (⭐881)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
     *   [prospector (⭐2.1k)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
@@ -252,7 +259,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Caching
 
-*   [hishel (⭐412)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.
+*   [hishel (⭐413)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.
 
 ### Projects / Science
 
@@ -263,7 +270,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Documentation
 
-*   [zensical (⭐5.8k)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
+*   [zensical (⭐5.9k)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
 
 ### Projects / Supply Chain Security
 
@@ -284,15 +291,11 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [instructor (⭐14k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
     *   [llama-index (⭐52k)](https://github.com/run-llama/llama_index) - A toolkit for building RAG pipelines and agents over your data.
     *   [mem0 (⭐67k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
-    *   [openviking (⭐39k)](https://github.com/volcengine/OpenViking) - A context database for AI agents that unifies memory, resources, and skills.
+    *   [openviking (⭐40k)](https://github.com/volcengine/OpenViking) - A context database for AI agents that unifies memory, resources, and skills.
     *   [semantica (⭐14k)](https://github.com/semantica-agi/semantica) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 *   Pre-trained Models
     *   [transformers (⭐168k)](https://github.com/huggingface/transformers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
     *   [sentence-transformers (⭐19k)](https://github.com/huggingface/sentence-transformers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
-*   LLM Inference and Serving
-    *   [sglang (⭐37k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
-    *   [vllm (⭐93k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
-    *   [mlx-lm (⭐7.2k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
 
 ### Projects / Deep Learning
 
@@ -382,7 +385,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 *   NoSQL Databases
     *   [pynamodb (⭐2.6k)](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-    *   [mongoengine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
+    *   [mongoengine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
     *   [beanie (⭐2.7k)](https://github.com/BeanieODM/beanie) - An asynchronous Python object-document mapper (ODM) for MongoDB.
     *   [django-mongodb-backend (⭐228)](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
 
@@ -665,13 +668,13 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Serialization
 
-*   [msgspec (⭐4.1k)](https://github.com/msgspec/msgspec) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
+*   [msgspec (⭐4.2k)](https://github.com/msgspec/msgspec) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
 ### Projects / Hardware
 
-*   [jumpstarter (⭐223)](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
+*   [jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -726,8 +729,10 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Agent Skills
     *   [django-ai-plugins (⭐150)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
-    *   [sentry-skills (⭐1k)](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
+    *   [scientific-agent-skills (⭐48k)](https://github.com/K-Dense-AI/scientific-agent-skills) - Agent skills for scientific research and analysis with Python libraries like scikit-learn, polars, and biopython.
+    *   [sentry-skills (⭐1.1k)](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
     *   [trailofbits-skills (⭐7.5k)](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
+    *   [wshobson-agents (⭐41k)](https://github.com/wshobson/agents) - Plugins, agents, and skills for AI coding tools, including Python skills for testing, async, packaging, and uv.
 
 ### Projects / Implementations
 
@@ -1106,7 +1111,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [mypy (⭐21k)](https://github.com/python/mypy) - A static type checker for Python.
     *   [ty (⭐20k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
     *   [pyright (⭐16k)](https://github.com/microsoft/pyright) - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
-    *   [pyrefly (⭐7k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
+    *   [pyrefly (⭐7.1k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 
 ### Projects / DevOps Tools
 
@@ -1170,7 +1175,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   General
     *   [requests (⭐55k)](https://github.com/psf/requests) - HTTP Requests for Humans.
     *   [aiohttp (⭐17k)](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
-    *   [httpx2 (⭐1.5k)](https://github.com/pydantic/httpx2) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx (⭐16k)](https://github.com/encode/httpx) fork).
+    *   [httpx2 (⭐1.6k)](https://github.com/pydantic/httpx2) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx (⭐16k)](https://github.com/encode/httpx) fork).
     *   [urllib3 (⭐4.1k)](https://github.com/urllib3/urllib3) - An HTTP library with thread-safe connection pooling, file post, and more.
     *   [httpx (⭐16k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
@@ -1194,7 +1199,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   Async I/O
     *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
         *   [awesome-asyncio (⭐5.1k)](https://github.com/timofurrer/awesome-asyncio)
-    *   [anyio (⭐2.5k)](https://github.com/agronholm/anyio) - A high-level async concurrency and networking framework that works on top of asyncio or trio.
+    *   [anyio (⭐2.6k)](https://github.com/agronholm/anyio) - A high-level async concurrency and networking framework that works on top of asyncio or trio.
     *   [uvloop (⭐12k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
     *   [trio (⭐7.3k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
     *   [gevent (⭐6.4k)](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet (⭐1.9k)](https://github.com/python-greenlet/greenlet).

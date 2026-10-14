@@ -2,7 +2,7 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 1K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 1.1K · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / Overview ]
 
@@ -31,8 +31,9 @@
 ### Automation, Manufacturing, and Robotics
 
 *   [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+*   [Gearotons M17 (⭐14)](https://github.com/tomrodinger/servomotor) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
 *   [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
-*   [JPL Open Source Rover (⭐9.6k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [JPL Open Source Rover (⭐9.7k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 *   [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 *   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
 *   [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
@@ -40,6 +41,7 @@
 *   [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 *   [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
 *   [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+*   [SO-ARM 102 (⭐139)](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
 *   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
 *   [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 
@@ -53,29 +55,30 @@
 *   [PiSpot Watch (⭐3)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 *   [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 *   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+*   [Tiny Film Camera (⭐18)](https://github.com/SuveenE/tiny-film-camera) - Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.
 *   [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
 
 *   [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
 *   [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
-*   [Icepi Zero (⭐819)](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
-*   [nRF52840 ProMicro (⭐92)](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
+*   [Icepi Zero (⭐836)](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+*   [nRF52840 ProMicro (⭐106)](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
 *   [OpenMV (⭐2.9k)](https://github.com/openmv/openmv) - Low-cost machine vision platform.
-*   [pic0rick (⭐99)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+*   [pic0rick (⭐111)](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
 ### Scientific Instruments
 
 *   [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
-*   [HackRF Pro (⭐51)](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One (⭐8.1k)](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
-*   [LibreVNA (⭐1.6k)](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
+*   [HackRF Pro (⭐67)](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One (⭐8.2k)](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+*   [LibreVNA (⭐1.7k)](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
 *   [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
-*   [Open Gamma Detector (⭐366)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐378)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 *   [OpenBCI](https://openbci.com/) - Brain-computer interface.
 *   [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
 *   [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
-*   [openUC2 (⭐531)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
+*   [openUC2 (⭐535)](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 *   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
 ## Design Tools
@@ -84,9 +87,9 @@
 
 *   [Elmer (⭐1.7k)](https://github.com/ElmerCSC/elmerfem) - A software suite for running finite element method simulations.
 *   [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
-*   [Jumpstarter (⭐211)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 *   [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
-*   [KiCad StepUp (⭐682)](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+*   [KiCad StepUp (⭐693)](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 *   [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
 
 ### Integrated Circuit
@@ -96,7 +99,7 @@
 *   [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
 *   [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
 *   [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
-*   [SkyWater PDK (⭐3.7k)](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
+*   [SkyWater PDK (⭐3.8k)](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
 *   [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
 *   [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
 *   [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
@@ -148,6 +151,8 @@
 *   [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 *   [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects.
 *   [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+*   [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+*   [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
 
 ## Podcasts
 
@@ -183,9 +188,10 @@
 
 ## Related Awesome
 
-*   [Awesome Open Electronics (⭐743)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐97)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
-*   [Awesome Electronics (⭐8.1k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Open Electronics (⭐761)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐100)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Electronics (⭐8.2k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome KiCad Projects (⭐198)](https://github.com/way2pramil/awesome-kicad-projects) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 
 ## Contributing
 
