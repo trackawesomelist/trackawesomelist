@@ -177,7 +177,7 @@ A curated list of game development resources to make **magic** happen.
 *   :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 *   :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *   :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
-*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.2k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.3k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 *   :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 *   :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser.
 *   :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
@@ -322,6 +322,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 *   :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 *   :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
+*   :tada: [Mibo (⭐32)](https://github.com/AngelMunoz/Mibo) - Elmish (MVU) F# game framework on raylib-cs or MonoGame.
 *   :free: [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is a fantasy computer for making, playing and sharing 2D games and programs written in the modern [MiniScript](https://miniscript.org) language.
 *   :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 *   :tada: [Nakama (⭐13k)](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
@@ -394,6 +395,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [AI Game Developer (⭐4.4k)](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 *   :money\_with\_wings: [Coplay](https://coplay.dev?ref=github\&utm_source=magictools) - AI Copilot for Unity
 *   :tada: [Fluent Behaviour Tree (⭐395)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+*   :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 *   :money\_with\_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   :money\_with\_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.

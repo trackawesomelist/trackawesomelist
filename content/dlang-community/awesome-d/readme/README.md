@@ -10,7 +10,7 @@
 
 # Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐323k)](https://github.com/vinta/awesome-python).
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐326k)](https://github.com/vinta/awesome-python).
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues (⭐763)](https://github.com/dlang-community/awesome-d/issues) or by [editing this file (⭐763)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
@@ -287,6 +287,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *   [higgs (⭐882)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 *   [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
 *   [arsd.script (⭐565)](https://github.com/adamdruppe/arsd/blob/master/script.d) - A small script interpreter that builds on *arsd.jsvar* to be easily embedded inside and to have easy two-way interop with the host D program.
+*   [Ever (⭐5)](https://github.com/evrlang/ever) - A High-Level Programming Language for Low-Level Purposes
 
 ## Operating Systems
 

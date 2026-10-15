@@ -6,6 +6,470 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [SkyAccess (⭐1)](https://github.com/sky-access/skyaccess-mcp)
+
+  Description: Search 5,000+ live empty leg flights, get charter price estimates and booking links
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Cursor](https://cursor.directory/plugins/skyaccess) · [Glama](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
+
+
+
+### Art & Design
+
+- API: [Rijksmuseum](https://data.rijksmuseum.nl/)
+
+  Description: RijksMuseum Data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Blockchain
+
+- API: [Covalent](https://www.covalenthq.com/docs/)
+
+  Description: Multi-blockchain data aggregator platform
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Business
+
+- API: [Compabase](https://compabase.com/docs/)
+
+  Description: Polish company data: 3M+ KRS and CEIDG entities with financial statements, people and rankings
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Cryptocurrency
+
+- API: [Degenscan Intel](https://intel.degenscan.io/carry)
+
+  Description: Hyperliquid funding on every dex (HIP-3 incl.), cross-dex spreads, event feed; free trial key
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Shumi](https://docs.shumi.ai/api-reference/introduction)
+
+  Description: Crypto market data: prices, trends, funding rates, sentiment, narratives and market regime
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Clair](https://clair.im)
+
+  Description: Live public web data as JSON: Google Search, Maps, News, Amazon, jobs, reviews & more, one API key
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [LiveOrDown](https://liveordown.com/developers)
+
+  Description: Live up/down status of 240+ online services, checked every minute from 3 regions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [macadress](https://macadress.com/mac-address-api)
+
+  Description: MAC address and OUI vendor lookup synced from IEEE, with randomized-MAC detection
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Tyk](https://tyk.io/open-source-api-gateway/)
+
+  Description: Api and service management platform
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Disban](https://disban.io/docs)
+
+  Description: Classify email domains as disposable, free, alias, testing or parked to block fake signups
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [MailSenpai DNS Check](https://en.mailsenpai.com/dns-check-api/)
+
+  Description: Check a domain's SPF, DKIM, DMARC and MX records and get what to fix, with the values to publish
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Degenscan Intel Macro](https://intel.degenscan.io/docs)
+
+  Description: U.S. Treasury auctions, stablecoin supply, Brazil crypto-dollar premium vs BCB PTAX; free trial key
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Seiche](https://seiche.info/developers)
+
+  Description: Free public funding, FX and capital-market evidence with source clocks
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Undertow](https://liquilens-undertow.com/developers/)
+
+  Description: Public market-depth and sized exit estimates, not executable quotes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Food & Drink
+
+- API: [DoughMatrix](https://doughmatrix.com)
+
+  Description: Sourdough and pizza dough formula calculators: true hydration, DDT, fermentation windows
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Games & Comics
+
+- API: [TCGdex](https://tcgdex.dev/)
+
+  Description: Multi languages Pokémon TCG Information
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [BigDataCloud](https://www.bigdatacloud.com/docs)
+
+  Description: Provides fast and accurate IP geolocation APIs along with security checks and confidence area
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Queimadas INPE](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
+
+  Description: Access to heat focus data (probable wildfire)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Government
+
+- API: [Open Government, Singapore](https://data.gov.sg/)
+
+  Description: Singapore Government Open Data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Travel Risk](https://travelriskapi.com/docs)
+
+  Description: Government travel advisories, disaster and conflict alerts and country risk scores
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Level](https://jobsbylevel.com/developers)
+
+  Description: Job listings rated by AI level, from Little AI to Builds AI; REST, RSS and MCP
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Machinetutors](https://machinetutors.com/api)
+
+  Description: AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Music
+
+- API: [Songsterr](https://www.songsterr.com/)
+
+  Description: Provides guitar, bass and drums tabs and chords
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TheAudioDB](https://www.theaudiodb.com/)
+
+  Description: Music
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Open Data
+
+- API: [221](https://221.orvlabs.com/documentation)
+
+  Description: Senegal reference data: public holidays, mobile operators, banks, communes, legal forms
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Monitly](https://monit.ly/api-docs)
+
+  Description: Official statistics from Eurostat, World Bank, OECD, IMF and WHO for 150+ countries
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [Chempirical](https://chempirical.com/api/)
+
+  Description: Chemical compounds with physical data, reactions and substructure search
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [Swanum Comps](https://swanum.com/comps/docs)
+
+  Description: Sold resale prices from Vinted (7 European countries) and eBay US, with median and price range
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [Ball Ranks](https://ballranks.com/developers)
+
+  Description: NFL and NBA fantasy rankings and player projections
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Realtime Sports](https://www.realtimesportsapi.com/docs)
+
+  Description: Live scores, play-by-play, schedules and odds for NFL, NBA, MLB, NHL, NCAA and soccer
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Test Data
+
+- API: [NovaFortix Dev](https://public-dev-apis.surge.sh)
+
+  Description: Zero-auth REST endpoints for mock user profiles, UUIDs and HTTP status codes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Sabre for Developers](https://developer.sabre.com/)
+
+  Description: Travel Search - Limited usage
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Stadiq](https://stadiq.app/developers)
+
+  Description: Road works, transit disruptions and air quality for Antwerp and Flanders
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Travel Risk Aviation](https://api.travelriskapi.com/ext/reference/)
+
+  Description: Flight status, airports, airlines, airline safety and in-flight Wi-Fi data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [ScaleReach](https://docs.scalereach.ai)
+
+  Description: Turn long videos into short vertical clips with AI captions and face-tracking crop
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Calendar
@@ -5227,7 +5691,7 @@ A collective list of free APIs
 
 - API: [SlashYear](https://slashyear.com/api)
 
-  Description: 86,902 historical events as JSON, each quoted from a cited Wikipedia revision
+  Description: Dated historical events as JSON, each quoted from a cited Wikipedia revision
 
   Auth: No
 
@@ -7638,7 +8102,7 @@ A collective list of free APIs
 
 - API: [Odds-API](https://docs.odds-api.io)
 
-  Description: Real-time sports betting odds from 265+ bookmakers across 34 sports via REST and WebSocket
+  Description: Real-time sports betting odds from 365+ bookmakers across 34 sports via REST and WebSocket
 
   Auth: `apiKey`
 
@@ -11415,17 +11879,6 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Queimadas INPE](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/)
-
-  Description: Access to heat focus data (probable wildfire)
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 - API: [SpotSense](https://spotsense.io/)
 
   Description: Add location based interactions to your mobile app
@@ -11480,17 +11933,6 @@ A collective list of free APIs
   Auth: No
 
   HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [USA.gov](https://www.usa.gov/developer)
-
-  Description: Authoritative information on U.S. programs, events, services and more
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
 
   CORS: Unknown
 
@@ -13808,20 +14250,6 @@ A collective list of free APIs
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
-### Art & Design
-
-- API: [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)
-
-  Description: RijksMuseum Data
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Blockchain
 
 - API: [Helium](https://docs.helium.com/api/blockchain/introduction/)
@@ -13973,17 +14401,6 @@ A collective list of free APIs
   Description: Luxembourgish Government Open Data
 
   Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Open Government, Singapore](https://data.gov.sg/developer)
-
-  Description: Singapore Government Open Data
-
-  Auth: No
 
   HTTPS: Yes
 
@@ -15735,20 +16152,6 @@ A collective list of free APIs
 
 ## [Oct 18, 2021](/content/2021/10/18/README.md)
 
-### Machine Learning
-
-- API: [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html)
-
-  Description: AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Sports & Fitness
 
 - API: [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/)
@@ -16487,20 +16890,6 @@ A collective list of free APIs
   Description: Query Minecraft, Steam and XBox Accounts
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Transportation
-
-- API: [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel)
-
-  Description: Travel Search - Limited usage
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -17854,17 +18243,6 @@ A collective list of free APIs
   Description: Build hybrid smart contracts with Chainlink
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Covalent](https://www.covalenthq.com/docs/api/)
-
-  Description: Multi-blockchain data aggregator platform
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -20025,22 +20403,6 @@ A collective list of free APIs
 
 
 
-## [Jul 22, 2021](/content/2021/07/22/README.md)
-
-### Games & Comics
-
-- API: [TCGdex](https://www.tcgdex.net/docs)
-
-  Description: Multi languages Pokémon TCG Information
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ## [Jul 21, 2021](/content/2021/07/21/README.md)
 
 ### Authentication & Authorization
@@ -20076,20 +20438,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
-
-
-
-### Development
-
-- API: [Tyk](https://tyk.io/open-source/)
-
-  Description: Api and service management platform
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -22872,22 +23220,6 @@ A collective list of free APIs
 
 
 
-## [Aug 31, 2020](/content/2020/08/31/README.md)
-
-### Geocoding
-
-- API: [BigDataCloud](https://www.bigdatacloud.com/ip-geolocation-apis)
-
-  Description: Provides fast and accurate IP geolocation APIs along with security checks and confidence area
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ## [Aug 30, 2020](/content/2020/08/30/README.md)
 
 ### Development
@@ -23987,20 +24319,6 @@ A collective list of free APIs
 
 ## [Oct 15, 2019](/content/2019/10/15/README.md)
 
-### Dictionaries
-
-- API: [OwlBot](https://owlbot.info/)
-
-  Description: Definitions with example sentence and photo if available
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Games & Comics
 
 - API: [Tronald Dump](https://www.tronalddump.io/)
@@ -24416,17 +24734,6 @@ A collective list of free APIs
   Description: Music
 
   Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [TheAudioDB](https://www.theaudiodb.com/api_guide.php)
-
-  Description: Music
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -25483,17 +25790,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Metacert](https://metacert.com/)
-
-  Description: Metacert Link Flagging
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ### Art & Design
 
@@ -25543,17 +25839,6 @@ A collective list of free APIs
 
 
 ### Books
-
-- API: [Bhagavad Gita](https://bhagavadgita.io/api)
-
-  Description: Bhagavad Gita text
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
 
 - API: [British National Bibliography](http://bnb.data.bl.uk/)
 
@@ -26238,17 +26523,6 @@ A collective list of free APIs
   Description: Music
 
   Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Songsterr](https://www.songsterr.com/a/wa/api/)
-
-  Description: Provides guitar, bass and drums tabs and chords
-
-  Auth: No
 
   HTTPS: Yes
 

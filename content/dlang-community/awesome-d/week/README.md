@@ -6,6 +6,12 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Programming Languages / Status page
+
+*   [Ever (⭐5)](https://github.com/evrlang/ever) - A High-Level Programming Language for Low-Level Purposes
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Build Tools / Status page

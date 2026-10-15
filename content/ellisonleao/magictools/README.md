@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Mibo (⭐32)](https://github.com/AngelMunoz/Mibo) - Elmish (MVU) F# game framework on raylib-cs or MonoGame.
+
+### AI / Voxel Editors
+
+*   :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Engines and Frameworks / Voxel Editors
@@ -132,7 +142,7 @@
 
 ### Graphics / Vector/Image Editor
 
-*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.2k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.3k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 
 ### AI / Voxel Editors
 
