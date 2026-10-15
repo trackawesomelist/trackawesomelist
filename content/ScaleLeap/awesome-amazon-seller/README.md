@@ -6,6 +6,12 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Software and Tools
+
+*   [zonfy Free Seller Tools](https://zonfy.app/tools) - Free, no-signup browser tools for Amazon listings: main image compliance checker (white background, fill, resolution), image fixer, A+ Content module size tool, title and listing analyzer, backend search terms byte counter, Brand Registry eligibility checker, and a US/India profit calculator. Paid AI A+ Content and listing generator.
+
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
 ### Software and Tools

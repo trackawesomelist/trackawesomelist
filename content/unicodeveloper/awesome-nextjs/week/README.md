@@ -15,6 +15,7 @@
 ### Apps
 
 *   [Looot Network (⭐0)](https://github.com/loootai/looot-network) - Open source alternative to Happenstance: search your own LinkedIn, Google Contacts or CSV network in plain language. Built with Next.js 16 and Supabase, MIT, with a demo mode; optional paid enrichment needs a looot API key.
+*   [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 

@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ [Daily](/content/gramantin/awesome-rails/README.md) / Weekly / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Gems / Other external resources
+
+*   [rails\_preflight (⭐9)](https://github.com/aslam/rails-preflight) - A gem to report what blocks upgrading a Rails app to a target version, before you change any code. [:red\_circle:](https://rubygems.org/gems/rails_preflight)
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Gems / Other external resources
@@ -24,7 +30,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### Gems / Other external resources
 
-*   [transaction\_guard (⭐2)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
+*   [transaction\_guard (⭐3)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -368,13 +374,13 @@ A curated list of awesome things related to Ruby on Rails
 *   [gitlabhq (⭐25k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 *   [growstuff (⭐474)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1).
 *   [hackershare (⭐667)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0).
-*   [hitobito (⭐479)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
+*   [hitobito (⭐484)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
 *   [inaturalist (⭐859)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐4.9k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.6k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
 *   [openFarm (⭐1.7k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
 *   [openproject (⭐16k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
-*   [openstreetmap-website (⭐2.8k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
+*   [openstreetmap-website (⭐2.9k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐2.3k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
 *   [passwordPusher (⭐3.2k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
 *   [planningalerts-app (⭐116)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
@@ -540,7 +546,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [adopt-a-hydrant (⭐796)](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 *   [askaway (⭐33)](https://github.com/askaway/askaway) - Question & answer app specialized in politics (using Rails 4.1).
 *   [brimir (⭐1.4k)](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
-*   [canvas-lms (⭐6.8k)](https://github.com/instructure/canvas-lms) - A learning management app.
+*   [canvas-lms (⭐6.9k)](https://github.com/instructure/canvas-lms) - A learning management app.
 *   [ciao (⭐2k)](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
 *   [coRM (⭐27)](https://github.com/SIGIRE/CoRM) - A customer relationship management app - using Rails 3.2 - [:earth\_africa:](http://www.corm.fr)
 *   [coderwall (legacy) (⭐856)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
@@ -786,7 +792,7 @@ A curated list of awesome things related to Ruby on Rails
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
 

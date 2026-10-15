@@ -1048,6 +1048,7 @@ Thanks to our main contributors
 *   [WhoisMind](https://www.whoismind.com)
 *   [Whoisology](https://whoisology.com)
 *   [WhoIsRequest](https://whoisrequest.com)
+*   [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
 *   [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 *   [You Get Signal](https://www.yougetsignal.com)
 
@@ -1714,7 +1715,7 @@ Thanks to our main contributors
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 *   [SerpScan (⭐70)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 *   [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
-*   [sn0int (⭐2.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 *   [SpiderFoot (⭐23k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 *   [SpiderSuite (⭐980)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.

@@ -45,26 +45,6 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 
 **Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
 
-<!--
-> :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
--->
-
-## :tada: New
-
-*   [Darkmoon (⭐1k)](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
-*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes, 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
-*   [Maestro (⭐465)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
-*   [Task Monitor (⭐8)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
-*   [Signum (⭐18)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
-*   [Tars](https://tars.saccolabs.com?utm_source=awesome-gemini-cli\&utm_medium=referral) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
-*   [ATXP (⭐45)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
-*   [Untether (⭐72)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
-*   [Parallel Code (⭐1k)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
-*   [wolfpack (⭐47)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
-*   [Xquik MCP (⭐211)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
-*   [rule-gen (⭐9)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
-*   [Pluribus (⭐14)](https://github.com/caioribeiroclw-pixel/pluribus) - Sync one canonical project context into native AI coding-agent rule files, including Gemini CLI `GEMINI.md`, Claude Code `CLAUDE.md`/`AGENTS.md`, Cursor, Cline, Roo Code, Amazon Q, Junie, Warp, Copilot, Windsurf, Continue, Zed, OpenCode, and OpenClaw.
-
 > \[!tip]
 > **Track your local Gemini CLI usage with [Splitrail (⭐223)](https://github.com/Piebald-AI/splitrail).**
 
@@ -272,6 +252,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 *   [Check (⭐1)](https://github.com/golproductions/check) - `BeforeTool` hook that parses a file on your own machine before Gemini CLI writes it, and blocks a `write_file` that would leave a Python, shell or PowerShell script, an `.mjs` file or `package.json` unparseable, handing the agent the parser's error. On Windows, file writes are what it checks. Also installs into Claude Code, Codex CLI, Cursor, Windsurf and Copilot CLI. Install: `npx @golproductions/check@latest --install`. Paid, 14-day free trial.
 *   [tokenreceipt (⭐1)](https://github.com/henrikdukefoss/tokenreceipt) - Local CLI that reads Gemini CLI chat logs (plus Claude Code, Codex, OpenCode and other agents) and prints a till-style receipt of tokens per agent and model, priced at public API list prices. Exports SVG/PNG cards or JSON; no account, no upload, no dependencies. MIT. Run: `npx github:henrikdukefoss/tokenreceipt`.
 *   [Wardlume](https://wardlume.github.io?utm_source=awesome-gemini-cli\&utm_medium=referral) - Locks the Mac's keyboard, mouse, and trackpad while Gemini CLI runs unattended, so progress stays visible but nobody can type into the session. Unlocks with Touch ID or Apple Watch; sandboxed with no network access.
+*   [session-handoff-kit (⭐0)](https://github.com/alapha888/session-handoff-kit) - Agent Skill (open SKILL.md standard; installs into Gemini CLI with `npx skills add alapha888/session-handoff-kit --agent gemini-cli`) that ends a session with a structured handoff — goal state, decisions, files touched, open loops, next action — so the next session starts from facts instead of an over-full context. Also includes a context-hygiene checklist and a fill-in handoff template. MIT.
 
 ## Browser Extensions
 
@@ -370,6 +351,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 *   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Uptime and synthetic monitoring with a remote MCP server (OAuth) to create, run and diagnose checks. Works with Gemini CLI: `gemini mcp add --transport http solidping https://solidping.io/api/v1/mcp`.
 *   [Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent?utm_source=awesome-gemini-cli\&utm_medium=referral) - Self-healing GitHub Actions runners with a hosted MCP server for coding agents: read the CI failures self-heal could not fix (root cause, failing file, logs), check run status, dispatch workflows, and run commands on fresh ephemeral runners. Remote Streamable HTTP with a Latchkey API key; the server is closed source. Add with: `gemini mcp add --transport http latchkey https://latchkey.dev/mcp --header "Authorization: Bearer $LATCHKEY_TOKEN"`.
 *   [Aident Loadout](https://aident.ai?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted MCP server that gives Gemini CLI and other MCP clients one reusable setup for apps like GitHub, Slack, Gmail, Linear and Notion, plus 400+ expert-built Skills and built-in services (search, scraping, media generation) billed from one balance. Accounts are connected once in the browser and kept in Aident Vault, and every action is logged in Audit. Remote Streamable HTTP with OAuth sign-in; free pay-as-you-go start. Add with: `gemini mcp add --transport http aident https://loadout.aident.ai/mcp`.
+*   [CurlShot](https://curlshot.com/docs/guides/ai-agents?utm_source=awesome-gemini-cli\&utm_medium=referral) - Screenshot API with a hosted MCP server: `take_screenshot` renders any web page in a real browser and returns the image (PNG, JPEG, WebP or PDF; full page, device presets, ad and cookie-banner blocking), so Gemini CLI can see a page, and `list_devices` lists the presets. Remote Streamable HTTP with a CurlShot API key; the server is closed source. Free plan of 100 screenshots a month, no card. Add with: `gemini mcp add --transport http curlshot https://curlshot.com/api/mcp --header "Authorization: Bearer $CURLSHOT_API_KEY"`.
 
 ## Neovim Plugins
 

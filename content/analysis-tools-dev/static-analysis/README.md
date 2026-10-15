@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+
+### Other / [Other](#other-1)
+
+*   [compose-lint](https://tmatens.github.io/compose-lint/) — Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -278,12 +288,6 @@
 
 *   **Codety** :warning: :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
 
-## [Apr 14, 2026](/content/2026/04/14/README.md)
-
-### Programming Languages / [Other](#other-1)
-
-*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
-
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -316,7 +320,7 @@
 ### Multiple languages / [Other](#other-1)
 
 *   [Code-Graph-RAG](https://code-graph-rag.com) — Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and stores them in Memgraph. Supports 11 programming languages with a unified graph schema and enables natural language querying and editing of code structure and relationships. Functions as an MCP server for AI assistant integration.
-*   [diesel-guard (⭐120)](https://github.com/ayarotsky/diesel-guard) — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
+*   [diesel-guard (⭐121)](https://github.com/ayarotsky/diesel-guard) — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
 *   [jQAssistant](https://jqassistant.org/) — jQAssistant is a plugin based software analytics platform which allows scanning code structures and metadata from repositories into a Neo4j graph database.  The gathered data can be used for ad-hoc exploration using queries, visualization or defining rules for continuous architecture validation.
 
 ### Other / [Other](#other-1)

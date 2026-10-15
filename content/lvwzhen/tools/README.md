@@ -6,6 +6,20 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Response
+
+*   [CurlShot Mobile Screenshot](https://curlshot.com/tools/mobile-screenshot) - Screenshot any page as it renders on a phone or tablet (screen size, pixel density, mobile user agent), no account needed.
+
+### JavaScript
+
+*   [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
+
+### Font
+
+*   [Google Fonts](https://fonts.google.com/)
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Response
@@ -42,7 +56,7 @@ Tools Online
 
 ### Tools collection
 
-*   *   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
+*   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 
 ## [May 09, 2026](/content/2026/05/09/README.md)
 
@@ -86,25 +100,9 @@ Tools Online
 
 ## [Aug 06, 2023](/content/2023/08/06/README.md)
 
-### Placeholder
-
-*   [placehold.it](https://place-hold.it/)
-
 ### Tools collection
 
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)
-
-## [Jan 20, 2023](/content/2023/01/20/README.md)
-
-### JavaScript
-
-*   [Flatlogic CRUD Apps Generator](https://flatlogic)
-
-## [Jan 03, 2023](/content/2023/01/03/README.md)
-
-### Color
-
-*   [Branding Colors](https://branition.com/colors)
 
 ## [Dec 13, 2021](/content/2021/12/13/README.md)
 
@@ -117,20 +115,6 @@ Tools Online
 ### UI Builders
 
 *   [Windframe](https://www.devwares.com/windframe/)
-
-## [Nov 11, 2021](/content/2021/11/11/README.md)
-
-### Placeholder
-
-*   [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
-
-### JavaScript
-
-*   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
-
-### Tools collection
-
-*   [SmallDev.tools](https://smalldev.tools/)
 
 ## [Sep 11, 2021](/content/2021/09/11/README.md)
 
@@ -168,19 +152,10 @@ Tools Online
 
 ## [Sep 27, 2020](/content/2020/09/27/README.md)
 
-### CDN
-
-*   [pagecdn](https://pagecdn.com/lib)
-
-### Font
-
-*   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
-
 ### Code Playgrounds
 
 *   [CodePen](https://codepen.io/)
 *   [CodeSandbox](https://codesandbox.io/)
-*   [Glitch](https://glitch.com/)
 *   [JSFiddle](https://jsfiddle.net/)
 *   [JS BIN](http://jsbin.com/)
 *   [Dabblet](http://dabblet.com/)
@@ -190,12 +165,6 @@ Tools Online
 *   [StackBlitz](https://stackblitz.com/)
 *   [FastSitePHP](https://www.fastsitephp.com/en/playground)
 *   [DataFormsJS](https://www.dataformsjs.com/en/playground)
-
-## [Aug 22, 2020](/content/2020/08/22/README.md)
-
-### Placeholder
-
-*   [unsplash](https://source.unsplash.com/)
 
 ## [Feb 16, 2020](/content/2020/02/16/README.md)
 
@@ -311,12 +280,6 @@ Tools Online
 
 *   [Jquery API](http://www.jquery123.com/)
 
-## [Jul 29, 2015](/content/2015/07/29/README.md)
-
-### CSS
-
-*   [sassme](http://sassme.arc90.com/)
-
 ## [May 23, 2015](/content/2015/05/23/README.md)
 
 ### Pagespeed
@@ -364,17 +327,9 @@ Tools Online
 
 *   [jsDelivr](http://www.jsdelivr.com/)
 
-### Pagespeed
-
-*   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
-
 ### Color
 
 *   [colourco.de](http://colourco.de)
-
-### Font
-
-*   [Fontface Ninja](http://fontface.ninja/)
 
 ## [Sep 13, 2014](/content/2014/09/13/README.md)
 
@@ -382,32 +337,21 @@ Tools Online
 
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 
-## [Jul 07, 2014](/content/2014/07/07/README.md)
-
-### Placeholder
-
-*   [placekitten](http://placekitten.com/)
-
 ## [Jul 04, 2014](/content/2014/07/04/README.md)
 
 ### CDN
 
-*   [cdnjs.cn](http://www.cdnjs.cn/)
 *   [upai](http://jscdn.upai.com/)
-*   [Baidu cdn](http://cdn.code.baidu.com/)
 
 ## [Jul 03, 2014](/content/2014/07/03/README.md)
 
 ### Response
 
-*   [Responsinator](http://www.responsinator.com/)
-*   [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 *   [Media Queri](http://mediaqueri.es/)
 
 ### Placeholder
 
 *   [temp.im](http://temp.im/)
-*   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
 
 ### Favicon
@@ -419,9 +363,7 @@ Tools Online
 ### CDN
 
 *   [staticfile](http://www.staticfile.org/)
-*   [360 cdn](http://libs.useso.com/)
 *   [jquery cdn](http://code.jquery.com/)
-*   [lib.sinaapp](http://lib.sinaapp.com/)
 
 ### CSS
 
@@ -444,7 +386,6 @@ Tools Online
 
 ### Pagespeed
 
-*   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 
 ### Color
@@ -458,7 +399,6 @@ Tools Online
 
 ### Font
 
-*   [Google Fonts](https://www.google.com/fonts)
 *   [dafont](http://www.dafont.com/)
 *   [youziku](http://www.youziku.com/)
 *   [qiuziti](http://www.qiuziti.com/)
@@ -477,5 +417,4 @@ Tools Online
 *   [GitHub](https://github.com/)
 *   [Bitbucket](https://bitbucket.org/)
 *   [GitLab](https://about.gitlab.com/)
-*   [GitCafe](https://gitcafe.com/)
 *   [Git@OSC](http://git.oschina.net/)

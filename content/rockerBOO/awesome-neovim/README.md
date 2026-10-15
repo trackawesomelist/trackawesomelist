@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Workflow / Stats Tracking
+
+*   [DrKJeff16/triforce.nvim (⭐11)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -74,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### Debugging / CSV Files
 
-*   [JarnDev/autodap.nvim (⭐24)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
+*   [JarnDev/autodap.nvim (⭐28)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
@@ -88,7 +94,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [ChrisGVE/docshelf.nvim (⭐3)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
+*   [ChrisGVE/docshelf.nvim (⭐5)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
@@ -1538,12 +1544,6 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Markdown and LaTeX
 
 *   [tttol/md-outline.nvim (⭐5)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
-
-## [Nov 10, 2025](/content/2025/11/10/README.md)
-
-### Workflow / Stats Tracking
-
-*   [gisketch/triforce.nvim (⭐311)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
 ## [Nov 09, 2025](/content/2025/11/09/README.md)
 
@@ -4375,12 +4375,6 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [chuwy/ucm.nvim (⭐7)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
-
-## [Aug 06, 2023](/content/2023/08/06/README.md)
-
-### Fuzzy Finder / Markdown and LaTeX
-
-*   [linrongbin16/fzfx.nvim (⭐152)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 
 ## [Aug 05, 2023](/content/2023/08/05/README.md)
 

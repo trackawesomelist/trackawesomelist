@@ -89,6 +89,7 @@ Build automation.
 *   [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code (⭐26k)](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
 *   [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
 *   [Gradle](https://gradle.org/) - Another build automation system. ([Source Code (⭐19k)](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
+*   [OpenBao](https://openbao.org) - Static and dynamic secrets manager including X.509 & SSH CAs, JWT issuer, and KMS under the OpenSSF. ([Source Code (⭐8.5k)](https://github.com/openbao/openbao), [Clients (⭐63)](https://github.com/openbao/openbao-plugins)) `MPL-2.0` `Go/Docker/K8S/deb`
 *   [OpenBolt](https://voxpupuli.org/openvox/) - Orchestration tool to run orchestration workflows or one-off tasks/scripts to automate the provisioning and management of nodes. Community fork of the last open source version of [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm). ([Source Code (⭐34)](https://github.com/OpenVoxProject/openbolt)) `Apache-2.0` `Ruby`
 *   [parse-dmarc](https://dmarcguard.io) `⚠` - DMARC aggregate report parser with a built-in dashboard. Fetches reports over IMAP, stores them, and flags spoofing. Single Go binary with embedded Vue UI, SQLite storage, and Prometheus metrics (alternative to PowerDMARC, EasyDMARC, Dmarcian). ([Source Code (⭐208)](https://github.com/dmarcguardhq/parse-dmarc), [Clients (⭐1.3k)](https://github.com/domainaware/parsedmarc)) `Apache-2.0` `Go/Docker`
 *   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.5k)](https://github.com/ruby/rake)) `MIT` `Ruby`
@@ -101,7 +102,7 @@ Build automation.
 
 *See also: [Restic's list of Linux backup software (⭐758)](https://github.com/restic/others)*
 
-*   [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code (⭐7.4k)](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
+*   [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code (⭐7.5k)](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 *   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐1.3k)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 *   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐3.2k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
@@ -117,7 +118,7 @@ Build automation.
 *   [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 *   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐60k)](https://github.com/rclone/rclone)) `MIT` `Go`
 *   [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code (⭐1.3k)](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
-*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐36k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
+*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐37k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
 *   [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code (⭐3.7k)](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
 *   [Shield (⭐402)](https://github.com/shieldproject/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 *   [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code (⭐934)](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
@@ -199,13 +200,13 @@ Configuration management database (CMDB) software.
 *   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.9k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 *   [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
 *   [GoCD](https://www.go.cd/) - Continuous delivery server. ([Source Code (⭐7.4k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
-*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐38k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
+*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐39k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐27k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 *   [Laminar](https://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐356)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
 *   [PHP Censor (⭐687)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [Stategraph](https://stategraph.com) - GitOps-first automation platform for Terraform and OpenTofu workflows with support for self-hosted runners. ([Source Code (⭐1.3k)](https://github.com/stategraph/stategraph)) `MPL-2.0` `OCaml/Docker`
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐4.7k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐7.9k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐8k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Control Panels
 
@@ -254,7 +255,7 @@ Tools and scripts to support deployments to your servers.
 
 Tools used to create diagrams of networks, flows, etc.
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐8.5k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐8.8k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐4.4k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐6.8k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
@@ -354,7 +355,7 @@ Open-source code editors.
 *   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐188)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐2.6k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
-*   [lldap (⭐6.5k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [lldap (⭐6.6k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 *   [LTB Self-Service Password](https://www.ltb-project.org/documentation/self-service-password.html) - Web interface to change and reset LDAP passwords. ([Source Code (⭐1.3k)](https://github.com/ltb-project/self-service-password)) `GPL-3.0` `PHP`
 *   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
 *   [Wren:DS](https://wrensecurity.org/projects/wrends/) - LDAPv3-compliant directory service providing a high-performance, highly available, and secure identity data store for enterprise environments. ([Source Code (⭐45)](https://github.com/WrenSecurity/wrends)) `CDDL-1.0` `Java`
@@ -455,7 +456,7 @@ Software that does not fit in another section.
 *   [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
 *   [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
 *   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐1.7k)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
-*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐872)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐877)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Monitoring & Status Pages
 
@@ -502,7 +503,7 @@ Monitoring software.
 *   [Status (⭐316)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://demos-status.djank.me/)) `MIT` `Python`
 *   [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐443)](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
 *   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.5k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
-*   [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code (⭐92k)](https://github.com/louislam/uptime-kuma)) `MIT` `Nodejs`
+*   [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Demo](https://demo.kuma.pet/start-demo), [Source Code (⭐92k)](https://github.com/louislam/uptime-kuma)) `MIT` `Nodejs`
 *   [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code (⭐17k)](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
 *   [Zabbix](https://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 

@@ -19,6 +19,10 @@ A curated list of Rust code and resources.
 
 *   [ZacharyL2/KeyEcho (⭐877)](https://github.com/ZacharyL2/KeyEcho) - Desktop app that plays recorded mechanical keyboard sounds as you type, built with Tauri
 
+### Applications / Image processing
+
+*   [skymanbp/autoshade (⭐1k)](https://github.com/skymanbp/autoshade) - AI-assisted RAW photo developer: a vision model proposes an edit recipe, a deterministic engine renders it as a Lightroom-compatible XMP sidecar. [![build](https://github.com/skymanbp/autoshade/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/skymanbp/autoshade/actions/workflows/build.yml)
+
 ### Applications / Productivity
 
 *   [raine/aven (⭐174)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
@@ -152,7 +156,7 @@ A curated list of Rust code and resources.
 ### Development tools / Testing
 
 *   Code Coverage
-    *   [minikin/cargo-crap (⭐409)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
+    *   [minikin/cargo-crap (⭐422)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
     *   [supercorp-ai/supercov (⭐145)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
@@ -251,7 +255,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [jchultarsky/mirador (⭐318)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
+*   [jchultarsky/mirador (⭐325)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
 *   [raine/workmux (⭐2.7k)](https://github.com/raine/workmux) \[[workmux](https://crates.io/crates/workmux)] - git worktrees + tmux windows for zero-friction parallel dev [![CI](https://github.com/raine/workmux/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/workmux/actions/workflows/ci.yml)
 
 ### Applications / System tools

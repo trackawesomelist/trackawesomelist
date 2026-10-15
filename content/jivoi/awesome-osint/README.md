@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
+
 ## [Oct 14, 2026](/content/2026/10/14/README.md)
 
 ### Email Search / Email Check / GitHub
@@ -2845,7 +2851,7 @@
 
 ### Other Tools / GitHub
 
-*   [sn0int (⭐2.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [Oct 18, 2018](/content/2018/10/18/README.md)
 

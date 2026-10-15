@@ -266,7 +266,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [brimir (⭐1.4k)](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
 *   [calagator (⭐447)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
 *   [campo (⭐436)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
-*   [canvas-lms (⭐6.8k)](https://github.com/instructure/canvas-lms) - A learning management app.
+*   [canvas-lms (⭐6.9k)](https://github.com/instructure/canvas-lms) - A learning management app.
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
 *   [chatwoot (⭐38k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
 *   [chronlife (⭐11)](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
@@ -306,7 +306,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [hackershare (⭐667)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0).
 *   [hashrobot (⭐48)](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
 *   [helpy (⭐2.5k)](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2).
-*   [hitobito (⭐479)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
+*   [hitobito (⭐484)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1).
 *   [hours (⭐1k)](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2).
 *   [human-essentials (⭐594)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 *   [inaturalist (⭐859)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
@@ -328,7 +328,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [opencongress (⭐48)](https://github.com/sunlightlabs/opencongress) - A website for getting information about US Congress - using Rails 3.0 (archived).
 *   [openproject (⭐16k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 *   [opensourcefriday (⭐1.2k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
-*   [openstreetmap-website (⭐2.8k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
+*   [openstreetmap-website (⭐2.9k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐2.3k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
 *   [passwordPusher (⭐3.2k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
@@ -460,6 +460,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [rails-settings-cached (⭐1.1k)](https://github.com/huacnlee/rails-settings-cached) - A gem to manage global settings as key-value pairs. [:red\_circle:](https://rubygems.org/gems/rails-settings-cached)
 *   [rails\_admin (⭐8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
 *   [rails\_event\_store (⭐1.6k)](https://github.com/RailsEventStore/rails_event_store) - A gem to implement event store in Rails [:red\_circle:](https://rubygems.org/gems/rails_event_store)
+*   [rails\_preflight (⭐9)](https://github.com/aslam/rails-preflight) - A gem to report what blocks upgrading a Rails app to a target version, before you change any code. [:red\_circle:](https://rubygems.org/gems/rails_preflight)
 *   [rails\_semantic\_logger (⭐428)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
 *   [ransack (⭐5.9k)](https://github.com/activerecord-hackery/ransack) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/ransack)
@@ -492,7 +493,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [subflag-rails (⭐1)](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
 *   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
 *   [tinymce-rails (⭐822)](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red\_circle:](https://rubygems.org/gems/tinymce-rails)
-*   [transaction\_guard (⭐2)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
+*   [transaction\_guard (⭐3)](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red\_circle:](https://rubygems.org/gems/transaction_guard)
 *   [transloadit-rails (⭐47)](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red\_circle:](https://rubygems.org/gems/transloadit-rails)
 *   [trove (⭐81)](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red\_circle:](https://rubygems.org/gems/trove)
 *   [turbo-rails (⭐2.4k)](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/turbo-rails)

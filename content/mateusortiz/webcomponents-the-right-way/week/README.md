@@ -10,6 +10,7 @@ A curated list of awesome Web Components resources.
 
 ### Component Libraries
 
+*   [AWC UI (⭐17)](https://github.com/awc-ui/core) - Material Design 3 component library built with Stencil and shipped as custom elements.
 *   [IconOven](https://www.npmjs.com/package/@iconoven/web-component) - 85,000+ UI Icons as a Web Component on One 24 px Grid, Free in the Stroke Style Under MIT.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)

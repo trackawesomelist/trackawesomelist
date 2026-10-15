@@ -6,6 +6,12 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Software / Automation
+
+*   [OpenBao](https://openbao.org) - Static and dynamic secrets manager including X.509 & SSH CAs, JWT issuer, and KMS under the OpenSSF. ([Source Code (⭐8.5k)](https://github.com/openbao/openbao), [Clients (⭐63)](https://github.com/openbao/openbao-plugins)) `MPL-2.0` `Go/Docker/K8S/deb`
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Software / Editors
@@ -93,7 +99,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐38k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
+*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐39k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
 
 ### Software / Deployment Automation
 
@@ -106,7 +112,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Identity Management - LDAP
 
-*   [lldap (⭐6.5k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [lldap (⭐6.6k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 
 ### Software / Metrics & Metric Collection
 
@@ -201,7 +207,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring & Status Pages
 
-*   [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code (⭐92k)](https://github.com/louislam/uptime-kuma)) `MIT` `Nodejs`
+*   [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Demo](https://demo.kuma.pet/start-demo), [Source Code (⭐92k)](https://github.com/louislam/uptime-kuma)) `MIT` `Nodejs`
 
 ## [Oct 27 - Nov 02, 2025](/content/2025/43/README.md)
 
@@ -235,7 +241,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code (⭐7.4k)](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
+*   [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code (⭐7.5k)](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
@@ -390,7 +396,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
 *   [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
-*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐872)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐877)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Monitoring & Status Pages
 
@@ -675,7 +681,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐7.9k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐8k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -776,7 +782,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Diagramming
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐8.5k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐8.8k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -853,7 +859,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐36k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
+*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐37k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
 
 ## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
 

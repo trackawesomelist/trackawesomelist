@@ -77,6 +77,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Vendlen](https://vendlen.com) - Amazon Ads analytics and automation for sellers on the US marketplace. Each recommendation shows the evidence, period and scope behind it; automation rules run inside limits you set and can be previewed before they change anything. 14-day free trial.
 *   [WordTree](https://www.wordtree.io/) - Keyword tools to grow your search traffic, research your competitors, and monitor your niche.
 *   [xSellco](https://www.xsellco.com/) - Centralize customer queries, target positive feedback by requesting reviews from happy customers, automatically reprice.
+*   [zonfy Free Seller Tools](https://zonfy.app/tools) - Free, no-signup browser tools for Amazon listings: main image compliance checker (white background, fill, resolution), image fixer, A+ Content module size tool, title and listing analyzer, backend search terms byte counter, Brand Registry eligibility checker, and a US/India profit calculator. Paid AI A+ Content and listing generator.
 *   [ZonRival](https://zonrival.com) - Amazon competitor research inside Claude and ChatGPT via MCP: review complaint topics from Amazon's "Customers say" summaries, 90-day price and rank history, listing audits, keyword rankings with advertisers, and daily competitor alerts. Free review complaint checker, no sign-up.
 
 ## Product Research and Pre-Launch

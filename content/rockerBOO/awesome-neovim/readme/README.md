@@ -608,7 +608,6 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [jvgrootveld/telescope-zoxide (⭐371)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐40k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [nvim-mini/mini.nvim#mini.fuzzy (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐411)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
-*   [linrongbin16/fzfx.nvim (⭐152)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 *   [nvim-mini/mini.nvim#mini.pick (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 *   [nvim-mini/mini.nvim#mini.extra (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 *   [fdschmidt93/telescope-egrepify.nvim (⭐145)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
@@ -1215,7 +1214,7 @@ then it is not supported:
 *   [7KiLL/copybara.nvim (⭐6)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 *   [justinhj/battery.nvim (⭐76)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
 *   [rifen/timescope (⭐7)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
-*   [ChrisGVE/docshelf.nvim (⭐3)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
+*   [ChrisGVE/docshelf.nvim (⭐5)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
 ### CSV Files
 
@@ -1311,7 +1310,7 @@ then it is not supported:
 *   [fschaal/azfunc.nvim (⭐6)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
 *   [evanmcpheron/rocketlog.nvim (⭐4)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 *   [NickTsaizer/splitasm.nvim (⭐81)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
-*   [JarnDev/autodap.nvim (⭐24)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
+*   [JarnDev/autodap.nvim (⭐28)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ### Quickfix
 
@@ -1976,7 +1975,7 @@ then it is not supported:
 ### Stats Tracking
 
 *   [aikhe/wrapped.nvim (⭐188)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
-*   [gisketch/triforce.nvim (⭐311)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [DrKJeff16/triforce.nvim (⭐11)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [QuentinGruber/pomodoro.nvim (⭐50)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 *   [yal212/pomodoro.nvim (⭐8)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 *   [raymondware/focusmode.nvim (⭐3)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.

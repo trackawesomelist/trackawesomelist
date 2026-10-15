@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [FrancescoDerme/tuna.nvim (⭐13)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 
+### Workflow / Stats Tracking
+
+*   [DrKJeff16/triforce.nvim (⭐11)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Colorscheme / Markdown and LaTeX
@@ -50,11 +54,11 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [ChrisGVE/docshelf.nvim (⭐3)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
+*   [ChrisGVE/docshelf.nvim (⭐5)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
 ### Debugging / CSV Files
 
-*   [JarnDev/autodap.nvim (⭐24)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
+*   [JarnDev/autodap.nvim (⭐28)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ### Scrolling / Scrollbar
 
@@ -1230,10 +1234,6 @@ Collections of awesome neovim plugins.
 ### Split and Window / Tmux
 
 *   [EvWilson/slimux.nvim (⭐34)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
-
-### Workflow / Stats Tracking
-
-*   [gisketch/triforce.nvim (⭐311)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
 ### Pre-made Configuration / Stats Tracking
 
@@ -3647,10 +3647,6 @@ Collections of awesome neovim plugins.
 ### LSP
 
 *   [aznhe21/actions-preview.nvim (⭐515)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
-
-### Fuzzy Finder / Markdown and LaTeX
-
-*   [linrongbin16/fzfx.nvim (⭐152)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 

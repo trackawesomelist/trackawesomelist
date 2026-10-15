@@ -11,6 +11,7 @@ Tools Online
 ### Response
 
 *   [Responsive Tool](https://responsivetool.com)
+*   [CurlShot Mobile Screenshot](https://curlshot.com/tools/mobile-screenshot) - Screenshot any page as it renders on a phone or tablet (screen size, pixel density, mobile user agent), no account needed.
 
 ### Favicon
 
@@ -22,9 +23,17 @@ Tools Online
 *   [BulkPicTools](https://bulkpictools.com/)
 *   [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 
+### JavaScript
+
+*   [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
+
 ### Pagespeed
 
 *   [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Analyze HTTP redirect chains and measure performance impact
+
+### Font
+
+*   [Google Fonts](https://fonts.google.com/)
 
 ### Tools collection
 
@@ -42,7 +51,7 @@ Tools Online
 
 ### Tools collection
 
-*   *   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
+*   [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -86,25 +95,9 @@ Tools Online
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
-### Placeholder
-
-*   [placehold.it](https://place-hold.it/)
-
 ### Tools collection
 
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)
-
-## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
-
-### JavaScript
-
-*   [Flatlogic CRUD Apps Generator](https://flatlogic)
-
-## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
-
-### Color
-
-*   [Branding Colors](https://branition.com/colors)
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -117,20 +110,6 @@ Tools Online
 ### UI Builders
 
 *   [Windframe](https://www.devwares.com/windframe/)
-
-## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
-
-### Placeholder
-
-*   [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
-
-### JavaScript
-
-*   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
-
-### Tools collection
-
-*   [SmallDev.tools](https://smalldev.tools/)
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -168,19 +147,10 @@ Tools Online
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
-### CDN
-
-*   [pagecdn](https://pagecdn.com/lib)
-
-### Font
-
-*   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
-
 ### Code Playgrounds
 
 *   [CodePen](https://codepen.io/)
 *   [CodeSandbox](https://codesandbox.io/)
-*   [Glitch](https://glitch.com/)
 *   [JSFiddle](https://jsfiddle.net/)
 *   [JS BIN](http://jsbin.com/)
 *   [Dabblet](http://dabblet.com/)
@@ -190,12 +160,6 @@ Tools Online
 *   [StackBlitz](https://stackblitz.com/)
 *   [FastSitePHP](https://www.fastsitephp.com/en/playground)
 *   [DataFormsJS](https://www.dataformsjs.com/en/playground)
-
-## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
-
-### Placeholder
-
-*   [unsplash](https://source.unsplash.com/)
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
@@ -311,12 +275,6 @@ Tools Online
 
 *   [Jquery API](http://www.jquery123.com/)
 
-## [Aug 03 - Aug 09, 2015](/content/2015/31/README.md)
-
-### CSS
-
-*   [sassme](http://sassme.arc90.com/)
-
 ## [May 25 - May 31, 2015](/content/2015/21/README.md)
 
 ### Favicon
@@ -362,17 +320,9 @@ Tools Online
 
 *   [jsDelivr](http://www.jsdelivr.com/)
 
-### Pagespeed
-
-*   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
-
 ### Color
 
 *   [colourco.de](http://colourco.de)
-
-### Font
-
-*   [Fontface Ninja](http://fontface.ninja/)
 
 ## [Sep 15 - Sep 21, 2014](/content/2014/37/README.md)
 
@@ -380,24 +330,15 @@ Tools Online
 
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 
-## [Jul 14 - Jul 20, 2014](/content/2014/28/README.md)
-
-### Placeholder
-
-*   [placekitten](http://placekitten.com/)
-
 ## [Jul 07 - Jul 13, 2014](/content/2014/27/README.md)
 
 ### Response
 
-*   [Responsinator](http://www.responsinator.com/)
-*   [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 *   [Media Queri](http://mediaqueri.es/)
 
 ### Placeholder
 
 *   [temp.im](http://temp.im/)
-*   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
 
 ### Favicon
@@ -409,12 +350,8 @@ Tools Online
 ### CDN
 
 *   [staticfile](http://www.staticfile.org/)
-*   [cdnjs.cn](http://www.cdnjs.cn/)
 *   [upai](http://jscdn.upai.com/)
-*   [Baidu cdn](http://cdn.code.baidu.com/)
-*   [360 cdn](http://libs.useso.com/)
 *   [jquery cdn](http://code.jquery.com/)
-*   [lib.sinaapp](http://lib.sinaapp.com/)
 
 ### CSS
 
@@ -437,7 +374,6 @@ Tools Online
 
 ### Pagespeed
 
-*   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 
 ### Color
@@ -451,7 +387,6 @@ Tools Online
 
 ### Font
 
-*   [Google Fonts](https://www.google.com/fonts)
 *   [dafont](http://www.dafont.com/)
 *   [youziku](http://www.youziku.com/)
 *   [qiuziti](http://www.qiuziti.com/)
@@ -470,5 +405,4 @@ Tools Online
 *   [GitHub](https://github.com/)
 *   [Bitbucket](https://bitbucket.org/)
 *   [GitLab](https://about.gitlab.com/)
-*   [GitCafe](https://gitcafe.com/)
 *   [Git@OSC](http://git.oschina.net/)

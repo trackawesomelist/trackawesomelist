@@ -13,6 +13,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Jsonpage](https://jsonpage.com/en/) - Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.
 *   [ROIC.ai](https://www.roic.ai/) - Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.
 
+### Tools for Teams and Collaboration
+
+*   [Pin Feed](https://pinfeed.io/) - Pin Feed is a website feedback tool to comment on live client website. Free for up to 3 projects with 500 MB storage. Clients can leave feedback without an account.
+
 ### Code Quality
 
 *   [HeyDeer](https://heydeer.ai/) - AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.

@@ -16,6 +16,10 @@
 
 *   [OpenLeads (⭐32)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 
+### Domain and IP Research / GitHub
+
+*   [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Google Dorks Tools
@@ -2723,7 +2727,7 @@
 
 ### Other Tools / GitHub
 
-*   [sn0int (⭐2.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 

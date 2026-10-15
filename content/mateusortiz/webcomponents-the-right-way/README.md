@@ -6,6 +6,12 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Oct 15, 2026](/content/2026/10/15/README.md)
+
+### Component Libraries
+
+*   [AWC UI (⭐17)](https://github.com/awc-ui/core) - Material Design 3 component library built with Stencil and shipped as custom elements.
+
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
 ### Component Libraries

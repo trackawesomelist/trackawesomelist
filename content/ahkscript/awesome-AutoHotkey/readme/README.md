@@ -89,8 +89,8 @@ Development state:
 ### <a name="libraries-data-format"></a>Data format
 
 *   [AHK\_ctable (⭐10)](https://github.com/hoppfrosch/AHK_cTable) - by hoppfrosch - Library to handle strings in tabular format - Forum thread: [link](https://autohotkey.com/board/topic/61256-object-table/page-2#entry467816).
-*   [AutoHotkey-JSON (⭐288)](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=627).
-*   [CSV (⭐58)](https://github.com/hi5/CSV) - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34853).
+*   [AutoHotkey-JSON (⭐287)](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=627).
+*   [CSV (⭐59)](https://github.com/hi5/CSV) - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34853).
 *   [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](https://autohotkey.com/board/topic/3020-list-manipulation-functions/).
 *   [ObjCSV (⭐32)](https://github.com/JnLlnd/ObjCSV/) - by JnLlnd - Library to load/save CSV files to Objects and  and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=41).
 *   [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
@@ -119,8 +119,8 @@ Development state:
 ### <a name="libraries-graphics"></a>Graphics
 
 *   [GDIp (⭐158)](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
-*   [ImagePut (⭐230)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
-*   [AHKv2-GDIP (⭐159)](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
+*   [ImagePut (⭐233)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
+*   [AHKv2-GDIP (⭐160)](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 *   [GDIp\_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here (⭐213)](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
 *   [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 *   [Particle System (⭐17)](https://github.com/acorns/Particle-System) - by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=26485).
@@ -188,18 +188,18 @@ Development state:
 
 ### Memory
 
-*   [classMemory (⭐71)](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
+*   [classMemory (⭐70)](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
 
 ### Networking
 
-*   [AHKhttp (⭐85)](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
-*   [AHKsock (⭐83)](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
+*   [AHKhttp (⭐86)](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
+*   [AHKsock (⭐84)](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
 *   [Chrome.ahk (⭐393)](https://github.com/G33kDude/Chrome.ahk) - by G33kDude - Automate Google Chrome using native AutoHotkey - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
 *   [FTP (⭐7)](https://github.com/jNizM/Class_FTP) - by jNizM - AutoHotkey wrapper for FTP Sessions (Class) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=79142\&p=344445#p344445)
-*   [Rufaydium WebDriver (⭐30)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
+*   [Rufaydium WebDriver (⭐31)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
 *   [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
-*   [Socket.ahk (⭐71)](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35120)
-*   [WebSocket.ahk (⭐86)](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35117)
+*   [Socket.ahk (⭐72)](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35120)
+*   [WebSocket.ahk (⭐87)](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35117)
 *   [WinSCP.ahk (⭐17)](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
@@ -236,10 +236,11 @@ Development state:
 
 *   [CL3 (⭐101)](https://github.com/hi5/CL3) - A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=814).
 *   [ClipBoardMonitor (⭐1)](https://github.com/536/my-startup-ahk-scripts/blob/master/startup/ClipBoardMonitor/ClipBoardMonitor.ahk) - Monitor clipboard changes, show  tooltip of word count for text or a temporary GUI for pictures.
-*   [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub (⭐397)](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6\&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
+*   [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub (⭐396)](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6\&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
+*   [ALTRun (⭐188)](https://github.com/zhugecaomao/ALTRun) - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 *   [Belvedere (⭐171)](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 *   [QuickAccessPopup (⭐7)](https://github.com/JnLlnd/QuickAccessPopup) - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 *   [SpicyKeys (⭐0)](https://github.com/spicykeys/spicykeys.github.io) - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
@@ -265,11 +266,12 @@ Development state:
 
 ### Typing
 
-*   [AutoComplete (⭐218)](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
+*   [AU accounting hotkeys (⭐0)](https://github.com/ryanduguid/au-accounting-hotkeys) - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
+*   [AutoComplete (⭐219)](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 *   [DateHotkey (⭐23)](https://github.com/tiuub/DateHotkey) - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
 *   [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
-*   [KeyPress OSD (⭐413)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
-*   [Layout Switch (⭐0)](https://github.com/shokurov/ahk-layout-switch) - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
+*   [KeyPress OSD (⭐416)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
+*   [Layout Switch (⭐2)](https://github.com/shokurov/ahk-layout-switch) - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
 *   [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 *   [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
 *   [Static Hands (⭐77)](https://github.com/almogtavor/static-hands) - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
@@ -281,9 +283,9 @@ Development state:
 *   [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907) - Save and restore last window position for each process. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907)
 *   [bug.n (⭐3.4k)](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 *   [Min2Tray](http://junyx.breadfan.de/Min2Tray/) - Minimize window to tray & more. Forum thread: [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
-*   [Open-Show-Apps (⭐149)](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
+*   [Open-Show-Apps (⭐150)](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
 *   [SnapX (⭐43)](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
-*   [WindowPadX (⭐233)](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
+*   [WindowPadX (⭐232)](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
 
 ### Games
 
@@ -325,7 +327,7 @@ Development state:
 
 *   [AHK Studio](https://autohotkey.com/boards/viewtopic.php?f=6\&t=300) - SciLexer.dll based IDE for AutoHotkey.
 *   [Adventure (formerly AutoGUI)](https://www.autohotkey.com/boards/viewtopic.php?f=64\&t=89901) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile\&u=64723) - AHK IDE with useful built-in plugins and GUI designer.
-*   [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link (⭐73)](https://github.com/bichlepa/AutoHotFlow).
+*   [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link (⭐74)](https://github.com/bichlepa/AutoHotFlow).
 *   [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 *   [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7\&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 *   [SciTE4AutoHotkey](https://www.autohotkey.com/scite4ahk/) - SciTE-based IDE for AutoHotkey.
@@ -404,7 +406,7 @@ Development state:
 
 ### Documentation
 
-*   [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link (⭐495)](https://github.com/Lexikos/AutoHotkey_L-Docs).
+*   [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link (⭐496)](https://github.com/Lexikos/AutoHotkey_L-Docs).
 
 ### Books
 
