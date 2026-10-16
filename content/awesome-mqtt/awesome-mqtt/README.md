@@ -6,6 +6,16 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### GoLang
+
+*   [mqttv5 (⭐6)](https://github.com/ashtonian/mqttv5) - MQTT v5 client with allocation-free PUBLISH decoding, session resume, file-backed QoS 1/2 persistence and multi-broker failover.
+
+### Monitoring / Firmwares for ESP based Devices
+
+*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
 ### Tools

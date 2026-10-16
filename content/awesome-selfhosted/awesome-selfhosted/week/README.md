@@ -16,9 +16,17 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Bottle Rocket](https://bottle-rocket.app/) - Document scanning and management application, compatible with Rocketbook and Scribzee formats. ([Source Code (⭐13)](https://github.com/gman-au/bottle-rocket-server)) `MIT` `C#/Docker`
 
+### Software / Document Management - E-books
+
+*   [Grimmory](https://grimmory.org/) - Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. ([Source Code (⭐4.5k)](https://github.com/grimmory-tools/grimmory)) `AGPL-3.0` `Docker`
+
 ### Software / Knowledge Management Tools
 
 *   [memEx](https://memex-app.shibao.dev) - Structured personal knowledge base, inspired by zettlekasten and org-mode. ([Source Code](https://gitlab.com/shibaobun/memex)) `AGPL-3.0` `Docker`
+
+### Software / Travel Organization
+
+*   [TREK (⭐15k)](https://github.com/liketrek/TREK) - Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ([Demo](https://demo.liketrek.com/)) `AGPL-3.0` `Docker/K8S`
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -1481,7 +1489,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - API Management
 
-*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐22k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
+*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐23k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 

@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [App AI Gateway](https://appaigateway.com/) - Gateway/proxy for calling AI providers from iOS applications without shipping provider keys or building your own backend. Only allows requests from your real app via App Attest, with rate limits and budgets per user and per app. The free plan includes 1,000 requests per month, no card required.
 *   [Jsonpage](https://jsonpage.com/en/) - Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.
 *   [ROIC.ai](https://www.roic.ai/) - Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.
 
@@ -1432,7 +1433,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐22k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐23k)](https://github.com/comet-ml/opik/)
 
 ### Low-code Platform
 

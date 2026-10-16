@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Projects
+
+*   [Amazon Bestsellers Tracker (⭐0)](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.
+*   [Walmart Deals Tracker (⭐0)](https://github.com/huynhtanan/walmart-deals-tracker) - Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.
+
+### Datasets / Book Deals (Affiliated)
+
+*   [US Traffic Ticket Courts and Payment Portals (⭐0)](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.
+*   [AI Crawler robots.txt Study](https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study) - robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -44,7 +56,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Python Math Packages (⭐17)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
+*   [Awesome Python Math Packages (⭐18)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
 
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
@@ -116,7 +128,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [FlexViz (⭐53)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
+*   [FlexViz (⭐73)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
 ## [Aug 18, 2026](/content/2026/08/18/README.md)
 
@@ -626,7 +638,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐708)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐710)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 

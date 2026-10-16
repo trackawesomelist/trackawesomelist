@@ -226,7 +226,7 @@ Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) lis
 *   [Beanie (⭐2.7k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 *   [Djongo (⭐1.9k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
 *   [Mongo-Thingy (⭐69)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
-*   [MongoEngine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 *   [Motor (⭐2.5k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 *   [PyMongo (⭐4.4k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [ODMantic (⭐1.2k)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
@@ -268,6 +268,7 @@ Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) lis
 *   [mgob (⭐760)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 *   [mongoctl (⭐178)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
 *   [mongodb-tools (⭐299)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [MongoRescue (⭐7)](https://github.com/YigitCittan/mongorescue) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
 *   [mtools (⭐2k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
 *   [nginx-gridfs (⭐786)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics

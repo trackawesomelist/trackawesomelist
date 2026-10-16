@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/javierluraschi/awesome-dataviz/week/README.md) / [Overview](/content/javierluraschi/awesome-dataviz/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### R tools / Misc
+
+*   [r2d3 (⭐529)](https://github.com/rstudio/r2d3) - Renders custom D3.js visualizations from R, in RStudio, R Markdown and Shiny.
+
 ## [Oct 14, 2026](/content/2026/10/14/README.md)
 
 ### Websites / Misc
@@ -124,7 +130,7 @@
 
 ### C++ tools / Misc
 
-*   [F3D (⭐4.7k)](https://github.com/f3d-app/f3d) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
+*   [F3D (⭐4.8k)](https://github.com/f3d-app/f3d) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
 *   [ImPlot (⭐6.2k)](https://github.com/epezent/implot) - Immediate-mode plotting library for Dear ImGui.
 *   [ImPlot3D (⭐1.3k)](https://github.com/brenocq/implot3d) - Immediate-mode 3D plotting extension for Dear ImGui, inspired by ImPlot.
 *   [MapLibre Native (⭐2.3k)](https://github.com/maplibre/maplibre-native) - Interactive vector tile map rendering for iOS, Android and other native platforms.
@@ -327,7 +333,7 @@
 *   [LabPlot (⭐486)](https://github.com/KDE/labplot) - KDE application for interactive scientific plotting, data analysis and visualization.
 *   [mcp-server-chart (⭐4.4k)](https://github.com/antvis/mcp-server-chart) - MCP server from AntV that lets AI agents generate more than 25 chart types.
 *   [Orange (⭐5.7k)](https://github.com/biolab/orange3) - Visual programming tool for data mining, machine learning and interactive data visualization.
-*   [QGIS](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
+*   [QGIS (⭐15k)](https://github.com/qgis/QGIS) - Desktop geographic information system for viewing, editing, analyzing and mapping geospatial data.
 *   [Sampler (⭐15k)](https://github.com/sqshq/sampler) - Terminal dashboard that runs shell commands and visualizes their output, configured with YAML.
 *   [SandDance (⭐7.1k)](https://github.com/microsoft/SandDance) - Visual data exploration and presentation with animated unit visualizations, from Microsoft Research.
 *   [sankeydiagram.net](https://sankeydiagram.net/) - Web app for creating and sharing Sankey diagrams of flows and budgets without code.
@@ -375,7 +381,7 @@
 ### Machine Learning tools / Misc
 
 *   [Comet (⭐174)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
-*   [Opik (⭐22k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
+*   [Opik (⭐23k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
 *   [Phoenix (⭐12k)](https://github.com/Arize-ai/phoenix) - ML observability in a notebook with UMAP visualizations
 
 ### Python tools / Misc
@@ -827,7 +833,7 @@
 
 ### Other tools / Misc
 
-*   [Gephi](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+*   [Gephi (⭐6.7k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
 ## [Nov 10, 2015](/content/2015/11/10/README.md)
 

@@ -755,6 +755,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 *   [Calibre Web Automated (⭐6.4k)](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
 *   [Calibre Web (⭐18k)](https://github.com/janeczku/calibre-web) - Browse, read and download eBooks using an existing Calibre database. `GPL-3.0` `Python`
 *   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐26k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
+*   [Grimmory](https://grimmory.org/) - Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. ([Source Code (⭐4.5k)](https://github.com/grimmory-tools/grimmory)) `AGPL-3.0` `Docker`
 *   [Inkheart](https://gitlab.com/Nystik/inkheart) - Lightweight PDF library and reader. `Apache-2.0` `Docker`
 *   [Kapowarr](https://casvt.github.io/Kapowarr/) - Build and manage a comic book library. Download, rename, move and convert issues of the volume to your liking. ([Source Code (⭐1.1k)](https://github.com/Casvt/Kapowarr)) `GPL-3.0` `Docker/Python`
 *   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐12k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
@@ -1852,7 +1853,7 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code (⭐81k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 *   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code (⭐44k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
 *   [Lura](https://luraproject.org/) - High-performance API Gateway. ([Source Code (⭐6.8k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐22k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
+*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐23k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐574)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Svix](https://svix.com) - Webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code (⭐3.4k)](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐11k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
@@ -2083,6 +2084,7 @@ Travel organization software to record bookings, view itinerary, plan activities
 *Related: [Booking and Scheduling](#booking-and-scheduling), [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)*
 
 *   [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code (⭐282)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+*   [TREK (⭐15k)](https://github.com/liketrek/TREK) - Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ([Demo](https://demo.liketrek.com/)) `AGPL-3.0` `Docker/K8S`
 
 ### URL Shorteners
 

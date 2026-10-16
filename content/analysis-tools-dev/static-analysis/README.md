@@ -6,11 +6,17 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
-## [Oct 15, 2026](/content/2026/10/15/README.md)
+## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+
+### Other / [Other](#other-1)
+
+*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+
+## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Other / [Other](#other-1)
 

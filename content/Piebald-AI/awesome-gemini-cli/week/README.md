@@ -22,6 +22,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [VibeFuse](https://fuseintelligence.org/products/vibefuse?utm_source=awesome-gemini-cli\&utm_medium=referral) - Free Windows desktop harness that runs Gemini CLI alongside Claude Code, Codex, Cursor, and Qwen as live draggable widgets on one canvas, with named sessions, local Whisper/Piper voice, an MCP tool panel, and a marketplace where skill and widget sellers keep 80% (Stripe Connect).
 *   [Drevon](https://www.drevon.dev?utm_source=awesome-gemini-cli\&utm_medium=referral) - Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
 *   [magents (⭐14)](https://github.com/abnegate/magents) - Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: `gemini extensions install https://github.com/abnegate/magents`. Rust, MIT.
+*   [SpaceApp (⭐12)](https://github.com/oll4com/spaceapp) - Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: `npx --yes run-spaceapp@latest install`. Source-available (BSL 1.1).
 
 ### Commands & Extensions
 
@@ -66,6 +67,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [CurlShot](https://curlshot.com/docs/guides/ai-agents?utm_source=awesome-gemini-cli\&utm_medium=referral) - Screenshot API with a hosted MCP server: `take_screenshot` renders any web page in a real browser and returns the image (PNG, JPEG, WebP or PDF; full page, device presets, ad and cookie-banner blocking), so Gemini CLI can see a page, and `list_devices` lists the presets. Remote Streamable HTTP with a CurlShot API key; the server is closed source. Free plan of 100 screenshots a month, no card. Add with: `gemini mcp add --transport http curlshot https://curlshot.com/api/mcp --header "Authorization: Bearer $CURLSHOT_API_KEY"`.
 *   [Pethost](https://pethost.dev?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosting for Docker Compose projects with a remote MCP server (OAuth): Gemini CLI deploys a project, reads its logs and HTTP traffic, and rolls it back. Add it with `gemini mcp add --transport http pethost https://mcp.pethost.dev/mcp`.
 *   [DC Hub (⭐3)](https://github.com/azmartone67/dchub-mcp-server) - Live data for data-center site selection: a daily Data Center Power Index (DCPI) of where data centers can get grid power across 300+ markets, live grid feeds from the seven US ISOs, plus fiber, gas and electricity prices. Answers carry an as-of timestamp and a citation line. 94 tools, remote Streamable HTTP, free tier needs no key. Install: `gemini extensions install https://github.com/azmartone67/dchub-mcp-server`.
+*   [Google Hotels MCP (⭐1)](https://github.com/huynhtanan/google-hotels-mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search Google Hotels and Google Vacation Rentals from Gemini CLI: per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers), 3-month daily price calendars, amenities, nearby places and review topics. Local stdio server (3 tools) wrapping Apify Google Hotels actors; `uvx --from "git+https://github.com/huynhtanan/google-hotels-mcp.git@v0.1.2" google-hotels-mcp`.
+*   [AltoRank](https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable ([source (⭐3)](https://github.com/AltoRank/altorank)). Remote Streamable HTTP with OAuth sign-in. Add with `gemini mcp add --transport http altorank https://app.altorank.co/api/mcp`.
 
 ### Documentation & Examples
 
@@ -322,7 +325,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
+*   [llm-box (⭐15)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
 
 ### Development Tools & Utilities
 
@@ -330,7 +333,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [nika (⭐89)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
+*   [nika (⭐94)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 

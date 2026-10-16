@@ -1,18 +1,155 @@
 # Awesome List Updates on Oct 16, 2026
 
-11 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+## [1. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+
+### Cloud
+
+*   [TestMu AI](https://www.testmuai.com/lambdatest-appium/) - AI-native cloud testing platform (formerly LambdaTest), run Appium tests in parallel on real Android and iOS devices.
+
+### Test Frameworks
+
+*   [zosma-qa (⭐9)](https://github.com/zosmaai/zosma-qa) - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
+
+### Sample Apps for Practice
+
+*   [FrontRow (⭐7)](https://github.com/majdukovic/frontrow) - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Development tools / Workflow Automation
+
+*   [FerrLabs/LFSX (⭐4)](https://github.com/FerrLabs/LFSX) \[[lfsx-server](https://crates.io/crates/lfsx-server)] - Self-hosted Git LFS server that deduplicates objects across repositories, compresses and optionally encrypts them at rest, supports file locking, and delegates permissions to GitHub, GitLab, Gitea or Forgejo [![build badge](https://github.com/FerrLabs/LFSX/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FerrLabs/LFSX/actions/workflows/ci.yml)
+
+### Libraries / Authentication
+
+*   [issuerd/issuerd (⭐51)](https://github.com/issuerd/issuerd) \[[issuerd](https://crates.io/crates/issuerd)] - Keycloak-compatible OIDC/OAuth2 IAM server with DPoP, CIBA and RFC 8693 token exchange, shipped as a single self-contained binary [![CI](https://github.com/issuerd/issuerd/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/issuerd/issuerd/actions/workflows/ci.yml)
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Projects / AI and Agents
+
+*   Local LLM Inference
+    *   [ollama (⭐11k)](https://github.com/ollama/ollama-python) - Python client for Ollama, which downloads and runs open-weight LLMs locally.
+    *   [llama-cpp-python (⭐11k)](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp, for running GGUF models locally.
+    *   [mlx-lm (⭐7.3k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
+
+### Projects / Machine Learning
+
+*   Hyperparameter Optimization
+    *   [optuna (⭐15k)](https://github.com/optuna/optuna) - A hyperparameter optimization framework with define-by-run search spaces and pruning of unpromising trials.
+    *   [hyperopt (⭐7.6k)](https://github.com/hyperopt/hyperopt) - Distributed asynchronous hyperparameter optimization with Tree-structured Parzen Estimators.
+
+### Projects / Caching
+
+*   Django
+    *   [django-redis (⭐3.1k)](https://github.com/jazzband/django-redis) - Full-featured Redis cache backend for Django.
+    *   [django-cacheops (⭐2.3k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+
+### Projects / Search
+
+*   Vector Search
+    *   [faiss-cpu (⭐41k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+
+### Projects / Serialization
+
+*   Object Pickling
+    *   [cloudpickle (⭐1.9k)](https://github.com/cloudpipe/cloudpickle) - Extends pickle to functions, lambdas, and interactively defined classes, for shipping code to remote workers.
+    *   [dill (⭐2.5k)](https://github.com/uqfoundation/dill) - Extends pickle to serialize almost any Python object, including closures and whole interpreter sessions.
+
+### Projects / Environment Management
+
+*   [mise (⭐35k)](https://github.com/jdx/mise) - A polyglot tool version manager that installs Python versions and reads .python-version files.
+
+### Projects / Supply Chain Security
+
+*   Secret Scanning
+    *   [betterleaks (⭐2.2k)](https://github.com/betterleaks/betterleaks) - Finds leaked secrets in git history, directories, and files, from the original author of gitleaks.
+
+## [4. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+
+### GoLang
+
+*   [mqttv5 (⭐6)](https://github.com/ashtonian/mqttv5) - MQTT v5 client with allocation-free PUBLISH decoding, session resume, file-backed QoS 1/2 persistence and multi-broker failover.
+
+### Monitoring / Firmwares for ESP based Devices
+
+*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+
+## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+
+### R tools / Misc
+
+*   [r2d3 (⭐529)](https://github.com/rstudio/r2d3) - Renders custom D3.js visualizations from R, in RStudio, R Markdown and Shiny.
+
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Document Management - E-books
+
+*   [Grimmory](https://grimmory.org/) - Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. ([Source Code (⭐4.5k)](https://github.com/grimmory-tools/grimmory)) `AGPL-3.0` `Docker`
+
+### Software / Travel Organization
+
+*   [TREK (⭐15k)](https://github.com/liketrek/TREK) - Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ([Demo](https://demo.liketrek.com/)) `AGPL-3.0` `Docker/K8S`
+
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [App AI Gateway](https://appaigateway.com/) - Gateway/proxy for calling AI providers from iOS applications without shipping provider keys or building your own backend. Only allows requests from your real app via App Attest, with rate limits and budgets per user and per app. The free plan includes 1,000 requests per month, no card required.
+
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+
+### Tools / Graphics utilities
+
+*   [Tessarium](https://joelj.itch.io/tessarium) ‡ - Tile-first pixel art level editor with linked tile editing, shared tilesets, and live unique tile and colours-per-tile budget checks for Game Boy and Game Boy Color backgrounds.
+
+## [9. Magictools](/content/ellisonleao/magictools/README.md)
+
+### Collections / Voxel Editors
+
+*   :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
+
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+
+### Tools / Administration
+
+*   [MongoRescue (⭐7)](https://github.com/YigitCittan/mongorescue) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
+
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+
+### Other / [Other](#other-1)
+
+*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Projects
+
+*   [Amazon Bestsellers Tracker (⭐0)](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.
+*   [Walmart Deals Tracker (⭐0)](https://github.com/huynhtanan/walmart-deals-tracker) - Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.
+
+### Datasets / Book Deals (Affiliated)
+
+*   [US Traffic Ticket Courts and Payment Portals (⭐0)](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.
+*   [AI Crawler robots.txt Study](https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study) - robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.
+
+## [13. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
 
 ### Browser Extensions / Nevix
 
 *   [Comment Scraper](https://chromewebstore.google.com/detail/gblklncgcjcinpjaaeafmmkjnfkihmfn)
 
-## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [14. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Agent Orchestration / SDLC
 
@@ -23,9 +160,9 @@
 
 *   [funes (⭐568)](https://github.com/huggingface/funes) by [David Corvoysier](https://github.com/dacorvo) - Durable cross-agent memory for Claude Code, Codex, pi, and Hermes. Your memory is a Hugging Face dataset you own: recall it from any machine or share it with your team. Single binary, local index, pinned local embedding models.\ <img src="https://img.shields.io/github/created-at/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [3. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [15. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
-### ⏱️ Productivity (90) / ✏️ Text (16)
+### ⏱️ Productivity (100) / ✏️ Text (16)
 
 *   [Blurt (⭐61)](https://github.com/AssemblyAI/blurt) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
 
@@ -38,6 +175,66 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/AssemblyAI/blurt/main/.github/images/blurt.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Off Grid AI Desktop (⭐127)](https://github.com/off-grid-ai/OGAD) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://getoffgridai.co/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/off-grid-ai/OGAD/main/docs/screenshots/02-chat.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Orkas (⭐2.2k)](https://github.com/Orkas-AI/Orkas) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+
+    **Website:** <https://orkas.ai/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Orkas-AI/Orkas/main/resources/app-ui/home-en.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Orkas-AI/Orkas/main/resources/app-ui/home-zh.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Agent Teams AI (⭐2.3k)](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://agentteams.live>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/777genius/agent-teams-ai/main/docs/screenshots/cover-frame.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [AutoDoc (⭐16)](https://github.com/DuetDisplay/AutoDoc) - Private, local-first meeting notes with on-device transcription and AI summaries.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://getautodoc.com/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -69,8 +266,61 @@
 
     </p>
     </details>
+*   [TypeCue (⭐11)](https://github.com/alexpolonsky/TypeCue) - Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.
 
-### 🎵 Audio (44)
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://typecue.app>
+*   [Logue (⭐171)](https://github.com/bitwize-ai/Logue) - Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes — runs entirely on Apple Silicon.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/bitwize-ai/Logue (⭐171)](https://github.com/bitwize-ai/Logue)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/home-dashboard.393d5e51.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/smart-minutes.075b55f4.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/writing-editor.26cb777b.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [OpenHabitTracker (⭐293)](https://github.com/Jinjinov/OpenHabitTracker) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device.
+
+    **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
+
+    **Website:** <https://openhabittracker.net>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://openhabittracker.net/images/desktop_7_habits.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://openhabittracker.net/images/desktop_3_notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Tameo (⭐11)](https://github.com/supergodak/tameo) - Privacy-first clipboard manager with history search, on-device image OCR, and snippets.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://tameo.ati-mirai.co.jp>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/supergodak/tameo/main/docs/images/palette.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 🎵 Audio (45)
 
 *   [EnviousWispr (⭐184)](https://github.com/saurabhav88/EnviousWispr) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
 
@@ -78,7 +328,7 @@
 
     **Website:** <https://enviouswispr.com/>
 
-### 📊 Menubar (88) / ✏️ Text (16)
+### 📊 Menubar (94) / ✏️ Text (16)
 
 *   [Fader (⭐68)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.
 
@@ -199,22 +449,22 @@
     </p>
     </details>
 
-### 🌐 Browser (14)
+### 🛠️ Utilities (164) / ✏️ Text (16)
 
-*   [Safari MCP (⭐217)](https://github.com/achiya-automation/safari-mcp) - Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.
+*   [Rekody (⭐32)](https://github.com/rekody/rekody) - Voice dictation CLI for macOS: hold a hotkey, speak, and on-device transcription types the text at the cursor in any app.
 
-    **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-### 🗄️ Database (19)
+    **Website:** <https://rekody.com>
 
-*   [TablePro (⭐6.2k)](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.
+    <details>
+    <summary>Screenshots</summary>
+    <p>
 
-    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+    <img src='https://raw.githubusercontent.com/rekody/rekody/main/docs/assets/cli-streaming.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-    **Website:** <https://tablepro.app>
-
-### 🛠️ Utilities (158) / ✏️ Text (16)
-
+    </p>
+    </details>
 *   [Anima (⭐18)](https://github.com/btangonan/anima) - Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Built with Tauri v2.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
@@ -244,6 +494,11 @@
 
     </p>
     </details>
+*   [Shuffle (⭐141)](https://github.com/WizenPainter/shuffle) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.
+
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://shuffleapp.co>
 *   [Whisky (⭐899)](https://github.com/frankea/Whisky) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -330,6 +585,20 @@
 
     </p>
     </details>
+*   [Deckle (⭐27)](https://github.com/Kelvanic/deckle) - Subtle paper-grain texture overlay for the whole screen. Click-through menu bar app with 18 textures, global hotkey, and per-display control.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://kelvanic.com/products/deckle/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Kelvanic/deckle/main/docs/menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [Dusty (⭐79)](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing anything.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -373,6 +642,22 @@
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
     **Website:** [https://github.com/umutcetinkaya/live-translator (⭐42)](https://github.com/umutcetinkaya/live-translator)
+*   [Nimclip (⭐74)](https://github.com/hukdoesn/Nimclip) ![macOS 15.0++](https://img.shields.io/badge/macOS-15.0+%2B-blue) - Native, local-first clipboard history manager with search, tags, image support, and quick paste.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://hukdoesn.github.io/Nimclip/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/hukdoesn/Nimclip/main/docs/images/nimclip-macbook-themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/hukdoesn/Nimclip/main/docs/images/nimclip-image-preview-real.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [Notchly (⭐55)](https://github.com/Notchly/Notchly) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -457,6 +742,20 @@
 
     </p>
     </details>
+*   [WiFi Lens (⭐120)](https://github.com/ShiinaLabs/wifi-lens) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://wifi-lens.shiinalabs.com>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/ShiinaLabs/wifi-lens/master/assets/screenshot-hero.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [Bzz (⭐9)](https://github.com/zlopixatel/bzz) - Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like "ghbdtn" and replaces with "привет" on the fly. Open-source replacement for the abandoned Punto Switcher.
 
     **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
@@ -471,7 +770,21 @@
 
     </p>
     </details>
-*   [Mimer](https://github.com/hasanjafri/Mimer) - Fast, private, developer-first clipboard manager with type-aware history, ⌘K transforms, and history encrypted at rest.
+*   [KIAgent (⭐7)](https://github.com/edjafarov/kiagent-core) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://localkiagent.com>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/edjafarov/kiagent-core/dev/docs/assets/readme/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Mimer (⭐9)](https://github.com/hasanjafri/Mimer) - Fast, private, developer-first clipboard manager with type-aware history, ⌘K transforms, and history encrypted at rest.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -574,7 +887,21 @@
     </p>
     </details>
 
-### 👨‍💻 Development (26)
+### 🌐 Browser (14)
+
+*   [Safari MCP (⭐217)](https://github.com/achiya-automation/safari-mcp) - Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.
+
+    **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
+
+### 🗄️ Database (19)
+
+*   [TablePro (⭐6.2k)](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://tablepro.app>
+
+### 👨‍💻 Development (29)
 
 *   [Clave (⭐51)](https://github.com/antasphere/clave) - macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics.
 
@@ -675,6 +1002,23 @@
 
     **Website:** <https://vorojar.github.io/md-preview/>
 
+### 🔍 Finder (16) / ✏️ Text (16)
+
+*   [Preview3MF (⭐23)](https://github.com/cavoco/Preview3MF) - Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://cavoco.github.io/Preview3MF/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/cavoco/Preview3MF/main/docs/preview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
 ### 💻 IDE (15) / ✏️ Text (16)
 
 *   [Cate (⭐2.2k)](https://github.com/0-AI-UG/cate) - IDE built on an infinite zoomable canvas. Editor, terminal, browser, and AI agent panels float in a spatial workspace instead of tabs.
@@ -721,7 +1065,7 @@
 
     **Website:** <https://craigjbass.github.io/clearancekit>
 
-### ⚙️ System (34) / ✏️ Text (16)
+### ⚙️ System (35) / ✏️ Text (16)
 
 *   [Mole Widget (⭐86)](https://github.com/TadelUnso/mole-widget) - Lightweight macOS desktop system monitor with live CPU, memory, disk, network, battery, and process metrics, managed from the menu bar.
 
@@ -737,6 +1081,11 @@
 
     </p>
     </details>
+*   [Performance Monitor (⭐11)](https://github.com/inequitas/performancemonitor) - Lightweight menu bar system monitor: CPU, memory, network, disk, GPU, per-sensor temperatures, SSD wear, and battery health. No telemetry.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://perfmon.knhome.nl>
 
 ### 🎬 Video (21) / ✏️ Text (16)
 
@@ -774,7 +1123,7 @@
     </p>
     </details>
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -800,7 +1149,7 @@
 
 *   [Aman Check (⭐32)](https://github.com/MidZai/aman_check) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MidZai/aman_check) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -1174,13 +1523,13 @@
 
 
 
-## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Testing, Prototyping & Mocking / React
 
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [19. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### General
 
@@ -1191,25 +1540,29 @@
 
 *   [Vigil (⭐3)](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### External Resource / OS-specific
 
 *   [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [21. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Oracles / Visual Studio
 
 *   [Gora](https://goranetwork.github.io/doc/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
 
-## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [22. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
 ### iOS / Spock Framework
 
 *   [iOSアプリケーション プログラミングガイド](https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF) *( :card\_file\_box: archived)*
 
-## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [23. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [SpaceApp (⭐12)](https://github.com/oll4com/spaceapp) - Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: `npx --yes run-spaceapp@latest install`. Source-available (BSL 1.1).
 
 ### Commands & Extensions
 
@@ -1224,6 +1577,8 @@
 
 *   [Pethost](https://pethost.dev?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosting for Docker Compose projects with a remote MCP server (OAuth): Gemini CLI deploys a project, reads its logs and HTTP traffic, and rolls it back. Add it with `gemini mcp add --transport http pethost https://mcp.pethost.dev/mcp`.
 *   [DC Hub (⭐3)](https://github.com/azmartone67/dchub-mcp-server) - Live data for data-center site selection: a daily Data Center Power Index (DCPI) of where data centers can get grid power across 300+ markets, live grid feeds from the seven US ISOs, plus fiber, gas and electricity prices. Answers carry an as-of timestamp and a citation line. 94 tools, remote Streamable HTTP, free tier needs no key. Install: `gemini extensions install https://github.com/azmartone67/dchub-mcp-server`.
+*   [Google Hotels MCP (⭐1)](https://github.com/huynhtanan/google-hotels-mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search Google Hotels and Google Vacation Rentals from Gemini CLI: per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers), 3-month daily price calendars, amenities, nearby places and review topics. Local stdio server (3 tools) wrapping Apify Google Hotels actors; `uvx --from "git+https://github.com/huynhtanan/google-hotels-mcp.git@v0.1.2" google-hotels-mcp`.
+*   [AltoRank](https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable ([source (⭐3)](https://github.com/AltoRank/altorank)). Remote Streamable HTTP with OAuth sign-in. Add with `gemini mcp add --transport http altorank https://app.altorank.co/api/mcp`.
 
 ---
 

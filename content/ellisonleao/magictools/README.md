@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Collections / Voxel Editors
+
+*   :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Engines and Frameworks / Voxel Editors

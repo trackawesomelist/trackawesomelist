@@ -8,6 +8,10 @@
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Tools / Administration
+
+*   [MongoRescue (⭐7)](https://github.com/YigitCittan/mongorescue) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
+
 ### Tools / Data
 
 *   [OLake (⭐1.5k)](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
@@ -526,7 +530,7 @@
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 

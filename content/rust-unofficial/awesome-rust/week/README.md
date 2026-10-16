@@ -43,9 +43,17 @@ A curated list of Rust code and resources.
 
 *   [dorianverlaine/pingclair (⭐105)](https://github.com/dorianverlaine/pingclair) - A web server and reverse proxy built on Cloudflare Pingora, providing a Caddyfile-compatible configuration language, automatic HTTPS, HTTP/1.1, HTTP/2 and HTTP/3, load balancing, and static file serving. [![CI](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml/badge.svg?branch=main)](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml?query=branch%3Amain)
 
+### Development tools / Workflow Automation
+
+*   [FerrLabs/LFSX (⭐4)](https://github.com/FerrLabs/LFSX) \[[lfsx-server](https://crates.io/crates/lfsx-server)] - Self-hosted Git LFS server that deduplicates objects across repositories, compresses and optionally encrypts them at rest, supports file locking, and delegates permissions to GitHub, GitLab, Gitea or Forgejo [![build badge](https://github.com/FerrLabs/LFSX/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FerrLabs/LFSX/actions/workflows/ci.yml)
+
 ### Development tools / Static analysis
 
 *   [tupe12334/linecheck (⭐1)](https://github.com/tupe12334/linecheck) \[[linecheck](https://crates.io/crates/linecheck)] - Enforces per-file line-count limits with per-glob warn/error thresholds and CI-friendly exit codes, so oversized files fail the build [![CI](https://github.com/tupe12334/linecheck/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tupe12334/linecheck/actions/workflows/ci.yml)
+
+### Libraries / Authentication
+
+*   [issuerd/issuerd (⭐51)](https://github.com/issuerd/issuerd) \[[issuerd](https://crates.io/crates/issuerd)] - Keycloak-compatible OIDC/OAuth2 IAM server with DPoP, CIBA and RFC 8693 token exchange, shipped as a single self-contained binary [![CI](https://github.com/issuerd/issuerd/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/issuerd/issuerd/actions/workflows/ci.yml)
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -90,7 +98,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Build system
 
-*   [euv-cli (⭐14)](https://github.com/euv-dev/euv) \[[euv-cli](https://crates.io/crates/euv-cli)] - The official CLI tool for the euv UI framework, providing dev/release profiles with run/build modes, hot reload, and wasm-pack integration.
+*   [euv-cli (⭐16)](https://github.com/euv-dev/euv) \[[euv-cli](https://crates.io/crates/euv-cli)] - The official CLI tool for the euv UI framework, providing dev/release profiles with run/build modes, hot reload, and wasm-pack integration.
 
 ### Development tools / Static analysis
 
@@ -256,7 +264,7 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [jchultarsky/mirador (⭐325)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
-*   [raine/workmux (⭐2.7k)](https://github.com/raine/workmux) \[[workmux](https://crates.io/crates/workmux)] - git worktrees + tmux windows for zero-friction parallel dev [![CI](https://github.com/raine/workmux/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/workmux/actions/workflows/ci.yml)
+*   [raine/workmux (⭐2.9k)](https://github.com/raine/workmux) \[[workmux](https://crates.io/crates/workmux)] - git worktrees + tmux windows for zero-friction parallel dev [![CI](https://github.com/raine/workmux/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/workmux/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
@@ -594,11 +602,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [hyperlane-dev/hyperlane (⭐124)](https://github.com/hyperlane-dev/hyperlane) \[[hyperlane](https://crates.io/crates/hyperlane)] - A lightweight, high-performance, cross-platform Rust HTTP server library built on Tokio; built-in support for middleware, WebSocket, SSE, and raw TCP. [![CI](https://github.com/hyperlane-dev/hyperlane/actions/workflows/rust.yml/badge.svg)](https://github.com/hyperlane-dev/hyperlane/actions)
+*   [hyperlane-dev/hyperlane (⭐127)](https://github.com/hyperlane-dev/hyperlane) \[[hyperlane](https://crates.io/crates/hyperlane)] - A lightweight, high-performance, cross-platform Rust HTTP server library built on Tokio; built-in support for middleware, WebSocket, SSE, and raw TCP. [![CI](https://github.com/hyperlane-dev/hyperlane/actions/workflows/rust.yml/badge.svg)](https://github.com/hyperlane-dev/hyperlane/actions)
 
 ### Libraries / Artificial Intelligence
 
-*   [bigduu/Bamboo-agent (⭐18)](https://github.com/bigduu/Bamboo-agent) \[[bamboo-agent](https://crates.io/crates/bamboo-agent)] - Local-first AI agent harness & runtime — persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.
+*   [bigduu/Bamboo-agent (⭐21)](https://github.com/bigduu/Bamboo-agent) \[[bamboo-agent](https://crates.io/crates/bamboo-agent)] - Local-first AI agent harness & runtime — persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.
 
 ### Libraries / Command-line
 
@@ -618,12 +626,12 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data structures
 
-*   [jeromefroe/lru-rs (⭐840)](https://github.com/jeromefroe/lru-rs) \[[lru](https://crates.io/crates/lru)] - An implementation of an LRU cache with O(1) `put`, `get`, `get_mut`, and `pop` operations. [![crates.io](https://img.shields.io/crates/v/lru.svg)](https://crates.io/crates/lru)
+*   [jeromefroe/lru-rs (⭐844)](https://github.com/jeromefroe/lru-rs) \[[lru](https://crates.io/crates/lru)] - An implementation of an LRU cache with O(1) `put`, `get`, `get_mut`, and `pop` operations. [![crates.io](https://img.shields.io/crates/v/lru.svg)](https://crates.io/crates/lru)
 
 ### Libraries / GUI
 
-*   [euv-dev/euv (⭐14)](https://github.com/euv-dev/euv) \[[euv](https://crates.io/crates/euv)] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly. [![CI](https://github.com/euv-dev/euv/actions/workflows/rust.yml/badge.svg)](https://github.com/euv-dev/euv/actions)
-    *   [euv-ui (⭐14)](https://github.com/euv-dev/euv) \[[euv-ui](https://crates.io/crates/euv-ui)] - Reusable UI component library for the euv framework, providing buttons, cards, modals, inputs, and more.
+*   [euv-dev/euv (⭐16)](https://github.com/euv-dev/euv) \[[euv](https://crates.io/crates/euv)] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly. [![CI](https://github.com/euv-dev/euv/actions/workflows/rust.yml/badge.svg)](https://github.com/euv-dev/euv/actions)
+    *   [euv-ui (⭐16)](https://github.com/euv-dev/euv) \[[euv-ui](https://crates.io/crates/euv-ui)] - Reusable UI component library for the euv framework, providing buttons, cards, modals, inputs, and more.
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
@@ -667,8 +675,8 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [Goldziher/scythe (⭐71)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
-*   [NoKV-Lab/NoKV (⭐494)](https://github.com/NoKV-Lab/NoKV) - AI-native distributed filesystem. [![Rust](https://github.com/NoKV-Lab/NoKV/workflows/Rust/badge.svg)](https://github.com/NoKV-Lab/NoKV/actions/workflows/rust.yml)
-*   [VelesDB (⭐97)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
+*   [NoKV-Lab/NoKV (⭐504)](https://github.com/NoKV-Lab/NoKV) - AI-native distributed filesystem. [![Rust](https://github.com/NoKV-Lab/NoKV/workflows/Rust/badge.svg)](https://github.com/NoKV-Lab/NoKV/actions/workflows/rust.yml)
+*   [VelesDB (⭐98)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
 
 ### Applications / Productivity
 
@@ -754,7 +762,7 @@ A curated list of Rust code and resources.
 
 *   Discord
     *   [concord (⭐1.6k)](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord.
-    *   [Dorion (⭐2.6k)](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! ![build](https://img.shields.io/github/actions/workflow/status/SpikeHD/Dorion/build.yml)
+    *   [Dorion (⭐2.7k)](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! ![build](https://img.shields.io/github/actions/workflow/status/SpikeHD/Dorion/build.yml)
 
 ### Applications / Text processing
 
@@ -970,7 +978,7 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [Muvon/octocode (⭐511)](https://github.com/Muvon/octocode) \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml)
-*   [yvgude/lean-ctx (⭐3.8k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
+*   [yvgude/lean-ctx (⭐3.9k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -1313,7 +1321,7 @@ A curated list of Rust code and resources.
     *   [AscendingCreations/AscendingGraphics (⭐14)](https://github.com/AscendingCreations/AscendingGraphics) - A 2D Rendering Framework using WGPU and Winit. - [![Crates.io](https://img.shields.io/crates/v/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics) [![license](https://img.shields.io/crates/l/ascending_graphics.svg)](https://github.com/AscendingCreations/AscendingGraphics/blob/main/LICENSE.MIT) [![Crates.io](https://img.shields.io/crates/d/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics)
     *   [Balaur (⭐96)](https://github.com/balaurengine/balaur) - A deterministic 2D and 3D game engine with Rune scripting, Rapier physics and a built-in editor [![Test](https://github.com/balaurengine/balaur/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/balaurengine/balaur/actions/workflows/test.yml)
     *   [Bevy (⭐49k)](https://github.com/bevyengine/bevy) - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
-    *   [euv-engine (⭐14)](https://github.com/euv-dev/euv) \[[euv-engine](https://crates.io/crates/euv-engine)] - A high-performance 2D game engine built on the euv framework, featuring ECS, fixed-timestep game loop, canvas rendering, physics, collision detection, sprite animation, and audio.
+    *   [euv-engine (⭐16)](https://github.com/euv-dev/euv) \[[euv-engine](https://crates.io/crates/euv-engine)] - A high-performance 2D game engine built on the euv framework, featuring ECS, fixed-timestep game loop, canvas rendering, physics, collision detection, sprite animation, and audio.
     *   [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐4.7k)](https://github.com/ggez/ggez) - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d (⭐1.8k)](https://github.com/dimforge/kiss3d) - A Keep It Simple, Stupid 3d graphics engine [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
@@ -2349,6 +2357,7 @@ A curated list of Rust code and resources.
     *   [Awesome Rust Streaming (⭐749)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams.
     *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) - A list of helpful mentors willing to take mentees and educate them about Rust and programming.
     *   [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule/) - University of Pennsylvania's Comp Sci Rust Programming Course
+    *   [Coddy Rust Course](https://coddy.tech/landing/rust) - Interactive Rust course in the browser with 200+ lessons and coding challenges, from the basics through traits and generics
     *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) - Build your own Redis, Git, Docker, or SQLite
     *   [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - A 3-day course on Rust Fundamentals plus 1-day courses on Android, Bare-metal Rust, and Concurrency. Available in English, [Brazilian Portuguese](https://google.github.io/comprehensive-rust/pt-BR/), and [Korean](https://google.github.io/comprehensive-rust/ko/).
     *   [Easy Rust (⭐8.3k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
@@ -4041,7 +4050,7 @@ A curated list of Rust code and resources.
     *   [hovinen/test-that (⭐108)](https://github.com/hovinen/test-that) \[[test-that](https://crates.io/crates/test-that)] - An assertion library for Rust, based on GoogleTest Rust and from its original author. [![Build Status](https://github.com/hovinen/test-that/actions/workflows/ci.yml/badge.svg)](https://github.com/hovinen/test-that/actions?query=workflow%3ACI+branch%3Amain)
     *   [mitsuhiko/insta (⭐3k)](https://github.com/mitsuhiko/insta) \[[insta](https://crates.io/crates/insta)] - A snapshot testing library for Rust. [![Build Status](https://github.com/mitsuhiko/insta/workflows/Tests/badge.svg)](https://github.com/mitsuhiko/insta/actions)
     *   [nextest-rs/nextest (⭐3.3k)](https://github.com/nextest-rs/nextest) \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
-    *   [padamson/playwright-rust (⭐150)](https://github.com/padamson/playwright-rust) \[[playwright-rs](https://crates.io/crates/playwright-rs)] - Rust bindings for Microsoft Playwright: cross-browser end-to-end testing (Chromium, Firefox, WebKit) with auto-waiting locators and trace capture. [![CI](https://github.com/padamson/playwright-rust/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/padamson/playwright-rust/actions/workflows/test.yml)
+    *   [padamson/playwright-rust (⭐160)](https://github.com/padamson/playwright-rust) \[[playwright-rs](https://crates.io/crates/playwright-rs)] - Rust bindings for Microsoft Playwright: cross-browser end-to-end testing (Chromium, Firefox, WebKit) with auto-waiting locators and trace capture. [![CI](https://github.com/padamson/playwright-rust/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/padamson/playwright-rust/actions/workflows/test.yml)
     *   [palfrey/serial\_test (⭐296)](https://github.com/palfrey/serial_test) \[[serial\_test](https://crates.io/crates/serial_test)] - Run tests serially, either as a whole or in named groups [![CI](https://github.com/palfrey/serial_test/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/palfrey/serial_test/actions/workflows/ci.yml)
     *   [rlt (⭐229)](https://github.com/wfxr/rlt) - A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
@@ -5324,7 +5333,7 @@ A curated list of Rust code and resources.
     *   [Anansi (⭐112)](https://github.com/saru-tora/anansi) - A simple full-stack web framework
     *   [loco-rs/loco (⭐9.4k)](https://github.com/loco-rs/loco) \[[loco-rs](https://crates.io/crates/loco-rs)] - The one-person framework for Rust for side-projects and startups, inspired by Rails. [![Build](https://github.com/loco-rs/loco/actions/workflows/ci.yml/badge.svg)](https://github.com/loco-rs/loco/actions)
     *   [Rocket (⭐26k)](https://github.com/rwf2/Rocket) - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
-    *   [RustAPI (⭐62)](https://github.com/Tuntii/RustAPI) \[[rustapi-rs](https://crates.io/crates/rustapi-rs)] - Ergonomic web framework with compile-time OpenAPI and native MCP
+    *   [RustAPI (⭐64)](https://github.com/Tuntii/RustAPI) \[[rustapi-rs](https://crates.io/crates/rustapi-rs)] - Ergonomic web framework with compile-time OpenAPI and native MCP
     *   [summer-rs (⭐1k)](https://github.com/summer-rs/summer-rs) - summer-rs is a application framework written in rust inspired by java's spring-boot.
     *   [tako (⭐164)](https://github.com/rust-dd/tako) \[[tako-rs](https://crates.io/crates/tako-rs)] - Multi-transport web framework: HTTP/1.1, HTTP/2, HTTP/3, WebSocket, SSE, gRPC, TCP/UDP and Unix sockets behind one router, on Tokio or Compio. [![CI](https://github.com/rust-dd/tako/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rust-dd/tako/actions/workflows/ci.yml)
     *   [tokio-rs/axum (⭐27k)](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)

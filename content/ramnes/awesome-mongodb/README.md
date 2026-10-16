@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Tools / Administration
+
+*   [MongoRescue (⭐7)](https://github.com/YigitCittan/mongorescue) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Tools / Data
@@ -534,7 +540,7 @@
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 

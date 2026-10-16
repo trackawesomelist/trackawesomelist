@@ -8,9 +8,16 @@
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Projects
+
+*   [Amazon Bestsellers Tracker (⭐0)](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.
+*   [Walmart Deals Tracker (⭐0)](https://github.com/huynhtanan/walmart-deals-tracker) - Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [USASI Catalog](https://huggingface.co/datasets/usasihq/usasi-catalog) - 150 U.S. AI organizations and 270 U.S.-led open models, software, datasets, and evaluation tools, with licenses, availability, maintainers, and release dates; each row links to a record page that cites a primary source for every statement. CSV, CC BY 4.0, loadable with the datasets library.
+*   [US Traffic Ticket Courts and Payment Portals (⭐0)](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.
+*   [AI Crawler robots.txt Study](https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study) - robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -37,7 +44,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Python Math Packages (⭐17)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
+*   [Awesome Python Math Packages (⭐18)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -99,7 +106,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [FlexViz (⭐53)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
+*   [FlexViz (⭐73)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -521,7 +528,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐708)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐710)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 

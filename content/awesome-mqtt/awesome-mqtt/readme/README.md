@@ -275,6 +275,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 
 *   [go-mqtt (⭐8)](https://github.com/go-mqtt/mqtt) - MQTT client.
 *   [MQTT for Go (⭐825)](https://github.com/jeffallen/mqtt) - MQTT Clients, Servers and Load Testers in Go.
+*   [mqttv5 (⭐6)](https://github.com/ashtonian/mqttv5) - MQTT v5 client with allocation-free PUBLISH decoding, session resume, file-backed QoS 1/2 persistence and multi-broker failover.
 
 ### Lua
 
@@ -391,6 +392,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 *   [mqttwarn](https://mqttwarn.readthedocs.io/) - Route and transform MQTT notifications, with 70+ built-in adapters for databases, messaging and other notification sinks.
 *   [snmp2mqtt](https://c0d3.sh/andre/snmp2mqtt) - Python based SNMP v2 and v3 bridge to MQTT, active project in late 2025.
+*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 *   [ccusage-mqtt (⭐1)](https://github.com/george-vice/ccusage-mqtt) - Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.
 *   [check-mqtt (⭐66)](https://github.com/jpmens/check-mqtt) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
 *   [nag2mqtt (⭐7)](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.

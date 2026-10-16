@@ -6,6 +6,12 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Tools / Graphics utilities
+
+*   [Tessarium](https://joelj.itch.io/tessarium) ‡ - Tile-first pixel art level editor with linked tile editing, shared tilesets, and live unique tile and colours-per-tile budget checks for Game Boy and Game Boy Color backgrounds.
+
 ## [Oct 14, 2026](/content/2026/10/14/README.md)
 
 ### Blog posts / Syntax highlighting packages
@@ -87,7 +93,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Rust-GB (⭐348)](https://github.com/zlfn/rust-gb) - A compiler and library that enable the development of GB ROMs using Rust.
+*   [Rust-GB (⭐348)](https://github.com/zlfn/rust-gb) - A toolchain and SDK that enable the development of GB ROMs using Rust.
 
 ### ASM / Timings
 
@@ -315,7 +321,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Retrieving images / Syntax highlighting packages
 
 *   [Arduino Gameboy Printer Emulator (⭐365)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
-*   [ESP8266 Game Boy Printer (⭐50)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
+*   [ESP8266 Game Boy Printer (⭐50)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the Game Boy Printer and lets you retrieve images using WiFi, powered by an ESP8266.
 *   [WiFi GBP Emulator (⭐79)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
 *   [Game Boy WiFi Printer - D1 Mini Shield (⭐25)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
 *   [Game Boy Printer Sniffer (⭐9)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
@@ -349,11 +355,11 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulator Development / Misc
 
-*   [DMG-01](https://rylev.github.io/DMG-01/public/book/) - An educational Gameboy Emulator in Rust and a companion book explaining its development. \*[Oh Boy! Creating a Game Boy Emulator in Rust](https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator)- is a talk given at Rust Fest 18 about this.
+*   [DMG-01](https://rylev.github.io/DMG-01/public/book/) - An educational Gameboy Emulator in Rust and a companion book explaining its development. *[Oh Boy! Creating a Game Boy Emulator in Rust](https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator)* is a talk given at Rust Fest 18 about this.
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer2 (⭐134)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
+*   [GBVideoPlayer2 (⭐134)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo* PCM audio, and introduces *video compression*.
 
 ## [Dec 30, 2020](/content/2020/12/30/README.md)
 
@@ -526,7 +532,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulator Development / Misc
 
-*   [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) - Implementing a \*rewind- feature.
+*   [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) - Implementing a *rewind* feature.
 *   [About swotGB](https://mitxela.com/projects/swotgb/about) - Notes about the development of a Game Boy emulator in JavaScript.
 
 ### Assemblers / Misc
@@ -535,7 +541,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Binjgb (⭐610)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
+*   [Binjgb (⭐610)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. *Rewind* feature. Runs in the browser using WebAssembly.
 *   [gbe-plus (⭐598)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 ### ASM / Syntax highlighting packages
@@ -544,7 +550,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### C / Syntax highlighting packages
 
-*   [Bubble Factory (⭐28)](https://github.com/DonaldHays/bubblefactory) - \*Vanilla- SDCC (no gbdk).
+*   [Bubble Factory (⭐28)](https://github.com/DonaldHays/bubblefactory) - *Vanilla* SDCC (no gbdk).
 
 ## [Mar 18, 2020](/content/2020/03/18/README.md)
 
@@ -674,7 +680,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Peripherals / Opcodes
 
 *   [Game Boy Camera RE (⭐94)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐365)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
@@ -787,10 +792,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ## [Oct 01, 2018](/content/2018/10/01/README.md)
 
-### Emulator Development / Misc
-
-*   [List of open source emulators](https://github.com/gbdev/awesome-gbdev/blob/master/README.md/EMULATORS.md)
-
 ### Emulators / Experimental/Proof of Concepts
 
 *   [mGBA (⭐7.5k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
@@ -830,7 +831,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐970)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐971)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -843,7 +844,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 *   [Related custom hardware (⭐378)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
 *   [ESP8266 GB Dev Board (⭐29)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐50)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 
 ### Peripherals / Opcodes
 
@@ -874,7 +874,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [gbforth (⭐151)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐131)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
-*   [Assembler (⭐120)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
+*   [Assembler (⭐120)](https://github.com/ulrikdamm/Assembler) - written in Swift.
 
 ### Tools / Engines
 
@@ -972,10 +972,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 *   [bootstrap.gb (⭐33)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 *   [Gameboy Boilerplate (⭐30)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
-
-### C / Syntax highlighting packages
-
-*   [Simplified GBDK examples (⭐205)](https://github.com/mrombout/gbdk_playground)
 
 ## [May 21, 2018](/content/2018/05/21/README.md)
 
@@ -1105,10 +1101,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 
 ## [Feb 26, 2017](/content/2017/02/26/README.md)
-
-### Peripherals / Opcodes
-
-*   [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.
 
 ### ASM / Timings
 

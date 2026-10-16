@@ -10,7 +10,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 ### Multiple languages / [Other](#other-1)
 
@@ -19,6 +19,7 @@
 ### Other / [Other](#other-1)
 
 *   [compose-lint](https://tmatens.github.io/compose-lint/) — Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.
+*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 

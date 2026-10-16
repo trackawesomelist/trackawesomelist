@@ -224,7 +224,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 
 ## C++ tools
 
-*   [F3D (⭐4.7k)](https://github.com/f3d-app/f3d) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
+*   [F3D (⭐4.8k)](https://github.com/f3d-app/f3d) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
 *   [ImPlot (⭐6.2k)](https://github.com/epezent/implot) - Immediate-mode plotting library for Dear ImGui.
 *   [ImPlot3D (⭐1.3k)](https://github.com/brenocq/implot3d) - Immediate-mode 3D plotting extension for Dear ImGui, inspired by ImPlot.
 *   [LargeVis (⭐711)](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
@@ -311,7 +311,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 *   [Model Explorer (⭐1.6k)](https://github.com/google-ai-edge/model-explorer) - Hierarchical graph visualizer and debugger for ML models, from Google.
 *   [Netron (⭐34k)](https://github.com/lutzroeder/netron) - Viewer for neural network, deep learning and machine learning models.
 *   [NN-SVG (⭐5.7k)](https://github.com/alexlenail/NN-SVG) - Web tool for drawing publication-ready neural network architecture diagrams and exporting them to SVG.
-*   [Opik (⭐22k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
+*   [Opik (⭐23k)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
 *   [Phoenix (⭐12k)](https://github.com/Arize-ai/phoenix) - ML observability in a notebook with UMAP visualizations
 *   [PlotNeuralNet (⭐25k)](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for drawing neural network architecture diagrams.
 *   [TensorBoard (⭐7.2k)](https://github.com/tensorflow/tensorboard) - TensorFlow's visualization toolkit for metrics, model graphs, embeddings and more.
@@ -418,6 +418,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 *   [Leaflet for R (⭐841)](https://github.com/rstudio/leaflet) - R interface to the Leaflet JavaScript library for interactive maps.
 *   [patchwork (⭐2.6k)](https://github.com/thomasp85/patchwork) - Composes multiple ggplot2 plots into a single figure.
 *   [plotly (⭐2.7k)](https://github.com/plotly/plotly.R) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+*   [r2d3 (⭐529)](https://github.com/rstudio/r2d3) - Renders custom D3.js visualizations from R, in RStudio, R Markdown and Shiny.
 *   [rayshader (⭐2.2k)](https://github.com/tylermorganwall/rayshader) - 2D and 3D mapping and data visualization in R, including 3D renders of ggplot2 plots.
 *   [rbokeh](https://hafen.github.io/rbokeh/) - R Interface to Bokeh.
 *   [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
