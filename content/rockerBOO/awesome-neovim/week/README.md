@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [DrKJeff16/triforce.nvim (⭐11)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
+### External Resource / OS-specific
+
+*   [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Colorscheme / Markdown and LaTeX

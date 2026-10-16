@@ -6,6 +6,380 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Anime
+
+- API: [MangaDex](https://api.mangadex.org/docs/)
+
+  Description: Manga Database and Community
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [MangaUpdates](https://api.mangaupdates.com/)
+
+  Description: Manga database: series, releases, groups and reading lists
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Business
+
+- API: [Katalis](https://meetkatalis.com/apis)
+
+  Description: UK company checks: payment practices, contracts won, registers, filed accounts, change feed
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Cryptocurrency
+
+- API: [Coinmico](https://docs.coinmico.com)
+
+  Description: Crypto prices, volume and liquidity measured from real trades on 50+ exchanges and DEXs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Crypto Vision](https://cryptocurrency.cv/developers)
+
+  Description: Free crypto news aggregator with market context, JSON REST and RSS
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Allscreenshots](https://allscreenshots.com)
+
+  Description: Website screenshots and PDFs with full-page capture, dark mode and ad blocking
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [EndOfLife.date](https://endoflife.date/docs/api)
+
+  Description: Software end-of-life dates and support lifecycles
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [QRX](https://qrx.codes/developers)
+
+  Description: Artistic, branded QR codes from a text prompt and a link, checked to scan
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Environment
+
+- API: [EIA Open Data](https://www.eia.gov/opendata/)
+
+  Description: US energy statistics: electricity, petroleum, gas
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Sähkön hinta nyt](https://xn--shknhintanyt-gcb8w.org/integraatiot/)
+
+  Description: Finnish and Nordic day-ahead electricity spot prices (15-minute), cheapest hours
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Nigeria PAYE](https://www.orionsoftlimited.com/developers)
+
+  Description: Nigerian income tax (PAYE) and take-home pay under the Nigeria Tax Act 2025
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Election](https://election.org/data/api)
+
+  Description: Source-linked U.S. election and civic records with coverage limits
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MORVS](https://morvs.ai/api/)
+
+  Description: Source-linked US regulatory and public records: SEC filings, enforcement actions, recalls
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [DailyMed](https://dailymed.nlm.nih.gov/dailymed/app-support-web-services.cfm)
+
+  Description: FDA drug labeling and package insert information
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [NHS Health A-Z](https://digital.nhs.uk/developer/api-catalogue/health-a-to-z)
+
+  Description: NHS conditions, medicines and guidance
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Open Targets](https://platform-docs.opentargets.org/)
+
+  Description: Gene-disease-drug target associations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [RxNorm](https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html)
+
+  Description: Normalized drug names, RxCUIs and NDC codes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Tanvo](https://tanvo.ai/developers/api)
+
+  Description: Image, video and song generation on 30 AI models (Nano Banana, Kling, Veo, Suno), with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Verified Handles](https://verifiedhandles.org/developers)
+
+  Description: Official social media handles and identifiers of 155,000+ notable people and organisations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [ENA](https://www.ebi.ac.uk/ena/browser/api/swagger-ui/index.html)
+
+  Description: Nucleotide sequences, genomes and raw reads archive
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [KEGG](https://www.kegg.jp/kegg/rest/keggapi.html)
+
+  Description: Genes, pathways, compounds and reactions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Macrostrat](https://macrostrat.org/api)
+
+  Description: Geologic maps, rock columns and stratigraphy data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MathJS](https://api.mathjs.org/)
+
+  Description: Evaluate math expressions via GET or POST as JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [NCBI E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
+
+  Description: Biomedical literature, sequences and gene databases
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OBIS](https://manual.obis.org/access)
+
+  Description: Global marine species occurrence and distribution data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SatNOGS](https://docs.satnogs.org/projects/satnogs-network/en/stable/api.html)
+
+  Description: Satellite observations from open ground stations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [WoRMS](https://www.marinespecies.org/rest/)
+
+  Description: Marine species taxonomy, synonyms and distributions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Shopping
+
+- API: [Nuvinty](https://nuvinty.com/api-docs)
+
+  Description: UK luxury list prices, price history, increases and partner pre-owned asking prices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Pumperly](https://geiserx.github.io/Pumperly/reference/api/)
+
+  Description: Fuel prices and EV chargers near a point, in a map area or along a route, as GeoJSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Met Office DataHub](https://datahub.metoffice.gov.uk/docs/)
+
+  Description: UK weather forecasts and climate data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -6322,17 +6696,6 @@ A collective list of free APIs
 ## [Aug 30, 2026](/content/2026/08/30/README.md)
 
 ### Business
-
-- API: [Katalis UK Company Enrichment](https://meetkatalis.com/apis)
-
-  Description: Verified UK company profiles with an AI summary and accuracy score, from Companies House data
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
 
 - API: [TradeDataHub](https://www.tradedatahub.net)
 
@@ -19185,22 +19548,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-
-## [Sep 27, 2021](/content/2021/09/27/README.md)
-
-### Anime
-
-- API: [MangaDex](https://api.mangadex.org/docs.html)
-
-  Description: Manga Database and Community
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
 
 
 

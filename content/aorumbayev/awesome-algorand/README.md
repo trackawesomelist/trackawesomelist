@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Oracles / Visual Studio
+
+*   [Gora](https://goranetwork.github.io/doc/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
+
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
 ### AI and Machine Learning / Visual Studio
@@ -246,10 +252,6 @@
 ### Nodes & Consensus Participation / Visual Studio
 
 *   [Nodely](https://nodely.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
-
-### Oracles / Visual Studio
-
-*   [Gora](https://www.gora.io/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
 
 ### DeFi Platforms / Visual Studio
 
@@ -617,7 +619,7 @@
 
 ### Projects
 
-*   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
+*   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Universal QRCode generator module for Algorand ARC-26 URIs.
 
 ## [Feb 13, 2022](/content/2022/02/13/README.md)
 

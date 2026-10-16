@@ -6,6 +6,17 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### Agent Orchestration / SDLC
+
+*   [Mycelium (⭐47)](https://github.com/haabe/mycelium) by [Håvard Bartnes](https://github.com/haabe) - A plugin that holds the agent back from writing code until the builder has answered four questions in the repo: what the problem is, who has it, what is assumed, and what would show it to be wrong. The answers live in the repo as YAML the agent is held to, next to a decision log.\ <img src="https://img.shields.io/github/created-at/haabe/mycelium?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/haabe/mycelium?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/haabe/mycelium?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/haabe/mycelium?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+*   [pstack-claude (⭐2.5k)](https://github.com/michael-denyer/pstack-claude) by [Michael Denyer](https://github.com/michael-denyer/) - Claude Code version of Lauren Tan's Poteto's pstack. Rigorous agent workflows with Cursor primitives translated to other agents. Supports multiple providers.\ <img src="https://img.shields.io/github/created-at/michael-denyer/pstack-claude?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/michael-denyer/pstack-claude?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/michael-denyer/pstack-claude?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/michael-denyer/pstack-claude?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Memory & Context Persistence / SDLC
+
+*   [funes (⭐568)](https://github.com/huggingface/funes) by [David Corvoysier](https://github.com/dacorvo) - Durable cross-agent memory for Claude Code, Codex, pi, and Hermes. Your memory is a Hugging Face dataset you own: recall it from any machine or share it with your team. Single binary, local index, pinned local embedding models.\ <img src="https://img.shields.io/github/created-at/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/huggingface/funes?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Skills / SDLC

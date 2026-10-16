@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### iOS / Spock Framework
+
+*   [iOSアプリケーション プログラミングガイド](https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF) *( :card\_file\_box: archived)*
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### JavaScript / Vue.js
@@ -768,12 +774,6 @@
 ### OCaml / Vue.js
 
 *   [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
-
-## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
-
-### iOS / Spock Framework
-
-*   [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
