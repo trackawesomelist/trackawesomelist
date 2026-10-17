@@ -8,9 +8,26 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Polars plugins / Geographical / Spatial
+
+*   [PyCanopy (⭐31)](https://github.com/pranav-walimbe/PyCanopy) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
+
+### Polars plugins / General utilities / Performance
+
+*   [polars-avro](https://github.com/hafacc/polars-avro) - Polars plugin for reading and writing avro files by [@hafacc](https://github.com/hafacc).
+*   [polars-map](https://github.com/hafacc/polars-map) - Polars extension that provids a Map extension type and functions by [@hafacc](https://github.com/hafacc).
+
 ### Tools Built with Polars / Miscellaneous
 
 *   [ds-agent-playbook (⭐0)](https://github.com/udbhav-shrinet/ds-agent-playbook) - Autonomous, zero-bloat recipes for Data Science pipelines: automated EDA, deterministic data cleansing, and feature hypothesis synthesis powered by Polars & DuckDB by [@udbhav-shrinet](https://github.com/udbhav-shrinet).
+
+### Blog posts / Miscellaneous
+
+*   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://python.plainenglish.io/revolutionize-your-data-analysis-polars-outperforms-pandas-by-up-to-5x-in-numerical-filter-4f1d00b8d71c) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
+
+### Talks and videos / Miscellaneous
+
+*   [Polars Plugins: how you (yes, you!) can extend Polars Dataframes](https://www.youtube.com/watch?v=8Ex93IG37VI) ⏳ 31 min - A video that explains how to write your own Polars Plugin by [@marcogorelli](https://github.com/marcogorelli).
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -30,7 +47,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Tools Built with Polars / Miscellaneous
 
-*   [Ciaren (⭐15)](https://github.com/ciaren-labs/Ciaren) - A local-first visual ETL and ML workflow builder that runs flows on pandas or Polars and exports readable Polars or lazy Polars code, by [@ciaren-labs](https://github.com/ciaren-labs).
+*   [Ciaren](https://github.com/ciaren-labs/Ciaren) - A local-first visual ETL and ML workflow builder that runs flows on pandas or Polars and exports readable Polars or lazy Polars code, by [@ciaren-labs](https://github.com/ciaren-labs).
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
@@ -54,7 +71,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Visualization
 
-*   [flexviz (⭐53)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filterable charts on 100M+ rows, powered by lazy Polars aggregations and Rust kernels by [@jvdd](https://github.com/jvdd).
+*   [flexviz (⭐73)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filterable charts on 100M+ rows, powered by lazy Polars aggregations and Rust kernels by [@jvdd](https://github.com/jvdd).
 
 ### Cheat Sheets / Miscellaneous
 
@@ -80,12 +97,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars-skills (⭐81)](https://github.com/polars-inc/skills) - Official AI agent skills by [@polars-inc](https://github.com/polars-inc).
 *   [polars-mcp (⭐18)](https://github.com/r-brink/polars-mcp) - A local MCP server for live API lookup against your installed Polars version by [@r-brink](https://github.com/r-brink).
-
-## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
-
-### Polars plugins / Geographical / Spatial
-
-*   [PyCanopy](https://github.com/pranav-walimbe) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -145,10 +156,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Polars plugins / Time series / Datetime
 
 *   [functime (⭐1.2k)](https://github.com/functime-org/functime) - Machine learning Python package built on Polars for time-series predictions by [@functime-org](https://github.com/functime-org). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
-
-### Polars plugins / General utilities / Performance
-
-*   [polars-map (⭐6)](https://github.com/hafaio/polars-map) - Polars extension that provids a Map extension type and functions by [@hafaio](https://github.com/hafaio).
 
 ### Polars plugins / Statistics / Analytics
 
@@ -266,7 +273,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Miscellaneous
 
-*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐201)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐204)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -382,7 +389,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars-avro (⭐4)](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
 *   [turtle-island (⭐10)](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 
 ### Polars plugins / Visualization
@@ -528,10 +534,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Blog posts / Miscellaneous
 
 *   [Translating Pandas to Polars](https://towardsdev.com/translating-pandas-to-polars-a7446c82bcca) - A blog post that  that proposes 20 code translations from Pandas to Polars by [@Rohit-Salunke](https://github.com/Rohit-Salunke).
-
-### Talks and videos / Miscellaneous
-
-*   [Understanding Polars Expressions when you're used to Pandas](https://www.youtube.com/watch?v=8Ex93IG37VI) ⏳ 31 min - A video that explains how to write your own Polars Plugin by [@marcogorelli](https://github.com/marcogorelli).
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -867,7 +869,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Blog posts / Miscellaneous
 
 *   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
-*   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 

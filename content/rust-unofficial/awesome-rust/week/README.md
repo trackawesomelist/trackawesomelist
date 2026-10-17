@@ -55,6 +55,14 @@ A curated list of Rust code and resources.
 
 *   [issuerd/issuerd (⭐51)](https://github.com/issuerd/issuerd) \[[issuerd](https://crates.io/crates/issuerd)] - Keycloak-compatible OIDC/OAuth2 IAM server with DPoP, CIBA and RFC 8693 token exchange, shipped as a single self-contained binary [![CI](https://github.com/issuerd/issuerd/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/issuerd/issuerd/actions/workflows/ci.yml)
 
+### Libraries / GUI
+
+*   [artemtsitronov/glacex (⭐110)](https://github.com/artemtsitronov/glacex) \[[glacex](https://crates.io/crates/glacex)] - GPU-rendered, immediate-mode UI library with SDF rendering and persistent widget state.
+
+### Libraries / Text processing
+
+*   [cmccomb/human\_regex (⭐55)](https://github.com/cmccomb/human_regex) \[[human\_regex](https://crates.io/crates/human_regex)] - Compose readable regular expressions with a fluent API [![tests](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml)
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Applications

@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Oct 17, 2026](/content/2026/10/17/README.md)
+
+### Commands & Extensions
+
+*   [Thinking Methods (⭐15)](https://github.com/ysskrishna/ai-agent-skills) - Curated Agent Skills (SKILL.md) for structured thinking on real decisions: five whys, pre-mortem, trade-offs, prioritization, six thinking hats, and twelve more methods plus a selector skill. Install as a Gemini extension (`gemini extensions install https://github.com/ysskrishna/ai-agent-skills`) or skills only (`gemini skills install https://github.com/ysskrishna/ai-agent-skills.git --path skills`). MIT.
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Agent Orchestration & CLI Tools

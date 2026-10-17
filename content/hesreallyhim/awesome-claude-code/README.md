@@ -6,6 +6,16 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Oct 17, 2026](/content/2026/10/17/README.md)
+
+### Research & Scientific Inquiry / Data Visualization
+
+*   [geoai-skills (⭐30)](https://github.com/muend/geoai-skills) by [muend](https://github.com/muend) - Skills for geospatial analysis that require coordinate-system, spatial-validation and comparability checks before a result is reported, and narrow or refuse a claim the data cannot support. Ships a paired evaluation against a skills-disabled control arm.\ <img src="https://img.shields.io/github/created-at/muend/geoai-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/muend/geoai-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/muend/geoai-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/muend/geoai-skills?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Design & UI/UX / Data Visualization
+
+*   [i18next-localization](https://github.com/i18next/i18next-cli) by [i18next](https://github.com/i18next) - Agent [Skill](https://github.com/i18next/i18next-cli/tree/main/skills/i18next-localization) that takes an app from hardcoded strings to a localized one with i18next: stack detection, config, AST-based wrapping of strings in `t()`, key extraction, sync to Locize and AI translation. It regenerates the step-by-step prompt from the installed i18next-cli, so it cannot drift from the CLI.\ <img src="https://img.shields.io/github/created-at/i18next/i18next-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/i18next/i18next-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/i18next/i18next-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/i18next/i18next-cli?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Agent Orchestration / SDLC

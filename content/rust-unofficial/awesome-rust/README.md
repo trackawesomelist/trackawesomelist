@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 17, 2026](/content/2026/10/17/README.md)
+
+### Libraries / GUI
+
+*   [artemtsitronov/glacex (⭐110)](https://github.com/artemtsitronov/glacex) \[[glacex](https://crates.io/crates/glacex)] - GPU-rendered, immediate-mode UI library with SDF rendering and persistent widget state.
+
+### Libraries / Text processing
+
+*   [cmccomb/human\_regex (⭐55)](https://github.com/cmccomb/human_regex) \[[human\_regex](https://crates.io/crates/human_regex)] - Compose readable regular expressions with a fluent API [![tests](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml)
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Development tools / Workflow Automation

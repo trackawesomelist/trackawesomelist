@@ -2103,6 +2103,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 \[[gui](https://crates.io/keywords/gui)]
 
+*   [artemtsitronov/glacex (⭐110)](https://github.com/artemtsitronov/glacex) \[[glacex](https://crates.io/crates/glacex)] - GPU-rendered, immediate-mode UI library with SDF rendering and persistent widget state.
 *   [autopilot-rs/autopilot-rs (⭐428)](https://github.com/autopilot-rs/autopilot-rs) - A simple, cross-platform GUI automation library.
 *   Cocoa
     *   [servo/core-foundation-rs (⭐1.3k)](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
@@ -2417,6 +2418,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [becheran/wildmatch (⭐98)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] - Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 *   [BurntSushi/suffix (⭐281)](https://github.com/BurntSushi/suffix) - Linear time suffix array construction (with Unicode support)
 *   [BurntSushi/tabwriter (⭐273)](https://github.com/BurntSushi/tabwriter) - Elastic tab stops (i.e., text column alignment)
+*   [cmccomb/human\_regex (⭐55)](https://github.com/cmccomb/human_regex) \[[human\_regex](https://crates.io/crates/human_regex)] - Compose readable regular expressions with a fluent API [![tests](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/cmccomb/human_regex/actions/workflows/tests.yml)
 *   [cmccomb/rust-stop-words (⭐26)](https://github.com/cmccomb/rust-stop-words) \[[stop-words](https://crates.io/crates/stop-words)] - Common stop words in many languages
 *   [cpc (⭐165)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 *   [Daniel-Liu-c0deb0t/triple\_accel (⭐109)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)

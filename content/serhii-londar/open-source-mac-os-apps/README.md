@@ -6,9 +6,100 @@
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Oct 17, 2026](/content/2026/10/17/README.md)
+
+### 🛠️ Utilities (166) / ✏️ Text (16)
+
+*   [Qwen Scribe](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
+
+    **Website:** <https://github.com/VladUZH/qwen-scribe>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/dictation-states.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Thaw](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://www.getthaw.app>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://github.com/user-attachments/assets/9584065d-f840-4545-9a42-cfc5534b5ac3' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://github.com/user-attachments/assets/f2f6b9a6-55c5-40b3-910f-b27b114577dd' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 👨‍💻 Development (30)
+
+*   [DevProjex (⭐26)](https://github.com/Avazbek22/DevProjex) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
+
+    **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
+
+    **Website:** [https://github.com/Avazbek22/DevProjex (⭐26)](https://github.com/Avazbek22/DevProjex)
+
+### ⏱️ Productivity (104) / ✏️ Text (16)
+
+*   [NoteGen](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://notegen.top/>
+*   [CrossGen](https://github.com/Bliveren/CrossGen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
+
+    **Website:** <https://www.corgnitor.com/products/crossgen>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-workspace.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-edit.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Yap (⭐456)](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://frigade.com/yap>
+
+### 🎨 Graphics (19) / ✏️ Text (16)
+
+*   [ItsPaint](https://github.com/joshlin2201/itspaint) - Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://itspaintmac.com/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/joshlin2201/itspaint/main/docs/images/editor-window.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
-### ⏱️ Productivity (100) / ✏️ Text (16)
+### ⏱️ Productivity (104) / ✏️ Text (16)
 
 *   [Blurt (⭐61)](https://github.com/AssemblyAI/blurt) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
 
@@ -166,7 +257,7 @@
     </p>
     </details>
 
-### 🎵 Audio (45)
+### 🎵 Audio (46)
 
 *   [EnviousWispr (⭐184)](https://github.com/saurabhav88/EnviousWispr) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
 
@@ -174,7 +265,7 @@
 
     **Website:** <https://enviouswispr.com/>
 
-### 📊 Menubar (94) / ✏️ Text (16)
+### 📊 Menubar (96) / ✏️ Text (16)
 
 *   [Fader (⭐68)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.
 
@@ -295,7 +386,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [Rekody (⭐32)](https://github.com/rekody/rekody) - Voice dictation CLI for macOS: hold a hotkey, speak, and on-device transcription types the text at the cursor in any app.
 
@@ -747,7 +838,7 @@
 
     **Website:** <https://tablepro.app>
 
-### 👨‍💻 Development (29)
+### 👨‍💻 Development (30)
 
 *   [Clave (⭐51)](https://github.com/antasphere/clave) - macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics.
 
@@ -832,9 +923,9 @@
     </p>
     </details>
 
-### 📝 Editors (10) / 📝 Markdown (16)
+### 📝 Editors (10) / 📝 Markdown (17)
 
-*   [Edmund (⭐241)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault.
+*   [Edmund (⭐252)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -971,7 +1062,7 @@
 
 ## [Sep 10, 2026](/content/2026/09/10/README.md)
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [Mocker (⭐364)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 
@@ -1025,7 +1116,7 @@
 
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [HomeRec (⭐12)](https://github.com/melissa-pereira-deel/home-rec) - Lightweight native macOS app for recording system audio as high-quality WAV files using ScreenCaptureKit.
 
@@ -1094,7 +1185,7 @@
 
     **Website:** <https://onionshare.org/>
 
-### ⏱️ Productivity (100) / ✏️ Text (16)
+### ⏱️ Productivity (104) / ✏️ Text (16)
 
 *   [Shark (⭐7)](https://github.com/SSBun/Shark) - Cursor IDE workspace manager for macOS.
 
@@ -1136,7 +1227,7 @@
     </p>
     </details>
 
-### 📊 Menubar (94) / ✏️ Text (16)
+### 📊 Menubar (96) / ✏️ Text (16)
 
 *   [AIQuotaBar (⭐42)](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
@@ -1197,7 +1288,7 @@
 
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
-### 🎵 Audio (45)
+### 🎵 Audio (46)
 
 *   [LyricGlow (⭐42)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
 
@@ -1337,7 +1428,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [Gridfy (⭐37)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
 
@@ -1688,7 +1779,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29)
+### 👨‍💻 Development (30)
 
 *   [JustTags (⭐21)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
 
@@ -1725,7 +1816,7 @@
     </p>
     </details>
 
-### ⏱️ Productivity (100) / ✏️ Text (16)
+### ⏱️ Productivity (104) / ✏️ Text (16)
 
 *   [Clendar (⭐736)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
@@ -1882,7 +1973,7 @@
 
     **Website:** <https://zed.dev>
 
-### 📔 Notes (23) / ✏️ Text (16)
+### 📔 Notes (24) / ✏️ Text (16)
 
 *   [Notesnook (⭐15k)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
@@ -1953,7 +2044,7 @@
 
     **Website:** <http://sabaki.yichuanshen.de>
 
-### 🎨 Graphics (17) / ✏️ Text (16)
+### 🎨 Graphics (19) / ✏️ Text (16)
 
 *   [LibreCAD (⭐6.5k)](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
 
@@ -1982,7 +2073,7 @@
     </p>
     </details>
 
-### 📊 Menubar (94) / ✏️ Text (16)
+### 📊 Menubar (96) / ✏️ Text (16)
 
 *   [app-menu (⭐92)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
 
@@ -2133,7 +2224,7 @@
 
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [Bye-AppQuit (⭐87)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
@@ -2171,7 +2262,7 @@
 
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [MiddleDrag (⭐237)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
 
@@ -2188,7 +2279,7 @@
 
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
-### 👨‍💻 Development (29) / 🌍 Web Development (15)
+### 👨‍💻 Development (30) / 🌍 Web Development (15)
 
 *   [Requestly (⭐6.8k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
 
@@ -2209,7 +2300,7 @@
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### 🎵 Audio (45)
+### 🎵 Audio (46)
 
 *   [\[Un\]MuteMic (⭐135)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
@@ -2853,7 +2944,7 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-### 🛠️ Utilities (164) / ✏️ Text (16)
+### 🛠️ Utilities (166) / ✏️ Text (16)
 
 *   [MonitorControl (⭐34k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
@@ -3615,7 +3706,7 @@
 
 ### 🌐 Browser (14)
 
-*   [Beaker Browser (⭐6.7k)](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.
+*   [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -3672,7 +3763,7 @@
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-### ⏱️ Productivity (100) / ✏️ Text (16)
+### ⏱️ Productivity (104) / ✏️ Text (16)
 
 *   [Pennywise (⭐3.9k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
@@ -4878,7 +4969,7 @@
     </p>
     </details>
 
-### 🎨 Graphics (17) / ✏️ Text (16)
+### 🎨 Graphics (19) / ✏️ Text (16)
 
 *   [ColorSet (⭐246)](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 
@@ -5050,7 +5141,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29) / 📦 Git (20)
+### 👨‍💻 Development (30) / 📦 Git (20)
 
 *   [GitAhead (⭐2k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
@@ -5250,7 +5341,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29)
+### 👨‍💻 Development (30)
 
 *   [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation.
 
@@ -5286,7 +5377,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29) / 🔄 JSON Parsing (4)
+### 👨‍💻 Development (30) / 🔄 JSON Parsing (4)
 
 *   [j2s (⭐239)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
 
@@ -5319,7 +5410,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29) / 🔧 Other Development (5)
+### 👨‍💻 Development (30) / 🔧 Other Development (5)
 
 *   [ChefInspector (⭐9)](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef
 
@@ -5355,7 +5446,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29) / 🌍 Web Development (15)
+### 👨‍💻 Development (30) / 🌍 Web Development (15)
 
 *   [aws-s3-uploader (⭐143)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
 
@@ -5477,7 +5568,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (29) / 📱 iOS / macOS (45)
+### 👨‍💻 Development (30) / 📱 iOS / macOS (45)
 
 *   [AppBox (⭐696)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
 
@@ -5873,7 +5964,7 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-### 🖼️ Images (17) / ✏️ Text (16)
+### 🖼️ Images (18) / ✏️ Text (16)
 
 *   [Iconology (⭐149)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
 
@@ -6151,7 +6242,7 @@
     </p>
     </details>
 
-### 📝 Editors (10) / 📝 Markdown (16)
+### 📝 Editors (10) / 📝 Markdown (17)
 
 *   [Gingko (⭐415)](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.
 
@@ -6225,7 +6316,7 @@
     </p>
     </details>
 
-### 📔 Notes (23) / ✏️ Text (16)
+### 📔 Notes (24) / ✏️ Text (16)
 
 *   [Notenik (⭐115)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
@@ -6903,7 +6994,7 @@
     </p>
     </details>
 
-### 📊 Menubar (94) / ✏️ Text (16)
+### 📊 Menubar (96) / ✏️ Text (16)
 
 *   [Airpass (⭐590)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 

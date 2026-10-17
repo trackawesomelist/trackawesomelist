@@ -238,6 +238,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
     *   [Examples (⭐205)](https://github.com/mrombout/gbdk_playground)
     *   [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 *   [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - Complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, including the Game Boy and Game Boy Color.
+*   [LLVM-Z80 (⭐62)](https://github.com/llvm-z80/llvm-z80) † - A fork of LLVM with a backend for the Game Boy CPU (SM83), supporting the latest C standards and LLVM’s excellent optimizations.
 
 #### Experimental/Proof of Concepts
 
@@ -248,7 +249,6 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 *   [gbasm (⭐131)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 *   [Assembler (⭐120)](https://github.com/ulrikdamm/Assembler) - written in Swift.
-*   [llvm-gbz80 (⭐38)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 (⭐24)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 (⭐9)](https://github.com/euclio/llvm-gbz80)).
 *   [gbdk-go (⭐24)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 *   [Rust-GB (⭐348)](https://github.com/zlfn/rust-gb) - A toolchain and SDK that enable the development of GB ROMs using Rust.
 
@@ -373,14 +373,17 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 *   [bootstrap.gb (⭐33)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 *   [Gameboy Boilerplate (⭐30)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 *   [GingerBread (⭐139)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐166)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
-*   [gb-vwf (⭐57)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
-*   [gb-boilerplate (⭐75)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐65)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-vwf](https://codeberg.org/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-boilerplate](https://codeberg.org/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+*   [gb-starter-kit](https://codeberg.org/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 *   [gb-template (⭐4)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+*   [rgbds-structs](https://codeberg.org/ISSOtm/rgbds-structs) - A macro pack that provides struct-like functionality.
+*   [rgbds-arrays](https://github.com/Rangi42/rgbds-arrays) - A macro pack that provides array-like functionality.
+*   [regex.inc (⭐4)](https://github.com/evie-calico/regex.inc) - A regular expression parser in assembly macros.
 
 #### Syntax highlighting packages
 
-*   [gbz80-highlight (⭐9)](https://github.com/ISSOtm/gbz80-highlight) - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
+*   [gbz80-highlight](https://codeberg.org/ISSOtm/gbz80-highlight) - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
 *   [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 *   [Vim syntax file for RGBDS (⭐11)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 *   [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
@@ -431,7 +434,7 @@ Complete and open source games.
 *   [kupman (⭐5)](https://github.com/dubvulture/gbdev) and some other projects.
 *   [Adjustris (⭐15)](https://github.com/tbsp/Adjustris)
 *   [exeman (⭐0)](https://github.com/gb-archive/exeman)
-*   [Aevilia (⭐56)](https://github.com/ISSOtm/Aevilia-GB)
+*   [Aevilia](https://codeberg.org/ISSOtm/Aevilia-GB)
 *   [GBSlides (⭐31)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 *   [Pokered-gbc (⭐180)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐10)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
@@ -503,6 +506,7 @@ Complete and open source games.
 *   [matrix-rain-gb (⭐32)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 *   [GBVideoPlayer (⭐105)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 *   [GBVideoPlayer2 (⭐134)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo* PCM audio, and introduces *video compression*.
+*   [Game Boy Demospotting](https://privat.bahnhof.se/wb800787/gb/) - An archive of Game Boy software demos made from 1996 to 2020.
 
 ## Reverse Engineering
 
