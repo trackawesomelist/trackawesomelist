@@ -6,11 +6,17 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Oct 17, 2026](/content/2026/10/17/README.md)
+
+### Tools / Agents
+
+*   [CUGA](https://github.com/cuga-project/cuga-agent): IBM Research's open-source agent harness built on LangGraph. Runs multi-step tasks over APIs (OpenAPI, MCP, LangChain tools) and the web, with policies and human-in-the-loop approval. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
+
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
 ### Tools / Agents
 
-*   [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (<https://img.shields.io/github/stars/bytedance/deer-flow?style=social>)
+*   [DeerFlow (⭐84k)](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (<https://img.shields.io/github/stars/bytedance/deer-flow?style=social>)
 
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
 
@@ -22,7 +28,7 @@
 
 ### Tools / Agents
 
-*   [RedAmon (⭐2.9k)](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
+*   [RedAmon (⭐3.1k)](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 
 ## [Sep 24, 2026](/content/2026/09/24/README.md)
 
@@ -70,7 +76,7 @@
 
 ### Tools / Templates
 
-*   [AI (⭐27k)](https://github.com/vercel/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/ai?style=social)
+*   [AI](https://github.com/vercel/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/ai?style=social)
 *   [Mem0 (⭐67k)](https://github.com/mem0ai/mem0): Universal memory layer for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 
 ### Open Source Projects / Knowledge Management
@@ -85,7 +91,7 @@
 *   [Entaoai (⭐865)](https://github.com/akshata29/entaoai): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/entaoai?style=social)
 *   [Robby-Chatbot (⭐813)](https://github.com/yvann-ba/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
 *   [AI Chatbot (⭐21k)](https://github.com/vercel/chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/chatbot?style=social)
-*   [GPT Migrate (⭐7k)](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+*   [GPT Migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 *   [LobeHub (⭐83k)](https://github.com/lobehub/lobehub) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social)
 *   [PersonalityChatbot (⭐62)](https://github.com/minhbtrc/langchain-chatbot): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/minhbtrc/langchain-chatbot?style=social)
 
@@ -142,7 +148,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Bifrost (⭐8.5k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+*   [Bifrost (⭐8.8k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 
 ## [May 10, 2025](/content/2025/05/10/README.md)
 
@@ -347,7 +353,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Magentic (⭐2.4k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐61k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 
 ### Complement to this list / Videos Playlists
 
@@ -380,7 +386,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+*   [Promptfoo (⭐26k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
 ## [Sep 03, 2023](/content/2023/09/03/README.md)
 
@@ -514,7 +520,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Instrukt (⭐330)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
+*   [Instrukt (⭐329)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
