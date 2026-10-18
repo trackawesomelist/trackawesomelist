@@ -45,6 +45,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [Staxa](https://staxa.dev/) - Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.
+*   [The Vibe Hosting](https://thevibehosting.com/) - Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.
 
 ### Screenshot APIs
 

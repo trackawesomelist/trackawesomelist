@@ -654,7 +654,7 @@ Awesome list of GraphQL
 *   [Altair GraphQL Client (⭐5.4k)](https://github.com/altair-graphql/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 *   [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor.
 *   [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - An HTTP Client that supports editing GraphQL queries.
-*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 *   [Escape GraphMan (⭐253)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 *   [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 *   [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
@@ -671,7 +671,7 @@ Awesome list of GraphQL
 *   [GraphQL Faker (⭐2.7k)](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 *   [GraphQL Inspector](https://the-guild.dev/graphql/inspector) - A tool to **validate schemas**, compare schema changes, find breaking changes, and check document coverage against a schema.
 *   [Microcks](https://microcks.io/) - Open source, cloud native tool for API mocking and testing with GraphQL support.
-*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
+*   [mockd](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 *   [Keploy](https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and **data mocks automatically by recording real API traffic**. Supports GraphQL, REST, and gRPC.
 *   [Step CI](https://stepci.com) - Open source API **testing and monitoring** with GraphQL support.
 *   [MockBase](https://mockbase.org) - Hosted mock server for REST, GraphQL, and SOAP with fault injection, stateful mocks, and OpenAPI import.
@@ -679,6 +679,7 @@ Awesome list of GraphQL
 *   [supertest-graphql (⭐34)](https://github.com/alexstrat/supertest-graphql) - Extends supertest to easily test a GraphQL endpoint.
 *   [schemathesis (⭐3.7k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
+*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
 
 <a name="tool-security" />
 

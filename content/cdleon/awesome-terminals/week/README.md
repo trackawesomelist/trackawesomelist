@@ -6,17 +6,23 @@ Terminal Emulators
 
 [ [Daily](/content/cdleon/awesome-terminals/README.md) / Weekly / [Overview](/content/cdleon/awesome-terminals/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Tools / Rust
+
+*   [alphai-tui (⭐78)](https://github.com/makeev/alphai-tui) - Stock dashboard with quotes, candlestick charts, portfolio tracking, AI-scored news and SEC insider filings.
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Tools / Rust
 
-*   [Tura (⭐635)](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
+*   [Tura (⭐659)](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
 
 ### Tools / Node
 
-*   [AgentBox (⭐390)](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.
+*   [AgentBox (⭐526)](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
@@ -28,12 +34,12 @@ Terminal Emulators
 
 ### Tools / Node
 
-*   [overloop-cli (⭐7)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
-*   [signals-cli (⭐1)](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
+*   [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
+*   [signals-cli (⭐2)](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
 
 ### Tools / Rust
 
-*   [rustnet (⭐5k)](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
+*   [rustnet (⭐5.1k)](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
 
 ## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
 
@@ -45,7 +51,7 @@ Terminal Emulators
 
 ### Tools / Go
 
-*   [ggc (⭐285)](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
+*   [ggc (⭐286)](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 
 ## [Nov 04 - Nov 10, 2024](/content/2024/45/README.md)
 
@@ -87,7 +93,7 @@ Terminal Emulators
 
 ### Tools / Ruby
 
-*   [teamocil (⭐2.4k)](https://github.com/remi/teamocil) - Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
+*   [teamocil](https://github.com/remi/teamocil) - Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 
 ### Tools / Rust
 
@@ -103,7 +109,7 @@ Terminal Emulators
 
 ### Tools / Rust
 
-*   [eza (⭐23k)](https://github.com/eza-community/eza) - A modern version of ‘ls’. <https://eza.rocks/>
+*   [eza (⭐24k)](https://github.com/eza-community/eza) - A modern version of ‘ls’. <https://eza.rocks/>
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
@@ -137,7 +143,7 @@ Terminal Emulators
 
 ### Tools / C
 
-*   [smenu (⭐2.5k)](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
+*   [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
 
 ### Tools / Go
 
@@ -163,7 +169,7 @@ Terminal Emulators
 
 ### Shells
 
-*   [xonsh (⭐9.6k)](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
+*   [xonsh (⭐9.7k)](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -187,7 +193,7 @@ Terminal Emulators
 
 ### Tools / Python
 
-*   [td (⭐215)](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ <https://pypi.org/project/td-cli/>
+*   [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ <https://pypi.org/project/td-cli/>
 *   [twtxt (⭐2.2k)](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers. <https://twtxt.readthedocs.io/en/stable/>
 *   [xxh (⭐6.1k)](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 
@@ -201,19 +207,19 @@ Terminal Emulators
 
 ### Dotfiles / Swift
 
-*   [dotfiles-public (⭐7.2k)](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+*   [dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
 ### Tools / Python
 
-*   [yt-dlp (⭐191k)](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [yt-dlp (⭐198k)](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
 ### Tools / C
 
-*   [ag (⭐27k)](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. <https://geoff.greer.fm/ag/>
+*   [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. <https://geoff.greer.fm/ag/>
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
@@ -226,14 +232,14 @@ Terminal Emulators
 *   [cheat (⭐13k)](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 *   [curlie (⭐3.7k)](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. <https://curlie.io/>
 *   [plow (⭐4.5k)](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
-*   [slides (⭐12k)](https://github.com/maaslalani/slides) - Terminal based presentation tool <https://maaslalani.com/slides/>
+*   [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool <https://maaslalani.com/slides/>
 
 ### Tools / Rust
 
 *   [br (⭐13k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees <https://dystroy.org/broot>
 *   [btm (⭐14k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom/nightly/>
 *   [choose (⭐2.3k)](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
-*   [delta (⭐32k)](https://github.com/dandavison/delta) - A viewer for git and diff output
+*   [delta (⭐33k)](https://github.com/dandavison/delta) - A viewer for git and diff output
 *   [dog (⭐6.7k)](https://github.com/ogham/dog) - A command-line DNS client. <https://dns.lookup.dog/>
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 *   [mcfly (⭐7.8k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -242,17 +248,17 @@ Terminal Emulators
 
 ### Tools / sh
 
-*   [ansiweather (⭐1.9k)](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
+*   [ansiweather (⭐2k)](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 
 ### Dotfiles / Swift
 
-*   [dotfiles.fish (⭐306)](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
+*   [dotfiles.fish (⭐304)](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Tools / C
 
-*   [fastfetch (⭐25k)](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
+*   [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -266,12 +272,12 @@ Terminal Emulators
 
 ### Dotfiles / Swift
 
-*   [dot (⭐633)](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
-*   [dotfiles (⭐377)](https://github.com/koekeishiya/dotfiles) - Configuration files.
+*   [dot (⭐636)](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
+*   [dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files.
 *   [dotfiles (⭐349)](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
 *   [dotfiles (⭐1.5k)](https://github.com/dikiaap/dotfiles)
-*   [dotfiles (⭐31k)](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including \~/.macos — sensible hacker defaults for macOS
-*   [dotfiles (⭐995)](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
+*   [dotfiles (⭐32k)](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including \~/.macos — sensible hacker defaults for macOS
+*   [dotfiles (⭐1k)](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
@@ -289,17 +295,17 @@ Terminal Emulators
 
 ### Tools / Rust
 
-*   [zellij (⭐35k)](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. <https://zellij.dev/>
+*   [zellij (⭐36k)](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. <https://zellij.dev/>
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
 ### Shells
 
-*   [PowerShell (⭐55k)](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [PowerShell (⭐56k)](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ### Tools / Go
 
-*   [frangipanni (⭐1.2k)](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
+*   [frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
 
 ### Tools / Node
 
@@ -327,7 +333,7 @@ Terminal Emulators
 
 ### Tools / Go
 
-*   [gotop (⭐7.4k)](https://github.com/cjbassi/gotop) - **\[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
+*   [gotop](https://github.com/cjbassi/gotop) - **\[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
@@ -341,11 +347,11 @@ Terminal Emulators
 
 ### Tools / Python
 
-*   [buku (⭐7.2k)](https://github.com/jarun/buku) - Browser-independent bookmark manager
+*   [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager
 
 ### Tools / Rust
 
-*   [viu (⭐3.3k)](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+*   [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 
 ### Tools / sh
 
@@ -353,7 +359,7 @@ Terminal Emulators
 
 ### Tools / Swift
 
-*   [trash (⭐459)](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
+*   [trash (⭐461)](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
 
 ### Dotfiles / Swift
 
@@ -369,11 +375,11 @@ Terminal Emulators
 
 ### Tools / Bash
 
-*   [ble.sh (⭐4.8k)](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+*   [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 
 ### Tools / C
 
-*   [afetch (⭐241)](https://github.com/13-CF/afetch) - Simple system info written in C
+*   [afetch](https://github.com/13-CF/afetch) - Simple system info written in C
 
 ### Tools / Go
 
@@ -384,14 +390,14 @@ Terminal Emulators
 ### Tools / Python
 
 *   [bashhub (⭐1.3k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable. <https://bashhub.com>
-*   [bpytop (⭐11k)](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
-*   [termius (⭐599)](https://github.com/termius/termius-cli) - CLI for the ssh client Termius <https://termius.com>.
+*   [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
+*   [termius (⭐601)](https://github.com/termius/termius-cli) - CLI for the ssh client Termius <https://termius.com>.
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Tools / C
 
-*   [nnn (⭐22k)](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+*   [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 
 ### Tools / Rust
 
@@ -401,14 +407,14 @@ Terminal Emulators
 
 ### Tools / Rust
 
-*   [eureka (⭐879)](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
+*   [eureka (⭐886)](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Tools / Go
 
-*   [bit (⭐6.1k)](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
-*   [glow (⭐27k)](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+*   [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
+*   [glow (⭐28k)](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ### Tools / Rust
 
@@ -422,7 +428,7 @@ Terminal Emulators
 
 ### Tools / C
 
-*   [chafa (⭐5.2k)](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+*   [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ### Tools / Go
 
@@ -430,7 +436,7 @@ Terminal Emulators
 
 ### Tools / Haskell
 
-*   [shellcheck (⭐40k)](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts. <https://www.shellcheck.net/>
+*   [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts. <https://www.shellcheck.net/>
 
 ### Tools / sh
 
@@ -438,7 +444,7 @@ Terminal Emulators
 
 ### Dotfiles / Swift
 
-*   [\~/.dotfiles (⭐1.1k)](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
+*   [\~/.dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
 *   [dots (⭐53)](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
@@ -447,22 +453,22 @@ Terminal Emulators
 
 *   [fish (⭐34k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 *   [GNU Bash](https://git.savannah.gnu.org/cgit/bash.git/) - Bash is the GNU Project's Bourne Again SHell, a complete implementation of the POSIX shell spec.
-*   [Nu Shell (⭐40k)](https://github.com/nushell/nushell) - A new type of shell.
+*   [Nu Shell (⭐41k)](https://github.com/nushell/nushell) - A new type of shell.
 
 ### Tools / C++
 
-*   [winget (⭐26k)](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
+*   [winget (⭐27k)](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
 
 ### Tools / Go
 
-*   [croc (⭐40k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦.
-*   [duf (⭐15k)](https://github.com/muesli/duf) - Disk Usage/Free Utility.
-*   [gh (⭐46k)](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [croc (⭐41k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦.
+*   [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
+*   [gh (⭐47k)](https://github.com/cli/cli) - GitHub’s official command line tool
 *   [micro (⭐30k)](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor. <https://micro-editor.github.io/>
 
 ### Tools / Node
 
-*   [splash (⭐579)](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
+*   [splash (⭐580)](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
 
 ### Tools / Python
 
@@ -476,7 +482,7 @@ Terminal Emulators
 *   [grex (⭐8.2k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 *   [procs (⭐6.2k)](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
 *   [sd (⭐7.4k)](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
-*   [tldr (⭐6.5k)](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+*   [tldr (⭐6.6k)](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 *   [tokei (⭐15k)](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 *   [xsv (⭐11k)](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 *   [z (⭐40k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
@@ -485,7 +491,7 @@ Terminal Emulators
 
 ### Tools / sh
 
-*   [tmux-fzf-url (⭐734)](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
+*   [tmux-fzf-url (⭐737)](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
@@ -497,11 +503,11 @@ Terminal Emulators
 
 ### Tools / Bash
 
-*   [has (⭐820)](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
+*   [has (⭐824)](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
 
 ### Tools / C
 
-*   [ttyd (⭐12k)](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
+*   [ttyd (⭐13k)](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 
 ### Tools / Node
 
@@ -521,7 +527,7 @@ Terminal Emulators
 
 ### Tools / Bash
 
-*   [bashtop (⭐11k)](https://github.com/aristocratos/bashtop) - Linux resource monitor.
+*   [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
 
 ### Tools / Go
 
@@ -531,7 +537,7 @@ Terminal Emulators
 
 ### Tools / Node
 
-*   [moro (⭐463)](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours <https://moro.js.org/>
+*   [moro (⭐462)](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours <https://moro.js.org/>
 
 ## [Apr 06 - Apr 12, 2020](/content/2020/14/README.md)
 
@@ -563,7 +569,7 @@ Terminal Emulators
 
 ### Tools / Rust
 
-*   [atm (⭐1.4k)](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.<http://allthemusic.info>
+*   [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.<http://allthemusic.info>
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
@@ -588,41 +594,41 @@ Terminal Emulators
 
 ### Tools / Bash
 
-*   [prettyping (⭐1.3k)](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. <http://denilsonsa.github.io/prettyping>
+*   [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. <http://denilsonsa.github.io/prettyping>
 
 ### Tools / C
 
-*   [atop (⭐1.1k)](https://github.com/Atoptool/atop) - System and process monitor for Linux.
+*   [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
 
 ### Tools / Go
 
 *   [cointop (⭐4.4k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. <https://cointop.sh>
-*   [direnv (⭐15k)](https://github.com/direnv/direnv) - unclutter your .profile. <http://direnv.net>
+*   [direnv (⭐16k)](https://github.com/direnv/direnv) - unclutter your .profile. <http://direnv.net>
 *   [dive (⭐55k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
 *   [fsql (⭐4k)](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
 *   [goaccess (⭐21k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. <https://goaccess.io>
-*   [gotty (⭐20k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
-*   [hyperfox (⭐1.6k)](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
+*   [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+*   [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
 *   [mole (⭐1.7k)](https://github.com/davrodpin/mole) - cli app to create ssh tunnels <https://davrodpin.github.io/mole/>
 *   [switcher (⭐903)](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
-*   [up (⭐8.8k)](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
-*   [webtty (⭐2.8k)](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC <https://maxmcd.github.io/webtty/>
-*   [wego (⭐8.5k)](https://github.com/schachmat/wego) -  weather app for the terminal.
-*   [wtf (⭐17k)](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. <http://wtfutil.com>
+*   [up (⭐8.9k)](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
+*   [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC <https://maxmcd.github.io/webtty/>
+*   [wego](https://github.com/schachmat/wego) -  weather app for the terminal.
+*   [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. <http://wtfutil.com>
 
 ### Tools / Python
 
 *   [tldr (⭐64k)](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages <https://tldr.sh>
-*   [datasette (⭐11k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data. <http://datasette.readthedocs.io/>
+*   [datasette (⭐12k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data. <http://datasette.readthedocs.io/>
 *   [fpp (⭐5.2k)](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. <http://facebook.github.io/PathPicker/>
-*   [fuck (⭐98k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [howmanypeoplearearound (⭐7.1k)](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 *   [glances (⭐34k)](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. <http://nicolargo.github.io/glances/>
 *   [http-prompt (⭐9.1k)](https://github.com/eliangcs/http-prompt) - HTTPie + prompt\_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting. <http://http-prompt.com>
 *   [itermocil (⭐2.4k)](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm.
-*   [jungle (⭐843)](https://github.com/achiku/jungle) - AWS operations by cli should be simpler.
-*   [legofy (⭐3.2k)](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks.
-*   [linkchecker (⭐1.4k)](https://github.com/wummel/linkchecker) - check links in web documents or full websites. <http://wummel.github.io/linkchecker/>
+*   [jungle (⭐842)](https://github.com/achiku/jungle) - AWS operations by cli should be simpler.
+*   [legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks.
+*   [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. <http://wummel.github.io/linkchecker/>
 *   [mycli (⭐12k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. <http://mycli.net>
 *   [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
 *   [rockstar (⭐4.2k)](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes.
@@ -634,11 +640,11 @@ Terminal Emulators
 
 ### Tools / Node
 
-*   [unfluff (⭐2.2k)](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
+*   [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
 
 ### Tools / Ruby
 
-*   [facebook-cli (⭐405)](https://github.com/specious/facebook-cli) - 💻 Facebook command line tool <https://asciinema.org/a/87129>
+*   [facebook-cli](https://github.com/specious/facebook-cli) - 💻 Facebook command line tool <https://asciinema.org/a/87129>
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
@@ -647,23 +653,23 @@ Terminal Emulators
 *   [desk (⭐2.6k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
 *   [emojify (⭐1.6k)](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
 *   [fuck (⭐399)](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
-*   [neofetch (⭐24k)](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+*   [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 *   [pwd.sh (⭐1.6k)](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
-*   [screenfetch (⭐4.1k)](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+*   [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 *   [Sensible Bash (⭐2.1k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash (⭐2.1k)](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
-*   [slacktee (⭐827)](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
+*   [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 
 ### Tools / C
 
-*   [hashcat (⭐2.2k)](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
+*   [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
 *   [htop (⭐5.9k)](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 *   [imgcat (⭐917)](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 *   [jo (⭐4.9k)](https://github.com/jpmens/jo) - JSON output from a shell. <https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/>
 *   [jq (⭐36k)](https://github.com/stedolan/jq) - Command-line JSON processor. <https://stedolan.github.io/jq/>
-*   [mptun (⭐1.2k)](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
+*   [mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
 *   [progress (⭐8.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
 *   [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
-*   [tmux (⭐49k)](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+*   [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 *   [xhyve (⭐6.4k)](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
 *   [zstd (⭐28k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm <http://www.zstd.net>
 
@@ -671,8 +677,8 @@ Terminal Emulators
 
 *   [guetzli (⭐13k)](https://github.com/google/guetzli) - Perceptual JPEG encoder.
 *   [mazegen (⭐1.1k)](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes.
-*   [openalpr (⭐11k)](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library <http://www.openalpr.com>
-*   [timg (⭐2.8k)](https://github.com/hzeller/timg) - A terminal image viewer.
+*   [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library <http://www.openalpr.com>
+*   [timg](https://github.com/hzeller/timg) - A terminal image viewer.
 *   [watchman (⭐14k)](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
 *   [zindex (⭐658)](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file.
 
@@ -680,29 +686,29 @@ Terminal Emulators
 
 *   [ccat (⭐3.2k)](https://github.com/jingweno/ccat) - Colorizing `cat`.
 *   [devd (⭐3.5k)](https://github.com/cortesi/devd) - A local webserver for developers.
-*   [fzf (⭐83k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
-*   [ghq (⭐3.8k)](https://github.com/motemen/ghq) - Remote repository management made easy.
+*   [fzf (⭐84k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+*   [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
 *   [hostyoself (⭐1.8k)](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. <https://hostyoself.com>
 *   [hub (⭐23k)](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. <https://hub.github.com/>
 *   [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. <https://blog.alexellis.io/https-inlets-local-endpoints/>
 *   [mkcert (⭐60k)](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. <https://mkcert.dev>
-*   [piknik (⭐2.5k)](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+*   [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 *   [pup (⭐8.4k)](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 *   [ran (⭐876)](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
-*   [reflex (⭐3.6k)](https://github.com/cespare/reflex) - Run a command when files change.
+*   [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 *   [sampler (⭐15k)](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. <https://sampler.dev>
 *   [scc (⭐8.8k)](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
 *   [termshark (⭐10k)](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
 
 ### Tools / Haskell
 
-*   [bench (⭐911)](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
-*   [pandoc (⭐46k)](https://github.com/jgm/pandoc) - Universal markup converter <https://pandoc.org>
+*   [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
+*   [pandoc (⭐47k)](https://github.com/jgm/pandoc) - Universal markup converter <https://pandoc.org>
 
 ### Tools / Node
 
 *   [catj (⭐1.3k)](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
-*   [git-stats (⭐6.6k)](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
+*   [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 *   [gtop (⭐9.9k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
 *   [rtail (⭐1.6k)](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. <http://rtail.org>
 *   [slim (⭐2.1k)](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
@@ -733,10 +739,10 @@ Terminal Emulators
 *   [coreutils (⭐24k)](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
 *   [findomain (⭐3.8k)](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
 *   [hexyl (⭐10k)](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
-*   [loc (⭐2.5k)](https://github.com/cgag/loc) - Count lines of code quickly.
+*   [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 *   [lsd (⭐16k)](https://github.com/Peltoche/lsd) - The next gen ls command.
 *   [pastel (⭐6.5k)](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
-*   [rg (⭐68k)](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+*   [rg (⭐69k)](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
 *   [rq (⭐2.3k)](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
 *   [starship (⭐60k)](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. <https://starship.rs>
 
@@ -755,10 +761,10 @@ Terminal Emulators
 ### Guides / Bash
 
 *   [Bash-Snippets (⭐10k)](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-*   [pure bash bible (⭐42k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
 ### Guides / sh
 
-*   [acme.sh (⭐48k)](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol. <https://acme.sh>
+*   [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol. <https://acme.sh>
 *   [Command Line Text Processing (⭐10k)](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
-*   [The Art of Command Line (⭐162k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+*   [The Art of Command Line (⭐163k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.

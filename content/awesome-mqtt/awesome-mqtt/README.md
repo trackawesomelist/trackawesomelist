@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Tools
+
+*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source multi-protocol mock server written in Rust with a built-in MQTT 3.1.1/5.0 broker for testing, alongside HTTP, gRPC, GraphQL, WebSocket, Kafka and AMQP mocks.
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### GoLang
@@ -216,7 +222,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
+*   [mockd](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 

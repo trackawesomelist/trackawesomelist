@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Tools - Testing, Prototyping & Mocking / React
+
+*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Tools - Testing, Prototyping & Mocking / React
@@ -351,7 +357,7 @@ Awesome list of GraphQL
 
 ### Tools - Testing, Prototyping & Mocking / React
 
-*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
+*   [mockd](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 
 ## [Jan 06, 2026](/content/2026/01/06/README.md)
 
@@ -460,7 +466,7 @@ Awesome list of GraphQL
 
 ### Tools - API Clients & Workbenches / React
 
-*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 
 ## [Feb 25, 2024](/content/2024/02/25/README.md)
 

@@ -21,6 +21,39 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/servers/agent-nexus)
 
 
+- Name: [Council of AI](https://councilof.ai/connect/claude/)
+
+  Description: Read a signed AI measurement board and verify its signed records and Merkle proofs
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/ai.councilof/gspc-free)
+
+
+- Name: [Openpath](https://openpath.sh/docs/connect)
+
+  Description: US job listings and local businesses for agents, with apply links and owner inboxes
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Anthropic](https://claude.ai/directory/openpath) · [Glama](https://glama.ai/mcp/connectors/sh.openpath/openpath) · [Smithery](https://smithery.ai/servers/openpath/openpath)
+
+
+- Name: [ShapelessAI](https://shapelessai.com/docs/mcp)
+
+  Description: Write, schedule and publish social posts, carousels and short video to 8 networks
+
+  Auth: `OAuth`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Cursor](https://cursor.directory/plugins/shapeless) · [Glama](https://glama.ai/mcp/connectors/com.shapelessai/shapeless)
+
+
 - Name: [SkyAccess (⭐1)](https://github.com/sky-access/skyaccess-mcp)
 
   Description: Search 5,000+ live empty leg flights, get charter price estimates and booking links
@@ -30,6 +63,53 @@ A collective list of free APIs
   Transport: `HTTP`
 
   Install: [Cursor](https://cursor.directory/plugins/skyaccess) · [Glama](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
+
+
+- Name: [US Recalls](https://recallsapi.com/docs/mcp)
+
+  Description: Check US recalls from 9 agencies by UPC, model, NDC, lot or VIN; 4 read-only tools
+
+  Auth: `apiKey`
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.recallsapi/recallsapi) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.recallsapi/recallsapi)
+
+
+
+### Games & Comics
+
+- API: [Master Setter](https://api.master-setter.com)
+
+  Description: Pokémon TCG cards and sets in 14 languages, with every printing and variant
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Social Casino Index](https://socialcasinoindex.com/data/)
+
+  Description: Daily-checked US social casino toplist: signup bonuses, payout times, minimums, sources
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TCGdex](https://tcgdex.dev/)
+
+  Description: Multi languages Pokémon TCG Information
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -63,6 +143,17 @@ A collective list of free APIs
 - API: [3DTexel](https://3dtexel.com/developers/#public-api)
 
   Description: Search free CC0 PBR materials, HDRIs, decals and 3D models for games
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Favicondl](https://favicondl.com/documentation.html)
+
+  Description: Get any website's favicon by URL (SVG/PNG/ICO), with JSON metadata and fallbacks
 
   Auth: No
 
@@ -108,6 +199,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [gstinapi](https://www.gstinapi.in/docs)
+
+  Description: Verify Indian GST numbers (GSTIN): legal name, status, address and return filing history; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 - API: [Katalis](https://meetkatalis.com/apis)
@@ -182,6 +284,17 @@ A collective list of free APIs
   CORS: No
 
 
+- API: [Paribu](https://docs.paribu.com/api)
+
+  Description: Turkish cryptocurrency exchange with real-time market data, trading and WebSocket streams
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Shumi](https://docs.shumi.ai/api-reference/introduction)
 
   Description: Crypto market data: prices, trends, funding rates, sentiment, narratives and market regime
@@ -232,6 +345,28 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [Codeberg](https://codeberg.org/api/swagger)
+
+  Description: Git hosting, repos and issues via Gitea API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [CurlShot](https://curlshot.com/docs)
+
+  Description: Screenshots, PDFs and scrolling videos of any URL, HTML or Markdown; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Domain Info by LifeStep](https://dns.lifestep.io)
@@ -320,6 +455,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [W3C Validator](https://validator.w3.org/docs/api.html)
+
+  Description: Validate HTML and check markup errors
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 
@@ -585,31 +731,6 @@ A collective list of free APIs
 
 
 
-### Games & Comics
-
-- API: [Master Setter](https://api.master-setter.com)
-
-  Description: Pokémon TCG cards and sets in 14 languages, with every printing and variant
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [TCGdex](https://tcgdex.dev/)
-
-  Description: Multi languages Pokémon TCG Information
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Geocoding
 
 - API: [BigDataCloud](https://www.bigdatacloud.com/docs)
@@ -621,6 +742,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [PostalCodeCheck](https://postalcodecheck.com/postal-code-api)
+
+  Description: City, region and coordinates for 887,000+ postal codes across 95 countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Queimadas INPE](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
@@ -636,6 +768,17 @@ A collective list of free APIs
 
 
 ### Government
+
+- API: [apipj](https://apipj.com.br/docs)
+
+  Description: Brazilian company data by CNPJ from Receita Federal open data, incl. alphanumeric CNPJ; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Boletín Oficial del Estado (BOE)](https://www.boe.es/datosabiertos/)
 
@@ -686,6 +829,28 @@ A collective list of free APIs
   Description: Singapore Government Open Data
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [OpenStates](https://openstates.org/api/)
+
+  Description: US state legislature bills and lawmakers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Regulations.gov](https://open.gsa.gov/api/regulationsgov/)
+
+  Description: US federal rulemaking comments and dockets
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -807,6 +972,17 @@ A collective list of free APIs
   Description: AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [QuelLLM](https://quelllm.fr/api/)
+
+  Description: Open-weight language model catalogue with memory requirements and installation metadata
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -1062,6 +1238,17 @@ A collective list of free APIs
 
 ### Shopping
 
+- API: [ARC](https://www.arcreport.ai/developers)
+
+  Description: Open data on whether AI shopping agents can reach checkout at specific online stores
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Nuvinty](https://nuvinty.com/api-docs)
 
   Description: UK luxury list prices, price history, increases and partner pre-owned asking prices
@@ -1120,6 +1307,28 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [BirdieAPI](https://birdieapi.com/docs)
+
+  Description: PGA Tour golf since 2001: leaderboards, hole-by-hole scores, courses, ratings and major winner odds
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [DunkAPI](https://dunkapi.com/docs)
+
+  Description: NBA, WNBA and college basketball: play-by-play, shot locations, box scores and sportsbook odds
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [FastballAPI](https://fastballapi.com/docs)
 
   Description: MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds
@@ -1131,9 +1340,31 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [HaterPicks](https://www.haterpicks.app/api)
+
+  Description: Australian sports odds and player props from every major Australian bookmaker, free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Realtime Sports](https://www.realtimesportsapi.com/docs)
 
   Description: Live scores, play-by-play, schedules and odds for NFL, NBA, MLB, NHL, NCAA and soccer
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [StrikerAPI](https://strikerapi.com/docs)
+
+  Description: Football from 16 leagues incl. Premier League and MLS: lineups, shot maps, xG and odds
 
   Auth: `apiKey`
 
@@ -1148,6 +1379,17 @@ A collective list of free APIs
 - API: [NovaFortix Dev](https://public-dev-apis.surge.sh)
 
   Description: Zero-auth REST endpoints for mock user profiles, UUIDs and HTTP status codes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TestingAPIs](https://testingapis.com/docs/)
+
+  Description: Free fake REST API with products, posts, todos, any HTTP status code and request echo
 
   Auth: No
 
@@ -1172,6 +1414,17 @@ A collective list of free APIs
 
 
 ### Transportation
+
+- API: [AirportMiles](https://airportmiles.com/api)
+
+  Description: Airport codes, distances, routes and passenger numbers as static JSON files
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Pumperly](https://geiserx.github.io/Pumperly/reference/api/)
 
@@ -10488,9 +10741,9 @@ A collective list of free APIs
 
 - API: [Exchangerate.host](https://exchangerate.host?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
-  Description: Free foreign exchange & crypto rates API
+  Description: Foreign exchange & crypto rates API (keyless access ended 2023)
 
-  Auth: No
+  Auth: `apiKey`
 
   HTTPS: Yes
 

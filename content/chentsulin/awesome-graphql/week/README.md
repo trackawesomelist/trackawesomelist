@@ -11,6 +11,7 @@ Awesome list of GraphQL
 ### Tools - Testing, Prototyping & Mocking / React
 
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
+*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -345,7 +346,7 @@ Awesome list of GraphQL
 
 ### Tools - Testing, Prototyping & Mocking / React
 
-*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
+*   [mockd](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 
 ## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
 
@@ -452,7 +453,7 @@ Awesome list of GraphQL
 
 ### Tools - API Clients & Workbenches / React
 
-*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 

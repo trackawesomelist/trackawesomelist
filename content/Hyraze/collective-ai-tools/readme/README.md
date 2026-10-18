@@ -170,6 +170,7 @@ Use these hashtags in search to filter out the tools
 *   [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology `#freemium`
 *   [Krisp](https://krisp.ai) - Krisp's AI removes background noise & echo from meetings `#freemium`
 *   [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
+*   [Remove Audio](https://remove-audio.com/tools/extract-voice-from-video) - Extracts clean dialogue or vocals from a video with an AI model that runs in the browser, so the file is not uploaded. `#freemium`
 *   [Saturalabs](https://www.saturalabs.com/) - Uses text descriptions to separate a voice, instrument, or sound effect from audio and video, returning the target and remaining audio tracks. `#paid`
 *   [VideoDubber](https://videodubber.ai) - Offers free video translation, dubbing,  cloning, and text-to-speech services. `#freemium`
 *   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
@@ -180,7 +181,6 @@ Use these hashtags in search to filter out the tools
 ## Avatars
 
 *   [iFlytek Virtual Human](https://www.xfyun.cn/services/virtual_human) - Full-stack cloning and customization platform. `#paid`
-*   [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site) - Turns one authorized photo into an original anime-style social avatar without requiring an account. `#free`
 *   [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. `#paid`
 *   [Qimiao Wen](https://wen.mobvoi.com/) - Interactive digital employee generation platform. `#free`
 *   [Staf](https://www.staf.ai/) - Streamline Your Business with Curated AI Solutions `#paid`
@@ -326,6 +326,7 @@ Use these hashtags in search to filter out the tools
 *   [CSV-GPT](https://getluminal.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
 *   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
 *   [Dataspot](https://dataspot.com/) - Understand any data instantly using AI `#freemium`
+*   [DC Hub](https://dchub.cloud/) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. `#freemium` `#mcp`
 *   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
 *   [Excelly-AI](https://excelly-ai.io/) - Text-to-formula for Excel and Google Sheets. `#free`
 *   [Excelmatic](https://excelmatic.ai/) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
@@ -350,6 +351,7 @@ Use these hashtags in search to filter out the tools
 *   [Dates.ai](https://www.dates.ai) - Dates.ai: Where authenticity meets AI to revolutionize dating, fostering genuine connections in a fraud-free and fair environment. `#free`
 *   [DreamGF](https://dreamgf.ai/) - DreamGF uses AI algorithms to generate virtual partners according to user preferences. Users can customize the appearance, personality, and other traits. `#freemium`
 *   [Egirls.ai](https://egirls.ai/) - AI companion platform for adults: chat with NSFW AI characters that remember you, create your own characters, generate images and video, make voice calls, and talk live with 3D AI VTubers. `#freemium`
+*   [EroLove](https://erolove.ai/) - AI roleplay chat for adults, with memory across conversations, ready-made scenes, and group chats with up to four characters. `#freemium`
 *   [EveningHoney.ai](https://www.eveninghoney.ai/) - Experience immersive relationships with AI girlfriends and virtual companions. Chat, receive images & videos, make phone calls, and dive into realistic relationships. `#freemium`
 *   [Fantasy.ai](https://fantasy.ai/) - Fantasy.ai is an AI companion platform offering human-like NSFW chat, Realistic image generation, and fully customizable virtual partners. `#freemium`
 *   [FantasyGF.ai](https://fantasygf.ai/) - (N)SFW Chat with AI Girlfriends. Create your own AI Girlfriend, chat with her, ask her for pictures, or listen to her voice. Most advanced AI Girlfriend builder and chatting model. Chat with AI versions of OnlyFans Girls. `#freemium`
@@ -414,6 +416,7 @@ Use these hashtags in search to filter out the tools
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
 *   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
+*   [Aident Loadout](https://aident.ai/) - Connects Claude Code, Codex, Cursor and other MCP clients to your apps and 400+ expert-built Skills through one remote MCP server, CLI or Skill, with credentials kept in a vault and every action logged. `#freemium` `#mcp`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
@@ -434,9 +437,9 @@ Use these hashtags in search to filter out the tools
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
-*   [Codex CLI (⭐128k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐130k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [Codex Quota Overlay (⭐3)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
-*   [codex-profiles (⭐175)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [codex-profiles (⭐186)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. `#freemium`
@@ -449,6 +452,7 @@ Use these hashtags in search to filter out the tools
 *   [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
 *   [Cortex (⭐3.2k)](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
+*   [CurlShot](https://curlshot.com/) - Screenshot API that captures any URL, HTML, or Markdown as PNG, JPEG, WebP, PDF, or scrolling video, with a hosted MCP server so AI agents can take screenshots. Free plan with 100 screenshots/month. `#freemium` `#api` `#mcp`
 *   [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 *   [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
@@ -501,12 +505,14 @@ Use these hashtags in search to filter out the tools
 *   [ReviewCerberus (⭐32)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [SandBase CLI (⭐188)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`
+*   [The Enso Method](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
 *   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
@@ -719,6 +725,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/) - Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs. `#freemium`
 *   [Baigua Interview](https://baigua.ai/) - Safe technical interview code-writing assistant. `#free`
+*   [CareJobs.Now](https://carejobs.now) - Free AI job search for US healthcare workers: describe the job you want in plain words and it matches you to 170,000+ hospital and clinic jobs with posted pay. `#free`
 *   [Cover Letter Copilot](https://coverlettercopilot.ai/) - Your AI-Powered Cover Letter Generator `#freemium`
 *   [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. `#paid`
 *   [Interview Cat](https://mianshiya.com/) - Answer suggestions based on real-time listening. \`\`
@@ -746,6 +753,7 @@ Use these hashtags in search to filter out the tools
 ## Image Editing
 
 *   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [BatchSet](https://batchset.com/tools/ai-background-removal) - Remove image backgrounds with AI right in your browser, then convert, compress or resize whole folders at once. Free without signup. `#freemium`
 *   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
 *   [Crisp](https://crisp.photos/) - Free AI photo upscaler that runs entirely in your browser. No upload, no signup, no watermark. Includes a dedicated anime upscaler. `#free`
 *   [Cutout.Pro](https://www.cutout.pro/) - Creative visual platform and automated tasks. `#free`
@@ -798,6 +806,7 @@ Use these hashtags in search to filter out the tools
 *   [Kling AI](https://kling.kuaishou.com/) - Advanced video and image generation with realistic motion `#freemium`
 *   [Leonardo](https://leonardo.ai) - Text-to-image Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency `#free`
 *   [Midjourney v6](https://www.midjourney.com/) - Latest version with enhanced photorealism and prompt understanding `#paid`
+*   [Muse Studio](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create) - Generates static ad concepts from text with editable headline, offer and CTA, and PNG export. Limited free beta; ChatGPT sign-in; no card. `#free` `#design`
 *   [MyPhotoAI](https://myphotoai.io/) - Turn your selfies into AI headshots and portraits. `#paid`
 *   [NightCafe](https://creator.nightcafe.studio/) - A popular AI art platform that generates images from text prompts in multiple artistic styles. It offers daily free credits, community challenges, and style customization for creative projects. `#freemium`
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
@@ -887,6 +896,7 @@ Use these hashtags in search to filter out the tools
 ## Models
 
 *   [AI/ML API](https://aimlapi.com) - One API, 100+ AI Models, Accessible 24/7. `#freemium`
+*   [ArtificialWatch](https://artificialwatch.com/) - AI model release tracker that checks provider APIs every 60 seconds and alerts you by email, push, SMS or phone call when a new model goes live. `#freemium`
 *   [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 `#free`
 *   [Chatbot Arena](https://chat.lmsys.org/) - Crowdsourced model "battle" leaderboard. `#free`
 *   [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. `#paid`
@@ -1082,6 +1092,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
 *   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
+*   [AltoRank](https://altorank.co/) - Open-source SEO content software that researches what your buyers search for and drafts sourced articles; self-host it free or use the hosted version. `#freemium` `#seo` `#opensource`
 *   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
 *   [Blawgy](https://blawgy.com/) - Writes and publishes SEO blog posts to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, with an MCP server so any AI agent can research keywords, manage the plan and publish. `#paid` `#seo`
 *   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
@@ -1118,6 +1129,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Autoposting MCP](https://autoposting.ai/) - MCP server for social content creation, drafts, scheduling and publishing to connected accounts; hosted backend is paid SaaS. `#paid` `#mcp`
 *   [Jev Social](https://socai-io.github.io/jev-social/) - Local-first social research agent that uses Jev and socai to capture Instagram, TikTok, and LinkedIn evidence in Chrome. `#opensource`
+*   [OpenSparta](https://opensparta.com/) - AI-enabled Telegram workspace for audience discovery, account management, and streamlined engagement. `#freemium` `#social-media`
 *   [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker `#free`
 *   [StoriAI](https://storiai.com/) - Elevate Your Brand's Social Presence with StoriAI `#paid`
 *   [Unsora](https://tryunsora.com/) - Generates AI images, video, music and voiceovers and schedules or publishes posts to YouTube, TikTok, Instagram, LinkedIn and other connected accounts. `#paid` `#opensource`

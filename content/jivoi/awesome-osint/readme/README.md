@@ -829,11 +829,8 @@ Thanks to our main contributors
 *   [ExpertPages](https://expertpages.com)
 *   [Experts.com](https://www.experts.com)
 *   [HARO](https://www.helpareporter.com)
-*   [Licenseplates](https://www.worldlicenseplates.com/)
-*   [GlobalExperts](https://www.theglobalexperts.org)
 *   [Idealist](https://www.idealist.org)
 *   [Innocentive](https://www.innocentive.com)
-*   [Internet Experts](https://www.internetexperts.info)
 *   [Library of Congress: Ask a Librarian](https://www.loc.gov/rr/askalib)
 *   [Maven](https://www.maven.co)
 *   [MuckRack](https://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
@@ -909,7 +906,6 @@ Thanks to our main contributors
 *   [CareerBuilder](https://www.careerbuilder.com)
 *   [College Recruiter](https://www.collegerecruiter.com)
 *   [Craiglist](https://losangeles.craigslist.org)
-*   [CVFox](https://www.cvfox.com)
 *   [Dice](https://www.dice.com)
 *   [Eluta (Canada)](https://www.eluta.ca)
 *   [Eurojobs](https://www.eurojobs.com)
@@ -1158,7 +1154,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐198k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1208,7 +1204,6 @@ Thanks to our main contributors
 *   [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Atlas](https://atlas.co)
-*   [Atlasify](https://www.atlasify.com)
 *   [Baidu Maps](https://map.baidu.com/)
 *   [Batchgeo](https://batchgeo.com)
 *   [Bing Maps](https://www.bing.com/maps)
@@ -1349,7 +1344,6 @@ Thanks to our main contributors
 *   [AidData](https://aiddata.org)
 *   [AWS Public Datasets](https://aws.amazon.com/datasets)
 *   [Bank for International Settlements Statistics](https://www.bis.org/statistics/index.htm)
-*   [Berkely Library: Data Lab](https://www.lib.berkeley.edu/libraries/data-lab)
 *   [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 *   [Center for International Earth Science Information Network](https://www.ciesin.org)
 *   [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
@@ -1639,18 +1633,18 @@ Thanks to our main contributors
 *   [Privazer](https://privazer.com)
 *   [Proton Mail](https://protonmail.com)
 *   [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
-*   [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 *   [Securesha](https://securesha.re)
 *   [Silent circle](https://www.silentcircle.com)
 *   [Signal](https://signal.org) - End-to-end encrypted messaging and calls.
 *   [Snort](https://www.snort.org)
 *   [Spideroak](https://spideroak.com)
+*   [Spoof Me](https://spoof-me.com/) - Chrome/Firefox extension that spoofs browser fingerprint signals (user agent, language, timezone, screen, hardware) as a consistent identity and flags sites that read fingerprinting APIs. Useful for keeping an investigator's real device and locale hidden.
 *   [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
 *   [Surveilliance Self Defense](https://ssd.eff.org)
 *   [Tails](https://tails.boum.org)
 *   [Thunderbird](https://www.thunderbird.net/en-US/)
 *   [Tor Project](https://www.torproject.org)
-*   [uBlock Origin (⭐68k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐69k)](https://github.com/gorhill/uBlock)
 *   [Wickr](https://wickr.com)
 *   [WOT](https://www.mywot.com)
 *   [ZMail](https://zmail.sourceforge.net)

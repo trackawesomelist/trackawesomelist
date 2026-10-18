@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Projects
+
+*   [VulnState (⭐3)](https://github.com/corifeo/VulnState) - Open-source Python library that joins NVD, EPSS and CISA KEV vulnerability data and analyzes each CVE's disclosure timeline with NumPy and pandas.
+
 ## [Oct 17, 2026](/content/2026/10/17/README.md)
 
 ### Tutorials
@@ -763,7 +769,7 @@
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
-*   [JAX (⭐36k)](https://github.com/google/jax)
+*   [JAX](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -840,7 +846,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐62k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐63k)](https://github.com/ultralytics/ultralytics)
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
@@ -1732,7 +1738,7 @@
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐708)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐520)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-bayes (⭐521)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐440)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
@@ -1753,7 +1759,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐104k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐105k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐3k)](https://github.com/pytorch/audio)

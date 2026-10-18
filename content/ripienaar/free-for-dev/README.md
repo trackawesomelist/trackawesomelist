@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### PaaS
+
+*   [The Vibe Hosting](https://thevibehosting.com/) - Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### APIs, Data, and ML

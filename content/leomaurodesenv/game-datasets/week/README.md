@@ -6,6 +6,17 @@
 
 [ [Daily](/content/leomaurodesenv/game-datasets/README.md) / Weekly / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
 
+## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
+
+### Artificial Intelligence / Web
+
+*   [PixelGamesHub](https://pixelgameshub.com/) - Curated index of AI-powered browser games.
+
+### Dataset / Web
+
+*   [BJJGraph (⭐31)](https://github.com/diogoseca/bjjgraph) - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
+*   [Nash Push/Fold Ranges for Tournament Poker (⭐0)](https://github.com/hasuwini77/push-fold-ranges) - Chip-EV Nash shove frequency for all 169 hold'em hands at every seat, 1 to 25 big blinds.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Dataset / Web
@@ -36,16 +47,6 @@
 ### Market Research / Related
 
 *   [IndieList](https://indielist.games/) - Indie game, studio, publisher, and funding relationship data with transparent sales estimates and market research tools.
-
-## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
-
-### API
-
-*   [PixelGamesHub AI Games Index](https://pixelgameshub.com/ai-games/index) - Curated index of AI-powered browser games with open JSON and CSV endpoints.
-
-### Dataset / Web
-
-*   [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser games industry metrics across competitor sites, downloadable as open CSV under CC-BY-4.0.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -321,7 +322,6 @@
 *   [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
 *   [Dungeon Crawl: Stone Soup (⭐3k)](https://github.com/crawl/crawl) - Roguelike adventure.
 *   [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
-*   [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 *   [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 *   [Malmo (⭐4.3k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 *   [microRTS (⭐363)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).

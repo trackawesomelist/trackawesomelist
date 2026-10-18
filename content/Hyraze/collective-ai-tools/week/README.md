@@ -13,21 +13,55 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
 *   [VibeKit](https://vibekit.bot/) - Mobile-first AI app builder where each app gets its own persistent coding agent that builds it, hosts it on a live domain and keeps improving it, from an iPhone or the web. `#freemium`
 
+### Audio & Speech
+
+*   [Remove Audio](https://remove-audio.com/tools/extract-voice-from-video) - Extracts clean dialogue or vocals from a video with an AI model that runs in the browser, so the file is not uploaded. `#freemium`
+
 ### Data & BI
 
 *   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
+*   [DC Hub](https://dchub.cloud/) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. `#freemium` `#mcp`
 *   [looot](https://looot.ai/) - One API key and prepaid balance for about 2,500 data endpoints: work email, phone, company enrichment, Google search, web pages. Add api.looot.ai/mcp as an MCP server in Claude, ChatGPT or Cursor. `#paid` `#mcp`
+
+### Dating
+
+*   [EroLove](https://erolove.ai/) - AI roleplay chat for adults, with memory across conversations, ready-made scenes, and group chats with up to four characters. `#freemium`
 
 ### Developer Tools
 
+*   [Aident Loadout](https://aident.ai/) - Connects Claude Code, Codex, Cursor and other MCP clients to your apps and 400+ expert-built Skills through one remote MCP server, CLI or Skill, with credentials kept in a vault and every action logged. `#freemium` `#mcp`
 *   [Archcore (⭐68)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
+*   [CurlShot](https://curlshot.com/) - Screenshot API that captures any URL, HTML, or Markdown as PNG, JPEG, WebP, PDF, or scrolling video, with a hosted MCP server so AI agents can take screenshots. Free plan with 100 screenshots/month. `#freemium` `#api` `#mcp`
 *   [Jet Browser (⭐2)](https://github.com/masakaai/jet-browser) - Portable WPE WebKit runtime for agents with isolated Docker sessions, native input, DOM/text reads, fresh screenshots, and ordered JSONL, MCP, and JavaScript SDK interfaces. `#free` `#opensource`
 *   [Masaka for Codex (⭐1)](https://github.com/masakaai/codex-multiple-env) - Local macOS and Linux CLI that keeps each ChatGPT account and workspace in an isolated CODEX\_HOME, shows Codex usage windows, and switches future native Codex sessions without copying tokens. `#free` `#opensource`
 *   [Omega MCP Router (⭐1)](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio MCP proxy that runs many MCP servers behind one connection, serving tool schemas from a disk cache and starting each server only on its first call. `#free` `#mcp`
+*   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
+*   [The Enso Method](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
+
+### Human Resources
+
+*   [CareJobs.Now](https://carejobs.now) - Free AI job search for US healthcare workers: describe the job you want in plain words and it matches you to 170,000+ hospital and clinic jobs with posted pay. `#free`
+
+### Image Editing
+
+*   [BatchSet](https://batchset.com/tools/ai-background-removal) - Remove image backgrounds with AI right in your browser, then convert, compress or resize whole folders at once. Free without signup. `#freemium`
+
+### Image Generator
+
+*   [Muse Studio](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create) - Generates static ad concepts from text with editable headline, offer and CTA, and PNG export. Limited free beta; ChatGPT sign-in; no card. `#free` `#design`
+
+### Models
+
+*   [ArtificialWatch](https://artificialwatch.com/) - AI model release tracker that checks provider APIs every 60 seconds and alerts you by email, push, SMS or phone call when a new model goes live. `#freemium`
 
 ### SEO
 
+*   [AltoRank](https://altorank.co/) - Open-source SEO content software that researches what your buyers search for and drafts sourced articles; self-host it free or use the hosted version. `#freemium` `#seo` `#opensource`
 *   [Blawgy](https://blawgy.com/) - Writes and publishes SEO blog posts to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, with an MCP server so any AI agent can research keywords, manage the plan and publish. `#paid` `#seo`
+
+### Social Media
+
+*   [OpenSparta](https://opensparta.com/) - AI-enabled Telegram workspace for audience discovery, account management, and streamlined engagement. `#freemium` `#social-media`
 
 ### Summarizer
 
@@ -101,10 +135,6 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Audio & Speech
 
 *   [Saturalabs](https://www.saturalabs.com/) - Uses text descriptions to separate a voice, instrument, or sound effect from audio and video, returning the target and remaining audio tracks. `#paid`
-
-### Avatars
-
-*   [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site) - Turns one authorized photo into an original anime-style social avatar without requiring an account. `#free`
 
 ### Business
 
@@ -418,7 +448,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [codex-profiles (⭐175)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [codex-profiles (⭐186)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
@@ -490,7 +520,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
-*   [Codex CLI (⭐128k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐130k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Gemini CLI (⭐107k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`

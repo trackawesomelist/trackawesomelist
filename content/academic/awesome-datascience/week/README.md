@@ -12,6 +12,7 @@
 
 *   [Amazon Bestsellers Tracker (⭐0)](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.
 *   [Walmart Deals Tracker (⭐0)](https://github.com/huynhtanan/walmart-deals-tracker) - Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.
+*   [VulnState (⭐3)](https://github.com/corifeo/VulnState) - Open-source Python library that joins NVD, EPSS and CISA KEV vulnerability data and analyzes each CVE's disclosure timeline with NumPy and pandas.
 
 ### Tutorials
 
@@ -642,7 +643,7 @@
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
-*   [JAX (⭐36k)](https://github.com/google/jax)
+*   [JAX](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -728,7 +729,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐62k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐63k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -1534,7 +1535,7 @@
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐708)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐520)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-bayes (⭐521)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐440)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
@@ -1555,7 +1556,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐104k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐105k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐3k)](https://github.com/pytorch/audio)

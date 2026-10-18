@@ -20,6 +20,10 @@
 
 *   [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
 
+### Privacy and Encryption Tools / GitHub
+
+*   [Spoof Me](https://spoof-me.com/) - Chrome/Firefox extension that spoofs browser fingerprint signals (user agent, language, timezone, screen, hardware) as a consistent identity and flags sites that read fingerprinting APIs. Useful for keeping an investigator's real device and locale hidden.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Google Dorks Tools
@@ -208,7 +212,6 @@
 *   [AidData](https://aiddata.org)
 *   [AWS Public Datasets](https://aws.amazon.com/datasets)
 *   [Bank for International Settlements Statistics](https://www.bis.org/statistics/index.htm)
-*   [Berkely Library: Data Lab](https://www.lib.berkeley.edu/libraries/data-lab)
 *   [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 *   [Center for International Earth Science Information Network](https://www.ciesin.org)
 *   [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
@@ -444,11 +447,8 @@
 *   [ExpertPages](https://expertpages.com)
 *   [Experts.com](https://www.experts.com)
 *   [HARO](https://www.helpareporter.com)
-*   [Licenseplates](https://www.worldlicenseplates.com/)
-*   [GlobalExperts](https://www.theglobalexperts.org)
 *   [Idealist](https://www.idealist.org)
 *   [Innocentive](https://www.innocentive.com)
-*   [Internet Experts](https://www.internetexperts.info)
 *   [Library of Congress: Ask a Librarian](https://www.loc.gov/rr/askalib)
 *   [Maven](https://www.maven.co)
 *   [MuckRack](https://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
@@ -492,7 +492,6 @@
 *   [CampusCareerCenter](https://www.campuscareercenter.com)
 *   [CareerBuilder](https://www.careerbuilder.com)
 *   [Craiglist](https://losangeles.craigslist.org)
-*   [CVFox](https://www.cvfox.com)
 *   [Dice](https://www.dice.com)
 *   [Eluta (Canada)](https://www.eluta.ca)
 *   [Fish4Jobs](https://www.fish4.co.uk)
@@ -634,7 +633,6 @@
 
 ### Geospatial Research and Mapping Tools / GitHub
 
-*   [Atlasify](https://www.atlasify.com)
 *   [Batchgeo](https://batchgeo.com)
 *   [Bing Maps](https://www.bing.com/maps)
 *   [Colorbrewer](https://colorbrewer2.org)
@@ -2044,7 +2042,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐518)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐195k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐198k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -2660,7 +2658,7 @@
 
 ### Privacy and Encryption Tools / GitHub
 
-*   [uBlock Origin (⭐68k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐69k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
@@ -3098,7 +3096,6 @@
 *   [Privacy Badger](https://www.eff.org/privacybadger)
 *   [Proton Mail](https://protonmail.com)
 *   [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
-*   [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 *   [Securesha](https://securesha.re)
 *   [Silent circle](https://www.silentcircle.com)
 *   [Snort](https://www.snort.org)
