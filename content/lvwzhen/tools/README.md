@@ -6,6 +6,12 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Tools collection
+
+*   [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Response

@@ -8,6 +8,10 @@ Collection of Games that have the source code available on GitHub
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
+### Browser-Based / Boardgame
+
+*   [Patzer (⭐42)](https://github.com/SikamikanikoBG/patzer) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
+
 ### Browser-Based / Others
 
 *   [BJJGraph (⭐31)](https://github.com/diogoseca/bjjgraph) - Brazilian jiu-jitsu as a turn-based state machine: from each position the player picks a move from the legal hand, and the outcome is drawn against authored success rates. HTML5 canvas, no game engine.
@@ -414,7 +418,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Platform
 
-*   [DDraceNetwork (⭐836)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐844)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 

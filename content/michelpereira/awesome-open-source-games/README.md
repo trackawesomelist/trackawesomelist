@@ -6,6 +6,12 @@ Collection of Games that have the source code available on GitHub
 
 [ Daily / [Weekly](/content/michelpereira/awesome-open-source-games/week/README.md) / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Browser-Based / Boardgame
+
+*   [Patzer (⭐42)](https://github.com/SikamikanikoBG/patzer) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Browser-Based / Others
@@ -430,7 +436,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Platform
 
-*   [DDraceNetwork (⭐836)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐844)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 
 ## [Feb 09, 2022](/content/2022/02/09/README.md)
 

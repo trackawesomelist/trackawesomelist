@@ -8,6 +8,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
+### Authentication, Authorization, and User Management
+
+*   [Frontegg](https://frontegg.com) - Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and multi-tenant user management. The free plan includes 7,500 MAUs
+
+### Monitoring
+
+*   [Monitorable](https://monitorable.io) - Server health monitoring for Linux (bare metal, VMs, LXC): host and Docker metrics, systemd services and SMART disk health, with alerting, OpenTelemetry Collector agent. Free for 3 servers, no card required.
+
 ### PaaS
 
 *   [The Vibe Hosting](https://thevibehosting.com/) - Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.

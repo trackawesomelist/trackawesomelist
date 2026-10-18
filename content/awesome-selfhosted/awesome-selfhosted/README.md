@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Oct 18, 2026](/content/2026/10/18/README.md)
+
+### Software / Blogging Platforms
+
+*   [bloglite (⭐328)](https://github.com/rikhuijzer/bloglite) - Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). `MIT` `Docker`
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Software / Document Management - E-books
@@ -74,13 +80,13 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Analytics
 
-*   [Socioboard (⭐1.5k)](https://github.com/Socioboard-developers/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
+*   [Socioboard](https://github.com/Socioboard-developers/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 
 ## [Oct 01, 2026](/content/2026/10/01/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OpenWA](https://www.open-wa.org) `⚠` - WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers). ([Source Code (⭐15k)](https://github.com/rmyndharis/OpenWA), [Clients (⭐58)](https://github.com/rmyndharis/OpenWA-plugins)) `MIT` `Docker`
+*   [OpenWA](https://www.open-wa.org) `⚠` - WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers). ([Source Code](https://github.com/rmyndharis/OpenWA), [Clients (⭐66)](https://github.com/rmyndharis/OpenWA-plugins)) `MIT` `Docker`
 
 ## [Sep 26, 2026](/content/2026/09/26/README.md)
 
@@ -120,7 +126,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Note-taking & Editors
 
-*   [Neverkin](https://neverkin.com/) - Collaborative writing, worldbuilding and D\&D-session-planning app. Tools for organizing your notes and stories. ([Demo](https://app.neverkin.com/guest-login), [Source Code (⭐16)](https://github.com/Tenebrie/neverkin/)) `GPL-3.0` `Nodejs/Docker`
+*   [Neverkin](https://neverkin.com/) - Collaborative writing, worldbuilding and D\&D-session-planning app. Tools for organizing your notes and stories. ([Demo](https://app.neverkin.com/guest-login), [Source Code (⭐17)](https://github.com/Tenebrie/neverkin/)) `GPL-3.0` `Nodejs/Docker`
 
 ## [Sep 11, 2026](/content/2026/09/11/README.md)
 
@@ -382,11 +388,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐66)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
+*   [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. ([Source Code (⭐89)](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code (⭐5.7k)](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
+*   [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`
 
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
@@ -432,7 +438,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [sE2EEnd (⭐9)](https://github.com/sE2EEnd/sE2EEnd) - End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`
+*   [sE2EEnd (⭐8)](https://github.com/sE2EEnd/sE2EEnd) - End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`
 
 ## [Jun 21, 2026](/content/2026/06/21/README.md)
 
@@ -545,7 +551,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games
 
-*   [DDraceNetwork](https://ddnet.org/) - Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay. ([Source Code (⭐836)](https://github.com/ddnet/ddnet)) `Zlib` `C++`
+*   [DDraceNetwork](https://ddnet.org/) - Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay. ([Source Code (⭐844)](https://github.com/ddnet/ddnet)) `Zlib` `C++`
 
 ## [May 24, 2026](/content/2026/05/24/README.md)
 
@@ -897,10 +903,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [ANALOG (⭐49)](https://github.com/orangecoloured/analog) - A minimal analytics tool. Tracks events in a span of 10-30 days. `MIT` `Nodejs/Docker`
 
-### Software / Blogging Platforms
-
-*   [fx (⭐328)](https://github.com/rikhuijzer/fx) - Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). `MIT` `Docker`
-
 ### Software / Bookmarks and Link Sharing
 
 *   [Slash (⭐3.2k)](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
@@ -1037,7 +1039,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html), [awesomehub.web.app](https://awesomehub.js.org/list/selfhosted)
+*   Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html)
 
 ## [Jul 27, 2025](/content/2025/07/27/README.md)
 
@@ -4200,7 +4202,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.5k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 
 ### Software / Document Management - E-books
 

@@ -12,6 +12,11 @@
 
 *   [VulnState (⭐3)](https://github.com/corifeo/VulnState) - Open-source Python library that joins NVD, EPSS and CISA KEV vulnerability data and analyzes each CVE's disclosure timeline with NumPy and pandas.
 
+### Free Courses
+
+*   [Data Science Path by Coddy](https://coddy.tech/landing/data-science) - Free interactive path from Python and SQL through statistics and machine learning with scikit-learn, with code written and run in the browser.
+*   [Data Analyst Path by Coddy](https://coddy.tech/landing/data-analyst) - Free interactive path through Excel, SQL, Python, NumPy and Pandas, with code written and run in the browser.
+
 ## [Oct 17, 2026](/content/2026/10/17/README.md)
 
 ### Tutorials
@@ -769,7 +774,7 @@
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
-*   [JAX](https://github.com/google/jax)
+*   [JAX (⭐36k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 

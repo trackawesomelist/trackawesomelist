@@ -670,6 +670,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Cloud-IAM](https://www.cloud-iam.com/) - Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
 *   [Descope](https://www.descope.com/) - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
 *   [duo.com](https://duo.com/) - Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
+*   [Frontegg](https://frontegg.com) - Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and multi-tenant user management. The free plan includes 7,500 MAUs
 *   [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
 *   [logintc.com](https://www.logintc.com/) - Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
 *   [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
@@ -803,6 +804,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [loader.io](https://loader.io/) - Free load testing tools with limitations
 *   [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, and service uptime monitoring.
 *   [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for up to 1M log events, Infrastructure monitoring & APM for up to 2 hosts.
+*   [Monitorable](https://monitorable.io) - Server health monitoring for Linux (bare metal, VMs, LXC): host and Docker metrics, systemd services and SMART disk health, with alerting, OpenTelemetry Collector agent. Free for 3 servers, no card required.
 *   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
 *   [netdata.cloud](https://www.netdata.cloud/) - Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
 *   [newrelic.com](https://www.newrelic.com) - New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.

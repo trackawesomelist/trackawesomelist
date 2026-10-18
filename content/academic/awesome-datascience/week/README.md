@@ -19,6 +19,11 @@
 *   [Skillancy SQL Compiler](https://skillancy.in/tools/sql-compiler) - A browser-based PostgreSQL playground with a sample schema and interview-style practice queries.
 *   [Skillancy Python Compiler](https://skillancy.in/tools/python-compiler) - A browser-based Python environment with NumPy and Pandas for data analysis practice.
 
+### Free Courses
+
+*   [Data Science Path by Coddy](https://coddy.tech/landing/data-science) - Free interactive path from Python and SQL through statistics and machine learning with scikit-learn, with code written and run in the browser.
+*   [Data Analyst Path by Coddy](https://coddy.tech/landing/data-analyst) - Free interactive path through Excel, SQL, Python, NumPy and Pandas, with code written and run in the browser.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [USASI Catalog](https://huggingface.co/datasets/usasihq/usasi-catalog) - 150 U.S. AI organizations and 270 U.S.-led open models, software, datasets, and evaluation tools, with licenses, availability, maintainers, and release dates; each row links to a record page that cites a primary source for every statement. CSV, CC BY 4.0, loadable with the datasets library.
@@ -643,7 +648,7 @@
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost)
-*   [JAX](https://github.com/google/jax)
+*   [JAX (⭐36k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 

@@ -85,6 +85,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Kriegspiel (⭐30)](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 *   [Chessmata (⭐19)](https://github.com/jonradoff/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
 *   [Lichess (⭐19k)](https://github.com/lichess-org/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+*   [Patzer (⭐42)](https://github.com/SikamikanikoBG/patzer) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
 *   [Parlour (⭐6)](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table for Blitz and Wild.
 *   [Pip (⭐15)](https://github.com/playpip/pip-web) - Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only. Runs in the browser, installs as a PWA and works offline. Built with Next.js and TypeScript.
 *   [Wolfcha (⭐728)](https://github.com/oil-oil/wolfcha) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs. Built with Next.js and TypeScript.
@@ -341,7 +342,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 *   [AAAAXY (⭐303)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 *   [Commander Genius (⭐223)](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-*   [DDraceNetwork (⭐836)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐844)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 *   [Elemental One (⭐46)](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework.
 *   [Escape of the cat (⭐8)](https://github.com/hugeping/catesc) - Hardcore oldschool platformer on [INSTEAD (⭐258)](http://github.com/instead-hub/instead).
 *   [Frogatto (⭐704)](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
