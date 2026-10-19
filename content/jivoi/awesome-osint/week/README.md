@@ -6,6 +6,14 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Social Media Tools / WhatsApp
+
+*   [2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
+*   [Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
+*   [Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Social Media Tools / Facebook
@@ -280,7 +288,6 @@
 
 ### Document and Slides Search
 
-*   [Find-pdf-doc](https://www.findpdfdoc.com)
 *   [Free Full PDF](https://www.freefullpdf.com)
 *   [Scribd](https://www.scribd.com)
 *   [SlideShare](https://www.slideshare.net)
@@ -291,65 +298,24 @@
 *   [Odnoklassniki (Russia)](https://ok.ru)
 *   [Pinterest](https://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 *   [Qzone (China)](https://qzone.qq.com)
-*   [Taringa (Latin America)](https://www.taringa.net)
 *   [Weibo (China)](https://weibo.com)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
-*   [Bottlenose](https://bottlenose.com)
 *   [Buzz sumo](https://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 *   [Geocreepy](https://www.geocreepy.com)
 *   [Hootsuite](https://hootsuite.com)
 *   [Klear](https://klear.com)
 *   [MustBePresent](https://mustbepresent.com)
 *   [OpinionCrawl](https://www.opinioncrawl.com)
-*   [Social DownORNot](https://social.downornot.com)
 *   [Social Searcher](https://www.social-searcher.com)
 *   [SocialBakers](https://www.socialbakers.com)
 *   [SocialBlade](https://socialblade.com)
-*   [UVRX](https://www.uvrx.com/social.html)
-
-### Web Monitoring / GitHub
-
-*   [Netvibes](https://www.netvibes.com)
-*   [Silobreaker](https://www.silobreaker.com)
-*   [Reeder](https://reederapp.com)
-*   [Alltop](https://alltop.com)
-*   [Awasu](https://www.awasu.com)
-*   [ChangeDetection](https://www.changedetection.com)
-*   [Deltafeed](https://bitreading.com/deltafeed)
-*   [DiggReader](https://digg.com/login?next=%2Freader)
-*   [FeedBooster](https://www.qsensei.com)
-*   [Feed Exileed](https://feed.exileed.com)
-*   [Feed Filter Maker](https://feed.janicek.co)
-*   [Feedly](https://www.feedly.com)
-*   [FeedReader](https://www.feedreader.com)
-*   [FetchRSS](https://fetchrss.com)
-*   [FollowThatPage](https://www.followthatpage.com)
-*   [Google Alerts](https://www.google.com/alerts) - A content change detection and notification service.
-*   [InfoMinder](https://www.infominder.com/webminder)
-*   [Newsblur](https://newsblur.com)
-*   [OmeaReader](https://www.jetbrains.com/omea/reader)
-*   [OnWebChange](https://onwebchange.com)
-*   [RSS Search Engine](https://ctrlq.org/rss)
-*   [RSS Search Hub](https://www.rsssearchhub.com)
-*   [RSSOwl](https://www.rssowl.org)
-*   [Selfoss](https://selfoss.aditu.de)
-*   [Talkwalker](https://www.talkwalker.com)
-*   [The Old Reader](https://theoldreader.com)
-*   [versionista](https://versionista.com)
-*   [WebReader](https://www.getwebreader.com)
-*   [WebSite Watcher](https://www.aignes.com/index.htm)
-*   [Winds](https://winds.getstream.io)
 
 ### Social Media Tools / Twitter
 
 *   [Foller.me](https://foller.me)
-*   [OneMillionTweetMap](https://onemilliontweetmap.com)
-*   [Sentiment140](https://www.twittersentiment.appspot.com)
 *   [Trends24](https://trends24.in)
-*   [TwChat](https://twchat.com)
-*   [TweetMap](https://mapd.csail.mit.edu/tweetmap)
 *   [Twitter Chat Schedule](https://tweetreports.com/twitter-chat-schedule)
 *   [Twitter Search](https://search.twitter.com)
 
@@ -371,7 +337,6 @@
 
 *   [Imgur](https://imgur.com/search?q=) - The most popular image hosting website used by redditors.
 *   [Mostly Harmless](https://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
-*   [Reddit Archive](https://www.redditarchive.com) - Historical archives of reddit posts.
 *   [Subreddits](https://subreddits.org) - Discover new subreddits.
 
 ### Social Media Tools / VKontakte
@@ -392,7 +357,6 @@
 
 ### Blog Search / GitHub
 
-*   [BlogSearchEngine](https://www.blogsearchengine.org)
 *   [Notey](https://www.notey.com) - Blog post search engine.
 *   [Twingly](https://www.twingly.com)
 
@@ -405,7 +369,6 @@
 ### Username Check / GitHub
 
 *   [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
-*   [Name Checkr](https://www.namecheckr.com) - checks a domain and username across many platforms.
 *   [User Search](https://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 
 ### People Investigations / GitHub
@@ -747,6 +710,39 @@
 *   [World-Newspapers](https://www.world-newspapers.com)
 *   [Yahoo News](https://news.yahoo.com)
 
+### Web Monitoring / GitHub
+
+*   [Silobreaker](https://www.silobreaker.com)
+*   [Reeder](https://reederapp.com)
+*   [Alltop](https://alltop.com)
+*   [Awasu](https://www.awasu.com)
+*   [ChangeDetection](https://www.changedetection.com)
+*   [Deltafeed](https://bitreading.com/deltafeed)
+*   [DiggReader](https://digg.com/login?next=%2Freader)
+*   [FeedBooster](https://www.qsensei.com)
+*   [Feed Exileed](https://feed.exileed.com)
+*   [Feed Filter Maker](https://feed.janicek.co)
+*   [Feedly](https://www.feedly.com)
+*   [FeedReader](https://www.feedreader.com)
+*   [FetchRSS](https://fetchrss.com)
+*   [FollowThatPage](https://www.followthatpage.com)
+*   [Google Alerts](https://www.google.com/alerts) - A content change detection and notification service.
+*   [InfoMinder](https://www.infominder.com/webminder)
+*   [Netvibes](https://www.netvibes.com)
+*   [Newsblur](https://newsblur.com)
+*   [OmeaReader](https://www.jetbrains.com/omea/reader)
+*   [OnWebChange](https://onwebchange.com)
+*   [RSS Search Engine](https://ctrlq.org/rss)
+*   [RSS Search Hub](https://www.rsssearchhub.com)
+*   [RSSOwl](https://www.rssowl.org)
+*   [Selfoss](https://selfoss.aditu.de)
+*   [Talkwalker](https://www.talkwalker.com)
+*   [The Old Reader](https://theoldreader.com)
+*   [versionista](https://versionista.com)
+*   [WebReader](https://www.getwebreader.com)
+*   [WebSite Watcher](https://www.aignes.com/index.htm)
+*   [Winds](https://winds.getstream.io)
+
 ### News Digest and Discovery Tools / GitHub
 
 *   [Newsinshorts](https://newsinshorts.com)
@@ -779,9 +775,7 @@
 
 *   [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
 *   [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [HTTrack](https://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-*   [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
 *   [WebAssistant](https://www.proxy-offline-browser.com/download.html)
 *   [Website Ripper Copier](https://www.tensons.com/products/websiterippercopier)
@@ -1117,10 +1111,6 @@
 
 *   [Xquik](https://xquik.com) - Real-time X (Twitter) data platform for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
 
-### Username Check / GitHub
-
-*   [Antisocial](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
-
 ### People Investigations / GitHub
 
 *   [BuscaPaginasBlancas (⭐3)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
@@ -1325,7 +1315,6 @@
 *   [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 *   [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 *   [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
-*   [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
 ### Speciality Search Engines
 
@@ -1596,7 +1585,6 @@
 ### Social Media Tools / Telegram
 
 *   [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
-*   [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
 *   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 
 ### Domain and IP Research / GitHub
@@ -1617,8 +1605,6 @@
 *   [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 *   [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
 *   [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
-*   [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
-*   [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
 *   [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
 *   [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 
@@ -1906,10 +1892,6 @@
 
 *   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 
-### Username Check / GitHub
-
-*   [CheckUser](https://checkuser.vercel.app/) - search username across social networks
-
 ### People Investigations / GitHub
 
 *   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
@@ -2063,10 +2045,6 @@
 *   [Blackbird (⭐8.8k)](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
 *   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 *   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
-
-### Username Check / GitHub
-
-*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 
 ### Image Search / GitHub
 
@@ -2399,7 +2377,6 @@
 
 ### File Search
 
-*   [NAPALM FTP Indexer](https://www.searchftps.net/)
 *   [SearchFiles.de](https://searchfiles.de/)
 
 ### Pastebins
@@ -2412,10 +2389,8 @@
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
-*   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 *   [Oblivion (⭐601)](https://github.com/loseys/Oblivion)
-*   [WATools](https://watools.io/)
 
 ### Social Media Tools / VKontakte
 
@@ -2516,10 +2491,6 @@
 ### Meta Search
 
 *   [Swisscows](https://swisscows.com/)
-
-### Forums and Discussion Boards Search / GitHub
-
-*   [Built With Flarum](https://builtwithflarum.com/)
 
 ### Email Search / Email Check / GitHub
 

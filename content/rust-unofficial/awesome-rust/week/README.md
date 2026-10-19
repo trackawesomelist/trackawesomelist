@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Applications / Database
+
+*   [HasteHealth/HasteHealth (⭐84)](https://github.com/HasteHealth/HasteHealth) - High-performance FHIR R4 clinical data repository (healthcare data server) built on Postgres [![Tests](https://github.com/HasteHealth/HasteHealth/actions/workflows/test_units.yml/badge.svg?branch=main)](https://github.com/HasteHealth/HasteHealth/actions/workflows/test_units.yml)
+*   [HeliosDatabase/HeliosDB-Nano (⭐10)](https://github.com/HeliosDatabase/HeliosDB-Nano) \[[heliosdb-nano](https://crates.io/crates/heliosdb-nano)] - Embedded database with PostgreSQL and MySQL wire protocols, git-like branching, time-travel queries and HNSW vector search [![Tests](https://github.com/HeliosDatabase/HeliosDB-Nano/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/HeliosDatabase/HeliosDB-Nano/actions/workflows/tests.yml)
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Applications
@@ -169,7 +176,7 @@ A curated list of Rust code and resources.
 *   [murray17/rovai-ai (⭐121)](https://github.com/murray17/rovai-ai) - Desktop and web workspace for coding agent teams, with a Rust core for task coordination, execution tracking, and collaborative memory. [![Full check](https://github.com/murray17/rovai-ai/actions/workflows/full-check.yml/badge.svg?branch=main)](https://github.com/murray17/rovai-ai/actions/workflows/full-check.yml)
 *   [socai-io/socai (⭐242)](https://github.com/socai-io/socai) - A social research agent that reuses signed-in Chrome to search and read posts, comments, profiles, and supported media across Instagram, TikTok, LinkedIn, X, Xiaohongshu, and Douyin.
 *   [ThinkWatchProject/ThinkWatch-Lite (⭐1.1k)](https://github.com/ThinkWatchProject/ThinkWatch-Lite) - Desktop app (Tauri) that runs a local gateway for Claude Code, Codex and other AI coding clients: switch upstreams without changing client config, convert between Anthropic, OpenAI and Gemini APIs, record the cost of each request, and redact API keys before requests leave. [![CI](https://github.com/ThinkWatchProject/ThinkWatch-Lite/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ThinkWatchProject/ThinkWatch-Lite/actions/workflows/ci.yml)
-*   [Xoshbin/asyar (⭐858)](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design. [![CodeQL](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql)
+*   [Xoshbin/asyar (⭐921)](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design. [![CodeQL](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Xoshbin/asyar/actions/workflows/github-code-scanning/codeql)
 *   [y0sif/whisrs (⭐126)](https://github.com/y0sif/whisrs) \[[whisrs](https://crates.io/crates/whisrs)] - Voice dictation for the Linux desktop: speak and the text appears at the cursor in any app on Wayland or X11, plus read-aloud and voice-driven LLM commands. Runs on cloud backends or fully offline via whisper.cpp [![CI](https://github.com/y0sif/whisrs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/y0sif/whisrs/actions/workflows/ci.yml)
 
 ### Applications / System tools
@@ -179,7 +186,7 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [enroute-sh/enroute (⭐257)](https://github.com/enroute-sh/enroute) - Programmable git infrastructure on object storage
-*   [persiyanov/herdr-reviewr (⭐823)](https://github.com/persiyanov/herdr-reviewr) - Terminal pane for reviewing a coding agent's diff and sending line comments back to Claude Code, Codex, OpenCode or Pi. [![CI](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml/badge.svg)](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml)
+*   [persiyanov/herdr-reviewr (⭐902)](https://github.com/persiyanov/herdr-reviewr) - Terminal pane for reviewing a coding agent's diff and sending line comments back to Claude Code, Codex, OpenCode or Pi. [![CI](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml/badge.svg)](https://github.com/persiyanov/herdr-reviewr/actions/workflows/ci.yml)
 
 ### Development tools / Formatters
 
@@ -198,7 +205,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [AndreaBozzo/dataprof (⭐21)](https://github.com/AndreaBozzo/dataprof) \[[dataprof](https://crates.io/crates/dataprof)] - Data profiling and quality gates for CSV, JSON, Parquet and Arrow, with Python bindings [![CI](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml)
+*   [AndreaBozzo/dataprof (⭐29)](https://github.com/AndreaBozzo/dataprof) \[[dataprof](https://crates.io/crates/dataprof)] - Data profiling and quality gates for CSV, JSON, Parquet and Arrow, with Python bindings [![CI](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AndreaBozzo/dataprof/actions/workflows/ci.yml)
 
 ### Libraries / Encoding
 
@@ -293,11 +300,11 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [sorairolake/rzopfli (⭐7)](https://github.com/sorairolake/rzopfli) \[[rzopfli](https://crates.io/crates/rzopfli)] - A lossless data compression tool using Zopfli [![CI](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/rzopfli/actions/workflows/CI.yaml)
-*   [timhartmann7/omnyssh (⭐1.1k)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
+*   [timhartmann7/omnyssh (⭐1.2k)](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections [![CI](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml/badge.svg)](https://github.com/timhartmann7/omnyssh/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
-*   [matugen (⭐2k)](https://github.com/InioX/matugen) - Generates color palette from image or color using templates.
+*   [matugen (⭐2.1k)](https://github.com/InioX/matugen) - Generates color palette from image or color using templates.
 *   [pastel (⭐6.5k)](https://github.com/sharkdp/pastel) - Helps working with colors: generate, mix, random color.
 *   [sorairolake/randgen (⭐3)](https://github.com/sorairolake/randgen) \[[randgen](https://crates.io/crates/randgen)] - Generate pseudo-random bytes [![CI](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml/badge.svg?branch=develop)](https://github.com/sorairolake/randgen/actions/workflows/CI.yaml)
 
@@ -382,7 +389,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Picodata (⭐123)](https://github.com/picodata/picodata) \[[picodata-plugin](https://crates.io/crates/picodata-plugin)] - Distributed PostgreSQL-compatible database with a plugin model in Rust; Redis and Cassandra wire compatibility via commercial plugins.
+*   [Picodata (⭐124)](https://github.com/picodata/picodata) \[[picodata-plugin](https://crates.io/crates/picodata-plugin)] - Distributed PostgreSQL-compatible database with a plugin model in Rust; Redis and Cassandra wire compatibility via commercial plugins.
 *   [PRQL (⭐11k)](https://github.com/PRQL/prql) \[[prqlc](https://crates.io/crates/prqlc)] - A modern language for transforming data, compiling to readable SQL. [![Tests](https://github.com/PRQL/prql/actions/workflows/tests.yml/badge.svg)](https://github.com/PRQL/prql/actions)
 *   [teaql/teaql-rs (⭐14)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
 
@@ -429,7 +436,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Computation
 
-*   [ml-rust/numr (⭐57)](https://github.com/ml-rust/numr) \[[numr](https://crates.io/crates/numr)] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration. [![CI](https://github.com/ml-rust/numr/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ml-rust/numr/actions/workflows/ci.yml)
+*   [ml-rust/numr (⭐55)](https://github.com/ml-rust/numr) \[[numr](https://crates.io/crates/numr)] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration. [![CI](https://github.com/ml-rust/numr/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ml-rust/numr/actions/workflows/ci.yml)
 
 ### Libraries / GUI
 
@@ -478,7 +485,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [lockbook/lockbook (⭐439)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
+*   [lockbook/lockbook (⭐442)](https://github.com/lockbook/lockbook) \[[lb-rs](https://crates.io/crates/lb-rs)] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server. [![Integration](https://github.com/lockbook/lockbook/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/lockbook/lockbook/actions/workflows/integration.yml)
 
 ### Applications / Utilities
 
@@ -3313,7 +3320,7 @@ A curated list of Rust code and resources.
 
 *   Other
     *   [build-trust/ockam (⭐4.6k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
-    *   [zannis/shove (⭐8)](https://github.com/zannis/shove) \[[shove](https://crates.io/crates/shove)] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups [![CI](https://github.com/zannis/shove/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zannis/shove/actions/workflows/ci.yml)
+    *   [zannis/shove (⭐7)](https://github.com/zannis/shove) \[[shove](https://crates.io/crates/shove)] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups [![CI](https://github.com/zannis/shove/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zannis/shove/actions/workflows/ci.yml)
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 

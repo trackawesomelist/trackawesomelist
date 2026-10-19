@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Utilities / Cleanup and Uninstall
+
+*   [Peel](https://peel.tuguidragos.com/) - Free, open source uninstaller and cleaner that removes apps with every file they leave behind, shows you why each file belongs, and moves everything to the Trash, so you can put it back. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TuguiDragos/Peel) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
@@ -181,7 +187,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [OpenSpatial (⭐3)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenSpatial (⭐20)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
 
@@ -229,7 +235,7 @@
 
 ### Utilities / Window Management
 
-*   [DockLens (⭐7)](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/firstfu/DockLens-app)
+*   [DockLens (⭐15)](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/firstfu/DockLens-app)
 
 ### Utilities / System Related Tools
 
@@ -237,7 +243,7 @@
 
 ### Gaming Software / System Related Tools
 
-*   [Classic Game Box (⭐3)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lazyfury/classic-game-box)
+*   [Classic Game Box (⭐5)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lazyfury/classic-game-box)
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -2063,7 +2069,6 @@
 ### Utilities / Menu Bar Tools
 
 *   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447?platform=mac)
-*   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 

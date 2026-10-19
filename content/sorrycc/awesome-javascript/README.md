@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Oct 19, 2026](/content/2026/10/19/README.md)
+
+### SDK / Other
+
+*   [Social SDK (⭐714)](https://github.com/opencoredev/social-sdk) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
+
 ## [Oct 14, 2026](/content/2026/10/14/README.md)
 
 ### Images / Other
@@ -32,7 +38,7 @@
 
 ### Generative AI / Other
 
-*   [liter-llm (⭐260)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+*   [liter-llm (⭐261)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
@@ -562,7 +568,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐97k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐98k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [Nov 10, 2021](/content/2021/11/10/README.md)
 
@@ -2552,7 +2558,7 @@
 
 *   [emijrp/awesome-awesome (⭐3.2k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐514k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐521k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐12k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)

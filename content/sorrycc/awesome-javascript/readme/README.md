@@ -213,7 +213,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [puppeteer (⭐96k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 *   [webdriverio (⭐9.8k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 *   [taiko (⭐3.7k)](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
-*   [Playwright (⭐97k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐98k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## QA Tools
 
@@ -1069,6 +1069,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Square Node.js SDK (⭐79)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 *   [OpenAI SDK (⭐11k)](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
 *   [Stripe Node.js SDK (⭐4.5k)](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
+*   [Social SDK (⭐714)](https://github.com/opencoredev/social-sdk) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
 
 ## Full Text Search
 
@@ -1096,7 +1097,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 *   [KaibanJS (⭐1.5k)](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
-*   [liter-llm (⭐260)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+*   [liter-llm (⭐261)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## Misc
 
@@ -1148,7 +1149,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [sotayamashita/awesome-css (⭐5.6k)](https://github.com/sotayamashita/awesome-css)
 *   [emijrp/awesome-awesome (⭐3.2k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐514k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐521k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐12k)](https://github.com/jnv/lists)
 *   [gianarb/angularjs (⭐2.4k)](https://github.com/gianarb/awesome-angularjs)
 *   [peterkokot/awesome-dojo (⭐99)](https://github.com/peterkokot/awesome-dojo)
