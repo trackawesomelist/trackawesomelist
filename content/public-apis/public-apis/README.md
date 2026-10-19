@@ -6,6 +6,167 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 19, 2026](/content/2026/10/19/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Refnusa](https://refnusa.dev/)
+
+  Description: Indonesian holidays, wages, regions, postal codes, tax, food prices and NIK/plate checks (31 tools)
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/dev.refnusa/refnusa)
+
+
+
+### Calendar
+
+- API: [Africa Compliance Data](https://africacompliancedata.com/docs)
+
+  Description: Public holidays and business days for all 54 African countries, from official sources
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [CountdownsHQ](https://countdownshq.com/developers)
+
+  Description: Dates and timezone-correct countdowns for 150+ holidays and observances in 18 countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Nitrosend](https://docs.nitrosend.com/api)
+
+  Description: Send marketing and transactional email; manage contacts, segments and flows
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Food & Drink
+
+- API: [FiberUp Fiber Database](https://fiberup.app/data/)
+
+  Description: Dietary fiber per serving and per 100 g, split into soluble and insoluble, for \~200 common foods
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [UK Public Tenders by Trade](https://tools.gptshopltd.com/api/uk-tenders/)
+
+  Description: Live open UK public sector tenders by trade from Find a Tender and Contracts Finder (OGL v3.0)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Present of AI](https://presentofai.com/developers)
+
+  Description: AI company profiles, open AI jobs and dated AI news, REST and MCP
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [StackRates](https://stackrates.ai/ask/)
+
+  Description: VPS and cloud server prices from 46 providers, read daily from their own pricing pages and APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [InsightSocial](https://www.insightsocial.app/docs)
+
+  Description: Public profiles, posts, comments and followers from 25 social platforms, free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Revolt](https://developers.revolt.chat/)
+
+  Description: Revolt open source Discord alternative
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TwittrAPI](https://www.twittrapi.com/docs)
+
+  Description: Public Twitter/X data: profiles, tweets, replies, search, followers, lists, communities, trends
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [Pirate Weather](https://pirateweather.readthedocs.io/en/latest/)
+
+  Description: Free weather API with forecast data similar to Dark Sky
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -11353,20 +11514,6 @@ A collective list of free APIs
 
 
 
-### Weather
-
-- API: [Pirate Weather](https://pirateweather.net/en/latest/)
-
-  Description: Free weather API with forecast data similar to Dark Sky
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
 ### Cryptocurrency
@@ -12918,20 +13065,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-
-### Social
-
-- API: [aztro](https://aztro.sameerkumar.website/)
-
-  Description: Daily horoscope info for yesterday, today, and tomorrow
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
 
 
 
@@ -15455,20 +15588,6 @@ A collective list of free APIs
   Description: Tokopedia's Official API for integration of various services from Tokopedia
 
   Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Sports & Fitness
-
-- API: [Sport Data](https://sportdataapi.com)
-
-  Description: Get sports data from all over the world
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -19052,20 +19171,6 @@ A collective list of free APIs
   Description: Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Social
-
-- API: [Revolt](https://developers.revolt.chat/api/)
-
-  Description: Revolt open source Discord alternative
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 

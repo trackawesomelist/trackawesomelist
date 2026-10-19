@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 19, 2026](/content/2026/10/19/README.md)
+
+### Graphics / Bitmap Compression
+
+*   :money\_with\_wings: [BatchSet](https://batchset.com/tools/image-compressor) - Compress and convert whole folders of PNG, JPG and WebP sprites in the browser, nothing uploaded.
+
+### AI / Voxel Editors
+
+*   :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Collections / Voxel Editors

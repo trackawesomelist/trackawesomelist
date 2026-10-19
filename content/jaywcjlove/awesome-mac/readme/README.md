@@ -411,6 +411,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Nimbalyst](https://nimbalyst.com/) - A visual workspace for managing AI coding sessions, tasks, and project files.
 *   [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
 *   [Orca](https://onorca.dev) - An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree. [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+*   [Threadlines](https://www.threadlines.dev) - Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree. [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 *   [Trae](https://www.trae.ai/) - AI-powered IDE for coding and software development.
 *   [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 *   [VSCodium](https://vscodium.com/) - Community-driven libre binaries of VS Code. [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
@@ -439,6 +440,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 *   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [DiffMerge](https://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
+*   [Eleven (⭐789)](https://github.com/Zfinix/eleven) - Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you. [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 *   [EnvPane (⭐839)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 *   [FinderGo (⭐1.2k)](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 *   [Tintpad (⭐15)](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
@@ -594,6 +596,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Gantry (⭐69)](https://github.com/getgantry/gantry) - Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows. [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 *   [Cocoa-Way (⭐1.1k)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 *   [GhostVM (⭐657)](https://github.com/groundwater/GhostVM) - Virtualization tool for creating and managing isolated macOS virtual machine workspaces. ![Freeware][Freeware Icon]
+*   [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon. [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 *   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 *   [Mocker (⭐364)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 *   [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
@@ -644,7 +647,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [RedisClient (⭐137)](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app)
 *   [RedisDesktopManager](https://redisdesktop.com) - Cross-platform GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
 *   [Sequel Pro (⭐9.2k)](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
-*   [Sequel Ace (⭐7.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
+*   [Sequel Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 *   [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware][Freeware Icon]
 *   [SQLPro Studio](https://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
 *   [Studio 3T](https://studio3t.com/) - the Ultimate GUI for MongoDB. ![Freeware][Freeware Icon]
@@ -667,6 +670,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [iTerm2](https://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 *   [kitty (⭐35k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 *   [KubeSwitch](https://www.kubeswitch.com/) - The fastest way to switch between Kubernetes contexts and namespaces on macOS. ![Freeware][Freeware Icon]
+*   [SSHFire (⭐11)](https://github.com/aralozaltin/sshfire) - Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory. [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 *   [Tabby (formerly Terminus) (⭐75k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 *   [Termius](https://www.termius.com/) - A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 *   [Termstead](https://khorenyan.com/termstead/) - Native SSH client with a session tree, jump hosts and SFTP beside the terminal. [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
@@ -696,7 +700,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 *   [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board.
 *   [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
-*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
+*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate, Instant Alpha. No account or telemetry. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 *   [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 *   [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 *   [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
@@ -1041,6 +1045,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
 *   [Stringed 2](https://apps.apple.com/us/app/stringed-2/id698710517) - Music practice software designed to help users learn how to play their favorite songs.
 *   [Synfig Studio](https://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
+*   [TetherCam](https://tethercam.app/) - Use an iPhone as a USB camera on a Mac for video only, or use the OBS plugin for video and the phone's microphone audio. [![Open-Source Software][OSS Icon]](https://github.com/Kanevry/tethercam) ![Freeware][Freeware Icon]
 *   [trax (⭐14)](https://github.com/nbonamy/trax) - Music library manager with audio conversion and tag editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 *   [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - As the name suggests, a tiny player. ![Freeware][Freeware Icon]
 *   [Tuneful](https://www.tuneful.dev) - Controller for Spotify and Apple Music from the menu bar or mini player. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
@@ -1405,7 +1410,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Headroom](https://headroom-app.org) - Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them. [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 *   [Mac Cache Cleaner (⭐246)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 *   [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Menu bar cleaner for developer caches (Xcode, Docker, simulators, node\_modules) with a 2D/3D disk usage treemap. [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
-*   [MacDirStat (⭐67)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
+*   [MacDirStat (⭐80)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 *   [MacOSCleaner (⭐119)](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software][OSS Icon]](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware][Freeware Icon]
 *   [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 *   [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion. [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
@@ -1451,7 +1456,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Equinox (⭐2.1k)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 *   [HTTrack](https://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 *   [Latest (⭐4.8k)](https://github.com/mangerlahn/Latest) - A tiny app that checks if all your apps from any source are up to date. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
-*   [Liftoff (⭐21)](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
+*   [Liftoff (⭐35)](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 *   [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 *   [LaunchNext (⭐3.1k)](https://github.com/RoversX/LaunchNext) - Classic Launchpad experience, relive old macOS. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 *   [lo-rain](https://lo.cafe/lo-rain) - Create a customizable rain over your desktop and apps, with splash over the dock.

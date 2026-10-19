@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 19, 2026](/content/2026/10/19/README.md)
+
+### Software / Browser Extensions & Utilities
+
+*   [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) - Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.
+
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
 ### Software / UI & End-to-End Testing
@@ -33,7 +39,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [OrcaPromptVault (⭐28)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
+*   [OrcaPromptVault (⭐72)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 
 ### Software / Service Virtualization
 
@@ -48,12 +54,11 @@ A curated list of testing resources
 
 ### Software / Security Testing
 
-*   [Darkmoon (⭐970)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+*   [Darkmoon (⭐1k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### Software / Test Data Management
 
 *   [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
-*   [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 
 ### Software / Performance & Load Testing
 
@@ -123,18 +128,18 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [qmax-mcp (⭐2)](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
+*   [qmax-mcp (⭐4)](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 
 ### Software / Test Data Management
 
 *   [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
-*   [dbmask (⭐148)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
+*   [dbmask (⭐149)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [crilio (⭐1)](https://github.com/mukundzha/crilio) - An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.
+*   [crilio (⭐2)](https://github.com/mukundzha/crilio) - An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.
 
 ### Software / Test Data Management
 
@@ -144,7 +149,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [Waterfall AI Test (⭐8)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
+*   [Waterfall AI Test (⭐7)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 
 ### Software / Accessibility & Usability Testing
 
@@ -154,7 +159,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [optics-framework (⭐56)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
+*   [optics-framework (⭐57)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
 ## [Aug 23, 2026](/content/2026/08/23/README.md)
 
@@ -187,7 +192,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Behave (⭐5)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
+*   [Awesome Behave (⭐7)](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
 
 ## [Jul 28, 2026](/content/2026/07/28/README.md)
 
@@ -239,13 +244,13 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome AI Testing (⭐126)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
+*   [Awesome AI Testing (⭐150)](https://github.com/tugkanboz/awesome-ai-testing) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [nika (⭐89)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐94)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 
@@ -257,7 +262,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [postman2pytest (⭐19)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
+*   [postman2pytest (⭐20)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
 
 ## [Jun 10, 2026](/content/2026/06/10/README.md)
 
@@ -267,25 +272,25 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [tapflow (⭐805)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+*   [tapflow (⭐1k)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 
 ## [Jun 07, 2026](/content/2026/06/07/README.md)
 
 ### Software / UI & End-to-End Testing
 
-*   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
+*   [agent-qa (⭐911)](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
 
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
 ### Software / Test Automation Frameworks
 
-*   [Jumpstarter (⭐223)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Software / API Testing
 
-*   [Bruno (⭐47k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+*   [Bruno (⭐48k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
@@ -311,7 +316,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐558)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐753)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
@@ -362,7 +367,7 @@ A curated list of testing resources
 ### Software / Test Automation Frameworks
 
 *   [ai-natural-language-tests (⭐23)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-*   [OpenTester (⭐28)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
+*   [OpenTester (⭐29)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
 
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
@@ -385,7 +390,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐147)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐150)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Blogs / A/B Testing
 
@@ -401,19 +406,19 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Webhook Debugger (⭐14)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+*   [Webhook Debugger (⭐15)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐35)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐38)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [voicetest (⭐35)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [voicetest (⭐39)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -421,7 +426,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [flutter-skill (⭐383)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐393)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / A/B Testing
@@ -437,7 +442,7 @@ A curated list of testing resources
 ### Software / Security Testing
 
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
-*   [Nuclei Scanner (⭐31k)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
+*   [Nuclei Scanner (⭐32k)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
 
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 
@@ -449,7 +454,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐25k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐26k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 
@@ -485,7 +490,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
+*   [Tests Coverage Tool (⭐12)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
 *   [Swagger Coverage Tool (⭐27)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
@@ -538,7 +543,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐794)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐808)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -599,13 +604,13 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [test-each (⭐118)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
+*   [test-each (⭐119)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ## [Jun 25, 2022](/content/2022/06/25/README.md)
 
 ### Software / Test Data Management
 
-*   [Touca (⭐508)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
@@ -617,7 +622,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Keploy (⭐18k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [Keploy (⭐19k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 
 ## [Nov 25, 2021](/content/2021/11/25/README.md)
 
@@ -636,7 +641,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐525)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐524)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -716,7 +721,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐807)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐806)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [Oct 18, 2019](/content/2019/10/18/README.md)
 
@@ -798,7 +803,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐4.9k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐5k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [Jan 26, 2017](/content/2017/01/26/README.md)
 
@@ -814,7 +819,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐514k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐521k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐7.1k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐15k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

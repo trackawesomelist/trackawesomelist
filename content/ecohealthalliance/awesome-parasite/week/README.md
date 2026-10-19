@@ -2,9 +2,15 @@
 
 A curated list of host-parasite information
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 35 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 64 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ecohealthalliance/awesome-parasite/README.md) / Weekly / [Overview](/content/ecohealthalliance/awesome-parasite/readme/README.md) ]
+
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Scientific Journals
+
+*   Bulletin de la Société de Pathologie Exotique - French journal on tropical medicine and public health. The journal ran from 1908 to 2020, when it was replaced by Médecine Tropicale et Santé Internationale. Full volumes are freely accessible from Université Paris Cité ([1908-1966, v. 1-59](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?intro=bspe\&tri=\&p=1)), Gallica ([1967-1997, v. 60-90](https://gallica.bnf.fr/ark:/12148/cb344790278/date\&rk=21459;2)), The Society archives ([1994-2020, v. 87-113](https://pathexo.societe-mtsi.fr/1844-sommaire-bulletin_L=1.html)), and RevuesOnline ([2010-2020, v. 103-113](https://bspe.revuesonline.com/numeros_parus.jsp)).
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -96,7 +102,7 @@ A curated list of host-parasite information
 
 ### Scientific Journals
 
-*   [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polish Parasitological Society, formerly *Wiadomości Parazytologiczne*, that publishes issues quarterly. Open archives start from 2002.
+*   [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polskie Towarzystwo Parazytologiczne/Polish Parasitological Society, formerly *Wiadomości Parazytologiczne*, that publishes issues quarterly. Open archives start from 2002, for earlier articles from 1955-2011 see the repository managed by the University of Warsaw [here](https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-journal-6a84b758-a0ac-49e6-a735-fe0c56b0fee9).
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -108,7 +114,7 @@ A curated list of host-parasite information
 *   [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) - A database that pulls organism associations from NCBI sequences and PubMed. See database and brief analysis in [Wardeh et al. 2015](https://www.nature.com/articles/sdata201549).
 *   [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) - A species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
 *   [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
-*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐10)](https://github.com/ropensci/helminthR).
 *   [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030).
 *   [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 *   [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance.
@@ -120,7 +126,7 @@ A curated list of host-parasite information
 *   [Denver Museum of Nature and Science](https://science.dmns.org/integrative-collections/dmns-zoology-collections/) - Collection of mammalian ecto- and endo- parasites primarily focused on the Rocky Mountain and Great Plains regions of the United States. Accessible through [Arctos](http://arctos.database.museum/SpecimenSearch.cfm).
 *   [Muséum National d'Histoire Naturelle (MNHN - Paris)](https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths) - Helminth collection with more than 30,000 occurences of helminths with particular focus in tropical regions. Accessible through [GBIF](https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef#description).
 *   [Ohio State University Acarology Collection](https://acarology.osu.edu/database) - Nearly 70,000 vouchered specimens of mites from around the globe starting from 1864. Information includes host species, collection gps points, collection location (e.g. ear), and collection method. Can also be accessed through [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
-*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐10)](https://github.com/ropensci/helminthR).
 
 ### Reporting Systems
 

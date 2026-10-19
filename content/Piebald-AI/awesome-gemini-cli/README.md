@@ -16,6 +16,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [ChatVault (⭐26)](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
 *   [laya-guard (⭐30)](https://github.com/scs0209/laya-guard) - Local guardrail with a `BeforeTool` hook for Gemini CLI (`laya-guard install gemini-cli`) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.
+*   [ratchet (⭐3)](https://github.com/krishansubudhi/ratchet) - Code-size budget CLI (`pip install ratchet-size`): `ratchet check` refuses changes that grow source or test line counts past a ceiling, and only `ratchet grant` raises it. For Gemini CLI it is wired through a `GEMINI.md` instruction snippet (no hook); a CI check or git pre-commit hook enforces it.
 
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
@@ -214,7 +215,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Caprock (⭐14)](https://github.com/dspv/caprock) - Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.
+*   [Caprock (⭐23)](https://github.com/dspv/caprock) - Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.
 
 ### MCP Servers
 
@@ -314,7 +315,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [OpenFiles (⭐2)](https://github.com/devgiordane/openfiles) - VS Code extension (also on Open VSX for Cursor, Windsurf and VSCodium) that opens every file Gemini CLI edits so ESLint, TypeScript and other language servers check it, then returns the problems to Gemini CLI through an `AfterTool` hook in the same turn. Also works with Claude Code, Codex, Copilot and Cursor. MIT.
+*   [OpenFiles](https://github.com/devgiordane/openfiles) - VS Code extension (also on Open VSX for Cursor, Windsurf and VSCodium) that opens every file Gemini CLI edits so ESLint, TypeScript and other language servers check it, then returns the problems to Gemini CLI through an `AfterTool` hook in the same turn. Also works with Claude Code, Codex, Copilot and Cursor. MIT.
 
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
@@ -375,12 +376,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [Pickle Rick (⭐454)](https://github.com/galdawave/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
+*   [Pickle Rick (⭐453)](https://github.com/galdawave/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
 *   [Conductor (⭐3.8k)](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 
 ### Development Tools & Utilities
 
-*   [ClawMetry (⭐424)](https://github.com/vivekchand/clawmetry) - Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. [Website](https://clawmetry.com)
+*   [ClawMetry (⭐435)](https://github.com/vivekchand/clawmetry) - Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. [Website](https://clawmetry.com)
 
 ## [Sep 02, 2026](/content/2026/09/02/README.md)
 
@@ -430,7 +431,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Agent QA (⭐898)](https://github.com/vostride/agent-qa) - Source-available (FSL-1.1-ALv2) QA agent for natural-language web and mobile tests. Run `agent-qa mcp` for authoring, execution, artifacts, and failure triage; dashboard-backed tools need a running dashboard and `dashboardUrl`. Model and infrastructure costs are separate.
+*   [Agent QA (⭐911)](https://github.com/vostride/agent-qa) - Source-available (FSL-1.1-ALv2) QA agent for natural-language web and mobile tests. Run `agent-qa mcp` for authoring, execution, artifacts, and failure triage; dashboard-backed tools need a running dashboard and `dashboardUrl`. Model and infrastructure costs are separate.
 
 ## [Aug 16, 2026](/content/2026/08/16/README.md)
 
@@ -440,7 +441,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [LWC (⭐63)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
+*   [LWC (⭐68)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
 
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
@@ -468,7 +469,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [GoodMemory (⭐18)](https://github.com/hjqcan/GoodMemory) - Local-first durable memory for Gemini CLI through standalone MCP, with scoped recall, provenance and trace inspection, and explicit forgetting. Read-only by default with opt-in governed writes; install with `npm install -g goodmemory@0.7.5` and follow the [Gemini CLI setup guide (⭐18)](https://github.com/hjqcan/GoodMemory/blob/main/docs/GoodMemory-Gemini-CLI-Setup-Guide.md).
+*   [GoodMemory (⭐20)](https://github.com/hjqcan/GoodMemory) - Local-first durable memory for Gemini CLI through standalone MCP, with scoped recall, provenance and trace inspection, and explicit forgetting. Read-only by default with opt-in governed writes; install with `npm install -g goodmemory@0.7.5` and follow the [Gemini CLI setup guide (⭐20)](https://github.com/hjqcan/GoodMemory/blob/main/docs/GoodMemory-Gemini-CLI-Setup-Guide.md).
 
 ## [Jul 29, 2026](/content/2026/07/29/README.md)
 
@@ -504,7 +505,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Documentation & Examples
 
-*   [Antigravity CLI Tips (⭐7)](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
+*   [Antigravity CLI Tips (⭐11)](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
 
 ## [Jul 15, 2026](/content/2026/07/15/README.md)
 

@@ -52,7 +52,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 *   [MySQL Explain Analyzer (⭐98)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐102)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 *   [MySQLTuner-perl (⭐9.5k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [Prometheus (⭐66k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.5k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐67k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.5k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 *   [pstop (⭐211)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 *   [ReliaDB EXPLAIN Analyzer (⭐6)](https://github.com/Mughees52/mysql-explain-analyzer) - a browser-based MySQL and MariaDB EXPLAIN visualizer with issue detection, index recommendations, and query rewrites. 100% client-side.
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
@@ -63,7 +63,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 
 *Backup/restore/recovery tools*
 
-*   [Databasus (⭐8.7k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐9.2k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [Dumpling (⭐41k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 *   [MyDumper (⭐3.2k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 *   [Percona Xtrabackup (⭐1.6k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
@@ -81,6 +81,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 
 ## Binlog-Replication
 
+*   [dbtrail (⭐64)](https://github.com/dbtrail/dbtrail) - Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB
 *   [DM (⭐463)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 *   [Kingbus (⭐892)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 *   [mysql-ripple (⭐379)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
@@ -120,7 +121,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 *   [PyMySQL (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.3k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 *   [MyZql (⭐78)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
-*   [wtx (⭐401)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
+*   [wtx (⭐403)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## Deployment
 
@@ -148,7 +149,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 
 *   [Adminer (⭐7.9k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
 *   [DBeaver (⭐52k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
-*   [StackRender (⭐549)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
+*   [StackRender (⭐553)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
 *   [HeidiSQL (⭐6.3k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 *   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
 *   [LibreDB Studio (⭐1.1k)](https://github.com/libredb/libredb-studio) - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
@@ -158,9 +159,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 *   [Ocelot GUI (⭐64)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 *   [OmniDB: Web tool for database management (⭐3.3k)](https://github.com/OmniDB/OmniDB)
 *   [Percona Monitoring and Management (⭐1.1k)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
-*   [phpMyAdmin (⭐7.9k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+*   [phpMyAdmin (⭐8k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 *   [pspg (⭐2.7k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
-*   [Sequel Ace (⭐7.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 *   [TablePro (⭐6.2k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 *   [SQLyog Community edition (⭐2.3k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 *   [squix (⭐273)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
@@ -207,7 +208,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 *   [Acra (⭐1.5k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
-*   [myanon (⭐132)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+*   [myanon (⭐131)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 *   [myldapsync (⭐0)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
 ## Server

@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [trimclain/builder.nvim (⭐22)](https://github.com/trimclain/builder.nvim) - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
 
+### Git / Quickfix
+
+*   [ryutaro-asada/partial-diff.nvim (⭐6)](https://github.com/ryutaro-asada/partial-diff.nvim) - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Programming Languages Support / Diagnostics

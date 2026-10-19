@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ [Daily](/content/shlomi-noach/awesome-mysql/README.md) / Weekly / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Binlog-Replication
+
+*   [dbtrail (⭐64)](https://github.com/dbtrail/dbtrail) - Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Incubating
@@ -26,7 +32,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### GUI
 
-*   [StackRender (⭐549)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
+*   [StackRender (⭐553)](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL.
 *   [LibreDB Studio (⭐1.1k)](https://github.com/libredb/libredb-studio) - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
 
 ### Toolkits
@@ -77,7 +83,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Security
 
-*   [myanon (⭐132)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+*   [myanon (⭐131)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 
 ### Toolkits
 
@@ -101,7 +107,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Backup
 
-*   [Databasus (⭐8.7k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐9.2k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -130,7 +136,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Connectors
 
-*   [wtx (⭐401)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
+*   [wtx (⭐403)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
@@ -158,7 +164,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Analysis
 
-*   [Prometheus (⭐66k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.5k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐67k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.5k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 
 ### Connectors
 
@@ -189,7 +195,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 *   [MySQL Workbench (⭐1k)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 *   [OmniDB: Web tool for database management (⭐3.3k)](https://github.com/OmniDB/OmniDB)
 *   [Percona Monitoring and Management (⭐1.1k)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
-*   [phpMyAdmin (⭐7.9k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+*   [phpMyAdmin (⭐8k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 
 ### HA
 
@@ -271,7 +277,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### GUI
 
-*   [Sequel Ace (⭐7.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 

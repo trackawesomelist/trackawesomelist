@@ -8,6 +8,26 @@
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
+### Developer Tools / IDEs
+
+*   [Threadlines](https://www.threadlines.dev) - Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Threadlines/threadlines) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Developer Utilities
+
+*   [Eleven (⭐789)](https://github.com/Zfinix/eleven) - Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zfinix/eleven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Virtualization
+
+*   [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Terminal Apps / Databases
+
+*   [SSHFire (⭐11)](https://github.com/aralozaltin/sshfire) - Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aralozaltin/sshfire) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [TetherCam](https://tethercam.app/) - Use an iPhone as a USB camera on a Mac for video only, or use the OBS plugin for video and the phone's microphone audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kanevry/tethercam) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Cleanup and Uninstall
 
 *   [Peel](https://peel.tuguidragos.com/) - Free, open source uninstaller and cleaner that removes apps with every file they leave behind, shows you why each file belongs, and moves everything to the Trash, so you can put it back. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TuguiDragos/Peel) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -217,12 +237,12 @@
 ### Utilities / Cleanup and Uninstall
 
 *   [DiskWise (⭐21)](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DreamOfXM/diskwise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacDirStat (⭐67)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/phalladar/MacDirStat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacDirStat (⭐80)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/phalladar/MacDirStat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SquirrelDisk (⭐2k)](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adileo/squirreldisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
-*   [Liftoff (⭐21)](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/firstfu/Liftoff) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Liftoff (⭐35)](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/firstfu/Liftoff) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / To-Do Lists
 
@@ -496,7 +516,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joshlin2201/itspaint) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate, Instant Alpha. No account or telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joshlin2201/itspaint) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
@@ -3291,7 +3311,7 @@
 
 ### Developer Tools / Databases
 
-*   [Sequel Ace (⭐7.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
+*   [Sequel Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 

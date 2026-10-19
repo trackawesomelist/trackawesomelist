@@ -6,6 +6,12 @@ Collection of Games that have the source code available on GitHub
 
 [ Daily / [Weekly](/content/michelpereira/awesome-open-source-games/week/README.md) / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 
+## [Oct 19, 2026](/content/2026/10/19/README.md)
+
+### Browser-Based / Boardgame
+
+*   [PlayHex (⭐73)](https://github.com/playhex/playhex) - Online Hex board game with real-time and correspondence play, AI opponents, rated games, puzzles and game analysis. Built with TypeScript and Vue.
+
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
 ### Browser-Based / Boardgame

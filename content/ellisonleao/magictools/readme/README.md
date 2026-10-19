@@ -108,6 +108,7 @@ A curated list of game development resources to make **magic** happen.
 
 #### Bitmap Compression
 
+*   :money\_with\_wings: [BatchSet](https://batchset.com/tools/image-compressor) - Compress and convert whole folders of PNG, JPG and WebP sprites in the browser, nothing uploaded.
 *   :tada: [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
 *   :free: [Photo Resizer In KB](https://photoresizerinkb.com/) - Resize photos easily and free to use
 *   :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
@@ -400,6 +401,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   :money\_with\_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 *   :tada: [SimpleAI (⭐177)](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
+*   :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 
 ## Audio
 
