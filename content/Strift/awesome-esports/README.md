@@ -6,6 +6,12 @@ A curated list of open-source projects related to esports.
 
 [ Daily / [Weekly](/content/Strift/awesome-esports/week/README.md) / [Overview](/content/Strift/awesome-esports/readme/README.md) ]
 
+## [Oct 20, 2026](/content/2026/10/20/README.md)
+
+### Libraries / APIs & Web Services
+
+*   [esportsodds-python (⭐0)](https://github.com/esportsodds/esportsodds-python) - A Python client library and MCP server for the esportsodds.gg CS2 data API.
+
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
 ### Applications & Tools / Tournaments management
@@ -78,7 +84,7 @@ A curated list of open-source projects related to esports.
 *   [Esport Team Logos (⭐32)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
 *   [Boltobserv (⭐387)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 *   [Open Dota (⭐1.6k)](https://github.com/odota/core) - A website for Dota 2 esports stats.
-*   [LeagueStats (⭐493)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+*   [LeagueStats (⭐496)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
 ## [Dec 30, 2021](/content/2021/12/30/README.md)
 

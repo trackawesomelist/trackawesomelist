@@ -37,6 +37,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 *   [Blizzard.js (⭐154)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
 *   [Discord.js (⭐27k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
+*   [esportsodds-python (⭐0)](https://github.com/esportsodds/esportsodds-python) - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 *   [HLTV (⭐496)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
 *   [liquipediapy (⭐70)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 *   [steam (⭐1.3k)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
@@ -103,7 +104,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 *   [Foldy Sheet (⭐2)](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
 *   [LeagueDirector (⭐1k)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
-*   [LeagueStats (⭐493)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+*   [LeagueStats (⭐496)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
 ## Education
 

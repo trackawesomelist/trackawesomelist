@@ -6,6 +6,67 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 20, 2026](/content/2026/10/20/README.md)
+
+### Software / API Testing
+
+*   [API Spector](https://api-spector.dev) - Open-source API clien, mock server and contract testing tool. Zero telemetry.
+*   [Openhook (⭐1)](https://github.com/openhook-dev/openhook-inbox) - Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
+*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
+
+### Software / AI & LLM Testing
+
+*   [fanout-check (⭐1)](https://github.com/sunxiuguo/fanout-check) - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
+
+### Software / Service Virtualization
+
+*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
+*   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
+
+### Software / Visual Testing
+
+*   [CurlShot](https://curlshot.com) - Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.
+
+### Software / UI & End-to-End Testing
+
+*   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
+*   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+*   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
+*   [vibe-testing (⭐17)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
+*   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
+
+### Software / Test Data Management
+
+*   [TempMail Hub](https://tempmailhub.net/) - Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.
+*   [ByteRivet Sample Files](https://byterivet.com/test-files/) - Free browser-based generator for exact-size dummy files from 1 KB to 2 GB in 22 formats (PDF, PNG, JPG, DOCX, XLSX, CSV, JSON, ZIP, MP4, WAV and more) for upload-limit and file-handling tests. Files are built locally, no upload or signup.
+*   [FormFiller test data tools](https://formfillerapp.com/tools/) - Free browser-based generators for fake addresses, identities, IBANs, test card numbers and bulk CSV/JSON/SQL data in 22
+    locales.
+
+### Software / Browser Extensions & Utilities
+
+*   [Keploy API Test Recorder](https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe) - Chrome extension that records API calls from your browser session and turns them into API tests.
+
+### Software / Accessibility & Usability Testing
+
+*   [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
+*   [Oh My Android (⭐60)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
+
+### Software / Performance & Load Testing
+
+*   [vhr-bench (⭐2)](https://github.com/vpshostreview/vhr-vps-benchmark) - One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.
+
+### Software / Test Automation Frameworks
+
+*   [behave (⭐2)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
+
+### Software / Static Analysis
+
+*   [SmartBench (⭐2)](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
+
+### Newsletters / Static Analysis
+
+*   [RoleGig QA & Testing](https://rolegig.com/qa-testing/) - Weekly list of QA, test automation and SDET jobs in India, the US, Canada, Europe, Australia and the Gulf.
+
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
 
 ### Software / Browser Extensions & Utilities
@@ -294,7 +355,7 @@ A curated list of testing resources
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
-### Training (Includes developer training for automation testers) / A/B Testing
+### Training (Includes developer training for automation testers) / Static Analysis
 
 *   [FrontRow (⭐7)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 
@@ -392,7 +453,7 @@ A curated list of testing resources
 
 *   [mockd (⭐150)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
-### Blogs / A/B Testing
+### Blogs / Static Analysis
 
 *   [And others (⭐119)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
@@ -429,7 +490,7 @@ A curated list of testing resources
 *   [flutter-skill (⭐393)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
-### Newsletters / A/B Testing
+### Newsletters / Static Analysis
 
 *   [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
 
@@ -596,7 +657,7 @@ A curated list of testing resources
 
 *   [RestQA (⭐93)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 
-### Training (Includes developer training for automation testers) / A/B Testing
+### Training (Includes developer training for automation testers) / Static Analysis
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
@@ -626,13 +687,13 @@ A curated list of testing resources
 
 ## [Nov 25, 2021](/content/2021/11/25/README.md)
 
-### Books / A/B Testing
+### Books / Static Analysis
 
 *   [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
-### Books / A/B Testing
+### Books / Static Analysis
 
 *   [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 *   [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
@@ -657,7 +718,7 @@ A curated list of testing resources
 
 ## [Apr 07, 2021](/content/2021/04/07/README.md)
 
-### Blogs / A/B Testing
+### Blogs / Static Analysis
 
 *   [Automation Panda](https://automationpanda.com/)
 
@@ -669,25 +730,25 @@ A curated list of testing resources
 
 ## [Dec 04, 2020](/content/2020/12/04/README.md)
 
-### Newsletters / A/B Testing
+### Newsletters / Static Analysis
 
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## [Oct 14, 2020](/content/2020/10/14/README.md)
 
-### Blogs / A/B Testing
+### Blogs / Static Analysis
 
 *   [Softwaretester Blog](https://www.softwaretester.blog/)
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
-### Books / A/B Testing
+### Books / Static Analysis
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
 
 ## [Apr 30, 2020](/content/2020/04/30/README.md)
 
-### Books / A/B Testing
+### Books / Static Analysis
 
 *   [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - A book on how to design and execute controlled software failure experiments.
 
@@ -713,7 +774,7 @@ A curated list of testing resources
 
 ## [Nov 23, 2019](/content/2019/11/23/README.md)
 
-### Blogs / A/B Testing
+### Blogs / Static Analysis
 
 *   [Nikita Sobolev](https://sobolevn.me/)
 
@@ -763,7 +824,7 @@ A curated list of testing resources
 
 *   [TestLink (⭐1.6k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 
-### Books / A/B Testing
+### Books / Static Analysis
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
@@ -777,7 +838,7 @@ A curated list of testing resources
 
 ## [Jun 04, 2018](/content/2018/06/04/README.md)
 
-### Blogs / A/B Testing
+### Blogs / Static Analysis
 
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
@@ -850,7 +911,7 @@ A curated list of testing resources
 
 *   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 
-### Training (Includes developer training for automation testers) / A/B Testing
+### Training (Includes developer training for automation testers) / Static Analysis
 
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
 *   [Cybrary](https://www.cybrary.it/) - Online free security training.

@@ -16,6 +16,18 @@
 
 *   :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 
+### Collections / Voxel Editors
+
+*   :free: [PulseLite UI SFX](https://bigshadex.itch.io/pulselite-ui-sfx-free) - 20 free UI sounds (clicks, hovers, confirms, errors, rewards) in WAV/OGG, procedurally synthesized with no samples or AI audio models, sounds CC BY 4.0, plus an optional Godot 4 drop-in script (MIT).
+
+### Music and Audio Editors / Voxel Editors
+
+*   :money\_with\_wings: [CICA AUDIO](https://cicaaudio.com/) - AI sound effect generator for games and UI. Analyzes gameplay recordings, detects sound events, and generates synchronized WAV files.
+
+### Project Management / Voxel Editors
+
+*   :money\_with\_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Engines and Frameworks / Voxel Editors

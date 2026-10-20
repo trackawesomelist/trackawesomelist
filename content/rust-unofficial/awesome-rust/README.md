@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 20, 2026](/content/2026/10/20/README.md)
+
+### Applications / Database
+
+*   [PgCache/pgcache (⭐77)](https://github.com/PgCache/pgcache) - A wire-compatible PostgreSQL caching proxy for repeated queries, kept fresh from the logical replication stream.
+
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
 
 ### Applications
