@@ -6,6 +6,12 @@ Curated list of fonts and everything
 
 [ Daily / [Weekly](/content/brabadu/awesome-fonts/week/README.md) / [Overview](/content/brabadu/awesome-fonts/readme/README.md) ]
 
+## [Oct 21, 2026](/content/2026/10/21/README.md)
+
+### Free fonts / Fonts
+
+*   [Open Baskerville (⭐392)](https://github.com/klepas/open-baskerville)
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### General
@@ -36,10 +42,6 @@ Curated list of fonts and everything
 *   [Simple Analog Clock Font (⭐8)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
-
-### General
-
-*   [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 
 ### Free fonts / Collections
 
@@ -86,12 +88,6 @@ Curated list of fonts and everything
 ### Other / Event listeners for fonts loading on a web page
 
 *   [fnt (⭐645)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
-
-## [Mar 21, 2023](/content/2023/03/21/README.md)
-
-### Free fonts / Collections
-
-*   [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
 
 ## [Sep 29, 2022](/content/2022/09/29/README.md)
 
@@ -173,16 +169,12 @@ Curated list of fonts and everything
 
 *   [Cascadia Code (⭐28k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
 
-### Other / Event listeners for fonts loading on a web page
-
-*   [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
-
 ## [Apr 10, 2019](/content/2019/04/10/README.md)
 
 ### Free fonts / Collections
 
 *   [USWDS](https://github.com/uswds) - U.S. Web Design System
-    *   [Public Sans](https://public-sans.digital.gov/)
+    *   [Public Sans (⭐4.8k)](https://github.com/uswds/public-sans)
 
 ## [Oct 26, 2018](/content/2018/10/26/README.md)
 
@@ -363,7 +355,6 @@ Curated list of fonts and everything
 
 *   [Appa Sariicon (⭐33)](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
 *   [Country Icons (⭐12k)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
-*   [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 *   [Font Custom (⭐3.3k)](https://github.com/FontCustom/fontcustom) - Icon font generator
 *   [font-mfizz (⭐539)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
 *   [FontAwesomeKit (⭐2.8k)](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
@@ -453,12 +444,6 @@ Curated list of fonts and everything
 ### Iconic fonts / Fonts
 
 *   [WebHostingHub Glyphs (⭐265)](https://github.com/whhglyphs/webhostinghub-glyphs)
-
-## [Feb 27, 2016](/content/2016/02/27/README.md)
-
-### Free fonts / Fonts
-
-*   [Open Baskerville](http://klepas.org/openbaskerville/)
 
 ## [Feb 18, 2016](/content/2016/02/18/README.md)
 

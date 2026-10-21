@@ -12,6 +12,10 @@ Collection of Games that have the source code available on GitHub
 
 *   [PlayHex (⭐73)](https://github.com/playhex/playhex) - Online Hex board game with real-time and correspondence play, AI opponents, rated games, puzzles and game analysis. Built with TypeScript and Vue.
 
+### Browser-Based / Sandbox
+
+*   [The Human Box (⭐61)](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Browser-Based / Boardgame
@@ -270,7 +274,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / MMORPG
 
-*   [Reia (⭐963)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
+*   [Reia (⭐979)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
@@ -599,7 +603,7 @@ Collection of Games that have the source code available on GitHub
 *   [C-Dogs SDL (⭐1.1k)](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 *   [Chaos Projectile (⭐68)](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 *   [Clonepoint (⭐71)](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
-*   [DynaDungeons (⭐242)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
+*   [DynaDungeons (⭐246)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 *   [Duckmarines (⭐121)](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 *   [Falling Time (⭐28)](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 *   [Kroniax (⭐20)](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
@@ -761,7 +765,7 @@ Collection of Games that have the source code available on GitHub
 *   [Cocos2d for Android (⭐599)](https://github.com/ZhouWeikuan/cocos2d) - Based on cocos2d-Android-0.82, and now ported from cocos2d-iphone 0.99.4.
 *   [Cocos2d-x (⭐19k)](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 *   [Crafty (⭐3.6k)](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
-*   [Dash (⭐426)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
+*   [Dash (⭐425)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 *   [Duality (⭐1.4k)](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 *   [Evennia MUD/MU\* Creation System (⭐2.1k)](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 *   [Flare (⭐41)](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.

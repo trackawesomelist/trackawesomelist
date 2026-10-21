@@ -27,7 +27,6 @@ A curated list of fonts and typography resources.
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 *   [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-*   [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 *   [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 *   [font-contrast (⭐0)](https://github.com/ayaanahad/font-contrast) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 *   [Typewolf](https://www.typewolf.com/)
@@ -57,8 +56,7 @@ A curated list of fonts and typography resources.
 *   [Plex (⭐12k)](https://github.com/IBM/plex) - IBM's open source font
 *   [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 *   [USWDS](https://github.com/uswds) - U.S. Web Design System
-    *   [Public Sans](https://public-sans.digital.gov/)
-*   [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
+    *   [Public Sans (⭐4.8k)](https://github.com/uswds/public-sans)
 
 #### Fonts
 
@@ -70,7 +68,7 @@ A curated list of fonts and typography resources.
 *   [Libre Franklin (⭐426)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 *   [Martian Mono (⭐2.7k)](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 *   [Monaspace (⭐20k)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-*   [Open Baskerville](http://klepas.org/openbaskerville/)
+*   [Open Baskerville (⭐392)](https://github.com/klepas/open-baskerville)
 *   [Redacted (⭐5.4k)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 *   [SansBullshitSans (⭐324)](https://github.com/RoelN/SansBullshitSans)
 *   [Urbanist (⭐567)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
@@ -114,7 +112,6 @@ A curated list of fonts and typography resources.
 *   [Appa Sariicon (⭐33)](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
 *   [Country Icons (⭐12k)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 *   [Crypto animal font (⭐7)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
-*   [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 *   [Font Custom (⭐3.3k)](https://github.com/FontCustom/fontcustom) - Icon font generator
 *   [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
 *   [font-mfizz (⭐539)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
@@ -220,7 +217,6 @@ A curated list of fonts and typography resources.
 
 *   [Command line font-manager (⭐20)](https://github.com/alyssais/font)
 *   [fnt (⭐645)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
-*   [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 *   [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 *   [FontForge (⭐8k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
 *   [Powerline Fonts (⭐26k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users

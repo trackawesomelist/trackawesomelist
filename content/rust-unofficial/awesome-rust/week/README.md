@@ -10,6 +10,8 @@ A curated list of Rust code and resources.
 
 ### Applications
 
+*   [alexandrosnt/Reach (⭐108)](https://github.com/alexandrosnt/Reach) - Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri [![Build check](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml/badge.svg?branch=main)](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml)
+*   [datavzrd/datavzrd (⭐681)](https://github.com/datavzrd/datavzrd) \[[datavzrd](https://crates.io/crates/datavzrd)] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration [![build badge](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml)
 *   [terraphim/terraphim-ai (⭐66)](https://github.com/terraphim/terraphim-ai) \[[terraphim-grep](https://crates.io/crates/terraphim-grep)] - Local-first knowledge-graph search engine and privacy-preserving AI assistant: deterministic Aho-Corasick retrieval over role-based thesauri, native MCP server, agent session memory
 
 ### Applications / Database
@@ -17,6 +19,30 @@ A curated list of Rust code and resources.
 *   [HasteHealth/HasteHealth (⭐84)](https://github.com/HasteHealth/HasteHealth) - High-performance FHIR R4 clinical data repository (healthcare data server) built on Postgres [![Tests](https://github.com/HasteHealth/HasteHealth/actions/workflows/test_units.yml/badge.svg?branch=main)](https://github.com/HasteHealth/HasteHealth/actions/workflows/test_units.yml)
 *   [HeliosDatabase/HeliosDB-Nano (⭐10)](https://github.com/HeliosDatabase/HeliosDB-Nano) \[[heliosdb-nano](https://crates.io/crates/heliosdb-nano)] - Embedded database with PostgreSQL and MySQL wire protocols, git-like branching, time-travel queries and HNSW vector search [![Tests](https://github.com/HeliosDatabase/HeliosDB-Nano/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/HeliosDatabase/HeliosDB-Nano/actions/workflows/tests.yml)
 *   [PgCache/pgcache (⭐77)](https://github.com/PgCache/pgcache) - A wire-compatible PostgreSQL caching proxy for repeated queries, kept fresh from the logical replication stream.
+
+### Applications / Games
+
+*   [1homsi/thehumanbox (⭐61)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
+
+### Applications / Image processing
+
+*   [Hugo-Dz/spritefusion-sprite-normals (⭐179)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
+
+### Applications / Productivity
+
+*   [runxhq/runx (⭐104)](https://github.com/runxhq/runx) - Local runtime for agent skills with explicit authority, CLI and MCP access, and verifiable execution receipts. [![CI](https://github.com/runxhq/runx/actions/workflows/ci.yml/badge.svg)](https://github.com/runxhq/runx/actions/workflows/ci.yml)
+
+### Applications / System tools
+
+*   [AppachiTech/suvadu (⭐111)](https://github.com/AppachiTech/suvadu) \[[suvadu](https://crates.io/crates/suvadu)] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server [![CI](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml)
+
+### Libraries / Cryptography
+
+*   [po0uyan/memsafe (⭐118)](https://github.com/po0uyan/memsafe) \[[memsafe](https://crates.io/crates/memsafe)] - Locked, sealed, zero-on-drop memory for secrets. [![CI](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml/badge.svg?branch=main)](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml)
+
+### Libraries / Data processing
+
+*   [marcomq/mq-bridge (⭐24)](https://github.com/marcomq/mq-bridge) \[[mq-bridge](https://crates.io/crates/mq-bridge)] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware [![CI](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml)
 
 ### Libraries / GUI
 
@@ -146,7 +172,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [cmccomb/rust-automl (⭐38)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
+*   [cmccomb/rust-automl (⭐39)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
 *   [Mattbusel/tokio-prompt-orchestrator (⭐59)](https://github.com/Mattbusel/tokio-prompt-orchestrator) \[[tokio-prompt-orchestrator](https://crates.io/crates/tokio-prompt-orchestrator)] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.
 *   [samvallad33/vestige (⭐648)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
@@ -205,7 +231,7 @@ A curated list of Rust code and resources.
 
 *   Code Coverage
     *   [minikin/cargo-crap (⭐422)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
-    *   [supercorp-ai/supercov (⭐145)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
+    *   [supercorp-ai/supercov (⭐157)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
 ### Libraries / Authentication
@@ -327,7 +353,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Build system
 
-*   [rui314/mold (⭐17k)](https://github.com/rui314/mold) - A modern, high-speed linker for Linux, macOS, and Windows (ELF, Mach-O, PE)
+*   [rui314/mold (⭐18k)](https://github.com/rui314/mold) - A modern, high-speed linker for Linux, macOS, and Windows (ELF, Mach-O, PE)
 *   [wislertt/zerv (⭐15)](https://github.com/wislertt/zerv) \[[zerv](https://crates.io/crates/zerv)] - Dynamic versioning tool that generates a version for every build from any Git state, with SemVer, PEP 440, and CalVer output [![CI](https://github.com/wislertt/zerv/actions/workflows/cd.yml/badge.svg?branch=main)](https://github.com/wislertt/zerv/actions/workflows/cd.yml)
 
 ### Libraries / Caching
@@ -431,7 +457,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [Jorji49/streamtop (⭐117)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+*   [Jorji49/streamtop (⭐120)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
 
 ### Development tools / Workflow Automation
 
@@ -502,7 +528,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Workflow Automation
 
-*   [dali-benothmen/woml (⭐132)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+*   [dali-benothmen/woml (⭐131)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
 
 ### Libraries / Data processing
 
@@ -535,11 +561,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [GCWing/BitFun (⭐2.4k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐2.9k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 
 ### Applications / MLOps
 
-*   [Uteke (⭐269)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐274)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
@@ -2796,7 +2822,7 @@ A curated list of Rust code and resources.
     *   [fschutt/printpdf (⭐1.1k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [fullbleed-engine/fullbleed-official (⭐90)](https://github.com/fullbleed-engine/fullbleed-official) \[[fullbleed](https://crates.io/crates/fullbleed)] - Print-focused HTML/CSS-to-PDF engine with reusable templates, variable-data generation, and Python bindings. [![CI](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml)
     *   [gastongouron/ironpress (⭐676)](https://github.com/gastongouron/ironpress) \[[ironpress](https://crates.io/crates/ironpress)] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies. [![CI](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml)
-    *   [hayro (⭐780)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
+    *   [hayro (⭐811)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
     *   [J-F-Liu/lopdf (⭐2.3k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐150)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
     *   [yfedoseev/pdf\_oxide (⭐1.1k)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings

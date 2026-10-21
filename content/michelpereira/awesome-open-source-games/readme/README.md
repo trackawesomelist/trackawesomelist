@@ -194,6 +194,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Blk Game (⭐54)](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 *   [Cube Engine (⭐186)](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 *   [Sandboxels (⭐466)](https://github.com/R74nCom/sandboxels) - Falling-sand experimentation game with over 500 materials to play with.
+*   [The Human Box (⭐61)](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
 
 ### Puzzle
 
@@ -274,7 +275,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [C-Dogs SDL (⭐1.1k)](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 *   [Chaos Projectile (⭐68)](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 *   [Clonepoint (⭐71)](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
-*   [DynaDungeons (⭐242)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
+*   [DynaDungeons (⭐246)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 *   [Duckmarines (⭐121)](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 *   [Falling Time (⭐28)](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 *   [Kroniax (⭐20)](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
@@ -317,7 +318,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 *   [Open-Ko (⭐366)](https://github.com/Open-KO/KnightOnline) - Reimplementation of old-school Knight Online that replicates the 1299 client functionality while preserving accuracy and compatibility with the version 1299 client and server.
 *   [Meridian 59 (⭐518)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
-*   [Reia (⭐963)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
+*   [Reia (⭐979)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 *   [Stendhal (⭐703)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 *   [Veloren (⭐7.6k)](https://github.com/veloren/veloren) - An action-adventure role-playing game set in a vast fantasy world.
 
@@ -521,7 +522,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Cocos2d-x (⭐19k)](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 *   [Crafty (⭐3.6k)](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
 *   [CutJavaScript (⭐2.6k)](https://github.com/piqnt/stage.js) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
-*   [Dash (⭐426)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
+*   [Dash (⭐425)](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 *   [Duality (⭐1.4k)](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 *   [EaselJavaScript (⭐8.2k)](https://github.com/createjs/easeljs) - Library to make working with the Canvas element easier.
 *   [EntityJavaScript (⭐185)](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.

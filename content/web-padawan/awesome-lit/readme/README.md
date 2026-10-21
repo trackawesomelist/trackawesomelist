@@ -153,6 +153,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
 *   [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
 *   [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
+*   [`picosm`](https://www.npmjs.com/package/picosm) - Lightweight, zero-dependency state manager for vanilla JavaScript with Lit integration.
 *   [`ullr`](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Design Systems
@@ -344,7 +345,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome (⭐521k)](https://github.com/sindresorhus/awesome) list!**
 
 ***
 

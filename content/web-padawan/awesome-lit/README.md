@@ -6,6 +6,12 @@ A curated list of awesome Lit resources.
 
 [ Daily / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / [Overview](/content/web-padawan/awesome-lit/readme/README.md) ]
 
+## [Oct 21, 2026](/content/2026/10/21/README.md)
+
+### Extensions
+
+*   [`picosm`](https://www.npmjs.com/package/picosm) - Lightweight, zero-dependency state manager for vanilla JavaScript with Lit integration.
+
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
 ### Starter Templates
