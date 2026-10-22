@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 397K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 399K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md) / Overview ]
 
@@ -104,7 +104,7 @@
 *   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 *   [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
-*   [Github帮助文档 (⭐842)](https://github.com/waylau/github-help) - Way Lau
+*   [Github帮助文档 (⭐841)](https://github.com/waylau/github-help) - Way Lau
 *   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
 *   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
 *   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
@@ -156,7 +156,7 @@
 ### 大数据
 
 *   [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
-*   [数据挖掘中经典的算法实现和详细的注释 (⭐3.9k)](https://github.com/linyiqun/DataMiningAlgorithm)
+*   [数据挖掘中经典的算法实现和详细的注释 (⭐4k)](https://github.com/linyiqun/DataMiningAlgorithm)
 *   [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
 ### 分布式系统
@@ -186,6 +186,7 @@
 *   [深入理解并行编程](http://ifeve.com/perfbook/)
 *   [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 *   [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+*   [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
 
 ### 人工智能
 
@@ -197,13 +198,14 @@
 *   [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 *   [深度学习500问 (⭐58k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 *   [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
-*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐10)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
+*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐12)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
 *   [遊戲策劃實務即用的 AI · Claude Code 活用法 (⭐1)](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
 
 ### 软件开发方法
 
 *   [傻瓜函数编程 (⭐1.8k)](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
 *   [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+*   [重构程序员](https://cocode.qizhen.xyz) - 阮奇桢 *( :construction: in process)*
 
 ### 设计模式
 
@@ -259,15 +261,15 @@
 *   [所需即所获：像 IDE 一样使用 vim (⭐9.2k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
 *   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 *   [IntelliJ IDEA 简体中文专题教程 (⭐22k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
-*   [Vim中文文档 (⭐218)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
+*   [Vim中文文档 (⭐219)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 
 ### Web
 
 *   [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 *   [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 *   [前端开发体系建设日记 (⭐23k)](https://github.com/fouber/blog/issues/2)
-*   [前端资源分享（二） (⭐517)](https://github.com/hacke2/hacke2.github.io/issues/3)
-*   [前端资源分享（一） (⭐517)](https://github.com/hacke2/hacke2.github.io/issues/1)
+*   [前端资源分享（二） (⭐516)](https://github.com/hacke2/hacke2.github.io/issues/3)
+*   [前端资源分享（一） (⭐516)](https://github.com/hacke2/hacke2.github.io/issues/1)
 *   [移动前端开发收藏夹 (⭐1.7k)](https://github.com/hoosin/mobile-web-favorites)
 *   [移动Web前端知识库 (⭐9.7k)](https://github.com/AlloyTeam/Mars)
 *   [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -278,7 +280,7 @@
 *   [Grunt中文文档](http://www.gruntjs.net)
 *   [Gulp 入门指南 (⭐1.8k)](https://github.com/nimojs/gulp-book)
 *   [gulp中文文档](http://www.gulpjs.com.cn/docs/)
-*   [HTTP 接口设计指北 (⭐2.6k)](https://github.com/bolasblack/http-api-guide)
+*   [HTTP 接口设计指北 (⭐2.5k)](https://github.com/bolasblack/http-api-guide)
 *   [JSON风格指南 (⭐1.4k)](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 *   [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
 
@@ -312,7 +314,7 @@
 
 ### C
 
-*   [新概念 C 语言教程 (⭐519)](https://github.com/limingth/NCCL)
+*   [新概念 C 语言教程 (⭐521)](https://github.com/limingth/NCCL)
 *   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 *   [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 *   [C 语言教程](https://wangdoc.com/clang/)
@@ -331,7 +333,7 @@
 *   [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous ( :construction: *in process*)
 *   [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 *   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
-*   [C/C++ Primer (⭐306)](https://github.com/andycai/cprimer) - andycai
+*   [C/C++ Primer (⭐302)](https://github.com/andycai/cprimer) - andycai
 *   [C++ 并发编程指南 (⭐5.5k)](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 *   [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 *   [C++ Primer 5th Answers (⭐8.3k)](https://github.com/Mooophy/Cpp-Primer)
@@ -457,7 +459,7 @@
 *   [你不知道的JavaScript (⭐185k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 *   [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 *   [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
-*   [Airbnb JavaScript 规范 (⭐634)](https://github.com/adamlu/javascript-style-guide)
+*   [Airbnb JavaScript 规范 (⭐635)](https://github.com/adamlu/javascript-style-guide)
 *   [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
 *   [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *( :card\_file\_box: archived)*
 *   [javascript 的 12 个怪癖 (⭐260)](https://github.com/justjavac/12-javascript-quirks)
@@ -511,7 +513,7 @@
 *   [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
 *   [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
 *   [Node.js 包教不包会 (⭐16k)](https://github.com/alsotang/node-lessons)
-*   [Node.js Fullstack《從零到一的進撃》 (⭐356)](https://github.com/jollen/nodejs-fullstack-lessons)
+*   [Node.js Fullstack《從零到一的進撃》 (⭐355)](https://github.com/jollen/nodejs-fullstack-lessons)
 *   [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 *   [Nodejs Wiki Book (⭐415)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
 *   [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
@@ -520,8 +522,8 @@
 #### React.js
 
 *   [Learn React & Webpack by building the Hacker News front page (⭐408)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐713)](https://github.com/hateonion/react-bits-CN)
-*   [React webpack-cookbook (⭐266)](https://github.com/fakefish/react-webpack-cookbook)
+*   [React-Bits 中文文档 (⭐714)](https://github.com/hateonion/react-bits-CN)
+*   [React webpack-cookbook (⭐265)](https://github.com/fakefish/react-webpack-cookbook)
 *   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 *   [React.js 中文文档](https://discountry.github.io/react/)
 
@@ -618,6 +620,7 @@
 *   [Numpy 1.16 中文文档](https://www.osgeo.cn/numpy/) (Online)
 *   [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.org/en/latest/)
 *   [Python 3.8.0a3中文文档](https://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+*   [Python 教程](https://py.qizhen.xyz) - 阮奇桢
 *   [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 *   [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 *   [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
@@ -651,7 +654,7 @@
 *   [Ruby 风格指南 (⭐127)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 *   [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 *   [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
-*   [Sinatra](http://www.sinatrarb.com/intro-zh.html)
+*   [Sinatra](https://web.archive.org/web/20220118142227/http://sinatrarb.com/intro-zh.html) *( :card\_file\_box: archived)*
 
 ### Rust
 

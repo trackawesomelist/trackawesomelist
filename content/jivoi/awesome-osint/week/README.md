@@ -12,11 +12,27 @@
 
 *   [CertStream API](https://certstream.dev/free-certstream-api.html) - Free real-time WebSocket stream of newly issued SSL/TLS certificates and domain names from Certificate Transparency logs, no API key required
 
+### Social Media Tools / Twitter
+
+*   [TwexAPI Twitter Viewer](https://twexapi.io/twitter-viewer) - View a public X (Twitter) profile and its latest posts without logging in or creating an account.
+
+### Social Media Tools / TikTok
+
+*   [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
+
 ### Social Media Tools / WhatsApp
 
 *   [2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
 *   [Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
 *   [Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
+
+### Username Check / GitHub
+
+*   [Threat Actor Username Search](https://threatactorusernames.com) - Search through 3M+ threat actor usernames to find where criminals and baddies post online and operate.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -49,10 +65,10 @@
 ### Social Media Tools / Telegram
 
 *   [Telegram-Archive (⭐223)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
-*   [tg-chat-dump (⭐3)](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
+*   [tg-chat-dump (⭐4)](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
 *   [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 *   [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
-*   [Tme-s (⭐0)](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
+*   [Tme-s (⭐1)](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
 
 ### Image Search / GitHub
 
@@ -72,7 +88,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [Dread Scraper (⭐2)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
+*   [Dread Scraper (⭐3)](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -185,7 +201,6 @@
 *   [Baidu (China)](https://www.baidu.com) - The major search engine used in China
 *   [Eniro (Sweden)](https://www.eniro.se)
 *   [Gerdoo (Iran)](https://gerdoo.me)
-*   [Goo (Japan)](https://www.goo.ne.jp)
 *   [Najdi (Slovenia)](https://www.najdi.si)
 *   [Naver (South Korea)](https://www.naver.com)
 *   [Onet.pl (Poland)](https://www.onet.pl)
@@ -204,7 +219,6 @@
 *   [AllTheInternet](https://www.alltheinternet.com)
 *   [Etools](https://www.etools.ch)
 *   [FaganFinder](https://www.faganfinder.com/engines)
-*   [Goofram](https://www.goofram.com)
 *   [iZito](https://www.izito.com)
 *   [Myallsearch](https://www.myallsearch.com)
 *   [Qwant](https://www.qwant.com) - French search engine that relies on Microsoft Bing.
@@ -212,10 +226,7 @@
 ### Speciality Search Engines
 
 *   [2lingual Search](https://www.2lingual.com)
-*   [Biznar](https://biznar.com)
-*   [CiteSeerX](https://citeseer.ist.psu.edu)
 *   [Google Custom Search](https://www.google.com/cse)
-*   [WorldWideScience.org](https://worldwidescience.org)
 
 ### Data and Statistics / GitHub
 
@@ -225,7 +236,6 @@
 *   [AWS Public Datasets](https://aws.amazon.com/datasets)
 *   [Bank for International Settlements Statistics](https://www.bis.org/statistics/index.htm)
 *   [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
-*   [Center for International Earth Science Information Network](https://www.ciesin.org)
 *   [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
 *   [DBPedia](https://wiki.dbpedia.org)
 *   [European Union Open Data Portal](https://open-data.europa.eu/en/data)
@@ -249,7 +259,6 @@
 *   [Nation Master](https://www.nationmaster.com/statistics)
 *   [OECD Aid Database](https://www.oecd.org/dac/stats/data.htm)
 *   [OECD Factbook](https://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
-*   [Open Data Network](https://www.opendatanetwork.com)
 *   [Paul Hensel’s General Informational Data Page](https://www.paulhensel.org/dataintl.html)
 *   [Penn World Table](https://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 *   [Pew Research Center](https://www.pewinternet.org/datasets)
@@ -278,7 +287,6 @@
 *   [World Bank Data](https://datatopics.worldbank.org/consumption/home)
 *   [World Bank Doing Business](https://www.doingbusiness.org)
 *   [World Bank Enterprise Surveys](https://www.enterprisesurveys.org)
-*   [World Bank Investing Across Borders](https://iab.worldbank.org)
 *   [World Integrated Trade Solution](https://wits.worldbank.org)
 
 ### Visual Search and Clustering Search Engines
@@ -399,7 +407,6 @@
 *   [Email Address Validator](https://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 *   [Email Format](https://email-format.com) - is a website that allows you to find email address formats used by different companies.
 *   [MailTester](https://mailtester.com) - hunt for emails and improve your email deliverability
-*   [Peepmail](https://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 *   [Verify Email](https://verify-email.org) - The fastest and most accurate email verification tool.
 
 ### Phone Number Research / GitHub
@@ -429,7 +436,6 @@
 
 *   [AllStocksLinks](https://www.allstocks.com/links)
 *   [Better Business Bureau](https://www.bbb.org)
-*   [Bizeurope](https://www.bizeurope.com)
 *   [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp)
 *   [Bureau Van Dijk](https://www.bvdinfo.com)
 *   [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
@@ -437,7 +443,6 @@
 *   [Corporate Information](https://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
 *   [EDGAR U.S. Securities and Exchange Commission Filings](https://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 *   [Europages](https://www.europages.co.uk)
-*   [European Business Register](https://www.ebr.org)
 *   [Ezilon](https://www.ezilon.com)
 *   [Forbes Global 2000](https://www.forbes.com/global2000/)
 *   [globalEdge](https://globaledge.msu.edu)
@@ -447,7 +452,6 @@
 *   [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 *   [Mergent Intellect](https://www.mergentintellect.com)
 *   [Mergent Online](https://www.mergentonline.com/login.php)
-*   [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 *   [Plunkett Research](https://www.plunkettresearchonline.com)
 *   [Scoot](https://www.scoot.co.uk)
 *   [SpyFu](https://www.spyfu.com)
@@ -495,16 +499,13 @@
 *   [GraphyStories](https://app.graphystories.com)
 *   [Infosniper](https://www.infosniper.net)
 *   [IP 2 Geolocation](https://ip2geolocation.com)
-*   [IP Checking](https://www.ipchecking.com)
 *   [IPFingerprints](https://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 *   [IPVoid](https://www.ipvoid.com) - IP address toolset.
 *   [Kloth](https://www.kloth.net/services)
 *   [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 *   [OpenLinkProfiler](https://www.openlinkprofiler.org/)
-*   [PageGlimpse](https://www.pageglimpse.com)
 *   [RedirectDetective](https://redirectdetective.com)
 *   [SameID](https://sameid.net)
-*   [SEO Chat Tools](https://tools.seochat.com)
 *   [SEOTools for Excel](https://seotoolsforexcel.com)
 *   [SmallSEOTools](https://smallseotools.com)
 *   [StatsCrop](https://www.statscrop.com)
@@ -535,7 +536,6 @@
 
 *   [Archive.is](https://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 *   [BlackWidow](https://softbytelabs.com/wp/blackwidow/)
-*   [CashedPages](https://www.cachedpages.com)
 *   [CachedView](https://cachedview.com)
 
 ### Image Search / GitHub
@@ -547,7 +547,6 @@
 *   [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool)
 *   [FotoForensics](https://www.fotoforensics.com)
 *   [ImpulseAdventure](https://www.impulseadventure.com/photo/jpeg-snoop.html)
-*   [Jeffreys Image Metadata Viewer](https://exif.regex.info/)
 
 ### Video Search and Other Video Tools / GitHub
 
@@ -558,7 +557,6 @@
 *   [Earthcam](https://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
 *   [Geosearch](https://www.geosearchtool.com)
 *   [Insecam](https://insecam.org/) - Live cameras directory
-*   [Metacafe](https://www.metacafe.com)
 *   [Metatube](https://www.metatube.com)
 *   [Veoh](https://www.veoh.com)
 *   [Yahoo Video Search](https://video.search.yahoo.com)
@@ -571,13 +569,11 @@
 *   [Base](https://www.base-search.net)
 *   [Bibsonomy](https://www.bibsonomy.org)
 *   [Grey Guide](https://greyguide.isti.cnr.it)
-*   [Grey Literature Strategies](https://greylitstrategies.info)
 *   [Grey Literature – List of Gateways](https://csulb.libguides.com/graylit)
 *   [GreyNet International](https://www.greynet.org)
 *   [HighWire: Free Online Full-text Articles](https://highwire.stanford.edu/lists/freeart.dtl)
 *   [Journal Seek](https://journalseek.net)
 *   [JSTOR](https://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
-*   [Lazy Scholar](https://www.lazyscholar.org)
 *   [Microsoft Academic](https://academic.research.microsoft.com)
 *   [NRC Research Press](https://www.nrcresearchpress.com)
 *   [OA.mg](https://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
@@ -595,8 +591,6 @@
 *   [Taylor & Francis Online](https://www.tandfonline.com)
 *   [The Open Syllabus Project](https://opensyllabusproject.org/)
 *   [World Digital Library](https://www.wdl.org)
-*   [World Science](https://worldwidescience.org)
-*   [Zetoc](https://zetoc.jisc.ac.uk)
 
 ### Geospatial Research and Mapping Tools / GitHub
 
@@ -614,9 +608,7 @@
 *   [Inspire Geoportal](https://inspire-geoportal.ec.europa.eu)
 *   [Instant Google Street View](https://www.instantstreetview.com)
 *   [InstantAtlas](https://www.instantatlas.com)
-*   [Kartograph](https://kartograph.org)
 *   [MapAList](https://mapalist.com)
-*   [Maperitive](https://maperitive.net)
 *   [MapJam](https://mapjam.com)
 *   [Modest Maps](https://modestmaps.com)
 *   [Open Street Map](https://www.openstreetmap.org)
@@ -637,11 +629,9 @@
 *   [OpenLayers](https://openlayers.org) - A high-performance, feature-packed library for all your mapping needs.
 *   [Aeon](https://www.aeontimeline.com)
 *   [Arbor.js](https://arborjs.org)
-*   [Beaker](https://beakernotebook.com)
 *   [Bizint](https://www.bizint.com)
 *   [Chart.js](https://www.chartjs.org) - a javascript library that allows you to create charts easly
 *   [chartblocks](https://www.chartblocks.com)
-*   [Circos](https://circos.ca)
 *   [creately](https://creately.com)
 *   [Crossfilter](https://square.github.io/crossfilter)
 *   [Data Visualization Catalogue](https://datavizcatalogue.com)
@@ -682,7 +672,6 @@
 *   [ABYZNewsLinks](https://www.abyznewslinks.com)
 *   [Agence France-Presse (AFP)](https://www.afp.com)
 *   [AllYouCanRead](https://www.allyoucanread.com)
-*   [AP](https://hosted.ap.org)
 *   [BBC News](https://www.bbc.co.uk/news)
 *   [Bing News](https://www.bing.com/news)
 *   [CNN](https://edition.cnn.com)
@@ -692,15 +681,9 @@
 *   [Factiva](https://www.dowjones.com/factiva)
 *   [France24](https://www.france24.com)
 *   [Google News Print Archive](https://news.google.com/newspapers)
-*   [HeadlineSpot](https://www.headlinespot.com)
-*   [Itar-Tass](https://www.itar-tass.com)
-*   [MagPortal](https://www.magportal.com)
-*   [News Map](https://newsmap.jp)
 *   [News Now](https://www.newsnow.co.uk)
 *   [Newseum - Today Front Pages](https://www.newseum.org/todaysfrontpages)
-*   [NewsLookup](https://www.newslookup.com)
 *   [Newspaper Map](https://newspapermap.com)
-*   [Newspaperindex](https://www.newspaperindex.com)
 *   [Newspapers.com](https://www.newspapers.com)
 *   [NewsWhip](https://www.newswhip.com)
 *   [OnlineNewspapers](https://www.onlinenewspapers.com)
@@ -708,7 +691,6 @@
 *   [PR Newswire](https://www.prnewswire.com)
 *   [Press Reader](https://www.pressreader.com)
 *   [Reuters](https://www.reuters.com)
-*   [Topix](https://www.topix.com)
 *   [WorldNews](https://wn.com)
 *   [World-Newspapers](https://www.world-newspapers.com)
 *   [Yahoo News](https://news.yahoo.com)
@@ -723,7 +705,6 @@
 *   [Deltafeed](https://bitreading.com/deltafeed)
 *   [DiggReader](https://digg.com/login?next=%2Freader)
 *   [FeedBooster](https://www.qsensei.com)
-*   [Feed Exileed](https://feed.exileed.com)
 *   [Feed Filter Maker](https://feed.janicek.co)
 *   [Feedly](https://www.feedly.com)
 *   [FeedReader](https://www.feedreader.com)
@@ -736,7 +717,6 @@
 *   [OmeaReader](https://www.jetbrains.com/omea/reader)
 *   [OnWebChange](https://onwebchange.com)
 *   [RSS Search Engine](https://ctrlq.org/rss)
-*   [RSS Search Hub](https://www.rsssearchhub.com)
 *   [RSSOwl](https://www.rssowl.org)
 *   [Selfoss](https://selfoss.aditu.de)
 *   [Talkwalker](https://www.talkwalker.com)
@@ -927,7 +907,6 @@
 ### Threat Intelligence / GitHub
 
 *   [defend.network](https://defend.network) - Free, no-login cyber threat intelligence publishing daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog. Content is structured by threat type, industry, and severity, with remediation guidance. RSS feed at defend.network/feed.xml.
-*   [Dropbase](https://dropbase.fun) -  a fast breach, malware log, and OSINT search workspace with daily credits, map tools, and live community chat.
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
@@ -1100,10 +1079,6 @@
 ### Data Breach Search Engines
 
 *   [Leaker (⭐601)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
-
-### Speciality Search Engines
-
-*   [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
 
 ### Social Media Tools / Twitter
 
@@ -1301,7 +1276,6 @@
 *   [Disconnect Search](https://search.disconnect.me/) - Stop search engines from tracking your searches.
 *   [Gibiru](https://gibiru.com/) - Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.
 *   [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
-*   [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 *   [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 *   [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 *   [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
@@ -1337,10 +1311,6 @@
 *   [Secure Gateway Live Cyber Threat Map](https://securegateway.com/map/v5/) -
 *   [Thale's Cyberthreat Map](https://cds.thalesgroup.com/en/cyberthreat/hitmap) - Discover cybersecurity trends with Thales' Cyberthreat map. Explore targeted areas, frequent attacks, affected sectors, and prevalent malware.
 *   [ThreatsEye | Live Cyber Threat Map](https://threatseye.io/threats-map) - Real-time visualization of global cyber attacks and threats. Monitor live cyber security incidents, attack origins, targets, and threat categories worldwide.
-
-### File Search
-
-*   [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 
 ### Social Media Tools / Instagram
 
@@ -1465,7 +1435,6 @@
 *   [Cutapaste](https://cutapaste.net/) - Short Code and Share.
 *   [Defuse](https://defuse.ca/pastebin.htm) - Encrypted Pastebin - Keep your data private and secure!
 *   [Etusivu](https://pastebin.fi/) - It's an open source clone of pastebin.com. Default Language is Finnish.
-*   [Friendpaste](https://friendpaste.com/) - Paste stuff to your friends.
 *   [Linkode(alpha)](https://linkode.org/) - Linkode is the useful pastebin!
 *   [nopaste.net](https://nopaste.net/) - nopaste.net is a temporary file host, nopaste and clipboard across machines. You can upload files or text and share the link with others.
 *   [Notes](https://notes.io/) - fast.easy.short.
@@ -1516,7 +1485,6 @@
 ### Browsers / GitHub
 
 *   [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser. Works only on Android.
-*   [Gnu Icecat](https://icecatbrowser.org/) -
 *   [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
 
 ### Gaming Platforms / GitHub
@@ -1681,7 +1649,6 @@
 
 ### People Investigations / GitHub
 
-*   [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
 *   [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 *   [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 *   [UK Phone Book](https://www.ukphonebook.com/) - Search people in a similar way as 192.com
@@ -1791,10 +1758,6 @@
 
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 
-### Company Research / GitHub
-
-*   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
-
 ### DNS / GitHub
 
 *   [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
@@ -1825,10 +1788,6 @@
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
-
-### Real-Time Search, Social Media Search, and General Social Media Tools
-
-*   [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
 
 ### People Investigations / GitHub
 
@@ -2044,10 +2003,6 @@
 
 *   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 
-### Phone Number Research / GitHub
-
-*   [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
-
 ### Infographics and Data Visualization / GitHub
 
 *   [Perspective (⭐11k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
@@ -2197,10 +2152,6 @@
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
-
-### Pastebins
-
-*   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers.
 
 ### Social Media Tools / Instagram
 
@@ -2425,7 +2376,6 @@
 
 ### Image Search / GitHub
 
-*   [Betaface](https://www.betaface.com/demo.html)
 *   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 
 ### Image Analysis / GitHub
@@ -2555,7 +2505,6 @@
 
 *   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 *   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
-*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 
 ### Company Research / GitHub
 
@@ -2656,7 +2605,6 @@
 ### Threat Intelligence / GitHub
 
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
-*   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 
 ## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
 
@@ -2934,7 +2882,6 @@
 ### Geospatial Research and Mapping Tools / GitHub
 
 *   [CartoDB](https://cartodb.com)
-*   [CrowdMap](https://crowdmap.com)
 *   [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 *   [Google Maps](https://www.google.com/maps)
 *   [Google My Maps](https://www.google.com/maps/about/mymaps)
@@ -2952,7 +2899,6 @@
 ### Infographics and Data Visualization / GitHub
 
 *   [Mapline](https://mapline.com)
-*   [Knoema](https://knoema.com)
 *   [Befunky](https://www.befunky.com)
 *   [Cacoo](https://cacoo.com)
 *   [Canva](https://www.canva.com)
@@ -2961,6 +2907,7 @@
 *   [Google Developers: Charts](https://developers.google.com/chart)
 *   [Infogr.am](https://infogr.am)
 *   [Inkscape](https://inkscape.org)
+*   [Knoema](https://knoema.com)
 *   [Lucidchart](https://www.lucidchart.com) - the intelligent diagramming application that brings teams together to make better decisions and build the future.
 *   [Nodebox](https://www.nodebox.net) - a family of tools gives you the leverage to create generative design the way you want.
 *   [Piktochart](https://piktochart.com)
@@ -2969,7 +2916,6 @@
 *   [Snappa](https://snappa.io)
 *   [StoryMap](https://storymap.knightlab.com)
 *   [Tableau Public](https://public.tableau.com)
-*   [Tagul](https://tagul.com)
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
 *   [Timeflow (⭐473)](https://github.com/FlowingMedia/TimeFlow/wiki)
@@ -2982,7 +2928,6 @@
 ### Web Monitoring / GitHub
 
 *   [Flipboard](https://flipboard.com)
-*   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [Mention](https://en.mention.com)
 *   [RSS Bridge](https://bridge.suumitsu.eu)

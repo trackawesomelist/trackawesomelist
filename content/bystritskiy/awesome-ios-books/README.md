@@ -2,9 +2,25 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 724 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 737 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Oct 22, 2026](/content/2026/10/22/README.md)
+
+### SwiftUI
+
+*   [*SwiftUI for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-gb/product/swiftui-for-beginners-9781807785567)
+*   [*Swift Charts Beyond the Basics* by Natalia Panferova, Matthaus Woolard](https://books.nilcoalescing.com/swift-charts-beyond-the-basics)
+
+### Multithreading
+
+*   [*Advanced Swift Concurrency Training* by Jacob Bartlett](https://payhip.com/b/7G0BW)
+*   [*The Complete Swift Concurrency Toolkit* by Jacob Bartlett](https://payhip.com/b/coS4u)
+
+### Interview
+
+*   [*Land Your iOS Tech Job* by Jacob Bartlett](https://payhip.com/b/tvoug)
 
 ## [Sep 15, 2026](/content/2026/09/15/README.md)
 
@@ -764,7 +780,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐724)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐737)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Dec 19, 2019](/content/2019/12/19/README.md)
@@ -939,5 +955,5 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐53k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐54k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)

@@ -2,15 +2,21 @@
 
 A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/francoism90/awesome-kde/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) · ⭐ 859 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/francoism90/awesome-kde/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) · ⭐ 873 · 🏷️ Platforms
 
 [ [Daily](/content/francoism90/awesome-kde/README.md) / Weekly / [Overview](/content/francoism90/awesome-kde/readme/README.md) ]
+
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Plasma desktop / Themes
+
+*   [Fastfetch KDE Splash (⭐0)](https://github.com/DeadIndian/fastfetch-kde-splash) - A matrix-style boot splash that renders your `fastfetch` system info with a glitch character-reveal, preserving full ANSI color (256 and 24-bit truecolor).
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Plasma desktop / Extensions
 
-*   [Krema (⭐37)](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+*   [Krema (⭐53)](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -27,7 +33,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 ### Plasma desktop / Extensions
 
 *   [EZMonitor (⭐5)](https://github.com/Agundur-KDE/EZMonitor) - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
-*   [KClaude (⭐4)](https://github.com/Agundur-KDE/KClaude) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
+*   [KClaude (⭐3)](https://github.com/Agundur-KDE/KClaude) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
 *   [kfritz (⭐7)](https://github.com/Agundur-KDE/kfritz) - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
 *   [KPictureFrame (⭐5)](https://github.com/Agundur-KDE/KPictureFrame) - A Plasma 6 widget that turns your desktop into a picture frame.
 *   [OSBMonitor (⭐2)](https://github.com/Agundur-KDE/OSBMonitor) - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
@@ -42,20 +48,20 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Extensions
 
-*   [KDoit (⭐17)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
-*   [Latte Dock NG (⭐67)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+*   [KDoit (⭐18)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
+*   [Latte Dock NG (⭐72)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Utilities & Tools
 
-*   [dictee (⭐65)](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
+*   [dictee (⭐67)](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Utilities & Tools
 
-*   [LocalTranslate (⭐66)](https://github.com/terslang/LocalTranslate) - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models (⭐466)](https://github.com/mozilla/firefox-translations-models).
+*   [LocalTranslate (⭐67)](https://github.com/terslang/LocalTranslate) - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models (⭐467)](https://github.com/mozilla/firefox-translations-models).
 
 ### Plasma desktop / Scripts
 
@@ -83,7 +89,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Extensions
 
-*   [Karousel (⭐1.1k)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+*   [Karousel (⭐1.2k)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 
 ### Plasma desktop / KCM Modules and Systems
 
@@ -169,11 +175,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 *   [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 *   [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
-*   [fancontrol-gui (⭐392)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
+*   [fancontrol-gui (⭐391)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
 *   [KFind](https://apps.kde.org/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
 *   [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 *   [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
-*   [Yin-Yang (⭐704)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
+*   [Yin-Yang (⭐702)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 
 ### Development & Programming
 
@@ -186,9 +192,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Extensions
 
-*   [Dynamic Wallpaper Engine (⭐383)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
+*   [Dynamic Wallpaper Engine (⭐384)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 *   [Kvantum (⭐2k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-*   [Window Title Applet (⭐245)](https://github.com/psifidotos/applet-window-title/) - **Plasma 5** applet that shows the current window title and icon in your panels.
+*   [Window Title Applet (⭐246)](https://github.com/psifidotos/applet-window-title/) - **Plasma 5** applet that shows the current window title and icon in your panels.
 *   [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 
 ### Plasma desktop / KCM Modules and Systems
@@ -198,28 +204,28 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 ### Plasma desktop / Themes
 
 *   [ChromeOS (⭐195)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Fluent (⭐242)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
+*   [Fluent (⭐243)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 *   [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
-*   [Hello (⭐215)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
-*   [Materia KDE (⭐672)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
-*   [McMojave (⭐262)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
-*   [Orchis (⭐338)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Qogir (⭐189)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
+*   [Hello (⭐213)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
+*   [Materia KDE (⭐673)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
+*   [McMojave (⭐261)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
+*   [Orchis (⭐340)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
+*   [Qogir (⭐190)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
 *   [WhiteSur (⭐1.3k)](https://github.com/vinceliuice/WhiteSur-kde) - A MacOS Big Sur theme for KDE Plasma.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
 *   [Akava-Kv (⭐192)](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
 *   [Chrome-KDE5BreezeDark (⭐22)](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
-*   [KDE-Rounded-Corners (⭐168)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
+*   [KDE-Rounded-Corners (⭐166)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
 *   [SierraBreeze (⭐355)](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
 
 ### Plasma desktop / Icons
 
 *   [Candy (⭐1.3k)](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
 *   [Flatery (⭐327)](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
-*   [Papirus (⭐8.1k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
-*   [Zafiro (⭐464)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+*   [Papirus (⭐8.2k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Zafiro (⭐465)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 
 ### Plasma desktop / Scripts
 
@@ -265,7 +271,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 *   [Hoppla (⭐72)](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 *   [Places Widget (⭐13)](https://github.com/dfaust/plasma-applet-places-widget) - **Plasma 5** widget that gives access to user places.
-*   [Window AppMenu Applet (⭐414)](https://github.com/psifidotos/applet-window-appmenu) - **Plasma 5** applet in order to show the window appmenu.
+*   [Window AppMenu Applet (⭐412)](https://github.com/psifidotos/applet-window-appmenu) - **Plasma 5** applet in order to show the window appmenu.
 
 ### Plasma desktop / Themes
 
@@ -275,11 +281,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [Breeze10 (⭐123)](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
-*   [BreezeBlurred (⭐198)](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
-*   [BreezeEnhanced (⭐214)](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
-*   [Sweet KDE (⭐251)](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
-*   [XBoomer (⭐114)](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
+*   [Breeze10 (⭐125)](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
+*   [BreezeBlurred (⭐197)](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
+*   [BreezeEnhanced (⭐213)](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
+*   [Sweet KDE (⭐253)](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
+*   [XBoomer (⭐115)](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
 
 ### Plasma desktop / Icons
 
@@ -292,7 +298,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Display Manager
 
-*   [Chili (⭐227)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE **Plasma 5**.
+*   [Chili (⭐230)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE **Plasma 5**.
 *   [Delicious (⭐118)](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 *   [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
@@ -326,7 +332,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 ### Plasma desktop / Cursors
 
-*   [Capitaine (⭐1.2k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze.
+*   [Capitaine (⭐1.3k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 ## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
 
@@ -407,4 +413,4 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 ### Plasma desktop / Themes
 
 *   [Adapta KDE (⭐459)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
-*   [Arc KDE (⭐940)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
+*   [Arc KDE (⭐941)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
