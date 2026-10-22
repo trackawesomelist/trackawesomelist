@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 22, 2026](/content/2026/10/22/README.md)
+
+### Design and Product / Other Tools
+
+*   [Fotohaus (⭐0)](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aelnagish/Fotohaus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [Shiyin](https://shiyin.weibuilds.com) - Open-source meeting recorder that transcribes on-device, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT subscription. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/juinwei7/Shiyin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Oct 21, 2026](/content/2026/10/21/README.md)
 
 ### Developer Tools / API Development and Analysis
@@ -268,11 +278,11 @@
 ### AI Tools / Other Tools
 
 *   [ThinkWatch Lite](https://thinkwat.ch/lite/) - Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [mu (⭐403)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mu (⭐534)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
-*   [Sonar (⭐8)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sonar (⭐47)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 

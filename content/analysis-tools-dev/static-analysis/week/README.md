@@ -6,6 +6,19 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **dephpend** :warning: — Dependency analysis tool.
+*   [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
+
+### Other / [Other](#other-1)
+
+*   [htmlbeautifier (⭐373)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+*   [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
+*   **mdformat** :warning: — CommonMark compliant Markdown formatter
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -156,12 +169,11 @@
 *   **cargo-breaking** :warning: — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 *   **cargo-call-stack** :warning: — Whole program static stack analysis The tool produces the full call graph of a program as a dot file.
 *   **prae** :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified.
-*   **Prusti** :warning: — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 *   **Rust Language Server** :warning: — Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 *   **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 *   **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 *   [Bytebase](https://www.bytebase.com) — Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.
-*   [scythe (⭐71)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [scythe (⭐74)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   [tsqllint (⭐228)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 *   **sleek** :warning: — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 *   **sqlcheck** :warning: — Automatically identify anti-patterns in SQL queries.
@@ -185,7 +197,6 @@
 *   **flakeheaven** :warning: — flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
 *   **dawnscanner** :warning: — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 *   **ERB::Formatter** :warning: — Format ERB files with speed and precision.
-*   **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 *   **quality** :warning: — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 *   **Traceroute** :warning: — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 *   [thailint](https://thai-lint.readthedocs.io/) — Multi-language linter targeting anti-patterns that appear disproportionately in AI-generated code: duplicated blocks across files, excessive nesting, magic numbers, Single Responsibility violations, and linter suppressions added without justification. Covers Python, TypeScript, JavaScript and Rust from one configuration, ships a pre-commit hook per rule, and emits text, JSON or SARIF for CI.
@@ -1149,7 +1160,6 @@
 *   [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 *   [VeriFast (⭐518)](https://github.com/verifast/verifast) — A tool for modular formal verification of correctness properties of single-threaded and multithreaded  C and Java programs annotated with preconditions and postconditions written in separation logic.  To express rich specifications, the programmer can define inductive datatypes,  primitive recursive pure functions over these datatypes, and abstract separation logic predicates.
 *   [churn-php (⭐1.4k)](https://github.com/bmitch/churn-php) — Helps discover good candidates for refactoring.
-*   [dephpend (⭐533)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
 *   [deptrac (⭐3k)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 *   [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP\_CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer (⭐14k)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 *   [GrumPHP (⭐4.3k)](https://github.com/phpro/grumphp) — Checks code on every commit.
@@ -1182,7 +1192,7 @@
 *   [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 *   [pytype](https://google.github.io/pytype) — A static type analyzer for Python code.
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
-*   [vulture (⭐4.8k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
+*   [vulture (⭐4.9k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 *   [lintr (⭐1.3k)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 *   [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 *   [bundler-audit (⭐2.8k)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database (⭐1.1k)](https://github.com/rubysec/ruby-advisory-db).
@@ -1279,7 +1289,6 @@
 *   [KubeLinter (⭐3.5k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [lacheck](https://www.ctan.org/pkg/lacheck) — A tool for finding common mistakes in LaTeX documents.
 *   [TeXLab](https://texlab.netlify.app) — A Language Server Protocol implementation for TeX/LaTeX, including lint capabilities.
-*   [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 *   [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
 *   [FlowDroid (⭐1.3k)](https://github.com/secure-software-engineering/FlowDroid) — Static taint analysis tool for Android applications.
 *   [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.

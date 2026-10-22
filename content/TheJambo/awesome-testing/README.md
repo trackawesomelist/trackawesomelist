@@ -6,6 +6,34 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 22, 2026](/content/2026/10/22/README.md)
+
+### Software / Service Virtualization
+
+*   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
+
+### Software / UI & End-to-End Testing
+
+*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+
+### Software / Accessibility & Usability Testing
+
+*   [Site Spell Checker](https://sitespellchecker.com) - Crawls a live website and flags spelling and grammar mistakes on every page, each shown in context with its page URL. Free one-page scan; the full-site scan is a one-off $99.
+
+### Software / Test Automation Frameworks
+
+*   [VeriSpec (⭐0)](https://github.com/godikemahesh/verispec) - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
+
+## [Oct 21, 2026](/content/2026/10/21/README.md)
+
+### Software / Visual Testing
+
+*   [cloneproof (⭐0)](https://github.com/pcjansen09-max/cloneproof) - Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.
+
+### Software / Test Data Management
+
+*   [Mails.ai](https://mails.ai/docs/email-testing) - Email inboxes for automated tests: a plus address per test and one call that waits for the email and returns the sign-up code or magic link, with TypeScript and Python SDKs, Cypress and Playwright packages and an MCP server.
+
 ## [Oct 20, 2026](/content/2026/10/20/README.md)
 
 ### Software / API Testing

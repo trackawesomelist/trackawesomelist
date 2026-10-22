@@ -1,12 +1,34 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2026
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Books
+
+*   [Django for Beginners, 6th Edition](https://learndjango.com/courses/django-for-beginners/)
+
+## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Arcade
+
+*   [OpenTyrian2000 Enhanced Edition (⭐0)](https://github.com/Patm4nzzz/opentyrian-enhanced) - Tyrian 2000 on Godot 4 and Rust, with HD graphics, couch co-op, mods and a level editor. :flower\_playing\_cards:
+
+### Strategy
+
+*   [OpenZ (⭐22)](https://github.com/playopenz/OpenZ) - Open-source 3D remake of the 1996 RTS Z (The Bitmap Brothers), built in Unity on the gameplay rules of the Zod Engine.
+
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [mojolearn (⭐8)](https://github.com/mojolearn/mojolearn) - GPU machine learning implemented in Mojo with Python bindings for classical models and neural training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs.
+
+## [4. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / General Purpose
 
@@ -17,19 +39,19 @@
 
 *   [yylo-dev/yylo (⭐65)](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries ☆`65`
 
-## [2. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [5. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Web Development / Template Engines
 
 *   [valyala/quicktemplate (⭐3.3k)](https://github.com/valyala/quicktemplate) — Fast template engine for Go ☆`3,324`
 
-## [3. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### **Sponsors**
 
 *   [iPulse AI](https://ipulseai.com?utm_source=awesome-python\&utm_medium=sponsorship\&utm_campaign=sponsor\&utm_content=readme) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
 
-## [4. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -129,19 +151,19 @@
 
 *   [Dev Ledger](https://devledger.site/) - Open-source GitHub analytics for developers — longitudinal development history across repositories: source growth, churn, activity, languages, and releases. ([Source Code (⭐0)](https://github.com/Aliferous3/dev-ledger)) `AGPL-3.0` `SaaS`
 
-## [5. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [8. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Open Baskerville (⭐392)](https://github.com/klepas/open-baskerville)
 
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Extensions
 
 *   [`picosm`](https://www.npmjs.com/package/picosm) - Lightweight, zero-dependency state manager for vanilla JavaScript with Lit integration.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Tracing Platform
 
@@ -182,13 +204,13 @@
 
 *   [FlexViz (⭐73)](https://github.com/flex-analytics/flexviz) - open-source Python library for interactive cross-filter dashboards on large datasets, answering each zoom and selection with a lazy Polars aggregation instead of sending rows to the browser.
 
-## [8. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [11. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Video
 
 *   [Pixwit](https://pixwit.ai/) - Text-to-video, image-to-video and AI image generation with multiple models in one workspace. `#freemium`
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -276,7 +298,7 @@
 
 *   [YAML (⭐504) (⭐504)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [10. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Brokers
 
@@ -286,7 +308,7 @@
 
 *   [MQTT Scope (⭐1)](https://github.com/ToRexZ/mqtt-scope) - Desktop MQTT client for Linux, Windows and macOS with a live topic tree, a large-message inspector with diff, and live plots of any JSON field. [Website](https://torexz.github.io/mqtt-scope/).
 
-## [11. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [14. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Community resources
 
@@ -296,13 +318,17 @@
 
 *   [ElementsKit UI - Storybook](https://elements-kit.com/storybook/)
 
-## [12. Tools](/content/lvwzhen/tools/week/README.md)
+## [15. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Image compression
+
+*   [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
 
 ### Code Playgrounds
 
 *   [Coddy](https://coddy.tech/playground/html)
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -310,9 +336,10 @@
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [shtab (⭐474)](https://github.com/tqdm/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 *   [suvadu (⭐111)](https://github.com/AppachiTech/suvadu) - Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.
 
-## [14. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### File Management / File Utilities
 
@@ -322,13 +349,13 @@
 
 *   [RockxyApp/Shieldxy (⭐14)](https://github.com/RockxyApp/Shieldxy) — Auditable application firewall and connection monitor for macOS ☆`18`
 
-## [15. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [18. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Test Frameworks
 
 *   [Optics (⭐57)](https://github.com/mozarkai/optics-framework) - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
 
-## [16. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [19. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Documentation and Testing
 
@@ -367,13 +394,13 @@
 
 *   [myzonerocks/gossveil (⭐1)](https://github.com/myzonerocks/gossveil) - End-to-end encryption library for messaging applications, written in Zig. No-AI.
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### DevOps
 
 *   [krikri (⭐9)](https://github.com/weirdbricks/krikri) - Fast Ansible-compatible automation engine
 
-## [18. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
@@ -384,13 +411,13 @@
 *   [Orbit OS](https://www.orbit-os.org/) - Android-like platform installed on top of Raspberry Pi OS: signed apps from an app store, atomic OTA updates, and Go, Python and Java SDKs to control GPIO, I²C, UART and the camera, with a VS Code extension (Orbit Studio) to run code live on the Pi and deploy in one click. Supports Raspberry Pi 3, 4, 5 and Zero 2 W.
 *   [Philosopher (⭐10)](https://github.com/msalsas/philosopher) - A conversational-AI plush toy (Raspberry Pi + local LLM) that recognizes faces, reads emotions, remembers people, and talks with configurable personalities (100% local). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
-## [19. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [22. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Crack / General
 
 *   [NoneCap](https://nonecap.com/) - Hosted hCaptcha solver API (regular, invisible and enterprise sitekeys) with Node.js and Python SDKs.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -413,24 +440,26 @@
 
 *   [opengeocoding.com](https://opengeocoding.com) - Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.
 
-## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [Coffee Edition (⭐0)](https://github.com/ierolsen/coffee-edition-kit) - A newspaper your printer prints every morning: a Claude routine writes it overnight from your notes, GitHub Actions lays it out and checks every page, a Raspberry Pi Pico W prints it.
 
-## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **dephpend** :warning: — Dependency analysis tool.
+*   [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 
 ### Other / [Other](#other-1)
 
 *   [htmlbeautifier (⭐373)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+*   [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
 *   **mdformat** :warning: — CommonMark compliant Markdown formatter
 
-### Programming Languages / [Other](#other-1)
-
-*   [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
-
-## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Ada
 
@@ -440,18 +469,28 @@
 
 *   [IllumOS Dynamic Tracing Guide](https://illumos.org/books/dtrace/preface.html)
 
-## [24. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [27. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Libraries / APIs & Web Services
 
 *   [esportsodds-python (⭐0)](https://github.com/esportsodds/esportsodds-python) - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 
-## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [28. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+*   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
+*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
+*   [vibe-testing (⭐17)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
+*   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
 
 ### Software / Accessibility & Usability Testing
 
 *   [Oh My Android (⭐60)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
 *   [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
+*   [Site Spell Checker](https://sitespellchecker.com) - Crawls a live website and flags spelling and grammar mistakes on every page, each shown in context with its page URL. Free one-page scan; the full-site scan is a one-off $99.
 
 ### Software / API Testing
 
@@ -467,19 +506,12 @@
 
 *   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
+*   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 
 ### Software / Visual Testing
 
 *   [CurlShot](https://curlshot.com) - Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.
 *   [cloneproof (⭐0)](https://github.com/pcjansen09-max/cloneproof) - Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.
-
-### Software / UI & End-to-End Testing
-
-*   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
-*   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
-*   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
-*   [vibe-testing (⭐17)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
-*   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
 
 ### Software / Test Data Management
 
@@ -501,6 +533,7 @@
 ### Software / Test Automation Frameworks
 
 *   [behave (⭐2)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
+*   [VeriSpec (⭐0)](https://github.com/godikemahesh/verispec) - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
 
 ### Software / Static Analysis
 
@@ -510,7 +543,7 @@
 
 *   [RoleGig QA & Testing](https://rolegig.com/qa-testing/) - Weekly list of QA, test automation and SDET jobs in India, the US, Canada, Europe, Australia and the Gulf.
 
-## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
@@ -520,7 +553,7 @@
 
 *   [rummage (⭐0)](https://github.com/rummage-dev/rummage) - Cross-platform terminal file/folder picker with fuzzy search, multi-select, and a preview pane.
 
-## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -795,13 +828,13 @@
 
 
 
-## [28. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [31. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Scientific Journals
 
 *   Bulletin de la Société de Pathologie Exotique - French journal on tropical medicine and public health. The journal ran from 1908 to 2020, when it was replaced by Médecine Tropicale et Santé Internationale. Full volumes are freely accessible from Université Paris Cité ([1908-1966, v. 1-59](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?intro=bspe\&tri=\&p=1)), Gallica ([1967-1997, v. 60-90](https://gallica.bnf.fr/ark:/12148/cb344790278/date\&rk=21459;2)), The Society archives ([1994-2020, v. 87-113](https://pathexo.societe-mtsi.fr/1844-sommaire-bulletin_L=1.html)), and RevuesOnline ([2010-2020, v. 103-113](https://bspe.revuesonline.com/numeros_parus.jsp)).
 
-## [29. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [32. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Infrastructure / Operations
 
@@ -820,7 +853,7 @@
 
 *   [Frontend Framework Interview Preparation Roadmap](https://frontendatlas.com/guides/framework-prep) - Guide mapping frontend interview preparation across JavaScript, React, Angular, and Vue, with 7, 14, and 30-day study plans. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
-## [30. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [33. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Boardgame
 
@@ -830,15 +863,11 @@
 
 *   [The Human Box (⭐61)](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
 
-## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [34. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
 *   :free: [PicMason Sprite Sheet Splitter](https://picmason.com/en/sprite-sheet-splitter/) - Browser-based fixed-grid splitter with custom frame sizes, offsets and spacing. Exports PNG frames preserving source transparency and a ZIP with source coordinates; can skip fully transparent frames.
-
-### Graphics / Bitmap Compression
-
-*   :money\_with\_wings: [BatchSet](https://batchset.com/tools/image-compressor) - Compress and convert whole folders of PNG, JPG and WebP sprites in the browser, nothing uploaded.
 
 ### Graphics / Texture Tools
 
@@ -870,25 +899,25 @@
 
 *   :money\_with\_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [CyteEditor (⭐0)](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
-## [33. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [36. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Binlog-Replication
 
 *   [dbtrail (⭐64)](https://github.com/dbtrail/dbtrail) - Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB
 
-## [34. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [37. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Observability & Monitoring / SDLC
 
 *   [Cubicle Crew (⭐29)](https://github.com/rezored/cubicle-crew) by [rezored](https://github.com/rezored) - A pixel-art office for Claude Code agents, including a desktop widget and browser app, with tokens, a shop and a lounge. Friday is Hawaiian shirt day.\ <img src="https://img.shields.io/github/created-at/rezored/cubicle-crew?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/rezored/cubicle-crew?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/rezored/cubicle-crew?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/rezored/cubicle-crew?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -912,7 +941,7 @@
 
 *   [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
 
-## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -954,15 +983,15 @@
 
 *   [longbridge/gpui-kit (⭐18k)](https://github.com/longbridge/gpui-kit) \[[gpui-component](https://crates.io/crates/gpui-component)] - UI components for desktop applications using GPUI. [![CI](https://github.com/longbridge/gpui-kit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/longbridge/gpui-kit/actions/workflows/ci.yml)
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
 *   [Social SDK (⭐714)](https://github.com/opencoredev/social-sdk) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
 
-## [38. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [41. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
-### 🛠️ Utilities (220) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [Audio Priority Bar (⭐30)](https://github.com/camguillory/Audio-Priority-Bar) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
 
@@ -1053,6 +1082,24 @@
     <img src='https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/widget-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     <img src='https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/readme-activity.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [AI Switcher (⭐4)](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://aiswitcher.dev/desktop/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://aiswitcher.dev/media/desktop-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://aiswitcher.dev/media/desktop-profiles.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://aiswitcher.dev/media/desktop-workspace-rules.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -1495,13 +1542,29 @@
     </p>
     </details>
 
-### ⏱️ Productivity (144) / ✏️ Text (17)
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Dictámelo (⭐10)](https://github.com/sarrazola/dictamelo) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.dictamelo.com/en>
+*   [Earnote (⭐19)](https://github.com/louiskl/Earnote) - Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://earnote.dev>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [NarrateClaude (⭐47)](https://github.com/nicedreamzapp/NarrateClaude) - Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
@@ -1632,6 +1695,24 @@
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://airpoise.vercel.app/>
+*   [EK Bridge (⭐4)](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/bereciartua/ek-bridge (⭐4)](https://github.com/bereciartua/ek-bridge)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/overview-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/approval-panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/access-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [horita (⭐6)](https://github.com/cordwainersmith/horita) - Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -1645,6 +1726,20 @@
     <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/dropdown.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/meeting-details.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [inlaut (⭐5)](https://github.com/tobymarks/inlaut) - Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://inlaut.de>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://inlaut.de/screens/einstellungen.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -1731,7 +1826,7 @@
     </p>
     </details>
 
-### 🎵 Audio (60)
+### 🎵 Audio (62)
 
 *   [NoMicSwitch (⭐6)](https://github.com/marks-zyz/NoMicSwitch) - Pins the default audio input to the Mac's built-in microphone and locks the input volume, so AirPods never take it over.
 
@@ -1748,13 +1843,27 @@
     </p>
     </details>
 
-### 📊 Menubar (147) / ✏️ Text (17)
+### 📊 Menubar (151) / ✏️ Text (17)
 
 *   [Plainsay (⭐12)](https://github.com/conrader/plainsay) - Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://plainsay.app/>
+*   [Reprise (⭐4)](https://github.com/nikiomori/reprise) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/library-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/island-recording-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [sbtfix (⭐10)](https://github.com/htsecurity/sbtfix) - Menu bar app to control Sony headphones: noise cancelling, ambient sound, Speak-to-Chat and battery.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -1837,7 +1946,7 @@
     </p>
     </details>
 
-### ▶️ Player (9) / ✏️ Text (17)
+### ▶️ Player (10) / ✏️ Text (17)
 
 *   [Vespertine (⭐6)](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
 
@@ -1858,7 +1967,7 @@
     </p>
     </details>
 
-### 🎬 Video (26) / ✏️ Text (17)
+### 🎬 Video (27) / ✏️ Text (17)
 
 *   [BitMatch (⭐14)](https://github.com/BitmatchApp/Bitmatch) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
 
@@ -1895,6 +2004,26 @@
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** <https://frameplayer.app>
+*   [IPTVMac (⭐8)](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://goelir.github.io/IPTVMac/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/01-live.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/02-search.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/03-movies.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    *(1 more screenshots available in the repository)*
+
+    </p>
+    </details>
 *   [Mac Classic Player (⭐56)](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
@@ -1947,7 +2076,7 @@
     </p>
     </details>
 
-### 🌐 Browser (17)
+### 🌐 Browser (18)
 
 *   [Dao Browser (⭐7)](https://github.com/msgbyte/dao-browser) - An open-source Chromium-based, Arc-like browser for macOS with a content-first UI, BYOK AI, and MCP support.
 
@@ -1960,6 +2089,22 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/msgbyte/dao-browser/main/docs/preview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Vane (⭐4)](https://github.com/notnaki/vane) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://notnaki.github.io/vane/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-spaces.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-split.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -1978,7 +2123,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53)
+### 👨‍💻 Development (54)
 
 *   [Blave Agent (⭐113)](https://github.com/Blave-TW/blave-agent) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
 
@@ -2016,7 +2161,7 @@
 
     **Website:** <https://superagent.computer>
 
-### 👨‍💻 Development (53) / 📦 Git (21)
+### 👨‍💻 Development (54) / 📦 Git (22)
 
 *   [PR Cockpit (⭐48)](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
 
@@ -2029,6 +2174,22 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/theolundqvist/pr-cockpit/main/docs/screenshots/landing-inbox.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [teebe (⭐26)](https://github.com/klein-t/teebe) - Shows every git worktree across your repos, marks which ones a coding agent (Claude Code, Codex) is working in, and live-diffs the files they change.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://teebe.io>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -2180,25 +2341,13 @@
     </p>
     </details>
 
-### ⚙️ System (45) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
-*   [MacFanPro (⭐13)](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.
+*   [Command Reopen (⭐46)](https://github.com/Feng6611/mac-command-reopen) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/macfanpro/macfanpro (⭐13)](https://github.com/macfanpro/macfanpro)
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-
-### 🪟 Window Management (25) / ✏️ Text (17)
-
+    **Website:** <https://commandreopen.com/>
 *   [OmniMac (⭐17)](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -2288,6 +2437,23 @@
     </p>
     </details>
 
+### ⚙️ System (45) / ✏️ Text (17)
+
+*   [MacFanPro (⭐13)](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/macfanpro/macfanpro (⭐13)](https://github.com/macfanpro/macfanpro)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
 ### 🔒 Security (20) / ✏️ Text (17)
 
 *   [Recall (⭐8)](https://github.com/cnazk/recall-mac) - Local-first clipboard manager with on-device semantic search, two-factor codes, and credentials that delete themselves.
@@ -2340,24 +2506,22 @@
     </p>
     </details>
 
-### 📤 Sharing Files (14) / ✏️ Text (17)
+### 🖥️ Wallpaper (15) / ✏️ Text (17)
 
-*   [JuiceMount (⭐6)](https://github.com/lelanddutcher/juicemount) - Mounts a NAS as a real Finder volume and streams video in blocks through a local SSD cache, with offline pinning.
+*   [Haze (⭐12)](https://github.com/adrbn/haze) - Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar.
 
-    **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** <https://juicemount.com>
+    **Website:** [https://github.com/adrbn/haze (⭐12)](https://github.com/adrbn/haze)
 
-### 🔐 VPN & Proxy (11) / ✏️ Text (17)
+    <details>
+    <summary>Screenshots</summary>
+    <p>
 
-*   [Vortix (⭐708)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+    <img src='https://raw.githubusercontent.com/adrbn/haze/main/assets/demo.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-    **Website:** [https://github.com/Harry-kp/vortix (⭐708)](https://github.com/Harry-kp/vortix)
-
-### 🖥️ Wallpaper (14) / ✏️ Text (17)
-
+    </p>
+    </details>
 *   [SpreadPaper (⭐106)](https://github.com/spreadpaper/SpreadPaper) - Spread a single high-resolution wallpaper across multiple monitors, with compensation for the bezel gaps between displays.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -2382,7 +2546,23 @@
 
     **Website:** <https://www.wallpapermachine.app>
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### 📤 Sharing Files (14) / ✏️ Text (17)
+
+*   [JuiceMount (⭐6)](https://github.com/lelanddutcher/juicemount) - Mounts a NAS as a real Finder volume and streams video in blocks through a local SSD cache, with offline pinning.
+
+    **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://juicemount.com>
+
+### 🔐 VPN & Proxy (11) / ✏️ Text (17)
+
+*   [Vortix (⭐708)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** [https://github.com/Harry-kp/vortix (⭐708)](https://github.com/Harry-kp/vortix)
+
+## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### AI Tools / Other Tools
 
@@ -2414,9 +2594,17 @@
 
 *   [SSHFire (⭐11)](https://github.com/aralozaltin/sshfire) - Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aralozaltin/sshfire) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Design and Product / Other Tools
+
+*   [Fotohaus (⭐0)](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aelnagish/Fotohaus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / File Sharing
 
 *   [TetherCam](https://tethercam.app/) - Use an iPhone as a USB camera on a Mac for video only, or use the OBS plugin for video and the phone's microphone audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kanevry/tethercam) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [Shiyin](https://shiyin.weibuilds.com) - Open-source meeting recorder that transcribes on-device, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT subscription. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/juinwei7/Shiyin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Audio Record and Process
 
@@ -2434,7 +2622,7 @@
 
 *   [Borne](https://borne.pasahome.org) - Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gpasa/borne)
 
-## [40. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Productivity
 
@@ -2458,7 +2646,7 @@
 
 *   [Pumperly](https://openappscout.com/apps/pumperly/) - Pumperly is an AGPL-3.0 map of fuel prices and EV chargers with a route planner, free to use at pumperly.com with no account or to run yourself with Docker Compose. ([Source (⭐44)](https://github.com/GeiserX/Pumperly))
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -2476,7 +2664,7 @@
 
 *   [ryutaro-asada/partial-diff.nvim (⭐6)](https://github.com/ryutaro-asada/partial-diff.nvim) - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
 
-## [42. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [45. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 

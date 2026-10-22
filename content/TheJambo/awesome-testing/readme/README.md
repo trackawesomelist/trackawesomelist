@@ -95,6 +95,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 *   [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
+*   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 
 ### Visual Testing
 
@@ -109,6 +110,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 *   [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 *   [CurlShot](https://curlshot.com) - Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.
+*   [cloneproof (⭐0)](https://github.com/pcjansen09-max/cloneproof) - Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.
 
 ### UI & End-to-End Testing
 
@@ -119,6 +121,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
 
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
+
+*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 
@@ -196,6 +200,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [dbmask (⭐149)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 *   [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
 *   [JSON Validation Test Cases (⭐0)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
+*   [Mails.ai](https://mails.ai/docs/email-testing) - Email inboxes for automated tests: a plus address per test and one call that waits for the email and returns the sign-up code or magic link, with TypeScript and Python SDKs, Cypress and Playwright packages and an MCP server.
 *   [mailsocket](https://mailsocket.app) - Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.
 *   [Synth (⭐1.5k)](https://github.com/getsynth/synth) - Open-source test data generator.
 *   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
@@ -232,6 +237,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [RateMyApp Testing Brief Builder](https://ratemyapp.io/tools/app-testing-brief-builder/) - Free, no-account tool for writing mobile usability-testing tasks, expected outcomes, and feedback instructions.
 *   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 *   [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
+*   [Site Spell Checker](https://sitespellchecker.com) - Crawls a live website and flags spelling and grammar mistakes on every page, each shown in context with its page URL. Free one-page scan; the full-site scan is a one-off $99.
 *   [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
 *   [VertaaUX CLI (⭐0)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 *   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
@@ -265,6 +271,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 *   [optics-framework (⭐57)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 *   [behave (⭐2)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
+*   [VeriSpec (⭐0)](https://github.com/godikemahesh/verispec) - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
 
 ### Screen Recording & Session Replays
 

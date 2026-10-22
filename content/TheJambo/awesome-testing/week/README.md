@@ -22,14 +22,17 @@ A curated list of testing resources
 
 *   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
+*   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 
 ### Software / Visual Testing
 
 *   [CurlShot](https://curlshot.com) - Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.
+*   [cloneproof (⭐0)](https://github.com/pcjansen09-max/cloneproof) - Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.
 
 ### Software / UI & End-to-End Testing
 
 *   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
+*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 *   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
 *   [vibe-testing (⭐17)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
@@ -38,6 +41,7 @@ A curated list of testing resources
 ### Software / Test Data Management
 
 *   [TempMail Hub](https://tempmailhub.net/) - Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.
+*   [Mails.ai](https://mails.ai/docs/email-testing) - Email inboxes for automated tests: a plus address per test and one call that waits for the email and returns the sign-up code or magic link, with TypeScript and Python SDKs, Cypress and Playwright packages and an MCP server.
 *   [ByteRivet Sample Files](https://byterivet.com/test-files/) - Free browser-based generator for exact-size dummy files from 1 KB to 2 GB in 22 formats (PDF, PNG, JPG, DOCX, XLSX, CSV, JSON, ZIP, MP4, WAV and more) for upload-limit and file-handling tests. Files are built locally, no upload or signup.
 *   [FormFiller test data tools](https://formfillerapp.com/tools/) - Free browser-based generators for fake addresses, identities, IBANs, test card numbers and bulk CSV/JSON/SQL data in 22
     locales.
@@ -51,6 +55,7 @@ A curated list of testing resources
 
 *   [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
 *   [Oh My Android (⭐60)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
+*   [Site Spell Checker](https://sitespellchecker.com) - Crawls a live website and flags spelling and grammar mistakes on every page, each shown in context with its page URL. Free one-page scan; the full-site scan is a one-off $99.
 
 ### Software / Performance & Load Testing
 
@@ -59,6 +64,7 @@ A curated list of testing resources
 ### Software / Test Automation Frameworks
 
 *   [behave (⭐2)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
+*   [VeriSpec (⭐0)](https://github.com/godikemahesh/verispec) - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
 
 ### Software / Static Analysis
 

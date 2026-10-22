@@ -82,6 +82,7 @@ Tools Online
 *   [Compress-Or-Die](https://compress-or-die.com/)
 *   [BulkPicTools](https://bulkpictools.com/)
 *   [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
+*   [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
 
 ### JavaScript
 
@@ -165,7 +166,7 @@ Tools Online
 *   [JSFiddle](https://jsfiddle.net/)
 *   [JS BIN](http://jsbin.com/)
 *   [Dabblet](http://dabblet.com/)
-*   [CSSDeck](http://cssdeck.com/)
+*   [Coddy](https://coddy.tech/playground/html)
 *   [Plunker](http://plnkr.co/)
 *   [Liveweave](https://liveweave.com/)
 *   [StackBlitz](https://stackblitz.com/)

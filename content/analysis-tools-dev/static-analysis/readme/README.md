@@ -821,8 +821,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 <!---->
 
-*   [dephpend (⭐533)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
-
 *   [deptrac (⭐3k)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 
 *   [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP\_CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer (⭐14k)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
@@ -883,6 +881,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 <summary>Show Deprecated</summary>
 
 *   **CakeFuzzer** :warning: — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
+
+*   **dephpend** :warning: — Dependency analysis tool.
 
 *   **deprecation-detector** :warning: — Finds usages of deprecated (Symfony) code.
 
@@ -1034,7 +1034,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
-*   [vulture (⭐4.8k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
+*   [vulture (⭐4.9k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 
 *   [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
@@ -1133,6 +1133,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
+*   [htmlbeautifier (⭐373)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 *   [rails\_best\_practices](https://rails-bestpractices.com) — A code metric tool for Rails projects
 
 *   [reek (⭐4.1k)](https://github.com/troessner/reek) — Code smell detector for Ruby.
@@ -1165,8 +1167,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   **Fasterer** :warning: — Common Ruby idioms checker.
 
 *   **Fukuzatsu** :warning: — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
-
-*   **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 *   **laser** :warning: — Static analysis and style linter for Ruby code.
 
@@ -1238,6 +1238,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [lockbud (⭐592)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
+*   [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
+
 *   [Rudra (⭐1.4k)](https://github.com/sslab-gatech/Rudra) — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 
 *   [rust-analyzer](https://rust-analyzer.github.io) — Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
@@ -1274,8 +1276,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   **prae** :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified.
 
-*   **Prusti** :warning: — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
-
 *   **Rust Language Server** :warning: — Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 
 *   **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
@@ -1296,7 +1296,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [pgspot (⭐149)](https://github.com/timescale/pgspot) — Spot vulnerabilities in postgres extension scripts. Finds unsafe search\_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.
 
-*   [scythe (⭐71)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [scythe (⭐74)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
@@ -2098,6 +2098,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [Violations Lib (⭐161)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
+*   [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
+
 *   [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 
 <details>
@@ -2139,12 +2141,12 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [ERB Lint (⭐749)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+*   [htmlbeautifier (⭐373)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 <details>
 <summary>Show Deprecated</summary>
 
 *   **ERB::Formatter** :warning: — Format ERB files with speed and precision.
-
-*   **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2171,6 +2173,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
 
+*   [htmlbeautifier (⭐373)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 *   [HTMLHint](https://htmlhint.com) — A Static Code Analysis Tool for HTML.
 
 *   [Nu Html Checker](https://validator.github.io/validator/) — Helps you catch problems in your HTML/CSS/SVG
@@ -2195,8 +2199,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   **HTML Inspector** :warning: — HTML Inspector is a code quality tool to help you and your team write better markup.
 
 *   **HTML Tidy** :warning: — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
-
-*   **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2308,8 +2310,6 @@ but with the following improvements:
 
 *   [markdownlint (⭐6.4k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-*   [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
-
 *   [mdl (⭐2.1k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
 *   [mdsf (⭐113)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
@@ -2319,6 +2319,13 @@ but with the following improvements:
 *   [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 *   [textlint](https://textlint.github.io/) — textlint is an open source text linting utility written in JavaScript.
+
+<details>
+<summary>Show Deprecated</summary>
+
+*   **mdformat** :warning: — CommonMark compliant Markdown formatter
+
+</details>
 
 <a id="meta"></a>
 
@@ -2548,6 +2555,8 @@ but with the following improvements:
 
 *   [Tsunami Security Scanner (⭐8.6k)](https://github.com/google/tsunami-security-scanner) — A general purpose network security scanner with an extensible plugin system for  detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.
 
+*   [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
+
 *   [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 
 <details>
@@ -2705,6 +2714,8 @@ but with the following improvements:
 *   [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
 *   [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+
+*   [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
 
 *   [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 

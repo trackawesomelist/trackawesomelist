@@ -8,7 +8,7 @@
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [Audio Priority Bar (⭐30)](https://github.com/camguillory/Audio-Priority-Bar) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
 
@@ -51,6 +51,20 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/tiagomoraes/browbro/main/site/assets/og-image.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/gitemre/device-hub-pro (⭐40)](https://github.com/gitemre/device-hub-pro)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/gitemre/device-hub-pro/main/docs/assets/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -117,6 +131,24 @@
     <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [AI Switcher (⭐4)](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://aiswitcher.dev/desktop/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://aiswitcher.dev/media/desktop-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://aiswitcher.dev/media/desktop-profiles.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://aiswitcher.dev/media/desktop-workspace-rules.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -427,6 +459,22 @@
 
     </p>
     </details>
+*   [Tequila (⭐100)](https://github.com/caiyuyou1227-glitch/tequila) - A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/caiyuyou1227-glitch/tequila (⭐100)](https://github.com/caiyuyou1227-glitch/tequila)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/focus.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/calendar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [Unbury (⭐7)](https://github.com/migsilva89/unbury) - Searches your saved browser bookmarks by meaning rather than by title, using a one-line description it writes for each link.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -526,14 +574,46 @@
 
     </p>
     </details>
+*   [SquirrelDisk (⭐2k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer with animated sunburst and treemap views that can also scan SSH servers and cloud storage via rclone.
 
-### ⏱️ Productivity (141) / ✏️ Text (17)
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** <https://www.squirreldisk.com>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/adileo/squirreldisk/main/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/adileo/squirreldisk/main/screenshots/explore.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Dictámelo (⭐10)](https://github.com/sarrazola/dictamelo) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
     **Website:** <https://www.dictamelo.com/en>
+*   [Earnote (⭐19)](https://github.com/louiskl/Earnote) - Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://earnote.dev>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [NarrateClaude (⭐47)](https://github.com/nicedreamzapp/NarrateClaude) - Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
@@ -664,6 +744,54 @@
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://airpoise.vercel.app/>
+*   [EK Bridge (⭐4)](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/bereciartua/ek-bridge (⭐4)](https://github.com/bereciartua/ek-bridge)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/overview-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/approval-panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/access-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [horita (⭐6)](https://github.com/cordwainersmith/horita) - Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://horita.app>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/dropdown.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/meeting-details.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [inlaut (⭐5)](https://github.com/tobymarks/inlaut) - Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://inlaut.de>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://inlaut.de/screens/einstellungen.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [MRRDock (⭐8)](https://github.com/simonsruggi/MRRDock) - Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad, keeping the API keys in the macOS Keychain.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -678,6 +806,11 @@
 
     </p>
     </details>
+*   [Vocula (⭐6)](https://github.com/vitaly-kashtalyan/vocula) - Hold-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://vocula.app>
 *   [Whisk (⭐31)](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -707,7 +840,7 @@
     </p>
     </details>
 
-### 🎧 Music (20) / ✏️ Text (17)
+### 🎧 Music (21) / ✏️ Text (17)
 
 *   [Lyrimuse (⭐202)](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
 
@@ -742,7 +875,7 @@
     </p>
     </details>
 
-### 🎵 Audio (59)
+### 🎵 Audio (62)
 
 *   [NoMicSwitch (⭐6)](https://github.com/marks-zyz/NoMicSwitch) - Pins the default audio input to the Mac's built-in microphone and locks the input volume, so AirPods never take it over.
 
@@ -759,13 +892,27 @@
     </p>
     </details>
 
-### 📊 Menubar (144) / ✏️ Text (17)
+### 📊 Menubar (151) / ✏️ Text (17)
 
 *   [Plainsay (⭐12)](https://github.com/conrader/plainsay) - Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+).
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** <https://plainsay.app/>
+*   [Reprise (⭐4)](https://github.com/nikiomori/reprise) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/library-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/island-recording-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [sbtfix (⭐10)](https://github.com/htsecurity/sbtfix) - Menu bar app to control Sony headphones: noise cancelling, ambient sound, Speak-to-Chat and battery.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -848,7 +995,120 @@
     </p>
     </details>
 
-### 💾 Backup (7)
+### ▶️ Player (10) / ✏️ Text (17)
+
+*   [Vespertine (⭐6)](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
+
+    **Website:** <https://szeremeta1.github.io/Vespertine/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/bit-perfect-fiio-24-96.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/spatial-audio-airpods-max.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/fake-hi-res-detection.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 🎬 Video (27) / ✏️ Text (17)
+
+*   [BitMatch (⭐14)](https://github.com/BitmatchApp/Bitmatch) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://bitmatchapp.github.io>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/BitmatchApp/Bitmatch/main/docs/screenshots/mac.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Shotnix (⭐99)](https://github.com/OMARVII/Shotnix) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://shotnix.com/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://shotnix.com/screenshots/shotnix-video-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Frame Player (⭐38)](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
+
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://frameplayer.app>
+*   [IPTVMac (⭐8)](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://goelir.github.io/IPTVMac/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/01-live.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/02-search.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/03-movies.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    *(1 more screenshots available in the repository)*
+
+    </p>
+    </details>
+*   [Mac Classic Player (⭐56)](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic.
+
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://mcp.kkweb.io/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-main.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-shortcuts.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Wave Subs (⭐26)](https://github.com/jason-jm/wavesubs) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://wavesubs.com>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://wavesubs.com/assets/shots/en-dark-editor.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://wavesubs.com/assets/shots/en-dark-translate-models.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://wavesubs.com/assets/shots/en-dark-batch.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 💾 Backup (8)
 
 *   [FilesNest (⭐5)](https://github.com/moontechs/files-nest) - One-way, resumable sync of macOS Photos libraries to self-hosted or local storage.
 
@@ -865,7 +1125,7 @@
     </p>
     </details>
 
-### 🌐 Browser (16)
+### 🌐 Browser (18)
 
 *   [Dao Browser (⭐7)](https://github.com/msgbyte/dao-browser) - An open-source Chromium-based, Arc-like browser for macOS with a content-first UI, BYOK AI, and MCP support.
 
@@ -881,8 +1141,38 @@
 
     </p>
     </details>
+*   [Vane (⭐4)](https://github.com/notnaki/vane) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.
 
-### 👨‍💻 Development (53)
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://notnaki.github.io/vane/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-spaces.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-split.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Yalqen (⭐31)](https://github.com/YSamed/yalqen) - Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.
+
+    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+    **Website:** <https://yalqen.com>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/YSamed/yalqen/main/assets/screenshots/website.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 👨‍💻 Development (54)
 
 *   [Blave Agent (⭐113)](https://github.com/Blave-TW/blave-agent) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
 
@@ -920,7 +1210,7 @@
 
     **Website:** <https://superagent.computer>
 
-### 👨‍💻 Development (53) / 📦 Git (21)
+### 👨‍💻 Development (54) / 📦 Git (22)
 
 *   [PR Cockpit (⭐48)](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
 
@@ -933,6 +1223,22 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/theolundqvist/pr-cockpit/main/docs/screenshots/landing-inbox.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [teebe (⭐26)](https://github.com/klein-t/teebe) - Shows every git worktree across your repos, marks which ones a coding agent (Claude Code, Codex) is working in, and live-diffs the files they change.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://teebe.io>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -958,9 +1264,9 @@
     </p>
     </details>
 
-### 📺 Terminal (25) / ✏️ Text (17)
+### 📺 Terminal (26) / ✏️ Text (17)
 
-*   [YYLO CLI (⭐63)](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with isolated task worktrees, Kanban task state, and a typed merge queue.
+*   [YYLO CLI (⭐65)](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with isolated task worktrees, Kanban task state, and a typed merge queue.
 
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 *   [Aster (⭐11)](https://github.com/OpenFabrica/aster) - Native macOS terminal workspace built with AppKit and Ghostty, with recursive splits, file browsing, and previews.
@@ -1013,8 +1319,24 @@
     </p>
     </details>
 
-### 🎮 Games (15) / ✏️ Text (17)
+### 🎮 Games (16) / ✏️ Text (17)
 
+*   [Quest for Duskara (⭐14)](https://github.com/Dbhardwaj99/Quest-For-Duskara) - Single-player island strategy game where you build a town, trade, raise an army, and conquer a 15-city archipelago.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://dbhardwaj99.github.io/Quest-For-Duskara/>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/village.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    <img src='https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/world-map.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [Soju (⭐22)](https://github.com/BCD1210/soju) - Run Battle.net, Diablo II: Resurrected and Steam games on Apple Silicon Macs with a fully free Wine stack built from GPL sources; one-line installer.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
@@ -1049,64 +1371,6 @@
     </p>
     </details>
 
-### 🎬 Video (25) / ✏️ Text (17)
-
-*   [Shotnix (⭐99)](https://github.com/OMARVII/Shotnix) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
-
-    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-    **Website:** <https://shotnix.com/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    <img src='https://shotnix.com/screenshots/shotnix-video-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-*   [Frame Player (⭐38)](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
-
-    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Website:** <https://frameplayer.app>
-*   [Mac Classic Player (⭐56)](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic.
-
-    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Website:** <https://mcp.kkweb.io/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-main.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    <img src='https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-shortcuts.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-*   [Wave Subs (⭐26)](https://github.com/jason-jm/wavesubs) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline.
-
-    **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-    **Website:** <https://wavesubs.com>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='https://wavesubs.com/assets/shots/en-dark-editor.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    <img src='https://wavesubs.com/assets/shots/en-dark-translate-models.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    <img src='https://wavesubs.com/assets/shots/en-dark-batch.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-
 ### ⌨️ Keyboard (14) / ✏️ Text (17)
 
 *   [CmdIME (⭐31)](https://github.com/ShunmeiCho/cmd-ime) - Input source switcher that gives each input source its own key, such as Left Command for English and Right Command for Chinese.
@@ -1126,8 +1390,13 @@
     </p>
     </details>
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
+*   [Command Reopen (⭐46)](https://github.com/Feng6611/mac-command-reopen) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://commandreopen.com/>
 *   [OmniMac (⭐17)](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -1141,6 +1410,20 @@
     <img src='https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-media.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     <img src='https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Realign (⭐11)](https://github.com/hunterphillips/realign) - Saves a window layout per display setup and puts every window back with one shortcut, or automatically when you dock or undock.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/hunterphillips/realign (⭐11)](https://github.com/hunterphillips/realign)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/hunterphillips/realign/main/assets/before-after.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -1203,7 +1486,24 @@
     </p>
     </details>
 
-### 🔒 Security (19) / ✏️ Text (17)
+### ⚙️ System (45) / ✏️ Text (17)
+
+*   [MacFanPro (⭐13)](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/macfanpro/macfanpro (⭐13)](https://github.com/macfanpro/macfanpro)
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+
+### 🔒 Security (20) / ✏️ Text (17)
 
 *   [Recall (⭐8)](https://github.com/cnazk/recall-mac) - Local-first clipboard manager with on-device semantic search, two-factor codes, and credentials that delete themselves.
 
@@ -1216,6 +1516,20 @@
     <p>
 
     <img src='https://raw.githubusercontent.com/cnazk/recall-mac/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
+*   [Ravenpass (⭐12)](https://github.com/dortanes/ravenpass) - Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.
+
+    **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://ravenpass.org>
+
+    <details>
+    <summary>Screenshots</summary>
+    <p>
+
+    <img src='https://raw.githubusercontent.com/dortanes/ravenpass/main/.github/assets/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
@@ -1241,16 +1555,22 @@
     </p>
     </details>
 
-### 📤 Sharing Files (14) / ✏️ Text (17)
+### 🖥️ Wallpaper (15) / ✏️ Text (17)
 
-*   [JuiceMount (⭐6)](https://github.com/lelanddutcher/juicemount) - Mounts a NAS as a real Finder volume and streams video in blocks through a local SSD cache, with offline pinning.
+*   [Haze (⭐12)](https://github.com/adrbn/haze) - Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar.
 
-    **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** <https://juicemount.com>
+    **Website:** [https://github.com/adrbn/haze (⭐12)](https://github.com/adrbn/haze)
 
-### 🖥️ Wallpaper (14) / ✏️ Text (17)
+    <details>
+    <summary>Screenshots</summary>
+    <p>
 
+    <img src='https://raw.githubusercontent.com/adrbn/haze/main/assets/demo.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+    </p>
+    </details>
 *   [SpreadPaper (⭐106)](https://github.com/spreadpaper/SpreadPaper) - Spread a single high-resolution wallpaper across multiple monitors, with compensation for the bezel gaps between displays.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -1275,9 +1595,25 @@
 
     **Website:** <https://www.wallpapermachine.app>
 
+### 📤 Sharing Files (14) / ✏️ Text (17)
+
+*   [JuiceMount (⭐6)](https://github.com/lelanddutcher/juicemount) - Mounts a NAS as a real Finder volume and streams video in blocks through a local SSD cache, with offline pinning.
+
+    **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** <https://juicemount.com>
+
+### 🔐 VPN & Proxy (11) / ✏️ Text (17)
+
+*   [Vortix (⭐708)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+
+    **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+    **Website:** [https://github.com/Harry-kp/vortix (⭐708)](https://github.com/Harry-kp/vortix)
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
-### ⏱️ Productivity (141) / ✏️ Text (17)
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Blurt (⭐61)](https://github.com/AssemblyAI/blurt) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
 
@@ -1491,7 +1827,7 @@
     </p>
     </details>
 
-### 🎵 Audio (59)
+### 🎵 Audio (62)
 
 *   [EnviousWispr (⭐184)](https://github.com/saurabhav88/EnviousWispr) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
 
@@ -1499,7 +1835,7 @@
 
     **Website:** <https://enviouswispr.com/>
 
-### 📊 Menubar (144) / ✏️ Text (17)
+### 📊 Menubar (151) / ✏️ Text (17)
 
 *   [Fader (⭐68)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.
 
@@ -1573,7 +1909,7 @@
 
     </p>
     </details>
-*   [Sleepless (⭐84)](https://github.com/Aboudjem/Sleepless) - Keep your MacBook awake with the lid closed, on battery, with no external display, with a battery-floor auto-off.
+*   [Sleepless (⭐112)](https://github.com/Aboudjem/Sleepless) - Keep your MacBook awake with the lid closed, on battery, with no external display, with a battery-floor auto-off.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1620,7 +1956,7 @@
     </p>
     </details>
 
-### 🎧 Music (20) / ✏️ Text (17)
+### 🎧 Music (21) / ✏️ Text (17)
 
 *   [Petrichor (⭐1.7k)](https://github.com/kushalpandya/Petrichor) - Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.
 
@@ -1637,7 +1973,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [Qwen Scribe (⭐219)](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.
 
@@ -1835,7 +2171,7 @@
 
     </p>
     </details>
-*   [Claudoscope (⭐238)](https://github.com/cordwainersmith/claudoscope) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
+*   [Claudoscope (⭐261)](https://github.com/cordwainersmith/claudoscope) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2228,7 +2564,7 @@
 
     </p>
     </details>
-*   [MaCursor (⭐133)](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
+*   [MaCursor (⭐157)](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -2242,11 +2578,11 @@
 
     </p>
     </details>
-*   [PureMac (⭐6.9k)](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
+*   [PureMac (⭐7.3k)](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/momenbasel/PureMac (⭐6.9k)](https://github.com/momenbasel/PureMac)
+    **Website:** [https://github.com/momenbasel/PureMac (⭐7.3k)](https://github.com/momenbasel/PureMac)
 
     <details>
     <summary>Screenshots</summary>
@@ -2291,7 +2627,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53)
+### 👨‍💻 Development (54)
 
 *   [qwen-audio-agent (⭐2.9k)](https://github.com/QwenAudio/qwen-audio-agent) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.
 
@@ -2312,11 +2648,11 @@
     **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
     **Website:** [https://github.com/antasphere/clave (⭐51)](https://github.com/antasphere/clave)
-*   [DevProjex (⭐26)](https://github.com/Avazbek22/DevProjex) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
+*   [DevProjex (⭐37)](https://github.com/Avazbek22/DevProjex) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
 
     **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
-    **Website:** [https://github.com/Avazbek22/DevProjex (⭐26)](https://github.com/Avazbek22/DevProjex)
+    **Website:** [https://github.com/Avazbek22/DevProjex (⭐37)](https://github.com/Avazbek22/DevProjex)
 *   [Llamaport (⭐7)](https://github.com/smkamranqadri/llamaport) - Run local GGUF models with llama-server. Reads model headers directly for real quantisation and context length, shows the full launch command before starting, reports live token rates and memory pressure, and downloads models from Hugging Face with resume that survives a kill.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
@@ -2334,7 +2670,7 @@
     </p>
     </details>
 
-### 🌐 Browser (16)
+### 🌐 Browser (18)
 
 *   [Safari MCP (⭐217)](https://github.com/achiya-automation/safari-mcp) - Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.
 
@@ -2348,7 +2684,7 @@
 
     **Website:** <https://tablepro.app>
 
-### 👨‍💻 Development (53) / 🔧 Other Development (6)
+### 👨‍💻 Development (54) / 🔧 Other Development (7)
 
 *   [Loadout (⭐102)](https://github.com/migsilva89/loadout) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.
 
@@ -2405,7 +2741,7 @@
 
     **Website:** <https://arietan.github.io/lite-edit/>
 
-### 📺 Terminal (25) / ✏️ Text (17)
+### 📺 Terminal (26) / ✏️ Text (17)
 
 *   [Tintpad (⭐15)](https://github.com/sorkila/tintpad) - Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
 
@@ -2443,7 +2779,7 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (10) / ✏️ Text (17)
+### 🔐 VPN & Proxy (11) / ✏️ Text (17)
 
 *   [Rockxy (⭐1.4k)](https://github.com/RockxyApp/Rockxy) - Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.
 
@@ -2564,7 +2900,7 @@
 
     **Website:** <https://cate.cero-ai.com>
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
 *   [WindowCycle (⭐5)](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel.
 
@@ -2605,7 +2941,7 @@
 
     **Website:** [https://github.com/offyotto/Core-Monitor (⭐121)](https://github.com/offyotto/Core-Monitor)
 
-### 🔒 Security (19) / ✏️ Text (17)
+### 🔒 Security (20) / ✏️ Text (17)
 
 *   [Holeberry (⭐104)](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances.
 
@@ -2636,7 +2972,7 @@
 
     **Website:** <https://craigjbass.github.io/clearancekit>
 
-### ⚙️ System (44) / ✏️ Text (17)
+### ⚙️ System (45) / ✏️ Text (17)
 
 *   [Mole Widget (⭐86)](https://github.com/TadelUnso/mole-widget) - Lightweight macOS desktop system monitor with live CPU, memory, disk, network, battery, and process metrics, managed from the menu bar.
 
@@ -2658,7 +2994,7 @@
 
     **Website:** <https://perfmon.knhome.nl>
 
-### 🖥️ Wallpaper (14) / ✏️ Text (17)
+### 🖥️ Wallpaper (15) / ✏️ Text (17)
 
 *   [Phosphene (⭐892)](https://github.com/kageroumado/phosphene) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
 
@@ -2677,13 +3013,13 @@
     </p>
     </details>
 
-### 🎬 Video (25) / ✏️ Text (17)
+### 🎬 Video (27) / ✏️ Text (17)
 
-*   [Kaset (⭐2.3k)](https://github.com/sozercan/kaset) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
+*   [Kaset (⭐2.4k)](https://github.com/sozercan/kaset) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/sozercan/kaset (⭐2.3k)](https://github.com/sozercan/kaset)
+    **Website:** [https://github.com/sozercan/kaset (⭐2.4k)](https://github.com/sozercan/kaset)
 
     <details>
     <summary>Screenshots</summary>
@@ -2696,7 +3032,7 @@
     </p>
     </details>
 
-### 🌙 Screensaver (11) / ✏️ Text (17)
+### 🌙 Screensaver (12) / ✏️ Text (17)
 
 *   [Gibson (⭐6)](https://github.com/PerfectoWeb/Gibson) - Screen saver that draws a hacker film dashboard from real system telemetry.
 
@@ -2734,7 +3070,7 @@
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [Mocker (⭐364)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 
@@ -2746,21 +3082,21 @@
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** [https://github.com/ruspg/markdown-quicklook (⭐12)](https://github.com/ruspg/markdown-quicklook)
-*   [Claude Usage Monitor (⭐53)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
+*   [Claude Usage Monitor (⭐55)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor (⭐53)](https://github.com/theDanButuc/Claude-Usage-Monitor)
+    **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor (⭐55)](https://github.com/theDanButuc/Claude-Usage-Monitor)
 *   [Notch So Good (⭐7)](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
     **Website:** [https://github.com/deepshal99/notch-so-good (⭐7)](https://github.com/deepshal99/notch-so-good)
-*   [Repose (⭐31)](https://github.com/fikrikarim/repose) - Break reminder for macOS that automatically pauses during meetings.
+*   [Repose (⭐33)](https://github.com/fikrikarim/repose) - Break reminder for macOS that automatically pauses during meetings.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/fikrikarim/repose (⭐31)](https://github.com/fikrikarim/repose)
+    **Website:** [https://github.com/fikrikarim/repose (⭐33)](https://github.com/fikrikarim/repose)
 
     <details>
     <summary>Screenshots</summary>
@@ -2772,13 +3108,13 @@
 
     </p>
     </details>
-*   [UnTouchID (⭐319)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
+*   [UnTouchID (⭐330)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-    **Website:** [https://github.com/HMAKT99/UnTouchID (⭐319)](https://github.com/HMAKT99/UnTouchID)
+    **Website:** [https://github.com/HMAKT99/UnTouchID (⭐330)](https://github.com/HMAKT99/UnTouchID)
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
 *   [Nudge (⭐23)](https://github.com/mikusnuz/nudge) - Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.
 
@@ -2788,7 +3124,7 @@
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [HomeRec (⭐12)](https://github.com/melissa-pereira-deel/home-rec) - Lightweight native macOS app for recording system audio as high-quality WAV files using ScreenCaptureKit.
 
@@ -2811,10 +3147,7 @@
 
     </p>
     </details>
-*   [Bolo (⭐9)](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
-
-    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-*   [ClaudeUsageBar (⭐42)](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
+*   [AIQuotaBar (⭐42)](https://github.com/yagcioglutoprak/AIQuotaBar) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
 
     **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -2824,10 +3157,13 @@
     <summary>Screenshots</summary>
     <p>
 
-    <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+    <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/screens/readme-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
     </p>
     </details>
+*   [Bolo (⭐9)](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
+
+    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 *   [R2Drop (⭐5)](https://github.com/superhumancorp/r2drop) - Native macOS menu bar application for uploading files to Cloudflare R2 storage.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
@@ -2857,7 +3193,7 @@
 
     **Website:** <https://onionshare.org/>
 
-### ⏱️ Productivity (141) / ✏️ Text (17)
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Shark (⭐7)](https://github.com/SSBun/Shark) - Cursor IDE workspace manager for macOS.
 
@@ -2899,24 +3235,7 @@
     </p>
     </details>
 
-### 📊 Menubar (144) / ✏️ Text (17)
-
-*   [AIQuotaBar (⭐42)](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
-
-    **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
-
-    **Website:** <https://yagcioglutoprak.github.io/AIQuotaBar/>
-
-    <details>
-    <summary>Screenshots</summary>
-    <p>
-
-    <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-    </p>
-    </details>
-
-### ⚙️ System (44) / ✏️ Text (17)
+### ⚙️ System (45) / ✏️ Text (17)
 
 *   [ClearDisk (⭐710)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to reclaim disk space on macOS.
 
@@ -2935,7 +3254,7 @@
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
-### ⚙️ System (44) / ✏️ Text (17)
+### ⚙️ System (45) / ✏️ Text (17)
 
 *   [MacNTop (⭐17)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
 
@@ -2945,7 +3264,7 @@
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
-### 🎵 Audio (59)
+### 🎵 Audio (62)
 
 *   [LyricGlow (⭐42)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
 
@@ -2963,7 +3282,7 @@
 
     </p>
     </details>
-*   [Pulp (⭐106)](https://github.com/bazalp/pulp) - Audio Sample manager.
+*   [Pulp (⭐108)](https://github.com/bazalp/pulp) - Audio Sample manager.
 
     **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2976,7 +3295,7 @@
     </p>
     </details>
 
-### 🎧 Music (20) / ✏️ Text (17)
+### 🎧 Music (21) / ✏️ Text (17)
 
 *   [StargateDAW (⭐880)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
 
@@ -2997,7 +3316,7 @@
     </p>
     </details>
 
-### 💾 Backup (7)
+### 💾 Backup (8)
 
 *   [backy (⭐23)](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
 
@@ -3035,7 +3354,7 @@
     </p>
     </details>
 
-### 📺 Terminal (25) / ✏️ Text (17)
+### 📺 Terminal (26) / ✏️ Text (17)
 
 *   [Clipboard (⭐5.9k)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
@@ -3068,7 +3387,7 @@
     </p>
     </details>
 
-### 📝 Editors (12) / 📱 iOS / macOS (45)
+### 📝 Editors (12) / 📱 iOS / macOS (46)
 
 *   [DevLint (⭐3)](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
 
@@ -3103,7 +3422,7 @@
 
     **Website:** <https://vscodium.com/>
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [Gridfy (⭐37)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
 
@@ -3174,11 +3493,11 @@
 
     </p>
     </details>
-*   [ClipFlow (⭐12)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+*   [ClipFlow (⭐13)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/praneeth552/clipflow (⭐12)](https://github.com/praneeth552/clipflow)
+    **Website:** [https://github.com/praneeth552/clipflow (⭐13)](https://github.com/praneeth552/clipflow)
 
     <details>
     <summary>Screenshots</summary>
@@ -3454,7 +3773,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53)
+### 👨‍💻 Development (54)
 
 *   [JustTags (⭐21)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
 
@@ -3491,7 +3810,7 @@
     </p>
     </details>
 
-### ⏱️ Productivity (141) / ✏️ Text (17)
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Clendar (⭐736)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
@@ -3559,7 +3878,7 @@
 
     </p>
     </details>
-*   [Yippy (⭐399)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
+*   [Yippy (⭐400)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3574,7 +3893,7 @@
     </p>
     </details>
 
-### ⬇️ Downloader (10) / 📱 iOS / macOS (45)
+### ⬇️ Downloader (10) / 📱 iOS / macOS (46)
 
 *   [Applite (⭐7.1k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
 
@@ -3640,7 +3959,7 @@
     </p>
     </details>
 
-### 📔 Notes (25) / ✏️ Text (17)
+### 📔 Notes (26) / ✏️ Text (17)
 
 *   [Notesnook (⭐15k)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
@@ -3662,7 +3981,7 @@
 
     **Website:** <https://stik.ink>
 
-### 🎬 Video (25) / ✏️ Text (17)
+### 🎬 Video (27) / ✏️ Text (17)
 
 *   [Yape (⭐16)](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.
 
@@ -3687,7 +4006,7 @@
 
     **Website:** <https://www.mucommander.com/>
 
-### 🎮 Games (15) / ✏️ Text (17)
+### 🎮 Games (16) / ✏️ Text (17)
 
 *   [Amazing Tic Tac Toe (⭐3)](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
 
@@ -3740,7 +4059,7 @@
     </p>
     </details>
 
-### 📊 Menubar (144) / ✏️ Text (17)
+### 📊 Menubar (151) / ✏️ Text (17)
 
 *   [app-menu (⭐92)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
 
@@ -3787,7 +4106,7 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (10) / ✏️ Text (17)
+### 🔐 VPN & Proxy (11) / ✏️ Text (17)
 
 *   [VPN Bypass (⭐127)](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
@@ -3831,7 +4150,7 @@
     </p>
     </details>
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
 *   [Dockit (⭐278)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
 
@@ -3872,7 +4191,7 @@
     </p>
     </details>
 
-### 🖥️ Wallpaper (14) / ✏️ Text (17)
+### 🖥️ Wallpaper (15) / ✏️ Text (17)
 
 *   [Equinox (⭐2.1k)](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers.
 
@@ -3891,13 +4210,13 @@
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
-*   [Bye-AppQuit (⭐87)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+*   [Bye-AppQuit (⭐88)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐87)](https://github.com/designsbymuzeer/Bye-Mac-App)
+    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐88)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
     <details>
     <summary>Screenshots</summary>
@@ -3908,7 +4227,7 @@
     </p>
     </details>
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
 *   [Ice (⭐30k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
@@ -3929,7 +4248,7 @@
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
-### 👨‍💻 Development (53) / 🌍 Web Development (15)
+### 👨‍💻 Development (54) / 🌍 Web Development (15)
 
 *   [Requestly (⭐6.8k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
 
@@ -3948,9 +4267,9 @@
     </p>
     </details>
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
-*   [MiddleDrag (⭐237)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
+*   [MiddleDrag (⭐241)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3965,7 +4284,7 @@
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
-### 🎵 Audio (59)
+### 🎵 Audio (62)
 
 *   [\[Un\]MuteMic (⭐135)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
@@ -4344,7 +4663,7 @@
     </p>
     </details>
 
-### 🎧 Music (20) / ✏️ Text (17)
+### 🎧 Music (21) / ✏️ Text (17)
 
 *   [Karaoke Forever (⭐914)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
@@ -4468,7 +4787,7 @@
     </p>
     </details>
 
-### 🎬 Video (25) / ✏️ Text (17)
+### 🎬 Video (27) / ✏️ Text (17)
 
 *   [LosslessCut (⭐44k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
 
@@ -4609,7 +4928,7 @@
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-### 🛠️ Utilities (218) / ✏️ Text (17)
+### 🛠️ Utilities (222) / ✏️ Text (17)
 
 *   [MonitorControl (⭐34k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
@@ -4718,7 +5037,7 @@
 
     </p>
     </details>
-*   [Ultra TabSaver (⭐291)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
+*   [Ultra TabSaver (⭐293)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -4783,7 +5102,7 @@
 
     </p>
     </details>
-*   [Grayscale Mode (⭐110)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
+*   [Grayscale Mode (⭐111)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5340,7 +5659,7 @@
 
     **Website:** <https://obsproject.com/>
 
-### 💾 Backup (7)
+### 💾 Backup (8)
 
 *   [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups
 
@@ -5365,11 +5684,11 @@
 *   [Syncalicious (⭐443)](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-*   [UrBackup (⭐934)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
+*   [UrBackup (⭐940)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-### 🌐 Browser (16)
+### 🌐 Browser (18)
 
 *   [Beaker Browser (⭐6.7k)](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.
 
@@ -5428,7 +5747,7 @@
 
     **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-### ⏱️ Productivity (141) / ✏️ Text (17)
+### ⏱️ Productivity (148) / ✏️ Text (17)
 
 *   [Pennywise (⭐3.9k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
@@ -5863,7 +6182,7 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-### 🔒 Security (19) / ✏️ Text (17)
+### 🔒 Security (20) / ✏️ Text (17)
 
 *   [Privacy Redirect for Safari (⭐185)](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 
@@ -6702,7 +7021,7 @@
 *   [Pencil2D Animation (⭐1.8k)](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
 
     **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
-*   [ScreenToLayers for macOS (⭐168)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
+*   [ScreenToLayers for macOS (⭐167)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
@@ -6715,7 +7034,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53) / 📦 Git (21)
+### 👨‍💻 Development (54) / 📦 Git (22)
 
 *   [GitAhead (⭐2k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
@@ -6915,7 +7234,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53)
+### 👨‍💻 Development (54)
 
 *   [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation.
 
@@ -6951,7 +7270,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53) / 🔄 JSON Parsing (4)
+### 👨‍💻 Development (54) / 🔄 JSON Parsing (4)
 
 *   [j2s (⭐239)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
 
@@ -6984,7 +7303,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53) / 🔧 Other Development (6)
+### 👨‍💻 Development (54) / 🔧 Other Development (7)
 
 *   [ChefInspector (⭐9)](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef
 
@@ -7020,7 +7339,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53) / 🌍 Web Development (15)
+### 👨‍💻 Development (54) / 🌍 Web Development (15)
 
 *   [aws-s3-uploader (⭐143)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
 
@@ -7142,7 +7461,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (53) / 📱 iOS / macOS (45)
+### 👨‍💻 Development (54) / 📱 iOS / macOS (46)
 
 *   [AppBox (⭐696)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
 
@@ -7699,7 +8018,7 @@
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-### ⬇️ Downloader (10) / 📱 iOS / macOS (45)
+### ⬇️ Downloader (10) / 📱 iOS / macOS (46)
 
 *   [App Downloader (⭐413)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
 
@@ -7762,7 +8081,7 @@
     </p>
     </details>
 
-### 📝 Editors (12) / 📱 iOS / macOS (45)
+### 📝 Editors (12) / 📱 iOS / macOS (46)
 
 *   [Chime (⭐486)](https://github.com/ChimeHQ/Chime) - An editor for macOS
 
@@ -7833,7 +8152,7 @@
 *   [MacDown (⭐9.8k)](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
-*   [Mark Text (⭐62k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
+*   [Mark Text (⭐63k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
 
     **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 *   [MarkEdit (⭐5.8k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
@@ -7890,7 +8209,7 @@
     </p>
     </details>
 
-### 📔 Notes (25) / ✏️ Text (17)
+### 📔 Notes (26) / ✏️ Text (17)
 
 *   [Notenik (⭐115)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
@@ -8228,7 +8547,7 @@
     </p>
     </details>
 
-### 📺 Terminal (25) / ✏️ Text (17)
+### 📺 Terminal (26) / ✏️ Text (17)
 
 *   [cd to...  (⭐2.4k)](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
@@ -8366,7 +8685,7 @@
     </p>
     </details>
 
-### 🎮 Games (15) / ✏️ Text (17)
+### 🎮 Games (16) / ✏️ Text (17)
 
 *   [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
@@ -8568,7 +8887,7 @@
     </p>
     </details>
 
-### 📊 Menubar (144) / ✏️ Text (17)
+### 📊 Menubar (151) / ✏️ Text (17)
 
 *   [Airpass (⭐590)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 
@@ -9036,7 +9355,7 @@
     </p>
     </details>
 
-### ▶️ Player (8) / ✏️ Text (17)
+### ▶️ Player (10) / ✏️ Text (17)
 
 *   [IINA (⭐47k)](https://github.com/iina/iina) - The modern video player for macOS.
 
@@ -9073,7 +9392,7 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-### 🌙 Screensaver (11) / ✏️ Text (17)
+### 🌙 Screensaver (12) / ✏️ Text (17)
 
 *   [Aerial (⭐21k)](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.
 
@@ -9324,7 +9643,7 @@
     </p>
     </details>
 
-### ⚙️ System (44) / ✏️ Text (17)
+### ⚙️ System (45) / ✏️ Text (17)
 
 *   [Apple Juice (⭐520)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
 
@@ -9468,7 +9787,7 @@
 
     </p>
     </details>
-*   [Overkill (⭐533)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐532)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
     **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 *   [ProfileCreator (⭐1.5k)](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles.
@@ -9572,7 +9891,7 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (10) / ✏️ Text (17)
+### 🔐 VPN & Proxy (11) / ✏️ Text (17)
 
 *   [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.
 
@@ -9602,7 +9921,7 @@
 
     **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-### 🖥️ Wallpaper (14) / ✏️ Text (17)
+### 🖥️ Wallpaper (15) / ✏️ Text (17)
 
 *   [500-mac-wallpaper (⭐28)](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.
 
@@ -9679,7 +9998,7 @@
 
     **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
 
-### 🪟 Window Management (24) / ✏️ Text (17)
+### 🪟 Window Management (26) / ✏️ Text (17)
 
 *   [AltTab (⭐16k)](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
 

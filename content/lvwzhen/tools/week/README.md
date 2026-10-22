@@ -6,6 +6,16 @@ Tools Online
 
 [ [Daily](/content/lvwzhen/tools/README.md) / Weekly / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Image compression
+
+*   [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
+
+### Code Playgrounds
+
+*   [Coddy](https://coddy.tech/playground/html)
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Response
@@ -155,7 +165,6 @@ Tools Online
 *   [JSFiddle](https://jsfiddle.net/)
 *   [JS BIN](http://jsbin.com/)
 *   [Dabblet](http://dabblet.com/)
-*   [CSSDeck](http://cssdeck.com/)
 *   [Plunker](http://plnkr.co/)
 *   [Liveweave](https://liveweave.com/)
 *   [StackBlitz](https://stackblitz.com/)

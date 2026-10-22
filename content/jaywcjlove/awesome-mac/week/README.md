@@ -32,6 +32,10 @@
 
 *   [SSHFire (⭐11)](https://github.com/aralozaltin/sshfire) - Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aralozaltin/sshfire) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Design and Product / Other Tools
+
+*   [Fotohaus (⭐0)](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aelnagish/Fotohaus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### AI Tools / Other Tools
 
 *   [Cove](https://huyanxius.github.io/Cove/) - Open-source native composer, session sidebar and diff viewer for Claude Code and Codex, currently available as an Apple Silicon preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/huyanxius/Cove) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -41,6 +45,10 @@
 ### Audio and Video Tools / File Sharing
 
 *   [TetherCam](https://tethercam.app/) - Use an iPhone as a USB camera on a Mac for video only, or use the OBS plugin for video and the phone's microphone audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kanevry/tethercam) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [Shiyin](https://shiyin.weibuilds.com) - Open-source meeting recorder that transcribes on-device, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT subscription. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/juinwei7/Shiyin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Audio Record and Process
 
@@ -178,14 +186,14 @@
 
 *   [Sesame (⭐5)](https://github.com/qiwei66/sesame) - Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qiwei66/sesame) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [ThinkWatch Lite](https://thinkwat.ch/lite/) - Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [mu (⭐403)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mu (⭐534)](https://github.com/qybaihe/mu) - Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qybaihe/mu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Quail](https://quail-ai.app) - Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adatoo/quail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Audio and Video Tools / File Sharing
 
 *   [IPTVMac](https://goelir.github.io/IPTVMac/) - Native IPTV player for Xtream Codes and M3U with instant search, mpv playback, Picture in Picture and downloads. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Goelir/IPTVMac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Mooziac](https://mooziac.pages.dev) - Lightweight native macOS menu bar player for YouTube Music & local audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shirkeharsh/mooziac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Sonar (⭐8)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sonar (⭐47)](https://github.com/can4hou6joeng4/Sonar) - Native music player with synchronized lyrics and menu bar and notch playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/can4hou6joeng4/Sonar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
