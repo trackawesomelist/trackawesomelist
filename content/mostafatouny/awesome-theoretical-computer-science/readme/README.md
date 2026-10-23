@@ -1,8 +1,8 @@
 # Awesome Theoretical Computer Science Overview
 
-Math & CS Awesome List, distinguished by proof and logic and technique
+Math & CS awesome List, distinguished by proof and logic technique
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 952 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 1.2K · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -65,13 +65,15 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     *   [Learning-augmented](#algorithms_learning-augmented)
         *   [Lecture Notes](#algorithms_learning-augmented_lecture_notes) | [Big List](#algorithms_learning-augmented_big_list)
 *   [Information/Coding Theory](#informationcoding_theory)
-    *   [Lecture Notes](#informationcoding_theory_lecture_notes) | [Workshops](#informationcoding_theory_workshops) | [Conferences](#informationcoding_theory_conferences)
+    *   [Lecture Notes](#informationcoding_theory_lecture_notes)
 *   [Cryptography](#cryptography)
     *   [Books](#cryptography_books)
+*   [AI Safety](#ai_safety)
+    *   [Other](#ai_safety_other)
 *   [Machine Learning Theory](#machine_learning_theory)
-    *   [Lecture Notes](#machine_learning_theory_lecture_notes) | [Books](#machine_learning_theory_books) | [Workshops](#machine_learning_theory_workshops) | [Other](#machine_learning_theory_other)
+    *   [Lecture Notes](#machine_learning_theory_lecture_notes) | [Books](#machine_learning_theory_books) | [Other](#machine_learning_theory_other)
 *   [Game Theory](#game_theory)
-    *   [Lecture Notes](#game_theory_lecture_notes) | [Books](#game_theory_books) | [Workshops](#game_theory_workshops)
+    *   [Lecture Notes](#game_theory_lecture_notes) | [Books](#game_theory_books)
 *   [Math and Logic](#math_and_logic)
     *   [General](#math_and_logic_general)
         *   [Lecture Videos Playlist](#math_and_logic_general_lecture_videos_playlist) | [Books](#math_and_logic_general_books) | [Lecture Notes](#math_and_logic_general_lecture_notes)
@@ -246,7 +248,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books<a name=programming_language_theory_basics_books></a>
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐965)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐1k)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 
 ## Introductory<a name=programming_language_theory_introductory></a>
 
@@ -363,14 +365,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
 *   Scott Aaronson. Quantum Information Science. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf) - Part I: Presuppose only linear algebra and a bit of classical algorithms. Topics include quantum circuits, density matrices, entanglement entropy, Wiesner’s quantum money, QKD, quantum teleportation, the Bell inequality, interpretations of QM, the Shor 9-qubit code, and the algorithms of Deutsch-Jozsa, Bernstein-Vazirani, Simon, Shor, and Grover. Part II: Perspectives on quantum computing that go beyond the bare quantum circuit model, like Hamiltonians, Stabilizer formalism, Bosons and Fermions, Cluster states, and Matrix product states.
 
-## Workshops<a name=informationcoding_theory_workshops></a>
-
-*   [Simons Institute. Information Theory Program](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
-
-## Conferences<a name=informationcoding_theory_conferences></a>
-
-*   [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - It bridges the gap of Theoretical Computer Science and Bioinformatics communities, On new data compression techniques, and computation over compressed data.
-
 # Cryptography<a name=cryptography></a>
 
 ## Books<a name=cryptography_books></a>
@@ -378,6 +372,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
 *   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 *   [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
+
+# AI Safety<a name=ai_safety></a>
+
+## Other<a name=ai_safety_other></a>
+
+*   [Math for AI Safety](https://math-for-ai-safety.github.io) - An open research coalition by [Lionel Levine](https://lionellevine.github.io/).
+*   [MAISI](https://maisi.org) - An independent non-profit research group for mathematical foundations of AI safety.
 
 # Machine Learning Theory<a name=machine_learning_theory></a>
 
@@ -394,14 +395,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 *   [Vazirani & Kearns. An Introduction to Computational Learning Theory](https://mitpress.mit.edu/books/introduction-computational-learning-theory) - Emphasizing issues of computational efficiency, It introduces a number of central topics in computational learning theory.
 *   [Shalev-Shwartz. Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) - It provides an extensive theoretical account of the fundamental ideas underlying machine learning and the mathematical derivations that transform these principles into practical algorithms.
-
-## Workshops<a name=machine_learning_theory_workshops></a>
-
-*   [Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019) - Aligning and focusing theoretical and applied researchers on the common purpose of building empirically relevant theoretical foundations of deep learning. Specifically, the intention was to identify and make progress on challenges that, on one hand, are key to guiding the real-world use of deep learning and, on the other hand, can be approached using theoretical methodology.
-*   [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.
-*   [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - Aims to grow the reach and impact of computer science theory within machine learning.
-*   [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
-*   [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory.
 
 ## Other<a name=machine_learning_theory_other></a>
 
@@ -426,12 +419,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 *   [Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - Games provide mathematical models for interaction, and numerous tasks in computer science can be formulated in game-theoretic terms.
 *   [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - Basic chapters on algorithmic methods for equilibria, mechanism design and combinatorial auctions are followed by chapters on important game theory applications such as incentives and pricing, cost sharing, information markets and cryptography and security.
-
-## Workshops<a name=game_theory_workshops></a>
-
-*   [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015) - The intersection is motivated by applications such as large-scale digital auctions and markets, and fundamental questions such as the computational complexity of Nash equilibria and complexity and approximation in mechanism design. Also, To productively model and study the Internet and its novel computational phenomena, Models and insights can be gained from from game theory and economic theory. The computational point of view, on the other hand, is essential to understand a world in which markets are networked and the default platforms of economic transactions are algorithmic.
-*   [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - The intersection is manifested by (1) Data input to machine learning algorithms are generated by self-interested parties, (2) Machine learning is used to optimize economic systems or acts, (3) Machine learning models used in critical systems are becoming prone to adversarial attacks, and (4) Several machine learning approaches can be framed as finding the equilibrium of a game.
-*   [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - How to quantify the impact of strategic user behavior on overall performance in games including traffic routing as well as online auctions.
 
 # Math and Logic<a name=math_and_logic></a>
 
@@ -666,10 +653,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 # Related Lists<a name=related_lists></a>
 
-*   [Algorithms (⭐24k)](https://github.com/tayllan/awesome-algorithms).
-*   [Mathematics (⭐9.9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.3k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
-*   [Cryptography (⭐6.5k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.9k)](https://github.com/desireevl/awesome-quantum-computing).
-*   [Math (⭐7.8k)](https://github.com/ossu/math) and [CS (⭐191k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Algorithms (⭐26k)](https://github.com/tayllan/awesome-algorithms).
+*   [Mathematics (⭐17k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.5k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
+*   [Cryptography (⭐7.2k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐3.3k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Math (⭐9.3k)](https://github.com/ossu/math) and [CS (⭐210k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 

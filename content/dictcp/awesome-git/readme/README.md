@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome Git tools, resources and shiny things
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dictcp/awesome-git/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dictcp/awesome-git](https://github.com/dictcp/awesome-git) · ⭐ 2.9K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dictcp/awesome-git/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dictcp/awesome-git](https://github.com/dictcp/awesome-git) · ⭐ 3K · 🏷️ Development Environment
 
 [ [Daily](/content/dictcp/awesome-git/README.md) / [Weekly](/content/dictcp/awesome-git/week/README.md) / Overview ]
 
@@ -52,7 +52,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [Migrating to Git LFS](https://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 *   [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - Visualized few basic Git concepts using D3.js: commit, branch, checkout, reset, revert, merge, rebase, fetch, pull, push, tag
 *   [Making Sense of Git – A Visual Perspective](https://appendto.com/2015/06/making-sense-of-git-a-visual-perspective/) - Git from a timeline and level perspective and git commands cheatsheet grouped by functionality
-*   [Git & Git-Flow Cheat Sheet (⭐7.4k)](https://github.com/arslanbilal/git-cheat-sheet)
+*   [Git & Git-Flow Cheat Sheet (⭐7.5k)](https://github.com/arslanbilal/git-cheat-sheet)
 *   [Git Tips (⭐22k)](https://github.com/git-tips/tips)
 *   [Interactive/Contextual/Visual Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
 *   [The 'Git Pretty' Flow-Chart](http://justinhileman.info/article/git-pretty/git-pretty.png) - How to Recover from a Mess
@@ -60,15 +60,15 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) - GitHub Cofounder's Narrative-style Intro to Git Concepts
 *   [CodeBasicsHub: Git Video Tutorials](https://codebasicshub.com/tutorial/git-github/what-is-git)
 *   [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
-*   [Fork and Pull Request Workflow (⭐963)](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
+*   [Fork and Pull Request Workflow (⭐962)](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
 *   [Git School Dude](https://www.youtube.com/c/DanGitschoolDude) - It's a YouTube channel with a lot of great git videos. It covers everything from the basics to advanced Git topics.
 *   [A Git Choose Your Own Adventure](https://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutorials didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was first starting out.
 *   [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
 *   [Deconstructing a git commit](https://krishnabiradar.com/blogs/deconstructing-a-git-commit/) - A blog explaining how git creates and stores commit histories.
-*   [Flight rules for Git (⭐42k)](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
+*   [Flight rules for Git (⭐43k)](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 *   [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 *   [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
-*   [The ultimate guide to <code>.gitignore</code> (⭐40)](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
+*   [The ultimate guide to <code>.gitignore</code> (⭐41)](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 *   [No Bullsh\*t Git](https://maciejb2k.github.io/no-bs-git/) - free and complete explanation of git internals and the `.git/` directory.
 
 ## Style Guide
@@ -85,14 +85,14 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 *   [Tower](https://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
 *   [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
-*   [Rebased (⭐4.6k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
+*   [Rebased (⭐6.2k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 *   [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 *   [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
 *   [SmartGit](https://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 *   [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
 *   [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
 *   [git-cola](https://git-cola.github.io/) - a cross-platform Git GUI client
-*   [SGit (⭐376)](https://github.com/sheimi/SGit) - Git client for Android 4.x
+*   [SGit (⭐379)](https://github.com/sheimi/SGit) - Git client for Android 4.x
 *   [Ungit (⭐11k)](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 *   [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
 *   [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
@@ -100,17 +100,18 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [Git Add-ons (⭐2.2k)](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
 *   [Magit](https://magit.vc) - A Git porcelain inside Emacs
 *   [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
-*   [lazygit (⭐80k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
-*   [Gittyup (⭐2.2k)](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
-*   [gitj (Git Journey) (⭐1)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
+*   [lazygit (⭐83k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
+*   [Gittyup (⭐2.3k)](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
+*   [GitComet (⭐954)](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux, written in Rust
+*   [gitj (Git Journey) (⭐2)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## Repository Hosting
 
 *People have plenty of options to host their source code*
 
 *   [GitHub](https://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
-    *   [Awesome GitHub (⭐963)](https://github.com/phillipadsmith/awesome-github) - Resources & Learning for GitHub
-        *   [GitHub Cheat Sheet (⭐58k)](https://github.com/tiimgreen/github-cheat-sheet)
+    *   [Awesome GitHub (⭐970)](https://github.com/phillipadsmith/awesome-github) - Resources & Learning for GitHub
+        *   [GitHub Cheat Sheet (⭐60k)](https://github.com/tiimgreen/github-cheat-sheet)
         *   [GitHub Browser Extensions (⭐3.3k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 *   [BitBucket](https://bitbucket.org/) - well-known for its free private repository (5 user max).
 *   [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
@@ -141,7 +142,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   ~~[Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity~~
     *   Upsource is no longer available as a commercial product as of February 1, 2022.[\*](https://www.jetbrains.com/upsource/)
 *   [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
-*   [Soft Serve (⭐7.1k)](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+*   [Soft Serve (⭐7.3k)](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
 
 ## Workflow
 
@@ -170,9 +171,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [pre-commit](https://pre-commit.com) - a framework for managing and maintaining multi-language pre-commit hooks.
 *   [husky (⭐35k)](https://github.com/typicode/husky) - modern native Git hooks made easy.
 *   [Overcommit (⭐4k)](https://github.com/brigade/overcommit) - a extendable Git hook manager written with Ruby.
-*   [lefthook (⭐8.4k)](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
-*   [Mookme (⭐105)](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
-*   [quickhook (⭐62)](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
+*   [lefthook (⭐8.9k)](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
+*   [Mookme (⭐104)](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
+*   [quickhook (⭐61)](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
 *   more on <https://githooks.com/>
 
 ## Tools
@@ -183,26 +184,26 @@ Pull requests on interesting tools/projects/resources are welcome.
 *   [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 *   [mu-repo](https://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 *   [multi-gitter (⭐1.2k)](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
-*   [gitwalk (⭐122)](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
+*   [gitwalk (⭐121)](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
 *   [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
 *   [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
-*   [GitIgnore Collection (⭐175k)](https://github.com/github/gitignore) - collection of gitignore files for various programming language
+*   [GitIgnore Collection (⭐176k)](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 *   [etckeeper](https://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 *   [git-extras (⭐18k)](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 *   [git-extra-commands (⭐1.2k)](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
-*   [git-follow (⭐32)](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
+*   [git-follow (⭐34)](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
 *   [Gitrob (⭐6.2k)](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 *   [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 *   [Gitless](https://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
-*   [ghq (⭐3.7k)](https://github.com/motemen/ghq) — Organization for remote repositories
+*   [ghq (⭐3.8k)](https://github.com/motemen/ghq) — Organization for remote repositories
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 *   [conventional-changelog (⭐8.5k)](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
-*   [release-it (⭐9k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [gickup (⭐1.4k)](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
-*   [git-absorb (⭐5.6k)](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
+*   [release-it (⭐9.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [gickup (⭐1.5k)](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
+*   [git-absorb (⭐5.7k)](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
 *   [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
-*   [gitbackup (⭐232)](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
-*   [soba (⭐165)](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
+*   [gitbackup (⭐241)](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
+*   [soba (⭐173)](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 *   [tig (⭐13k)](https://github.com/jonas/tig) - text-mode interface for git.
 
 ## Extensions

@@ -2,16 +2,22 @@
 
 A curated list of amazingly awesome Git tools, resources and shiny things
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dictcp/awesome-git/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dictcp/awesome-git](https://github.com/dictcp/awesome-git) · ⭐ 2.9K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dictcp/awesome-git/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dictcp/awesome-git](https://github.com/dictcp/awesome-git) · ⭐ 3K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/dictcp/awesome-git/week/README.md) / [Overview](/content/dictcp/awesome-git/readme/README.md) ]
+
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Client
+
+*   [GitComet (⭐954)](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux, written in Rust
 
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
 ### Client
 
-*   [Rebased (⭐4.6k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
-*   [gitj (Git Journey) (⭐1)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
+*   [Rebased (⭐6.2k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
+*   [gitj (Git Journey) (⭐2)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 
@@ -38,9 +44,9 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 *   [pre-commit](https://pre-commit.com) - a framework for managing and maintaining multi-language pre-commit hooks.
 *   [husky (⭐35k)](https://github.com/typicode/husky) - modern native Git hooks made easy.
 *   [Overcommit (⭐4k)](https://github.com/brigade/overcommit) - a extendable Git hook manager written with Ruby.
-*   [lefthook (⭐8.4k)](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
-*   [Mookme (⭐105)](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
-*   [quickhook (⭐62)](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
+*   [lefthook (⭐8.9k)](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
+*   [Mookme (⭐104)](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
+*   [quickhook (⭐61)](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
 
 ## [Oct 20, 2023](/content/2023/10/20/README.md)
 
@@ -52,7 +58,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Client
 
-*   [Gittyup (⭐2.2k)](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
+*   [Gittyup (⭐2.3k)](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
@@ -62,31 +68,31 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tools / Comparing workflows
 
-*   [gitbackup (⭐232)](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
+*   [gitbackup (⭐241)](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 
 ## [Jul 09, 2023](/content/2023/07/09/README.md)
 
 ### Tools / Comparing workflows
 
-*   [soba (⭐165)](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
+*   [soba (⭐173)](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 
 ### Self-Hosted Repository
 
-*   [Soft Serve (⭐7.1k)](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+*   [Soft Serve (⭐7.3k)](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Tutorial
 
-*   [The ultimate guide to <code>.gitignore</code> (⭐40)](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
+*   [The ultimate guide to <code>.gitignore</code> (⭐41)](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 
 ### Client
 
-*   [lazygit (⭐80k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
+*   [lazygit (⭐83k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 
 ## [May 21, 2022](/content/2022/05/21/README.md)
 
@@ -104,13 +110,13 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tools / Comparing workflows
 
-*   [git-absorb (⭐5.6k)](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
+*   [git-absorb (⭐5.7k)](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
 
 ## [Apr 14, 2022](/content/2022/04/14/README.md)
 
 ### Tutorial
 
-*   [Flight rules for Git (⭐42k)](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
+*   [Flight rules for Git (⭐43k)](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 *   [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 
 ### Client
@@ -141,9 +147,9 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 ### Tools / Comparing workflows
 
 *   [multi-gitter (⭐1.2k)](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
-*   [gitwalk (⭐122)](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
-*   [release-it (⭐9k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [gickup (⭐1.4k)](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
+*   [gitwalk (⭐121)](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
+*   [release-it (⭐9.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [gickup (⭐1.5k)](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
 
 ## [Dec 03, 2020](/content/2020/12/03/README.md)
 
@@ -241,7 +247,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tutorial
 
-*   [Fork and Pull Request Workflow (⭐963)](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
+*   [Fork and Pull Request Workflow (⭐962)](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
 
 ## [Aug 05, 2018](/content/2018/08/05/README.md)
 
@@ -266,7 +272,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 ### Tutorial
 
 *   [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
-*   [Git & Git-Flow Cheat Sheet (⭐7.4k)](https://github.com/arslanbilal/git-cheat-sheet)
+*   [Git & Git-Flow Cheat Sheet (⭐7.5k)](https://github.com/arslanbilal/git-cheat-sheet)
 *   [Git Tips (⭐22k)](https://github.com/git-tips/tips)
 *   [The 'Git Pretty' Flow-Chart](http://justinhileman.info/article/git-pretty/git-pretty.png) - How to Recover from a Mess
 *   [Software Carpentry: Git Lessons](https://software-carpentry.org/lessons/)
@@ -280,8 +286,8 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 ### Repository Hosting
 
 *   [GitHub](https://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
-    *   [Awesome GitHub (⭐963)](https://github.com/phillipadsmith/awesome-github) - Resources & Learning for GitHub
-        *   [GitHub Cheat Sheet (⭐58k)](https://github.com/tiimgreen/github-cheat-sheet)
+    *   [Awesome GitHub (⭐970)](https://github.com/phillipadsmith/awesome-github) - Resources & Learning for GitHub
+        *   [GitHub Cheat Sheet (⭐60k)](https://github.com/tiimgreen/github-cheat-sheet)
         *   [GitHub Browser Extensions (⭐3.3k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ## [Apr 13, 2018](/content/2018/04/13/README.md)
@@ -322,7 +328,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tools / Comparing workflows
 
-*   [git-follow (⭐32)](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
+*   [git-follow (⭐34)](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
 
 ## [Mar 06, 2017](/content/2017/03/06/README.md)
 
@@ -344,7 +350,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tools / Comparing workflows
 
-*   [ghq (⭐3.7k)](https://github.com/motemen/ghq) — Organization for remote repositories
+*   [ghq (⭐3.8k)](https://github.com/motemen/ghq) — Organization for remote repositories
 
 ## [Oct 16, 2016](/content/2016/10/16/README.md)
 
@@ -416,7 +422,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Client
 
-*   [SGit (⭐376)](https://github.com/sheimi/SGit) - Git client for Android 4.x
+*   [SGit (⭐379)](https://github.com/sheimi/SGit) - Git client for Android 4.x
 
 ### Repository Hosting
 
@@ -435,7 +441,7 @@ A curated list of amazingly awesome Git tools, resources and shiny things
 
 ### Tools / Comparing workflows
 
-*   [GitIgnore Collection (⭐175k)](https://github.com/github/gitignore) - collection of gitignore files for various programming language
+*   [GitIgnore Collection (⭐176k)](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 
 ### Extensions / Comparing workflows
 
