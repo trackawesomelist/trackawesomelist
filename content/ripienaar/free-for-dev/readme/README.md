@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 139K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 140K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrators, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests (⭐139k)](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests (⭐140k)](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -249,6 +249,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
 *   [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
 *   [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).
+*   [cors.dev](https://cors.dev/) - CORS proxy for calling third-party APIs from frontend code: prefix any HTTPS URL with `https://proxy.cors.dev/`. Free without signup or an API key for GET and HEAD requests, 600 requests per minute per IP, responses up to 1 MiB, no monthly quota.
 *   [Country-State-City Microservice API](https://country-state-city.rebuscando.info/) - API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.
 *   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan is limited to one user, data connection, data source, and data destination. Also requires manual data refresh.
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
@@ -268,6 +269,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 *   [Doppio](https://doppio.sh/) - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
 *   [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
+*   [Dynamic Document API](https://dynamicdocumentapi.com/) - Turn data into pixel-perfect PDFs and images. The free plan includes 50 renders per month and access to 2 templates from the template gallery or your own.
 *   [DynamicDocs](https://advicement.io) - Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.
 *   [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
 *   [Estuary](https://estuary.dev/) - Real-time data integration platform for CDC, streaming, and batch data integration with 200+ managed connectors. Free plan includes 10 GB/month of data movement and up to 2 connector instances, with no time limit and no credit card required.
@@ -401,6 +403,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Dubble](https://dubble.so/) - Free Step-by-Step Guide creator. Take screenshots, document processes and collaborate with your team. Also supports async screen recording.
 *   [Duckly](https://duckly.com/) - Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
 *   [element.io](https://element.io/) - A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
+*   [Enchant](https://www.enchant.com) - Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.
 *   [evernote.com](https://evernote.com/) - Tool for organizing information. Share your notes and work together with others
 *   [Fibery](https://fibery.io/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
 *   [Fibo](https://fibo.dev) - A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.
@@ -420,6 +423,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Linkinize](https://linkinize.com) - Bookmark manager for teams with tagging, multi-workspaces, and collaboration. Free plan includes 4 workspaces and 10 team members.
 *   [Lockitbot](https://www.lockitbot.com/) - Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources
 *   [meet.jit.si](https://meet.jit.si/) - One-click video conversations, and screen sharing, for free
+*   [MergeMe](https://mergeme.dev/) - MergeMe brings GitHub/GitLab PRs/MRs directly into Slack as 1 constantly updating card. It adds CI status, mirrored comments, @mentions, reminders & more. Free for teams up to 5 developers & 1 channel mapping.
 *   [Miro](https://miro.com/) - Scalable, secure, cross-device, and enterprise-ready collaboration whiteboard for distributed teams. With a freemium plan.
 *   [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
 *   [Nuclino](https://www.nuclino.com) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, and 5GB storage.
@@ -810,6 +814,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [newrelic.com](https://www.newrelic.com) - New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.
 *   [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
 *   [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) - Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
+*   [OpenUptime](https://openuptime.app) - Hosted uptime monitoring and status pages. Free tier includes 3 active monitors with 5-minute check intervals, 26,000 checks and 100 emails per month, and 30 days of check history.
 *   [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
 *   [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projects and unlimited status pages.
@@ -873,6 +878,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Education and Career Development
 
+*   [BylineCV](https://bylinecv.com/) - Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.
 *   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
 *   [CloudCertPrep](https://cloudcertprep.io) - Free, open-source AWS certification practice exams with 1,050+ questions for CLF-C02. Features timed mock exams, domain practice, spaced repetition, and progress tracking.
 *   [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
@@ -917,6 +923,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
 *   [disban.io](https://disban.io/) - Protect user signups from disposable emails, or just validate an email against disposable service. Free 2000 check credits per month, No Credit Card required.
 *   [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
+*   [DMARCmetric](https://dmarcmetric.com/) - DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.
 *   [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
 *   [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
 *   [Email Spam Tester](https://email-spam-tester.com/) - Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.
@@ -962,6 +969,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
 *   [SendRaven](https://sendraven.ai) - SendRaven provides an email API for transactional email and agent-driven conversations, including inbound replies and threads. The free tier includes 3,000 outbound emails per month, unlimited contacts and inbound replies, card is required.
 *   [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
+*   [SignupVet](https://www.signupvet.com) - An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.
 *   [SimpleLogin](https://simplelogin.io/) - Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
 *   [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
 *   [Substack](https://substack.com) - Unlimited free newsletter service. Start paying when you charge for it.
@@ -1062,7 +1070,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Gonka Broker](https://gonkabroker.com/) - OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.
 *   [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
 *   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐36k)](https://github.com/langfuse/langfuse)
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐4.9k)](https://github.com/langwatch/langwatch)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐5k)](https://github.com/langwatch/langwatch)
 *   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.7k)](https://github.com/latitude-dev/latitude-llm)
 *   [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 \[schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
 *   [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
@@ -1487,10 +1495,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [maptiler.com](https://www.maptiler.com/cloud/) - Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.
 *   [nominatim.org](https://nominatim.org/) - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.
 *   [opencagedata.com](https://opencagedata.com) - Geocoding API aggregating OpenStreetMap and other open geo sources. Two thousand five hundred free queries/day.
+*   [opengeocoding.com](https://opengeocoding.com) - Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.
 *   [osmnames](https://osmnames.org/) - Geocoding, search results ranked by the popularity of related Wikipedia page.
 *   [positionstack](https://positionstack.com/) - Free geocoding for global places and coordinates. 25,000 Requests per month for personal use.
 *   [stadiamaps.com](https://stadiamaps.com/) - Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
 *   [SqlInt](https://sqlint.com) — In-browser SQL workspace with free tools including a JOIN visualizer, SQL formatter, CSV/JSON to SQL converters, and practice questions with no account or credit card required.
+*   [waymorphic.com](https://waymorphic.com/) - Vector map tiles (OpenMapTiles schema), MapLibre styles, geocoding and reverse geocoding APIs. No API key, no request limit, fair use policy.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

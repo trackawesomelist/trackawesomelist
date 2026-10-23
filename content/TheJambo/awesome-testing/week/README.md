@@ -32,11 +32,15 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [App Crash Lab (⭐3)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
-*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐119k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 *   [Device Hub Pro (⭐40)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
 *   [vibe-testing (⭐17)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
 *   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
+
+### Software / Test Report Diagnostics
+
+*   [junit-collision-check (⭐0)](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
 
 ### Software / Test Data Management
 

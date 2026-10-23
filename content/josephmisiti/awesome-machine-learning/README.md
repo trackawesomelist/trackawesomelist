@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [Future AGI (⭐2.1k)](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
+
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Python / General-Purpose Machine Learning
@@ -2742,7 +2748,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

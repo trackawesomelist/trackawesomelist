@@ -2,9 +2,25 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 245 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 249 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
+
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Interior Designing
+
+*   [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo. `#freemium`
+
+## [Oct 21, 2026](/content/2026/10/21/README.md)
+
+### Developer Tools
+
+*   [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. `#free` `#opensource`
+
+### Video
+
+*   [Pixwit](https://pixwit.ai/) - Text-to-video, image-to-video and AI image generation with multiple models in one workspace. `#freemium`
 
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
@@ -25,7 +41,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Aident Loadout](https://aident.ai/) - Connects Claude Code, Codex, Cursor and other MCP clients to your apps and 400+ expert-built Skills through one remote MCP server, CLI or Skill, with credentials kept in a vault and every action logged. `#freemium` `#mcp`
 *   [CurlShot](https://curlshot.com/) - Screenshot API that captures any URL, HTML, or Markdown as PNG, JPEG, WebP, PDF, or scrolling video, with a hosted MCP server so AI agents can take screenshots. Free plan with 100 screenshots/month. `#freemium` `#api` `#mcp`
 *   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
-*   [The Enso Method](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
+*   [The Enso Method (⭐5)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
 
 ### Human Resources
 
@@ -49,7 +65,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Social Media
 
-*   [OpenSparta](https://opensparta.com/) - AI-enabled Telegram workspace for audience discovery, account management, and streamlined engagement. `#freemium` `#social-media`
+*   [OpenSparta](https://opensparta.com/) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. `#freemium` `#social-media`
 
 ## [Oct 14, 2026](/content/2026/10/14/README.md)
 
@@ -75,7 +91,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Data & BI
 
-*   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
+*   [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. `#free` `#mcp`
 
 ### Developer Tools
 
@@ -159,7 +175,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Travel
 
-*   [SkyAccess MCP (⭐1)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
+*   [SkyAccess MCP (⭐2)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
 
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
@@ -312,7 +328,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
-*   [YYLO (⭐63)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐65)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 
 ### Education
 
@@ -370,7 +386,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [SandBase CLI (⭐188)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐185)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
@@ -582,7 +598,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
+*   [agent-qa (⭐911)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
 
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
@@ -649,7 +665,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐212k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐217k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`

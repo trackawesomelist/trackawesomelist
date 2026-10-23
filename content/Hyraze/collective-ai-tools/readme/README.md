@@ -2,7 +2,7 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 245 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 249 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐245)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐245)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐249)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐249)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/hanishrao/collective-ai-tools)
@@ -324,7 +324,7 @@ Use these hashtags in search to filter out the tools
 *   [Baidu GBI](https://www.baidu.com/) - Generative BI and data visualization tool. `#paid`
 *   [ChatExcel](https://chatexcel.co/) - Chat-style spreadsheet processing and analysis. `#free`
 *   [CSV-GPT](https://getluminal.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
-*   [Datacircle](https://datacircle.dev/) - Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. `#freemium` `#mcp`
+*   [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. `#free` `#mcp`
 *   [Dataspot](https://dataspot.com/) - Understand any data instantly using AI `#freemium`
 *   [DC Hub](https://dchub.cloud/) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. `#freemium` `#mcp`
 *   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
@@ -415,7 +415,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AI Code Reviewer](https://ai-code-reviewer.com/) - Efficient automated code review solution. \`\`
 *   [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, with local session status, your-turn alerts, and provider usage views. `#free` `#opensource`
-*   [agent-qa (⭐898)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
+*   [agent-qa (⭐911)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#testing` `#free`
 *   [Aident Loadout](https://aident.ai/) - Connects Claude Code, Codex, Cursor and other MCP clients to your apps and 400+ expert-built Skills through one remote MCP server, CLI or Skill, with credentials kept in a vault and every action logged. `#freemium` `#mcp`
 *   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
@@ -463,6 +463,7 @@ Use these hashtags in search to filter out the tools
 *   [Fig](https://fig.io/) - Terminal auto-completion (Shutdown 2024). `#free`
 *   [Firebase Studio](https://firebase.google.com/) - Google backend and front-end AI integration. `#free`
 *   [Fitten Code](https://code.fitten.com/) - Jittor framework high-speed completion tool. `#free`
+*   [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. `#free` `#opensource`
 *   [Fronty](https://fronty.com/) - Converts image/screenshots to HTML/CSS. `#freemium`
 *   [Genie](https://genie.ai/) - Simulating human engineer cognitive processes. `#paid`
 *   [Gemini CLI (⭐107k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
@@ -491,7 +492,7 @@ Use these hashtags in search to filter out the tools
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
 *   [Omega MCP Router (⭐1)](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio MCP proxy that runs many MCP servers behind one connection, serving tool schemas from a disk cache and starting each server only on its first call. `#free` `#mcp`
 *   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
-*   [OpenCode (⭐212k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐217k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Orbi](https://orbi.build/?ref=oss-collective-ai-tools) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
 *   [OrcaReplay (⭐283)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
@@ -504,7 +505,7 @@ Use these hashtags in search to filter out the tools
 *   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
 *   [ReviewCerberus (⭐32)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
-*   [SandBase CLI (⭐188)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
+*   [SandBase CLI (⭐185)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 *   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
@@ -512,7 +513,7 @@ Use these hashtags in search to filter out the tools
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`
-*   [The Enso Method](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
+*   [The Enso Method (⭐5)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
 *   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
@@ -525,7 +526,7 @@ Use these hashtags in search to filter out the tools
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
-*   [YYLO (⭐63)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐65)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 *   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
 *   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
@@ -832,6 +833,7 @@ Use these hashtags in search to filter out the tools
 
 *   [AI Room Planner](https://roomaiplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit. `#free`
 *   [Interior AI](https://interiorai.com/) - Generates redesigned photos of real rooms in dozens of styles from a single uploaded photo. `#freemium`
+*   [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1129,7 +1131,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Autoposting MCP](https://autoposting.ai/) - MCP server for social content creation, drafts, scheduling and publishing to connected accounts; hosted backend is paid SaaS. `#paid` `#mcp`
 *   [Jev Social](https://socai-io.github.io/jev-social/) - Local-first social research agent that uses Jev and socai to capture Instagram, TikTok, and LinkedIn evidence in Chrome. `#opensource`
-*   [OpenSparta](https://opensparta.com/) - AI-enabled Telegram workspace for audience discovery, account management, and streamlined engagement. `#freemium` `#social-media`
+*   [OpenSparta](https://opensparta.com/) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. `#freemium` `#social-media`
 *   [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker `#free`
 *   [StoriAI](https://storiai.com/) - Elevate Your Brand's Social Presence with StoriAI `#paid`
 *   [Unsora](https://tryunsora.com/) - Generates AI images, video, music and voiceovers and schedules or publishes posts to YouTube, TikTok, Instagram, LinkedIn and other connected accounts. `#paid` `#opensource`
@@ -1172,7 +1174,7 @@ Use these hashtags in search to filter out the tools
 *   [MonkeyEatingMango](https://monkeyeatingmango.com/) - Your complete trip, planned in minutes with routes, attractions, budgets, and food guide. `#free`
 *   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
 *   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
-*   [SkyAccess MCP (⭐1)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
+*   [SkyAccess MCP (⭐2)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
 *   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 *   [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
 *   [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`
@@ -1234,6 +1236,7 @@ Use these hashtags in search to filter out the tools
 *   [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
 *   [Pixmax](https://www.pixmax.ai/) - All-in-one AI platform for generating videos and images with leading models and visual workflows. `#freemium`
 *   [PixVerse](https://pixverse.ai/) - Text-to-realistic, anime, and 3D videos. `#free`
+*   [Pixwit](https://pixwit.ai/) - Text-to-video, image-to-video and AI image generation with multiple models in one workspace. `#freemium`
 *   [Pollo AI](https://pollo.ai/) - Singapore-based image and video creative hub. `#freemium`
 *   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
 *   [Rask](https://rask.ai/) - Localization tool for 130 languages with API. `#free`

@@ -78,6 +78,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
     *   [Official Resources](#official-resources)
     *   [Educational](#educational)
     *   [Community](#community)
+    *   [Programs](#programs)
     *   [Conferences](#conferences)
     *   [Job Boards](#job-boards)
     *   [Newsletters](#newsletters)
@@ -140,7 +141,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-rest-framework (⭐30k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐5.6k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.9k)](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework.
-*   [django-rest-knox (⭐1.3k)](https://github.com/jazzband/django-rest-knox) - Authentication Module for django-rest-auth.
+*   [django-rest-knox (⭐1.3k)](https://github.com/django-commons/django-rest-knox) - Authentication Module for django-rest-auth.
 *   [djoser (⭐2.7k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
 *   [djaq (⭐82)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
 *   [django-rest-framework-simplejwt (⭐4.3k)](https://github.com/jazzband/djangorestframework-simplejwt) - JSON web tokens for DRF.
@@ -182,7 +183,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [confidential (⭐79)](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
 *   [django-environ (⭐3.2k)](https://github.com/joke2k/django-environ) - Environment variables.
 *   [django-split-settings (⭐1.2k)](https://github.com/wemake-services/django-split-settings) - Organize multiple settings files.
-*   [django-constance (⭐1.9k)](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+*   [django-constance (⭐1.9k)](https://github.com/django-commons/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 *   [django-configurations (⭐1.1k)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 *   [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 *   [django-extra-settings (⭐623)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
@@ -236,13 +237,13 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-cleanup (⭐1.2k)](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 *   [django-imagekit (⭐2.3k)](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 *   [django-pictures (⭐281)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
-*   [sorl-thumbnail (⭐1.8k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+*   [sorl-thumbnail (⭐1.8k)](https://github.com/mariocesar/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
 
 *   [django-crispy-forms (⭐5.2k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 *   [django-floppyforms (⭐835)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
-*   [django-formtools (⭐883)](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
+*   [django-formtools (⭐883)](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 *   [django-widget-tweaks (⭐2.2k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.9k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
@@ -453,6 +454,10 @@ Standalone tools that help in developing Django projects.
 *   [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 *   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
 *   [Source Code (⭐92k)](https://github.com/django/django/) - Hosted on GitHub.
+*   [Django Software Foundation](https://www.djangoproject.com/foundation/) - The non-profit behind Django, open to individual members.
+*   [Mastodon](https://fosstodon.org/@django) - Official announcements on releases and security fixes.
+*   [Bluesky](https://bsky.app/profile/djangoproject.com) - Official announcements on releases and security fixes.
+*   [X (formerly Twitter)](https://x.com/djangoproject/) - Official announcements on releases and security fixes.
 
 ### Educational
 
@@ -476,20 +481,26 @@ Standalone tools that help in developing Django projects.
 
 ### Community
 
+*Where to ask, answer, and find other Django people.*
+
 <!--lint disable double-link-->
 
-*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
+*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board, and the preferred venue for both usage questions and development discussion.
+*   [Discord Server](https://chat.djangoproject.com) - Django Discord Community.
+*   [Reddit](https://www.reddit.com/r/django/) - The r/django subreddit.
+*   [Stack Overflow](https://stackoverflow.com/questions/tagged/django) - Questions tagged django.
 *   [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 *   [Local Django Communities Page](https://www.djangoproject.com/community/local/) - Featuring local events all around the world.
-*   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
-*   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
-*   [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
-*   [X (formerly Twitter)](https://x.com/djangoproject/) - For official announcements on updates, security fixes, etc.
-*   [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
-*   IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
-*   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 
 <!--lint enable double-link-->
+
+### Programs
+
+*Community-run programs and organizations you can take part in.*
+
+*   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
+*   [Django Commons](https://django-commons.org/) - The home for community-maintained Django packages.
+*   [Django Girls](https://djangogirls.org/) - Free one-day workshops introducing women to programming with Python and Django, run by volunteers worldwide.
 
 ### Conferences
 

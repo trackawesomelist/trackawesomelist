@@ -6,6 +6,40 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Third-Party Packages / APIs
+
+*   [django-rest-knox (⭐1.3k)](https://github.com/django-commons/django-rest-knox) - Authentication Module for django-rest-auth.
+
+### Third-Party Packages / Configuration
+
+*   [django-constance (⭐1.9k)](https://github.com/django-commons/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+
+### Third-Party Packages / Files/Images
+
+*   [sorl-thumbnail (⭐1.8k)](https://github.com/mariocesar/sorl-thumbnail) - Thumbnails for Django.
+
+### Third-Party Packages / Forms
+
+*   [django-formtools (⭐883)](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
+
+### Resources / Official Resources
+
+*   [Django Software Foundation](https://www.djangoproject.com/foundation/) - The non-profit behind Django, open to individual members.
+*   [Bluesky](https://bsky.app/profile/djangoproject.com) - Official announcements on releases and security fixes.
+
+### Resources / Community
+
+*   [Discord Server](https://chat.djangoproject.com) - Django Discord Community.
+*   [Reddit](https://www.reddit.com/r/django/) - The r/django subreddit.
+*   [Stack Overflow](https://stackoverflow.com/questions/tagged/django) - Questions tagged django.
+
+### Resources / Programs
+
+*   [Django Commons](https://django-commons.org/) - The home for community-maintained Django packages.
+*   [Django Girls](https://djangogirls.org/) - Free one-day workshops introducing women to programming with Python and Django, run by volunteers worldwide.
+
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Resources / Books
@@ -201,7 +235,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / APIs
 
 *   [dj-rest-auth (⭐1.9k)](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework.
-*   [django-rest-knox (⭐1.3k)](https://github.com/jazzband/django-rest-knox) - Authentication Module for django-rest-auth.
 *   [django-rest-framework-simplejwt (⭐4.3k)](https://github.com/jazzband/djangorestframework-simplejwt) - JSON web tokens for DRF.
 *   [django-webpack-loader (⭐2.5k)](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with Django.
 
@@ -332,9 +365,9 @@ A curated list of awesome things related to Django
 
 ## [Oct 25, 2024](/content/2024/10/25/README.md)
 
-### Resources / Community
+### Resources / Official Resources
 
-*   [X (formerly Twitter)](https://x.com/djangoproject/) - For official announcements on updates, security fixes, etc.
+*   [X (formerly Twitter)](https://x.com/djangoproject/) - Official announcements on releases and security fixes.
 
 ### Resources / Videos
 
@@ -405,7 +438,7 @@ A curated list of awesome things related to Django
 
 *   [neapolitan (⭐706)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
 
-### Resources / Community
+### Resources / Programs
 
 *   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 
@@ -484,9 +517,9 @@ A curated list of awesome things related to Django
 
 ## [Nov 17, 2023](/content/2023/11/17/README.md)
 
-### Resources / Community
+### Resources / Official Resources
 
-*   [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
+*   [Mastodon](https://fosstodon.org/@django) - Official announcements on releases and security fixes.
 
 ### Resources / Job Boards
 
@@ -599,12 +632,6 @@ A curated list of awesome things related to Django
 
 *   [django-docker-template (⭐230)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).
 
-## [Apr 06, 2023](/content/2023/04/06/README.md)
-
-### Third-Party Packages / Files/Images
-
-*   [sorl-thumbnail (⭐1.8k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
-
 ## [Nov 13, 2022](/content/2022/11/13/README.md)
 
 ### Third-Party Packages / Performance
@@ -700,12 +727,6 @@ A curated list of awesome things related to Django
 
 *   [django-pictures (⭐281)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
-## [Jun 26, 2022](/content/2022/06/26/README.md)
-
-### Resources / Community
-
-*   [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
-
 ## [Mar 04, 2022](/content/2022/03/04/README.md)
 
 ### Third-Party Packages / Security
@@ -767,7 +788,7 @@ A curated list of awesome things related to Django
 
 ### Resources / Community
 
-*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
+*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board, and the preferred venue for both usage questions and development discussion.
 
 ## [Sep 05, 2021](/content/2021/09/05/README.md)
 
@@ -834,12 +855,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Models
 
 *   [django-mptt (⭐3k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
-
-## [Nov 09, 2020](/content/2020/11/09/README.md)
-
-### Third-Party Packages / Forms
-
-*   [django-formtools (⭐883)](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 
 ## [Oct 23, 2020](/content/2020/10/23/README.md)
 
@@ -1008,7 +1023,6 @@ A curated list of awesome things related to Django
 
 *   [confidential (⭐79)](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
 *   [django-environ (⭐3.2k)](https://github.com/joke2k/django-environ) - Environment variables.
-*   [django-constance (⭐1.9k)](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 
 ### Third-Party Packages / Content Management Systems
 
@@ -1103,10 +1117,6 @@ A curated list of awesome things related to Django
 *   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
 *   [Source Code (⭐92k)](https://github.com/django/django/) - Hosted on GitHub.
 
-### Resources / Community
-
-*   IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
-
 ### Projects / Open Source Projects
 
 *   [Zulip (⭐26k)](https://github.com/zulip/zulip/) - Open-source team chat.
@@ -1164,11 +1174,6 @@ A curated list of awesome things related to Django
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
-
-### Resources / Community
-
-*   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
-*   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
 
 ### Resources / Podcasts
 

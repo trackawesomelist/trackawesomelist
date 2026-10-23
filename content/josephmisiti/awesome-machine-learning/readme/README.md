@@ -271,7 +271,7 @@ Further resources:
 *   [Speedster (⭐8.3k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 *   [BanditLib (⭐139)](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **\[Deprecated]**
 *   [Caffe (⭐35k)](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. \[DEEP LEARNING]
-*   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
+*   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
 *   [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DeepDetect (⭐2.5k)](https://github.com/jolibrain/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
@@ -1438,7 +1438,7 @@ Further resources:
 *   [ML-From-Scratch (⭐33k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 *   [Edward](http://edwardlib.org/) - A library for probabilistic modelling, inference, and criticism. Built on top of TensorFlow.
 *   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
-*   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (even multi-GPU) computation.
+*   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (even multi-GPU) computation.
 *   [stacked\_generalization (⭐119)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
 *   [modAL (⭐2.4k)](https://github.com/modAL-python/modAL) - A modular active learning framework for Python, built on top of scikit-learn.
 *   [Cogitare (⭐77)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
@@ -1503,6 +1503,7 @@ Further resources:
 *   [pyclugen (⭐10)](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 *   [mlforgex (⭐2)](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 *   [autobatcher (⭐24)](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
+*   [Future AGI (⭐2.1k)](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
 
 <a name="python-data-analysis--data-visualization"></a>
 
@@ -1834,7 +1835,7 @@ Further resources:
 *   [C50](https://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models.
 *   [caret](https://topepo.github.io/caret/index.html) - Classification and Regression Training: Unified interface to \~150 ML algorithms in R.
 *   [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models. **\[Deprecated]**
-*   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 *   [Clever Algorithms For Machine Learning](https://machinelearningmastery.com/)
 *   [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
     -\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**

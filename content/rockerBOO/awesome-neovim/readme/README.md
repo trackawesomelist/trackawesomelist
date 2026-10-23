@@ -204,7 +204,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Senal-D-A-Gunaratna/swapson.nvim (⭐11)](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
 *   [Crysthamus/nvim-file-operations (⭐25)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 *   [antosha417/nvim-lsp-file-operations (⭐435)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
-*   [carldaws/miser.nvim (⭐26)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
+*   [carldaws/miser.nvim (⭐32)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 
 ### Diagnostics
 
@@ -274,7 +274,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 <!--lint enable double-link-->
 
 *   [raymondware/herdr.nvim (⭐4)](https://github.com/raymondware/herdr.nvim) - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
-*   [saya-ashen/agent-workbench.nvim (⭐27)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
+*   [saya-ashen/agent-workbench.nvim (⭐26)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 *   [nwiizo/signalbox.nvim (⭐5)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 *   [cursortab/cursortab.nvim (⭐261)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
 *   [teocns/neocursor.nvim (⭐74)](https://github.com/teocns/neocursor.nvim) - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
@@ -434,7 +434,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [MeanderingProgrammer/render-markdown.nvim (⭐5.2k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown files directly.
 *   [ChuufMaster/markdown-toc (⭐17)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any Markdown file from any other Markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 *   [OXY2DEV/markview.nvim (⭐3.7k)](https://github.com/OXY2DEV/markview.nvim) - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
-*   [gunasekar/markview-smart-tables.nvim (⭐9)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐11)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 *   [Kicamon/markdown-table-mode.nvim (⭐108)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 *   [SCJangra/table-nvim (⭐87)](https://github.com/SCJangra/table-nvim) - A Markdown table editor that formats the table as you type.
 *   [timantipov/md-table-tidy.nvim (⭐23)](https://github.com/timantipov/md-table-tidy.nvim) - Simple Markdown tables formatting.
@@ -772,13 +772,13 @@ then it is not supported:
 *   [ThorstenRhau/token (⭐311)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [oskarnurm/koda.nvim (⭐366)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
 *   [yonatan-perel/lake-dweller.nvim (⭐35)](https://github.com/yonatan-perel/lake-dweller.nvim) - ***`[TS][LSP][Lua]`*** Dark and opinionated with selective highlighting aiming to be readable at a glance.
-*   [daaanny90/zed.nvim (⭐0)](https://github.com/daaanny90/zed.nvim) - ***`[TS][LSP][Lua]`*** Zed editor look with six dark variants, plus tmux and iTerm2 extras.
+*   [daaanny90/zed.nvim (⭐2)](https://github.com/daaanny90/zed.nvim) - ***`[TS][LSP][Lua]`*** Zed editor look with six dark variants, plus tmux and iTerm2 extras.
 *   [silentium-theme/silentium.nvim (⭐38)](https://github.com/silentium-theme/silentium.nvim) - ***`[TS][Luа]`*** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
 *   [serhez/teide.nvim (⭐163)](https://github.com/serhez/teide.nvim) - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
 *   [kuri-sun/yoda.nvim (⭐14)](https://github.com/kuri-sun/yoda.nvim) - ***`[TS][L/D][Lua]`*** Muted green palette for focused, balanced editing.
 *   [wurli/cobalt.nvim (⭐31)](https://github.com/wurli/cobalt.nvim) - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
 *   [datsfilipe/min-theme.nvim (⭐61)](https://github.com/datsfilipe/min-theme.nvim) - ***`[TS][LSP][Lua]`*** It's a port of Min, a minimal theme for VSCode, written in Lua.
-*   [daaanny90/claude-desktop.nvim (⭐2)](https://github.com/daaanny90/claude-desktop.nvim) - ***`[TS][LSP][Lua]`*** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.
+*   [daaanny90/claude-desktop.nvim (⭐3)](https://github.com/daaanny90/claude-desktop.nvim) - ***`[TS][LSP][Lua]`*** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.
 *   [github-main-user/lytmode.nvim (⭐34)](https://github.com/github-main-user/lytmode.nvim) - ***`[TS][LSP][Lua]`*** A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 *   [datsfilipe/vesper.nvim (⭐254)](https://github.com/datsfilipe/vesper.nvim) - ***`[TS][LSP][Lua]`*** It's a port of the popular VS Code theme Vesper, written in Lua.
 *   [sontungexpt/witch (⭐83)](https://github.com/sontungexpt/witch) - ***`[TS][LSP][L/D][Lua]`*** The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
@@ -877,7 +877,7 @@ then it is not supported:
 *   [judaew/ronny.nvim (⭐18)](https://github.com/judaew/ronny.nvim) - ***`[TS][LSP][Lua]`*** A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 *   [ribru17/bamboo.nvim (⭐498)](https://github.com/ribru17/bamboo.nvim) - ***`[TS][LSP][Lua]`*** A warm green theme.
 *   [cryptomilk/nightcity.nvim (⭐72)](https://github.com/cryptomilk/nightcity.nvim) - ***`[TS][LSP][Lua]`*** A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
-*   [daaanny90/iterm2-dark-background.nvim (⭐0)](https://github.com/daaanny90/iterm2-dark-background.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme inspired by iTerm2's Dark Background preset.
+*   [daaanny90/iterm2-dark-background.nvim (⭐2)](https://github.com/daaanny90/iterm2-dark-background.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme inspired by iTerm2's Dark Background preset.
 *   [polirritmico/monokai-nightasty.nvim (⭐170)](https://github.com/polirritmico/monokai-nightasty.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 *   [oxfist/night-owl.nvim (⭐355)](https://github.com/oxfist/night-owl.nvim) - ***`[TS][LSP][Lua]`*** A [Night Owl colorscheme port from VSCode (⭐3k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
 *   [miikanissi/modus-themes.nvim (⭐449)](https://github.com/miikanissi/modus-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
@@ -918,18 +918,18 @@ then it is not supported:
 *   [Aejkatappaja/sora (⭐74)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐25)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐20)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
-*   [Aejkatappaja/cendre (⭐176)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [Aejkatappaja/cendre (⭐179)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [marekh19/meowsoot.nvim (⭐39)](https://github.com/marekh19/meowsoot.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 *   [ntk148v/lauds (⭐11)](https://github.com/ntk148v/lauds) - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 *   [alsi-lawr/neotheme.nvim (⭐7)](https://github.com/alsi-lawr/neotheme.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 *   [tan-wei/zimablue.nvim (⭐2)](https://github.com/tan-wei/zimablue.nvim) - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
-*   [mitander/flume.nvim (⭐71)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐72)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 *   [aadielpr/bono.nvim (⭐4)](https://github.com/aadielpr/bono.nvim) - ***`[TS][LSP][L/D][Lua]`*** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 *   [jonestristand/dune.nvim (⭐3)](https://github.com/jonestristand/dune.nvim) - ***`[TS][LSP][Lua]`*** Four (plus one) variants inspired by Frank Herbert's Dune.
-*   [2giosangmitom/nightfall.nvim (⭐49)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
-*   [oxidescheme/nvim (⭐18)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+*   [2giosangmitom/nightfall.nvim (⭐51)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
+*   [oxidescheme/nvim (⭐40)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 
 <!--lint disable double-link -->
 
@@ -1058,6 +1058,7 @@ then it is not supported:
 *   [Kurama622/profile.nvim (⭐78)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
 *   [leo-alvarenga/homecoming.nvim (⭐12)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 *   [Amansingh-afk/milli.nvim (⭐320)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+*   [zdcthomas/sprout.nvim (⭐1)](https://github.com/zdcthomas/sprout.nvim) - An ASCII art bonsai for your start screen that grows as the day goes forward.
 
 <!--lint disable double-link -->
 
@@ -1071,7 +1072,7 @@ then it is not supported:
 *   [nvim-mini/mini.nvim#mini.icons (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md) - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 *   [2KAbhishek/nerdy.nvim (⭐430)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
 *   [stephansama/fzf-nerdfont.nvim (⭐10)](https://github.com/stephansama/fzf-nerdfont.nvim) - A picker for selecting Nerd Font icons using `fzf-lua`.
-*   [Mirsmog/real-icons.nvim (⭐90)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
+*   [Mirsmog/real-icons.nvim (⭐94)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
 
 <!--lint disable double-link -->
 
@@ -1349,7 +1350,7 @@ then it is not supported:
 
 ## Code Runner
 
-*   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
+*   [nghiant03/jove.nvim (⭐11)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 *   [wurli/jet.nvim (⭐35)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 *   [rafcamlet/nvim-luapad (⭐688)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 *   [michaelb/sniprun (⭐1.7k)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from your editor.
@@ -1385,7 +1386,7 @@ then it is not supported:
 *   [bytehound-labs/nvim-flow (⭐7)](https://github.com/bytehound-labs/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 *   [negativo/nx-nvim (⭐5)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 *   [lewistg/pesto.nvim (⭐9)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
-*   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+*   [wsdjeg/tasks.nvim (⭐33)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 *   [JulOuellet/bzl.nvim (⭐2)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 *   [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 *   [pewpewnor/dove.nvim (⭐4)](https://github.com/pewpewnor/dove.nvim) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
@@ -1462,7 +1463,7 @@ then it is not supported:
 *   [cosmicbuffalo/gem\_install.nvim (⭐2)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 *   [taigrr/glaze.nvim (⭐12)](https://github.com/taigrr/glaze.nvim) - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 *   [jpease/hex-outdated.nvim (⭐2)](https://github.com/jpease/hex-outdated.nvim) - Display latest Hex package version and status as virtual text in `mix.exs`.
-*   [mm4cN/nvim-conan (⭐9)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+*   [mm4cN/nvim-conan (⭐8)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 
 <!--lint disable double-link -->
 
@@ -1472,7 +1473,7 @@ then it is not supported:
 
 ## Git
 
-*   [Darkskittlz/GitCompanion (⭐4)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
+*   [Darkskittlz/GitCompanion (⭐5)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 *   [YouSame2/inlinediff-nvim (⭐33)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 *   [mrloop/telescope-git-branch.nvim (⭐12)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 *   [f-person/git-blame.nvim (⭐1.1k)](https://github.com/f-person/git-blame.nvim) - Show Git blame info.
@@ -2004,7 +2005,7 @@ then it is not supported:
 *   [caskstrength/nvim-dbeer](https://codeberg.org/caskstrength/nvim-dbeer) - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
 *   [tashikomaaa/neomongo.nvim (⭐8)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 *   [joryeugene/dadbod-grip.nvim (⭐177)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
-*   [clang-engineer/dadbod-vertica.nvim (⭐2)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+*   [clang-engineer/dadbod-vertica.nvim (⭐2)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.5k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 <!--lint disable double-link -->
 

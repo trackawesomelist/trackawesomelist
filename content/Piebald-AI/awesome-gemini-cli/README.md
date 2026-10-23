@@ -6,6 +6,16 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [LitGravity (⭐166)](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
+
+### MCP Servers
+
+*   [Super (⭐3)](https://github.com/fitzyracing1/Super) - Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; `pip install superuser`, then add the `superuser` command to your Gemini CLI MCP server config.
+
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Interfaces

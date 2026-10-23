@@ -16,6 +16,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [AutoHarness (⭐2)](https://github.com/D-Shey/autoharness) - Makes Gemini CLI (and Claude Code, Codex, Qwen Code) prepare before it builds: splits the task into areas of know-how, finds or writes a skill for each, checks the result against the original, and lets a fresh critic judge it. MIT.
 *   [Concord MCP (⭐602)](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state MCP server (`npx -y @concord-ai/concord-mcp`) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.
+*   [LitGravity (⭐166)](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
 
 ### Commands & Extensions
 
@@ -33,6 +34,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [npmscan (⭐1)](https://github.com/salemalem/npmscan-mcp-plugin) - npm supply-chain security: checks packages for malware, known vulnerabilities, typosquats, maintainer takeovers and risky install scripts before install, and audits package.json, lockfiles, SBOMs and PR dependency changes. 23 read-only tools, no API key, no signup. Remote Streamable HTTP, bundled with 5 skills as a Gemini CLI extension. Install: `gemini extensions install https://github.com/salemalem/npmscan-mcp-plugin`.
 *   [deed.page](https://deed.page/docs?ref=skill-awesome-gemini-cli) - Static hosting for agents with a remote MCP server that lets Gemini CLI publish an HTML file or static folder to a permanent public `https://<slug>.deed.page` URL and update it with the token it gets back. No account or API key for publishing; the companion Agent Skill is MIT ([source (⭐1)](https://github.com/f-o-x11/deed-page-skill)). Remote Streamable HTTP. Add with `gemini mcp add --transport http deed-page https://deed.page/mcp`.
 *   [ppl](https://withppl.com/agents?utm_source=awesome-gemini-cli\&utm_medium=referral) - Personal CRM for humans with AI agents, with a hosted remote MCP server (OAuth) at `https://withppl.com/mcp`: Gemini CLI can look up contacts, log interactions, keep notes and set reminders about the people in your life. Free beta up to 1,000 contacts at <https://withppl.com/register>.
+*   [Super (⭐3)](https://github.com/fitzyracing1/Super) - Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; `pip install superuser`, then add the `superuser` command to your Gemini CLI MCP server config.
 
 ### Documentation & Examples
 

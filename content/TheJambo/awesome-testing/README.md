@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Software / Test Report Diagnostics
+
+*   [junit-collision-check (⭐0)](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
+
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Software / Service Virtualization
@@ -14,7 +20,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐119k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 
 ### Software / Accessibility & Usability Testing
 

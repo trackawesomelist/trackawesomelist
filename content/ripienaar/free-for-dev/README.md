@@ -2,9 +2,50 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 139K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 140K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
+
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Enchant](https://www.enchant.com) - Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.
+
+### Education and Career Development
+
+*   [BylineCV](https://bylinecv.com/) - Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.
+
+### Email
+
+*   [SignupVet](https://www.signupvet.com) - An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.
+
+### Data Visualization on Maps
+
+*   [waymorphic.com](https://waymorphic.com/) - Vector map tiles (OpenMapTiles schema), MapLibre styles, geocoding and reverse geocoding APIs. No API key, no request limit, fair use policy.
+
+## [Oct 20, 2026](/content/2026/10/20/README.md)
+
+### APIs, Data, and ML
+
+*   [cors.dev](https://cors.dev/) - CORS proxy for calling third-party APIs from frontend code: prefix any HTTPS URL with `https://proxy.cors.dev/`. Free without signup or an API key for GET and HEAD requests, 600 requests per minute per IP, responses up to 1 MiB, no monthly quota.
+*   [Dynamic Document API](https://dynamicdocumentapi.com/) - Turn data into pixel-perfect PDFs and images. The free plan includes 50 renders per month and access to 2 templates from the template gallery or your own.
+
+### Tools for Teams and Collaboration
+
+*   [MergeMe](https://mergeme.dev/) - MergeMe brings GitHub/GitLab PRs/MRs directly into Slack as 1 constantly updating card. It adds CI status, mirrored comments, @mentions, reminders & more. Free for teams up to 5 developers & 1 channel mapping.
+
+### Monitoring
+
+*   [OpenUptime](https://openuptime.app) - Hosted uptime monitoring and status pages. Free tier includes 3 active monitors with 5-minute check intervals, 26,000 checks and 100 emails per month, and 30 days of check history.
+
+### Email
+
+*   [DMARCmetric](https://dmarcmetric.com/) - DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.
+
+### Data Visualization on Maps
+
+*   [opengeocoding.com](https://opengeocoding.com) - Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.
 
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
@@ -1544,7 +1585,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐4.9k)](https://github.com/langwatch/langwatch)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐5k)](https://github.com/langwatch/langwatch)
 
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 

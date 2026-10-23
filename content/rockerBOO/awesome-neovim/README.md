@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 23, 2026](/content/2026/10/23/README.md)
+
+### Startup / Cursorline
+
+*   [zdcthomas/sprout.nvim (⭐1)](https://github.com/zdcthomas/sprout.nvim) - An ASCII art bonsai for your start screen that grows as the day goes forward.
+
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
 
 ### Plugin Manager
@@ -60,20 +66,20 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [daaanny90/zed.nvim (⭐0)](https://github.com/daaanny90/zed.nvim) - ***`[TS][LSP][Lua]`*** Zed editor look with six dark variants, plus tmux and iTerm2 extras.
-*   [daaanny90/claude-desktop.nvim (⭐2)](https://github.com/daaanny90/claude-desktop.nvim) - ***`[TS][LSP][Lua]`*** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.
-*   [daaanny90/iterm2-dark-background.nvim (⭐0)](https://github.com/daaanny90/iterm2-dark-background.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme inspired by iTerm2's Dark Background preset.
-*   [oxidescheme/nvim (⭐18)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+*   [daaanny90/zed.nvim (⭐2)](https://github.com/daaanny90/zed.nvim) - ***`[TS][LSP][Lua]`*** Zed editor look with six dark variants, plus tmux and iTerm2 extras.
+*   [daaanny90/claude-desktop.nvim (⭐3)](https://github.com/daaanny90/claude-desktop.nvim) - ***`[TS][LSP][Lua]`*** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.
+*   [daaanny90/iterm2-dark-background.nvim (⭐2)](https://github.com/daaanny90/iterm2-dark-background.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme inspired by iTerm2's Dark Background preset.
+*   [oxidescheme/nvim (⭐40)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [2giosangmitom/nightfall.nvim (⭐49)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
+*   [2giosangmitom/nightfall.nvim (⭐51)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
 
 ### Code Runner / Quickfix
 
-*   [nghiant03/jove.nvim (⭐4)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
+*   [nghiant03/jove.nvim (⭐11)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 
 ## [Oct 03, 2026](/content/2026/10/03/README.md)
 
@@ -150,7 +156,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [carldaws/miser.nvim (⭐26)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
+*   [carldaws/miser.nvim (⭐32)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 
 ### AI / Diagnostics
 
@@ -269,7 +275,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Quickfix
 
-*   [mm4cN/nvim-conan (⭐9)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+*   [mm4cN/nvim-conan (⭐8)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 
 ## [Sep 01, 2026](/content/2026/09/01/README.md)
 
@@ -292,13 +298,13 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [Darkskittlz/GitCompanion (⭐4)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
+*   [Darkskittlz/GitCompanion (⭐5)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 
 ## [Aug 19, 2026](/content/2026/08/19/README.md)
 
 ### AI / Diagnostics
 
-*   [saya-ashen/agent-workbench.nvim (⭐27)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
+*   [saya-ashen/agent-workbench.nvim (⭐26)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 
 ### File Explorer / Markdown and LaTeX
 
@@ -350,13 +356,13 @@ Collections of awesome neovim plugins.
 
 ### Icon / Cursorline
 
-*   [Mirsmog/real-icons.nvim (⭐90)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
+*   [Mirsmog/real-icons.nvim (⭐94)](https://github.com/Mirsmog/real-icons.nvim) - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
 
 ## [Aug 04, 2026](/content/2026/08/04/README.md)
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/cendre (⭐176)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [Aejkatappaja/cendre (⭐179)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
@@ -373,7 +379,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [mitander/flume.nvim (⭐71)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐72)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -474,7 +480,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [wsdjeg/tasks.nvim (⭐32)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+*   [wsdjeg/tasks.nvim (⭐33)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 
 ## [Jul 16, 2026](/content/2026/07/16/README.md)
 
@@ -593,11 +599,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [gunasekar/markview-smart-tables.nvim (⭐9)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐11)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 
 ### Database / Stats Tracking
 
-*   [clang-engineer/dadbod-vertica.nvim (⭐2)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+*   [clang-engineer/dadbod-vertica.nvim (⭐2)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.5k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 ## [Jun 16, 2026](/content/2026/06/16/README.md)
 

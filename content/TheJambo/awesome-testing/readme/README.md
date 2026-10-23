@@ -122,7 +122,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 
-*   [Browser Use (⭐117k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐119k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 
@@ -181,6 +181,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [assay (⭐102)](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
 
 *   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
+
+### Test Report Diagnostics
+
+*   [junit-collision-check (⭐0)](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
 
 ### Test Management
 

@@ -11,6 +11,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [mojolearn (⭐8)](https://github.com/mojolearn/mojolearn) - GPU machine learning implemented in Mojo with Python bindings for classical models and neural training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs.
+*   [Future AGI (⭐2.1k)](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -2548,7 +2549,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐9.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### JavaScript / General-Purpose Machine Learning
 
