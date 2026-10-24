@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 24, 2026](/content/2026/10/24/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Proof Engine (⭐31)](https://github.com/Mattbusel/proof-engine) - Rust rendering and game engine where every visual is math: glyphs and particles moved by ODEs, strange attractors and force fields, with OpenGL post-processing and synth audio.
+
+### AI / Voxel Editors
+
+*   :tada: [Glitchless (⭐0)](https://github.com/glitchless-gg/glitchless) - Open-source game observability for Three.js, Phaser, Unity, Godot, Unreal and GameMaker: frame times with hitch causes, crashes, where players quit and player bug reports, plus an MCP server so coding agents can read the data and fix what players hit.
+
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
 ### Graphics / Texture Tools
@@ -248,7 +258,7 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [Legend of Elya (⭐147)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
+*   :tada: [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 

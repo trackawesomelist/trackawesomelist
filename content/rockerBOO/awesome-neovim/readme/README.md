@@ -410,6 +410,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [tednguyendev/recent\_rails.nvim (⭐5)](https://github.com/tednguyendev/recent_rails.nvim) - Telescope picker for recent Rails actions, views, and errors.
 *   [ankushbhagats/liveserver.nvim (⭐13)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
 *   [harukikuri/viteenv.nvim (⭐7)](https://github.com/harukikuri/viteenv.nvim) - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
+*   [mcp1766/stylepeek.nvim (⭐2)](https://github.com/mcp1766/stylepeek.nvim) - Browse, preview and manage CSS rules.
 
 ### Markdown and LaTeX
 

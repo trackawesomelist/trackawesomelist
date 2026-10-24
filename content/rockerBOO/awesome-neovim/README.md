@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 24, 2026](/content/2026/10/24/README.md)
+
+### Programming Languages Support / Web Development
+
+*   [mcp1766/stylepeek.nvim (⭐2)](https://github.com/mcp1766/stylepeek.nvim) - Browse, preview and manage CSS rules.
+
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
 ### Startup / Cursorline

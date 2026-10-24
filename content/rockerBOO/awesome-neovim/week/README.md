@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [Imngzx/resonance.nvim (⭐16)](https://github.com/Imngzx/resonance.nvim) - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
 
+### Programming Languages Support / Web Development
+
+*   [mcp1766/stylepeek.nvim (⭐2)](https://github.com/mcp1766/stylepeek.nvim) - Browse, preview and manage CSS rules.
+
 ### Language / Markdown and LaTeX
 
 *   [Imngzx/jisho.nvim (⭐17)](https://github.com/Imngzx/jisho.nvim) - Japanese dictionary, powered by `jisho.org`.
