@@ -8,6 +8,10 @@
 
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
+### Tools
+
+*   [Dex (⭐92)](https://github.com/exmergo/dex) - Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.
+
 ### Tutorials
 
 *   [AI Engineer Interview Prep (⭐33)](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.

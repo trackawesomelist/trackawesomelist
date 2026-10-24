@@ -12,9 +12,16 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [Dex (⭐92)](https://github.com/exmergo/dex) - Gemini CLI extension with three Agent Skills for analytics engineering: explore a warehouse or DuckDB file read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift. Install with `gemini extensions install https://github.com/exmergo/dex`; needs `uv`.
 
+### Development Tools & Utilities
+
+*   [OpenMoat (⭐2)](https://github.com/crocodile-labs/openmoat) - Local policy layer with a `BeforeTool` hook for Gemini CLI (`openmoat init`) that checks every shell command, file read and write, web request and MCP call against one policy before it runs, blocking what the policy denies. Adds an egress proxy, MCP server pinning and a hash-chained audit log, and the same policy covers Claude Code, Codex, Cursor and other agents. Rust, MIT OR Apache-2.0.
+
 ### MCP Servers
 
+*   [CodeTrendy](https://codetrendy.com/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search CodeTrendy, a curated directory of newly launched startups, SaaS tools and indie products, from Gemini CLI: keyword search with category and pricing filters, full listing profiles, alternatives to a named product, trending listings and the site of the day. 7 read-only tools. Remote Streamable HTTP, no API key, no account: `gemini mcp add --transport http codetrendy https://codetrendy.com/api/mcp`.
 *   [BlockVectra (⭐0)](https://github.com/blockvectra/mcp) - MCP server for Robinhood Chain and multiple EVM networks. Connect over remote Streamable HTTP to discover chains and read docs without a key; RPC access follows each chain's policy, while Data API and account tools need an API key. Install: `gemini extensions install https://github.com/blockvectra/mcp --ref main`.
+*   [MEDIAPRONET](https://mediapronet.com/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search the MEDIAPRONET launch and discovery directory from Gemini CLI: keyword search over newly launched startups, SaaS tools and online products (category and pricing filters), full listing profiles, alternatives to a named product, categories and what is trending. 7 read-only tools. Remote Streamable HTTP, no API key, no account. Works with any MCP client including Gemini CLI: `gemini mcp add --transport http mediapronet https://mediapronet.com/api/mcp`.
+*   [LLMSlim (⭐21)](https://github.com/Thanatos9404/llmslim) - Long-term memory for Gemini CLI and other MCP clients over a local stdio MCP server. Five tools (`remember`, `recall`, `list_memories`, `forget`, `fit_context`): messages are stored word for word in local SQLite or your own Postgres, and `recall` returns the stored messages that answer a question within a token budget, with no LLM call inside. MIT. Install: `pip install "llmslim[mcp]"`, then `gemini mcp add --scope user llmslim llmslim mcp`.
 
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
@@ -217,7 +224,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Development Tools & Utilities
 
 *   [yoink (⭐5)](https://github.com/MajidRaimi/yoink) - Saves and switches Gemini CLI Google logins (oauth\_creds.json and google\_accounts.json) alongside Claude Code, Codex, Kimi Code and GitHub Copilot logins, from a CLI or a macOS menu bar app.
-*   [aisw (⭐124)](https://github.com/burakdede/aisw) - Saves Gemini CLI logins and API keys as named profiles and switches the live `~/.gemini` state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: [aiswitcher.dev](https://aiswitcher.dev).
+*   [aisw (⭐135)](https://github.com/burakdede/aisw) - Saves Gemini CLI logins and API keys as named profiles and switches the live `~/.gemini` state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: [aiswitcher.dev](https://aiswitcher.dev).
 *   [LynxPrompt (⭐52)](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app that turns one set of AI coding rules into the file each tool reads: Gemini CLI's `GEMINI.md`, `AGENTS.md`, `CLAUDE.md`, Cursor rules and Copilot instructions, 30 rule-file formats in all. Blueprints carry variables so a team shares one set across projects, and the `lynxp` CLI writes the files into each repository. AGPL-3.0.
 
 ### MCP Servers

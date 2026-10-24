@@ -149,6 +149,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 *   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
 *   [YYLO (⭐65)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 *   [YYLO Ledger (⭐1)](https://github.com/yylo-dev/yylo-ledger) - Command-line task and workflow ledger for coding-agent projects: stores the Kanban board and task state as hash-chained Markdown inside the repository, tracks receipts and archives, and drives typed merge and release flows across agent worktrees. MIT licensed.
+*   [Dex (⭐92)](https://github.com/exmergo/dex) - Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.
 
 ### Research & Knowledge Retrieval
 

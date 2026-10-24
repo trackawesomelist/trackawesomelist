@@ -8,25 +8,53 @@
 
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
+### Design and Product / Screenshot Tools
+
+*   [Screenshots](https://ciromaciel.click/tools/screenshots) - Open-source menu bar tool for screenshots, scrolling capture, OCR, annotation, pinning, and MP4 or GIF screen recording, with no network code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ciro-maciel/screenshots) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### AI Tools / Other Tools
+
+*   [Atticus](https://saarthurr.github.io/atticus-mac/) - Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/SaarthurR/atticus-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Communication / File Sharing
 
+*   [FileShipper](https://getapps.cafe/app/fileshipper) - Peer-to-peer file transfer between computers and phones over local Wi-Fi. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [SoundCloud for macOS (⭐1)](https://github.com/jettsba/SoundCloud-for-macOS) - Unofficial lightweight SoundCloud app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jettsba/SoundCloud-for-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
 
 *   [PitchTap (⭐0)](https://github.com/gkudva96/pitchtap) - Open-source menu bar app that changes the key of any app's audio live without changing the tempo. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gkudva96/pitchtap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Browsers / Audio Record and Process
+
+*   [Stedding](https://stedding.dev/) - Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Clipboard Tools
+
+*   [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - Keyboard-first clipboard history popup that filters as you type and pastes with one key. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/turhe123/clip-recall-bar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / Menu Bar Tools
 
 *   [Konverter (⭐7)](https://github.com/davidpraznik/Konverter) - Menu bar file converter and image compressor operated by dragging files onto a radial wheel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidpraznik/Konverter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [MenuBarMijia (⭐18)](https://github.com/jryang1997/MenuBarMijia) - Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 26+). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang1997/MenuBarMijia) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Topnotchers (⭐2)](https://github.com/joey-david/topnotchers) - Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joey-david/topnotchers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / File Organization Tools
 
 *   [Archivator (⭐4)](https://github.com/davidpraznik/Archivator) - Menu bar archive tool that compresses and extracts files by dragging them onto a radial wheel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidpraznik/Archivator) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Utilities / General Tools
+
+*   [Swivel (⭐24)](https://github.com/jonathanlotan/Swivel) - Tap a key mid-drag and drop files on a wheel to convert, crop, compress, strip metadata or share them, fully offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jonathanlotan/Swivel) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / System Related Tools
 
 *   [Healthy Battery (⭐9)](https://github.com/berkinefeavci/healthy-battery) - Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/berkinefeavci/healthy-battery) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [WattMate](https://wattmateapp.com) - See which apps and AI coding agents are draining your MacBook battery, right from the menu bar, in real watts and the minutes you get back by quitting one. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6803641012)
 
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
@@ -492,7 +520,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Lunavect (⭐33)](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lovach/Lunavect) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Lunavect (⭐39)](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lovach/Lunavect) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / System Related Tools
 
@@ -1778,10 +1806,6 @@
 *   [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
-
-### Voice-to-Text / Audio Record and Process
-
-*   [Azex Speech](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/azex-ai/speech) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Security Tools / Audio Record and Process
 

@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Oct 24, 2026](/content/2026/10/24/README.md)
+
+### Web
+
+*   [Get HN Jobs](https://gethnjobs.com/) – Search and filter HN "Who is hiring?" posts, with daily email alerts
+
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 
 ### Browser Extensions / Nevix
@@ -290,7 +296,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 

@@ -2,9 +2,20 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 439 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 448 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
+
+## [Oct 24, 2026](/content/2026/10/24/README.md)
+
+### Software and Tools
+
+*   [ChineseCheck](https://chinesecheck.com) - Verify a Chinese supplier before paying: look up the company by English name, Chinese name or Unified Social Credit Code and read its registration record in English for free; paid reports add court enforcement, litigation and penalty records.
+*   [ScrapeUnblocker](https://docs.scrapeunblocker.com/plugins/amazon) - Web scraping API with Amazon endpoints that return JSON: product pages (price, list price, availability, rating, seller, images), search results with sponsored and Prime flags, Best Sellers and other ranked lists, and review data with the star histogram, across Amazon's regional marketplaces. Also available as an MCP server.
+*   [RefVid](https://refvid.com) - AI product video generator that keeps label, logo and packaging consistent across clips, from 1-5 photos or an Amazon product link. Free credits on sign-up.
+*   [Utlista](https://www.utlista.com) - Localises an existing product catalogue into Amazon listings for seven EU marketplaces (de, fr, it, es, nl, pl, se). Writes title, five bullets, description and backend search terms per destination marketplace rather than translating them, and validates every field against Amazon's limits before export, including search terms counted in bytes. Produces a flat file per marketplace; it does not upload to Amazon. Free for ten products.
+*   [Vendooly](https://vendooly.com/en/) - MCP connector that brings Seller Central and Amazon Ads into ChatGPT and Claude through the official Amazon APIs. The AI prepares each change with a before/after preview and it runs only after your approval. 14-day free trial.
+*   [VNCNT Labs Keyword Research](https://apify.com/vncntlabs/keyword-ideas) - Reverse ASIN (the Amazon keywords any ASIN ranks for) and keyword ideas from a seed via Amazon related searches and Google autocomplete, with search volume, CPC, difficulty and a USPTO trademark flag. Runs on Apify, pay per result from $0.002 per keyword, no subscription.
 
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
@@ -17,7 +28,7 @@ A curated list of tools and resources for Amazon sellers.
 ### Software and Tools
 
 *   [B2B Supplier Hub](https://b2bsupplierhub.com) - Supplier discovery for Amazon wholesale sellers and resellers. Search by brand, product or UPC to see which distributors carry an item, wholesale cost ranges, stock levels and last-updated dates; pay only to reveal a distributor. Chrome extension shows distributors behind Amazon listings. Free plan.
-*   [Listimo](https://listimo.ai/en/) - AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. Free daily check without signup; credits instead of a subscription.
+*   [Listimo](https://listimo.ai/en/) - AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. First check free without signup; credits instead of a subscription.
 *   [Vendlen](https://vendlen.com) - Amazon Ads analytics and automation for sellers on the US marketplace. Each recommendation shows the evidence, period and scope behind it; automation rules run inside limits you set and can be previewed before they change anything. 14-day free trial.
 *   [ZonRival](https://zonrival.com) - Amazon competitor research inside Claude and ChatGPT via MCP: review complaint topics from Amazon's "Customers say" summaries, 90-day price and rank history, listing audits, keyword rankings with advertisers, and daily competitor alerts. Free review complaint checker, no sign-up.
 
@@ -62,7 +73,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Other
 
-*   [Awesome China Sourcing (⭐1)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
+*   [Awesome China Sourcing (⭐2)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 
 ## [Jul 12, 2026](/content/2026/07/12/README.md)
 

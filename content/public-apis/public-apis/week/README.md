@@ -21,6 +21,28 @@ A collective list of free APIs
   Install: –
 
 
+- Name: [crawlbrulee (⭐0)](https://github.com/crawlbrulee/crawlbrulee-mcp)
+
+  Description: EU-native web scraping for AI agents & developers: turn any page into markdown, screenshots and more
+
+  Auth: `apiKey`
+
+  Transport: `stdio`
+
+  Install: [npm](https://www.npmjs.com/package/@crawlbrulee/mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.crawlbrulee/mcp) · [Glama](https://glama.ai/mcp/servers/crawlbrulee/crawlbrulee-mcp)
+
+
+- Name: [IndiaInsurances](https://indiainsurances.com/for-agents)
+
+  Description: Indian insurance policy wordings read clause by clause, with verbatim quotes
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: –
+
+
 - Name: [Refnusa](https://refnusa.dev/)
 
   Description: Indonesian holidays, wages, regions, postal codes, tax, food prices and NIK/plate checks (31 tools)
@@ -32,12 +54,70 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/dev.refnusa/refnusa)
 
 
+- Name: [Scalekit (⭐5)](https://github.com/scalekit-inc/scalekit-mcp-server)
+
+  Description: Manage auth for AI agents and MCP servers: environments, orgs, users, SSO connections and roles
+
+  Auth: `OAuth`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/scalekit-inc/scalekit-mcp-server)
+
+
+
+### Blockchain
+
+- API: [MELEK](https://witness.melek.salon/dev/melek)
+
+  Description: Graphene social blockchain (Steem family) with a keyless condenser\_api JSON-RPC
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Business
+
+- API: [Leadgen Romania](https://leadgen.adrianhomelab.com/docs)
+
+  Description: Romanian company registry, ANAF tax status and financial statements
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [RunDossier](https://rundossier.com/docs/api)
+
+  Description: Pre-meeting briefing on a person from public professional and web sources, as JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [Verif Entreprise FR](https://api-production-24833.up.railway.app)
 
   Description: French company checks by SIREN: status, insolvency (BODACC), VAT (VIES); free preview
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [W System EU Business Data](https://api.wsystem.dev/docs)
+
+  Description: EU VAT (VIES) and EORI validation, company registers, EU/UN/OFAC/UK sanctions screening
 
   Auth: No
 
@@ -86,7 +166,79 @@ A collective list of free APIs
 
 
 
+### Currency Exchange
+
+- API: [Frankfurter](https://frankfurter.dev)
+
+  Description: Exchange rates, currency conversion and time series
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [crawlbrulee](https://crawlbrulee.com/docs)
+
+  Description: EU-native web scraping for AI agents & developers: turn any page into markdown, screenshots and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [unfurlr](https://unfurlr.onrender.com/docs)
+
+  Description: Link-preview metadata for any URL: title, Open Graph, Twitter tags, favicon, oEmbed
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [WeInc](https://my.we.inc/docs/api)
+
+  Description: AI website builder: manage clients, website projects, templates and webhooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Yumi Wheel Evidence](https://noqt.no-qt.chatgpt.site/yumi/wheel-evidence)
+
+  Description: Intersect wheel tags for explicit PyPI releases with caller-supplied tags
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Email
+
+- API: [ContactLint](https://contactlint.com/)
+
+  Description: Validate email syntax, MX, disposable and role addresses with typo suggestions, plus phone numbers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Nitrosend](https://docs.nitrosend.com/api)
 
@@ -100,11 +252,52 @@ A collective list of free APIs
 
 
 
+### Events
+
+- API: [Things To Do](https://thingstodoapi.com/docs/)
+
+  Description: Local events in plain words: concerts, pop-ups, markets, classes, gallery nights
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [USTariffRates](https://api.ustariffrates.com/openapi.json)
+
+  Description: US HTS lookup and origin-specific tariff breakdowns with source context
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
 ### Food & Drink
 
 - API: [FiberUp Fiber Database](https://fiberup.app/data/)
 
   Description: Dietary fiber per serving and per 100 g, split into soluble and insoluble, for \~200 common foods
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [IndiaRestros](https://indiarestros.com/api/docs)
+
+  Description: Indian restaurants, menus with rupee prices, dish search and timings across 9,000+ cities
 
   Auth: No
 
@@ -139,6 +332,31 @@ A collective list of free APIs
 
 
 
+### Geocoding
+
+- API: [IPKit](https://ipkit.dev/docs)
+
+  Description: IP lookup with location, ASN/ISP and VPN/proxy/Tor signals
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MyPincode](https://mypincode.live)
+
+  Description: Indian PIN code and postal office lookup
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Government
 
 - API: [UK Public Tenders by Trade](https://tools.gptshopltd.com/api/uk-tenders/)
@@ -155,6 +373,17 @@ A collective list of free APIs
 
 ### Jobs
 
+- API: [AI Trainer Work](https://aitrainer.work/open-data#api)
+
+  Description: Open AI training jobs (RLHF, data annotation, expert evaluation) from 20+ platforms, with pay
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Present of AI](https://presentofai.com/developers)
 
   Description: AI company profiles, open AI jobs and dated AI news, REST and MCP
@@ -167,7 +396,32 @@ A collective list of free APIs
 
 
 
+### Music
+
+- API: [StemConsole](https://stemconsole.ai/developers/)
+
+  Description: Split songs into vocals, drums, bass and other stems with AI
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Open Data
+
+- API: [Auregistre](https://auregistre.fr/api)
+
+  Description: French company history from the official gazette (BODACC) since 2008, with insolvency counts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [StackRates](https://stackrates.ai/ask/)
 
@@ -185,6 +439,20 @@ A collective list of free APIs
   Description: Brazilian company profiles by CNPJ, CNAE establishment counts and municipality coordinates
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Photography
+
+- API: [snapWONDERS](https://snapwonders.com/developers)
+
+  Description: Photo and video forensic analysis, steganography and media format conversion
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -244,6 +512,28 @@ A collective list of free APIs
 
 ### Transportation
 
+- API: [India EV Charging Stations](https://ev-charging-stations-api.vercel.app/docs)
+
+  Description: Directory of public EV charging stations across India with connector and power specs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TransitRadar](https://transitradar.co.uk/scalar/)
+
+  Description: Live GB train and bus departures, train positions, journey planning and a daily punctuality archive
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Vessel Class Finder](https://vesselclassfinder.com/blog/vessel-classification-api.html)
 
   Description: IACS class society, class status and survey dates for ships by IMO number
@@ -253,6 +543,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Vehicle
+
+- API: [CarSpecs](https://carspecsapi.com/docs)
+
+  Description: Car specs for 70,000+ trims since 1945 (make, model, generation, trim) and a VIN decoder
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -329,7 +633,7 @@ A collective list of free APIs
   Install: [Cursor](https://cursor.directory/plugins/shapeless) · [Glama](https://glama.ai/mcp/connectors/com.shapelessai/shapeless)
 
 
-- Name: [SkyAccess (⭐1)](https://github.com/sky-access/skyaccess-mcp)
+- Name: [SkyAccess (⭐2)](https://github.com/sky-access/skyaccess-mcp)
 
   Description: Search 5,000+ live empty leg flights, get charter price estimates and booking links
 
@@ -23558,20 +23862,6 @@ A collective list of free APIs
 
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
-
-### Currency Exchange
-
-- API: [Frankfurter](https://www.frankfurter.app/docs)
-
-  Description: Exchange rates, currency conversion and time series
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Development
 

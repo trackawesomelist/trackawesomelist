@@ -60,6 +60,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [CheckHN](https://checkhn.ad-si.com/)
 *   [Clean Hacker News](https://adriel.co.nz/news/)
 *   [Full Hacker News](http://www.fullhn.com/)
+*   [Get HN Jobs](https://gethnjobs.com/) – Search and filter HN "Who is hiring?" posts, with daily email alerts
 *   [HackerComments](http://www.hackercomments.ai)
 *   [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories
 *   [Hacker News Books](https://hackernewsbooks.com/)
@@ -216,7 +217,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 *   [HackerFlow](https://hackerflow.app)
 *   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)

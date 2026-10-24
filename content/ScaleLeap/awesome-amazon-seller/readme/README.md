@@ -2,7 +2,7 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 439 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 448 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / Overview ]
 
@@ -42,6 +42,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [Calcmatic](https://calcmatic.app) - Free profit calculator for Amazon FBA/FBM with full fee breakdown with graphs.
 *   [Calcrux FBA Profit Calculator](https://calcrux.com/tools/ecommerce/amazon-fba-profit-calculator) - Free multi-marketplace FBA profit + fee breakdown calculator. Covers inbound placement fees. No sign-up required.
 *   [CashCowPro](https://www.cashcowpro.com/) - Sales data, keyword tracking, feedback collection, inventory monitoring, price split testing.
+*   [ChineseCheck](https://chinesecheck.com) - Verify a Chinese supplier before paying: look up the company by English name, Chinese name or Unified Social Credit Code and read its registration record in English for free; paid reports add court enforcement, litigation and penalty records.
 *   [DataHawk](https://www.datahawk.co/) - An end-to-end platform, with full data control, intuitive dashboards and AI-powered guidance and automation.
 *   [Eva](https://eva.guru/) - Connects the most important aspects of your Amazon business into a single intuitive dashboard - price management, replenishments, reimbursements, analytics.
 *   [FeedbackExpress](https://www.feedbackexpress.com/) - Makes it easy to improve your Amazon seller rating through effective, automated feedback requests.
@@ -55,12 +56,14 @@ A curated list of tools and resources for Amazon sellers.
 *   [Inventory Hero](https://www.inventoryhero.ai) - Automated inventory management for Amazon FBA that forecasts demand, drafts restocks, and works inside Claude via MCP.
 *   [Jungle Scout](https://www.junglescout.com/) - Track and compare key product metrics, database allows you to filter products across multiple categories by demand, price, estimated sales, rating, seasonality, dimensions and more, find out which products sell and which niches have high opportunity.
 *   [Keyword Tool](https://keywordtool.io/amazon) - Finds great keywords using Amazon autocomplete.
-*   [Listimo](https://listimo.ai/en/) - AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. Free daily check without signup; credits instead of a subscription.
+*   [Listimo](https://listimo.ai/en/) - AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. First check free without signup; credits instead of a subscription.
 *   [MerchantWords](https://www.merchantwords.com/) - Finds highly specific keyword phrases that help buyers find what you are selling.
 *   [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit tool for comparing item dimensions against carton and mailer options before FBA or merchant-fulfilled shipping.
 *   [Pangolinfo](https://www.pangolinfo.com/amazon-data-mcp/) - MCP server and REST API exposing 19 read-only Amazon data tools: product details, reviews, keyword search, category and niche analysis, Best Sellers, New Releases, and seller storefronts, plus WIPO trademark and US PACER patent litigation lookups. Connects over Streamable HTTP; Python client available via `pip install pangolinfo-mcp`.
 *   [Prestozon](https://prestozon.com/) - Automation and analytics for Amazon HSA & sponsored products ads.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
+*   [ScrapeUnblocker](https://docs.scrapeunblocker.com/plugins/amazon) - Web scraping API with Amazon endpoints that return JSON: product pages (price, list price, availability, rating, seller, images), search results with sponsored and Prime flags, Best Sellers and other ranked lists, and review data with the star histogram, across Amazon's regional marketplaces. Also available as an MCP server.
+*   [RefVid](https://refvid.com) - AI product video generator that keeps label, logo and packaging consistent across clips, from 1-5 photos or an Amazon product link. Free credits on sign-up.
 *   [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
 *   [Sellantica](https://sellantica.ai) - Amazon PPC automation for sellers and agencies: one-click campaign structures, keyword harvesting from auto campaigns, bid optimization with explainable reasoning, and per-product P\&L. EU-hosted.
 *   [SellerApp](https://www.sellerapp.com/) - Product research, product ideas, listing quality, product alerts, product source, keyword research, ppc analyzer, and more.
@@ -74,7 +77,10 @@ A curated list of tools and resources for Amazon sellers.
 *   [Splitly](https://splitly.com/) - Algorithmic split testing, automated pricing optimization, keyword rank tracking.
 *   [TradeGecko](https://www.tradegecko.com/) - Cloud based inventory and order management software for modern online businesses.
 *   [Turbo Piranha](https://www.turbopiranha.com/) - Bulk product search, profit calculation and competition analysis software using UPC, ISBN, EAN and ASIN lists in Excel/CSV/TXT format for wholesale and arbitrage business models, and also book sellers/flippers.
+*   [Utlista](https://www.utlista.com) - Localises an existing product catalogue into Amazon listings for seven EU marketplaces (de, fr, it, es, nl, pl, se). Writes title, five bullets, description and backend search terms per destination marketplace rather than translating them, and validates every field against Amazon's limits before export, including search terms counted in bytes. Produces a flat file per marketplace; it does not upload to Amazon. Free for ten products.
 *   [Vendlen](https://vendlen.com) - Amazon Ads analytics and automation for sellers on the US marketplace. Each recommendation shows the evidence, period and scope behind it; automation rules run inside limits you set and can be previewed before they change anything. 14-day free trial.
+*   [Vendooly](https://vendooly.com/en/) - MCP connector that brings Seller Central and Amazon Ads into ChatGPT and Claude through the official Amazon APIs. The AI prepares each change with a before/after preview and it runs only after your approval. 14-day free trial.
+*   [VNCNT Labs Keyword Research](https://apify.com/vncntlabs/keyword-ideas) - Reverse ASIN (the Amazon keywords any ASIN ranks for) and keyword ideas from a seed via Amazon related searches and Google autocomplete, with search volume, CPC, difficulty and a USPTO trademark flag. Runs on Apify, pay per result from $0.002 per keyword, no subscription.
 *   [WordTree](https://www.wordtree.io/) - Keyword tools to grow your search traffic, research your competitors, and monitor your niche.
 *   [xSellco](https://www.xsellco.com/) - Centralize customer queries, target positive feedback by requesting reviews from happy customers, automatically reprice.
 *   [zonfy Free Seller Tools](https://zonfy.app/tools) - Free, no-signup browser tools for Amazon listings: main image compliance checker (white background, fill, resolution), image fixer, A+ Content module size tool, title and listing analyzer, backend search terms byte counter, Brand Registry eligibility checker, and a US/India profit calculator. Paid AI A+ Content and listing generator.
@@ -111,7 +117,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ## Other
 
-*   [Awesome China Sourcing (⭐1)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
+*   [Awesome China Sourcing (⭐2)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 *   [chdh-tools-dataset (⭐5)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 *   [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 *   [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.

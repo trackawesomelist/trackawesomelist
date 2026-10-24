@@ -6,6 +6,35 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 24, 2026](/content/2026/10/24/README.md)
+
+### Design
+
+*   [APPLORE](https://applore.app/ai-app-icon-generator) - AI app icon generator plus a library of 18,000+ real App Store and Google Play icons for reference. `#freemium` `#design`
+
+### Developer Tools
+
+*   [CodeTrendy](https://codetrendy.com/) - Curated directory of newly launched startups, SaaS and AI tools, with a free read-only remote MCP server (<https://codetrendy.com/api/mcp>) that lets AI assistants search listings, read profiles and find alternatives, no API key. `#free` `#mcp`
+*   [deed.page](https://deed.page/) - Static hosting built for AI coding agents: one PUT (REST or remote MCP server) publishes HTML or a folder to a permanent HTTPS URL, with no account needed. `#freemium` `#hosting`
+*   [MEDIAPRONET](https://mediapronet.com/) - Launch and discovery directory where builders list newly shipped startups, SaaS tools and online products, with a free read-only remote MCP server (<https://mediapronet.com/api/mcp>) for searching listings, reading profiles and finding alternatives from AI assistants, no API key. `#free` `#mcp`
+
+### Productivity
+
+*   [Orkas](https://orkas.ai/?source=gh_collective\&lang=en) - Turns project goals and local files into reports, presentations and code with a coordinated AI team in an open-source, local-first desktop workspace, using managed models or supported own-provider access. `#opensource`
+
+### Research
+
+*   [Pulse](https://pulsecorp.co/) - AI-moderated market research platform that runs customer interviews at scale. `#paid`
+
+### Resume
+
+*   [HireDraftAI](https://hiredraftai.com/) - AI-assisted resumes and cover letters with free anonymous tools for reviewing keywords and planning job applications. `#freemium` `#writing`
+
+### Video
+
+*   [pitchboom.io](https://pitchboom.io) - Turns a product URL or a short brief into motion-design video ads with script, storyboard, voice-over and music, in 16:9, 9:16, 1:1, 4:5 and 3:4. `#freemium`
+*   [Vidney](https://vidney.ai/) - Multi-model AI video and image generator that runs 40+ models, including Kling, Veo, Seedance, Wan, Grok Imagine and Nano Banana, on one credit balance. `#freemium`
+
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
 ### Interior Designing
@@ -247,7 +276,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [Codex Quota Overlay (⭐3)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
-*   [Cortex (⭐3.2k)](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
+*   [Cortex (⭐3.3k)](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
 *   [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
 *   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
@@ -309,7 +338,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [OrcaReplay (⭐283)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
+*   [OrcaReplay (⭐281)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 
 ### Image Generator
 
@@ -661,7 +690,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Codex CLI (⭐130k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
-*   [Gemini CLI (⭐107k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
+*   [Gemini CLI (⭐108k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
