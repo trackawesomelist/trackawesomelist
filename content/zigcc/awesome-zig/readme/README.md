@@ -117,7 +117,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [zigtools/zls (⭐5.3k)](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! [installation](https://zigtools.org/zls/install/).
 *   [zed-extensions/Zig (⭐95)](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
 *   [jinzhongjia/zig-lamp (⭐41)](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig development experience in Neovim.
-*   [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
+*   [neurocyte/flow (⭐2.5k)](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
 
 ### Linters
 
@@ -139,7 +139,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [asdf-community/asdf-zig (⭐83)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐26k)](https://github.com/asdf-vm/asdf) version manager.
 *   [marler8997/zigup (⭐1.1k)](https://github.com/marler8997/zigup) - Download and manage Zig compilers.
 *   [zigtools/zpm (⭐104)](https://github.com/zigtools/zpm) - Zig package manager helper.
-*   [jsomedon/night.zig](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
+*   [jsomedon/night.zig (⭐33)](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
 *   [Getzig (⭐9)](https://github.com/matklad/hello-getzig) - An idea for a Zig version manager along the lines of gradle wrapper.
 *   [mitchellh/zig-overlay (⭐557)](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 *   [Cloudef/zig2nix (⭐192)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -149,9 +149,9 @@ A collaborative list of awesome Zig libraries and resources.
 *   [lispking/zvm (⭐34)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 *   [nektro/zigmod (⭐950)](https://github.com/nektro/zigmod) - A package manager for the Zig programming language.
 *   [justrach/nanobrew (⭐1.1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
-*   [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+*   [vezel-dev/zig-sdk (⭐110)](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 *   [tristanisham/zvm (⭐1.1k)](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
-*   [rosarp/nu-zigup](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
+*   [rosarp/nu-zigup (⭐1)](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
 *   [weezy20/zv (⭐54)](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 *   [hendriknielaender/zvm (⭐76)](https://github.com/hendriknielaender/zvm) - A fast and simple Zig version manager written in Zig.
 *   [indaco/malt (⭐178)](https://github.com/indaco/malt) - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post\_install and a themeable TUI and CLI.
@@ -174,7 +174,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐37)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
 *   [ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
-*   [midasdf/zt (⭐73)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐78)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐63)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 *   [zdu (⭐4)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 *   [zmx (⭐2.2k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
@@ -202,7 +202,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [CoalNova/BasicCompare (⭐10)](https://github.com/CoalNova/BasicCompare) - A basic comparative analysis of C, C++, Rust, and Zig.
 *   [ziglang/gotta-go-fast (⭐248)](https://github.com/ziglang/gotta-go-fast) - Performance Tracking for Zig.
 *   [hendriknielaender/zBench (⭐230)](https://github.com/hendriknielaender/zBench) - Simple benchmarking library.
-*   [andrewrk/poop](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
+*   [andrewrk/poop (⭐2.1k)](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
 *   [jnordwick/zmida (⭐12)](https://github.com/jnordwick/zmida) - Benchmarking harness for CPU-bound code with adaptive trials, TSC timing, perf counters and text, CSV or gnuplot output. AI-assisted.
 
 ## Language Essentials
@@ -317,6 +317,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [npmonster/yayl (⭐2)](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 *   [pedronaugusto/strand (⭐0)](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 *   [JacobCrabill/zigdown (⭐138)](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
+*   [guanchzhou/zig-pkl (⭐0)](https://github.com/guanchzhou/zig-pkl) - Bindings for Apple Pkl over the Message Passing API, with typed evaluation, custom and external readers, and a Pkl-to-Zig code generator. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -570,7 +571,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [kristoff-it/redis-cuckoofilter (⭐231)](https://github.com/kristoff-it/redis-cuckoofilter) - Hashing-function agnostic Cuckoo filters for Redis.
 *   [kristoff-it/zig-okredis (⭐294)](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
-*   [speed2exe/myzql (⭐78)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [speed2exe/myzql (⭐80)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 *   [karlseguin/pg.zig (⭐602)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐190)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 *   [thanos/couchbase-zig-client (⭐2)](https://github.com/thanos/couchbase-zig-client) - A wrapper around Couchbase's c library libcoucbase.
@@ -781,7 +782,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [brian-sinquin/mimg (⭐0)](https://github.com/brian-sinquin/mimg) - A chained-modifiers Image processing Command-line tool.
 *   [dmtrKovalenko/odiff (⭐3.3k)](https://github.com/dmtrKovalenko/odiff) - ODiff - A very fast SIMD-first image comparison library (with Node.js API).
 *   [foxnne/pixi (⭐1)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
-*   [freref/fancy-cat (⭐571)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
+*   [freref/fancy-cat (⭐575)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
 
 ## Interoperability
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 16K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 17K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / [Weekly](/content/rossant/awesome-math/week/README.md) / Overview ]
 
@@ -108,7 +108,7 @@ Read the [contribution guidelines](https://github.com/rossant/awesome-math/blob/
 *   [Almost Fun](https://www.almostfun.org/lessons/) - Free interactive middle- and high-school mathematics lessons, practice problems, and teacher resources from a nonprofit organization.
 *   [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics) - Lectures and public talks from the University of Oxford, including accessible explanations of advanced topics.
 *   [Math Academy](https://mathacademy.com/) - Paid adaptive platform with diagnostic assessment and mastery-based courses from fourth-grade mathematics through university topics.
-*   [OSSU Math (⭐9k)](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
+*   [OSSU Math (⭐9.3k)](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
 *   [Waterloo Open Math](https://open.math.uwaterloo.ca/) - Free university-level courseware with lessons, exercises, and immediate feedback from the University of Waterloo.
 
 ### Proof and Problem Solving
@@ -238,7 +238,7 @@ Read the [contribution guidelines](https://github.com/rossant/awesome-math/blob/
 ### Formal Mathematics and Theorem Proving
 
 *   [Lean](https://lean-lang.org/) - Open-source interactive theorem prover and programming language based on dependent type theory, used for formal mathematics and software verification.
-*   [mathlib (⭐3.9k)](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
+*   [mathlib (⭐4.4k)](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
 *   [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - Free textbook with examples and exercises for mathematicians learning Lean 4 and mathlib.
 *   [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/) - Free official textbook on dependent type theory, propositions, tactics, inductive types, type classes, and constructing verified proofs in Lean 4.
 *   [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) - Interactive Lean 4 game that introduces theorem proving through guided exercises about natural numbers.
@@ -268,7 +268,7 @@ Read the [contribution guidelines](https://github.com/rossant/awesome-math/blob/
 
 *   [Fundamentals of Linear Algebra](https://personal.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell.
 *   [Linear Algebra](https://hefferon.net/linearalgebra/) - Jim Hefferon.
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐585)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper.
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐590)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper.
 *   [A First Course in Linear Algebra](https://textbooks.aimath.org/textbooks/approved-textbooks/beezer/) - Robert A. Beezer.
 *   [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron.
 *   [Introduction to Vectors and Tensors, Vol. 1: Linear and Multilinear Algebra](https://oaktrust.library.tamu.edu/items/42dbd71c-feb1-46ee-9115-5d39ddf9c1f6) - Ray M. Bowen, C. C. Wang.
@@ -610,14 +610,15 @@ Read the [contribution guidelines](https://github.com/rossant/awesome-math/blob/
 This section covers AI-assisted theorem proving, formalization, and mathematical discovery. Resources that teach the mathematics used in machine learning appear under Mathematics for Machine Learning.
 
 *   [LeanDojo v2](https://leandojo.org/leandojo.html) - Open-source framework and benchmark data for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
-*   [miniF2F (⭐104)](https://github.com/facebookresearch/miniF2F) - Cross-system benchmark of formalized olympiad, high-school, and undergraduate problems for evaluating automated theorem provers.
+*   [miniF2F (⭐108)](https://github.com/facebookresearch/miniF2F) - Cross-system benchmark of formalized olympiad, high-school, and undergraduate problems for evaluating automated theorem provers.
 *   [AlphaGeometry (⭐4.9k)](https://github.com/google-deepmind/alphageometry) - Open research implementation combining learned guidance with symbolic deduction for olympiad geometry problems.
 *   [First Proof Project](https://1stproof.org/) - Independent project that publishes research-level problems, evaluation methods, solutions, and expert commentary for assessing AI systems in mathematics.
 *   [Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar) - University of Washington research seminar on formalization, theorem proving, mathematical AI, and machine-learning applications in mathematics, with a multi-year event archive.
 *   [b=M²L](https://bm2l.github.io/) - Barcelona Mathematics and Machine Learning colloquia on the interaction between mathematics and machine learning, with multi-year editions and recorded talks.
 *   [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
 *   [Mathematics and AI](https://sites.math.washington.edu/~jarod/math583E-fall25.html) - University of Washington Fall 2025 graduate course with public slides, Lean examples, projects, and readings on machine learning, formalization, autoformalization, mathematical discovery, and ethics.
-*   [AI-Assisted Mathematical Discovery (⭐116)](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
+*   [AI-Assisted Mathematical Discovery (⭐122)](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
+*   [aiXiv.online](https://aixiv.online/) - Searchable archive of AI-assisted mathematics papers, with source links, AI-use declarations, and verification notes.
 
 ### Mathematical Software and Tools
 
@@ -627,7 +628,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 *   [Maxima](https://maxima.sourceforge.io/) - Free computer algebra system for symbolic and numerical calculations, plotting, and scripting.
 *   [SymPy](https://www.sympy.org/) - Python library for symbolic algebra, calculus, equation solving, matrices, and code generation.
 *   [SageMath](https://www.sagemath.org/) - Free mathematics software combining computer algebra, numerical computation, geometry, statistics, and visualization through Python.
-*   [MathFlow (⭐56)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving).
+*   [MathFlow (⭐59)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving).
 *   [GeoGebra](https://www.geogebra.org/?lang=en) - Interactive mathematics suite for geometry, graphing, algebra, spreadsheets, statistics, and calculus.
 *   [Macaulay2](https://macaulay2.com/) - Research system for algebraic geometry and commutative algebra with specialized computational packages.
 *   [Singular](https://www.singular.uni-kl.de/) - Computer algebra system for polynomial computations in commutative algebra, algebraic geometry, and singularity theory.
@@ -637,7 +638,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 *   [MATLAB](https://www.mathworks.com/products/matlab.html) - Paid numerical computing environment by MathWorks.
 *   [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Paid technical-computing system for symbolic and numerical mathematics, visualization, programming, and data analysis.
 *   [Free Math](https://freemathapp.org) - Free, open-source software for recording, organizing, and reviewing digital mathematics homework without solving the problems automatically.
-*   [RunMat (⭐247)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+*   [RunMat (⭐264)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 
 ## History and Mathematics Education
 
@@ -673,7 +674,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 
 *   [Theoretical Computer Science (⭐1.2k)](https://github.com/mostafatouny/awesome-theoretical-computer-science) - Curated resources on computation, complexity, logic, algorithms, cryptography, and related mathematics.
 *   [Scientific Computing (⭐1.6k)](https://github.com/nschloe/awesome-scientific-computing) - Curated software for numerical analysis, scientific computing, meshing, solvers, and visualization.
-*   [Optimization (⭐723)](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
-*   [Interactive Mathematics (⭐301)](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
-*   [AI for Mathematics (⭐78)](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
+*   [Optimization (⭐752)](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
+*   [Interactive Mathematics (⭐322)](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
+*   [AI for Mathematics (⭐98)](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
 

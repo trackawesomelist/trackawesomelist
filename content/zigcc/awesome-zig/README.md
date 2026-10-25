@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Oct 25, 2026](/content/2026/10/25/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [guanchzhou/zig-pkl (⭐0)](https://github.com/guanchzhou/zig-pkl) - Bindings for Apple Pkl over the Message Passing API, with typed evaluation, custom and external readers, and a Pkl-to-Zig code generator. AI-assisted.
+
 ## [Oct 21, 2026](/content/2026/10/21/README.md)
 
 ### Fundamentals / Performance Benchmark
@@ -404,7 +410,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [midasdf/zt (⭐73)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐78)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -860,7 +866,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [rosarp/nu-zigup](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
+*   [rosarp/nu-zigup (⭐1)](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
 
 ## [Jun 27, 2025](/content/2025/06/27/README.md)
 
@@ -1027,7 +1033,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Text Editors
 
-*   [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
+*   [neurocyte/flow (⭐2.5k)](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
 
 ### Network & Web / Web Framework
 
@@ -1046,7 +1052,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Fundamentals / Performance Benchmark
 
 *   [CoalNova/BasicCompare (⭐10)](https://github.com/CoalNova/BasicCompare) - A basic comparative analysis of C, C++, Rust, and Zig.
-*   [andrewrk/poop](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
+*   [andrewrk/poop (⭐2.1k)](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
 
 ### Data & Science / Database
 
@@ -1096,7 +1102,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Image and Video Processing
 
-*   [freref/fancy-cat (⭐571)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
+*   [freref/fancy-cat (⭐575)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
 
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
@@ -1335,7 +1341,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+*   [vezel-dev/zig-sdk (⭐110)](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 
 ## [Jun 20, 2024](/content/2024/06/20/README.md)
 
@@ -1447,7 +1453,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Data & Science / Database
 
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
-*   [speed2exe/myzql (⭐78)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [speed2exe/myzql (⭐80)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 *   [karlseguin/pg.zig (⭐602)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐190)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 
@@ -1547,7 +1553,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [marler8997/zigup (⭐1.1k)](https://github.com/marler8997/zigup) - Download and manage Zig compilers.
 *   [zigtools/zpm (⭐104)](https://github.com/zigtools/zpm) - Zig package manager helper.
-*   [jsomedon/night.zig](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
+*   [jsomedon/night.zig (⭐33)](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
 
 ### Language Essentials / Logging Processing
 

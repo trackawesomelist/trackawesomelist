@@ -6,17 +6,67 @@ A curated list of awesome WebGL libraries, resources and much more
 
 [ [Daily](/content/sjfricke/awesome-webgl/README.md) / Weekly / [Overview](/content/sjfricke/awesome-webgl/readme/README.md) ]
 
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Articles
+
+*   [Houdini to Three.js: Testing glTF Compression and Instancing](https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/) - Case study of geometry, texture compression and instancing with WebGPU and WebGL2 checks.
+
+### Tools/Debugging
+
+*   [Fast3D](https://www.fast3d.org/en) - Browser-based 3D toolbox: convert between GLB, GLTF, OBJ, STL, FBX and PLY, compress models and preview them in a full-featured viewer. Everything runs client-side.
+*   [Web3D Viewer (⭐2)](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
+
+### Tutorials / Firefox Specific Tools/Debugger
+
+*   [TutorialSearch](https://tutorialsearch.io/browse/web-development/webgl-graphics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+*   [A tutorial on infinite canvas with WebGL](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
+
+### Articles / Firefox Specific Tools/Debugger
+
+*   [Zero Bytes of Geometry: A Metal Lattice Sphere-Traced in a 14.9 KB Page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) - Ray marching a signed distance field in raw WebGL 2, with an analytic environment in place of an HDR file and resolution adapted against the display refresh period.
+
+### Compute (GPGPU) / Computer Vision
+
+*   [Speedy Vision (⭐193)](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
+
+### Compute (GPGPU) / Particles
+
+*   [NixieFX (⭐19)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
+
+### Maps and Visualizations / Particles
+
+*   [Globedots (⭐2)](https://github.com/swamoth/globedots) - Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.
+*   [leaflet-webgl-markers (⭐3)](https://github.com/tang-tc/leaflet-webgl-markers) - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
+*   [TradeCanvas (⭐28)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
+*   [WorldSeed (⭐1)](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
+
+### WebAR / Particles
+
+*   [encantar.js (⭐125)](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
+
+### WebGL 2 / Particles
+
+*   [dither-flow (⭐1)](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
+*   [textmode.js (⭐174)](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
+*   [Vysmo Transitions (⭐9)](https://github.com/vysmodev/vysmo) - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, \~5 KB gzipped.
+
+### Others / Particles
+
+*   [img2threejs (⭐19k)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
+*   [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
-*   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐61)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
+*   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐74)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Maps and Visualizations / Particles
 
-*   [MapMetrics GL (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
+*   [MapMetrics GL (⭐2)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -63,7 +113,7 @@ A curated list of awesome WebGL libraries, resources and much more
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
-*   [WebGL Month (⭐225)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
+*   [WebGL Month (⭐226)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -89,7 +139,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Bug Reporting
 
-*   [Khronos Github Issue Page (⭐2.8k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
+*   [Khronos Github Issue Page (⭐2.9k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 
 ### Tools/Debugging
 
@@ -117,7 +167,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### WebVR / Particles
 
-*   [Primrose (⭐532)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
+*   [Primrose (⭐534)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -168,7 +218,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Related lists / Particles
 
-*   [glTF (⭐7.7k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
+*   [glTF (⭐7.9k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
 ## [Mar 12 - Mar 18, 2018](/content/2018/11/README.md)
 
@@ -184,7 +234,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Physics / Particles
 
-*   [Ammo.js (⭐4.5k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐4.6k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
@@ -197,9 +247,9 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Rendering / Particles
 
-*   [GLBoost (⭐107)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+*   [GLBoost (⭐108)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
-*   [Hilo3d (⭐661)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+*   [Hilo3d (⭐667)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
 ## [Dec 25 - Dec 31, 2017](/content/2017/52/README.md)
 
@@ -210,7 +260,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tools/Debugging
 
-*   [Khronos Dev Tools (⭐214)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
+*   [Khronos Dev Tools (⭐223)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 
 ### Others / Particles
 
@@ -220,7 +270,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Others / Particles
 
-*   [Turbulenz (⭐4.9k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+*   [Turbulenz (⭐5.1k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
 ## [Nov 20 - Nov 26, 2017](/content/2017/47/README.md)
 
@@ -253,8 +303,8 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [Planck.js (⭐5.2k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
-*   [Stage.js (⭐2.5k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
+*   [Planck.js (⭐5.3k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
+*   [Stage.js (⭐2.6k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations / Particles
 
@@ -366,8 +416,8 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### References
 
-*   [Google Project ANGLE (⭐4k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.8k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐4.1k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.9k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 
@@ -383,7 +433,7 @@ A curated list of awesome WebGL libraries, resources and much more
 *   [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of *WebGL Up and Running*.
 *   [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 *   [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
-*   [WebGL 2 Examples (⭐574)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐580)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### WebGL 2 / Particles
 
@@ -475,11 +525,11 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Related lists / Particles
 
-*   [awesome (⭐451k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐2.4k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+*   [awesome (⭐521k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐2.5k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 *   [awesome-vulkan (⭐3.7k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-*   [gamedev (⭐16k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*   [graphics-resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*   [gamedev (⭐18k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [graphics-resources (⭐1.9k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
 
@@ -489,7 +539,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐918)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐915)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ### References / Firefox Specific Tools/Debugger
 

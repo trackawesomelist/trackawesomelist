@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 25, 2026](/content/2026/10/25/README.md)
+
+### Forms
+
+*   [BootForm](https://bootform.com/) - Form backend for builders. Free plan: 250 submissions a month with unlimited forms. Email and Discord notifications, honeypot/CAPTCHA, and an MCP server so AI coding agents can create and configure forms and manage submissions.
+
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
 ### Web Hosting
@@ -5088,7 +5094,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [everystep-automation.com](https://www.everystep-automation.com/) - Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) - Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
 *   [testingbot.com](https://testingbot.com/) - Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
-*   [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
+*   [tesults.com](https://www.tesults.com) - Test results reporting, release records and test case management, with an MCP server for AI agents. Free plan with unlimited users, 5 targets, up to 100 test cases per run and 30 days of results history. Free Standard plan for open source projects.
 
 ### Security and PKI
 

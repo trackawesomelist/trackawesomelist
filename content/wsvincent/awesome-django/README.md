@@ -6,6 +6,16 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Oct 25, 2026](/content/2026/10/25/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-content-settings (⭐59)](https://github.com/oduvan/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
+
+### Third-Party Packages / Forms
+
+*   [django-widget-tweaks (⭐2.2k)](https://github.com/django-commons/django-widget-tweaks) - Tweak form field rendering in templates.
+
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
 ### Third-Party Packages / APIs
@@ -122,12 +132,6 @@ A curated list of awesome things related to Django
 ### Hosting / PaaS (Platforms-as-a-Service)
 
 *   [Upsun](https://upsun.com)
-
-## [May 20, 2026](/content/2026/05/20/README.md)
-
-### Third-Party Packages / Configuration
-
-*   [django-content-settings (⭐59)](https://github.com/occipital/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ## [Apr 21, 2026](/content/2026/04/21/README.md)
 
@@ -424,7 +428,6 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Permissions
 
-*   [django-role-permissions (⭐752)](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
 *   [django-rules (⭐2k)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Resources / Books
@@ -492,12 +495,6 @@ A curated list of awesome things related to Django
 ### Hosting / Self-Hosted Deployment
 
 *   [Piku (⭐6.6k)](https://github.com/piku/piku) - Tiny Heroku-style PaaS for git push deploys to a single server.
-
-## [Jan 18, 2024](/content/2024/01/18/README.md)
-
-### Third-Party Packages / Users
-
-*   [django-guest-user (⭐79)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ## [Jan 02, 2024](/content/2024/01/02/README.md)
 
@@ -840,7 +837,6 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [Reactor (⭐637)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 *   [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 *   [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 
@@ -884,10 +880,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Admin Themes
 
 *   [django-admin-interface (⭐2k)](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
-
-### Third-Party Packages / Forms
-
-*   [django-floppyforms (⭐835)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 
 ## [Oct 02, 2020](/content/2020/10/02/README.md)
 
@@ -957,12 +949,6 @@ A curated list of awesome things related to Django
 ### Projects / Open Source Projects
 
 *   [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
-
-## [Jul 31, 2020](/content/2020/07/31/README.md)
-
-### Projects / Boilerplate
-
-*   [cookiecutter-vue-django (⭐229)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [Jul 29, 2020](/content/2020/07/29/README.md)
 
@@ -1040,7 +1026,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Forms
 
 *   [django-crispy-forms (⭐5.2k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
-*   [django-widget-tweaks (⭐2.2k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.9k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
 ### Third-Party Packages / Model Fields
@@ -1062,7 +1047,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Search
 
 *   [django-haystack (⭐3.7k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [django-watson (⭐1.3k)](https://github.com/etianen/django-watson) - Full-text search plugin.
 
 ### Third-Party Packages / Static Assets
 
@@ -1122,7 +1106,6 @@ A curated list of awesome things related to Django
 *   [Zulip (⭐26k)](https://github.com/zulip/zulip/) - Open-source team chat.
 *   [django-job-portal (⭐624)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 *   [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
-*   [pythonic-news (⭐540)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 
 ### Wagtail / Wagtail Resources
 

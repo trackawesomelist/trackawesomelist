@@ -31,6 +31,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [DMARCmetric](https://dmarcmetric.com/) - DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.
 *   [SignupVet](https://www.signupvet.com) - An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.
 
+### Forms
+
+*   [BootForm](https://bootform.com/) - Form backend for builders. Free plan: 250 submissions a month with unlimited forms. Email and Discord notifications, honeypot/CAPTCHA, and an MCP server so AI coding agents can create and configure forms and manage submissions.
+
 ### Web Hosting
 
 *   [Pagehaus](https://pagehaus.app) - Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.
@@ -4241,7 +4245,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [everystep-automation.com](https://www.everystep-automation.com/) - Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) - Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
 *   [testingbot.com](https://testingbot.com/) - Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
-*   [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
+*   [tesults.com](https://www.tesults.com) - Test results reporting, release records and test case management, with an MCP server for AI agents. Free plan with unlimited users, 5 targets, up to 100 test cases per run and 30 days of results history. Free Standard plan for open source projects.
 
 ### Security and PKI
 

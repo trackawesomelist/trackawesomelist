@@ -2,15 +2,26 @@
 
 A curated list of OpenTofu tools, resources, and related projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/virtualroot/awesome-opentofu/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu) · ⭐ 210 · 🏷️ DevOps
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/virtualroot/awesome-opentofu/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu) · ⭐ 211 · 🏷️ DevOps
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
+
+## [Oct 25, 2026](/content/2026/10/25/README.md)
+
+### Tools / Wrappers
+
+*   [tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.
+
+### Tools / Platforms
+
+*   [Semaphore UI](https://semaphoreui.com/) - Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.
+*   [Stackorder (⭐0)](https://github.com/stackorder/stackorder) - Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.
 
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
 ### Tools / CI
 
-*   [c3x (⭐33)](https://github.com/c3xdev/c3x) - Cost estimates for OpenTofu code, including `.tofu` files and provider `for_each`, posted as a pull request comment.
+*   [c3x (⭐35)](https://github.com/c3xdev/c3x) - Cost estimates for OpenTofu code, including `.tofu` files and provider `for_each`, posted as a pull request comment.
 *   [pre-commit-terraform (⭐3.8k)](https://github.com/antonbabenko/pre-commit-terraform) - Collection of pre-commit git hooks for validating, formatting, and documenting Terraform and OpenTofu code.
 
 ### Tools / Tests
@@ -25,13 +36,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Helpers
 
-*   [TerraVision (⭐1.6k)](https://github.com/patrickchugh/terravision) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
+*   [TerraVision (⭐1.7k)](https://github.com/patrickchugh/terravision) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
 ## [Sep 21, 2026](/content/2026/09/21/README.md)
 
 ### Tools / Helpers
 
-*   [bare-devcontainer/templates (⭐2)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images (⭐2)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
+*   [bare-devcontainer/templates (⭐3)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images (⭐3)](https://github.com/bare-devcontainer/images/tree/main/src/opentofu).
 
 ## [Sep 08, 2026](/content/2026/09/08/README.md)
 
@@ -55,7 +66,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Official
 
-*   [Weekly updates (⭐30k)](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates)
+*   [Weekly updates (⭐31k)](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates)
 
 ### Features
 
@@ -78,7 +89,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / CI
 
-*   [drifthound (⭐74)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
+*   [drifthound (⭐75)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 
 ## [Nov 28, 2025](/content/2025/11/28/README.md)
 
@@ -111,7 +122,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Official
 
 *   [Registry (⭐410)](https://github.com/opentofu/registry)
-*   [Registry MCP Server (⭐110)](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
+*   [Registry MCP Server (⭐111)](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
 *   [Technical Steering Committee updates (⭐4)](https://github.com/opentofu/org/tree/main/TSC)
 
 ### Features
@@ -124,7 +135,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Helpers
 
-*   [OpenTofu Language Server (⭐188)](https://github.com/opentofu/tofu-ls) - The OpenTofu Language Server.
+*   [OpenTofu Language Server (⭐190)](https://github.com/opentofu/tofu-ls) - The OpenTofu Language Server.
 *   [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 *   [zed Extension (⭐8)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 
@@ -136,7 +147,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Helpers
 
-*   [tfupdate (⭐657)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
+*   [tfupdate (⭐658)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -148,7 +159,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / CI
 
-*   [TF-via-PR (⭐342)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
+*   [TF-via-PR (⭐346)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 
 ## [Nov 30, 2024](/content/2024/11/30/README.md)
 
@@ -190,7 +201,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [pug (⭐704)](https://github.com/leg100/pug) - A terminal user interface for power users.
+*   [pug (⭐706)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -243,11 +254,11 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Tools / Registry
 
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for Terraform modules.
-*   [terralist (⭐521)](https://github.com/terralist/terralist) - Private registry for providers and modules.
-*   [citizen (⭐653)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
+*   [terralist (⭐524)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [citizen (⭐651)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 *   [petra (⭐44)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
 *   [tapir (⭐239)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
-*   [terraform-registry (⭐118)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
+*   [terraform-registry (⭐119)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 *   [terrareg (⭐348)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 *   [terustry (⭐73)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
@@ -263,7 +274,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Platforms
 
-*   [terrakube (⭐965)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
+*   [terrakube (⭐980)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 
 ### Tools / Registry
 
@@ -278,7 +289,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Providers
 
-*   [tfschema (⭐316)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
+*   [tfschema (⭐315)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ## [Feb 21, 2024](/content/2024/02/21/README.md)
 
@@ -290,9 +301,9 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 *   [Terramate (⭐3.6k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 *   [easy\_infra (⭐78)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
-*   [tfam (⭐25)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
+*   [tfam (⭐24)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 *   [tfexe (⭐4)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
-*   [tfwrapper (⭐155)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
+*   [tfwrapper (⭐156)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 
 ### Tools / CI
 
@@ -304,7 +315,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Platforms
 
-*   [digger (⭐5k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+*   [digger (⭐5.1k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 
 ### Tools / Registry
 
@@ -340,13 +351,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Environment managers
 
-*   [tenv (⭐1.4k)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tenv (⭐1.5k)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Tools / Environment managers
 
-*   [tofuenv (⭐238)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [tofuenv (⭐239)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ## [Dec 20, 2023](/content/2023/12/20/README.md)
 
@@ -376,7 +387,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Official
 
-*   [OpenTofu repository (⭐30k)](https://github.com/opentofu/opentofu) 🎉
+*   [OpenTofu repository (⭐31k)](https://github.com/opentofu/opentofu) 🎉
 
 ### Community
 

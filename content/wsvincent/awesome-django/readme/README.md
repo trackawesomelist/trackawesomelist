@@ -193,7 +193,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 <!--lint enable double-link-->
 
 *   [django-classy-settings (⭐38)](https://github.com/funkybob/django-classy-settings) - Class-based settings to keep your environments in order, with easy access to typed environment variables.
-*   [django-content-settings (⭐59)](https://github.com/occipital/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
+*   [django-content-settings (⭐59)](https://github.com/oduvan/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ### Content Management Systems
 
@@ -242,9 +242,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Forms
 
 *   [django-crispy-forms (⭐5.2k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
-*   [django-floppyforms (⭐835)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 *   [django-formtools (⭐883)](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
-*   [django-widget-tweaks (⭐2.2k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
+*   [django-widget-tweaks (⭐2.2k)](https://github.com/django-commons/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.9k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
 ### Full-stack frameworks
@@ -252,7 +251,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [Django LiveView (⭐260)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 *   [Django-Bridge (⭐272)](https://github.com/kaedroho/django-bridge) - The simple way to build React frontends for Django applications.
 *   [ReactPy (⭐8.2k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐357)](https://github.com/reactive-python/reactpy-django).
-*   [Reactor (⭐637)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 *   [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 *   [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 
@@ -323,14 +321,12 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Permissions
 
-*   [django-role-permissions (⭐752)](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
 *   [django-guardian (⭐3.9k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 *   [django-rules (⭐2k)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Search
 
 *   [django-haystack (⭐3.7k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [django-watson (⭐1.3k)](https://github.com/etianen/django-watson) - Full-text search plugin.
 *   [django-admin-search (⭐83)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 *   [django-elasticsearch-dsl (⭐1.1k)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
@@ -405,7 +401,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-improved-user (⭐159)](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 *   [django-organizations (⭐1.4k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 *   [django-cas-ng (⭐392)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
-*   [django-guest-user (⭐79)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ### Views
 
@@ -604,7 +599,6 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 *   [django-docker-template (⭐230)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).
 *   [django-startproject (⭐282)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 *   [wemake-django-template (⭐2.3k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding-edge Django template focused on code quality and security.
-*   [cookiecutter-vue-django (⭐229)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 *   [sidewinder (⭐234)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 *   [Falco (⭐391)](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 *   [BH2](https://codeberg.org/trey/bh2) - Get a new Django site started in a Djiffy
@@ -628,7 +622,6 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 *   [Baserow (⭐6.2k)](https://github.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 *   [Django CRM Admin (⭐638)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 *   [linkding (⭐11k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
-*   [pythonic-news (⭐540)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 *   [Revel (⭐111)](https://github.com/letsrevel/revel-backend) - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
 *   [venueless (⭐226)](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
 *   [pretix (⭐2.5k)](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
