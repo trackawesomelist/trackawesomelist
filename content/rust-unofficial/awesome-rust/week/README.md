@@ -24,9 +24,17 @@ A curated list of Rust code and resources.
 
 *   [1homsi/thehumanbox (⭐61)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
 
+### Applications / Graphics
+
+*   [jangtrinh/design-os-studio (⭐71)](https://github.com/jangtrinh/design-os-studio) - GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.
+
 ### Applications / Image processing
 
 *   [Hugo-Dz/spritefusion-sprite-normals (⭐179)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
+
+### Applications / MLOps
+
+*   [respanai/respan-gateway (⭐290)](https://github.com/respanai/respan-gateway) \[[respan-gateway](https://crates.io/crates/respan-gateway)] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI. [![CI](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
@@ -39,6 +47,10 @@ A curated list of Rust code and resources.
 ### Applications / Text editors
 
 *   [l0ng-ai/openidea (⭐59)](https://github.com/l0ng-ai/openidea) - A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2. [![CI](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml)
+
+### Applications / Web Servers
+
+*   [biandratti/huginn-proxy (⭐62)](https://github.com/biandratti/huginn-proxy) - Reverse proxy that forwards open-standard fingerprints (JA4 TLS, Akamai HTTP/2, and p0f TCP via an XDP/TC eBPF program) to backends as headers [![CI](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -142,11 +154,11 @@ A curated list of Rust code and resources.
 ### Applications / Image processing
 
 *   [storytold/lightcraft (⭐14k)](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
-*   [storytold/vectorcraft (⭐4.1k)](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
+*   [storytold/vectorcraft (⭐11k)](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
 
 ### Applications / Productivity
 
-*   [burakdede/aisw (⭐124)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
+*   [burakdede/aisw (⭐135)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
 *   [leepokai/Codync (⭐764)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
 
 ### Applications / Social networks
@@ -160,7 +172,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [storytold/effectcraft (⭐3k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
+*   [storytold/effectcraft (⭐7.9k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
 
 ### Applications / Web Servers
 
@@ -178,7 +190,7 @@ A curated list of Rust code and resources.
 
 *   [cmccomb/rust-automl (⭐39)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
 *   [Mattbusel/tokio-prompt-orchestrator (⭐59)](https://github.com/Mattbusel/tokio-prompt-orchestrator) \[[tokio-prompt-orchestrator](https://crates.io/crates/tokio-prompt-orchestrator)] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.
-*   [samvallad33/vestige (⭐648)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
+*   [samvallad33/vestige (⭐656)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
@@ -656,7 +668,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [PodFetch (⭐511)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
+*   [PodFetch (⭐519)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
 
 ### Applications / Image processing
 

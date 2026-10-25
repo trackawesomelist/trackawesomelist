@@ -15,6 +15,7 @@
 ### Tutorials
 
 *   [AI Engineer Interview Prep (⭐33)](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
+*   [Machine Learning 101](https://machinelearning101.com) - Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -84,11 +85,11 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [OpenLanguageModel (⭐26)](https://github.com/openlanguagemodel/openlanguagemodel) - PyTorch-native library for building, training and teaching transformer language models, with architectures written as ordinary nn.Modules.
+*   [OpenLanguageModel (⭐27)](https://github.com/openlanguagemodel/openlanguagemodel) - PyTorch-native library for building, training and teaching transformer language models, with architectures written as ordinary nn.Modules.
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [WhatFontIs-Bench (⭐0)](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
+*   [WhatFontIs-Bench (⭐1)](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
 
@@ -108,7 +109,7 @@
 
 ### Tools
 
-*   [Kitaru (⭐303)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
+*   [Kitaru (⭐314)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 
 ### YouTube Videos & Channels / Book Deals (Affiliated)
 
@@ -146,7 +147,7 @@
 
 ### Frameworks
 
-*   [Lumen (⭐316)](https://github.com/holoviz/lumen) - Agent framework for chatting with data, turning natural language into SQL, transformation pipelines and visualizations. Outputs are declarative specs that can be inspected, edited, reopened in a notebook or composed into a dashboard.
+*   [Lumen (⭐318)](https://github.com/holoviz/lumen) - Agent framework for chatting with data, turning natural language into SQL, transformation pipelines and visualizations. Outputs are declarative specs that can be inspected, edited, reopened in a notebook or composed into a dashboard.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -190,7 +191,7 @@
 
 *   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
 *   [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026) - Structured reference dataset of 156 peptide and peptide-adjacent compounds, each with a regulatory status bucket, category, route, half-life, molecular weight, CAS number, reference count, and PubChem/DrugBank/Wikidata IDs. CSV and JSON, no login, CC BY 4.0.
-*   [BDE Score (⭐3)](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
+*   [BDE Score (⭐4)](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
 *   [Verified Supplement Evidence (⭐3)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
@@ -220,7 +221,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [torchvista (⭐769)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
+*   [torchvista (⭐767)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -252,7 +253,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [ML/AI Interview Prep (⭐7)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
+*   [ML/AI Interview Prep (⭐26)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -274,7 +275,7 @@
 
 ### Tools
 
-*   [CAJAL (⭐22)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
+*   [CAJAL (⭐24)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 
 ### Tutorials
 
@@ -284,7 +285,7 @@
 
 ### Tools
 
-*   [DeepAlpha (⭐46)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
+*   [DeepAlpha (⭐50)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -296,7 +297,7 @@
 
 ### Tools
 
-*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐8)](https://github.com/unitedideas/nothumansearch)
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐9)](https://github.com/unitedideas/nothumansearch)
 
 ### Books / Visualization Tools
 
@@ -359,7 +360,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Evidence Synthesis (⭐30)](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
+*   [Awesome Evidence Synthesis (⭐32)](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -375,7 +376,7 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [FirstData (⭐184)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+*   [FirstData (⭐185)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -438,7 +439,7 @@
 
 ### Frameworks
 
-*   [ADK-Rust (⭐695)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
+*   [ADK-Rust (⭐720)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
 ## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
 
@@ -836,7 +837,7 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐558)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [MLSys-NYU-2022 (⭐559)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 *   [Hands-on Train and Deploy ML (⭐890)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
@@ -989,9 +990,9 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐8.4k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
+*   [#tidytuesday (⭐8.5k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐620)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐704)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [PySpark Cheatsheet (⭐708)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.3k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
@@ -1231,7 +1232,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyToune (⭐578)](https://github.com/GRAAL-Research/poutyne)
+*   [PyToune (⭐579)](https://github.com/GRAAL-Research/poutyne)
 *   [skorch (⭐6.2k)](https://github.com/skorch-dev/skorch)
 *   [pytorch\_geometric (⭐24k)](https://github.com/pyg-team/pytorch_geometric)
 *   [pyro (⭐9.1k)](https://github.com/pyro-ppl/pyro)
@@ -1347,7 +1348,7 @@
 
 *   [awesome-dataviz (⭐4.4k)](https://github.com/javierluraschi/awesome-dataviz)
 *   [awesome-datasets (⭐79k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐693)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Data Science Ideas (⭐691)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐101)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
@@ -1551,13 +1552,13 @@
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐708)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐521)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐440)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-crfsuite (⭐441)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.6k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.7k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐389)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
+*   [scikit-posthocs (⭐390)](https://github.com/maximtrp/scikit-posthocs)
+*   [pystruct (⭐668)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.3k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐6k)](https://github.com/uber/causalml)
@@ -1566,7 +1567,7 @@
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐443)](https://github.com/christophM/rulefit)
+*   [RuleFit (⭐444)](https://github.com/christophM/rulefit)
 *   [pyGAM (⭐1k)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
@@ -1588,9 +1589,9 @@
 *   [Sonnet (⭐10k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐735)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐734)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐353)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐706)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐707)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1690,9 +1691,9 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐523)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐525)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐349)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐348)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -1717,10 +1718,10 @@
 *   [Awesome Decision Tree Papers (⭐2.5k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.8k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 *   [Awesome Gradient Boosting Papers (⭐1.1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐545)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐715)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Computer Vision Models (⭐544)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐717)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
-*   [100 NLP Papers (⭐3.9k)](https://github.com/mhagiwara/100-nlp-papers)
+*   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 

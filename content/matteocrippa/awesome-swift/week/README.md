@@ -21,6 +21,10 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [vim-polyglot (⭐5.7k)](https://github.com/vim-polyglot/vim-polyglot) - Language pack for vim that includes vim-swift.
 
+### Other Awesome Lists
+
+*   [MotionBook (⭐1.5k)](https://github.com/younatics/MotionBook) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
+
 ### Misc
 
 *   [BerryDB Desktop (⭐25)](https://github.com/berry-apps/berrydb-desktop) - Native macOS database client for SQL and NoSQL databases with an optional AI assistant.
@@ -38,7 +42,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Colors
 
-*   [PaletteKit](https://github.com/2dubu/PaletteKit) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
+*   [PaletteKit (⭐28)](https://github.com/2dubu/PaletteKit) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
 
 ### Images / Barcode
 
@@ -368,7 +372,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Data
 
-*   [CacheAdvance](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
+*   [CacheAdvance (⭐51)](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
 
 ### Dependency Injection
 
@@ -585,7 +589,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### MongoDB
 
-*   [MongoKitten](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐756)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -737,7 +741,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Concurrency
 
-*   [async+](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐211)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -825,7 +829,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Augmented Reality
 
-*   [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐126)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ### Alert / Barcode
 
@@ -1239,7 +1243,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Concurrency
 
-*   [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐832)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ### Core Data
 
@@ -1402,7 +1406,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Command Line
 
-*   [SwiftShell](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐1.1k)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ### Dependency Injection
 
@@ -1922,7 +1926,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### JSON
 
-*   [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### Multi Database
 
@@ -2050,7 +2054,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Command Line
 
-*   [LineNoise](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐155)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
@@ -2058,7 +2062,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Key Value Store
 
-*   [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐466)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Other Data
 
@@ -2247,7 +2251,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Core Data
 
-*   [SugarRecord](https://github.com/modo-studio/SugarRecord) - Helps with Core Data and Realm.
+*   [SugarRecord (⭐2.1k)](https://github.com/modo-studio/SugarRecord) - Helps with Core Data and Realm.
 
 ### Images / Barcode
 
@@ -2782,7 +2786,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Concurrency
 
-*   [Queuer](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
+*   [Queuer (⭐1.1k)](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 
 ### UI / Barcode
 
@@ -3042,7 +3046,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Colors
 
-*   [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
+*   [DynamicColor (⭐3.1k)](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 
 ### Command Line
 
@@ -3055,7 +3059,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [AsyncNinja (⭐155)](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 *   [Hydra (⭐2k)](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
-*   [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
+*   [Venice (⭐1.5k)](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
 
 ### Core Data
 
@@ -3064,7 +3068,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### JSON
 
-*   [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into objects using ObjectMapper.
+*   [AlamofireObjectMapper (⭐2.6k)](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into objects using ObjectMapper.
 *   [Argo (⭐3.5k)](https://github.com/thoughtbot/Argo) - JSON parsing library.
 *   [Arrow (⭐387)](https://github.com/freshOS/Arrow) - Elegant JSON Parsing.
 *   [Decodable (⭐1k)](https://github.com/Anviking/Decodable) :penguin: - JSON parsing.
@@ -3605,7 +3609,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Core Data
 
-*   [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
+*   [Skopelos (⭐240)](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 
 ### UI / Barcode
 

@@ -668,7 +668,7 @@ Thanks to our main contributors
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 *   [NexFil (⭐2.6k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 *   [Seekr (⭐886)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
-*   [Sherlock (⭐94k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐95k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
 *   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
 *   [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Username — Instantly. Scans thousands of sites for username presence.
@@ -1030,6 +1030,7 @@ Thanks to our main contributors
 *   [Wayback-Archive (⭐42)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 *   [waybackpy (⭐610)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 *   [WayTrace](https://waytrace.org/) - Reconstructs a domain's history from Wayback Machine captures: emails, subdomains, exposed API keys, analytics and ad IDs, people and more, each dated from first to last appearance. Passive, open source.
+*   [Web Resource Ledger](https://webresourceledger.com) - Captures a web page as a signed, timestamped WACZ bundle that anyone can verify without an account. Web UI, API and MCP server, free tier.
 
 ## [↑](#-table-of-contents) Language Tools
 

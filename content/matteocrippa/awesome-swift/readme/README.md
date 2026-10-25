@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |      Updated     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :--------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1116   | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1117   | October 25, 2026 |
 
 In parternship with:
 
@@ -267,6 +267,7 @@ In parternship with:
 *   [Awesome iOS Interview (⭐1.2k)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
 *   [awesome-macOS (⭐19k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 *   [example-ios-apps (⭐1.4k)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [MotionBook (⭐1.5k)](https://github.com/younatics/MotionBook) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
 *   [open-source-ios-apps (⭐53k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 *   [open-source-mac-os-apps (⭐51k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
@@ -459,7 +460,7 @@ In parternship with:
 
 [back to top](#readme)
 
-*   [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐126)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 *   [ARKit-CoreLocation (⭐5.5k)](https://github.com/AndrewHartAR/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 *   [ARKit-Navigation (⭐331)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 *   [ARVideoKit (⭐1.6k)](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
@@ -526,10 +527,10 @@ In parternship with:
 
 *   [ChromaColorPicker (⭐571)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 *   [ColorKit (⭐787)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
-*   [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
+*   [DynamicColor (⭐3.1k)](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 *   [Gradients (⭐808)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 *   [Hue (⭐3.5k)](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
-*   [PaletteKit](https://github.com/2dubu/PaletteKit) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
+*   [PaletteKit (⭐28)](https://github.com/2dubu/PaletteKit) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
 *   [PrettyColors (⭐172)](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 *   [SheetyColors (⭐104)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 *   [SwiftGen-Colors (⭐9.5k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
@@ -544,30 +545,30 @@ In parternship with:
 *   [Ashen (⭐119)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
 *   [Commander (⭐1.5k)](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces.
 *   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) :penguin: - The smart and beautiful (POSIX compliant) command line framework.
-*   [LineNoise](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐155)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 *   [Mocker (⭐364)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 *   [nef (⭐269)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 *   [Progress.swift (⭐349)](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 *   [Swift Argument Parser (⭐3.8k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 *   [SwiftCLI (⭐883)](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
 *   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - A set of tools to help you create command line applications.
-*   [SwiftShell](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐1.1k)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 *   [SwiftyTextTable (⭐332)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Concurrency
 
 *Easier ways to work with concurrency.* [back to top](#readme)
 
-*   [async+](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐211)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 *   [AsyncNinja (⭐155)](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 *   [AsyncQueue (⭐288)](https://github.com/dfed/swift-async-queue) :penguin: - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
 *   [Futures (⭐59)](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
 *   [GroupWork (⭐42)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 *   [Hydra (⭐2k)](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
-*   [Queuer](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
-*   [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [Queuer (⭐1.1k)](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
+*   [SwiftCoroutine (⭐832)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 *   [Throttler (⭐166)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
-*   [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
+*   [Venice (⭐1.5k)](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
 
 ### Currency
 
@@ -595,8 +596,8 @@ In parternship with:
 *   [JSQCoreDataKit (⭐615)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 *   [JustPersist (⭐163)](https://github.com/justeat/JustPersist) - Easiest and safest way to do persistence on iOS with Core Data support out of the box.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
-*   [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
-*   [SugarRecord](https://github.com/modo-studio/SugarRecord) - Helps with Core Data and Realm.
+*   [Skopelos (⭐240)](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
+*   [SugarRecord (⭐2.1k)](https://github.com/modo-studio/SugarRecord) - Helps with Core Data and Realm.
 
 #### CSV
 
@@ -621,7 +622,7 @@ In parternship with:
 
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme)
 
-*   [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into objects using ObjectMapper.
+*   [AlamofireObjectMapper (⭐2.6k)](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into objects using ObjectMapper.
 *   [Alembic (⭐117)](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 *   [Argo (⭐3.5k)](https://github.com/thoughtbot/Argo) - JSON parsing library.
 *   [Arrow (⭐387)](https://github.com/freshOS/Arrow) - Elegant JSON Parsing.
@@ -633,7 +634,7 @@ In parternship with:
 *   [JASON (⭐1k)](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 *   [JSONHelper (⭐774)](https://github.com/isair/JSONHelper) - Lightning fast JSON deserialization and value conversion library for iOS & OS X.
 *   [JSONNeverDie (⭐443)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
-*   [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 *   [PMJSON (⭐361)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
 *   [ReerCodable (⭐422)](https://github.com/reers/ReerCodable) - Codable extensions using Swift macro.
 *   [Sextant (⭐69)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
@@ -644,7 +645,7 @@ In parternship with:
 
 [back to top](#readme)
 
-*   [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐466)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 *   [Defaults (⭐2.5k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 *   [DefaultsKit (⭐1.4k)](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 *   [Prephirences (⭐572)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
@@ -658,7 +659,7 @@ In parternship with:
 
 [back to top](#readme)
 
-*   [MongoKitten](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐756)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 *   [Perfect-MongoDB (⭐51)](https://github.com/PerfectlySoft/Perfect-MongoDB) :penguin: - A stand-alone wrapper around the mongo-c client library, enabling access to MongoDB servers.
 
 #### Multi Database
@@ -680,7 +681,7 @@ In parternship with:
 
 *Other ways to persist data* [back to top](#readme)
 
-*   [CacheAdvance](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
+*   [CacheAdvance (⭐51)](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
 *   [CoreXLSX (⭐906)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 *   [Disk (⭐3.1k)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 *   [EVCloudKitDao (⭐640)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.

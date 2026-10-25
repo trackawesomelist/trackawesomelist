@@ -30,6 +30,10 @@
 
 *   [Threat Actor Username Search](https://threatactorusernames.com) - Search through 3M+ threat actor usernames to find where criminals and baddies post online and operate.
 
+### Web History and Website Capture / GitHub
+
+*   [Web Resource Ledger](https://webresourceledger.com) - Captures a web page as a signed, timestamped WACZ bundle that anyone can verify without an account. Web UI, API and MCP server, free tier.
+
 ### Geospatial Research and Mapping Tools / GitHub
 
 *   [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
@@ -2523,7 +2527,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐94k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐95k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### Browsers / GitHub
 

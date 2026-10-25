@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 25, 2026](/content/2026/10/25/README.md)
+
+### Web History and Website Capture / GitHub
+
+*   [Web Resource Ledger](https://webresourceledger.com) - Captures a web page as a signed, timestamped WACZ bundle that anyone can verify without an account. Web UI, API and MCP server, free tier.
+
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Social Media Tools / TikTok
@@ -2648,7 +2654,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐94k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐95k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ## [Oct 09, 2020](/content/2020/10/09/README.md)
 
