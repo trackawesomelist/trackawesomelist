@@ -6,6 +6,16 @@
 
 [ [Daily](/content/leomaurodesenv/game-datasets/README.md) / Weekly / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### API
+
+*   [unicum.gg](https://unicum.gg/docs) - World of Tanks player, clan, tank and map statistics across EU, NA and Asia, free and with no key. [Website](https://unicum.gg).
+
+### Dataset / Web
+
+*   [OSTDB (⭐2)](https://github.com/OSTDB/soundtracks) - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Artificial Intelligence / Web
@@ -229,7 +239,7 @@
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐438)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐445)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
@@ -259,7 +269,7 @@
 
 ### Artificial Intelligence
 
-*   [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
+*   [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game.
 *   [Vegan on a Desert Island](https://gitlab.com/voadi/voadi) - Adventure game on island survival.
 *   [veloren](https://gitlab.com/veloren/veloren) - Sandbox game. [Website](https://veloren.net/).
 
@@ -320,8 +330,7 @@
 
 *   [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 *   [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
-*   [Dungeon Crawl: Stone Soup (⭐3k)](https://github.com/crawl/crawl) - Roguelike adventure.
-*   [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
+*   [Dungeon Crawl: Stone Soup (⭐3.1k)](https://github.com/crawl/crawl) - Roguelike adventure.
 *   [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 *   [Malmo (⭐4.3k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 *   [microRTS (⭐363)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
@@ -339,12 +348,12 @@
 ### Artificial Intelligence / Mobile
 
 *   [Pixel Dungeon (⭐4k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
-*   [Shattered Pixel Dungeon (⭐6.6k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
+*   [Shattered Pixel Dungeon (⭐6.7k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
 
 ### Artificial Intelligence / Web
 
 *   [Infinite Mario Bros (⭐531)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
-*   [Onslaught! Arena (⭐203)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
+*   [Onslaught! Arena (⭐204)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 *   [TapAI (⭐1)](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game.
 
 ### Dataset / Web
@@ -418,7 +427,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐574)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐574)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [paper](https://arxiv.org/abs/1708.02139).
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
 
@@ -460,7 +469,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐633)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐635)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 

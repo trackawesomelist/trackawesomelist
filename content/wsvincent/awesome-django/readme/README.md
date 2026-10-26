@@ -245,6 +245,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-formtools (⭐883)](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 *   [django-widget-tweaks (⭐2.2k)](https://github.com/django-commons/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.9k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
+*   [django-select2 (⭐206)](https://github.com/codingjoe/django-select2) - Custom autocomplete fields for Django.
 
 ### Full-stack frameworks
 
@@ -284,6 +285,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 *   [django-prometheus (⭐1.7k)](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics to Prometheus.
 *   [django-mixin (⭐79)](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
+*   [django-health-check (⭐1.4k)](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications.
 
 ### Mailing
 
@@ -363,6 +365,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [huey (⭐6.1k)](https://github.com/coleifer/huey) - A little task queue for Python, with Django support including the new `django.tasks` API.
 *   [django-ox (⭐92)](https://github.com/oxpull/django-ox) - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
 *   [django-absurd (⭐53)](https://github.com/lincolnloop/django-absurd) - Django integration for Absurd, a Postgres-native durable workflow system.
+*   [django-crontask (⭐127)](https://github.com/codingjoe/django-crontask) - Cron style scheduler for asynchronous tasks in Django.
 
 ### Templates
 

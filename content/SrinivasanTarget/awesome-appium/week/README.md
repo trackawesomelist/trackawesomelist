@@ -6,6 +6,18 @@ A curated list of delightful Appium resources.
 
 [ [Daily](/content/SrinivasanTarget/awesome-appium/README.md) / Weekly / [Overview](/content/SrinivasanTarget/awesome-appium/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Test Frameworks
+
+*   [agent-qa (⭐911)](https://github.com/vostride/agent-qa) - Natural-language Android and iOS testing through Appium from vostride, with advanced memidex memory and self-improvement from verified runs.
+
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Test Frameworks
+
+*   [Optics (⭐57)](https://github.com/mozarkai/optics-framework) - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Cloud

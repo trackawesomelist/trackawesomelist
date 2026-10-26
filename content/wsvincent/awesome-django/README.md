@@ -6,6 +6,20 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Oct 26, 2026](/content/2026/10/26/README.md)
+
+### Third-Party Packages / Forms
+
+*   [django-select2 (⭐206)](https://github.com/codingjoe/django-select2) - Custom autocomplete fields for Django.
+
+### Third-Party Packages / Monitoring
+
+*   [django-health-check (⭐1.4k)](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications.
+
+### Third-Party Packages / Task Queues
+
+*   [django-crontask (⭐127)](https://github.com/codingjoe/django-crontask) - Cron style scheduler for asynchronous tasks in Django.
+
 ## [Oct 25, 2026](/content/2026/10/25/README.md)
 
 ### Third-Party Packages / Configuration

@@ -6,6 +6,12 @@ A curated list of awesome WebGL libraries, resources and much more
 
 [ [Daily](/content/sjfricke/awesome-webgl/README.md) / Weekly / [Overview](/content/sjfricke/awesome-webgl/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Articles / Firefox Specific Tools/Debugger
+
+*   [Building a Browser Solar System Explorer with NASA Data and Raw WebGL2](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj) - Engineering case study on rendering the [Space Simulator Online](https://spacesimulator.online/) 3D Solar System, Milky Way, and 6,000+ NASA exoplanets at 60 FPS using raw WebGL 2 shaders without Three.js.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Articles

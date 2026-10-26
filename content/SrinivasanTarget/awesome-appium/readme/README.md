@@ -16,7 +16,7 @@ A curated list of delightful Appium resources.
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐521k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 
@@ -225,9 +225,11 @@ Inspired by the [awesome (⭐514k)](https://github.com/sindresorhus/awesome) lis
 
 ## Test Frameworks
 
+*   [agent-qa (⭐911)](https://github.com/vostride/agent-qa) - Natural-language Android and iOS testing through Appium from vostride, with advanced memidex memory and self-improvement from verified runs.
 *   [Appium Cucumber Test (⭐37)](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
 *   [Appium-Native-Crawler (⭐55)](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 *   [coteafs-appium (⭐148)](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
+*   [Optics (⭐57)](https://github.com/mozarkai/optics-framework) - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
 *   [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
 *   [PageObject Pattern Framework (⭐187)](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 *   [Parallel Framework Java-Client (⭐1k)](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
