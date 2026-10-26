@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 26, 2026](/content/2026/10/26/README.md)
+
+### Social Media Tools / Twitter
+
+*   [TweetAPI Twitter ID Finder](https://tweetapi.com/tools/twitter-id-finder) - Find the user ID behind a Twitter username or profile link, or look up the current username for an ID. Free, no signup.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
+
 ## [Oct 25, 2026](/content/2026/10/25/README.md)
 
 ### Web History and Website Capture / GitHub
@@ -74,13 +84,13 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram-Archive (⭐223)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+*   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 
 ## [Oct 10, 2026](/content/2026/10/10/README.md)
 
 ### Google Dorks Tools
 
-*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+*   [DorkEye (⭐155)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 
 ### Image Analysis / GitHub
 

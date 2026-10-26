@@ -133,7 +133,7 @@ Thanks to our main contributors
 
 *   [AtDork (⭐48)](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
 *   [DorkCraft (⭐9)](https://github.com/juandresrodca/DorkCraft) - Google dork generator that builds advanced search queries for OSINT and reconnaissance.
-*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+*   [DorkEye (⭐155)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 *   [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 *   [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 *   [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -458,6 +458,7 @@ Thanks to our main contributors
 *   [RiteTag](https://ritetag.com)
 *   [Tagdef](https://tagdef.com)
 *   [Trends24](https://trends24.in)
+*   [TweetAPI Twitter ID Finder](https://tweetapi.com/tools/twitter-id-finder) - Find the user ID behind a Twitter username or profile link, or look up the current username for an ID. Free, no signup.
 *   [TweetMap (⭐11)](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 *   [TwexAPI Twitter Viewer](https://twexapi.io/twitter-viewer) - View a public X (Twitter) profile and its latest posts without logging in or creating an account.
 *   [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
@@ -557,7 +558,7 @@ Thanks to our main contributors
 *   [Telepahty (⭐1.3k)](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
 *   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
-*   [Telegram-Archive (⭐223)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+*   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 *   [Telegram Nearby Map (⭐1.2k)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 *   [Telegram channels scraper TeleGraphite  (⭐289)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 *   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
@@ -1152,6 +1153,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
+*   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
 *   [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Atlas](https://atlas.co)

@@ -334,7 +334,7 @@ Use these hashtags in search to filter out the tools
 *   [FormX.ai](https://formx.ai/) - Automated data extraction from invoices/contracts. `#free`
 *   [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
 *   [looot](https://looot.ai/) - One API key and prepaid balance for about 2,500 data endpoints: work email, phone, company enrichment, Google search, web pages. Add api.looot.ai/mcp as an MCP server in Claude, ChatGPT or Cursor. `#paid` `#mcp`
-*   [ParlayAPI MCP (⭐0)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
+*   [ParlayAPI MCP (⭐1)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 *   [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
 *   [Rows](https://rows.com/) - Redefined spreadsheet for team data analysis. `#free`
 *   [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. `#freemium`
@@ -423,7 +423,7 @@ Use these hashtags in search to filter out the tools
 *   [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
 *   [AI Router](https://ai-router.dev) - Hosted OpenAI-compatible API relay with unified multi-model access, personal API keys, and per-key usage visibility. `#freemium`
 *   [aiXcoder](https://www.aixcoder.com/) - Chinese deep learning software dev assistant. `#freemium`
-*   [Archcore (⭐68)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
+*   [Archcore (⭐71)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
 *   [AskCodi](https://www.askcodi.com/) - Code generation and refactoring assistant. `#free`
 *   [Augment Code](https://augmentcode.com/) - Industry-leading context engine for developers. `#paid`
 *   [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
@@ -439,7 +439,7 @@ Use these hashtags in search to filter out the tools
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
 *   [Codex CLI (⭐130k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
-*   [Codex Quota Overlay (⭐3)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
+*   [Codex Quota Overlay (⭐4)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
 *   [codex-profiles (⭐186)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
@@ -511,6 +511,7 @@ Use these hashtags in search to filter out the tools
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [SandBase CLI (⭐185)](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge for OpenAI-compatible access to 2,000+ AI models through usage-based pricing and a free plan. `#freemium` `#opensource`
 *   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
+*   [SitePatent](https://sitepatent.com/) - Discovery directory for newly launched startups, SaaS tools and online products, with a free read-only remote MCP server (<https://sitepatent.com/api/mcp>) that lets AI assistants search listings, read full profiles and find alternatives, no API key. `#free` `#mcp`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
@@ -1137,6 +1138,7 @@ Use these hashtags in search to filter out the tools
 ## Social Media
 
 *   [Autoposting MCP](https://autoposting.ai/) - MCP server for social content creation, drafts, scheduling and publishing to connected accounts; hosted backend is paid SaaS. `#paid` `#mcp`
+*   [BulkPublish](https://www.bulkpublish.com/) - Schedule and publish posts to 15 social platforms from one dashboard, API or hosted MCP server for AI agents. `#freemium` `#mcp`
 *   [Jev Social](https://socai-io.github.io/jev-social/) - Local-first social research agent that uses Jev and socai to capture Instagram, TikTok, and LinkedIn evidence in Chrome. `#opensource`
 *   [OpenSparta](https://opensparta.com/) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. `#freemium` `#social-media`
 *   [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker `#free`
@@ -1251,7 +1253,7 @@ Use these hashtags in search to filter out the tools
 *   [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
 *   [Runway Gen-3](https://runwayml.com/) - Latest generation of AI video creation with improved realism and control `#freemium`
 *   [Runway ML](https://runwayml.com/) - AI-powered video editing and generation platform with advanced features. `#freemium`
-*   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 studio for 30-second video requests with free prompt planners, one-time paid packs, an eligibility-limited first trial, and an account-scoped generation API. `#paid`
+*   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 video studio with motion guidance, free prompt planners and Brand Canvas text branding with PNG/ZIP export; generation uses one-time credit packs. `#paid`
 *   [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
 *   [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or course into up to 20 vertical 9:16 shorts with word-by-word captions. `#freemium`
 *   [SkyReels](https://skyreels.ai/) - One-click text-to-animation platform. `#freemium`

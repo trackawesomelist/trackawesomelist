@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### AI / Diagnostics
+
+*   [mrwatts88/ghost.nvim (⭐2)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [RazikSF/lumina-themes (⭐0)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
+
+### Startup / Cursorline
+
+*   [hawknewton/matrix-splash.nvim (⭐1)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Plugin Manager
@@ -116,7 +130,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [antosha417/nvim-lsp-file-operations (⭐435)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
+*   [antosha417/nvim-lsp-file-operations (⭐442)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
 *   [carldaws/miser.nvim (⭐32)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 
 ### AI / Diagnostics
@@ -138,7 +152,7 @@ Collections of awesome neovim plugins.
 
 ### UI / OS-specific
 
-*   [simifalaye/minibuffer.nvim (⭐143)](https://github.com/simifalaye/minibuffer.nvim) - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
+*   [simifalaye/minibuffer.nvim (⭐146)](https://github.com/simifalaye/minibuffer.nvim) - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
@@ -180,7 +194,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [rezniqov/soviet.nvim (⭐35)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+*   [rezniqov/soviet.nvim (⭐36)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 
 ### Bars and Lines / Colorscheme Switchers
 
@@ -331,7 +345,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐74)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐76)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [brargenzilian/darcula-solid.nvim](https://codeberg.org/brargenzilian/darcula-solid.nvim) - ***`[TS][Lua]`*** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 
 ### Code Runner / Quickfix

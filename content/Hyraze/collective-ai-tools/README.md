@@ -6,6 +6,16 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 26, 2026](/content/2026/10/26/README.md)
+
+### Developer Tools
+
+*   [SitePatent](https://sitepatent.com/) - Discovery directory for newly launched startups, SaaS tools and online products, with a free read-only remote MCP server (<https://sitepatent.com/api/mcp>) that lets AI assistants search listings, read full profiles and find alternatives, no API key. `#free` `#mcp`
+
+### Social Media
+
+*   [BulkPublish](https://www.bulkpublish.com/) - Schedule and publish posts to 15 social platforms from one dashboard, API or hosted MCP server for AI agents. `#freemium` `#mcp`
+
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
 ### Design
@@ -124,7 +134,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Archcore (⭐68)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
+*   [Archcore (⭐71)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
 *   [Jet Browser (⭐2)](https://github.com/masakaai/jet-browser) - Portable WPE WebKit runtime for agents with isolated Docker sessions, native input, DOM/text reads, fresh screenshots, and ordered JSONL, MCP, and JavaScript SDK interfaces. `#free` `#opensource`
 *   [Masaka for Codex (⭐1)](https://github.com/masakaai/codex-multiple-env) - Local macOS and Linux CLI that keeps each ChatGPT account and workspace in an isolated CODEX\_HOME, shows Codex usage windows, and switches future native Codex sessions without copying tokens. `#free` `#opensource`
 
@@ -175,7 +185,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Video
 
 *   [DoneCut](https://donecut.com/) - Upload raw footage and an AI editor returns a finished YouTube video or Shorts with captions, motion graphics and music. `#paid`
-*   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 studio for 30-second video requests with free prompt planners, one-time paid packs, an eligibility-limited first trial, and an account-scoped generation API. `#paid`
+*   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 video studio with motion guidance, free prompt planners and Brand Canvas text branding with PNG/ZIP export; generation uses one-time credit packs. `#paid`
 *   [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
 *   [VideoGen](https://videogen.io/) - Creates editable product and marketing videos from storyboards, scripts and voiceovers in a browser editor with captions and exports; paid generation credits are required. `#paid` `#video`
 
@@ -275,7 +285,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Codex Quota Overlay (⭐3)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
+*   [Codex Quota Overlay (⭐4)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
 *   [Cortex (⭐3.3k)](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
 *   [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
 *   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
@@ -387,7 +397,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Data & BI
 
-*   [ParlayAPI MCP (⭐0)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
+*   [ParlayAPI MCP (⭐1)](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 
 ## [Sep 04, 2026](/content/2026/09/04/README.md)
 

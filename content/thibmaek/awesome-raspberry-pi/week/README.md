@@ -6,6 +6,28 @@
 
 [ [Daily](/content/thibmaek/awesome-raspberry-pi/README.md) / Weekly / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Tools
+
+*   [nook (⭐0)](https://github.com/achevalier-dev/nook) - Turns a Pi into a shared folder and a network drive on your tailnet, both driven from another machine over SSH, with the disk offered over iSCSI or NBD.
+*   [piscout (⭐2)](https://github.com/MilkteaTW1/piscout) - Windows desktop app that scans the LAN for Raspberry Pis, opens an SSH terminal and remote desktop, shows temperature and load of several Pis, uploads files by drag and drop, and flashes SD cards.
+
+### Projects
+
+*   [Bad Thing of the Edge (⭐45)](https://github.com/Pakequis/Bad-Thing-of-the-Edge-keyboard) - Mechanical gaming keyboard for the left hand, built around a Raspberry Pi Pico.
+*   [Cannvas (⭐4)](https://github.com/mikecann/cannvas) - Family touchscreen dashboard for a portrait TV with an infrared touch frame, with whiteboards, chores, calendar and Home Assistant controls, running on a Raspberry Pi 4 Model B.
+*   [Clock/Calendar Retrofit (⭐10)](https://github.com/Pakequis/Clock_PiW) - Retrofits a broken electronic clock/calendar with a Raspberry Pi Pico W, synced over Wi-Fi via NTP.
+*   [Coffee Edition (⭐0)](https://github.com/ierolsen/coffee-edition-kit) - A two-page newspaper printed every morning by a Raspberry Pi Pico W or Pico 2 W, written overnight by a Claude Code routine, checked by GitHub Actions and streamed to a network printer over IPP.
+*   [MeshSat (⭐93)](https://github.com/meshsat/meshsat) - Off-grid messaging gateway that bridges Meshtastic LoRa, Iridium satellite, cellular SMS, APRS, ZigBee and BLE over a Reticulum routing layer, running as a Docker container on a Raspberry Pi.
+*   [Raspberry Pi TV Simulator (⭐59)](https://github.com/Pakequis/Raspberry-pi-TV-sim) - Simulates a channel change with random video playback on an old tube TV, switching between static noise and composite video.
+*   [Tiny Film Camera (⭐18)](https://github.com/SuveenE/tiny-film-camera) - Open-source digital camera with physical controls, film-inspired looks, a 3D-printed enclosure, and a phone-friendly gallery. Supports Raspberry Pi Zero 2 W.
+*   [VoxRT](https://github.com/VoxRT) - On-device voice AI SDKs for Raspberry Pi, offering wake-word detection, VAD, keyword spotting, and streaming ASR, with a 100 KB wake-word model that runs at 5.3% CPU sustained on a Pi Zero 2 W.
+
+### Useful Apps / Android
+
+*   **Mobile SSH** - SSH, SFTP, port-forwarding and multi-session terminal client for managing Raspberry Pis. [Android](https://play.google.com/store/apps/details?id=io.github.mobile_ssh), [iOS beta](https://testflight.apple.com/join/Ku4JtTEg).
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Tools

@@ -2,9 +2,15 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 588 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 591 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Visual programming
+
+*   [Icybiz](https://icybiz.com/) - Build and publish free websites with a visual editor and hosted pages.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
@@ -16,7 +22,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [Erupt (⭐2.8k)](https://github.com/erupts/erupt) - Annotation-driven Java/Spring Boot admin framework and AI harness. One annotated JPA entity becomes a full admin page with RBAC, Excel import/export and OpenAPI; ships 50+ LLM providers, MCP-native tools and A2A agents configurable from the admin UI. Self-hostable, open source (Java, Apache-2.0).
+*   [Erupt (⭐3.4k)](https://github.com/erupts/erupt) - Annotation-driven Java/Spring Boot admin framework and AI harness. One annotated JPA entity becomes a full admin page with RBAC, Excel import/export and OpenAPI; ships 50+ LLM providers, MCP-native tools and A2A agents configurable from the admin UI. Self-hostable, open source (Java, Apache-2.0).
 
 ### Visual programming
 
@@ -56,7 +62,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [Heym (⭐1.2k)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+*   [Heym (⭐1.3k)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 
 ### Automation
 
@@ -174,7 +180,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐9k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐9.3k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 
@@ -284,7 +290,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐61k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐62k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 

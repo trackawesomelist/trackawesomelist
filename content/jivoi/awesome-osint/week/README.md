@@ -6,6 +6,16 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Social Media Tools / Twitter
+
+*   [TweetAPI Twitter ID Finder](https://tweetapi.com/tools/twitter-id-finder) - Find the user ID behind a Twitter username or profile link, or look up the current username for an ID. Free, no signup.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Speciality Search Engines
@@ -60,7 +70,7 @@
 
 ### Google Dorks Tools
 
-*   [DorkEye (⭐149)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+*   [DorkEye (⭐155)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 
 ### Speciality Search Engines
 
@@ -68,7 +78,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram-Archive (⭐223)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+*   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 *   [tg-chat-dump (⭐4)](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
 *   [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 *   [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.

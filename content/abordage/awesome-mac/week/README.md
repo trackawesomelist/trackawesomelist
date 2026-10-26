@@ -6,20 +6,26 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 [ [Daily](/content/abordage/awesome-mac/README.md) / Weekly / [Overview](/content/abordage/awesome-mac/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Browsers / Utilities
+
+*   [ysalitrynskyi/stedding-browser (⭐79)](https://github.com/ysalitrynskyi/stedding-browser) — Arc-style Chromium browser with Spaces, pinned tabs and folders ☆`65`
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [benord-labs/frink (⭐94)](https://github.com/benord-labs/frink) — Desktop-first app for parallel agents and triggered multi-step workflows ☆`142`
+*   [benord-labs/frink (⭐94)](https://github.com/benord-labs/frink) — Desktop-first app for parallel agents and triggered multi-step workflows ☆`171`
 *   [ateymoori/oh-my-android (⭐60)](https://github.com/ateymoori/oh-my-android) — Control panel for the Android Emulator with one-click toggles and an MCP server ☆`69`
 
 ### File Management / File Utilities
 
-*   [glimapp/glim (⭐24)](https://github.com/glimapp/glim) — macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ☆`24`
+*   [glimapp/glim (⭐24)](https://github.com/glimapp/glim) — macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ☆`29`
 
 ### 🏆 Top 50 by Stars / Shell Utilities
 
-*   [agalwood/Motrix (⭐57k)](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`57,313`
+*   [agalwood/Motrix (⭐57k)](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`57,414`
 
 ### Security / System Security
 
@@ -27,47 +33,47 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Window Management / Shell Utilities
 
-*   [tumingke0/LayoutKeeper (⭐23)](https://github.com/tumingke0/LayoutKeeper) — Restores window positions and Spaces when an external monitor is reconnected ☆`23`
+*   [tumingke0/LayoutKeeper (⭐23)](https://github.com/tumingke0/LayoutKeeper) — Restores window positions and Spaces when an external monitor is reconnected ☆`25`
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Communication / Collaboration
 
-*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,919`
+*   [blendbyte/Textual (⭐1.9k)](https://github.com/blendbyte/Textual) — Textual is a native IRC client for macOS ☆`1,920`
 
 ### System Tools / System Utilities
 
-*   [tamia6/AppDuo (⭐109)](https://github.com/tamia6/AppDuo) — Native macOS app cloner with custom names, icons, and separate data directories. ☆`109`
+*   [tamia6/AppDuo (⭐109)](https://github.com/tamia6/AppDuo) — Native macOS app cloner with custom names, icons, and separate data directories. ☆`110`
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
 ### File Management / File Utilities
 
-*   [adileo/squirreldisk (⭐2k)](https://github.com/adileo/squirreldisk) — Free, open-source disk usage analyzer for macOS, Windows and Linux. See what fills your disk, servers (SSH) and cloud storage in an animated sunburst or treemap, and clean it up safely. A DaisyDisk, WizTree and WinDirStat alternative, in native Rust ☆`2,056`
+*   [adileo/squirreldisk (⭐2k)](https://github.com/adileo/squirreldisk) — Free, open-source disk usage analyzer for macOS, Windows and Linux. See what fills your disk, servers (SSH) and cloud storage in an animated sunburst or treemap, and clean it up safely. A DaisyDisk, WizTree and WinDirStat alternative, in native Rust ☆`2,072`
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Design & Graphics / Image Tools
 
-*   [joshlin2201/itspaint (⭐53)](https://github.com/joshlin2201/itspaint) — MS Paint for the Mac with screenshot markup and pixel-art tools ☆`64`
+*   [joshlin2201/itspaint (⭐53)](https://github.com/joshlin2201/itspaint) — MS Paint for the Mac with screenshot markup and pixel-art tools ☆`65`
 
 ### Productivity / Clipboard
 
-*   [nathan-poncet/whisk (⭐31)](https://github.com/nathan-poncet/whisk) — Paste-style clipboard manager with pins, search operators and rich previews ☆`31`
+*   [nathan-poncet/whisk (⭐31)](https://github.com/nathan-poncet/whisk) — Paste-style clipboard manager with pins, search operators and rich previews ☆`32`
 
 ### System Tools / Desktop & System
 
-*   [Silvertree2010/ApolloShell (⭐108)](https://github.com/Silvertree2010/ApolloShell) — Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre ☆`102`
+*   [Silvertree2010/ApolloShell (⭐108)](https://github.com/Silvertree2010/ApolloShell) — Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre ☆`110`
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Design & Graphics / Screen Capture
 
-*   [apoorvdarshan/TetherShot (⭐19)](https://github.com/apoorvdarshan/TetherShot) — Pixel-perfect iPhone screen capture over USB or Wi-Fi ☆`19`
+*   [apoorvdarshan/TetherShot (⭐19)](https://github.com/apoorvdarshan/TetherShot) — Pixel-perfect iPhone screen capture over USB or Wi-Fi ☆`20`
 
 ### Developer Tools / API Tools
 
-*   [RockxyApp/Rockxy (⭐1.4k)](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,439`
+*   [RockxyApp/Rockxy (⭐1.4k)](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,443`
 
 ### Developer Tools / Developer Utilities
 
@@ -81,19 +87,19 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### System Tools / Desktop & System
 
-*   [matthewrball/abendrot (⭐23)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`24`
+*   [matthewrball/abendrot (⭐23)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`25`
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Reading & Writing / Note-taking
 
-*   [saga-soft/novelWriter (⭐3.2k)](https://github.com/saga-soft/novelWriter) — Plain text editor for writing novels ☆`3,191`
+*   [saga-soft/novelWriter (⭐3.2k)](https://github.com/saga-soft/novelWriter) — Plain text editor for writing novels ☆`3,193`
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
 ### Audio & Video / Editors
 
-*   [cartesiancs/cartcut (⭐814)](https://github.com/cartesiancs/cartcut) — Video editor with motion effects and layered editing ☆`817`
+*   [cartesiancs/cartcut (⭐814)](https://github.com/cartesiancs/cartcut) — Video editor with motion effects and layered editing ☆`818`
 
 ### Developer Tools / Developer Utilities
 
@@ -109,7 +115,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Design & Graphics / Image Tools
 
-*   [szTheory/exifcleaner (⭐2.7k)](https://github.com/szTheory/exifcleaner) — Cross-platform desktop GUI app to clean image metadata ☆`2,791`
+*   [szTheory/exifcleaner (⭐2.7k)](https://github.com/szTheory/exifcleaner) — Cross-platform desktop GUI app to clean image metadata ☆`2,800`
 
 ### Networking / Remote Access
 
@@ -127,7 +133,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Productivity / Clipboard
 
-*   [hukdoesn/Nimclip (⭐74)](https://github.com/hukdoesn/Nimclip) — Native local-only clipboard history manager for macOS ☆`74`
+*   [hukdoesn/Nimclip (⭐74)](https://github.com/hukdoesn/Nimclip) — Native local-only clipboard history manager for macOS ☆`75`
 
 ### System Tools / System Utilities
 
@@ -143,35 +149,35 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Productivity / Clipboard
 
-*   [Clipy/Clipy (⭐8.9k)](https://github.com/Clipy/Clipy) — Clipboard extension app for macOS. ☆`8,933`
+*   [Clipy/Clipy (⭐8.9k)](https://github.com/Clipy/Clipy) — Clipboard extension app for macOS. ☆`8,936`
 
 ### System Tools / System Utilities
 
-*   [yagcioglutoprak/dusty (⭐72)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`76`
+*   [yagcioglutoprak/dusty (⭐72)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`75`
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Window Management / Shell Utilities
 
-*   [mrkai77/Loop (⭐12k)](https://github.com/mrkai77/Loop) — Window management made elegant. ☆`11,853`
+*   [mrkai77/Loop (⭐12k)](https://github.com/mrkai77/Loop) — Window management made elegant. ☆`11,869`
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Design & Graphics / Image Tools
 
-*   [ImageOptim/ImageOptim (⭐10k)](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`10,012`
+*   [ImageOptim/ImageOptim (⭐10k)](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`10,016`
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### System Tools / QuickLook Plugins
 
-*   [sbarex/SourceCodeSyntaxHighlight (⭐4.3k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) — Quick Look syntax highlighting ☆`4,318`
+*   [sbarex/SourceCodeSyntaxHighlight (⭐4.3k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) — Quick Look syntax highlighting ☆`4,319`
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### System Tools / Menu Bar
 
-*   [dwarvesf/hidden (⭐15k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`15,248`
+*   [dwarvesf/hidden (⭐15k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`15,271`
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -183,13 +189,13 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Developer Tools / Databases
 
-*   [nullptrlabs/pgmodeler (⭐3.6k)](https://github.com/nullptrlabs/pgmodeler) — Data modeling tool for PostgreSQL ☆`3,606`
+*   [nullptrlabs/pgmodeler (⭐3.6k)](https://github.com/nullptrlabs/pgmodeler) — Data modeling tool for PostgreSQL ☆`3,607`
 
 ## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
 
 ### Productivity / Task Management
 
-*   [super-productivity/super-productivity (⭐23k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`23,104`
+*   [super-productivity/super-productivity (⭐23k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`23,150`
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
@@ -199,17 +205,17 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Design & Graphics / Image Tools
 
-*   [MochiDiffusion/MochiDiffusion (⭐8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,972`
+*   [MochiDiffusion/MochiDiffusion (⭐8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,976`
 
 ### Developer Tools / Developer Utilities
 
-*   [intitni/CopilotForXcode (⭐8.2k)](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,208`
-*   [twostraws/ControlRoom (⭐6.1k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,116`
-*   [okwasniewski/MiniSim (⭐3.2k)](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`3,194`
+*   [intitni/CopilotForXcode (⭐8.2k)](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,207`
+*   [twostraws/ControlRoom (⭐6.1k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,118`
+*   [okwasniewski/MiniSim (⭐3.2k)](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`3,195`
 
 ### Developer Tools / Virtualization
 
-*   [insidegui/VirtualBuddy (⭐8.8k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`8,847`
+*   [insidegui/VirtualBuddy (⭐8.8k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`8,857`
 
 ### Reading & Writing / Note-taking
 
@@ -217,7 +223,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### System Tools / Package Managers
 
-*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`12,400`
+*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`12,405`
 
 ### Credits / Shell Utilities
 
@@ -227,124 +233,124 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Productivity / Automation
 
-*   [asmvik/skhd (⭐8.1k)](https://github.com/asmvik/skhd) — Simple hotkey daemon for macOS ☆`8,142`
+*   [asmvik/skhd (⭐8.1k)](https://github.com/asmvik/skhd) — Simple hotkey daemon for macOS ☆`8,145`
 
 ### Window Management / Shell Utilities
 
-*   [asmvik/yabai (⭐30k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`29,754`
+*   [asmvik/yabai (⭐30k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`29,770`
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### 🏆 Top 50 by Stars / Shell Utilities
 
-*   [mifi/lossless-cut (⭐44k)](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`45,123`
-*   [jellyfin/jellyfin (⭐58k)](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`58,479`
-*   [iina/iina (⭐47k)](https://github.com/iina/iina) — The modern video player for macOS. ☆`46,886`
-*   [mpv-player/mpv (⭐37k)](https://github.com/mpv-player/mpv) — Command line media player ☆`37,538`
-*   [pear-devs/pear-desktop (⭐34k)](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`33,883`
-*   [mastodon/mastodon (⭐50k)](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`50,441`
-*   [mattermost/mattermost (⭐39k)](https://github.com/mattermost/mattermost) — Open source platform for team collaboration ☆`39,408`
-*   [jgraph/drawio-desktop (⭐63k)](https://github.com/jgraph/drawio-desktop) — Official electron build of draw\.io ☆`63,633`
-*   [upscayl/upscayl (⭐50k)](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`50,926`
-*   [obsproject/obs-studio (⭐77k)](https://github.com/obsproject/obs-studio) — Free software for streaming and recording ☆`78,002`
-*   [flameshot-org/flameshot (⭐31k)](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`31,304`
-*   [hoppscotch/hoppscotch (⭐81k)](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem ☆`80,676`
-*   [Kong/insomnia (⭐40k)](https://github.com/Kong/insomnia) — Cross-platform API client for REST, GraphQL, gRPC ☆`40,073`
-*   [electron/electron (⭐123k)](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`123,489`
-*   [tauri-apps/tauri (⭐112k)](https://github.com/tauri-apps/tauri) — Build fast desktop apps with web frontend ☆`112,153`
-*   [ionic-team/ionic-framework (⭐53k)](https://github.com/ionic-team/ionic-framework) — Cross-platform UI toolkit for apps ☆`52,717`
-*   [nwjs/nw.js (⭐41k)](https://github.com/nwjs/nw.js) — Write apps with Node.js modules and web technologies ☆`41,142`
-*   [microsoft/vscode (⭐194k)](https://github.com/microsoft/vscode) — Visual Studio Code ☆`194,226`
-*   [neovim/neovim (⭐103k)](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`103,143`
-*   [zed-industries/zed (⭐92k)](https://github.com/zed-industries/zed) — High-performance multiplayer code editor ☆`92,116`
-*   [helix-editor/helix (⭐47k)](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`46,669`
-*   [vim/vim (⭐41k)](https://github.com/vim/vim) — The official Vim repository ☆`41,161`
-*   [lapce/lapce (⭐39k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`38,953`
-*   [surrealdb/surrealdb (⭐33k)](https://github.com/surrealdb/surrealdb) — Distributed document-graph database ☆`33,225`
-*   [WerWolv/ImHex (⭐55k)](https://github.com/WerWolv/ImHex) — Hex editor for reverse engineers and programmers ☆`55,545`
-*   [utmapp/UTM (⭐36k)](https://github.com/utmapp/UTM) — Virtual machines for iOS and macOS ☆`36,501`
-*   [localsend/localsend (⭐95k)](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`95,376`
-*   [soimort/you-get (⭐57k)](https://github.com/soimort/you-get) — Dumb downloader that scrapes the web ☆`56,859`
-*   [qbittorrent/qBittorrent (⭐41k)](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`41,064`
-*   [GyulyVGC/sniffnet (⭐41k)](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your network traffic ☆`41,682`
-*   [shadowsocks/ShadowsocksX-NG (⭐33k)](https://github.com/shadowsocks/ShadowsocksX-NG) — Shadowsocks GUI client for mac OS ☆`32,867`
-*   [hiddify/hiddify-app (⭐33k)](https://github.com/hiddify/hiddify-app) — Multi-platform auto-proxy client ☆`33,398`
-*   [rustdesk/rustdesk (⭐126k)](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative ☆`126,758`
-*   [LizardByte/Sunshine (⭐42k)](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`42,528`
-*   [AppFlowy-IO/AppFlowy (⭐77k)](https://github.com/AppFlowy-IO/AppFlowy) — AI collaborative workspace, Notion alt ☆`77,697`
-*   [toeverything/AFFiNE (⭐74k)](https://github.com/toeverything/AFFiNE) — Next-gen knowledge base for planning ☆`73,783`
-*   [laurent22/joplin (⭐57k)](https://github.com/laurent22/joplin) — Privacy-focused note taking with sync ☆`56,853`
-*   [logseq/logseq (⭐45k)](https://github.com/logseq/logseq) — Privacy-first knowledge management platform ☆`45,348`
-*   [RSSNext/Folo (⭐39k)](https://github.com/RSSNext/Folo) — Folo is the AI RSS Reader ☆`39,159`
-*   [Homebrew/brew (⭐50k)](https://github.com/Homebrew/brew) — The Package Manager for Everywhere ☆`50,091`
-*   [exelban/stats (⭐42k)](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`42,770`
-*   [balena-io/etcher (⭐35k)](https://github.com/balena-io/etcher) — Flash OS images to SD cards & USB drives, safely and easily. ☆`34,574`
-*   [MonitorControl/MonitorControl (⭐34k)](https://github.com/MonitorControl/MonitorControl) — Control external display brightness ☆`34,548`
-*   [waydabber/BetterDisplay (⭐34k)](https://github.com/waydabber/BetterDisplay) — HiDPI scaling and display control ☆`34,178`
-*   [Eugeny/tabby (⭐75k)](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`75,096`
-*   [alacritty/alacritty (⭐66k)](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`66,026`
-*   [ghostty-org/ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) — Fast GPU-accelerated terminal emulator ☆`62,561`
-*   [kovidgoyal/kitty (⭐35k)](https://github.com/kovidgoyal/kitty) — Cross-platform GPU-based terminal emulator ☆`35,409`
-*   [rxhanson/Rectangle (⭐30k)](https://github.com/rxhanson/Rectangle) — Window management with shortcuts and snap ☆`30,140`
+*   [mifi/lossless-cut (⭐44k)](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`45,240`
+*   [jellyfin/jellyfin (⭐58k)](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`58,598`
+*   [iina/iina (⭐47k)](https://github.com/iina/iina) — The modern video player for macOS. ☆`46,911`
+*   [mpv-player/mpv (⭐37k)](https://github.com/mpv-player/mpv) — Command line media player ☆`37,565`
+*   [pear-devs/pear-desktop (⭐34k)](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`33,907`
+*   [mastodon/mastodon (⭐50k)](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`50,450`
+*   [mattermost/mattermost (⭐39k)](https://github.com/mattermost/mattermost) — Open source platform for team collaboration ☆`39,432`
+*   [jgraph/drawio-desktop (⭐63k)](https://github.com/jgraph/drawio-desktop) — Official electron build of draw\.io ☆`63,651`
+*   [upscayl/upscayl (⭐50k)](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`51,038`
+*   [obsproject/obs-studio (⭐77k)](https://github.com/obsproject/obs-studio) — Free software for streaming and recording ☆`78,215`
+*   [flameshot-org/flameshot (⭐31k)](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`31,323`
+*   [hoppscotch/hoppscotch (⭐81k)](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem ☆`80,682`
+*   [Kong/insomnia (⭐40k)](https://github.com/Kong/insomnia) — Cross-platform API client for REST, GraphQL, gRPC ☆`40,077`
+*   [electron/electron (⭐123k)](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`123,544`
+*   [tauri-apps/tauri (⭐112k)](https://github.com/tauri-apps/tauri) — Build fast desktop apps with web frontend ☆`112,192`
+*   [ionic-team/ionic-framework (⭐53k)](https://github.com/ionic-team/ionic-framework) — Cross-platform UI toolkit for apps ☆`52,718`
+*   [nwjs/nw.js (⭐41k)](https://github.com/nwjs/nw.js) — Write apps with Node.js modules and web technologies ☆`41,145`
+*   [microsoft/vscode (⭐194k)](https://github.com/microsoft/vscode) — Visual Studio Code ☆`194,309`
+*   [neovim/neovim (⭐103k)](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`103,167`
+*   [zed-industries/zed (⭐92k)](https://github.com/zed-industries/zed) — High-performance multiplayer code editor ☆`92,187`
+*   [helix-editor/helix (⭐47k)](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`46,692`
+*   [vim/vim (⭐41k)](https://github.com/vim/vim) — The official Vim repository ☆`41,166`
+*   [lapce/lapce (⭐39k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`38,959`
+*   [surrealdb/surrealdb (⭐33k)](https://github.com/surrealdb/surrealdb) — Distributed document-graph database ☆`33,229`
+*   [WerWolv/ImHex (⭐55k)](https://github.com/WerWolv/ImHex) — Hex editor for reverse engineers and programmers ☆`55,565`
+*   [utmapp/UTM (⭐36k)](https://github.com/utmapp/UTM) — Virtual machines for iOS and macOS ☆`36,532`
+*   [localsend/localsend (⭐95k)](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`95,608`
+*   [soimort/you-get (⭐57k)](https://github.com/soimort/you-get) — Dumb downloader that scrapes the web ☆`56,861`
+*   [qbittorrent/qBittorrent (⭐41k)](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`41,118`
+*   [GyulyVGC/sniffnet (⭐41k)](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your network traffic ☆`41,694`
+*   [shadowsocks/ShadowsocksX-NG (⭐33k)](https://github.com/shadowsocks/ShadowsocksX-NG) — Shadowsocks GUI client for mac OS ☆`32,868`
+*   [hiddify/hiddify-app (⭐33k)](https://github.com/hiddify/hiddify-app) — Multi-platform auto-proxy client ☆`33,428`
+*   [rustdesk/rustdesk (⭐126k)](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative ☆`127,053`
+*   [LizardByte/Sunshine (⭐43k)](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`42,637`
+*   [AppFlowy-IO/AppFlowy (⭐77k)](https://github.com/AppFlowy-IO/AppFlowy) — AI collaborative workspace, Notion alt ☆`77,770`
+*   [toeverything/AFFiNE (⭐74k)](https://github.com/toeverything/AFFiNE) — Next-gen knowledge base for planning ☆`73,846`
+*   [laurent22/joplin (⭐57k)](https://github.com/laurent22/joplin) — Privacy-focused note taking with sync ☆`56,877`
+*   [logseq/logseq (⭐45k)](https://github.com/logseq/logseq) — Privacy-first knowledge management platform ☆`45,377`
+*   [RSSNext/Folo (⭐39k)](https://github.com/RSSNext/Folo) — Folo is the AI RSS Reader ☆`39,169`
+*   [Homebrew/brew (⭐50k)](https://github.com/Homebrew/brew) — The Package Manager for Everywhere ☆`50,106`
+*   [exelban/stats (⭐42k)](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`42,810`
+*   [balena-io/etcher (⭐35k)](https://github.com/balena-io/etcher) — Flash OS images to SD cards & USB drives, safely and easily. ☆`34,592`
+*   [MonitorControl/MonitorControl (⭐34k)](https://github.com/MonitorControl/MonitorControl) — Control external display brightness ☆`34,568`
+*   [waydabber/BetterDisplay (⭐34k)](https://github.com/waydabber/BetterDisplay) — HiDPI scaling and display control ☆`34,226`
+*   [Eugeny/tabby (⭐75k)](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`75,114`
+*   [alacritty/alacritty (⭐66k)](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`66,046`
+*   [ghostty-org/ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) — Fast GPU-accelerated terminal emulator ☆`62,596`
+*   [kovidgoyal/kitty (⭐35k)](https://github.com/kovidgoyal/kitty) — Cross-platform GPU-based terminal emulator ☆`35,427`
+*   [rxhanson/Rectangle (⭐30k)](https://github.com/rxhanson/Rectangle) — Window management with shortcuts and snap ☆`30,155`
 
 ### Audio & Video / Editors
 
-*   [HandBrake/HandBrake (⭐25k)](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`24,768`
-*   [mltframework/shotcut (⭐15k)](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`15,485`
+*   [HandBrake/HandBrake (⭐25k)](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`24,786`
+*   [mltframework/shotcut (⭐15k)](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`15,502`
 
 ### Audio & Video / Players
 
-*   [xbmc/xbmc (⭐21k)](https://github.com/xbmc/xbmc) — Kodi - open source home theater and media center software ☆`21,374`
-*   [FreeTubeApp/FreeTube (⭐22k)](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`22,124`
-*   [videolan/vlc (⭐20k)](https://github.com/videolan/vlc) — VLC media player ☆`20,202`
-*   [ytmdesktop/ytmdesktop (⭐6.6k)](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`6,668`
+*   [xbmc/xbmc (⭐21k)](https://github.com/xbmc/xbmc) — Kodi - open source home theater and media center software ☆`21,386`
+*   [FreeTubeApp/FreeTube (⭐22k)](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`22,142`
+*   [videolan/vlc (⭐20k)](https://github.com/videolan/vlc) — VLC media player ☆`20,229`
+*   [ytmdesktop/ytmdesktop (⭐6.6k)](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`6,675`
 
 ### Audio & Video / Production
 
-*   [audacity/audacity (⭐19k)](https://github.com/audacity/audacity) — Audio Editor ☆`18,817`
-*   [musescore/MuseScore (⭐15k)](https://github.com/musescore/MuseScore) — Open source music notation software ☆`15,290`
-*   [mixxxdj/mixxx (⭐7.3k)](https://github.com/mixxxdj/mixxx) — Free DJ software for live mixes ☆`7,305`
-*   [Ardour/ardour (⭐5.4k)](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`5,373`
-*   [vincehi/pulp (⭐108)](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`108`
+*   [audacity/audacity (⭐19k)](https://github.com/audacity/audacity) — Audio Editor ☆`18,833`
+*   [musescore/MuseScore (⭐15k)](https://github.com/musescore/MuseScore) — Open source music notation software ☆`15,301`
+*   [mixxxdj/mixxx (⭐7.3k)](https://github.com/mixxxdj/mixxx) — Free DJ software for live mixes ☆`7,313`
+*   [Ardour/ardour (⭐5.4k)](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`5,381`
+*   [vincehi/pulp (⭐108)](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`109`
 
 ### Audio & Video / Utilities
 
-*   [popcorntime/popcorntime (⭐11k)](https://github.com/popcorntime/popcorntime) — All-in-one streaming media player ☆`10,696`
-*   [metabrainz/picard (⭐5.3k)](https://github.com/metabrainz/picard) — Cross-platform music tagger with MusicBrainz ☆`5,328`
+*   [popcorntime/popcorntime (⭐11k)](https://github.com/popcorntime/popcorntime) — All-in-one streaming media player ☆`10,699`
+*   [metabrainz/picard (⭐5.3k)](https://github.com/metabrainz/picard) — Cross-platform music tagger with MusicBrainz ☆`5,333`
 
 ### Browsers / Utilities
 
-*   [ungoogled-software/ungoogled-chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium) — Google Chromium, sans integration with Google ☆`28,085`
-*   [brave/brave-browser (⭐24k)](https://github.com/brave/brave-browser) — Brave browser for Android, iOS, Linux, macOS, Windows. ☆`23,949`
-*   [qutebrowser/qutebrowser (⭐12k)](https://github.com/qutebrowser/qutebrowser) — A keyboard-driven, vim-like browser based on Python and Qt. ☆`11,730`
-*   [minbrowser/min (⭐9.2k)](https://github.com/minbrowser/min) — A fast, minimal browser that protects your privacy ☆`9,222`
+*   [ungoogled-software/ungoogled-chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium) — Google Chromium, sans integration with Google ☆`28,100`
+*   [brave/brave-browser (⭐24k)](https://github.com/brave/brave-browser) — Brave browser for Android, iOS, Linux, macOS, Windows. ☆`23,984`
+*   [qutebrowser/qutebrowser (⭐12k)](https://github.com/qutebrowser/qutebrowser) — A keyboard-driven, vim-like browser based on Python and Qt. ☆`11,728`
+*   [minbrowser/min (⭐9.2k)](https://github.com/minbrowser/min) — A fast, minimal browser that protects your privacy ☆`9,224`
 *   [getstation/desktop-app (⭐1.7k)](https://github.com/getstation/desktop-app) — One app to rule them all! ☆`1,683`
 
 ### Communication / Collaboration
 
-*   [signalapp/Signal-Desktop (⭐17k)](https://github.com/signalapp/Signal-Desktop) — A private messenger for Windows, macOS, and Linux. ☆`16,612`
-*   [misskey-dev/misskey (⭐11k)](https://github.com/misskey-dev/misskey) — Free and open microblogging platform ☆`11,355`
-*   [ferdium/ferdium-app (⭐4.7k)](https://github.com/ferdium/ferdium-app) — All your services in one place, built by the community ☆`4,746`
+*   [signalapp/Signal-Desktop (⭐17k)](https://github.com/signalapp/Signal-Desktop) — A private messenger for Windows, macOS, and Linux. ☆`16,619`
+*   [misskey-dev/misskey (⭐11k)](https://github.com/misskey-dev/misskey) — Free and open microblogging platform ☆`11,359`
+*   [ferdium/ferdium-app (⭐4.7k)](https://github.com/ferdium/ferdium-app) — All your services in one place, built by the community ☆`4,750`
 
 ### Communication / Email Clients
 
-*   [Foundry376/Mailspring (⭐18k)](https://github.com/Foundry376/Mailspring) — Beautiful open source mail client ☆`17,938`
-*   [tutao/tutanota (⭐8k)](https://github.com/tutao/tutanota) — Encrypted email service with strong privacy focus ☆`8,040`
-*   [skiff-org/skiff-apps (⭐1k)](https://github.com/skiff-org/skiff-apps) — End-to-end encrypted Mail, Pages, and Drive ☆`1,008`
+*   [Foundry376/Mailspring (⭐18k)](https://github.com/Foundry376/Mailspring) — Beautiful open source mail client ☆`17,943`
+*   [tutao/tutanota (⭐8k)](https://github.com/tutao/tutanota) — Encrypted email service with strong privacy focus ☆`8,046`
+*   [skiff-org/skiff-apps (⭐1k)](https://github.com/skiff-org/skiff-apps) — End-to-end encrypted Mail, Pages, and Drive ☆`1,010`
 
 ### Design & Graphics / Design Tools
 
-*   [darktable-org/darktable (⭐13k)](https://github.com/darktable-org/darktable) — Open source photography workflow app ☆`13,315`
-*   [KDE/krita (⭐11k)](https://github.com/KDE/krita) — Free cross-platform digital art application ☆`10,615`
-*   [RawTherapee/RawTherapee (⭐4.2k)](https://github.com/RawTherapee/RawTherapee) — A powerful cross-platform raw photo processing program ☆`4,247`
+*   [darktable-org/darktable (⭐13k)](https://github.com/darktable-org/darktable) — Open source photography workflow app ☆`13,328`
+*   [KDE/krita (⭐11k)](https://github.com/KDE/krita) — Free cross-platform digital art application ☆`10,634`
+*   [RawTherapee/RawTherapee (⭐4.2k)](https://github.com/RawTherapee/RawTherapee) — A powerful cross-platform raw photo processing program ☆`4,251`
 
 ### Design & Graphics / Screen Capture
 
-*   [keycastr/keycastr (⭐15k)](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`15,171`
+*   [keycastr/keycastr (⭐15k)](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`15,174`
 
 ### Developer Tools / API Tools
 
-*   [mountain-loop/yaak (⭐19k)](https://github.com/mountain-loop/yaak) — Intuitive API client for REST and GraphQL ☆`19,352`
+*   [mountain-loop/yaak (⭐19k)](https://github.com/mountain-loop/yaak) — Intuitive API client for REST and GraphQL ☆`19,361`
 
 ### Developer Tools / App Frameworks
 
@@ -352,35 +358,35 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Developer Tools / Code Editors
 
-*   [CodeEditApp/CodeEdit (⭐23k)](https://github.com/CodeEditApp/CodeEdit) — Native macOS code editor, free and open ☆`23,083`
-*   [dail8859/NotepadNext (⭐15k)](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`14,725`
-*   [macvim-dev/macvim (⭐7.9k)](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,886`
-*   [apache/netbeans (⭐3.1k)](https://github.com/apache/netbeans) — Apache NetBeans ☆`3,144`
+*   [CodeEditApp/CodeEdit (⭐23k)](https://github.com/CodeEditApp/CodeEdit) — Native macOS code editor, free and open ☆`23,087`
+*   [dail8859/NotepadNext (⭐15k)](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`14,726`
+*   [macvim-dev/macvim (⭐7.9k)](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,889`
+*   [apache/netbeans (⭐3.1k)](https://github.com/apache/netbeans) — Apache NetBeans ☆`3,143`
 
 ### Developer Tools / Databases
 
-*   [sqlitebrowser/sqlitebrowser (⭐25k)](https://github.com/sqlitebrowser/sqlitebrowser) — DB Browser for SQLite ☆`24,734`
-*   [beekeeper-studio/beekeeper-studio (⭐24k)](https://github.com/beekeeper-studio/beekeeper-studio) — SQL client for MySQL, Postgres, SQLite ☆`23,788`
-*   [trailbaseio/trailbase (⭐5.7k)](https://github.com/trailbaseio/trailbase) — Fast app server with SQLite and auth ☆`5,720`
+*   [sqlitebrowser/sqlitebrowser (⭐25k)](https://github.com/sqlitebrowser/sqlitebrowser) — DB Browser for SQLite ☆`24,739`
+*   [beekeeper-studio/beekeeper-studio (⭐24k)](https://github.com/beekeeper-studio/beekeeper-studio) — SQL client for MySQL, Postgres, SQLite ☆`23,791`
+*   [trailbaseio/trailbase (⭐5.7k)](https://github.com/trailbaseio/trailbase) — Fast app server with SQLite and auth ☆`5,729`
 *   [antonycourtney/tad (⭐3.5k)](https://github.com/antonycourtney/tad) — A desktop application for viewing and analyzing tabular data ☆`3,492`
 
 ### Developer Tools / Developer Utilities
 
 *   [mjmlio/mjml (⭐18k)](https://github.com/mjmlio/mjml) — MJML: the only framework that makes responsive email easy ☆`18,283`
-*   [insidegui/WWDC (⭐8.7k)](https://github.com/insidegui/WWDC) — The unofficial WWDC app for macOS ☆`8,745`
-*   [XcodesOrg/XcodesApp (⭐8.6k)](https://github.com/XcodesOrg/XcodesApp) — Install and switch Xcode versions easily ☆`8,620`
-*   [massCodeIO/massCode (⭐7.1k)](https://github.com/massCodeIO/massCode) — Local snippets, notes, HTTP client, and developer tools ☆`7,085`
-*   [HexFiend/HexFiend (⭐5.9k)](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,904`
+*   [insidegui/WWDC (⭐8.7k)](https://github.com/insidegui/WWDC) — The unofficial WWDC app for macOS ☆`8,746`
+*   [XcodesOrg/XcodesApp (⭐8.6k)](https://github.com/XcodesOrg/XcodesApp) — Install and switch Xcode versions easily ☆`8,622`
+*   [massCodeIO/massCode (⭐7.1k)](https://github.com/massCodeIO/massCode) — Local snippets, notes, HTTP client, and developer tools ☆`7,088`
+*   [HexFiend/HexFiend (⭐5.9k)](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,907`
 
 ### Developer Tools / Version Control
 
-*   [desktop/desktop (⭐22k)](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`21,990`
+*   [desktop/desktop (⭐22k)](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`22,015`
 
 ### Developer Tools / Virtualization
 
-*   [lima-vm/lima (⭐22k)](https://github.com/lima-vm/lima) — Linux virtual machines, with a focus on running containers ☆`22,160`
-*   [qemu/qemu (⭐14k)](https://github.com/qemu/qemu) — generic and open source machine & userspace emulator and virtualizer ☆`13,910`
-*   [canonical/multipass (⭐9.3k)](https://github.com/canonical/multipass) — Multipass orchestrates virtual Ubuntu instances ☆`9,294`
+*   [lima-vm/lima (⭐22k)](https://github.com/lima-vm/lima) — Linux virtual machines, with a focus on running containers ☆`22,179`
+*   [qemu/qemu (⭐14k)](https://github.com/qemu/qemu) — generic and open source machine & userspace emulator and virtualizer ☆`13,926`
+*   [canonical/multipass (⭐9.3k)](https://github.com/canonical/multipass) — Multipass orchestrates virtual Ubuntu instances ☆`9,301`
 
 ### File Management / File Managers
 
@@ -388,199 +394,198 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### File Management / File Sharing
 
-*   [viarotel-org/escrcpy (⭐12k)](https://github.com/viarotel-org/escrcpy) — Control Android devices with scrcpy GUI ☆`12,161`
-*   [grishka/NearDrop (⭐6.3k)](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`6,310`
+*   [viarotel-org/escrcpy (⭐12k)](https://github.com/viarotel-org/escrcpy) — Control Android devices with scrcpy GUI ☆`12,175`
+*   [grishka/NearDrop (⭐6.3k)](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`6,321`
 
 ### File Management / File Utilities
 
-*   [tfeldmann/organize (⭐3.2k)](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`3,168`
-*   [nohajc/anylinuxfs (⭐1.6k)](https://github.com/nohajc/anylinuxfs) — Mount Linux filesystems on macOS via NFS ☆`1,642`
+*   [tfeldmann/organize (⭐3.2k)](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`3,173`
+*   [nohajc/anylinuxfs (⭐1.6k)](https://github.com/nohajc/anylinuxfs) — Mount Linux filesystems on macOS via NFS ☆`1,650`
 
 ### Gaming / File Utilities
 
-*   [RPCS3/rpcs3 (⭐20k)](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`20,169`
-*   [OpenEmu/OpenEmu (⭐18k)](https://github.com/OpenEmu/OpenEmu) — Retro video game emulation for macOS ☆`17,841`
-*   [hrydgard/ppsspp (⭐15k)](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac and Linux, written in C++ ☆`14,735`
-*   [PlayCover/PlayCover (⭐12k)](https://github.com/PlayCover/PlayCover) — Community fork of PlayCover ☆`11,999`
+*   [RPCS3/rpcs3 (⭐20k)](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`20,202`
+*   [OpenEmu/OpenEmu (⭐18k)](https://github.com/OpenEmu/OpenEmu) — Retro video game emulation for macOS ☆`17,848`
+*   [hrydgard/ppsspp (⭐15k)](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac and Linux, written in C++ ☆`14,751`
+*   [PlayCover/PlayCover (⭐12k)](https://github.com/PlayCover/PlayCover) — Community fork of PlayCover ☆`12,009`
 
 ### Networking / Download Tools
 
-*   [transmission/transmission (⭐15k)](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`15,344`
+*   [transmission/transmission (⭐15k)](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`15,347`
 
 ### Networking / Network Analysis
 
-*   [wireshark/wireshark (⭐10k)](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`10,074`
+*   [wireshark/wireshark (⭐10k)](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`10,086`
 
 ### Networking / Proxy & VPN
 
-*   [getlantern/lantern (⭐16k)](https://github.com/getlantern/lantern) — Censorship circumvention tool ☆`16,490`
-*   [mullvad/mullvadvpn-app (⭐7.7k)](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile ☆`7,702`
+*   [getlantern/lantern (⭐16k)](https://github.com/getlantern/lantern) — Censorship circumvention tool ☆`16,514`
+*   [mullvad/mullvadvpn-app (⭐7.7k)](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile ☆`7,701`
 
 ### Networking / Remote Access
 
-*   [moonlight-stream/moonlight-qt (⭐19k)](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for desktop ☆`19,222`
-*   [electerm/electerm (⭐15k)](https://github.com/electerm/electerm) — Terminal with SSH, SFTP, and RDP support ☆`15,444`
+*   [moonlight-stream/moonlight-qt (⭐19k)](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for desktop ☆`19,251`
+*   [electerm/electerm (⭐15k)](https://github.com/electerm/electerm) — Terminal with SSH, SFTP, and RDP support ☆`15,457`
 
 ### Productivity / Remote Access
 
-*   [ONLYOFFICE/DesktopEditors (⭐5.6k)](https://github.com/ONLYOFFICE/DesktopEditors) — Open source office suite for documents ☆`5,623`
+*   [ONLYOFFICE/DesktopEditors (⭐5.6k)](https://github.com/ONLYOFFICE/DesktopEditors) — Open source office suite for documents ☆`5,633`
 
 ### Productivity / Automation
 
-*   [Caldis/Mos (⭐22k)](https://github.com/Caldis/Mos) — Smooth scrolling and scroll direction for mouse ☆`21,711`
-*   [ActivityWatch/activitywatch (⭐19k)](https://github.com/ActivityWatch/activitywatch) — Free automated time tracker ☆`19,359`
-*   [Hammerspoon/hammerspoon (⭐16k)](https://github.com/Hammerspoon/hammerspoon) — Staggeringly powerful macOS desktop automation with Lua ☆`16,324`
-*   [noah-nuebling/mac-mouse-fix (⭐11k)](https://github.com/noah-nuebling/mac-mouse-fix) — Make any mouse better on macOS ☆`11,144`
-*   [linearmouse/linearmouse (⭐7k)](https://github.com/linearmouse/linearmouse) — The mouse and trackpad utility for Mac. ☆`7,053`
+*   [Caldis/Mos (⭐22k)](https://github.com/Caldis/Mos) — Smooth scrolling and scroll direction for mouse ☆`21,730`
+*   [ActivityWatch/activitywatch (⭐19k)](https://github.com/ActivityWatch/activitywatch) — Free automated time tracker ☆`19,369`
+*   [Hammerspoon/hammerspoon (⭐16k)](https://github.com/Hammerspoon/hammerspoon) — Staggeringly powerful macOS desktop automation with Lua ☆`16,327`
+*   [noah-nuebling/mac-mouse-fix (⭐11k)](https://github.com/noah-nuebling/mac-mouse-fix) — Make any mouse better on macOS ☆`11,153`
+*   [linearmouse/linearmouse (⭐7k)](https://github.com/linearmouse/linearmouse) — The mouse and trackpad utility for Mac. ☆`7,063`
 *   [zenangst/KeyboardCowboy (⭐2.2k)](https://github.com/zenangst/KeyboardCowboy) — The missing keyboard shortcut utility for macOS ☆`2,250`
-*   [FreeterApp/Freeter (⭐1k)](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`1,028`
-*   [WINBIGFOX/TimeScribe (⭐916)](https://github.com/WINBIGFOX/TimeScribe) — Flexible time tracking for work hours ☆`922`
+*   [FreeterApp/Freeter (⭐1k)](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`1,027`
+*   [WINBIGFOX/TimeScribe (⭐916)](https://github.com/WINBIGFOX/TimeScribe) — Flexible time tracking for work hours ☆`925`
 
 ### Productivity / Clipboard
 
-*   [p0deje/Maccy (⭐22k)](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`22,047`
-*   [hluk/CopyQ (⭐12k)](https://github.com/hluk/CopyQ) — Clipboard manager with advanced features ☆`12,541`
+*   [p0deje/Maccy (⭐22k)](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`22,068`
+*   [hluk/CopyQ (⭐12k)](https://github.com/hluk/CopyQ) — Clipboard manager with advanced features ☆`12,543`
 *   [Slackadays/Clipboard (⭐5.9k)](https://github.com/Slackadays/Clipboard) — Fast and feature-packed clipboard tool ☆`5,932`
 *   [PasteBar/PasteBarApp (⭐2.2k)](https://github.com/PasteBar/PasteBarApp) — Free clipboard manager for Mac and Windows ☆`2,190`
 
 ### Productivity / Task Management
 
-*   [mattermost-community/focalboard (⭐27k)](https://github.com/mattermost-community/focalboard) — Self-hosted Trello alternative ☆`26,519`
+*   [mattermost-community/focalboard (⭐27k)](https://github.com/mattermost-community/focalboard) — Self-hosted Trello alternative ☆`26,526`
 
 ### Productivity / Translation
 
-*   [tisfeng/Easydict (⭐15k)](https://github.com/tisfeng/Easydict) — Dictionary and translator for macOS ☆`15,060`
+*   [tisfeng/Easydict (⭐15k)](https://github.com/tisfeng/Easydict) — Dictionary and translator for macOS ☆`15,078`
 
 ### Reading & Writing / Ebooks
 
-*   [koodo-reader/koodo-reader (⭐29k)](https://github.com/koodo-reader/koodo-reader) — Cross-platform ebook manager and reader ☆`28,616`
-*   [kovidgoyal/calibre (⭐26k)](https://github.com/kovidgoyal/calibre) — The calibre ebook manager ☆`26,227`
-*   [readest/readest (⭐25k)](https://github.com/readest/readest) — Modern cross-platform ebook reader ☆`25,561`
+*   [koodo-reader/koodo-reader (⭐29k)](https://github.com/koodo-reader/koodo-reader) — Cross-platform ebook manager and reader ☆`28,626`
+*   [kovidgoyal/calibre (⭐26k)](https://github.com/kovidgoyal/calibre) — The calibre ebook manager ☆`26,252`
+*   [readest/readest (⭐25k)](https://github.com/readest/readest) — Modern cross-platform ebook reader ☆`25,620`
 
 ### Reading & Writing / Note-taking
 
-*   [Zettlr/Zettlr (⭐14k)](https://github.com/Zettlr/Zettlr) — Your One-Stop Publication Workbench ☆`13,811`
-*   [vnotex/vnote (⭐13k)](https://github.com/vnotex/vnote) — A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. ☆`13,018`
-*   [glushchenko/fsnotes (⭐7.5k)](https://github.com/glushchenko/fsnotes) — Fast Markdown note-taking app for Mac and iPhone ☆`7,545`
+*   [Zettlr/Zettlr (⭐14k)](https://github.com/Zettlr/Zettlr) — Your One-Stop Publication Workbench ☆`13,820`
+*   [vnotex/vnote (⭐13k)](https://github.com/vnotex/vnote) — A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. ☆`13,020`
+*   [glushchenko/fsnotes (⭐7.5k)](https://github.com/glushchenko/fsnotes) — Fast Markdown note-taking app for Mac and iPhone ☆`7,548`
 *   [standardnotes/app (⭐6.7k)](https://github.com/standardnotes/app) — Think fearlessly with end-to-end encrypted notes and files ☆`6,682`
-*   [pbek/QOwnNotes (⭐5.9k)](https://github.com/pbek/QOwnNotes) — Markdown notepad with Nextcloud integration ☆`5,921`
-*   [saber-notes/saber (⭐4.9k)](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`4,938`
+*   [pbek/QOwnNotes (⭐5.9k)](https://github.com/pbek/QOwnNotes) — Markdown notepad with Nextcloud integration ☆`5,928`
+*   [saber-notes/saber (⭐4.9k)](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`4,956`
 
 ### Reading & Writing / Research
 
-*   [zotero/zotero (⭐16k)](https://github.com/zotero/zotero) — Tool to collect, organize, and cite research ☆`15,727`
+*   [zotero/zotero (⭐16k)](https://github.com/zotero/zotero) — Tool to collect, organize, and cite research ☆`15,748`
 
 ### Reading & Writing / RSS
 
-*   [Ranchero-Software/NetNewsWire (⭐10k)](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`10,485`
+*   [Ranchero-Software/NetNewsWire (⭐10k)](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`10,484`
 
 ### Security / Encryption
 
-*   [cryptomator/cryptomator (⭐16k)](https://github.com/cryptomator/cryptomator) — Secure encryption for cloud storage ☆`16,331`
+*   [cryptomator/cryptomator (⭐16k)](https://github.com/cryptomator/cryptomator) — Secure encryption for cloud storage ☆`16,347`
 
 ### Security / Password Managers
 
-*   [keepassxreboot/keepassxc (⭐29k)](https://github.com/keepassxreboot/keepassxc) — Cross-platform KeePass password manager ☆`29,429`
-*   [strongbox-password-safe/Strongbox (⭐1.5k)](https://github.com/strongbox-password-safe/Strongbox) — A KeePass/Password Safe Client for iOS and OS X ☆`1,470`
+*   [keepassxreboot/keepassxc (⭐29k)](https://github.com/keepassxreboot/keepassxc) — Cross-platform KeePass password manager ☆`29,491`
+*   [strongbox-password-safe/Strongbox (⭐1.5k)](https://github.com/strongbox-password-safe/Strongbox) — A KeePass/Password Safe Client for iOS and OS X ☆`1,471`
 
 ### Security / System Security
 
-*   [objective-see/LuLu (⭐13k)](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`13,403`
-*   [objective-see/BlockBlock (⭐861)](https://github.com/objective-see/BlockBlock) — Monitor persistence locations on macOS ☆`869`
-*   [objective-see/KnockKnock (⭐816)](https://github.com/objective-see/KnockKnock) — Like AutoRuns ...but for macOS! ☆`825`
+*   [objective-see/LuLu (⭐13k)](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`13,416`
+*   [objective-see/BlockBlock (⭐861)](https://github.com/objective-see/BlockBlock) — Monitor persistence locations on macOS ☆`870`
+*   [objective-see/KnockKnock (⭐816)](https://github.com/objective-see/KnockKnock) — Like AutoRuns ...but for macOS! ☆`827`
 
 ### System Tools / Desktop & System
 
-*   [alin23/Lunar (⭐5.7k)](https://github.com/alin23/Lunar) — Intelligent adaptive brightness for your external monitors ☆`5,715`
-*   [johnste/finicky (⭐5.2k)](https://github.com/johnste/finicky) — A macOS app for customizing which browser to start ☆`5,211`
-*   [mangerlahn/Latest (⭐4.8k)](https://github.com/mangerlahn/Latest) — App update checker for macOS ☆`4,842`
-*   [rlxone/Equinox (⭐2.1k)](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`2,136`
-*   [wflixu/RClick (⭐1.1k)](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`1,095`
+*   [alin23/Lunar (⭐5.7k)](https://github.com/alin23/Lunar) — Intelligent adaptive brightness for your external monitors ☆`5,719`
+*   [johnste/finicky (⭐5.2k)](https://github.com/johnste/finicky) — A macOS app for customizing which browser to start ☆`5,212`
+*   [mangerlahn/Latest (⭐4.8k)](https://github.com/mangerlahn/Latest) — App update checker for macOS ☆`4,843`
+*   [rlxone/Equinox (⭐2.1k)](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`2,139`
+*   [wflixu/RClick (⭐1.1k)](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`1,099`
 
 ### System Tools / Menu Bar
 
-*   [jordanbaird/Ice (⭐30k)](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`29,859`
-*   [FelixKratz/SketchyBar (⭐12k)](https://github.com/FelixKratz/SketchyBar) — A highly customizable macOS status bar replacement ☆`12,524`
-*   [jacklandrin/OnlySwitch (⭐6k)](https://github.com/jacklandrin/OnlySwitch) — All-in-one menu bar utility for Mac ☆`6,012`
-*   [swiftbar/SwiftBar (⭐4.7k)](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`4,714`
-*   [sfsam/Itsycal (⭐4k)](https://github.com/sfsam/Itsycal) — Itsycal is a tiny calendar for menu bar ☆`4,034`
-*   [DamascenoRafael/reminders-menubar (⭐4k)](https://github.com/DamascenoRafael/reminders-menubar) — View Apple Reminders in menu bar ☆`3,993`
+*   [jordanbaird/Ice (⭐30k)](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`29,878`
+*   [FelixKratz/SketchyBar (⭐12k)](https://github.com/FelixKratz/SketchyBar) — A highly customizable macOS status bar replacement ☆`12,532`
+*   [jacklandrin/OnlySwitch (⭐6k)](https://github.com/jacklandrin/OnlySwitch) — All-in-one menu bar utility for Mac ☆`6,015`
+*   [swiftbar/SwiftBar (⭐4.7k)](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`4,718`
+*   [sfsam/Itsycal (⭐4k)](https://github.com/sfsam/Itsycal) — Itsycal is a tiny calendar for menu bar ☆`4,035`
+*   [DamascenoRafael/reminders-menubar (⭐4k)](https://github.com/DamascenoRafael/reminders-menubar) — View Apple Reminders in menu bar ☆`3,995`
 *   [ivoronin/TomatoBar (⭐3.6k)](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`3,571`
-*   [lihaoyun6/AirBattery (⭐3k)](https://github.com/lihaoyun6/AirBattery) — Show battery of all devices in Dock ☆`2,993`
+*   [lihaoyun6/AirBattery (⭐3k)](https://github.com/lihaoyun6/AirBattery) — Show battery of all devices in Dock ☆`2,996`
 *   [pakerwreah/Calendr (⭐2.4k)](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI ☆`2,422`
 *   [celve/Peninsula (⭐459)](https://github.com/celve/Peninsula) — Dynamic Peninsula for window switching ☆`458`
 
 ### System Tools / Package Managers
 
-*   [milanvarady/Applite (⭐7.1k)](https://github.com/milanvarady/Applite) — Native Homebrew Cask app store outside the App Store ☆`7,096`
-*   [buresdv/Cork (⭐4.7k)](https://github.com/buresdv/Cork) — \[NO AI] Fast GUI for Homebrew written in SwiftUI ☆`4,713`
+*   [milanvarady/Applite (⭐7.1k)](https://github.com/milanvarady/Applite) — Native Homebrew Cask app store outside the App Store ☆`7,095`
+*   [buresdv/Cork (⭐4.7k)](https://github.com/buresdv/Cork) — \[NO AI] Fast GUI for Homebrew written in SwiftUI ☆`4,710`
 
 ### System Tools / QuickLook Plugins
 
-*   [sindresorhus/quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) — List of useful Quick Look plugins for developers ☆`18,791`
-*   [sbarex/QLMarkdown (⭐3.6k)](https://github.com/sbarex/QLMarkdown) — macOS Quick Look extension for Markdown files. ☆`3,678`
+*   [sindresorhus/quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) — List of useful Quick Look plugins for developers ☆`18,793`
+*   [sbarex/QLMarkdown (⭐3.6k)](https://github.com/sbarex/QLMarkdown) — macOS Quick Look extension for Markdown files. ☆`3,681`
 
 ### System Tools / System Utilities
 
-*   [pqrs-org/Karabiner-Elements (⭐23k)](https://github.com/pqrs-org/Karabiner-Elements) — Keyboard customization for macOS ☆`22,988`
-*   [kyleneideck/BackgroundMusic (⭐19k)](https://github.com/kyleneideck/BackgroundMusic) — Per-app volume and auto-pause music ☆`19,351`
-*   [alienator88/Pearcleaner (⭐15k)](https://github.com/alienator88/Pearcleaner) — Free and fair-code mac app cleaner ☆`14,953`
-*   [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring (⭐9.2k)](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Battery charge limiter ☆`9,217`
-*   [sveinbjornt/Sloth (⭐9k)](https://github.com/sveinbjornt/Sloth) — View open files and connections on Mac ☆`8,977`
-*   [runjuu/InputSourcePro (⭐3.6k)](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`3,653`
+*   [pqrs-org/Karabiner-Elements (⭐23k)](https://github.com/pqrs-org/Karabiner-Elements) — Keyboard customization for macOS ☆`23,000`
+*   [kyleneideck/BackgroundMusic (⭐19k)](https://github.com/kyleneideck/BackgroundMusic) — Per-app volume and auto-pause music ☆`19,355`
+*   [alienator88/Pearcleaner (⭐15k)](https://github.com/alienator88/Pearcleaner) — Free and fair-code mac app cleaner ☆`14,974`
+*   [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring (⭐9.2k)](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Battery charge limiter ☆`9,220`
+*   [sveinbjornt/Sloth (⭐9k)](https://github.com/sveinbjornt/Sloth) — View open files and connections on Mac ☆`8,981`
+*   [runjuu/InputSourcePro (⭐3.6k)](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`3,665`
 
 ### Terminal / Emulators
 
-*   [wezterm/wezterm (⭐29k)](https://github.com/wezterm/wezterm) — GPU-accelerated terminal multiplexer ☆`29,323`
-*   [wavetermdev/waveterm (⭐22k)](https://github.com/wavetermdev/waveterm) — AI-native cross-platform terminal for daily workflows ☆`22,573`
-*   [gnachman/iTerm2 (⭐18k)](https://github.com/gnachman/iTerm2) — Terminal emulator for macOS with many features ☆`18,214`
+*   [wezterm/wezterm (⭐29k)](https://github.com/wezterm/wezterm) — GPU-accelerated terminal multiplexer ☆`29,350`
+*   [wavetermdev/waveterm (⭐22k)](https://github.com/wavetermdev/waveterm) — AI-native cross-platform terminal for daily workflows ☆`22,593`
+*   [gnachman/iTerm2 (⭐18k)](https://github.com/gnachman/iTerm2) — Terminal emulator for macOS with many features ☆`18,216`
 
 ### Terminal / Shell Utilities
 
-*   [withfig/autocomplete (⭐25k)](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,213`
+*   [withfig/autocomplete (⭐25k)](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,212`
 
 ### Window Management / Shell Utilities
 
-*   [nikitabobko/AeroSpace (⭐23k)](https://github.com/nikitabobko/AeroSpace) — AeroSpace is an i3-like tiling window manager for macOS ☆`23,611`
-*   [lwouis/alt-tab-macos (⭐16k)](https://github.com/lwouis/alt-tab-macos) — Windows alt-tab on macOS ☆`16,427`
-*   [ianyh/Amethyst (⭐16k)](https://github.com/ianyh/Amethyst) — Automatic tiling window manager for macOS à la xmonad. ☆`16,302`
-*   [ejbills/DockDoor (⭐6.4k)](https://github.com/ejbills/DockDoor) — Window peeking, alt-tab and other enhancements for macOS ☆`6,413`
-*   [FelixKratz/JankyBorders (⭐3.9k)](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`3,877`
+*   [nikitabobko/AeroSpace (⭐23k)](https://github.com/nikitabobko/AeroSpace) — AeroSpace is an i3-like tiling window manager for macOS ☆`23,632`
+*   [lwouis/alt-tab-macos (⭐16k)](https://github.com/lwouis/alt-tab-macos) — Windows alt-tab on macOS ☆`16,438`
+*   [ianyh/Amethyst (⭐16k)](https://github.com/ianyh/Amethyst) — Automatic tiling window manager for macOS à la xmonad. ☆`16,305`
+*   [ejbills/DockDoor (⭐6.4k)](https://github.com/ejbills/DockDoor) — Window peeking, alt-tab and other enhancements for macOS ☆`6,421`
+*   [FelixKratz/JankyBorders (⭐3.9k)](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`3,880`
 *   [lihaoyun6/Topit (⭐1.5k)](https://github.com/lihaoyun6/Topit) — Pin any window to the top of your screen ☆`1,537`
 
 ## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
 
 ### Audio & Video / Editors
 
-*   [Aegisub/Aegisub (⭐3.4k)](https://github.com/Aegisub/Aegisub) — Cross-platform advanced subtitle editor ☆`3,381`
+*   [Aegisub/Aegisub (⭐3.4k)](https://github.com/Aegisub/Aegisub) — Cross-platform advanced subtitle editor ☆`3,380`
 
 ### Audio & Video / Players
 
-*   [nukeop/nuclear (⭐19k)](https://github.com/nukeop/nuclear) — Streaming music player that finds free music for you ☆`18,766`
+*   [nukeop/nuclear (⭐19k)](https://github.com/nukeop/nuclear) — Streaming music player that finds free music for you ☆`18,783`
 *   [martpie/museeks (⭐2.1k)](https://github.com/martpie/museeks) — A simple, clean and cross-platform music player ☆`2,136`
 *   [losnoco/Cog (⭐1k)](https://github.com/losnoco/Cog) — A free and open-source audio player for macOS and iOS ☆`1,037`
 *   [samzong/MacMusicPlayer (⭐101)](https://github.com/samzong/MacMusicPlayer) — A clean, lightweight music player for macOS. ☆`104`
 
 ### Audio & Video / Production
 
-*   [hydrogen-music/hydrogen (⭐1.3k)](https://github.com/hydrogen-music/hydrogen) — The advanced drum machine for Linux, macOS, and Windows ☆`1,343`
-*   [stargatedaw/stargate (⭐880)](https://github.com/stargatedaw/stargate) — Digital audio workstation with plugins ☆`881`
+*   [hydrogen-music/hydrogen (⭐1.3k)](https://github.com/hydrogen-music/hydrogen) — The advanced drum machine for Linux, macOS, and Windows ☆`1,346`
+*   [stargatedaw/stargate (⭐880)](https://github.com/stargatedaw/stargate) — Digital audio workstation with plugins ☆`882`
 
 ### Audio & Video / Utilities
 
-*   [chidiwilliams/buzz (⭐22k)](https://github.com/chidiwilliams/buzz) — Offline audio transcription powered by Whisper ☆`22,150`
-*   [ExistentialAudio/BlackHole (⭐20k)](https://github.com/ExistentialAudio/BlackHole) — macOS audio loopback driver for apps ☆`19,958`
+*   [chidiwilliams/buzz (⭐22k)](https://github.com/chidiwilliams/buzz) — Offline audio transcription powered by Whisper ☆`22,190`
+*   [ExistentialAudio/BlackHole (⭐20k)](https://github.com/ExistentialAudio/BlackHole) — macOS audio loopback driver for apps ☆`19,967`
 *   [sindresorhus/Gifski (⭐8.6k)](https://github.com/sindresorhus/Gifski) — Convert videos to high-quality GIFs on your Mac ☆`8,585`
-*   [section83/MacYTDL (⭐1k)](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`1,038`
+*   [section83/MacYTDL (⭐1k)](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`1,046`
 
 ### Communication / Collaboration
 
-*   [sindresorhus/caprine (⭐7.4k)](https://github.com/sindresorhus/caprine) — Elegant Facebook Messenger desktop app ☆`7,406`
-*   [overtake/TelegramSwift (⭐5.8k)](https://github.com/overtake/TelegramSwift) — Source code of Telegram for macos on Swift 5.0 ☆`5,806`
+*   [sindresorhus/caprine (⭐7.4k)](https://github.com/sindresorhus/caprine) — Elegant Facebook Messenger desktop app ☆`7,407`
 
 ### Communication / Email Clients
 
-*   [vladimiry/ElectronMail (⭐1.7k)](https://github.com/vladimiry/ElectronMail) — Unofficial ProtonMail Desktop App ☆`1,684`
+*   [vladimiry/ElectronMail (⭐1.7k)](https://github.com/vladimiry/ElectronMail) — Unofficial ProtonMail Desktop App ☆`1,686`
 
 ### Design & Graphics / Design Tools
 
@@ -591,52 +596,52 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Design & Graphics / Image Tools
 
-*   [Molunerfinn/PicGo (⭐27k)](https://github.com/Molunerfinn/PicGo) — Image uploader for 60+ hosting services ☆`27,399`
-*   [divamgupta/diffusionbee-stable-diffusion-ui (⭐14k)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Run Stable Diffusion on M1 Mac ☆`13,594`
-*   [kyleduo/TinyPNG4Mac (⭐4k)](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,998`
+*   [Molunerfinn/PicGo (⭐27k)](https://github.com/Molunerfinn/PicGo) — Image uploader for 60+ hosting services ☆`27,412`
+*   [divamgupta/diffusionbee-stable-diffusion-ui (⭐14k)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Run Stable Diffusion on M1 Mac ☆`13,595`
+*   [kyleduo/TinyPNG4Mac (⭐4k)](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,999`
 *   [jurplel/qView (⭐3.7k)](https://github.com/jurplel/qView) — Practical and minimal image viewer ☆`3,678`
-*   [netdcy/FlowVision (⭐1.3k)](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS ☆`1,355`
+*   [netdcy/FlowVision (⭐1.3k)](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS ☆`1,358`
 
 ### Design & Graphics / Screen Capture
 
-*   [lihaoyun6/QuickRecorder (⭐8.7k)](https://github.com/lihaoyun6/QuickRecorder) — Lightweight macOS screen recorder ☆`8,743`
+*   [lihaoyun6/QuickRecorder (⭐8.7k)](https://github.com/lihaoyun6/QuickRecorder) — Lightweight macOS screen recorder ☆`8,749`
 
 ### Developer Tools / App Frameworks
 
-*   [illacloud/illa-builder (⭐12k)](https://github.com/illacloud/illa-builder) — Low-code platform for internal tools ☆`12,333`
-*   [react-page/react-page (⭐9.5k)](https://github.com/react-page/react-page) — Customizable WYSIWYG content editor ☆`9,534`
+*   [illacloud/illa-builder (⭐12k)](https://github.com/illacloud/illa-builder) — Low-code platform for internal tools ☆`12,335`
+*   [react-page/react-page (⭐9.5k)](https://github.com/react-page/react-page) — Customizable WYSIWYG content editor ☆`9,535`
 
 ### Developer Tools / Code Editors
 
-*   [coteditor/CotEditor (⭐8.6k)](https://github.com/coteditor/CotEditor) — Lightweight Plain Text Editor for macOS ☆`8,628`
+*   [coteditor/CotEditor (⭐8.6k)](https://github.com/coteditor/CotEditor) — Lightweight Plain Text Editor for macOS ☆`8,631`
 *   [qvacua/vimr (⭐7k)](https://github.com/qvacua/vimr) — VimR — Neovim GUI for macOS in Swift ☆`7,011`
-*   [haystackeditor/haystack-editor (⭐1.3k)](https://github.com/haystackeditor/haystack-editor) — Canvas-based code editor for visual navigation ☆`1,291`
+*   [haystackeditor/haystack-editor (⭐1.3k)](https://github.com/haystackeditor/haystack-editor) — Canvas-based code editor for visual navigation ☆`1,290`
 
 ### Developer Tools / Databases
 
-*   [PostgresApp/PostgresApp (⭐7.8k)](https://github.com/PostgresApp/PostgresApp) — The easiest way to get started with PostgreSQL on the Mac ☆`7,785`
-*   [Sequel-Ace/Sequel-Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) — MySQL/MariaDB database management for macOS ☆`7,555`
+*   [PostgresApp/PostgresApp (⭐7.8k)](https://github.com/PostgresApp/PostgresApp) — The easiest way to get started with PostgreSQL on the Mac ☆`7,787`
+*   [Sequel-Ace/Sequel-Ace (⭐7.6k)](https://github.com/Sequel-Ace/Sequel-Ace) — MySQL/MariaDB database management for macOS ☆`7,556`
 *   [gcollazo/mongodbapp (⭐535)](https://github.com/gcollazo/mongodbapp) — The easiest way to get started with MongoDB on the Mac ☆`535`
 
 ### Developer Tools / Developer Utilities
 
-*   [oldj/SwitchHosts (⭐27k)](https://github.com/oldj/SwitchHosts) — Switch hosts quickly! ☆`27,312`
-*   [responsively-org/responsively-app (⭐25k)](https://github.com/responsively-org/responsively-app) — Browser for responsive web development ☆`25,464`
+*   [oldj/SwitchHosts (⭐27k)](https://github.com/oldj/SwitchHosts) — Switch hosts quickly! ☆`27,322`
+*   [responsively-org/responsively-app (⭐25k)](https://github.com/responsively-org/responsively-app) — Browser for responsive web development ☆`25,483`
 *   [sindresorhus/Pasteboard-Viewer (⭐862)](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`865`
 
 ### Developer Tools / Version Control
 
-*   [git-up/GitUp (⭐12k)](https://github.com/git-up/GitUp) — The Git interface you have been missing ☆`12,143`
-*   [relagit/relagit (⭐1.1k)](https://github.com/relagit/relagit) — The elegant solution to graphical version control. ☆`1,118`
+*   [git-up/GitUp (⭐12k)](https://github.com/git-up/GitUp) — The Git interface you have been missing ☆`12,147`
+*   [relagit/relagit (⭐1.1k)](https://github.com/relagit/relagit) — The elegant solution to graphical version control. ☆`1,119`
 *   [maoyama/Changes (⭐329)](https://github.com/maoyama/Changes) — An Open Source GUI Git Client for macOS ☆`330`
 
 ### Developer Tools / Virtualization
 
-*   [hashicorp/vagrant (⭐27k)](https://github.com/hashicorp/vagrant) — Tool for building development environments ☆`27,216`
+*   [hashicorp/vagrant (⭐27k)](https://github.com/hashicorp/vagrant) — Tool for building development environments ☆`27,218`
 
 ### File Management / File Managers
 
-*   [mucommander/mucommander (⭐1.3k)](https://github.com/mucommander/mucommander) — Cross-platform dual-pane file manager ☆`1,290`
+*   [mucommander/mucommander (⭐1.3k)](https://github.com/mucommander/mucommander) — Cross-platform dual-pane file manager ☆`1,291`
 
 ### File Management / File Utilities
 
@@ -645,24 +650,24 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Productivity / Translation
 
-*   [nextai-translator/nextai-translator (⭐25k)](https://github.com/nextai-translator/nextai-translator) — ChatGPT-powered translation app ☆`25,010`
+*   [nextai-translator/nextai-translator (⭐25k)](https://github.com/nextai-translator/nextai-translator) — ChatGPT-powered translation app ☆`25,013`
 
 ### Reading & Writing / Ebooks
 
-*   [Sigil-Ebook/Sigil (⭐7k)](https://github.com/Sigil-Ebook/Sigil) — Sigil is a multi-platform EPUB ebook editor ☆`7,003`
+*   [Sigil-Ebook/Sigil (⭐7k)](https://github.com/Sigil-Ebook/Sigil) — Sigil is a multi-platform EPUB ebook editor ☆`7,001`
 
 ### Reading & Writing / Note-taking
 
-*   [nuttyartist/notes (⭐4.3k)](https://github.com/nuttyartist/notes) — Fast note-taking app written in C++ ☆`4,265`
+*   [nuttyartist/notes (⭐4.3k)](https://github.com/nuttyartist/notes) — Fast note-taking app written in C++ ☆`4,264`
 
 ### Reading & Writing / Research
 
-*   [tropy/tropy (⭐1.2k)](https://github.com/tropy/tropy) — Research photo management ☆`1,156`
+*   [tropy/tropy (⭐1.2k)](https://github.com/tropy/tropy) — Research photo management ☆`1,159`
 
 ### Reading & Writing / RSS
 
 *   [ViennaRSS/vienna-rss (⭐2k)](https://github.com/ViennaRSS/vienna-rss) — Free open-source RSS/Atom/JSON feed newsreader for macOS ☆`1,978`
-*   [sopaco/saga-reader (⭐532)](https://github.com/sopaco/saga-reader) — AI-powered lightweight internet reader ☆`533`
+*   [sopaco/saga-reader (⭐532)](https://github.com/sopaco/saga-reader) — AI-powered lightweight internet reader ☆`530`
 
 ### Security / Encryption
 
@@ -671,23 +676,23 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 ### Security / System Security
 
 *   [ParetoSecurity/pareto-mac (⭐458)](https://github.com/ParetoSecurity/pareto-mac) — Automatically audit your Mac for basic security hygiene. ☆`459`
-*   [objective-see/TaskExplorer (⭐174)](https://github.com/objective-see/TaskExplorer) — Explore running processes on macOS ☆`177`
+*   [objective-see/TaskExplorer (⭐174)](https://github.com/objective-see/TaskExplorer) — Explore running processes on macOS ☆`178`
 *   [objective-see/DylibHijackScanner (⭐128)](https://github.com/objective-see/DylibHijackScanner) — Scan for dylib hijacking vulnerabilities ☆`128`
 
 ### System Tools / Desktop & System
 
-*   [sindresorhus/Plash (⭐4k)](https://github.com/sindresorhus/Plash) — Make any website your Mac desktop wallpaper ☆`4,034`
-*   [sindresorhus/Actions (⭐3.1k)](https://github.com/sindresorhus/Actions) — Supercharge your shortcuts ☆`3,070`
+*   [sindresorhus/Plash (⭐4k)](https://github.com/sindresorhus/Plash) — Make any website your Mac desktop wallpaper ☆`4,035`
+*   [sindresorhus/Actions (⭐3.1k)](https://github.com/sindresorhus/Actions) — Supercharge your shortcuts ☆`3,069`
 *   [glinford/dns-easy-switcher (⭐361)](https://github.com/glinford/dns-easy-switcher) — DNS Easy Switcher (for MacOS) ☆`360`
 
 ### System Tools / Menu Bar
 
-*   [leits/MeetingBar (⭐5.4k)](https://github.com/leits/MeetingBar) — Your meetings at your fingertips in the macOS menu bar ☆`5,385`
-*   [kmikiy/SpotMenu (⭐3.1k)](https://github.com/kmikiy/SpotMenu) — Spotify & Apple Music in your macOS menu bar ☆`3,141`
+*   [leits/MeetingBar (⭐5.4k)](https://github.com/leits/MeetingBar) — Your meetings at your fingertips in the macOS menu bar ☆`5,386`
+*   [kmikiy/SpotMenu (⭐3.1k)](https://github.com/kmikiy/SpotMenu) — Spotify & Apple Music in your macOS menu bar ☆`3,140`
 
 ### System Tools / System Utilities
 
-*   [newmarcel/KeepingYouAwake (⭐7k)](https://github.com/newmarcel/KeepingYouAwake) — Prevents your Mac from going to sleep. ☆`7,005`
+*   [newmarcel/KeepingYouAwake (⭐7k)](https://github.com/newmarcel/KeepingYouAwake) — Prevents your Mac from going to sleep. ☆`7,012`
 *   [ThatGuySam/doesitarm (⭐3.8k)](https://github.com/ThatGuySam/doesitarm) — Apple Silicon app compatibility list ☆`3,800`
 *   [BigBerny/magicquit (⭐355)](https://github.com/BigBerny/magicquit) — Auto-quit unused apps for focus ☆`356`
 *   [sanketk2020/MacSpaceCleaner (⭐138)](https://github.com/sanketk2020/MacSpaceCleaner) — Clean disk space by removing junk ☆`138`
@@ -695,11 +700,11 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Terminal / Shell Utilities
 
-*   [dnote/dnote (⭐3.1k)](https://github.com/dnote/dnote) — A simple command line notebook ☆`3,090`
+*   [dnote/dnote (⭐3.1k)](https://github.com/dnote/dnote) — A simple command line notebook ☆`3,088`
 
 ### Window Management / Shell Utilities
 
-*   [pablopunk/SwiftShift (⭐655)](https://github.com/pablopunk/SwiftShift) — Sweet window management for macOS ☆`659`
+*   [pablopunk/SwiftShift (⭐655)](https://github.com/pablopunk/SwiftShift) — Sweet window management for macOS ☆`661`
 *   [XiCheng148/Dockit (⭐278)](https://github.com/XiCheng148/Dockit) — An application that can dock any window to the edge of the screen. ☆`279`
 
 ## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
@@ -714,7 +719,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Security / System Security
 
-*   [objective-see/WhatsYourSign (⭐366)](https://github.com/objective-see/WhatsYourSign) — View file signing info in Finder ☆`367`
+*   [objective-see/WhatsYourSign (⭐366)](https://github.com/objective-see/WhatsYourSign) — View file signing info in Finder ☆`368`
 
 ### System Tools / System Utilities
 
