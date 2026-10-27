@@ -6,6 +6,16 @@ Tools Online
 
 [ [Daily](/content/lvwzhen/tools/README.md) / Weekly / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Image compression
+
+*   [JFIF to JPG](https://jfiftojpg.app/) - Free JFIF to JPG/PNG converter that runs 100% in the browser, no uploads, no re-compression
+
+### Tools collection
+
+*   [Benchvale Base64](https://benchvale.com/dev/base64) - Base64 encoder and decoder that runs in the browser, accepts the standard and URL-safe alphabets, re-adds missing padding, and ignores line breaks.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Image compression

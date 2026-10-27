@@ -2,9 +2,15 @@
 
 Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aaronhma/awesome-tensorflow-js/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aaronhma/awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) · ⭐ 188 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aaronhma/awesome-tensorflow-js/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aaronhma/awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) · ⭐ 189 · 🏷️ Computer Science
 
 [ [Daily](/content/aaronhma/awesome-tensorflow-js/README.md) / Weekly / [Overview](/content/aaronhma/awesome-tensorflow-js/readme/README.md) ]
+
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### 📖 Learn / 🤩 Powered by TensorFlow.js
+
+*   [TimeWarpScan.me](https://timewarpscan.me) - The viral Time Warp Scan filter, running 100% in the browser with your webcam. Slices webcam frames into tensors and stitches them back together. \[[repo (⭐9)](https://github.com/GantMan/timewarp)]
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 

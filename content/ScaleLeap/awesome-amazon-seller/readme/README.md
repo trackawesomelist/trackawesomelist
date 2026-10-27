@@ -48,6 +48,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [FeedbackExpress](https://www.feedbackexpress.com/) - Makes it easy to improve your Amazon seller rating through effective, automated feedback requests.
 *   [Feedbackwhiz](https://www.feedbackwhiz.com/) - Software for merchants to boost their Amazon business, repair feedback, improve product reviews, and automate high-volume emails.
 *   [Feedbackz](https://www.feedbackz.com/) - Built for marketing savvy Amazon sellers seeking more beautiful and more powerfully targeted automatic follow-up email funnels.
+*   [Firecrawl](https://www.firecrawl.dev) - Web scraping and search API for Amazon data. Scrape public Amazon pages as markdown (tested on Amazon.com, Amazon.co.uk and Amazon.de), or use structured data providers for Amazon.com (product details, prices, buy-box offers, reviews, search), Amazon.com.br and Amazon.nl.
 *   [Forecastly](https://www.forecast.ly/) - Predict future product demand, make fast and accurate buying decisions.
 *   [ForecastRx](https://www.forecastrx.com/) - Inventory forecasting solution. Projects future demand so you can purchase the right product, in the right quantity, at the right time.
 *   [Helium10](https://www.helium10.com/) - Software suite contains over a dozen tools that help find high ranking keywords, identify trends, monitor competitors, and fully optimize product listings to increase sales.
