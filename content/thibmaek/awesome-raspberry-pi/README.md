@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Oct 27, 2026](/content/2026/10/27/README.md)
+
+### Tools
+
+*   [Rasptele (⭐2)](https://github.com/maddhruv/rasptele) - Monitor Raspberry Pi health, manage Docker containers, and control Pi-hole through Telegram without exposing inbound ports.
+
+### Projects
+
+*   [CharlieBoard (⭐42)](https://github.com/tomunderwood99/CharlieBoard) - Open-source transit display using WS2812B LEDs with real-time vehicle tracking, geographically accurate PCB map, and a web control interface. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
+
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
 ### Tools

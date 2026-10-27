@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Platforms and Software Resources / Geospatial Data and Visualization
+
+*   [SquidMaps](https://squidmaps.io/) - A quick map making application that enables easy drawing, styling, and sharing.
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms

@@ -8,6 +8,10 @@ Actively maintained open-source game remakes.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Racing
+
+*   [OpenMCM2 (⭐0)](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
+
 ### Strategy
 
 *   [OpenSGolf (⭐35)](https://github.com/crspytopgn/opensgolf) - Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower\_playing\_cards:

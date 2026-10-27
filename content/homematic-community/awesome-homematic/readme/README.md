@@ -2,7 +2,7 @@
 
 A curated list of Homematic related links :sparkles:
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/homematic-community/awesome-homematic/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 homematic-community/awesome-homematic](https://github.com/homematic-community/awesome-homematic) · ⭐ 212 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/homematic-community/awesome-homematic/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 homematic-community/awesome-homematic](https://github.com/homematic-community/awesome-homematic) · ⭐ 213 · 🏷️ Miscellaneous
 
 [ [Daily](/content/homematic-community/awesome-homematic/README.md) / [Weekly](/content/homematic-community/awesome-homematic/week/README.md) / Overview ]
 
@@ -53,7 +53,7 @@ A curated list of Homematic related links :sparkles:
 *   [HomeMatic-Script Dokumentation](https://www.eq-3.de/downloads/download/homematic/hm_web_ui_doku/HM-Skript_Teil_1_Sprachbeschreibung_V2.3.pdf) - Offizielle Dokumentation von eQ-3: [Teil 1 Sprachbeschreibung](https://www.eq-3.de/downloads/download/homematic/hm_web_ui_doku/HM-Skript_Teil_1_Sprachbeschreibung_V2.3.pdf), [Teil 2 Objektmodell](https://www.eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM_Script_Teil_2_Objektmodell_V1.2.pdf), [Teil 3 Beispiele](https://www.eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM_Script_Teil_3_Beispiele_V1.1.pdf), [Teil 4 Datenpunkte](https://www.eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM-Script_4-Datenpunkte.pdf).
 *   [HomeMatic XML-RPC API](https://www.eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM_XmlRpc_API.pdf) - Offizielle Spezifikation der XML-RPC Schnittstelle der Interface-Prozesse von eQ-3.
 *   [Keymatic Konfiguration](https://homematic-forum.de/forum/viewtopic.php?f=31\&t=19196) - Beitrag von rewe0815 im Homematic Forum.
-*   [OpenCCU Wiki (⭐1.8k)](https://github.com/OpenCCU/OpenCCU/wiki) - Installation, Administration und Nutzung von OpenCCU.
+*   [OpenCCU Wiki (⭐1.9k)](https://github.com/OpenCCU/OpenCCU/wiki) - Installation, Administration und Nutzung von OpenCCU.
 *   [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inoffizielle Homematic Script Referenz.
 *   [Virtuelle Aktorkanäle](https://www.youtube.com/watch?v=Cwxwtig6Q1I) - Vortrag von Frank Grass.
 
@@ -67,20 +67,20 @@ A curated list of Homematic related links :sparkles:
 
 ## CCU Alternatives
 
-*   [debmatic (⭐201)](https://github.com/alexreinert/debmatic) - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
+*   [debmatic (⭐202)](https://github.com/alexreinert/debmatic) - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
     software or your own scripts.
-*   [OpenCCU (⭐1.8k)](https://github.com/OpenCCU/OpenCCU) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).
-*   [openccu-lite (⭐0)](https://github.com/hobbyquaker/openccu-lite) - Fork of OpenCCU: Homematic CCU firmware without ReGaHSS and with new web interface.
+*   [OpenCCU (⭐1.9k)](https://github.com/OpenCCU/OpenCCU) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).
+*   [openccu-lite (⭐5)](https://github.com/hobbyquaker/openccu-lite) - Fork of OpenCCU: Homematic CCU firmware without ReGaHSS and with new web interface.
 *   [piVCCU (⭐316)](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 
 ## Alternative Sensors, Actuators and Hardware Modifications
 
 *   [AskSin++](https://asksinpp.de/) - Dokumentation, Sketche und Community-Projekte rund um Selbstbau-Komponenten für HomeMatic auf Basis von Arduino/STM32 und CC1101.
 *   [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) - Einführung, Dokumentation und Projekte rund um Selbstbau-Komponenten mit AskSinPP
-*   [Beispiel\_AskSinPP (⭐94)](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel Sketche für die Verwendung der [AskSinPP (⭐109)](https://github.com/pa-pa/AskSinPP) Bibliothek
+*   [Beispiel\_AskSinPP (⭐94)](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel Sketche für die Verwendung der [AskSinPP (⭐110)](https://github.com/pa-pa/AskSinPP) Bibliothek
 *   [HAUS-BUS.DE](http://www.haus-bus.de/) - 💵 Homematic Wired kompatible Geräte.
 *   [HB-RF-ETH (⭐58)](https://github.com/alexreinert/HB-RF-ETH) - Platine und Firmware um ein Homematic Funkmodul (HM-MOD-RPI-PCB, RPI-RF-MOD) per Netzwerk an debmatic oder piVCCU anzubinden.
-*   [HB-RF-ETH-ng (⭐14)](https://github.com/Xerolux/HB-RF-ETH-ng) - Modernisierte Next-Generation-Firmware für die HB-RF-ETH Platine mit neuer Weboberfläche und MQTT-Monitoring.
+*   [HB-RF-ETH-ng (⭐18)](https://github.com/Xerolux/HB-RF-ETH-ng) - Modernisierte Next-Generation-Firmware für die HB-RF-ETH Platine mit neuer Weboberfläche und MQTT-Monitoring.
 *   [HB-UNI-Sen-WEA (⭐70)](https://github.com/jp112sdl/HB-UNI-Sen-WEA) - Selbstbau-Wetterstation für HomeMatic.
 *   [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Verschiedene Homebrew Sensoren/Aktoren für Homematic Wired.
 *   [stall.biz](https://www.stall.biz/) - 💵 Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
@@ -88,7 +88,9 @@ A curated list of Homematic related links :sparkles:
 ## CCU Addons
 
 *   [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
-*   [ccu-addon-mui (⭐6)](https://github.com/firsttris/ccu-addon-mui) - Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.
+*   [ccu-addon-battery (⭐0)](https://github.com/hobbyquaker/ccu-addon-battery) - Statistiken über den Batterieverbrauch von Homematic Geräten
+*   [ccu-addon-longpressdim (⭐0)](https://github.com/hobbyquaker/ccu-addon-longpressdim) - Dimmen mit langen Tastendruck über Schnittstellen- und Systemgrenzen hinweg.
+*   [ccu-addon-mui (⭐7)](https://github.com/firsttris/ccu-addon-mui) - Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.
 *   [CUxD (⭐67)](https://github.com/jens-maus/cuxd) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 *   [CUxD-Highcharts (⭐16)](https://github.com/homematic-community/CUxD-Highcharts) - Visualisiert CUxD DEVLOGS mit Highcharts/Highstock (verwaist, Maintainer gesucht).
 *   [Email (⭐47)](https://github.com/homematic-community/hm_email) - HomeMatic CCU Addon für den Email Versand.
@@ -107,24 +109,24 @@ A curated list of Homematic related links :sparkles:
 *   [Mosquitto (⭐34)](https://github.com/homematic-community/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and OpenCCU
 *   [Patcher (⭐1)](https://github.com/hobbyquaker/Patcher) - CCU3 Addon zur komfortablen Anwendung von Patches.
 *   [Redis (⭐2)](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and OpenCCU
-*   [RedMatic (⭐531)](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und OpenCCU. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
+*   [RedMatic (⭐528)](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und OpenCCU. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
 *   [ScriptParser (⭐14)](https://github.com/homematic-community/scriptparser) - Addon zur Syntaxprüfung von HomeMatic Skripten.
 *   [WebMatic (⭐27)](https://github.com/ldittmar81/webmatic) - Alternative, für Mobilgeräte optimierte Bedienoberfläche, läuft direkt auf der CCU.
-*   [XML-API (⭐128)](https://github.com/homematic-community/XML-API) - Vereinfachter CCU Zugriff via HTTP/XML.
+*   [XML-API (⭐129)](https://github.com/homematic-community/XML-API) - Vereinfachter CCU Zugriff via HTTP/XML.
 
 ## Interfacing Software
 
 *   [CCU-AI-MCP (⭐3)](https://github.com/mdzio/ccu-ai-mcp) - MCP-Server für OpenCCU/CCU, gibt KI-Assistenten (LLMs) über konfigurierbare HM-Skripte Zugriff auf das Smart Home.
-*   [CCU-Jack (⭐149)](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+*   [CCU-Jack (⭐147)](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
 *   [ccu-mcp (⭐9)](https://github.com/claymore666/ccu-mcp) - MCP server enabling AI assistants to control Homematic devices via the CCU's JSON-RPC API, no addon required.
-*   [homebridge-homematic (⭐176)](https://github.com/thkl/homebridge-homematic) - [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic Geräten in HomeKit.
-*   [homebridge-homematicip (⭐85)](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
-*   [homematicip-hcu (⭐72)](https://github.com/Ediminator/homematicip-hcu) - [Home Assistant](https://www.home-assistant.io/) Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.
-*   [homematicip\_local (⭐596)](https://github.com/SukramJ/homematicip_local) - [Home Assistant](https://www.home-assistant.io/) Custom Component zur lokalen Anbindung von CCU/OpenCCU (Homematic und Homematic IP), basiert auf aiohomematic.
-*   [matterbridge-homematic (⭐4)](https://github.com/hobbyquaker/matterbridge-homematic) - [Matterbridge (⭐977)](https://github.com/Luligu/matterbridge) Plugin to bridge a Homematic CCU's devices to the Matter ecosystem.
-*   [node-red-contrib-ccu (⭐69)](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
-*   [OpenCCU-Loom (⭐5)](https://github.com/SukramJ/openccu-loom) - Standalone Go daemon bridging Homematic / Homematic IP CCUs to MQTT (with Home Assistant Discovery), REST + WebSocket, an MCP server and a native Matter bridge.
-*   [RedMatic-HomeKit (⭐58)](https://github.com/rdmtc/RedMatic-HomeKit) - HAP-Nodejs basierte Node-RED Nodes um (Homematic-)Geräte in HomeKit einzubinden.
+*   [homebridge-homematic (⭐176)](https://github.com/thkl/homebridge-homematic) - [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic Geräten in HomeKit.
+*   [homebridge-homematicip (⭐86)](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+*   [homematicip-hcu (⭐74)](https://github.com/Ediminator/homematicip-hcu) - [Home Assistant](https://www.home-assistant.io/) Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.
+*   [homematicip\_local (⭐604)](https://github.com/SukramJ/homematicip_local) - [Home Assistant](https://www.home-assistant.io/) Custom Component zur lokalen Anbindung von CCU/OpenCCU (Homematic und Homematic IP), basiert auf aiohomematic.
+*   [matterbridge-homematic (⭐6)](https://github.com/hobbyquaker/matterbridge-homematic) - [Matterbridge (⭐997)](https://github.com/Luligu/matterbridge) Plugin to bridge a Homematic CCU's devices to the Matter ecosystem.
+*   [node-red-contrib-ccu (⭐70)](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
+*   [OpenCCU-Loom (⭐7)](https://github.com/SukramJ/openccu-loom) - Standalone Go daemon bridging Homematic / Homematic IP CCUs to MQTT (with Home Assistant Discovery), REST + WebSocket, an MCP server and a native Matter bridge.
+*   [RedMatic-HomeKit (⭐56)](https://github.com/rdmtc/RedMatic-HomeKit) - HAP-Nodejs basierte Node-RED Nodes um (Homematic-)Geräte in HomeKit einzubinden.
 *   [RedMatic-Matter (⭐0)](https://github.com/rdmtc/RedMatic-Matter) - Matter.js basierte Node-RED Nodes, die Homematic-Geräte und beliebige Node-RED-Daten als Matter-Bridge bereitstellen.
 
 ## Misc Software
@@ -151,7 +153,7 @@ A curated list of Homematic related links :sparkles:
 *   [binrpc (⭐15)](https://github.com/hobbyquaker/binrpc) - Xmlrpc\_bin protocol client and server Node.js module.
 *   [go-hmccu (⭐5)](https://github.com/mdzio/go-hmccu) - Go library for interfacing the CCU.
 *   [hm-discover (⭐7)](https://github.com/hobbyquaker/hm-discover) - Node.js module to discover Homematic CCUs and interfaces.
-*   [Homematic IP Connect API (⭐34)](https://github.com/homematicip/connect-api) - Official WebSocket API and example plugins (Java, Node.js) for developing plugins for the Homematic IP Home Control Unit (HCU).
+*   [Homematic IP Connect API (⭐35)](https://github.com/homematicip/connect-api) - Official WebSocket API and example plugins (Java, Node.js) for developing plugins for the Homematic IP Home Control Unit (HCU).
 *   [homematic-gqls (⭐1)](https://github.com/martin-riedl/homematic-gqls) - A GraphQL service to query Homematic IP components based on [homematicip-rest-api (⭐239)](https://github.com/hahn-th/homematicip-rest-api).
 *   [homematic-rega (⭐8)](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface.
 *   [homematic-xmlrpc (⭐7)](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module.
@@ -163,14 +165,14 @@ A curated list of Homematic related links :sparkles:
 ## Smart Home Software supporting Homematic
 
 *   [FHEM](https://fhem.de/) - via [HMCCU](https://wiki.fhem.de/wiki/HMCCU) Modul.
-*   [Home Assistant](https://www.home-assistant.io/) - via [homematicip\_local (⭐596)](https://github.com/SukramJ/homematicip_local) (CCU/OpenCCU) oder [homematicip-hcu (⭐72)](https://github.com/Ediminator/homematicip-hcu) (HCU).
+*   [Home Assistant](https://www.home-assistant.io/) - via [homematicip\_local (⭐604)](https://github.com/SukramJ/homematicip_local) (CCU/OpenCCU) oder [homematicip-hcu (⭐74)](https://github.com/Ediminator/homematicip-hcu) (HCU).
 *   [ioBroker](https://www.iobroker.net/?lang=de) - via [hm-rpc (⭐62)](https://github.com/ioBroker/ioBroker.hm-rpc) (Interface-Prozesse) und [hm-rega (⭐43)](https://github.com/ioBroker/ioBroker.hm-rega) (ReGaHSS) Adapter, [hmip (⭐31)](https://github.com/iobroker-community-adapters/ioBroker.hmip) für den Homematic IP Cloud Access Point.
 *   [IP-Symcon](https://www.symcon.de/) - 💵
 *   [Mediola](https://www.mediola.com/) - 💵
 *   [OpenHAB](https://www.openhab.org/) - via [Homematic Binding](https://www.openhab.org/addons/bindings/homematic/).
 *   [Pimatic](https://pimatic.org/)
-*   [Smart Home Engine ("she") (⭐11)](https://github.com/hobbyquaker/she)
-*   [SmartHomeNG](https://www.smarthomeng.de/) - via [Plugins (⭐44)](https://github.com/smarthomeNG/plugins).
+*   [Smart Home Engine ("she") (⭐15)](https://github.com/hobbyquaker/she)
+*   [SmartHomeNG](https://www.smarthomeng.de/) - via [Plugins (⭐43)](https://github.com/smarthomeNG/plugins).
 
 ## Misc
 

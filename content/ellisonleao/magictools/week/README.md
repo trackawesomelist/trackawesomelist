@@ -8,6 +8,10 @@
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Graphics / Animation
+
+*   :tada: [Ayatsuri2D](https://ayatsuri-2d.org/) - free, open-source 2D mesh rigging editor for Live2D-style puppets: deformers, parameters and physics, exports moc3, with a C ABI (Apache-2.0) to embed models in games. [Source (⭐20)](https://github.com/Yoru-KenomoVT/ayatsuri_2d)
+
 ### AI / Voxel Editors
 
 *   :money\_with\_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.

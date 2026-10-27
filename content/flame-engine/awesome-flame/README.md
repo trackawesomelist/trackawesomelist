@@ -6,6 +6,20 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Oct 27, 2026](/content/2026/10/27/README.md)
+
+### App Releases / Action
+
+*   Broadside - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.broadside) - Sail a wooden ship up a sea of big-eyed creatures while the cannons fire on their own, and sink a sea monster boss at the end of every voyage. By [Illumination Development](https://illuminationdevelopment.com)
+
+### App Releases / Arcade
+
+*   Pie Cannon - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.piecannon) - A carnival shooting gallery: fifty stalls down a world's fair midway, where you splat the ducks and spare the prizes, with a daily stall. By [Illumination Development](https://illuminationdevelopment.com)
+
+### App Releases / Casual
+
+*   Peel Frenzy - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.peelfrenzy) - Peel a hundred fruits, each in one clean strip: trace the line, and a tension meter tears the peel if you yank. By [Illumination Development](https://illuminationdevelopment.com)
+
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
 ### App Releases / Strategy
@@ -278,12 +292,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
 
-## [Nov 08, 2022](/content/2022/11/08/README.md)
-
-### Resources / Strategy
-
-*   [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
-
 ## [Oct 15, 2022](/content/2022/10/15/README.md)
 
 ### App Releases / Board
@@ -316,12 +324,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### Articles by [wolfenra.in](https://wolfenra.in)
 
 *   [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/) - (2020-07-13).
-
-## [Sep 26, 2022](/content/2022/09/26/README.md)
-
-### Non-English Content / Strategy
-
-*   [Spanish (Español) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
@@ -425,10 +427,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### Open Source / Casual
 
 *   [Ant Squash (⭐25)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
-
-### Non-English Content / Strategy
-
-*   [Mandarin Chinese (中文) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## [Jul 06, 2020](/content/2020/07/06/README.md)
 
