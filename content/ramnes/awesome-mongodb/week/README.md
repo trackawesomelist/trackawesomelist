@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ramnes/awesome-mongodb/README.md) / Weekly / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Tools / Desktop
+
+*   [Tabularis MongoDB plugin (⭐2)](https://github.com/TabularisDB/tabularis-mongodb-plugin) - MongoDB support for the Tabularis desktop client, including collection browsing, document queries and aggregation pipelines
+
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Tools / Administration
@@ -14,7 +20,7 @@
 
 ### Tools / Data
 
-*   [OLake (⭐1.5k)](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
+*   [OLake (⭐1.6k)](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
 
 ### Tools / Desktop
 
@@ -26,41 +32,41 @@
 
 ### Tools / Monitoring
 
-*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Self-hosted uptime monitor with a MongoDB ping check and alerting
+*   [SolidPing (⭐26)](https://github.com/fclairamb/solidping) - Self-hosted uptime monitor with a MongoDB ping check and alerting
 
 ### Tools / Shell
 
-*   [masume (⭐103)](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server
+*   [masume (⭐107)](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Tools / Desktop
 
-*   [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - Cross-platform SQL editor and database manager with native MongoDB support (part of the paid Ultimate tier), plus MySQL, Postgres, SQLite, and more.
+*   [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - Cross-platform database manager with native MongoDB support in the paid tiers (Professional and Business), plus MySQL, Postgres, SQLite, and more.
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
 ### Applications / Web
 
-*   [Unchained Engine (⭐206)](https://github.com/unchainedshop/unchained) - Headless GraphQL e-commerce framework for Node.js
+*   [Unchained Engine (⭐204)](https://github.com/unchainedshop/unchained) - Headless GraphQL e-commerce framework for Node.js
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Libraries / C#/.NET
 
-*   [FluentStorage (⭐462)](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
+*   [FluentStorage (⭐463)](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
 
 ## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
 
 ### Tools / Development
 
-*   [Argon (⭐172)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
+*   [Argon (⭐176)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Libraries / JavaScript
 
-*   [Monarch ORM (⭐32)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
+*   [Monarch ORM (⭐34)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
 *   [Typegoose (⭐2.3k)](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ### Libraries / R
@@ -107,7 +113,7 @@
 
 ### Applications / Web
 
-*   [LastSaaS (⭐173)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
+*   [LastSaaS (⭐178)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -119,7 +125,7 @@
 
 ### Tools / Desktop
 
-*   [MongoDB MCP Server (⭐1.1k)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
+*   [MongoDB MCP Server (⭐1.2k)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
 
 ## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
 
@@ -143,7 +149,7 @@
 
 ### Applications / Web
 
-*   [BookCars (⭐635)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+*   [BookCars (⭐641)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
@@ -189,7 +195,7 @@
 
 ### Tools / Desktop
 
-*   [WebDB (⭐332)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
+*   [WebDB (⭐329)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -205,7 +211,7 @@
 
 ### Libraries / JavaScript
 
-*   [Neuledge (⭐234)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
+*   [Neuledge (⭐235)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -279,8 +285,8 @@
 
 ### Tools / Development
 
-*   [Mongo Playground (⭐191)](https://github.com/feliixx/mongoplayground) - Online query playground
-*   [VS Code Extension (⭐359)](https://github.com/mongodb-js/vscode)
+*   [Mongo Playground (⭐192)](https://github.com/feliixx/mongoplayground) - Online query playground
+*   [VS Code Extension (⭐361)](https://github.com/mongodb-js/vscode)
 
 ### Tools / Low-Code
 
@@ -322,7 +328,7 @@
 
 ### Libraries / PHP
 
-*   [PHP Driver (⭐924)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHP Driver (⭐925)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Scala
 
@@ -543,7 +549,7 @@
 ### Tools / Administration
 
 *   [mtools (⭐2k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐786)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-gridfs (⭐784)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 
 ### Tools / Data
 
@@ -559,7 +565,7 @@
 
 ### Tools / Development
 
-*   [mgodatagen (⭐327)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [mgodatagen (⭐328)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [Mongo Seeding (⭐560)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐172)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.8k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
@@ -663,7 +669,7 @@
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐883)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐880)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
@@ -688,7 +694,7 @@
 
 ### Libraries / Java
 
-*   [Jongo (⭐586)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+*   [Jongo (⭐585)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
 *   [Hibernate OGM (⭐326)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.7k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
 *   [Mongojack (⭐277)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
@@ -723,7 +729,7 @@
 
 ### Tools / Deployment
 
-*   [ansible-role-mongodb (⭐348)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [ansible-role-mongodb (⭐347)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
 *   [chef-mongodb (⭐363)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 
 ### Tools / Monitoring

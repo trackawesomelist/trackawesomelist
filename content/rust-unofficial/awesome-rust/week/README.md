@@ -19,10 +19,15 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [emanuele-em/kanzo (⭐65)](https://github.com/emanuele-em/kanzo) \[[kanzo](https://crates.io/crates/kanzo)] - Self-hosted kanban board for humans and coding agents: a web board and an MCP server in one binary, with data in a local SQLite folder [![CI](https://github.com/emanuele-em/kanzo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/emanuele-em/kanzo/actions/workflows/ci.yml)
+*   [ipavlin98/traydex (⭐99)](https://github.com/ipavlin98/traydex) - Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload [![CI](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
 *   [lacs-project/sysknife (⭐70)](https://github.com/lacs-project/sysknife) \[[sysknife-cli](https://crates.io/crates/sysknife-cli)] - MCP server and CLI that let an AI agent administer Linux through typed, approval-gated actions; a policy-enforced daemon builds each command and keeps an Ed25519-signed audit log [![CI](https://github.com/lacs-project/sysknife/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lacs-project/sysknife/actions/workflows/ci.yml)
+
+### Applications / Utilities
+
+*   [FortoGraphy/prism-download-manager (⭐166)](https://github.com/FortoGraphy/prism-download-manager) - A cross-platform download manager built with Tauri that splits files into up to 32 parallel connections, with browser integration, video downloads, BitTorrent and crash-safe resume. [![CI](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml)
 
 ### Applications / Web
 
@@ -106,7 +111,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Aster-Privacy/Aster-Mail (⭐78)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
+*   [Aster-Privacy/Aster-Mail (⭐87)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
 *   [Graphicle-AI/graphicle (⭐282)](https://github.com/Graphicle-AI/graphicle) - A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file [![CI](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml)
 *   [HaseebKhalid1507/SynapsCLI (⭐51)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
 *   [scarletkc/Hatoba (⭐77)](https://github.com/scarletkc/Hatoba) - Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account [![CI](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml)
@@ -122,7 +127,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [raine/aven (⭐174)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
+*   [raine/aven (⭐214)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
 
 ### Applications / Security tools
 
@@ -1398,7 +1403,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [max-sixty/worktrunk (⭐9.2k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
+*   [max-sixty/worktrunk (⭐9.5k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
 
 ### Applications / Security tools
 
@@ -1480,7 +1485,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [aannoo/hcom (⭐566)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
+*   [aannoo/hcom (⭐606)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 *   [farion1231/cc-switch (⭐144k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
 
 ### Applications / System tools
@@ -1759,7 +1764,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [anylinuxfs (⭐1.6k)](https://github.com/nohajc/anylinuxfs) - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
+*   [anylinuxfs (⭐1.7k)](https://github.com/nohajc/anylinuxfs) - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
 *   [deshaw/procfd (⭐83)](https://github.com/deshaw/procfd) \[[procfd](https://crates.io/crates/procfd)] - Linux lsof replacement to list open file descriptors for processes
 *   [topheman/webassembly-component-model-experiments (⭐63)](https://github.com/topheman/webassembly-component-model-experiments) - WebAssembly Component Model based REPL with sandboxed multi-language plugin system [![Crates.io](https://img.shields.io/crates/v/pluginlab.svg)](https://crates.io/crates/pluginlab)
 
@@ -4566,7 +4571,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐401)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐402)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -4575,7 +4580,7 @@ A curated list of Rust code and resources.
 ### Applications / Utilities
 
 *   [raftario/licensor (⭐207)](https://github.com/raftario/licensor) - write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
-*   [rustdesk/rustdesk (⭐126k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
+*   [rustdesk/rustdesk (⭐127k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
 *   [vaultwarden (⭐69k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
 
 ### Development tools / FFI

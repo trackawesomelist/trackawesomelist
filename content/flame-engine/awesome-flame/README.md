@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### App Releases / Arcade
+
+*   Twinglide - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.twinglide) - Steer two wingsuit flyers at once, one per thumb, through an endless procedural canyon that narrows as you speed up. By [Teoktonos](https://twinglide.teoktonos.com)
+
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
 ### App Releases / Action

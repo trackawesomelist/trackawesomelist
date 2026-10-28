@@ -173,7 +173,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [NilsIrl/dockerc (⭐4.9k)](https://github.com/NilsIrl/dockerc) - Container image to single executable compiler.
 *   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐37)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
-*   [ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
+*   [ghostty (⭐63k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 *   [midasdf/zt (⭐78)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐63)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 *   [zdu (⭐4)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
@@ -181,7 +181,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [ghext (⭐3)](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 *   [nrdmn/ilo\_license\_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
 *   [Decryptu/zigdex (⭐25)](https://github.com/Decryptu/zigdex) - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
-*   [mtxr/claude-switch (⭐12)](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
+*   [mtxr/claude-switch (⭐12)](https://github.com/mtxr/claude-switch) - Switch between Claude Code and Claude Desktop accounts without logging out, with per-directory profiles and concurrent terminals. Standalone binaries for macOS and Linux; Claude Desktop support is macOS only. AI-assisted.
 *   [copyleftdev/whatthediff (⭐1)](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 *   [bare-devcontainer/templates (⭐3)](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images (⭐3)](https://github.com/bare-devcontainer/images/tree/main/zig).
 *   [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
@@ -190,6 +190,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [ktarasov/check\_links (⭐5)](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
 *   [lkraider/keywise (⭐1)](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 *   [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
+*   [ensky0/tildaz (⭐22)](https://github.com/ensky0/tildaz) - Native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt. AI-assisted.
 
 ### Linker
 
@@ -719,7 +720,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [happystraw/zig-webview (⭐10)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 *   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 *   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
-*   [zig-nostr/plaza (⭐8)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
+*   [zig-nostr/plaza (⭐9)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
 
 ### Game Development
 

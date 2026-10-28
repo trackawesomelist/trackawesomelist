@@ -34,6 +34,7 @@
 
 ### Graphics / Texture Tools
 
+*   :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 *   :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 
 ### Graphics / Tile/Level Editors
@@ -45,6 +46,7 @@
 
 *   :tada: [Ayatsuri2D](https://ayatsuri-2d.org/) - free, open-source 2D mesh rigging editor for Live2D-style puppets: deformers, parameters and physics, exports moc3, with a C ABI (Apache-2.0) to embed models in games. [Source (⭐20)](https://github.com/Yoru-KenomoVT/ayatsuri_2d)
 *   :tada: [LWF](https://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+*   :moneybag: [Riggy](https://riggyapp.com/) - AI rigs a layered PSD into a Spine 4.2 skeleton with animations from a text description; exports plain skeleton.json and atlas.
 *   :moneybag: [Spine](https://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 
 ### Graphics / Vector/Image Editor
@@ -137,7 +139,9 @@
 
 ### AI / Voxel Editors
 
+*   :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
 *   :money\_with\_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
+*   :money\_with\_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools\&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
 
 ### Collections / Voxel Editors
 

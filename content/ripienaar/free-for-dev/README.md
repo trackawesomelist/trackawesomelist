@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [UserNote](https://getusernote.com/) - A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.
+
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
 ### APIs, Data, and ML
@@ -1736,7 +1742,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐8k)](https://github.com/tutao/tutanota), so you can self-host.
+*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐8.1k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
@@ -1833,7 +1839,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐36k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐37k)](https://github.com/langfuse/langfuse)
 
 ## [Oct 07, 2024](/content/2024/10/07/README.md)
 

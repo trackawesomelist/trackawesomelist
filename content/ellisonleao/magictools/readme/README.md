@@ -129,6 +129,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 *   :tada: [MeshCoat](https://stuyk.github.io/meshcoat) - Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. [Source (⭐12)](https://github.com/stuyk/meshcoat)
 *   :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
+*   :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 *   :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 *   :tada: [Sprite Fusion Sprite Normals (⭐179)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
 
@@ -161,6 +162,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 *   :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 *   :tada: [Pixel Composer (⭐1.4k)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
+*   :moneybag: [Riggy](https://riggyapp.com/) - AI rigs a layered PSD into a Spine 4.2 skeleton with animations from a text description; exports plain skeleton.json and atlas.
 *   :moneybag: [Spine](https://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 *   :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
@@ -388,6 +390,7 @@ To get your pull request accepted, your link must follow these rules:
 
 ### AI
 
+*   :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
 *   :tada: [AI Game Developer (⭐4.5k)](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 *   :money\_with\_wings: [Coplay](https://coplay.dev?ref=github\&utm_source=magictools) - AI Copilot for Unity
 *   :tada: [Fluent Behaviour Tree (⭐395)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
@@ -399,6 +402,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :money\_with\_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 *   :money\_with\_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 *   :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
+*   :money\_with\_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools\&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
 *   :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
 
 ## Audio

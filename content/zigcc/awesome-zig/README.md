@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### Fundamentals / Utility
+
+*   [ensky0/tildaz (⭐22)](https://github.com/ensky0/tildaz) - Native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt. AI-assisted.
+
 ## [Oct 25, 2026](/content/2026/10/25/README.md)
 
 ### Language Essentials / File Format Processing
@@ -61,7 +67,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / GUI
 
-*   [zig-nostr/plaza (⭐8)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
+*   [zig-nostr/plaza (⭐9)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
 
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
@@ -265,7 +271,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [mtxr/claude-switch (⭐12)](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
+*   [mtxr/claude-switch (⭐12)](https://github.com/mtxr/claude-switch) - Switch between Claude Code and Claude Desktop accounts without logging out, with per-directory profiles and concurrent terminals. Standalone binaries for macOS and Linux; Claude Desktop support is macOS only. AI-assisted.
 
 ## [Jun 08, 2026](/content/2026/06/08/README.md)
 
@@ -1096,7 +1102,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [ghostty (⭐62k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
+*   [ghostty (⭐63k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 
 ## [Mar 02, 2025](/content/2025/03/02/README.md)
 

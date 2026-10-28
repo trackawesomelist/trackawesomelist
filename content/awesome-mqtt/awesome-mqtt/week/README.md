@@ -10,7 +10,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Brokers
 
-*   [Straum](https://github.com/straum-io/straum) - Experimental clustered MQTT 3.1.1 and 5 broker that acknowledges a publish only after a majority of its nodes has committed it.
+*   [Straum (⭐1)](https://github.com/straum-io/straum) - Experimental clustered MQTT 3.1.1 and 5 broker that acknowledges a publish only after a majority of its nodes has committed it.
 
 ### Cloud
 
@@ -23,6 +23,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 ### Multi-Platform
 
 *   [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.
+
+### Lighting / Firmwares for ESP based Devices
+
+*   [nanoleaf2mqtt (⭐0)](https://github.com/boesec/nanoleaf2mqtt) - Interface between Nanoleaf light panels and MQTT.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
@@ -46,7 +50,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Monitoring / Firmwares for ESP based Devices
 
-*   [SolidPing (⭐17)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+*   [SolidPing (⭐26)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 

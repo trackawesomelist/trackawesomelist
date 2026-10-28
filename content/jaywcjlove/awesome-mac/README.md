@@ -8,9 +8,17 @@
 
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
+### Terminal Apps / Databases
+
+*   [ghostty-designer (⭐50)](https://github.com/reemus-dev/ghostty-designer) - Live-preview editor for Ghostty themes, fonts and UI settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reemus-dev/ghostty-designer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Design and Product / Screenshot Tools
 
 *   [Glint (⭐1)](https://github.com/brentc22/glint) - Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/glint) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Download Management Tools / Audio Record and Process
+
+*   [Prism](https://prismdl.site/) - Open-source download manager that splits files into parallel connections, catches browser downloads, and saves videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FortoGraphy/prism-download-manager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Finance / Audio Record and Process
 
@@ -18,6 +26,7 @@
 
 ### Utilities / Menu Bar Tools
 
+*   [HideNotch](https://hidenotch.app) - Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/niklasravnsborg/HideNotch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Stash (⭐6)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
@@ -599,11 +608,11 @@
 
 ### Translation Tools / Audio Record and Process
 
-*   [Translate Like Me (⭐17)](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wiltodelta/translate-like-me) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Translate Like Me (⭐18)](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wiltodelta/translate-like-me) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 
-*   [DiskWise (⭐21)](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DreamOfXM/diskwise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DiskWise (⭐26)](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DreamOfXM/diskwise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SquirrelDisk (⭐2k)](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adileo/squirreldisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
