@@ -10,10 +10,12 @@ Tools Online
 
 ### Image compression
 
+*   [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert images (PNG/JPG/HEIC/WebP/AVIF) in the browser; core processing stays on-device
 *   [JFIF to JPG](https://jfiftojpg.app/) - Free JFIF to JPG/PNG converter that runs 100% in the browser, no uploads, no re-compression
 
 ### Tools collection
 
+*   [UGCLive free tools](https://ugc.live/tools) - Free browser tools for creators: best time to post, engagement rate calculator, hook and caption generators, teleprompter, no sign-up.
 *   [Benchvale Base64](https://benchvale.com/dev/base64) - Base64 encoder and decoder that runs in the browser, accepts the standard and URL-safe alphabets, re-adds missing padding, and ignores line breaks.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)

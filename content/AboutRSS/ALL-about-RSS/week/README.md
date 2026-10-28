@@ -23,9 +23,21 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [JabRSS](http://www.jotwewe.de/de/xmpp/jabrss/jabrss_en.htm)
 *   [JabRSS2](https://dev.cmeerw.org/Projects/jabrss)
 
+### universally from / software release tracking
+
+*   [What's New](https://whatsnew.fyi/) : follows the changelogs of over a thousand software products. One feed per product, one for everything, with the release notes carried in content:encoded [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://whatsnew.fyi/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### Aggregators of Indieblogs / Crypto or Blockchain relevant
+
+*   [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
+
 ### 🔨 Blog Generator that Support RSS / Crypto or Blockchain relevant
 
 *   [Rivista](https://git.xmpp-it.net/sch/Rivista) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.xmpp-it.net/sch/Rivista)
+
+### Podcast Feed Customization / Crypto or Blockchain relevant
+
+*   [ZeroAds](https://zeroads.ai/): Ad-free versions of your podcasts as private RSS feeds; works with any podcast app. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ## [Sep 07 - Sep 13, 2026](/content/2026/36/README.md)
 
@@ -482,6 +494,9 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### universally from / multiple sources
 
 *   [RSS Worker (⭐801)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
+
+### universally from / software release tracking
+
 *   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 
 ### universally from / webpage/html
@@ -702,7 +717,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [RSS hosting](https://www.rss-hosting.com/) <sup>[1329](https://t.me/s/aboutrss/1329)</sup>
 
-### universally from / multiple sources
+### universally from / software release tracking
 
 *   [Versionfeeds](https://versionfeeds.com/) <sup>[1309](https://t.me/s/aboutrss/1309)</sup>
 

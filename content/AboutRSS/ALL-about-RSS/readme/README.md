@@ -105,6 +105,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
     *   [RSS Feed Hosting](#rss-feed-hosting)
     *   [universally from](#universally-from)
         *   [multiple sources](#multiple-sources)
+        *   [software release tracking](#software-release-tracking)
         *   [webpage/html](#webpagehtml)
         *   [text](#text)
         *   [search results](#search-results)
@@ -1029,11 +1030,15 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [RSSerpent (⭐204)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software][oss icon]](https://github.com/RSSerpent/RSSerpent)
 *   [pyrsshub](https://pyrsshub.vercel.app/feeds) <sup>[1211](https://t.me/s/aboutrss/1211)</sup> [![Open-Source Software][oss icon]](https://github.com/hillerliao/RSSHub-python)
 *   [OpenRSS](https://openrss.org/) <sup>[1275](https://t.me/s/aboutrss/1275)</sup> ![Freeware][freeware icon]
-*   [Versionfeeds](https://versionfeeds.com/) <sup>[1309](https://t.me/s/aboutrss/1309)</sup>
 *   [RSS Worker (⭐801)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software][oss icon]](https://github.com/yllhwa/RSSWorker)
-*   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 *   [mkfd (⭐284)](https://github.com/TBosak/mkfd)
 *   [NebulaPicker (⭐18)](https://github.com/djsilva99/nebulapicker) [![Open-Source Software][oss icon]](https://github.com/djsilva99/nebulapicker)
+
+#### software release tracking
+
+*   [Versionfeeds](https://versionfeeds.com/) <sup>[1309](https://t.me/s/aboutrss/1309)</sup>
+*   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
+*   [What's New](https://whatsnew.fyi/) : follows the changelogs of over a thousand software products. One feed per product, one for everything, with the release notes carried in content:encoded [![Online][Online icon]](https://whatsnew.fyi/)![Freeware][freeware icon]
 
 #### webpage/html
 
@@ -1826,6 +1831,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
 *   [积薪](https://firewood.news/) <sup>[1331](https://t.me/s/aboutrss/1331)</sup>
 *   [Blog of the .Day](https://blogofthe.day/) <sup>[1458](https://t.me/s/aboutrss/1458)</sup> [![Open-Source Software][oss icon]](https://github.com/artlung/blogofthe.day)
+*   [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
 
 ## 🔨 Blog Generator that Support RSS
 
@@ -2093,6 +2099,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [huffduffer](https://huffduffer.com/) <sup>[562](https://t.me/s/aboutrss/562)</sup>
 *   [podcast4us](https://podcast4us.herokuapp.com/) <sup>[595](https://t.me/s/aboutrss/595)</sup> : generates RSS feed for ximalaya.com [![Open-Source Software][oss icon]](https://github.com/hondajojo/podcast4us)![Freeware][freeware icon]
 *   [RECAST](https://recastthis.com/) <sup>[931](https://t.me/s/aboutrss/931)</sup>
+*   [ZeroAds](https://zeroads.ai/): Ad-free versions of your podcasts as private RSS feeds; works with any podcast app. ![Online][Online icon]![AI][AI icon]
 
 ## Podcast Feed to Fediverse
 

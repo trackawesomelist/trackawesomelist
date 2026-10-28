@@ -6,6 +6,12 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Tutorials
+
+*   [AgentFEM Simulation-to-Surrogate Mini-Lab](https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/) - Compare raw and physics-informed features in a NumPy regression exercise using ten finite-element cases and a held-out split.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Tools
@@ -1347,7 +1353,7 @@
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [awesome-dataviz (⭐4.4k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐79k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐80k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐691)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐101)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
@@ -1706,7 +1712,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐75k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐12k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐326k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐331k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.5k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐18k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

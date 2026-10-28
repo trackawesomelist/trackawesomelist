@@ -6,6 +6,16 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### Image compression
+
+*   [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert images (PNG/JPG/HEIC/WebP/AVIF) in the browser; core processing stays on-device
+
+### Tools collection
+
+*   [UGCLive free tools](https://ugc.live/tools) - Free browser tools for creators: best time to post, engagement rate calculator, hook and caption generators, teleprompter, no sign-up.
+
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
 ### Image compression

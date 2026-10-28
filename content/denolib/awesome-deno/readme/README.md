@@ -131,7 +131,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [ImageScript (⭐677)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐680)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 *   [kavel (⭐2)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 *   [monke (⭐6)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
@@ -219,6 +219,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Validation
 
+*   [is-kit (⭐139)](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 *   [zod (⭐44k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Web framework
@@ -229,7 +230,7 @@ This list is a collection of the best Deno modules and resources.
 *   [drash (⭐1.1k)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 *   [faster (⭐57)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 *   [faster\_react (⭐100)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
-*   [hono (⭐32k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+*   [hono (⭐33k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 *   [oak (⭐5.4k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
     *   [oak-http-proxy (⭐42)](https://github.com/cmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
     *   [oak-routing-ctrl (⭐10)](https://github.com/Thesephi/oak-routing-ctrl) - TypeScript Decorators for easy scaffolding API services with the oak framework.
@@ -247,7 +248,7 @@ This list is a collection of the best Deno modules and resources.
 *   [forwarded (⭐8)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [fresh\_chart (⭐154)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 *   [gentleRpc (⭐45)](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐204)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [gql (⭐205)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [graphql-tag (⭐8)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
 *   [nats (⭐181)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 *   [obsidian (⭐765)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.

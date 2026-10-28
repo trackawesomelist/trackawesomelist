@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [hawknewton/matrix-splash.nvim (⭐1)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
 
+### Split and Window / Tmux
+
+*   [minhyeoky/tmux-oil.nvim (⭐10)](https://github.com/minhyeoky/tmux-oil.nvim) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Plugin Manager
@@ -4975,7 +4979,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐401)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐402)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 

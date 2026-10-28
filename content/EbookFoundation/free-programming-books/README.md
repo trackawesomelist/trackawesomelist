@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 399K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 400K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/readme/README.md) ]
 ## Related Files
@@ -12,6 +12,72 @@
 - [Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### Graphs / Neo4J
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://web.archive.org/web/20221208003740/https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)* *( :card\_file\_box: archived)*
+
+### Lean / TeX
+
+*   [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) - David Thrane Christiansen (HTML) (CC BY)
+
+### SQL Server / Play Scala
+
+*   [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/simple-talk/free-stuff/the-red-gate-guide-to-sql-server-team-based-development/) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
+
+## [Oct 22, 2026](/content/2026/10/22/README.md)
+
+### Hack / Spock Framework
+
+*   [Hack Documentation](https://docs.hhvm.com/hack-overview/)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Programming with Python](https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf) - Thomas Weise (PDF) (CC BY‑NC‑SA)
+
+### SQL Server / Play Scala
+
+*   [Protecting SQL Server Data](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/protecting-data/) - John Magnabosco (PDF)
+*   [SQL Server Tacklebox](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/sql-server-tacklebox/) - Rodney Landrum (PDF)
+
+## [Oct 20, 2026](/content/2026/10/20/README.md)
+
+### Ada
+
+*   [Ada for the C++ or Java Developer](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/) - Quentin Ochem (HTML, PDF, EPUB) (CC BY-SA)
+
+### DTrace / Non-X86
+
+*   [IllumOS Dynamic Tracing Guide](https://illumos.org/books/dtrace/preface.html)
+
+## [Oct 16, 2026](/content/2026/10/16/README.md)
+
+### JavaScript / Svelte
+
+*   [Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte) - Svelte.dev
+
+### Lisp / TeX
+
+*   [Google's Common Lisp Style Guide (⭐1)](https://github.com/emacsmirror/google-c-style/blob/master/lispguide.md)
+
+### PHP / CakePHP
+
+*   [CakePHP Cookbook 2.x](https://book.cakephp.org/2.0/en/) (HTML)
+
+### PowerShell / Zend
+
+*   [PowerShell 2.0 – One CMDLET At A Time](https://web.archive.org/web/20210712072756/http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF) *( :card\_file\_box: archived)*
+
+### Prolog / Zend
+
+*   [Concise Intro to Prolog](https://matuszek.org/prolog/prolog.html) - David Matuszek
+
+### SQL Server / Play Scala
+
+*   [Defensive Database Programming](https://web.archive.org/web/20241005112102/https://www.red-gate.com/library/defensive-database-programming) - Alex Kuznetsov (PDF) *( :card\_file\_box: archived)*
+*   [SQL Server Transaction Log Management](https://web.archive.org/web/20200429204030/https://www.red-gate.com/library/sql-server-transaction-log-management) - Tony Davis, Gail Shaw (PDF) *( :card\_file\_box: archived)*
 
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
@@ -208,7 +274,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Learn Programming Logic with Games - Python & Pygame (⭐0)](https://github.com/kwdeveloper/learn-programming-logic-with-pygame) - Wilson Kawano (EPUB, PDF) (CC BY-NC-SA)
+*   [Learn Programming Logic with Games - Python & Pygame (⭐1)](https://github.com/kwdeveloper/learn-programming-logic-with-pygame) - Wilson Kawano (EPUB, PDF) (CC BY-NC-SA)
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -642,7 +708,7 @@
 
 ### Arduino
 
-*   [Science, Programming, Art and Radioelectronics Club (SPARC) (⭐78)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
+*   [Science, Programming, Art and Radioelectronics Club (SPARC) (⭐77)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 ## [Mar 06, 2025](/content/2025/03/06/README.md)
 
@@ -667,7 +733,7 @@
 
 ### Java / Bootstrap
 
-*   [Learn Java for FTC (⭐182)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
+*   [Learn Java for FTC (⭐185)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 
 ## [Oct 27, 2024](/content/2024/10/27/README.md)
 
@@ -1185,7 +1251,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Learn Python 3 (⭐498)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+*   [Learn Python 3 (⭐506)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 
 ## [Nov 09, 2022](/content/2022/11/09/README.md)
 
@@ -1228,10 +1294,6 @@
 ### DBMS / Non-X86
 
 *   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
-
-### Graphs / Neo4J
-
-*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### JavaScript / Wicket
 
@@ -1942,7 +2004,7 @@
 
 ### Raku / Tornado
 
-*   [Think Raku (⭐25)](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) - Laurent Rosenfeld, Allen B. Downey (PDF)
+*   [Think Raku (⭐26)](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) - Laurent Rosenfeld, Allen B. Downey (PDF)
 
 ### Raspberry Pi / Tornado
 
@@ -1977,8 +2039,8 @@
 
 ### Visual Prolog / Vulkan
 
-*   [Vulkan Tutorial Java (⭐212)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
-*   [Vulkan Tutorial RS (⭐752)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *( :construction: in process)* (Rust)
+*   [Vulkan Tutorial Java (⭐213)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
+*   [Vulkan Tutorial RS (⭐751)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *( :construction: in process)* (Rust)
 
 ## [Aug 26, 2022](/content/2022/08/26/README.md)
 
@@ -2246,7 +2308,7 @@
 
 ### OCaml / PicoLisp
 
-*   [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo (⭐299)](https://github.com/ocaml/ocamlunix/))
+*   [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo (⭐300)](https://github.com/ocaml/ocamlunix/))
 
 ### Solidity / Play Scala
 
@@ -2526,7 +2588,6 @@
 ### Prolog / Zend
 
 *   [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
-*   [Concise Intro to Prolog](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
 *   [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
 *   [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
 *   [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
@@ -2542,7 +2603,7 @@
 
 ### C / Non-X86
 
-*   [Coursebook (⭐3.4k)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
+*   [Coursebook (⭐3.8k)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 
 ## [Oct 10, 2021](/content/2021/10/10/README.md)
 
@@ -2617,10 +2678,6 @@
 ### JavaScript / React
 
 *   [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
-
-### JavaScript / Svelte
-
-*   [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 
 ### MongoDB / PicoLisp
 
@@ -2717,7 +2774,7 @@
 
 ### Graphs / GraphQL
 
-*   [Fullstack GraphQL (⭐598)](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
+*   [Fullstack GraphQL (⭐599)](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
 
 ### Language Agnostic / TeX
 
@@ -2870,7 +2927,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [Introduction to SQL (⭐496)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to SQL (⭐500)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 
 ## [May 07, 2021](/content/2021/05/07/README.md)
 
@@ -3847,10 +3904,6 @@
 *   [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers *( :card\_file\_box: archived)*
 *   [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook *( :card\_file\_box: archived)*
 
-### PHP / CakePHP
-
-*   [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
-
 ### PHP / Drupal
 
 *   [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
@@ -3921,13 +3974,11 @@
 ### SQL Server / Play Scala
 
 *   [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) - Brad McGehee (PDF) (email address *requested*)
-*   [Defensive Database Programming](https://www.red-gate.com/library/defensive-database-programming) - Alex Kuznetsov (PDF)
 *   [Fundamentals Of SQL Server 2012 Replication](https://www.red-gate.com/library/fundamentals-of-sql-server-2012-replication) - Sebastian Meine (PDF) (email address *requested*)
 *   [How to Become an Exceptional DBA, Second edition](http://www.red-gate.com/community/books/exceptional-dba-book) - Brad McGehee (PDF)
 *   [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) - Benjamin Nevarez (PDF) (email address *requested*)
 *   [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) - Brad McGehee (PDF)
 *   [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) - Tim Ford, Louis Davidson (PDF)
-*   [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) - John Magnabosco (PDF)
 *   [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) - Shawn McGehee (PDF) (email address *requested*)
 *   [SQL Server Execution Plans, Third Edition](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) - Grant Fritchey (PDF)
 *   [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) - Glenn Berry (PDF)
@@ -3935,12 +3986,9 @@
 *   [SQL Server Source Control Basics](https://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics) - Rob Sheldon, Rob Richardson, Tony Davis (PDF)
 *   [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) - Holger Schmeling (PDF)
 *   [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5) (PDF)
-*   [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) - Rodney Landrum (PDF)
-*   [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) - Tony Davis, Gail Shaw (PDF)
 *   [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream) - Jacob Sebastian, Sven Aelterman (PDF)
 *   [The Art of XSD](https://www.red-gate.com/library/the-art-of-xsd) - Jacob Sebastian (PDF)
 *   [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7) (PDF)
-*   [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
 *   [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
 
 ## [Jan 06, 2020](/content/2020/01/06/README.md)
@@ -4096,12 +4144,6 @@
 
 *   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 
-## [Apr 26, 2019](/content/2019/04/26/README.md)
-
-### Ada
-
-*   [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
-
 ## [Apr 04, 2019](/content/2019/04/04/README.md)
 
 ### Kotlin / Vue.js
@@ -4118,7 +4160,7 @@
 
 ### C / Non-X86
 
-*   [Bare-metal programming for ARM (⭐853)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](https://umanovskis.se/files/arm-baremetal-ebook.pdf)
+*   [Bare-metal programming for ARM (⭐858)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](https://umanovskis.se/files/arm-baremetal-ebook.pdf)
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -4645,12 +4687,6 @@
 
 *   [The Self Handbook](http://handbook.selflanguage.org)
 
-## [Oct 12, 2017](/content/2017/10/12/README.md)
-
-### Hack / Spock Framework
-
-*   [Hack Documentation](https://docs.hhvm.com/hack/)
-
 ## [Oct 08, 2017](/content/2017/10/08/README.md)
 
 ### Lua / PicoLisp
@@ -4715,7 +4751,7 @@
 
 ### C# / Non-X86
 
-*   [High level asynchronous programming with Reactive Extensions (⭐76)](https://github.com/petroemil/Rx.Book) - Emil Petro
+*   [High level asynchronous programming with Reactive Extensions (⭐77)](https://github.com/petroemil/Rx.Book) - Emil Petro
 
 ## [Jun 16, 2017](/content/2017/06/16/README.md)
 
@@ -4786,7 +4822,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Build applications in Python the antitextbook (⭐578)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+*   [Build applications in Python the antitextbook (⭐580)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 
 ## [Feb 24, 2017](/content/2017/02/24/README.md)
 
@@ -4901,7 +4937,7 @@
 
 ### Unix / Deno
 
-*   [Unix as IDE (⭐396)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+*   [Unix as IDE (⭐398)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 
 ## [Oct 02, 2016](/content/2016/10/02/README.md)
 
@@ -4921,10 +4957,6 @@
 
 *   [Kha Handbook (⭐1.6k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
-### Lisp / TeX
-
-*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
-
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -4938,7 +4970,7 @@
 
 ### Go / Phoenix
 
-*   [Web apps in Go, the anti textbook (⭐3.3k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) (CC BY-SA)
+*   [Web apps in Go, the anti textbook (⭐3.2k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) (CC BY-SA)
 
 ## [Aug 18, 2016](/content/2016/08/18/README.md)
 
@@ -4954,7 +4986,7 @@
 
 ### IoT / Bootstrap
 
-*   [IoT in five days- V1.1 (⭐159)](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
+*   [IoT in five days- V1.1 (⭐158)](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 
 ## [Jul 07, 2016](/content/2016/07/07/README.md)
 
@@ -5176,7 +5208,7 @@
 
 ### Ruby / Sinatra
 
-*   [Sinatra Book (⭐676)](https://github.com/sinatra/sinatra-book)
+*   [Sinatra Book (⭐677)](https://github.com/sinatra/sinatra-book)
 
 ## [Dec 13, 2015](/content/2015/12/13/README.md)
 
@@ -5337,7 +5369,7 @@
 
 ### VHDL / Deno
 
-*   [Free Range VHDL (⭐358)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+*   [Free Range VHDL (⭐362)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 
 ## [Nov 13, 2015](/content/2015/11/13/README.md)
 
@@ -5755,7 +5787,7 @@
 
 ### Ruby / Tornado
 
-*   [Practicing Ruby (⭐691)](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
+*   [Practicing Ruby (⭐692)](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
 
 ## [May 14, 2014](/content/2014/05/14/README.md)
 
@@ -5957,7 +5989,7 @@
 ### Ruby / Ruby on Rails
 
 *   [Rails Girls Guides](http://guides.railsgirls.com)
-*   [Upgrading to Rails 4 (⭐452)](https://github.com/alindeman/upgradingtorails4)
+*   [Upgrading to Rails 4 (⭐451)](https://github.com/alindeman/upgradingtorails4)
 
 ## [Jan 02, 2014](/content/2014/01/02/README.md)
 
@@ -5984,12 +6016,6 @@
 
 *   [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio
 
-## [Dec 25, 2013](/content/2013/12/25/README.md)
-
-### DTrace / Non-X86
-
-*   [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-
 ## [Dec 24, 2013](/content/2013/12/24/README.md)
 
 ### Mathematica / PicoLisp
@@ -6007,12 +6033,6 @@
 ### HTML and CSS / Spock Framework
 
 *   [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
-
-## [Dec 03, 2013](/content/2013/12/03/README.md)
-
-### PowerShell / Zend
-
-*   [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 
 ## [Dec 02, 2013](/content/2013/12/02/README.md)
 

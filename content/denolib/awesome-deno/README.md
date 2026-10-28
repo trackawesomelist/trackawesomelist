@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Oct 28, 2026](/content/2026/10/28/README.md)
+
+### Modules / Validation
+
+*   [is-kit (⭐139)](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
+
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Modules / Testing
@@ -299,7 +305,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [hono (⭐32k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+*   [hono (⭐33k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 
 ### Modules / Web utils
 
@@ -487,7 +493,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐677)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐680)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -536,7 +542,7 @@ Curated list of awesome things related to Deno
 ### Modules / Web utils
 
 *   [forwarded (⭐8)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
-*   [gql (⭐204)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [gql (⭐205)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [nats (⭐181)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 *   [router (⭐54)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 
