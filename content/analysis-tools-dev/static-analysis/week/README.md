@@ -12,6 +12,10 @@
 
 *   **TypeScript Call Graph** :warning: — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
+### Other / [Other](#other-1)
+
+*   [Frame (⭐49)](https://github.com/lambdasec/frame) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
+
 ### Multiple languages / [Other](#other-1)
 
 *   **ezno** :warning: — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.

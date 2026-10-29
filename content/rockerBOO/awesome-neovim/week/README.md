@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [minhyeoky/tmux-oil.nvim (⭐10)](https://github.com/minhyeoky/tmux-oil.nvim) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
 
+### Pre-made Configuration / Stats Tracking
+
+*   [gamjagoon/earlgrey.nvim (⭐0)](https://github.com/gamjagoon/earlgrey.nvim) - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Plugin Manager
@@ -54,16 +58,16 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [upyesp/epher.nvim (⭐1)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+*   [upyesp/epher.nvim (⭐2)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 
 ### Colorscheme / Markdown and LaTeX
 
 *   [zacesshq/zacess.nvim (⭐0)](https://github.com/zacesshq/zacess.nvim) - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
-*   [daaanny90/interlinked.nvim (⭐0)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
+*   [daaanny90/interlinked.nvim (⭐2)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 
 ### Game / Competitive Programming
 
-*   [FrancescoDerme/tuna.nvim (⭐13)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
+*   [FrancescoDerme/tuna.nvim (⭐19)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 
 ### Workflow / Stats Tracking
 
@@ -147,7 +151,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [justinhj/battery.nvim (⭐76)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
+*   [justinhj/battery.nvim (⭐77)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
 *   [rifen/timescope (⭐7)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
 
 ### Code Runner / Quickfix
@@ -207,12 +211,12 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [Doehnert/laravel-log-watcher.nvim (⭐2)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
+*   [Doehnert/laravel-log-watcher.nvim (⭐3)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
 *   [7KiLL/copybara.nvim (⭐6)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ### Code Runner / Quickfix
 
-*   [wurli/jet.nvim (⭐35)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
+*   [wurli/jet.nvim (⭐37)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 
 ### Git / Quickfix
 
@@ -362,7 +366,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Tree-sitter Based
 
-*   [kamegoro/tobira.nvim (⭐55)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐56)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 
 ### Editing Support / Scrollbar
 

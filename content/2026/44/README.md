@@ -24,6 +24,10 @@
 
 *   **TypeScript Call Graph** :warning: — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
+### Other / [Other](#other-1)
+
+*   [Frame (⭐49)](https://github.com/lambdasec/frame) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
+
 ### Multiple languages / [Other](#other-1)
 
 *   **ezno** :warning: — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.
@@ -692,6 +696,10 @@
 
 *   [dsse (⭐0)](https://github.com/probityai/agent-evidence/tree/main/crates/dsse) \[[dsse](https://crates.io/crates/dsse)] - DSSE (Dead Simple Signing Envelope) envelopes with PAE pre-authentication encoding: construction, signing and threshold verification, as used by in-toto and Sigstore attestations.
 
+### Libraries / Finance
+
+*   [0xArchiveIO/0xarchive-quant (⭐64)](https://github.com/0xArchiveIO/0xarchive-quant) - Rust backtesting engine for Hyperliquid perpetuals, with Python bindings ![Engine CI](https://github.com/0xArchiveIO/0xarchive-quant/actions/workflows/engine.yml/badge.svg?branch=main)
+
 ## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
@@ -750,6 +758,10 @@
 ### Design and UI
 
 *   [logoapi.sh](https://logoapi.sh/) - Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 1M free requests a month per site.
+
+### Miscellaneous
+
+*   [Keeper.sh](https://www.keeper.sh) - A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.
 
 ## [32. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -1060,6 +1072,10 @@
 ### Split and Window / Tmux
 
 *   [minhyeoky/tmux-oil.nvim (⭐10)](https://github.com/minhyeoky/tmux-oil.nvim) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
+
+### Pre-made Configuration / Stats Tracking
+
+*   [gamjagoon/earlgrey.nvim (⭐0)](https://github.com/gamjagoon/earlgrey.nvim) - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
 
 ## [37. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 

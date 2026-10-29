@@ -49,6 +49,10 @@ A curated list of Rust code and resources.
 
 *   [dsse (⭐0)](https://github.com/probityai/agent-evidence/tree/main/crates/dsse) \[[dsse](https://crates.io/crates/dsse)] - DSSE (Dead Simple Signing Envelope) envelopes with PAE pre-authentication encoding: construction, signing and threshold verification, as used by in-toto and Sigstore attestations.
 
+### Libraries / Finance
+
+*   [0xArchiveIO/0xarchive-quant (⭐64)](https://github.com/0xArchiveIO/0xarchive-quant) - Rust backtesting engine for Hyperliquid perpetuals, with Python bindings ![Engine CI](https://github.com/0xArchiveIO/0xarchive-quant/actions/workflows/engine.yml/badge.svg?branch=main)
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Applications
@@ -113,7 +117,7 @@ A curated list of Rust code and resources.
 
 *   [Aster-Privacy/Aster-Mail (⭐87)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
 *   [Graphicle-AI/graphicle (⭐282)](https://github.com/Graphicle-AI/graphicle) - A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file [![CI](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml)
-*   [HaseebKhalid1507/SynapsCLI (⭐51)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
+*   [HaseebKhalid1507/SynapsCLI (⭐52)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
 *   [scarletkc/Hatoba (⭐77)](https://github.com/scarletkc/Hatoba) - Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account [![CI](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml)
 *   [unxsist/jet-pilot (⭐630)](https://github.com/unxsist/jet-pilot) - An open-source Kubernetes desktop client built with Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal [![Test](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml)
 
@@ -139,7 +143,7 @@ A curated list of Rust code and resources.
 *   [MenkeTechnologies/fusevm](https://crates.io/crates/fusevm) - a polygot virtual machine and JIT
 *   [MenkeTechnologies/temprs](https://crates.io/crates/temprs) - a tempfile manager with stack mechanism
 *   [MenkeTechnologies/zshrs](https://crates.io/crates/zshrs) - A zsh superset with JIT UNIX shell
-*   [orbit-tui (⭐57)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
+*   [orbit-tui (⭐59)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
 
 ### Applications / Text editors
 
@@ -147,7 +151,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [open-subs/opensubs (⭐96)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
+*   [open-subs/opensubs (⭐136)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
 
 ### Applications / Web Servers
 
@@ -275,7 +279,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [adileo/squirreldisk (⭐2k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
+*   [adileo/squirreldisk (⭐2.1k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
 
 ### Development tools / Workflow Automation
 
@@ -468,7 +472,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [firelock-ai/kin (⭐69)](https://github.com/firelock-ai/kin) - A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.
+*   [firelock-ai/kin (⭐68)](https://github.com/firelock-ai/kin) - A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.
 *   [Terrain (⭐258)](https://github.com/sopaco/terrain) - AI-native engineering environment management that makes your codebase agent-ready.
 
 ### Libraries / Data processing

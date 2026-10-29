@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 29, 2026](/content/2026/10/29/README.md)
+
+### Libraries / Finance
+
+*   [0xArchiveIO/0xarchive-quant (⭐64)](https://github.com/0xArchiveIO/0xarchive-quant) - Rust backtesting engine for Hyperliquid perpetuals, with Python bindings ![Engine CI](https://github.com/0xArchiveIO/0xarchive-quant/actions/workflows/engine.yml/badge.svg?branch=main)
+
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Applications / Productivity
@@ -215,7 +221,7 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [Aster-Privacy/Aster-Mail (⭐87)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
-*   [HaseebKhalid1507/SynapsCLI (⭐51)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
+*   [HaseebKhalid1507/SynapsCLI (⭐52)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
@@ -223,11 +229,11 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [orbit-tui (⭐57)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
+*   [orbit-tui (⭐59)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
 
 ### Applications / Video
 
-*   [open-subs/opensubs (⭐96)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
+*   [open-subs/opensubs (⭐136)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -403,7 +409,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [adileo/squirreldisk (⭐2k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
+*   [adileo/squirreldisk (⭐2.1k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
 
 ### Development tools / Formatters
 
@@ -590,7 +596,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [firelock-ai/kin (⭐69)](https://github.com/firelock-ai/kin) - A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.
+*   [firelock-ai/kin (⭐68)](https://github.com/firelock-ai/kin) - A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.
 *   [Terrain (⭐258)](https://github.com/sopaco/terrain) - AI-native engineering environment management that makes your codebase agent-ready.
 
 ## [Sep 10, 2026](/content/2026/09/10/README.md)

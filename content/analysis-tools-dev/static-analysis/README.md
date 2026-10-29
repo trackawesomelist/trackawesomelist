@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Oct 29, 2026](/content/2026/10/29/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Frame (⭐49)](https://github.com/lambdasec/frame) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
+
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Programming Languages / [Other](#other-1)

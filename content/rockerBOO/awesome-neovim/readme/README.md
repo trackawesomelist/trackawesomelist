@@ -373,7 +373,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [simonwinther/cppman.nvim (⭐24)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 *   [redpierrot/ballerina.nvim (⭐5)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 *   [jgonmor16/hdlsnip.nvim (⭐5)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
-*   [upyesp/epher.nvim (⭐1)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+*   [upyesp/epher.nvim (⭐2)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 
 ### Golang
 
@@ -769,7 +769,7 @@ then it is not supported:
 <!--lint enable awesome-list-item-->
 
 *   [zacesshq/zacess.nvim (⭐0)](https://github.com/zacesshq/zacess.nvim) - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
-*   [daaanny90/interlinked.nvim (⭐0)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
+*   [daaanny90/interlinked.nvim (⭐2)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 *   [rezniqov/soviet.nvim (⭐36)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 *   [ThorstenRhau/token (⭐311)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [oskarnurm/koda.nvim (⭐366)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
@@ -1169,7 +1169,7 @@ then it is not supported:
 *   [cxwx/lazyUrlUpdate.nvim (⭐6)](https://github.com/cxwx/lazyUrlUpdate.nvim) - Update plugin under cursor by `lazy.nvim`.
 *   [sontungexpt/url-open (⭐109)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 *   [crusj/bookmarks.nvim (⭐247)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-*   [Doehnert/laravel-log-watcher.nvim (⭐2)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
+*   [Doehnert/laravel-log-watcher.nvim (⭐3)](https://github.com/Doehnert/laravel-log-watcher.nvim) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
 *   [jbyuki/instant.nvim (⭐1.4k)](https://github.com/jbyuki/instant.nvim) - A collaborative editing plugin written in Lua with no dependencies.
 *   [chrisgrieser/nvim-genghis (⭐222)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
 *   [figsoda/nix-develop.nvim (⭐72)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting.
@@ -1220,7 +1220,7 @@ then it is not supported:
 *   [paulburgess1357/nvim-mcp (⭐65)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 *   [dpezto/chezmoi-template.nvim (⭐14)](https://github.com/dpezto/chezmoi-template.nvim) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
 *   [7KiLL/copybara.nvim (⭐6)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
-*   [justinhj/battery.nvim (⭐76)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
+*   [justinhj/battery.nvim (⭐77)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
 *   [rifen/timescope (⭐7)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
 *   [ChrisGVE/docshelf.nvim (⭐5)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
@@ -1355,7 +1355,7 @@ then it is not supported:
 ## Code Runner
 
 *   [nghiant03/jove.nvim (⭐11)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
-*   [wurli/jet.nvim (⭐35)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
+*   [wurli/jet.nvim (⭐37)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 *   [rafcamlet/nvim-luapad (⭐688)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 *   [michaelb/sniprun (⭐1.7k)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from your editor.
 *   [CRAG666/code\_runner.nvim (⭐697)](https://github.com/CRAG666/code_runner.nvim) - The best code runner you could have, with super powers.
@@ -1599,7 +1599,7 @@ then it is not supported:
 *   [chrisgrieser/nvim-recorder (⭐291)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 *   [sontungexpt/bim.nvim (⭐13)](https://github.com/sontungexpt/bim.nvim) - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 *   [folke/which-key.nvim (⭐7.3k)](https://github.com/folke/which-key.nvim) - Shows a popup with possible keybindings of the command you started typing.
-*   [kamegoro/tobira.nvim (⭐55)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
+*   [kamegoro/tobira.nvim (⭐56)](https://github.com/kamegoro/tobira.nvim) - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 *   [nvim-mini/mini.nvim#mini.clue (⭐9.6k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 *   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 *   [Iron-E/nvim-cartographer (⭐54)](https://github.com/Iron-E/nvim-cartographer) - A more convenient `:map`ping syntax for Lua environments.
@@ -1949,7 +1949,7 @@ then it is not supported:
 
 *   [\~chinmay/cphelper.nvim](https://git.sr.ht/~chinmay/cphelper.nvim) - Helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐610)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
-*   [FrancescoDerme/tuna.nvim (⭐13)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
+*   [FrancescoDerme/tuna.nvim (⭐19)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 *   [kawre/leetcode.nvim (⭐2.2k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 *   [2KAbhishek/exercism.nvim (⭐47)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
@@ -2057,6 +2057,7 @@ then it is not supported:
 *   [TheItcor/MoaiVim (⭐7)](https://github.com/TheItcor/MoaiVim) - A minimalist config that emulates a lightweight IDE.
 *   [plutowang/nvim.pack (⭐14)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 *   [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
+*   [gamjagoon/earlgrey.nvim (⭐0)](https://github.com/gamjagoon/earlgrey.nvim) - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
 
 <!--lint disable double-link -->
 
