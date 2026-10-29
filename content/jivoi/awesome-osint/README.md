@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Oct 29, 2026](/content/2026/10/29/README.md)
+
+### Maritime / GitHub
+
+*   [PortInsight.io](https://portinsight.io/ports) - Free live anchorage waiting times, vessel counts and monthly congestion reports for seven major ports, measured from AIS with the method published. Free account adds port and vessel arrival email alerts.
+
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
 ### Social Media Tools / Twitter
@@ -72,13 +78,13 @@
 
 ### Email Search / Email Check / GitHub
 
-*   [OpenLeads (⭐32)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
+*   [OpenLeads (⭐51)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook GraphQL Scraper (⭐18)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
+*   [Facebook GraphQL Scraper (⭐54)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
 
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
@@ -2247,7 +2253,7 @@
 
 ### Username Check / GitHub
 
-*   [Maigret (⭐39k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐40k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [Jul 31, 2022](/content/2022/07/31/README.md)
 

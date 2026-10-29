@@ -8,6 +8,10 @@ A curated list of awesome things related to Ruby on Rails
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Gems / Other external resources
+
+*   [logbrew-sdk (⭐5)](https://github.com/LogBrewCo/sdk/tree/main/ruby/logbrew-ruby) - A gem to capture Rails errors, request traces, and ActiveJob failures and send them to LogBrew. [:red\_circle:](https://rubygems.org/gems/logbrew-sdk)
+
 ### Platforms / Other external resources
 
 *   [Light Cloud](https://light-cloud.com) - PaaS that deploys Rails apps from GitHub, GitLab, Bitbucket or a Dockerfile, with scale to zero and managed Postgres/MySQL on paid plans
@@ -385,7 +389,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [lobsters (⭐4.9k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.6k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
 *   [openFarm (⭐1.7k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
-*   [openproject (⭐16k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
+*   [openproject (⭐17k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 *   [openstreetmap-website (⭐2.9k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐2.3k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
 *   [passwordPusher (⭐3.2k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)

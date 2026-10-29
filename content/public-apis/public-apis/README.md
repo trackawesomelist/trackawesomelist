@@ -6,6 +6,348 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 29, 2026](/content/2026/10/29/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [ContextFetch (⭐0)](https://github.com/lachy3433/contextfetch-mcp)
+
+  Description: Web search and any page as Markdown pruned to the query, plus research, crawl and site maps
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/lachy3433/contextfetch-mcp)
+
+
+
+### Business
+
+- API: [Softoteca](https://softoteca.com.br/v1)
+
+  Description: Catalog of Brazilian software with the source of each data point and prices in BRL
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [MyCryptoSignal](https://mycryptosignal.com/api/)
+
+  Description: Crypto market data: daily direction signals, prices, on-chain and news snapshots
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [XRPL.to](https://xrpl.to/docs)
+
+  Description: XRP Ledger token prices, holders, trades and NFT data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Enterno](https://enterno.io/en/api-docs)
+
+  Description: HTTP headers, DNS, SSL, WHOIS and redirect checks as plain text, JSON or CSV
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [seodata](https://www.seodata.dev/)
+
+  Description: Keyword search volume, CPC and competition by country, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Shotkiln](https://shotkiln.com/docs)
+
+  Description: Screenshots, PDFs and Open Graph images from a URL or HTML, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [B2B Email & Domain Scorer](https://rapidapi.com/MohamedBahaa/api/b2b-email-domain-scorer)
+
+  Description: Email verification: MX, disposable/free/role detection, typo fix and a keep/fix/drop action
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [mailfloss](https://developers.mailfloss.com)
+
+  Description: Stop spam signups: block disposable and invalid emails and suggest typo fixes. 500 free a month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Environment
+
+- API: [Calendrier Tempo](https://www.calendrier-tempo.fr/api-tempo)
+
+  Description: French EDF Tempo tariff: today's and tomorrow's colour, kWh prices and 15-day colour forecasts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SoilPoint](https://soilpoint.dev/docs)
+
+  Description: US soil properties at a lat/lon from USDA SSURGO: texture, drainage, pH, organic matter
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Finance
+
+- API: [Invoice & Payment ID Validator](https://rapidapi.com/MohamedBahaa/api/invoice-payment-id-validator)
+
+  Description: Validate IBAN, BIC, EU VAT (live VIES), UK VAT and EIN, with a pay/review/hold payee check
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Games & Comics
+
+- API: [CardZ Marketcap](https://cardzmarketcap.com/data)
+
+  Description: Daily PSA 10 market cap, prices and population for Pokémon and One Piece cards
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Kurtaxe](https://keyset.cloud/kurtaxe/api/)
+
+  Description: German tourist tax (Kurtaxe) rates by municipality, each quoted from the municipal statute
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [YiminShuju Visa Bulletin](https://yiminshuju.com/cite/)
+
+  Description: US Department of State Visa Bulletin cutoff dates (EB/F charts) as open JSON (/paiqi.json)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [Peptide Library](https://peptidelibrary.app/developers/docs)
+
+  Description: Peptide research profiles, cited studies and regulatory status; vendor prices with a free key
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Job Opportunities](https://jobopportunitiesapi.org/docs)
+
+  Description: Live jobs from employers' own career sites and ATSs, closed jobs re-checked daily
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [AI Stupid Level](https://aistupidlevel.info/api-docs)
+
+  Description: Benchmark scores, rankings and drift data for major LLM APIs, re-measured on a fixed schedule
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ContextFetch](https://contextfetch.dev/docs)
+
+  Description: Web search for AI agents, each result as Markdown pruned to the passages relevant to the query
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Open Data
+
+- API: [10ML Fragrance Index](https://mcp.10ml.com/openapi.json)
+
+  Description: Perfume knowledge: notes, accords, families, similar scents, houses, guides. By 10ML
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Namedesk](https://namedesk.app/docs/api/stats)
+
+  Description: Domain name registration statistics by TLD, registry and registrar
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [RealBots](https://aibots.kaderagha.com/api-docs)
+
+  Description: Verify whether requests claiming to be GPTBot, ClaudeBot & other AI crawlers are real
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Shopping
+
+- API: [Product Page Extractor](https://rapidapi.com/MohamedBahaa/api/product-page-extractor)
+
+  Description: Product name, price, currency, stock and offers from store pages via JSON-LD and OpenGraph
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [Weir](https://docs.weirapp.io)
+
+  Description: Public Reddit and X (Twitter) data: search, posts, comment threads, profiles and followers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [Touchline Wire](https://touchlinewire.com/docs)
+
+  Description: Premier League predicted starting lineups, tactics, injuries, and standings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [FFmpeg Micro](https://www.ffmpeg-micro.com/docs)
+
+  Description: Hosted FFmpeg over REST: transcode, compress, trim and caption video, audio and images
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -2345,7 +2687,7 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/ai.edgechat/edgepedia)
 
 
-- Name: [Monocrawl (⭐1)](https://github.com/monocrawl/monocrawl-mcp)
+- Name: [Monocrawl (⭐10)](https://github.com/monocrawl/monocrawl-mcp)
 
   Description: Public posts, profiles, comments and products from 70+ social, shopping and search platforms
 
@@ -10758,7 +11100,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐128)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐129)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -10879,7 +11221,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐130)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐133)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -11416,7 +11758,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐224)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐222)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 

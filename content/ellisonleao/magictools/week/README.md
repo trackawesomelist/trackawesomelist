@@ -26,6 +26,10 @@
 *   :free: [TextureKing](https://www.textureking.com/) - Free material stock textures
 *   :money\_with\_wings: [Vecteezy](https://www.vecteezy.com/) - Free Vector Art.
 
+### Graphics / Spritesheet Tools
+
+*   :tada: [Ludo Toolbox](https://ludo.ai/developers/toolbox) - Free, open-source (MIT) command-line tools that run offline: slice and join spritesheets, find a sprite's feet pivot and box/capsule colliders, check loops, recolor to Lospec palettes, cut tilesets, and export to Godot, Unity, Phaser and TexturePacker. Plain JSON output for scripts and coding agents.
+
 ### Graphics / Bitmap Compression
 
 *   :tada: [ImageAlpha](https://pngmini.com/) — Mac OS X GUI for pngquant and other tools
@@ -402,7 +406,7 @@
 
 ### Graphics / Vector/Image Editor
 
-*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.3k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.4k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 
 ### AI / Voxel Editors
 

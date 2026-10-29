@@ -24,6 +24,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 *   [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.
 
+### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
+
+*   [mqtt2matter (⭐0)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
+
 ### Lighting / Firmwares for ESP based Devices
 
 *   [nanoleaf2mqtt (⭐0)](https://github.com/boesec/nanoleaf2mqtt) - Interface between Nanoleaf light panels and MQTT.

@@ -8,6 +8,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Hosted Readers / Outline Processor Markup Language
+
+*   [Proofite](https://proofite.com/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://proofite.com/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.proofite.app)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
+
 ### XMPP (Jabber) / PubSub bots
 
 *   [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.xmpp-it.net/sch/Slixfeed)
