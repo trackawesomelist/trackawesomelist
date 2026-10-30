@@ -2,9 +2,15 @@
 
 An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles, resources and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 33 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 36 · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/totpero/awesome-qgis/week/README.md) / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
+
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Tutorials / Field and Mobile
+
+*   [KLIC in QGIS](https://klicbot.nl/klic-integratie-qgis) - Opens Dutch KLIC cable and pipe deliveries in QGIS as GeoPackage or Shapefile, with an optional live OGC API Features layer.
 
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
@@ -39,7 +45,7 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 ### Official Resources
 
 *   [QGIS Official Website](https://qgis.org/) - Main project website with downloads, news, and documentation.
-*   [GitHub Repository (⭐14k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
+*   [GitHub Repository (⭐15k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
 *   [Visual Changelogs](https://qgis.org/project/visual-changelogs/) - Illustrated changelogs for each QGIS release.
 *   [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
 *   [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
@@ -190,5 +196,5 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 
 ### Related Lists / Field and Mobile
 
-*   [Awesome GIS (⭐5.5k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial (⭐5.3k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS (⭐5.6k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐5.4k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.

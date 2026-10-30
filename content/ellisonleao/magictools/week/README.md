@@ -13,6 +13,7 @@
 *   :free: [2D Cartoon Mobile Game UI Pack](https://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 *   :free: [420 Pixel Art Icons for RPGs](https://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 *   :money\_with\_wings: [CGTextures](https://www.textures.com) - A large collection of textures.
+*   :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
 *   :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
 *   :free: [Iconmonstr](https://iconmonstr.com/) - Another free icons resource for your games.
 *   :money\_with\_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
@@ -150,6 +151,7 @@
 
 ### Collections / Voxel Editors
 
+*   :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
 *   :free: [Freesound](https://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
 *   :free: [PacDV](https://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 *   :free: [SoundBible.com](https://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
@@ -251,6 +253,7 @@
 
 *   :free: [AdColony](https://www.adcolony.com/) - Mobile video Ads service.
 *   :free: [Appodeal](https://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+*   :free: [GameDevTool](https://gamedevtool.com/roblox) - Free Roblox monetization calculators for the 30% Marketplace Fee, DevEx cash-out value, UGC creator share and game pass pricing.
 
 ### General Game Development / Voxel Editors
 

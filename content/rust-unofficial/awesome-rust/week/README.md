@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [tsirysndr/music-player (⭐527)](https://github.com/tsirysndr/music-player) - Music player with [Rockbox (⭐303)](https://github.com/tsirysndr/rockboxd)-powered audio playback, multiple interfaces, and streaming support [![tests](https://github.com/tsirysndr/music-player/actions/workflows/ci.yml/badge.svg)](https://github.com/tsirysndr/music-player/actions/workflows/ci.yml)
 
+### Applications / Finance
+
+*   [rsalianto/tradoor (⭐79)](https://github.com/rsalianto/tradoor) - Crypto trading terminal in the browser: candlestick, TPO and footprint charts, DOM, liquidations and a trading journal, drawn by a Rust engine in WebAssembly ![CI](https://github.com/rsalianto/tradoor/actions/workflows/ci.yml/badge.svg?branch=main)
+
 ### Applications / Image processing
 
 *   [heydeer/pngdeer (⭐252)](https://github.com/heydeer/pngdeer) - A lossy PNG compressor with automatic perceptual quality selection, available as a Rust CLI and WebAssembly app. [![CI](https://github.com/heydeer/pngdeer/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/heydeer/pngdeer/actions/workflows/ci.yml)
@@ -22,6 +26,10 @@ A curated list of Rust code and resources.
 *   [ipavlin98/traydex (⭐99)](https://github.com/ipavlin98/traydex) - Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload [![CI](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml)
 *   [sunerpy/voltip (⭐60)](https://github.com/sunerpy/voltip) - Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri [![CI](https://github.com/sunerpy/voltip/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sunerpy/voltip/actions/workflows/ci.yml)
 *   [zhixuli0406/DuDuClaw (⭐50)](https://github.com/zhixuli0406/DuDuClaw) - Self-hosted platform that runs AI coding CLIs (Claude Code, Codex, Antigravity) as AI employees on LINE, Telegram, Discord, Slack and 7 more chat apps, with result review, cost logging, local memory and a standalone MCP memory server [![CI](https://github.com/zhixuli0406/DuDuClaw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zhixuli0406/DuDuClaw/actions/workflows/ci.yml)
+
+### Applications / Security tools
+
+*   [clickswave/crossfyre-toolchain (⭐256)](https://github.com/clickswave/crossfyre-toolchain) - Recon and vulnerability scanning engines for subdomains, ports, content discovery, fingerprinting and nuclei-compatible templates [![CI](https://github.com/clickswave/crossfyre-toolchain/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/clickswave/crossfyre-toolchain/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
@@ -121,15 +129,15 @@ A curated list of Rust code and resources.
 *   [Graphicle-AI/graphicle (⭐282)](https://github.com/Graphicle-AI/graphicle) - A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file [![CI](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml)
 *   [HaseebKhalid1507/SynapsCLI (⭐52)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
 *   [scarletkc/Hatoba (⭐218)](https://github.com/scarletkc/Hatoba) - Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account [![CI](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scarletkc/Hatoba/actions/workflows/ci.yml)
-*   [unxsist/jet-pilot (⭐630)](https://github.com/unxsist/jet-pilot) - An open-source Kubernetes desktop client built with Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal [![Test](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml)
+*   [unxsist/jet-pilot (⭐663)](https://github.com/unxsist/jet-pilot) - An open-source Kubernetes desktop client built with Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal [![Test](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/unxsist/jet-pilot/actions/workflows/test.yml)
 
 ### Applications / Audio and Music
 
-*   [ZacharyL2/KeyEcho (⭐877)](https://github.com/ZacharyL2/KeyEcho) - Desktop app that plays recorded mechanical keyboard sounds as you type, built with Tauri
+*   [ZacharyL2/KeyEcho (⭐880)](https://github.com/ZacharyL2/KeyEcho) - Desktop app that plays recorded mechanical keyboard sounds as you type, built with Tauri
 
 ### Applications / Image processing
 
-*   [skymanbp/autoshade (⭐1k)](https://github.com/skymanbp/autoshade) - AI-assisted RAW photo developer: a vision model proposes an edit recipe, a deterministic engine renders it as a Lightroom-compatible XMP sidecar. [![build](https://github.com/skymanbp/autoshade/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/skymanbp/autoshade/actions/workflows/build.yml)
+*   [skymanbp/autoshade (⭐1.3k)](https://github.com/skymanbp/autoshade) - AI-assisted RAW photo developer: a vision model proposes an edit recipe, a deterministic engine renders it as a Lightroom-compatible XMP sidecar. [![build](https://github.com/skymanbp/autoshade/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/skymanbp/autoshade/actions/workflows/build.yml)
 
 ### Applications / Productivity
 
@@ -141,7 +149,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [LambdaBytes/sping (⭐64)](https://github.com/LambdaBytes/sping) \[[sping](https://crates.io/crates/sping)] - Cross-platform ICMP/TCP connectivity diagnostics with network context, multi-target monitoring, and structured JSON output. [![CI](https://github.com/LambdaBytes/sping/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/LambdaBytes/sping/actions/workflows/ci.yml)
+*   [LambdaBytes/sping (⭐135)](https://github.com/LambdaBytes/sping) \[[sping](https://crates.io/crates/sping)] - Cross-platform ICMP/TCP connectivity diagnostics with network context, multi-target monitoring, and structured JSON output. [![CI](https://github.com/LambdaBytes/sping/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/LambdaBytes/sping/actions/workflows/ci.yml)
 *   [MenkeTechnologies/fusevm](https://crates.io/crates/fusevm) - a polygot virtual machine and JIT
 *   [MenkeTechnologies/temprs](https://crates.io/crates/temprs) - a tempfile manager with stack mechanism
 *   [MenkeTechnologies/zshrs](https://crates.io/crates/zshrs) - A zsh superset with JIT UNIX shell
@@ -157,7 +165,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [dorianverlaine/pingclair (⭐105)](https://github.com/dorianverlaine/pingclair) - A web server and reverse proxy built on Cloudflare Pingora, providing a Caddyfile-compatible configuration language, automatic HTTPS, HTTP/1.1, HTTP/2 and HTTP/3, load balancing, and static file serving. [![CI](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml/badge.svg?branch=main)](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml?query=branch%3Amain)
+*   [dorianverlaine/pingclair (⭐108)](https://github.com/dorianverlaine/pingclair) - A web server and reverse proxy built on Cloudflare Pingora, providing a Caddyfile-compatible configuration language, automatic HTTPS, HTTP/1.1, HTTP/2 and HTTP/3, load balancing, and static file serving. [![CI](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml/badge.svg?branch=main)](https://github.com/dorianverlaine/pingclair/actions/workflows/blocking-ci.yml?query=branch%3Amain)
 
 ### Development tools / Workflow Automation
 
@@ -265,7 +273,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Finance
 
-*   [makeev/alphai-tui (⭐78)](https://github.com/makeev/alphai-tui) \[[alphai-tui](https://crates.io/crates/alphai-tui)] - Terminal stock dashboard with keyless quotes and charts, news sentiment, SEC Form 4 insider trades and earnings reads. ![CI](https://github.com/makeev/alphai-tui/actions/workflows/ci.yml/badge.svg?branch=main)
+*   [makeev/alphai-tui (⭐88)](https://github.com/makeev/alphai-tui) \[[alphai-tui](https://crates.io/crates/alphai-tui)] - Terminal stock dashboard with keyless quotes and charts, news sentiment, SEC Form 4 insider trades and earnings reads. ![CI](https://github.com/makeev/alphai-tui/actions/workflows/ci.yml/badge.svg?branch=main)
 
 ### Applications / Package Managers
 
@@ -295,7 +303,7 @@ A curated list of Rust code and resources.
 ### Development tools / Testing
 
 *   Code Coverage
-    *   [minikin/cargo-crap (⭐422)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
+    *   [minikin/cargo-crap (⭐431)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
     *   [supercorp-ai/supercov (⭐157)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
@@ -394,7 +402,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [jchultarsky/mirador (⭐325)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
+*   [jchultarsky/mirador (⭐326)](https://github.com/jchultarsky/mirador) \[[mirador](https://crates.io/crates/mirador)] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid [![CI](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jchultarsky/mirador/actions/workflows/ci.yml)
 *   [raine/workmux (⭐2.9k)](https://github.com/raine/workmux) \[[workmux](https://crates.io/crates/workmux)] - git worktrees + tmux windows for zero-friction parallel dev [![CI](https://github.com/raine/workmux/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/workmux/actions/workflows/ci.yml)
 
 ### Applications / System tools

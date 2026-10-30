@@ -12,6 +12,20 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [Aixle Flow (⭐31)](https://github.com/AixleHQ/flow) - Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.
 
+### Commands & Extensions
+
+*   [frugal (⭐2)](https://github.com/fainir/frugal) - Gemini CLI extension and Agent Skill: before anything is bought, subscribed to or upgraded, Gemini checks free tiers, the right plan and billing period, startup, student, open-source and nonprofit programs, verified promo codes and cheaper alternatives, then reports the best options with sources. Never pays by itself. MIT. Install with `gemini extensions install https://github.com/fainir/frugal`.
+
+### Development Tools & Utilities
+
+*   [DESIGN:OS (⭐34)](https://github.com/jangtrinh/design-os) - Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with `npx @easestart/design-os init`. Source-available (PolyForm Shield).
+*   [Ironheights (⭐2)](https://github.com/Frank-Masciopinto/ironheights) - Offline security scanner that protects any AI bot's skills: scans any skill folder with a `SKILL.md` (including Gemini CLI skills in `~/.gemini/skills/`) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run `npx ironheights scan ./path/to/skill`. Apache-2.0.
+
+### MCP Servers
+
+*   [GetYouTubeTranscript (⭐23)](https://github.com/tubeagentkit/youtube-mcp) - YouTube transcripts and data for Gemini CLI: fetch a video's transcript (pick the language, optional timestamps), search YouTube, browse a channel's videos, playlists and posts, search inside a channel, list a playlist, find related videos, and read a channel banner or estimated dislikes. 13 tools. Hosted Streamable HTTP; tool calls need an API key from the [dashboard](https://getyoutubetranscript.com/dashboard?utm_source=awesome-gemini-cli\&utm_medium=referral) (1 credit per call, 100 credits on sign-up, paid plans from $5/month). MIT. Add with: `gemini mcp add --transport http --header "Authorization: Bearer <API_KEY>" getyoutubetranscript https://getyoutubetranscript.com/api/mcp`.
+*   [recall (⭐2)](https://github.com/fainir/recall) - MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with `[[wiki-links]]`), so Gemini CLI, Codex and Cursor share the same memories. `memory_recall` follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with `gemini extensions install https://github.com/fainir/recall` (serves the memory of the folder you start Gemini in) or run `npx -y @fainir/recall`.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Agent Orchestration & CLI Tools

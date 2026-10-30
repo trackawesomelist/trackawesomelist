@@ -8,9 +8,21 @@
 
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
+### Graphics / Assets/Placeholders
+
+*   :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
+
 ### Graphics / Voxel Editors
 
 *   :money\_with\_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
+
+### Collections / Voxel Editors
+
+*   :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
+
+### Ads / Voxel Editors
+
+*   :free: [GameDevTool](https://gamedevtool.com/roblox) - Free Roblox monetization calculators for the 30% Marketplace Fee, DevEx cash-out value, UGC creator share and game pass pricing.
 
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 

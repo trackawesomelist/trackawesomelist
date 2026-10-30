@@ -711,6 +711,7 @@ Thanks to our main contributors
 *   [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 *   [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 *   [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+*   [recap-cli (⭐0)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
 *   [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 *   [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 *   [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
@@ -819,6 +820,7 @@ Thanks to our main contributors
 *   [Bureau Van Dijk](https://www.bvdinfo.com)
 *   [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 *   [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
+*   [capitol-cli (⭐0)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
 *   [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
 *   [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 *   [Company Research Resources by Country Comparably](https://www.comparably.com)
@@ -836,6 +838,7 @@ Thanks to our main contributors
 *   [Glassdoor](https://www.glassdoor.com)
 *   [globalEdge](https://globaledge.msu.edu)
 *   [GoodFirms](https://www.goodfirms.co/)
+*   [govint (⭐0)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
 *   [GuideStar](https://www.guidestar.org)
 *   [Hoovers](https://www.hoovers.com)
 *   [Inc. 5000](https://www.inc.com/inc5000)
@@ -1529,6 +1532,7 @@ Thanks to our main contributors
 *   [Epic Privacy Browser](https://www.epicbrowser.com)
 *   [Eraser](https://eraser.heidi.ie)
 *   [FileVault](https://support.apple.com/en-us/HT204837)
+*   [Free Proxy List (⭐7k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
 *   [Ghostery](https://www.ghostery.com)
 *   [GNU PG](https://www.gnupg.org/download/index.html)
 *   [GPG Tools](https://gpgtools.org)

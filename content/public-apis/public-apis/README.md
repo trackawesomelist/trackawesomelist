@@ -6,6 +6,309 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Toolalize (⭐0)](https://github.com/Vertisky/toolalize-mcp)
+
+  Description: Unit and live currency conversion tools for agents, no key needed
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=toolalize)
+
+
+
+### Business
+
+- API: [TrendsAGI](https://trendsagi.com/api-docs)
+
+  Description: Trending topic volume, velocity and growth with AI insights; free plan of 100 calls/day
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Cryptocurrency
+
+- API: [CoinXview](https://coinxview.com/en/api-mien-phi)
+
+  Description: Real-time crypto prices aggregated from 22 exchanges, OHLC, market stats, Fear & Greed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Hourora](https://hourora.app/en/developers)
+
+  Description: Current time, DST-aware conversion, all IANA zones with clock changes, city and coordinate lookup
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SerpKite](https://serpkite.com/docs)
+
+  Description: Google Search, News, Maps, Images, Scholar and Patents results as JSON or Markdown for AI agents
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Timezones](https://timezones.in/api)
+
+  Description: Time now, conversions and DST changes for every IANA time zone, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [MailChannels](https://www.mailchannels.com/email-api/)
+
+  Description: Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Environment
+
+- API: [SpotWave](https://spotwave.eu/api-docs)
+
+  Description: Day-ahead electricity prices for 40+ European market zones, incl. taxes and VAT
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [QuiVad](https://www.quivad.com/api)
+
+  Description: Net short positions disclosed to 23 market regulators, fund by fund, since 2010
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [SuperDuperBundle](https://superduperbundle.com/tools/api/)
+
+  Description: Lowest listed PC game key prices across official and key stores, by name or Steam app ID
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [17NAS](https://17nas.com)
+
+  Description: Free IP geolocation API with IPv4/IPv6 detection, ASN and country info, no auth required
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OpenGeocoding](https://opengeocoding.com/docs)
+
+  Description: Forward and reverse geocoding and address autocomplete on open data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [FertilityClinics](https://fertilityclinics.fyi/developers)
+
+  Description: US fertility and IVF clinics built from CDC public data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [ConsumerSun Recalls](https://consumersun.com/data/recalls.json)
+
+  Description: US product, food, drug, device and vehicle recalls from CPSC, FDA and NHTSA
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Lottizen](https://lottizen.com/api)
+
+  Description: Lottery draw history and stats (Canada, US, Europe) and Canadian scratch-ticket remaining prizes
+
+  Auth: `X-Mashape-Key`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Science & Math
+
+- API: [Molicheck](https://molicheck.com/api)
+
+  Description: Anonymous JSON lab/GMP calculators (molarity, dilution, ICH limits); no API key
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Toolalize](https://toolalize.com/openapi.json)
+
+  Description: Unit and live currency conversion with NIST SI factors, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [DeepScout](https://docs.deepscout.ai)
+
+  Description: Scrape product data from any e-shop and match the same products across shops, without EAN
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [VantaSpec](https://vantaspec.com/api-docs)
+
+  Description: UK PC hardware prices, price history and specs across UK retailers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [RaceHooks](https://racehooks.io/docs)
+
+  Description: Motorsport analytics platform and ML analytics API: live F1 timing data and race intelligence
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Transportation
+
+- API: [HaulierScope](https://haulierscope.co.uk/developers)
+
+  Description: Great Britain goods vehicle and PSV operator licences, change history and public inquiries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Vehicle
+
+- API: [BoltPatternHQ](https://boltpatternhq.com/mcp/)
+
+  Description: Vehicle wheel fitment, bolt pattern (PCD), offset, and center bore specifications
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SalvageAlert](https://salvagealert.com/developers/docs)
+
+  Description: IAA, Copart and GovDeals salvage auction lots, VIN history and buyer-fee estimates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -10170,17 +10473,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [K-Data Gate](https://kdata-gate.vercel.app/docs)
-
-  Description: Korean market data: K-beauty/K-food products, Naver trends, stocks, real estate, weather
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ### Phone
 
@@ -16707,17 +16999,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Micro DB](https://m3o.com/db)
-
-  Description: Simple database service
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 - API: [MY IP](https://www.myip.com/api-docs/)
 
   Description: Get IP address information
@@ -19375,17 +19656,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Micro Weather](https://m3o.com/weather/api)
-
-  Description: Real time weather forecasts and historic data
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ## [Oct 06, 2021](/content/2021/10/06/README.md)
 
@@ -21956,17 +22226,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: [Micro User Service](https://m3o.com/user)
-
-  Description: User management and authentication
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
 
 
 - API: [Stytch](https://stytch.com/)

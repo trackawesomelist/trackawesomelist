@@ -12,9 +12,22 @@
 
 *   [TweetAPI Twitter ID Finder](https://tweetapi.com/tools/twitter-id-finder) - Find the user ID behind a Twitter username or profile link, or look up the current username for an ID. Free, no signup.
 
+### People Investigations / GitHub
+
+*   [recap-cli (⭐0)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
+
+### Company Research / GitHub
+
+*   [capitol-cli (⭐0)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
+*   [govint (⭐0)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
+
 ### Geospatial Research and Mapping Tools / GitHub
 
 *   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
+
+### Privacy and Encryption Tools / GitHub
+
+*   [Free Proxy List (⭐7k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
 
 ### Maritime / GitHub
 

@@ -8,9 +8,46 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Table of Contents / Frameworks
+
+*   [Phalcon](https://phalcon.io/) - A framework implemented as a C extension.
+
+### Table of Contents / Debugging and Profiling
+
+*   [XHProf (⭐1.1k)](https://github.com/longxinH/xhprof) - A profiling tool originally developed by Facebook.
+
+### Table of Contents / Command Line
+
+*   [Cron Expression (⭐4.7k)](https://github.com/dragonmantank/cron-expression) - A library to calculate cron run dates.
+
+### Table of Contents / Strings
+
+*   [SQL Formatter (⭐1.9k)](https://github.com/doctrine/sql-formatter) - A library for formatting SQL statements.
+
 ### Table of Contents / Data Structure and Storage
 
 *   [DeepClone (⭐21)](https://github.com/symfony/php-ext-deepclone) - A PHP extension to export serializable values as plain arrays and reconstruct them.
+
+### Table of Contents / Configuration
+
+*   [PHP Dotenv (⭐14k)](https://github.com/phpdotenv/phpdotenv) - Parse and load environment variables from `.env` files.
+
+### Table of Contents / Miscellaneous
+
+*   [Pagerfanta (⭐427)](https://github.com/BabDev/Pagerfanta) - A pagination library.
+
+### Table of Contents / Development Environment
+
+*   [Lando](https://www.lando.dev/) - Push-button development environments.
+*   [Laravel Homestead](https://laravel.com/framework/docs/master/homestead) - A local development environment for Laravel.
+
+### Table of Contents / Virtual Machines
+
+*   [HHVM (⭐19k)](https://github.com/meta/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+
+### Table of Contents / Web Applications
+
+*   [Lychee (⭐4.3k)](https://github.com/LycheeOrg/Lychee) - An easy to use and great looking photo-management-system.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -62,7 +99,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Security
 
-*   [PHPSecLib](https://github.com/phpseclib/phpseclib) - A pure PHP secure communications library.
+*   [PHPSecLib (⭐5.6k)](https://github.com/phpseclib/phpseclib) - A pure PHP secure communications library.
 
 ### Table of Contents / Code Analysis
 
@@ -274,7 +311,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Files
 
-*   [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format.
+*   [Parquet (⭐64)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format.
 
 ### Table of Contents / E-commerce
 
@@ -323,7 +360,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Development Environment
 
-*   [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
+*   [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/framework/docs/master/valet)).
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
@@ -372,7 +409,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Imagery
 
-*   [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+*   [PHP QR Code (⭐2.4k)](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -611,10 +648,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Requests (⭐3.6k)](https://github.com/WordPress/Requests) - A simple HTTP library.
 
-### Table of Contents / Email
-
-*   [Stampie (⭐293)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-
 ### Table of Contents / Testing
 
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
@@ -676,7 +709,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Web Applications
 
 *   [Cachet (⭐15k)](https://github.com/cachethq/cachet) - The open source status page system.
-*   [Lychee (⭐6.4k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 *   [PHP Queue (⭐665)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 *   [phpRedisAdmin (⭐3.2k)](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 *   [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
@@ -748,7 +780,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Development Environment
 
-*   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Takeout (⭐1.7k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 
 ### Table of Contents / PHP Reading
@@ -980,10 +1011,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [CakePHP I18n (⭐29)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
-### Table of Contents / Development Environment
-
-*   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
-
 ### Table of Contents / Virtual Machines
 
 *   [PeachPie (⭐2.5k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
@@ -1078,10 +1105,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
-### Table of Contents / Frameworks
-
-*   [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-
 ### Table of Contents / Debugging and Profiling
 
 *   [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
@@ -1115,7 +1138,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Configuration
 
-*   [PHP Dotenv (⭐14k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 *   [Symfony Dotenv (⭐3.8k)](https://github.com/symfony/dotenv) - Parse and load environment variables from `.env` files.
 
 ### Table of Contents / Virtual Machines
@@ -1443,12 +1465,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Yasumi (⭐1.1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
-## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
-
-### Table of Contents / Event
-
-*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
-
 ## [Nov 28 - Dec 04, 2016](/content/2016/48/README.md)
 
 ### Table of Contents / PHP Podcasts
@@ -1563,18 +1579,18 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐651)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Fetch (⭐504)](https://github.com/tedious/Fetch) - An IMAP library.
 *   [PHPMailer (⭐22k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 
 ### Table of Contents / Files
 
-*   [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-*   [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+*   [CSV (⭐3.5k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+*   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 
 ### Table of Contents / Imagery
 
-*   [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+*   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
 *   [PHP Image Workshop (⭐852)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
 ### Table of Contents / Testing
@@ -1609,7 +1625,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [PHP Console (⭐524)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [xDebug (⭐3.4k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-*   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 
 ### Table of Contents / Navigation
 
@@ -1720,7 +1735,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Miscellaneous
 
 *   [ClassPreloader (⭐376)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
-*   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 
 ### Table of Contents / PHP Installation
 
@@ -1759,7 +1773,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐723)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ### Table of Contents / Imagery
 
@@ -1820,10 +1834,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / PHP Installation
 
 *   [PHP Brew (⭐5.5k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
-
-### Table of Contents / Virtual Machines
-
-*   [HHVM (⭐19k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Table of Contents / Web Applications
 
@@ -1993,10 +2003,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Jul 14 - Jul 20, 2014](/content/2014/28/README.md)
 
-### Table of Contents / Dependency Management
-
-*   [Pickle (⭐1.7k)](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
-
 ### Table of Contents / Markup and CSS
 
 *   [Cebe Markdown (⭐1k)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
@@ -2008,12 +2014,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / PHP Books
 
 *   [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
-
-## [Jun 30 - Jul 06, 2014](/content/2014/26/README.md)
-
-### Table of Contents / Strings
-
-*   [SQL Formatter (⭐3.8k)](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 
 ## [Jun 02 - Jun 08, 2014](/content/2014/22/README.md)
 
@@ -2108,7 +2108,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Command Line
 
 *   [Commando (⭐800)](https://github.com/nategood/commando) - Another simple command line opt parser.
-*   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ### Table of Contents / Strings
 

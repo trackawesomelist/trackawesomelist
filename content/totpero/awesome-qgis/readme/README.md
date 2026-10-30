@@ -2,7 +2,7 @@
 
 An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles, resources and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 33 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 36 · 🏷️ Development Environment
 
 [ [Daily](/content/totpero/awesome-qgis/README.md) / [Weekly](/content/totpero/awesome-qgis/week/README.md) / Overview ]
 
@@ -35,7 +35,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 ## Official Resources
 
 *   [QGIS Official Website](https://qgis.org/) - Main project website with downloads, news, and documentation.
-*   [GitHub Repository (⭐14k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
+*   [GitHub Repository (⭐15k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
 *   [Visual Changelogs](https://qgis.org/project/visual-changelogs/) - Illustrated changelogs for each QGIS release.
 *   [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
 *   [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
@@ -116,6 +116,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 
 *   [QGIS Tutorials and Tips](https://www.qgistutorials.com/) - Comprehensive step-by-step QGIS tutorials by Ujaval Gandhi.
 *   [Harvard CGA QGIS Workshop](https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0) - Academic workshop materials and video tutorials from Harvard.
+*   [KLIC in QGIS](https://klicbot.nl/klic-integratie-qgis) - Opens Dutch KLIC cable and pipe deliveries in QGIS as GeoPackage or Shapefile, with an optional live OGC API Features layer.
 *   [QGIS Documentation Guidelines](https://docs.qgis.org/latest/en/docs/documentation_guidelines/) - Guide for contributing to QGIS documentation.
 *   [ModernGIS QGIS Certification](https://moderngis.xyz/courses/qgis-free-youtube-certification/) - Free certification program based on YouTube video tutorials.
 
@@ -193,6 +194,6 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 
 ## Related Lists
 
-*   [Awesome GIS (⭐5.5k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial (⭐5.3k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS (⭐5.6k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐5.4k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
 

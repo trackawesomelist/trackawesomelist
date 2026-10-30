@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UserNote](https://getusernote.com/) - A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.
 
+### Security and PKI
+
+*   [pkgscan.dev](https://pkgscan.dev) - Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.
+
 ### Mobile App Distribution and Feedback
 
 *   [WishKit](https://www.wishkit.io) - In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free forever plan with no card: 1 project, iOS and web SDKs, unlimited users, shows the first 5 feature requests.
@@ -26,6 +30,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [eForward](https://eforward.com) - Email forwarding for custom domains. Free plan includes 1 domain, 1 mailbox, 10 aliases (catch-all ones count too), catch-all, and reply/send from your aliases (up to 5 new recipients a day). No credit card required.
 *   [FrostyVerify](https://frostyverify.com) - Email verification, usable through a web app, a REST API and an MCP server + 1,000 Free Email verifications a month, no card
 *   [VaelMail](https://vaelmail.com) - Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.
+
+### Feature Toggles Management Platforms
+
+*   [Featureflip](https://featureflip.io/) - Featureflip is a full featured feature flag platform that removes its own dead flags by submitting its own pull requests. Free plan includes 10 flags, 2 environments, 1 project, 3 users, and no usage caps.
 
 ### Forms
 
@@ -4597,7 +4605,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
         *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-        *   2 Arm-based Ampere A1 cores and 12 GB of memory usable as one VM or up to 2 VMs
+        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB

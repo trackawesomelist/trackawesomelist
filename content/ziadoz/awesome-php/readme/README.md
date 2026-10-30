@@ -120,7 +120,6 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Composer](https://getcomposer.org/) - A package and dependency manager.
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi-framework Composer library installer.
 *   [Phive](https://phar.io/) - A PHAR manager.
-*   [Pickle (⭐1.7k)](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 *   [Pie (⭐2.1k)](https://github.com/php/pie) - The official PHP installer for extensions.
 
 ### Dependency Management Extras
@@ -146,7 +145,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 *   [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 *   [Nette](https://nette.org) - A web framework comprised of mature components.
-*   [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
+*   [Phalcon](https://phalcon.io/) - A framework implemented as a C extension.
 *   [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 *   [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 *   [Tempest (⭐2.3k)](https://github.com/tempestphp/tempest-framework) - A framework that gets out of your way.
@@ -292,23 +291,22 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [CssToInlineStyles (⭐5.8k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 *   [ddeboer/imap (⭐920)](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library.
-*   [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐651)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Fetch (⭐504)](https://github.com/tedious/Fetch) - An IMAP library.
 *   [Mautic (⭐11k)](https://github.com/mautic/mautic) - Email marketing automation.
 *   [PHPMailer (⭐22k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-*   [Stampie (⭐293)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 *   [Symfony Mailer (⭐1.6k)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Files
 
 *Libraries for file manipulation and MIME type detection.*
 
-*   [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+*   [CSV (⭐3.5k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 *   [Flysystem (⭐14k)](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
-*   [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+*   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 *   [PHP FFmpeg (⭐5k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 *   [UnifiedArchive (⭐282)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-*   [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format.
+*   [Parquet (⭐64)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format.
 
 ### Streams
 
@@ -322,7 +320,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Aura.Di (⭐352)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 *   [Acclimate (⭐219)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
-*   [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐723)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 *   [Container (⭐864)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 *   [Disco (⭐139)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 *   [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
@@ -338,9 +336,9 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Image Hash (⭐2.1k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 *   [Image Optimizer (⭐916)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 *   [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
-*   [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+*   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
 *   [PHP Image Workshop (⭐852)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-*   [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+*   [PHP QR Code (⭐2.4k)](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 
@@ -399,7 +397,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
 *   [PHPGGC (⭐3.9k)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 *   [PHP Encryption (⭐3.9k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-*   [PHPSecLib](https://github.com/phpseclib/phpseclib) - A pure PHP secure communications library.
+*   [PHPSecLib (⭐5.6k)](https://github.com/phpseclib/phpseclib) - A pure PHP secure communications library.
 *   [Roave Security Advisories (⭐2.9k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 *   [Secure Headers (⭐550)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 *   [SQLMap (⭐39k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
@@ -495,7 +493,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Trap (⭐275)](https://github.com/buggregator/trap) - An extended variable dumper with a web interface and IDE plugin.
 *   [Whoops (⭐13k)](https://github.com/filp/whoops) - A pretty error-handling library.
 *   [xDebug (⭐3.4k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-*   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+*   [XHProf (⭐1.1k)](https://github.com/longxinH/xhprof) - A profiling tool originally developed by Facebook.
 *   [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
 ### Error Tracking and Monitoring Services
@@ -569,7 +567,6 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 *   [Amp (⭐4.4k)](https://github.com/amphp/amp) - An event-driven non-blocking I/O library.
-*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
 *   [CakePHP Event (⭐23)](https://github.com/cakephp/event) - An event dispatcher library.
 *   [Elephant.io (⭐138)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 *   [Evenement (⭐1.4k)](https://github.com/igorw/evenement) - An event dispatcher library.
@@ -687,7 +684,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [CLIFramework (⭐435)](https://github.com/c9s/CLIFramework) - A command-line framework that supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 *   [CLImate (⭐1.9k)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
 *   [Commando (⭐800)](https://github.com/nategood/commando) - Another simple command line opt parser.
-*   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
+*   [Cron Expression (⭐4.7k)](https://github.com/dragonmantank/cron-expression) - A library to calculate cron run dates.
 *   [GetOpt (⭐344)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 *   [GetOptionKit (⭐148)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 *   [PsySH (⭐9.8k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
@@ -750,7 +747,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Portable ASCII (⭐580)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 *   [Portable UTF-8 (⭐517)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 *   [Slugify (⭐2.9k)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
-*   [SQL Formatter (⭐3.8k)](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
+*   [SQL Formatter (⭐1.9k)](https://github.com/doctrine/sql-formatter) - A library for formatting SQL statements.
 *   [Stringy (⭐180)](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 *   [Url highlight (⭐103)](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
 *   [URLify (⭐673)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
@@ -860,7 +857,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries and tools for configuration.*
 
-*   [PHP Dotenv (⭐14k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
+*   [PHP Dotenv (⭐14k)](https://github.com/phpdotenv/phpdotenv) - Parse and load environment variables from `.env` files.
 *   [Symfony Dotenv (⭐3.8k)](https://github.com/symfony/dotenv) - Parse and load environment variables from `.env` files.
 *   [Toml (⭐18)](https://github.com/php-collective/toml) - A TOML parser and encoder with AST access and error recovery.
 
@@ -906,7 +903,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Hprose-PHP (⭐2k)](https://github.com/hprose/hprose-php) - A cross-language RPC.
 *   [Laravel Serializable Closure (⭐607)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 *   [noCAPTCHA (⭐364)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
-*   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
+*   [Pagerfanta (⭐427)](https://github.com/BabDev/Pagerfanta) - A pagination library.
 *   [Safe (⭐2.5k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Software
@@ -933,11 +930,11 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Docker PHP Extension Installer (⭐5k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 *   [Docksal (⭐721)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 *   [Expose (⭐4.6k)](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
-*   [Lando](https://lando.dev/) - Push-button development environments.
-*   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
+*   [Lando](https://www.lando.dev/) - Push-button development environments.
+*   [Laravel Homestead](https://laravel.com/framework/docs/master/homestead) - A local development environment for Laravel.
 *   [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
 *   [Laradock](https://laradock.io/) - A full PHP development environment based on Docker.
-*   [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
+*   [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/framework/docs/master/valet)).
 *   [Puppet](https://www.puppet.com) - A server automation framework and application.
 *   [Solo (⭐1.3k)](https://github.com/soloterm/solo) - A terminal application to manage processes for a Laravel application.
 *   [Takeout (⭐1.7k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
@@ -948,7 +945,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Alternative PHP virtual machines.*
 
 *   [Hack](https://hacklang.org/) - A programming language for HHVM.
-*   [HHVM (⭐19k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+*   [HHVM (⭐19k)](https://github.com/meta/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 *   [PeachPie (⭐2.5k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
 ### Text Editors and IDEs
@@ -968,7 +965,7 @@ Please see [CONTRIBUTING (⭐33k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 *   [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
 *   [Cachet (⭐15k)](https://github.com/cachethq/cachet) - The open source status page system.
-*   [Lychee (⭐6.4k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+*   [Lychee (⭐4.3k)](https://github.com/LycheeOrg/Lychee) - An easy to use and great looking photo-management-system.
 *   [Leantime](https://leantime.io) - Strategic project management system for the non project manager.
 *   [MailCatcher (⭐6.8k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 *   [Mailpit (⭐11k)](https://github.com/axllent/mailpit) - An email and SMTP testing tool for developers.

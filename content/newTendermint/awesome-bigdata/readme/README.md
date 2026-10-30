@@ -12,7 +12,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php (⭐33k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐326k)](https://github.com/vinta/awesome-python), [awesome-ruby (⭐1.3k)](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
+A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php (⭐33k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐331k)](https://github.com/vinta/awesome-python), [awesome-ruby (⭐1.3k)](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
 Your contributions are always welcome!
 
@@ -238,7 +238,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Graph Data Model
 
 *   [Actionbase (⭐228)](https://github.com/kakao/actionbase) - a database for user interactions (likes, views, follows) with precomputed reads, supports HBase.
-*   [AgensGraph (⭐1.5k)](https://github.com/bitnine-oss/agensgraph) - transactional graph database based on PostgreSQL.
+*   [AgensGraph (⭐1.5k)](https://github.com/skaiworldwide-oss/agensgraph) - multi-model graph database based on PostgreSQL with SQL, openCypher and ISO GQL.
 *   [ArcadeDB](https://arcadedb.com/) - multi-model database with graph, document, key-value, time-series and vector support.
 *   [Apache Spark Bagel](http://spark.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
 *   [ArangoDB](https://www.arangodb.com/) - multi model distributed database.
@@ -384,7 +384,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Vector Databases
 
 *   [Chroma](https://www.trychroma.com/) - open-source embedding database for AI applications.
-*   [Infinity (⭐4.7k)](https://github.com/infiniflow/infinity) - AI-native database for hybrid vector, sparse vector, tensor, full-text, and structured search.
+*   [Infinity (⭐4.8k)](https://github.com/infiniflow/infinity) - AI-native database for hybrid vector, sparse vector, tensor, full-text, and structured search.
 *   [LanceDB](https://www.lancedb.com/) - open-source embedded vector database built on the Lance columnar format.
 *   [Milvus (⭐46k)](https://github.com/milvus-io/milvus) - open-source vector database for scalable similarity search.
 *   [Qdrant](https://qdrant.tech/) - vector database and similarity search engine with REST, gRPC, and client SDKs.
@@ -431,7 +431,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Logstash](https://www.elastic.co/products/logstash) - a tool for managing events and logs.
 *   [Metricbeat](https://www.elastic.co/beats/metricbeat) - lightweight shipper for system and service metrics.
 *   [Netflix Suro (⭐798)](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
-*   [OLake (⭐1.5k)](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
+*   [OLake (⭐1.6k)](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 *   [Pinterest Secor (⭐1.9k)](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 *   [Linkedin Gobblin (⭐2.3k)](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 *   [Skizze (⭐773)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
@@ -444,6 +444,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 *   [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/observability/get-started/) - open-source data observability for monitoring data journeys, data quality, and pipeline events.
 *   [DataOps TestGen (⭐80)](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
+*   [Dex (⭐92)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
 *   [Great Expectations](https://greatexpectations.io/) - open-source framework for validating, documenting, and testing data quality.
 *   [OpenLineage](https://openlineage.io/) - open standard and reference implementation for collecting lineage metadata from data pipelines.
 *   [Soda Core](https://docs.soda.io/soda-core/overview-main.html) - open-source Python library and CLI for data quality tests.
@@ -506,7 +507,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.
 *   [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 *   [MLPNeuralNet (⭐899)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
-*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
+*   [ML Workspace (⭐3.6k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 *   [MOA](http://moa.cms.waikato.ac.nz) - MOA performs big data stream mining in real time, and large scale machine learning.
 *   [MonkeyLearn](https://monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 *   [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java.
@@ -610,7 +611,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 *   [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 *   [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
-*   [Substation (⭐407)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐409)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 *   [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 *   [TradeData](https://tradedata.io) - API for customs, shipment and international trade data, supporting supply-chain and market analysis.
 
@@ -672,13 +673,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 *   [BerkeleyDB](https://www.oracle.com/database/berkeley-db/index.html) - a software library that provides a high-performance embedded database for key/value data.
 *   [HanoiDB (⭐313)](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
-*   [LevelDB (⭐39k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [LevelDB (⭐40k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 *   [LMDB](https://symas.com/mdb/) - ultra-fast, ultra-compact key-value embedded data store developed by Symas.
 *   [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
 ## Business Intelligence
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io/) - cross-platform SQL client for querying and exploring analytical databases and warehouses like ClickHouse, BigQuery, Redshift, and DuckDB.
+*   [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports.
 *   [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 *   [Blazer (⭐4.8k)](https://github.com/ankane/blazer) - business intelligence made simple.
 *   [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
@@ -889,14 +891,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   Another list? [list (⭐12k)](https://github.com/jnv/lists).
 *   WTF! [awesome-awesome-awesome (⭐2.3k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
 *   Analytics [awesome-analytics (⭐4.3k)](https://github.com/onurakpolat/awesome-analytics).
-*   Public Datasets [awesome-public-datasets (⭐79k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐80k)](https://github.com/awesomedata/awesome-public-datasets).
 *   Graph Classification [awesome-graph-classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
 *   Network Embedding [awesome-network-embedding (⭐2.6k)](https://github.com/chihming/awesome-network-embedding).
 *   Community Detection [awesome-community-detection (⭐2.5k)](https://github.com/benedekrozemberczki/awesome-community-detection).
 *   Decision Tree Papers [awesome-decision-tree-papers (⭐2.5k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
 *   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.8k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 *   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐1.1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
-*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐715)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
+*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐717)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 *   Kafka [awesome-kafka (⭐216)](https://github.com/monksy/awesome-kafka).
 *   [Google Bigtable (⭐55)](https://github.com/zrosenbauer/awesome-bigtable).
 *   Data Annotation and Labeling Tools [awesome-open-data-annotation (⭐732)](https://github.com/zenml-io/awesome-open-data-annotation).

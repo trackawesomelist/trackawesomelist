@@ -6,6 +6,20 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 [ [Daily](/content/newTendermint/awesome-bigdata/README.md) / Weekly / [Overview](/content/newTendermint/awesome-bigdata/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Graph Data Model
+
+*   [AgensGraph (⭐1.5k)](https://github.com/skaiworldwide-oss/agensgraph) - multi-model graph database based on PostgreSQL with SQL, openCypher and ISO GQL.
+
+### Data Quality and Observability
+
+*   [Dex (⭐92)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
+
+### Business Intelligence
+
+*   [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Distributed Tracing Platform
@@ -19,7 +33,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 ### Data Ingestion
 
 *   [Datanika](https://datanika.io) - open-source ELT platform pairing dlt extract-and-load with dbt-core transformations, plus scheduling and run history in one self-hosted UI.
-*   [OLake (⭐1.5k)](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
+*   [OLake (⭐1.6k)](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 
 ### Data Quality and Observability
 
@@ -81,7 +95,6 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Graph Data Model
 
-*   [AgensGraph (⭐1.5k)](https://github.com/bitnine-oss/agensgraph) - transactional graph database based on PostgreSQL.
 *   [ArcadeDB](https://arcadedb.com/) - multi-model database with graph, document, key-value, time-series and vector support.
 *   [Facebook TAO](https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/) - TAO is the distributed data store that is widely used at Facebook to store and serve the social graph.
 *   [Nebula Graph](https://www.nebula-graph.io/) - distributed graph database for large-scale graphs with low-latency queries.
@@ -117,7 +130,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 ### Vector Databases
 
 *   [Chroma](https://www.trychroma.com/) - open-source embedding database for AI applications.
-*   [Infinity (⭐4.7k)](https://github.com/infiniflow/infinity) - AI-native database for hybrid vector, sparse vector, tensor, full-text, and structured search.
+*   [Infinity (⭐4.8k)](https://github.com/infiniflow/infinity) - AI-native database for hybrid vector, sparse vector, tensor, full-text, and structured search.
 *   [LanceDB](https://www.lancedb.com/) - open-source embedded vector database built on the Lance columnar format.
 *   [Milvus (⭐46k)](https://github.com/milvus-io/milvus) - open-source vector database for scalable similarity search.
 *   [Qdrant](https://qdrant.tech/) - vector database and similarity search engine with REST, gRPC, and client SDKs.
@@ -226,7 +239,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Applications
 
-*   [Substation (⭐407)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐409)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -425,7 +438,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Data Visualization / Graph Based approach
 
-*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐715)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
+*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐717)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 
 ## [Dec 09 - Dec 15, 2019](/content/2019/49/README.md)
 
@@ -464,7 +477,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Machine Learning
 
-*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
+*   [ML Workspace (⭐3.6k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 
 ### Business Intelligence
 
@@ -650,7 +663,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Data Visualization / Graph Based approach
 
-*   Public Datasets [awesome-public-datasets (⭐79k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐80k)](https://github.com/awesomedata/awesome-public-datasets).
 
 ## [Feb 19 - Feb 25, 2018](/content/2018/8/README.md)
 
@@ -1443,7 +1456,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Embedded Databases
 
-*   [LevelDB (⭐39k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [LevelDB (⭐40k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
 ### Business Intelligence
 

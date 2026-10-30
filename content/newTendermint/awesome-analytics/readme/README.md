@@ -41,7 +41,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 
 *   [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 
-*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐40k)](https://github.com/posthog/posthog)) `MIT` `Python`
+*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐41k)](https://github.com/posthog/posthog)) `MIT` `Python`
 
 *   [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and path analysis directly on DuckDB, Postgres, Snowflake, or ClickHouse — no ingestion, no SDK. ([Source Code (⭐10)](https://github.com/stratif-io/stratif.io)) `Apache-2.0` `Python/TypeScript`
 
@@ -127,7 +127,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 
 *   [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 
-*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐209)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
+*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐212)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
 
 *   [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
@@ -166,9 +166,14 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 **[`^        back to top        ^`](#)**
 
 *   [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
-*   [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code (⭐39k)](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+
+*   [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code (⭐40k)](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+
 *   [Vectr4](https://vectr4.com/) - Self-hosted web analytics with funnels and more. `©` `Self-Hosted` `Docker`
+
 *   [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
+
+*   [ShieldLabs](https://shieldlabs.ai) - Traffic quality analytics with bot detection, visitor identification and risk signals by traffic source. ([Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker)) `©` `SaaS`
 
 ## Endpoints
 
@@ -199,7 +204,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 
 *   [LLM Pulse](https://llmpulse.ai/) - AI search analytics for tracking brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, Google AI Overviews, and Google AI Mode. `©` `SaaS`
 
-*   [NotFair (⭐3.9k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code (⭐3.9k)](https://github.com/nowork-studio/NotFair)) `MIT`
+*   [NotFair (⭐4.1k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code (⭐4.1k)](https://github.com/nowork-studio/NotFair)) `MIT`
 
 ## Privacy focused analytics
 
@@ -207,9 +212,9 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 
 *   [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
 *   [Fathom Lite (⭐8k)](https://github.com/usefathom/fathom) - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
-*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐30k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code (⭐29k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
+*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐30k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code (⭐30k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
-*   [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. `©` `SaaS`
+*   [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. ([Demo](https://app.logly.uk/demo)) `©` `SaaS`
 *   [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
 *   [Metrical](https://metrical.xyz/) - A privacy-first web analytics tool for everyone. `©` `SaaS`
 *   [Stomatopod](https://stoma.top) - Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. ([Source Code (⭐1)](https://github.com/kkir/stomatopod)) `MIT` `Rust/Docker`
@@ -239,6 +244,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 *   [Measure.events](https://measure.events) - Privacy-first web analytics with an agent-native API, MCP server, and natural language summaries. Built for AI-forward teams. `©` `SaaS`
 *   [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 *   [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `Self-Hosted` `Go/Docker`
+*   [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
 
 ## Heatmap analytics
 
@@ -288,6 +294,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 *   [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 *   [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
 *   [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
+*   [Apparent](https://apparent.fyi/) - mobile app analytics for iOS and Android makers: live activity from its own SDK plus App Store Connect, Google Play and RevenueCat, all apps on one page. `©` `SaaS`
 
 ## App store analytics
 
@@ -300,6 +307,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 *   [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings. `©` `SaaS`
 *   [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform. `©` `SaaS`
 *   [AdMapix](https://www.admapix.com/) - AI ad intelligence and app market research platform for searching competitor creatives and tracking app rankings, downloads, and revenue across markets. `©` `SaaS`
+*   [AsoBeast](https://asobeast.com) - Open-source ASO tool and keyword rank tracker for the App Store and Google Play: daily rankings, competitors, reviews and an MCP server. ([Source Code (⭐115)](https://github.com/AsoBeast/asobeast)) `AGPL-3.0` `TypeScript` `Self-Hosted` `SaaS`
 
 ## Attribution tracking
 
@@ -313,6 +321,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 *   [Virling (⭐1)](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
 *   [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
 *   [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
+*   [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
 
 ## Social media analytics
 
@@ -332,6 +341,10 @@ Often there is no clear differentiation between social media management and anal
 *   [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 *   [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - TikTok content research: rank a creator's public videos by engagement, export comments, AI transcripts and sentiment analysis. `©` `SaaS`
 *   [Pulse](https://pulse.walls.sh) - Social post metrics REST API — give it a public post URL and get back views, likes, comments, shares in JSON. Covers YouTube, X/Twitter, TikTok, Bluesky, Mastodon, Instagram. No API key to start. `Free` `SaaS`
+*   [IGDataHub](https://igdatahub.com/) - Instagram profile lookup (followers, following, posts) and dated follower readings for the accounts it tracks. `©` `SaaS`
+*   [SnapDataHub](https://snapdatahub.com/) - Subscriber counts, Spotlight views and growth for public Snapchat creator profiles; earnings figures are estimates. `©` `SaaS`
+*   [TKMetrics](https://tkmetrics.com/) - TikTok creator reports (average views, engagement rate, posting times) and public hashtag trends. `©` `SaaS`
+*   [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
 
 ## Developer analytics
 
@@ -343,6 +356,7 @@ Often there is no clear differentiation between social media management and anal
 *   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 *   [Hatica](https://www.hatica.io/) - Engineering Analytics to boost developer productivity `©` `SaaS`
 *   [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
+*   [LogBrew](https://logbrew.co/) - Error tracking, logs, traces, metrics and product events for apps, with a free plan and an MCP server for AI coding agents. `©` `SaaS`
 *   [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 *   [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 *   [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
@@ -365,7 +379,7 @@ Often there is no clear differentiation between social media management and anal
 *   [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code (⭐29k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
 *   [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code (⭐75k)](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 *   [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code (⭐1.5k)](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
-*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐209)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
+*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐212)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
 *   [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code (⭐795)](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
 
 <!---->
@@ -377,6 +391,7 @@ Often there is no clear differentiation between social media management and anal
 *   [DataHub Pro](https://www.datahubpro.co.uk/) - AI analytics for spreadsheets: turn an Excel or CSV file into dashboards, forecasts and reports, with an audit trail for every number. Built for small teams without a data engineer. `SaaS`
 *   [GeoSQL (⭐678)](https://github.com/dekart-xyz/geosql) - AI-native geospatial analytics. Claude/Codex skill that turns natural language into validated SQL + maps on BigQuery and Snowflake. `MIT` `Python`
 *   [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code (⭐434)](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
+*   [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports. `©` `SaaS`
 
 # Other Awesome Lists
 

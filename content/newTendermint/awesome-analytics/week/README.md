@@ -6,6 +6,43 @@ A curated list of analytics frameworks, software and other tools.
 
 [ [Daily](/content/newTendermint/awesome-analytics/README.md) / Weekly / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Website analytics
+
+*   [ShieldLabs](https://shieldlabs.ai) - Traffic quality analytics with bot detection, visitor identification and risk signals by traffic source. ([Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker)) `©` `SaaS`
+
+### Privacy focused analytics
+
+*   [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
+
+### Mobile analytics
+
+*   [Apparent](https://apparent.fyi/) - mobile app analytics for iOS and Android makers: live activity from its own SDK plus App Store Connect, Google Play and RevenueCat, all apps on one page. `©` `SaaS`
+
+### App store analytics
+
+*   [AsoBeast](https://asobeast.com) - Open-source ASO tool and keyword rank tracker for the App Store and Google Play: daily rankings, competitors, reviews and an MCP server. ([Source Code (⭐115)](https://github.com/AsoBeast/asobeast)) `AGPL-3.0` `TypeScript` `Self-Hosted` `SaaS`
+
+### Attribution tracking
+
+*   [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
+
+### Social media analytics
+
+*   [IGDataHub](https://igdatahub.com/) - Instagram profile lookup (followers, following, posts) and dated follower readings for the accounts it tracks. `©` `SaaS`
+*   [SnapDataHub](https://snapdatahub.com/) - Subscriber counts, Spotlight views and growth for public Snapchat creator profiles; earnings figures are estimates. `©` `SaaS`
+*   [TKMetrics](https://tkmetrics.com/) - TikTok creator reports (average views, engagement rate, posting times) and public hashtag trends. `©` `SaaS`
+*   [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
+
+### Developer analytics
+
+*   [LogBrew](https://logbrew.co/) - Error tracking, logs, traces, metrics and product events for apps, with a free plan and an MCP server for AI coding agents. `©` `SaaS`
+
+### Analytics dashboards
+
+*   [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports. `©` `SaaS`
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### General analytics
@@ -25,7 +62,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Analytics dashboards
 
-*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐209)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
+*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐212)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
 *   [DataPallas (⭐80)](https://github.com/flowkraft/datapallas) - Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation. `SSPL-1.0` `Source Available`
 *   [GoatCounter Dashboard (⭐14)](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. ([Demo](https://abhishekhsingh.github.io/goatcounter-dashboard), [Source Code (⭐14)](https://github.com/abhishekhsingh/goatcounter-dashboard)) `MIT` `JavaScript`
 *   [Conyso Lens](https://conyso.com/lens.html?utm_source=github\&utm_medium=directory\&utm_campaign=listing) - General-purpose data-visualization studio: point it at any dataset and get publication-quality charts across 112 chart types, each with a plain-English, rule-based read (never AI-generated). Runs entirely in the browser; nothing you load ever leaves it. Self-host option available. `©` `SaaS` `Self-Hosted`
@@ -61,11 +98,11 @@ A curated list of analytics frameworks, software and other tools.
 *   [SiteData](https://sitedata.dev/) - website traffic estimation, reverse AdSense lookup, Google Ads advertiser analysis, and Domain Rating lookup. `©` `SaaS`
 *   [GeoBuddy](https://geobuddy.co/) - AI search analytics: tracks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with rank, share of voice and competitor tracking; free check without signup.
 *   [LLM Pulse](https://llmpulse.ai/) - AI search analytics for tracking brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, Google AI Overviews, and Google AI Mode. `©` `SaaS`
-*   [NotFair (⭐3.9k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code (⭐3.9k)](https://github.com/nowork-studio/NotFair)) `MIT`
+*   [NotFair (⭐4.1k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code (⭐4.1k)](https://github.com/nowork-studio/NotFair)) `MIT`
 
 ### Privacy focused analytics
 
-*   [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. `©` `SaaS`
+*   [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. ([Demo](https://app.logly.uk/demo)) `©` `SaaS`
 *   [Stomatopod](https://stoma.top) - Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. ([Source Code (⭐1)](https://github.com/kkir/stomatopod)) `MIT` `Rust/Docker`
 *   [Respectlytics](https://respectlytics.com) - Privacy-first, session-based mobile app analytics with strict 5-field storage and no persistent user tracking. ([Source Code (⭐41)](https://github.com/respectlytics/respectlytics)) `AGPL-3.0` `Python/Docker`
 *   [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
@@ -116,7 +153,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Website analytics
 
-*   [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code (⭐39k)](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+*   [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code (⭐40k)](https://github.com/umami-software/umami)) `MIT` `JavaScript`
 
 ### Privacy focused analytics
 
@@ -161,7 +198,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### General analytics
 
-*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐40k)](https://github.com/posthog/posthog)) `MIT` `Python`
+*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐41k)](https://github.com/posthog/posthog)) `MIT` `Python`
 
 ### Developer analytics
 
@@ -359,7 +396,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Privacy focused analytics
 
-*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐30k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code (⭐29k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
+*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐30k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code (⭐30k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [Shynet (⭐3.2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 *   [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐40k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`
 *   [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code (⭐399)](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
