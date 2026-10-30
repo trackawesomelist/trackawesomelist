@@ -8,6 +8,10 @@
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Splat (⭐6)](https://github.com/sventmueller/splat) - Native macOS Markdown editor in Rust where both the source and the live preview are editable. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sventmueller/splat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Reading and Writing Tools / Ebooks
 
 *   [Comic Commander](https://krocon.de/products/comiccommander/) - Comic library browser and reader for CBZ, CBR, CB7, CBT, and PDF files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/krocon/comic-commander-tauri) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -74,6 +78,10 @@
 
 *   [Hey Mac](https://heymacapp.com/) - On-device face unlock for the lock screen and privacy shields for selected apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iharshitmaurya/HeyMac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Clipboard Tools
+
+*   [Clipivo](https://clipivo.jishnumahanta.in) - Local-first native clipboard manager that keeps your clipboard history searchable, organized, and private. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / Menu Bar Tools
 
 *   [Çentik (⭐2)](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/YusufEmreYazici/Centik) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -89,6 +97,7 @@
 
 ### Utilities / General Tools
 
+*   [AerialSwap (⭐2)](https://github.com/mxpalm/AerialSwap) - Turn any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mxpalm/AerialSwap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SATF (⭐6)](https://github.com/tran-minh-khoi/SATF) - Shake a file while dragging it to convert, merge into a PDF, zip, or extract it from a radial menu under your cursor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tran-minh-khoi/SATF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Productivity
@@ -96,8 +105,13 @@
 *   [JUMP](https://alvaldes.github.io/jump/) - Open-source tool that labels every clickable element so you can click, scroll and search any app from the keyboard. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alvaldes/jump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Utilities / Window Management
+
+*   [Open Contexts](https://opencontexts.app/) - Open-source window switcher with a persistent app bar and saved window groups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zshnb/open-contexts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / System Related Tools
 
+*   [Mac Monitor (⭐7)](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ahmadjondev/MacMonitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Monny](https://monny.moduix.dev) - Open-source menu bar system monitor with process lookup and a battery charge limit. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Blinks44/monny) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
@@ -653,7 +667,7 @@
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [LocalScribe (⭐24)](https://github.com/maddylaneeee/ShengJi) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maddylaneeee/ShengJi) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LocalScribe (⭐26)](https://github.com/maddylaneeee/ShengJi) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maddylaneeee/ShengJi) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 

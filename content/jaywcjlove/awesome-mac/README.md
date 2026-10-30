@@ -6,6 +6,28 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Splat (⭐6)](https://github.com/sventmueller/splat) - Native macOS Markdown editor in Rust where both the source and the live preview are editable. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sventmueller/splat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Clipboard Tools
+
+*   [Clipivo](https://clipivo.jishnumahanta.in) - Local-first native clipboard manager that keeps your clipboard history searchable, organized, and private. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / General Tools
+
+*   [AerialSwap (⭐2)](https://github.com/mxpalm/AerialSwap) - Turn any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mxpalm/AerialSwap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Window Management
+
+*   [Open Contexts](https://opencontexts.app/) - Open-source window switcher with a persistent app bar and saved window groups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zshnb/open-contexts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [Mac Monitor (⭐7)](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ahmadjondev/MacMonitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Developer Tools / Version Control
@@ -865,7 +887,7 @@
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [LocalScribe (⭐24)](https://github.com/maddylaneeee/ShengJi) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maddylaneeee/ShengJi) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LocalScribe (⭐26)](https://github.com/maddylaneeee/ShengJi) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maddylaneeee/ShengJi) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 

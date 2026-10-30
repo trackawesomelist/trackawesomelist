@@ -78,6 +78,7 @@
 ### Graphics / Voxel Editors
 
 *   :free: [Sproxel](https://sproxel.blogspot.com.br/)
+*   :money\_with\_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
 
 ### Engines and Frameworks / Voxel Editors
 

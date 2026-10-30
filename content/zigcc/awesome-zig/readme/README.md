@@ -191,6 +191,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [lkraider/keywise (⭐1)](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 *   [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
 *   [ensky0/tildaz (⭐22)](https://github.com/ensky0/tildaz) - Native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt. AI-assisted.
+*   [aikoschurmann/zog (⭐49)](https://github.com/aikoschurmann/zog) - Fast JSONL search engine with a SQL-like query language for filtering, field extraction and aggregation. A SIMD prefilter skips lines that cannot match and a validating parser decides the rest exactly. AI-assisted.
 
 ### Linker
 

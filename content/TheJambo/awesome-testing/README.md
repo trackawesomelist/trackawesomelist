@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Software / Service Virtualization
+
+*   [s3-test-server](https://www.npmjs.com/package/s3-test-server) - S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).
+
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Software / API Testing
@@ -290,7 +296,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐233)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 

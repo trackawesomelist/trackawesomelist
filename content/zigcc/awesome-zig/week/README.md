@@ -11,6 +11,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Fundamentals / Utility
 
 *   [ensky0/tildaz (⭐22)](https://github.com/ensky0/tildaz) - Native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt. AI-assisted.
+*   [aikoschurmann/zog (⭐49)](https://github.com/aikoschurmann/zog) - Fast JSONL search engine with a SQL-like query language for filtering, field extraction and aggregation. A SIMD prefilter skips lines that cannot match and a validating parser decides the rest exactly. AI-assisted.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 

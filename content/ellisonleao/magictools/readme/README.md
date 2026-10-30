@@ -230,6 +230,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [goxel (⭐3.2k)](https://github.com/guillaumechereau/goxel)
 *   :free: [MagicaVoxel](https://ephtracy.github.io/)
 *   :free: [Sproxel](https://sproxel.blogspot.com.br/)
+*   :money\_with\_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
 
 ## Code
 

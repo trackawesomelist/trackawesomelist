@@ -10,7 +10,13 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 <p align="center">
 <a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="An image containing the text: 'You wanted to know: Is RSS dead? Lots of feeds. All popular blogging platforms support RSS. As do most news orgs. Lots of feed reading software. And lots of users. Podcasting is booming. It's open, no platform vendor, anyone can use it. So no, RSS is not dead.'. Followed by a green candy heart with the letters RSS impressed."></a><br>
-<small>Screenshot of isRSSdead.com</small>
+<small>Screenshot of isRSSdead.com</small><br>
+<a href="https://iheartrss.com/">
+  <picture>
+    <source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="176" height="62">
+  </picture>
+</a>
 </p>
 
 ***
@@ -18,7 +24,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every single sentence in [isRSSdead.com](http://isrssdead.com) has been extended into exact apps, tools and services recorded in this list. Contents are mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss) (in Chinese).
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue\&label=%40AboutRSS\&query=data.totalSubs\&suffix=%20subscribers\&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss\&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/%40AboutRSS-3k%2B%20followers-blue?style=flat\&logo=x)](https://twitter.com/aboutrss)[![Mastodon Follow](https://img.shields.io/mastodon/follow/112182603993100821?domain=https%3A%2F%2Fmastodon.social\&style=flat\&logo=mastodon\&color=blue)](https://mastodon.social/@AboutRSS)
-![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub) <a href="https://iheartrss.com/"><picture><source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="88" height="31"></picture></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub)
 
 Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an *Awesome list*. Any service/tool that functions well and is maintained well can be listed here.
 
@@ -605,6 +611,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Follow](https://follow.is/) <sup>[1478](https://t.me/s/aboutrss/1478), [1489](https://t.me/s/aboutrss/1489)</sup> [![Online][Online icon]](https://app.follow.is/)[![Windows][Windows icon]](https://follow.is/download)[![Mac][Mac icon]](https://follow.is/download)[![Linux][Linux icon]](https://follow.is/download)![AI][AI icon]
 *   [Social Reader (⭐19)](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 *   [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
+*   [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
 
 ### Self Hosted Readers
 
@@ -659,6 +666,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Social Reader (⭐19)](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 *   [Dashboard (⭐14)](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software][oss icon]![Freeware][freeware icon] lightweight, customizable, client-side RSS feeds dashboard.
 *   [Readfine](https://readfine.app) [![Online][Online icon]](https://readfine.app)[![Open-Source Software][oss icon]](https://github.com/jakublibik/readfine)![AI][AI icon]
+*   [reader](https://dev.standardbeagle.com/reader/) : Google Reader clone with three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software][oss icon]](https://github.com/standardbeagle/reader)![AI][AI icon][![MCP][MCP icon]](https://github.com/standardbeagle/reader#readme)
 
 ### RSS Reader in Email System
 
@@ -1633,7 +1641,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### RSS Feed integrated with AI generated content
 
-*   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
+*   [~~RSSPath~~](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
 *   [RSS-GPT (⭐355)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSS-GPT)![AI][AI icon]
 
 ### Generating Blog's statistics via RSS feed
@@ -1666,6 +1674,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
+*   [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder): paste any site URL and get its RSS/Atom feed URLs, no signup ![Online][Online icon]![Freeware][freeware icon]
 
 ### Subscribing Button
 
@@ -1704,7 +1713,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 *   [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
 *   [SearQ](https://searq.org/): a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/searq.org)![Freeware][freeware icon]
-*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon]
+*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon][![MCP][MCP icon]](https://rssemit.com/agents.html)
 
 ## 🏗️ Tools for parsing / decoding RSS
 
@@ -1712,6 +1721,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/simplepie/simplepie/)
 *   [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software][oss icon]](https://github.com/sebastienrousseau/rssgen)
 *   [Crawler-Buddy (⭐258)](https://github.com/rumca-js/crawler-buddy): A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
+*   [Feedsmith](https://feedsmith.dev/): A fast JavaScript and TypeScript library for parsing and generating RSS, Atom, RDF, JSON Feed and OPML, with support for 30+ namespaces [![Open-Source Software][oss icon]](https://github.com/macieklamberski/feedsmith)
 
 ## ⛓ OPML management
 
@@ -1833,7 +1843,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
 *   [积薪](https://firewood.news/) <sup>[1331](https://t.me/s/aboutrss/1331)</sup>
 *   [Blog of the .Day](https://blogofthe.day/) <sup>[1458](https://t.me/s/aboutrss/1458)</sup> [![Open-Source Software][oss icon]](https://github.com/artlung/blogofthe.day)
-*   [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
+*   [I ♥ RSS](https://iheartrss.com/) <sup>[1536](https://t.me/s/aboutrss/1536)</sup>: a member directory of RSS lovers, exportable as OPML
 
 ## 🔨 Blog Generator that Support RSS
 

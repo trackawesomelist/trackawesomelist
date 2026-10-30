@@ -95,6 +95,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [mockd (⭐150)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 *   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
 *   [MockServer (⭐5k)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
+*   [s3-test-server](https://www.npmjs.com/package/s3-test-server) - S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).
 *   [WireMock (⭐7.4k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 *   [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 *   [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
@@ -281,7 +282,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Automation Frameworks
 
 *   [Bats (⭐6.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐233)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 *   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 *   [ai-natural-language-tests (⭐23)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐29)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans

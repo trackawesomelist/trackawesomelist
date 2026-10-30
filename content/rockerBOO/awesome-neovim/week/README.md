@@ -12,8 +12,17 @@ Collections of awesome neovim plugins.
 
 *   [mrwatts88/ghost.nvim (⭐2)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 
+### Programming Languages Support / Diagnostics
+
+*   [dobsontom/dbt-ft.nvim (⭐3)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [sammaji/markdown-preview.nvim (⭐37)](https://github.com/sammaji/markdown-preview.nvim) - Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.
+
 ### Colorscheme / Markdown and LaTeX
 
+*   [heritage-themes/heritage-themes.nvim (⭐2)](https://github.com/heritage-themes/heritage-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 *   [RazikSF/lumina-themes (⭐0)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 
 ### Startup / Cursorline
@@ -4035,10 +4044,6 @@ Collections of awesome neovim plugins.
 *   [shellRaining/hlchunk.nvim (⭐924)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
-
-### Programming Languages Support / Markdown and LaTeX
-
-*   [iamcco/markdown-preview.nvim (⭐8k)](https://github.com/iamcco/markdown-preview.nvim) - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 
 ### Register / Markdown and LaTeX
 

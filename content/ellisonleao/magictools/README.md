@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Graphics / Voxel Editors
+
+*   :money\_with\_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Graphics / Spritesheet Tools

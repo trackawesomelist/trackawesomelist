@@ -11,6 +11,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Agent Orchestration & CLI Tools
 
 *   [MAO](https://trymao.dev/) - Native desktop canvas for macOS, Windows and Linux that runs Gemini CLI (0.41 or later) as a built-in agent alongside Claude Code, Codex, Grok, OpenCode, Antigravity and shell agents, each as a real terminal node on its own login. Wired agents hand each other tasks through the `mao` CLI, an Orchestrator agent can recruit and direct the others, and each layer is a git worktree whose diff you review and land from the canvas. Closed source; US$20 one-time, 7-day free trial.
+*   [Aixle Flow (⭐31)](https://github.com/AixleHQ/flow) - Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.
 
 ### Commands & Extensions
 
@@ -616,7 +617,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Self Command](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
+*   [Self Command (⭐29)](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
 *   [vsync (⭐61)](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)

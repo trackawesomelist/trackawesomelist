@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [dobsontom/dbt-ft.nvim (⭐3)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [sammaji/markdown-preview.nvim (⭐37)](https://github.com/sammaji/markdown-preview.nvim) - Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [heritage-themes/heritage-themes.nvim (⭐2)](https://github.com/heritage-themes/heritage-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Pre-made Configuration / Stats Tracking
@@ -4874,12 +4888,6 @@ Collections of awesome neovim plugins.
 ### Motion / GitHub
 
 *   [liangxianzhe/nap.nvim (⭐103)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
-
-## [Feb 28, 2023](/content/2023/02/28/README.md)
-
-### Programming Languages Support / Markdown and LaTeX
-
-*   [iamcco/markdown-preview.nvim (⭐8k)](https://github.com/iamcco/markdown-preview.nvim) - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 

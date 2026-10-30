@@ -374,6 +374,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [redpierrot/ballerina.nvim (⭐5)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 *   [jgonmor16/hdlsnip.nvim (⭐5)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 *   [upyesp/epher.nvim (⭐2)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+*   [dobsontom/dbt-ft.nvim (⭐3)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 
 ### Golang
 
@@ -416,7 +417,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 ### Markdown and LaTeX
 
 *   [the-mayankjha/fk\_markdown.nvim (⭐23)](https://github.com/the-mayankjha/fk_markdown.nvim) - Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.
-*   [iamcco/markdown-preview.nvim (⭐8k)](https://github.com/iamcco/markdown-preview.nvim) - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
+*   [sammaji/markdown-preview.nvim (⭐37)](https://github.com/sammaji/markdown-preview.nvim) - Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.
 *   [davidgranstrom/nvim-markdown-preview (⭐111)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through the job-control API.
 *   [jghauser/auto-pandoc.nvim (⭐41)](https://github.com/jghauser/auto-pandoc.nvim) - Easy pandoc conversion leveraging YAML blocks.
 *   [jghauser/follow-md-links.nvim (⭐175)](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal Markdown links.
@@ -768,6 +769,7 @@ then it is not supported:
 
 <!--lint enable awesome-list-item-->
 
+*   [heritage-themes/heritage-themes.nvim (⭐2)](https://github.com/heritage-themes/heritage-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 *   [zacesshq/zacess.nvim (⭐0)](https://github.com/zacesshq/zacess.nvim) - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 *   [daaanny90/interlinked.nvim (⭐2)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 *   [rezniqov/soviet.nvim (⭐36)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.

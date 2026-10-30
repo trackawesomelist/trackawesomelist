@@ -6,6 +6,24 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Software and Tools
+
+*   [BulkBarcode Generator](https://bulkbarcode-generator.com) - Makes FNSKU, UPC, EAN-13, Code 128 and QR labels in bulk from an Excel or CSV file, and exports print-ready PDF rolls for thermal printers. Runs in the browser. Free plan.
+*   [CorpusIQ](https://www.corpusiq.io) - Connects ChatGPT, Claude and Perplexity read-only to Amazon Seller, Shopify, GA4, QuickBooks and 40+ other systems, and answers questions about the business with the source of each number. From $29.95 a month, with a 30-day free trial.
+*   [Fbaleaks](https://fbaleaks.com) - Audits FBA inventory and reimbursement reports in the browser. Finds lost or damaged units that Amazon did not reimburse, sorts SKUs to keep, reprice or remove, and drafts appeal letters. Free tools and a one-time paid audit.
+*   [PixVibe](https://pixvibe.ai/tools/remove-background) - Browser-based background remover that exports product photos on a white or transparent background, with tools to compress, resize and crop images. Free for single images, with no account.
+*   [TranslateMyImage](https://translatemyimage.com/amazon-image-translator) - Translates the text inside product images, infographics, A+ modules and size charts into other languages, and keeps the original layout. Works from the final JPG or PNG files. Three free test images.
+
+### Product Research and Pre-Launch
+
+*   [Trends MCP](https://www.trendsmcp.ai) - MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. [GitHub (⭐44)](https://github.com/trendsmcp-ai/Trends-MCP)
+
+### Other
+
+*   [Awesome Agentic Commerce (⭐65)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Software and Tools

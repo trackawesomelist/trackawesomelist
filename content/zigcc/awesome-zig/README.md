@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Fundamentals / Utility
+
+*   [aikoschurmann/zog (⭐49)](https://github.com/aikoschurmann/zog) - Fast JSONL search engine with a SQL-like query language for filtering, field extraction and aggregation. A SIMD prefilter skips lines that cannot match and a validating parser decides the rest exactly. AI-assisted.
+
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Fundamentals / Utility

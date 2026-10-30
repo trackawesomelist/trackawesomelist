@@ -33,6 +33,7 @@ A curated list of testing resources
 ### Software / Service Virtualization
 
 *   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
+*   [s3-test-server](https://www.npmjs.com/package/s3-test-server) - S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).
 *   [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
 *   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
@@ -258,7 +259,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [Jumpstarter (⭐226)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+*   [Jumpstarter (⭐233)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 

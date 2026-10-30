@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Oct 30, 2026](/content/2026/10/30/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [Aixle Flow (⭐31)](https://github.com/AixleHQ/flow) - Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Agent Orchestration & CLI Tools
@@ -895,7 +901,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Self Command](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
+*   [Self Command (⭐29)](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
 
 ## [Jan 29, 2026](/content/2026/01/29/README.md)
 

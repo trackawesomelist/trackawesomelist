@@ -11,6 +11,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Hosted Readers / Outline Processor Markup Language
 
 *   [Proofite](https://proofite.com/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://proofite.com/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.proofite.app)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
+*   [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### Self Hosted Readers / Outline Processor Markup Language
+
+*   [reader](https://dev.standardbeagle.com/reader/) : Google Reader clone with three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/standardbeagle/reader)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://github.com/standardbeagle/reader#readme)
 
 ### XMPP (Jabber) / PubSub bots
 
@@ -31,9 +36,21 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [What's New](https://whatsnew.fyi/) : follows the changelogs of over a thousand software products. One feed per product, one for everything, with the release notes carried in content:encoded [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://whatsnew.fyi/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
+### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [~~RSSPath~~](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder): paste any site URL and get its RSS/Atom feed URLs, no signup ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### 🏗️ Tools for parsing / decoding RSS / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Feedsmith](https://feedsmith.dev/): A fast JavaScript and TypeScript library for parsing and generating RSS, Atom, RDF, JSON Feed and OPML, with support for 30+ namespaces [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/macieklamberski/feedsmith)
+
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
-*   [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
+*   [I ♥ RSS](https://iheartrss.com/) <sup>[1536](https://t.me/s/aboutrss/1536)</sup>: a member directory of RSS lovers, exportable as OPML
 
 ### 🔨 Blog Generator that Support RSS / Crypto or Blockchain relevant
 
@@ -69,7 +86,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://rssemit.com/agents.html)
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -611,7 +628,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 *   [RSS-GPT (⭐355)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
