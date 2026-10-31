@@ -1018,6 +1018,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
 *   [Informate](https://informate.elsetech.io/) <sup>[724](https://t.me/s/aboutrss/724)</sup> ![Online][Online icon]
 *   [Castbee](https://castbee.net/) <sup>[864](https://t.me/s/aboutrss/864), [883](https://t.me/s/aboutrss/883)</sup> ![Online][Online icon][![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/castbee-news-subscriber/pmggohjclghclepgangbbgakapljlnnc)
+*   [InBrief (⭐21)](https://github.com/frankzch/ai-news-brief) [![Open-Source Software][oss icon]](https://github.com/frankzch/ai-news-brief)![AI][AI icon]
 
 ## 🛠 RSS Feed Generation
 
@@ -1076,6 +1077,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [RSS Anything](https://rss.diffbot.com/) <sup>[1406](https://t.me/s/aboutrss/1406)</sup>
 *   [RSSWebAll](https://rssweball.top/) <sup>[1488](https://t.me/s/aboutrss/1488)</sup>
 *   [AI RSS](https://airss.ft07.com) <sup>[1499](https://t.me/s/aboutrss/1499)</sup> [![Open-Source Software][oss icon]](https://airss.ft07.com)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/airss/hhconojkeohomnfbpbioamldompinckh)![AI][AI icon]
+*   [Webpage to RSS @ Sponder](https://sponder.app/webpage-to-rss) ![Online][Online icon]
 
 #### text
 
@@ -1360,6 +1362,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Buttondown](https://buttondown.email/) <sup>[1382](https://t.me/s/aboutrss/1382)</sup>
 *   [lightfeed](https://www.lightfeed.app/) <sup>[1448](https://t.me/s/aboutrss/1448)</sup> ![AI][AI icon]
 *   [TidyRead](https://tidyread.ai/) <sup>[1470](https://t.me/s/aboutrss/1470)</sup> [![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/tidyread/gpfnpbpkadjgeoneammbiiidbkgkncaa)![AI][AI icon]
+*   [Feedletter (⭐4)](https://github.com/smtpfast/feedletter) [![Open-Source Software][oss icon]](https://github.com/smtpfast/feedletter)![AI][AI icon]
 
 ### RSS2TWITTER
 
@@ -1400,6 +1403,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Pluma RSS Reader](https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/) <sup>[1021](https://t.me/s/aboutrss/1021)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)![Freeware][freeware icon]
 *   Plenary <sup>[516](https://t.me/s/aboutrss/516)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.spians.plenary)
 *   [Call Annie](https://callannie.ai/) <sup>[1330](https://t.me/s/aboutrss/1330)</sup> [![iOS][iPhone icon]](https://itunes.apple.com/app/6447928709)
+*   [PressPlayed](https://pressplayed.com/): reads the text each source makes available aloud as one continuous briefing, auto-advancing through the queue; playback continues while the screen is locked on supported phones ![Online][Online icon]
 
 ### RSS2NOTION
 
@@ -1539,7 +1543,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [feedless](https://feedless.org/getting-started) <sup>[1340](https://t.me/s/aboutrss/1340)</sup> [![Open-Source Software][oss icon]](https://github.com/damoeb/feedless)
 *   [rss-tools](https://adulau.github.io/rss-tools/): A set of crappy Python scripts to handle RSS in an Unix way [![Open-Source Software][oss icon]](https://github.com/adulau/rss-tools/)
 *   [RSSBrew (⭐295)](https://github.com/yinan-c/RSSBrew) <sup>[1465](https://t.me/s/aboutrss/1465)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSSBrew)
-*   [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online][Online icon]
+*   [Sponder](https://sponder.app/tools) <sup>[1525](https://t.me/s/aboutrss/1525)</sup>: Merge, filter, split and regroup feeds with visual flows or YAML configuration ![Online][Online icon]
 
 ### Full Article Extractors
 
@@ -1675,6 +1679,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
 *   [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder): paste any site URL and get its RSS/Atom feed URLs, no signup ![Online][Online icon]![Freeware][freeware icon]
+*   [Find a Feed @ Sponder](https://sponder.app/find-feed): Paste any URL to discover its RSS and Atom feeds ![Online][Online icon]![Freeware][freeware icon]
+*   [Find a Podcast Feed @ Sponder](https://sponder.app/find-podcast): Get the RSS feed of any podcast from its website or directory link ![Online][Online icon]![Freeware][freeware icon]
 
 ### Subscribing Button
 
@@ -1742,6 +1748,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [上下闻](https://news.mindynode.com/en/) <sup>[111](https://t.me/s/aboutrss/111)</sup> [![Open-Source Software][oss icon]](https://github.com/josherich/RSS-ORG)
 *   [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 *   [Awesome-newsCN-feeds (⭐159)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
+*   [Noozra](https://noozra.com/): news feeds by category, drawn from 70+ publications, each item carrying the publisher's own description
 
 ### Entertainment
 
@@ -2112,6 +2119,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [podcast4us](https://podcast4us.herokuapp.com/) <sup>[595](https://t.me/s/aboutrss/595)</sup> : generates RSS feed for ximalaya.com [![Open-Source Software][oss icon]](https://github.com/hondajojo/podcast4us)![Freeware][freeware icon]
 *   [RECAST](https://recastthis.com/) <sup>[931](https://t.me/s/aboutrss/931)</sup>
 *   [ZeroAds](https://zeroads.ai/): Ad-free versions of your podcasts as private RSS feeds; works with any podcast app. ![Online][Online icon]![AI][AI icon]
+*   [Skip Podcast Reruns @ Sponder](https://sponder.app/skip-podcast-reruns): Remove rerun episodes from a podcast feed ![Online][Online icon]
+*   [Podcast From the Beginning @ Sponder](https://sponder.app/podcast-from-beginning): Replay a podcast's back catalog at your own pace ![Online][Online icon]
 
 ## Podcast Feed to Fediverse
 

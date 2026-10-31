@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Oct 31, 2026](/content/2026/10/31/README.md)
+
+### Software / Test Data Management
+
+*   [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Software / Service Virtualization

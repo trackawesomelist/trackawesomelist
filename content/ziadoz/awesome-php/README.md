@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Oct 31, 2026](/content/2026/10/31/README.md)
+
+### Table of Contents / Content Management Systems (CMS)
+
+*   [Moodle (⭐7.6k)](https://github.com/moodle/moodle) - An open-source learning platform.
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Table of Contents / Frameworks
@@ -886,7 +892,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [CraftCMS (⭐3.6k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-*   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Statamic](https://statamic.com/) - A flat-file and Git-based CMS built on Laravel.
 
 ### Table of Contents / Testing

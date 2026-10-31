@@ -12,6 +12,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Phalcon](https://phalcon.io/) - A framework implemented as a C extension.
 
+### Table of Contents / Content Management Systems (CMS)
+
+*   [Moodle (⭐7.6k)](https://github.com/moodle/moodle) - An open-source learning platform.
+
 ### Table of Contents / Debugging and Profiling
 
 *   [XHProf (⭐1.1k)](https://github.com/longxinH/xhprof) - A profiling tool originally developed by Facebook.
@@ -839,7 +843,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [CraftCMS (⭐3.6k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-*   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Statamic](https://statamic.com/) - A flat-file and Git-based CMS built on Laravel.
 
 ### Table of Contents / Dependency Injection

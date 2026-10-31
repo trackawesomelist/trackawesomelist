@@ -6,6 +6,42 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Oct 31, 2026](/content/2026/10/31/README.md)
+
+### ✳ Information Aggregators / 酷Q Plugin
+
+*   [InBrief (⭐21)](https://github.com/frankzch/ai-news-brief) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frankzch/ai-news-brief)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### universally from / webpage/html
+
+*   [Webpage to RSS @ Sponder](https://sponder.app/webpage-to-rss) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
+### RSS2NEWSLETTER / Docsify
+
+*   [Feedletter (⭐4)](https://github.com/smtpfast/feedletter) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/smtpfast/feedletter)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### RSS2SPEECH / Docsify
+
+*   [PressPlayed](https://pressplayed.com/): reads the text each source makes available aloud as one continuous briefing, auto-advancing through the queue; playback continues while the screen is locked on supported phones ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
+### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Sponder](https://sponder.app/tools) <sup>[1525](https://t.me/s/aboutrss/1525)</sup>: Merge, filter, split and regroup feeds with visual flows or YAML configuration ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Find a Feed @ Sponder](https://sponder.app/find-feed): Paste any URL to discover its RSS and Atom feeds ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Find a Podcast Feed @ Sponder](https://sponder.app/find-podcast): Get the RSS feed of any podcast from its website or directory link ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### News / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Noozra](https://noozra.com/): news feeds by category, drawn from 70+ publications, each item carrying the publisher's own description
+
+### Podcast Feed Customization / Crypto or Blockchain relevant
+
+*   [Skip Podcast Reruns @ Sponder](https://sponder.app/skip-podcast-reruns): Remove rerun episodes from a podcast feed ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+*   [Podcast From the Beginning @ Sponder](https://sponder.app/podcast-from-beginning): Replay a podcast's back catalog at your own pace ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -152,12 +188,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Multi-subject / Crypto or Blockchain relevant
 
 *   [Awesome RSSHub Routes (⭐916)](https://github.com/JackyST0/awesome-rsshub-routes) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/JackyST0/awesome-rsshub-routes) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-## [Feb 23, 2026](/content/2026/02/23/README.md)
-
-### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
-
-*   [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
