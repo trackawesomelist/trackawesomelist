@@ -6,6 +6,12 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Oct 31, 2026](/content/2026/10/31/README.md)
+
+### Other
+
+*   [EcomPick](https://ecompick.com/) - Directory of AI tools, MCP servers and agent skills for ecommerce sellers, including Amazon seller operations and advertising.
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Software and Tools

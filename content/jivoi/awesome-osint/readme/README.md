@@ -663,6 +663,7 @@ Thanks to our main contributors
 *   [Blackbird (⭐9.2k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 *   [Cupidcr4wl (⭐187)](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
+*   [Helix (⭐26)](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
 *   [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 *   [Maigret (⭐40k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 *   [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
@@ -933,7 +934,7 @@ Thanks to our main contributors
 *   [Follow.net](https://follow.net)
 *   [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 *   [GraphyStories](https://app.graphystories.com)
-*   [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
+*   [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, TLS (JA4), HTTP (Akin) and SSH (HASSH) client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 *   [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
 *   [HypeStat](https://www.hypestat.com)
@@ -1113,7 +1114,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐198k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐204k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 

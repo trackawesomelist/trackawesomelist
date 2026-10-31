@@ -6,6 +6,76 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Oct 31, 2026](/content/2026/10/31/README.md)
+
+### Audio & Speech
+
+*   [WalkAITalkie](https://walkaitalkie.com/) - Menu bar dictation for Apple Silicon Macs, with local speech recognition and text cleanup that work offline after model download. `#freemium`
+
+### Chatbots
+
+*   [Throughline](https://getthroughline.ai/) - Hosted AI Self with distinct character, interests and shared history that users can inspect, correct, delete and export. `#freemium`
+
+### Design
+
+*   [LogoMovo](https://logomovo.com/) - AI-assisted logo directions and SVG/PNG export, with sign-in and an active paid plan required (AI-assisted listing submitted on behalf of the project). `#paid` `#design`
+
+### Developer Tools
+
+*   [FindAIforWork](https://findaiforwork.com/) - Human-reviewed AI tools directory organized by work scenario, with a free read-only remote MCP server. `#free` `#mcp`
+*   [ml0x](https://ml0x.com/) - Open-source pipeline that wraps Claude Code in four stages (analyze, implement, test, review) with hard budget caps and quality gates that run before output is shown; MIT-licensed core, paid full system. `#freemium` `#opensource`
+*   [Oh My Android (⭐73)](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and real phones, with a built-in MCP server (18 tools) so Claude Code, Codex and Cursor can see and drive the emulator. `#mcp` `#free` `#opensource`
+*   [UI Verify](https://uiverify.ai/) - Visual regression testing for coding agents: screenshots your Storybook, Playwright or Vitest tests on each pull request, an AI judge labels each change, and an MCP server lets Claude Code, Cursor or Codex review the diffs. `#freemium` `#testing`
+*   [WebExtract](https://webextract.dev/) - Turns one web page into Markdown or structured JSON, as a REST API or a remote MCP server (`https://api.webextract.dev/mcp`); the first 20 calls a day per IP are free, then pay per call in USDC over x402 or with prepaid credits. `#freemium` `#api` `#mcp`
+
+### Education
+
+*   [speaking.app](https://speaking.app/) - AI speech practice for presentations, interviews, and impromptu speaking, with feedback on pacing, filler words, pauses, and structure. `#freemium` `#education`
+
+### Fashion
+
+*   [NailMoodLab](https://nailmoodlab.com/) - AI nail-design references and hand-photo try-on previews, with sign-in and monthly free-plan limits (AI-assisted listing submitted on behalf of the project). `#freemium` `#nail-design`
+
+### Finance
+
+*   [Fair Value Calculator](https://www.fairvalue-calculator.com/) - Estimates the fair value and quality of 40,000+ listed stocks worldwide from 26 valuation models, with an AI chat and a hosted MCP server (`https://www.fairvalue-calculator.com/mcp`) for Claude, ChatGPT and Cursor; a free account is enough. `#freemium` `#mcp`
+
+### Gaming
+
+*   [RespawnStack](https://respawnstack.com/) - Directory of AI tools for game developers. `#free`
+
+### Image Classification
+
+*   [isGenAI](https://isgenai.com/) - Checks images, links and text for recorded evidence of AI use: C2PA Content Credentials, AI labels and saved generation prompts, quoting each source. `#free`
+
+### Image Editing
+
+*   [DishVivid](https://dishvivid.com/) - Restaurant-photo editing with free local manual controls and optional sign-in/allowance-based AI, with food details requiring human review (AI-assisted listing submitted on behalf of the project). `#photo-editing`
+
+### Marketing
+
+*   [MarketMirror (⭐4)](https://github.com/DarkWorldCoder/market-mirror) - Tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report; runs locally from coding agents as an MCP server. `#free` `#opensource`
+
+### Music
+
+*   [Tera Studio](https://terastudio.co/) - Learns your singing voice from about a minute of singing, then sings any song you upload back in your voice, in any language. `#freemium`
+
+### Resume
+
+*   [ResumePlot AI](https://resumeplot.com/) - Resume drafting and tailoring with optional AI suggestions and PDF/JSON export, with sign-in and free-plan limits (AI-assisted listing submitted on behalf of the project). `#freemium` `#resume`
+
+### Social Media
+
+*   [Cascads](https://cascads.com/) - Multi-brand growth cockpit that turns sourced public signals into on-brand posts and videos, then handles approval, scheduling, publishing and measurement in one workspace. First 3 drafts free, no card. `#paid`
+
+### Summarizer
+
+*   [SummarizAI](https://summarizai.ink/) - Chrome extension that adds an AI summary, chapters, chat, and Study flashcards to the YouTube watch page. `#freemium`
+
+### Translation
+
+*   [VoxSail](https://voxsail.com/en/) - Localizes uploaded video and audio with translated subtitles, AI dubbing, and browser-based review; paid plans with one-time starter credits. `#paid` `#translation` `#dubbing`
+
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
 ### Developer Tools
@@ -120,7 +190,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Omega MCP Router (⭐1)](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio MCP proxy that runs many MCP servers behind one connection, serving tool schemas from a disk cache and starting each server only on its first call. `#free` `#mcp`
+*   [Omega MCP Router (⭐2)](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio MCP proxy that runs many MCP servers behind one connection, serving tool schemas from a disk cache and starting each server only on its first call. `#free` `#mcp`
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -264,7 +334,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Hyperconsciousness (⭐7)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
+*   [Hyperconsciousness (⭐8)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
 *   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
 *   [RAG Citation Coverage Auditor (⭐0)](https://github.com/edilec/rag-citation-coverage-auditor) - Offline CLI that checks declared RAG answer citations against approved retrieval sources and explicit claim support in local exports. `#free` `#opensource` `#rag`
 
@@ -617,7 +687,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [codex-profiles (⭐186)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
+*   [codex-profiles (⭐192)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 
 ## [Jul 08, 2026](/content/2026/07/08/README.md)
 

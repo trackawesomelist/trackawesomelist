@@ -55,10 +55,10 @@ Awesome list of GraphQL
 
 ### Implementations & Platforms
 
-*   [federation-jvm (⭐272)](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
+*   [federation-jvm (⭐274)](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
 *   [WunderGraph Cosmo (⭐1.3k)](https://github.com/wundergraph/cosmo) - Open source GraphQL federation solution with schema registry, composition checks, analytics, metrics, tracing, and routing.
 *   [graphql-mesh (⭐3.5k)](https://github.com/ardatan/graphql-mesh) - A GraphQL federation framework for unifying GraphQL, REST, OpenAPI, SOAP, gRPC, and other API services.
-*   [graphql-orchestrator-java (⭐73)](https://github.com/graph-quilt/graphql-orchestrator-java) - Orchestrator and gateway library that combines schemas from multiple GraphQL microservices using schema stitching and Apollo Federation directives.
+*   [graphql-orchestrator-java (⭐75)](https://github.com/graph-quilt/graphql-orchestrator-java) - Orchestrator and gateway library that combines schemas from multiple GraphQL microservices using schema stitching and Apollo Federation directives.
 
 ### Examples
 
@@ -137,17 +137,17 @@ Awesome list of GraphQL
 *   [graphqurl (⭐3.4k)](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions, and GraphiQL, plus a universal JavaScript GraphQL client.
 *   [aws-amplify (⭐9.6k)](https://github.com/aws-amplify/amplify-js) - A JavaScript library for building applications with AWS cloud services, including GraphQL APIs through AWS AppSync.
 *   [gqty (⭐1k)](https://github.com/gqty-dev/gqty) - No-query-language GraphQL client for TypeScript.
-*   [genql (⭐980)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
+*   [genql (⭐979)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 *   [zodql (⭐2)](https://github.com/mattiasahlsen/zodql) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
 
 ##### Frontend Framework Integrations
 
 *   [vue-apollo (⭐6k)](https://github.com/vuejs/apollo) - Apollo Client integration for Vue.js.
 *   [apollo-angular (⭐1.5k)](https://github.com/the-guild-org/apollo-angular) - Apollo Client integration for Angular with declarative data fetching and caching.
-*   [svelte-apollo (⭐943)](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
+*   [svelte-apollo (⭐942)](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
 *   [ember-apollo-client (⭐280)](https://github.com/ember-graphql/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL.
 *   [apollo-elements (⭐423)](https://github.com/apollo-elements/apollo-elements) - GraphQL web components that work in any frontend framework.
-*   [sveltekit-kitql (⭐455)](https://github.com/jycouet/kitql) - A collection of tools for building SvelteKit applications with GraphQL.
+*   [sveltekit-kitql (⭐453)](https://github.com/jycouet/kitql) - A collection of tools for building SvelteKit applications with GraphQL.
 
 ###### React
 
@@ -166,12 +166,12 @@ Awesome list of GraphQL
 *   [graphql-api-koa (⭐52)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
 *   [koa-graphql (⭐839)](https://github.com/graphql-community/koa-graphql) - GraphQL Koa Middleware.
 *   [graphql-koa-scripts (⭐2)](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. Useful for quick test.
-*   [gql (⭐204)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
+*   [gql (⭐205)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 *   [mercurius (⭐2.5k)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
 *   [graphql-yoga (⭐8.5k)](https://github.com/graphql-hive/graphql-yoga) - A fully featured GraphQL server built on the WHATWG Fetch API for deployment in any JavaScript environment.
 *   [graphitejs (⭐122)](https://github.com/graphitejs/server) - Node.js framework for GraphQL.
-*   [graphql-helix (⭐824)](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server.
-*   [pylon (⭐377)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
+*   [graphql-helix (⭐823)](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server.
+*   [pylon (⭐376)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
 *   [Booster framework](https://booster.cloud/) - Open-source serverless framework that generates GraphQL queries, mutations, and subscriptions from application models.
 
 ##### Databases & ORMs
@@ -179,7 +179,7 @@ Awesome list of GraphQL
 *   [graphql-sequelize (⭐1.9k)](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 *   [graphql-bookshelf (⭐184)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 *   [join-monster (⭐2.7k)](https://github.com/join-monster/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
-*   [Simfinity.js (⭐9)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
+*   [Simfinity.js (⭐11)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
 
 ##### PubSub
 
@@ -195,7 +195,7 @@ Awesome list of GraphQL
 *   [graphql-nexus (⭐3.4k)](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
 *   [pothos (⭐2.6k)](https://github.com/hayes/pothos) - Plugin-based GraphQL schema builder for TypeScript.
 *   [garph (⭐1.3k)](https://github.com/stepci/garph) - Full-stack framework for building type-safe GraphQL APIs in TypeScript.
-*   [gqloom (⭐104)](https://github.com/modevol-com/gqloom) - GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using Valibot, Zod, or Yup.
+*   [gqloom (⭐105)](https://github.com/modevol-com/gqloom) - GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using Valibot, Zod, or Yup.
 *   [fast-graphql (⭐5)](https://github.com/salahlalami/fast-graphql) - GraphQL tools to structure and combine resolvers and merge schema definitions for Node.js, Next.js, and Apollo Server.
 
 #### Code Generation & Typed Documents
@@ -219,15 +219,15 @@ Awesome list of GraphQL
 *   [graphql-cli (⭐2k)](https://github.com/urigo/graphql-cli) - A command line tool for common GraphQL development workflows.
 *   [graphql-toolkit (⭐166)](https://github.com/ardatan/graphql-toolkit) - A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
 *   [sofa (⭐1.1k)](https://github.com/graphql-hive/SOFA) - Generates RESTful APIs from a GraphQL server.
-*   [graphback (⭐407)](https://github.com/aerogear/graphback) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
+*   [graphback (⭐408)](https://github.com/aerogear/graphback) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
 *   [graphql-middleware (⭐1.1k)](https://github.com/maticzav/graphql-middleware) - Split up your GraphQL resolvers in middleware functions.
 *   [graphql-relay-js (⭐1.5k)](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 *   [graphql-normalizr (⭐196)](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state.
 *   [babel-plugin-graphql (⭐64)](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compiles GraphQL tagged template strings.
 *   [eslint-plugin-graphql (⭐1.2k)](https://github.com/apollographql/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 *   [graphql-ws (⭐1.9k)](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
-*   [graphql-live-query (⭐442)](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
-*   [microfiber (⭐38)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+*   [graphql-live-query (⭐443)](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
+*   [microfiber (⭐40)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 *   [GraphQL Constraint Directive (⭐576)](https://github.com/confuser/graphql-constraint-directive) - Allows `@constraint` directives to validate input data, inspired by the Constraints Directives RFC and OpenAPI.
 *   [Validator.js Wrapper Directive (⭐4)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - Wraps Validator.js functionality in validation directives.
 *   [graphql-sunset (⭐7)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
@@ -243,7 +243,6 @@ Awesome list of GraphQL
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code for the official 2017 F8 app, built with React Native, Relay, and GraphQL.
 *   [Apollo React example for GitHub GraphQL API (⭐113)](https://github.com/katopz/react-apollo-graphql-github-example) - Example using Apollo React with the GitHub GraphQL API and Create React App.
 *   [Next.js TypeScript and GraphQL Example (⭐143k)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
-*   [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) - Live, editable demo that starts in a browser in about two seconds.
 *   [VulcanJS](http://vulcanjs.org) - Full-stack React and GraphQL framework.
 *   [RAN Toolkit (⭐2.2k)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
@@ -263,7 +262,7 @@ Awesome list of GraphQL
 *   [graphql-ruby (⭐5.4k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL with tools for defining schemas, executing queries, and serving subscriptions.
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) - Query batching executor for the GraphQL Ruby gem.
 *   [graphql-auth (⭐25)](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
-*   [agoo (⭐934)](https://github.com/ohler55/agoo) - High-performance Ruby web server with GraphQL support.
+*   [agoo (⭐933)](https://github.com/ohler55/agoo) - High-performance Ruby web server with GraphQL support.
 *   [GQLi (⭐210)](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL for writing queries in native Ruby.
 
 <a name="rb-example" />
@@ -275,7 +274,7 @@ Awesome list of GraphQL
 *   [relay-on-rails (⭐43)](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 *   [relay-rails-blog (⭐139)](https://github.com/gauravtiwari/relay-rails-blog) - Demo weblog powered by GraphQL, Relay, and a standard Rails application.
 *   [to\_eat\_app (⭐13)](https://github.com/jcdavison/to_eat_app) - Sample GraphQL, Rails, and Relay application with a related three-part article series.
-*   [agoo-demo (⭐934)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
+*   [agoo-demo (⭐933)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
 *   [rails-devise-graphql (⭐284)](https://github.com/zauberware/rails-devise-graphql) - Rails 6 boilerplate with Devise, GraphQL, and JWT authentication.
 
 <a name="php" />
@@ -283,12 +282,12 @@ Awesome list of GraphQL
 ### PHP
 
 *   [graphql-php (⭐4.7k)](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
-*   [graphql-relay-php (⭐270)](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
+*   [graphql-relay-php (⭐269)](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
 *   [lighthouse (⭐3.5k)](https://github.com/nuwave/lighthouse) - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
 *   [graphql-laravel (⭐2.2k)](https://github.com/rebing/graphql-laravel) - Laravel package for building GraphQL APIs with webonyx/graphql-php.
 *   [overblog/graphql-bundle (⭐796)](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 *   [wp-graphql (⭐3.8k)](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress.
-*   [graphqlite (⭐577)](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
+*   [graphqlite (⭐578)](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 *   [siler (⭐1.1k)](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
 *   [graphql-request-builder (⭐4)](https://github.com/panvid/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 *   [Drupal GraphQL](https://www.drupal.org/project/graphql) - Drupal module for crafting and exposing GraphQL schemas.
@@ -305,7 +304,7 @@ Awesome list of GraphQL
 ### Python
 
 *   [graphql-parser (⭐46)](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-*   [graphql-core (⭐531)](https://github.com/graphql-python/graphql-core) - Python port of the GraphQL.js reference implementation.
+*   [graphql-core (⭐534)](https://github.com/graphql-python/graphql-core) - Python port of the GraphQL.js reference implementation.
 *   [graphql-relay-py (⭐143)](https://github.com/graphql-python/graphql-relay-py) - A library for building GraphQL servers that support the Relay server specification.
 *   [graphql-parser-python (⭐4)](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 *   [graphene (⭐8.2k)](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
@@ -319,11 +318,11 @@ Awesome list of GraphQL
 *   [tartiflette (⭐1)](https://github.com/dailymotion/tartiflette) - Schema-first asynchronous GraphQL engine for Python.
 *   [tartiflette-aiohttp (⭐62)](https://github.com/tartiflette/tartiflette-aiohttp) - Wrapper for exposing Tartiflette GraphQL APIs over HTTP with aiohttp.
 *   [Ariadne (⭐2.3k)](https://github.com/mirumee/ariadne) - Library for implementing GraphQL servers using a schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular web frameworks with comprehensive documentation.
-*   [django-graphql-auth (⭐332)](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
+*   [django-graphql-auth (⭐331)](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
 *   [strawberry (⭐4.7k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library that uses type annotations to define schemas.
 *   [turms (⭐76)](https://github.com/jhnnsrs/turms) - Pythonic GraphQL code generator built around graphql-core and Pydantic.
 *   [rath (⭐11)](https://github.com/jhnnsrs/rath) - Apollo-like GraphQL client with asynchronous and synchronous interfaces.
-*   [sgqlc (⭐554)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
+*   [sgqlc (⭐555)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 <a name="py-example" />
 
@@ -348,7 +347,7 @@ Awesome list of GraphQL
 *   [gaphql-java-type-generator (⭐34)](https://github.com/graphql-java/graphql-java-type-generator) - Automatically generates types for use with GraphQL Java.
 *   [schemagen-graphql (⭐49)](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
 *   [graphql-java-annotations (⭐393)](https://github.com/Enigmatis/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java.
-*   [graphql-java-tools (⭐822)](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers, inspired by graphql-tools for JS.
+*   [graphql-java-tools (⭐824)](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers, inspired by graphql-tools for JS.
 *   [graphql-java-codegen-maven-plugin (⭐17)](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin) - Schema-first Maven plugin for generating Java types and resolver interfaces. Works with graphql-java-tools and was inspired by swagger-codegen-maven-plugin.
 *   [graphql-java-codegen-gradle-plugin (⭐19)](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin) - Schema-first Gradle plugin for generating Java types and resolver interfaces. Works with graphql-java-tools and was inspired by gradle-swagger-generator-plugin.
 *   [graphql-java-servlet (⭐228)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
@@ -413,9 +412,9 @@ Awesome list of GraphQL
 *   [gqlgen (⭐11k)](https://github.com/99designs/gqlgen) - Go generate-based GraphQL server library.
 *   [graphql-relay-go (⭐423)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 *   [graphjin (⭐3.2k)](https://github.com/dosco/graphjin) - Instant GraphQL-to-SQL compiler for building APIs quickly.
-*   [graphql-go-tools (⭐838)](https://github.com/wundergraph/graphql-go-tools) - GraphQL router and API gateway framework written in Go, focused on correctness, extensibility, and performance.
+*   [graphql-go-tools (⭐837)](https://github.com/wundergraph/graphql-go-tools) - GraphQL router and API gateway framework written in Go, focused on correctness, extensibility, and performance.
 *   [Thunder (⭐121)](https://github.com/Protocol-Lattice/thunder) - Scalable microservices framework powered by Go, gRPC-Gateway, Prisma, and Kubernetes that exposes REST, gRPC, and GraphQL.
-*   [grpc-graphql-gateway (⭐425)](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates GraphQL execution code from Protocol Buffers.
+*   [grpc-graphql-gateway (⭐424)](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates GraphQL execution code from Protocol Buffers.
     <a name="go-example" />
 
 #### Go Examples
@@ -487,7 +486,7 @@ Awesome list of GraphQL
 ### SQL
 
 *   [GraphpostgresQL (⭐1.1k)](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
-*   [sql-to-graphql (⭐590)](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
+*   [sql-to-graphql (⭐589)](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 *   [PostGraphile (⭐13k)](https://github.com/graphile/crystal) - Extensible, plugin-based tooling for building high-performance GraphQL APIs from PostgreSQL schemas.
 *   [Hasura (⭐32k)](https://github.com/hasura/graphql-engine) - Provides instant real-time GraphQL APIs over new or existing PostgreSQL databases.
 
@@ -501,7 +500,7 @@ Awesome list of GraphQL
 
 ### Elm
 
-*   [elm-graphql (⭐788)](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
+*   [elm-graphql (⭐789)](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
 
 <a name="clojure" />
 
@@ -527,7 +526,7 @@ Awesome list of GraphQL
 
 ### OCaml
 
-*   [ocaml-graphql-server (⭐618)](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
+*   [ocaml-graphql-server (⭐617)](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
 <a name="android" />
 
@@ -547,8 +546,8 @@ Awesome list of GraphQL
 
 *   [apollo-ios (⭐4k)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 *   [ApolloDeveloperKit (⭐64)](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client developer tools bridge for Apollo iOS.
-*   [Graphaello (⭐498)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
-*   [Baton (⭐14)](https://github.com/shergin/baton) - Relay-style GraphQL client for SwiftUI and Jetpack Compose, with a fragment beside each view and a normalized store the UI observes.
+*   [Graphaello (⭐497)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
+*   [Baton (⭐24)](https://github.com/shergin/baton) - Relay-style GraphQL client for SwiftUI and Jetpack Compose, with a fragment beside each view and a normalized store the UI observes.
 
 <a name="ios-example" />
 
@@ -624,12 +623,12 @@ Awesome list of GraphQL
 
 ### Ballerina
 
-*   [GraphQL (⭐137)](https://github.com/ballerina-platform/module-ballerina-graphql) - Standard Ballerina library providing GraphQL client and server implementations with built-in subscription support.
+*   [GraphQL (⭐138)](https://github.com/ballerina-platform/module-ballerina-graphql) - Standard Ballerina library providing GraphQL client and server implementations with built-in subscription support.
 *   [GraphQL CLI (⭐106)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
 
 #### Ballerina Samples
 
-*   [Ballerina GraphQL Examples (⭐137)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples) - Sample implementations of GraphQL services in Ballerina.
+*   [Ballerina GraphQL Examples (⭐138)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples) - Sample implementations of GraphQL services in Ballerina.
 *   [Convert Weather REST API to GraphQL API (⭐3)](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql) - Example demonstrating REST API conversion to GraphQL.
 
 <a name="tools" />
@@ -644,18 +643,18 @@ Awesome list of GraphQL
 *   [Brangr (⭐6)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
 *   [GraphQL Birdseye (⭐700)](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph.
 *   [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
-*   [CraftQL (⭐113)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐112)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 *   [Hackolade](https://studio.hackolade.com/) - Visual GraphQL schema editor that generates Schema Definition Language files and documents existing endpoints with introspection.
 *   [Smart Formatter - GraphQL Query Formatter](https://smartformatter.com/tools/graphql-query-formatter) - A client-side, browser-only tool to format, beautify, and validate GraphQL queries and schemas instantly.
-*   [GraphVinci (⭐77)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐78)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Tools - API Clients & Workbenches
 
 *   [Altair GraphQL Client (⭐5.4k)](https://github.com/altair-graphql/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 *   [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor.
 *   [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - An HTTP Client that supports editing GraphQL queries.
-*   [Bruno](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
-*   [Escape GraphMan (⭐253)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Bruno (⭐48k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Escape GraphMan (⭐252)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 *   [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 *   [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
 *   [gqt (⭐468)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
@@ -671,7 +670,7 @@ Awesome list of GraphQL
 *   [GraphQL Faker (⭐2.7k)](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 *   [GraphQL Inspector](https://the-guild.dev/graphql/inspector) - A tool to **validate schemas**, compare schema changes, find breaking changes, and check document coverage against a schema.
 *   [Microcks](https://microcks.io/) - Open source, cloud native tool for API mocking and testing with GraphQL support.
-*   [mockd](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
+*   [mockd (⭐150)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 *   [Keploy](https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and **data mocks automatically by recording real API traffic**. Supports GraphQL, REST, and gRPC.
 *   [Step CI](https://stepci.com) - Open source API **testing and monitoring** with GraphQL support.
 *   [MockBase](https://mockbase.org) - Hosted mock server for REST, GraphQL, and SOAP with fault injection, stateful mocks, and OpenAPI import.
@@ -693,11 +692,11 @@ Awesome list of GraphQL
 *   [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) - Burp Suite extension for GraphQL security testing.
 *   [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web application firewall for GraphQL APIs.
 *   [GraphQL Intruder (⭐13)](https://github.com/davinerd/gql_intruder) - Plugin-based Python script for performing GraphQL vulnerability assessments.
-*   [GraphQL Cop (⭐696)](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
-*   [GraphQLer (⭐171)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
+*   [GraphQL Cop (⭐697)](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
+*   [GraphQLer (⭐173)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
 *   [Vulert](https://vulert.com) - Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
 *   [hasura-security (⭐0)](https://github.com/Perufitlife/hasura-security) - Active-probe security auditor for self-hosted Hasura GraphQL Engine that detects open introspection, public-role data leaks, and unauthenticated endpoints.
-*   [graphql-armor (⭐588)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
+*   [graphql-armor (⭐589)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 *   [goctopus (⭐135)](https://github.com/Escape-Technologies/goctopus) - Fast GraphQL discovery and fingerprinting toolbox.
 
 ### Tools - Developer Extensions
@@ -708,7 +707,7 @@ Awesome list of GraphQL
 *   [js-graphql-intellij-plugin (⭐898)](https://github.com/JetBrains/js-graphql-intellij-plugin) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 *   [vim-graphql (⭐513)](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
 *   [graphql-autocomplete (⭐46)](https://github.com/nicolaslopezj/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
-*   [ts-graphql-plugin (⭐756)](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
+*   [ts-graphql-plugin (⭐755)](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 *   [Apollo APQ Debugger (⭐2)](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools.
 
 ### Tools - Docs
@@ -718,11 +717,11 @@ Awesome list of GraphQL
 *   [spectaql (⭐1.2k)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 *   [graphql-markdown](https://graphql-markdown.dev/) - Flexible documentation for GraphQL powered with Docusaurus.
 *   [xyd](https://xyd.dev) - Generate GraphQL API docs.
-*   [Cortex (⭐3.2k)](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from GraphQL schemas.
+*   [Cortex (⭐3.3k)](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from GraphQL schemas.
 
 ### Tools - API Integration & Transformation
 
-*   [swagger-to-graphql (⭐919)](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on a REST API described in Swagger that supports migrating from REST to GraphQL in five minutes.
+*   [swagger-to-graphql (⭐920)](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on a REST API described in Swagger that supports migrating from REST to GraphQL in five minutes.
 *   [openapi-to-graphql (⭐1.6k)](https://github.com/ibm/openapi-to-graphql) - Convert OpenAPI Specification or Swagger definitions to GraphQL interfaces.
 *   [Blendbase (⭐26)](https://github.com/blendbase/blendbase) - Single open source GraphQL API for connecting CRMs to SaaS applications.
 *   [Schemato](https://www.schemato.top/graphql-to-typescript) - Browser-only GraphQL SDL converter for generating TypeScript, Zod, Pydantic, Go, Rust, and other typed models.
@@ -730,7 +729,7 @@ Awesome list of GraphQL
 ### Tools - Data Access & ORMs
 
 *   [Prisma (⭐48k)](https://github.com/prisma/orm) - Type-safe ORM for Node.js and TypeScript that can serve as the data layer for GraphQL APIs.
-*   [Typetta (⭐116)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers and the GraphQL, Node.js, and TypeScript stack.
+*   [Typetta (⭐115)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers and the GraphQL, Node.js, and TypeScript stack.
 *   [tuql (⭐1.1k)](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any SQLite database.
 *   [dataloader-codegen (⭐115)](https://github.com/Yelp/dataloader-codegen) - An opinionated JavaScript library for automatically generating predictable, type safe DataLoaders over a set of resources (e.g. HTTP endpoints).
 
@@ -752,6 +751,7 @@ Awesome list of GraphQL
 *   [Dgraph](https://dgraph.io/) - Scalable, distributed, low-latency, high-throughput graph database with GraphQL as the query language.
 *   [ArangoDB](https://arangodb.com/) - Native multi-model database with GraphQL support through Foxx microservices.
 *   [Weaviate (⭐17k)](https://github.com/weaviate/weaviate) - Open-source vector database combining vector search, structured filtering, and a GraphQL interface.
+*   [TerminusDB (⭐3.5k)](https://github.com/terminusdb/terminusdb) - Open-source knowledge graph database with git-like version control and a built-in GraphQL API.
 
 <a name="services" />
 
@@ -778,7 +778,7 @@ Awesome list of GraphQL
 ### Commerce
 
 *   [Saleor (⭐23k)](https://github.com/saleor/saleor/) - High-performance, composable headless commerce API built with GraphQL.
-*   [Unchained Engine (⭐206)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
+*   [Unchained Engine (⭐204)](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
 
 ### CMS
 

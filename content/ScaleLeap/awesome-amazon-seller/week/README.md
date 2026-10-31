@@ -37,6 +37,7 @@ A curated list of tools and resources for Amazon sellers.
 ### Other
 
 *   [Awesome Agentic Commerce (⭐65)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
+*   [EcomPick](https://ecompick.com/) - Directory of AI tools, MCP servers and agent skills for ecommerce sellers, including Amazon seller operations and advertising.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
