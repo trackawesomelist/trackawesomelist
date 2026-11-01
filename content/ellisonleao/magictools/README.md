@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 01, 2026](/content/2026/11/01/README.md)
+
+### Graphics / Assets/Placeholders
+
+*   :free: [3DTexel](https://3dtexel.com/free-library/) - 1,600+ handmade CC0 assets: seamless PBR materials (incl. stylized), HDRIs, decals, 3D models and IES lights. A free account may be required for some downloads.
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Graphics / Assets/Placeholders

@@ -6,6 +6,12 @@ Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFl
 
 [ Daily / [Weekly](/content/aaronhma/awesome-tensorflow-js/week/README.md) / [Overview](/content/aaronhma/awesome-tensorflow-js/readme/README.md) ]
 
+## [Nov 01, 2026](/content/2026/11/01/README.md)
+
+### 📖 Learn / 🤩 Powered by TensorFlow.js
+
+*   [Enjoying The Show](https://enjoyingthe.show) - Real-time audience emotion tracking for speakers. Each audience member's webcam runs face-api in the browser and only the dominant expression is sent to the speaker's live chart. \[[repo (⭐41)](https://github.com/GantMan/enjoytheshow)] \[[talk](https://www.youtube.com/watch?v=GskMuu821NI)]
+
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
 ### 📖 Learn / 🤩 Powered by TensorFlow.js

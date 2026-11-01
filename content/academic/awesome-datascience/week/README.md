@@ -8,13 +8,161 @@
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
+### Tools
+
+*   [ai-evaluation (⭐128)](https://github.com/future-agi/agent-learning-kit) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
+
+### Research & Knowledge Retrieval
+
+*   [BGPT MCP](https://bgpt.pro/mcp/) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores.
+
+### Workflow
+
+*   [sim](https://www.sim.ai/) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+
 ### Tutorials
 
+*   [Understand and Know Machine Learning Engineering by Building Solid Projects (⭐15k)](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+*   [Understand Data Science Course in Java](https://actdigital.com/en/insights/java-23-whats-new/)
+*   [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://datadriven.io/)
 *   [AgentFEM Simulation-to-Surrogate Mini-Lab](https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/) - Compare raw and physics-informed features in a NumPy regression exercise using ten finite-element cases and a held-out split.
+
+### Free Courses
+
+*   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-1-introduction-and-scope/index.html)
+*   [Convex Optimization](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
+*   [ML Observability Fundamentals](https://arize.com/blog-course/machine-learning-observability-essentials/) - Learn how to monitor and root-cause production ML issues.
+*   [Prompt Engineering for Vision Models](https://www.deeplearning.ai/courses/prompt-engineering-for-vision-models) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
+*   [Data Science Course By IBM](https://skillsbuild.org/high-school) - Free resources and learn what data science is and how it’s used in different industries.
+
+### MOOC's
+
+*   [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/school/columbiax)
+*   [Microsoft Professional Program for Data Science](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/1-introduction)
+*   [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+*   [Python for Data Science Foundation Course](https://intellipaat.com/academy/)
+*   [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+*   [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)
+    -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science)
+*   [Google Advanced Data Analytics Certificate](https://grow.google/intl/tr/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
+
+### Colleges
+
+*   [Data Science Degree @ Wisconsin](https://uwex.wisconsin.edu/data-science/)
+*   [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/degrees-certificates/computer-information-systems/ms-computer-information-systems/)
+*   [MS in Applied Data Science @ Syracuse](https://ischool.syracuse.edu/academics/applied-data-science-masters-degree/)
+
+### Comparison / Modern Data Mining Algorithms
+
+*   [CatBoost](https://catboost.ai/docs/en/)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [feature-engine](https://feature-engine.trainindata.com/en/latest/)
+*   [me\_fasttext (⭐1)](https://github.com/initial-d/ngram-store) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
+*   [cuML (⭐5.3k)](https://github.com/NVIDIA/cuml)
+*   [hyperlearn (⭐2.5k)](https://github.com/unslothai/hyperlearn)
+*   [scikit-survival](https://scikit-survival.readthedocs.io/en/stable/)
+*   [LightGBM (⭐19k)](https://github.com/lightgbm-org/LightGBM)
+*   [JAX (⭐37k)](https://github.com/jax-ml/jax)
+
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [PyTorchNet (⭐1.7k)](https://github.com/meta-pytorch/tnt)
+*   [PyToune (⭐578)](https://github.com/freud14/poutyne)
+*   [pytorch\_tabular (⭐1.7k)](https://github.com/pytorch-tabular/pytorch_tabular)
+
+### Deep Learning Packages / TensorFlow Ecosystem
+
+*   [Sonnet (⭐10k)](https://github.com/google-deepmind/sonnet)
+*   [TRFL (⭐3.1k)](https://github.com/google-deepmind/trfl)
+*   [tensorflow-upstream (⭐707)](https://github.com/ROCm/tensorflow-upstream)
+*   [TensorLight (⭐11)](https://github.com/b3nk4n/tensorlight)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [plot.ly](https://plotly.com/)
+*   [raw](https://www.rawgraphs.io/)
+
+### Books / Visualization Tools
+
+*   [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W) & [(cheaper PDF version)](https://andrewncarr.gumroad.com/l/everydaydata)
+*   [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://link.springer.com/book/9783319950914)
+*   [Applied Data Science: Lessons Learned for the Data-Driven Business](https://link.springer.com/book/9783030118204)
+*   [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/6119) - Free Download
+*   [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/2733) - Free Download
+*   [Evolutionary Algorithms](https://www.intechopen.com/books/98) - Free Download
+*   [Genetic Algorithms and Evolutionary Computation](https://talkorigins.org/faqs/genalg/genalg.html) - Free Download
+*   [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai/)
+
+### Journals, Publications and Magazines / Book Deals (Affiliated)
+
+*   [epjdatascience](https://link.springer.com/journal/13688)
+*   [Journal of Big Data](https://link.springer.com/journal/40537)
+*   [Maxim AI](https://www.getmaxim.ai/). Tool for AI Agent Simulation, Evaluation & Observability.
+
+### Newsletters / Book Deals (Affiliated)
+
+*   [DiamantAI](https://newsletter.diamant-ai.com/). Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Wes McKinney](https://wesmckinney.com/archives) - Wes McKinney Archives.
+*   [Harvard Data Science](https://www.harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
+*   [Digital transformation](https://www.tarrysingh.com/)
+*   [Adventures in Data Land](https://alex.smola.org/blog.html)
+*   [Dominodatalab](https://domino.ai/blog)
+*   [Sebastian's Blog](https://www.ruder.io/#open) - Blog for NLP and transfer learning!
+
+### Podcasts / Book Deals (Affiliated)
+
+*   [Chain of Thought](https://chainofthought.show/)
+*   [DataTalks.Club](https://creators.spotify.com/pod/profile/datatalksclub/)
+*   [Gradient Descent](https://forge.coreweave.com/forge-reports/gradient-descent)
+*   [What's The Point](https://abcnews.com/politics)
+
+### YouTube Videos & Channels / Book Deals (Affiliated)
+
+*   [Ask Dr Chong: How to Lead in Data Science - Part 1](https://www.youtube.com/watch?v=JYuQZii5o58)
+*   [Ask Dr Chong: How to Lead in Data Science - Part 2](https://www.youtube.com/watch?v=SzqIXV-O-ko)
+*   [Ask Dr Chong: How to Lead in Data Science - Part 3](https://www.youtube.com/watch?v=Ogwm7k_smTA)
+*   [Ask Dr Chong: How to Lead in Data Science - Part 4](https://www.youtube.com/watch?v=a9usjdzTxTU)
+*   [Ask Dr Chong: How to Lead in Data Science - Part 5](https://www.youtube.com/watch?v=MYdQq-F3Ws0)
+*   [Ask Dr Chong: How to Lead in Data Science - Part 6](https://www.youtube.com/watch?v=LOOt4OVC3hY)
+*   [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-2023/beginning-your-data-science-exploration?u=42458916)
+
+### Data Science Competitions / Book Deals (Affiliated)
+
+*   [Analytics Vidhya](https://www.analyticsvidhya.com/datahack/)
 
 ### Datasets / Book Deals (Affiliated)
 
+*   [ADS-B Exchange](https://www.adsbexchange.com/data-products/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+*   [data.gov](https://catalog.data.gov/) - The home of the U.S. Government's open data
+*   [enigma.com](https://www.enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published by governments, companies and organizations.
+*   [aws.amazon.com/datasets](https://registry.opendata.aws/)
+*   [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip/)
+*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://zenodo.org/records/20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐2)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
+*   [A Deep Catalog of Human Genetic Variation](https://www.internationalgenome.org/data/)
+*   [Google Public Data](https://datacommons.org/)
+*   [Open Data Philly](https://opendataphilly.org/) Connecting people with data for Philadelphia
+*   [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) - contains data sets good for machine learning
 *   [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/)
+*   [New Zealand Institute of Economic Research – Data1850](https://www.nzier.org.nz/data-1850)
+*   [NASA SocioEconomic Data and Applications Center - SEDAC](https://www.earthdata.nasa.gov/data/catalog)
+*   [The GDELT Project](https://gdeltproject.org/)
+*   [San Fransisco Government Open Data](https://www.sf.gov/departments--city-administrator--datasf)
+*   [GHTorrent (⭐158)](https://github.com/ghtorrent/ghtorrent.org)
+*   [Microsoft Research Open Data](https://www.microsoft.com/en-us/research/tools/)
+*   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
+*   [Movebank](https://www.movebank.org/cms/movebank-main) - Free platform archiving 6B+ animal movement records from GPS and satellite telemetry. Open REST API, useful for spatiotemporal modeling and trajectory ML.
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [awesome-dataviz (⭐4.4k)](https://github.com/hal9ai/awesome-dataviz)
+*   [Awesome Computer Vision Models (⭐545)](https://github.com/gmalivenko/awesome-computer-vision-models)
+*   [What is generative AI?](https://www.techtarget.com/news/What-is-GenAI-Generative-AI-explained/834454/)
+*   [Awesome Python Math Packages (⭐18)](https://github.com/VascoSch92/awesome-python-math-packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
@@ -24,8 +172,8 @@
 
 ### Tutorials
 
-*   [AI Engineer Interview Prep (⭐33)](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
 *   [Machine Learning 101](https://machinelearning101.com) - Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.
+*   [AI Engineer Interview Prep (⭐33)](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -74,10 +222,6 @@
 
 *   [US Provider Industry Payments (⭐0)](https://github.com/npiwho/us-provider-payments) - 1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.
 *   [US Tariff Data (⭐0)](https://github.com/checkdutyrates/us-tariff-data) - The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.
-
-### Other Awesome Lists / Book Deals (Affiliated)
-
-*   [Awesome Python Math Packages (⭐18)](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -133,10 +277,6 @@
 
 ## [Aug 31 - Sep 06, 2026](/content/2026/35/README.md)
 
-### General Machine Learning Packages / Deep Learning architectures
-
-*   [me\_fasttext (⭐1)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
-
 ### Deep Learning Packages / Visualization Tools
 
 *   [FlexViz (⭐81)](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
@@ -160,10 +300,6 @@
 *   [Lumen (⭐318)](https://github.com/holoviz/lumen) - Agent framework for chatting with data, turning natural language into SQL, transformation pipelines and visualizations. Outputs are declarative specs that can be inspected, edited, reopened in a notebook or composed into a dashboard.
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
-
-### Tutorials
-
-*   [Understand and Know Machine Learning Engineering by Building Solid Projects](https://mlzoomcamp.com/)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -203,7 +339,6 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [Movebank](https://www.movebank.org/) - Free platform archiving 6B+ animal movement records from GPS and satellite telemetry. Open REST API, useful for spatiotemporal modeling and trajectory ML.
 *   [Encyclopedia of Life](https://eol.org/) - Open structured data on 1.9M+ species, including traits, classification, and media. Free API and bulk downloads for biodiversity and species-classification tasks.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
@@ -211,12 +346,6 @@
 ### Tutorials
 
 *   [Train LLM From Scratch (⭐12k)](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
-
-## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
-
-### Newsletters / Book Deals (Affiliated)
-
-*   [DiamantAI](https://diamantai.substack.com). Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -228,15 +357,7 @@
 
 *   [torchvista (⭐767)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
 
-### Datasets / Book Deals (Affiliated)
-
-*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐2)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
-
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
-
-### Tools
-
-*   [ai-evaluation (⭐128)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 
 ### Research & Knowledge Retrieval
 
@@ -339,10 +460,6 @@
 *   **Learn Math basics** – Statistics, Linear Algebra, Probability
 *   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
 
-### Tutorials
-
-*   [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
-
 ### Deep Learning Packages / Visualization Tools
 
 *   [Highcharts](https://www.highcharts.com/)
@@ -351,10 +468,6 @@
 
 *   [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 *   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
-
-### Podcasts / Book Deals (Affiliated)
-
-*   [Chain of Thought](https://www.chainofthought.show/)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -373,10 +486,6 @@
 *   [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub (⭐3)](https://github.com/Deesmo/Arch-AI-Tools)
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
-
-### Research & Knowledge Retrieval
-
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores.
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -442,7 +551,6 @@
 
 *   [XGBoost (Extreme Gradient Boosting)](https://en.wikipedia.org/wiki/XGBoost)
 *   [LightGBM (Light Gradient Boosting Machine)](https://en.wikipedia.org/wiki/LightGBM)
-*   [CatBoost](https://catboost.ai/)
 *   [HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise)](https://en.wikipedia.org/wiki/DBSCAN#HDBSCAN)
 *   [FP-Growth (Frequent Pattern Growth Algorithm)](https://en.wikipedia.org/wiki/Association_rule_learning#FP-growth_algorithm)
 *   [Isolation Forest](https://en.wikipedia.org/wiki/Isolation_forest)
@@ -451,10 +559,6 @@
 *   [Context-Aware Rule Mining (Transformer-Based Framework)](https://arxiv.org/abs/2503.11125)
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
-
-### MOOC's
-
-*   [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
 
 ### Intensive Programs
 
@@ -470,11 +574,6 @@
 
 *   [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
 
-### MOOC's
-
-*   [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
-    -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science)
-
 ### Bloggers / Book Deals (Affiliated)
 
 *   [Mlu github](https://mlu-explain.github.io/) - Mlu is developed amazon to help people in ml space you can learn everything from basics here with live diagrams
@@ -488,7 +587,6 @@
 ### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [End to End Data Science Playlist](https://www.youtube.com/watch?v=S_F_c9e2bz4\&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
-*   [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -505,7 +603,6 @@
 ### Books / Visualization Tools
 
 *   [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
-*   [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -513,25 +610,11 @@
 
 ## [Aug 25 - Aug 31, 2025](/content/2025/34/README.md)
 
-### Workflow
-
-*   [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-
 ### Datasets / Book Deals (Affiliated)
 
 *   [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 
-## [Jun 30 - Jul 06, 2025](/content/2025/26/README.md)
-
-### General Machine Learning Packages / Deep Learning architectures
-
-*   [feature-engine](https://feature-engine.trainindata.com/)
-
 ## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
-
-### Journals, Publications and Magazines / Book Deals (Affiliated)
-
-*   [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability.
 
 ### Bloggers / Book Deals (Affiliated)
 
@@ -599,10 +682,6 @@
 
 *   [Data Scientist](https://datascientists.com/) is building the data scientist culture.
 
-### Datasets / Book Deals (Affiliated)
-
-*   [NASA SocioEconomic Data and Applications Center - SEDAC](https://earthdata.nasa.gov/centers/sedac-daac)
-
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
@@ -631,11 +710,6 @@
 ### Tutorials
 
 *   [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
-*   [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
-
-### Free Courses
-
-*   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
@@ -646,17 +720,11 @@
 ### General Machine Learning Packages / Deep Learning architectures
 
 *   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
-*   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost)
-*   [JAX (⭐36k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [Dash](https://plotly.com/dash/)
-
-### Podcasts / Book Deals (Affiliated)
-
-*   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -675,12 +743,6 @@
 ### Comparison / Three kinds of Machine Learning Systems
 
 *   [datacompy (⭐664)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
-
-## [May 13 - May 19, 2024](/content/2024/20/README.md)
-
-### Free Courses
-
-*   [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -705,7 +767,6 @@
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
-*   [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -890,12 +951,6 @@
 
 *   [imodels (⭐1.6k)](https://github.com/csinva/imodels)
 
-## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
-
-### Free Courses
-
-*   [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
-
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
@@ -951,19 +1006,11 @@
 
 *   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
 
-### Datasets / Book Deals (Affiliated)
-
-*   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
-
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Free Courses
 
 *   [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
-
-### General Machine Learning Packages / Deep Learning architectures
-
-*   [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 
 ### Books / Visualization Tools
 
@@ -986,9 +1033,7 @@
 
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 *   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-*   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 *   [AI Expert Roadmap (⭐31k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
-*   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 
 ### MOOC's
@@ -1004,10 +1049,7 @@
 *   [A list of colleges and universities offering degrees in data science. (⭐160)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 *   [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 *   [Data Science Degree @ UVA](https://datascience.virginia.edu/)
-*   [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-*   [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
 *   [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-*   [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
 *   [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
 *   [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
 *   [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view\&id=902)
@@ -1031,10 +1073,8 @@
 ### Journals, Publications and Magazines / Book Deals (Affiliated)
 
 *   [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
-*   [epjdatascience](https://epjdatascience.springeropen.com/)
 *   [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
 *   [Big Data Research](https://www.journals.elsevier.com/big-data-research)
-*   [Journal of Big Data](https://journalofbigdata.springeropen.com/)
 *   [Big Data & Society](https://journals.sagepub.com/home/bds)
 *   [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 *   [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
@@ -1058,7 +1098,6 @@
 *   [Data Skeptic](https://dataskeptic.com/)
 *   [Datacast](https://jameskle.com/writes/category/Datacast)
 *   [DataFramed](https://www.datacamp.com/community/podcast)
-*   [DataTalks.Club](https://anchor.fm/datatalksclub)
 *   [Learning Machines 101](https://www.learningmachines101.com/)
 *   [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 *   [Linear Digressions](https://lineardigressions.com/)
@@ -1066,7 +1105,6 @@
 *   [Superdatascience](https://www.superdatascience.com/podcast/)
 *   [The Data Engineering Show](https://www.dataengineeringshow.com/)
 *   [The Radical AI Podcast](https://www.radicalai.org/)
-*   [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ### Presentations / Book Deals (Affiliated)
 
@@ -1104,12 +1142,6 @@
 *   [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 *   [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 *   [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
-*   [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 *   [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 *   [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
@@ -1211,7 +1243,6 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyToune (⭐579)](https://github.com/GRAAL-Research/poutyne)
 *   [skorch (⭐6.2k)](https://github.com/skorch-dev/skorch)
 *   [pytorch\_geometric (⭐24k)](https://github.com/pyg-team/pytorch_geometric)
 *   [pyro (⭐9.1k)](https://github.com/pyro-ppl/pyro)
@@ -1233,7 +1264,6 @@
 *   [exhibit](https://www.simile-widgets.org/exhibit/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [Openrefine](https://openrefine.org/)
-*   [raw](https://rawgraphs.io)
 *   [techanjs](https://techanjs.org/)
 *   [Timeline](https://timeline.knightlab.com/)
 *   [variancecharts](https://variancecharts.com/index.html)
@@ -1242,15 +1272,12 @@
 ### Books / Visualization Tools
 
 *   [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-with-python-and-dask)
-*   [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) & [(cheaper PDF version)](https://gum.co/everydaydata)
 *   [Essential Natural Language Processing](https://www.manning.com/books/getting-started-with-natural-language-processing) - Early access
-*   [Genetic Algorithms and Evolutionary Computation](https://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
 *   [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](https://artint.info/index.html) - Free HTML version
 *   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early Access
 
 ### Bloggers / Book Deals (Affiliated)
 
-*   [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 *   [Julia Evans](https://jvns.ca/) - Recurse Center alumna
 *   [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
 *   [Matt Harrison](https://hairysun.com/) - Personal Blog
@@ -1264,16 +1291,13 @@
 *   [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 *   [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
 *   [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
-*   [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
 *   [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
 *   [Data-Mania](https://www.data-mania.com/)
 *   [Data-Magnum](https://data-magnum.com/)
-*   [Digital transformation](https://tarrysingh.com/)
 *   [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
 *   [DataNews](https://datanews.tumblr.com/)
 *   [Periscopic](https://periscopic.com/#!/news)
 *   [Meaning of](https://www.kennybastani.com/)
-*   [Adventures in Data Land](https://blog.smola.org)
 *   [FlowingData](https://flowingdata.com/) - Visualization and Statistics
 *   [Calculated Risk](https://www.calculatedriskblog.com/)
 *   [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
@@ -1282,40 +1306,26 @@
 *   [Springboard](https://www.springboard.com/blog/) - A blog with resources for data science learners
 *   [Data School](https://www.dataschool.io/) - Data science tutorials for beginners!
 *   [Colah's Blog](https://colah.github.io) - Blog for understanding Neural Networks!
-*   [Sebastian's Blog](https://ruder.io/#open) - Blog for NLP and transfer learning!
 *   [Distill](https://distill.pub) - Dedicated to clear explanations of machine learning!
-
-### Data Science Competitions / Book Deals (Affiliated)
-
-*   [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [Academic Torrents](https://academictorrents.com/)
 *   [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 *   [United States Census Bureau](https://www.census.gov/)
-*   [enigma.com](https://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published by governments, companies and organizations.
 *   [datacite.org](https://datacite.org/)
-*   [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 *   [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-*   [A Deep Catalog of Human Genetic Variation](https://www.internationalgenome.org/data)
-*   [Google Public Data](https://www.google.com/publicdata/directory)
 *   [World Bank Data](https://data.worldbank.org/)
 *   [NYC Taxi data](https://chriswhong.github.io/nyctaxi/)
-*   [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 *   [research-quality data sets](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](https://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 *   [GHDx](https://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 *   [undata](https://data.un.org/)
-*   [The GDELT Project](https://www.gdeltproject.org/)
 *   [Sweden, Statistics](https://www.scb.se/en/)
 *   [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
-*   [San Fransisco Government Open Data](https://datasf.org/opendata/)
-*   [GHTorrent](https://ghtorrent.org/)
 *   [Google Dataset Search (beta)](https://datasetsearch.research.google.com/)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [awesome-dataviz (⭐4.4k)](https://github.com/javierluraschi/awesome-dataviz)
 *   [awesome-datasets (⭐80k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐691)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐101)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
@@ -1373,7 +1383,6 @@
 ### MOOC's
 
 *   [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
-*   [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 ### Books / Visualization Tools
 
@@ -1450,12 +1459,6 @@
 
 *   [The official portal for European data](https://data.europa.eu/en)
 
-## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
-
-### Deep Learning Packages / PyTorch Ecosystem
-
-*   [pytorch\_tabular (⭐1.7k)](https://github.com/manujosephv/pytorch_tabular)
-
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
 ### Bloggers / Book Deals (Affiliated)
@@ -1488,12 +1491,6 @@
 
 *   [Data Science Interviews Questions (⭐10k)](https://github.com/alexeygrigorev/data-science-interviews)
 
-## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
-
-### MOOC's
-
-*   [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
-
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
 ### Bloggers / Book Deals (Affiliated)
@@ -1501,10 +1498,6 @@
 *   [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
-
-### MOOC's
-
-*   [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
@@ -1522,12 +1515,10 @@
 *   [scikit-posthocs (⭐390)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐668)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐5.3k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐6k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.2k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
-*   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
 *   [RuleFit (⭐444)](https://github.com/christophM/rulefit)
 *   [pyGAM (⭐1k)](https://github.com/dswah/pyGAM)
@@ -1539,7 +1530,6 @@
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐3k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.8k)](https://github.com/pytorch/ignite)
-*   [PyTorchNet (⭐1.7k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐362)](https://github.com/ctallec/pyvarinf)
 *   [GPyTorch (⭐3.9k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.4k)](https://github.com/catalyst-team/catalyst)
@@ -1548,15 +1538,11 @@
 
 *   [TensorFlow (⭐201k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
-*   [Sonnet (⭐10k)](https://github.com/deepmind/sonnet)
-*   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐734)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐353)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐707)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
-*   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
 *   [Mesh TensorFlow (⭐1.6k)](https://github.com/tensorflow/mesh)
 *   [TF-Agents (⭐3k)](https://github.com/tensorflow/agents)
 
@@ -1599,10 +1585,8 @@
 *   [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 *   [Data Science Specialization (⭐4.2k)](https://github.com/DataScienceSpecialization/courses)
 *   [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
-*   [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 *   [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
 *   [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)
-*   [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 *   [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
 *   [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 *   [365 Data Science Course](https://365datascience.com/)
@@ -1618,7 +1602,6 @@
 *   [gephi](https://gephi.org/)
 *   [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 *   [import.io](https://www.import.io/)
-*   [plot.ly](https://plot.ly/)
 *   [Seaborn](https://seaborn.pydata.org/)
 *   [vida](https://vida.io/)
 *   [Redash](https://redash.io/)
@@ -1626,7 +1609,6 @@
 ### Books / Visualization Tools
 
 *   [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
-*   [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
 
 ### Bloggers / Book Deals (Affiliated)
 
@@ -1641,26 +1623,20 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 *   [datahub.io](https://datahub.io/)
-*   [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 *   [figshare.com](https://figshare.com/)
 *   [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 *   [Kaggle Datasets](https://www.kaggle.com/datasets)
 *   [A community-curated database of well-known people, places, and things](https://developers.google.com/freebase/)
-*   [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
 *   [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
-*   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 *   [Open Data Sources (⭐525)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
 *   [Public Git Archive (⭐348)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
-*   [Microsoft Research Open Data](https://msropendata.com/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
 *   [Covid-19 Google (⭐117)](https://github.com/google-research/open-covid-19-data)
-*   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -1679,7 +1655,6 @@
 *   [Awesome Decision Tree Papers (⭐2.5k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.8k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 *   [Awesome Gradient Boosting Papers (⭐1.1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐544)](https://github.com/nerox8664/awesome-computer-vision-models)
 *   [Awesome Monte Carlo Tree Search (⭐717)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
@@ -1699,13 +1674,9 @@
 *   [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
 *   [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early Access
 *   [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) Early access
-*   [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
-*   [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
 *   [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
 *   [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
 *   [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-*   [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
-*   [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 
 ### GitHub Groups / Book Deals (Affiliated)
 
@@ -1742,6 +1713,5 @@
 *   [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
 *   [Hilary Parker](https://hilaryparker.com/)
 *   [Data Science Lab](https://datasciencelab.wordpress.com/)
-*   [Dominodatalab](https://blog.dominodatalab.com/)
 *   [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 *   [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.

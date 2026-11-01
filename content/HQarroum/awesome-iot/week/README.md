@@ -12,6 +12,10 @@
 
 *   [LibreDB Studio (⭐1.3k)](https://github.com/libredb/libredb-studio) - Open source web database IDE that also reads industrial and IoT sources, read-only: MQTT 5.0 topic trees, Sparkplug B namespaces, OPC UA address spaces, Modbus TCP registers, MTConnect agents and SNMP devices.
 
+### Software / Miscellaneous
+
+*   [Home Automation Cookbook](https://www.homeautomationcookbook.com/) - Free, tested smart home automation recipes with steps for Hubitat, SmartThings, Alexa, and Home Assistant.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Software / Miscellaneous
