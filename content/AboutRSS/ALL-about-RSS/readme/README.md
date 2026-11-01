@@ -245,6 +245,8 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
     *   [Podcast Feed Customization](#podcast-feed-customization)
     *   [Podcast Feed to Fediverse](#podcast-feed-to-fediverse)
     *   [Turn YouTube into Podcast](#turn-youtube-into-podcast)
+    *   [Turn Twitch into Podcast](#turn-twitch-into-podcast)
+    *   [Turn MP3 into Podcast](#turn-mp3-into-podcast)
     *   [Turn Podcast/MP3 into Video via Podcast Feed](#turn-podcast-mp3-into-video-via-podcast-feed)
     *   [Turn Webpage into Podcast](#turn-webpage-into-podcast)
     *   [Podcast Statistics](#podcast-statistics)
@@ -506,6 +508,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Quick RSS](https://wangchujiang.com/quick-rss/) <sup>[1485](https://t.me/s/aboutrss/1485)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/regex-mate/6670696072?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/quick-rss/6670696072)
 *   [inRead](https://inread.top/) <sup>[1494](https://t.me/s/aboutrss/1494)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/inread-read-later/id6499581607?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/inread-read-later/id6499581607)
 *   [Tapestry](https://usetapestry.com/) <sup>[1424](https://t.me/s/aboutrss/1424), [1498](https://t.me/s/aboutrss/1498)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074)
+*   [NitroFeed](https://getapps.cafe/app/nitrofeed) : a desktop RSS reader that pulls the full article into the reader, plays podcasts inline and can summarize with your own AI key ![Windows][Windows icon]![Mac][Mac icon]![AI][AI icon]
 
 ### Wechat Mini Apps
 
@@ -612,6 +615,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Social Reader (⭐19)](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 *   [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
 *   [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
+*   [Feeddi](https://feeddi.com/) ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.feeddi)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/feeddide-abone-ol/hdiigdlnndhpjdcjbgddiddnboobphpc)[![Firefox][Firefox icon]](https://addons.mozilla.org/addon/subscribe-in-feeddi/)![Freeware][freeware icon]
 
 ### Self Hosted Readers
 
@@ -885,6 +889,10 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Reactflux (⭐522)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux)
 *   [Nextflux (⭐530)](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux)
 
+### NetNewsWire
+
+*   [thechelsuk NetNewsWire Themes](https://themes-nnw.thechels.uk/): a bundle of light, dark and adjustable themes [![Open-Source Software][oss icon]](https://github.com/thechelsuk/uk.thechels.themes-nnw)
+
 ## 🤖 RSS bots
 
 ### XMPP (Jabber)
@@ -1019,6 +1027,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [Informate](https://informate.elsetech.io/) <sup>[724](https://t.me/s/aboutrss/724)</sup> ![Online][Online icon]
 *   [Castbee](https://castbee.net/) <sup>[864](https://t.me/s/aboutrss/864), [883](https://t.me/s/aboutrss/883)</sup> ![Online][Online icon][![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/castbee-news-subscriber/pmggohjclghclepgangbbgakapljlnnc)
 *   [InBrief (⭐21)](https://github.com/frankzch/ai-news-brief) [![Open-Source Software][oss icon]](https://github.com/frankzch/ai-news-brief)![AI][AI icon]
+*   [Trace](https://www.yourtrace.online/): tech and AI news from 100+ sources (RSS/Atom feeds, Hacker News, Reddit, Product Hunt), merged into one story per event with every source linked; a web page, a daily email and public daily briefs, self-hostable with Docker Compose [![Online][Online icon]](https://www.yourtrace.online/)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/trace-ai-tech-news-in-eve/cblkklekbejbbpcaihfogdmaoofmikbk)[![Open-Source Software][oss icon]](https://github.com/TarunTomar122/trace)![Freeware][freeware icon]![AI][AI icon][![MCP][MCP icon]](https://www.yourtrace.online/agents)
 
 ## 🛠 RSS Feed Generation
 
@@ -1749,6 +1758,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 *   [Awesome-newsCN-feeds (⭐159)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
 *   [Noozra](https://noozra.com/): news feeds by category, drawn from 70+ publications, each item carrying the publisher's own description
+*   [Cheltenham Open Data feeds](https://cheltenham-od.uk/feeds): local feeds for Cheltenham, UK, including a daily news round-up and an alerts feed that merges flood warnings, power cuts, travel disruption and road closures
 
 ### Entertainment
 
@@ -1794,6 +1804,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 *   [Awesome-techCN-feeds (⭐15)](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 *   [~~Refined Blog~~](https://refined.blog/)
+*   [Digest AI](https://digestai.news/) : AI news from 71 curated sources merged into one story per event with every source linked; publishes its own [RSS feed](https://digestai.news/rss.xml), an [AI at Work feed](https://digestai.news/work/rss.xml) and a [podcast feed](https://digestai.news/podcast.xml) ![Online][Online icon]![AI][AI icon]
+*   [AI观潮 (AI Guanchao)](https://aiguanchao.com/en) : curated daily AI news picked from thousands of stories, with AI-written summaries in Chinese; feeds for [picks](https://aiguanchao.com/feed/featured.xml), the [daily brief](https://aiguanchao.com/feed/daily.xml) and the [podcast](https://static.aiguanchao.com/podcast/ai-daily/feed.xml) ![Online][Online icon]![Freeware][freeware icon]![AI][AI icon][![MCP][MCP icon]](https://aiguanchao.com/en/agent)
 
 #### Crypto or Blockchain relevant
 
@@ -1801,6 +1813,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [【925】位优质Mirror作者的Feed地址](https://twitter.com/zlexdl/status/1502629374889144323) <sup>[1210](https://t.me/s/aboutrss/1210)</sup> [![Open-Source Software][oss icon]](https://github.com/zlexdl/mirror)
 *   [PrimitivesFeed (⭐37)](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software][oss icon]](https://github.com/PrimitivesLane/PrimitivesFeed)
 *   [Bitcoin RSS Feeds](https://bc1984.com/bitcoin-rss-feeds/) <sup>[1143](https://t.me/s/aboutrss/1143)</sup>
+*   [Kiwi News](https://news.kiwistand.com/): community-curated crypto and Ethereum links, also published as a [feed](https://news.kiwistand.com/feed.xml) [![Open-Source Software][oss icon]](https://github.com/attestate/kiwistand)
 
 ### Multi-subject
 
@@ -2138,6 +2151,10 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 ## Turn Twitch into Podcast
 
 *   [TwitchPOD](https://twitchpod.tv/) <sup>[1455](https://t.me/s/aboutrss/1455)</sup> [![Open-Source Software][oss icon]](https://github.com/trevorsharp/twitchpod)
+
+## Turn MP3 into Podcast
+
+*   [Fourble](https://fourble.co.uk/): turns an ordered list of .mp3 files hosted anywhere into a podcast feed you can subscribe to ![Freeware][freeware icon]
 
 ## Turn Podcast/MP3 into Video via Podcast Feed
 

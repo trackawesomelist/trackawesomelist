@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [DocSpring](https://docspring.com) - Fill out PDF forms, generate PDFs and Word documents, and collect e-signatures. Free developer plan includes unlimited test PDFs and 10 filled PDFs per month. Up to 10 templates, 2 users, and 2 integrations. No credit card required and no time limits.
 *   [PolyDoc](https://polydoc.tech) - REST API for HTML to PDF and screenshot generation. Including templates, PDF/A and PDF/UA output, privacy-focused, and more features. The free plan includes 150 conversions/month.
 
 ### Tools for Teams and Collaboration
@@ -18,6 +19,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
+*   [CertAvert](https://certavert.com/monitoring) - Monitor SSL/TLS certificates on any port, checks expiry, chain problems, revocation, host mismatch. Monitor 15 domains free, get expiry notifications, email, Slack or Discord. No credit card required for signup.
 *   [pkgscan.dev](https://pkgscan.dev) - Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.
 
 ### Mobile App Distribution and Feedback
@@ -29,6 +31,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [AliasMail](https://aliasmail.space/) - Privacy-preserving email forwarding and alias service with HMAC-SHA256 signed webhooks and custom alias handles. Free tier includes permanent email forwarding, custom aliases, and webhook integrations with no credit card required.
 *   [eForward](https://eforward.com) - Email forwarding for custom domains. Free plan includes 1 domain, 1 mailbox, 10 aliases (catch-all ones count too), catch-all, and reply/send from your aliases (up to 5 new recipients a day). No credit card required.
 *   [FrostyVerify](https://frostyverify.com) - Email verification, usable through a web app, a REST API and an MCP server + 1,000 Free Email verifications a month, no card
+*   [mxRaven](https://mxraven.com/) - Programmable inbound email infrastructure with webhook, forward, and auto-reply routing, plus a durable pull-based event stream for consuming mail without a public endpoint. Free tier includes 1,000 outbound and 1,000 inbound tasks per month, 1 workspace, and 1 domain.
 *   [VaelMail](https://vaelmail.com) - Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.
 
 ### Feature Toggles Management Platforms

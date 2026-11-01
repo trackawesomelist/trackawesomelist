@@ -156,6 +156,7 @@
 *   [Mac Monitor (⭐7)](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ahmadjondev/MacMonitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Matcha (⭐2)](https://github.com/jakeantelis/Matcha) - Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jakeantelis/Matcha) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Monny](https://monny.moduix.dev) - Open-source menu bar system monitor with process lookup and a battery charge limit. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Blinks44/monny) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [NTFSTool](https://ntfstool.com) - Free, open-source NTFS read and write for Mac, with no kernel extension. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ntfstool/ntfstool) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1510209857) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Gaming Software / System Related Tools
 
@@ -562,7 +563,7 @@
 
 ### Terminal Apps / Databases
 
-*   [Calyx (⭐347)](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal for running and supervising coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yuuichieguchi/Calyx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Calyx (⭐352)](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal for running and supervising coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yuuichieguchi/Calyx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
@@ -630,7 +631,7 @@
 
 ### Reading and Writing Tools / Writing
 
-*   [AI Novel Writer (⭐1.6k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AI Novel Writer (⭐2.2k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
 
@@ -638,7 +639,7 @@
 
 ### Developer Tools / Databases
 
-*   [FastoRedis (⭐313)](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fastogt/fastoredis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FastoRedis (⭐312)](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fastogt/fastoredis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Sequel Pro (⭐9.2k)](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sequelpro/sequelpro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screenshot Tools
@@ -663,7 +664,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Whisk (⭐31)](https://github.com/nathan-poncet/whisk) - Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nathan-poncet/whisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Whisk (⭐33)](https://github.com/nathan-poncet/whisk) - Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nathan-poncet/whisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Menu Bar Tools
 
@@ -893,7 +894,7 @@
 *   [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [PDF Reader Pro](https://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 *   [Skim](https://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/skim-app/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [TabType (⭐47)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nilava/TabType) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TabType (⭐52)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nilava/TabType) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / IDEs
 
@@ -1197,7 +1198,7 @@
 
 ### Terminal Apps / Databases
 
-*   [Vesta (⭐23)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Vesta (⭐24)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 

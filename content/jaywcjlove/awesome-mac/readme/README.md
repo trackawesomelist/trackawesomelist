@@ -328,7 +328,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Writing
 
-*   [AI Novel Writer (⭐1.6k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+*   [AI Novel Writer (⭐2.2k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 *   [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 *   [novelWriter (⭐3.2k)](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 *   [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
@@ -385,7 +385,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 *   [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
 *   [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
-*   [TabType (⭐47)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
+*   [TabType (⭐52)](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 *   [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 *   [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 *   [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
@@ -647,7 +647,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [DB Pro](https://dbpro.app) - Database client for querying and managing SQL databases.
 *   [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 *   [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
-*   [FastoRedis (⭐313)](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
+*   [FastoRedis (⭐312)](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 *   [JackDB](https://www.jackdb.com/) - Secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 *   [MDB Explorer](https://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 *   [Medis](https://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
@@ -681,7 +681,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [alacritty (⭐66k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 *   [Awal Terminal (⭐34)](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
-*   [Calyx (⭐347)](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal for running and supervising coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
+*   [Calyx (⭐352)](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal for running and supervising coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
 *   [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 *   [electerm](https://electerm.github.io/electerm/) - Terminal, SSH, and SFTP client. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 *   [Farol (⭐18)](https://github.com/snowztech/farol) - Terminal built on libghostty that shows which coding agent is working, waiting or done. [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
@@ -696,7 +696,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Termius](https://www.termius.com/) - A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 *   [Termstead](https://khorenyan.com/termstead/) - Native SSH client with a session tree, jump hosts and SFTP beside the terminal. [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
 *   [tty7 (⭐1.3k)](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
-*   [Vesta (⭐23)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
+*   [Vesta (⭐24)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
 *   [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 *   [Wave (⭐23k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 *   [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
@@ -1374,7 +1374,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Yippy (⭐400)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 *   [ClipFlow (⭐13)](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
 *   [Pesty (⭐147)](https://github.com/momenbasel/pesty) - Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
-*   [Whisk (⭐31)](https://github.com/nathan-poncet/whisk) - Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews. [![Open-Source Software][OSS Icon]](https://github.com/nathan-poncet/whisk) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+*   [Whisk (⭐33)](https://github.com/nathan-poncet/whisk) - Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews. [![Open-Source Software][OSS Icon]](https://github.com/nathan-poncet/whisk) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Menu Bar Tools
 
@@ -1828,6 +1828,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Monny](https://monny.moduix.dev) - Open-source menu bar system monitor with process lookup and a battery charge limit. [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/monny) ![Freeware][Freeware Icon]
 *   [Mounty](https://mounty.app) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
 *   [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
+*   [NTFSTool](https://ntfstool.com) - Free, open-source NTFS read and write for Mac, with no kernel extension. [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
 *   [OnyX](https://www.titanium-software.fr/en/onyx.html) - System maintenance utility for cleanup, verification, and hidden settings. ![Freeware][Freeware Icon]
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 *   [stats (⭐43k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)

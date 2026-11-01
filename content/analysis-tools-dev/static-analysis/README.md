@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Nov 01, 2026](/content/2026/11/01/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Kin (⭐68)](https://github.com/kinlab-ai/kin) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -63,7 +69,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+*   [GitStats (⭐97)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
@@ -78,10 +84,6 @@
 *   [Kimün](https://kimun.tools/en/) — Code health metrics from the terminal. Grades a project from A++ to F-- on cognitive complexity, duplication, indentation, Halstead effort and file size, and lists the files to look at first. Separate commands report cyclomatic and cognitive complexity per function, duplicates, code smells and the Maintainability Index. From git history it finds hotspots, code ownership and temporal coupling, and measures which files a diff reaches. A CI gate fails when a changed file gets worse.
 
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
-
-### Multiple languages / [Other](#other-1)
-
-*   [Kin](https://kinlab.ai) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
 
 ### Other / [Other](#other-1)
 
@@ -145,7 +147,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [scythe (⭐74)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [scythe (⭐75)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 
 ## [Aug 29, 2026](/content/2026/08/29/README.md)
 

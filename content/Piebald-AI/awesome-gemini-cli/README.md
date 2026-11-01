@@ -11,6 +11,15 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Commands & Extensions
 
 *   [Kin (⭐1)](https://github.com/kinlab-ai/kin-plugin) - Gemini CLI extension for Kin: use your accounts from Gemini CLI, even two of one service, each with its own rule per action (Allow, Ask me or Block), through Kin's hosted MCP server. Install: `gemini extensions install https://github.com/kinlab-ai/kin-plugin`.
+*   [vidbyte-memory (⭐2)](https://github.com/cerredz/vidbyte-memory) - Gemini CLI extension and GitHub template for correction-driven memory: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an `AfterAgent` hook that sends Gemini back to work (up to 5 times in a row) while tests fail.
+
+### Development Tools & Utilities
+
+*   [Railse (⭐2)](https://github.com/xufei547/railse-opc) - Self-hosted approval inbox for Gemini CLI, Claude Code and Codex: hooks route every tool call through risk-based rules; for Gemini CLI that means deny rules plus phone notifications for questions and completion, with approvals from the phone for Claude Code and Codex.
+
+### MCP Servers
+
+*   [JobsPipe](https://jobspipe.dev/mcp-server?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted MCP server and Gemini CLI extension for live job postings from 30+ ATS feeds and job boards in one normalized schema: search by role, place, date, salary, seniority, skills and visa stance, read a posting in full, and save searches as alerts. OAuth sign-in or API key, free plan. `gemini extensions install https://github.com/jobspipe/mcp`.
 
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 

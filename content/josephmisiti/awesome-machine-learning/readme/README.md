@@ -237,7 +237,7 @@ Further resources:
 
 #### Computer Vision
 
-*   [CCV (⭐7.2k)](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+*   [CCV (⭐7.3k)](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 *   [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has a Matlab toolbox.
 *   [YOLOv8 (⭐63k)](https://github.com/ultralytics/ultralytics) - Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
 *   [SpecX](https://specx.pro) - Specialized AI vision for extracting engineering specs from PDF/JPG to Excel.
@@ -279,10 +279,10 @@ Further resources:
 *   [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications.
 *   [DSSTNE (⭐4.4k)](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐464)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐465)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [FlexML (⭐28)](https://github.com/ozguraslank/flexml) - Easy-to-use and flexible AutoML library for Python.
 *   [igraph](http://igraph.org/) - General purpose graph library.
-*   [Intel® oneAPI Data Analytics Library (⭐652)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐653)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 *   [LightGBM (⭐19k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [libfm (⭐1.5k)](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
 *   [MCGrad (⭐53)](https://github.com/facebookincubator/MCGrad/) - A production-ready library for multicalibration, fairness, and bias correction in machine learning models.
@@ -333,7 +333,7 @@ Further resources:
 *   [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (CRFs) for labeling sequential data. **\[Deprecated]**
 *   [frog (⭐84)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 *   [libfolia (⭐18)](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
-*   [MeTA (⭐719)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐720)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 *   [MIT Information Extraction Toolkit (⭐3k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 *   [ucto (⭐72)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 *   [SentencePiece (⭐12k)](https://github.com/google/sentencepiece) - A C++ library for unsupervised text tokenization and detokenization, widely used in modern NLP models.
@@ -342,7 +342,7 @@ Further resources:
 
 #### Speech Recognition
 
-*   [Kaldi (⭐15k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+*   [Kaldi (⭐16k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 *   [Vosk (⭐15k)](https://github.com/alphacep/vosk-api) - An offline speech recognition toolkit with C++ support, designed for low-resource devices and multiple languages.
 *   [VoxRT (⭐9)](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C/C++ headers for Linux (aarch64/x86\_64). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
@@ -738,7 +738,7 @@ Further resources:
 *   [Retext (⭐2.4k)](https://github.com/retextjs/retext) - Extensible system for analyzing and manipulating natural language.
 *   [NLP Compromise (⭐12k)](https://github.com/spencermountain/compromise) - Natural Language processing in the browser.
 *   [nlp.js (⭐6.6k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
-*   [Glyph (⭐3)](https://github.com/Koda-OSS/Glyph) - Framework-agnostic TypeScript library for generating, searching, and comparing MinHash fingerprints for fast text similarity, deduplication, and retrieval.
+*   [Glyph (⭐4)](https://github.com/Koda-OSS/Glyph) - Framework-agnostic TypeScript library for generating, searching, and comparing MinHash fingerprints for fast text similarity, deduplication, and retrieval.
 
 <a name="javascript-data-analysis--data-visualization"></a>
 
@@ -1311,7 +1311,7 @@ Further resources:
 *   [DL Translate (⭐502)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 *   [Haystack (⭐27k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 *   [CometLLM (⭐23k)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
-*   [NobodyWho (⭐1.6k)](https://github.com/nobodywho-ooo/nobodywho) - The simplest way to run an LLM locally. Supports tool calling and grammar constrained sampling.
+*   [NobodyWho (⭐1.7k)](https://github.com/nobodywho-ooo/nobodywho) - The simplest way to run an LLM locally. Supports tool calling and grammar constrained sampling.
 *   [Transformers (⭐168k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 *   [TextCL (⭐12)](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 *   [VeritasGraph (⭐326)](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
@@ -1377,7 +1377,7 @@ Further resources:
 *   [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
 *   [skforecast (⭐1.5k)](https://github.com/skforecast/skforecast) - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
 *   [Feature-engine (⭐2.3k)](https://github.com/feature-engine/feature_engine) - Open source library with an exhaustive battery of feature engineering and selection methods based on pandas and scikit-learn.
-*   [PhilanthroPy (⭐11)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - A scikit-learn native toolkit for nonprofit and academic-medical-center fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
+*   [PhilanthroPy (⭐12)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - A scikit-learn native toolkit for nonprofit and academic-medical-center fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 *   [gensim (⭐17k)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 *   [Gower Express](https://github.com/momonga-ml/gower-express.git) - The Fastest Gower Distance Implementation for Python. GPU-accelerated similarity matching for mixed data types, 15-25% faster than alternatives with production-ready reliability.
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
@@ -1462,7 +1462,7 @@ Further resources:
 *   [Catalyst (⭐3.4k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 *   [Fastai (⭐28k)](https://github.com/fastai/fastai) - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
 *   [scikit-multiflow (⭐800)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
-*   [Lightwood (⭐511)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐513)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 *   [bayeso (⭐97)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 *   [mljar-supervised (⭐3.3k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 *   [evostra (⭐271)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
@@ -1497,7 +1497,7 @@ Further resources:
 *   [PyBroker (⭐3.7k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
 *   [Frouros (⭐260)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 *   [Adaptive Reliability Layer (⭐6)](https://github.com/pberlizov/adaptive-reliability-layer): A bounded controller for production ML under distribution shift — detects drift, learns from delayed labels, and takes the smallest safe steering step to defer unnecessary retrains.
-*   [CometML (⭐174)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+*   [CometML (⭐175)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 *   [ClearML (⭐6.9k)](https://github.com/clearml/clearml) -  Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
 *   [Okrolearn (⭐2)](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys features with tensors and machine learning components, while maintaining support for other libraries.
 *   [Opik (⭐23k)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
@@ -1505,12 +1505,13 @@ Further resources:
 *   [mlforgex (⭐2)](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 *   [autobatcher (⭐24)](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 *   [Future AGI (⭐2.2k)](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
+*   [GNN Fraud Ring Detection (⭐0)](https://github.com/RishabhPande/GNN-fraud-ring-detection) - GraphSAGE, GAT, GCN and GIN implemented from scratch in pure Python to detect synthetic fraud rings and money-mule chains.
 
 <a name="python-data-analysis--data-visualization"></a>
 
 #### Data Analysis / Data Visualization
 
-*   [DataComPy (⭐660)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+*   [DataComPy (⭐664)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 *   [DataVisualization (⭐50)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Cartopy is a Python package designed for geospatial data processing in order to produce maps and other geospatial data analyses.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
@@ -1794,10 +1795,10 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-*   [smartcore (⭐965)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [smartcore (⭐971)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 *   [linfa (⭐4.8k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 *   [deeplearn-rs (⭐210)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐646)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐647)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 *   [rusty-machine (⭐1.3k)](https://github.com/AtheMathmo/rusty-machine) - a pure-rust machine learning library.
 *   [leaf (⭐5.5k)](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe. Available under the MIT license. [**\[Deprecated\]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
 *   [RustNN (⭐339)](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library. **\[Deprecated]**
@@ -1998,7 +1999,7 @@ Further resources:
 #### General-Purpose Machine Learning
 
 *   [Microsoft ML for Apache Spark (⭐5.3k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
-*   [ONNX-Scala](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [ONNX-Scala (⭐151)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 *   [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
 *   [Conjecture (⭐358)](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
 *   [brushfire (⭐389)](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
@@ -2090,7 +2091,7 @@ Further resources:
 #### Misc
 
 *   [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes.
-*   [Infinity (⭐4.7k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐4.8k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 *   [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
 *   [Humanloop](https://humanloop.com) – Humanloop is a platform for prompt experimentation, finetuning models for better performance, cost optimization, and collecting model generated data and user feedback.
 *   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐35k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
@@ -2102,7 +2103,7 @@ Further resources:
 *   [Chroma](https://www.trychroma.com/) - Open-source search and retrieval database for AI applications. Vector, full-text, regex, and metadata search. [Self-host](https://docs.trychroma.com) or [Cloud](https://trychroma.com/signup) available.
 *   [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 *   [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
-*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
+*   [ML Workspace (⭐3.6k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 *   [Notebooks (⭐35)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 *   [Deepnote (⭐3k)](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 *   [DVC (⭐16k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
@@ -2130,7 +2131,7 @@ Further resources:
 *   [Ambrosia (⭐113)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 *   [Fiddler AI](https://www.fiddler.ai) - The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
 *   [Maxim AI](https://getmaxim.ai) - The agent simulation, evaluation, and observability platform helping product teams ship their AI applications with the quality and speed needed for real-world use.
-*   [promptfoo (⭐26k)](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
+*   [promptfoo (⭐27k)](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
 *   [Agentic Radar (⭐1.1k)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 *   [ClawMoat (⭐45)](https://github.com/darfaz/clawmoat) - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse. Zero deps, MIT licensed.
 *   [Agentic Signal (⭐178)](https://github.com/code-forge-temple/agentic-signal) - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.

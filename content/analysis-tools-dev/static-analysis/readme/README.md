@@ -1296,7 +1296,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [pgspot (⭐150)](https://github.com/timescale/pgspot) — Spot vulnerabilities in postgres extension scripts. Finds unsafe search\_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.
 
-*   [scythe (⭐74)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [scythe (⭐75)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
@@ -1581,7 +1581,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [Kimün](https://kimun.tools/en/) — Code health metrics from the terminal. Grades a project from A++ to F-- on cognitive complexity, duplication, indentation, Halstead effort and file size, and lists the files to look at first. Separate commands report cyclomatic and cognitive complexity per function, duplicates, code smells and the Maintainability Index. From git history it finds hotspots, code ownership and temporal coupling, and measures which files a diff reaches. A CI gate fails when a changed file gets worse.
 
-*   [Kin](https://kinlab.ai) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
+*   [Kin (⭐68)](https://github.com/kinlab-ai/kin) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
 
 *   [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: — Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 
@@ -2731,7 +2731,7 @@ but with the following improvements:
 
 *   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
-*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+*   [GitStats (⭐97)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 

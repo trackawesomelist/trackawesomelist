@@ -266,6 +266,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
 *   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 *   [Disease.sh](https://disease.sh/) - A free API providing accurate data for building the Covid-19 related useful Apps.
+*   [DocSpring](https://docspring.com) - Fill out PDF forms, generate PDFs and Word documents, and collect e-signatures. Free developer plan includes unlimited test PDFs and 10 filled PDFs per month. Up to 10 templates, 2 users, and 2 integrations. No credit card required and no time limits.
 *   [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 *   [Doppio](https://doppio.sh/) - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
 *   [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
@@ -620,6 +621,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Security and PKI
 
 *   [aikido.dev](https://www.aikido.dev) - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
+*   [CertAvert](https://certavert.com/monitoring) - Monitor SSL/TLS certificates on any port, checks expiry, chain problems, revocation, host mismatch. Monitor 15 domains free, get expiry notifications, email, Slack or Discord. No credit card required for signup.
 *   [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
 *   [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
 *   [CertPost](https://www.certpost.ai) - Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.
@@ -962,6 +964,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
 *   [Mailtrap.io](https://mailtrap.io/) - Email API and SMTP with 4,000 emails/month free, limited to 150 emails/day. Email Marketing includes 500 contacts and 1,500 emails/month. Email Sandbox includes 50 test emails/month, one sandbox, and up to 10 stored emails.
 *   [Mutant Mail](https://www.mutantmail.com/) - Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
+*   [mxRaven](https://mxraven.com/) - Programmable inbound email infrastructure with webhook, forward, and auto-reply routing, plus a durable pull-based event stream for consuming mail without a public endpoint. Free tier includes 1,000 outbound and 1,000 inbound tasks per month, 1 workspace, and 1 domain.
 *   [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
 *   [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
 *   [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)

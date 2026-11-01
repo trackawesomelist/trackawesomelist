@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+
+### Generic
+
+*   [Hugeicons Animated](https://hugeicons-animated.com/) - Open-source, hand-animated Hugeicons for React built with Motion, installed icon by icon as source code with the shadcn CLI.
+
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
 
 ### Archive of Icons
@@ -164,13 +170,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐22k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐23k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐421)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐422)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -286,7 +292,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐727)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐728)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 

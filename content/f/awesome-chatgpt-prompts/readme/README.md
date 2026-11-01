@@ -1,8 +1,8 @@
 # Awesome Chatgpt Prompts Overview
 
-a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) · ⭐ 145K · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) · ⭐ 174K · 🏷️ ChatGPT
 
 [ [Daily](/content/f/awesome-chatgpt-prompts/README.md) / [Weekly](/content/f/awesome-chatgpt-prompts/week/README.md) / Overview ]
 
@@ -44,12 +44,12 @@ a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 <p align="center">
   <sub>
-    🏆 Featured in <a href="https://www.forbes.com/sites/tjmccue/2023/01/19/chatgpt-success-completely-depends-on-your-prompt/">Forbes</a> · 
-    🎓 Referenced by <a href="https://www.huit.harvard.edu/news/ai-prompts">Harvard</a>, <a href="https://etc.cuit.columbia.edu/news/columbia-prompt-library-effective-academic-ai-use">Columbia</a> · 
-    📄 <a href="https://scholar.google.com/citations?user=AZ0Dg8YAAAAJ&hl=en">40+ academic citations</a> · 
+    🏆 Featured in <a href="https://www.forbes.com/sites/tjmccue/2023/01/19/chatgpt-success-completely-depends-on-your-prompt/">Forbes</a> ·
+    🎓 Referenced by <a href="https://www.huit.harvard.edu/news/ai-prompts">Harvard</a>, <a href="https://etc.cuit.columbia.edu/news/columbia-prompt-library-effective-academic-ai-use">Columbia</a> ·
+    📄 <a href="https://scholar.google.com/citations?user=AZ0Dg8YAAAAJ&hl=en">40+ academic citations</a> ·
     ❤️ <a href="https://huggingface.co/datasets/fka/prompts.chat">Most liked dataset</a> on Hugging Face<br>
-    ⭐ 143k+ GitHub stars · 
-    🏅 <a href="https://spotlights-feed.github.com/spotlights/prompts-chat/index/">GitHub Staff Pick</a> · 
+    ⭐ 143k+ GitHub stars ·
+    🏅 <a href="https://spotlights-feed.github.com/spotlights/prompts-chat/index/">GitHub Staff Pick</a> ·
     🚀 First prompt library (Dec 2022)
   </sub>
 </p>
@@ -57,9 +57,9 @@ a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 <p align="center">
   <sub><strong>Loved by AI pioneers:</strong></sub><br>
   <sub>
-    <a href="https://x.com/gdb/status/1602072566671110144"><strong>Greg Brockman</strong></a> (OpenAI Co-Founder) · 
-    <a href="https://x.com/woj_zaremba/status/1601362952841760769"><strong>Wojciech Zaremba</strong></a> (OpenAI Co-Founder) · 
-    <a href="https://x.com/clementdelangue/status/1830976369389642059"><strong>Clement Delangue</strong></a> (Hugging Face CEO) · 
+    <a href="https://x.com/gdb/status/1602072566671110144"><strong>Greg Brockman</strong></a> (OpenAI Co-Founder) ·
+    <a href="https://x.com/woj_zaremba/status/1601362952841760769"><strong>Wojciech Zaremba</strong></a> (OpenAI Co-Founder) ·
+    <a href="https://x.com/clementdelangue/status/1830976369389642059"><strong>Clement Delangue</strong></a> (Hugging Face CEO) ·
     <a href="https://x.com/ashtom/status/1887250944427237816"><strong>Thomas Dohmke</strong></a> (Former GitHub CEO)
   </sub>
 </p>
@@ -68,7 +68,7 @@ a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 ## What is this?
 
-A curated collection of **prompt examples** for AI chat models. Originally created for ChatGPT, these prompts work great with any modern AI assistant.
+A curated collection of **prompts** for AI chat models. Originally created for ChatGPT, these prompts work great with any modern AI assistant.
 
 | Browse Prompts                                                                 | Data Formats                                                                     |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -79,11 +79,24 @@ A curated collection of **prompt examples** for AI chat models. Originally creat
 
 ***
 
+## 🤖 Bots & Bot Teams
+
+prompts.chat also hosts **always-on AI agents** and the teams they work in.
+
+*   **[Bots](https://prompts.chat/bots)** — Share and discover bots (OpenClaw, Hermes Agent, Grok Bot, and more). Each bot page has install instructions per platform, the computer it needs (**cloud**, **the user's computer**, or **both**), "Better together with" pairings, upvotes, comments, and change requests.
+*   **[Bot Teams](https://prompts.chat/bots/teams)** — Groups of bots that hand work off to each other, shown as an interactive graph. Upvote a team or install every bot in it at once. Featured teams appear on the homepage, and **Teams** is in the top navigation.
+*   **Profiles** — User profiles have Bots and Teams tabs with counts.
+*   **Moderation** — Bots and teams can be unlisted to hide them from public listings.
+
+Teams are also available as JSON: `GET /api/teams?sort=newest` (also `oldest` or `upvotes`, paginated with `page` and `perPage`).
+
+***
+
 ## 📖 The Interactive Book of Prompting
 
-Learn prompt engineering with our **free, interactive guide** — 25+ chapters covering everything from basics to advanced techniques like chain-of-thought reasoning, few-shot learning, and AI agents.
+Learn prompt engineering with our **free, interactive guide** — 30+ chapters covering everything from basics to advanced techniques like chain-of-thought reasoning, few-shot learning, and AI agents. Newer chapters cover going **from prompt to team** (prompt, skill, agent, bot, team), always-on bots, agent teams, computer use, and who may give a bot work — available in 17 languages.
 
-**[Start Reading →](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+**[Start Reading →](https://fka.gumroad.com/l/art-of-chatgpt-prompting)** (Source: [https://github.com/f/prompts.chat/tree/main/src/content/book (⭐174k)](https://github.com/f/prompts.chat/tree/main/src/content/book))
 
 ***
 
@@ -127,6 +140,19 @@ npm install && npm run setup
 ```
 
 The setup wizard configures branding, theme, authentication (GitHub/Google/Azure AD), and features.
+
+**Recommended database:** prompts.chat uses PostgreSQL. For a hosted database, we recommend [Neon](https://get.neon.com/VqfnMo4).
+
+<div>
+  <p>Sponsored by</p>
+  <a href="https://get.neon.com/VqfnMo4">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon.svg">
+      <img width="250px" alt="Neon Logo fallback" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon-dark.svg">
+    </picture>
+  </a>
+</div>
 
 📖 **[Full Self-Hosting Guide](https://github.com/f/prompts.chat/blob/main/README.md/SELF-HOSTING.md)** • 🐳 **[Docker Guide](https://github.com/f/prompts.chat/blob/main/README.md/DOCKER.md)**
 
@@ -176,6 +202,8 @@ Use prompts.chat as an MCP server in your AI tools.
 }
 ```
 
+Tools cover prompts and skills, plus bots (`search_bots`, `get_bot`, `save_bot`, `list_my_bots`, `get_my_bot`) and bot teams (`list_teams`, `get_team`, `save_team`).
+
 📖 [MCP Documentation](https://prompts.chat/docs/api)
 
 ***
@@ -183,6 +211,14 @@ Use prompts.chat as an MCP server in your AI tools.
 ## 💖 Sponsors
 
 <p align="center">
+  <!-- Neon (py-1) -->
+  <a href="https://get.neon.com/VqfnMo4">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon.svg">
+      <img height="30" alt="Neon" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/neon.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
   <!-- Clemta -->
   <a href="https://clemta.com/?utm_source=prompts.chat">
     <picture>
@@ -256,7 +292,8 @@ Use prompts.chat as an MCP server in your AI tools.
 
 This project is dual-licensed:
 
-*   **Source code** is licensed under the [MIT License](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-MIT).
+*   **Source code and site-authored content** is licensed under the [MIT License](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-MIT),
+    including the interactive book content in [`src/content/book`](https://github.com/f/prompts.chat/blob/main/README.md/src/content/book).
 *   **Prompt content and data** (prompts.csv, PROMPTS.md, user-submitted prompts) is dedicated to the public domain under [CC0 1.0 Universal](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-CC0).
 
 See [LICENSE](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE) for details.

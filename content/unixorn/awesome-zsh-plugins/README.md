@@ -11,6 +11,11 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [claude-code (⭐16)](https://github.com/matheus-poli/zsh-claude-code) - Adds `ask` and `explain` commands plus Ctrl+X (rewrite a natural-language request into a command, in place) and Alt+E (explain the typed command) widgets, built on the Claude Code CLI with tools and MCP servers disabled.
+*   [fasd (⭐112)](https://github.com/whjvenyl/fasd) - A command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like [autojump (⭐17k)](https://github.com/joelthelion/autojump), [z (⭐17k)](http://github.com/rupa/z) and [v (⭐459)](https://github.com/rupa/v). Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [oops (⭐2)](https://github.com/ysb3996-blip/oops) - Copies the last command and its output to the clipboard as a Markdown code block, with API keys and other secrets masked. Works in ZSH and `bash`. Installed as a Ruby gem (Ruby 3.3 or later).
 
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
@@ -232,7 +237,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### oh-my-zsh
 
-*   [master-oogway (⭐3)](https://github.com/tomershay100/master-oogway) - A complete zsh environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo
+*   [master-oogway (⭐3)](https://github.com/tomershay100/master-oogway) - A complete ZSH environment — dragon prompt theme, `git` aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone `git` repo.
 
 ### Raw ZSH
 
@@ -573,7 +578,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [awsmultiaccount (⭐1)](https://github.com/acidix/zsh-awsmultiaccount) - Manages AWS profiles and assuming roles in a multi-account organization. It provides helper functions to easily switch between AWS profiles and assume the OrganizationAccountAccessRole in different accounts. Requires the `aws` cli and [jq](https://stedolan.github.io/jq/)
 *   [k9s (⭐1)](https://github.com/acidix/zsh-k9s) - Provides an iteractive `$KUBECONFIG` selector for [k9s](https://k9scli.io/).
 *   [matecito (⭐1)](https://github.com/uvallasciani/matecito-zsh) - Detects your language and country to display quotes from local authors in your native language. Simple, offline, no noise.
-*   [mlir (⭐13)](https://github.com/oowekyala/mlir-zsh-plugin) - Adds goodies for [MLIR](https://mlir.llvm.org/) developers including tab completion of `mlir-opt` and colorizing its output.
+*   [mlir (⭐13)](https://github.com/oowekyala/mlir-zsh-plugin) - Helpful for [MLIR](https://mlir.llvm.org/) developers. Includes accurate ZSH option completion for `mlir-opt` and other frontends using `MlirMain` (`iree-opt`, etc), syntax highlighting of `mlir-opt` output in your terminal (requires [pygments](https://pygments.org)).
 *   [ohmyai (⭐1)](https://github.com/briques/ohmyai-zsh) - AI-powered command suggestions for Zsh. Type what you want to do, press the hotkey, and get shell command suggestions from OpenAI.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1056,7 +1061,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐130k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
+*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐133k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
 
 ## [Jul 08, 2025](/content/2025/07/08/README.md)
 

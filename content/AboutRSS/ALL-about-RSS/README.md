@@ -8,9 +8,42 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
+### Apps / Outline Processor Markup Language
+
+*   [NitroFeed](https://getapps.cafe/app/nitrofeed) : a desktop RSS reader that pulls the full article into the reader, plays podcasts inline and can summarize with your own AI key ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### Hosted Readers / Outline Processor Markup Language
+
+*   [Feeddi](https://feeddi.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.feeddi)[![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chromewebstore.google.com/detail/feeddide-abone-ol/hdiigdlnndhpjdcjbgddiddnboobphpc)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/addon/subscribe-in-feeddi/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### NetNewsWire / Outline Processor Markup Language
+
+*   [thechelsuk NetNewsWire Themes](https://themes-nnw.thechels.uk/): a bundle of light, dark and adjustable themes [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/thechelsuk/uk.thechels.themes-nnw)
+
+### ✳ Information Aggregators / 酷Q Plugin
+
+*   [Trace](https://www.yourtrace.online/): tech and AI news from 100+ sources (RSS/Atom feeds, Hacker News, Reddit, Product Hunt), merged into one story per event with every source linked; a web page, a daily email and public daily briefs, self-hostable with Docker Compose [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://www.yourtrace.online/)[![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chromewebstore.google.com/detail/trace-ai-tech-news-in-eve/cblkklekbejbbpcaihfogdmaoofmikbk)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/TarunTomar122/trace)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://www.yourtrace.online/agents)
+
+### News / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Cheltenham Open Data feeds](https://cheltenham-od.uk/feeds): local feeds for Cheltenham, UK, including a daily news round-up and an alerts feed that merges flood warnings, power cuts, travel disruption and road closures
+
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [Digest AI](https://digestai.news/) : AI news from 71 curated sources merged into one story per event with every source linked; publishes its own [RSS feed](https://digestai.news/rss.xml), an [AI at Work feed](https://digestai.news/work/rss.xml) and a [podcast feed](https://digestai.news/podcast.xml) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [AI观潮 (AI Guanchao)](https://aiguanchao.com/en) : curated daily AI news picked from thousands of stories, with AI-written summaries in Chinese; feeds for [picks](https://aiguanchao.com/feed/featured.xml), the [daily brief](https://aiguanchao.com/feed/daily.xml) and the [podcast](https://static.aiguanchao.com/podcast/ai-daily/feed.xml) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)[![MCP](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png)](https://aiguanchao.com/en/agent)
+
+### Tech or IT / Crypto or Blockchain relevant
+
+*   [Kiwi News](https://news.kiwistand.com/): community-curated crypto and Ethereum links, also published as a [feed](https://news.kiwistand.com/feed.xml) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/attestate/kiwistand)
+
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [PigeonPod](https://pigeonpod.cloud/) : Convert YouTube channels and playlists into podcast feeds ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aizhimou/pigeon-pod)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### Turn MP3 into Podcast / Crypto or Blockchain relevant
+
+*   [Fourble](https://fourble.co.uk/): turns an ordered list of .mp3 files hosted anywhere into a podcast feed you can subscribe to ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 

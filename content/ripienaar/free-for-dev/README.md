@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 01, 2026](/content/2026/11/01/README.md)
+
+### APIs, Data, and ML
+
+*   [DocSpring](https://docspring.com) - Fill out PDF forms, generate PDFs and Word documents, and collect e-signatures. Free developer plan includes unlimited test PDFs and 10 filled PDFs per month. Up to 10 templates, 2 users, and 2 integrations. No credit card required and no time limits.
+
+### Security and PKI
+
+*   [CertAvert](https://certavert.com/monitoring) - Monitor SSL/TLS certificates on any port, checks expiry, chain problems, revocation, host mismatch. Monitor 15 domains free, get expiry notifications, email, Slack or Discord. No credit card required for signup.
+
+### Email
+
+*   [mxRaven](https://mxraven.com/) - Programmable inbound email infrastructure with webhook, forward, and auto-reply routing, plus a durable pull-based event stream for consuming mail without a public endpoint. Free tier includes 1,000 outbound and 1,000 inbound tasks per month, 1 workspace, and 1 domain.
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Security and PKI

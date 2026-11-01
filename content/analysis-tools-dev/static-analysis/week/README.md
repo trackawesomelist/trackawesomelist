@@ -17,6 +17,7 @@
 ### Multiple languages / [Other](#other-1)
 
 *   [CodeQue (⭐158)](https://github.com/codeque-co/codeque) — Ecosystem for structural matching JavaScript and TypeScript code. Offers search tool that understands code structure. Available as CLI tool and Visual Studio Code extension. It helps to search code faster and more accurately making you workflow more effective. Soon it will offer ESLint plugin to create your own rules in minutes to help with assuring codebase quality.
+*   [Kin (⭐68)](https://github.com/kinlab-ai/kin) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
 *   [SonarQube for IDE](https://www.sonarsource.com/products/sonarqube/ide/) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 *   **Code Intelligence** :warning: :copyright: — CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
 *   **ezno** :warning: — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.
@@ -52,17 +53,13 @@
 ### Other / [Other](#other-1)
 
 *   [compose-lint](https://tmatens.github.io/compose-lint/) — Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.
-*   [GitStats (⭐94)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+*   [GitStats (⭐97)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [bashate (⭐399)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
-
-### Multiple languages / [Other](#other-1)
-
-*   [Kin](https://kinlab.ai) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
 
 ### Other / [Other](#other-1)
 
@@ -193,7 +190,7 @@
 *   **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 *   **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 *   [Bytebase](https://www.bytebase.com) — Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.
-*   [scythe (⭐74)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+*   [scythe (⭐75)](https://github.com/Goldziher/scythe) — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   [tsqllint (⭐228)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 *   **sleek** :warning: — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 *   **sqlcheck** :warning: — Automatically identify anti-patterns in SQL queries.

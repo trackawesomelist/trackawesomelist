@@ -852,7 +852,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 ### oh-my-zsh
 
 *   [awesome-lazy-zsh (⭐27)](https://github.com/AmJaradat01/awesome-lazy-zsh) - automates your ZSH setup with 46 plugins, 5 themes, configuration profiles, and service installation. It installs dependencies, manages Oh My Zsh, and gives you a beautiful interactive CLI to build the terminal environment you want.
-*   [master-oogway (⭐3)](https://github.com/tomershay100/master-oogway) - A complete zsh environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo
+*   [master-oogway (⭐3)](https://github.com/tomershay100/master-oogway) - A complete ZSH environment — dragon prompt theme, `git` aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone `git` repo.
 
 ### Raw ZSH
 
@@ -1295,6 +1295,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [eza-ls (⭐2)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing [eza (⭐24k)](https://github.com/eza-community/eza), to act as a drop-in replacement for `ls` and `tree`.
 *   [f-shortcuts (⭐10)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐25)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
+*   [fasd (⭐112)](https://github.com/whjvenyl/fasd) - A command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like [autojump (⭐17k)](https://github.com/joelthelion/autojump), [z (⭐17k)](http://github.com/rupa/z) and [v (⭐459)](https://github.com/rupa/v). Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 *   [fast-alias-tips (⭐15)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐815)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐61)](https://github.com/sei40kr/zsh-fast-alias-tips).
 *   [fast-syntax-highlighting (⭐1.8k)](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Optimized and improved `zsh-users/zsh-syntax-highlighting` – better response times, switchable highlight themes.
 *   [fastcache (⭐57)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
@@ -1594,7 +1595,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [mkarch (⭐6)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
 *   [mkcd (⭐6)](https://github.com/azizoid/zsh-mkcd) - Provides a `mkcd` command, the canonical `mkdir` && `cd` helper.
 *   [mkcd (⭐4)](https://github.com/marvinroman/oh-my-zsh-mkcd-plugin) - Allows user to create a directory and if successful, `cd` into it afterward.
-*   [mlir (⭐13)](https://github.com/oowekyala/mlir-zsh-plugin) - Adds goodies for [MLIR](https://mlir.llvm.org/) developers including tab completion of `mlir-opt` and colorizing its output.
+*   [mlir (⭐13)](https://github.com/oowekyala/mlir-zsh-plugin) - Helpful for [MLIR](https://mlir.llvm.org/) developers. Includes accurate ZSH option completion for `mlir-opt` and other frontends using `MlirMain` (`iree-opt`, etc), syntax highlighting of `mlir-opt` output in your terminal (requires [pygments](https://pygments.org)).
 *   [mode-switch.CLI (⭐3)](https://github.com/Gyumeijie/mode-switch.CLI) - A ZSH plugin for switching command line between normal mode and `vi` mode.
 *   [monorepo-plugin (⭐3)](https://github.com/zilongqiu/monorepo-zsh-plugin) - ZSH plugin for monorepo management.
 *   [monthrename (⭐1)](https://github.com/NotTheDr01ds/zsh-plugin-monthrename) - Renames month names to numbers in filenames.
@@ -2198,7 +2199,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [click-completion (⭐294)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
 *   [cod (⭐556)](https://github.com/dim-an/cod) - A completion demon for `bash`/`fish`/`zsh` which creates completion functions on the fly when it sees you run something with `--help`.
 *   [codeception (⭐12)](https://github.com/shengyou/codeception-zsh-plugin) - Adds command completion for the Codeception Testing Framework.
-*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐130k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
+*   [codex (⭐5)](https://github.com/pressdarling/codex-zsh-plugin) - Vibe-coded tab completion for OpenAI's [codex (⭐133k)](https://github.com/openai/codex) tool. Generates completions in the background so it doesn't slow down shell startup. Includes enhancements for a smooth experience on macOS.
 *   [comonicon (⭐0)](https://github.com/Roger-luo/ComoniconZSHCompletion.jl) - Tab completions for [comonicon (⭐300)](https://github.com/Roger-luo/Comonicon.jl).
 *   [complete-lastf (⭐4)](https://github.com/chougousui/complete-lastf) - Adds a tab completion to select the most recently modified file or directory.
 *   [complete-mac (⭐10)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
@@ -3557,6 +3558,7 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 *   [oclif completion generator (⭐13)](https://github.com/MunifTanjim/oclif-plugin-completion) - Generates shell completions for commands lacking them.
 *   [oh-plugin (⭐3)](https://github.com/mbergo/oh-plugin) - Helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 *   [ohmyzsh-gui (⭐1)](https://github.com/a1024053774/ohmyzsh-gui) - A desktop app for Oh My Zsh plugins, themes, and .zshrc. Every change is previewed, backed up, and syntax-checked with `zsh -n` before Apply. Supports macOS, Windows and Linux.
+*   [oops (⭐2)](https://github.com/ysb3996-blip/oops) - Copies the last command and its output to the clipboard as a Markdown code block, with API keys and other secrets masked. Works in ZSH and `bash`. Installed as a Ruby gem (Ruby 3.3 or later).
 *   [rust-zsh-plugin-cli (⭐2)](https://github.com/johnstonskj/rust-zsh-plugin-cli) - This tool scaffolds ZSH plugins with best practices built-in, including function tracking for clean unloading, optional alias support, autoloaded functions, and CI/CD workflows for shellcheck and shellspec. Choose from minimal, simple, or complete templates to match your plugin's complexity.
 *   [shell-color-prompt-tool (⭐18)](https://github.com/kyletimmermans/shell-color-prompt-tool) - Helps you create a custom prompt for `ZSH` or `bash`.
 *   [shellSpec (⭐1.4k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells.
