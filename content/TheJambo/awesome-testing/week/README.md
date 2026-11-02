@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [mendwright (⭐0)](https://github.com/saadbuilt/mendwright) - Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.
+
+### Software / Test Data Management
+
+*   [Brume (⭐7)](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Software / API Testing
@@ -776,7 +786,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐521k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐529k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐7.1k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐15k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

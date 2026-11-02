@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ [Daily](/content/Piebald-AI/awesome-gemini-cli/README.md) / Weekly / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Education & Study Tools
+
+*   [mock-interview (⭐2)](https://github.com/georgesmomo/mock-interview) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/mock-interview`). Runs a realistic mock job interview for any role, with research on the job and real follow-up questions, then gives an honest score out of 10 and a written report.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Interfaces
@@ -125,7 +131,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [PostEverywhere (⭐0)](https://github.com/posteverywhere/gemini-cli-extension) - Social media scheduler for Gemini CLI. Write, schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, X, Threads, Pinterest and Bluesky, and plan a content calendar. Install with `gemini extensions install https://github.com/posteverywhere/gemini-cli-extension` ([posteverywhere.ai](https://posteverywhere.ai)).
 *   [MoltNode by Chord (⭐1)](https://github.com/tuantqse90/moltnode-mcp) - Gemini CLI extension that connects two hosted MCP servers and a `GEMINI.md` context file: MoltNode for JSON-RPC reads on 31 blockchains, and Chord for DEX swap quotes and unsigned swap transactions on Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain and Arc, plus token boards, candles and wallet PnL. No API key; the agent's own wallet signs every transaction. MIT. Install via `gemini extensions install https://github.com/tuantqse90/moltnode-mcp`.
 *   [Thinking Methods (⭐20)](https://github.com/ysskrishna/ai-agent-skills) - Curated Agent Skills (SKILL.md) for structured thinking on real decisions: five whys, pre-mortem, trade-offs, prioritization, six thinking hats, and twelve more methods plus a selector skill. Install as a Gemini extension (`gemini extensions install https://github.com/ysskrishna/ai-agent-skills`) or skills only (`gemini skills install https://github.com/ysskrishna/ai-agent-skills.git --path skills`). MIT.
-*   [Kuudo Skills (⭐2)](https://github.com/KuudoAI/skills) - Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
+*   [Kuudo Skills (⭐3)](https://github.com/KuudoAI/skills) - Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
 *   [Gemini Safety Net (⭐3)](https://github.com/kenryu42/gemini-safety-net) - Gemini CLI extension that runs [cc-safety-net (⭐1.7k)](https://github.com/kenryu42/cc-safety-net) as a `BeforeTool` hook. It blocks destructive Git and filesystem commands, and reads of secrets such as SSH keys and `.env` files, before Gemini runs the tool call. It parses the command, so wrapped forms such as `bash -c` are also checked. It is not a sandbox. MIT. Install with `gemini extensions install https://github.com/kenryu42/gemini-safety-net`.
 
 ### Development Tools & Utilities
@@ -202,7 +208,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Selvedge (⭐25)](https://github.com/masondelan/selvedge) - Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: `selvedge setup --agent gemini`.
+*   [Selvedge (⭐26)](https://github.com/masondelan/selvedge) - Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: `selvedge setup --agent gemini`.
 *   [Unsora (⭐3)](https://github.com/Shipped-Studio/unsora) - AI content generation and social media scheduling from Gemini CLI: generate images, video, music and voiceovers, clip long videos into short clips, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest. Official open-source MCP server (AGPL-3.0, in `apps/mcp`), hosted as remote Streamable HTTP with OAuth sign-in or an API key. Paid plans from $19/month with a 3-day free trial. Add with: `gemini mcp add --transport http unsora https://mcp.tryunsora.com/mcp`.
 *   [MAQAMI Travel (⭐2)](https://github.com/negm17111995/mcp-server) - Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then send the customer a secure checkout link on book.maqami.co for the offer they choose. Remote Streamable HTTP (`https://mcp.maqami.co/`), no sign-in or API key. Install: `gemini extensions install https://github.com/negm17111995/mcp-server`.
 *   [looot (⭐3)](https://github.com/loootai/looot-mcp) - Remote MCP server (OAuth sign-in) that searches, prices and runs 2,500+ data API endpoints from 90+ providers (emails, phones, company and people search, Google results, web pages) on one prepaid balance. Ships a Gemini CLI extension manifest.

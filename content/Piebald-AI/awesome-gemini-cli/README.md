@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 02, 2026](/content/2026/11/02/README.md)
+
+### Education & Study Tools
+
+*   [mock-interview (⭐2)](https://github.com/georgesmomo/mock-interview) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/mock-interview`). Runs a realistic mock job interview for any role, with research on the job and real follow-up questions, then gives an honest score out of 10 and a written report.
+
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
 ### Commands & Extensions
@@ -185,7 +191,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [Kuudo Skills (⭐2)](https://github.com/KuudoAI/skills) - Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
+*   [Kuudo Skills (⭐3)](https://github.com/KuudoAI/skills) - Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
 *   [Gemini Safety Net (⭐3)](https://github.com/kenryu42/gemini-safety-net) - Gemini CLI extension that runs [cc-safety-net (⭐1.7k)](https://github.com/kenryu42/cc-safety-net) as a `BeforeTool` hook. It blocks destructive Git and filesystem commands, and reads of secrets such as SSH keys and `.env` files, before Gemini runs the tool call. It parses the command, so wrapped forms such as `bash -c` are also checked. It is not a sandbox. MIT. Install with `gemini extensions install https://github.com/kenryu42/gemini-safety-net`.
 
 ### Development Tools & Utilities
@@ -334,7 +340,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Selvedge (⭐25)](https://github.com/masondelan/selvedge) - Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: `selvedge setup --agent gemini`.
+*   [Selvedge (⭐26)](https://github.com/masondelan/selvedge) - Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: `selvedge setup --agent gemini`.
 *   [Unsora (⭐3)](https://github.com/Shipped-Studio/unsora) - AI content generation and social media scheduling from Gemini CLI: generate images, video, music and voiceovers, clip long videos into short clips, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest. Official open-source MCP server (AGPL-3.0, in `apps/mcp`), hosted as remote Streamable HTTP with OAuth sign-in or an API key. Paid plans from $19/month with a 3-day free trial. Add with: `gemini mcp add --transport http unsora https://mcp.tryunsora.com/mcp`.
 *   [looot (⭐3)](https://github.com/loootai/looot-mcp) - Remote MCP server (OAuth sign-in) that searches, prices and runs 2,500+ data API endpoints from 90+ providers (emails, phones, company and people search, Google results, web pages) on one prepaid balance. Ships a Gemini CLI extension manifest.
 *   [BulkPublish (⭐3)](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) - Draft, schedule, cross-post and analyze social media posts on 15 platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more) from Gemini CLI. Hosted Streamable HTTP with OAuth sign-in, or local stdio via `npx -y @bulkpublish/mcp-server` with an API key; free plan available. MIT. Add with: `gemini mcp add --transport http bulkpublish https://mcp.bulkpublish.com/mcp`.

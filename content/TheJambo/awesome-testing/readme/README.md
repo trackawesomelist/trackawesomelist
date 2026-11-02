@@ -163,6 +163,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
 
+*   [mendwright (⭐0)](https://github.com/saadbuilt/mendwright) - Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.
+
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
 
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
@@ -232,6 +234,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [FormFiller test data tools](https://formfillerapp.com/tools/) - Free browser-based generators for fake addresses, identities, IBANs, test card numbers and bulk CSV/JSON/SQL data in 22
     locales.
 *   [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
+*   [Brume (⭐7)](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
 
 ### Browser Extensions & Utilities
 
@@ -361,7 +364,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐521k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐529k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐5k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐7.1k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

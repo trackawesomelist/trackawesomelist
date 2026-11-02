@@ -6,6 +6,32 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Developer Tools / IDEs
+
+*   [Coincide](https://coincide.dev) - Open-source native workspace for coding agents (Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity), where one thread can switch agents mid-conversation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/apoorvdarshan/coincide) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Design and Product / Screenshot Tools
+
+*   [Shutterbar (⭐1)](https://github.com/mucahitimre/Shutterbar) - ShareX-style screenshots with ⌘C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucahitimre/Shutterbar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Design and Product / Other Tools
+
+*   [LumaView](https://ixiehao.github.io/LumaView/en/) - Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/LumaView) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [ShotMap](https://ixiehao.github.io/ShotMap/) - Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/ShotMap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [jdsp4mac (⭐1)](https://github.com/Tekkiech/jdsp4mac) - Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Tekkiech/jdsp4mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Cleanup and Uninstall
+
+*   [ShinyMac (⭐1)](https://github.com/pballada/shinyMac) - Open-source SwiftUI Mac cleaner with one-scan Smart Care, an app uninstaller that finds leftovers, Xcode cleanup, a Space Lens disk map and hidden settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pballada/shinyMac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Reading and Writing Tools / Text Editors
@@ -331,7 +357,7 @@
 
 ### Design and Product / Screen Recording
 
-*   [OpenScreen (⭐4.5k)](https://github.com/getopenscreen/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getopenscreen/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenScreen (⭐5.7k)](https://github.com/getopenscreen/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getopenscreen/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -378,12 +404,12 @@
 
 ### Utilities / General Tools
 
-*   [Panoply (⭐4)](https://github.com/anzal1/panoply) - Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anzal1/panoply) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MagicWall (⭐1)](https://github.com/davidullo/magicwall) - Set local videos as desktop wallpapers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidullo/magicwall)
+*   [Panoply (⭐15)](https://github.com/anzal1/panoply) - Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anzal1/panoply) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MagicWall (⭐8)](https://github.com/davidullo/magicwall) - Set local videos as desktop wallpapers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidullo/magicwall)
 
 ### Utilities / Window Management
 
-*   [mFix (⭐3)](https://github.com/Zingzy/mFix) - Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zingzy/mFix) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mFix (⭐6)](https://github.com/Zingzy/mFix) - Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zingzy/mFix) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Finder Tools
 
@@ -572,7 +598,7 @@
 ### Input Methods / Audio Record and Process
 
 *   [Qingjian 青简](https://qingjian.app/) - Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qingjian-team/qingjian) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [vChewing 唯音 (⭐647)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [vChewing 唯音 (⭐661)](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vChewing/vChewing-macOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -668,7 +694,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Blink (⭐182)](https://github.com/megootronic/Blink) - A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/megootronic/Blink) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Blink (⭐191)](https://github.com/megootronic/Blink) - A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/megootronic/Blink) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / To-Do Lists
 

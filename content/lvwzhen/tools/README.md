@@ -6,6 +6,12 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Nov 02, 2026](/content/2026/11/02/README.md)
+
+### Tools collection
+
+*   [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
+
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Image compression

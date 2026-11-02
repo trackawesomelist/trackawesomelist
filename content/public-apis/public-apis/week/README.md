@@ -6,6 +6,333 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [FindIP MCP (⭐0)](https://github.com/findip-net/findip-mcp)
+
+  Description: IP lookups and FindIP Shield risky-event checks for agents
+
+  Auth: `apiKey`
+
+  Transport: `stdio`
+
+  Install: [Glama](https://glama.ai/mcp/servers/findip-net/findip-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.findip-net/findip-mcp)
+
+
+- Name: [OpenApps](https://theopenapps.com/docs/mcp)
+
+  Description: Rankings, launches and featuring across the ChatGPT, Claude, Cursor and Grok Bot app stores
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: –
+
+
+- Name: [XposedOrNot](https://xposedornot.com/mcp)
+
+  Description: Check an email against known data breaches, read its breach history and get domain breach counts
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Cursor](https://cursor.directory/plugins/xposedornot) · [Glama](https://glama.ai/mcp/connectors/com.xposedornot/xposedornot)
+
+
+
+### Cryptocurrency
+
+- API: [CryptoKeyhole](https://cryptokeyhole.com/data-access/)
+
+  Description: On-chain and market metrics for Bitcoin, Ethereum and more, computed from self-hosted nodes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Kraken](https://docs.kraken.com/exchange/guides/rest/introduction)
+
+  Description: Cryptocurrencies Exchange
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TronOrb](https://tronorb.com/developers/api)
+
+  Description: TRON data: USDT TRC-20 fees, address checks, Tether freezes, dApp and exchange rankings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Crawl Readiness](https://www.crawlreadiness.com)
+
+  Description: Check what 50+ AI crawlers can read on a website and whether a page permits an AI use
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OpenApps](https://theopenapps.com/docs/api)
+
+  Description: Rankings, launches and featuring across the ChatGPT, Claude, Cursor and Grok Bot app stores
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Vetto](https://usevetto.com/docs#domain-lookup)
+
+  Description: Check email domains in bulk for disposable providers and dead domains, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Clear Street](https://docs.clearstreet.com/?utm_source=github\&utm_medium=developer\&utm_campaign=api_listings\&utm_content=public_apis)
+
+  Description: Trade US stocks and options, with market data, fundamentals and account data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+  : 
+
+
+- API: [FundBiz](https://fundbiz.co.uk/data/api/)
+
+  Description: UK specialty business finance lender terms, typical rates and decision times
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [Metal Sentinel](https://metal-sentinel.com/endpoints)
+
+  Description: Live and historical precious and base metal prices in 180+ currencies
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/703795-79e88024-52c6-4fa7-bdbb-c83bc9d4236a)
+
+
+- API: [OpenTaxRate](https://opentaxrate.com)
+
+  Description: US sales tax rates by street address, from the states' own published data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Geocoding
+
+- API: [FindIP](https://www.findip.net/Docs/api-response)
+
+  Description: IP geolocation with VPN, proxy, Tor, datacenter and malicious IP detection, free
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [nu:legal Deutsches Recht](https://recht.nulegal.eu/developers)
+
+  Description: German federal and state statutes and 640,000 court decisions as JSON, with citation links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [CheckWaitingTimes](https://checkwaitingtimes.co.uk/developers)
+
+  Description: NHS England waiting times by hospital and area: planned care, A\&E with live waits, scans, ambulances
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [Fast Data Job Search](https://apify.com/fast_data_asap/job-search-api)
+
+  Description: Jobs from Arbeitsagentur, Arbeitnow, Remote OK and company ATS boards as one deduplicated JSON list
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Siftsmith Company Jobs](https://apify.com/siftsmith/company-jobs/api)
+
+  Description: Open jobs from company career pages on Greenhouse, Lever, Ashby, Workday and more, as JSON or XML
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [YubHub](https://yubhub.co/developers/api-reference/)
+
+  Description: Job listings read from employers' careers pages, with salary, skills and hiring statistics
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Music
+
+- API: [Daydream](https://gen.daydream.live/docs)
+
+  Description: Make instrumental songs with five stems from a description
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Photography
+
+- API: [isGenAI](https://isgenai.com/api)
+
+  Description: Check images, URLs and text for C2PA Content Credentials, AI labels and saved prompts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Text Analysis
+
+- API: [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding)
+
+  Description: Natural language processing for advanced text analysis
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Transportation
+
+- API: [AIS Trail](https://aistrail.com/docs/)
+
+  Description: Live and historical AIS ship positions, vessel search, port calls and events worldwide
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [TieredTravel](https://tieredtravel.com/api-docs)
+
+  Description: Daily travel costs at budget, mid-range and luxury for 100 cities, plus walking routes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Weather
+
+- API: [Hong Kong Observatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
+
+  Description: Provide weather information, earthquake information, and climate data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -384,7 +711,7 @@ A collective list of free APIs
 
   HTTPS: Yes
 
-  CORS: Yes
+  CORS: No
 
 
 - API: [ContextFetch](https://contextfetch.dev/docs)
@@ -623,7 +950,7 @@ A collective list of free APIs
 
   Auth: `apiKey`
 
-  Transport: `HTTP`
+  Transport: `stdio`, `HTTP`
 
   Install: –
 
@@ -738,7 +1065,7 @@ A collective list of free APIs
 
 - API: [Africa Compliance Data](https://africacompliancedata.com/docs)
 
-  Description: Public holidays and business days for all 54 African countries, from official sources
+  Description: Public holidays and business days for African countries, with sources and per-country coverage
 
   Auth: `apiKey`
 
@@ -7267,17 +7594,6 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Crawl Readiness](https://crawlreadiness.com)
-
-  Description: Check if AI crawlers (ChatGPT, Claude, Perplexity, 30+ others) can access any website
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 - API: [GcrawlAI](https://gcrawlai.com)
 
   Description: Web scraping, SERP API, screenshots, URL to Markdown and prebuilt extractors
@@ -8508,6 +8824,20 @@ A collective list of free APIs
 
 
 
+### Personality
+
+- API: [VedIntel™ AstroAPI](https://vedintelastroapi.com/docs)
+
+  Description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Science & Math
 
 - API: [CycleCalcs](https://www.cyclecalcs.com/api.html)
@@ -8515,17 +8845,6 @@ A collective list of free APIs
   Description: Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [VedIntel™ AstroAPI](https://vedintelastroapi.com/docs)
-
-  Description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -9371,7 +9690,7 @@ A collective list of free APIs
 
 - API: [Odds-API](https://docs.odds-api.io)
 
-  Description: Real-time sports betting odds from 365+ bookmakers across 34 sports via REST and WebSocket
+  Description: Real-time sports betting odds from 415+ bookmakers across 34 sports via REST and WebSocket
 
   Auth: `apiKey`
 
@@ -10410,7 +10729,7 @@ A collective list of free APIs
 
 - API: [Systembolaget](https://api-portal.systembolaget.se)
 
-  Description: Govornment owned liqour store in Sweden
+  Description: Government owned liquor store in Sweden
 
   Auth: `apiKey`
 
@@ -19114,17 +19433,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Kraken](https://docs.kraken.com/rest/)
-
-  Description: Cryptocurrencies Exchange
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 - API: [ZMOK](https://zmok.io)
 
   Description: Ethereum JSON RPC API and Web3 provider
@@ -20296,17 +20604,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
-
-  Description: Provide weather information, earthquake information, and climate data
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
 
 
 
@@ -24148,20 +24445,6 @@ A collective list of free APIs
   Auth: No
 
   HTTPS: No
-
-  CORS: Unknown
-
-
-
-### Text Analysis
-
-- API: [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding)
-
-  Description: Natural language processing for advanced text analysis
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
 
   CORS: Unknown
 

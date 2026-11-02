@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Monitoring
+
+*   [PingWise](https://pingwise.com/) - Quorum-based uptime monitoring, using 15 probes in 6 different continents. Pricing is credit based, offering 650,000 free checks per month (translates to 75 free monitors at 5-minute checks). No credit card, unlimited users.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### APIs, Data, and ML
