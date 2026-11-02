@@ -6,6 +6,16 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Infrastructure Monitoring
+
+*   [Kilobat](https://kilobat.app/students) \[FREE] - macOS network monitoring app; eligible students aged 13+ get one year of Pro for two Macs with a school email, renewable while studying.
+
+### Software Packs
+
+*   [Student AI Deals](https://aifree.dev/student-ai-deals) \[FREE] - A verified list of AI tools and credits students can get free with a student email or GitHub Education, such as Copilot Pro, Azure for Students and JetBrains, with the exact requirements for each.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Software Packs

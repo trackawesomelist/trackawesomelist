@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Nov 02, 2026](/content/2026/11/02/README.md)
+
+### Tools / Platforms
+
+*   [Buddy](https://buddy.works) - Hosted CI/CD platform with native OpenTofu and Terraform plan, apply, and drift-detection actions, approval gates, and locked state storage.
+
 ## [Oct 25, 2026](/content/2026/10/25/README.md)
 
 ### Tools / Wrappers

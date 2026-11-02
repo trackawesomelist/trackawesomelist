@@ -11,6 +11,19 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [PingWise](https://pingwise.com/) - Quorum-based uptime monitoring, using 15 probes in 6 different continents. Pricing is credit based, offering 650,000 free checks per month (translates to 75 free monitors at 5-minute checks). No credit card, unlimited users.
+*   [RealUptime](https://realuptime.io) - Uptime checks from 4 regions every 3 minutes, a public status page with 100 subscribers, and API, CLI, Terraform and MCP access. Free for 10 monitors, commercial use allowed, no card required.
+
+### Crash and Exception Handling
+
+*   [RealUptime Errors](https://realuptime.io/errors) - Error tracking that works with Sentry SDKs. Free for 10,000 events a month with 14-day retention; past the cap, events are refused and counted, never billed.
+
+### Analytics, Events and Statistics
+
+*   [Datasense](https://usedatasense.com/) - Web analytics with JavaScript error tracking, goals, and revenue attribution. Free plan: 1 site, 5,000 events per month.
+
+### Screenshot APIs
+
+*   [Shotlane](https://shotlane.dev) - Screenshots, clean Markdown and PDFs of any web page, rendered in current Chrome. Hide cookie banners, ads and other popups and many more options. A free account gives you 100 credits per month, no card required.
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 

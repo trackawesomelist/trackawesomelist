@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.8K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.9K · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐1.9k)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -165,6 +165,7 @@ For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome
 
 *Continuous Integration/Delivery.*
 
+*   [Buddy](https://buddy.works) - CI/CD pipelines, sandbox VMs, hosting and git repositories for AI coding agents.
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 *   [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
@@ -484,6 +485,7 @@ For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome
 
 *   [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 *   [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
+*   [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.
 *   [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 *   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 *   [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
@@ -494,6 +496,7 @@ For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome
 *Fetching data from websites not via an intended API.*
 
 *   [Apify](https://apify.com/) - Turn websites to an API.
+*   [Browser Use](https://browser-use.com) - Cloud browsers and web agents for AI, controlled over API, SDK or CDP. [![Browser Use](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browser-use/browser-use)
 *   [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 *   [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
@@ -559,5 +562,5 @@ For the latest additions [click here (⭐1.8k)](https://github.com/agamm/awesome
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐1.8k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐1.9k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

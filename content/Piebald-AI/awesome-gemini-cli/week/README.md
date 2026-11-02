@@ -8,9 +8,22 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### Agent Orchestration & CLI Tools
+
+*   [Joxo](https://joxo.ai?utm_source=awesome-gemini-cli\&utm_medium=referral) - Shared project for a team's coding agents. Start Gemini CLI with `joxo gemini` and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.
+*   [EndoStack (⭐3)](https://github.com/requie/endostack) - Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.
+
+### Commands & Extensions
+
+*   [Ponder (⭐3)](https://github.com/Quinnod345/ponder) - Gemini CLI extension and Agent Skill for multi-pass deliberation and code review: grades every file or document across 6 dimensions, runs four adversarial perspectives (skeptic, builder, dreamer, empath), and blocks early stopping until coverage reaches 1.00 and churn converges below 0.02 across two consecutive passes. Zero runtime dependencies, MIT. Install with `gemini extensions install https://github.com/Quinnod345/ponder` or `npx skills add Quinnod345/ponder -y -a gemini-cli`.
+
 ### Education & Study Tools
 
 *   [mock-interview (⭐2)](https://github.com/georgesmomo/mock-interview) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/mock-interview`). Runs a realistic mock job interview for any role, with research on the job and real follow-up questions, then gives an honest score out of 10 and a written report.
+
+### MCP Servers
+
+*   [mach-gtm-mcp (⭐1)](https://github.com/verma6uc/mach-gtm-mcp) - Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch sequences. Human approval required before any message is sent. Works with Gemini CLI and any MCP client. Install: `npx mach-gtm-mcp`.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 

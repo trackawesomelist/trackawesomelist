@@ -328,6 +328,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [HoneyBadger](https://education.github.com/pack)\[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
+*   [Kilobat](https://kilobat.app/students) \[FREE] - macOS network monitoring app; eligible students aged 13+ get one year of Pro for two Macs with a school email, renewable while studying.
+
 ## Software Packs
 
 *   [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) \[FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
@@ -341,6 +343,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Github Student Developer Pack](https://education.github.com/pack/) \[FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
 *   [freEDU](https://www.freedu.net/) \[FREE] - Directory of 147 free and discounted student offers (software, hosting, domains, learning tools), each checked and linked to the step-by-step way to claim it.
+
+*   [Student AI Deals](https://aifree.dev/student-ai-deals) \[FREE] - A verified list of AI tools and credits students can get free with a student email or GitHub Education, such as Copilot Pro, Azure for Students and JetBrains, with the exact requirements for each.
 
 ## Learning Resources
 

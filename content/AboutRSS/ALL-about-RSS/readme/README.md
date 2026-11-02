@@ -26,7 +26,7 @@ This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every 
 [![](https://img.shields.io/badge/dynamic/json?color=blue\&label=%40AboutRSS\&query=data.totalSubs\&suffix=%20subscribers\&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss\&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/%40AboutRSS-3k%2B%20followers-blue?style=flat\&logo=x)](https://twitter.com/aboutrss)[![Mastodon Follow](https://img.shields.io/mastodon/follow/112182603993100821?domain=https%3A%2F%2Fmastodon.social\&style=flat\&logo=mastodon\&color=blue)](https://mastodon.social/@AboutRSS)
 ![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub)
 
-Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an *Awesome list*. Any service/tool that functions well and is maintained well can be listed here.
+Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an *Awesome list*. Any service/tool that functions well and is maintained well can be listed here.
 
 ***
 
@@ -695,7 +695,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [EAF RSS (⭐23)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software][oss icon]](https://github.com/emacs-eaf/eaf-rss-reader)
 *   [Syndicationd (⭐155)](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust <sup>[1461](https://t.me/s/aboutrss/1461)</sup> [![Open-Source Software][oss icon]](https://github.com/ymgyt/syndicationd)![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
 *   [Cleed (⭐212)](https://github.com/radulucut/cleed) [![Open-Source Software][oss icon]](https://github.com/radulucut/cleed)![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
-*   [feed.nvim - Neovim Web Feed Reader (⭐206)](https://github.com/neo451/feed.nvim) [![Open-Source Software][oss icon]](https://github.com/neo451/feed.nvim)
+*   [feed.nvim - Neovim Web Feed Reader (⭐208)](https://github.com/neo451/feed.nvim) [![Open-Source Software][oss icon]](https://github.com/neo451/feed.nvim)
 *   [eilmeldung (⭐1k)](https://github.com/christo-auer/eilmeldung) [![Open-Source Software][oss icon]](https://github.com/christo-auer/eilmeldung) ![Linux][Linux icon]![Mac][Mac icon]
 
 ### RSS services powered by utilizing GitHub
@@ -1489,6 +1489,7 @@ Inspired by [Awesome lists (⭐521k)](https://github.com/sindresorhus/awesome) a
 *   [PushEngage](https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [BalloonRSS](https://embyt.github.io/balloonrss/index.html) <sup>[851](https://t.me/s/aboutrss/851)</sup> [![Windows][Windows icon]](https://embyt.github.io/balloonrss/download.html)[![Open-Source Software][oss icon]](https://github.com/embyt/balloonrss)![Freeware][freeware icon]
 *   [INK RSS](https://channel.1nk.workers.dev/channel) <sup>[1078](https://t.me/s/aboutrss/1078)</sup> [![Open-Source Software][oss icon]](https://github.com/pureink/inkrss)![Freeware][freeware icon]
+*   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) : self-hosted news monitor that uses an LLM to only notify on genuinely new information [![Open-Source Software][oss icon]](https://github.com/0xzerolight/topic_watch)![Freeware][freeware icon]![AI][AI icon]
 
 #### Webpage Monitor Services with capability of monitoring RSS Feed <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
@@ -1814,6 +1815,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 *   [PrimitivesFeed (⭐37)](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software][oss icon]](https://github.com/PrimitivesLane/PrimitivesFeed)
 *   [Bitcoin RSS Feeds](https://bc1984.com/bitcoin-rss-feeds/) <sup>[1143](https://t.me/s/aboutrss/1143)</sup>
 *   [Kiwi News](https://news.kiwistand.com/): community-curated crypto and Ethereum links, also published as a [feed](https://news.kiwistand.com/feed.xml) [![Open-Source Software][oss icon]](https://github.com/attestate/kiwistand)
+*   [RealMarketFeed](https://rss.realmarketapi.com/): a curated directory of trading news feeds (crypto, forex, stocks, macro), with an [OPML file](https://rss.realmarketapi.com/opml.xml) of every feed and a combined [feed](https://rss.realmarketapi.com/feed.xml) [![Open-Source Software][oss icon]](https://github.com/Phideround/RealMarketFeed)
 
 ### Multi-subject
 

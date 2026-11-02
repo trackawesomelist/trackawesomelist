@@ -6,6 +6,45 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Resources / External Resources
+
+*   [FrontendAtlas Vue Interview Questions](https://frontendatlas.com/vue/interview-questions) - Vue interview questions with explained answers and runnable examples; free to read, some coding exercises are paid.
+
+### Projects Using Vue.js / Open Source
+
+*   [Oxynote (⭐475)](https://github.com/oxynote/oxynote) - Self-hosted collaborative documentation built with Nuxt 4, Tiptap and Yjs: live Prometheus charts as editor blocks, draft reviews with visual diffs, and an Electron desktop build.
+*   [EdgeChat (⭐1.4k)](https://github.com/aozorae/Edgechat) - Open-source team chat built with Vue 3, Vite, and Cloudflare Workers, with group and direct messages, Telegram bridging, file sharing, and WebRTC voice calls.
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Beekeeper Studio](https://www.beekeeperstudio.io) - Cross-platform SQL editor and database client built with Vue.js and Electron, with a free open-source Community Edition.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [A11yKit](https://a11ykit.site) - 15 free, client-side web accessibility and WCAG 2.2 testing tools with zero code uploads.
+*   [Remove Audio Tools](https://remove-audio.com/tools) - Over 30 free browser tools for video and audio (convert, compress, extract MP3, make GIFs, separate voice and music with AI) that process files on the device with FFmpeg.wasm and WebGPU. Built with Nuxt and Vue.
+
+### Components & Libraries / Frameworks
+
+*   [OpenVue (⭐422)](https://github.com/openvi-foundation/openvue) - MIT-licensed Vue 3 UI component library with a complete set of themable components, forked from PrimeVue 4.5.5.
+
+### Components & Libraries / UI Components
+
+*   [TradeCanvas (⭐28)](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
+*   [File Viewer (⭐2.6k)](https://github.com/flyfish-dev/file-viewer) - Vue 3 file-preview component with lazy renderer presets covering 275 registered extensions, including experimental formats, across Office, PDF, CAD, 3D models, and archives.
+*   [kritzel (⭐5)](https://github.com/kasual1/kritzel) - Infinite canvas component library for Vue.
+
+### Components & Libraries / Utilities
+
+*   [Lingui](https://lingui.dev/tutorials/vue) - Internationalization for Vue 3. Write messages in plain language right in your templates, and Lingui takes care of the rest.
+*   [vue-qs (⭐25)](https://github.com/iamsomraj/vue-qs) - Type-safe URL query state for Vue 3 and Nuxt, a port of nuqs. Writable refs synced with the search params, with typed parsers, batching and throttling.
+
+### Components & Libraries / Dev Tools
+
+*   [vue-why-render (⭐12)](https://github.com/dadashi44/vue-why-render) - shows why Vue 3 components re-render: highlights renders on the page and names the cause (props, state, Pinia stores, route changes, computeds), with a panel and a Nuxt module.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Components & Libraries / UI Components
@@ -384,7 +423,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [PocketMocker (⭐525)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
+*   [PocketMocker (⭐524)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 
 ## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
 
@@ -813,7 +852,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vite (⭐83k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐84k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [electron-vite-vue (⭐4.9k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
@@ -966,7 +1005,7 @@
 
 *   [tanstack-table (⭐29k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐23)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐325)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐326)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐37)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -1101,10 +1140,6 @@
 *   [vuetify-resize-drawer (⭐33)](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
-
-### Projects Using Vue.js / Commercial Products
-
-*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 
 ### Components & Libraries / UI Components
 
@@ -1611,10 +1646,6 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Aimeos (⭐5.5k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 
 ### Components & Libraries / Frameworks
 
@@ -2179,7 +2210,6 @@
 *   [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
 *   [Pragmatic v2.0](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js and Element.
 *   [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
-*   [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
 *   [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
 *   [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
 *   [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave.
@@ -2236,7 +2266,6 @@
 *   [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
 *   [27.ua](https://27.ua) - Ukraine-based internet hypermarket
 *   [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
-*   [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
 *   [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 *   [9GAG](https://9gag.com) - Popular online platform and social media website
 *   [Kitchen Stories](https://kitchenstories.io) - Cooking platform
@@ -2294,7 +2323,6 @@
 *   [Todo DEV (⭐90)](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
 *   [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 *   [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
-*   [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 *   [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 
 ### Projects Using Vue.js / Interactive Experiences
@@ -2323,7 +2351,6 @@
 *   Hunliji
 *   [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
 *   [ZenMate](https://zenmate.com)
-*   [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
 *   [Storyblok](https://app.storyblok.com)
 *   [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
 *   [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
@@ -2964,7 +2991,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐381)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐379)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 

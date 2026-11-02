@@ -2,9 +2,23 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.8K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.9K · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Nov 02, 2026](/content/2026/11/02/README.md)
+
+### CI/CD
+
+*   [Buddy](https://buddy.works) - CI/CD pipelines, sandbox VMs, hosting and git repositories for AI coding agents.
+
+### Reports Generation
+
+*   [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.
+
+### Scraping
+
+*   [Browser Use](https://browser-use.com) - Cloud browsers and web agents for AI, controlled over API, SDK or CDP. [![Browser Use](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browser-use/browser-use)
 
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
