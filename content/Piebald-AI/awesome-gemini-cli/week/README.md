@@ -12,6 +12,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [Joxo](https://joxo.ai?utm_source=awesome-gemini-cli\&utm_medium=referral) - Shared project for a team's coding agents. Start Gemini CLI with `joxo gemini` and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.
 *   [EndoStack (⭐3)](https://github.com/requie/endostack) - Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.
+*   [Preloop (⭐85)](https://github.com/preloop/preloop) - Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.
 
 ### Commands & Extensions
 
@@ -91,13 +92,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [US Watchlist Alerts (⭐2)](https://github.com/eli-alvarado/us-watchlist-alerts) - Agent Skills (SKILL.md) for a US stock watchlist: NYSE-aware, de-duplicated price alerts (levels, % moves, gaps, 52-week highs/lows, MA crosses, RSI, earnings) and morning/close briefs. Stdlib Python, no API key, never places trades. MIT. Install with `npx skills add eli-alvarado/us-watchlist-alerts -y -a gemini-cli`.
+*   [US Watchlist Alerts (⭐4)](https://github.com/eli-alvarado/us-watchlist-alerts) - Agent Skills (SKILL.md) for a US stock watchlist: NYSE-aware, de-duplicated price alerts (levels, % moves, gaps, 52-week highs/lows, MA crosses, RSI, earnings) and morning/close briefs. Stdlib Python, no API key, never places trades. MIT. Install with `npx skills add eli-alvarado/us-watchlist-alerts -y -a gemini-cli`.
 *   [Dex (⭐92)](https://github.com/exmergo/dex) - Gemini CLI extension with three Agent Skills for analytics engineering: explore a warehouse or DuckDB file read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift. Install with `gemini extensions install https://github.com/exmergo/dex`; needs `uv`.
 
 ### Development Tools & Utilities
 
-*   [ChatVault (⭐26)](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
-*   [laya-guard (⭐30)](https://github.com/scs0209/laya-guard) - Local guardrail with a `BeforeTool` hook for Gemini CLI (`laya-guard install gemini-cli`) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.
+*   [ChatVault (⭐82)](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
+*   [laya-guard (⭐37)](https://github.com/scs0209/laya-guard) - Local guardrail with a `BeforeTool` hook for Gemini CLI (`laya-guard install gemini-cli`) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.
 *   [ratchet (⭐3)](https://github.com/krishansubudhi/ratchet) - Code-size budget CLI (`pip install ratchet-size`): `ratchet check` refuses changes that grow source or test line counts past a ceiling, and only `ratchet grant` raises it. For Gemini CLI it is wired through a `GEMINI.md` instruction snippet (no hook); a CI check or git pre-commit hook enforces it.
 *   [OpenMoat (⭐2)](https://github.com/crocodile-labs/openmoat) - Local policy layer with a `BeforeTool` hook for Gemini CLI (`openmoat init`) that checks every shell command, file read and write, web request and MCP call against one policy before it runs, blocking what the policy denies. Adds an egress proxy, MCP server pinning and a hash-chained audit log, and the same policy covers Claude Code, Codex, Cursor and other agents. Rust, MIT OR Apache-2.0.
 
@@ -145,7 +146,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [MoltNode by Chord (⭐1)](https://github.com/tuantqse90/moltnode-mcp) - Gemini CLI extension that connects two hosted MCP servers and a `GEMINI.md` context file: MoltNode for JSON-RPC reads on 31 blockchains, and Chord for DEX swap quotes and unsigned swap transactions on Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain and Arc, plus token boards, candles and wallet PnL. No API key; the agent's own wallet signs every transaction. MIT. Install via `gemini extensions install https://github.com/tuantqse90/moltnode-mcp`.
 *   [Thinking Methods (⭐20)](https://github.com/ysskrishna/ai-agent-skills) - Curated Agent Skills (SKILL.md) for structured thinking on real decisions: five whys, pre-mortem, trade-offs, prioritization, six thinking hats, and twelve more methods plus a selector skill. Install as a Gemini extension (`gemini extensions install https://github.com/ysskrishna/ai-agent-skills`) or skills only (`gemini skills install https://github.com/ysskrishna/ai-agent-skills.git --path skills`). MIT.
 *   [Kuudo Skills (⭐3)](https://github.com/KuudoAI/skills) - Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
-*   [Gemini Safety Net (⭐3)](https://github.com/kenryu42/gemini-safety-net) - Gemini CLI extension that runs [cc-safety-net (⭐1.7k)](https://github.com/kenryu42/cc-safety-net) as a `BeforeTool` hook. It blocks destructive Git and filesystem commands, and reads of secrets such as SSH keys and `.env` files, before Gemini runs the tool call. It parses the command, so wrapped forms such as `bash -c` are also checked. It is not a sandbox. MIT. Install with `gemini extensions install https://github.com/kenryu42/gemini-safety-net`.
+*   [Gemini Safety Net (⭐3)](https://github.com/kenryu42/gemini-safety-net) - Gemini CLI extension that runs [cc-safety-net (⭐1.9k)](https://github.com/kenryu42/cc-safety-net) as a `BeforeTool` hook. It blocks destructive Git and filesystem commands, and reads of secrets such as SSH keys and `.env` files, before Gemini runs the tool call. It parses the command, so wrapped forms such as `bash -c` are also checked. It is not a sandbox. MIT. Install with `gemini extensions install https://github.com/kenryu42/gemini-safety-net`.
 
 ### Development Tools & Utilities
 
@@ -236,13 +237,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [agent-manager (⭐603)](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Gemini CLI alongside Claude Code, Codex, OpenCode and other coding-agent CLIs, each in its own persistent tmux session. One list shows every session's live status, prompts go into a pane without attaching, a session can spawn into its own Git worktree, and a full-file diff review sends line comments back to the agent. Launches your installed Gemini CLI unmodified, so login, config and MCP servers carry over. macOS, Linux and Windows via WSL2. Apache-2.0.
+*   [agent-manager (⭐632)](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Gemini CLI alongside Claude Code, Codex, OpenCode and other coding-agent CLIs, each in its own persistent tmux session. One list shows every session's live status, prompts go into a pane without attaching, a session can spawn into its own Git worktree, and a full-file diff review sends line comments back to the agent. Launches your installed Gemini CLI unmodified, so login, config and MCP servers carry over. macOS, Linux and Windows via WSL2. Apache-2.0.
 
 ### Commands & Extensions
 
 *   [Better Design (⭐1)](https://github.com/better-designs/better-design-plugin) - Gemini CLI extension that connects the Better Design MCP server: design systems, UI and UX principles, icons and UI review for the interfaces the agent builds. Install with `gemini extensions install https://github.com/better-designs/better-design-plugin`; sign in with a free account on first connect.
 *   [dejavu (⭐14)](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
-*   [PlaceCall (⭐93)](https://github.com/voygr-tech/placecall) - Gemini CLI extension (skill + remote MCP server) that places real outbound phone calls to US businesses for bookings, inquiries and quotes, and returns the outcome and transcript. Paid API. Install: `gemini extensions install https://github.com/voygr-tech/placecall`.
+*   [PlaceCall (⭐110)](https://github.com/voygr-tech/placecall) - Gemini CLI extension (skill + remote MCP server) that places real outbound phone calls to US businesses for bookings, inquiries and quotes, and returns the outcome and transcript. Paid API. Install: `gemini extensions install https://github.com/voygr-tech/placecall`.
 *   [8B AI Website Builder (⭐2)](https://github.com/8bsite/8b-agent-plugin) - Gemini CLI extension that builds an animated one-page website: the agent picks an 8B generated design, writes the copy and returns a preview link, plain-word edits and one HTML file. Remote MCP `https://mcp.8b.com/mcp`, no account or API key. Install: `gemini extensions install https://github.com/8bsite/8b-agent-plugin`.
 *   [Supercov (⭐157)](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents. Gemini CLI extension that runs the project's existing tests, measures line, branch and MC/DC coverage, and hands Gemini the untested code to test next. Install with `gemini extensions install https://github.com/supercorp-ai/supercov`.
 
@@ -254,12 +255,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Education & Study Tools
 
-*   [Exam Cram Coach (⭐309)](https://github.com/ZeKaiNie/universal-examprep-skill) - Agent Skill for exam prep that runs in Gemini CLI and other agents (`npx skills add ZeKaiNie/universal-examprep-skill`). Teaches from a student's own lecture slides, notes and past papers with file and page citations, crops figures from the PDFs, quizzes only from their homework and past papers, and keeps progress across sessions. English and Chinese.
+*   [Exam Cram Coach (⭐365)](https://github.com/ZeKaiNie/universal-examprep-skill) - Agent Skill for exam prep that runs in Gemini CLI and other agents (`npx skills add ZeKaiNie/universal-examprep-skill`). Teaches from a student's own lecture slides, notes and past papers with file and page citations, crops figures from the PDFs, quizzes only from their homework and past papers, and keeps progress across sessions. English and Chinese.
 
 ### MCP Servers
 
 *   [Hyperconsciousness (⭐8)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and stdio MCP server. Gives agents scoped, expiring access to notes and supports device sync. MIT licensed.
-*   [Bestax (⭐12)](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
+*   [Bestax (⭐14)](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
 *   [Court Rules (⭐4)](https://github.com/foklepoint/court-rules-mcp) - U.S. federal court rules, local rules, judge standing orders and court holidays with filing deadline checks, over a hosted MCP server. Install: `gemini extensions install https://github.com/foklepoint/court-rules-mcp`.
 *   [Connections (⭐1)](https://github.com/Lunarwerx/connections-gemini-extension) - Work a free Connections contact book, follow-ups, ticketed event pages, notes and email from Gemini CLI; no card needed for the account. Remote Streamable HTTP MCP server with OAuth sign-in at `https://studio.connections.icu/v1/mcp`. Install: `gemini extensions install https://github.com/Lunarwerx/connections-gemini-extension`.
 
@@ -297,7 +298,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [ru-text (⭐268)](https://github.com/talkstream/ru-text) - Russian text quality — \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
+*   [ru-text (⭐286)](https://github.com/talkstream/ru-text) - Russian text quality — \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
 *   [AIHawk (⭐32k)](https://github.com/feder-cr/AIHawk) - Gives Gemini CLI a real Firefox to drive from plain-English instructions: opens pages, clicks, types, reads and screenshots through the real pointer and keyboard. Open source, MIT. Install via `gemini extensions install https://github.com/feder-cr/AIHawk`.
 *   [kgai (⭐1)](https://github.com/kgaidev/kgai-gemini) - Shared decision memory for AI dev teams: your agent records why the code changed (and the dead ends it ruled out), recalls it before the next edit, and syncs it across the team without merge conflicts. Local-first, immutable, engine installs itself on first run.
 *   [isitdone (⭐1)](https://github.com/raimondasl/isitdone-gemini) - Gemini CLI extension that refuses to let the agent end its turn claiming "done" until the repository's real test, typecheck and lint commands pass. An `AfterAgent` hook runs them on the exact working tree and feeds the failing output back; an `AfterTool` hook warns when an edit weakened a test. No LLM calls, no network. Install via `gemini extensions install https://github.com/raimondasl/isitdone-gemini`.
@@ -306,7 +307,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [tldr (⭐11)](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports. Ships a Gemini CLI extension.
+*   [tldr (⭐12)](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports. Ships a Gemini CLI extension.
 *   [OpenFiles](https://github.com/devgiordane/openfiles) - VS Code extension (also on Open VSX for Cursor, Windsurf and VSCodium) that opens every file Gemini CLI edits so ESLint, TypeScript and other language servers check it, then returns the problems to Gemini CLI through an `AfterTool` hook in the same turn. Also works with Claude Code, Codex, Copilot and Cursor. MIT.
 *   [Hermes Jailbench (⭐12)](https://github.com/hermes-labs-ai/hermes-jailbench) - Repeatable jailbreak test harness for Anthropic/OpenAI-compatible endpoints. It emits deterministic refusal/partial/compliance classifications and includes a no-key dry-run and Gemini CLI extension.
 
@@ -316,8 +317,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [squirrelscan (⭐286)](https://github.com/squirrelscan/squirrelscan) - Website audit MCP server for coding agents: run audits, read reports, and fix findings from Gemini CLI or any MCP client. 260+ rules across SEO, performance, security, accessibility, and agent experience, with fixes mapped to source. MIT CLI with a local stdio server (`squirrel mcp`) or hosted Remote MCP with OAuth: `gemini mcp add --transport http squirrelscan https://mcp.squirrelscan.com/mcp`.
-*   [Glasser (⭐1)](https://github.com/glasser-ai/plugins) - One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: `gemini mcp add --transport http glasser "https://api.glasser.ai/mcp?utm_source=awesome-gemini-cli&utm_medium=mcp"`.
+*   [squirrelscan (⭐304)](https://github.com/squirrelscan/squirrelscan) - Website audit MCP server for coding agents: run audits, read reports, and fix findings from Gemini CLI or any MCP client. 260+ rules across SEO, performance, security, accessibility, and agent experience, with fixes mapped to source. MIT CLI with a local stdio server (`squirrel mcp`) or hosted Remote MCP with OAuth: `gemini mcp add --transport http squirrelscan https://mcp.squirrelscan.com/mcp`.
+*   [Glasser (⭐2)](https://github.com/glasser-ai/plugins) - One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: `gemini mcp add --transport http glasser "https://api.glasser.ai/mcp?utm_source=awesome-gemini-cli&utm_medium=mcp"`.
 *   [Minds (⭐4)](https://github.com/minds-ai-co/minds-mcp) - Synthetic market research: create AI audiences, interview them and run studies such as MaxDiff, conjoint and NPS. Remote MCP server with OAuth; installable as a Gemini CLI extension.
 
 ## [Sep 14 - Sep 20, 2026](/content/2026/37/README.md)
@@ -325,7 +326,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Commands & Extensions
 
 *   [iOS Agent Skill (⭐40)](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
-*   [LintLang (⭐142)](https://github.com/hermes-labs-ai/lintlang) - Static linter and Gemini CLI extension for agent instructions, tool descriptions, and prompt configuration.
+*   [LintLang (⭐144)](https://github.com/hermes-labs-ai/lintlang) - Static linter and Gemini CLI extension for agent instructions, tool descriptions, and prompt configuration.
 *   [Cohesivity (⭐1)](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 
 ### MCP Servers
@@ -354,7 +355,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [godmode (⭐26)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
+*   [godmode (⭐27)](https://github.com/arbazkhan971/godmode) - Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.
 
 ### Commands & Extensions
 
@@ -364,7 +365,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [CLIProxyAPI (⭐56k)](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
+*   [CLIProxyAPI (⭐57k)](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
 
 ### MCP Servers
 
@@ -384,12 +385,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Hexis (⭐116)](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.
+*   [Hexis (⭐122)](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.
 
 ### MCP Servers
 
 *   [RunAPI MCP (⭐56)](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
-*   [Lians (⭐16)](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
+*   [Lians (⭐17)](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 *   [LWC (⭐68)](https://github.com/JanYork/llm-wiki-cli) - Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (`lwc serve --mcp`). Apache-2.0.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
@@ -402,7 +403,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [emem (⭐71)](https://github.com/Vortx-AI/emem) - Shared, signed and content-addressed memory of the physical world that AI agents can read, cite, transfer and independently verify. 108 tools, no API key, no signup. Remote Streamable HTTP. Install: `gemini extensions install https://emem.dev/gemini-extension.json`.
+*   [emem (⭐89)](https://github.com/Vortx-AI/emem) - Shared, signed and content-addressed memory of the physical world that AI agents can read, cite, transfer and independently verify. 108 tools, no API key, no signup. Remote Streamable HTTP. Install: `gemini extensions install https://emem.dev/gemini-extension.json`.
 *   [GoodMemory (⭐20)](https://github.com/hjqcan/GoodMemory) - Local-first durable memory for Gemini CLI through standalone MCP, with scoped recall, provenance and trace inspection, and explicit forgetting. Read-only by default with opt-in governed writes; install with `npm install -g goodmemory@0.7.5` and follow the [Gemini CLI setup guide (⭐20)](https://github.com/hjqcan/GoodMemory/blob/main/docs/GoodMemory-Gemini-CLI-Setup-Guide.md).
 
 ## [Jul 27 - Aug 02, 2026](/content/2026/30/README.md)
@@ -446,7 +447,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Pluribus (⭐14)](https://github.com/caioribeiroclw-pixel/pluribus) - Sync one canonical project context into native AI coding-agent rule files, including Gemini CLI `GEMINI.md`, Claude Code `CLAUDE.md`/`AGENTS.md`, Cursor, Cline, Roo Code, Amazon Q, Junie, Warp, Copilot, Windsurf, Continue, Zed, OpenCode, and OpenClaw.
+*   [Pluribus (⭐15)](https://github.com/caioribeiroclw-pixel/pluribus) - Sync one canonical project context into native AI coding-agent rule files, including Gemini CLI `GEMINI.md`, Claude Code `CLAUDE.md`/`AGENTS.md`, Cursor, Cline, Roo Code, Amazon Q, Junie, Warp, Copilot, Windsurf, Continue, Zed, OpenCode, and OpenClaw.
 
 ### MCP Servers
 

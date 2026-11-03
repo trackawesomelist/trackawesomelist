@@ -6,6 +6,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 [ Daily / [Weekly](/content/kakoni/awesome-healthcare/week/README.md) / [Overview](/content/kakoni/awesome-healthcare/readme/README.md) ]
 
+## [Nov 03, 2026](/content/2026/11/03/README.md)
+
+### Contents / Libraries
+
+*   [HealthChain (⭐230)](https://github.com/healthchainai/HealthChain) - Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.
+
+### Contents / Machine learning
+
+*   [Odyssey (⭐63)](https://github.com/VectorInstitute/odyssey) - Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
 ### Contents / EHR
@@ -14,7 +24,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [Beda EMR (⭐132)](https://github.com/beda-software/fhir-emr) - EMR built natively on FHIR.
 *   [BHIMA (⭐234)](https://github.com/third-culture-software/bhima) - Hospital information and accounting system for rural hospitals.
 *   [CARE (⭐418)](https://github.com/ohcnetwork/care) - Digital public good for hospital administration and decentralized patient care.
-*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
 *   [HasteHealth](https://haste.health) - Scalable clinical data repository.
 *   [Marley (⭐555)](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
@@ -40,7 +50,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 
 ### Contents / Laboratory
 

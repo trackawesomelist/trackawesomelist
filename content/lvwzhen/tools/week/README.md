@@ -8,6 +8,10 @@ Tools Online
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### UI Builders
+
+*   [Particle Logo](https://particlelogo.com) - Turn a logo into a particle animation in the browser, then export dependency-free HTML, Vue 3 and React components, or video and GIF.
+
 ### Tools collection
 
 *   [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.

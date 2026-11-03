@@ -14,7 +14,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [Beda EMR (⭐132)](https://github.com/beda-software/fhir-emr) - EMR built natively on FHIR.
 *   [BHIMA (⭐234)](https://github.com/third-culture-software/bhima) - Hospital information and accounting system for rural hospitals.
 *   [CARE (⭐418)](https://github.com/ohcnetwork/care) - Digital public good for hospital administration and decentralized patient care.
-*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
 *   [HasteHealth](https://haste.health) - Scalable clinical data repository.
 *   [Marley (⭐555)](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
@@ -40,7 +40,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 
 ### Contents / Laboratory
 
@@ -60,6 +60,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [dicom-rs (⭐570)](https://github.com/Enet4/dicom-rs) - Rust implementation of the DICOM standard.
 *   [fhir.resources (⭐543)](https://github.com/nazrulworld/fhir.resources) - Pydantic-based FHIR resource models for Python.
 *   [fhir-py (⭐218)](https://github.com/beda-software/fhir-py) - Async and sync FHIR client for Python.
+*   [HealthChain (⭐230)](https://github.com/healthchainai/HealthChain) - Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.
 *   [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
 *   [nHapi (⭐313)](https://github.com/nHapiNET/nHapi) - .NET port of the HAPI HL7 v2 library.
 *   [nhs-number (⭐6)](https://github.com/wardle/nhs-number) - A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers
@@ -118,6 +119,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Contents / Machine learning
 
 *   [nnU-Net (⭐9k)](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning framework for biomedical image segmentation.
+*   [Odyssey (⭐63)](https://github.com/VectorInstitute/odyssey) - Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.
 *   [OpenMed (⭐5.8k)](https://github.com/maziyarpanahi/openmed) - Local clinical named-entity recognition and PHI de-identification models.
 *   [PathML (⭐467)](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
 *   [seismometer (⭐272)](https://github.com/epic-open-source/seismometer) - Epic's framework for evaluating AI models in healthcare.

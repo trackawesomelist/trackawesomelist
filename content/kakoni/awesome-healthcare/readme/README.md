@@ -51,7 +51,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
 *   [EHRServer (⭐207)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [ERPNext (⭐41k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
-*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
 *   [GNU Health](https://www.gnuhealth.org) - Electronic Health Record, Hospital Management, and Health Information System.
@@ -133,7 +133,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 *   [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
 *   [OpenMolar](https://openmolar.com/) - Dental Practice Management Software.
 
@@ -193,6 +193,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [HAPI FHIR (⭐2.4k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 *   [Health data standards (⭐0)](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+*   [HealthChain (⭐230)](https://github.com/healthchainai/HealthChain) - Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.
 *   [Hermes (⭐239)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 *   [Metriport (⭐797)](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
 *   [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
@@ -322,6 +323,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [MedicalGPT (⭐5.9k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 *   [MONAI (⭐8.8k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 *   [nnU-Net (⭐9k)](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning framework for biomedical image segmentation.
+*   [Odyssey (⭐63)](https://github.com/VectorInstitute/odyssey) - Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.
 *   [OpenMed (⭐5.8k)](https://github.com/maziyarpanahi/openmed) - Local clinical named-entity recognition and PHI de-identification models.
 *   [PathML (⭐467)](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
 *   [PyHealth (⭐1.7k)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.

@@ -6,6 +6,32 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 03, 2026](/content/2026/11/03/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Breaker (⭐0)](https://github.com/wata/Breaker) - Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wata/Breaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Audio and Video Tools / File Sharing
+
+*   [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/MP4Flow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [Carbon](https://carbon.alexandrejoly.me) - Menu bar app that transcribes meetings on device and saves each one as a Markdown file, with no bot and no cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AlexDemzz/carbon) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Menu Bar Tools
+
+*   [Vortex](https://vortex-notch.web.app) - MacBook notch app with a focus timer, clipboard history, a file shelf that catches new builds, screen-to-task capture with OCR, and keys Claude Code can use without seeing them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/OrtexIsArtem/vortex) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Window Management
+
+*   [Switch](https://switch-dev.sanyamgarg.com) - Keyboard window switcher that lists every open window across Spaces and filters as you type. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [TimeMachineEjector (⭐1)](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wata/TimeMachineEjector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
 ### Developer Tools / IDEs
@@ -349,7 +375,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [Konverter (⭐7)](https://github.com/davidpraznik/Konverter) - Menu bar file converter and image compressor operated by dragging files onto a radial wheel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidpraznik/Konverter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [MenuBarMijia (⭐18)](https://github.com/jryang1997/MenuBarMijia) - Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 26+). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang1997/MenuBarMijia) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [MenuBarMijia (⭐18)](https://github.com/jryang1997/MenuBarMijia) - Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 14+). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang1997/MenuBarMijia) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Topnotchers (⭐2)](https://github.com/joey-david/topnotchers) - Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joey-david/topnotchers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / File Organization Tools
@@ -728,15 +754,15 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Frpc-Desktop (⭐6.9k)](https://github.com/luckjiawei/frpc-desktop) - Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luckjiawei/frpc-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Frpc-Desktop (⭐7k)](https://github.com/luckjiawei/frpc-desktop) - Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/luckjiawei/frpc-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
-*   [OpenSpatial (⭐20)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenSpatial (⭐27)](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dortanes/openspatial) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
-*   [DockLens (⭐15)](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/firstfu/DockLens-app)
+*   [DockLens (⭐14)](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/firstfu/DockLens-app)
 
 ### Gaming Software / System Related Tools
 

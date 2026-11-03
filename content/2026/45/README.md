@@ -228,7 +228,7 @@
 *   [Beda EMR (⭐132)](https://github.com/beda-software/fhir-emr) - EMR built natively on FHIR.
 *   [BHIMA (⭐234)](https://github.com/third-culture-software/bhima) - Hospital information and accounting system for rural hospitals.
 *   [CARE (⭐418)](https://github.com/ohcnetwork/care) - Digital public good for hospital administration and decentralized patient care.
-*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
 *   [HasteHealth](https://haste.health) - Scalable clinical data repository.
 *   [Marley (⭐555)](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
@@ -254,7 +254,7 @@
 
 ### Contents / Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
+*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 
 ### Contents / Laboratory
 
@@ -274,6 +274,7 @@
 *   [dicom-rs (⭐570)](https://github.com/Enet4/dicom-rs) - Rust implementation of the DICOM standard.
 *   [fhir.resources (⭐543)](https://github.com/nazrulworld/fhir.resources) - Pydantic-based FHIR resource models for Python.
 *   [fhir-py (⭐218)](https://github.com/beda-software/fhir-py) - Async and sync FHIR client for Python.
+*   [HealthChain (⭐230)](https://github.com/healthchainai/HealthChain) - Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.
 *   [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
 *   [nHapi (⭐313)](https://github.com/nHapiNET/nHapi) - .NET port of the HAPI HL7 v2 library.
 *   [nhs-number (⭐6)](https://github.com/wardle/nhs-number) - A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers
@@ -332,6 +333,7 @@
 ### Contents / Machine learning
 
 *   [nnU-Net (⭐9k)](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning framework for biomedical image segmentation.
+*   [Odyssey (⭐63)](https://github.com/VectorInstitute/odyssey) - Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.
 *   [OpenMed (⭐5.8k)](https://github.com/maziyarpanahi/openmed) - Local clinical named-entity recognition and PHI de-identification models.
 *   [PathML (⭐467)](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
 *   [seismometer (⭐272)](https://github.com/epic-open-source/seismometer) - Epic's framework for evaluating AI models in healthcare.
@@ -447,6 +449,10 @@
 
 *   [Coincide](https://coincide.dev) - Open-source native workspace for coding agents (Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity), where one thread can switch agents mid-conversation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/apoorvdarshan/coincide) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Developer Tools / Developer Utilities
+
+*   [Breaker (⭐0)](https://github.com/wata/Breaker) - Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wata/Breaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Design and Product / Screenshot Tools
 
 *   [Shutterbar (⭐1)](https://github.com/mucahitimre/Shutterbar) - ShareX-style screenshots with ⌘C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucahitimre/Shutterbar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -457,19 +463,33 @@
 
 ### Audio and Video Tools / File Sharing
 
+*   [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/MP4Flow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ShotMap](https://ixiehao.github.io/ShotMap/) - Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/ShotMap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
 
+*   [Carbon](https://carbon.alexandrejoly.me) - Menu bar app that transcribes meetings on device and saves each one as a Markdown file, with no bot and no cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AlexDemzz/carbon) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [jdsp4mac (⭐1)](https://github.com/Tekkiech/jdsp4mac) - Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Tekkiech/jdsp4mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Input Methods / Audio Record and Process
 
 *   [Sidekey](https://wongsiufool.github.io/sidekey/) - Use your iPhone as a wireless keyboard, trackpad and voice input for your Mac or Windows PC over local Wi-Fi. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wongsiufool/sidekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Menu Bar Tools
+
+*   [Vortex](https://vortex-notch.web.app) - MacBook notch app with a focus timer, clipboard history, a file shelf that catches new builds, screen-to-task capture with OCR, and keys Claude Code can use without seeing them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/OrtexIsArtem/vortex) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / Cleanup and Uninstall
 
 *   [ShinyMac (⭐1)](https://github.com/pballada/shinyMac) - Open-source SwiftUI Mac cleaner with one-scan Smart Care, an app uninstaller that finds leftovers, Xcode cleanup, a Space Lens disk map and hidden settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pballada/shinyMac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Window Management
+
+*   [Switch](https://switch-dev.sanyamgarg.com) - Keyboard window switcher that lists every open window across Spaces and filters as you type. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [TimeMachineEjector (⭐1)](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wata/TimeMachineEjector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -819,6 +839,10 @@
 
 ## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
+### UI Builders
+
+*   [Particle Logo](https://particlelogo.com) - Turn a logo into a particle animation in the browser, then export dependency-free HTML, Vue 3 and React components, or video and GIF.
+
 ### Tools collection
 
 *   [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
@@ -829,6 +853,7 @@
 
 *   [Joxo](https://joxo.ai?utm_source=awesome-gemini-cli\&utm_medium=referral) - Shared project for a team's coding agents. Start Gemini CLI with `joxo gemini` and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.
 *   [EndoStack (⭐3)](https://github.com/requie/endostack) - Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.
+*   [Preloop (⭐85)](https://github.com/preloop/preloop) - Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.
 
 ### Commands & Extensions
 
