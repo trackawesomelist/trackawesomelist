@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### DevTools / Other external resources
+
+*   [TestMu AI HyperExecute](https://www.testmuai.com/support/docs/capybara-on-hyperexecute-grid/) - Run Capybara browser tests on TestMu AI's test orchestration cloud.
+
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
 ### Open Source Rails Apps / Other external resources

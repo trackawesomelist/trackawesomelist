@@ -6,6 +6,21 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### Response
+
+*   [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store & Google Play screenshot maker (device frames, captions, exact required store sizes). Nothing uploaded.
+
+### Favicon
+
+*   [Favikit](https://arnavjhajharia.github.io/favikit/) - Private in-browser favicon & app-icon generator (real multi-size .ico, Apple touch, Android, web manifest). Nothing uploaded.
+
+### Tools collection
+
+*   [ogkit](https://arnavjhajharia.github.io/ogkit/) - Free in-browser Open Graph / social card generator (1200×630, meta-tag snippet). Nothing uploaded.
+*   [All Tools Verse](https://alltoolsverse.com/) - Free collection of browser-based utilities for formatting, encoding, conversion and API work. No sign-up.
+
 ## [Nov 03, 2026](/content/2026/11/03/README.md)
 
 ### UI Builders

@@ -16,7 +16,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [CARE (⭐418)](https://github.com/ohcnetwork/care) - Digital public good for hospital administration and decentralized patient care.
 *   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
-*   [HasteHealth](https://haste.health) - Scalable clinical data repository.
+*   [HasteHealth (⭐85)](https://github.com/HasteHealth/HasteHealth) - Scalable FHIR server and clinical data repository.
+*   [ICTHospital (⭐116)](https://github.com/ictinnovations/ICTHospital) - Hospital management software with built-in unified communications, built on Laravel.
 *   [Marley (⭐555)](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
 *   [Open Hospital (⭐638)](https://github.com/informatici/openhospital) - Electronic Medical Record software for underprivileged rural hospitals.
 
@@ -40,7 +41,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
+*   [DentalPin (⭐110)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 
 ### Contents / Laboratory
 
@@ -50,6 +51,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 *   [CHT](https://communityhealthtoolkit.org/) - Community Health Toolkit - set of Open Source tools that support community healthcare
 *   [HAPI FHIR JPA Server Starter (⭐544)](https://github.com/hapifhir/hapi-fhir-jpaserver-starter) - Ready-to-deploy FHIR server built on HAPI FHIR.
+*   [Helios FHIR Server (⭐57)](https://github.com/HeliosSoftware/hfs) - FHIR server written in Rust, optimized for clinical analytics workloads.
 *   [Opal (⭐288)](https://github.com/openhealthcare/opal) - Framework for building clinical applications.
 *   [Spezi (⭐261)](https://github.com/StanfordSpezi/Spezi) - Stanford framework for building interoperable digital health apps on Apple platforms.
 

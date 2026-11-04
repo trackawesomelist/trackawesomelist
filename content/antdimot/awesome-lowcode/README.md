@@ -6,6 +6,47 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### AI
+
+*   [kdpbook.io](https://kdpbook.io/?utm_source=awesome-lowcode\&utm_medium=github) - No-code AI book studio: describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing sheet.
+*   [Pinegen AI](https://www.pinegen.ai/) - Generate, fix, and backtest compiler-validated Pine Script v6 strategies for TradingView using AI. Free to start, no coding needed.
+
+### Automation
+
+*   [Upload-Post](https://www.upload-post.com) - Social media publishing API for posting and scheduling to TikTok, Instagram, YouTube, LinkedIn, X, and more. Integrates with Zapier, Make, and n8n, and has an MCP server. Free plan available.
+
+### Educational
+
+*   [Benian n8n Automation Catalog](https://benian-technologies.github.io/automation-templates/) - n8n workflow examples with setup guides and runnable walkthroughs using fictional data.
+
+### Flow-based programming
+
+*   [Ciaren](https://ciaren.com) - Open-source, local-first visual ETL and ML workflow builder that exports readable pandas or Polars code.
+
+### Marketing
+
+*   [thirds.ai](https://thirds.ai/) - Make branded images and PDFs from editable templates in a studio, AI assistant, or API.
+*   [Stripo](https://stripo.email) - No-code email design platform with 1,690+ templates and export to 90+ ESPs.
+
+### Online database creator apps
+
+*   [Nhost](https://nhost.io) - Open source Postgres backend with a dashboard for tables and permissions, an instant GraphQL API, auth, storage and functions.
+*   [PHPRunner](https://xlinesoft.com/phprunner/index.htm) - Commercial low-code builder for web applications using existing databases, with forms, reports, permissions, and deployment to your own web server.
+
+### Visual programming
+
+*   [Figment.so](https://figment.so/) - Publish Figma designs as websites through a Figma plugin.
+*   [Helmpages](https://helmpages.com/) - Websites for independent professionals and small businesses, built and kept current by sending a message. Paid, with a free trial.
+*   [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export.
+*   [BuzzBlender Kiosk Editor](https://kiosk.buzzblender.com/) - No-code kiosk interface builder for creating button-based experiences with video, images and text, with preview and standalone HTML export.
+
+### Misc
+
+*   [BESSER (⭐200)](https://github.com/BESSER-PEARL/BESSER) - Open-source Python low-code platform: draw a UML model in a web editor and generate FastAPI, React, Django and SQLAlchemy code.
+*   [BESSER Agentic Framework (⭐71)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) - Design and implement agents and chatbots in Python.
+
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
 ### Visual programming
@@ -146,8 +187,8 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Automation
 
-*   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
-*   [Overloop CLI (⭐7)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 15 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
+*   [Overloop CLI (⭐8)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
@@ -256,11 +297,6 @@ A collection of Awesome low-code development platform (LCDP).
 
 *   [WeWeb](https://www.weweb.io/) - A no-code frontend builder that connects to any backend to build scaable and secure web applications 10x faster.
 *   [Tabbled](https://tabbled.org) - Self-hosted low-code platform for business applications like CRM, ERP, WMS, etc.
-
-### Misc
-
-*   [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
-*   [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 

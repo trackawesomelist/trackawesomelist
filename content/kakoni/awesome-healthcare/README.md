@@ -6,6 +6,17 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 [ Daily / [Weekly](/content/kakoni/awesome-healthcare/week/README.md) / [Overview](/content/kakoni/awesome-healthcare/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### Contents / EHR
+
+*   [HasteHealth (⭐85)](https://github.com/HasteHealth/HasteHealth) - Scalable FHIR server and clinical data repository.
+*   [ICTHospital (⭐116)](https://github.com/ictinnovations/ICTHospital) - Hospital management software with built-in unified communications, built on Laravel.
+
+### Contents / Frameworks
+
+*   [Helios FHIR Server (⭐57)](https://github.com/HeliosSoftware/hfs) - FHIR server written in Rust, optimized for clinical analytics workloads.
+
 ## [Nov 03, 2026](/content/2026/11/03/README.md)
 
 ### Contents / Libraries
@@ -26,7 +37,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [CARE (⭐418)](https://github.com/ohcnetwork/care) - Digital public good for hospital administration and decentralized patient care.
 *   [FerroEHR (⭐85)](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.
 *   [GitEHR (⭐6)](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
-*   [HasteHealth](https://haste.health) - Scalable clinical data repository.
 *   [Marley (⭐555)](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
 *   [Open Hospital (⭐638)](https://github.com/informatici/openhospital) - Electronic Medical Record software for underprivileged rural hospitals.
 
@@ -50,7 +60,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Dental
 
-*   [DentalPin (⭐96)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
+*   [DentalPin (⭐110)](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.
 
 ### Contents / Laboratory
 

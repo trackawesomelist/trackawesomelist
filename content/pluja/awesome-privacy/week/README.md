@@ -78,6 +78,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [NeoMutt (⭐3.9k)](https://github.com/neomutt/neomutt) - Terminal email client with built-in PGP/GPG support, a maintained fork of Mutt. GPL-2.0 licensed.
 *   [qView (⭐3.7k)](https://github.com/jurplel/qView) - Minimal, fast cross-platform image viewer that shows just the image with no clutter. GPL-3.0 licensed.
+*   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
+*   [OpenSnitch (⭐14k)](https://github.com/evilsocket/opensnitch) - Interactive application firewall for GNU/Linux that helps users detect, monitor, and block unwanted outbound connections.
+*   [dnscrypt-proxy (⭐14k)](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS proxy supporting DNSCrypt, DoH and Anonymized DNS relays, so resolvers cannot link queries to your IP. ISC licensed.
+*   [MAT2 (⭐388)](https://github.com/jvoisin/mat2) - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
+*   [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
+*   [Mobile Verification Toolkit (⭐16k)](https://github.com/mvt-project/mvt) - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
 
 ### Maps and Navigation
 
@@ -90,7 +96,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Notes and Tasks
 
-*   [Lockbook (⭐442)](https://github.com/lockbook/lockbook) - End-to-end encrypted Evernote alternative for notes, documents and drawings, with apps for Android, iOS, macOS, Windows and Linux plus a CLI. Public domain (Unlicense), self-hostable.
+*   [Lockbook (⭐445)](https://github.com/lockbook/lockbook) - End-to-end encrypted Evernote alternative for notes, documents and drawings, with apps for Android, iOS, macOS, Windows and Linux plus a CLI. Public domain (Unlicense), self-hostable.
 *   [Super Productivity (⭐23k)](https://github.com/super-productivity/super-productivity) - To-do list and time tracker that keeps data local with no account, with optional sync over WebDAV or Dropbox. MIT licensed.
 
 ### Music Recognition
@@ -150,7 +156,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Image Generation
 
-*   [ComfyUI (⭐139k)](https://github.com/Comfy-Org/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
+*   [ComfyUI (⭐145k)](https://github.com/Comfy-Org/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
 
 ### Bookmarking
 
@@ -179,7 +185,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Databases
 
-*   [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited (⭐112k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐112k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited (⭐114k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐114k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Domains & Hosting
 
@@ -443,7 +449,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### AI Coding
 
-*   [OpenCode (⭐217k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
+*   [OpenCode (⭐224k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
 
 ### Speech to Text
 
@@ -455,7 +461,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
     *   [FunASR (⭐21k)](https://github.com/modelscope/FunASR) - Speech recognition toolkit that runs locally, with voice activity detection, punctuation restoration and speaker diarization. Downloads models from ModelScope by default. MIT licensed code, model licenses vary.
     *   [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
 *   **Apps and services**
-    *   [OpenWhispr (⭐9.6k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+    *   [OpenWhispr (⭐11k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
     *   [Sasayaki (⭐12)](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
     *   [Speaches (⭐3.8k)](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
 
@@ -549,10 +555,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Maps and Navigation
 
 *   [CoMaps](https://www.comaps.app/) - A community-led free & open source maps app based on OSM
-
-### Password Managers
-
-*   [CarryPass](https://carrypass.net) - Zero-knowledge PWA password manager with deterministic generation, encrypted vaults, and team collaboration. ([Source (⭐11)](https://github.com/racz-zoltan/racz-zoltan.github.io)) `MIT`
 
 ### Pastebin and Secret Sharing
 
@@ -717,7 +719,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Photoshop / Illustrator
 
-*   [Excalidraw (⭐134k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐135k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -1330,8 +1332,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
-    *   [KeeWeb](https://keeweb.info/) for Web and other platforms.
-*   [Padloc](https://padloc.app/) - The last password manager you'll ever want to use.
 
 ### Photo Editing and Management
 

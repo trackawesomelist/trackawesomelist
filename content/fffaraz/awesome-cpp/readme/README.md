@@ -1489,6 +1489,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [coliru](https://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 *   [Compiler Explorer](https://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 *   [CompileOnline](https://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
+*   [Devtoolry](https://devtoolry.com/compilers/cpp) - An online C/C++ compiler that runs Clang in the browser via WebAssembly.
 *   [Ideone](https://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 *   [OneCompiler](https://onecompiler.com/) - An online compiler supporting over 70 programming languages and database systems.
 *   [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
@@ -1766,7 +1767,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐12k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐521k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐529k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐5.3k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome C (⭐12k)](https://github.com/oz123/awesome-c) 1

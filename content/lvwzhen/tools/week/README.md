@@ -8,13 +8,23 @@ Tools Online
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### Response
+
+*   [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store & Google Play screenshot maker (device frames, captions, exact required store sizes). Nothing uploaded.
+
+### Favicon
+
+*   [Favikit](https://arnavjhajharia.github.io/favikit/) - Private in-browser favicon & app-icon generator (real multi-size .ico, Apple touch, Android, web manifest). Nothing uploaded.
+
 ### UI Builders
 
 *   [Particle Logo](https://particlelogo.com) - Turn a logo into a particle animation in the browser, then export dependency-free HTML, Vue 3 and React components, or video and GIF.
 
 ### Tools collection
 
+*   [ogkit](https://arnavjhajharia.github.io/ogkit/) - Free in-browser Open Graph / social card generator (1200×630, meta-tag snippet). Nothing uploaded.
 *   [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
+*   [All Tools Verse](https://alltoolsverse.com/) - Free collection of browser-based utilities for formatting, encoding, conversion and API work. No sign-up.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 

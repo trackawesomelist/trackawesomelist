@@ -6,6 +6,41 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### APIs, Data, and ML
+
+*   [TimeLogic API](https://timelogicapi.com) - World time and timezone API with cryptographically signed JSON responses, so you can verify the time wasn't tampered with. Get the current time by timezone, IP address or coordinates, convert between zones, check DST changes, and do business-day date math. WorldTimeAPI-compatible endpoints for apps that used worldtimeapi.org. Free plan includes 10,000 requests/month on all endpoints.
+
+### Security and PKI
+
+*   [CyberShield Studio](https://cybershieldstudio.com/) - Security monitoring for e-commerce store operators and developers. Weekly scans for JavaScript changes or injection, tracking before consent, security header settings, and vulnerable client-side libraries and WordPress plugins. Free plan monitors 1 store (home page + checkout path) with 30 days of history. No credit card required.
+
+### Monitoring
+
+*   [Gairė](https://gaire.lt/en) - Web Change monitoring for research, price changes, out-of/in stock monitoring. Free plan up to 10 pages checked every hour, alerts by sms, email, Webhook, Slack/Discord/Telegram integrations. No card needed.
+
+### Forms
+
+*   [whatayarn](https://whatayarn.com/) - Online form builder. Unlimited forms and responses on Free, subject to fair use.
+
+### PaaS
+
+*   [EthioDeploy](https://ethiodeploy.com/) - Hosting and agentic coding platform containing Built-in Analytics, Database, GitHub CI/CD, free sub-domain, CLI, AI coding agent. Free tier allows one project 256 MB RAM / 0.5 CPU, sleeps after 30 min idle, 512 MB database and 100,000 tokens on the default model one time.
+
+### Issue Tracking and Project Management
+
+*   [Archboard](https://getarchboard.app/) - Architecture diagrams your team and AI agents edit live. Free plan: 1 seat, 3 diagrams, all built-in node packs and live editing with your AI agents (MCP).
+*   [UserJot](https://userjot.com) - Live chat, feedback boards, a roadmap, and a changelog, so everything your customers say reaches the people and agents building your product. Free plan: Unlimited Posts, Unlimited Users, 3 Admin Roles, 2 Feedback Boards, Roadmap, Changelog.
+
+### Analytics, Events and Statistics
+
+*   [Pug](https://pug.sh) - Open-source product analytics with autocapture, trends, funnels, retention, user flows and unified user profiles. Free plan includes 100,000 events per month and 1 year of data retention.
+
+### Payment and Billing Integration
+
+*   [UsageRail](https://usagerail.com/) - API keys, rate limits, quotas and usage-based billing for paid APIs, checked inside your own server with no gateway. Free up to $1,000/month billed and 1M requests/month.
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
 ### Monitoring
@@ -83,7 +118,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Design and UI
 
-*   [logoapi.sh](https://logoapi.sh/) - Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 1M free requests a month per site.
+*   [logoapi.sh](https://logoapi.sh/) - Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 2M free requests a month per site.
 
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
@@ -5551,7 +5586,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
         *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+        *   2 Arm-based Ampere A1 cores and 12 GB of memory usable as one VM or up to 2 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB

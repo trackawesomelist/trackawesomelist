@@ -6,6 +6,16 @@ A curated list of amazingly awesome Home Assistant resources.
 
 [ Daily / [Weekly](/content/frenck/awesome-home-assistant/week/README.md) / [Overview](/content/frenck/awesome-home-assistant/readme/README.md) ]
 
+## [Nov 04, 2026](/content/2026/11/04/README.md)
+
+### 🔵 Bluetooth & BLE
+
+*   [PadSpan HA (⭐291)](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (289★).
+
+### Tools & Utilities
+
+*   [HA Desktop Widget (⭐98)](https://github.com/Robertg761/HA-Desktop-Widget) - Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.
+
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
 ### 📈 Charts & graphs
@@ -478,7 +488,7 @@ A curated list of amazingly awesome Home Assistant resources.
 
 ### Alternative Home Automation Software / 🌍 In other languages
 
-*   [Gladys (⭐3.2k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,250★).
+*   [Gladys (⭐3.3k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,250★).
 
 ### Other Awesome Lists / 🌍 In other languages
 
@@ -562,7 +572,7 @@ A curated list of amazingly awesome Home Assistant resources.
 
 ### Other Awesome Lists / 🌍 In other languages
 
-*   [awesome-selfhosted (⭐325k)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software (329,428★).
+*   [awesome-selfhosted (⭐331k)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software (329,428★).
 
 ## [Jun 12, 2022](/content/2022/06/12/README.md)
 

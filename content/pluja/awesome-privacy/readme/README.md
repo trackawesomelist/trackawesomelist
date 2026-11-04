@@ -53,7 +53,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Captchas](#captchas)
 *   [Calendar](#calendar)
 *   [Commenting Engines (disqus)](#commenting-engines)
-*   [Cloaking](#cloaking)
 *   [Cloud Storage](#cloud-storage)
 *   [Creator Tools](#creator-tools)
 *   [Databases](#databases)
@@ -152,7 +151,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [🤖](#icons) [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
 *   [ente Auth](https://ente.com/auth/) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.com), and uses the same battle tested infrastructure. Needs an ente.io account.
-*   [Owky (⭐58)](https://github.com/charlietango/owky) [💀](#icons) - Free and Open Source Two-Factor Authenticator for IOS users.
 *   [🤖](#icons) [FreeOTPPlus (⭐750)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 *   [🤖](#icons) [Stratum (⭐4.6k)](https://github.com/stratumauth/app) - Two-Factor Authentication (2FA) client for Android + Wear OS.
 *   [Proton Authenticator](https://proton.me/authenticator) - Proton Authenticator is an [open source](https://proton.me/community/open-source#apps) and [end-to-end encrypted](https://proton.me/blog/password-encryption) 2FA app that’s simple and free to use.
@@ -318,7 +316,7 @@ When using cloud-based AI services, the data you input is often collected and st
 *   [Continue (⭐36k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 *   [Cline](https://cline.bot/) - Open source AI coding for VSCode. See every decision and use your own models.
     *   [Zoo Code (⭐2.1k)](https://github.com/Zoo-Code-Org/Zoo-Code) - Cline fork with some improvements; community successor to the discontinued Roo Code.
-*   [OpenCode (⭐217k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
+*   [OpenCode (⭐224k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
 *   [Aider](https://aider.chat) - Terminal AI pair programmer that edits code in your local git repository using your own API keys. Apache-2.0 licensed.
 *   [Tabby](https://tabby.tabbyml.com) - Self-hosted code completion assistant that runs on your own hardware as an alternative to GitHub Copilot. Apache-2.0 licensed.
 
@@ -340,13 +338,13 @@ When using cloud-based AI services, the data you input is often collected and st
     *   [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
 
 *   **Apps and services**
-    *   [OpenWhispr (⭐9.6k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+    *   [OpenWhispr (⭐11k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
     *   [Sasayaki (⭐12)](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
     *   [Speaches (⭐3.8k)](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
 
 #### Image Generation
 
-*   [ComfyUI (⭐139k)](https://github.com/Comfy-Org/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
+*   [ComfyUI (⭐145k)](https://github.com/Comfy-Org/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
 *   [InvokeAI (⭐29k)](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media using the latest AI-driven technologies locally.
 *   [SwarmUI (⭐4.7k)](https://github.com/mcmonkeyprojects/SwarmUI) - Local web interface for Stable Diffusion and other diffusion models, built on a ComfyUI backend. MIT licensed.
 
@@ -441,20 +439,6 @@ Google captchas use cookies to track users and rank their IPs.
 
 [Back to top 🔝](#contents)
 
-## Cloaking
-
-### Images
-
-*   [Fawkes (⭐5.6k)](https://github.com/Shawn-Shan/fawkes) [💀](#icons) - privacy preserving tool against facial recognition systems.
-    *   [CloakMe (⭐86)](https://github.com/pluja/CloakMe) [💀](#icons) - Web interface for Fawkes algorithm.
-*   [ImageScrubber (⭐1k)](https://github.com/everestpipkin/image-scrubber) [💀](#icons) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
-
-### Text
-
-*   [Stegcloak](https://stegcloak.surge.sh/) [💀](#icons) - Hide secrets with invisible characters in plain text securely using passwords ([repo (⭐3.9k)](https://github.com/kurolabs/stegcloak)).
-
-[Back to top 🔝](#contents)
-
 ## Cloud Storage
 
 ⛔ **Avoid**
@@ -502,7 +486,7 @@ Opt for open-source and P2P alternatives that prioritize data privacy, eliminate
 ✅ Instead use
 
 *   [Appwrite](https://appwrite.io/) - Secure open-source backend server for web, mobile & Flutter developers.
-*   [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited (⭐112k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐112k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited (⭐114k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐114k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 *   [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file written in Go.
 *   [TrailBase](https://trailbase.io/) - Open source, single-executable Firebase alternative built on Rust and SQLite, with type-safe REST and realtime APIs, auth, and an admin UI. OSL-3.0 licensed.
 *   [Baserow](https://baserow.io/) - Self-hosted no-code database and spreadsheet that works as an open source Airtable alternative. MIT licensed core.
@@ -560,7 +544,7 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 *   [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 *   [Krita](https://krita.org/) - A free and open-source raster graphics editor designed primarily for digital art and 2D animation.
 *   [LibreSprite (⭐8.7k)](https://github.com/LibreSprite/LibreSprite) - Free and open source sprite editor and pixel-art animation tool, forked from Aseprite before its license change. GPL-2.0 licensed.
-*   [Excalidraw (⭐134k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐135k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ### Figma
 
@@ -621,7 +605,6 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 
 *   [Veracrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, macOS and Linux.
 *   [Shufflecake](https://shufflecake.net/index.html) - Free open source, plausible deniability for multiple hidden filesystems on Linux
-*   [Hat.sh](https://hat.sh/) - A Free, Fast, Secure and Serverless File Encryption.
 *   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
 *   [Stegcloak](https://stegcloak.surge.sh/) [💀](#icons) - Hide secrets with invisible characters in plain text securely using passwords.
 *   [Photok (⭐998)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
@@ -1077,7 +1060,7 @@ These providers offer apps and services filled with data trackers. Also, most of
 *   [HedgeDoc](https://hedgedoc.org/) - Formerly CodiMD (community). An awesome platform to write and share markdown.
 *   [Joplin (⭐57k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
 *   [Logseq](https://logseq.com/) - A privacy-first alternative to WorkFlowy.
-*   [Lockbook (⭐442)](https://github.com/lockbook/lockbook) - End-to-end encrypted Evernote alternative for notes, documents and drawings, with apps for Android, iOS, macOS, Windows and Linux plus a CLI. Public domain (Unlicense), self-hostable.
+*   [Lockbook (⭐445)](https://github.com/lockbook/lockbook) - End-to-end encrypted Evernote alternative for notes, documents and drawings, with apps for Android, iOS, macOS, Windows and Linux plus a CLI. Public domain (Unlicense), self-hostable.
 *   [Memos (⭐64k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 *   [Nextcloud Notes (⭐743)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
     *   [Nextcloud Notes app (⭐1.1k)](https://github.com/nextcloud/notes-android) - An android client for Nextcloud Notes.
@@ -1254,13 +1237,10 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 *   [AliasVault](https://www.aliasvault.com) - An open source E2EE password & alias manager with a built-in email alias server
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
     *   [vaultwarden (⭐70k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
-*   [CarryPass](https://carrypass.net) - Zero-knowledge PWA password manager with deterministic generation, encrypted vaults, and team collaboration. ([Source (⭐11)](https://github.com/racz-zoltan/racz-zoltan.github.io)) `MIT`
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
-    *   [KeeWeb](https://keeweb.info/) for Web and other platforms.
 *   [LessPass](https://www.lesspass.com) - Stateless password manager. Remember one master password to access your passwords. No sync needed.
-*   [Padloc](https://padloc.app/) - The last password manager you'll ever want to use.
 *   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
 *   [Passky](https://passky.org) - Simple, modern, lightweight, open-source and secure password manager.
 *   [Proton Pass](https://proton.me/pass) - Open-source and encrypted password manager by Proton.
@@ -1449,7 +1429,6 @@ This section is dedicated to some tools that may help users analyze the privacy 
 
 ### Desktop
 
-*   [Whoami Project (⭐2.3k)](https://github.com/owerdogan/whoami-project) [💀](#icons) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
 *   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
 *   [OpenSnitch (⭐14k)](https://github.com/evilsocket/opensnitch) - Interactive application firewall for GNU/Linux that helps users detect, monitor, and block unwanted outbound connections.
 *   [dnscrypt-proxy (⭐14k)](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS proxy supporting DNSCrypt, DoH and Anonymized DNS relays, so resolvers cannot link queries to your IP. ISC licensed.

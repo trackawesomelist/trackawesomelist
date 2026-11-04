@@ -48,11 +48,13 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
 *   [Heym (⭐1.3k)](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 *   [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
+*   [kdpbook.io](https://kdpbook.io/?utm_source=awesome-lowcode\&utm_medium=github) - No-code AI book studio: describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing sheet.
 *   [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 *   [LLMGraph](https://llmgraph.ai) - Low/no-code visual builder for LLM workflows: build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy in one click to a REST API and chat widget.
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
+*   [Pinegen AI](https://www.pinegen.ai/) - Generate, fix, and backtest compiler-validated Pine Script v6 strategies for TradingView using AI. Free to start, no coding needed.
 *   [Pineify](https://pineify.app) - AI-assisted visual editor for building TradingView indicators, strategies, and screeners and exporting Pine Script v6 without manual coding.
 *   [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder that creates and hosts web apps from text prompts.
 *   [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
@@ -78,14 +80,14 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
 *   [Bardeen](https://www.bardeen.ai/) - Integrate and automate your favorite apps with our AI automation platform.
 *   [Blink](https://www.blinkops.com) - No-code automation for CloudOps.
-*   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
+*   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 15 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
 *   [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 *   [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 *   [Duvo](https://www.duvo.ai) - Execution platform for grocery and retail operations; runs operational work across existing systems (SAP, TMS, portals) with human approvals.
 *   [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
 *   [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 *   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
-*   [Overloop CLI (⭐7)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [Overloop CLI (⭐8)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 *   [Orion (⭐10)](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
 *   [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
@@ -94,11 +96,13 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [SheetsToLabels](https://sheetstolabels.com/) - Automate label printing workflows directly from Google Sheets, Excel, and CSV.
 *   [tines](https://www.tines.com/) - No-code automation for security teams.
 *   [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
+*   [Upload-Post](https://www.upload-post.com) - Social media publishing API for posting and scheduling to TikTok, Instagram, YouTube, LinkedIn, X, and more. Integrates with Zapier, Make, and n8n, and has an MCP server. Free plan available.
 *   [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 *   [FlexiPage](https://flexipage.app/) - Document automation software for Airtable users and other no-code tools.
 
 ## Educational
 
+*   [Benian n8n Automation Catalog](https://benian-technologies.github.io/automation-templates/) - n8n workflow examples with setup guides and runnable walkthroughs using fictional data.
 *   [Doc Willianms](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA) - No Code tutorials.
 *   [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
 *   [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
@@ -107,6 +111,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 *   [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 *   [Bravo Studio](https://www.bravostudio.app/) - Bravo’s powerful no-code approach to mobile app development.
+*   [Ciaren](https://ciaren.com) - Open-source, local-first visual ETL and ML workflow builder that exports readable pandas or Polars code.
 *   [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
 *   [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 *   [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
@@ -137,10 +142,12 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 *   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
+*   [thirds.ai](https://thirds.ai/) - Make branded images and PDFs from editable templates in a studio, AI assistant, or API.
 *   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 *   [Datawave](https://datawave.app) - Startup Marketing Platform
 *   [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
 *   [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
+*   [Stripo](https://stripo.email) - No-code email design platform with 1,690+ templates and export to 90+ ESPs.
 
 ## Online database creator apps
 
@@ -152,7 +159,9 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
 *   [Coda](https://coda.io/) - All-in-one doc.
 *   [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
+*   [Nhost](https://nhost.io) - Open source Postgres backend with a dashboard for tables and permissions, an instant GraphQL API, auth, storage and functions.
 *   [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
+*   [PHPRunner](https://xlinesoft.com/phprunner/index.htm) - Commercial low-code builder for web applications using existing databases, with forms, reports, permissions, and deployment to your own web server.
 *   [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 *   [RootCX](https://rootcx.com/) - One place for every internal app and AI agent. Shared database, SSO, RBAC, audit logs, and integrations.
 *   [Rows](https://rows.com/) - The spreadsheet with superpowers.
@@ -175,11 +184,14 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted app development for governed web and mobile applications, backend workflows, and integrations.
 *   [Dronahq](https://www.dronahq.com) - Build business apps without coding.
 *   [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
+*   [Figment.so](https://figment.so/) - Publish Figma designs as websites through a Figma plugin.
 *   [Heyflow](https://heyflow.app/) - Build interactive flows.
 *   [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 *   [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
 *   [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
+*   [Helmpages](https://helmpages.com/) - Websites for independent professionals and small businesses, built and kept current by sending a message. Paid, with a free trial.
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
+*   [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export.
 *   [Insomnia](https://insomnia.rest) - Build APIs that work.
 *   [Icybiz](https://icybiz.com/) - Build and publish free websites with a visual editor and hosted pages.
 *   [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
@@ -211,13 +223,14 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 *   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 *   [Tabbled](https://tabbled.org) - Self-hosted low-code platform for business applications like CRM, ERP, WMS, etc.
+*   [BuzzBlender Kiosk Editor](https://kiosk.buzzblender.com/) - No-code kiosk interface builder for creating button-based experiences with video, images and text, with preview and standalone HTML export.
 
 ## Misc
 
 *   [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 *   [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
-*   [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
-*   [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
+*   [BESSER (⭐200)](https://github.com/BESSER-PEARL/BESSER) - Open-source Python low-code platform: draw a UML model in a web editor and generate FastAPI, React, Django and SQLAlchemy code.
+*   [BESSER Agentic Framework (⭐71)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) - Design and implement agents and chatbots in Python.
 *   [CapMonster Cloud](https://capmonster.cloud) - Cloud captcha solving service for reCAPTCHA, Cloudflare Turnstile and other captcha types, useful for automation, scraping and no-code workflows.
 *   [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 *   [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.

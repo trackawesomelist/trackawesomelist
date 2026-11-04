@@ -347,6 +347,7 @@ wider ecosystem.
 *   [Bermuda (⭐2.1k)](https://github.com/agittins/bermuda) - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (2,094★).
 *   [BLE Battery Management Systems (⭐373)](https://github.com/patman15/BMS_BLE-HA) - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (372★).
 *   [EcoFlow BLE (⭐420)](https://github.com/rabits/ha-ef-ble) - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (415★).
+*   [PadSpan HA (⭐291)](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (289★).
 
 ### 🔋 Battery monitoring
 
@@ -693,6 +694,7 @@ wider ecosystem.
 *   [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
 *   [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editing your configuration.
 *   [Home Assistant Taskbar Menu (⭐345)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications (345★).
+*   [HA Desktop Widget (⭐98)](https://github.com/Robertg761/HA-Desktop-Widget) - Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.
 
 ## Online Resources
 
@@ -820,7 +822,7 @@ network where the community is active.*
 
 *   [openHAB](https://github.com/openhab) - Java-based and aims at being a universal integration platform.
 *   [Domoticz (⭐3.8k)](https://github.com/domoticz/domoticz) - A lightweight Home Automation System (3,824★).
-*   [Gladys (⭐3.2k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,250★).
+*   [Gladys (⭐3.3k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,250★).
 *   [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
 *   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
 *   [Homebridge (⭐26k)](https://github.com/homebridge/homebridge) - Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,527★).
@@ -837,7 +839,7 @@ network where the community is active.*
 
 *   [awesome-iot (⭐4.5k)](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources (4,529★).
 *   [awesome-mqtt (⭐2.4k)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,408★).
-*   [awesome-selfhosted (⭐325k)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software (329,428★).
+*   [awesome-selfhosted (⭐331k)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software (329,428★).
 
 ## Contributing
 

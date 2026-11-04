@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### AI Coding
+
+*   [Beacon.sh](https://beacon.sh/) - Self‑improving memory for coding agents. [![beacon.sh](https://img.shields.io/github/stars/Asymptote-Labs/agent-beacon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Asymptote-Labs/agent-beacon)
+
 ### CI/CD
 
 *   [Buddy](https://buddy.works) - CI/CD pipelines, sandbox VMs, hosting and git repositories for AI coding agents.

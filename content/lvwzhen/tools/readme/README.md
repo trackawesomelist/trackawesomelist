@@ -30,6 +30,7 @@ Tools Online
 *   [Polypane](http://polypane.rocks)
 *   [Responsive Tool](https://responsivetool.com)
 *   [CurlShot Mobile Screenshot](https://curlshot.com/tools/mobile-screenshot) - Screenshot any page as it renders on a phone or tablet (screen size, pixel density, mobile user agent), no account needed.
+*   [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store & Google Play screenshot maker (device frames, captions, exact required store sizes). Nothing uploaded.
 
 ### Placeholder
 
@@ -48,6 +49,7 @@ Tools Online
 *   [favicon.io](https://favicon.io/)
 *   [Toolio.it - Favicon generator](https://toolio.it/genera-favicon/) - Free favicon generator, converts an image into all standard favicon sizes.
 *   [Mzu FaviconDL](https://favicondl.com/)
+*   [Favikit](https://arnavjhajharia.github.io/favikit/) - Private in-browser favicon & app-icon generator (real multi-size .ico, Apple touch, Android, web manifest). Nothing uploaded.
 
 ### CDN
 
@@ -199,6 +201,7 @@ Tools Online
 *   [Toolio.it](https://toolio.it/) - Free hub of 155+ Italian web tools: calculators, unit/file converters, QR code and password generators, text utilities — no sign-up, mostly client-side.
 *   [JieBang Tools](https://www.jiebang.site/) - 170+ free online tools for developers — JSON formatter, Base64 encoder, QR code generator, and more. All client-side, no signup required.
 *   [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free, no-signup checker for robots.txt, page-level crawler directives, and ChatGPT and Claude crawler access responses.
+*   [ogkit](https://arnavjhajharia.github.io/ogkit/) - Free in-browser Open Graph / social card generator (1200×630, meta-tag snippet). Nothing uploaded.
 *   [SheetRender](https://sheetrender.com/tools) - Free browser-based PDF tools to merge and split PDFs, extract pages, and split mail merge PDFs.
 *   [DevBox Tools](https://devbox.tools/)
 *   [Mello](https://mello.tools/)
@@ -206,4 +209,5 @@ Tools Online
 *   [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
 *   [Benchvale Base64](https://benchvale.com/dev/base64) - Base64 encoder and decoder that runs in the browser, accepts the standard and URL-safe alphabets, re-adds missing padding, and ignores line breaks.
 *   [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
+*   [All Tools Verse](https://alltoolsverse.com/) - Free collection of browser-based utilities for formatting, encoding, conversion and API work. No sign-up.
 
