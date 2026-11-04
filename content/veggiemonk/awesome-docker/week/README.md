@@ -6,6 +6,16 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Where to Start / Wrappers
+
+*   [prepare.sh Docker Course](https://prepare.sh/course/docker-course) - :yen: Learn Docker in nine hands-on chapters that each run in a live Linux VM in the browser, from a first container to multi-stage builds, registries, volumes, networking, and image CVE scanning.
+
+### Security Articles / Wrappers
+
+*   [Privileged Containers Exercise](https://ransomleak.com/exercises/privileged-containers/) - Escape a privileged Docker container to the host in the browser, then fix it with a non-root user, dropped capabilities, and a read-only rootfs.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Building Images / Base Images

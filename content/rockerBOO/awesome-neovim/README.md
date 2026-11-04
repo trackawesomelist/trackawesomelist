@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [alexcloudstar/cheatsheet.nvim (⭐1)](https://github.com/alexcloudstar/cheatsheet.nvim) - Telescope cheatsheet for your keybindings; look up a key by task or keyword and add your own keys.
 
+### Editing Support / Scrollbar
+
+*   [LongYinStudio/suda.nvim (⭐3)](https://github.com/LongYinStudio/suda.nvim) - Transparent, "sudo-like" privilege elevation without virtual URI hacks.
+
 ### Formatting / Folding
 
 *   [javanoo6/intellij-formatter.nvim (⭐1)](https://github.com/javanoo6/intellij-formatter.nvim) - IntelliJ-powered formatting through conform.nvim, with EditorConfig support, Java import cleanup, and a reusable daemon.

@@ -21,6 +21,39 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/servers/findip-net/findip-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.findip-net/findip-mcp)
 
 
+- Name: [iGaming Tools](https://i-gaming.tools/docs/mcp/)
+
+  Description: Online slot specs, RTP variants, providers, regulators, news, jobs and search demand
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: –
+
+
+- Name: [InjectScan (⭐0)](https://github.com/Duffey234/injectscan)
+
+  Description: Scores text, web pages and MCP tool definitions for prompt injection with deterministic rules
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/Duffey234/injectscan) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=co.youraitools/injectscan)
+
+
+- Name: [LucyESL](https://lucyesl.com/developers)
+
+  Description: English-teaching jobs in South Korea with pay, hours and housing as facts, plus salary statistics
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Anthropic](https://claude.ai/directory/lucyesl) · [Glama](https://glama.ai/mcp/connectors/com.lucyesl/jobs) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.lucyesl/jobs)
+
+
 - Name: [OpenApps](https://theopenapps.com/docs/mcp)
 
   Description: Rankings, launches and featuring across the ChatGPT, Claude, Cursor and Grok Bot app stores
@@ -32,6 +65,17 @@ A collective list of free APIs
   Install: –
 
 
+- Name: [PourWire](https://pourwire.com/mcp)
+
+  Description: New US liquor license filings: restaurants and bars about to open in 7 metros, plus metro stats
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.pourwire/pourwire) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.pourwire)
+
+
 - Name: [XposedOrNot](https://xposedornot.com/mcp)
 
   Description: Check an email against known data breaches, read its breach history and get domain breach counts
@@ -41,6 +85,76 @@ A collective list of free APIs
   Transport: `HTTP`
 
   Install: [Cursor](https://cursor.directory/plugins/xposedornot) · [Glama](https://glama.ai/mcp/connectors/com.xposedornot/xposedornot)
+
+
+
+### Art & Design
+
+- API: [pic2svg](https://pic2svg.com/mcp/)
+
+  Description: Trace raster images to SVG with a free daily allowance
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Blockchain
+
+- API: [HEY Research Lab](https://heyresearch.xyz/developers)
+
+  Description: Builder activity for Robinhood Chain tokens and projects: who is shipping, each ship with its source
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Business
+
+- API: [Firmbase](https://firmbase.be/en/api/docs)
+
+  Description: Belgian company register (KBO/CBE), Official Gazette notices and VAT validation
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Calendar
+
+- API: [Mother's Day Calendar](https://mothersdaycalendar.com/en/api/)
+
+  Description: Mother's Day dates, country rules, sources and confidence as static JSON and CSV
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cloud Storage & File Sharing
+
+- API: [Deed](https://deed.page/docs)
+
+  Description: Publish an HTML file or folder to a permanent public URL with one PUT, no account
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -68,6 +182,17 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [SoChain](https://sochain.com/docs)
+
+  Description: Bitcoin, Litecoin, Dogecoin and Zcash addresses, transactions, blocks and fees
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [TronOrb](https://tronorb.com/developers/api)
 
   Description: TRON data: USDT TRC-20 fees, address checks, Tether freezes, dApp and exchange rankings
@@ -80,11 +205,58 @@ A collective list of free APIs
 
 
 
+### Currency Exchange
+
+- API: [Open Exchange Rates](https://docs.openexchangerates.org/)
+
+  Description: Live and historical exchange rates for 200+ currencies with free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Development
+
+- API: [CitedBy](https://citedby.eu/ai-access-api)
+
+  Description: Which AI crawlers can read a site: robots.txt and server answer for each
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Crawl Readiness](https://www.crawlreadiness.com)
 
   Description: Check what 50+ AI crawlers can read on a website and whether a page permits an AI use
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ipv4 Network Tools](https://ipv4.fr/docs.html)
+
+  Description: DNS, WHOIS, SSL, email validation, IP geolocation and blacklist lookups
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [mxverify](https://bklink.uk/docs/api)
+
+  Description: Dollar value of one followed backlink from any website, with the published model behind it
 
   Auth: `apiKey`
 
@@ -105,7 +277,32 @@ A collective list of free APIs
 
 
 
+### Documents & Productivity
+
+- API: [PenlyDoc](https://penlydoc.com/docs)
+
+  Description: EU e-signature API: templates, embedded signing page, webhooks and sealed PDFs; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Email
+
+- API: [anon.li](https://anon.li/docs/api)
+
+  Description: Create and manage anonymous email aliases, forwarding recipients and custom domains
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [Vetto](https://usevetto.com/docs#domain-lookup)
 
@@ -160,6 +357,19 @@ A collective list of free APIs
   : [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/703795-79e88024-52c6-4fa7-bdbb-c83bc9d4236a)
 
 
+- API: [MortgageCalculator](https://mortgagecalculator.me/developers)
+
+  Description: 16 mortgage calculators: payment, refinance, APR, rent vs. buy, points and amortization schedules
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
 - API: [OpenTaxRate](https://opentaxrate.com)
 
   Description: US sales tax rates by street address, from the states' own published data
@@ -171,6 +381,20 @@ A collective list of free APIs
   CORS: Unknown
 
   : 
+
+
+
+### Games & Comics
+
+- API: [Unicum](https://unicum.gg/docs)
+
+  Description: World of Tanks player, clan and tank stats, ratings and leaderboards for EU, NA and Asia
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -201,6 +425,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [PourWire (⭐0)](https://github.com/Tintin-Intellegence-Limited/us-liquor-license-applications#free-json-api)
+
+  Description: New restaurant and bar liquor license applications in 7 US metros (TX, NY, Los Angeles)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 
 ### Health
 
@@ -215,8 +450,30 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [OMOPHub](https://docs.omophub.com)
+
+  Description: Search and map OHDSI OMOP medical vocabularies (SNOMED CT, ICD-10, LOINC, RxNorm)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 
 ### Jobs
+
+- API: [ATS Jobs](https://rapidapi.com/fikrimarhan/api/ats-jobs-api4)
+
+  Description: Open jobs from a company's Greenhouse, Lever, Ashby or SmartRecruiters board in one schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
 
 - API: [Fast Data Job Search](https://apify.com/fast_data_asap/job-search-api)
 
@@ -234,6 +491,28 @@ A collective list of free APIs
   Description: Open jobs from company career pages on Greenhouse, Lever, Ashby, Workday and more, as JSON or XML
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [The Jobs](https://rapidapi.com/thejobsapi/api/the-jobs-api-us-canada-job-search)
+
+  Description: US and Canada employer jobs, search and change feeds; 250 free records per month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Working Student Jobs](https://www.workingstudentjobs.de/developers)
+
+  Description: Working student and internship jobs in Germany, filterable by city, field and language
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -277,6 +556,106 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Programming
+
+- API: [OnlineCompiler](https://onlinecompiler.io/docs?utm_source=public-apis)
+
+  Description: Compile and run code in 46 languages, with test-case judging and a Judge0-compatible endpoint
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Security
+
+- API: [DefenceLevel Index](https://defencelevel.com/index/api)
+
+  Description: Daily cyber threat level (DEFCON 5 to 1) with open method, history in JSON/CSV and a badge
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Website Security Scanner](https://rapidapi.com/Hitler-HlDevZDwP/api/website-security-scanner-api)
+
+  Description: Passive website security audit: TLS, security headers, exposed files and a 0-100 score
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Shopping
+
+- API: [Lianex](https://lianex.ai/developers)
+
+  Description: Australian product prices compared across eBay, Amazon, JB Hi-Fi and more, as read-only JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [OpenShopGraph](https://openshopgraph.com/en/developers/)
+
+  Description: Source-dated return, shipping and payment facts for online shops
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Sports & Fitness
+
+- API: [Boxerbook](https://boxerbook.com/developers)
+
+  Description: Professional boxing: boxers, bouts, schedule, results, world titles and rankings, ODbL
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [KickoffAPI](https://kickoffapi.com)
+
+  Description: Football data API for live scores, fixtures, odds, and predictive xG models
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api)
+
+  Description: Live odds from 24 Kambi-powered sportsbooks incl. BetRivers & Unibet, best price per outcome
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 
@@ -3793,7 +4172,7 @@ A collective list of free APIs
   Install: –
 
 
-- Name: [Vuntum (⭐0)](https://github.com/RAAAAAGEEEEE/vuntum-mcp)
+- Name: [Vuntum (⭐1)](https://github.com/RAAAAAGEEEEE/vuntum-mcp)
 
   Description: Sourced, dated data on consumer robots and physical AI: specs, prices, evidence
 

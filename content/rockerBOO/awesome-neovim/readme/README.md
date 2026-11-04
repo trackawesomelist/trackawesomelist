@@ -1746,6 +1746,7 @@ then it is not supported:
 *   [Chiarandini/smart-enter.nvim (⭐4)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 *   [yaocccc/visual-multi.nvim (⭐15)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 *   [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
+*   [LongYinStudio/suda.nvim (⭐3)](https://github.com/LongYinStudio/suda.nvim) - Transparent, "sudo-like" privilege elevation without virtual URI hacks.
 
 ### Comment
 

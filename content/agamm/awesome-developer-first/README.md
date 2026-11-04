@@ -12,7 +12,17 @@ A curated list of awesome developer-first tools products.
 
 *   [Beacon.sh](https://beacon.sh/) - Self‑improving memory for coding agents. [![beacon.sh](https://img.shields.io/github/stars/Asymptote-Labs/agent-beacon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Asymptote-Labs/agent-beacon)
 
+### Browser Automation
+
+*   [Browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
+*   [Stagehand by Browserbase](https://www.stagehand.dev) - Open-source SDK to make your browser agents resilient, readable, and production-ready. [![stagehand](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserbase/stagehand)
+*   [Tabstack](https://tabstack.ai) - Web data and automation API that delivers reliable structured output. Built at Mozilla.
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
+
+### Browser Automation
+
+*   [Browser Use](https://browser-use.com) - Python library for AI browser automation. Connect any LLM and run locally or self-hosted. [![browser-use](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browser-use/browser-use)
 
 ### CI/CD
 
@@ -21,10 +31,6 @@ A curated list of awesome developer-first tools products.
 ### Reports Generation
 
 *   [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.
-
-### Scraping
-
-*   [Browser Use](https://browser-use.com) - Cloud browsers and web agents for AI, controlled over API, SDK or CDP. [![Browser Use](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browser-use/browser-use)
 
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
@@ -605,12 +611,6 @@ A curated list of awesome developer-first tools products.
 ### AI Coding
 
 *   [Fine](https://www.fine.dev/) - Build Software with AI Agents. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
-
-## [Dec 08, 2023](/content/2023/12/08/README.md)
-
-### Scraping
-
-*   [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
 
 ## [Nov 16, 2023](/content/2023/11/16/README.md)
 

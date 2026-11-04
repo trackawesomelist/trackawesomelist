@@ -19,10 +19,15 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [Gairė](https://gaire.lt/en) - Web Change monitoring for research, price changes, out-of/in stock monitoring. Free plan up to 10 pages checked every hour, alerts by sms, email, Webhook, Slack/Discord/Telegram integrations. No card needed.
+*   [hypermonitors.com](https://hypermonitors.com) - Monitors your infrastructure from three different locations (ZH - NYC - SG) with every outage checked from a 2nd location before alerts go out. Free forever for 5 monitors and 5 minute checks.
 
 ### Forms
 
 *   [whatayarn](https://whatayarn.com/) - Online form builder. Unlimited forms and responses on Free, subject to fair use.
+
+### Generative AI
+
+*   [evalship](https://evalship.com) - find the flaws in your LLM evals. Reviews your evals suite for improvement opportunities, monitors your PRs for any eval regressions or unintended side effects and optimizes your prompts and models based on experiments in your product. Free for 1 private repo for 1 user, 100 PR analyses a month, 30 days of eval history. Free for public repos.
 
 ### PaaS
 
@@ -786,7 +791,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [skylight.io](https://www.skylight.io/) - Free for first 100,000 requests (Rails only)
 *   [statuscake.com](https://www.statuscake.com/) - Website monitoring, unlimited tests free with limitations
 *   [statusgator.com](https://statusgator.com/) - Status page monitoring, 3 monitors free
-*   [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
 *   [superlog.sh](https://superlog.sh/) - Open-source OpenTelemetry observability (traces, logs, and metrics) with AI-agent incident investigation. The free tier includes 1M spans, 5M logs, and 10M metric points per month with 30-day retention, no credit card required. Fully open-source and self-hostable.
 *   [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) - Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
 *   [syagent.com](https://syagent.com/) - Noncommercial free server monitoring service, alerts and metrics.
@@ -884,12 +888,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Forms
 
 *   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
-
-## [Jul 10, 2026](/content/2026/07/10/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Zeitio](https://zeitio.com/) - Time tracking and invoicing for freelancers and small teams. Free plan includes 1 user, 3 active projects and 3 invoices per month.
 
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
@@ -1300,12 +1298,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Screenshot Scout](https://screenshotscout.com/) - Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
 
-## [Feb 13, 2026](/content/2026/02/13/README.md)
-
-### Screenshot APIs
-
-*   [SnapAPI](https://snapapi.pics) - Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
-
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### APIs, Data, and ML
@@ -1347,10 +1339,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Forms
 
 *   [Formware.io](https://formware.io/) - Create fully-responsive and captivating forms in seconds, without knowing how to code, and collect unlimited responses for free!
-
-### BaaS
-
-*   [ETLR](https://etlr.io) - Define, version, and deploy automation scripts using YAML. A developer-first alternative to drag-and-drop tools. Can be used for scheduled tasks, AI agents, and infrastructure monitoring. Free tier includes 100 credits/month.
 
 ### Domain
 
@@ -1456,7 +1444,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [CustomJS](https://www.customjs.io) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
 *   [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
 *   [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
-*   [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
 *   [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
 *   [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
 
@@ -1495,7 +1482,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
 
 ### CDN and Protection
@@ -1518,10 +1504,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Screenshot APIs
 
 *   [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
-
-### Miscellaneous
-
-*   [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
 
 ## [Jul 27, 2025](/content/2025/07/27/README.md)
 
@@ -1607,12 +1589,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Generative AI
 
 *   [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
-
-## [Jun 09, 2025](/content/2025/06/09/README.md)
-
-### Miscellaneous
-
-*   [Hosting Checker](https://hostingchecker.co) - Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.
 
 ## [Jun 07, 2025](/content/2025/06/07/README.md)
 
@@ -2158,10 +2134,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Loadly](https://loadly.io) - iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.
 
-### Crash and Exception Handling
-
-*   [Whitespace](https://whitespace.dev) - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
-
 ### Education and Career Development
 
 *   [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
@@ -2173,7 +2145,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Feature Toggles Management Platforms
 
-*   [Hypertune](https://www.hypertune.com) - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.
 *   [Statsig](https://www.statsig.com) - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.
 
 ### Forms
@@ -2321,12 +2292,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 100 emails/day free.
-
-## [Apr 05, 2024](/content/2024/04/05/README.md)
-
-### Issue Tracking and Project Management
-
-*   [Teaminal](https://www.teaminal.com) - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.
 
 ## [Mar 29, 2024](/content/2024/03/29/README.md)
 
@@ -3837,12 +3802,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
 
-## [Dec 04, 2021](/content/2021/12/04/README.md)
-
-### Security and PKI
-
-*   [Datree](https://www.datree.io/) - Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
-
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
 ### Web Hosting
@@ -4229,7 +4188,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Tools for Teams and Collaboration
 
-*   [HeySpace](https://hey.space) - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.
 *   [TimeCamp](https://www.timecamp.com/) - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.
 
 ## [Apr 29, 2021](/content/2021/04/29/README.md)
@@ -5055,10 +5013,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir,
     Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
 
-### Issue Tracking and Project Management
-
-*   [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
-
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 
 ### Code Search and Browsing
@@ -5210,7 +5164,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [appveyor.com](https://www.appveyor.com/) - CD service for Windows, free for Open Source
 *   [bitrise.io](https://www.bitrise.io/) - A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
-*   [buddy.works](https://buddy.works/) - A CI/CD with five free projects and one concurrent run (120 executions/month)
 *   [deployhq.com](https://www.deployhq.com/) - 1 project with ten daily deployments (30 build minutes/month)
 
 ### Testing
