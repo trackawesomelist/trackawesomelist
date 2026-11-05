@@ -6,6 +6,17 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Agents
+
+*   [nodecode (⭐177)](https://github.com/nodecode-ai/nodecode) - a living agent organism in Lisp. It becomes yours and evolves over time. MIT.
+
+### Graph databases
+
+*   [Ariadne (⭐1)](https://github.com/hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
+    *   *Built with LLMs*.
+
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
 ### Shells, shells interfaces / Third-party APIs
@@ -233,11 +244,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Educational
 
 *   [microgpt (⭐26)](https://github.com/40ants/microgpt) - A Common Lisp port of @karpathy microgpt.py — the most atomicimplementation of a GPT with a hand-written scalar autograd engine.
-
-### Graph databases
-
-*   [Ariadne](https://git.sr.ht/~hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
-    *   *Built with LLMs*.
 
 ### YAML
 
