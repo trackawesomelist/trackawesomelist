@@ -14,6 +14,8 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *A curated list of [Polars](https://pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
+An overview page showcasing community-developed plugins within the Polars ecosystem is available at <https://ddotta.github.io/polars-plugins/>
+
 [Polars](https://pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
@@ -153,7 +155,7 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 *   [daffy (⭐60)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 *   [truthound (⭐19)](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
 *   [wimsey (⭐173)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
-*   [dataprof (⭐29)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
+*   [dataprof (⭐33)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
 
 #### Security / Privacy
 
@@ -203,15 +205,26 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 #### Finance
 
 *   [polars-trading (⭐61)](https://github.com/ngriffiths13/polars-trading) - A collection of helpful polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+
 *   [polars\_plugin\_option\_pricing (⭐5)](https://github.com/oscar6echo/polars-plugin-option-pricing) - Polars plugin exposing rust crate option-pricing by [@oscar6echo](https://github.com/oscar6echo).
+
 *   [polars-order-book (⭐7)](https://github.com/ChristopherRussell/polars-order-book) - Polars plugin  for enriching orderbook data with best bid and offer information by [@ChristopherRussell](https://github.com/ChristopherRussell).
+
 *   [polars-fin (⭐2)](https://github.com/LVG77/polars-fin) - Polars plugin to calculate financial metrics by [@LVG77](https://github.com/LVG77).
+
 *   [polars-bloomberg (⭐23)](https://github.com/MarekOzana/polars-bloomberg) - Polars plugin that extracts Bloomberg’s financial data directly into polars.DataFrame by [@MarekOzana](https://github.com/MarekOzana).
+
 *   [jquantstats (⭐48)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github.com/tschm).
+
 *   [polars-backtest (⭐17)](https://github.com/Yvictor/polars_backtest_extension) - Polars extension for high-performance portfolio backtesting with Rust, Arrow, T+1 execution, and trade reports by [@Yvictor](https://github.com/Yvictor).
+
 *   [quantwave (⭐21)](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
+
 *   [polars-anta (⭐22)](https://github.com/huuan26/polars-anta) - Ultra-fast, zero-C technical analysis and factor library with 100+ indicators powered natively by Polars expressions by [@huuan26](https://github.com/huuan26).
+
 *   [polars-talib-fast (⭐0)](https://github.com/meet-brad-ch/polars-talib-fast) - Every TA-Lib function (237) as a Polars expression, on TA-Lib's official Rust port, with TA-Lib's default parameters and output names by [@meet-brad-ch](https://github.com/meet-brad-ch).
+
+*   [fastitch (⭐2)](https://github.com/ArkaKhorchidian/fastitch) - Fast NASDAQ TotalView-ITCH 5.0 parser that decodes full trading days straight into Polars DataFrames, with order-book reconstruction by [@ArkaKhorchidian](https://github.com/ArkaKhorchidian).
 
 #### Networking
 
@@ -294,6 +307,7 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 *   [polarssql (⭐27)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 *   [r-polars-dashboard (⭐3)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 *   [neo-r-polars (⭐53)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+*   [polars-ros (⭐1)](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
 
 ### Go
 

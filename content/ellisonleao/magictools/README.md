@@ -10,6 +10,7 @@
 
 ### Graphics / Texture Tools
 
+*   :money\_with\_wings: [DDS Tools](https://ddstools.com/) - Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.
 *   :money\_with\_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 
 ### Graphics / Character Generators
@@ -20,13 +21,16 @@
 
 *   :money\_with\_wings: [GameShipKit Autotile Generator](https://gameshipkit.com/tools/autotile-generator/) - Make blob and RPG Maker style autotiles from two textures, with Godot 4 and Tiled tilesets.
 *   :money\_with\_wings: [GameShipKit Map Generator](https://gameshipkit.com/tools/map-generator/) - Seeded dungeon, cave and island maps, exported as PNG, Tiled JSON and CSV.
+*   :free: [SimplePixelArt Tileset Editor](https://simplepixelart.com/tilesets/editor) - Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.
 
 ### Graphics / Vector/Image Editor
 
 *   :free: [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
+*   :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
 
 ### AI / Voxel Editors
 
+*   :free: [QuickMatch](https://quickmatch.si) - Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.
 *   :money\_with\_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
 
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
@@ -334,22 +338,9 @@
 
 ## [Oct 23, 2026](/content/2026/10/23/README.md)
 
-### Graphics / Texture Tools
-
-*   :tada: [MeshCoat](https://stuyk.github.io/meshcoat) - Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. [Source (⭐12)](https://github.com/stuyk/meshcoat)
-
-### Graphics / Animation
-
-*   :tada: [MeshAnimate](https://stuyk.github.io/meshanimate) - Pivot-style pose-to-pose animator for rigged Blender characters, with a simple timeline and onion-skin ghosts. Saves animations back into the .blend as normal Blender actions. [Source (⭐4)](https://github.com/stuyk/meshanimate)
-*   :tada: [MeshRig](https://stuyk.github.io/meshrig) - Rig any mesh in a .blend in minutes: fit a starting skeleton, skin weights and IK. Writes a standard Blender armature that works anywhere a Blender rig does. [Source (⭐3)](https://github.com/stuyk/meshrig)
-
 ### Collections / Voxel Editors
 
 *   :free: [DailySounds](https://dailysounds.org/?ref=magictools) - Searchable sound effects for games, with browser previews and downloadable audio; free for commercial projects under the DailySounds license.
-
-### Music and Audio Editors / Voxel Editors
-
-*   :tada: [Slip Sound](https://stuyk.github.io/slip-sound) - Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. [Source (⭐12)](https://github.com/stuyk/slip-sound)
 
 ## [Oct 21, 2026](/content/2026/10/21/README.md)
 
@@ -504,12 +495,6 @@
 
 *   :money\_with\_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
-## [Aug 05, 2026](/content/2026/08/05/README.md)
-
-### Graphics / Vector/Image Editor
-
-*   :tada: [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact colour palette from any sprite or image in the browser and export it as GIMP/Aseprite .gpl, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing is uploaded. [Source (⭐0)](https://github.com/pixelpixi/spritewright)
-
 ## [Jul 13, 2026](/content/2026/07/13/README.md)
 
 ### Graphics / Animation
@@ -626,12 +611,6 @@
 ### General Game Development / Voxel Editors
 
 *   :money\_with\_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
-
-## [Nov 19, 2024](/content/2024/11/19/README.md)
-
-### Graphics / Modeling
-
-*   :free: [Canvascript (⭐99)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 
 ## [Nov 17, 2024](/content/2024/11/17/README.md)
 

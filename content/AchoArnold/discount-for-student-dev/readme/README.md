@@ -180,6 +180,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Requestly](https://requestly.com/student-program) \[FREE] – Requestly is an open-source tool that simplifies API development, testing, mocking, and integration for developers and QAs. Through the Requestly Student Program, students get full access to all its powerful tools completely free.
 
+*   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
+
 ## PaaS
 
 *   [Amazon Web Services](https://aws.amazon.com/education/awseducate/) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.

@@ -131,10 +131,10 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Texture Tools
 
+*   :money\_with\_wings: [DDS Tools](https://ddstools.com/) - Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.
 *   :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 *   :money\_with\_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 *   :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
-*   :tada: [MeshCoat](https://stuyk.github.io/meshcoat) - Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. [Source (⭐12)](https://github.com/stuyk/meshcoat)
 *   :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
 *   :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 *   :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
@@ -155,6 +155,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Material Maker (⭐6.2k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 *   :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 *   :tada: [Overlap2D (⭐794)](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
+*   :free: [SimplePixelArt Tileset Editor](https://simplepixelart.com/tilesets/editor) - Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.
 *   :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
 *   :tada: [Tiled](https://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
@@ -166,8 +167,6 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
 *   :free: [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
 *   :tada: [LWF](https://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
-*   :tada: [MeshAnimate](https://stuyk.github.io/meshanimate) - Pivot-style pose-to-pose animator for rigged Blender characters, with a simple timeline and onion-skin ghosts. Saves animations back into the .blend as normal Blender actions. [Source (⭐4)](https://github.com/stuyk/meshanimate)
-*   :tada: [MeshRig](https://stuyk.github.io/meshrig) - Rig any mesh in a .blend in minutes: fit a starting skeleton, skin weights and IK. Writes a standard Blender armature that works anywhere a Blender rig does. [Source (⭐3)](https://github.com/stuyk/meshrig)
 *   :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 *   :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 *   :tada: [Pixel Composer (⭐1.4k)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
@@ -190,7 +189,6 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Multipaint](https://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
 *   :free: [NormalPainter](https://winteralexander.itch.io/normalpainter) - An editor for hand painting stylized normal maps with graphical tablet and joystick support
 *   :money\_with\_wings: [Paint.NET](https://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
-*   :tada: [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact colour palette from any sprite or image in the browser and export it as GIMP/Aseprite .gpl, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing is uploaded. [Source (⭐0)](https://github.com/pixelpixi/spritewright)
 *   :money\_with\_wings: [Pic2SVG](https://pic2svg.com/) - Raster-to-vector tracing preview for inspecting flat artwork intended for game icons or UI. Free anonymous split preview and enlarged view; downloads require Pro. Images are processed on the server.
 *   :free: [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
 *   :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
@@ -202,6 +200,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :moneybag: [PyxelEdit](https://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 *   :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *   :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
+*   :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
 *   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.4k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 *   :free: [Spritemate](https://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 *   :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser.
@@ -216,7 +215,6 @@ To get your pull request accepted, your link must follow these rules:
 
 *   :moneybag: [3ds Max](https://www.autodesk.com/products/3ds-max/overview)
 *   :tada: [Blender](https://www.blender.org/) - The free software and open-source 3D grate of the world
-*   :free: [Canvascript (⭐99)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 *   :money\_with\_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 *   :tada: [Inca](https://incacad.com) - Free, open-source 3D modeling, animation and rendering app that works like Maya 2020, with OBJ, FBX, glTF and STL import.
 *   :free: [MakeHuman](http://www.makehumancommunity.org/)
@@ -410,6 +408,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Fluent Behaviour Tree (⭐395)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 *   :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 *   :money\_with\_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
+*   :free: [QuickMatch](https://quickmatch.si) - Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.
 *   :free: [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for 30+ AI game-dev tools. Each verified row cites its source (vendor page or Steamworks docs) with a link and date.
 *   :money\_with\_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   :tada: [SimpleAI (⭐177)](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
@@ -458,7 +457,6 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [musagi](https://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 *   :money\_with\_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
 *   :moneybag: [Resemble](https://www.resemble.ai/) - Resemble's voice cloning engine within Unity
-*   :tada: [Slip Sound](https://stuyk.github.io/slip-sound) - Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. [Source (⭐12)](https://github.com/stuyk/slip-sound)
 *   :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 *   :free: [SunVox](https://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 

@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Messaging
+
+*   [SuprSend](https://www.suprsend.com) - Notification infrastructure with workflows, templates and preferences for email, SMS, push, in-app and chat.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### AI Coding

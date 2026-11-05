@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Applications / Database
+
+*   [xerj-org/xerj (⭐19k)](https://github.com/xerj-org/xerj) - Search engine for AI agents in one binary: BM25, vector and hybrid search over an Elasticsearch-compatible API, with a built-in MCP server
+
+### Applications / Web Servers
+
+*   [inbjo/MirrorProxy (⭐308)](https://github.com/inbjo/MirrorProxy) - A self-hosted caching proxy for package registries, container images, and source downloads, with a web console and cross-platform CLI. [![CI](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml)
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Applications / Productivity
@@ -20,7 +30,7 @@ A curated list of Rust code and resources.
 
 ### Applications / MLOps
 
-*   [vayungodara/cliproxy-rs (⭐42)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
+*   [vayungodara/cliproxy-rs (⭐59)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
@@ -166,11 +176,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alexandrosnt/Reach (⭐108)](https://github.com/alexandrosnt/Reach) - Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri [![Build check](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml/badge.svg?branch=main)](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml)
+*   [alexandrosnt/Reach (⭐124)](https://github.com/alexandrosnt/Reach) - Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri [![Build check](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml/badge.svg?branch=main)](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml)
 
 ### Applications / Games
 
-*   [1homsi/thehumanbox (⭐61)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
+*   [1homsi/thehumanbox (⭐124)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
 
 ### Applications / Productivity
 
@@ -178,17 +188,17 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [AppachiTech/suvadu (⭐111)](https://github.com/AppachiTech/suvadu) \[[suvadu](https://crates.io/crates/suvadu)] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server [![CI](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml)
+*   [AppachiTech/suvadu (⭐127)](https://github.com/AppachiTech/suvadu) \[[suvadu](https://crates.io/crates/suvadu)] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server [![CI](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml)
 
 ### Libraries / Data processing
 
-*   [marcomq/mq-bridge (⭐24)](https://github.com/marcomq/mq-bridge) \[[mq-bridge](https://crates.io/crates/mq-bridge)] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware [![CI](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml)
+*   [marcomq/mq-bridge (⭐25)](https://github.com/marcomq/mq-bridge) \[[mq-bridge](https://crates.io/crates/mq-bridge)] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware [![CI](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml)
 
 ## [Oct 20, 2026](/content/2026/10/20/README.md)
 
 ### Applications
 
-*   [datavzrd/datavzrd (⭐681)](https://github.com/datavzrd/datavzrd) \[[datavzrd](https://crates.io/crates/datavzrd)] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration [![build badge](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml)
+*   [datavzrd/datavzrd (⭐684)](https://github.com/datavzrd/datavzrd) \[[datavzrd](https://crates.io/crates/datavzrd)] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration [![build badge](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml)
 
 ### Applications / Database
 
@@ -196,11 +206,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [Hugo-Dz/spritefusion-sprite-normals (⭐179)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
+*   [Hugo-Dz/spritefusion-sprite-normals (⭐755)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
 
 ### Libraries / Cryptography
 
-*   [po0uyan/memsafe (⭐118)](https://github.com/po0uyan/memsafe) \[[memsafe](https://crates.io/crates/memsafe)] - Locked, sealed, zero-on-drop memory for secrets. [![CI](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml/badge.svg?branch=main)](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml)
+*   [po0uyan/memsafe (⭐123)](https://github.com/po0uyan/memsafe) \[[memsafe](https://crates.io/crates/memsafe)] - Locked, sealed, zero-on-drop memory for secrets. [![CI](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml/badge.svg?branch=main)](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml)
 
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
 
@@ -464,7 +474,7 @@ A curated list of Rust code and resources.
 
 *   Code Coverage
     *   [minikin/cargo-crap (⭐431)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
-    *   [supercorp-ai/supercov (⭐157)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
+    *   [supercorp-ai/supercov (⭐160)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
 ### Libraries / Finance
@@ -723,11 +733,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [Jorji49/streamtop (⭐120)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+*   [Jorji49/streamtop (⭐123)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
 
 ### Libraries / GUI
 
-*   [smithay (⭐3.3k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
+*   [smithay (⭐3.4k)](https://github.com/Smithay/smithay) - \[[smithay](https://crates.io/crates/smithay)] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors
 
 ## [Sep 03, 2026](/content/2026/09/03/README.md)
 
@@ -849,7 +859,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Workflow Automation
 
-*   [dali-benothmen/woml (⭐131)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
+*   [dali-benothmen/woml (⭐174)](https://github.com/dali-benothmen/woml) - WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript — no visual-builder spaghetti, no ceiling on what a step can do. [![release](https://github.com/dali-benothmen/woml/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/woml/actions/workflows/release.yml)
 
 ## [Aug 18, 2026](/content/2026/08/18/README.md)
 
@@ -904,11 +914,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [GCWing/BitFun (⭐2.9k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐3.5k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 
 ### Applications / MLOps
 
-*   [Uteke (⭐274)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐284)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
@@ -926,7 +936,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [MoonProxyHQ/moonproxy-desktop (⭐61)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
+*   [MoonProxyHQ/moonproxy-desktop (⭐64)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
 
 ## [Jul 30, 2026](/content/2026/07/30/README.md)
 
@@ -3570,7 +3580,7 @@ A curated list of Rust code and resources.
     *   [fschutt/printpdf (⭐1.2k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [fullbleed-engine/fullbleed-official (⭐94)](https://github.com/fullbleed-engine/fullbleed-official) \[[fullbleed](https://crates.io/crates/fullbleed)] - Print-focused HTML/CSS-to-PDF engine with reusable templates, variable-data generation, and Python bindings. [![CI](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml)
     *   [gastongouron/ironpress (⭐663)](https://github.com/gastongouron/ironpress) \[[ironpress](https://crates.io/crates/ironpress)] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies. [![CI](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml)
-    *   [hayro (⭐811)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
+    *   [hayro (⭐848)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
     *   [J-F-Liu/lopdf (⭐2.3k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐150)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
     *   [yfedoseev/pdf\_oxide (⭐1.1k)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
@@ -6382,6 +6392,7 @@ A curated list of Rust code and resources.
     *   [actix/actix-web (⭐25k)](https://github.com/actix/actix-web) - A lightweight async web framework with websocket support
     *   [Anansi (⭐112)](https://github.com/saru-tora/anansi) - A simple full-stack web framework
     *   [loco-rs/loco (⭐9.6k)](https://github.com/loco-rs/loco) \[[loco-rs](https://crates.io/crates/loco-rs)] - The one-person framework for Rust for side-projects and startups, inspired by Rails. [![Build](https://github.com/loco-rs/loco/actions/workflows/ci.yml/badge.svg)](https://github.com/loco-rs/loco/actions)
+    *   [Proa-Labs/proa (⭐380)](https://github.com/Proa-Labs/proa) \[[proa\_framework\_axum](https://crates.io/crates/proa_framework_axum)] - Web framework with typed components, streaming server-side rendering, Axum integration, and HTML/Markdown render targets. [![CI](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml)
     *   [Rocket (⭐26k)](https://github.com/rwf2/Rocket) - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
     *   [RustAPI (⭐63)](https://github.com/Tuntii/RustAPI) \[[rustapi-rs](https://crates.io/crates/rustapi-rs)] - Ergonomic web framework with compile-time OpenAPI and native MCP
     *   [summer-rs (⭐1k)](https://github.com/summer-rs/summer-rs) - summer-rs is a application framework written in rust inspired by java's spring-boot.

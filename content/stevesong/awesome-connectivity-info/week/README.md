@@ -26,6 +26,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 *   [TeleGeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infrastructure providers around the world.
 *   [Hurricane Electric 3D Map](http://he.net/3d-map/) - Interactive 3D map of undersea cables and Hurricane Electric Points of Presence (POPs) and routes.
 *   [nperf Mobile Coverage Maps](https://www.nperf.com/en/map) - Mobile coverage based on data collected from the [nperf app](https://www.nperf.com/en/nperf-applications/).
+*   [Giga Global connectivity map for children](https://maps.giga.global/map) - Global map of connected schools and health facilities from  [Giga](https://giga.global/), a joint initiative of UNICEF and ITU.
 
 ### Periodic Global Reports / Discontinued
 

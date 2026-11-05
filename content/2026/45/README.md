@@ -1,24 +1,124 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2026
 
-39 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+
+### File and file system handling
+
+*   [pdfmt (⭐8)](https://github.com/eifelcode/pdfmt) - A command-line multi tool for the PDF tasks you keep doing again and again.
+
+### Editors
+
+*   [edamame (⭐121)](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
+
+### Terminal multiplexers and accessories
+
+*   [berthd (⭐2)](https://github.com/takakix2/berthd) - Persistent shell sessions. A small daemon that owns your PTYs, so shells outlive the terminal app.
+
+### Font management
+
+*   [sauva (⭐105)](https://github.com/lusingander/sauva) - Terminal Unicode explorer.
+
+### Organizers and calendars
+
+*   [chroncal (⭐237)](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage.
+
+### Graphics
+
+*   [tardigrade (⭐42)](https://github.com/smoothyy3/tardigrade) - A creature of self-healing cells inside your terminal.
+
+### Utilities
+
+*   [tinhorn (⭐7)](https://github.com/puradox/tinhorn) - A terminal dice roller: shake the dice, watch em' fly, hear it bounce.
+
+### Learning and didactic tools
+
+*   [openleetcode (⭐178)](https://github.com/therepanic/openleetcode) - Terminal interface to exercise on LeetCode tests.
+
+### Games
+
+*   [chess-analyzer-tui (⭐5)](https://github.com/leolaurindo/chess-analyzer-tui) - A lightweight chess.com-style analyzer. Runs with any UCI engine. Read games from your favorite chess website, file, stdin or clipboard.
+
+## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+
+### Modules / Cloud APIs
+
+*   [sigflint (⭐2)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
+
+### Showcases / XML
+
+*   [globnotes (⭐6)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
+
+## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+
+### Other Resources / Other Technology Resource Aggregators
+
+*   [Mobility Data Interoperability Principles Specification Registry](https://www.interoperablemobility.org/specifications/) - A list of transportation data specifications assessed by the MDPI coalition on five openness criteria including what it covers, who maintains it, and licensing.
+
+## [4. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+
+### Contents / Example Apps
+
+*   [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.
+
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+
+### Contents / Backups
+
+*   [Portabase](https://portabase.io/) - Agent-based platform for logical PostgreSQL backups and restores with decentralized execution and centralized orchestration. ([Source Code (⭐1.9k)](https://github.com/Portabase/portabase))
+*   [restoredrill (⭐114)](https://github.com/ahmadpiran/restoredrill) - CLI that restores your PostgreSQL backup into a disposable Docker container and verifies it actually works, producing a JSON report built for SOC 2 / ISO 27001 evidence.
+
+### Contents / GUI
+
+*   [Mongrel](https://www.visorcraft.com/postgresql) - Cross-platform PostgreSQL GUI with typed SQL, EXPLAIN (TEXT/JSON/XML/YAML), roles and grants, pgvector workflows, backups, and migrations (Commercial Software).
+*   [SaturnSQL](https://saturnsql.com) - Browser-based collaborative SQL editor for teams, with scheduled query delivery to Google Sheets and Slack (Commercial Software).
+*   [Sutido](https://sutido.com) - Windows desktop client covering PostgreSQL, MongoDB, SQL Server, Aerospike and ClickHouse in one window, with autocomplete from the live schema, SSH tunneling and server-side query cancellation (Commercial Software).
+
+### Contents / Extensions
+
+*   [pgmnemo (⭐8)](https://github.com/pgmnemo/pgmnemo) - Memory for AI coding agents as an extension: hybrid HNSW+BM25 recall, write-time provenance gates, and an outcome loop measured against a no-memory control (dataset published in-repo).
+
+### Contents / Utilities
+
+*   [pgrecon (⭐29)](https://github.com/Muzzammil242/pgrecon) - Offline Oracle-to-PostgreSQL migration assessment and schema conversion; parses PL/SQL with a real grammar, reports incompatibilities, estimates effort.
+*   [Syncle](https://syncle.dev) - Web interface for syncing rows between Postgres and MySQL, SQLite, MongoDB or Redis, by backfill, polling, or logical replication.
+
+### Contents / PaaS *(PostgreSQL as a Service)*
+
+*   [Neon](https://neon.com) - Serverless Postgres that separates storage and compute. Branching, scale-to-zero, read replicas with no extra storage, instant restore (PITR), managed authentication, and a PostgREST-compatible Data API.
+
+### Resources / Tutorials
+
+*   [PostgreSQL Terminal Simulator](https://devops-daily.com/games/postgres-terminal-simulator) - Guided psql lessons in a simulated terminal in the browser: meta-commands, EXPLAIN, indexes and transactions. Free, no signup.
+
+## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+
+### Table of Contents / Engines and Platforms
+
+*   [rekuiper (⭐8)](https://github.com/Indus-Stack/rekuiper) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Single-binary streaming SQL engine for filtering, aggregating, and routing MQTT and industrial telemetry on edge gateways.
+
+### Table of Contents / Data Integration and Pipelines
+
+*   [mq-bridge (⭐25)](https://github.com/marcomq/mq-bridge) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Embeddable library and CLI for moving data between brokers, databases incl. CDC, object storage and HTTP, usable from Rust, Python and Node.js.
+
+## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Audio & Video / Players
 
-*   [sozercan/kaset (⭐2.4k)](https://github.com/sozercan/kaset) — The missing YouTube and YouTube Music macOS app ☆`2,501`
-*   [kushalpandya/Petrichor (⭐1.7k)](https://github.com/kushalpandya/Petrichor) — An offline macOS music player ☆`1,754`
+*   [sozercan/kaset (⭐2.5k)](https://github.com/sozercan/kaset) — The missing YouTube and YouTube Music macOS app ☆`2,501`
+*   [kushalpandya/Petrichor (⭐1.8k)](https://github.com/kushalpandya/Petrichor) — An offline macOS music player ☆`1,754`
 *   [missuo/kumone (⭐1.3k)](https://github.com/missuo/kumone) — A native music player for macOS and iOS, built with SwiftUI ☆`1,280`
 *   [jo32/tvbox-silicon (⭐370)](https://github.com/jo32/tvbox-silicon) — Yingxia: a native SwiftUI TVBox player for Apple TV, iPhone, iPad ☆`368`
 *   [rvarunrathod/HiFidelity (⭐325)](https://github.com/rvarunrathod/HiFidelity) — A native macOS offline audiophile music player build with ☆`325`
 *   [bilipp/Lume (⭐176)](https://github.com/bilipp/Lume) — A modern, native IPTV player for Apple platforms. Browse, search, and ☆`176`
 *   [ad-repo/nullplayer (⭐178)](https://github.com/ad-repo/nullplayer) — nullPlayer is a free open source macOS media player with some ☆`178`
 *   [shirkeharsh/mooziac (⭐124)](https://github.com/shirkeharsh/mooziac) — Native YouTube & YouTube Music player for Mac (macOS) ☆`124`
-*   [wandercn/fmusic (⭐43)](https://github.com/wandercn/fmusic) — fmusic is a open source music player on SwiftUI ☆`44`
+*   [wandercn/fmusic (⭐44)](https://github.com/wandercn/fmusic) — fmusic is a open source music player on SwiftUI ☆`44`
 
 ### Communication / Email Clients
 
@@ -72,7 +172,7 @@
 *   [duongductrong/Snapzy (⭐3.5k)](https://github.com/duongductrong/Snapzy) — An open-source native macOS screenshot and screen recording ☆`3,505`
 *   [fayazara/Screendrop (⭐2.4k)](https://github.com/fayazara/Screendrop) — A beautiful screenshot + screen recording + Loom alternative ☆`2,366`
 *   [jsattler/BetterCapture (⭐1.7k)](https://github.com/jsattler/BetterCapture) — The macOS screen recorder for the rest of us - always free ☆`1,708`
-*   [lzhgus/Capso (⭐1.4k)](https://github.com/lzhgus/Capso) — Open-source screenshot and screen recording for macOS. The free ☆`1,482`
+*   [lzhgus/Capso (⭐1.5k)](https://github.com/lzhgus/Capso) — Open-source screenshot and screen recording for macOS. The free ☆`1,482`
 *   [Brkgng/ScrollSnap (⭐940)](https://github.com/Brkgng/ScrollSnap) — A macOS app for capturing and stitching scrolling screenshots ☆`940`
 *   [syi0808/screenize (⭐619)](https://github.com/syi0808/screenize) — (Development of Screenize is currently paused) Open-source macOS ☆`619`
 *   [maxchuquimia/quickdraw (⭐177)](https://github.com/maxchuquimia/quickdraw) — A macOS app for drawing over the screen - great for quick ☆`177`
@@ -104,8 +204,8 @@
 *   [AgentiLoop/Agent (⭐652)](https://github.com/AgentiLoop/Agent) — Agent! now supports macOS 14.6 or later, Apple Silicon and Intel ☆`652`
 *   [saihgupr/DMGMaker (⭐344)](https://github.com/saihgupr/DMGMaker) — A premium macOS DMG creation tool with live-rendered SwiftUI ☆`347`
 *   [jfarcand/mirroir-mcp (⭐278)](https://github.com/jfarcand/mirroir-mcp) — Drive a real, stock iPhone (and any macOS app) from any MCP ☆`278`
-*   [Stmol/ssh-keys-manager-macos-app (⭐253)](https://github.com/Stmol/ssh-keys-manager-macos-app) — A native macOS app for managing SSH keys, editing ☆`258`
-*   [nuance-dev/medio (⭐234)](https://github.com/nuance-dev/medio) — A minimal free macOS realtime diff checker app ☆`237`
+*   [Stmol/ssh-keys-manager-macos-app (⭐258)](https://github.com/Stmol/ssh-keys-manager-macos-app) — A native macOS app for managing SSH keys, editing ☆`258`
+*   [nuance-dev/medio (⭐237)](https://github.com/nuance-dev/medio) — A minimal free macOS realtime diff checker app ☆`237`
 *   [starcat-app/Starcat (⭐217)](https://github.com/starcat-app/Starcat) — A native macOS app that turns GitHub Stars into a searchable ☆`217`
 *   [AlexTkDev/MacOSCleaner (⭐126)](https://github.com/AlexTkDev/MacOSCleaner) — Free zero-telemetry CleanMyMac alternative for macOS ☆`132`
 *   [britchie4/Loupe (⭐114)](https://github.com/britchie4/Loupe) — macOS accessibility inspector for AI-agent workflows. Hover ☆`114`
@@ -117,7 +217,7 @@
 *   [ptsochantaris/trailer (⭐1.2k)](https://github.com/ptsochantaris/trailer) — Managing Pull Requests and Issues For GitHub & GitHub ☆`1,217`
 *   [Uncommon/Xit (⭐1.2k)](https://github.com/Uncommon/Xit) — Mac OS X Git GUI ☆`1,176`
 *   [gitx/gitx (⭐915)](https://github.com/gitx/gitx) — The best fork of the best lightweight, visual git client for macOS ☆`915`
-*   [yefga/Switzy (⭐221)](https://github.com/yefga/Switzy) — Minimalism SSH, Git Profile Identity Management for macOS ☆`224`
+*   [yefga/Switzy (⭐224)](https://github.com/yefga/Switzy) — Minimalism SSH, Git Profile Identity Management for macOS ☆`224`
 *   [Commit-Plus/commit-plus (⭐157)](https://github.com/Commit-Plus/commit-plus) — The Git client macOS deserves. Commit+ is a fast, native Git ☆`157`
 *   [dufu1991/foldgit (⭐145)](https://github.com/dufu1991/foldgit) — A native, lightweight Git client for macOS. Manage repositories and ☆`145`
 *   [pungme/superagent-desktop (⭐35)](https://github.com/pungme/superagent-desktop) — Free, open-source Mac app for Claude Code, Codex and ☆`35`
@@ -133,7 +233,7 @@
 *   [abue-ammar/tinycast (⭐9.2k)](https://github.com/abue-ammar/tinycast) — Tinycast - a tiny, fully native macOS launcher, hotkeys, and ☆`9,158`
 *   [vorssaint/vorssaint-utils (⭐33k)](https://github.com/vorssaint/vorssaint-utils) — Free and open-source macOS menu bar toolkit ☆`32,980`
 *   [thaw-app/Thaw (⭐13k)](https://github.com/thaw-app/Thaw) — The open source menu bar manager ☆`12,547`
-*   [ronitsingh10/FineTune (⭐9.8k)](https://github.com/ronitsingh10/FineTune) — FineTune, a macOS menu bar app for per-app volume control ☆`10,023`
+*   [ronitsingh10/FineTune (⭐10k)](https://github.com/ronitsingh10/FineTune) — FineTune, a macOS menu bar app for per-app volume control ☆`10,023`
 *   [darrylmorley/whatcable (⭐9.1k)](https://github.com/darrylmorley/whatcable) — macOS menu bar app that tells you, in plain English, what ☆`9,084`
 *   [JohnCoates/Aerial (⭐21k)](https://github.com/JohnCoates/Aerial) — Apple TV Aerial Screensaver for Mac ☆`21,206`
 *   [robbietilton/Compositor (⭐18k)](https://github.com/robbietilton/Compositor) — The Photoshop alternative for Mac ☆`18,443`
@@ -164,7 +264,7 @@
 *   [alptugan/icns-creator (⭐311)](https://github.com/alptugan/icns-creator) — create .icns files for Mac OS ☆`311`
 *   [rana-gmbh/FileFluss (⭐288)](https://github.com/rana-gmbh/FileFluss) — Handle files easily across cloud storage providers and your local ☆`288`
 *   [Lcharvol/MacSift (⭐273)](https://github.com/Lcharvol/MacSift) — Transparent macOS disk cleaner - groups files by app, moves to Trash ☆`273`
-*   [iHongRen/configEditor (⭐284)](https://github.com/iHongRen/configEditor) — A macOS config file manager that lets you quickly view, edit ☆`286`
+*   [iHongRen/configEditor (⭐286)](https://github.com/iHongRen/configEditor) — A macOS config file manager that lets you quickly view, edit ☆`286`
 *   [cristipufu/strata-files (⭐155)](https://github.com/cristipufu/strata-files) — Strata Files: a fast, native, keyboard-first file manager and ☆`228`
 *   [ivg-design/SidebarFavorites (⭐216)](https://github.com/ivg-design/SidebarFavorites) — Add custom folders to macOS Finder sidebar Favorites with ☆`216`
 *   [Manan-Santoki/OpenShelf (⭐198)](https://github.com/Manan-Santoki/OpenShelf) — Free, open-source Mac utility: start dragging any file, tap a ☆`198`
@@ -199,7 +299,7 @@
 *   [Sitoi/ClashBar (⭐1.6k)](https://github.com/Sitoi/ClashBar) — macOS SwiftUI + AppKit mihomo ☆`1,618`
 *   [pixel-point/media-downloader (⭐1.2k)](https://github.com/pixel-point/media-downloader) — Beautiful native macOS video downloader. Download and ☆`1,221`
 *   [grahampugh/erase-install (⭐960)](https://github.com/grahampugh/erase-install) — A script that automates downloading macOS installers, and ☆`960`
-*   [thsnkhn/harbor (⭐653)](https://github.com/thsnkhn/harbor) — Beautiful native macOS download manager for direct links, magnets, and ☆`683`
+*   [thsnkhn/harbor (⭐684)](https://github.com/thsnkhn/harbor) — Beautiful native macOS download manager for direct links, magnets, and ☆`683`
 *   [teologov/ReqRes (⭐323)](https://github.com/teologov/ReqRes) — Modern Web Debugging Proxy for macOS ☆`323`
 *   [Astrofrogger/pluck (⭐148)](https://github.com/Astrofrogger/pluck) — A native macOS app for yt-dlp, with Spotify support and ☆`148`
 *   [GeiserX/VPN-Bypass (⭐134)](https://github.com/GeiserX/VPN-Bypass) — macOS menu-bar app for fine-grained VPN routing: bypass the VPN ☆`134`
@@ -294,7 +394,7 @@
 *   [ydkhatri/mac\_apt (⭐1.1k)](https://github.com/ydkhatri/mac_apt) — macOS (& ios) Artifact Parsing Tool ☆`1,098`
 *   [marswaveai/TypeNo (⭐904)](https://github.com/marswaveai/TypeNo) — A free, open source, privacy-first voice input app for macOS ☆`904`
 *   [jamf/PPPC-Utility (⭐883)](https://github.com/jamf/PPPC-Utility) — Privacy Preferences Policy Control (PPPC) Utility ☆`883`
-*   [cosZone/MoePeek (⭐852)](https://github.com/cosZone/MoePeek) — A lightweight macOS selection translator built with pure Swift 6 ☆`859`
+*   [cosZone/MoePeek (⭐860)](https://github.com/cosZone/MoePeek) — A lightweight macOS selection translator built with pure Swift 6 ☆`859`
 *   [northpolesec/santa (⭐856)](https://github.com/northpolesec/santa) — A binary and file access authorization system for macOS ☆`856`
 *   [ClashX-Pro/ClashX (⭐803)](https://github.com/ClashX-Pro/ClashX) — ClashX is no longer maintained. Please migrate to ClashFX ☆`803`
 *   [bahattinkoc/ipaverse (⭐692)](https://github.com/bahattinkoc/ipaverse) — Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS & ☆`692`
@@ -305,7 +405,7 @@
 *   [shilch/macchanger (⭐279)](https://github.com/shilch/macchanger) — Change your mac address, for macOS ☆`279`
 *   [sametsazak/mergen (⭐252)](https://github.com/sametsazak/mergen) — Mergen is an open-source, native macOS application for auditing and ☆`252`
 *   [Dhahd/ClipPocket (⭐228)](https://github.com/Dhahd/ClipPocket) — ClipPocket - A smart clipboard manager for macOS that saves your ☆`228`
-*   [momenbasel/puresnitch (⭐181)](https://github.com/momenbasel/puresnitch) — Free, open-source application firewall for macOS. Little Snitch ☆`210`
+*   [momenbasel/puresnitch (⭐213)](https://github.com/momenbasel/puresnitch) — Free, open-source application firewall for macOS. Little Snitch ☆`210`
 *   [sorkila/lockpaw (⭐173)](https://github.com/sorkila/lockpaw) — Cover your Mac's screen with a hotkey while AI agents keep running ☆`173`
 *   [mkbula/HideMyData (⭐192)](https://github.com/mkbula/HideMyData) — Native macOS PII removal software with on device Vision OCR and ☆`192`
 *   [dutkiewiczmaciej/MakLock (⭐149)](https://github.com/dutkiewiczmaciej/MakLock) — Free, open-source macOS app that locks applications with ☆`159`
@@ -321,7 +421,7 @@
 
 ### System Tools / Menu Bar
 
-*   [Ebullioscopic/Atoll (⭐5k)](https://github.com/Ebullioscopic/Atoll) — Dynamic Island for macOS ☆`5,186`
+*   [Ebullioscopic/Atoll (⭐5.2k)](https://github.com/Ebullioscopic/Atoll) — Dynamic Island for macOS ☆`5,186`
 *   [nguyenphutrong/quotio (⭐4.9k)](https://github.com/nguyenphutrong/quotio) — Stop juggling AI accounts. Quotio is a beautiful native macOS ☆`4,909`
 *   [hamed-elfayome/Claude-Usage-Tracker (⭐3.7k)](https://github.com/hamed-elfayome/Claude-Usage-Tracker) — Native macOS menu bar app for tracking Claude ☆`3,743`
 *   [automazeio/vibeproxy (⭐3.4k)](https://github.com/automazeio/vibeproxy) — Native macOS menu bar app to use your Claude Code & ChatGPT ☆`3,405`
@@ -359,8 +459,8 @@
 *   [mrkai77/DynamicNotchKit (⭐477)](https://github.com/mrkai77/DynamicNotchKit) — Seamlessly adapt your macOS app to the notch era ☆`477`
 *   [lifedever/health-tick-release (⭐464)](https://github.com/lifedever/health-tick-release) — HealthTick - macOS Menu Bar Sedentary Reminder Tool ☆`464`
 *   [AlexPerathoner/SlimHUD (⭐468)](https://github.com/AlexPerathoner/SlimHUD) — Replacement for MacOS' volume, brightness and keyboard ☆`469`
-*   [saihgupr/GoogleDriveSync (⭐424)](https://github.com/saihgupr/GoogleDriveSync) — A native macOS menu bar app for seamless Google Drive syncing ☆`430`
-*   [f-is-h/Usage4Claude (⭐410)](https://github.com/f-is-h/Usage4Claude) — Monitor all your Claude/Codex usage limits in real-time from your ☆`415`
+*   [saihgupr/GoogleDriveSync (⭐430)](https://github.com/saihgupr/GoogleDriveSync) — A native macOS menu bar app for seamless Google Drive syncing ☆`430`
+*   [f-is-h/Usage4Claude (⭐416)](https://github.com/f-is-h/Usage4Claude) — Monitor all your Claude/Codex usage limits in real-time from your ☆`415`
 *   [Bunn/PiStats (⭐411)](https://github.com/Bunn/PiStats) — macOS app to visualize Pi-hole information ☆`411`
 *   [ericjypark/codex-island (⭐359)](https://github.com/ericjypark/codex-island) — CodexIsland - AI usage limits in your MacBook notch ☆`363`
 *   [Artzainnn/ClaudeUsageBar (⭐349)](https://github.com/Artzainnn/ClaudeUsageBar) — Track your Claude.ai usage right from your Mac menu bar ☆`349`
@@ -373,8 +473,8 @@
 *   [Wunderlandmedia/HotkeyClash (⭐228)](https://github.com/Wunderlandmedia/HotkeyClash) — Find where your keyboard shortcuts clash. A free ☆`228`
 *   [nbolar/PlayStatus (⭐197)](https://github.com/nbolar/PlayStatus) — macOS app that allows the control of Spotify and AppleMusic/iTunes ☆`198`
 *   [megootronic/Blink (⭐191)](https://github.com/megootronic/Blink) — A little robot that lives in your menu bar and keeps an eye on your ☆`191`
-*   [nghialuong/Lidless (⭐190)](https://github.com/nghialuong/Lidless) — macOS menu-bar app: keep your Mac running with the lid closed (for ☆`190`
 *   [happy666End/MenuBarHider (⭐179)](https://github.com/happy666End/MenuBarHider) — Hide menu bar icons on macOS 27. Two separators, one click ☆`179`
+*   [nghialuong/Lidless (⭐190)](https://github.com/nghialuong/Lidless) — macOS menu-bar app: keep your Mac running with the lid closed (for ☆`190`
 *   [st0012/cctop (⭐161)](https://github.com/st0012/cctop) — A keyboard-first menubar app to monitor and jump between AI coding ☆`161`
 *   [nanvon/cc-bar (⭐161)](https://github.com/nanvon/cc-bar) — macOS AI Codex Claude Code Cursor Antigravity Token Native macOS menu ☆`161`
 *   [stevenselcuk/Pomosh-macOS (⭐171)](https://github.com/stevenselcuk/Pomosh-macOS) — Pomosh is your next awesome Pomodoro Technique assistant on ☆`171`
@@ -410,7 +510,7 @@
 *   [designsbymuzeer/Bye-Mac-App (⭐88)](https://github.com/designsbymuzeer/Bye-Mac-App) — Close your running apps easily. One click, and they're ☆`88`
 *   [vaspike/DevSwitcher2 (⭐79)](https://github.com/vaspike/DevSwitcher2) — Efficient and elegant macOS window switching tool ☆`79`
 *   [ZimengXiong/aquarium (⭐78)](https://github.com/ZimengXiong/aquarium) — keep agents running in your bag ☆`78`
-*   [kdcokenny/OpenDictation (⭐61)](https://github.com/kdcokenny/OpenDictation) — Mac-native dictation that just works - lives in the notch ☆`63`
+*   [kdcokenny/OpenDictation (⭐63)](https://github.com/kdcokenny/OpenDictation) — Mac-native dictation that just works - lives in the notch ☆`63`
 *   [Mason363/Tactile (⭐63)](https://github.com/Mason363/Tactile) — A light-weight macOS system wide app for trackpad haptics ☆`63`
 *   [plan44/localSites (⭐86)](https://github.com/plan44/localSites) — Simple Menu Bar (Status Bar) App for mac OS and simple table app for ☆`86`
 *   [Notchly/Notchly (⭐58)](https://github.com/Notchly/Notchly) — Lightweight Dynamic Island for macOS with AI coding agent notifications ☆`58`
@@ -423,7 +523,7 @@
 *   [evoleinik/fnkey (⭐48)](https://github.com/evoleinik/fnkey) — Hold Fn, speak, paste. Streaming Deepgram dictation for the macOS menu ☆`48`
 *   [sj719045032/claude-statistics (⭐48)](https://github.com/sj719045032/claude-statistics) — A macOS menu bar app for monitoring Claude Code usage ☆`48`
 *   [yagcioglutoprak/AIQuotaBar (⭐47)](https://github.com/yagcioglutoprak/AIQuotaBar) — Claude, ChatGPT, Cursor & Copilot usage limits in your ☆`47`
-*   [simonsruggi/StockDock (⭐41)](https://github.com/simonsruggi/StockDock) — Free & open-source macOS menu bar app to track stocks, ETFs ☆`45`
+*   [simonsruggi/StockDock (⭐46)](https://github.com/simonsruggi/StockDock) — Free & open-source macOS menu bar app to track stocks, ETFs ☆`45`
 *   [Rydersel/Candela (⭐45)](https://github.com/Rydersel/Candela) — Candela protects your displays from OLED burn-in and wear: panel ☆`45`
 *   [dvdweyer/KeyMinder (⭐45)](https://github.com/dvdweyer/KeyMinder) — A simple macOS app that shows keyboard shortcuts of the current app ☆`45`
 *   [camguillory/Audio-Priority-Bar (⭐43)](https://github.com/camguillory/Audio-Priority-Bar) — A native macOS menu bar app that switches to your ☆`43`
@@ -460,7 +560,7 @@
 *   [shiquda/SpotAsk (⭐21)](https://github.com/shiquda/SpotAsk) — One hotkey to ask any AI on Mac. Open-source menu bar assistant: press ☆`22`
 *   [alexiosus/WandelBar (⭐20)](https://github.com/alexiosus/WandelBar) — Customize the macOS Tahoe menu bar background with blur, tint ☆`21`
 *   [BySergiMM/OmniMac (⭐21)](https://github.com/BySergiMM/OmniMac) — Eleven Mac utilities in one menu bar app: a Dynamic Island for any ☆`21`
-*   [fikrikarim/repose (⭐33)](https://github.com/fikrikarim/repose) — Break reminder for macOS that pauses during meetings ☆`34`
+*   [fikrikarim/repose (⭐34)](https://github.com/fikrikarim/repose) — Break reminder for macOS that pauses during meetings ☆`34`
 *   [inequitas/performancemonitor (⭐19)](https://github.com/inequitas/performancemonitor) — Lightweight, open-source macOS menu bar system monitor ☆`19`
 *   [andyzasl/browserly (⭐19)](https://github.com/andyzasl/browserly) — A smart macOS menu bar app that routes URLs to the right browser ☆`19`
 *   [letsur-dev/claude-peak (⭐19)](https://github.com/letsur-dev/claude-peak) — Claude Max usage monitor for macOS menu bar ☆`19`
@@ -485,7 +585,7 @@
 
 ### System Tools / Package Managers
 
-*   [momenbasel/PureMac (⭐7.3k)](https://github.com/momenbasel/PureMac) — Free, open-source macOS cleaner. CleanMyMac alternative with ☆`7,640`
+*   [momenbasel/PureMac (⭐7.7k)](https://github.com/momenbasel/PureMac) — Free, open-source macOS cleaner. CleanMyMac alternative with ☆`7,640`
 *   [ntfstool/ntfstool (⭐4.2k)](https://github.com/ntfstool/ntfstool) — Free, open-source NTFS read-write for macOS, built on Apple ☆`4,193`
 *   [blitzdotdev/blitz-mac (⭐1.8k)](https://github.com/blitzdotdev/blitz-mac) — Native macOS App Store Connect tool with MCP. Submit iOS apps ☆`1,766`
 *   [alielsokary/CaskHub (⭐1.4k)](https://github.com/alielsokary/CaskHub) — Native GUI for Homebrew Casks ☆`1,408`
@@ -499,7 +599,7 @@
 ### System Tools / QuickLook Plugins
 
 *   [xykong/flux-markdown (⭐1.3k)](https://github.com/xykong/flux-markdown) — Markdown Preview Enhanced for macOS QuickLook ☆`1,304`
-*   [nuance-dev/Web (⭐663)](https://github.com/nuance-dev/Web) — A native macOS browser with Glance for quick lookups and optional ☆`667`
+*   [nuance-dev/Web (⭐667)](https://github.com/nuance-dev/Web) — A native macOS browser with Glance for quick lookups and optional ☆`667`
 *   [mobrava/Clipbara (⭐254)](https://github.com/mobrava/Clipbara) — Open-source clipboard manager for macOS and iPhone. Card-style ☆`257`
 *   [altic-dev/PeekX (⭐260)](https://github.com/altic-dev/PeekX) — Quick Look Extension for Folder Preview on macOS ☆`260`
 *   [ezzy1630/Downright (⭐81)](https://github.com/ezzy1630/Downright) — Free native Markdown editor and reader for macOS. Beautiful ☆`81`
@@ -522,7 +622,7 @@
 *   [syncthing/syncthing-macos (⭐4k)](https://github.com/syncthing/syncthing-macos) — Official frugal and native macOS Syncthing application ☆`4,003`
 *   [humanitas-labs/quill (⭐4k)](https://github.com/humanitas-labs/quill) — Ultra-minimalist macOS recording + transcription ☆`3,958`
 *   [sveinbjornt/Platypus (⭐3.5k)](https://github.com/sveinbjornt/Platypus) — Create native macOS applications from command line scripts ☆`3,460`
-*   [RoversX/LaunchNext (⭐3.1k)](https://github.com/RoversX/LaunchNext) — Bring your Launchpad back in MacOS26+ ,highly customizable ☆`3,166`
+*   [RoversX/LaunchNext (⭐3.2k)](https://github.com/RoversX/LaunchNext) — Bring your Launchpad back in MacOS26+ ,highly customizable ☆`3,166`
 *   [michaelvillar/timer-app (⭐2.7k)](https://github.com/michaelvillar/timer-app) — A simple Timer app for Mac ☆`2,719`
 *   [tldev/dorso (⭐2.6k)](https://github.com/tldev/dorso) — A macOS app that blurs your screen when you slouch ☆`2,622`
 *   [wzh4869/AppPorts (⭐2.2k)](https://github.com/wzh4869/AppPorts) — A macOS utility to seamlessly migrate applications to external ☆`2,203`
@@ -558,7 +658,7 @@
 *   [qunqin24/Pulse (⭐609)](https://github.com/qunqin24/Pulse) — Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI ☆`626`
 *   [n0shake/clocker (⭐628)](https://github.com/n0shake/clocker) — macOS app to plan and organize through timezones ☆`628`
 *   [oomol-lab/LockIME (⭐619)](https://github.com/oomol-lab/LockIME) — A native macOS menu-bar app that keeps your keyboard input source ☆`619`
-*   [bwya77/DockAnchor (⭐588)](https://github.com/bwya77/DockAnchor) — DockAnchor is a simple macOS utility that stops the Dock from ☆`599`
+*   [bwya77/DockAnchor (⭐600)](https://github.com/bwya77/DockAnchor) — DockAnchor is a simple macOS utility that stops the Dock from ☆`599`
 *   [johnbean393/KeyType (⭐577)](https://github.com/johnbean393/KeyType) — An open-source Cotypist with macOS system wide AI autocomplete ☆`577`
 *   [inket/stts (⭐568)](https://github.com/inket/stts) — A simple macOS app for monitoring the status of cloud services ☆`570`
 *   [IngmarStein/Monolingual (⭐571)](https://github.com/IngmarStein/Monolingual) — Remove unnecessary language resources from macOS ☆`574`
@@ -586,7 +686,7 @@
 *   [mpereira/macbook-playbook (⭐227)](https://github.com/mpereira/macbook-playbook) — Install all your applications and configure everything the ☆`227`
 *   [getoffmyhack/waveSDR (⭐236)](https://github.com/getoffmyhack/waveSDR) — macOS native desktop Software Defined Radio app ☆`236`
 *   [trey-a-12/LaunchBack (⭐243)](https://github.com/trey-a-12/LaunchBack) — A free and open-source re-implementation of the macOS Launchpad ☆`243`
-*   [NullPointerDepressiveDisorder/MiddleDrag (⭐241)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) — Three-finger trackpad gestures for ☆`243`
+*   [NullPointerDepressiveDisorder/MiddleDrag (⭐243)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) — Three-finger trackpad gestures for ☆`243`
 *   [jianyintang/find-disk-killer (⭐222)](https://github.com/jianyintang/find-disk-killer) — See what keeps using your disk ☆`222`
 *   [iosrxwy/MacAssistant (⭐222)](https://github.com/iosrxwy/MacAssistant) — Native SwiftUI toolbox for macOS maintenance and Apple-binary ☆`221`
 *   [VladUZH/qwen-scribe (⭐222)](https://github.com/VladUZH/qwen-scribe) — Private, local transcription and system-wide dictation for Apple ☆`222`
@@ -598,7 +698,7 @@
 *   [andreypudov/core-eq (⭐200)](https://github.com/andreypudov/core-eq) — System-wide equalizer for macOS ☆`200`
 *   [tddworks/SkillsManager (⭐205)](https://github.com/tddworks/SkillsManager) — A macOS application for discovering, browsing, and installing ☆`205`
 *   [lexrus/RegExPlus (⭐210)](https://github.com/lexrus/RegExPlus) — A nifty RegEx test tool built with SwiftUI ☆`210`
-*   [writronic/MaCursor (⭐157)](https://github.com/writronic/MaCursor) — Cursor Control for macOS ☆`176`
+*   [writronic/MaCursor (⭐177)](https://github.com/writronic/MaCursor) — Cursor Control for macOS ☆`176`
 *   [lynnswap/NeoSimulator (⭐174)](https://github.com/lynnswap/NeoSimulator) — A lightweight simulator app for iPhone, iPad, Apple Watch ☆`173`
 *   [srimanachanta/Stasis (⭐161)](https://github.com/srimanachanta/Stasis) — Battery Management and Dashboard for Apple Silicon - A Better ☆`161`
 *   [SafeExamBrowser/seb-mac (⭐144)](https://github.com/SafeExamBrowser/seb-mac) — Safe Exam Browser for macOS and iOS ☆`148`
@@ -611,10 +711,10 @@
 *   [fatwang2/Pulse (⭐119)](https://github.com/fatwang2/Pulse) — Glanceable market data for you ☆`118`
 *   [BarryBarrywu/tutti (⭐113)](https://github.com/BarryBarrywu/tutti) — Multi-output audio and display control for Mac - one panel for ☆`113`
 *   [hieunc229/Pie (⭐111)](https://github.com/hieunc229/Pie) — Native macOS GUI for Pi Coding Agent ☆`111`
-*   [Aboudjem/Sleepless (⭐112)](https://github.com/Aboudjem/Sleepless) — Keep your MacBook awake with the lid closed, on battery, with no ☆`123`
+*   [Aboudjem/Sleepless (⭐123)](https://github.com/Aboudjem/Sleepless) — Keep your MacBook awake with the lid closed, on battery, with no ☆`123`
 *   [chayapats/oliv (⭐111)](https://github.com/chayapats/oliv) — Thai + English voice typing for Mac. Offline speech-to-text that types ☆`111`
 *   [migsilva89/loadout (⭐104)](https://github.com/migsilva89/loadout) — See and manage what your coding assistants load - skills ☆`104`
-*   [photangralenphie/MyMedia (⭐103)](https://github.com/photangralenphie/MyMedia) — App for displaying your local movies and TV shows for macOS ☆`102`
+*   [photangralenphie/MyMedia (⭐102)](https://github.com/photangralenphie/MyMedia) — App for displaying your local movies and TV shows for macOS ☆`102`
 *   [caiyuyou1227-glitch/tequila (⭐99)](https://github.com/caiyuyou1227-glitch/tequila) — A native, open-source macOS all-in-one productivity app ☆`99`
 *   [HasBrain/MacOS-DPIManager (⭐114)](https://github.com/HasBrain/MacOS-DPIManager) — Enable HiDPI modes and adjust font smoothing for external ☆`114`
 *   [joexk1/JoeBro (⭐91)](https://github.com/joexk1/JoeBro) — A native macOS AI workspace that's actually yours - local-first ☆`95`
@@ -622,7 +722,7 @@
 *   [gh123man/OpenSnek (⭐91)](https://github.com/gh123man/OpenSnek) — Lightweight configuration software for USB and bluetooth Razer ☆`91`
 *   [haplollc/Vesalius (⭐81)](https://github.com/haplollc/Vesalius) — A map of your codebase for Claude Code: an on-device code graph with ☆`81`
 *   [chentao1006/Quitty (⭐81)](https://github.com/chentao1006/Quitty) — Quitty is a lightweight, modern macOS utility that automatically ☆`81`
-*   [yaroshevych/desktopctl (⭐69)](https://github.com/yaroshevych/desktopctl) — OSX launcher and GPU-accelerated CLI tool for AI agents ☆`70`
+*   [yaroshevych/desktopctl (⭐71)](https://github.com/yaroshevych/desktopctl) — OSX launcher and GPU-accelerated CLI tool for AI agents ☆`70`
 *   [dio7153/AquaType (⭐71)](https://github.com/dio7153/AquaType) — Mac A Zhuyin input method for Mac that suggests the right words even ☆`71`
 *   [alphaArgon/ScrollToZoom (⭐85)](https://github.com/alphaArgon/ScrollToZoom) — A Mac utility that emulates zoom gestures using mouse wheel ☆`85`
 *   [MidZai/aman\_check (⭐67)](https://github.com/MidZai/aman_check) — Dated, honest condition report for a used Mac: locks, battery, SSD ☆`69`
@@ -633,7 +733,7 @@
 *   [qzz0518/Charker (⭐62)](https://github.com/qzz0518/Charker) — Native macOS companion for the Anker Prime 160W charger and 250W ☆`62`
 *   [jaywcjlove/vidwall-hub (⭐60)](https://github.com/jaywcjlove/vidwall-hub) — Vidwall Hub is a tool that allows you to easily import videos ☆`60`
 *   [Tuguberk/napwatch (⭐74)](https://github.com/Tuguberk/napwatch) — A terminal UI for diagnosing and controlling macOS power/battery ☆`74`
-*   [larryxiao/openquack (⭐52)](https://github.com/larryxiao/openquack) — Voice dictation menu-bar app for macOS. Press a hotkey, speak ☆`55`
+*   [larryxiao/openquack (⭐55)](https://github.com/larryxiao/openquack) — Voice dictation menu-bar app for macOS. Press a hotkey, speak ☆`55`
 *   [qzrzz/QLaunch (⭐54)](https://github.com/qzrzz/QLaunch) — A fast, minimal, high-quality Launchpad for macOS ☆`54`
 *   [nilava/TabType (⭐52)](https://github.com/nilava/TabType) — Free, open-source AI autocomplete for macOS - on-device ghost-text ☆`53`
 *   [DeepanshuMishraa/nootch (⭐49)](https://github.com/DeepanshuMishraa/nootch) — A native macOS overlay for AI provider usage and agent activity ☆`49`
@@ -669,7 +769,7 @@
 *   [Ryware/Headroom (⭐19)](https://github.com/Ryware/Headroom) — Free native macOS disk analyzer with a folder tree, treemap, file ☆`18`
 *   [tiagomoraes/browbro (⭐18)](https://github.com/tiagomoraes/browbro) — BowBro is a macos application that let's the user select the ☆`18`
 *   [mastro993/keyameleon (⭐16)](https://github.com/mastro993/keyameleon) — Automatic keyboard layout switcher for macOS ☆`16`
-*   [kamjin3086/AppUninstaller (⭐35)](https://github.com/kamjin3086/AppUninstaller) — A lightweight, native macOS app uninstaller with ☆`36`
+*   [kamjin3086/AppUninstaller (⭐36)](https://github.com/kamjin3086/AppUninstaller) — A lightweight, native macOS app uninstaller with ☆`36`
 *   [cursorvoice/cursor-voice (⭐27)](https://github.com/cursorvoice/cursor-voice) — Talk to your Mac - a native macOS voice assistant that sees ☆`27`
 *   [Slllava/gridfy (⭐37)](https://github.com/Slllava/gridfy) — Grid Calculator for Mac OS ☆`37`
 *   [netsvetaev/Old-Launchpad (⭐35)](https://github.com/netsvetaev/Old-Launchpad) — Good Old Launchpad for MacOS 26 Tahoe ☆`35`
@@ -685,7 +785,7 @@
 *   [Ji4n1ng/OpenInTerminal (⭐7k)](https://github.com/Ji4n1ng/OpenInTerminal) — Finder Toolbar app for macOS to open the current directory ☆`7,050`
 *   [yuuichieguchi/Calyx (⭐352)](https://github.com/yuuichieguchi/Calyx) — A native macOS terminal app built on Ghostty for running and ☆`356`
 *   [amanfromsolan/enso (⭐38)](https://github.com/amanfromsolan/enso) — A friendly, native macOS terminal with workspaces, a command ☆`38`
-*   [AwalTerminal/Awal-terminal (⭐34)](https://github.com/AwalTerminal/Awal-terminal) — LLM-native terminal emulator for macOS - AI components ☆`35`
+*   [AwalTerminal/Awal-terminal (⭐35)](https://github.com/AwalTerminal/Awal-terminal) — LLM-native terminal emulator for macOS - AI components ☆`35`
 *   [vestaterm/Vesta (⭐24)](https://github.com/vestaterm/Vesta) — A native macOS terminal for running AI coding agents in parallel ☆`24`
 *   [snowztech/farol (⭐18)](https://github.com/snowztech/farol) — A fast macOS terminal for working with coding agents, built on ☆`20`
 *   [OpenFabrica/aster (⭐17)](https://github.com/OpenFabrica/aster) — A native macOS terminal workspace. Tabs, splits, files, editor and ☆`17`
@@ -696,7 +796,7 @@
 *   [moonbai-studio/tungsten-edge (⭐644)](https://github.com/moonbai-studio/tungsten-edge) — A per-window taskbar for macOS - a Dock replacement that ☆`644`
 *   [mocki-toki/barik (⭐519)](https://github.com/mocki-toki/barik) — macOS menu bar replacement, with yabai and AeroSpace support ☆`519`
 *   [antonyshakirov/hop (⭐166)](https://github.com/antonyshakirov/hop) — Free, open-source menu bar toolkit for macOS. Eighteen tools in ☆`166`
-*   [nshi/dimsum (⭐33)](https://github.com/nshi/dimsum) — Minimalist active window highlighting mac app ☆`34`
+*   [nshi/dimsum (⭐34)](https://github.com/nshi/dimsum) — Minimalist active window highlighting mac app ☆`34`
 *   [mikusnuz/nudge (⭐24)](https://github.com/mikusnuz/nudge) — A free, open-source macOS window manager. Magnet-compatible keyboard ☆`25`
 *   [Seb-GRAF/StableBar (⭐14)](https://github.com/Seb-GRAF/StableBar) — A native, customizable menu bar for macOS, with themes, widgets ☆`21`
 
@@ -711,7 +811,7 @@
 *   [dortanes/openspatial (⭐27)](https://github.com/dortanes/openspatial) — Spatial audio for any headphones on Mac: 7.1 surround with head ☆`27`
 *   [notnaki/vane (⭐4)](https://github.com/notnaki/vane) — Open-source native macOS browser with sidebar tabs, Spaces, Split View ☆`21`
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Agents
 
@@ -722,7 +822,7 @@
 *   [Ariadne (⭐1)](https://github.com/hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
     *   *Built with LLMs*.
 
-## [3. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [9. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -730,7 +830,7 @@
 *   [MQTTProbe (⭐41)](https://github.com/bluegrassiot/mqttprobe) - Cross platform MQTT diagnostic client for IIoT with live topic browsing, payload decoding across multiple formats, charting, built in emulators, and advanced Sparkplug B integration.
 *   [TrailTransfer (⭐0)](https://github.com/RainerGewalt/trailtransfer) - MQTT-controlled rclone worker for edge file transfers with a local policy and a hash-chained, independently verifiable evidence journal.
 
-## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 2\. Azure OpenAI & Copilot
 
@@ -753,13 +853,7 @@
     *   [Learning Resources & Workshops](https://github.com/kimtth/azure-openai-llm-notes/blob/main/README.md/section/azure.md#learning-resources--workshops)
     *   [Microsoft Research](https://github.com/kimtth/azure-openai-llm-notes/blob/main/README.md/section/azure.md#microsoft-research)
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Web Monitoring / GitHub
-
-*   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
-
-## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Productivity
 
@@ -777,13 +871,13 @@
 
 *   [Aster Mail](https://openappscout.com/apps/aster-mail/) - End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains. ([Source (⭐87)](https://github.com/Aster-Privacy/Aster-Mail))
 
-## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [12. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [speedrunner (⭐4)](https://github.com/anthonyGosme/speedrunner) - Cuts the start-up time of `ansible`, `ansible-doc` and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.
 
-## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Indexes
 
@@ -803,6 +897,7 @@
 *   [TeleGeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infrastructure providers around the world.
 *   [Hurricane Electric 3D Map](http://he.net/3d-map/) - Interactive 3D map of undersea cables and Hurricane Electric Points of Presence (POPs) and routes.
 *   [nperf Mobile Coverage Maps](https://www.nperf.com/en/map) - Mobile coverage based on data collected from the [nperf app](https://www.nperf.com/en/nperf-applications/).
+*   [Giga Global connectivity map for children](https://maps.giga.global/map) - Global map of connected schools and health facilities from  [Giga](https://giga.global/), a joint initiative of UNICEF and ITU.
 
 ### Periodic Global Reports / Discontinued
 
@@ -838,13 +933,13 @@
 
 *   [Opensignal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Country reports based on Opensignal data gathering.
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Miscellaneous Tools / Visualization Tools
 
 *   [PredictorLab (⭐67)](https://github.com/MarkIvor/predictorlab) - Self-hosted tabular ML: leakage guard, conformal intervals, profit-optimized thresholds, counterfactuals, drift monitoring. Docker, REST API, MCP server. MIT.
 
-## [10. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [15. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Where to Start / Wrappers
 
@@ -854,13 +949,13 @@
 
 *   [Privileged Containers Exercise](https://ransomleak.com/exercises/privileged-containers/) - Escape a privileged Docker container to the host in the browser, then fix it with a non-root user, dropped capabilities, and a read-only rootfs.
 
-## [11. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [16. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Databases / SQL Query Builders
 
 *   [doug-martin/goqu (⭐2.7k)](https://github.com/doug-martin/goqu) — SQL builder and query library for golang ☆`2,675`
 
-## [12. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [17. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
@@ -886,13 +981,13 @@
 
 *   [CoverNice](https://covernice.com/) - KDP cover studio: five directions, spine width from page count, 300 dpi wrap PDF. `#freemium`
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Online Compiler
 
 *   [Devtoolry](https://devtoolry.com/compilers/cpp) - An online C/C++ compiler that runs Clang in the browser via WebAssembly.
 
-## [14. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / RFID
 
@@ -931,7 +1026,7 @@
 
 *   [thonny-ai (⭐0)](https://github.com/AstroQuestStudio/thonny-ai) - Thonny plugin and MCP server that lets AI assistants run code, monitor long-running programs and sync projects on MicroPython boards, visibly and with optional approval.
 
-## [15. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [20. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### 🔵 Bluetooth & BLE
 
@@ -941,7 +1036,7 @@
 
 *   [HA Desktop Widget (⭐98)](https://github.com/Robertg761/HA-Desktop-Widget) - Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.
 
-## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -982,7 +1077,7 @@
 *   [BESSER (⭐200)](https://github.com/BESSER-PEARL/BESSER) - Open-source Python low-code platform: draw a UML model in a web editor and generate FastAPI, React, Django and SQLAlchemy code.
 *   [BESSER Agentic Framework (⭐71)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) - Design and implement agents and chatbots in Python.
 
-## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [22. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
@@ -995,6 +1090,7 @@
 
 ### Graphics / Texture Tools
 
+*   :money\_with\_wings: [DDS Tools](https://ddstools.com/) - Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.
 *   :money\_with\_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 
 ### Graphics / Character Generators
@@ -1005,6 +1101,7 @@
 
 *   :money\_with\_wings: [GameShipKit Autotile Generator](https://gameshipkit.com/tools/autotile-generator/) - Make blob and RPG Maker style autotiles from two textures, with Godot 4 and Tiled tilesets.
 *   :money\_with\_wings: [GameShipKit Map Generator](https://gameshipkit.com/tools/map-generator/) - Seeded dungeon, cave and island maps, exported as PNG, Tiled JSON and CSV.
+*   :free: [SimplePixelArt Tileset Editor](https://simplepixelart.com/tilesets/editor) - Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.
 
 ### Graphics / Animation
 
@@ -1013,6 +1110,7 @@
 ### Graphics / Vector/Image Editor
 
 *   :free: [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
+*   :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
 
 ### Graphics / Modeling
 
@@ -1021,16 +1119,17 @@
 ### AI / Voxel Editors
 
 *   :money\_with\_wings: [Flockbay](https://flockbay.com/?utm_source=magictools\&utm_medium=directory\&utm_campaign=listing) - Free AI game maker built on Godot: a desktop app where an AI agent builds and playtests a Godot 4 project on your disk, on free hosted AI, your own Claude or ChatGPT account, or your own agent over MCP. Optional paid plans add hosted AI usage.
+*   :free: [QuickMatch](https://quickmatch.si) - Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.
 *   :money\_with\_wings: [SpriteCanvas](https://spritecanvas.com/) - AI sprite animation generator for 2D games: make a character from text or an image, animate idle, walk, run, jump and attack moves, and export transparent PNG sprite sheets with a JSON atlas for Phaser, PixiJS and Godot. Free daily credits.
 *   :money\_with\_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
 
-## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [23. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Internationalization / Form Components
 
 *   [svelte-intlayer (⭐863)](https://github.com/aymericzip/intlayer) - Per-component i18n focused on bundle size. Declarative + compiler based i18n.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -1056,7 +1155,7 @@
 
 *   [navasvarela/vimdojo (⭐0)](https://github.com/navasvarela/vimdojo) - Puzzle game for learning Vim motions and workflows, scored on keystrokes against par.
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1065,17 +1164,22 @@
     One command. A short, descriptive name. Zero copy-pasting.
 *   [walh-shell (⭐2)](https://github.com/casonadams/walh-shell) - A fast, modern, and extensible Zsh (and Bash) plugin for instant terminal color theme switching that lets you instantly change your terminal’s color scheme with a single command.
 
-## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [26. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### DevTools / Other external resources
 
 *   [TestMu AI HyperExecute](https://www.testmuai.com/support/docs/capybara-on-hyperexecute-grid/) - Run Capybara browser tests on TestMu AI's test orchestration cloud.
 
-## [22. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Finance
 
 *   [polars-talib-fast (⭐0)](https://github.com/meet-brad-ch/polars-talib-fast) - Every TA-Lib function (237) as a Polars expression, on TA-Lib's official Rust port, with TA-Lib's default parameters and output names by [@meet-brad-ch](https://github.com/meet-brad-ch).
+*   [fastitch (⭐2)](https://github.com/ArkaKhorchidian/fastitch) - Fast NASDAQ TotalView-ITCH 5.0 parser that decodes full trading days straight into Polars DataFrames, with order-book reconstruction by [@ArkaKhorchidian](https://github.com/ArkaKhorchidian).
+
+### R / Miscellaneous
+
+*   [polars-ros (⭐1)](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
 
 ### Cheat Sheets / Miscellaneous
 
@@ -1085,7 +1189,7 @@
 
 *   [U.S. bank analysis with Polars and DuckDB (⭐1)](https://github.com/anshuman-pandey/us-bank-data/blob/v0.2.0/notebooks/05_polars_duckdb_bank_data.ipynb) - A runnable notebook on lazy Parquet scans, validated identity joins, missing-value handling, and SQL reconciliation using a frozen FDIC bank dataset.
 
-## [23. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [28. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Fingerprint
 
@@ -1108,7 +1212,7 @@
 
 *   [Wakaru (⭐1.1k)](https://github.com/pionxzh/wakaru) - JavaScript decompiler that splits production bundles from webpack, esbuild, Browserify, and Metro into modules and turns minified and transpiled code back into readable JavaScript, without executing it, by [@pionxzh](https://github.com/pionxzh).
 
-## [24. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [29. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Medical health / Apps and services
 
@@ -1116,8 +1220,8 @@
 
 ### Video and Audio Conferencing / Desktop
 
-*   **WhatsApp**: shares metadata such as who you call and when with Meta. <sub>[ToS;DR](https://tosdr.org/en/service/198)</sub>
-*   **Zoom**: claimed end-to-end encryption that its meetings didn't have. <sub>[ToS;DR](https://tosdr.org/en/service/2198) · [Source](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)</sub>
+*   **WhatsApp**: in 2021 Ireland fined it €225 million for not properly explaining what data it shares with Facebook. <sub>[ToS;DR](https://tosdr.org/en/service/198) · [Source](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-whatsapp-inquiry)</sub>
+*   **Zoom**: paid $85 million in 2021 to settle claims it shared user data with Facebook, Google and LinkedIn. <sub>[ToS;DR](https://tosdr.org/en/service/2198) · [Source](https://www.cnbc.com/2021/08/01/zoom-reaches-85-million-settlement-over-user-privacy-and-hacker-zoombombing.html)</sub>
 *   **[BigBlueButton](https://bigbluebutton.org/)** - Self-hosted web conferencing built for online classes, with whiteboard, breakout rooms and recordings. `⚠️ website trackers` <sub>self-host · LGPL-3.0</sub>
 *   **[Briefing](https://brie.fi/ng)** - Group video chat in the browser over direct WebRTC connections, with no account. <sub>self-host · AGPL-3.0</sub>
 *   **[Chitchatter](https://chitchatter.im/)** - Serverless, ephemeral peer-to-peer chat with audio, video, screen and file sharing. <sub>GPL-2.0</sub>
@@ -1128,14 +1232,14 @@
 
 ### Instant Messaging
 
-*   **Facebook Messenger**: Meta's messenger, with 5 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/182) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.facebook.orca/latest/)</sub>
+*   **Facebook Messenger**: chats have been encrypted since 2023, but Meta still sees who you message, when, and who your contacts are. <sub>[ToS;DR](https://tosdr.org/en/service/182) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.facebook.orca/latest/) · [Source](https://www.eff.org/deeplinks/2023/12/meta-announces-end-end-encryption-default-messenger)</sub>
 
-### Instagram / Alternative Medium frontends
+### Instagram / Desktop
 
-*   **Instagram**: Meta builds an ad profile from what you view, like and follow. <sub>[ToS;DR](https://tosdr.org/en/service/219)</sub>
+*   **Instagram**: Ireland fined Meta €405 million in 2022 for exposing children's emails and phone numbers on Instagram. <sub>[ToS;DR](https://tosdr.org/en/service/219) · [Source](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-instagram-inquiry)</sub>
 *   **[Pixelfed](https://pixelfed.org/)** - Federated photo sharing with posts, stories and a chronological feed, without ads. <sub>ActivityPub · AGPL-3.0</sub>
 
-### Location tracking / Apps and services
+### Location Tracking / Apps and services
 
 *   **Google Find Hub (formerly Find My Device)**: reports your devices' locations to Google. <sub>[ToS;DR](https://tosdr.org/en/service/217)</sub>
 
@@ -1143,6 +1247,14 @@
 
 *   **[Signal](https://signal.org/)** - Messenger with end-to-end encryption for everything by default, run by a nonprofit that keeps almost no user data. <sub>AGPL-3.0</sub>
 *   **[Threema](https://threema.com/en)** - Paid messenger from Switzerland that works without a phone number or email. <sub>AGPL-3.0</sub>
+
+### Teamworking Tools / Desktop
+
+*   **[Wire](https://wire.com/)** - End-to-end encrypted messaging, calls and file sharing for teams, with public and audited code for both the apps and the server. `⚠️ website trackers` <sub>AGPL-3.0 · [F-Droid](https://f-droid.org/packages/com.wire/) (Play Store version has trackers)</sub>
+*   **Discord**: a 2025 breach at a support vendor exposed government ID photos of about 70,000 users. <sub>[ToS;DR](https://tosdr.org/en/service/536) · [Source](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)</sub>
+*   **Slack**: your messages feed its recommendation models unless a workspace owner emails Slack to opt out. <sub>[ToS;DR](https://tosdr.org/en/service/206) · [Source](https://slack.com/trust/data-management/privacy-principles)</sub>
+*   **[Rocket.Chat](https://www.rocket.chat/)** - Self-hosted team chat with end-to-end encrypted rooms and federation. `⚠️ website trackers` <sub>self-host</sub>
+*   **[Twake Chat](https://twake.app/)** - Workplace chat built on Matrix, part of Linagora's Twake Workplace suite. <sub>AGPL-3.0</sub>
 
 ### Maps and Navigation / Apps and services
 
@@ -1155,8 +1267,8 @@
 
 ### Search Engines / Useful Tools
 
-*   **Yahoo!**: logs your searches under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/309)</sub>
-*   **Yandex**: Russian law gives the security services access to user data. <sub>[ToS;DR](https://tosdr.org/en/service/860)</sub>
+*   **Yahoo!**: a 2013 breach hit all 3 billion Yahoo accounts, which Yahoo admitted only in 2017. <sub>[ToS;DR](https://tosdr.org/en/service/309) · [Source](https://techcrunch.com/2017/10/03/yahoo-says-all-3b-accounts-were-impacted-by-2013-breach-not-1b-as-thought)</sub>
+*   **Yandex**: in 2025 researchers found its Android apps, Yandex Search among them, secretly linked browsing to device IDs. <sub>[ToS;DR](https://tosdr.org/en/service/860) · [Source](https://localmess.github.io/)</sub>
 *   **[Brave Search](https://search.brave.com)** - Search engine with [its own independent index](https://brave.com/search-independence/), from the makers of Brave.
 *   **[DuckDuckGo](https://duckduckgo.com)** - Search engine that doesn't build a profile on you, with results drawn largely from Bing.
 *   **[Marginalia](https://marginalia-search.com/)** - Independent search engine with its own crawler and index that favors text-heavy, non-commercial pages. <sub>self-host</sub>
@@ -1165,12 +1277,12 @@
 *   **[SearXNG](https://docs.searxng.org/)** - Metasearch engine that queries other search services for you; use a [public instance](https://searx.space/) or host your own. <sub>self-host · AGPL-3.0</sub>
 *   **[YaCy](https://yacy.net/)** - Peer-to-peer search engine where every user runs a node and shares the index.
 
-### Third-Party owned
+### Third-party
 
 *   **[Posteo](https://posteo.de/en)** - Ad-free email from Germany, funded only by its users, with optional encrypted storage and sign-up and payment that need no personal details.
 *   **[Proton Mail](https://proton.me/mail)** - Email from Switzerland, end-to-end encrypted between Proton users and with PGP, and stored encrypted otherwise, where a court order can still force it to log your IP ([2021 case](https://proton.me/blog/climate-activist-arrest)). <sub>GPL-3.0</sub>
 
-### Self-Hosted
+### Self-hosted
 
 *   **[Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)** - Complete mail server (SMTP, IMAP, antispam, antivirus) in a single Docker container, configured with files. <sub>self-host · MIT</sub>
 *   **[Mail-in-a-box](https://mailinabox.email/)** - Turns a fresh Ubuntu server into a complete mail server with one setup script. <sub>self-host · CC0-1.0</sub>
@@ -1191,14 +1303,6 @@
 *   **[addy.io](https://addy.io)** - Email alias and forwarding service you can host yourself, formerly AnonAddy. <sub>self-host · AGPL-3.0</sub>
 *   **[SimpleLogin](https://simplelogin.io)** - Email alias service you can host yourself, owned by Proton. <sub>self-host · AGPL-3.0</sub>
 
-### Teamworking Tools / Desktop
-
-*   **Discord**: messages aren't end-to-end encrypted, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/536)</sub>
-*   **Slack**: messages aren't end-to-end encrypted, and workspace admins can export them. <sub>[ToS;DR](https://tosdr.org/en/service/206)</sub>
-*   **[Rocket.Chat](https://www.rocket.chat/)** - Self-hosted team chat with end-to-end encrypted rooms and federation. `⚠️ website trackers` <sub>self-host</sub>
-*   **[Twake Chat](https://twake.app/)** - Workplace chat built on Matrix, part of Linagora's Twake Workplace suite. <sub>AGPL-3.0</sub>
-*   **[Wire](https://wire.com/)** - End-to-end encrypted messaging, calls and file sharing for teams, with public and audited code for both the apps and the server. `⚠️ website trackers` <sub>AGPL-3.0 · [F-Droid](https://f-droid.org/packages/com.wire/) (Play Store version has trackers)</sub>
-
 ### Alternative clients/modifications of Discord / Desktop
 
 *   **[Aliucord (⭐4.9k)](https://github.com/Aliucord/Aliucord)** - Mod for the Android Discord app that [disables Discord's tracking (⭐4.9k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java). <sub>Android · OSL-3.0</sub>
@@ -1216,17 +1320,17 @@
 *   **[Plume](https://joinplu.me/)** - Federated blogging engine where readers can follow and comment from any ActivityPub account. `💀 inactive` <sub>ActivityPub</sub>
 *   **[WriteFreely](https://writefreely.org/)** - Minimal, distraction-free blogging platform that can federate posts over ActivityPub. <sub>ActivityPub · AGPL-3.0</sub>
 
-### YouTube / Alternative Medium frontends
+### YouTube / Desktop
 
-*   **YouTube**: Google builds a detailed profile from everything you watch. <sub>[ToS;DR](https://tosdr.org/en/service/274)</sub>
+*   **YouTube**: Google paid a record $170 million in 2019 for collecting children's data on YouTube without parental consent. <sub>[ToS;DR](https://tosdr.org/en/service/274) · [Source](https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-alleged-violations-childrens-privacy-law)</sub>
 *   **[PeerTube](https://joinpeertube.org/en/)** - Federated video hosting where anyone can run an instance and follow channels across others. <sub>ActivityPub · AGPL-3.0</sub>
 
-### YouTube / YouTube alternative frontends (web-based)
+### YouTube / Frontends
 
 *   **[Invidious](https://invidious.io/)** - YouTube frontend with no ads or Google scripts and subscriptions without an account; see the [public instances](https://docs.invidious.io/instances/). <sub>AGPL-3.0</sub>
 *   **[youtube-local (⭐779)](https://github.com/user234683/youtube-local)** - YouTube client that runs on your computer and opens in the browser, with local subscriptions and optional routing through Tor. <sub>Desktop · AGPL-3.0</sub>
 
-### YouTube / YouTube alternative clients (apps)
+### YouTube / Apps
 
 *   **[FreeTube](https://freetubeapp.io/)** - Desktop YouTube app that keeps subscriptions, playlists and history on your computer, without Google's cookies or scripts. <sub>Desktop · AGPL-3.0</sub>
 *   **[LibreTube](https://libretube.dev/)** - Android YouTube app that fetches videos through Piped instead of Google's servers. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.github.libretube/)</sub>
@@ -1234,9 +1338,9 @@
 *   **[SkyTube (⭐2.8k)](https://github.com/SkyTubeTeam/SkyTube)** - Android YouTube app with local subscriptions, downloads and a channel and video blocker. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/)</sub>
 *   **[Yattee (⭐3.8k)](https://github.com/yattee/yattee)** - Native YouTube player for iPhone, iPad, Apple TV and Mac that works through Invidious or Piped. <sub>iOS · macOS · AGPL-3.0</sub>
 
-### Twitter / YouTube alternative clients (apps)
+### Twitter / Apps
 
-*   **Twitter (X)**: profiles you from who you follow and what you like and repost. <sub>[ToS;DR](https://tosdr.org/en/service/195)</sub>
+*   **Twitter (X)**: paid $150 million in 2022 for using phone numbers given for account security to target ads. <sub>[ToS;DR](https://tosdr.org/en/service/195) · [Source](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-charges-twitter-deceptively-using-account-security-data-sell-targeted-ads)</sub>
 
 ### Twitter / Decentralized
 
@@ -1245,62 +1349,62 @@
 *   **[Pleroma](https://git.pleroma.social/pleroma/pleroma)** - Lightweight federated social network server. <sub>ActivityPub</sub>
     *   **[Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe)** - Web frontend for Pleroma focused on custom branding and ease of use.
 
-### Twitter / Alternative Frontends
+### Twitter / Frontends
 
 *   **[Nitter (⭐14k)](https://github.com/zedeus/nitter)** - Twitter frontend without JavaScript or ads that proxies every request; see the [instances list (⭐14k)](https://github.com/zedeus/nitter/wiki/Instances). `💀 inactive` <sub>AGPL-3.0</sub>
 *   **[Squawker (⭐1.5k)](https://github.com/j-fbriere/squawker)** - Android Twitter client with no account, tracking or ads, keeping subscriptions on the device; the maintained fork of Fritter. <sub>Android · MIT · [F-Droid](https://f-droid.org/packages/org.ca.squawker/)</sub>
 
-### Reddit / Alternative Frontends
+### Reddit / Frontends
 
-*   **Reddit**: the official site and apps are full of trackers and ads. <sub>[ToS;DR](https://tosdr.org/en/service/194)</sub>
+*   **Reddit**: sold Google the right to train AI on users' posts in a 2024 deal valued at about $60 million. <sub>[ToS;DR](https://tosdr.org/en/service/194) · [Source](https://www.cbsnews.com/news/google-reddit-60-million-deal-ai-training/)</sub>
 
-### Reddit / Reddit alternatives
+### Reddit / Alternatives
 
 *   **[Lemmy](https://join-lemmy.org/)** - Federated link aggregator and discussion forum, organized into communities like subreddits. <sub>ActivityPub · AGPL-3.0</sub>
 *   **[Mbin](https://joinmbin.org/)** - Federated link aggregator with microblogging, the community-run continuation of kbin. <sub>ActivityPub · AGPL-3.0</sub>
 
-### Streaming Platforms (Twitch) / Privacy respecting Reddit clients
+### Streaming Platforms (Twitch) / Apps and frontends
 
-*   **Twitch**: owned by Amazon and funded by ads, so viewers are tracked for advertising. <sub>[ToS;DR](https://tosdr.org/en/service/200)</sub>
+*   **Twitch**: a 2021 breach leaked 125GB of its data, including source code and three years of creator payouts. <sub>[ToS;DR](https://tosdr.org/en/service/200) · [Source](https://fortune.com/2021/10/06/twitch-data-leak-hack-source-code-creator-payouts-4chan/)</sub>
 *   **[Owncast](https://owncast.online/)** - Self-hosted live streaming server with built-in chat, so you own the stream and your viewers' data. <sub>self-host · MIT</sub>
 
-### Streaming Platforms (Twitch) / Privacy respecting Twitch clients
+### Streaming Platforms (Twitch) / Apps
 
 *   **[Twire (⭐1.3k)](https://github.com/twireapp/Twire)** - Android Twitch client with built-in ad blocking, VODs with chat replay, and optional login. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)</sub>
 
-### Imgur / Privacy respecting Twitch clients
+### Imgur / Apps
 
-*   **Imgur**: 23 trackers in its Android app, and a site heavy with ads. <sub>[ToS;DR](https://tosdr.org/en/service/325) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imgur.mobile/latest/)</sub>
+*   **Imgur**: a 2014 hack stole about 1.7 million email addresses and passwords, which it only learned of in 2017. <sub>[ToS;DR](https://tosdr.org/en/service/325) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imgur.mobile/latest/) · [Source](https://techcrunch.com/2017/11/27/imgur-says-1-7m-emails-and-passwords-were-breached-in-2014-hack/)</sub>
 *   **[rimgo](https://codeberg.org/rimgo/rimgo)** - Read-only Imgur frontend that works without JavaScript; see the [instances](https://rimgo.codeberg.page/).
 
-### IMDb / Privacy respecting Twitch clients
+### IMDb / Apps
 
 *   **IMDb**: owned by Amazon, with 8 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/313) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imdb.mobile/latest/)</sub>
 *   **[libremdb (⭐441)](https://github.com/zyachel/libremdb)** - IMDb frontend without ads or tracking that proxies images and video through the instance. <sub>self-host · AGPL-3.0</sub>
 
-### Fandom / Privacy respecting Twitch clients
+### Fandom / Apps
 
 *   **Fandom**: wikis loaded with ads and autoplaying video, and 8 trackers in the app. <sub>[ToS;DR](https://tosdr.org/en/service/2256) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.fandom.app/latest/)</sub>
 
-### Commenting Engines / Privacy respecting Twitch clients
+### Commenting Engines / Apps
 
-*   **Disqus**: loads trackers on every site that embeds it, and logs commenters' IP, device and location. <sub>[ToS;DR](https://tosdr.org/en/service/239)</sub>
+*   **Disqus**: tracked visitors across sites for ad profiling without consent, Norway's regulator said in 2021. <sub>[ToS;DR](https://tosdr.org/en/service/239) · [Source](https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/)</sub>
 *   **[Isso](https://isso-comments.de)** - Lightweight self-hosted comment server, meant as a drop-in replacement for Disqus. <sub>self-host · MIT</sub>
 
-### Translation / Privacy respecting Twitch clients
+### Translation / Apps
 
-*   **DeepL**: the free version stores your texts and may use them to train its models. <sub>[ToS;DR](https://tosdr.org/en/service/2073)</sub>
+*   **DeepL**: the free version may train on your texts, and its terms forbid entering any personal data. <sub>[ToS;DR](https://tosdr.org/en/service/2073) · [Source](https://www.deepl.com/en/terms-of-use)</sub>
 
-### Text translation / Privacy respecting Twitch clients
+### Text translation / Apps
 
 *   **[LibreTranslate](https://libretranslate.com/)** - Self-hosted machine translation API and web app with no ties to proprietary services. <sub>self-host · AGPL-3.0</sub>
 
-### Alternative Google Translate frontends / Privacy respecting Twitch clients
+### Alternative Google Translate frontends / Apps
 
 *   **[Mozhi](https://codeberg.org/aryak/mozhi)** - Frontend that proxies Google Translate, DeepL, Yandex and other engines behind one interface. <sub>self-host</sub>
 *   **[SimplyTranslate](https://simplytranslate.org/)** - Frontend that proxies your requests to Google Translate and other engines. <sub>self-host</sub>
 
-### RSS Readers / Privacy respecting Twitch clients
+### RSS Readers / Apps
 
 *   **[Capy Reader (⭐1.4k)](https://github.com/jocmp/capyreader)** - Small RSS reader, local or synced with Miniflux and FreshRSS. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.capyreader.app/) (Play Store version has trackers)</sub>
 *   **[Feeder (⭐3.1k)](https://github.com/spacecowboy/Feeder)** - RSS reader that fetches feeds directly on your device, with no account. <sub>Android · GPL-3.0</sub>
@@ -1312,16 +1416,16 @@
 *   **[NewsFlash](https://gitlab.com/news-flash/news_flash_gtk)** - RSS reader for Linux that works locally or with self-hosted services such as Miniflux and FreshRSS. <sub>Linux · GPL-3.0</sub>
 *   **[Read You (⭐7.6k)](https://github.com/ReadYouApp/ReadYou)** - Material You RSS reader, local or synced with self-hosted services. <sub>Android · GPL-3.0</sub>
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
-*   **Free VPNs**: someone pays for the servers, usually you, through logs and data sold to advertisers. <sub>[Source](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties)</sub>
+*   **Free VPNs**: a 2017 study of 283 Android VPN apps found 75% used trackers and 38% contained malware. <sub>[Source](https://torrentfreak.com/researchers-issue-security-warning-over-android-vpn-apps-170125/)</sub>
 *   **[SPN](https://safing.io/spn/)** - Paid add-on to the Portmaster firewall that routes each app's connections over separate multi-hop paths. <sub>Linux · Windows · GPL-3.0</sub>
 
-### Web Browser / Privacy respecting Twitch clients
+### Web Browser / Apps
 
 *   **Opera**: 6 trackers in its Android app, and owned by a Chinese consortium since 2016. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.opera.browser/latest/) · [Source](https://en.wikipedia.org/wiki/Opera_\(web_browser\))</sub>
 
-### Android / iOS / Privacy respecting Twitch clients
+### Android / iOS / Apps
 
 *   **[Cromite (⭐8.5k)](https://github.com/uazo/cromite)** - Chromium fork, successor to Bromite, with built-in ad blocking and anti-fingerprinting measures. <sub>Android · Linux · Windows · GPL-3.0</sub>
 *   **[Firefox](https://www.firefox.com/en-US/mobile/)** - Mozilla's browser, with its own engine on Android and Enhanced Tracking Protection on by default. `⚠️ website trackers` `⚠️ telemetry opt-out`
@@ -1351,7 +1455,7 @@
 
 ### Captchas / Useful Tools
 
-*   **hCaptcha**: collects device and browsing data to score visitors, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2207)</sub>
+*   **hCaptcha**: its privacy policy says it supplies the answers visitors give to its puzzles as AI training data. <sub>[ToS;DR](https://tosdr.org/en/service/2207) · [Source](https://www.hcaptcha.com/privacy)</sub>
 *   **[ALTCHA](https://altcha.org)** - Self-hosted proof-of-work captcha with no cookies or tracking. <sub>self-host · MIT</sub>
 *   **[mCaptcha](https://mcaptcha.org/)** - Proof-of-work captcha that rate-limits bots by making each request cost some computation. <sub>self-host · AGPL-3.0</sub>
 *   **[Private Captcha](https://privatecaptcha.com)** - EU-made proof-of-work captcha, as a hosted service or on your own server. `⚠️ source-available` <sub>self-host</sub>
@@ -1368,14 +1472,14 @@
 
 ### Password Managers / Useful Tools
 
-*   **LastPass**: a 2022 breach leaked customers' encrypted vaults and, unencrypted, the sites they saved. <sub>[Source](https://en.wikipedia.org/wiki/2022_LastPass_data_breach)</sub>
+*   **LastPass**: the UK fined it £1.2 million in 2025 over a 2022 breach that leaked customers' encrypted vaults. <sub>[Source](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)</sub>
 *   **[KeePassXC](https://keepassxc.org/)** - Offline password manager that keeps your vault in an encrypted file you control, with no account or sync service. <sub>Linux · macOS · Windows</sub>
     *   **[KeePassDX](https://www.keepassdx.com/)** - KeePass-compatible password manager for Android. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)</sub>
     *   **[Strongbox](https://strongboxsafe.com/)** - KeePass-compatible password manager for iPhone, iPad and Mac. <sub>iOS · macOS · AGPL-3.0</sub>
 
 ### Encryption / Useful Tools
 
-*   **BitLocker**: with device encryption, Windows uploads your recovery key to your Microsoft account. <sub>[Source](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/)</sub>
+*   **BitLocker**: your recovery key is uploaded to Microsoft by default, and Microsoft has handed such keys to the FBI. <sub>[Source](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports)</sub>
 *   **[age](https://age-encryption.org)** - Simple, modern file encryption with small keys and nothing to configure. <sub>CLI · BSD-3-Clause</sub>
 *   **[Cryptomator](https://cryptomator.org/)** - Encrypts files on your device before they reach any cloud storage provider. <sub>GPL-3.0 · [F-Droid](https://f-droid.org/packages/org.cryptomator.lite/)</sub>
 *   **[Shufflecake](https://shufflecake.net/)** - Hidden encrypted volumes for Linux with plausible deniability, so nobody can prove the hidden data exists. <sub>Linux</sub>
@@ -1407,7 +1511,7 @@
 
 ### Cloud Storage / Useful Tools
 
-*   **Dropbox**: no end-to-end encryption, and 4 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/270) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/)</sub>
+*   **Dropbox**: a 2012 breach exposed 68 million users' emails and passwords, which Dropbox only confirmed in 2016. <sub>[ToS;DR](https://tosdr.org/en/service/270) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/) · [Source](https://www.theregister.com/2016/08/31/dropbox_2012_credentials_file_is_real/)</sub>
 *   **[Filen](https://filen.io/)** - End-to-end encrypted cloud storage from Germany, with desktop, mobile and web clients you can inspect.
 *   **[Sync-in](https://sync-in.com/)** - Self-hosted file storage, sharing and sync with WebDAV, desktop clients and online document editing. <sub>self-host · AGPL-3.0</sub>
 
@@ -1417,7 +1521,7 @@
 
 ### File Management and Sharing / Useful Tools
 
-*   **WeTransfer**: files aren't end-to-end encrypted, and the site carries trackers. <sub>[ToS;DR](https://tosdr.org/en/service/214)</sub>
+*   **WeTransfer**: in 2025 it changed its terms to license your uploaded files for machine learning, then backed down. <sub>[ToS;DR](https://tosdr.org/en/service/214) · [Source](https://www.malwarebytes.com/blog/news/2025/07/wetransfer-walks-back-clause-that-said-it-would-train-ai-on-your-files)</sub>
 *   **[Blaze](https://blaze.vercel.app/)** - Peer-to-peer file sharing in the browser, between two or more devices at once. `⚠️ website trackers` `💀 inactive` <sub>MIT</sub>
 *   **[Croc (⭐41k)](https://github.com/schollz/croc)** - Sends files between two computers with end-to-end encryption, using a short code phrase. <sub>CLI · MIT</sub>
 *   **[Gokapi (⭐3k)](https://github.com/Forceu/Gokapi)** - Lightweight self-hosted alternative to Firefox Send, where only you can upload and links expire. <sub>self-host · AGPL-3.0</sub>
@@ -1441,7 +1545,7 @@
 
 ### Bookmarking / Useful Tools
 
-*   **Evernote Web Clipper**: saves pages to Evernote without end-to-end encryption, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/207)</sub>
+*   **Evernote Web Clipper**: in 2016 Evernote changed its policy to let staff read users' notes, until users pushed back. <sub>[ToS;DR](https://tosdr.org/en/service/207) · [Source](https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/)</sub>
 *   **[Karakeep](https://karakeep.com/)** - Self-hosted app for saving links, notes and images, with full-text search and optional AI tagging, formerly Hoarder. <sub>self-host · AGPL-3.0</sub>
 
 ### Notes and Tasks / Useful Tools
@@ -1473,17 +1577,17 @@
 
 ### Media Streaming Platforms / Useful Tools
 
-*   **Netflix**: logs what and how you watch, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/185)</sub>
+*   **Netflix**: in 2024 Dutch regulators fined Netflix €4.75 million for not telling users what it does with their data. <sub>[ToS;DR](https://tosdr.org/en/service/185) · [Source](https://noyb.eu/en/noyb-win-dutch-authority-fines-netflix-eu475-million)</sub>
 *   **Amazon Prime Video**: 3 trackers in its Android app, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2444) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.avod.thirdpartyclient/latest/)</sub>
-*   **Disney Plus**: a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2745)</sub>
-*   **SoundCloud**: 13 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/276) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/)</sub>
+*   **Disney Plus**: in 2026 Disney paid California $2.75 million for sharing streaming viewers' data after they had opted out. <sub>[ToS;DR](https://tosdr.org/en/service/2745) · [Source](https://oag.ca.gov/news/press-releases/california-wont-let-it-go-attorney-general-bonta-announces-275-million)</sub>
+*   **SoundCloud**: a 2025 breach exposed the email addresses of about 28 million users, a fifth of its community. <sub>[ToS;DR](https://tosdr.org/en/service/276) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/) · [Source](https://hackread.com/soundcloud-cyberattack-data-breach/)</sub>
 
 ### Podcasts / Deezer alternative clients
 
-*   **Spotify**: a very poorly rated privacy policy that covers your mood and friends, and 4 trackers. <sub>[ToS;DR](https://tosdr.org/en/service/225) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/)</sub>
+*   **Spotify**: in 2023 Sweden fined Spotify 58 million kronor for not clearly explaining how it uses your data. <sub>[ToS;DR](https://tosdr.org/en/service/225) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/) · [Source](https://www.imy.se/en/news/administrative-fee-against-spotify/)</sub>
 *   **[Funkwhale](https://www.funkwhale.audio/)** - Federated platform for hosting, sharing and listening to podcasts and music. <sub>self-host · ActivityPub</sub>
 *   **iVoox**: 13 trackers in its Android app, and more on its website. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.ivoox.app/latest/)</sub>
-*   **Deezer**: 11 trackers in its Android app. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.app/latest/)</sub>
+*   **Deezer**: a partner leaked a 2019 backup of 229 million users' names, birth dates, IPs and locations, published in 2022. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.app/latest/) · [Source](https://haveibeenpwned.com/Breach/Deezer)</sub>
 *   **[AntennaPod](https://antennapod.org)** - Podcast player that subscribes to any RSS feed, with no account needed. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)</sub>
 
 ### Audio / Useful Tools
@@ -1506,8 +1610,8 @@
 
 ### Home Assistants / Other OS
 
-*   **Alexa**: an always-listening microphone that sends your requests to Amazon. <sub>[ToS;DR](https://tosdr.org/en/service/190)</sub>
-*   **Siri**: Apple contractors regularly listened to Siri recordings, including private moments. <sub>[Source](https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings)</sub>
+*   **Alexa**: the FTC fined Amazon $25 million in 2023 for keeping children's Alexa voice recordings indefinitely. <sub>[ToS;DR](https://tosdr.org/en/service/190) · [Source](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever)</sub>
+*   **Siri**: in 2025 Apple settled claims that Siri recorded private conversations without consent for $95 million. <sub>[Source](https://scott-scott.com/court-grants-final-approval-of-95m-apple-siri-settlement/)</sub>
 *   **[OpenVoiceOS](https://www.openvoiceos.org/)** - Voice assistant you run on your own hardware, a community successor to Mycroft. <sub>Apache-2.0</sub>
 
 ### Music Recognition / Deezer alternative clients
@@ -1522,8 +1626,8 @@
 
 ### Android Gallery / Plugins for Minecraft
 
-*   **Amazon Photos**: Amazon gathers data from your library, as its own list of examples shows. <sub>[Source](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)</sub>
-*   **Google Photos**: scans your photos, and once got a father reported to police over pictures taken for a doctor. <sub>[Source](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/)</sub>
+*   **Amazon Photos**: its privacy notice says Amazon uses the images you store with it to improve its services. <sub>[Source](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)</sub>
+*   **Google Photos**: scans your photos, and in 2022 its scan got a father investigated by police over photos taken for a doctor. <sub>[Source](https://gizmodo.com/google-csam-photodna-1849440471)</sub>
 *   **[Fossify Gallery](https://www.fossify.org/apps/gallery/)** - Photo and video gallery with no ads, a fork of Simple Gallery. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/org.fossify.gallery/)</sub>
 
 ### Self-hosted / Deezer alternative clients
@@ -1541,15 +1645,16 @@
 *   **[digiKam](https://www.digikam.org/)** - Photo manager for large collections, with tagging, face recognition and editing, all on your own files. <sub>Linux · macOS · Windows</sub>
 *   **[qView (⭐3.7k)](https://github.com/jurplel/qView)** - Minimal, fast image viewer that shows just the image with no clutter. <sub>Linux · macOS · Windows · GPL-3.0</sub>
 
-### Video Editing / Deezer alternative clients
-
-*   **Adobe Premiere Pro**: tied to a Creative Cloud account, and Adobe has a long record of anti-user practices. <sub>[Source](https://www.gnu.org/proprietary/malware-adobe.html)</sub>
-*   **[Kdenlive](https://kdenlive.org/)** - Non-linear video editor from KDE. <sub>Linux · macOS · Windows · GPL-3.0</sub>
-*   **[OpenCut](https://opencut.app/)** - CapCut alternative, still in beta. <sub>MIT</sub>
-
 ### Photo Editing and Management / Deezer alternative clients
 
+*   **Adobe Photoshop and Lightroom**: its 2024 terms say Adobe may access your cloud content through both automated and manual review. <sub>[Source](https://www.theregister.com/2024/06/06/adobe_users_upset_over_content/)</sub>
 *   **VSCO**: 14 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2986) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.vsco.cam/latest/)</sub>
+
+### Video Editing / Deezer alternative clients
+
+*   **Adobe Premiere Pro**: its terms allow automated scanning of your Creative Cloud files and human review of flagged ones. <sub>[Source](https://www.adobe.com/legal/terms.html)</sub>
+*   **[Kdenlive](https://kdenlive.org/)** - Non-linear video editor from KDE. <sub>Linux · macOS · Windows · GPL-3.0</sub>
+*   **[OpenCut](https://opencut.app/)** - CapCut alternative, still in beta. <sub>MIT</sub>
 
 ### InDesign / Deezer alternative clients
 
@@ -1575,7 +1680,7 @@
 
 ### Minecraft / Deezer alternative clients
 
-*   **[Cubyz (⭐3.7k)](https://github.com/PixelGuys/Cubyz)** - Voxel sandbox game with far view distances, 3D chunks and procedural crafting. <sub>GPL-3.0</sub>
+*   **[Cubyz (⭐3.8k)](https://github.com/PixelGuys/Cubyz)** - Voxel sandbox game with far view distances, 3D chunks and procedural crafting. <sub>GPL-3.0</sub>
 
 ### Minecraft / Plugins for Minecraft
 
@@ -1589,7 +1694,7 @@
 
 ### Ebooks / Plugins for Minecraft
 
-*   **Amazon Kindle**: tracks your reading, and Amazon has remotely deleted books from customers' devices. <sub>[Source](https://www.nytimes.com/2009/07/18/technology/18kindle.html)</sub>
+*   **Amazon Kindle**: in 2009 Amazon remotely deleted copies of 1984 that people had bought from their Kindles. <sub>[Source](https://www.theregister.com/2009/07/18/amazon_removes_1984_from_kindle/)</sub>
 *   **[Kavita](https://www.kavitareader.com/)** - Self-hosted digital library for ebooks and comics with a built-in web reader. `⚠️ website trackers` <sub>self-host · GPL-3.0</sub>
 *   **[Komga](https://komga.org/)** - Self-hosted server for comics, magazines and ebooks with a web reader and OPDS support. <sub>self-host · MIT</sub>
 
@@ -1606,7 +1711,7 @@
 
 ### Android Debloat Tools / Plugins for Minecraft
 
-*   **ADB AppControl**: its privacy policy lets it collect device details and which apps you install or remove. <sub>[Source](https://adbappcontrol.com/en/terms/)</sub>
+*   **ADB AppControl**: its terms let it send your PC's IP, hardware details and the apps you remove to a remote server. <sub>[Source](https://appcontrol.neocities.org/pages/terms_of_use)</sub>
 *   **[Universal Android Debloater Next Generation (⭐9.7k)](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** - Desktop app that removes preinstalled bloatware from Android phones over ADB, no root needed. <sub>Desktop · GPL-3.0</sub>
 
 ### Android Dialer / Plugins for Minecraft
@@ -1622,7 +1727,7 @@
 
 ### Android Keyboard / Plugins for Minecraft
 
-*   **SwiftKey**: Microsoft's keyboard, with 4 trackers in its Android app. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.touchtype.swiftkey/latest/)</sub>
+*   **SwiftKey**: a 2016 sync bug showed users strangers' email addresses and phone numbers as text predictions. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.touchtype.swiftkey/latest/) · [Source](https://www.engadget.com/2016-07-29-swiftkey-leaked-user-email-addresses-as-text-predictions.html)</sub>
 *   **[AnySoftKeyboard](https://anysoftkeyboard.github.io/)** - Keyboard with more than 50 languages through add-on packs, plus themes. <sub>Android · Apache-2.0</sub>
 *   **[FlorisBoard](https://florisboard.org/)** - Customizable keyboard with themes and add-ons, still in beta. <sub>Android · Apache-2.0 · [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard/)</sub>
 *   **[FUTO Keyboard](https://keyboard.futo.tech/)** - Keyboard that works fully offline, including voice input, swipe typing and autocorrect. `⚠️ source-available` <sub>Android</sub>
@@ -1726,13 +1831,13 @@
 ### Automation / Apps and services
 
 *   **IFTTT**: your workflows run on its servers, holding tokens to all your connected accounts. <sub>[ToS;DR](https://tosdr.org/en/service/236)</sub>
-*   **Zapier**: your workflows run on its servers, holding tokens to all your connected accounts. <sub>[ToS;DR](https://tosdr.org/en/service/2131)</sub>
+*   **Zapier**: in 2025 an intruder got into its code repositories, where some customer data had been copied. <sub>[ToS;DR](https://tosdr.org/en/service/2131) · [Source](https://threats.wiz.io/all-incidents/zapier-data-breach)</sub>
 *   **[Huginn (⭐50k)](https://github.com/huginn/huginn)** - Self-hosted agents that watch websites, feeds and APIs and act for you, an alternative to IFTTT and Zapier. <sub>self-host · MIT</sub>
 
 ### Payments / Apps and services
 
-*   **Visa / Mastercard**: card networks sell purchase data, grouped into audiences for advertisers. <sub>[Source](https://pirg.org/edfund/resources/how-mastercard-sells-data/)</sub>
-*   **PayPal**: requires identity verification and keeps a record of everyone you pay. <sub>[ToS;DR](https://tosdr.org/en/service/230)</sub>
+*   **Visa / Mastercard**: your card purchases feed Mastercard audience segments, like affluent shoppers, sold on data marketplaces. <sub>[Source](https://www.americanbanker.com/news/mastercard-removes-some-ads-for-customer-transaction-data)</sub>
+*   **PayPal**: fined $2 million by New York in 2025 after a 2022 breach exposed 35,000 customers' Social Security numbers. <sub>[ToS;DR](https://tosdr.org/en/service/230) · [Source](https://therecord.media/paypal-penalty-millions-data-breach)</sub>
 *   **Cash** - Paying in person with notes and coins leaves no record linked to you.
 
 ### Full Featured Financial Management / Apps and services
@@ -1784,10 +1889,10 @@
 
 ### Dating Apps / Apps and services
 
-*   **Tinder**: 8 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/462) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.tinder/latest/)</sub>
-*   **Grindr**: fined in Norway for sharing users' location and sexual orientation with advertisers. <sub>[Source](https://techcrunch.com/2021/12/15/grindr-final-gdpr-fine/)</sub>
-*   **Badoo**: 30 trackers in its Android app, most of them for advertising. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.badoo.mobile/latest/)</sub>
-*   **Lovoo**: 33 trackers in its Android app, most of them for advertising. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/net.lovoo.android/latest/)</sub>
+*   **Tinder**: a 2020 Norwegian Consumer Council study found it shared user data with at least 45 Match Group firms. <sub>[ToS;DR](https://tosdr.org/en/service/462) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.tinder/latest/) · [Source](https://www.thelocal.no/20200114/norway-consumer-rights-group-accuses-tinder-grindr-of-illegally-sharing-data)</sub>
+*   **Grindr**: fined NOK 65 million in Norway in 2021 for sharing users' data with advertisers without valid consent. <sub>[Source](https://techcrunch.com/2021/12/15/grindr-final-gdpr-fine/)</sub>
+*   **Badoo**: settled for $40 million in 2024, with Bumble, over claims it scanned Illinois users' faces. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.badoo.mobile/latest/) · [Source](https://idtechwire.com/illinoisan-bumble-badoo-users-may-get-payout-from-40-million-biometric-privacy-settlement/)</sub>
+*   **Lovoo**: in 2019 journalists used its Radar feature to locate users to within 30 to 50 meters. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/net.lovoo.android/latest/) · [Source](https://netzpolitik.org/2019/sicherheitsluecke-dating-app-lovoo-gibt-standortdaten-preis/)</sub>
 
 ### Tracking / Apps and services
 
@@ -1818,15 +1923,20 @@
 *   `⚠️ source-available`: the code is public, but the license isn't an open source one.
 *   `⚠️ website trackers`: the project's website loads third-party trackers. That says nothing about the app itself.
 *   `⚠️ telemetry opt-out`: the app sends usage data by default, but a setting turns it off.
-*   `⚠️ closed server` and `⚠️ account required`: the server code isn't public, or an account is needed to use it.
+*   `⚠️ closed server`: the server code isn't public.
+*   `⚠️ account required`: an account is needed to use it.
 
-## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [30. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Android TV / Tools
 
 *   [TV Box Tools](https://github.com/smartago/tvboxtools) - Launcher manager and ADB toolbox for Android TV and Google TV boxes: set the HOME app, kiosk, speed-up, display, remote, console, MCP server.
 
-## [26. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [31. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+
+### RSS2Notification / RSS2GitHubProfile
+
+*   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) : self-hosted news monitor that uses an LLM to only notify on genuinely new information [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/0xzerolight/topic_watch)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### Apps / Outline Processor Markup Language
 
@@ -1867,7 +1977,11 @@
 
 *   [RealMarketFeed](https://rss.realmarketapi.com/): a curated directory of trading news feeds (crypto, forex, stocks, macro), with an [OPML file](https://rss.realmarketapi.com/opml.xml) of every feed and a combined [feed](https://rss.realmarketapi.com/feed.xml) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Phideround/RealMarketFeed)
 
-## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
+
+*   [Podcast OPML collections](https://b19.se/data/opml/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
+
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
@@ -1881,7 +1995,11 @@
 
 *   [DashBeam](https://dashbeam.net) - File transfer tool with peer-to-peer networking, letting you transfer any file with any size. ([Demo](https://app.dashbeam.net/), [Source Code (⭐10k)](https://github.com/tonyantony300/dashbeam)) `AGPL-3.0` `deb/Docker`
 
-## [28. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [33. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+
+### SaaS
+
+*   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
 
 ### Infrastructure Monitoring
 
@@ -1891,7 +2009,7 @@
 
 *   [Student AI Deals](https://aifree.dev/student-ai-deals) \[FREE] - A verified list of AI tools and credits students can get free with a student email or GitHub Education, such as Copilot Pro, Azure for Students and JetBrains, with the exact requirements for each.
 
-## [29. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [34. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -2016,13 +2134,13 @@
 
 *   [HealthStack (⭐94)](https://github.com/the-momentum/healthstack) - Terraform modules for secure and compliant healthcare infrastructure on AWS.
 
-## [30. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Midnight Lite (⭐0)](https://github.com/vilqor/midnight-lite) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -2065,7 +2183,7 @@
 
 *   [vue-why-render (⭐12)](https://github.com/dadashi44/vue-why-render) - shows why Vue 3 components re-render: highlights renders on the page and names the cause (props, state, Pinia stores, route changes, computeds), with a panel and a Nuxt module.
 
-## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CI/CD
 
@@ -2082,11 +2200,15 @@
 *   [Stagehand by Browserbase](https://www.stagehand.dev) - Open-source SDK to make your browser agents resilient, readable, and production-ready. [![stagehand](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserbase/stagehand)
 *   [Tabstack](https://tabstack.ai) - Web data and automation API that delivers reliable structured output. Built at Mozilla.
 
+### Messaging
+
+*   [SuprSend](https://www.suprsend.com) - Notification infrastructure with workflows, templates and preferences for email, SMS, push, in-app and chat.
+
 ### Reports Generation
 
 *   [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.
 
-## [33. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -2111,11 +2233,15 @@
 
 *   [bareenv (⭐0)](https://github.com/Blasword/bareenv) - Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [xerj-org/xerj (⭐19k)](https://github.com/xerj-org/xerj) - Search engine for AI agents in one binary: BM25, vector and hybrid search over an Elasticsearch-compatible API, with a built-in MCP server
 
 ### Applications / MLOps
 
-*   [vayungodara/cliproxy-rs (⭐42)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
+*   [vayungodara/cliproxy-rs (⭐59)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
@@ -2141,11 +2267,15 @@
 
 *   [Voxpery (⭐57)](https://github.com/emircanagac/voxpery) - Open-source, self-hostable chat, voice, video, and screen-sharing platform built with Axum and Tauri. [![CI](https://github.com/emircanagac/voxpery/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/emircanagac/voxpery/actions/workflows/ci.yml)
 
+### Applications / Web Servers
+
+*   [inbjo/MirrorProxy (⭐308)](https://github.com/inbjo/MirrorProxy) - A self-hosted caching proxy for package registries, container images, and source downloads, with a web console and cross-platform CLI. [![CI](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml)
+
 ### Libraries / Game development
 
 *   [rornic/ochre (⭐51)](https://github.com/rornic/ochre) - A voxel world tech demo with a 64km erosion-carved terrain of rivers, lakes and seas, streamed with octree LODs out to 32km
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Writing
 
@@ -2184,6 +2314,7 @@
 ### Audio and Video Tools / File Sharing
 
 *   [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/MP4Flow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Radif](https://www.yuvrajangadsingh.com/radif) - Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yuvrajangadsingh/radif) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ShotMap](https://ixiehao.github.io/ShotMap/) - Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ixiehao/ShotMap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
@@ -2195,6 +2326,10 @@
 ### Input Methods / Audio Record and Process
 
 *   [Sidekey](https://wongsiufool.github.io/sidekey/) - Use your iPhone as a wireless keyboard, trackpad and voice input for your Mac or Windows PC over local Wi-Fi. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wongsiufool/sidekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Voice-to-Text / Audio Record and Process
+
+*   [Wavo (⭐10)](https://github.com/vladkens/wavo-app) - Dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladkens/wavo-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Education / Audio Record and Process
 
@@ -2223,7 +2358,7 @@
 
 *   [TimeMachineEjector (⭐1)](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wata/TimeMachineEjector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -2236,6 +2371,17 @@
   Transport: `stdio`
 
   Install: [Glama](https://glama.ai/mcp/servers/findip-net/findip-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.findip-net/findip-mcp)
+
+
+- Name: [Git (⭐92k)](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
+
+  Description: Read, search, diff, and commit to local Git repositories
+
+  Auth: No
+
+  Transport: `stdio`
+
+  Install: –
 
 
 - Name: [iGaming Tools](https://i-gaming.tools/docs/mcp/)
@@ -2293,6 +2439,17 @@
   Install: [Glama](https://glama.ai/mcp/connectors/com.pourwire/pourwire) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.pourwire)
 
 
+- Name: [Vitalityfit](https://vitality-fit.de/mcp/#english)
+
+  Description: Cheapest offers for health products from German online shops and pharmacies by name, PZN or EAN
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=de.vitality-fit/prices)
+
+
 - Name: [XposedOrNot](https://xposedornot.com/mcp)
 
   Description: Check an email against known data breaches, read its breach history and get domain breach counts
@@ -2306,6 +2463,17 @@
 
 
 ### Art & Design
+
+- API: [Paint Color HQ](https://www.paintcolorhq.com/api)
+
+  Description: Closest real paint colors across 13 brands for any hex value, scored with CIEDE2000
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [pic2svg](https://pic2svg.com/mcp/)
 
@@ -2335,11 +2503,44 @@
 
 ### Business
 
+- API: [Company Enrichment](https://dataandapis.com/apis/companies)
+
+  Description: Domain, URL or email to company name, industry, size, HQ, tickers and socials, 125k companies
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Firmbase](https://firmbase.be/en/api/docs)
 
   Description: Belgian company register (KBO/CBE), Official Gazette notices and VAT validation
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Logoapi](https://logoapi.sh/docs)
+
+  Description: Free SVG company logos by domain, plus search by name. No signup
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Seller Fee](https://seller-fee-api.narwhalapis.workers.dev)
+
+  Description: Marketplace and payment fees for Gumroad, Etsy, Stripe and PayPal with net payout breakdowns
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -2377,6 +2578,17 @@
 
 ### Cryptocurrency
 
+- API: [AlphaGrowth](https://alphagrowth.io/openapi.json)
+
+  Description: Crypto project metrics, community growth, funding rounds, investors, chains, fees and DAO treasuries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [CryptoKeyhole](https://cryptokeyhole.com/data-access/)
 
   Description: On-chain and market metrics for Bitcoin, Ethereum and more, computed from self-hosted nodes
@@ -2397,6 +2609,28 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [Lucyd](https://lucyd.trade/api-docs)
+
+  Description: Bitcoin Up/Down prediction markets on testnet: markets, trades, positions, order books
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OptimistFi Perps](https://optimistfi.com/perps/data)
+
+  Description: Funding, open interest, prices and leverage caps for perps on 40+ venues, in one schema
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [SoChain](https://sochain.com/docs)
@@ -2424,6 +2658,28 @@
 
 ### Currency Exchange
 
+- API: [AllRatesToday](https://allratestoday.com/central-bank-rates-api/)
+
+  Description: Official exchange rates published by 121 central banks and tax authorities, keyless latest table
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [FreeCurrency](https://freecurrencyapi.com)
+
+  Description: Real-time and historical foreign exchange rates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Open Exchange Rates](https://docs.openexchangerates.org/)
 
   Description: Live and historical exchange rates for 200+ currencies with free tier
@@ -2435,8 +2691,30 @@
   CORS: Yes
 
 
+- API: [XRates](https://xratesapi.com/docs)
+
+  Description: Latest and historical exchange rates aggregated from ECB, CBR and open data feeds, 300+ currencies
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Development
+
+- API: [AppGoat](https://docs.appgoat.ai)
+
+  Description: App Store and Google Play apps, reviews, keywords, rankings, top charts and competitors
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [CitedBy](https://citedby.eu/ai-access-api)
 
@@ -2454,6 +2732,17 @@
   Description: Check what 50+ AI crawlers can read on a website and whether a page permits an AI use
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Discord Timestamp Generator](https://discordtimestampgen.com/developers)
+
+  Description: Discord timestamp codes in every style from an ISO 8601 datetime or a Unix time
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -2493,8 +2782,30 @@
   CORS: Yes
 
 
+- API: [Rendlet](https://rendlet.com/docs.md)
+
+  Description: HTML or JSON templates (invoice, itinerary) to PDF; free tier 100 docs/month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Documents & Productivity
+
+- API: [PDFDispatch](https://docs.pdfdispatch.com/)
+
+  Description: HTML, URLs, Markdown and Office files to PDF, plus merge, split and PDF/A. EU-hosted, free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [PenlyDoc](https://penlydoc.com/docs)
 
@@ -2561,6 +2872,17 @@
   : 
 
 
+- API: [Grizzly Bulls](https://grizzlybulls.com/economic-data-api)
+
+  Description: U.S. GDP, CPI, unemployment, and payroll history
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Metal Sentinel](https://metal-sentinel.com/endpoints)
 
   Description: Live and historical precious and base metal prices in 180+ currencies
@@ -2600,6 +2922,30 @@
   : 
 
 
+- API: [Sanctions Screening](https://dataandapis.com/apis/sanctions)
+
+  Description: Fuzzy name screening against OFAC, UN, EU and UK sanctions lists plus PEPs, with list versions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [US Freelancer Tax](https://narwhalthepong.github.io/gumroad-license-check/free-tax-finance-api)
+
+  Description: 2026 US self-employment tax, quarterly estimates, QBI, mileage and home office deductions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
 
 ### Games & Comics
 
@@ -2628,8 +2974,30 @@
   CORS: Yes
 
 
+- API: [Pandlens](https://pandlens.nl/docs)
+
+  Description: Dutch property, building, energy label, 3D roof/solar, parcel and neighbourhood data by postal code
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Government
+
+- API: [FIRMSapi](https://docs.firmsapi.com/)
+
+  Description: Look up, search and validate US CBP FIRMS facility codes for ports, warehouses and FTZs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [nu:legal Deutsches Recht](https://recht.nulegal.eu/developers)
 
@@ -2651,6 +3019,28 @@
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [ShelfWatch CPSC Recalls](https://stxai.app/developers)
+
+  Description: US CPSC product recall notices, filterable by product category; no key required
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [US Per Diem](https://us-per-diem-api.narwhalapis.workers.dev)
+
+  Description: GSA lodging and M\&IE per diem rates for US cities by ZIP, state and fiscal year
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -2725,6 +3115,17 @@
   CORS: No
 
 
+- API: [TryHired](https://tryhired.co/data/#api)
+
+  Description: Read-only U.S. career data: pay, outlook, requirements and comparisons from BLS and O\*NET
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Working Student Jobs](https://www.workingstudentjobs.de/developers)
 
   Description: Working student and internship jobs in Germany, filterable by city, field and language
@@ -2748,6 +3149,20 @@
 
 
 
+### Machine Learning
+
+- API: [Pictograph](https://pictograph.io/docs/api-reference)
+
+  Description: Train custom vision models and run them as real-time detection endpoints, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Music
 
 - API: [Daydream](https://gen.daydream.live/docs)
@@ -2759,6 +3174,78 @@
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Open Data
+
+- API: [Caliber](https://caliberapi.com/data/)
+
+  Description: Which red dot optics fit which pistols, each fit cited to a maker or retailer
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Close Knit](https://getcloseknit.com/openapi.json)
+
+  Description: Neighbourhoods and homes in London and England: sale prices, rents, crime, schools, flood risk
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [ek litre](https://eklitre.pk/data/)
+
+  Description: Pakistan's petrol, diesel and kerosene prices since 2006, with OGRA's line-by-line price build-up
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [RebateHub](https://rebatehub.ca/data)
+
+  Description: Canadian home energy rebate, grant and loan programs with status, deadlines and official sources
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Turkpidya](https://turkpidya.com/developers/)
+
+  Description: Türkiye data: gold prices, lira rates, earthquakes, prayer times, fuel, duty pharmacies
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Patent
+
+- API: [PatentRef](https://patentref.io/docs/?utm_source=publicapis)
+
+  Description: PatentsView-compatible API for US patent grants since 1976: claims, citations, CPC, fee status
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -2816,6 +3303,17 @@
 
 
 ### Shopping
+
+- API: [Barcode Lookup](https://dataandapis.com/apis/barcode-lookup)
+
+  Description: Product name, brand, ingredients, Nutri-Score and nutrition for 4.3M EAN, UPC and GTIN barcodes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [Lianex](https://lianex.ai/developers)
 
@@ -2903,6 +3401,17 @@
   CORS: No
 
 
+- API: [FlyItalyADSB](https://flyitalyadsb.com/en/data/api/docs/)
+
+  Description: Live and historical ADS-B and MLAT aircraft positions worldwide, from a community receiver network
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [TieredTravel](https://tieredtravel.com/api-docs)
 
   Description: Daily travel costs at budget, mid-range and luxury for 100 cities, plus walking routes
@@ -2912,6 +3421,20 @@
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Vehicle
+
+- API: [NHTSA Edge VIN Decoder](https://data.ai-kit.net)
+
+  Description: Decode US VINs offline from the NHTSA vPIC dataset, served from edge locations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -2929,7 +3452,7 @@
 
 
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -2980,7 +3503,7 @@
 
 *   [Shotlane](https://shotlane.dev) - Screenshots, clean Markdown and PDFs of any web page, rendered in current Chrome. Hide cookie banners, ads and other popups and many more options. A free account gives you 100 credits per month, no card required.
 
-## [38. Tools](/content/lvwzhen/tools/week/README.md)
+## [43. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Response
 
@@ -3001,7 +3524,7 @@
 *   [All Tools Verse](https://alltoolsverse.com/) - Free collection of browser-based utilities for formatting, encoding, conversion and API work. No sign-up.
 *   [DevToolbox](https://dev-toolbox.io/) - 30 free developer tools: JSON formatter and diff, regex tester, JWT decoder, Base64, hashing, cron parser, YAML and CSV converters. Everything runs client-side, no sign-up.
 
-## [39. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [44. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -3014,6 +3537,7 @@
 ### Commands & Extensions
 
 *   [Ponder (⭐3)](https://github.com/Quinnod345/ponder) - Gemini CLI extension and Agent Skill for multi-pass deliberation and code review: grades every file or document across 6 dimensions, runs four adversarial perspectives (skeptic, builder, dreamer, empath), and blocks early stopping until coverage reaches 1.00 and churn converges below 0.02 across two consecutive passes. Zero runtime dependencies, MIT. Install with `gemini extensions install https://github.com/Quinnod345/ponder` or `npx skills add Quinnod345/ponder -y -a gemini-cli`.
+*   [Log10x (⭐2)](https://github.com/log-10x/log10x-plugin) - Gemini CLI extension that installs the log10x MCP server (MIT, local stdio). It ranks log patterns by volume and cost and plans an action for the excess over each cap: compact on Splunk and self-managed Elasticsearch, tier down or offload to S3 on other platforms. No log data reaches log10x. Install with `gemini extensions install https://github.com/log-10x/log10x-plugin`.
 
 ### Development Tools & Utilities
 

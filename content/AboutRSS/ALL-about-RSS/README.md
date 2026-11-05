@@ -6,6 +6,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
+
+*   [Podcast OPML collections](https://b19.se/data/opml/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Apps / Outline Processor Markup Language
@@ -2209,10 +2215,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Google Podcast](https://podcasts.google.com/) <sup>[473](https://t.me/s/aboutrss/473), [476](https://t.me/s/aboutrss/476), [482](https://t.me/s/aboutrss/482), [895](https://t.me/s/aboutrss/895)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://podcasts.google.com/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/google-podcasts/id1398000105)
 *   [Podstation](https://podstation.github.io/) <sup>[899](https://t.me/s/aboutrss/899)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/podstation-podcast-player/bpcagekijmfcocgjlnnhpdogbplajjfn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/podStation/podStation)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
-
-*   [Podcast OPML collections](http://b19.se/data/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
 
 ### Discussion Forums / Crypto or Blockchain relevant
 

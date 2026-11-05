@@ -6,42 +6,72 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ Daily / [Weekly](/content/dhamaniasad/awesome-postgres/week/README.md) / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Contents / Backups
+
+*   [Portabase](https://portabase.io/) - Agent-based platform for logical PostgreSQL backups and restores with decentralized execution and centralized orchestration. ([Source Code (⭐1.9k)](https://github.com/Portabase/portabase))
+*   [restoredrill (⭐114)](https://github.com/ahmadpiran/restoredrill) - CLI that restores your PostgreSQL backup into a disposable Docker container and verifies it actually works, producing a JSON report built for SOC 2 / ISO 27001 evidence.
+
+### Contents / GUI
+
+*   [Mongrel](https://www.visorcraft.com/postgresql) - Cross-platform PostgreSQL GUI with typed SQL, EXPLAIN (TEXT/JSON/XML/YAML), roles and grants, pgvector workflows, backups, and migrations (Commercial Software).
+*   [SaturnSQL](https://saturnsql.com) - Browser-based collaborative SQL editor for teams, with scheduled query delivery to Google Sheets and Slack (Commercial Software).
+*   [Sutido](https://sutido.com) - Windows desktop client covering PostgreSQL, MongoDB, SQL Server, Aerospike and ClickHouse in one window, with autocomplete from the live schema, SSH tunneling and server-side query cancellation (Commercial Software).
+
+### Contents / Extensions
+
+*   [pgmnemo (⭐8)](https://github.com/pgmnemo/pgmnemo) - Memory for AI coding agents as an extension: hybrid HNSW+BM25 recall, write-time provenance gates, and an outcome loop measured against a no-memory control (dataset published in-repo).
+
+### Contents / Utilities
+
+*   [pgrecon (⭐29)](https://github.com/Muzzammil242/pgrecon) - Offline Oracle-to-PostgreSQL migration assessment and schema conversion; parses PL/SQL with a real grammar, reports incompatibilities, estimates effort.
+*   [Syncle](https://syncle.dev) - Web interface for syncing rows between Postgres and MySQL, SQLite, MongoDB or Redis, by backfill, polling, or logical replication.
+
+### Contents / PaaS *(PostgreSQL as a Service)*
+
+*   [Neon](https://neon.com) - Serverless Postgres that separates storage and compute. Branching, scale-to-zero, read replicas with no extra storage, instant restore (PITR), managed authentication, and a PostgREST-compatible Data API.
+
+### Resources / Tutorials
+
+*   [PostgreSQL Terminal Simulator](https://devops-daily.com/games/postgres-terminal-simulator) - Guided psql lessons in a simulated terminal in the browser: meta-commands, EXPLAIN, indexes and transactions. Free, no signup.
+
 ## [Aug 31, 2026](/content/2026/08/31/README.md)
 
 ### Contents / GUI
 
 *   [1bench](https://1bench.dev/postgresql) - Native cross-platform GUI with first-class Postgres support alongside Redis, Elasticsearch, ClickHouse, Qdrant, and more (Commercial Software).
 *   [AI for Database](https://aifordatabase.com) - Chat with your PostgreSQL database in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. (Commercial Software).
-*   [Dekart (⭐402)](https://github.com/dekart-xyz/dekart) - Open-source platform to turn PostGIS queries into shareable interactive maps.
-*   [OrcaQ (⭐220)](https://github.com/cin12211/orca-q) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
-*   [PgStudio (⭐12)](https://github.com/dev-asterix/PgStudio) - Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.
+*   [Dekart (⭐438)](https://github.com/dekart-xyz/dekart) - Open-source platform to turn PostGIS queries into shareable interactive maps.
+*   [OrcaQ (⭐225)](https://github.com/cin12211/orca-q) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
+*   [PgStudio (⭐14)](https://github.com/dev-asterix/PgStudio) - Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.
 *   [TablePro](https://tablepro.app/) - Native macOS PostgreSQL client with explain visualization, ER diagrams, and AI assistant. Free, open-source.
 
 ### Contents / CLI
 
 *   [pgfence](https://pgfence.com) - Lints Postgres SQL migrations for lock modes and risky DDL, with safe expand/contract rewrites. CLI plus LSP. Extractors for Prisma, TypeORM, and Knex.
-*   [pgxcli (⭐72)](https://github.com/Balaji01-4D/pgxcli) - Postgres CLI with autocompletion and syntax highlighting written in Go.
+*   [pgxcli (⭐75)](https://github.com/Balaji01-4D/pgxcli) - Postgres CLI with autocompletion and syntax highlighting written in Go.
 
 ### Contents / Security
 
-*   [pgrls (⭐26)](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
+*   [pgrls (⭐29)](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Contents / Monitoring
 
-*   [pgwd (⭐7)](https://github.com/hrodrig/pgwd) - monitors PostgreSQL connection usage and stale sessions, with threshold alerts, Prometheus metrics, and multiple notification backends.
-*   [pgvitals (⭐6)](https://github.com/pgvitals/pgvitals) - collection of 40 read-only diagnostic queries for spotting common performance problems (slow queries, bloat, vacuum lag, lock contention, replication lag, wraparound risk) using only the standard system catalog with no extensions required, plus an optional CLI that aggregates them into a 0-100 health score.
+*   [pgwd (⭐8)](https://github.com/hrodrig/pgwd) - monitors PostgreSQL connection usage and stale sessions, with threshold alerts, Prometheus metrics, and multiple notification backends.
+*   [pgvitals (⭐7)](https://github.com/pgvitals/pgvitals) - collection of 40 read-only diagnostic queries for spotting common performance problems (slow queries, bloat, vacuum lag, lock contention, replication lag, wraparound risk) using only the standard system catalog with no extensions required, plus an optional CLI that aggregates them into a 0-100 health score.
 
 ### Contents / Extensions
 
-*   [psql\_bm25s (⭐146)](https://github.com/Intelligent-Internet/psql_bm25s) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL top-k query APIs.
+*   [psql\_bm25s (⭐201)](https://github.com/Intelligent-Internet/psql_bm25s) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL top-k query APIs.
 
 ### Contents / Platforms
 
-*   [neond (⭐129)](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
+*   [neond (⭐141)](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
 
 ### Contents / Utilities
 
-*   [pgFirstAid (⭐533)](https://github.com/randoneering/pgFirstAid) - Easy-to-deploy, open source PostgreSQL function that provides a prioritized list of actions to improve database stability and performance. Directly inspired by Brent Ozar's FirstResponderKit for SQL Server.
+*   [pgFirstAid (⭐539)](https://github.com/randoneering/pgFirstAid) - Easy-to-deploy, open source PostgreSQL function that provides a prioritized list of actions to improve database stability and performance. Directly inspired by Brent Ozar's FirstResponderKit for SQL Server.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -49,7 +79,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Docker images
 
-*   [pglayers (⭐146)](https://github.com/pglayers/pglayers) - Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).
+*   [pglayers (⭐172)](https://github.com/pglayers/pglayers) - Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).
 
 ### Resources / Tutorials
 
@@ -63,12 +93,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / CLI
 
-*   [squix (⭐266)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
+*   [squix (⭐275)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 
 ### Contents / Utilities
 
 *   [Greenmask (⭐1.8k)](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
-*   [Qail (⭐35)](https://github.com/qail-io/qail) - rust-first typed AST pipeline for PostgreSQL with compile-time query checks and built-in tenant scoping.
+*   [Qail (⭐37)](https://github.com/qail-io/qail) - rust-first typed AST pipeline for PostgreSQL with compile-time query checks and built-in tenant scoping.
 
 ### Resources / Newsletters
 
@@ -78,8 +108,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / CLI
 
-*   [MigrationPilot (⭐7)](https://github.com/mickelsamuel/migrationpilot) - PostgreSQL migration safety CLI that catches dangerous DDL before production — 80 rules, lock classification, auto-fix, GitHub Action.
-*   [sabiql (⭐260)](https://github.com/riii111/sabiql) - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.
+*   [MigrationPilot (⭐9)](https://github.com/mickelsamuel/migrationpilot) - PostgreSQL migration safety: 112 rules, real-parser lock analysis, auto-fix, GitHub Action, and an MCP server that gates the DDL an AI agent writes. Free, MIT.
+*   [sabiql (⭐318)](https://github.com/riii111/sabiql) - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.
 
 ### Contents / Monitoring
 
@@ -88,7 +118,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / Utilities
 
 *   [pg-safe-migrate (⭐1)](https://github.com/defnotwig/pg-safe-migrate) - Safety-first Node.js migration engine with advisory locks, SHA-256 drift detection, and 10 built-in lint rules for PostgreSQL.
-*   [diesel-guard (⭐120)](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+*   [diesel-guard (⭐121)](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -96,7 +126,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Resources / Tutorials
 
-*   [SQL Syntax Cheat Sheet (⭐54)](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
+*   [SQL Syntax Cheat Sheet (⭐55)](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
 
 ### Resources / Blogs
 
@@ -114,13 +144,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Monitoring
 
-*   [pg\_ash (⭐244)](https://github.com/NikolayS/pg_ash) - Active Session History for PostgreSQL. Samples pg\_stat\_activity once per second via pg\_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).
+*   [pg\_ash (⭐255)](https://github.com/NikolayS/pg_ash) - Active Session History for PostgreSQL. Samples pg\_stat\_activity once per second via pg\_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Contents / High-Availability
 
-*   [pg-status (⭐81)](https://github.com/krylosov-aa/pg-status) - A microservice that provides HTTP endpoints for instantly retrieving the current master host or a replica that meets various criteria.
+*   [pg-status (⭐82)](https://github.com/krylosov-aa/pg-status) - A microservice that provides HTTP endpoints for instantly retrieving the current master host or a replica that meets various criteria.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -128,7 +158,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Kubernetes
 
-*   [Percona PostgreSQL Operator (⭐384)](https://github.com/percona/percona-postgresql-operator) - Percona Operator for PostgreSQL based on Crunchy Data operator.
+*   [Percona PostgreSQL Operator (⭐387)](https://github.com/percona/percona-postgresql-operator) - Percona Operator for PostgreSQL based on Crunchy Data operator.
 *   [Percona Everest Operator (⭐42)](https://github.com/percona/everest-operator) - Everest Operator is a Kubernetes Operator responsible for managing the lifecycle of MySQL, MongoDB, and PostgreSQL databases. It leverages Percona's Kubernetes Operators for MySQL, MongoDB, and PostgreSQL under the hood but provides a unified API and a single pane of glass for managing all three database types.
 
 ### Resources / Blogs
@@ -153,13 +183,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Platforms
 
-*   [Atlas4D (⭐16)](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+*   [Atlas4D (⭐20)](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
 
 ## [Nov 27, 2025](/content/2025/11/27/README.md)
 
 ### Contents / Extensions
 
-*   [pg\_search (⭐9.2k)](https://github.com/paradedb/paradedb) - pg\_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+*   [pg\_search (⭐9.5k)](https://github.com/paradedb/paradedb) - pg\_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -175,7 +205,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / High-Availability
 
-*   [Spock (⭐745)](https://github.com/pgEdge/spock) - 100% open-source logical multi-master PostgreSQL replication.
+*   [Spock (⭐762)](https://github.com/pgEdge/spock) - 100% open-source logical multi-master PostgreSQL replication.
 
 ### Contents / GUI
 
@@ -205,20 +235,20 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Work Queues
 
-*   [pgBoss (⭐3.9k)](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss.
+*   [pgBoss (⭐4.1k)](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss.
 *   [dbos](https://www.dbos.dev/) - Durable workflows in Typescript and Python
 *   [Graphile Worker](https://worker.graphile.org) - A high performance job queue for PostgreSQL, written in Node.js
 *   [@andyrmitchell/pg-queue](https://www.npmjs.com/package/@andyrmitchell/pg-queue) - The 'No Maintenance' Postgres Queue for Node.js
 
 ### Contents / Optimization
 
-*   [pgassistant (⭐41)](https://github.com/beh74/pgassistant-community) - A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.
+*   [pgassistant (⭐57)](https://github.com/beh74/pgassistant-community) - A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.
 
 ## [Jun 03, 2025](/content/2025/06/03/README.md)
 
 ### Contents / High-Availability
 
-*   [pgrwl (⭐181)](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg\_receivewal.
+*   [pgrwl (⭐184)](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg\_receivewal.
 
 ### Contents / Backups
 
@@ -249,12 +279,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / Work Queues
 
 *   [BeanQueue (⭐28)](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
-*   [pgmq (⭐5.1k)](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-*   [river (⭐5.6k)](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
+*   [pgmq (⭐5.4k)](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+*   [river (⭐5.9k)](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
 
 ### Contents / Utilities
 
-*   [planter (⭐556)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
+*   [planter (⭐555)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ## [May 06, 2025](/content/2025/05/06/README.md)
 
@@ -264,11 +294,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Extensions
 
-*   [pgcat (⭐386)](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
+*   [pgcat (⭐387)](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
 
 ### Contents / Optimization
 
-*   [aqo (⭐499)](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
+*   [aqo (⭐501)](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
 
 ### Contents / Utilities
 
@@ -299,12 +329,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Kubernetes
 
-*   [Crunchy Operator (⭐4.4k)](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+*   [Crunchy Operator (⭐4.5k)](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 *   [Fujitsu Enterprise Postgres for Kubernetes](https://www.postgresql.fastware.com/) - Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).
 *   [Kubegres Operator (⭐1.4k)](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 *   [StackGres Operator (⭐1.4k)](https://github.com/ongres/stackgres/) -  Full Stack PostgreSQL on Kubernetes.
-*   [Zalando Operator (⭐5.2k)](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
-*   [CloudNativePG operator (⭐9.2k)](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
+*   [Zalando Operator (⭐5.3k)](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+*   [CloudNativePG operator (⭐9.5k)](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
 *   [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
 
 ### Resources / Tutorials
@@ -338,23 +368,23 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Monitoring
 
-*   [coroot (⭐7.9k)](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Powered by eBPF for rapid insights into system performance.
+*   [coroot (⭐8k)](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Powered by eBPF for rapid insights into system performance.
 *   [Datadog](https://www.datadoghq.com/product/database-monitoring/) - SaaS monitoring that collects and visualizes metrics, queries, and explain plans, and sends alerts when problems are encountered (Commercial Software).
 
 ### Contents / Extensions
 
 *   [OrioleDB](https://www.orioledb.com/) - The cloud-native storage engine for PostgreSQL. OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines.
-*   [ParadeDB (⭐9.2k)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
+*   [ParadeDB (⭐9.5k)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
 ### Contents / Utilities
 
-*   [GatewayD (⭐289)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
-*   [pg-spot-operator (⭐59)](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
+*   [GatewayD (⭐290)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [pg-spot-operator (⭐60)](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 *   [pgroll (⭐6.6k)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 
 ### Contents / Language bindings
 
-*   R: [RPostgres (⭐342)](https://github.com/r-dbi/RPostgres), [RPostgreSQL (⭐66)](https://github.com/tomoakin/RPostgreSQL)
+*   R: [RPostgres (⭐344)](https://github.com/r-dbi/RPostgres), [RPostgreSQL (⭐67)](https://github.com/tomoakin/RPostgreSQL)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -385,7 +415,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / CLI
 
-*   [pg-schema-diff (⭐878)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
+*   [pg-schema-diff (⭐901)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 
 ### Contents / Security
 
@@ -397,24 +427,24 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Extensions
 
-*   [AGE (⭐4.8k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
-*   [pg\_stat\_monitor (⭐588)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
-*   [pg\_squeeze (⭐691)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
+*   [AGE (⭐4.9k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+*   [pg\_stat\_monitor (⭐593)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
+*   [pg\_squeeze (⭐703)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
 
 ### Contents / Utilities
 
-*   [bemi (⭐401)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
-*   [migra (⭐3.1k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+*   [bemi (⭐400)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+*   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 *   [pg\_timetable (⭐1.4k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
-*   [Pyrseas (⭐406)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
+*   [Pyrseas (⭐405)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 
 ### Contents / Language bindings
 
-*   Zig: [pg.zig (⭐590)](https://github.com/karlseguin/pg.zig), [qail-zig (⭐6)](https://github.com/qail-io/qail-zig)
+*   Zig: [pg.zig (⭐605)](https://github.com/karlseguin/pg.zig), [qail-zig (⭐6)](https://github.com/qail-io/qail-zig)
 
 ### Resources / Tutorials
 
-*   [pagila (⭐78)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+*   [pagila (⭐80)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 
 ### Resources / Blogs
 
@@ -437,7 +467,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Distributions
 
-*   [Pigsty (⭐5.6k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+*   [Pigsty (⭐5.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### Contents / Server
 
@@ -445,7 +475,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Monitoring
 
-*   [pg\_exporter (⭐362)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [pg\_exporter (⭐366)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Contents / Optimization
 
@@ -465,7 +495,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [pgspot (⭐147)](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
+*   [pgspot (⭐150)](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
 
 ## [Jun 20, 2024](/content/2024/06/20/README.md)
 
@@ -493,17 +523,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
 
-## [Jun 18, 2023](/content/2023/06/18/README.md)
-
-### Contents / PaaS *(PostgreSQL as a Service)*
-
-*   [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
-
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Contents / CLI
 
-*   [atlas (⭐8.7k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐8.8k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -535,7 +559,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐714)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐715)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -633,11 +657,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Backups
 
-*   [wal-g (⭐4.2k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐4.3k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐649)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [pgsh (⭐652)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 *   [schemaspy (⭐3.7k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
@@ -653,21 +677,21 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.6k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐504)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐510)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
 *   [Hasura GraphQL Engine (⭐32k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-*   [pg\_activity (⭐3k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
+*   [pg\_activity (⭐3.1k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 *   [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 *   [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐9.9k)](https://github.com/lib/pq), [pgx (⭐14k)](https://github.com/jackc/pgx), [go-pg (⭐5.8k)](https://github.com/go-pg/pg)
-*   Node: [node-postgres (⭐13k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.6k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐139)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.9k)](https://github.com/gajus/slonik), [postgres (⭐8.7k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐10k)](https://github.com/lib/pq), [pgx (⭐14k)](https://github.com/jackc/pgx), [go-pg (⭐5.8k)](https://github.com/go-pg/pg)
+*   Node: [node-postgres (⭐13k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.5k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐137)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.9k)](https://github.com/gajus/slonik), [postgres (⭐8.8k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/), [pg8000](https://pypi.org/project/pg8000/)
-*   Ruby: [pg (⭐871)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐870)](https://github.com/ged/ruby-pg)
 
 ### Resources / Videos
 
@@ -779,7 +803,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐160)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐161)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ## [Dec 08, 2018](/content/2018/12/08/README.md)
 
@@ -792,7 +816,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐191)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐193)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -810,7 +834,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐2.8k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐2.9k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -860,22 +884,22 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Backups
 
-*   [pg\_back (⭐565)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐566)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐440)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐442)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
 ## [Jul 07, 2018](/content/2018/07/07/README.md)
 
 ### Contents / High-Availability
 
-*   [PAF (⭐350)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+*   [PAF (⭐351)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 
 ### Contents / Extensions
 
-*   [HypoPG (⭐1.7k)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
+*   [HypoPG (⭐1.8k)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 
 ## [Mar 29, 2018](/content/2018/03/29/README.md)
 
@@ -887,7 +911,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐235)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐241)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [Mar 07, 2018](/content/2018/03/07/README.md)
 
@@ -918,21 +942,21 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Lua: [luapgsql (⭐120)](https://github.com/arcapos/luapgsql)
+*   Lua: [luapgsql (⭐119)](https://github.com/arcapos/luapgsql)
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐552)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐553)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [Sep 20, 2017](/content/2017/09/20/README.md)
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐411)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐415)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
-*   [pgtune (⭐2.7k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
+*   [pgtune (⭐2.8k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 *   [pgconfig.org (⭐88)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 
 ## [Sep 02, 2017](/content/2017/09/02/README.md)
@@ -951,7 +975,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [pg-formatter (⭐83)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+*   [pg-formatter (⭐82)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 
 ## [Apr 29, 2017](/content/2017/04/29/README.md)
 
@@ -963,13 +987,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / GUI
 
-*   [temBoard (⭐768)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐769)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ## [Apr 17, 2017](/content/2017/04/17/README.md)
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐3.7k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.8k)](https://github.com/npgsql/npgsql)
 
 ## [Apr 06, 2017](/content/2017/04/06/README.md)
 
@@ -987,7 +1011,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐800)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐799)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 
@@ -1003,13 +1027,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐568)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐570)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [Jan 27, 2017](/content/2017/01/27/README.md)
 
 ### Contents / High-Availability
 
-*   [SkyTools (⭐249)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+*   [SkyTools (⭐248)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ## [Jan 12, 2017](/content/2017/01/12/README.md)
 
@@ -1033,7 +1057,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / High-Availability
 
-*   [Patroni (⭐8.7k)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
+*   [Patroni (⭐8.8k)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
 *   [Stolon (⭐4.8k)](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration.
 *   [repmgr (⭐1.7k)](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 
@@ -1049,7 +1073,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 *   [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 *   [pgweb (⭐9.5k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-*   [phpPgAdmin (⭐844)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+*   [phpPgAdmin (⭐847)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 *   [Postbird (⭐1.6k)](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 *   [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 *   [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
@@ -1058,20 +1082,20 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Monitoring
 
-*   [check\_pgactivity (⭐185)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
-*   [Check\_postgres (⭐602)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
-*   [libzbxpgsql (⭐156)](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
+*   [check\_pgactivity (⭐188)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
+*   [Check\_postgres (⭐604)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
+*   [libzbxpgsql (⭐155)](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
 *   [Pome (⭐1.1k)](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
-*   [pg\_view (⭐507)](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
+*   [pg\_view (⭐506)](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 
 ### Contents / Extensions
 
 *   [cstore\_fdw (⭐1.8k)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 *   [pglogical (⭐1.2k)](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
-*   [pg\_paxos (⭐309)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
+*   [pg\_paxos (⭐310)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 *   [pg\_shard (⭐1.1k)](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
 *   [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
-*   [plpgsql\_check (⭐778)](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
+*   [plpgsql\_check (⭐785)](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
 *   [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 *   [zomboDB (⭐4.7k)](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 
@@ -1090,7 +1114,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [pgclimb (⭐393)](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
 *   [pgfutter (⭐1.3k)](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 *   [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
-*   [pgloader (⭐6.5k)](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
+*   [pgloader (⭐6.6k)](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 *   [pgsync (⭐3.5k)](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 *   [postgresql-metrics (⭐598)](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 *   [yoke (⭐1.3k)](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
@@ -1127,7 +1151,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐668)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐671)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [Sep 13, 2016](/content/2016/09/13/README.md)
 
@@ -1139,9 +1163,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐431)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐436)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.2k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.8k)](https://github.com/tcdi/pgx), [wtx (⭐399)](https://github.com/c410-f3r/wtx)
+*   Rust: [rust-postgresql (⭐4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.8k)](https://github.com/tcdi/pgx), [wtx (⭐405)](https://github.com/c410-f3r/wtx)
 
 ## [Mar 11, 2016](/content/2016/03/11/README.md)
 

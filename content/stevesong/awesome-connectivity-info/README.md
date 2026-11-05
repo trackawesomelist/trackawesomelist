@@ -6,6 +6,12 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Connectivity Maps / Discontinued
+
+*   [Giga Global connectivity map for children](https://maps.giga.global/map) - Global map of connected schools and health facilities from  [Giga](https://giga.global/), a joint initiative of UNICEF and ITU.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Global Indexes

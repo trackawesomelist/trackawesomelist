@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### Polars plugins / Finance
+
+*   [fastitch (⭐2)](https://github.com/ArkaKhorchidian/fastitch) - Fast NASDAQ TotalView-ITCH 5.0 parser that decodes full trading days straight into Polars DataFrames, with order-book reconstruction by [@ArkaKhorchidian](https://github.com/ArkaKhorchidian).
+
+### R / Miscellaneous
+
+*   [polars-ros (⭐1)](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
 ### Polars plugins / Finance
@@ -67,7 +77,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Validation
 
-*   [dataprof (⭐29)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
+*   [dataprof (⭐33)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
 
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 

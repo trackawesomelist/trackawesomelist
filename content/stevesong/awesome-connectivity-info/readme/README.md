@@ -23,12 +23,17 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 ## Contents
 
-*   [Global Indexes](#global-indexes)
-*   [Connectivity Maps](#connectivity-maps)
-*   [Periodic Global Reports](#periodic-global-reports)
-*   [Regional Reports and Data](#regional-reports-and-data)
-*   [Data and Measurement](#data-and-measurement)
-*   [License](#license)
+*   [](#)
+    *   [Contents](#contents)
+    *   [Global Indexes](#global-indexes)
+        *   [Discontinued](#discontinued)
+    *   [Connectivity Maps](#connectivity-maps)
+    *   [Periodic Global Reports](#periodic-global-reports)
+        *   [Discontinued](#discontinued-1)
+    *   [Regional Reports and Data](#regional-reports-and-data)
+    *   [Data and Measurement](#data-and-measurement)
+        *   [One-off reports](#one-off-reports)
+    *   [License](#license)
 
 <!-- BEGIN RESOURCE LIST -->
 
@@ -75,6 +80,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 *   [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on a country-by-country basis.
 *   [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - Offline as of April 2024 (discontinued).
 *   [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband (discontinued).
+*   [Giga Global connectivity map for children](https://maps.giga.global/map) - Global map of connected schools and health facilities from  [Giga](https://giga.global/), a joint initiative of UNICEF and ITU.
 
 ## Periodic Global Reports
 

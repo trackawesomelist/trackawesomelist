@@ -11,6 +11,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Polars plugins / Finance
 
 *   [polars-talib-fast (⭐0)](https://github.com/meet-brad-ch/polars-talib-fast) - Every TA-Lib function (237) as a Polars expression, on TA-Lib's official Rust port, with TA-Lib's default parameters and output names by [@meet-brad-ch](https://github.com/meet-brad-ch).
+*   [fastitch (⭐2)](https://github.com/ArkaKhorchidian/fastitch) - Fast NASDAQ TotalView-ITCH 5.0 parser that decodes full trading days straight into Polars DataFrames, with order-book reconstruction by [@ArkaKhorchidian](https://github.com/ArkaKhorchidian).
+
+### R / Miscellaneous
+
+*   [polars-ros (⭐1)](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
 
 ### Cheat Sheets / Miscellaneous
 
@@ -57,7 +62,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Validation
 
-*   [dataprof (⭐29)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
+*   [dataprof (⭐33)](https://github.com/AndreaBozzo/dataprof) - Data profiling and quality gates for Polars and pandas DataFrames, CSV, JSON and Parquet, written in Rust, by [@AndreaBozzo](https://github.com/AndreaBozzo).
 
 ### Polars plugins / General utilities / Performance
 

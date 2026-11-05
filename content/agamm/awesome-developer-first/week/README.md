@@ -23,6 +23,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Buddy](https://buddy.works) - CI/CD pipelines, sandbox VMs, hosting and git repositories for AI coding agents.
 
+### Messaging
+
+*   [SuprSend](https://www.suprsend.com) - Notification infrastructure with workflows, templates and preferences for email, SMS, push, in-app and chat.
+
 ### Reports Generation
 
 *   [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.

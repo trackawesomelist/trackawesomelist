@@ -8,6 +8,10 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### SaaS
+
+*   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
+
 ### Infrastructure Monitoring
 
 *   [Kilobat](https://kilobat.app/students) \[FREE] - macOS network monitoring app; eligible students aged 13+ get one year of Pro for two Macs with a school email, renewable while studying.

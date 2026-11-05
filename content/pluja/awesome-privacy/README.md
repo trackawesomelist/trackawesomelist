@@ -6,12 +6,59 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Nov 05, 2026](/content/2026/11/05/README.md)
+
+### VPNs / Apps
+
+*   **Free VPNs**: a 2017 study of 283 Android VPN apps found 75% used trackers and 38% contained malware. <sub>[Source](https://torrentfreak.com/researchers-issue-security-warning-over-android-vpn-apps-170125/)</sub>
+
+### Password Managers / Useful Tools
+
+*   **LastPass**: the UK fined it £1.2 million in 2025 over a 2022 breach that leaked customers' encrypted vaults. <sub>[Source](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)</sub>
+
+### Encryption / Useful Tools
+
+*   **BitLocker**: your recovery key is uploaded to Microsoft by default, and Microsoft has handed such keys to the FBI. <sub>[Source](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports)</sub>
+
+### Photo Editing and Management / Deezer alternative clients
+
+*   **Adobe Photoshop and Lightroom**: its 2024 terms say Adobe may access your cloud content through both automated and manual review. <sub>[Source](https://www.theregister.com/2024/06/06/adobe_users_upset_over_content/)</sub>
+
+### Video Editing / Deezer alternative clients
+
+*   **Adobe Premiere Pro**: its terms allow automated scanning of your Creative Cloud files and human review of flagged ones. <sub>[Source](https://www.adobe.com/legal/terms.html)</sub>
+
+### Ebooks / Plugins for Minecraft
+
+*   **Amazon Kindle**: in 2009 Amazon remotely deleted copies of 1984 that people had bought from their Kindles. <sub>[Source](https://www.theregister.com/2009/07/18/amazon_removes_1984_from_kindle/)</sub>
+
+### Android Debloat Tools / Plugins for Minecraft
+
+*   **ADB AppControl**: its terms let it send your PC's IP, hardware details and the apps you remove to a remote server. <sub>[Source](https://appcontrol.neocities.org/pages/terms_of_use)</sub>
+
+### Android Gallery / Plugins for Minecraft
+
+*   **Google Photos**: scans your photos, and in 2022 its scan got a father investigated by police over photos taken for a doctor. <sub>[Source](https://gizmodo.com/google-csam-photodna-1849440471)</sub>
+
+### Home Assistants / Other OS
+
+*   **Siri**: in 2025 Apple settled claims that Siri recorded private conversations without consent for $95 million. <sub>[Source](https://scott-scott.com/court-grants-final-approval-of-95m-apple-siri-settlement/)</sub>
+
+### Payments / Apps and services
+
+*   **Visa / Mastercard**: your card purchases feed Mastercard audience segments, like affluent shoppers, sold on data marketplaces. <sub>[Source](https://www.americanbanker.com/news/mastercard-removes-some-ads-for-customer-transaction-data)</sub>
+
+### Legend / Apps and services
+
+*   `⚠️ closed server`: the server code isn't public.
+*   `⚠️ account required`: an account is needed to use it.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Video and Audio Conferencing / Desktop
 
-*   **WhatsApp**: shares metadata such as who you call and when with Meta. <sub>[ToS;DR](https://tosdr.org/en/service/198)</sub>
-*   **Zoom**: claimed end-to-end encryption that its meetings didn't have. <sub>[ToS;DR](https://tosdr.org/en/service/2198) · [Source](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)</sub>
+*   **WhatsApp**: in 2021 Ireland fined it €225 million for not properly explaining what data it shares with Facebook. <sub>[ToS;DR](https://tosdr.org/en/service/198) · [Source](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-whatsapp-inquiry)</sub>
+*   **Zoom**: paid $85 million in 2021 to settle claims it shared user data with Facebook, Google and LinkedIn. <sub>[ToS;DR](https://tosdr.org/en/service/2198) · [Source](https://www.cnbc.com/2021/08/01/zoom-reaches-85-million-settlement-over-user-privacy-and-hacker-zoombombing.html)</sub>
 *   **[BigBlueButton](https://bigbluebutton.org/)** - Self-hosted web conferencing built for online classes, with whiteboard, breakout rooms and recordings. `⚠️ website trackers` <sub>self-host · LGPL-3.0</sub>
 *   **[Briefing](https://brie.fi/ng)** - Group video chat in the browser over direct WebRTC connections, with no account. <sub>self-host · AGPL-3.0</sub>
 *   **[Chitchatter](https://chitchatter.im/)** - Serverless, ephemeral peer-to-peer chat with audio, video, screen and file sharing. <sub>GPL-2.0</sub>
@@ -22,16 +69,24 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Instant Messaging
 
-*   **Facebook Messenger**: Meta's messenger, with 5 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/182) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.facebook.orca/latest/)</sub>
+*   **Facebook Messenger**: chats have been encrypted since 2023, but Meta still sees who you message, when, and who your contacts are. <sub>[ToS;DR](https://tosdr.org/en/service/182) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.facebook.orca/latest/) · [Source](https://www.eff.org/deeplinks/2023/12/meta-announces-end-end-encryption-default-messenger)</sub>
 
-### Instagram / Alternative Medium frontends
+### Instagram / Desktop
 
-*   **Instagram**: Meta builds an ad profile from what you view, like and follow. <sub>[ToS;DR](https://tosdr.org/en/service/219)</sub>
+*   **Instagram**: Ireland fined Meta €405 million in 2022 for exposing children's emails and phone numbers on Instagram. <sub>[ToS;DR](https://tosdr.org/en/service/219) · [Source](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-instagram-inquiry)</sub>
 *   **[Pixelfed](https://pixelfed.org/)** - Federated photo sharing with posts, stories and a chronological feed, without ads. <sub>ActivityPub · AGPL-3.0</sub>
 
-### Location tracking / Apps and services
+### Location Tracking / Apps and services
 
 *   **Google Find Hub (formerly Find My Device)**: reports your devices' locations to Google. <sub>[ToS;DR](https://tosdr.org/en/service/217)</sub>
+
+### Teamworking Tools / Desktop
+
+*   **[Wire](https://wire.com/)** - End-to-end encrypted messaging, calls and file sharing for teams, with public and audited code for both the apps and the server. `⚠️ website trackers` <sub>AGPL-3.0 · [F-Droid](https://f-droid.org/packages/com.wire/) (Play Store version has trackers)</sub>
+*   **Discord**: a 2025 breach at a support vendor exposed government ID photos of about 70,000 users. <sub>[ToS;DR](https://tosdr.org/en/service/536) · [Source](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)</sub>
+*   **Slack**: your messages feed its recommendation models unless a workspace owner emails Slack to opt out. <sub>[ToS;DR](https://tosdr.org/en/service/206) · [Source](https://slack.com/trust/data-management/privacy-principles)</sub>
+*   **[Rocket.Chat](https://www.rocket.chat/)** - Self-hosted team chat with end-to-end encrypted rooms and federation. `⚠️ website trackers` <sub>self-host</sub>
+*   **[Twake Chat](https://twake.app/)** - Workplace chat built on Matrix, part of Linagora's Twake Workplace suite. <sub>AGPL-3.0</sub>
 
 ### Maps and Navigation / Apps and services
 
@@ -44,8 +99,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Search Engines / Useful Tools
 
-*   **Yahoo!**: logs your searches under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/309)</sub>
-*   **Yandex**: Russian law gives the security services access to user data. <sub>[ToS;DR](https://tosdr.org/en/service/860)</sub>
+*   **Yahoo!**: a 2013 breach hit all 3 billion Yahoo accounts, which Yahoo admitted only in 2017. <sub>[ToS;DR](https://tosdr.org/en/service/309) · [Source](https://techcrunch.com/2017/10/03/yahoo-says-all-3b-accounts-were-impacted-by-2013-breach-not-1b-as-thought)</sub>
+*   **Yandex**: in 2025 researchers found its Android apps, Yandex Search among them, secretly linked browsing to device IDs. <sub>[ToS;DR](https://tosdr.org/en/service/860) · [Source](https://localmess.github.io/)</sub>
 *   **[Brave Search](https://search.brave.com)** - Search engine with [its own independent index](https://brave.com/search-independence/), from the makers of Brave.
 *   **[DuckDuckGo](https://duckduckgo.com)** - Search engine that doesn't build a profile on you, with results drawn largely from Bing.
 *   **[Marginalia](https://marginalia-search.com/)** - Independent search engine with its own crawler and index that favors text-heavy, non-commercial pages. <sub>self-host</sub>
@@ -54,11 +109,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[SearXNG](https://docs.searxng.org/)** - Metasearch engine that queries other search services for you; use a [public instance](https://searx.space/) or host your own. <sub>self-host · AGPL-3.0</sub>
 *   **[YaCy](https://yacy.net/)** - Peer-to-peer search engine where every user runs a node and shares the index.
 
-### Third-Party owned
+### Third-party
 
 *   **[Proton Mail](https://proton.me/mail)** - Email from Switzerland, end-to-end encrypted between Proton users and with PGP, and stored encrypted otherwise, where a court order can still force it to log your IP ([2021 case](https://proton.me/blog/climate-activist-arrest)). <sub>GPL-3.0</sub>
 
-### Self-Hosted
+### Self-hosted
 
 *   **[Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)** - Complete mail server (SMTP, IMAP, antispam, antivirus) in a single Docker container, configured with files. <sub>self-host · MIT</sub>
 *   **[Mail-in-a-box](https://mailinabox.email/)** - Turns a fresh Ubuntu server into a complete mail server with one setup script. <sub>self-host · CC0-1.0</sub>
@@ -79,14 +134,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[addy.io](https://addy.io)** - Email alias and forwarding service you can host yourself, formerly AnonAddy. <sub>self-host · AGPL-3.0</sub>
 *   **[SimpleLogin](https://simplelogin.io)** - Email alias service you can host yourself, owned by Proton. <sub>self-host · AGPL-3.0</sub>
 
-### Teamworking Tools / Desktop
-
-*   **Discord**: messages aren't end-to-end encrypted, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/536)</sub>
-*   **Slack**: messages aren't end-to-end encrypted, and workspace admins can export them. <sub>[ToS;DR](https://tosdr.org/en/service/206)</sub>
-*   **[Rocket.Chat](https://www.rocket.chat/)** - Self-hosted team chat with end-to-end encrypted rooms and federation. `⚠️ website trackers` <sub>self-host</sub>
-*   **[Twake Chat](https://twake.app/)** - Workplace chat built on Matrix, part of Linagora's Twake Workplace suite. <sub>AGPL-3.0</sub>
-*   **[Wire](https://wire.com/)** - End-to-end encrypted messaging, calls and file sharing for teams, with public and audited code for both the apps and the server. `⚠️ website trackers` <sub>AGPL-3.0 · [F-Droid](https://f-droid.org/packages/com.wire/) (Play Store version has trackers)</sub>
-
 ### Alternative clients/modifications of Discord / Desktop
 
 *   **[Aliucord (⭐4.9k)](https://github.com/Aliucord/Aliucord)** - Mod for the Android Discord app that [disables Discord's tracking (⭐4.9k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java). <sub>Android · OSL-3.0</sub>
@@ -104,17 +151,17 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[Plume](https://joinplu.me/)** - Federated blogging engine where readers can follow and comment from any ActivityPub account. `💀 inactive` <sub>ActivityPub</sub>
 *   **[WriteFreely](https://writefreely.org/)** - Minimal, distraction-free blogging platform that can federate posts over ActivityPub. <sub>ActivityPub · AGPL-3.0</sub>
 
-### YouTube / Alternative Medium frontends
+### YouTube / Desktop
 
-*   **YouTube**: Google builds a detailed profile from everything you watch. <sub>[ToS;DR](https://tosdr.org/en/service/274)</sub>
+*   **YouTube**: Google paid a record $170 million in 2019 for collecting children's data on YouTube without parental consent. <sub>[ToS;DR](https://tosdr.org/en/service/274) · [Source](https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-alleged-violations-childrens-privacy-law)</sub>
 *   **[PeerTube](https://joinpeertube.org/en/)** - Federated video hosting where anyone can run an instance and follow channels across others. <sub>ActivityPub · AGPL-3.0</sub>
 
-### YouTube / YouTube alternative frontends (web-based)
+### YouTube / Frontends
 
 *   **[Invidious](https://invidious.io/)** - YouTube frontend with no ads or Google scripts and subscriptions without an account; see the [public instances](https://docs.invidious.io/instances/). <sub>AGPL-3.0</sub>
 *   **[youtube-local (⭐779)](https://github.com/user234683/youtube-local)** - YouTube client that runs on your computer and opens in the browser, with local subscriptions and optional routing through Tor. <sub>Desktop · AGPL-3.0</sub>
 
-### YouTube / YouTube alternative clients (apps)
+### YouTube / Apps
 
 *   **[FreeTube](https://freetubeapp.io/)** - Desktop YouTube app that keeps subscriptions, playlists and history on your computer, without Google's cookies or scripts. <sub>Desktop · AGPL-3.0</sub>
 *   **[LibreTube](https://libretube.dev/)** - Android YouTube app that fetches videos through Piped instead of Google's servers. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.github.libretube/)</sub>
@@ -122,9 +169,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[SkyTube (⭐2.8k)](https://github.com/SkyTubeTeam/SkyTube)** - Android YouTube app with local subscriptions, downloads and a channel and video blocker. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/)</sub>
 *   **[Yattee (⭐3.8k)](https://github.com/yattee/yattee)** - Native YouTube player for iPhone, iPad, Apple TV and Mac that works through Invidious or Piped. <sub>iOS · macOS · AGPL-3.0</sub>
 
-### Twitter / YouTube alternative clients (apps)
+### Twitter / Apps
 
-*   **Twitter (X)**: profiles you from who you follow and what you like and repost. <sub>[ToS;DR](https://tosdr.org/en/service/195)</sub>
+*   **Twitter (X)**: paid $150 million in 2022 for using phone numbers given for account security to target ads. <sub>[ToS;DR](https://tosdr.org/en/service/195) · [Source](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-charges-twitter-deceptively-using-account-security-data-sell-targeted-ads)</sub>
 
 ### Twitter / Decentralized
 
@@ -133,62 +180,62 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[Pleroma](https://git.pleroma.social/pleroma/pleroma)** - Lightweight federated social network server. <sub>ActivityPub</sub>
     *   **[Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe)** - Web frontend for Pleroma focused on custom branding and ease of use.
 
-### Twitter / Alternative Frontends
+### Twitter / Frontends
 
 *   **[Nitter (⭐14k)](https://github.com/zedeus/nitter)** - Twitter frontend without JavaScript or ads that proxies every request; see the [instances list (⭐14k)](https://github.com/zedeus/nitter/wiki/Instances). `💀 inactive` <sub>AGPL-3.0</sub>
 *   **[Squawker (⭐1.5k)](https://github.com/j-fbriere/squawker)** - Android Twitter client with no account, tracking or ads, keeping subscriptions on the device; the maintained fork of Fritter. <sub>Android · MIT · [F-Droid](https://f-droid.org/packages/org.ca.squawker/)</sub>
 
-### Reddit / Alternative Frontends
+### Reddit / Frontends
 
-*   **Reddit**: the official site and apps are full of trackers and ads. <sub>[ToS;DR](https://tosdr.org/en/service/194)</sub>
+*   **Reddit**: sold Google the right to train AI on users' posts in a 2024 deal valued at about $60 million. <sub>[ToS;DR](https://tosdr.org/en/service/194) · [Source](https://www.cbsnews.com/news/google-reddit-60-million-deal-ai-training/)</sub>
 
-### Reddit / Reddit alternatives
+### Reddit / Alternatives
 
 *   **[Lemmy](https://join-lemmy.org/)** - Federated link aggregator and discussion forum, organized into communities like subreddits. <sub>ActivityPub · AGPL-3.0</sub>
 *   **[Mbin](https://joinmbin.org/)** - Federated link aggregator with microblogging, the community-run continuation of kbin. <sub>ActivityPub · AGPL-3.0</sub>
 
-### Streaming Platforms (Twitch) / Privacy respecting Reddit clients
+### Streaming Platforms (Twitch) / Apps and frontends
 
-*   **Twitch**: owned by Amazon and funded by ads, so viewers are tracked for advertising. <sub>[ToS;DR](https://tosdr.org/en/service/200)</sub>
+*   **Twitch**: a 2021 breach leaked 125GB of its data, including source code and three years of creator payouts. <sub>[ToS;DR](https://tosdr.org/en/service/200) · [Source](https://fortune.com/2021/10/06/twitch-data-leak-hack-source-code-creator-payouts-4chan/)</sub>
 *   **[Owncast](https://owncast.online/)** - Self-hosted live streaming server with built-in chat, so you own the stream and your viewers' data. <sub>self-host · MIT</sub>
 
-### Streaming Platforms (Twitch) / Privacy respecting Twitch clients
+### Streaming Platforms (Twitch) / Apps
 
 *   **[Twire (⭐1.3k)](https://github.com/twireapp/Twire)** - Android Twitch client with built-in ad blocking, VODs with chat replay, and optional login. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)</sub>
 
-### Imgur / Privacy respecting Twitch clients
+### Imgur / Apps
 
-*   **Imgur**: 23 trackers in its Android app, and a site heavy with ads. <sub>[ToS;DR](https://tosdr.org/en/service/325) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imgur.mobile/latest/)</sub>
+*   **Imgur**: a 2014 hack stole about 1.7 million email addresses and passwords, which it only learned of in 2017. <sub>[ToS;DR](https://tosdr.org/en/service/325) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imgur.mobile/latest/) · [Source](https://techcrunch.com/2017/11/27/imgur-says-1-7m-emails-and-passwords-were-breached-in-2014-hack/)</sub>
 *   **[rimgo](https://codeberg.org/rimgo/rimgo)** - Read-only Imgur frontend that works without JavaScript; see the [instances](https://rimgo.codeberg.page/).
 
-### IMDb / Privacy respecting Twitch clients
+### IMDb / Apps
 
 *   **IMDb**: owned by Amazon, with 8 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/313) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.imdb.mobile/latest/)</sub>
 *   **[libremdb (⭐441)](https://github.com/zyachel/libremdb)** - IMDb frontend without ads or tracking that proxies images and video through the instance. <sub>self-host · AGPL-3.0</sub>
 
-### Fandom / Privacy respecting Twitch clients
+### Fandom / Apps
 
 *   **Fandom**: wikis loaded with ads and autoplaying video, and 8 trackers in the app. <sub>[ToS;DR](https://tosdr.org/en/service/2256) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.fandom.app/latest/)</sub>
 
-### Commenting Engines / Privacy respecting Twitch clients
+### Commenting Engines / Apps
 
-*   **Disqus**: loads trackers on every site that embeds it, and logs commenters' IP, device and location. <sub>[ToS;DR](https://tosdr.org/en/service/239)</sub>
+*   **Disqus**: tracked visitors across sites for ad profiling without consent, Norway's regulator said in 2021. <sub>[ToS;DR](https://tosdr.org/en/service/239) · [Source](https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/)</sub>
 *   **[Isso](https://isso-comments.de)** - Lightweight self-hosted comment server, meant as a drop-in replacement for Disqus. <sub>self-host · MIT</sub>
 
-### Translation / Privacy respecting Twitch clients
+### Translation / Apps
 
-*   **DeepL**: the free version stores your texts and may use them to train its models. <sub>[ToS;DR](https://tosdr.org/en/service/2073)</sub>
+*   **DeepL**: the free version may train on your texts, and its terms forbid entering any personal data. <sub>[ToS;DR](https://tosdr.org/en/service/2073) · [Source](https://www.deepl.com/en/terms-of-use)</sub>
 
-### Text translation / Privacy respecting Twitch clients
+### Text translation / Apps
 
 *   **[LibreTranslate](https://libretranslate.com/)** - Self-hosted machine translation API and web app with no ties to proprietary services. <sub>self-host · AGPL-3.0</sub>
 
-### Alternative Google Translate frontends / Privacy respecting Twitch clients
+### Alternative Google Translate frontends / Apps
 
 *   **[Mozhi](https://codeberg.org/aryak/mozhi)** - Frontend that proxies Google Translate, DeepL, Yandex and other engines behind one interface. <sub>self-host</sub>
 *   **[SimplyTranslate](https://simplytranslate.org/)** - Frontend that proxies your requests to Google Translate and other engines. <sub>self-host</sub>
 
-### RSS Readers / Privacy respecting Twitch clients
+### RSS Readers / Apps
 
 *   **[Capy Reader (⭐1.4k)](https://github.com/jocmp/capyreader)** - Small RSS reader, local or synced with Miniflux and FreshRSS. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.capyreader.app/) (Play Store version has trackers)</sub>
 *   **[Feeder (⭐3.1k)](https://github.com/spacecowboy/Feeder)** - RSS reader that fetches feeds directly on your device, with no account. <sub>Android · GPL-3.0</sub>
@@ -200,16 +247,15 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[NewsFlash](https://gitlab.com/news-flash/news_flash_gtk)** - RSS reader for Linux that works locally or with self-hosted services such as Miniflux and FreshRSS. <sub>Linux · GPL-3.0</sub>
 *   **[Read You (⭐7.6k)](https://github.com/ReadYouApp/ReadYou)** - Material You RSS reader, local or synced with self-hosted services. <sub>Android · GPL-3.0</sub>
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
-*   **Free VPNs**: someone pays for the servers, usually you, through logs and data sold to advertisers. <sub>[Source](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties)</sub>
 *   **[SPN](https://safing.io/spn/)** - Paid add-on to the Portmaster firewall that routes each app's connections over separate multi-hop paths. <sub>Linux · Windows · GPL-3.0</sub>
 
-### Web Browser / Privacy respecting Twitch clients
+### Web Browser / Apps
 
 *   **Opera**: 6 trackers in its Android app, and owned by a Chinese consortium since 2016. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.opera.browser/latest/) · [Source](https://en.wikipedia.org/wiki/Opera_\(web_browser\))</sub>
 
-### Android / iOS / Privacy respecting Twitch clients
+### Android / iOS / Apps
 
 *   **[Cromite (⭐8.5k)](https://github.com/uazo/cromite)** - Chromium fork, successor to Bromite, with built-in ad blocking and anti-fingerprinting measures. <sub>Android · Linux · Windows · GPL-3.0</sub>
 *   **[Firefox](https://www.firefox.com/en-US/mobile/)** - Mozilla's browser, with its own engine on Android and Enhanced Tracking Protection on by default. `⚠️ website trackers` `⚠️ telemetry opt-out`
@@ -238,7 +284,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Captchas / Useful Tools
 
-*   **hCaptcha**: collects device and browsing data to score visitors, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2207)</sub>
+*   **hCaptcha**: its privacy policy says it supplies the answers visitors give to its puzzles as AI training data. <sub>[ToS;DR](https://tosdr.org/en/service/2207) · [Source](https://www.hcaptcha.com/privacy)</sub>
 *   **[ALTCHA](https://altcha.org)** - Self-hosted proof-of-work captcha with no cookies or tracking. <sub>self-host · MIT</sub>
 *   **[mCaptcha](https://mcaptcha.org/)** - Proof-of-work captcha that rate-limits bots by making each request cost some computation. <sub>self-host · AGPL-3.0</sub>
 *   **[Private Captcha](https://privatecaptcha.com)** - EU-made proof-of-work captcha, as a hosted service or on your own server. `⚠️ source-available` <sub>self-host</sub>
@@ -255,14 +301,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Password Managers / Useful Tools
 
-*   **LastPass**: a 2022 breach leaked customers' encrypted vaults and, unencrypted, the sites they saved. <sub>[Source](https://en.wikipedia.org/wiki/2022_LastPass_data_breach)</sub>
 *   **[KeePassXC](https://keepassxc.org/)** - Offline password manager that keeps your vault in an encrypted file you control, with no account or sync service. <sub>Linux · macOS · Windows</sub>
     *   **[KeePassDX](https://www.keepassdx.com/)** - KeePass-compatible password manager for Android. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)</sub>
     *   **[Strongbox](https://strongboxsafe.com/)** - KeePass-compatible password manager for iPhone, iPad and Mac. <sub>iOS · macOS · AGPL-3.0</sub>
 
 ### Encryption / Useful Tools
 
-*   **BitLocker**: with device encryption, Windows uploads your recovery key to your Microsoft account. <sub>[Source](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/)</sub>
 *   **[age](https://age-encryption.org)** - Simple, modern file encryption with small keys and nothing to configure. <sub>CLI · BSD-3-Clause</sub>
 *   **[Cryptomator](https://cryptomator.org/)** - Encrypts files on your device before they reach any cloud storage provider. <sub>GPL-3.0 · [F-Droid](https://f-droid.org/packages/org.cryptomator.lite/)</sub>
 *   **[Shufflecake](https://shufflecake.net/)** - Hidden encrypted volumes for Linux with plausible deniability, so nobody can prove the hidden data exists. <sub>Linux</sub>
@@ -294,12 +338,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Cloud Storage / Useful Tools
 
-*   **Dropbox**: no end-to-end encryption, and 4 trackers in its Android app. <sub>[ToS;DR](https://tosdr.org/en/service/270) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/)</sub>
+*   **Dropbox**: a 2012 breach exposed 68 million users' emails and passwords, which Dropbox only confirmed in 2016. <sub>[ToS;DR](https://tosdr.org/en/service/270) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/) · [Source](https://www.theregister.com/2016/08/31/dropbox_2012_credentials_file_is_real/)</sub>
 *   **[Sync-in](https://sync-in.com/)** - Self-hosted file storage, sharing and sync with WebDAV, desktop clients and online document editing. <sub>self-host · AGPL-3.0</sub>
 
 ### File Management and Sharing / Useful Tools
 
-*   **WeTransfer**: files aren't end-to-end encrypted, and the site carries trackers. <sub>[ToS;DR](https://tosdr.org/en/service/214)</sub>
+*   **WeTransfer**: in 2025 it changed its terms to license your uploaded files for machine learning, then backed down. <sub>[ToS;DR](https://tosdr.org/en/service/214) · [Source](https://www.malwarebytes.com/blog/news/2025/07/wetransfer-walks-back-clause-that-said-it-would-train-ai-on-your-files)</sub>
 *   **[Blaze](https://blaze.vercel.app/)** - Peer-to-peer file sharing in the browser, between two or more devices at once. `⚠️ website trackers` `💀 inactive` <sub>MIT</sub>
 *   **[Croc (⭐41k)](https://github.com/schollz/croc)** - Sends files between two computers with end-to-end encryption, using a short code phrase. <sub>CLI · MIT</sub>
 *   **[Gokapi (⭐3k)](https://github.com/Forceu/Gokapi)** - Lightweight self-hosted alternative to Firefox Send, where only you can upload and links expire. <sub>self-host · AGPL-3.0</sub>
@@ -323,7 +367,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Bookmarking / Useful Tools
 
-*   **Evernote Web Clipper**: saves pages to Evernote without end-to-end encryption, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/207)</sub>
+*   **Evernote Web Clipper**: in 2016 Evernote changed its policy to let staff read users' notes, until users pushed back. <sub>[ToS;DR](https://tosdr.org/en/service/207) · [Source](https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/)</sub>
 *   **[Karakeep](https://karakeep.com/)** - Self-hosted app for saving links, notes and images, with full-text search and optional AI tagging, formerly Hoarder. <sub>self-host · AGPL-3.0</sub>
 
 ### Notes and Tasks / Useful Tools
@@ -355,17 +399,17 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Media Streaming Platforms / Useful Tools
 
-*   **Netflix**: logs what and how you watch, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/185)</sub>
+*   **Netflix**: in 2024 Dutch regulators fined Netflix €4.75 million for not telling users what it does with their data. <sub>[ToS;DR](https://tosdr.org/en/service/185) · [Source](https://noyb.eu/en/noyb-win-dutch-authority-fines-netflix-eu475-million)</sub>
 *   **Amazon Prime Video**: 3 trackers in its Android app, under a poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2444) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.avod.thirdpartyclient/latest/)</sub>
-*   **Disney Plus**: a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2745)</sub>
-*   **SoundCloud**: 13 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/276) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/)</sub>
+*   **Disney Plus**: in 2026 Disney paid California $2.75 million for sharing streaming viewers' data after they had opted out. <sub>[ToS;DR](https://tosdr.org/en/service/2745) · [Source](https://oag.ca.gov/news/press-releases/california-wont-let-it-go-attorney-general-bonta-announces-275-million)</sub>
+*   **SoundCloud**: a 2025 breach exposed the email addresses of about 28 million users, a fifth of its community. <sub>[ToS;DR](https://tosdr.org/en/service/276) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/) · [Source](https://hackread.com/soundcloud-cyberattack-data-breach/)</sub>
 
 ### Podcasts / Deezer alternative clients
 
-*   **Spotify**: a very poorly rated privacy policy that covers your mood and friends, and 4 trackers. <sub>[ToS;DR](https://tosdr.org/en/service/225) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/)</sub>
+*   **Spotify**: in 2023 Sweden fined Spotify 58 million kronor for not clearly explaining how it uses your data. <sub>[ToS;DR](https://tosdr.org/en/service/225) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/) · [Source](https://www.imy.se/en/news/administrative-fee-against-spotify/)</sub>
 *   **[Funkwhale](https://www.funkwhale.audio/)** - Federated platform for hosting, sharing and listening to podcasts and music. <sub>self-host · ActivityPub</sub>
 *   **iVoox**: 13 trackers in its Android app, and more on its website. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.ivoox.app/latest/)</sub>
-*   **Deezer**: 11 trackers in its Android app. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.app/latest/)</sub>
+*   **Deezer**: a partner leaked a 2019 backup of 229 million users' names, birth dates, IPs and locations, published in 2022. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.app/latest/) · [Source](https://haveibeenpwned.com/Breach/Deezer)</sub>
 *   **[AntennaPod](https://antennapod.org)** - Podcast player that subscribes to any RSS feed, with no account needed. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)</sub>
 
 ### Audio / Useful Tools
@@ -388,8 +432,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Home Assistants / Other OS
 
-*   **Alexa**: an always-listening microphone that sends your requests to Amazon. <sub>[ToS;DR](https://tosdr.org/en/service/190)</sub>
-*   **Siri**: Apple contractors regularly listened to Siri recordings, including private moments. <sub>[Source](https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings)</sub>
+*   **Alexa**: the FTC fined Amazon $25 million in 2023 for keeping children's Alexa voice recordings indefinitely. <sub>[ToS;DR](https://tosdr.org/en/service/190) · [Source](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever)</sub>
 *   **[OpenVoiceOS](https://www.openvoiceos.org/)** - Voice assistant you run on your own hardware, a community successor to Mycroft. <sub>Apache-2.0</sub>
 
 ### Music Recognition / Deezer alternative clients
@@ -400,8 +443,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android Gallery / Plugins for Minecraft
 
-*   **Amazon Photos**: Amazon gathers data from your library, as its own list of examples shows. <sub>[Source](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)</sub>
-*   **Google Photos**: scans your photos, and once got a father reported to police over pictures taken for a doctor. <sub>[Source](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/)</sub>
+*   **Amazon Photos**: its privacy notice says Amazon uses the images you store with it to improve its services. <sub>[Source](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)</sub>
 *   **[Fossify Gallery](https://www.fossify.org/apps/gallery/)** - Photo and video gallery with no ads, a fork of Simple Gallery. <sub>Android · GPL-3.0 · [F-Droid](https://f-droid.org/packages/org.fossify.gallery/)</sub>
 
 ### Self-hosted / Deezer alternative clients
@@ -418,15 +460,14 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **[digiKam](https://www.digikam.org/)** - Photo manager for large collections, with tagging, face recognition and editing, all on your own files. <sub>Linux · macOS · Windows</sub>
 
-### Video Editing / Deezer alternative clients
-
-*   **Adobe Premiere Pro**: tied to a Creative Cloud account, and Adobe has a long record of anti-user practices. <sub>[Source](https://www.gnu.org/proprietary/malware-adobe.html)</sub>
-*   **[Kdenlive](https://kdenlive.org/)** - Non-linear video editor from KDE. <sub>Linux · macOS · Windows · GPL-3.0</sub>
-*   **[OpenCut](https://opencut.app/)** - CapCut alternative, still in beta. <sub>MIT</sub>
-
 ### Photo Editing and Management / Deezer alternative clients
 
 *   **VSCO**: 14 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/2986) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.vsco.cam/latest/)</sub>
+
+### Video Editing / Deezer alternative clients
+
+*   **[Kdenlive](https://kdenlive.org/)** - Non-linear video editor from KDE. <sub>Linux · macOS · Windows · GPL-3.0</sub>
+*   **[OpenCut](https://opencut.app/)** - CapCut alternative, still in beta. <sub>MIT</sub>
 
 ### InDesign / Deezer alternative clients
 
@@ -458,7 +499,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Ebooks / Plugins for Minecraft
 
-*   **Amazon Kindle**: tracks your reading, and Amazon has remotely deleted books from customers' devices. <sub>[Source](https://www.nytimes.com/2009/07/18/technology/18kindle.html)</sub>
 *   **[Kavita](https://www.kavitareader.com/)** - Self-hosted digital library for ebooks and comics with a built-in web reader. `⚠️ website trackers` <sub>self-host · GPL-3.0</sub>
 *   **[Komga](https://komga.org/)** - Self-hosted server for comics, magazines and ebooks with a web reader and OPDS support. <sub>self-host · MIT</sub>
 
@@ -475,7 +515,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android Debloat Tools / Plugins for Minecraft
 
-*   **ADB AppControl**: its privacy policy lets it collect device details and which apps you install or remove. <sub>[Source](https://adbappcontrol.com/en/terms/)</sub>
 *   **[Universal Android Debloater Next Generation (⭐9.7k)](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** - Desktop app that removes preinstalled bloatware from Android phones over ADB, no root needed. <sub>Desktop · GPL-3.0</sub>
 
 ### Android Dialer / Plugins for Minecraft
@@ -491,7 +530,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android Keyboard / Plugins for Minecraft
 
-*   **SwiftKey**: Microsoft's keyboard, with 4 trackers in its Android app. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.touchtype.swiftkey/latest/)</sub>
+*   **SwiftKey**: a 2016 sync bug showed users strangers' email addresses and phone numbers as text predictions. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.touchtype.swiftkey/latest/) · [Source](https://www.engadget.com/2016-07-29-swiftkey-leaked-user-email-addresses-as-text-predictions.html)</sub>
 *   **[AnySoftKeyboard](https://anysoftkeyboard.github.io/)** - Keyboard with more than 50 languages through add-on packs, plus themes. <sub>Android · Apache-2.0</sub>
 *   **[FlorisBoard](https://florisboard.org/)** - Customizable keyboard with themes and add-ons, still in beta. <sub>Android · Apache-2.0 · [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard/)</sub>
 *   **[FUTO Keyboard](https://keyboard.futo.tech/)** - Keyboard that works fully offline, including voice input, swipe typing and autocorrect. `⚠️ source-available` <sub>Android</sub>
@@ -589,12 +628,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Automation / Apps and services
 
 *   **IFTTT**: your workflows run on its servers, holding tokens to all your connected accounts. <sub>[ToS;DR](https://tosdr.org/en/service/236)</sub>
-*   **Zapier**: your workflows run on its servers, holding tokens to all your connected accounts. <sub>[ToS;DR](https://tosdr.org/en/service/2131)</sub>
+*   **Zapier**: in 2025 an intruder got into its code repositories, where some customer data had been copied. <sub>[ToS;DR](https://tosdr.org/en/service/2131) · [Source](https://threats.wiz.io/all-incidents/zapier-data-breach)</sub>
 
 ### Payments / Apps and services
 
-*   **Visa / Mastercard**: card networks sell purchase data, grouped into audiences for advertisers. <sub>[Source](https://pirg.org/edfund/resources/how-mastercard-sells-data/)</sub>
-*   **PayPal**: requires identity verification and keeps a record of everyone you pay. <sub>[ToS;DR](https://tosdr.org/en/service/230)</sub>
+*   **PayPal**: fined $2 million by New York in 2025 after a 2022 breach exposed 35,000 customers' Social Security numbers. <sub>[ToS;DR](https://tosdr.org/en/service/230) · [Source](https://therecord.media/paypal-penalty-millions-data-breach)</sub>
 *   **Cash** - Paying in person with notes and coins leaves no record linked to you.
 
 ### Full Featured Financial Management / Apps and services
@@ -650,10 +688,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Dating Apps / Apps and services
 
-*   **Tinder**: 8 trackers in its Android app, under a very poorly rated privacy policy. <sub>[ToS;DR](https://tosdr.org/en/service/462) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.tinder/latest/)</sub>
-*   **Grindr**: fined in Norway for sharing users' location and sexual orientation with advertisers. <sub>[Source](https://techcrunch.com/2021/12/15/grindr-final-gdpr-fine/)</sub>
-*   **Badoo**: 30 trackers in its Android app, most of them for advertising. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.badoo.mobile/latest/)</sub>
-*   **Lovoo**: 33 trackers in its Android app, most of them for advertising. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/net.lovoo.android/latest/)</sub>
+*   **Tinder**: a 2020 Norwegian Consumer Council study found it shared user data with at least 45 Match Group firms. <sub>[ToS;DR](https://tosdr.org/en/service/462) · [Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.tinder/latest/) · [Source](https://www.thelocal.no/20200114/norway-consumer-rights-group-accuses-tinder-grindr-of-illegally-sharing-data)</sub>
+*   **Grindr**: fined NOK 65 million in Norway in 2021 for sharing users' data with advertisers without valid consent. <sub>[Source](https://techcrunch.com/2021/12/15/grindr-final-gdpr-fine/)</sub>
+*   **Badoo**: settled for $40 million in 2024, with Bumble, over claims it scanned Illinois users' faces. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/com.badoo.mobile/latest/) · [Source](https://idtechwire.com/illinoisan-bumble-badoo-users-may-get-payout-from-40-million-biometric-privacy-settlement/)</sub>
+*   **Lovoo**: in 2019 journalists used its Radar feature to locate users to within 30 to 50 meters. <sub>[Exodus](https://reports.exodus-privacy.eu.org/en/reports/net.lovoo.android/latest/) · [Source](https://netzpolitik.org/2019/sicherheitsluecke-dating-app-lovoo-gibt-standortdaten-preis/)</sub>
 
 ### Tracking / Apps and services
 
@@ -684,7 +722,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   `⚠️ source-available`: the code is public, but the license isn't an open source one.
 *   `⚠️ website trackers`: the project's website loads third-party trackers. That says nothing about the app itself.
 *   `⚠️ telemetry opt-out`: the app sends usage data by default, but a setting turns it off.
-*   `⚠️ closed server` and `⚠️ account required`: the server code isn't public, or an account is needed to use it.
 
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
@@ -693,7 +730,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[Signal](https://signal.org/)** - Messenger with end-to-end encryption for everything by default, run by a nonprofit that keeps almost no user data. <sub>AGPL-3.0</sub>
 *   **[Threema](https://threema.com/en)** - Paid messenger from Switzerland that works without a phone number or email. <sub>AGPL-3.0</sub>
 
-### Third-Party owned
+### Third-party
 
 *   **[Posteo](https://posteo.de/en)** - Ad-free email from Germany, funded only by its users, with optional encrypted storage and sign-up and payment that need no personal details.
 
@@ -723,7 +760,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Minecraft / Deezer alternative clients
 
-*   **[Cubyz (⭐3.7k)](https://github.com/PixelGuys/Cubyz)** - Voxel sandbox game with far view distances, 3D chunks and procedural crafting. <sub>GPL-3.0</sub>
+*   **[Cubyz (⭐3.8k)](https://github.com/PixelGuys/Cubyz)** - Voxel sandbox game with far view distances, 3D chunks and procedural crafting. <sub>GPL-3.0</sub>
 
 ### Android SMS / Plugins for Minecraft
 
@@ -749,7 +786,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Sep 30, 2026](/content/2026/09/30/README.md)
 
-### Third-Party owned
+### Third-party
 
 *   **[mailbox.org](https://mailbox.org/)** - Paid email, calendar and office suite from Germany, with built-in PGP encryption and no ads.
 
@@ -761,22 +798,22 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **[Stoat](https://stoat.chat/)** - Discord-like chat platform with servers and channels, which you can host yourself, formerly Revolt. <sub>self-host</sub>
 
-### YouTube / YouTube alternative frontends (web-based)
+### YouTube / Frontends
 
 *   **[ViewTube (⭐1.5k)](https://github.com/ViewTube/viewtube)** - YouTube frontend without ads or tracking, with its own accounts, subscriptions and SponsorBlock. <sub>AGPL-3.0</sub>
 
-### Commenting Engines / Privacy respecting Twitch clients
+### Commenting Engines / Apps
 
 *   **[Comentario](https://comentario.app)** - Small self-hosted comment engine that adds discussions to static pages. <sub>self-host · MIT</sub>
 *   **[Disgus (⭐54)](https://github.com/carlitoplatanito/disgus)** - Embeddable comments for your website, stored on Nostr instead of a company's servers. <sub>GPL-2.0</sub>
 *   **[Giscus](https://giscus.app)** - Comments stored in GitHub Discussions, with no database, ads or tracking; readers need a GitHub account to post. <sub>MIT</sub>
 *   **[Remark42](https://remark42.com)** - Lightweight self-hosted comment engine that doesn't track your readers. <sub>self-host · MIT</sub>
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
 *   **[nadanada](https://nadanada.me)** - Pay-per-use WireGuard VPN with no account, payable in Bitcoin, Monero and other cryptocurrencies, formerly LNVPN.
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Firefox](https://www.firefox.com/en-US/)** - Independent browser from Mozilla that needs some [hardening](https://anonymousplanet.net/guide/#hardening-firefox) for strong privacy. `⚠️ website trackers` `⚠️ telemetry opt-out`
     *   **[LibreWolf](https://librewolf.net/)** - Firefox fork with telemetry removed, stricter defaults and uBlock Origin built in. <sub>Linux · macOS · Windows</sub>
@@ -885,20 +922,20 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[Session](https://getsession.org/)** - Messenger that needs no phone number and routes messages through an onion network of community-run nodes. <sub>GPL-3.0 · [F-Droid](https://f-droid.org/packages/network.loki.messenger.fdroid/)</sub>
 *   **[SimpleX Chat](https://simplex.chat/)** - Messenger with no user IDs at all, so its servers can't see who talks to whom. <sub>AGPL-3.0 · [F-Droid](https://f-droid.org/packages/chat.simplex.app/)</sub>
 
-### Self-Hosted
+### Self-hosted
 
 *   **[Stalwart](https://stalw.art/)** - All-in-one mail and collaboration server in Rust covering SMTP, IMAP and JMAP, with two independent security audits. <sub>self-host</sub>
 
-### Fandom / Privacy respecting Twitch clients
+### Fandom / Apps
 
 *   **[BreezeWiki](https://breezewiki.com/)** - Fandom frontend that strips ads, video and suggested content; also on several [mirrors](https://docs.breezewiki.com/Links.html). <sub>self-host</sub>
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
 *   **[Amnezia VPN](https://amnezia.org)** - VPN client that sets up a server on a VPS you rent, with protocols designed to get past censorship. <sub>self-host · GPL-3.0</sub>
 *   **[Find more at kycnot.me (VPN Category)](https://kycnot.me/?categories=vpn)** - Directory of VPN providers that don't ask for identity documents.
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Floorp](https://floorp.app/)** - Firefox fork with telemetry disabled and extensive layout customization. <sub>Linux · macOS · Windows · MPL-2.0</sub>
 *   **[Zen Browser](https://zen-browser.app/)** - Firefox-based browser with vertical tabs and workspaces, keeping Firefox's tracking protection on by default. <sub>Linux · macOS · Windows · MPL-2.0</sub>
@@ -983,7 +1020,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### Text translation / Privacy respecting Twitch clients
+### Text translation / Apps
 
 *   **[Linguist](https://linguister.io)** - Browser extension for translating pages and selected text, with a built-in offline translator and [custom translators](https://linguister.io/docs/CustomTranslator). <sub>Browser · BSD-3-Clause</sub>
 
@@ -1019,7 +1056,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **[Fileverse](https://fileverse.io)** - End-to-end encrypted workspace and collaboration apps, as an alternative to Google Workspace.
     *   **[dDocs](https://ddocs.new)** - End-to-end encrypted, decentralized alternative to Google Docs. <sub>AGPL-3.0</sub>
-        *   **[dSheets](https://sheets.fileverse.io)** - Decentralized alternative to Excel and Google Sheets. <sub>AGPL-3.0</sub>
+    *   **[dSheets](https://sheets.fileverse.io)** - Decentralized alternative to Excel and Google Sheets. <sub>AGPL-3.0</sub>
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -1070,13 +1107,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
-### Third-Party owned
+### Third-party
 
 *   **[Tuta](https://tuta.com/)** - Email and calendar from Germany, end-to-end encrypted between Tuta users, that stores everything encrypted, subject lines included. <sub>GPL-3.0</sub>
 
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
-### Reddit / Privacy respecting Reddit clients
+### Reddit / Apps and frontends
 
 *   **[Redlib (⭐4k)](https://github.com/redlib-org/redlib)** - Reddit frontend without JavaScript that proxies all requests, media included; see the [instances (⭐196)](https://github.com/redlib-org/redlib-instances). Formerly Libreddit. <sub>AGPL-3.0</sub>
 
@@ -1142,7 +1179,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Mullvad Browser](https://mullvad.net/en/browser/)** - Tor Browser's anti-fingerprinting without the Tor network, made by the Tor Project and Mullvad. <sub>Linux · macOS · Windows</sub>
 
@@ -1170,19 +1207,19 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Feb 22, 2023](/content/2023/02/22/README.md)
 
-### Third-Party owned
+### Third-party
 
 *   **[Forward Email](https://forwardemail.net)** - Email forwarding and hosting for your own domain, with its server code published. `⚠️ source-available`
 
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Ungoogled Chromium (⭐28k)](https://github.com/ungoogled-software/ungoogled-chromium)** - Chromium with Google's web services and background requests stripped out. <sub>Linux · macOS · Windows · BSD-3-Clause</sub>
 
 ## [Jan 22, 2023](/content/2023/01/22/README.md)
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
 *   **[Proton VPN](https://protonvpn.com)** - Swiss no-logs VPN with audited apps and a free tier with no data cap. `⚠️ telemetry opt-out` <sub>[F-Droid](https://f-droid.org/packages/ch.protonvpn.android/)</sub>
 
@@ -1228,7 +1265,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Brave](https://brave.com/)** - Chromium-based browser that blocks ads and trackers out of the box. `⚠️ telemetry opt-out` <sub>MPL-2.0</sub>
 
@@ -1265,7 +1302,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
 
-### Third-Party owned
+### Third-party
 
 *   **[Mailfence](https://mailfence.com)** - Email suite from Belgium with built-in OpenPGP encryption.
 
@@ -1325,7 +1362,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Jul 28, 2022](/content/2022/07/28/README.md)
 
-### VPNs / Privacy respecting Twitch clients
+### VPNs / Apps
 
 *   **[IVPN](https://ivpn.net)** - No-logs VPN that needs no email to sign up and takes cash, Monero or Bitcoin. <sub>[F-Droid](https://f-droid.org/packages/net.ivpn.client/)</sub>
 *   **[Mullvad VPN](https://mullvad.net)** - No-logs VPN with anonymous numbered accounts instead of email, payable in cash or cryptocurrency. <sub>GPL-3.0 · [F-Droid](https://f-droid.org/packages/net.mullvad.mullvadvpn/)</sub>
@@ -1392,7 +1429,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Mar 19, 2022](/content/2022/03/19/README.md)
 
-### YouTube / YouTube alternative frontends (web-based)
+### YouTube / Frontends
 
 *   **[Piped (⭐10k)](https://github.com/TeamPiped/Piped)** - YouTube frontend that never connects your browser to Google, with feeds, playlists and SponsorBlock. <sub>AGPL-3.0</sub>
 
@@ -1426,7 +1463,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Jan 15, 2022](/content/2022/01/15/README.md)
 
-### Third-Party owned
+### Third-party
 
 *   **[Riseup](https://riseup.net/en/about-us)** - Email and other tools for activists, run by a collective that doesn't log your IP address.
 
@@ -1438,12 +1475,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **[Mattermost](https://mattermost.com/)** - Self-hosted Slack alternative for teams. `⚠️ website trackers` <sub>self-host</sub>
 *   **[Zulip](https://zulip.com/)** - Team chat organized into topic threads, which you can host yourself. <sub>self-host · Apache-2.0 · [F-Droid](https://f-droid.org/packages/com.zulipmobile/)</sub>
 
-### Text translation / Privacy respecting Twitch clients
+### Text translation / Apps
 
 *   **[Apertium](https://apertium.org/)** - Rule-based machine translation platform that can run offline on your computer. <sub>GPL-2.0</sub>
 *   **[Softcatala](https://www.softcatala.org/traductor/)** - Online translator between Catalan and languages such as Spanish, English, French and Portuguese, run by a nonprofit. `⚠️ website trackers`
 
-### Desktop / Privacy respecting Twitch clients
+### Desktop / Apps
 
 *   **[Tor Browser](https://www.torproject.org/)** - Hardened Firefox that routes your traffic through the Tor network to resist tracking and censorship. <sub>Android · Linux · macOS · Windows</sub>
 

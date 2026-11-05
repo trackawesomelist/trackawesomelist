@@ -6,6 +6,12 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 [ [Daily](/content/preactjs/awesome-preact/README.md) / Weekly / [Overview](/content/preactjs/awesome-preact/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Contents / Example Apps
+
+*   [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.
+
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
 ### Contents / Boilerplates
@@ -20,13 +26,13 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Example Apps
 
-*   [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project (⭐21)](https://github.com/authier-pm/authier))*.
+*   [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project (⭐23)](https://github.com/authier-pm/authier))*.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### Contents / Components
 
-*   [I18n Micro (⭐251)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
+*   [I18n Micro (⭐254)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 
 ## [Jul 20 - Jul 26, 2026](/content/2026/29/README.md)
 
@@ -84,7 +90,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Related Libraries
 
-*   [Zikojs (⭐137)](https://github.com/zakarialaoui10/zikojs) - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
+*   [Zikojs (⭐136)](https://github.com/zakarialaoui10/zikojs) - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
 
 ## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
 
@@ -108,7 +114,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Example Apps
 
-*   [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project (⭐3.2k)](https://github.com/GladysAssistant/Gladys))*.
+*   [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project (⭐3.3k)](https://github.com/GladysAssistant/Gladys))*.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -149,10 +155,10 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 *   [Play.cash](https://play.cash) :notes: *([GitHub Project (⭐91)](https://github.com/feross/play.cash))*
 *   [Songsterr](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
-*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐618)](https://github.com/feross/bitmidi.com))*
+*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐620)](https://github.com/feross/bitmidi.com))*
 *   [Ultimate Guitar](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
 *   [ESBench](http://esbench.com) is built using Preact.
-*   [BigWebQuiz](https://bigwebquiz.com) *([GitHub Project (⭐108)](https://github.com/jakearchibald/big-web-quiz))*
+*   [BigWebQuiz](https://bigwebquiz.com) *([GitHub Project (⭐107)](https://github.com/jakearchibald/big-web-quiz))*
 *   [Nectarine.rocks](http://nectarine.rocks) *([GitHub Project (⭐63)](https://github.com/developit/nectarine))* :peach:
 *   [OSS.Ninja](https://oss.ninja) *([GitHub Project (⭐148)](https://github.com/developit/oss.ninja))*
 *   [GuriVR](https://gurivr.com) *([GitHub Project (⭐195)](https://github.com/opennewslabs/guri-vr))*
@@ -161,17 +167,17 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Rugby News Board](http://nbrugby.com) *[(GitHub Project) (⭐8)](https://github.com/rugby-board/rugby-board-node)*
 *   [Preact Gallery](https://preact.gallery/) an 8KB photo gallery PWA built using Preact.
 *   [Rainbow Explorer](https://use-the-platform.com/rainbow-explorer/) Preact app to translate real life color to digital color *([Github project (⭐27)](https://github.com/vaneenige/rainbow-explorer))*.
-*   [YASCC](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client *([Github project (⭐35)](https://github.com/carlosqsilva/YASCC))*.
+*   [YASCC](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client *([Github project (⭐34)](https://github.com/carlosqsilva/YASCC))*.
 *   [Journalize](https://preact-journal.herokuapp.com/) 14k offline-capable journaling PWA using preact. *([Github project (⭐37)](https://github.com/jpodwys/preact-journal))*.
 *   [Proxx](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. *([Github project (⭐1.4k)](https://github.com/GoogleChromeLabs/proxx))*.
 *   [Web Maker](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project (⭐2.7k)](https://github.com/chinchang/web-maker))*.
 *   [Intergram](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project (⭐1.4k)](https://github.com/idoco/intergram))*.
-*   [Preact App in ES6 without Babel or JSX](https://vanilla-preact.surge.sh) *([GitHub Project (⭐7)](https://github.com/safdarjamal/vanilla-preact/))*.
-*   [GHFresh](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. *([GitHub Project (⭐8)](https://github.com/code2k/ghfresh))*.
+*   [Preact App in ES6 without Babel or JSX](https://vanilla-preact.surge.sh) *([GitHub Project (⭐6)](https://github.com/safdarjamal/vanilla-preact/))*.
+*   [GHFresh](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. *([GitHub Project (⭐7)](https://github.com/code2k/ghfresh))*.
 *   [Passwords Fountain](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere *([Github project (⭐65)](https://github.com/kolodziejczakM/passwords-fountain))*.
 *   [macOS Web](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite *([Github project (⭐1k)](https://github.com/PuruVJ/macos-preact))*.
 *   [Cinemate](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
-*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐598)](https://github.com/PiyushSuthar/Windows-11-Web))*.
+*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐600)](https://github.com/PiyushSuthar/Windows-11-Web))*.
 *   [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app *([GitHub Project (⭐2)](https://github.com/MiftikCZ/idea-keeper-2))*.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
@@ -183,7 +189,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 ### Contents / Components
 
 *   [Preact Compat (⭐943)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐53)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐728)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Render To String (⭐729)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
 *   [Preact Markup (⭐207)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 *   [Preact Portal (⭐183)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
 *   [Preact Richtextarea (⭐43)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
@@ -230,7 +236,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Boilerplates
 
-*   [Preact Chrome Extension (⭐692)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
+*   [Preact Chrome Extension (⭐690)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 *   [Preact Web Extension (⭐22)](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
@@ -261,7 +267,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Toolkits
 
-*   [Vite (⭐83k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+*   [Vite (⭐84k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -280,7 +286,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Libraries
 
-*   [hooked-head (⭐342)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
+*   [hooked-head (⭐341)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 
@@ -310,7 +316,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Components
 
-*   [Preact Translate (⭐69)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐68)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [Jul 08 - Jul 14, 2019](/content/2019/27/README.md)
 
@@ -376,7 +382,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Example Apps
 
-*   [Shopping List (⭐20)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
+*   [Shopping List (⭐19)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
 
@@ -448,7 +454,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 *   [Official Boilerplate (⭐960)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
 *   [Preact Simple Starter (⭐64)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
-*   [Preact PWA (⭐502)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+*   [Preact PWA (⭐503)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
@@ -459,7 +465,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Token Input (⭐64)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
 *   [Preact Virtual List (⭐230)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
-*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐572)](http://github.com/matthewmueller/socrates).
+*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐573)](http://github.com/matthewmueller/socrates).
 *   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
 *   [Preact I18nline (⭐39)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐10)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐19)](https://github.com/download/i18nline).
 *   [Preact Classless Component (⭐44)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
@@ -520,11 +526,11 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐552)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐553)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐251k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐252k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [Apr 17 - Apr 23, 2017](/content/2017/16/README.md)
@@ -549,7 +555,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Example Apps
 
-*   [Preact HN (⭐295)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+*   [Preact HN (⭐296)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 *   [TodoMVC (⭐107)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 
 ## [Apr 10 - Apr 16, 2017](/content/2017/15/README.md)
