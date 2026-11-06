@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [alessandropietrobelli/dotnet-counters.nvim (⭐4)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
+
+### Pre-made Configuration / Stats Tracking
+
+*   [LFSCamargo/nvim.setup (⭐1)](https://github.com/LFSCamargo/nvim.setup) - Portable config with a file tree, editor tabs, and independent AI CLI chats in one window.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -5828,7 +5838,7 @@ Collections of awesome neovim plugins.
 
 ### External / Version Manager
 
-*   [MordechaiHadad/bob (⭐2.1k)](https://github.com/MordechaiHadad/bob) - A cross-platform, easy to use version manager.
+*   [MordechaiHadad/bob (⭐2.2k)](https://github.com/MordechaiHadad/bob) - A cross-platform, easy to use version manager.
 
 ## [May 21, 2022](/content/2022/05/21/README.md)
 

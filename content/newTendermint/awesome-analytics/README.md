@@ -6,6 +6,36 @@ A curated list of analytics frameworks, software and other tools.
 
 [ Daily / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### SEO
+
+*   [SenseGap](https://sensegap.com/) - Analytics for the AI crawlers and agents that visit a website (GPTBot, ClaudeBot, PerplexityBot, ChatGPT-User and others): checks bots against their published IP ranges or forward-confirmed reverse DNS where available and marks the rest unverified, shows which pages AI reads and how many visitors AI sends. The bot list and verification rules are open source. ([Demo](https://sensegap.com/demo), [Source Code (⭐0)](https://github.com/tudortotolici/sensegap)) `©` `SaaS`
+*   [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
+
+### Privacy focused analytics
+
+*   [Moxel](https://www.getmoxel.com/) - Cookieless web analytics for small sites and stores. Shows which form field or checkout step loses visitors, and what to change. `©` `SaaS`
+*   [Skald](https://skaldanalytics.com/) - Web analytics built from your server's access log; separates people from AI assistants, crawlers and scanners. No cookies or tracking script. ([Source Code (⭐22)](https://github.com/spcaeo/skald)) `©` `Elastic-2.0` `Self-Hosted` `Python`
+
+### Heatmap analytics
+
+*   [DASHUND](https://dashund.link/?via=github) - Behavioral analytics for Figma prototypes: real paths (Sankey), click heatmaps, sessions and A/B tests before any code, with no tasks for testers. No IP stored, EU-hosted. Free plan. `©` `SaaS` `EU`
+
+### Attribution tracking
+
+*   [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
+
+### Social media analytics
+
+*   [LurkAPI](https://lurkapi.com) - Social media data API: public profiles, follower counts, posts and comments from TikTok, Instagram, YouTube, X, Reddit and 11 more platforms as JSON. `©` `SaaS`
+
+### Analytics dashboards
+
+*   [MAD Designer](https://docs.everydayapps.com) - Native macOS and iOS ad-hoc SQL query builder, banded report layout designer, and headless Linux reporting engine supporting PostgreSQL, MySQL/MariaDB, SQL Server, and SQLite. ([Source Code (⭐2)](https://github.com/mthomason/MAD)) `MIT` `Objective-C`
+*   [arcodash](https://www.arcodash.com/) - SQL dashboards that check their own numbers: connect a database, build dashboards, and get alerts on freshness, row count and null-rate checks. Unlimited seats. `©` `SaaS`
+*   [Lookout](https://lookoutstats.com/) - Vercel Web Analytics and Speed Insights for all your Vercel projects on one board, with alerts, read-only share links, a REST API and an MCP server. Free for up to 100 projects. `©` `SaaS`
+
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
 ### Website analytics
@@ -51,13 +81,13 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Developer analytics
 
-*   [YYLO Benchmark (⭐1)](https://github.com/yylo-dev/yylo-benchmark) - Trusted-host experiment runner for AI coding agents: replay historical tasks, supplied prompts and workflows as independent attempts in fresh repositories, compare models, harnesses and configurations, and evaluate retained outputs with different checks or judges later. ([Source Code (⭐1)](https://github.com/yylo-dev/yylo-benchmark)) `MIT`
+*   [YYLO Benchmark (⭐2)](https://github.com/yylo-dev/yylo-benchmark) - Trusted-host experiment runner for AI coding agents: replay historical tasks, supplied prompts and workflows as independent attempts in fresh repositories, compare models, harnesses and configurations, and evaluate retained outputs with different checks or judges later. ([Source Code (⭐2)](https://github.com/yylo-dev/yylo-benchmark)) `MIT`
 
 ## [Oct 21, 2026](/content/2026/10/21/README.md)
 
 ### General analytics
 
-*   [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and path analysis directly on DuckDB, Postgres, Snowflake, or ClickHouse — no ingestion, no SDK. ([Source Code (⭐10)](https://github.com/stratif-io/stratif.io)) `Apache-2.0` `Python/TypeScript`
+*   [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and path analysis directly on DuckDB, Postgres, Snowflake, or ClickHouse — no ingestion, no SDK. ([Source Code (⭐12)](https://github.com/stratif-io/stratif.io)) `Apache-2.0` `Python/TypeScript`
 *   [Privatrak](https://privatrak.com/) - Cookieless product analytics with visual event tracking, conversion funnels, and custom dashboards. `©` `SaaS`
 *   [OneQuery (⭐17)](https://github.com/wordbricks/onequery) - Self-hosted gateway for safe, auditable queries for agents across approved data sources. `Apache-2.0` `Self-Hosted` `Rust`
 *   [Kirro](https://kirro.io/) - A/B testing tool with visual editor and GA4 conversion tracking. 9KB script. `©` `SaaS`
@@ -66,21 +96,21 @@ A curated list of analytics frameworks, software and other tools.
 *   [DataSpoc Lens (⭐3)](https://github.com/dataspoclab/dataspoc-lens) - Virtual warehouse over cloud Parquet (S3/GCS/Azure). SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache. ([Source Code (⭐3)](https://github.com/dataspoclab/dataspoc-lens)) `Apache-2.0` `Python`
 *   [StackData](https://greg-rg-git.github.io/stackdata-store/tools/compare/) - Free SaaS pricing comparison tool with pricing data; structured CSV datasets available for bulk analysis. `©` `SaaS`
 *   [Klinky](https://klinky.io) - A/B testing link shortener that splits one link between two destinations, with click counts. `©` `SaaS`
-*   [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code (⭐1)](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
+*   [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code (⭐2)](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
 *   [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
 *   [rrweb](https://rrweb.com) - Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. ([Source Code (⭐20k)](https://github.com/rrweb-io/rrweb)) `MIT` `TypeScript`
 
 ### Analytics dashboards
 
 *   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐212)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
-*   [DataPallas (⭐80)](https://github.com/flowkraft/datapallas) - Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation. `SSPL-1.0` `Source Available`
-*   [GoatCounter Dashboard (⭐14)](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. ([Demo](https://abhishekhsingh.github.io/goatcounter-dashboard), [Source Code (⭐14)](https://github.com/abhishekhsingh/goatcounter-dashboard)) `MIT` `JavaScript`
+*   [DataPallas (⭐81)](https://github.com/flowkraft/datapallas) - Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation. `SSPL-1.0` `Source Available`
+*   [GoatCounter Dashboard (⭐15)](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. ([Demo](https://abhishekhsingh.github.io/goatcounter-dashboard), [Source Code (⭐15)](https://github.com/abhishekhsingh/goatcounter-dashboard)) `MIT` `JavaScript`
 *   [Conyso Lens](https://conyso.com/lens.html?utm_source=github\&utm_medium=directory\&utm_campaign=listing) - General-purpose data-visualization studio: point it at any dataset and get publication-quality charts across 112 chart types, each with a plain-English, rule-based read (never AI-generated). Runs entirely in the browser; nothing you load ever leaves it. Self-host option available. `©` `SaaS` `Self-Hosted`
-*   [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code (⭐795)](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
-*   [AppRankly (⭐28)](https://github.com/zmsp/AppRankly) - Self-hosted dashboard bringing together iOS App Store Connect and Google Play Console metrics.
+*   [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code (⭐801)](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
+*   [AppRankly (⭐37)](https://github.com/zmsp/AppRankly) - Self-hosted dashboard bringing together iOS App Store Connect and Google Play Console metrics.
 *   [DataHub Pro](https://www.datahubpro.co.uk/) - AI analytics for spreadsheets: turn an Excel or CSV file into dashboards, forecasts and reports, with an audit trail for every number. Built for small teams without a data engineer. `SaaS`
-*   [GeoSQL (⭐678)](https://github.com/dekart-xyz/geosql) - AI-native geospatial analytics. Claude/Codex skill that turns natural language into validated SQL + maps on BigQuery and Snowflake. `MIT` `Python`
-*   [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code (⭐434)](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
+*   [GeoSQL (⭐684)](https://github.com/dekart-xyz/geosql) - AI-native geospatial analytics. Claude/Codex skill that turns natural language into validated SQL + maps on BigQuery and Snowflake. `MIT` `Python`
+*   [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code (⭐438)](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
 *   [Analytics Compare](https://www.analytics-compare.com/tools/compare/) - An independent, interactive database comparing 30+ analytics tools based on features, hidden costs, and scalability risks.
 
 ### Mobile analytics
@@ -97,7 +127,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Endpoints
 
-*   [Rawbbit](https://rawbbit.one/) - Self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Designed for teams that want to own their raw event data instead of feeding it into a SaaS vendor's pipeline. Alternative to Firebase Analytics and Amplitude. ([Source Code (⭐10)](https://github.com/mirlan-irokez/rawbbit)) `Apache-2.0` `Python`
+*   [Rawbbit](https://rawbbit.one/) - Self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Designed for teams that want to own their raw event data instead of feeding it into a SaaS vendor's pipeline. Alternative to Firebase Analytics and Amplitude. ([Source Code (⭐11)](https://github.com/mirlan-irokez/rawbbit)) `Apache-2.0` `Python`
 
 ### SEO
 
@@ -113,13 +143,13 @@ A curated list of analytics frameworks, software and other tools.
 
 *   [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. ([Demo](https://app.logly.uk/demo)) `©` `SaaS`
 *   [Stomatopod](https://stoma.top) - Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. ([Source Code (⭐1)](https://github.com/kkir/stomatopod)) `MIT` `Rust/Docker`
-*   [Respectlytics](https://respectlytics.com) - Privacy-first, session-based mobile app analytics with strict 5-field storage and no persistent user tracking. ([Source Code (⭐41)](https://github.com/respectlytics/respectlytics)) `AGPL-3.0` `Python/Docker`
+*   [Respectlytics](https://respectlytics.com) - Privacy-first, session-based mobile app analytics with strict 5-field storage and no persistent user tracking. ([Source Code (⭐42)](https://github.com/respectlytics/respectlytics)) `AGPL-3.0` `Python/Docker`
 *   [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
 *   [Lomen](https://lomenanalytics.com/) - Cookie-free website analytics with an AI you can ask about your traffic, revenue from Stripe, Shopify, Lemon Squeezy and Polar next to visitors, and tracking of visits from ChatGPT, Claude and Perplexity. ([Demo](https://lomenanalytics.com/demo)) `©` `SaaS`
 *   [measuremy.site](https://measuremy.site/) - Cookieless web analytics your AI agent can read: an MCP server lets Claude Code, Cursor and other agents install the script and answer traffic questions. ([Source Code (⭐1)](https://github.com/developeron29/measuremysite-mcp) for the self-hosted version) `©` `SaaS` `MIT` `Self-Hosted`
 *   [DevDome Analytics](https://devdome.com/) - Cookieless analytics for WordPress that separates human visitors from bots and AI crawlers. Free plan. ([Plugin Source Code (⭐0)](https://github.com/DevDomeFamily/devdome-analytics)) `GPL-2.0` `SaaS`
 *   [Statable](https://statable.com/) - Privacy-first, cookieless web analytics hosted in the EU. Import your Google Analytics 4 history and keep a unified timeline. `©` `SaaS` `EU`
-*   [Facet (⭐2)](https://github.com/writerslogic/facet) - Cookieless, privacy-first web analytics & experimentation that runs entirely on the Cloudflare edge (Workers + D1). No cookies, no cross-session identity, raw IP is never stored; GPC/DNT respecting and self-hosted with a one-command deploy. `AGPL-3.0` `Cloudflare Workers`
+*   [Facet (⭐4)](https://github.com/writerslogic/facet) - Cookieless, privacy-first web analytics & experimentation that runs entirely on the Cloudflare edge (Workers + D1). No cookies, no cross-session identity, raw IP is never stored; GPC/DNT respecting and self-hosted with a one-command deploy. `AGPL-3.0` `Cloudflare Workers`
 *   [Ucoder Insight](https://insights.ucoder.in) - Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. ([Source Code (⭐2)](https://github.com/soumydip/ucoder_insight_core)) `MIT` `JavaScript`
 *   [Beam](https://beam-privacy.com/) - Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. ([Source Code (⭐0)](https://github.com/scobb/beam.js)) `©` `SaaS`
 *   [Measure.events](https://measure.events) - Privacy-first web analytics with an agent-native API, MCP server, and natural language summaries. Built for AI-forward teams. `©` `SaaS`
@@ -138,7 +168,7 @@ A curated list of analytics frameworks, software and other tools.
 
 *   [ClickTrail](https://www.npmjs.com/package/@vizuh/clicktrail) - Deterministic first-party attribution engine for UTMs, ad click IDs, referrers, and first/last touch. ([Source Code (⭐3)](https://github.com/vizuh/clicktrail-js)) `MIT` `TypeScript`
 *   [WhichPost](https://whichpost.app/) - See which creator posts brought paying customers, from a read-only Stripe or RevenueCat connection, with a range on every result. `©` `SaaS`
-*   [Virling (⭐1)](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
+*   [Virling (⭐2)](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
 *   [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
 *   [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 
@@ -163,7 +193,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### General analytics
 
-*   [GrowthBook](https://growthbook.io) - Open-source A/B testing and feature flagging that uses your existing data sources.([Source Code (⭐8.5k)](https://github.com/growthbook/growthbook)) `MIT` `Typescript`
+*   [GrowthBook](https://growthbook.io) - Open-source A/B testing and feature flagging that uses your existing data sources.([Source Code (⭐8.6k)](https://github.com/growthbook/growthbook)) `MIT` `Typescript`
 
 ### Website analytics
 
@@ -392,8 +422,8 @@ A curated list of analytics frameworks, software and other tools.
 
 *   [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 *   [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code (⭐2.7k)](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
-*   [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code (⭐790)](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
-*   [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code (⭐437)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+*   [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code (⭐789)](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
+*   [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code (⭐439)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 *   [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
 *   [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐14k)](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 *   [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
@@ -412,15 +442,15 @@ A curated list of analytics frameworks, software and other tools.
 
 ### SEO
 
-*   [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code (⭐755)](https://github.com/serphacker/serposcope)) `MIT` `Java`
+*   [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code (⭐753)](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
 ### Privacy focused analytics
 
 *   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐30k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code (⭐30k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [Shynet (⭐3.2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 *   [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐40k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`
-*   [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code (⭐399)](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
-*   [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐981)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
+*   [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code (⭐406)](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
+*   [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐982)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 *   [Freshlytics (⭐362)](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
 *   [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code (⭐98)](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 *   [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code (⭐4.7k)](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
@@ -437,7 +467,7 @@ A curated list of analytics frameworks, software and other tools.
 ### Analytics dashboards
 
 *   Other awesome lists [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐521k)](https://github.com/sindresorhus/awesome).
+*   Even more lists [awesome (⭐529k)](https://github.com/sindresorhus/awesome).
 *   Another list? [list (⭐12k)](https://github.com/jnv/lists).
 *   WTF! [awesome-awesome-awesome (⭐2.3k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
 *   Analytics [awesome-bigdata (⭐15k)](https://github.com/onurakpolat/awesome-bigdata).

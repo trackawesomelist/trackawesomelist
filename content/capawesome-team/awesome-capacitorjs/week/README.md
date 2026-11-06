@@ -6,6 +6,12 @@
 
 [ [Daily](/content/capawesome-team/awesome-capacitorjs/README.md) / Weekly / [Overview](/content/capawesome-team/awesome-capacitorjs/readme/README.md) ]
 
+## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Other Creators / ML Kit
+
+*   [@hotcodepush/capacitor-live-updates (⭐1)](https://github.com/hotcodepush-team/capacitor-live-updates) - Capacitor plugin that delivers over-the-air updates from HotCodePush and rolls back a failed update automatically.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Tools / ML Kit
@@ -28,7 +34,7 @@
 
 ### Apps Built with Capacitor / ML Kit
 
-*   [AI Gist (⭐901)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
+*   [AI Gist (⭐913)](https://github.com/yarin-zhang/AI-Gist) - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 

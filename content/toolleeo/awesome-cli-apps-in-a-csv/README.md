@@ -6,6 +6,20 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ Daily / [Weekly](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md) / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### File format converters
+
+*   [carta (⭐59)](https://github.com/mfkrause/carta) - A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc.
+
+### Programming
+
+*   [hdi (⭐5)](https://github.com/grega/hdi) - Summarise how to install / run / test a project, from its README.
+
+### Screen recorder
+
+*   [evp (⭐45)](https://github.com/HalFrgrd/evp) - A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### File and file system handling
@@ -3678,7 +3692,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Utilities
 
-*   [config-file-validator (⭐517)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐518)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ### Games
 
@@ -4228,7 +4242,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Versioning
 
-*   [Bob (⭐2.1k)](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
+*   [Bob (⭐2.2k)](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
 
 ### Programming
 
@@ -4576,7 +4590,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Financial tools
 
 *   [Quoter (⭐23)](https://github.com/frossm/quoter) - The console based stock quote tool.
-*   [Ticker (⭐6.2k)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
+*   [Ticker (⭐6.3k)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 
 ### Science
 
@@ -5277,7 +5291,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [nbterm (⭐779)](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 *   [pire (⭐124)](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 *   [pvcheck (⭐5)](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
-*   [scc (⭐8.8k)](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
+*   [scc (⭐8.9k)](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
 *   [scons (⭐2.4k)](https://github.com/SCons/scons) - Software construction tool.
 *   [temci (⭐201)](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
 *   [Tokei (⭐15k)](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
@@ -5285,7 +5299,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Web development
 
 *   [ain (⭐622)](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
+*   [crawley (⭐339)](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
 *   [Discharge (⭐643)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 *   [iola (⭐172)](https://github.com/pvarentsov/iola) - A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 *   [is-up-cli (⭐367)](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.

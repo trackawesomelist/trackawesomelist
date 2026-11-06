@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-*   Apps/tools: **2217**
+*   Apps/tools: **2220**
 *   Categories: **87**
 
 # Contents
@@ -52,7 +52,7 @@ Summary:
 *   [File watching for changes](#file-watch) (8)
 *   [File renamers](#file-renamer) (15)
 *   [File systems](#file-system) (4)
-*   [File format converters](#conversion) (17)
+*   [File format converters](#conversion) (18)
 
 ## [Text and Data Processing](#text-and-data-processing-1)
 
@@ -68,7 +68,7 @@ Summary:
 *   [Editors](#editors) (33)
 *   [Git and accessories](#git) (81)
 *   [Versioning](#versioning) (9)
-*   [Programming](#programming) (75)
+*   [Programming](#programming) (76)
 *   [Program templates and boilerplate](#programming-boilerplate) (13)
 *   [DevOps](#devops) (22)
 *   [Web development](#webdev) (37)
@@ -132,7 +132,7 @@ Summary:
 *   [Animation](#animation) (44)
 *   [Viewers](#viewers) (49)
 *   [Screen savers](#screensaver) (7)
-*   [Screen recorder](#screen-recorder) (12)
+*   [Screen recorder](#screen-recorder) (13)
 
 ## [Security and Package Management](#security-and-package-management-1)
 
@@ -526,6 +526,7 @@ Utilities to convert different types of files.
 
 *   [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 *   [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
+*   [carta (⭐59)](https://github.com/mfkrause/carta) - A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc.
 *   [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Convert Microsoft Word files to plain text; output is sent to the standard output.
 *   [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plain-text YAML files.
 *   [hget (⭐392)](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
@@ -891,7 +892,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 Tools for file versioning that are not related to git.
 
 *   [Bazaar](http://bazaar.canonical.com/en/) - Multiplatform version control system supporting different workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
-*   [Bob (⭐2.1k)](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
+*   [Bob (⭐2.2k)](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
 *   [cocommit (⭐149)](https://github.com/andrewromanenco/cocommit) - Cocommit is a command-line tool that works with your HEAD commit and leverages an LLM of your choice to enhance commit quality.
 *   [fnc](https://fnc.bsdbox.org/index) - Interactive text-based user interface for Fossil.
 *   [fossil](https://fossil-scm.org/) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.
@@ -936,6 +937,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 *   [gdb-dashboard (⭐12k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 *   [grex (⭐8.3k)](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
 *   [gup (⭐615)](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
+*   [hdi (⭐5)](https://github.com/grega/hdi) - Summarise how to install / run / test a project, from its README.
 *   [hors (⭐248)](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 *   [Kool (⭐726)](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
@@ -964,7 +966,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 *   [Repomix (⭐29k)](https://github.com/yamadashy/repomix) - Tool that packs your entire repository into a single, AI-friendly file; Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools.
 *   [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
 *   [Rusty Forge (⭐2)](https://github.com/konni332/rustyforge) - Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache.
-*   [scc (⭐8.8k)](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
+*   [scc (⭐8.9k)](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
 *   [scons (⭐2.4k)](https://github.com/SCons/scons) - Software construction tool.
 *   [scriptisto (⭐1.1k)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 *   [Scrut (⭐84)](https://github.com/facebookincubator/scrut) - A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour.
@@ -1033,7 +1035,7 @@ Web development tools, including load test tools, API clients and managers, link
 *   [Ballast (⭐48)](https://github.com/synoet/ballast) - A simple API load testing tool that lets you compare performance snapshots of your API.
 *   [beachpatrol (⭐925)](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
 *   [cnTUI (⭐41)](https://github.com/fipso/cntui) - Replay chrome requests from your terminal using curl.
-*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
+*   [crawley (⭐339)](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
 *   [Discharge (⭐643)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 *   [django-tui (⭐300)](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI).
 *   [domain-check (⭐307)](https://github.com/saidutt46/domain-check) - Universal domain exploration engine: fast domain availability checks across the internet.
@@ -1941,7 +1943,7 @@ Personal ledger trackers, currency converters, and tools to manage and track cry
 *   [Quoter (⭐23)](https://github.com/frossm/quoter) - The console based stock quote tool.
 *   [rustledger](https://rustledger.github.io) - Pure Rust implementation of Beancount, a drop-in replacement that is 10x faster with a single binary and no dependencies.
 *   [stocksTUI (⭐160)](https://github.com/andriy-git/stocksTUI) - StocksTUI: Real-time stock market data in your terminal.
-*   [Ticker (⭐6.2k)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
+*   [Ticker (⭐6.3k)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 
 # <a name="Productivity"></a>Productivity
 
@@ -2444,6 +2446,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 
 *   [agg (⭐1.7k)](https://github.com/asciinema/agg) - agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 *   [asciinema (⭐18k)](https://github.com/asciinema/asciinema) - Terminal session recorder.
+*   [evp (⭐45)](https://github.com/HalFrgrd/evp) - A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
 *   [goscript (⭐40)](https://github.com/elisescu/goscript) - Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained HTML file that can be run in the browser, to playback the session.
 *   [rewindtty (⭐131)](https://github.com/debba/rewindtty) - A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.
 *   [t-rec (⭐1.3k)](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated GIF images for the web written in rust.
@@ -2553,7 +2556,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 *   [calm-garden-cli (⭐14)](https://github.com/jaroslaw-weber/calm-garden-cli) - A small, discreet terminal tool for breath exercises with progression: earn coins, buy plants, and upgrade your garden.
 *   [ccsum (⭐34)](https://github.com/sevenc-nanashi/ccsum) - Convenient sha256sum (md5sum, sha1sum, and sha512sum) checksum with improved usability.
 *   [chet-client (⭐4)](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
-*   [config-file-validator (⭐517)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐518)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 *   [DirCrcMd](https://gitlab.com/halanosiblee/dircrcmd.git) - Checksum directory in crc32 and export it into markdown.
 *   [envio (⭐990)](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 *   [flog (⭐1.3k)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.

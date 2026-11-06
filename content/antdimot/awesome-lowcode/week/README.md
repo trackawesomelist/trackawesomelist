@@ -11,6 +11,7 @@ A collection of Awesome low-code development platform (LCDP).
 ### AI
 
 *   [kdpbook.io](https://kdpbook.io/?utm_source=awesome-lowcode\&utm_medium=github) - No-code AI book studio: describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing sheet.
+*   [Layerwise](https://layerwise.app) - Desktop app for building, previewing, and publishing full-stack web apps with AI, with local source files and built-in database, authentication, and hosting.
 *   [Pinegen AI](https://www.pinegen.ai/) - Generate, fix, and backtest compiler-validated Pine Script v6 strategies for TradingView using AI. Free to start, no coding needed.
 
 ### Automation

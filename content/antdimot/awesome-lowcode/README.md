@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### AI
+
+*   [Layerwise](https://layerwise.app) - Desktop app for building, previewing, and publishing full-stack web apps with AI, with local source files and built-in database, authentication, and hosting.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### AI

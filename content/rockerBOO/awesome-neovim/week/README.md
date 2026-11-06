@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [alessandropietrobelli/dotnet-tree.nvim (⭐3)](https://github.com/alessandropietrobelli/dotnet-tree.nvim) - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
+*   [alessandropietrobelli/dotnet-counters.nvim (⭐4)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -31,6 +32,10 @@ Collections of awesome neovim plugins.
 ### Game / Tmux
 
 *   [navasvarela/vimdojo (⭐0)](https://github.com/navasvarela/vimdojo) - Puzzle game for learning Vim motions and workflows, scored on keystrokes against par.
+
+### Pre-made Configuration / Stats Tracking
+
+*   [LFSCamargo/nvim.setup (⭐1)](https://github.com/LFSCamargo/nvim.setup) - Portable config with a file tree, editor tabs, and independent AI CLI chats in one window.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
@@ -4865,7 +4870,7 @@ Collections of awesome neovim plugins.
 
 ### External / Version Manager
 
-*   [MordechaiHadad/bob (⭐2.1k)](https://github.com/MordechaiHadad/bob) - A cross-platform, easy to use version manager.
+*   [MordechaiHadad/bob (⭐2.2k)](https://github.com/MordechaiHadad/bob) - A cross-platform, easy to use version manager.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 

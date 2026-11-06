@@ -51,6 +51,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [kdpbook.io](https://kdpbook.io/?utm_source=awesome-lowcode\&utm_medium=github) - No-code AI book studio: describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing sheet.
 *   [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
+*   [Layerwise](https://layerwise.app) - Desktop app for building, previewing, and publishing full-stack web apps with AI, with local source files and built-in database, authentication, and hosting.
 *   [LLMGraph](https://llmgraph.ai) - Low/no-code visual builder for LLM workflows: build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy in one click to a REST API and chat widget.
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
