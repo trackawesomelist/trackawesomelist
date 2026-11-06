@@ -6,6 +6,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### Multi-subject / Crypto or Blockchain relevant
+
+*   [MyFeed](https://myfeed.space/explore) : 103 public topic feeds (AI, Rust, security, privacy and more), each built from hundreds of RSS sources and news outlets and AI-picked into one feed; every topic publishes its own RSS, e.g. [AI](https://myfeed.space/ai/rss.xml), [Rust](https://myfeed.space/rust/rss.xml) and [Privacy](https://myfeed.space/explore/privacy/rss.xml) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant

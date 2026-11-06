@@ -2,7 +2,7 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 249 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 255 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐249)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐249)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐255)](https://github.com/hanishrao/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐255)](https://github.com/hanishrao/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/hanishrao/collective-ai-tools)
@@ -172,6 +172,7 @@ Use these hashtags in search to filter out the tools
 *   [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
 *   [Remove Audio](https://remove-audio.com/tools/extract-voice-from-video) - Extracts clean dialogue or vocals from a video with an AI model that runs in the browser, so the file is not uploaded. `#freemium`
 *   [Saturalabs](https://www.saturalabs.com/) - Uses text descriptions to separate a voice, instrument, or sound effect from audio and video, returning the target and remaining audio tracks. `#paid`
+*   [Transcribe Video: To The Text](https://video2text.ttt.so/) - iPhone app that transcribes video and audio files, YouTube or Vimeo links and live voice recordings, with speaker labels, a one-tap summary and TXT/DOCX export. `#freemium` `#transcription`
 *   [VideoDubber](https://videodubber.ai) - Offers free video translation, dubbing,  cloning, and text-to-speech services. `#freemium`
 *   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
 *   [Voqusa](https://www.voqusa.com/) - Turns TikTok, YouTube, Instagram and other social videos into accurate transcripts and subtitles in seconds, no signup required. `#freemium` `#transcription`
@@ -525,14 +526,17 @@ Use these hashtags in search to filter out the tools
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [SoloPup Memory (⭐1)](https://github.com/OakcoderX/solopup-memory) - Native DeepSeek Harness text-memory beta with source references, project scope and correction history; requires Node >=24.9 and DSH >=0.2.1-rc.0 <0.3.0, and configured model APIs may charge. `#opensource` `#memory`
 *   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
+*   [sqlite-graph-memory (⭐14)](https://github.com/tonydzi/sqlite-graph-memory) - MCP server and CLI that gives coding agents recall over a folder of markdown notes, following `[[wikilinks]]` as a graph in one SQLite file. `#opensource` `#free` `#mcp`
 *   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`
-*   [The Enso Method (⭐5)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
+*   [Teapot Router](https://teapotrouter.com) - Team API gateway for GPT and Claude Code: one shared token pool, per-request metering (model, tokens, cache hits, exact cost), a public price book with no login, and org-level key management. `#paid`
+*   [The Enso Method (⭐6)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
 *   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
 *   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
 *   [Twinny (⭐3.7k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
+*   [UberLLM](https://uberllm.dev/) - One OpenAI- and Anthropic-compatible API key for GPT, Claude, Gemini, DeepSeek and uncensored text models plus image, video, music and speech models, billed at what each provider charged. `#paid` `#api` `#llm`
 *   [UI Verify](https://uiverify.ai/) - Visual regression testing for coding agents: screenshots your Storybook, Playwright or Vitest tests on each pull request, an AI judge labels each change, and an MCP server lets Claude Code, Cursor or Codex review the diffs. `#freemium` `#testing`
 *   [v0](https://v0.dev/) - AI-powered UI component generator by Vercel. `#free`
 *   [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
@@ -543,7 +547,7 @@ Use these hashtags in search to filter out the tools
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 *   [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#free`
-*   [YYLO (⭐65)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐66)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 *   [OutboundGateway](https://outboundgateway.com/) - Static outbound IPs for AI agents and MCP servers. `#paid`
 *   [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
@@ -577,6 +581,8 @@ Use these hashtags in search to filter out the tools
 
 ## E-Commerce
 
+*   [Etsy Search & Shop Sales MCP (⭐3)](https://github.com/GeminiGeorge22/etsy-sales-mcp) - MCP server that gives AI assistants Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop; runs on your own Apify token. `#opensource` `#mcp`
+*   [EverAlice AI](https://everalice.studio/) - All-in-one AI studio for Etsy and digital-product sellers: turns one artwork or idea into listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing videos, a launch marketing pack and a customer delivery ZIP, with bulk runs of up to 100 products. `#freemium`
 *   [Shop Guru AI](https://www.shopguru.io/) - Analyze customer reviews, providing you with trusted answers based on specific product information. `#free`
 *   [Xiyu](https://xiyu.taobao.com/) - Taobao ecosystem secure login entry gateway. 87 `#free`
 *   [YOO Resume](https://yooresume.com/) - Taoist cultural products and ritual services. `#paid`
@@ -658,6 +664,7 @@ Use these hashtags in search to filter out the tools
 
 *   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
 *   [Cleo](https://web.meetcleo.com/) - AI financial assistant chatbot that helps users budget, save, and manage money in a fun, conversational way. `#freemium`
+*   [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading tool that looks for evidence against your thesis before you commit, with daily source reading, filings and earnings research, condition-based change alerts and a personal investment framework. `#freemium` `#research`
 *   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
 *   [Equibles](https://equibles.com/) - US stock market data for ChatGPT, Claude and other AI assistants through a hosted MCP server and a REST API, covering SEC filings, financial statements, earnings call transcripts, insider and congressional trades and 13F holdings. `#freemium` `#mcp`
 *   [Fair Value Calculator](https://www.fairvalue-calculator.com/) - Estimates the fair value and quality of 40,000+ listed stocks worldwide from 26 valuation models, with an AI chat and a hosted MCP server (`https://www.fairvalue-calculator.com/mcp`) for Claude, ChatGPT and Cursor; a free account is enough. `#freemium` `#mcp`
@@ -770,6 +777,7 @@ Use these hashtags in search to filter out the tools
 *   [AI or NOT](https://www.aiornot.com) - Determine whether an image has been generated by artificial intelligence or a human `#free`
 *   [Clarifai](https://clarifai.com/) - Computer vision platform for image and video classification, object detection, and custom model training. `#freemium`
 *   [isGenAI](https://isgenai.com/) - Checks images, links and text for recorded evidence of AI use: C2PA Content Credentials, AI labels and saved generation prompts, quoting each source. `#free`
+*   [Nature GO](https://naturego.app/identify-animal-by-photo/) - Android app that suggests the species of a bird, insect, mammal or plant from an 8-second video filmed in the app, shows the visible evidence, and can also name a gallery photo. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -886,6 +894,7 @@ Use these hashtags in search to filter out the tools
 *   [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - Research public TikTok content: rank a creator's videos by plays, likes or comments, export comment threads to Excel or CSV, and generate AI transcripts with 9-language translation. `#freemium`
 *   [Clay](https://www.clay.com/) - Automates outreach and contact workflows (cold email, LinkedIn DMs) based on buyer personas. `#freemium`
 *   [Elaris by Solsten](https://elaris.new/) - Understand audience psychology and get actionable insights for marketing and product decisions. `#paid`
+*   [Google Ads Transparency MCP (⭐0)](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - MCP server that gives AI assistants a competitor's Google ads from the Google Ads Transparency Center: new, running or stopped, with first and last shown dates; runs on your own Apify token. `#opensource` `#mcp`
 *   [HighReach](https://highreach.ai/) - Generates platform-ready video, image, and UGC ad creatives from product URLs for Meta, TikTok, and Google. `#paid`
 *   [HubSpot](https://www.hubspot.com/) - CRM with AI features for lead tracking, sequences, and automation. `#freemium`
 *   [MarketMirror (⭐4)](https://github.com/DarkWorldCoder/market-mirror) - Tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report; runs locally from coding agents as an MCP server. `#free` `#opensource`
@@ -956,6 +965,7 @@ Use these hashtags in search to filter out the tools
 *   [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. `#free`
 *   [Songifted](https://songifted.com/) - Creates personalized AI song gifts from names and memories, with lyrics approval before recording, a free 45-second preview, and paid full songs. `#paid`
 *   [Soundraw](https://soundraw.io/) - AI music generator with customizable styles and moods `#freemium`
+*   [Spotify Play Count MCP (⭐0)](https://github.com/GeminiGeorge22/spotify-play-count-mcp) - MCP server that gives AI assistants Spotify play counts for any track, album, artist or playlist, plus artist monthly listeners and followers; runs on your own Apify token. `#opensource` `#mcp`
 *   [Suno AI](https://suno.ai/) - AI-powered music creation platform that generates complete songs from text prompts `#freemium`
 *   [Tera Studio](https://terastudio.co/) - Learns your singing voice from about a minute of singing, then sings any song you upload back in your voice, in any language. `#freemium`
 *   [Udio](https://udio.com/) - Advanced AI music generator with high-quality audio output and style control `#freemium`
@@ -990,6 +1000,7 @@ Use these hashtags in search to filter out the tools
 *   [ChatPPT](https://chat-ppt.com/) - Command-style workplace office assistant. `#paid`
 *   [Chronicle](https://chroniclehq.com/) - High-impact presentation tool for non-pros. `#free`
 *   [Decktopus AI](https://decktopus.com/) - AI generator with a presenter coach and editor. `#freemium`
+*   [EditableImage](https://editableimage.com/) - Turns a slide screenshot into an editable PowerPoint with real text boxes over a rebuilt background; also converts diagram pictures to draw\.io and flat artwork to layered PSD. Paid credit packs with a one-time free trial of 10 credits for two conversions on signup; no ongoing free tier. `#paid`
 *   [Gaoding PPT](https://ppt.gaoding.com/) - Design platform for non-professional designers. `#free`
 *   [Instant PPT Gen](https://gamma.app/) - Content editing and intelligent typesetting tool. `#free`
 *   [iSlide AIPPT](https://www.islide.cc/) - Plugin with over 8 million genuine pictures. `#free`
@@ -1018,6 +1029,7 @@ Use these hashtags in search to filter out the tools
 
 *   [40h](https://40h.io/) - Map your career path and unlock your potential with the guidance of 40h. `#paid`
 *   [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. `#free`
+*   [AUTOMATER.ai](https://automater.ai/) - Tray app that keeps track of every AI coding agent you run: a searchable library of past sessions, a flag when an agent is waiting on you, and usage across 9 providers. `#freemium`
 *   [Calendly AI](https://calendly.com/) - AI-powered scheduling assistant for meetings and appointments. `#freemium`
 *   [Cloud One](https://yun.baidu.com/) - Baidu Netdisk document assistant and summary. `#free`
 *   [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
@@ -1034,6 +1046,7 @@ Use these hashtags in search to filter out the tools
 *   [Notion AI](https://www.notion.so/product/ai) - AI-powered workspace with writing, planning, and organization features. `#freemium`
 *   [Orkas](https://orkas.ai/?source=gh_collective\&lang=en) - Turns project goals and local files into reports, presentations and code with a coordinated AI team in an open-source, local-first desktop workspace, using managed models or supported own-provider access. `#opensource`
 *   [Otter.ai](https://otter.ai/) - AI-powered transcription and meeting assistant. `#freemium`
+*   [Plainer](https://plainer.app/) - Workspace for notes and files with a planner view, timeboxing and an AI assistant whose changes you can undo. `#freemium`
 *   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 *   [Raycast AI](https://www.raycast.com/ai) - Mac-native operating system AI extension. `#freemium`
 *   [Reclaim AI](https://reclaim.ai/) - AI-powered calendar management and time blocking. `#freemium`
@@ -1077,6 +1090,7 @@ Use these hashtags in search to filter out the tools
 *   [InteriorVibes](https://interiorvibes.co/) - Virtual Staging with a couple of clicks `#paid`
 *   [RealtyGenius](https://realtygenius.ai/) - Offers efficient document management and collaboration functionalities for real estate professionals. `#freemium`
 *   [RealtyNinja](https://get.realtyninja.com/ai-listing-description-generator) - AI Listing Description Generator `#free`
+*   [RoomLab.app](https://roomlab.app/) - AI virtual staging, decluttering, restyling and walkthrough videos from room photos `#freemium`
 *   [Virtual House Flip](https://www.virtualhouseflip.com/) - Remodel homes using AI for stunning results `#paid`
 *   [VirtualStagingAI](https://www.virtualstagingai.app/) - Virtually stage in one click `#paid`
 *   [VirtualStagingExpert](https://virtualstagingexpert.com/) - Stunning AI Virtual Staging Photos In A Click `#paid`
@@ -1125,6 +1139,7 @@ Use these hashtags in search to filter out the tools
 ## SEO
 
 *   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
+*   [AgentSEO](https://www.agentseo.dev/) - SEO API and MCP tools for keyword research, SERP analysis, rank tracking, and AI search visibility. New accounts receive 100 one-time live credits, then ongoing use requires a paid plan. `#paid` `#seo` `#mcp`
 *   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
 *   [AltoRank](https://altorank.co/) - Open-source SEO content software that researches what your buyers search for and drafts sourced articles; self-host it free or use the hosted version. `#freemium` `#seo` `#opensource`
 *   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
@@ -1140,6 +1155,7 @@ Use these hashtags in search to filter out the tools
 
 ## Sales
 
+*   [AlphaOSINT LinkedIn Company Employees](https://alphaosint.com/sources/linkedin-company-employees-api/) - Lists the people who work at a company on LinkedIn, with titles and profile links, as an MCP tool for prospecting. `#mcp` `#paid`
 *   [Feishu Multi-Table](https://www.feishu.cn/product/base) - Zero-code business system and infrastructure. `#paid`
 *   [Sellesta](https://sellesta.ai/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. Start Free Now! `#freemium`
 
@@ -1183,6 +1199,7 @@ Use these hashtags in search to filter out the tools
 *   [SummarizAI](https://summarizai.ink/) - Chrome extension that adds an AI summary, chapters, chat, and Study flashcards to the YouTube watch page. `#freemium`
 *   [SummaryTube](https://summarytube.com/) - AI Youtube Video Summarizer. Get key AI insights, extract key moments and transcription. `#freemium`
 *   [Too Long](https://toolongapp.com/) - Your Article Summarization Companion `#free`
+*   [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) - Chrome and Firefox extension for watching AI-selected passages from captioned YouTube videos, with timestamps, text summaries and current-video chat. `#freemium` `#video`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1219,20 +1236,34 @@ Use these hashtags in search to filter out the tools
 
 ## Video
 
+*   [airapvideo](https://ai-rap-video.asia/) - Vocals + photo to 9:16 lip-sync rap video; packs from $8.88. `#paid`
 *   [AIVG](https://ai-video-generators.com/image-to-video) - Animate a photo into a short video with a choice of AI video models. `#paid`
+*   [Alors on Danse AI](https://tryalorsondanse.video/) - Two photos to \~15s white-studio duo dance; packs from $8.88. `#paid`
 *   [AVCLabs](https://www.avclabs.com/) - 100% free automatic video background remover. `#free`
+*   [Bad Times AI](https://badtimesai.cc/) - One photo to \~15s quarrel or lip-sync dance; packs from $8.88. `#paid`
+*   [bbywowguy AI](https://bbywowguyai.cc/) - One photo to \~10s quince/concha meme video; packs from $8.88. `#paid`
+*   [Burning Bridges AI](https://burningbridgesvideoai.com/) - 1-2 photos to a party template clip; packs from $8.88. `#paid`
 *   [C2Anime](https://c2anime.com/) - AI Anime Agent that turns stories into animated short films with voices and sound. `#paid` `#animation`
 *   [Captions](https://www.captions.ai/) - AI creative studio application for creators. `#freemium`
+*   [Cat in the Hat AI](https://catinthehat.cc/) - One photo to \~10s doorbell Halloween prank; packs from $8.88. `#paid`
+*   [ChatGPT Millionaire AI](https://chatgptmillionaire.cc/) - One selfie to a \~10-13s Get a job meme short; packs from $8.88. `#paid`
+*   [ChatGTT](https://chatgtt.cc/) - One photo to \~10-13s card-declined meme; packs from $8.88. `#paid`
+*   [Cheba Man AI](https://chebamanai.cc/) - One full-body photo to \~15-17s red stage Tecktonik clip; packs from $8.88. `#paid`
+*   [Choosin Texas AI](https://choosintexas.run/) - One photo to \~15s emo rooftop cover; packs from $8.88. `#paid`
 *   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
+*   [Chuttamalle Dance AI](https://trychuttamalle.app/) - Authorized portrait to \~15s generative dance clip; packs from $8.88. `#paid`
 *   [Clipfly](https://www.clipfly.com/) - Integrated video generation and enhancement. `#freemium`
 *   [Conch Video](https://hailuo.ai/) - MiniMax realistic video effects assistant. `#free`
+*   [coralineai](https://coralineai.run/) - One selfie to \~10s button-eyes doll reveal; packs from $8.88. `#paid`
+*   [Corpse Bride AI](https://corpsebride.cc/) - One photo to \~10s ghost bride/groom cemetery dance; packs from $8.88. `#paid`
 *   [Cutout.Pro](https://www.cutout.pro/) - AI-based video background removal tool. `#free`
 *   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
 *   [Daydream](https://daydream.ai/) - professional-level video from input stories. `#free`
 *   [Decohere](https://decohere.ai/) - High-precision extremely fast AI generator. `#free`
 *   [Descript](https://www.descript.com/) - Edit videos and podcasts by typing text. `#free`
-*   [DoneCut](https://donecut.com/) - Upload raw footage and an AI editor returns a finished YouTube video or Shorts with captions, motion graphics and music. `#paid`
+*   [Devil Wears Prada AI](https://pradaai.cc/) - One photo to \~15s street glow-up video; packs from $8.88. `#paid`
 *   [DomoAI](https://domoai.app/) - Video-to-animation and style conversion tool. `#free`
+*   [DoneCut](https://donecut.com/) - Upload raw footage and an AI editor returns a finished YouTube video or Shorts with captions, motion graphics and music. `#paid`
 *   [Dream Machine](https://lumalabs.ai/dream-machine) - Luma AI high-resolution video generator. `#freemium`
 *   [DreamFace](https://dreamface.ai/) - High-quality videos/photos from audio/text. `#paid`
 *   [Duojia Tool](https://duojia.baidu.com/) - Baidu's one-stop AIGC creation platform. `#free`
@@ -1243,6 +1274,7 @@ Use these hashtags in search to filter out the tools
 *   [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`
 *   [Flow AI Video](https://www.flowaivideo.org/) - AI video generation workspace for text-to-video and image-to-video creative workflows. `#freemium`
 *   [Flow Studio](https://flowstudio.ai/) - Chat characters, robots, and prompt management. `#free`
+*   [Flying Roadster AI](https://flyingcarai.cc/) - One selfie to \~10-12s night ramp jet/flip short; packs from $8.88. `#paid`
 *   [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
 *   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
 *   [Google Vids](https://workspace.google.com/products/vids/) - Integrated Workspace creation and scripts. `#paid`
@@ -1250,9 +1282,13 @@ Use these hashtags in search to filter out the tools
 *   [Hedra](https://hedra.com/) - Multimodal personal AI creation studio. `#free`
 *   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 *   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
+*   [Hotel Lobby AI](https://tryhotellobby.app/) - Two photos to \~15s hotel lobby booth duo; packs from $8.88. `#paid`
+*   [Hug In Heaven AI](https://huginheaven.cc/) - Two photos to \~12-15s stairway reunion memorial short (18+); packs from $8.88. `#paid`
 *   [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 *   [Invideo AI](https://invideo.io/) - Transforms ideas into shareable videos (no skills). `#free`
+*   [JeanPhilAI](https://jeanphilai.cc/) - One photo to \~12-15s blond bob + moustache clip; packs from $8.88. `#paid`
 *   [JiMeng AI](https://jimeng.jianying.com/) - 2K high-definition art and shot generation. `#freemium`
+*   [Kiss Cam AI](https://coldplayaffairai.cc/) - 1-2 photos to \~10s stadium kiss-cam clip; packs from $8.88. `#paid`
 *   [Kling AI Video](https://kling.kuaishou.com/) - High-quality video generation with realistic motion and physics `#freemium`
 *   [LensGo](https://lensgo.ai/) - character style transfer tool (Shutdown 2025). `#free`
 *   [LiveFaceSwap AI](https://livefaceswap.ai/) - Cloud-based live webcam transformations with face, outfit, and style references plus desktop virtual-camera output. `#paid`
@@ -1276,17 +1312,20 @@ Use these hashtags in search to filter out the tools
 *   [Pixwit](https://pixwit.ai/) - Text-to-video, image-to-video and AI image generation with multiple models in one workspace. `#freemium`
 *   [Pollo AI](https://pollo.ai/) - Singapore-based image and video creative hub. `#freemium`
 *   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
+*   [Raindance AI](https://raindanceai.click/) - Two photos to \~15s pier/dock sequence; packs from $8.88. `#paid`
 *   [Rask](https://rask.ai/) - Localization tool for 130 languages with API. `#free`
-*   [RefVid](https://refvid.com/) - Generates AI videos from 1–5 reference photos of a character or product, using the photos to help maintain character or product consistency. New accounts get one free 5-second clip, then paid credits or plans. `#paid`
+*   [RemixMeme](https://remixmeme.com/) - AI meme video generator from photos with dance, pet and funny templates. `#paid`
+*   [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video/) - 1-2 photos to a barn tip-toe dance short; packs from $8.88. `#paid`
 *   [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
-*   [Runway Gen-3](https://runwayml.com/) - Latest generation of AI video creation with improved realism and control `#freemium`
-*   [Runway ML](https://runwayml.com/) - AI-powered video editing and generation platform with advanced features. `#freemium`
+*   [RefVid](https://refvid.com/) - Generates AI videos from 1–10 reference photos of a character or product, using the photos to help maintain character or product consistency. New accounts get one free 5-second clip, then paid credits or plans. `#paid`
+*   [Seedance Now](https://seedancenow.com/) - Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s at 1080p; independent, not affiliated with ByteDance. `#freemium` `#video`
 *   [SeedanceCheap](https://seedancecheap.com/) - Independent Seedance 2.5 video studio with motion guidance, free prompt planners and Brand Canvas text branding with PNG/ZIP export; generation uses one-time credit packs. `#paid`
 *   [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
+*   [ShanShenBu AI](https://shanshenbuai.cc/) - One photo to \~13-15s flash-step dance; packs from $8.88. `#paid`
 *   [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or course into up to 20 vertical 9:16 shorts with word-by-word captions. `#freemium`
 *   [SkyReels](https://skyreels.ai/) - One-click text-to-animation platform. `#freemium`
-*   [Sora2 Hub](https://sora2hub.org/) - AI image and video generation platform for text-to-video, image-to-video and text-to-image in one workspace. `#freemium`
 *   [Sora](https://openai.com/sora) - OpenAI's revolutionary text-to-video generation model with high-quality results `#freemium`
+*   [Sora2 Hub](https://sora2hub.org/) - AI image and video generation platform for text-to-video, image-to-video and text-to-image in one workspace. `#freemium`
 *   [Spikes Studio](https://spikes.studio/) - identifies segments for social media short-form. `#free`
 *   [Step Video](https://step.ai/) - Multi-theme creation and description optimizer. `#free`
 *   [Syllaby.io](https://ai.syllaby.io) - AI Video Script Generator, Syllaby shows you how to create a content strategy for social media in minute `#paid`
@@ -1295,9 +1334,13 @@ Use these hashtags in search to filter out the tools
 *   [Tencent Zhiying](https://www.tencent.com/) - Cloud-based video editor with rich copyright info. `#free`
 *   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
 *   [Tongyi Wanxiang AI](https://wanxiang.aliyun.com/) - Alibaba high-definition film-quality videos. `#free`
+*   [Unforgettable Car AI](https://unforgettablecarai.cc/) - One selfie to \~10s 24 card car reveal; packs from $8.88. `#paid`
 *   [Unscreen](https://www.unscreen.com/) - 100% automatic online background removal. `#free`
 *   [Veed Background](https://www.veed.io/tools/background-remover) - Online background removal and green-screen. `#free`
+*   [Venom Car AI](https://venomcarai.cc/) - One car photo to \~15s goo garage-build short; packs from $8.88. `#paid`
+*   [venommakeup AI](https://venommakeup.cc/) - One photo to \~10s Halloween half-face goo video; packs from $8.88. `#paid`
 *   [Veo](https://deepmind.google/models/veo/) - Google DeepMind's text-to-video model (currently Veo 3.1), generates cinematic video with synchronized audio and realistic physics. `#paid`
+*   [Victoria Secret AI](https://victoriasecretai.cc/) - One photo to \~10s angel-wing runway walk; packs from $8.88. `#paid`
 *   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
 *   [Video Ocean](https://videoocean.com/) - Text-to-video scene simulation platform. `#free`
 *   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
@@ -1310,8 +1353,11 @@ Use these hashtags in search to filter out the tools
 *   [Viggle](https://viggle.ai/) - Driven by 3D basic model to move characters. `#free`
 *   [Vizard](https://vizard.ai/) - identifies highlights to create short social clips. `#free`
 *   [Vozo](https://www.vozo.ai/) - Video localization and natural voice dubbing. `#free`
+*   [White Chicks AI](https://whitechicks.cc/) - 1-2 photos to \~10-12s night convertible sing video; packs from $8.88. `#paid`
 *   [WinkStudio](https://wink.meitu.com/) - Meitu image restoration and portrait retouch. `#free`
+*   [wywmysweetie AI](https://wywmysweetie.run/) - One photo to \~13s jersey-club dance; packs from $8.88. `#paid`
 *   [Xiling Digital Human](https://xiling.baidu.com/) - Marketing promotion and content output avatars. `#free`
+*   [ZombieHug](https://aizombie.app/) - Two photos to a vertical zombie love-story video; packs from $9.99. `#paid`
 *   [ZOOOP](https://zooop.ai/) - AI-native filmmaking workstation for text/image-to-video, lip-sync, and storyboarding on an infinite canvas. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**

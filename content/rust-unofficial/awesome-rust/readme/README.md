@@ -322,6 +322,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [hydra-db/hydradb (⭐13k)](https://github.com/hydra-db/hydradb) - Object-store-native distributed graph database with OpenCypher queries, GraphBLAS traversal, and Neo4j-compatible Bolt connectivity.
 *   [indradb](https://crates.io/crates/indradb) - Graph database
 *   [KiteSQL (⭐755)](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust
+*   [kividbio/kividb (⭐952)](https://github.com/kividbio/kividb) - Redis-compatible in-memory database with built-in full-text and vector search [![CI](https://github.com/kividbio/kividb/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/kividbio/kividb/actions/workflows/ci.yml)
 *   [lancedb (⭐12k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
 *   [Lucid (⭐392)](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 *   [Materialize (⭐6.4k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign:
@@ -630,6 +631,7 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
 *   [runxhq/runx (⭐104)](https://github.com/runxhq/runx) - Local runtime for agent skills with explicit authority, CLI and MCP access, and verifiable execution receipts. [![CI](https://github.com/runxhq/runx/actions/workflows/ci.yml/badge.svg)](https://github.com/runxhq/runx/actions/workflows/ci.yml)
 *   [screenpipe (⭐22k)](https://github.com/screenpipe/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
 *   [ShadoySV/work-break (⭐24)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/ShadoySV/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/actions/workflows/release.yml)
+*   [Skykeep (⭐137)](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline [![CI](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml)
 *   [socai-io/socai (⭐252)](https://github.com/socai-io/socai) - A social research agent that reuses signed-in Chrome to search and read posts, comments, profiles, and supported media across Instagram, TikTok, LinkedIn, X, Xiaohongshu, and Douyin.
 *   [sunerpy/voltip (⭐60)](https://github.com/sunerpy/voltip) - Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri [![CI](https://github.com/sunerpy/voltip/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sunerpy/voltip/actions/workflows/ci.yml)
 *   [tambourine-voice (⭐392)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
@@ -1019,7 +1021,7 @@ See also [A comparison of operating systems written in Rust (⭐865)](https://gi
 *   [aaif-goose/goose (⭐56k)](https://github.com/aaif-goose/goose) - An open-source, local AI agent that automates engineering tasks.
 *   [agavra/tuicr (⭐3.5k)](https://github.com/agavra/tuicr) \[[tuicr](https://crates.io/crates/tuicr)] - Code review TUI with vim keybindings. Continuous diff viewer, PR-style comments, and export to GitHub/GitLab/clipboard. Supports git, jj, and mercurial. [![Crates.io](https://img.shields.io/crates/v/tuicr)](https://crates.io/crates/tuicr)
 *   [armgabrielyan/deadbranch (⭐235)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
-*   [astral-sh/uv (⭐91k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
+*   [astral-sh/uv (⭐92k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
 *   [ATAC (⭐3.7k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐3.5k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 *   [biome (⭐26k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
@@ -2302,6 +2304,8 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [thehydroimpulse/nanomsg.rs (⭐400)](https://github.com/thehydroimpulse/nanomsg.rs) - [nanomsg](https://nanomsg.org/) bindings
 *   NATS
     *   [nats-io/nats.rs (⭐1.6k)](https://github.com/nats-io/nats.rs) - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions)
+*   NetworkManager
+    *   [freedesktop-rs/nmrs (⭐327)](https://github.com/freedesktop-rs/nmrs) \[[nmrs](https://crates.io/crates/nmrs)] - NetworkManager bindings over D-Bus: Wi-Fi, VPN, saved profiles, secret agent, monitoring. [![CI](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml)
 *   Nng
     *   [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) \[[Nng](https://crates.io/crates/nng)] - [Nng (nanomsg v2)](https://nng.nanomsg.org/index.html) bindings [![build badge](https://gitlab.com/neachdainn/nng-rs/badges/master/pipeline.svg)](https://gitlab.com/neachdainn/nng-rs/-/pipelines)
 *   NNTP

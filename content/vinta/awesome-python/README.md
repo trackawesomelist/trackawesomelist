@@ -6,13 +6,19 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### **Sponsors**
+
+*   [PyUiBuilder](https://pyuibuilder.com/?utm_source=github\&utm_medium=sponsorship\&utm_campaign=awesome_python) - Build your Python GUIs like Canva using drag and drop. Export clean, editable Python code.
+
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
 ### Projects / Machine Learning
 
 *   Time Series Forecasting
     *   [prophet (⭐20k)](https://github.com/meta/prophet) - A tool for producing forecasts for time series with multiple seasonality and trend changes.
-    *   [statsforecast (⭐4.9k)](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
+    *   [statsforecast (⭐5k)](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
     *   [sktime (⭐10k)](https://github.com/sktime/sktime) - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
     *   [timesfm (⭐35k)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
 
@@ -70,7 +76,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   LLM Serving
     *   [vllm (⭐95k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
     *   [sglang (⭐38k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
-    *   [deepinfer (⭐14k)](https://github.com/deepseek-ai/DeepInfer) - DeepSeek's production inference engine for DeepSeek models, with MoE expert parallelism.
+    *   [deepinfer (⭐25k)](https://github.com/deepseek-ai/DeepInfer) - DeepSeek's production inference engine for DeepSeek models, with MoE expert parallelism.
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -125,7 +131,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [mcp (⭐25k)](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for building Model Context Protocol servers and clients.
     *   [fastmcp (⭐28k)](https://github.com/PrefectHQ/fastmcp) - A high-level, Pythonic framework for building MCP servers and clients.
 *   Personal Assistants
-    *   [hermes-agent (⭐255k)](https://github.com/NousResearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
+    *   [hermes-agent (⭐261k)](https://github.com/NousResearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
     *   [AstrBot (⭐43k)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 *   Speech
     *   [faster-whisper (⭐26k)](https://github.com/SYSTRAN/faster-whisper) - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
@@ -146,7 +152,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Admin Panels
 
-*   [sqladmin (⭐2.8k)](https://github.com/smithyhq/sqladmin) - An admin interface for SQLAlchemy models in FastAPI and Starlette.
+*   [sqladmin (⭐2.9k)](https://github.com/smithyhq/sqladmin) - An admin interface for SQLAlchemy models in FastAPI and Starlette.
 
 ### Projects / Web Scraping
 
@@ -157,7 +163,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Email
 
-*   [aiosmtplib (⭐434)](https://github.com/cole/aiosmtplib) - An asyncio SMTP client.
+*   [aiosmtplib (⭐436)](https://github.com/cole/aiosmtplib) - An asyncio SMTP client.
 *   [django-anymail (⭐1.9k)](https://github.com/anymail/django-anymail) - Django email backends and webhooks for transactional email services such as Amazon SES, Brevo, Mailgun, Postmark, and Resend.
 
 ### Projects / Database
@@ -240,7 +246,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Audio & Video Processing
 
 *   Audio
-    *   [soundfile (⭐865)](https://github.com/bastibe/python-soundfile) - An audio library for reading and writing sound files, based on libsndfile, CFFI, and NumPy.
+    *   [soundfile (⭐869)](https://github.com/bastibe/python-soundfile) - An audio library for reading and writing sound files, based on libsndfile, CFFI, and NumPy.
     *   [librosa (⭐8.7k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
     *   [pydub (⭐9.8k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy, high-level interface.
 *   Video
@@ -270,7 +276,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Web Security
 
-*   [nh3 (⭐400)](https://github.com/messense/nh3) - Python binding to the ammonia HTML sanitizer, a fast replacement for bleach.
+*   [nh3 (⭐404)](https://github.com/messense/nh3) - Python binding to the ammonia HTML sanitizer, a fast replacement for bleach.
 
 ### Projects / Hardware
 
@@ -287,7 +293,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 ### Projects / Code Analysis
 
 *   General
-    *   [import-linter (⭐1.2k)](https://github.com/seddonym/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
+    *   [import-linter (⭐1.3k)](https://github.com/seddonym/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
     *   [vulture (⭐4.9k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
     *   [complexipy (⭐898)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
     *   [prospector (⭐2.1k)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
@@ -469,7 +475,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [yfinance (⭐26k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
     *   [akshare (⭐23k)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
     *   [edgartools (⭐2.8k)](https://github.com/dgunning/edgartools) - Downloads SEC EDGAR filings and XBRL financial statements as structured data.
-    *   [openbb (⭐74k)](https://github.com/openbq-org/OpenBB) - A financial data platform for analysts, quants and AI agents.
+    *   [openbb (⭐75k)](https://github.com/openbq-org/OpenBB) - A financial data platform for analysts, quants and AI agents.
 
 ### Projects / Data Visualization
 
@@ -695,7 +701,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
     *   [hatchling (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible build backend from the hatch project.
     *   [poetry-core (⭐481)](https://github.com/python-poetry/poetry-core) - Poetry's PEP 517 build backend, usable without Poetry itself.
     *   [flit-core (⭐2.3k)](https://github.com/pypa/flit) - Minimal, dependency-free build backend for pure-Python packages.
-    *   [uv-build (⭐91k)](https://github.com/astral-sh/uv) - uv's fast, minimal build backend for pure-Python projects.
+    *   [uv-build (⭐92k)](https://github.com/astral-sh/uv) - uv's fast, minimal build backend for pure-Python projects.
 
 ### Projects / Configuration Files
 
@@ -709,7 +715,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Dependency Audits
     *   [pip-audit (⭐1.4k)](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities, using the Python Packaging Advisory Database or OSV.
-    *   [uv-audit (⭐91k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
+    *   [uv-audit (⭐92k)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
 
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
@@ -847,7 +853,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Penetration Testing
 
-*   [mitmproxy (⭐46k)](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [mitmproxy (⭐47k)](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
 
@@ -972,7 +978,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Package Managers
     *   [pip (⭐10k)](https://github.com/pypa/pip) - The package installer for Python.
-    *   [uv (⭐91k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
+    *   [uv (⭐92k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
     *   [poetry (⭐34k)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
     *   [hatch (⭐7.2k)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
     *   [pipx (⭐13k)](https://github.com/pypa/pipx) - Install and run Python applications in isolated environments. Like `npx` in Node.js.
@@ -1049,7 +1055,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### Projects / Environment Management
 
-*   [uv (⭐91k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
+*   [uv (⭐92k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 
 ## [Feb 23, 2024](/content/2024/02/23/README.md)
 
@@ -1174,7 +1180,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 *   Configuration Management
     *   [ansible (⭐71k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    *   [cloud-init (⭐3.8k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    *   [cloud-init (⭐3.9k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
     *   [pyinfra (⭐6k)](https://github.com/pyinfra-dev/pyinfra) - Turns Python code into shell commands and runs them on your servers.
     *   [salt (⭐16k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
@@ -1194,7 +1200,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 *   OCR
     *   [pytesseract (⭐6.4k)](https://github.com/madmaze/pytesseract) - A wrapper for the [Tesseract OCR (⭐77k)](https://github.com/tesseract-ocr/tesseract) engine.
     *   [easyocr (⭐30k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ languages supported.
-    *   [paddleocr (⭐91k)](https://github.com/PaddlePaddle/PaddleOCR) - Multilingual OCR and document parsing toolkit based on PaddlePaddle.
+    *   [paddleocr (⭐92k)](https://github.com/PaddlePaddle/PaddleOCR) - Multilingual OCR and document parsing toolkit based on PaddlePaddle.
 
 ## [Jun 11, 2020](/content/2020/06/11/README.md)
 

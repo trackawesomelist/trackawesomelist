@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### Web
+
+*   [livliv player (⭐532)](https://github.com/livliv-dev/player) - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. \[English/中文/日本語]
+
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
 ### Uncategorized

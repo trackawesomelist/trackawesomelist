@@ -2,11 +2,15 @@
 
 Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 249 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) · ⭐ 255 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
+
+### Audio & Speech
+
+*   [Transcribe Video: To The Text](https://video2text.ttt.so/) - iPhone app that transcribes video and audio files, YouTube or Vimeo links and live voice recordings, with speaker labels, a one-tap summary and TXT/DOCX export. `#freemium` `#transcription`
 
 ### Developer Tools
 
@@ -14,6 +18,22 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Keenable](https://keenable.ai) - Independent web search index for AI agents: search and page fetch over API, CLI and MCP (`https://api.keenable.ai/mcp`), with 100K free requests a month and keyless public endpoints. `#freemium` `#api` `#mcp`
 *   [Model Salt](https://modelsalt.com/) - Open source MCP server with one tool: before a creative task the model gets a few choices drawn from atmospheric and quantum noise, so one prompt gives different answers that still do what was asked. `#free` `#opensource` `#mcp`
 *   [SoloPup Memory (⭐1)](https://github.com/OakcoderX/solopup-memory) - Native DeepSeek Harness text-memory beta with source references, project scope and correction history; requires Node >=24.9 and DSH >=0.2.1-rc.0 <0.3.0, and configured model APIs may charge. `#opensource` `#memory`
+*   [sqlite-graph-memory (⭐14)](https://github.com/tonydzi/sqlite-graph-memory) - MCP server and CLI that gives coding agents recall over a folder of markdown notes, following `[[wikilinks]]` as a graph in one SQLite file. `#opensource` `#free` `#mcp`
+*   [Teapot Router](https://teapotrouter.com) - Team API gateway for GPT and Claude Code: one shared token pool, per-request metering (model, tokens, cache hits, exact cost), a public price book with no login, and org-level key management. `#paid`
+*   [UberLLM](https://uberllm.dev/) - One OpenAI- and Anthropic-compatible API key for GPT, Claude, Gemini, DeepSeek and uncensored text models plus image, video, music and speech models, billed at what each provider charged. `#paid` `#api` `#llm`
+
+### E-Commerce
+
+*   [Etsy Search & Shop Sales MCP (⭐3)](https://github.com/GeminiGeorge22/etsy-sales-mcp) - MCP server that gives AI assistants Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop; runs on your own Apify token. `#opensource` `#mcp`
+*   [EverAlice AI](https://everalice.studio/) - All-in-one AI studio for Etsy and digital-product sellers: turns one artwork or idea into listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing videos, a launch marketing pack and a customer delivery ZIP, with bulk runs of up to 100 products. `#freemium`
+
+### Finance
+
+*   [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading tool that looks for evidence against your thesis before you commit, with daily source reading, filings and earnings research, condition-based change alerts and a personal investment framework. `#freemium` `#research`
+
+### Image Classification
+
+*   [Nature GO](https://naturego.app/identify-animal-by-photo/) - Android app that suggests the species of a bird, insect, mammal or plant from an 8-second video filmed in the app, shows the visible evidence, and can also name a gallery photo. `#freemium`
 
 ### Image Editing
 
@@ -24,9 +44,73 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [MakeImg](https://makeimg.ai/) - AI photo generator that turns a text prompt or reference photo into a new image, with 11 models and free daily credits. `#freemium` `#image`
 *   [QuestStudio](https://queststudio.io/) - Generate and edit images, then continue related video, voice, and music workflows in a connected creative studio. `#paid` `#design`
 
+### Marketing
+
+*   [Google Ads Transparency MCP (⭐0)](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - MCP server that gives AI assistants a competitor's Google ads from the Google Ads Transparency Center: new, running or stopped, with first and last shown dates; runs on your own Apify token. `#opensource` `#mcp`
+
+### Music
+
+*   [Spotify Play Count MCP (⭐0)](https://github.com/GeminiGeorge22/spotify-play-count-mcp) - MCP server that gives AI assistants Spotify play counts for any track, album, artist or playlist, plus artist monthly listeners and followers; runs on your own Apify token. `#opensource` `#mcp`
+
+### Presentation
+
+*   [EditableImage](https://editableimage.com/) - Turns a slide screenshot into an editable PowerPoint with real text boxes over a rebuilt background; also converts diagram pictures to draw\.io and flat artwork to layered PSD. Paid credit packs with a one-time free trial of 10 credits for two conversions on signup; no ongoing free tier. `#paid`
+
+### Productivity
+
+*   [AUTOMATER.ai](https://automater.ai/) - Tray app that keeps track of every AI coding agent you run: a searchable library of past sessions, a flag when an agent is waiting on you, and usage across 9 providers. `#freemium`
+*   [Plainer](https://plainer.app/) - Workspace for notes and files with a planner view, timeboxing and an AI assistant whose changes you can undo. `#freemium`
+
+### Real Estate
+
+*   [RoomLab.app](https://roomlab.app/) - AI virtual staging, decluttering, restyling and walkthrough videos from room photos `#freemium`
+
+### SEO
+
+*   [AgentSEO](https://www.agentseo.dev/) - SEO API and MCP tools for keyword research, SERP analysis, rank tracking, and AI search visibility. New accounts receive 100 one-time live credits, then ongoing use requires a paid plan. `#paid` `#seo` `#mcp`
+
+### Sales
+
+*   [AlphaOSINT LinkedIn Company Employees](https://alphaosint.com/sources/linkedin-company-employees-api/) - Lists the people who work at a company on LinkedIn, with titles and profile links, as an MCP tool for prospecting. `#mcp` `#paid`
+
+### Summarizer
+
+*   [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) - Chrome and Firefox extension for watching AI-selected passages from captioned YouTube videos, with timestamps, text summaries and current-video chat. `#freemium` `#video`
+
 ### Video
 
-*   [RefVid](https://refvid.com/) - Generates AI videos from 1–5 reference photos of a character or product, using the photos to help maintain character or product consistency. New accounts get one free 5-second clip, then paid credits or plans. `#paid`
+*   [airapvideo](https://ai-rap-video.asia/) - Vocals + photo to 9:16 lip-sync rap video; packs from $8.88. `#paid`
+*   [Alors on Danse AI](https://tryalorsondanse.video/) - Two photos to \~15s white-studio duo dance; packs from $8.88. `#paid`
+*   [Bad Times AI](https://badtimesai.cc/) - One photo to \~15s quarrel or lip-sync dance; packs from $8.88. `#paid`
+*   [bbywowguy AI](https://bbywowguyai.cc/) - One photo to \~10s quince/concha meme video; packs from $8.88. `#paid`
+*   [Burning Bridges AI](https://burningbridgesvideoai.com/) - 1-2 photos to a party template clip; packs from $8.88. `#paid`
+*   [Cat in the Hat AI](https://catinthehat.cc/) - One photo to \~10s doorbell Halloween prank; packs from $8.88. `#paid`
+*   [ChatGPT Millionaire AI](https://chatgptmillionaire.cc/) - One selfie to a \~10-13s Get a job meme short; packs from $8.88. `#paid`
+*   [ChatGTT](https://chatgtt.cc/) - One photo to \~10-13s card-declined meme; packs from $8.88. `#paid`
+*   [Cheba Man AI](https://chebamanai.cc/) - One full-body photo to \~15-17s red stage Tecktonik clip; packs from $8.88. `#paid`
+*   [Choosin Texas AI](https://choosintexas.run/) - One photo to \~15s emo rooftop cover; packs from $8.88. `#paid`
+*   [Chuttamalle Dance AI](https://trychuttamalle.app/) - Authorized portrait to \~15s generative dance clip; packs from $8.88. `#paid`
+*   [coralineai](https://coralineai.run/) - One selfie to \~10s button-eyes doll reveal; packs from $8.88. `#paid`
+*   [Corpse Bride AI](https://corpsebride.cc/) - One photo to \~10s ghost bride/groom cemetery dance; packs from $8.88. `#paid`
+*   [Devil Wears Prada AI](https://pradaai.cc/) - One photo to \~15s street glow-up video; packs from $8.88. `#paid`
+*   [Flying Roadster AI](https://flyingcarai.cc/) - One selfie to \~10-12s night ramp jet/flip short; packs from $8.88. `#paid`
+*   [Hotel Lobby AI](https://tryhotellobby.app/) - Two photos to \~15s hotel lobby booth duo; packs from $8.88. `#paid`
+*   [Hug In Heaven AI](https://huginheaven.cc/) - Two photos to \~12-15s stairway reunion memorial short (18+); packs from $8.88. `#paid`
+*   [JeanPhilAI](https://jeanphilai.cc/) - One photo to \~12-15s blond bob + moustache clip; packs from $8.88. `#paid`
+*   [Kiss Cam AI](https://coldplayaffairai.cc/) - 1-2 photos to \~10s stadium kiss-cam clip; packs from $8.88. `#paid`
+*   [Raindance AI](https://raindanceai.click/) - Two photos to \~15s pier/dock sequence; packs from $8.88. `#paid`
+*   [RemixMeme](https://remixmeme.com/) - AI meme video generator from photos with dance, pet and funny templates. `#paid`
+*   [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video/) - 1-2 photos to a barn tip-toe dance short; packs from $8.88. `#paid`
+*   [RefVid](https://refvid.com/) - Generates AI videos from 1–10 reference photos of a character or product, using the photos to help maintain character or product consistency. New accounts get one free 5-second clip, then paid credits or plans. `#paid`
+*   [Seedance Now](https://seedancenow.com/) - Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s at 1080p; independent, not affiliated with ByteDance. `#freemium` `#video`
+*   [ShanShenBu AI](https://shanshenbuai.cc/) - One photo to \~13-15s flash-step dance; packs from $8.88. `#paid`
+*   [Unforgettable Car AI](https://unforgettablecarai.cc/) - One selfie to \~10s 24 card car reveal; packs from $8.88. `#paid`
+*   [Venom Car AI](https://venomcarai.cc/) - One car photo to \~15s goo garage-build short; packs from $8.88. `#paid`
+*   [venommakeup AI](https://venommakeup.cc/) - One photo to \~10s Halloween half-face goo video; packs from $8.88. `#paid`
+*   [Victoria Secret AI](https://victoriasecretai.cc/) - One photo to \~10s angel-wing runway walk; packs from $8.88. `#paid`
+*   [White Chicks AI](https://whitechicks.cc/) - 1-2 photos to \~10-12s night convertible sing video; packs from $8.88. `#paid`
+*   [wywmysweetie AI](https://wywmysweetie.run/) - One photo to \~13s jersey-club dance; packs from $8.88. `#paid`
+*   [ZombieHug](https://aizombie.app/) - Two photos to a vertical zombie love-story video; packs from $9.99. `#paid`
 
 ### Writing
 
@@ -169,7 +253,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Masaka for Codex (⭐1)](https://github.com/masakaai/codex-multiple-env) - Local macOS and Linux CLI that keeps each ChatGPT account and workspace in an isolated CODEX\_HOME, shows Codex usage windows, and switches future native Codex sessions without copying tokens. `#free` `#opensource`
 *   [Omega MCP Router (⭐2)](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio MCP proxy that runs many MCP servers behind one connection, serving tool schemas from a disk cache and starting each server only on its first call. `#free` `#mcp`
 *   [ShellWire](https://shellwire.com/) - Software discovery directory with explainable utility rankings, source-backed tool comparisons, and a remote Streamable HTTP MCP server for AI assistants. `#free`
-*   [The Enso Method (⭐5)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
+*   [The Enso Method (⭐6)](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth. `#free` `#opensource`
 
 ### Human Resources
 
@@ -373,7 +457,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
 *   [OrcaReplay (⭐281)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
-*   [YYLO (⭐65)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
+*   [YYLO (⭐66)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents like Pi and Codex, with typed task, validation, merge, and release-readiness boundaries across isolated git worktrees. `#free` `#opensource`
 
 ### Education
 
@@ -1389,7 +1473,6 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Advanced AI video generation with cinematic quality `#freemium`
 *   [Moonvalley](https://moonvalley.ai/) - AI-powered video generation with advanced editing capabilities `#freemium`
 *   [Pika Labs 2.0](https://pika.art/) - Next-generation video creation with enhanced motion and style control `#freemium`
-*   [Runway Gen-3](https://runwayml.com/) - Latest generation of AI video creation with improved realism and control `#freemium`
 *   [Sora](https://openai.com/sora) - OpenAI's revolutionary text-to-video generation model with high-quality results `#freemium`
 *   [Syllaby.io](https://ai.syllaby.io) - AI Video Script Generator, Syllaby shows you how to create a content strategy for social media in minute `#paid`
 
@@ -1444,7 +1527,6 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Video
 
 *   [Luma AI](https://lumalabs.ai/) - AI-powered 3D capture and video generation from text prompts. `#freemium`
-*   [Runway ML](https://runwayml.com/) - AI-powered video editing and generation platform with advanced features. `#freemium`
 *   [Synthesia](https://www.synthesia.io/) - AI video generation platform with virtual avatars and multilingual support. `#paid`
 
 ## [Jul 07 - Jul 13, 2025](/content/2025/27/README.md)

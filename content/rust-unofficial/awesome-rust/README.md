@@ -6,6 +6,21 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 06, 2026](/content/2026/11/06/README.md)
+
+### Applications / Database
+
+*   [kividbio/kividb (⭐952)](https://github.com/kividbio/kividb) - Redis-compatible in-memory database with built-in full-text and vector search [![CI](https://github.com/kividbio/kividb/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/kividbio/kividb/actions/workflows/ci.yml)
+
+### Applications / Productivity
+
+*   [Skykeep (⭐137)](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline [![CI](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml)
+
+### Libraries / Network programming
+
+*   NetworkManager
+    *   [freedesktop-rs/nmrs (⭐327)](https://github.com/freedesktop-rs/nmrs) \[[nmrs](https://crates.io/crates/nmrs)] - NetworkManager bindings over D-Bus: Wi-Fi, VPN, saved profiles, secret agent, monitoring. [![CI](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml)
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### Applications / Database
@@ -798,7 +813,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [astral-sh/uv (⭐91k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
+*   [astral-sh/uv (⭐92k)](https://github.com/astral-sh/uv) \[[uv](https://crates.io/crates/uv)] - An extremely fast Python package and project manager, written in Rust. [![CI](https://github.com/astral-sh/uv/workflows/CI/badge.svg)](https://github.com/astral-sh/uv/actions)
 *   [prefix-dev/pixi (⭐7.9k)](https://github.com/prefix-dev/pixi) \[[pixi](https://crates.io/crates/pixi)] - Fast package management and workflow tool for multi-language projects, built on top of the conda ecosystem.
 
 ### Libraries / Parsing

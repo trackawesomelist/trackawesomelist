@@ -8,6 +8,69 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### Audio
+
+*   [libsamplerate (⭐750)](https://github.com/libsndfile/libsamplerate) - An audio sample rate conversion library. \[BSD-2-Clause]
+
+### CLI
+
+*   [ansicolor-w32.c (⭐70)](https://github.com/mattn/ansicolor-w32.c) - ANSI escape sequence support for Windows console applications.
+
+### Compression
+
+*   [libzip (⭐1.1k)](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
+
+### Concurrency
+
+*   [libcuckoo (⭐1.8k)](https://github.com/efficient/libcuckoo) - A high-performance, concurrent hash table.
+
+### Debug
+
+*   [easy\_profiler (⭐2.4k)](https://github.com/yse/easy_profiler) - Lightweight profiler library for C++. \[MIT]
+*   [Orbit (⭐4.3k)](https://github.com/google/orbit) - C/C++ performance profiler. \[BSD-2-Clause]
+
+### Logging
+
+*   [NanoLog (⭐3.4k)](https://github.com/PlatformLab/NanoLog) - An extremely performant nanosecond-scale logging system for C++.
+
+### Machine Learning
+
+*   [clDNN (⭐574)](https://github.com/intel/clDNN) - Compute library for deep neural networks.
+
+### Math
+
+*   [ampl/mp (⭐255)](https://github.com/ampl/mp) - An open-source library for mathematical programming.
+*   [cvmlib (⭐8)](https://github.com/drnikolaev/cvmlib) - This C++ class library encapsulates concepts of vector and different matrices including square, band, symmetric and hermitian ones in Euclidean space of real and complex numbers. \[Boost]
+*   [libbf](https://bellard.org/libbf/) - A C library for arbitrary-precision binary floating-point arithmetic.
+
+### PDF
+
+*   [wkhtmltopdf (⭐15k)](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Qt WebKit. \[LGPL-3.0]
+
+### Physics
+
+*   [IAU SOFA (⭐3)](https://github.com/jacobwilliams/IAU_SOFA) - Standards of Fundamental Astronomy (SOFA) algorithms and procedures implementing standard models used in fundamental astronomy. \[[SOFA](https://www.iausofa.org/tandc.html)]
+
+### Robotics
+
+*   [Sophus (⭐2.5k)](https://github.com/strasdat/Sophus) - C++ implementation of Lie groups using Eigen.
+
+### Serial Port
+
+*   [hidapi (⭐2.5k)](https://github.com/signal11/hidapi) - A simple library for communicating with USB and Bluetooth HID devices.
+
+### Virtual Machines
+
+*   [vmir (⭐701)](https://github.com/andoma/vmir) - Virtual machine for a low-level intermediate representation. \[MIT]
+
+### Miscellaneous
+
+*   [cpp-peglib (⭐1.1k)](https://github.com/yhirose/cpp-peglib) - A single-header PEG (Parsing Expression Grammars) library. \[MIT]
+*   [metal (⭐333)](https://github.com/brunocodutra/metal) - Header-only C++14 template metaprogramming library. \[MIT]
+*   [pystring (⭐1.1k)](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of Python string methods. \[BSD-3-Clause]
+*   [The Algorithms - C (⭐23k)](https://github.com/TheAlgorithms/C) - Algorithms and data structures implemented in C for education. \[MIT]
+*   [The Algorithms - C-Plus-Plus (⭐35k)](https://github.com/TheAlgorithms/C-Plus-Plus) - Algorithms and data structures implemented in C++ for education. \[MIT]
+
 ### Online Compiler
 
 *   [Devtoolry](https://devtoolry.com/compilers/cpp) - An online C/C++ compiler that runs Clang in the browser via WebAssembly.
@@ -2912,7 +2975,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Memory Allocation
 
-*   [mimalloc (⭐13k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐14k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 
@@ -3069,7 +3132,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [raylib (⭐35k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](https://www.raylib.com/)
+*   [raylib (⭐36k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](https://www.raylib.com/)
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
 
@@ -3079,7 +3142,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Networking
 
-*   [MQTT-C (⭐896)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐901)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 *   [WAFer (⭐698)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection

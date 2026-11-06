@@ -51,6 +51,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [RealMarketFeed](https://rss.realmarketapi.com/): a curated directory of trading news feeds (crypto, forex, stocks, macro), with an [OPML file](https://rss.realmarketapi.com/opml.xml) of every feed and a combined [feed](https://rss.realmarketapi.com/feed.xml) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Phideround/RealMarketFeed)
 
+### Multi-subject / Crypto or Blockchain relevant
+
+*   [MyFeed](https://myfeed.space/explore) : 103 public topic feeds (AI, Rust, security, privacy and more), each built from hundreds of RSS sources and news outlets and AI-picked into one feed; every topic publishes its own RSS, e.g. [AI](https://myfeed.space/ai/rss.xml), [Rust](https://myfeed.space/rust/rss.xml) and [Privacy](https://myfeed.space/explore/privacy/rss.xml) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
 ### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
 
 *   [Podcast OPML collections](https://b19.se/data/opml/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
