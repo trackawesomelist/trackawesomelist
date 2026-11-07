@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### MCP Servers
+
+*   [Sequenzy (⭐3)](https://github.com/Sequenzy/mcp) - Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: `gemini extensions install https://github.com/Sequenzy/mcp`, then `/mcp auth sequenzy`. Local stdio alternative: `npx -y @sequenzy/mcp` with `SEQUENZY_API_KEY`.
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Commands & Extensions
@@ -194,7 +200,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [LitGravity (⭐166)](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
+*   [LitGravity (⭐168)](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
 
 ### MCP Servers
 

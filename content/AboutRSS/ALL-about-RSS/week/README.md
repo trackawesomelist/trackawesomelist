@@ -39,6 +39,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) : self-hosted news monitor that uses an LLM to only notify on genuinely new information [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/0xzerolight/topic_watch)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
+### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [rss-pod (⭐42)](https://github.com/synrise25/rss-pod): Self-hosted tool that turns RSS articles into multi-speaker conversational podcasts using LLMs and TTS, with scheduled generation and podcast RSS output. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/synrise25/rss-pod)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
 ### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [FeedCraft (⭐313)](https://github.com/Colin-XKL/FeedCraft): an RSS middleware in Go that translates, extracts full text, renders JS-heavy pages, and summarizes or filters items with an LLM [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Colin-XKL/FeedCraft)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)

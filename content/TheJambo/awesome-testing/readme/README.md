@@ -70,6 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 *   [Nuclei Scanner (⭐33k)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
 *   [Darkmoon (⭐1.1k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+*   [appfuzz (⭐2)](https://github.com/StephanSchmidt/appfuzz) - Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.
 
 ### AI & LLM Testing
 
@@ -87,9 +88,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [flight-recorder (⭐1)](https://github.com/xag/flight-recorder) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
 *   [OrcaPromptVault (⭐80)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 *   [fanout-check (⭐1)](https://github.com/sunxiuguo/fanout-check) - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
-*   [Bite (⭐1)](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
 *   [llmdrill (⭐0)](https://github.com/hamarshehmhmd/llmdrill) - Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.
 *   [evalship](https://evalship.com/) - GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.
+*   [ScopeHaven (⭐0)](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
 
 ### Service Virtualization
 
@@ -140,7 +141,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 
-*   [Browser Use (⭐119k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐120k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 

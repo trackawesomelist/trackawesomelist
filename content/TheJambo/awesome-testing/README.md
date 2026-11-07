@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### Software / Security Testing
+
+*   [appfuzz (⭐2)](https://github.com/StephanSchmidt/appfuzz) - Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.
+
+### Software / AI & LLM Testing
+
+*   [ScopeHaven (⭐0)](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Software / Test Automation Frameworks
@@ -48,10 +58,6 @@ A curated list of testing resources
 *   [bareenv (⭐0)](https://github.com/Blasword/bareenv) - Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
-
-### Software / AI & LLM Testing
-
-*   [Bite (⭐1)](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
 
 ### Software / Service Virtualization
 
@@ -107,7 +113,7 @@ A curated list of testing resources
 
 *   [ai-wright (⭐1)](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
-*   [Browser Use (⭐119k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐120k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 *   [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
 *   [Clousd](https://clousd.com) - Cloud Android phones (150+ device models, Android 12-17) for app testing in a browser tab, over ADB, or through a REST API and MCP server for AI-driven tests.
 *   [ContextQA MCP](https://mcp.contextqa.com/docs) - Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in.

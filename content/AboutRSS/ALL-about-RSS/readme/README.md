@@ -1555,6 +1555,7 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
 
 *   [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online][Online icon]![AI][AI icon]
 *   [POD GENIE](https://pod-genie.com/) <sup>[1318](https://t.me/s/aboutrss/1318)</sup>
+*   [rss-pod (⭐42)](https://github.com/synrise25/rss-pod): Self-hosted tool that turns RSS articles into multi-speaker conversational podcasts using LLMs and TTS, with scheduled generation and podcast RSS output. [![Open-Source Software][oss icon]](https://github.com/synrise25/rss-pod)![AI][AI icon]
 
 ### RSS2Nostr
 

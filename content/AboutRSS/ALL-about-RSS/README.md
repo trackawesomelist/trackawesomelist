@@ -6,6 +6,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [rss-pod (⭐42)](https://github.com/synrise25/rss-pod): Self-hosted tool that turns RSS articles into multi-speaker conversational podcasts using LLMs and TTS, with scheduled generation and podcast RSS output. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/synrise25/rss-pod)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Multi-subject / Crypto or Blockchain relevant

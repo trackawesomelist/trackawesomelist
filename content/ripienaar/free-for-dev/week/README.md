@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 140K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 142K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
@@ -15,6 +15,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Security and PKI
 
 *   [CyberShield Studio](https://cybershieldstudio.com/) - Security monitoring for e-commerce store operators and developers. Weekly scans for JavaScript changes or injection, tracking before consent, security header settings, and vulnerable client-side libraries and WordPress plugins. Free plan monitors 1 store (home page + checkout path) with 30 days of history. No credit card required.
+*   [Topscan.me](https://topscan.me/free-plan) - SaaS vulnerability scanning platform. Free: a full infrastructure scan of one host every week, Discovery and Attack Surface for everything around it, one repository, one user, findings with a fix and a Security Score.
 
 ### Monitoring
 
@@ -1497,7 +1498,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐5.2k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐5.3k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -1963,7 +1964,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐251)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐252)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
 
 ### Other Free Resources
 

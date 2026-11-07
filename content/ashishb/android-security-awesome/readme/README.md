@@ -106,7 +106,8 @@ If you find this project useful, please consider [supporting it](https://github.
 2.  [AndroBugs (⭐1.2k)](https://github.com/AndroBugs/AndroBugs_Framework)
 3.  [Nogotofail (⭐2.9k)](https://github.com/google/nogotofail)
 4.  [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in Android Play Store, iOS App Store, and Huawei AppGallery
-5.  ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
+5.  [FlutterGuard (⭐34)](https://github.com/anasfik/FlutterGuard) - Offline on-device scanner for released Flutter APKs: manifest policy, libraries, endpoints, exposed strings and dependency clues, with local reports.
+6.  ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
 ### Dynamic Analysis Tools
 
@@ -234,7 +235,7 @@ If you find this project useful, please consider [supporting it](https://github.
 1.  [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 2.  [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 3.  [adb autocomplete (⭐262)](https://github.com/mbrubeck/android-completion)
-4.  [mitmproxy (⭐46k)](https://github.com/mitmproxy/mitmproxy)
+4.  [mitmproxy (⭐47k)](https://github.com/mitmproxy/mitmproxy)
 5.  [dockerfile/androguard (⭐45)](https://github.com/dweinstein/dockerfile-androguard)
 6.  [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 7.  [AppMon (⭐1.6k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
@@ -248,10 +249,11 @@ If you find this project useful, please consider [supporting it](https://github.
 15. [Spectre (⭐197)](https://github.com/thomasbuilds/Spectre) - Radio frequency scanner with recon and offensive capabilities. Monitors cellular, Wi-Fi, Bluetooth LE, and GNSS on-device, with a BLE GATT inspector, iBeacon broadcaster, and local-network discovery.
 16. [SecureCheck (⭐5)](https://github.com/muhammedalikcb/securecheck) - Open-source app that runs root, Frida, Xposed, tampering, Play Integrity, SSL pinning and other runtime checks, handy for testing bypass techniques against a known target
 17. [WPAForge (⭐143)](https://github.com/wlmosv-png/wpaforge) - Wi-Fi audit tool for rooted Android that builds candidates from the target SSID and hints and verifies each one against a real association; includes WPS PIN and split-halving attacks, LAN recon and offline `.cap`/`.hc22000` checks.
-18. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
-19. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
-20. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
-21. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+18. [MobShield (⭐13)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
+19. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
+20. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
+21. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+22. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
 ### Vulnerable Applications for practice
 

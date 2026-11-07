@@ -6,6 +6,16 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### Tools / App Vulnerability Scanners
+
+*   [FlutterGuard (⭐34)](https://github.com/anasfik/FlutterGuard) - Offline on-device scanner for released Flutter APKs: manifest policy, libraries, endpoints, exposed strings and dependency clues, with local reports.
+
+### Tools / Misc Tools
+
+*   [MobShield (⭐13)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
+
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
 ### Tools / Dynamic Analysis Tools
@@ -348,7 +358,7 @@ A collection of android security related resources
 
 ### Tools / Misc Tools
 
-*   [mitmproxy (⭐46k)](https://github.com/mitmproxy/mitmproxy)
+*   [mitmproxy (⭐47k)](https://github.com/mitmproxy/mitmproxy)
 *   [dockerfile/androguard (⭐45)](https://github.com/dweinstein/dockerfile-androguard)
 *   [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 *   [AppMon (⭐1.6k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
