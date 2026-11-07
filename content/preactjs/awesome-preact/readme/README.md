@@ -128,6 +128,12 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Filter Builder (⭐0)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
 *   [I18n Micro (⭐254)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 *   [@zikojs/preact-console (⭐22)](https://github.com/zikojs/console/tree/main/packages/integrations/preact) - A console-like UI component for Preact that renders JavaScript console output directly inside your application.
+*   [RevoGrid Kanban (⭐10)](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Gantt (⭐10)](https://github.com/revolist/gantt) - Project tasks, dependencies, and Gantt timelines for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Pivot (⭐10)](https://github.com/revolist/pivot) - Pivot tables and analytical reporting for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Charts (⭐1)](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
+*   [RevoGrid Scheduler (⭐10)](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [Revo UI (⭐9)](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
 
 ### Libraries
 

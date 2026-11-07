@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### Uncategorized
+
+*   [OpenAmika (⭐487)](https://github.com/zeekk0/OpenAmika) - MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain. \[English/中文/日本語]
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Web

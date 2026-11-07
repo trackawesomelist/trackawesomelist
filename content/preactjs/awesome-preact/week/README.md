@@ -8,6 +8,15 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### Contents / Components
+
+*   [RevoGrid Kanban (⭐10)](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Gantt (⭐10)](https://github.com/revolist/gantt) - Project tasks, dependencies, and Gantt timelines for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Pivot (⭐10)](https://github.com/revolist/pivot) - Pivot tables and analytical reporting for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Charts (⭐1)](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
+*   [RevoGrid Scheduler (⭐10)](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [Revo UI (⭐9)](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+
 ### Contents / Example Apps
 
 *   [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.

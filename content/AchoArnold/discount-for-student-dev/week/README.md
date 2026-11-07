@@ -11,6 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### SaaS
 
 *   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
+*   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior) \[FREE] - Every remote junior and internship developer job from dozens of job boards in one place, with junior email alerts. Sign up with your school email and Pro is free for 2 months: jobs 24 hours early, daily picks with the reasons they match, and AI search. Also for [backend](https://www.remotebackendjobs.com/junior) and [Java](https://www.remotejavajobs.com/junior).
 
 ### Infrastructure Monitoring
 

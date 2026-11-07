@@ -8,9 +8,23 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Nov 07, 2026](/content/2026/11/07/README.md)
 
+### Agent Orchestration & CLI Tools
+
+*   [Orchestrator](https://orchestrator.inc?utm_source=awesome-gemini-cli\&utm_medium=referral) - Open-source desktop app (macOS, Windows, Linux) that runs Gemini CLI alongside Claude Code, Codex and other coding agents as parallel workers, each in its own git worktree, with an orchestrator agent splitting the work and a board tracking every PR through CI and review.
+
+### Development Tools & Utilities
+
+*   [AI Meter (⭐4)](https://github.com/dichiara19/ai-meter) - Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.
+*   [AI Usage Meter (VS Code) (⭐2)](https://github.com/theluckystrike/ai-usage-meter-vscode) - VS Code extension that reads Gemini CLI session files in `~/.gemini/tmp` and shows today's tokens and estimated cost in the status bar, with a dashboard split by project and model. Also covers Claude Code and Codex. Runs offline, no login or API key.
+
 ### MCP Servers
 
 *   [Sequenzy (⭐3)](https://github.com/Sequenzy/mcp) - Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: `gemini extensions install https://github.com/Sequenzy/mcp`, then `/mcp auth sequenzy`. Local stdio alternative: `npx -y @sequenzy/mcp` with `SEQUENZY_API_KEY`.
+*   [Imagera (⭐2)](https://github.com/alexadams6ix/imagera-skills) - Remote MCP server and Gemini CLI extension for image, video, voice and music generation and editing (OAuth sign-in, no API key), with 37 skills and the credit cost stated before each run. Install: `gemini extensions install https://github.com/alexadams6ix/imagera-skills`
+*   [Vicem (⭐7)](https://github.com/RAKKUNN/vicem) - Zero-dependency MCP server and CLI that harvests live coding sessions (Gemini CLI chats and `GEMINI.md`, plus Claude Code, Codex, Cursor and 15+ agents), scores context salience (`0–100%`), skeletonizes code by 80–90% into a local SHA-256 ledger (`.vicem/ledger.json`) for lossless on-demand `vicem_rehydrate`, and writes a portable `.vicem/BATON.md` handoff. Runs locally with zero network calls. MIT. Add with `gemini mcp add vicem npx -y vicem-cli mcp`.
+*   [LinkJolt (⭐2)](https://github.com/Efesop/linkjolt-mcp-server) - Set up and run an affiliate program for your SaaS from Gemini CLI: plan a commission from published benchmarks, create campaigns, add and check tracking for Stripe, Paddle, Polar or Creem, invite affiliates, approve affiliates and sales, and see who you owe. 28 tools; it can't move money. Hosted Streamable HTTP with OAuth sign-in; needs a LinkJolt account (7-day free trial). MIT. Install: `gemini extensions install https://github.com/Efesop/linkjolt-mcp-server`, then `/mcp auth linkjolt`.
+*   [GSC PAP (⭐2)](https://github.com/aliarifsoydas/gsc-pap-claude-plugin) - Hosted, read-only MCP server and Gemini CLI extension for your own Google Search Console, Google Analytics 4, PageSpeed Insights and Chrome UX Report data, plus live Google results. Sign in with Google on first use; it keeps a Search Console archive past Google's 16-month limit. Free. Install: `gemini extensions install https://github.com/aliarifsoydas/gsc-pap-claude-plugin`
+*   [gemini-pro-mcp (⭐4)](https://github.com/Muzaqil555/gemini-pro-mcp) - MCP server that brings a Google AI Pro subscription to Gemini CLI, Claude Code, Codex and the Antigravity CLI: Gemini through the Antigravity CLI on the plan's limits (no API bill), Deep Research, Google Flow videos of any length, Gemini Notebooks (Audio Overviews), AI Mode and Jules, plus Nano Banana images and Omni Flash video through the Gemini API. `gemini-pro-mcp setup` registers it with Gemini CLI and the other clients in one command, and `doctor` checks what works. MIT. Install: `uvx --from git+https://github.com/Muzaqil555/gemini-pro-mcp gemini-pro-mcp setup`.
 
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 

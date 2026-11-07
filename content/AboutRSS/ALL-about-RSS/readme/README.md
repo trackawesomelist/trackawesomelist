@@ -151,6 +151,7 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
         *   [Docsify](#docsify)
         *   [Steam](#steam)
         *   [TMDB](#tmdb)
+        *   [Bluesky](#bluesky)
     *   [RSS Editor](#rsseditor)
 *   [Information spreading/forwarding via RSS feeds](#-information-spreadingforwarding-via-rss-feeds)
     *   [RSS2Bluesky](#rss2bluesky)
@@ -1006,6 +1007,7 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
 *   [Wire](https://search.wirereader.app/)
 *   [Awakari](https://awakari.com/login.html)
 *   [OpenOrb](https://openorb.idiot.sh/) <sup>[1451](https://t.me/s/aboutrss/1451)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~lown/openorb)![Freeware][freeware icon]
+*   [Offline Web Search](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/) : searches a bundled offline catalogue of 56,000+ RSS and Atom feed URLs, with swappable SQLite indexes and no network queries [![Android][Android icon]](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/)[![Open-Source Software][oss icon]](https://github.com/rumca-js/OfflineWebSearch)![Freeware][freeware icon]
 
 ## 🔱 Workflow Automation
 
@@ -1143,6 +1145,7 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
 *   [TwiSSR](http://www.twissr.com/) <sup>[875](https://t.me/s/aboutrss/875)</sup> ![Freeware][freeware icon]
 *   [Typefully Profiles](https://typefully.com/profile): Generate RSS Feed for your Twitter Threads <sup>[1177](https://t.me/s/aboutrss/1177)</sup> ![Freeware][freeware icon]
 *   [TweetFeed](http://tweetfeed.org/) <sup>[1242](https://t.me/s/aboutrss/1242)</sup> ![Freeware][freeware icon]
+*   [FxEmbed](https://docs.fxembed.com/guide/advanced/rss-atom-feeds/) : generates RSS 2.0 and Atom feeds for X/Twitter profiles, with media-only variants and a configurable item count [![Open-Source Software][oss icon]](https://github.com/FxEmbed/FxEmbed)![Online][Online icon]
 
 #### Instagram
 
@@ -1323,6 +1326,10 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
 #### TMDB
 
 *   [Magnanium](https://magnanium.vercel.app/) : generates an RSS feed for the upcoming releases of any actor or director, filterable by role, release type and lead time ![Online][Online icon]![Freeware][freeware icon]
+
+#### Bluesky
+
+*   [FxEmbed](https://docs.fxembed.com/guide/advanced/rss-atom-feeds/) : generates RSS 2.0 and Atom feeds for Bluesky profiles, with media-only variants and a configurable item count [![Open-Source Software][oss icon]](https://github.com/FxEmbed/FxEmbed)![Online][Online icon]
 
 ### RSS Editor
 
@@ -1635,6 +1642,7 @@ Inspired by [Awesome lists (⭐529k)](https://github.com/sindresorhus/awesome) a
 *   [RSSUnify](https://feederss.com/index.html) <sup>[1189](https://t.me/s/aboutrss/1189)</sup> ![Freeware][freeware icon]
 *   [mior](http://mior.ericfu.me/) <sup>[1215](https://t.me/s/aboutrss/1215)</sup> [![Open-Source Software][oss icon]](https://github.com/fuyufjh/mior)![Freeware][freeware icon]
 *   [Feed Filter Maker](https://feed.janicek.co/) <sup>[1279](https://t.me/s/aboutrss/1279)</sup>
+*   [rssrssrssrss](https://www.rssrssrssrss.com/) <sup>[1521](https://t.me/s/aboutrss/1521)</sup> : merge multiple RSS feeds into one without an account, with the feed list encoded into the permalink ![Online][Online icon]![Freeware][freeware icon]
 
 ### Obtain translated RSS feed
 

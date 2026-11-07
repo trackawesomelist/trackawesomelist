@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 07, 2026](/content/2026/11/07/README.md)
+
+### SaaS
+
+*   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior) \[FREE] - Every remote junior and internship developer job from dozens of job boards in one place, with junior email alerts. Sign up with your school email and Pro is free for 2 months: jobs 24 hours early, daily picks with the reasons they match, and AI search. Also for [backend](https://www.remotebackendjobs.com/junior) and [Java](https://www.remotejavajobs.com/junior).
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### SaaS

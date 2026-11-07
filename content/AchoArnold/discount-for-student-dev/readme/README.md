@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐140k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐142k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -181,6 +181,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Requestly](https://requestly.com/student-program) \[FREE] – Requestly is an open-source tool that simplifies API development, testing, mocking, and integration for developers and QAs. Through the Requestly Student Program, students get full access to all its powerful tools completely free.
 
 *   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
+
+*   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior) \[FREE] - Every remote junior and internship developer job from dozens of job boards in one place, with junior email alerts. Sign up with your school email and Pro is free for 2 months: jobs 24 hours early, daily picks with the reasons they match, and AI search. Also for [backend](https://www.remotebackendjobs.com/junior) and [Java](https://www.remotejavajobs.com/junior).
 
 ## PaaS
 

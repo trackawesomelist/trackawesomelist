@@ -12,6 +12,10 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 *   [livliv player (⭐532)](https://github.com/livliv-dev/player) - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. \[English/中文/日本語]
 
+### Uncategorized
+
+*   [OpenAmika (⭐487)](https://github.com/zeekk0/OpenAmika) - MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain. \[English/中文/日本語]
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Uncategorized

@@ -39,6 +39,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [EthioDeploy](https://ethiodeploy.com/) - Hosting and agentic coding platform containing Built-in Analytics, Database, GitHub CI/CD, free sub-domain, CLI, AI coding agent. Free tier allows one project 256 MB RAM / 0.5 CPU, sleeps after 30 min idle, 512 MB database and 100,000 tokens on the default model one time.
+*   [Uppcoder](https://portal.uppcoder.com/) - Full stack development environment hosted on own infrastructure with selectable framework, db engine behind https with ssh access, vscode + terminal in the editor. Free tier: always on, 2GB disk and 2GB ram. No card required.
 
 ### Issue Tracking and Project Management
 
@@ -52,6 +53,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Payment and Billing Integration
 
+*   [BillDog.io](https://billdog.io/)  - In-app subscription paywalls, A/B testing, product analytics, and messaging with SDKs for iOS, Android, React Native, Flutter, Unity, and web. Free up to $3k/mo in tracked revenue and 1M monthly analytics events.
 *   [Canjean](https://canjean.com/exchange-rate-api) - Free exchange rate API for 150+ currencies in JSON, CSV and plain text, no API key or sign-up.
 *   [UsageRail](https://usagerail.com/) - API keys, rate limits, quotas and usage-based billing for paid APIs, checked inside your own server with no gateway. Free up to $1,000/month billed and 1M requests/month.
 

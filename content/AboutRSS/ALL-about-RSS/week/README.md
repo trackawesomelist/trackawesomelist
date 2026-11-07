@@ -27,6 +27,14 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [The RSS Universe](https://toolbox.rss.here.now/) : a living directory of 133 RSS apps, tools and standards, links checked live
 
+### 🔍 Feed Search Engines / 酷Q Plugin
+
+*   [Offline Web Search](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/) : searches a bundled offline catalogue of 56,000+ RSS and Atom feed URLs, with swappable SQLite indexes and no network queries [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rumca-js/OfflineWebSearch)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### specifically from (*a certain platform*) / Bluesky
+
+*   [FxEmbed](https://docs.fxembed.com/guide/advanced/rss-atom-feeds/) : generates RSS 2.0 and Atom feeds for Bluesky profiles, with media-only variants and a configurable item count [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FxEmbed/FxEmbed)![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
 ### specifically from (*a certain platform*) / Steam
 
 *   [Owned Steam Game RSS Feeds](https://steam-rss.zackboe.hm) : generates an .opml of news feeds for the games you own, optionally including wishlisted, free and unplayed titles ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -50,6 +58,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Rinse](http://feedrinse.com/index-old.php): filter items out by keyword, author or category; the link goes to the pre-2.0 site, which is still the only working one ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### Combine multiple feeds into one / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [rssrssrssrss](https://www.rssrssrssrss.com/) <sup>[1521](https://t.me/s/aboutrss/1521)</sup> : merge multiple RSS feeds into one without an account, with the feed list encoded into the permalink ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Tech or IT / Crypto or Blockchain relevant
 
@@ -111,11 +123,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Webpage to RSS @ Sponder](https://sponder.app/webpage-to-rss) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Feedletter (⭐4)](https://github.com/smtpfast/feedletter) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/smtpfast/feedletter)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
-### RSS2SPEECH / TMDB
+### RSS2SPEECH / Bluesky
 
 *   [PressPlayed](https://pressplayed.com/): reads the text each source makes available aloud as one continuous briefing, auto-advancing through the queue; playback continues while the screen is locked on supported phones ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
@@ -225,7 +237,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [eilmeldung (⭐1k)](https://github.com/christo-auer/eilmeldung) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/christo-auer/eilmeldung) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [RSStoKindle](https://www.rsstokindle.com/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://www.rsstokindle.com/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -454,11 +466,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [EchoFeed](https://echofeed.app/) <sup>[1447](https://t.me/s/aboutrss/1447)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rknightuk/echo)
 
-### RSS2reMarkable / TMDB
+### RSS2reMarkable / Bluesky
 
 *   [SyncReads](https://www.syncreads.com/) <sup>[1473](https://t.me/s/aboutrss/1473)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chromewebstore.google.com/detail/syncreads-one-place-for-y/cblhanehfpljakpeihpepdehkchpafig)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [lightfeed](https://www.lightfeed.app/) <sup>[1448](https://t.me/s/aboutrss/1448)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 *   [TidyRead](https://tidyread.ai/) <sup>[1470](https://t.me/s/aboutrss/1470)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chromewebstore.google.com/detail/tidyread/gpfnpbpkadjgeoneammbiiidbkgkncaa)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
@@ -529,7 +541,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [WeWe RSS (⭐9.6k)](https://github.com/cooderl/wewe-rss/) <sup>[1423](https://t.me/s/aboutrss/1423)</sup>
 
-### RSS2TWITTER / TMDB
+### RSS2TWITTER / Bluesky
 
 *   [RSStoTweet](https://rsstotweet.xyz/) <sup>[1421](https://t.me/s/aboutrss/1421)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
@@ -669,7 +681,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [~~快知~~](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195), [254](https://t.me/s/aboutrss/254)，[644](https://t.me/s/aboutrss/644)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](http://kzfeed.com/login)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/244476)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [~~FeedMailu~~](https://feedmailu.com/) <sup>[814](https://t.me/s/aboutrss/814)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [~~Revue~~](https://www.getrevue.co/) <sup>[989](https://t.me/s/aboutrss/989)</sup>
@@ -722,7 +734,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [LinkyRSS](https://linkyrssdemo.inmytree.co.za/) <sup>[1341](https://t.me/s/aboutrss/1341)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 *   [Omnivore](https://omnivore.app/) <sup>[1368](https://t.me/s/aboutrss/1368)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/omnivore-app/omnivore)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Digest](https://usedigest.com/) <sup>[1361](https://t.me/s/aboutrss/1361)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -859,11 +871,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [tg-archive (⭐1.2k)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [FeedSubscription](https://feedsubscription.com/) <sup>[1334](https://t.me/s/aboutrss/1334)</sup>
 
-### RSS2SPEECH / TMDB
+### RSS2SPEECH / Bluesky
 
 *   [Call Annie](https://callannie.ai/) <sup>[1330](https://t.me/s/aboutrss/1330)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/app/6447928709)
 
@@ -989,7 +1001,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [HamsterBase](https://hamsterbase.com/) <sup>[1270](https://t.me/s/aboutrss/1270)</sup>
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [Ktool](https://ktool.io/) <sup>[1291](https://t.me/s/aboutrss/1291)</sup>
 
@@ -1066,7 +1078,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [TweetFeed](http://tweetfeed.org/) <sup>[1242](https://t.me/s/aboutrss/1242)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [RSS Alerts](https://rssalert.operand.ai/) <sup>[1248](https://t.me/s/aboutrss/1248)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -1101,7 +1113,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [~~FeedFox~~](https://feedfox.netlify.app/) <sup>[609](https://t.me/s/aboutrss/609)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/manikandanraji/feedfox)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [~~RSS-To-Email~~](https://rss-to-email.portablecto.com/) <sup>[307](https://t.me/s/aboutrss/307)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/portable-cto/rss-to-email)
 
@@ -1343,11 +1355,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Liuli (⭐883)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [KOReader](http://koreader.rocks/) <sup>[1183](https://t.me/s/aboutrss/1183)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/koreader/koreader/tree/master/plugins/newsdownloader.koplugin)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [rssto.email](https://rssto.email/) <sup>[1159](https://t.me/s/aboutrss/1159)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aksh-at/rsstoemail)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -1399,7 +1411,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   <https://rss.fatpandac.com> by [@Fatpandac](https://t.me/Fatpandac) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.fatpandac.com)
 
-### RSS2TelegramChannel / TMDB
+### RSS2TelegramChannel / Bluesky
 
 *   [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 
@@ -1479,12 +1491,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [微信公众号转RSS](https://wechat2rss.xlab.app/) <sup>[1137](https://t.me/s/aboutrss/1137), [1443](https://t.me/s/aboutrss/1443)</sup>
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [Feedrabbit](https://feedrabbit.com/) <sup>[1123](https://t.me/s/aboutrss/1123)</sup>
 *   [FeedMail](https://feedmail.org/) <sup>[1132](https://t.me/s/aboutrss/1132)</sup>
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Taco Digest](https://tacodigest.com/) <sup>[1146](https://t.me/s/aboutrss/1146)</sup>
 
@@ -1552,7 +1564,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   ~~[LOUD Feed Format](https://readme.loud.so/): Proposal for a podcasting-first feed syndication protocol [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LOUD-Feed-Format)~~
 
-### RSS2SPEECH / TMDB
+### RSS2SPEECH / Bluesky
 
 *   Plenary <sup>[516](https://t.me/s/aboutrss/516)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.spians.plenary)
 *   [Pluma RSS Reader](https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/) <sup>[1021](https://t.me/s/aboutrss/1021)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -1691,7 +1703,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [Pétrolette](https://petrolette.space/) <sup>[1027](https://t.me/s/aboutrss/1027)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [ReadMark](https://readmark.io/) <sup>[1046](https://t.me/s/aboutrss/1046)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup>
     *   [Reabble for Android (⭐133)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
@@ -1740,12 +1752,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   ~~[WeChat-Feeds](https://wechat.privacyhide.com/)~~ <sup>[821](https://t.me/s/aboutrss/821)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2TelegramChannel / TMDB
+### RSS2TelegramChannel / Bluesky
 
 *   [Newspopper](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
 *   [Rui](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
-### RSS2NOTION / TMDB
+### RSS2NOTION / Bluesky
 
 *   [RSS feed in your Notion pages](https://notion-widget-rss.vercel.app/) <sup>[1025](https://t.me/s/aboutrss/1025)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/antoinechalifour/notion-embed-rss)
 
@@ -1946,11 +1958,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Bookfeed.io](https://bookfeed.io/) <sup>[967](https://t.me/s/aboutrss/967)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [~~RSSMailer~~briefcake](https://briefcake.com/?ref=rssmailer.app) <sup>[164](https://t.me/s/aboutrss/164), [255](https://t.me/s/aboutrss/255), [267](https://t.me/s/aboutrss/267)</sup>
 
-### RSS2SLACK / TMDB
+### RSS2SLACK / Bluesky
 
 *   How to add RSS feeds to Slack feed <sup>[458![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/458), [996](https://t.me/s/aboutrss/996)</sup>
 
@@ -2207,7 +2219,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   tutorial <sup>[868](https://t.me/s/aboutrss/868)</sup>
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [~~Digester~~](https://digester.app/) <sup>[571](https://t.me/s/aboutrss/571), [885](https://t.me/s/aboutrss/885)</sup>
 *   [FlipRSS](https://fliprss.com/) <sup>[872](https://t.me/s/aboutrss/872)</sup>
@@ -2303,7 +2315,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Micro.blog](https://micro.blog) <sup>[488](https://t.me/s/aboutrss/488), [835](https://t.me/s/aboutrss/835)</sup>
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [RSSbyEmail](https://rssby.email/) <sup>[829](https://t.me/s/aboutrss/829)</sup>
 
@@ -2444,11 +2456,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Google Alerts](https://www.google.com/alerts) <sup>[303](https://t.me/s/aboutrss/303), [784](https://t.me/s/aboutrss/784)</sup>
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [Calibre](https://calibre-ebook.com/) <sup>[781](https://t.me/s/aboutrss/781)</sup>
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Feedbutler](https://feedbutler.app/en/) <sup>[789](https://t.me/s/aboutrss/789)</sup>
 
@@ -2490,7 +2502,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [Banditore](https://bandito.re/) <sup>[629](https://t.me/s/aboutrss/629)</sup> : Gather new releases from your starred GitHub repositories and generate an Atom feed with them. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/j0k3r/banditore)
 *   [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) <sup>[699](https://t.me/s/aboutrss/699)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mshibanami/GitHubTrendingRSS)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Nourish](https://www.nouri.sh/)
 
@@ -2630,7 +2642,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [Pinboard](http://pinboard.in/) <sup>[737](https://t.me/s/aboutrss/737)</sup>
 *   [Delicious](http://del.icio.us) <sup>[737](https://t.me/s/aboutrss/737)</sup>
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Publicate](https://publicate.it/) <sup>[738](https://t.me/s/aboutrss/738)</sup>
 
@@ -2728,7 +2740,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [FeedEx.Net](https://feedex.net/)
 *   [FeedX](https://feedx.net) <sup>[66](https://t.me/s/aboutrss/66), [372](https://t.me/s/aboutrss/372)</sup>
 
-### RSS2TelegramChannel / TMDB
+### RSS2TelegramChannel / Bluesky
 
 *   [rss\_bot](https://t.me/rss_bot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 *   [PosterBot](https://t.me/pstrbot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
@@ -2754,7 +2766,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Metogram](https://metogram.com/) <sup>[696](https://t.me/s/aboutrss/696)</sup>
 
-### RSS2SLACK / TMDB
+### RSS2SLACK / Bluesky
 
 *   [dlvr.it](https://dlvrit.com) <sup>[702](https://t.me/s/aboutrss/702)</sup>
 
@@ -2808,7 +2820,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   ~~[Bibliogram](https://bibliogram.art/)~~ <sup>[677](https://t.me/s/aboutrss/677)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cloudrac3r/bibliogram)
     *   ~~[bibliogram.nopyta.org](https://bibliogram.snopyta.org/)~~ <sup>[680](https://t.me/s/aboutrss/680)</sup>
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [Feed2Mail](https://www.feed2mail.com/) <sup>[687](https://t.me/s/aboutrss/687)</sup>
 
@@ -2853,12 +2865,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [外接大脑](https://www.waijiedanao.com/) <sup>[665](https://t.me/s/aboutrss/665)</sup>
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [Kindle Ear (⭐2.9k)](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cdhigh/KindleEar)
 *   [Kindle4RSS](http://kindle4rss.com/) ([中国镜像](https://inkread.com/))
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [mailchimp](https://mailchimp.com/) <sup>[449](https://t.me/s/aboutrss/449), [674](https://t.me/s/aboutrss/674)</sup>
 
@@ -2890,7 +2902,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [GetRSSfeed](http://getrssfeed.com/) <sup>[656](https://t.me/s/aboutrss/656)</sup>
 
-### RSS Editor / TMDB
+### RSS Editor / Bluesky
 
 *   [RSSme](http://www.amlpages.com/rssme.shtml) <sup>[649](https://t.me/s/aboutrss/649)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -3022,12 +3034,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [RSSHub Radar](https://diygod.me/rsshub-radar/) <sup>[47](https://t.me/s/aboutrss/47), [116](https://t.me/s/aboutrss/116)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/RSSHub-Radar)
 *   [Feed Hawk](https://www.goldenhillsoftware.com/feed-hawk/) <sup>[593](https://t.me/s/aboutrss/593)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/feed-hawk/id1093873777?ls=1\&mt=8\&at=11l4K5)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Blogtrottr](https://blogtrottr.com/) <sup>[449](https://t.me/s/aboutrss/449)</sup>
 *   [Cortado](https://cortadomail.com/) <sup>[578](https://t.me/s/aboutrss/578)</sup>
 
-### RSS2TWITTER / TMDB
+### RSS2TWITTER / Bluesky
 
 *   [socialdog](https://social-dog.net/en/)
 
@@ -3089,7 +3101,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [TelegramRSS](https://tg.i-c-a.su/) <sup>[569](https://t.me/s/aboutrss/569)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xtrime-ru/TelegramRSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [a Python script](https://www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/) <sup>[565](https://t.me/s/aboutrss/565)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
@@ -3152,11 +3164,11 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [Zapier](https://zapier.com) <sup>[436](https://t.me/s/aboutrss/436)</sup>
 *   [RSS for Hackers @ Pipedream](https://rss.pipedream.com/) <sup>[534](https://t.me/s/aboutrss/534)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PipedreamHQ/pipedream)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2KINDLE / TMDB
+### RSS2KINDLE / Bluesky
 
 *   [Platypush](https://platypush.readthedocs.io/en/latest/) <sup>[315](https://t.me/s/aboutrss/315)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/BlackLight/platypush)
 
-### RSS2MAIL / TMDB
+### RSS2MAIL / Bluesky
 
 *   [Power Automate](https://flow.microsoft.com/) <sup>[521](https://t.me/s/aboutrss/521)</sup>
 *   [Feedsub](https://www.feedsub.com/) <sup>[278](https://t.me/s/aboutrss/278)</sup>
@@ -3206,24 +3218,24 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2NEWSLETTER / TMDB
+### RSS2NEWSLETTER / Bluesky
 
 *   [Mailbrew](https://mailbrew.com/) <sup>[424](https://t.me/s/aboutrss/424), [506](https://t.me/s/aboutrss/506)</sup>
 
-### RSS2TWITTER / TMDB
+### RSS2TWITTER / Bluesky
 
 *   [py-feedr (⭐25)](https://github.com/M157q/py-feedr) <sup>[551](https://t.me/s/aboutrss/551)</sup>: A Python parser to tweet the latest updates from multiple RSS feeds. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/M157q/py-feedr)
 
-### RSS2ACTIVITYPUB / TMDB
+### RSS2ACTIVITYPUB / Bluesky
 
 *   [RSS to ActivityPub Converter (⭐582)](https://github.com/dariusk/rss-to-activitypub) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dariusk/rss-to-activitypub)
 
-### RSS2SPEECH / TMDB
+### RSS2SPEECH / Bluesky
 
 *   [Feedly action for Google Assistant](https://blog.feedly.com/hey-google-talk-to-feedly/) <sup>[292](https://t.me/s/aboutrss/292)</sup>
 *   [Narro](https://www.narro.co/rss-feeds) <sup>[412](https://t.me/s/aboutrss/412)</sup>
 
-### RSS2NOTION / TMDB
+### RSS2NOTION / Bluesky
 
 *   Feature Request <sup>[461](https://t.me/s/aboutrss/461)</sup>
 

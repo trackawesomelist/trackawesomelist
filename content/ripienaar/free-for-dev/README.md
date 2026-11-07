@@ -12,6 +12,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Topscan.me](https://topscan.me/free-plan) - SaaS vulnerability scanning platform. Free: a full infrastructure scan of one host every week, Discovery and Attack Surface for everything around it, one repository, one user, findings with a fix and a Security Score.
 
+### PaaS
+
+*   [Uppcoder](https://portal.uppcoder.com/) - Full stack development environment hosted on own infrastructure with selectable framework, db engine behind https with ssh access, vscode + terminal in the editor. Free tier: always on, 2GB disk and 2GB ram. No card required.
+
+### Payment and Billing Integration
+
+*   [BillDog.io](https://billdog.io/)  - In-app subscription paywalls, A/B testing, product analytics, and messaging with SDKs for iOS, Android, React Native, Flutter, Unity, and web. Free up to $3k/mo in tracked revenue and 1M monthly analytics events.
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Payment and Billing Integration
