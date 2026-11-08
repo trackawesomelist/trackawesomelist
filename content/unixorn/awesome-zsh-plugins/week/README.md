@@ -11,12 +11,15 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [claude-guard (⭐0)](https://github.com/jokerlin/claude-guard) - checks your egress IP before [Claude Code](https://docs.anthropic.com/en/docs/claude-code) starts. If the IP that claude.ai sees is not on your allowlist, claude stops and asks before it connects.
+*   [Cue (⭐15)](https://github.com/8starlabs/cue) - Adds IDE-style command, option, and path suggestions to ZSH in a native macOS popup.
+*   [listview (⭐0)](https://github.com/hanssn/zsh-listview) - Lightweight, zero-dependency ZSH plugin inspired by PowerShell's PSReadLine ListView. Displays real-time, non-intrusive unique history suggestions below your prompt as you type, navigatable using arrow keys.
 *   [sprout (⭐1)](https://github.com/beenjii14/sprout) - Turn a Jira ticket into a clean `git` branch.
     One command. A short, descriptive name. Zero copy-pasting.
 *   [walh-shell (⭐2)](https://github.com/casonadams/walh-shell) - A fast, modern, and extensible Zsh (and Bash) plugin for instant terminal color theme switching that lets you instantly change your terminal’s color scheme with a single command.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [slowrc (⭐2)](https://github.com/ArkaKhorchidian/slowrc) - Profiles your ZSH startup line by line, shows which lines of your `.zshrc` cost the most, and safely fixes the slow ones.
 *   [speedrunner (⭐4)](https://github.com/anthonyGosme/speedrunner) - Speeds up the start of Python, Ruby, PHP and Node CLIs by forking them from a preloaded daemon. Its ZSH hook starts the daemon while you type the command name.
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
@@ -47,8 +50,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shtab (⭐474)](https://github.com/tqdm/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
-*   [suvadu (⭐111)](https://github.com/AppachiTech/suvadu) - Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.
+*   [shtab (⭐481)](https://github.com/tqdm/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
+*   [suvadu (⭐127)](https://github.com/AppachiTech/suvadu) - Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -76,7 +79,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zshrs-fasd (⭐0)](https://github.com/MenkeTechnologies/zshrs-fasd) - Native [zshrs (⭐18)](https://github.com/MenkeTechnologies/zshrs) plugin for [fasd (⭐5.9k)](https://github.com/clvv/fasd).
+*   [zshrs-fasd (⭐0)](https://github.com/MenkeTechnologies/zshrs-fasd) - Native [zshrs (⭐19)](https://github.com/MenkeTechnologies/zshrs) plugin for [fasd (⭐5.9k)](https://github.com/clvv/fasd).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1147,7 +1150,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [brew-install (⭐1)](https://github.com/marceloclp/zsh-brew-install) - Installs and loads [brew](https://brew.sh) on WSL.
 *   [scad (⭐3)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐2.2k)](https://github.com/garabik/grc) and [jq (⭐36k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐41)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐91k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐41)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐92k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐6.1k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐2)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
 *   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh).
 
@@ -1228,7 +1231,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [uv (⭐3)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐91k)](https://github.com/astral-sh/uv).
+*   [uv (⭐3)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐92k)](https://github.com/astral-sh/uv).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1438,7 +1441,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [hietan (⭐2)](https://github.com/Hietan/Hietan_ZshTheme) - Includes decorators for current directory, date & time, `git` status and the exit value of the last command run. Requires a [Nerd Font (⭐65k)](https://github.com/ryanoasis/nerd-fonts).
+*   [hietan (⭐2)](https://github.com/Hietan/Hietan_ZshTheme) - Includes decorators for current directory, date & time, `git` status and the exit value of the last command run. Requires a [Nerd Font (⭐65k)](https://github.com/ryanoasis/nerd-fonts). Includes configurable dark and light palettes for terminals with different backgrounds.
 *   [shiro (arturDobrowolski) (⭐0)](https://github.com/ArturDobrowolski/shiro-zsh-theme) - Includes decorators for current directory, `git` status, and exit status and execution time of last command run.
 *   [shiro (shirozuki) (⭐0)](https://github.com/shirozuki/shiro-zsh-theme) - Includes decorators for current directory, `git` status and execution time and exit status of last command run.
 *   [sunrise (⭐0)](https://github.com/tech8i/zsh_sunrise) - Includes decorators for battery status, current directory, date and time.
@@ -1618,7 +1621,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lagnoda (⭐4)](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username\@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
-*   [tcr (⭐0)](https://github.com/tulioribeiro/zsh-tcr-theme) - Minimalist theme, shows decorators for current directory, `git` status information & `nvm` version.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2119,7 +2121,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [archlinux (fourdim) (⭐2)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
 *   [archlinux (junker) (⭐10)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [bob (⭐4)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐2.1k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [bob (⭐4)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐2.2k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
 *   [fnm (dominik-schwabe) (⭐17)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐27k)](https://github.com/Schniz/fnm) if it is missing.
 *   [fnm (wintermi) (⭐3)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐27k)](https://github.com/Schniz/fnm).
 *   [iwd (⭐4)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
@@ -2844,7 +2846,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [project (gko) (⭐20)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
 *   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.4k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
 *   [session-sauce (⭐32)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐84k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐100)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐91k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐100)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐92k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

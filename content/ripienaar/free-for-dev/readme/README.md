@@ -327,6 +327,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
 *   [Network Data Labs](https://www.networkdatalabs.com) - An IP geolocation API with accuracy radius and confidence level, ASN, and Tor, known VPN, privacy relay and hosting signals. The free plan includes 1,000 requests per day.
 *   [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
+*   [nosocial Embed API](https://nosocial.eu/api-docs) - A free API for developers to embed public posts from X, Instagram, TikTok, YouTube, Bluesky, Threads, Facebook, Telegram, Reddit, and LinkedIn on their websites. It returns the embed HTML and any required scripts as JSON. No API key and no request limits.
 *   [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
 *   [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
 *   [Orshot](https://orshot.com) - Automate Videos, PDFs and Images from templates via API, n8n, Zapier and AI Agents. Design templates in a visual editor (or import from Canva or Figma), then automate bulk generation from your data source. The free plan includes 100 render credits every month.
@@ -1062,7 +1063,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Pageclip](https://pageclip.co/) - The free plan allows one site, one form, and 1,000 monthly submissions.
 *   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
 *   [smartforms.dev](https://smartforms.dev/) - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.
-*   [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
+*   [staticforms.dev](https://www.staticforms.dev/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
 *   [Survicate](https://survicate.com/) - Pull feedback from all sources and send follow-up surveys with one tool. Automatically analyze feedback and extract insights with AI. Free email, website, in-product or mobile surveys, AI survey creator, and 25 monthly responses.
 *   [Tally.so](https://tally.so/) - 99% of all the features are free. The free tier lets you have: unlimited forms, unlimited submissions, email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
 *   [Typeform.com](https://www.typeform.com/) - Include beautifully designed forms on websites.  The free plan allows only ten fields per form and 100 monthly responses.
@@ -1274,6 +1275,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [4EVERLAND](https://www.4everland.org/) - Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
 *   [backblaze.com](https://www.backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
 *   [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
+*   [InstaBox](https://instabox.sh/) - Cloud Linux machine for AI agents and developers, running on Firecracker microVMs with Docker and common toolchains preinstalled. Free plan: one 4 vCPU / 8 GiB machine, 20 GiB disk, 5 snapshots and 100 GiB egress per month, no credit card required. Not a persistent VPS: a free machine pauses after 30 minutes idle and runs at most 8 hours per session.
 *   [Modal](https://modal.com) - AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits
 
 **[⬆️ Back to Top](#table-of-contents)**

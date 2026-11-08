@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 08, 2026](/content/2026/11/08/README.md)
+
+### APIs, Data, and ML
+
+*   [nosocial Embed API](https://nosocial.eu/api-docs) - A free API for developers to embed public posts from X, Instagram, TikTok, YouTube, Bluesky, Threads, Facebook, Telegram, Reddit, and LinkedIn on their websites. It returns the embed HTML and any required scripts as JSON. No API key and no request limits.
+
+### Forms
+
+*   [staticforms.dev](https://www.staticforms.dev/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
+
+### IaaS
+
+*   [InstaBox](https://instabox.sh/) - Cloud Linux machine for AI agents and developers, running on Firecracker microVMs with Docker and common toolchains preinstalled. Free plan: one 4 vCPU / 8 GiB machine, 20 GiB disk, 5 snapshots and 100 GiB egress per month, no credit card required. Not a persistent VPS: a free machine pauses after 30 minutes idle and runs at most 8 hours per session.
+
 ## [Nov 07, 2026](/content/2026/11/07/README.md)
 
 ### Security and PKI
@@ -5355,10 +5369,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Management System
 
 *   [runcloud.io](https://runcloud.io/) - Server management focusing mainly on PHP projects. Free for up to 1 server.
-
-### Forms
-
-*   [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
 
 ### Design and UI
 

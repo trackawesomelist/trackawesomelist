@@ -1,18 +1,109 @@
 # Awesome List Updates on Nov 08, 2026
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+## [1. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Projects / AI and Agents
+
+*   Code Sandboxes
+    *   [pydantic-monty (⭐8.8k)](https://github.com/pydantic/monty) - A secure Python sandbox written in Rust for running AI-written code.
+
+### Projects / Machine Learning
+
+*   Experiment Tracking
+    *   [mlflow (⭐29k)](https://github.com/mlflow/mlflow) - An open-source platform for tracking experiments, managing models, and evaluating LLM apps.
+
+### Projects / WebSocket
+
+*   WebRTC
+    *   [aiortc (⭐5.1k)](https://github.com/aiortc/aiortc) - A WebRTC and ORTC implementation for asyncio, with audio, video, and data channels.
+
+### Projects / Testing
+
+*   Benchmarking
+    *   [pytest-benchmark (⭐1.5k)](https://github.com/ionelmc/pytest-benchmark) - A pytest fixture for benchmarking code.
+
+### Projects / Debugging Tools
+
+*   Debuggers
+    *   [debugpy (⭐2.5k)](https://github.com/microsoft/debugpy) - A Debug Adapter Protocol debugger for Python, used by VS Code for remote debugging.
+    *   [ipdb (⭐2k)](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
+    *   [pudb (⭐3.2k)](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger.
+
+### Projects / File Manipulation
+
+*   Remote Files
+    *   [fsspec (⭐1.4k)](https://github.com/fsspec/filesystem_spec) - A unified filesystem interface for local, cloud, and remote storage.
+    *   [smart-open (⭐3.5k)](https://github.com/piskvorky/smart_open) - Stream files from S3, GCS, Azure, HDFS, and HTTP as a drop-in replacement for open().
+
+### Projects / Built-in Classes Enhancement
+
+*   Class Boilerplate
+    *   [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Adds generated special methods such as `__init__()` and `__repr__()` to your classes.
+    *   [attrs (⭐5.9k)](https://github.com/python-attrs/attrs) - Writes `__init__`, `__eq__`, `__repr__`, and other boilerplate methods for your classes.
+
+### Projects / Web Security
+
+*   [flask-cors (⭐933)](https://github.com/corydolphin/flask-cors) - A Flask extension for handling Cross-Origin Resource Sharing (CORS).
+*   [django-cors-headers (⭐5.6k)](https://github.com/adamchainz/django-cors-headers) - Handles Cross-Origin Resource Sharing (CORS) headers for Django apps.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Quill](https://quill.hridya.tech) - Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hridaya423/quill) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Developer Tools / Version Control
+
+*   [GitOS](https://gitos.angelsaikia.com/) - Git client that automatically picks the right GitHub account for every repository. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Dhunu/gitOS) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Window Management
+
+*   [Show Bar](https://rept0rix.github.io/show-bar/) - Windows-style Command-Tab window switcher with live thumbnails, Dock hover window previews, window snapping, clipboard history, and a screenshot shelf. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rept0rix/show-bar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6818509447?platform=mac) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [nosocial Embed API](https://nosocial.eu/api-docs) - A free API for developers to embed public posts from X, Instagram, TikTok, YouTube, Bluesky, Threads, Facebook, Telegram, Reddit, and LinkedIn on their websites. It returns the embed HTML and any required scripts as JSON. No API key and no request limits.
+
+### Forms
+
+*   [staticforms.dev](https://www.staticforms.dev/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
+
+### IaaS
+
+*   [InstaBox](https://instabox.sh/) - Cloud Linux machine for AI agents and developers, running on Firecracker microVMs with Docker and common toolchains preinstalled. Free plan: one 4 vCPU / 8 GiB machine, 20 GiB disk, 5 snapshots and 100 GiB egress per month, no credit card required. Not a persistent VPS: a free machine pauses after 30 minutes idle and runs at most 8 hours per session.
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [Cue (⭐15)](https://github.com/8starlabs/cue) - Adds IDE-style command, option, and path suggestions to ZSH in a native macOS popup.
+*   [listview (⭐0)](https://github.com/hanssn/zsh-listview) - Lightweight, zero-dependency ZSH plugin inspired by PowerShell's PSReadLine ListView. Displays real-time, non-intrusive unique history suggestions below your prompt as you type, navigatable using arrow keys.
+
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [slowrc (⭐2)](https://github.com/ArkaKhorchidian/slowrc) - Profiles your ZSH startup line by line, shows which lines of your `.zshrc` cost the most, and safely fixes the slow ones.
+
+## [5. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+### MCP Servers
+
+*   [KaijuConverter MCP](https://kaijuconverter.com/api/mcp) - Remote Model Context Protocol server enabling AI agents to convert files and datasets across 100+ formats (documents, images, audio, video). Works with Gemini CLI: `gemini mcp add --transport http kaiju https://kaijuconverter.com/api/mcp`.
+
+## [6. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ### Todo managers
 
 *   [mado (⭐0)](https://github.com/laserattack/mado2) - A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts.
 
-## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Tools / CI
 
@@ -22,19 +113,19 @@
 
 *   [Kumoss (⭐143)](https://github.com/InditexTech/kumoss) - Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / GitHub
 
 *   [btc-toolkit (⭐3)](https://github.com/devdavidejesus/btc-toolkit) - Command line tool to read Bitcoin on-chain data: decode OP\_RETURN messages and inscriptions, inspect addresses and transactions, and verify a transaction against its block's Merkle proof.
 
-## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / UI & End-to-End Testing
 
 *   [AnalyticsProof](https://analyticsproof.com) - Regression tests for analytics tracking: replays recorded website journeys and reports which step lost a dataLayer event or GA4 parameter. Has a free plan.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -437,7 +528,7 @@
 
 
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Dependency Management / Quickfix
 
@@ -447,7 +538,7 @@
 
 *   [LFSCamargo/macscroll.nvim (⭐1)](https://github.com/LFSCamargo/macscroll.nvim) - macOS trackpad and mouse-wheel scrolling delivered by a Darwin handler so terminals cannot drop sideways motion.
 
-## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
 ### 版本控制
 

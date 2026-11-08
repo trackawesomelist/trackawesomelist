@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [nosocial Embed API](https://nosocial.eu/api-docs) - A free API for developers to embed public posts from X, Instagram, TikTok, YouTube, Bluesky, Threads, Facebook, Telegram, Reddit, and LinkedIn on their websites. It returns the embed HTML and any required scripts as JSON. No API key and no request limits.
 *   [TimeLogic API](https://timelogicapi.com) - World time and timezone API with cryptographically signed JSON responses, so you can verify the time wasn't tampered with. Get the current time by timezone, IP address or coordinates, convert between zones, check DST changes, and do business-day date math. WorldTimeAPI-compatible endpoints for apps that used worldtimeapi.org. Free plan includes 10,000 requests/month on all endpoints.
 
 ### Security and PKI
@@ -30,6 +31,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Forms
 
+*   [staticforms.dev](https://www.staticforms.dev/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
 *   [whatayarn](https://whatayarn.com/) - Online form builder. Unlimited forms and responses on Free, subject to fair use.
 
 ### Generative AI
@@ -40,6 +42,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [EthioDeploy](https://ethiodeploy.com/) - Hosting and agentic coding platform containing Built-in Analytics, Database, GitHub CI/CD, free sub-domain, CLI, AI coding agent. Free tier allows one project 256 MB RAM / 0.5 CPU, sleeps after 30 min idle, 512 MB database and 100,000 tokens on the default model one time.
 *   [Uppcoder](https://portal.uppcoder.com/) - Full stack development environment hosted on own infrastructure with selectable framework, db engine behind https with ssh access, vscode + terminal in the editor. Free tier: always on, 2GB disk and 2GB ram. No card required.
+
+### IaaS
+
+*   [InstaBox](https://instabox.sh/) - Cloud Linux machine for AI agents and developers, running on Firecracker microVMs with Docker and common toolchains preinstalled. Free plan: one 4 vCPU / 8 GiB machine, 20 GiB disk, 5 snapshots and 100 GiB egress per month, no credit card required. Not a persistent VPS: a free machine pauses after 30 minutes idle and runs at most 8 hours per session.
 
 ### Issue Tracking and Project Management
 
@@ -4349,7 +4355,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
 *   [formlets.com](https://formlets.com/) - Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.
 *   [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
-*   [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
 *   [Typeform.com](https://www.typeform.com/) - Include beautifully designed forms on websites.  The free plan allows only ten fields per form and 100 monthly responses.
 
 ### CDN and Protection
