@@ -8,9 +8,14 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
+### Tools / CI
+
+*   [tofu-garnish (⭐1)](https://github.com/lowlydba/tofu-garnish) - GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.
+
 ### Tools / Platforms
 
 *   [Buddy](https://buddy.works) - Hosted CI/CD platform with native OpenTofu and Terraform plan, apply, and drift-detection actions, approval gates, and locked state storage.
+*   [Kumoss (⭐143)](https://github.com/InditexTech/kumoss) - Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 

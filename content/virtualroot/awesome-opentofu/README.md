@@ -6,6 +6,16 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Nov 08, 2026](/content/2026/11/08/README.md)
+
+### Tools / CI
+
+*   [tofu-garnish (⭐1)](https://github.com/lowlydba/tofu-garnish) - GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.
+
+### Tools / Platforms
+
+*   [Kumoss (⭐143)](https://github.com/InditexTech/kumoss) - Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.
+
 ## [Nov 02, 2026](/content/2026/11/02/README.md)
 
 ### Tools / Platforms

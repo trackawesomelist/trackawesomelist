@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 399K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 400K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md) / Overview ]
 
@@ -101,10 +101,10 @@
 *   [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
 *   [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 *   [Git-Cheat-Sheet (⭐1.2k)](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
-*   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
+*   [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 *   [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
-*   [Github帮助文档 (⭐841)](https://github.com/waylau/github-help) - Way Lau
+*   [Github帮助文档 (⭐840)](https://github.com/waylau/github-help) - Way Lau
 *   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
 *   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
 *   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
@@ -140,11 +140,11 @@
 *   [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 *   [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 *   [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
-*   [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+*   [Linux Guide for Complete Beginners](https://happypeter.github.io/LGCB/book/)
 *   [Linux工具快速教程 (⭐6k)](https://github.com/me115/linuxtools_rst)
 *   [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 *   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-*   [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+*   [The Linux Command Line](https://billie66.github.io/TLCL/index.html)
 *   [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 *   [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 *   [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *( :card\_file\_box: archived)*
@@ -161,7 +161,7 @@
 
 ### 分布式系统
 
-*   [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
+*   [走向分布式](https://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
 
 ### 管理和监控
 
@@ -179,7 +179,7 @@
 ### 计算机图形学
 
 *   [LearnOpenGL CN](https://learnopengl-cn.github.io)
-*   [OpenGL 教程 (⭐817)](https://github.com/zilongshanren/opengl-tutorials)
+*   [OpenGL 教程 (⭐816)](https://github.com/zilongshanren/opengl-tutorials)
 
 ### 其它
 
@@ -198,7 +198,7 @@
 *   [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 *   [深度学习500问 (⭐58k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 *   [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
-*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐12)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
+*   [游戏策划实务即用的 AI · Claude Code 活用法 (⭐16)](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
 *   [遊戲策劃實務即用的 AI · Claude Code 活用法 (⭐1)](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
 
 ### 软件开发方法
@@ -258,7 +258,7 @@
 ### IDE and editors
 
 *   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
-*   [所需即所获：像 IDE 一样使用 vim (⭐9.2k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+*   [所需即所获：像 IDE 一样使用 vim (⭐9.1k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
 *   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 *   [IntelliJ IDEA 简体中文专题教程 (⭐22k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
 *   [Vim中文文档 (⭐219)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
@@ -314,7 +314,7 @@
 
 ### C
 
-*   [新概念 C 语言教程 (⭐521)](https://github.com/limingth/NCCL)
+*   [新概念 C 语言教程 (⭐522)](https://github.com/limingth/NCCL)
 *   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 *   [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 *   [C 语言教程](https://wangdoc.com/clang/)
@@ -327,13 +327,13 @@
 
 ### <a id="cpp"></a>C++
 
-*   [100个gcc小技巧 (⭐548)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
+*   [100个gcc小技巧 (⭐549)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 *   [100个gdb小技巧 (⭐3.2k)](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 *   [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *( :card\_file\_box: archived)*
 *   [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous ( :construction: *in process*)
 *   [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 *   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
-*   [C/C++ Primer (⭐302)](https://github.com/andycai/cprimer) - andycai
+*   [C/C++ Primer (⭐303)](https://github.com/andycai/cprimer) - andycai
 *   [C++ 并发编程指南 (⭐5.5k)](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 *   [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 *   [C++ Primer 5th Answers (⭐8.3k)](https://github.com/Mooophy/Cpp-Primer)
@@ -380,7 +380,7 @@
 *   [学习Go语言](http://mikespook.com/learning-go/)
 *   [Go 编程基础 (⭐9.1k)](https://github.com/Unknwon/go-fundamental-programming)
 *   [Go 官方文档翻译 (⭐147)](https://github.com/golang-china/golangdoc.translations)
-*   [Go 简易教程 (⭐411)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2.3k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+*   [Go 简易教程 (⭐410)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2.3k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
 *   [Go 命令教程 (⭐3.4k)](https://github.com/hyper-carrot/go_command_tutorial)
 *   [Go 入门指南 (⭐35k)](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 *   [Go 语法树入门 (⭐5.5k)](https://github.com/chai2010/go-ast-book)
@@ -393,7 +393,7 @@
 *   [Go实战开发 (⭐3.4k)](https://github.com/astaxie/go-best-practice)
 *   [Go语言博客实践 (⭐391)](https://github.com/achun/Go-Blog-In-Action)
 *   [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
-*   [Network programming with Go 中文翻译版本 (⭐580)](https://github.com/astaxie/NPWG_zh)
+*   [Network programming with Go 中文翻译版本 (⭐579)](https://github.com/astaxie/NPWG_zh)
 *   [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *( :card\_file\_box: archived)*
 *   [The Little Go Book 繁體中文翻譯版 (⭐136)](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trl.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
 
@@ -422,7 +422,7 @@
 
 ### iOS
 
-*   [网易斯坦福大学公开课：iOS 7应用开发字幕文件 (⭐292)](https://github.com/jkyin/Subtitle)
+*   [网易斯坦福大学公开课：iOS 7应用开发字幕文件 (⭐291)](https://github.com/jkyin/Subtitle)
 *   [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 *   [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 *   [iOS开发60分钟入门 (⭐7.1k)](https://github.com/qinjx/30min_guides/blob/master/ios.md)
@@ -442,13 +442,13 @@
 *   [Java 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 *   [Java Servlet 3.1 规范 (⭐165)](https://github.com/waylau/servlet-3.1-specification)
 *   [Jersey 2.x 用户指南 (⭐238)](https://github.com/waylau/Jersey-2.x-User-Guide)
-*   [JSSE 参考指南 (⭐29)](https://github.com/waylau/jsse-reference-guide)
+*   [JSSE 参考指南 (⭐28)](https://github.com/waylau/jsse-reference-guide)
 *   [MyBatis中文文档](https://mybatis.org/mybatis-3/zh_CN/)
 *   [Netty 4.x 用户指南 (⭐2.3k)](https://github.com/waylau/netty-4-user-guide)
 *   [Netty 实战(精髓) (⭐1.8k)](https://github.com/waylau/essential-netty-in-action)
 *   [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
 *   [Nutz文档](https://nutzam.com/core/nutz_preface.html)
-*   [REST 实战 (⭐465)](https://github.com/waylau/rest-in-action)
+*   [REST 实战 (⭐466)](https://github.com/waylau/rest-in-action)
 *   [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF)
 *   [Spring Boot参考指南 (⭐4.4k)](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) ( :construction: *翻译中*)
 *   [Spring Framework 4.x参考文档 (⭐1.4k)](https://github.com/waylau/spring-framework-4-reference)
@@ -480,7 +480,7 @@
 #### Backbone.js
 
 *   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-*   [Backbone.js入门教程第二版 (⭐938)](https://github.com/the5fire/backbonejs-learning-note)
+*   [Backbone.js入门教程第二版 (⭐937)](https://github.com/the5fire/backbonejs-learning-note)
 *   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *( :card\_file\_box: archived)*
 
 #### D3.js
@@ -522,7 +522,7 @@
 #### React.js
 
 *   [Learn React & Webpack by building the Hacker News front page (⭐408)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐714)](https://github.com/hateonion/react-bits-CN)
+*   [React-Bits 中文文档 (⭐716)](https://github.com/hateonion/react-bits-CN)
 *   [React webpack-cookbook (⭐265)](https://github.com/fakefish/react-webpack-cookbook)
 *   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 *   [React.js 中文文档](https://discountry.github.io/react/)
@@ -566,7 +566,7 @@
 *   [Disque 使用教程](http://disque.huangz.me)
 *   [Redis 命令参考](http://redisdoc.com)
 *   [Redis 设计与实现](http://redisbook.com)
-*   [The Little MongoDB Book (⭐515)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+*   [The Little MongoDB Book (⭐514)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 *   [The Little Redis Book (⭐578)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 
 ### Perl
@@ -651,7 +651,7 @@
 
 *   [笨方法学 Ruby](http://lrthw.github.io)
 *   [Rails 风格指南 (⭐37)](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-*   [Ruby 风格指南 (⭐127)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+*   [Ruby 风格指南 (⭐126)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 *   [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 *   [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
 *   [Sinatra](https://web.archive.org/web/20220118142227/http://sinatrarb.com/intro-zh.html) *( :card\_file\_box: archived)*
@@ -662,7 +662,7 @@
 *   [Rust 官方教程 (⭐1.8k)](https://github.com/KaiserY/rust-book-chinese)
 *   [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
 *   [Rust 语言圣经](https://course.rs)
-*   [Rust 语言学习笔记 (⭐160)](https://github.com/photino/rust-notes)
+*   [Rust 语言学习笔记 (⭐161)](https://github.com/photino/rust-notes)
 *   [RustPrimer (⭐1.8k)](https://github.com/rustcc/RustPrimer)
 *   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
@@ -714,7 +714,7 @@
 
 ### VBA (Microsoft Visual Basic Applications)
 
-*   [简明Excel VBA (⭐714)](https://github.com/Youchien/concise-excel-vba)
+*   [简明Excel VBA (⭐718)](https://github.com/Youchien/concise-excel-vba)
 
 ### Visual Prolog
 

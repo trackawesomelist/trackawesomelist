@@ -32,6 +32,10 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 *   [sauva (⭐105)](https://github.com/lusingander/sauva) - Terminal Unicode explorer.
 
+### Todo managers
+
+*   [mado (⭐0)](https://github.com/laserattack/mado2) - A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts.
+
 ### Organizers and calendars
 
 *   [chroncal (⭐237)](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage.
@@ -507,7 +511,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [Context Extractor (⭐54)](https://github.com/vaibhav-mattoo/cxt) - Command line tool that aggregates file and directory contents into the clipboard, for providing project context to AI chatbots in the browser like ChatGPT and Perplexity.
 *   [Elroy (⭐59)](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
 *   [Ferrules (⭐615)](https://github.com/aminediro/ferrules) - Modern, fast, document parser written in Rust designed to generate LLM-ready documents.
-*   [Gemini CLI (⭐108k)](https://github.com/google-gemini/gemini-cli) - It provides lightweight access to Gemini from the terminal.
+*   [Gemini CLI (⭐109k)](https://github.com/google-gemini/gemini-cli) - It provides lightweight access to Gemini from the terminal.
 *   [LamaCLI (⭐8)](https://github.com/hariharen9/lamacli) - AI assistante in both interactive mode and command-line mode in the terminal.
 *   [tenere (⭐686)](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama\_cpp, ollama) written in Rust.
 
@@ -3277,7 +3281,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Git and accessories
 
 *   [Export Pull Requests (⭐109)](https://github.com/sshaw/export-pull-requests) - Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket.
-*   [git absorb (⭐5.7k)](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
+*   [git absorb (⭐5.8k)](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
 *   [git-booster-cli (⭐17)](https://github.com/akgondber/git-booster-cli) - Improve your git workflow with customizable and runnable blocks.
 
 ### Web development

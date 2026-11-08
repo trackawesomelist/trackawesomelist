@@ -12,6 +12,10 @@
 
 *   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
 
+### Other Tools / GitHub
+
+*   [btc-toolkit (⭐3)](https://github.com/devdavidejesus/btc-toolkit) - Command line tool to read Bitcoin on-chain data: decode OP\_RETURN messages and inscriptions, inspect addresses and transactions, and verify a transaction against its block's Merkle proof.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Social Media Tools / Twitter
@@ -106,10 +110,10 @@
 ### Social Media Tools / Telegram
 
 *   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
-*   [tg-chat-dump (⭐4)](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
+*   [tg-chat-dump (⭐6)](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
 *   [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 *   [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
-*   [Tme-s (⭐1)](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
+*   [Tme-s (⭐2)](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
 
 ### Image Search / GitHub
 

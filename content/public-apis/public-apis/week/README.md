@@ -10,6 +10,28 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
+- Name: [CoworkingView](https://coworkingview.com/en/mcp)
+
+  Description: Search coworking spaces, private offices and operator-published prices in 70+ cities
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: –
+
+
+- Name: [Data and APIs](https://dataandapis.com/mcp/setup)
+
+  Description: Search, read and call 125+ data APIs: sanctions, barcodes, IP intelligence, companies, holidays
+
+  Auth: `apiKey`
+
+  Transport: `HTTP`
+
+  Install: –
+
+
 - Name: [FindIP MCP (⭐0)](https://github.com/findip-net/findip-mcp)
 
   Description: IP lookups and FindIP Shield risky-event checks for agents
@@ -87,6 +109,17 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/com.pourwire/pourwire) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.pourwire)
 
 
+- Name: [TextKit](https://jointextkit.com/docs/mcp)
+
+  Description: Send and receive SMS, verify phones and buy US and Canada numbers from an agent
+
+  Auth: `OAuth`
+
+  Transport: `HTTP`
+
+  Install: [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.jointextkit)
+
+
 - Name: [Vitalityfit](https://vitality-fit.de/mcp/#english)
 
   Description: Cheapest offers for health products from German online shops and pharmacies by name, PZN or EAN
@@ -110,46 +143,18 @@ A collective list of free APIs
 
 
 
-### Art & Design
-
-- API: [Paint Color HQ](https://www.paintcolorhq.com/api)
-
-  Description: Closest real paint colors across 13 brands for any hex value, scored with CIEDE2000
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [pic2svg](https://pic2svg.com/mcp/)
-
-  Description: Trace raster images to SVG with a free daily allowance
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-
-### Blockchain
-
-- API: [HEY Research Lab](https://heyresearch.xyz/developers)
-
-  Description: Builder activity for Robinhood Chain tokens and projects: who is shipping, each ship with its source
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Business
+
+- API: [Requstory](https://requstory.com/developers/api/)
+
+  Description: How companies work: teams, processes, ease scores and AI-readiness from public websites
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Company Enrichment](https://dataandapis.com/apis/companies)
 
@@ -187,6 +192,45 @@ A collective list of free APIs
 - API: [Seller Fee](https://seller-fee-api.narwhalapis.workers.dev)
 
   Description: Marketplace and payment fees for Gumroad, Etsy, Stripe and PayPal with net payout breakdowns
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Art & Design
+
+- API: [Paint Color HQ](https://www.paintcolorhq.com/api)
+
+  Description: Closest real paint colors across 13 brands for any hex value, scored with CIEDE2000
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [pic2svg](https://pic2svg.com/mcp/)
+
+  Description: Trace raster images to SVG with a free daily allowance
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Blockchain
+
+- API: [HEY Research Lab](https://heyresearch.xyz/developers)
+
+  Description: Builder activity for Robinhood Chain tokens and projects: who is shipping, each ship with its source
 
   Auth: No
 
@@ -246,6 +290,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [Ironflow](https://docs.ironflow.sh)
+
+  Description: Hyperliquid trades, liquidations, candles, funding and wallet data, plus SQL; no key to start
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Kraken](https://docs.kraken.com/exchange/guides/rest/introduction)
@@ -351,6 +406,22 @@ A collective list of free APIs
 
 
 
+### Data Validation
+
+- API: [Veriport](https://veriport.io/docs)
+
+  Description: EU VAT validation (VIES), VAT rates, IBAN validation, French company data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
 ### Development
 
 - API: [AppGoat](https://docs.appgoat.ai)
@@ -373,6 +444,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Compute Comparison](https://computecomparison.com/api-docs)
+
+  Description: GPU rental prices, providers, models and price history across cloud providers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 - API: [Crawl Readiness](https://www.crawlreadiness.com)
@@ -430,6 +512,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Proxifly](https://proxifly.dev)
+
+  Description: Rotating proxy API that returns tested HTTP, SOCKS4 and SOCKS5 proxies, filterable by country
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Rendlet](https://rendlet.com/docs.md)
 
   Description: HTML or JSON templates (invoice, itinerary) to PDF; free tier 100 docs/month
@@ -441,8 +534,66 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [ToolsFox Utils](https://cf-workers-demo.pianfox345.workers.dev)
+
+  Description: Free developer utility API: UUID, timestamps, SHA-256, Base64, URL encode/decode, random strings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Dictionaries
+
+- API: [High Valyrian Translators (⭐0)](https://github.com/HVTranslators/high-valyrian-api)
+
+  Description: High Valyrian dictionary (400 words with IPA) and Dothraki phrases as free open JSON datasets
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Documents & Productivity
+
+- API: [CleverUtils](https://cleverutils.com/api)
+
+  Description: Convert files between 200+ formats, free with no API key
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MiConvert](https://miconvert.com/en/api-docs#marketplace)
+
+  Description: File conversion for 140+ formats incl. 3D/CAD (STEP, IGES, STL), OFD to PDF and WEM; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Optiic](https://optiic.dev)
+
+  Description: OCR that extracts text from images and PDFs, with optional translation of the result
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [PDFDispatch](https://docs.pdfdispatch.com/)
 
@@ -483,6 +634,20 @@ A collective list of free APIs
 - API: [Vetto](https://usevetto.com/docs#domain-lookup)
 
   Description: Check email domains in bulk for disposable providers and dead domains, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Events
+
+- API: [NeedATicket](https://needaticket.co.uk/developers)
+
+  Description: UK and US resale ticket prices from StubHub
 
   Auth: No
 
@@ -581,6 +746,19 @@ A collective list of free APIs
   CORS: No
 
 
+- API: [Tradoshi](https://tradoshi.com/en/developers)
+
+  Description: Rankings of trading schools and prop firms, every criterion with its source
+
+  Auth: `No`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
 - API: [US Freelancer Tax](https://narwhalthepong.github.io/gumroad-license-check/free-tax-finance-api)
 
   Description: 2026 US self-employment tax, quarterly estimates, QBI, mileage and home office deductions
@@ -590,6 +768,19 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+  : 
+
+
+- API: [Wealthnow](https://app.wealthnow.io/docs/introduction)
+
+  Description: Real-time and historical stock and crypto prices, fundamentals, SEC filings, insider and 13F data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
   : 
 
@@ -636,6 +827,17 @@ A collective list of free APIs
 
 ### Government
 
+- API: [Contratero](https://contratero.es/docs)
+
+  Description: Spanish public tenders and awards from the official PLACSP platform, updated hourly
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [FIRMSapi](https://docs.firmsapi.com/)
 
   Description: Look up, search and validate US CBP FIRMS facility codes for ports, warehouses and FTZs
@@ -669,6 +871,28 @@ A collective list of free APIs
   CORS: No
 
 
+- API: [Probative Legal Marketing Data](https://probativegrowth.com/resources/rules-api/)
+
+  Description: US lawyer advertising rules, court filings, fees and legal-market statistics, sourced, with DOIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Rent Limits](https://glazeddata.com/rent-limits/api/)
+
+  Description: HUD Fair Market Rents by US ZIP; paid tiers add tax-credit and Section 8 limits
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [ShelfWatch CPSC Recalls](https://stxai.app/developers)
 
   Description: US CPSC product recall notices, filterable by product category; no key required
@@ -691,6 +915,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Vergabeweiser](https://vergabeweiser.de/api)
+
+  Description: German public tenders and contract awards from open procurement data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Health
 
@@ -703,6 +938,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [NPI Lookup](https://dataandapis.com/apis/healthcare-providers)
+
+  Description: Search 9.4M US healthcare providers by NPI, name, taxonomy or location from NPPES data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 - API: [OMOPHub](https://docs.omophub.com)
@@ -799,6 +1045,17 @@ A collective list of free APIs
 
 ### Machine Learning
 
+- API: [Opper](https://docs.opper.ai/build/gateway/drop-in-sdks)
+
+  Description: EU-hosted OpenAI-compatible gateway to 700+ models from 50+ providers, with free models
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Pictograph](https://pictograph.io/docs/api-reference)
 
   Description: Train custom vision models and run them as real-time detection endpoints, with a free tier
@@ -822,6 +1079,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [ListenBrainz](https://listenbrainz.readthedocs.io/en/latest/users/api/index.html)
+
+  Description: Open music listening data: scrobble history, statistics and recommendations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -860,6 +1128,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Mapa Oswiatowa](https://mapaoswiatowa.pl/dla-deweloperow)
+
+  Description: Polish schools, preschools, nurseries and universities from public registers, with exam results
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [RebateHub](https://rebatehub.ca/data)
 
   Description: Canadian home energy rebate, grant and loan programs with status, deadlines and official sources
@@ -871,9 +1150,31 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Security Startups](https://securitystartups.com/for-agents)
+
+  Description: Curated directory of young security companies with proof-of-life signals
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Turkpidya](https://turkpidya.com/developers/)
 
   Description: Türkiye data: gold prices, lira rates, earthquakes, prayer times, fuel, duty pharmacies
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [WhatsApp Rate Cards (⭐0)](https://github.com/tobachat/whatsapp-api-rates#json)
+
+  Description: Meta's WhatsApp Business API per-message rates per country in 16 currencies, checked weekly
 
   Auth: No
 
@@ -894,6 +1195,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Phone
+
+- API: [TextKit](https://jointextkit.com/docs)
+
+  Description: Send and receive SMS, verify phones and buy US and Canada numbers; free sandbox
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -936,6 +1251,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [IP Intelligence](https://dataandapis.com/apis/ip-intelligence)
+
+  Description: Country, ASN, datacenter, cloud and Tor detection with an explainable risk score for any IP
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 - API: [Website Security Scanner](https://rapidapi.com/Hitler-HlDevZDwP/api/website-security-scanner-api)
@@ -1010,6 +1336,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [PadelAPI](https://padelapi.org/docs)
+
+  Description: Query professional padel tournament data, player stats, and live match results
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api)
 
   Description: Live odds from 24 Kambi-powered sportsbooks incl. BetRivers & Unibet, best price per outcome
@@ -1019,6 +1356,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [UFCalendar Fight Data](https://api.ufcalendar.com/docs)
+
+  Description: UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -1077,6 +1425,20 @@ A collective list of free APIs
 - API: [NHTSA Edge VIN Decoder](https://data.ai-kit.net)
 
   Description: Decode US VINs offline from the NHTSA vPIC dataset, served from edge locations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [Star Wars Images](https://starwarsgallery.netlify.app/swapi-image-api/)
+
+  Description: Images for SWAPI people, planets, species, starships and vehicles by ID
 
   Auth: No
 
@@ -2334,7 +2696,7 @@ A collective list of free APIs
   Install: [Cursor](https://cursor.directory/plugins/shapeless) · [Glama](https://glama.ai/mcp/connectors/com.shapelessai/shapeless)
 
 
-- Name: [SkyAccess (⭐2)](https://github.com/sky-access/skyaccess-mcp)
+- Name: [SkyAccess (⭐3)](https://github.com/sky-access/skyaccess-mcp)
 
   Description: Search 5,000+ live empty leg flights, get charter price estimates and booking links
 

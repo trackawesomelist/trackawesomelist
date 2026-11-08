@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-*   Apps/tools: **2220**
+*   Apps/tools: **2221**
 *   Categories: **87**
 
 # Contents
@@ -106,7 +106,7 @@ Summary:
 
 ## [Personal Information Management](#personal-information-management-1)
 
-*   [Todo managers](#todo-manager) (43)
+*   [Todo managers](#todo-manager) (44)
 *   [Time trackers](#time-tracker) (29)
 *   [Note taking](#note-taking) (34)
 *   [Organizers and calendars](#organizers) (23)
@@ -824,7 +824,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 *   [gh-stars (⭐54)](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 *   [giq (⭐15)](https://github.com/doganarif/giq) - Git CLI with AI-powered commit messages and insights; it is a drop-in replacement for git with the same commands.
 *   [git](https://git-scm.com/) - The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend.
-*   [git absorb (⭐5.7k)](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
+*   [git absorb (⭐5.8k)](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
 *   [Git Activity Visualization (⭐4)](https://github.com/dakennedyd/activity) - Creates a git activity heat map in the command line.
 *   [Git Auto Sync (⭐201)](https://github.com/GitJournal/git-auto-sync) - Automatically commits changes to a git repository, and always keep that repository up to date.
 *   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
@@ -1783,6 +1783,7 @@ Todo list and task managers.
 *   [judo (⭐125)](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite.
 *   [kabmat (⭐424)](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings.
 *   [kanban-python (⭐353)](https://github.com/Zaloog/kanban-python) - Kanban Terminal App written in Python.
+*   [mado (⭐0)](https://github.com/laserattack/mado2) - A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts.
 *   [mayhem (⭐98)](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker.
 *   [mdt (⭐148)](https://github.com/basilioss/mdt) - A simple command-line Markdown todo list manager inspired by t.
 *   [memo](https://www.byteptr.com/memo/) - Memo is a Unix-style note-taking software for POSIX compatible systems.
@@ -1975,7 +1976,7 @@ Interfaces and front-ends to LLM engines and other tools powered by artificial i
 *   [Elroy (⭐59)](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
 *   [fabric (⭐45k)](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 *   [Ferrules (⭐615)](https://github.com/aminediro/ferrules) - Modern, fast, document parser written in Rust designed to generate LLM-ready documents.
-*   [Gemini CLI (⭐108k)](https://github.com/google-gemini/gemini-cli) - It provides lightweight access to Gemini from the terminal.
+*   [Gemini CLI (⭐109k)](https://github.com/google-gemini/gemini-cli) - It provides lightweight access to Gemini from the terminal.
 *   [gemini-cli (⭐219)](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini.
 *   [genie (⭐31)](https://github.com/harshalranjhani/genie) - Personal assistant for the CLI that helps in tasks such as running commands, generating images and music, summarizing comments.
 *   [gpterm (⭐31)](https://github.com/MakisChristou/gpterm) - Yet another command-line ChatGPT frontend written in Rust.
