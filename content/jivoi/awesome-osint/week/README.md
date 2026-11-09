@@ -6,6 +6,16 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [VPNDetection](https://vpndetection.io) - Checks whether an IP is a VPN, proxy, Tor exit or hosting address. Free, no signup. Also a Chrome extension that looks up an IP you select on any page.
+
+### Image Analysis / GitHub
+
+*   [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Web Monitoring / GitHub
@@ -48,10 +58,6 @@
 *   [PortInsight.io](https://portinsight.io/ports) - Free live anchorage waiting times, vessel counts and monthly congestion reports for seven major ports, measured from AIS with the method published. Free account adds port and vessel arrival email alerts.
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
-
-### Speciality Search Engines
-
-*   [CertStream API](https://certstream.dev/free-certstream-api.html) - Free real-time WebSocket stream of newly issued SSL/TLS certificates and domain names from Certificate Transparency logs, no API key required
 
 ### Social Media Tools / Twitter
 

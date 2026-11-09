@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 09, 2026](/content/2026/11/09/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [VPNDetection](https://vpndetection.io) - Checks whether an IP is a VPN, proxy, Tor exit or hosting address. Free, no signup. Also a Chrome extension that looks up an IP you select on any page.
+
+### Image Analysis / GitHub
+
+*   [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
+
 ## [Nov 08, 2026](/content/2026/11/08/README.md)
 
 ### Other Tools / GitHub
@@ -84,10 +94,6 @@
 *   [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
 
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
-
-### Speciality Search Engines
-
-*   [CertStream API](https://certstream.dev/free-certstream-api.html) - Free real-time WebSocket stream of newly issued SSL/TLS certificates and domain names from Certificate Transparency logs, no API key required
 
 ### Social Media Tools / WhatsApp
 

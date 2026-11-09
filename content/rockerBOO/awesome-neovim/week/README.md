@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Buffers / Markdown and LaTeX
+
+*   [tiagovla/scope.nvim (⭐544)](https://github.com/tiagovla/scope.nvim) - Scope buffers to individual tabs while keeping native buffer navigation commands.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [tiagovla/tokyodark.nvim (⭐619)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Programming Languages Support / Diagnostics

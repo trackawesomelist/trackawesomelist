@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 09, 2026](/content/2026/11/09/README.md)
+
+### Applications / Database
+
+*   [ModernRelay/omnigraph (⭐1.9k)](https://github.com/ModernRelay/omnigraph) - Typed property graph database that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query. [![CI](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml)
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Applications / Database
@@ -41,10 +47,6 @@ A curated list of Rust code and resources.
 
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
-### Applications / Productivity
-
-*   [gal064/muxflow (⭐75)](https://github.com/gal064/muxflow) - Remote-first tmux IDE for coding agents (Claude Code, Codex, pi), with sessions that stay in tmux on local or SSH hosts, agent notifications on desktop and Android, screenshot paste over SSH, and files, Git and ports panels
-
 ### Applications / Text editors
 
 *   [sventmueller/splat (⭐6)](https://github.com/sventmueller/splat) - An ultrafast native Markdown editor for macOS on AppKit, no Electron. Edits in the preview leave untouched lines byte-for-byte identical, so Git diffs stay clean. LaTeX and Mermaid offline, 35 languages. [![build badge](https://github.com/sventmueller/splat/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sventmueller/splat/actions/workflows/ci.yml)
@@ -66,10 +68,6 @@ A curated list of Rust code and resources.
 ### Applications / Virtualization
 
 *   [terrarium-sh/terrarium (⭐52)](https://github.com/terrarium-sh/terrarium) - Portable minimal microVM sandbox for agents and development tools on Linux, macOS and Windows [Terrarium](https://terrarium.sh/) [![GitHub release](https://img.shields.io/github/v/release/terrarium-sh/terrarium)](https://github.com/terrarium-sh/terrarium/releases) [![build badge](https://github.com/terrarium-sh/terrarium/actions/workflows/build.yml/badge.svg)](https://github.com/terrarium-sh/terrarium/actions)
-
-### Applications / Web
-
-*   [Voxpery (⭐57)](https://github.com/emircanagac/voxpery) - Open-source, self-hostable chat, voice, video, and screen-sharing platform built with Axum and Tauri. [![CI](https://github.com/emircanagac/voxpery/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/emircanagac/voxpery/actions/workflows/ci.yml)
 
 ### Libraries / Game development
 
@@ -193,7 +191,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [l0ng-ai/openidea (⭐59)](https://github.com/l0ng-ai/openidea) - A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2. [![CI](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml)
+*   [l0ng-ai/openidea (⭐8k)](https://github.com/l0ng-ai/openidea) - A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2. [![CI](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml)
 
 ## [Oct 21, 2026](/content/2026/10/21/README.md)
 
@@ -392,7 +390,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [burakdede/aisw (⭐135)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
+*   [burakdede/aisw (⭐143)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
 
 ### Applications / Video
 
@@ -406,11 +404,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [storytold/cadcraft (⭐6.6k)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
+*   [storytold/cadcraft (⭐7.8k)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
 
 ### Applications / Image processing
 
-*   [storytold/lightcraft (⭐14k)](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+*   [storytold/lightcraft (⭐16k)](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
 
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
@@ -420,18 +418,18 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [leepokai/Codync (⭐764)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
+*   [leepokai/Codync (⭐2k)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
 
 ## [Oct 06, 2026](/content/2026/10/06/README.md)
 
 ### Applications / Social networks
 
 *   Matrix
-    *   [poljar/weechat-matrix-rs (⭐412)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
+    *   [poljar/weechat-matrix-rs (⭐409)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 
 ### Libraries / Artificial Intelligence
 
-*   [samvallad33/vestige (⭐656)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
+*   [samvallad33/vestige (⭐660)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -512,7 +510,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Authentication
 
-*   [tenuo-ai/tenuo (⭐101)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
+*   [tenuo-ai/tenuo (⭐105)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
 
 ### Libraries / Parsing
 
@@ -746,7 +744,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [lamco-admin/lamco-rdp-server (⭐139)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
+*   [lamco-admin/lamco-rdp-server (⭐147)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
 
 ## [Sep 05, 2026](/content/2026/09/05/README.md)
 
@@ -2759,7 +2757,7 @@ A curated list of Rust code and resources.
     *   [Keats/tera (⭐4.3k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.6k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
     *   [mitsuhiko/minijinja (⭐2.8k)](https://github.com/mitsuhiko/minijinja) \[[minijinja](https://crates.io/crates/minijinja)] - minimal dependency template engine based on Jinja2. [![Tests](https://img.shields.io/github/actions/workflow/status/mitsuhiko/minijinja/tests.yml?branch=main\&logo=github)](https://github.com/mitsuhiko/minijinja/actions/workflows/tests.yml)
-    *   [rshtml/rshtml (⭐41)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
+    *   [rshtml/rshtml (⭐43)](https://github.com/rshtml/rshtml) \[[rshtml](https://crates.io/crates/rshtml)] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.
     *   [Stebalien/horrorshow-rs (⭐351)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
@@ -5195,7 +5193,7 @@ A curated list of Rust code and resources.
     *   [LMDB](https://www.symas.com/lmdb.php) \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [meilisearch/heed (⭐920)](https://github.com/meilisearch/heed) \[[heed](https://crates.io/crates/heed)] - Fully typed LMDB wrappers with minimum overhead
         *   [vhbit/lmdb-rs (⭐113)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - Rust bindings for LMDB
-    *   [Minigraf (⭐214)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
+    *   [Minigraf (⭐225)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [MongrelDB](https://www.mongreldb.com)

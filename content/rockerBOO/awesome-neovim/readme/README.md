@@ -722,6 +722,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [wsdjeg/bufdel.nvim (⭐15)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 *   [m-demare/attempt.nvim (⭐94)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 *   [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
+*   [tiagovla/scope.nvim (⭐544)](https://github.com/tiagovla/scope.nvim) - Scope buffers to individual tabs while keeping native buffer navigation commands.
 
 <!--lint disable double-link -->
 
@@ -939,6 +940,7 @@ then it is not supported:
 *   [oxidescheme/nvim (⭐41)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 *   [RazikSF/lumina-themes (⭐0)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 *   [kryptamine/gruber-darker-renaissance (⭐10)](https://github.com/kryptamine/gruber-darker-renaissance) - ***`[TS][LSP][Lua]`*** A dark, minimal colorscheme based on Gruber Darker.
+*   [tiagovla/tokyodark.nvim (⭐619)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
 
 <!--lint disable double-link -->
 
