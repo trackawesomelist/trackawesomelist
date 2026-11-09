@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Authentication & Identity
+
+*   [Frontegg](https://frontegg.com/) - Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and a self-service admin portal for your customers.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### AI Coding

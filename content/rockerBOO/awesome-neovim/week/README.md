@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Project / Markdown and LaTeX
+
+*   [tiagovla/projet.nvim (⭐2)](https://github.com/tiagovla/projet.nvim) - A minimalist tool for managing your projects, with just enough French to feel fancy.
+
 ### Buffers / Markdown and LaTeX
 
 *   [tiagovla/scope.nvim (⭐544)](https://github.com/tiagovla/scope.nvim) - Scope buffers to individual tabs while keeping native buffer navigation commands.

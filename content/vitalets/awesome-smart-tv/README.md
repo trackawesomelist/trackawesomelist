@@ -6,59 +6,53 @@
 
 [ Daily / [Weekly](/content/vitalets/awesome-smart-tv/week/README.md) / [Overview](/content/vitalets/awesome-smart-tv/readme/README.md) ]
 
-## [Nov 02, 2026](/content/2026/11/02/README.md)
+## [Nov 09, 2026](/content/2026/11/09/README.md)
 
-### Android TV / Tools
+### Other Lists / Official resources
 
-*   [TV Box Tools](https://github.com/smartago/tvboxtools) - Launcher manager and ADB toolbox for Android TV and Google TV boxes: set the HOME app, kiosk, speed-up, display, remote, console, MCP server.
+*   [awesome-webos (⭐230)](https://github.com/tolgakurtuluss/awesome-webos) <sub><img src="https://img.shields.io/github/stars/tolgakurtuluss/awesome-webos?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/tolgakurtuluss/awesome-webos?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A curated list of resources for webOS.
 
 ## [Oct 20, 2026](/content/2026/10/20/README.md)
 
 ### Testing / Official resources
 
-*   [Optics (⭐57)](https://github.com/mozarkai/optics-framework) - Test automation for Android TV, Samsung Tizen and LG webOS apps through Appium, with tests written as CSV or YAML steps that press remote-control keys and check the screen by text, OCR or image. Also runs on Android, iOS and web (python).
+*   [Optics (⭐65)](https://github.com/mozarkai/optics-framework) <sub><img src="https://img.shields.io/github/stars/mozarkai/optics-framework?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/mozarkai/optics-framework?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Test automation for Android TV, Samsung Tizen and LG webOS apps through Appium, with tests written as CSV or YAML steps that press remote-control keys and check the screen by text, OCR or image. Also runs on Android, iOS and web (python).
 
 ## [Oct 18, 2026](/content/2026/10/18/README.md)
 
 ### Samsung Tizen / Other
 
-*   [TizenBrew (⭐1.7k)](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
-*   [TizenTube (⭐2.4k)](https://github.com/reisxd/TizenTube) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+*   [TizenBrew (⭐1.7k)](https://github.com/reisxd/TizenBrew) <sub><img src="https://img.shields.io/github/stars/reisxd/TizenBrew?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/reisxd/TizenBrew?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+*   [TizenTube (⭐2.4k)](https://github.com/reisxd/TizenTube) <sub><img src="https://img.shields.io/github/stars/reisxd/TizenTube?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/reisxd/TizenTube?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 
 ### LG webOS / Third-party remote control libraries
 
-*   [ares-webos-sdk (⭐6)](https://github.com/enyojs/ares-webos-sdk) - webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (JavaScript).
-*   [go-webos (⭐14)](https://github.com/kaperys/go-webos) - A small Go library for interaction with webOS TVs (golang).
-
-## [Sep 23, 2026](/content/2026/09/23/README.md)
-
-### Samsung Tizen / Other
-
-*   [Invidious Tizen (⭐0)](https://github.com/lennartschoch/invidious-tizen) - An Invidious client for Samsung Tizen TVs via TizenBrew, with D-pad navigation and full remote-control support (TypeScript).
+*   [ares-webos-sdk (⭐6)](https://github.com/enyojs/ares-webos-sdk) <sub><img src="https://img.shields.io/github/stars/enyojs/ares-webos-sdk?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/enyojs/ares-webos-sdk?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (JavaScript).
+*   [go-webos (⭐14)](https://github.com/kaperys/go-webos) <sub><img src="https://img.shields.io/github/stars/kaperys/go-webos?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/kaperys/go-webos?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A small Go library for interaction with webOS TVs (golang).
 
 ## [Jul 27, 2026](/content/2026/07/27/README.md)
 
 ### Samsung Tizen / Other
 
-*   [Beam-TV (⭐17)](https://github.com/TAGISWILD/beam-tv) - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
+*   [Beam-TV (⭐17)](https://github.com/TAGISWILD/beam-tv) <sub><img src="https://img.shields.io/github/stars/TAGISWILD/beam-tv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/TAGISWILD/beam-tv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 
 ## [Jun 14, 2026](/content/2026/06/14/README.md)
 
 ### Cross-platform tools / Official resources
 
-*   [Fluxcast (⭐456)](https://github.com/IlyaP358/fluxcast) - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+*   [Fluxcast (⭐456)](https://github.com/IlyaP358/fluxcast) <sub><img src="https://img.shields.io/github/stars/IlyaP358/fluxcast?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/IlyaP358/fluxcast?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
 
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Cross-platform tools / Official resources
 
-*   [smartest-tv (⭐56)](https://github.com/Hybirdss/smartest-tv) - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
+*   [smartest-tv (⭐56)](https://github.com/Hybirdss/smartest-tv) <sub><img src="https://img.shields.io/github/stars/Hybirdss/smartest-tv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/Hybirdss/smartest-tv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## [Feb 03, 2021](/content/2021/02/03/README.md)
 
 ### Testing / Official resources
 
-*   [stb-tester (⭐195)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
+*   [stb-tester (⭐195)](https://github.com/stb-tester/stb-tester) <sub><img src="https://img.shields.io/github/stars/stb-tester/stb-tester?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/stb-tester/stb-tester?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
 
 ## [Nov 25, 2020](/content/2020/11/25/README.md)
 
@@ -80,65 +74,68 @@
 
 ### Misc / Official resources
 
-*   [docker-tizen-webos-sdk (⭐137)](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
+*   [docker-tizen-webos-sdk (⭐137)](https://github.com/vitalets/docker-tizen-webos-sdk) <sub><img src="https://img.shields.io/github/stars/vitalets/docker-tizen-webos-sdk?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/vitalets/docker-tizen-webos-sdk?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
 
 ## [Jun 30, 2020](/content/2020/06/30/README.md)
 
 ### Misc / Official resources
 
 *   [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
-*   [awesome-smarttv (⭐166)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
+
+### Other Lists / Official resources
+
+*   [awesome-smarttv (⭐166)](https://github.com/linuxenko/awesome-smarttv) <sub><img src="https://img.shields.io/github/stars/linuxenko/awesome-smarttv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/linuxenko/awesome-smarttv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
 
 ## [Jun 16, 2020](/content/2020/06/16/README.md)
 
 ### Navigation libraries / Official resources
 
-*   [js-spatial-navigation (⭐431)](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
-*   [react-js-spatial-navigation (⭐33)](https://github.com/dead/react-js-spatial-navigation) - A wrapper of js-spatial-navigation to react components.
-*   [react-key-navigation (⭐76)](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
-*   [react-spatial-navigation (⭐226)](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
+*   [js-spatial-navigation (⭐431)](https://github.com/luke-chang/js-spatial-navigation) <sub><img src="https://img.shields.io/github/stars/luke-chang/js-spatial-navigation?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/luke-chang/js-spatial-navigation?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A javascript-based implementation of Spatial Navigation.
+*   [react-js-spatial-navigation (⭐33)](https://github.com/dead/react-js-spatial-navigation) <sub><img src="https://img.shields.io/github/stars/dead/react-js-spatial-navigation?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/dead/react-js-spatial-navigation?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A wrapper of js-spatial-navigation to react components.
+*   [react-key-navigation (⭐76)](https://github.com/dead/react-key-navigation) <sub><img src="https://img.shields.io/github/stars/dead/react-key-navigation?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/dead/react-key-navigation?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
+*   [react-spatial-navigation (⭐226)](https://github.com/NoriginMedia/react-spatial-navigation) <sub><img src="https://img.shields.io/github/stars/NoriginMedia/react-spatial-navigation?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/NoriginMedia/react-spatial-navigation?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - HOC-based Spatial Navigation (key navigation) solution for React.
 
 ## [May 21, 2020](/content/2020/05/21/README.md)
 
 ### Cross-platform frameworks / Official resources
 
-*   [ZombieBox (⭐113)](https://github.com/interfaced/zombiebox) - An open source Smart TV framework. Strongly typed JavaScript, component based, built-in D-PAD navigation management, abstract video API with DRM for all platforms. Supports many platforms like Tizen, webOS, Android TV, etc.
+*   [ZombieBox (⭐113)](https://github.com/interfaced/zombiebox) <sub><img src="https://img.shields.io/github/stars/interfaced/zombiebox?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/interfaced/zombiebox?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - An open source Smart TV framework. Strongly typed JavaScript, component based, built-in D-PAD navigation management, abstract video API with DRM for all platforms. Supports many platforms like Tizen, webOS, Android TV, etc.
 
 ## [May 04, 2020](/content/2020/05/04/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
-*   [PyWebOSTV (⭐317)](https://github.com/supersaiyanmode/PyWebOSTV) - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
+*   [PyWebOSTV (⭐317)](https://github.com/supersaiyanmode/PyWebOSTV) <sub><img src="https://img.shields.io/github/stars/supersaiyanmode/PyWebOSTV?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/supersaiyanmode/PyWebOSTV?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 
 ## [Jan 16, 2020](/content/2020/01/16/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsung-tv-control (⭐196)](https://github.com/Toxblh/samsung-tv-control) - Library for remote control Samsung TV in your Node.js
+*   [samsung-tv-control (⭐196)](https://github.com/Toxblh/samsung-tv-control) <sub><img src="https://img.shields.io/github/stars/Toxblh/samsung-tv-control?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/Toxblh/samsung-tv-control?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Library for remote control Samsung TV in your Node.js
 
 ## [Oct 01, 2019](/content/2019/10/01/README.md)
 
 ### Samsung Tizen / Other
 
-*   [Tizen Studio development references (⭐5)](https://github.com/claromes/tizenstudio) - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
+*   [Tizen Studio development references (⭐5)](https://github.com/claromes/tizenstudio) <sub><img src="https://img.shields.io/github/stars/claromes/tizenstudio?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/claromes/tizenstudio?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 
 ## [Feb 13, 2019](/content/2019/02/13/README.md)
 
 ### Samsung Tizen / Official resources
 
-*   [Wits (⭐124)](https://github.com/Samsung/Wits) - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
+*   [Wits (⭐124)](https://github.com/Samsung/Wits) <sub><img src="https://img.shields.io/github/stars/Samsung/Wits?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/Samsung/Wits?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
 
 ## [Feb 06, 2019](/content/2019/02/06/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
-*   [homebridge-webos-tv (⭐712)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
+*   [homebridge-webos-tv (⭐712)](https://github.com/merdok/homebridge-webos-tv) <sub><img src="https://img.shields.io/github/stars/merdok/homebridge-webos-tv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/merdok/homebridge-webos-tv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
 ## [Jan 09, 2019](/content/2019/01/09/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsung-messagebox (⭐56)](https://github.com/shantanugoel/samsung-messagebox) - Python script to show notifications on Samsung TVs.
+*   [samsung-messagebox (⭐56)](https://github.com/shantanugoel/samsung-messagebox) <sub><img src="https://img.shields.io/github/stars/shantanugoel/samsung-messagebox?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/shantanugoel/samsung-messagebox?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Python script to show notifications on Samsung TVs.
 
 ## [Dec 18, 2018](/content/2018/12/18/README.md)
 
@@ -150,23 +147,23 @@
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [homebridge-samsungtv2016 (⭐56)](https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
-*   [homebridge-samsung-tizen (⭐681)](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
+*   [homebridge-samsungtv2016 (⭐56)](https://github.com/kyleaa/homebridge-samsungtv2016) <sub><img src="https://img.shields.io/github/stars/kyleaa/homebridge-samsungtv2016?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/kyleaa/homebridge-samsungtv2016?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
+*   [homebridge-samsung-tizen (⭐681)](https://github.com/tavicu/homebridge-samsung-tizen) <sub><img src="https://img.shields.io/github/stars/tavicu/homebridge-samsung-tizen?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/tavicu/homebridge-samsung-tizen?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A plugin for [Homebridge (⭐26k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 
 ## [Sep 18, 2018](/content/2018/09/18/README.md)
 
 ### Cross-platform frameworks / Official resources
 
-*   [Mautilus Smart TV SDK (⭐102)](https://github.com/mautilus/sdk) - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
+*   [Mautilus Smart TV SDK (⭐102)](https://github.com/mautilus/sdk) <sub><img src="https://img.shields.io/github/stars/mautilus/sdk?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/mautilus/sdk?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
 *   [BBC TAL](https://bbc.github.io/tal/) - An open source library for building applications for Smart TV developed by BBC engineers.
-*   [PureQML TV (⭐33)](https://github.com/pureqml/qmlcore-tv) - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
+*   [PureQML TV (⭐33)](https://github.com/pureqml/qmlcore-tv) <sub><img src="https://img.shields.io/github/stars/pureqml/qmlcore-tv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/pureqml/qmlcore-tv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
 
 ## [Sep 10, 2018](/content/2018/09/10/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
-*   [SmartCrypto (⭐12)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
+*   [samsung-remote-models-2014-and-newer (⭐53)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) <sub><img src="https://img.shields.io/github/stars/tdudek/samsung-remote-models-2014-and-newer?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/tdudek/samsung-remote-models-2014-and-newer?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Encrypted communication with the internal web service of Samsung TV models 2014+.
+*   [SmartCrypto (⭐12)](https://github.com/sectroyer/SmartCrypto) <sub><img src="https://img.shields.io/github/stars/sectroyer/SmartCrypto?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/sectroyer/SmartCrypto?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - SmartView2 encrypted handshake API implementation in C/Python.
 
 ## [Mar 19, 2018](/content/2018/03/19/README.md)
 
@@ -178,7 +175,7 @@
 
 ### Navigation libraries / Official resources
 
-*   [lrud (⭐33)](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
+*   [lrud (⭐33)](https://github.com/stuart-williams/lrud) <sub><img src="https://img.shields.io/github/stars/stuart-williams/lrud?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/stuart-williams/lrud?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
 
 ## [Dec 01, 2017](/content/2017/12/01/README.md)
 
@@ -190,7 +187,7 @@
 
 ### Cross-platform frameworks / Official resources
 
-*   [react-tv (⭐2k)](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
+*   [react-tv (⭐2k)](https://github.com/raphamorim/react-tv) <sub><img src="https://img.shields.io/github/stars/raphamorim/react-tv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/raphamorim/react-tv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
 
 ## [Sep 01, 2017](/content/2017/09/01/README.md)
 
@@ -214,7 +211,7 @@
 
 ### LG webOS / Third-party remote control libraries
 
-*   [lgtv2mqtt (⭐114)](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
+*   [lgtv2mqtt (⭐114)](https://github.com/hobbyquaker/lgtv2mqtt) <sub><img src="https://img.shields.io/github/stars/hobbyquaker/lgtv2mqtt?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/hobbyquaker/lgtv2mqtt?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 
 ## [Aug 03, 2017](/content/2017/08/03/README.md)
 
@@ -227,8 +224,8 @@
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsungctl (⭐738)](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
-*   [samsung-tv-remote (⭐58)](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
+*   [samsungctl (⭐738)](https://github.com/Ape/samsungctl) <sub><img src="https://img.shields.io/github/stars/Ape/samsungctl?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/Ape/samsungctl?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
+*   [samsung-tv-remote (⭐58)](https://github.com/Badisi/samsung-tv-remote) <sub><img src="https://img.shields.io/github/stars/Badisi/samsung-tv-remote?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/Badisi/samsung-tv-remote?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
 
 ### LG webOS / Official resources
 
@@ -239,11 +236,11 @@
 
 ### LG webOS / Third-party remote control libraries
 
-*   [lgtv2 (⭐352)](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
-*   [node-red-contrib-lgtv (⭐60)](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript).
-*   [node-webos (⭐32)](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript).
-*   [pylgtv (⭐76)](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (Python).
-*   [LGWebOSRemote (⭐665)](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (Python).
+*   [lgtv2 (⭐352)](https://github.com/hobbyquaker/lgtv2) <sub><img src="https://img.shields.io/github/stars/hobbyquaker/lgtv2?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/hobbyquaker/lgtv2?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
+*   [node-red-contrib-lgtv (⭐60)](https://github.com/hobbyquaker/node-red-contrib-lgtv) <sub><img src="https://img.shields.io/github/stars/hobbyquaker/node-red-contrib-lgtv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/hobbyquaker/node-red-contrib-lgtv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript).
+*   [node-webos (⭐32)](https://github.com/WeeJeWel/node-webos) <sub><img src="https://img.shields.io/github/stars/WeeJeWel/node-webos?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/WeeJeWel/node-webos?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Node.js module to discover and control webOS TVs (JavaScript).
+*   [pylgtv (⭐76)](https://github.com/TheRealLink/pylgtv) <sub><img src="https://img.shields.io/github/stars/TheRealLink/pylgtv?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/TheRealLink/pylgtv?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Library to control webOS based LG Tv devices (Python).
+*   [LGWebOSRemote (⭐665)](https://github.com/klattimer/LGWebOSRemote) <sub><img src="https://img.shields.io/github/stars/klattimer/LGWebOSRemote?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/klattimer/LGWebOSRemote?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Command line tool for webOS remote control of LG TVs (Python).
 
 ### LG webOS / Videos
 
@@ -266,7 +263,7 @@
 
 ### Cross-platform frameworks / Official resources
 
-*   [Smartbox (⭐247)](https://github.com/immosmart/smartbox) - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
+*   [Smartbox (⭐247)](https://github.com/immosmart/smartbox) <sub><img src="https://img.shields.io/github/stars/immosmart/smartbox?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/immosmart/smartbox?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
 
 ### Remote control protocols / Official resources
 

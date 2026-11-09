@@ -96,6 +96,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 
+*   [Buggregator (⭐1.1k)](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
+
 *   [DeepfakeHTTP (⭐524)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 *   [fakecloud (⭐773)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
@@ -336,6 +338,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Static Analysis
 
 *   [SmartBench (⭐4)](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
+*   [test-inventory (⭐4)](https://github.com/Huldoser/test-inventory) - Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.
 
 ## Books
 

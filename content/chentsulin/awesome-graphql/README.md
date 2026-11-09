@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Nov 09, 2026](/content/2026/11/09/README.md)
+
+### Tools - API Clients & Workbenches / React
+
+*   [Gostman (⭐67)](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
+
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
 ### Databases & Data Platforms / React
@@ -363,7 +369,7 @@ Awesome list of GraphQL
 
 ### Tools - Testing, Prototyping & Mocking / React
 
-*   [mockd (⭐150)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
+*   [mockd (⭐154)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 
 ## [Jan 06, 2026](/content/2026/01/06/README.md)
 

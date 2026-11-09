@@ -8,9 +8,17 @@ A curated list of testing resources
 
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
+### Software / Service Virtualization
+
+*   [Buggregator (⭐1.1k)](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
+
 ### Software / Test Automation Frameworks
 
 *   [blastradius (⭐13)](https://github.com/baokhang83/blastradius) - Test impact analysis for JVM projects (Maven, Gradle, JUnit 5) that runs only the tests affected by a change, using class dependencies recorded by a Java agent.
+
+### Software / Static Analysis
+
+*   [test-inventory (⭐4)](https://github.com/Huldoser/test-inventory) - Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.
 
 ## [Nov 08, 2026](/content/2026/11/08/README.md)
 

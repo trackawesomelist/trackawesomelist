@@ -6,6 +6,12 @@ An awesome list that curates the best QGis frameworks, libraries, tools, plugins
 
 [ [Daily](/content/totpero/awesome-qgis/README.md) / Weekly / [Overview](/content/totpero/awesome-qgis/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Data Sources / Field and Mobile
+
+*   [Geoscience Data Portals (⭐2)](https://github.com/XploraHub/geoscience-data-portals) - Connection files for the WMS and WFS services of government geological surveys, loaded through the Data Source Manager.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Tutorials / Field and Mobile

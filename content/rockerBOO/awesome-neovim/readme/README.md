@@ -694,6 +694,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [OscarCreator/rsync.nvim (⭐103)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 *   [zachyarbrough/anchor.nvim (⭐17)](https://github.com/zachyarbrough/anchor.nvim) - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
 *   [Rimkomatic/vimtagger.nvim (⭐6)](https://github.com/Rimkomatic/vimtagger.nvim) - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
+*   [tiagovla/projet.nvim (⭐2)](https://github.com/tiagovla/projet.nvim) - A minimalist tool for managing your projects, with just enough French to feel fancy.
 
 <!--lint disable double-link -->
 

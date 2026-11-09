@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Messaging and Streaming
+
+*   [notifysphere.net](https://notifysphere.net/) - All-in-one Customer Engagement and Automation Tool ( push notifications, whatsapp messages, helpdesk, tracker link and events tracking) for SaaS. Free for up to 1,000 active users per month.
+
+### DNS
+
+*   [DNSvivo](https://dnsvivo.com/) - Free managed DNS with automatic failover, weighted load balancing, and Dynamic DNS (DDNS). Includes 2 domains, 5 IP addresses monitored from 5 locations, and 3 DDNS records.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### APIs, Data, and ML
@@ -483,7 +493,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Storage and Media Processing
 
-*   [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 50 videos, 1 GB per file, and 250 GB bandwidth per month.
+*   [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 10 videos, 200 MB per file, and 50 GB bandwidth per month.
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
@@ -1110,7 +1120,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [Apply.build](https://apply.build/) - Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
 *   [Daestro](https://daestro.com) - Run compute jobs across Cloud Providers & On-Prem. The free tier includes up to 10 concurrent job runs, 2 compute spawns, self-hosted compute, 1 cloud provider, 1 container registry and 1 cron job.
 
 ### Analytics, Events and Statistics

@@ -12,6 +12,15 @@ A curated list of Rust code and resources.
 
 *   [ModernRelay/omnigraph (⭐1.9k)](https://github.com/ModernRelay/omnigraph) - Typed property graph database that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query. [![CI](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml)
 
+### Applications / Productivity
+
+*   [glimpse-hq/Glimpse (⭐62)](https://github.com/glimpse-hq/Glimpse) - Local voice dictation and meeting transcription for macOS and Windows, built with Tauri. Speech recognition and speaker labels run on your computer.
+
+### Libraries / GUI
+
+*   [IUP](https://webserver2.tecgraf.puc-rio.br/iup/)
+    *   [Kiss-ui (⭐344)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Applications / Database
@@ -177,11 +186,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [jangtrinh/design-os-studio (⭐71)](https://github.com/jangtrinh/design-os-studio) - GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.
+*   [jangtrinh/design-os-studio (⭐87)](https://github.com/jangtrinh/design-os-studio) - GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.
 
 ### Applications / MLOps
 
-*   [respanai/respan-gateway (⭐290)](https://github.com/respanai/respan-gateway) \[[respan-gateway](https://crates.io/crates/respan-gateway)] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI. [![CI](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml)
+*   [respanai/respan-gateway (⭐655)](https://github.com/respanai/respan-gateway) \[[respan-gateway](https://crates.io/crates/respan-gateway)] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI. [![CI](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml)
 
 ### Applications / Web Servers
 
@@ -386,7 +395,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [storytold/vectorcraft (⭐11k)](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
+*   [storytold/vectorcraft (⭐12k)](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
 
 ### Applications / Productivity
 
@@ -394,7 +403,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [storytold/effectcraft (⭐7.9k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
+*   [storytold/effectcraft (⭐8.6k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
 
 ### Libraries / Data processing
 
@@ -1028,7 +1037,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [Michael-A-Kuykendall/shimmytok (⭐25)](https://github.com/Michael-A-Kuykendall/shimmytok) \[[shimmytok](https://crates.io/crates/shimmytok)] - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
+*   [Michael-A-Kuykendall/shimmytok (⭐26)](https://github.com/Michael-A-Kuykendall/shimmytok) \[[shimmytok](https://crates.io/crates/shimmytok)] - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
 
 ### Libraries / Peripherals
 
@@ -1042,7 +1051,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [PodFetch (⭐519)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
+*   [PodFetch (⭐523)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
 
 ### Applications / Security tools
 
@@ -6807,11 +6816,6 @@ A curated list of Rust code and resources.
 ### Libraries / Configuration
 
 *   [Kixunil/configure\_me (⭐70)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
-
-### Libraries / GUI
-
-*   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐344)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
 
 ### Libraries / Network programming
 

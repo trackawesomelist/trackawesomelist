@@ -21,6 +21,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 *   [Official Resources](#official-resources)
 *   [Documentation](#documentation)
 *   [Plugins](#plugins)
+*   [Data Sources](#data-sources)
 *   [Tutorials](#tutorials)
 *   [Videos](#videos)
 *   [Books](#books)
@@ -111,6 +112,10 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 ### Field and Mobile
 
 *   [QField Sync](https://plugins.qgis.org/plugins/qfieldsync/) - Synchronize projects with QField mobile app for fieldwork.
+
+## Data Sources
+
+*   [Geoscience Data Portals (⭐2)](https://github.com/XploraHub/geoscience-data-portals) - Connection files for the WMS and WFS services of government geological surveys, loaded through the Data Source Manager.
 
 ## Tutorials
 
