@@ -8,9 +8,9 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ---
 
-**NOTE ON AI USAGE AND SLOP PROGRAMS**: the use of AI tools significantly increased the amount of programs that are submitted to this Awesome List. Among worthy programs, there are many slop and poorly engineered programs, usually completely vibe coded, tools that add no value to existing consolidated ones, programs that address too specific problem to be of general interest, or programs that are likely the result of a mere experimentation with AI tools and which will probably not be maintained or further developed.
+**NOTE ON AI USAGE AND SLOP PROGRAMS**: the use of AI tools significantly increased the amount of programs that are submitted to this Awesome List. Among worthy programs, there are many slop and poorly engineered programs, usually completely vibe coded, tools that add no value to existing consolidated ones, programs that address too specific problems to be of general interest, or programs that are likely the result of a mere experimentation with AI tools and which will probably not be maintained or further developed.
 
-For this reasons, please expect delays in the evaluation of your request to include a new program. I am not against the use of AI tools for development, but this makes really hard the judging of the quality of a new program and thus its inclusion in the list. To increase the change to get the program included in the list, an objective evaluation of why the submitted program differs from any similar programs would help.
+For this reasons, please expect delays in the evaluation of your request to include a new program. I am not against the use of AI tools for development, but this makes really hard the judgement of the quality of a new program and thus its inclusion in the list. To increase the chance to get the program included in the list, an objective evaluation of why the submitted program differs from any similar programs would help.
 
 # Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-*   Apps/tools: **2221**
+*   Apps/tools: **2226**
 *   Categories: **87**
 
 # Contents
@@ -56,7 +56,7 @@ Summary:
 
 ## [Text and Data Processing](#text-and-data-processing-1)
 
-*   [Text processing](#text-processing) (58)
+*   [Text processing](#text-processing) (59)
 *   [Data management](#data-management) (18)
 *   [Data management - JSON/YAML/etc.](#data-management-json) (47)
 *   [Data management - Tabular data](#data-management-tabular) (36)
@@ -89,7 +89,7 @@ Summary:
 *   [Package managers](#package-manager) (25)
 *   [Containerization and virtualization](#vm) (25)
 *   [Command launchers](#launcher) (28)
-*   [Dotfile managers](#dotfiles) (5)
+*   [Dotfile managers](#dotfiles) (6)
 *   [Font management](#font) (6)
 
 ## [Communication and Networking](#communication-and-networking-1)
@@ -97,7 +97,7 @@ Summary:
 *   [Email](#email) (23)
 *   [Chat and instant messaging](#chat) (51)
 *   [Networking](#networking) (87)
-*   [Connection managers](#connection-manager) (12)
+*   [Connection managers](#connection-manager) (13)
 *   [Data transfer](#transfer) (47)
 *   [Torrent](#torrent) (10)
 *   [RSS](#rss) (12)
@@ -114,7 +114,7 @@ Summary:
 
 ## [Productivity](#productivity-1)
 
-*   [AI / LLM integration](#ai) (48)
+*   [AI / LLM integration](#ai) (49)
 *   [Productivity](#productivity) (19)
 *   [Office tools](#office) (23)
 *   [Writing](#writing) (12)
@@ -143,7 +143,7 @@ Summary:
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
 
 *   [Utilities](#utility) (47)
-*   [Weather](#weather) (6)
+*   [Weather](#weather) (7)
 
 ## [Learning and Leisure](#learning-and-leisure-1)
 
@@ -533,7 +533,7 @@ Utilities to convert different types of files.
 *   [jsonify-resume (⭐7)](https://github.com/ashishbinu/jsonify-resume) - A CLI that converts resumes into JSON Resume schema.
 *   [lx (⭐55)](https://github.com/rasros/lx) - Convert arbitrary files into Markdown-fenced blocks for LLM context.
 *   [markdrop (⭐210)](https://github.com/shoryasethia/markdrop) - Converts PDFs to markdown while extracting images and tables, generating descriptive text descriptions for extracted tables/images using several LLM clients.
-*   [MarkItDown (⭐192k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+*   [MarkItDown (⭐195k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [NestedTextTo (⭐23)](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 *   [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, DOCX, ODT, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
 *   [scss-to-css](https://github.com/adamlui/scss-to-css/#readme) - Recursively compile all SCSS files into minified CSS.
@@ -595,6 +595,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 *   [ssam (⭐2)](https://github.com/proycon/ssam) - Ssam, short for split sampler, splits one or more text-based input files into multiple sets using random sampling. This is useful for splitting data into a training, test and development sets.
 *   [stam-tools (⭐4)](https://github.com/annotation/stam-tools) - A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text.
 *   [swordfish-rs (⭐52)](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.
+*   [TeXicode (⭐66)](https://github.com/dxddxx/TeXicode) - TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX.
 *   [to-double-quotes (⭐22)](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
 *   [to-single-quotes (⭐27)](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
 *   [toc (⭐14)](https://github.com/AlphaJack/toc) - Generate a table of contents from the comments of a file.
@@ -957,7 +958,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 *   [PesterExplorer (⭐26)](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
 *   [pire (⭐124)](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 *   [pproftui (⭐280)](https://github.com/Oloruntobi1/pproftui) - TUI for Go's pprof that makes profiling interactive, intuitive, and fast.
-*   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
+*   [PuDB (⭐3.3k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 *   [pvcheck (⭐5)](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
 *   [pwgo (⭐14)](https://github.com/dennisbergevin/pwgo) - Interactive local run replament command for npx playwright test.
 *   [QuickStart (⭐3)](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node\_js, Bash and more.
@@ -1111,7 +1112,7 @@ System management tools, such as for brightness control, dotfile and environment
 *   [immortal (⭐844)](https://github.com/immortal/immortal) - A \*nix cross-platform (OS agnostic) supervisor.
 *   [inshellisense (⭐11k)](https://github.com/microsoft/inshellisense) - IDE style command line auto complete with support for 600+ command line tools.
 *   [joshfile (⭐5)](https://github.com/if-not-nil/joshfile) - Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file.
-*   [just (⭐36k)](https://github.com/casey/just) - Handy way to save and run project-specific commands.
+*   [just (⭐37k)](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 *   [Kill (⭐3)](https://github.com/unsigned-enby/Kill) - Small bash-only script for killing processes/sending signals.
 *   [kill-tabs (⭐392)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 *   [killport (⭐1.8k)](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
@@ -1402,6 +1403,7 @@ Tools to handle, backup and share system dotfiles.
 
 *   [chezmoi](https://www.chezmoi.io/) - Manage your dotfiles across multiple diverse machines, securely.
 *   [dotbins (⭐272)](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
+*   [dudu (⭐6)](https://github.com/fontnelle/dudu) - Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows.
 *   [fyora (⭐17)](https://github.com/wenbang24/fyora) - Intuitive declarative dotfile management.
 *   [YAS-BDSM (⭐61)](https://github.com/sebastiancarlos/yas-bdsm) - YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager.
 *   [ydf (⭐29)](https://github.com/yunielrc/ydf) - A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
@@ -1599,6 +1601,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 
 Manage Bluetooth and Wifi networks, and SSH connections.
 
+*   [bayesian-ssh (⭐19)](https://github.com/abdoufermat5/bayesian-ssh) - SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing.
 *   [bluetui (⭐3.1k)](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
 *   [bluetuith (⭐1.4k)](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 *   [blueutil-tui (⭐54)](https://github.com/Zaloog/blueutil-tui) - TUI for Mac to interact with bluetooth devices via blueutil.
@@ -1995,6 +1998,7 @@ Interfaces and front-ends to LLM engines and other tools powered by artificial i
 *   [parllama (⭐495)](https://github.com/paulrobello/parllama) - TUI designed for easy management and use of Ollama based LLMs.
 *   [safespace (⭐38)](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 *   [savvy-cli (⭐465)](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
+*   [shell\_sage (⭐408)](https://github.com/AnswerDotAI/shell_sage) - AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system.
 *   [tenere (⭐686)](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama\_cpp, ollama) written in Rust.
 *   [termite (⭐422)](https://github.com/shobrook/termite) - Generative UI in your terminal.
 *   [unibear (⭐113)](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
@@ -2389,7 +2393,7 @@ File viewers for images and other formats (e.g., e-books).
 *   [ccat (⭐3.2k)](https://github.com/owenthereal/ccat) - `cat` with colorized output.
 *   [dashbrew (⭐278)](https://github.com/rasjonell/dashbrew) - TUI dashboard builder that lets you visualize data from scripts and APIs.
 *   [epy (⭐1.2k)](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader.
-*   [fancy-cat (⭐575)](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
+*   [fancy-cat (⭐580)](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
 *   [GopherTube (⭐431)](https://github.com/krishnassh/gophertube) - A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
 *   [hackernews-TUI (⭐723)](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News.
 *   [haxor-news (⭐4.1k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
@@ -2435,7 +2439,7 @@ Screen savers with animations for the idle times of the computer.
 
 *   [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
 *   [conway-screensaver (⭐19)](https://github.com/cdkw2/conway-screensaver) - A Conways game of life screensaver for the terminal.
-*   [gitlogue (⭐5.2k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+*   [gitlogue (⭐5.3k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 *   [lifecycler (⭐186)](https://github.com/cxreiff/lifecycler) - An aquarium that runs in your terminal.
 *   [pipes.sh (⭐3k)](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 *   [sclocka (⭐37)](https://github.com/mezantrop/sclocka) - The real screensaver/lock for terminals.
@@ -2604,6 +2608,7 @@ Information about the weather, fetched from the Internet.
 *   [Aniweather (⭐0)](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 *   [gust (⭐29)](https://github.com/josephburgess/gust) - Command line weather app written in Go.
 *   [Raijin (⭐179)](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
+*   [rustormy (⭐91)](https://github.com/Tairesh/rustormy) - Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes.
 *   [tempy (⭐194)](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 *   [weather-cli (⭐95)](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 *   [wego (⭐8.6k)](https://github.com/schachmat/wego) - Weather app for the terminal.

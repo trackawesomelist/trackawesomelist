@@ -6,6 +6,28 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ [Daily](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) / Weekly / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Text processing
+
+*   [TeXicode (⭐66)](https://github.com/dxddxx/TeXicode) - TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX.
+
+### Dotfile managers
+
+*   [dudu (⭐6)](https://github.com/fontnelle/dudu) - Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows.
+
+### Connection managers
+
+*   [bayesian-ssh (⭐19)](https://github.com/abdoufermat5/bayesian-ssh) - SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing.
+
+### AI / LLM integration
+
+*   [shell\_sage (⭐408)](https://github.com/AnswerDotAI/shell_sage) - AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system.
+
+### Weather
+
+*   [rustormy (⭐91)](https://github.com/Tairesh/rustormy) - Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### File and file system handling
@@ -756,7 +778,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Screen savers
 
-*   [gitlogue (⭐5.2k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+*   [gitlogue (⭐5.3k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -772,7 +794,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Programming
 
 *   [pproftui (⭐280)](https://github.com/Oloruntobi1/pproftui) - TUI for Go's pprof that makes profiling interactive, intuitive, and fast.
-*   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
+*   [PuDB (⭐3.3k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 *   [sls-dev-tools (⭐871)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 
 ### DevOps
@@ -1217,7 +1239,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Viewers
 
-*   [fancy-cat (⭐575)](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
+*   [fancy-cat (⭐580)](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
 *   [kat (⭐30)](https://github.com/terroo/kat) - A `cat` command with syntax highlight, with support for several common programming languages.
 *   [lspp (⭐33)](https://github.com/terroo/lspp) - An alternative to the `ls` command with display of icons of files and folders and with colors.
 *   [treepp (⭐33)](https://github.com/terroo/treepp) - The `tree` command with icons made with Modern C++.
@@ -1659,7 +1681,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### File format converters
 
-*   [MarkItDown (⭐192k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+*   [MarkItDown (⭐195k)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ### Fuzzy finders and option pickers
 
@@ -4303,7 +4325,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### System tools
 
-*   [just (⭐36k)](https://github.com/casey/just) - Handy way to save and run project-specific commands.
+*   [just (⭐37k)](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 *   [killport (⭐1.8k)](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 
 ### Terminal multiplexers and accessories

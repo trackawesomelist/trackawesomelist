@@ -110,6 +110,7 @@ For more information about communication, see the [Ansible communication guide](
 *   [AWX (⭐16k)](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
 *   [Ansible Lint (⭐3.9k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 *   [ansible-static-lint (⭐34)](https://github.com/arhuman/ansible-static-lint) - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
+*   [ansible-vars (⭐4)](https://github.com/xorwow/ansible-vars) - `ansible-vault` replacement that supports encrypting individual vault variables.
 *   [Ansible Doctor (⭐158)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 *   [Ansible DocSmith (⭐26)](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 *   [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.

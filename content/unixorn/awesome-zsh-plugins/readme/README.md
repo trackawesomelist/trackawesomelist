@@ -1428,6 +1428,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [gtm-terminal-plugin (⭐17)](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics (⭐1k)](https://github.com/git-time-metric/gtm).
 *   [gtr (⭐0)](https://github.com/Zocker1999NET/zsh-gtr) - Allows fast tagging of a release in `git` using the tag name \**release-YYYY-MM-DD-HH-MM*- and headline **Release YYYY-MM-DD HH:MM**.
 *   [guesswork (⭐5)](https://github.com/findmalek/guesswork) - Fish-style history autosuggestions ranked by an AI model instead of prefix matching, so an abbreviation or a short description of what you want finds the right command out of your recent history.
+*   [gui-detach (⭐0)](https://github.com/4h2u/auto.detach) - Returns the prompt in interactive ZSH when a GUI app is launched on Linux, and leaves CLI tools in the foreground.
 *   [guish (⭐7)](https://github.com/gcarrarom/oh-my-guish) - Collection of utility functions and aliases.
 *   [gumsible (⭐3)](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - Wrapper plugin for [Molecule](https://molecule.readthedocs.io/).
 *   [gunstage (⭐67)](https://github.com/LucasLarson/gunstage) - There are at least eight ways to unstage files in a `git` repository. This is a command-line shell plugin for undoing `git add`.
@@ -2058,6 +2059,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [workon (⭐7)](https://github.com/bryanculver/workon.plugin.zsh) - Simple utility for jumping between projects.
 *   [worktree-jump (⭐0)](https://github.com/Jermic/worktree-jump) - Lists `git` worktrees in a compact table and lets you jump to one by typing its number at the next shell prompt.
 *   [worktree (⭐6)](https://github.com/jspears/worktree) - Adds functions that wrap `git worktree`.
+*   [worktrunk-herdr (⭐0)](https://github.com/championswimmer/zsh-worktrunk-herdr) - glues [Worktrunk](https://worktrunk.dev/) (wt), AI coding agents (Claude Code, Codex, Pi) and [herdr](https://herdr.dev/) together.
 *   [worktrunk (⭐2)](https://github.com/kguzek/zsh-worktrunk) - Inspired by the [oh-my-zsh](https://ohmyz.sh/) [git plugin (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) and provides aliases and a few useful functions for working with [worktrunk (⭐9.5k)](https://github.com/max-sixty/worktrunk).
 *   [wpm (⭐1)](https://github.com/btror/wpm) - Lets you test your typing speed in a terminal, track WPM, accuracy, and more. Results are saved in a handy JSON format for easy tracking.
 *   [wsl (⭐2)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
@@ -2270,7 +2272,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [jenv (⭐0)](https://github.com/cmuench/zsh-jenv) - Tab completions for [jEnv (⭐6.7k)](https://github.com/jenv/jenv).
 *   [joe (⭐0)](https://github.com/corvofeng/joe-completion) - Adds completions for [joe (⭐2.9k)](https://github.com/karan/joe) gitignore editor.
 *   [jtool-completion (⭐0)](https://github.com/beaugalbraith/jtool-completion) - ZSH completions for jtool.
-*   [justfile (⭐3)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐36k)](https://github.com/casey/just).
+*   [justfile (⭐3)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐37k)](https://github.com/casey/just).
 *   [jx (⭐0)](https://github.com/haysclark/zsh-jx) - Adds tab completions for the Jenkins-X cli.
 *   [kafka (⭐68)](https://github.com/Dabz/kafka-zsh-completions) - Completions for Apache [kafka](https://kafka.apache.org).
 *   [keybase (⭐20)](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://book.keybase.io/docs/cli).

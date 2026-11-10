@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 10, 2026](/content/2026/11/10/README.md)
+
+### Graphics / Assets/Placeholders
+
+*   :free: [pixelfx.io](https://pixelfx.io/) - Free animated pixel art effects for games, with browser previews, recoloring, and transparent PNG sprite sheet and animation JSON downloads; MIT-licensed library assets.
+
+### Graphics / Animation
+
+*   :money\_with\_wings: [VfxSmith](https://vfxsmith.com/) - AI pixel art VFX generator for games with chat refinement, editable effect components, and sprite sheet, JSON, GIF, PNG sequence and Godot 4 exports; free library and editing, paid AI generation after initial credits.
+
+### Board Games / Voxel Editors
+
+*   :money\_with\_wings: [Game Piece Studio](https://gamepiece.studio/) - Browser-based designer for board game cards, boards, tiles and tokens that binds layouts to spreadsheet data and exports print-ready PDF/PNG.
+
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
 ### Board Games / Voxel Editors
@@ -1054,7 +1068,7 @@
 *   :tada: [Doom (⭐20k)](https://github.com/id-Software/DOOM)
 *   :tada: [Doom 3 (⭐3.6k)](https://github.com/id-Software/DOOM-3)
 *   :tada: [NetHack (⭐4k)](https://github.com/NetHack/NetHack)
-*   :tada: [OpenTTD (⭐8.4k)](https://github.com/OpenTTD/OpenTTD)
+*   :tada: [OpenTTD (⭐8.5k)](https://github.com/OpenTTD/OpenTTD)
 *   :tada: [Prince of Persia (⭐6.9k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 *   :tada: [Quake (⭐6.1k)](https://github.com/id-Software/Quake)
 *   :tada: [Quake 2 (⭐3.4k)](https://github.com/id-Software/Quake-2)

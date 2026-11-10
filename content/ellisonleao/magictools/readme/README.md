@@ -94,6 +94,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 *   :free: [OpenGameArt](https://opengameart.org/) - a media repository intended for use with free software game projects.
 *   :moneybag: [Oryx Design Lab](https://oryxdesignlab.com/) - Cheap high quality royalty free sprites
+*   :free: [pixelfx.io](https://pixelfx.io/) - Free animated pixel art effects for games, with browser previews, recoloring, and transparent PNG sprite sheet and animation JSON downloads; MIT-licensed library assets.
 *   :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 *   :money\_with\_wings: [PlainTextures](https://www.plaintextures.com/) - Free high resolution textures, brushes and photos
 *   :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
@@ -174,6 +175,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :money\_with\_wings: [SlotVFX](https://slotvfx.com/) - Desktop editor for particles and game VFX with Spine support. Free to use; exports for Pixi, Phaser, Cocos Creator and WebGL2 need a paid plan.
 *   :moneybag: [Spine](https://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 *   :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
+*   :money\_with\_wings: [VfxSmith](https://vfxsmith.com/) - AI pixel art VFX generator for games with chat refinement, editable effect components, and sprite sheet, JSON, GIF, PNG sequence and Godot 4 exports; free library and editing, paid AI generation after initial credits.
 
 #### Vector/Image Editor
 
@@ -464,6 +466,7 @@ To get your pull request accepted, your link must follow these rules:
 
 *Tools for making board games*
 
+*   :money\_with\_wings: [Game Piece Studio](https://gamepiece.studio/) - Browser-based designer for board game cards, boards, tiles and tokens that binds layouts to spreadsheet data and exports print-ready PDF/PNG.
 *   :free: [Iterary](https://www.iterary.com) - Board Game Design Tool.
 *   :free: [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks for tabletop RPG preparation.
 *   :tada: [RPTools](https://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
@@ -569,7 +572,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Duke Nukem 3D: Atomic Edition (⭐128)](https://github.com/fabiensanglard/vanilla_duke3D)
 *   :tada: [NetHack (⭐4k)](https://github.com/NetHack/NetHack)
 *   :tada: [OpenRA (⭐18k)](https://github.com/OpenRA/OpenRA)
-*   :tada: [OpenTTD (⭐8.4k)](https://github.com/OpenTTD/OpenTTD)
+*   :tada: [OpenTTD (⭐8.5k)](https://github.com/OpenTTD/OpenTTD)
 *   :tada: [Prince of Persia (⭐6.9k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 *   :tada: [Quake (⭐6.1k)](https://github.com/id-Software/Quake)
 *   :tada: [Quake 2 (⭐3.4k)](https://github.com/id-Software/Quake-2)

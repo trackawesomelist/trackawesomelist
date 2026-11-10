@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Nov 10, 2026](/content/2026/11/10/README.md)
+
+### Tools
+
+*   [ansible-vars (⭐4)](https://github.com/xorwow/ansible-vars) - `ansible-vault` replacement that supports encrypting individual vault variables.
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Tools

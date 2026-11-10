@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [notifysphere.net](https://notifysphere.net/) - All-in-one Customer Engagement and Automation Tool ( push notifications, whatsapp messages, helpdesk, tracker link and events tracking) for SaaS. Free for up to 1,000 active users per month.
 
+### Crash and Exception Handling
+
+*   [measure.sh](https://measure.sh/) - Mobile app monitoring with errors, performance tracking and session replays. 5 GB data per month free. No limits if self-hosted.
+
 ### DNS
 
 *   [DNSvivo](https://dnsvivo.com/) - Free managed DNS with automatic failover, weighted load balancing, and Dynamic DNS (DDNS). Includes 2 domains, 5 IP addresses monitored from 5 locations, and 3 DDNS records.
@@ -733,7 +737,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2.2k)](https://github.com/future-agi/future-agi)
+*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2.3k)](https://github.com/future-agi/future-agi)
 
 ### Web Hosting
 

@@ -6,6 +6,13 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [gui-detach (⭐0)](https://github.com/4h2u/auto.detach) - Returns the prompt in interactive ZSH when a GUI app is launched on Linux, and leaves CLI tools in the foreground.
+*   [worktrunk-herdr (⭐0)](https://github.com/championswimmer/zsh-worktrunk-herdr) - glues [Worktrunk](https://worktrunk.dev/) (wt), AI coding agents (Claude Code, Codex, Pi) and [herdr](https://herdr.dev/) together.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -909,7 +916,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [justfile (⭐3)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐36k)](https://github.com/casey/just).
+*   [justfile (⭐3)](https://github.com/JBarberU/zsh-justfile) - Adds tab completions for [just (⭐37k)](https://github.com/casey/just).
 *   [tio (⭐0)](https://github.com/JBarberU/zsh-tio) - Add tab completions for tio
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

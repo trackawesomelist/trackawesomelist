@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 10, 2026](/content/2026/11/10/README.md)
+
+### Crash and Exception Handling
+
+*   [measure.sh](https://measure.sh/) - Mobile app monitoring with errors, performance tracking and session replays. 5 GB data per month free. No limits if self-hosted.
+
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
 ### Messaging and Streaming
@@ -995,7 +1001,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2.2k)](https://github.com/future-agi/future-agi)
+*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐2.3k)](https://github.com/future-agi/future-agi)
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 

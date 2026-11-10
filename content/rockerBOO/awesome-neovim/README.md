@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 10, 2026](/content/2026/11/10/README.md)
+
+### Workflow / Stats Tracking
+
+*   [gisketch/triforce.nvim (⭐317)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
 ### Project / Markdown and LaTeX
@@ -102,15 +108,15 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [mrwatts88/ghost.nvim (⭐2)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
+*   [mrwatts88/ghost.nvim (⭐3)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [RazikSF/lumina-themes (⭐0)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
+*   [RazikSF/lumina-themes (⭐3)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 
 ### Startup / Cursorline
 
-*   [hawknewton/matrix-splash.nvim (⭐1)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
+*   [hawknewton/matrix-splash.nvim (⭐6)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
 
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
@@ -153,12 +159,6 @@ Collections of awesome neovim plugins.
 ### External Resource / OS-specific
 
 *   [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
-
-## [Oct 15, 2026](/content/2026/10/15/README.md)
-
-### Workflow / Stats Tracking
-
-*   [DrKJeff16/triforce.nvim (⭐18)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
@@ -254,7 +254,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [antosha417/nvim-lsp-file-operations (⭐442)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
+*   [antosha417/nvim-lsp-file-operations (⭐445)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
 
 ### Code Runner / Quickfix
 
@@ -346,7 +346,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [rezniqov/soviet.nvim (⭐36)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+*   [rezniqov/soviet.nvim (⭐37)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 
 ### External / Plugin Template
 
@@ -360,8 +360,8 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
-    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
+*   [coder/claudecode.nvim (⭐3.2k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.2k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 
 ### Bars and Lines / Colorscheme Switchers
 
@@ -562,7 +562,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/sora (⭐76)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐77)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 

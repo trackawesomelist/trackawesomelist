@@ -69,7 +69,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [OWASP ZAP (⭐16k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 *   [Nuclei Scanner (⭐33k)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
-*   [Darkmoon (⭐1.1k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+*   [Darkmoon (⭐1.2k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 *   [appfuzz (⭐2)](https://github.com/StephanSchmidt/appfuzz) - Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.
 
 ### AI & LLM Testing
@@ -91,6 +91,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [llmdrill (⭐0)](https://github.com/hamarshehmhmd/llmdrill) - Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.
 *   [evalship](https://evalship.com/) - GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.
 *   [ScopeHaven (⭐0)](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
+*   [Bite (⭐1)](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
+*   [judge-check (⭐0)](https://github.com/dylanpulver/judge-check) - Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.
 
 ### Service Virtualization
 
@@ -100,7 +102,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [DeepfakeHTTP (⭐524)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
-*   [fakecloud (⭐773)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐784)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 *   [ghostwire (⭐0)](https://github.com/nanmuyao-tools/ghostwire) - Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under `exec`.
 
@@ -159,13 +161,15 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
 
-*   [Device Hub Pro (⭐136)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+*   [Device Hub Pro (⭐172)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 
 *   [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 
 *   [Drengr](https://drengr.dev) - Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.
 
 *   [Drengr Runner (⭐1)](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
+
+*   [e2e (⭐14k)](https://github.com/tester-army/e2e) - Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.
 
 *   [Ferrum (⭐2.1k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 
@@ -217,6 +221,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Report Diagnostics
 
+*   [coverage (⭐4)](https://github.com/xseman/coverage) - GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.
 *   [junit-collision-check (⭐0)](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
 
 ### Test Management

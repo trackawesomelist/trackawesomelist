@@ -10,6 +10,7 @@ A curated list of data engineering tools for software developers
 
 ### Data Ingestion
 
+*   [adbcBridge (⭐2)](https://github.com/singhpratech/adbcbridge) - Driver for ADBC, Apache Arrow's database connectivity API, that sits on top of any ODBC driver, so databases with no native Arrow driver return columnar Arrow record batches and take bulk ingest.
 *   [Renart (⭐96)](https://github.com/renart-data/renart) - Local-first IDE for authoring and running SQL and Python data pipelines stored in Git.
 *   [OLake (⭐1.6k)](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 *   [Firecrawl (⭐200k)](https://github.com/firecrawl/firecrawl) - Open-source web data API that scrapes, crawls, maps, and searches the web and returns Markdown or structured JSON for data pipelines and LLM ingestion.

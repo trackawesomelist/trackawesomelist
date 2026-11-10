@@ -203,7 +203,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [mason-org/mason.nvim (⭐11k)](https://github.com/mason-org/mason.nvim) - Easily install and manage LSP servers, DAP servers, linters, and formatters.
 *   [Senal-D-A-Gunaratna/swapson.nvim (⭐11)](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
 *   [Crysthamus/nvim-file-operations (⭐25)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
-*   [antosha417/nvim-lsp-file-operations (⭐442)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
+*   [antosha417/nvim-lsp-file-operations (⭐445)](https://github.com/antosha417/nvim-lsp-file-operations) - File operations using built-in LSP support.
 *   [carldaws/miser.nvim (⭐34)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 
 ### Diagnostics
@@ -268,8 +268,8 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 <!--lint disable double-link-->
 
-*   [coder/claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
-    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.1k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
+*   [coder/claudecode.nvim (⭐3.2k)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+    *   [hebercosfer/floating-claude.nvim (⭐2)](https://github.com/hebercosfer/floating-claude.nvim) - Floating terminal provider for [claudecode.nvim (⭐3.2k)](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 
 <!--lint enable double-link-->
 
@@ -325,7 +325,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [taigrr/neocrush.nvim (⭐23)](https://github.com/taigrr/neocrush.nvim) - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 *   [zgs225/pi2.nvim (⭐24)](https://github.com/zgs225/pi2.nvim) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 *   [jaitd/fieldguide.nvim (⭐6)](https://github.com/jaitd/fieldguide.nvim) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
-*   [mrwatts88/ghost.nvim (⭐2)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
+*   [mrwatts88/ghost.nvim (⭐3)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 
 <!--lint disable double-link -->
 
@@ -777,7 +777,7 @@ then it is not supported:
 *   [heritage-themes/heritage-themes.nvim (⭐2)](https://github.com/heritage-themes/heritage-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 *   [zacesshq/zacess.nvim (⭐1)](https://github.com/zacesshq/zacess.nvim) - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 *   [daaanny90/interlinked.nvim (⭐2)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
-*   [rezniqov/soviet.nvim (⭐36)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
+*   [rezniqov/soviet.nvim (⭐37)](https://github.com/rezniqov/soviet.nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 *   [ThorstenRhau/token (⭐312)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [oskarnurm/koda.nvim (⭐368)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
 *   [yonatan-perel/lake-dweller.nvim (⭐36)](https://github.com/yonatan-perel/lake-dweller.nvim) - ***`[TS][LSP][Lua]`*** Dark and opinionated with selective highlighting aiming to be readable at a glance.
@@ -924,7 +924,7 @@ then it is not supported:
 *   [ankushbhagats/pastel.nvim (⭐35)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐11)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 *   [hyperb1iss/silkcircuit (⭐66)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
-*   [Aejkatappaja/sora (⭐76)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
+*   [Aejkatappaja/sora (⭐77)](https://github.com/Aejkatappaja/sora) - ***`[TS][LSP][Lua]`*** Deep blue-black dark colorscheme with one ethereal cyan accent, with matching ports for many terminal apps and tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐25)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 *   [54L1M/Oshen.nvim (⭐20)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][L/D][Lua]`*** Inspired by deep ocean water at night, derived entirely from five source colors.
 *   [Aejkatappaja/cendre (⭐181)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
@@ -939,7 +939,7 @@ then it is not supported:
 *   [jonestristand/dune.nvim (⭐3)](https://github.com/jonestristand/dune.nvim) - ***`[TS][LSP][Lua]`*** Four (plus one) variants inspired by Frank Herbert's Dune.
 *   [2giosangmitom/nightfall.nvim (⭐51)](https://github.com/2giosangmitom/nightfall.nvim) - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
 *   [oxidescheme/nvim (⭐41)](https://github.com/oxidescheme/nvim) - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
-*   [RazikSF/lumina-themes (⭐0)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
+*   [RazikSF/lumina-themes (⭐3)](https://github.com/RazikSF/lumina-themes) - ***`[TS][LSP][L/D][Lua]`*** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 *   [kryptamine/gruber-darker-renaissance (⭐10)](https://github.com/kryptamine/gruber-darker-renaissance) - ***`[TS][LSP][Lua]`*** A dark, minimal colorscheme based on Gruber Darker.
 *   [tiagovla/tokyodark.nvim (⭐619)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
 
@@ -1071,7 +1071,7 @@ then it is not supported:
 *   [leo-alvarenga/homecoming.nvim (⭐12)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 *   [Amansingh-afk/milli.nvim (⭐323)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 *   [zdcthomas/sprout.nvim (⭐2)](https://github.com/zdcthomas/sprout.nvim) - An ASCII art bonsai for your start screen that grows as the day goes forward.
-*   [hawknewton/matrix-splash.nvim (⭐1)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
+*   [hawknewton/matrix-splash.nvim (⭐6)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
 
 <!--lint disable double-link -->
 
@@ -2001,7 +2001,7 @@ then it is not supported:
 ### Stats Tracking
 
 *   [aikhe/wrapped.nvim (⭐187)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
-*   [DrKJeff16/triforce.nvim (⭐18)](https://github.com/DrKJeff16/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐317)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [QuentinGruber/pomodoro.nvim (⭐50)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 *   [yal212/pomodoro.nvim (⭐8)](https://github.com/yal212/pomodoro.nvim) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 *   [raymondware/focusmode.nvim (⭐3)](https://github.com/raymondware/focusmode.nvim) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.

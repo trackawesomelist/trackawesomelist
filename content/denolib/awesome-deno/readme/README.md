@@ -163,6 +163,7 @@ This list is a collection of the best Deno modules and resources.
 
 *   [lume (⭐2.3k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 *   [pagic (⭐1.7k)](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
+*   [zerho (⭐1)](https://github.com/glastor-core/zerho) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
 
 ### String utils
 
@@ -237,6 +238,7 @@ This list is a collection of the best Deno modules and resources.
     *   [oak-routing-ctrl (⭐10)](https://github.com/Thesephi/oak-routing-ctrl) - TypeScript Decorators for easy scaffolding API services with the oak framework.
 *   [opine (⭐847)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
     *   [opine-http-proxy (⭐17)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
+*   [orpc (⭐5.8k)](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 
 ### WebSocket
 
@@ -277,6 +279,7 @@ This list is a collection of the best Deno modules and resources.
 *   [Edrys (⭐334)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 *   [GitHub Profile Trophy (⭐6.7k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 *   [globnotes (⭐6)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
+*   [Medusa Edge API Gateway (⭐1)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 *   [ShopSavvy Deno Deploy (⭐0)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 *   [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 
@@ -304,6 +307,7 @@ This list is a collection of the best Deno modules and resources.
 *   [entype (⭐4)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 *   [kopo-cli (⭐16)](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
 *   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+*   [nemesis (⭐1)](https://github.com/glastor-core/nemesis) - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
 *   [pup (⭐197)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 *   [studio-pack-generator (⭐128)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 *   [trex (⭐724)](https://github.com/crewdevio/Trex) - Package management like npm for deno.

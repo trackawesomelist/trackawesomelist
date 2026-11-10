@@ -6,6 +6,24 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Modules / Static site generator
+
+*   [zerho (⭐1)](https://github.com/glastor-core/zerho) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
+
+### Modules / Web framework
+
+*   [orpc (⭐5.8k)](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
+
+### Showcases / XML
+
+*   [Medusa Edge API Gateway (⭐1)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
+
+### Tools / XML
+
+*   [nemesis (⭐1)](https://github.com/glastor-core/nemesis) - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Modules / Cloud APIs

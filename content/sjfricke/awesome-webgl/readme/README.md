@@ -148,13 +148,13 @@ Processing Unit (GPU).
 *   [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 *   [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 *   [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) - Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
-*   [Web3D Viewer (⭐2)](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
+*   [Web3D Viewer](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
 
 #### Chrome Specific Tools/Debugger
 
-*   [GLSL Shader Editor Extension (⭐635)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+*   [GLSL Shader Editor Extension (⭐636)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 *   [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
-*   [Webgl Insight (⭐915)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐914)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
@@ -225,7 +225,7 @@ Processing Unit (GPU).
 
 *   [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 *   [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
-*   [WebGL 2 Examples (⭐580)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐579)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 *   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐74)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 
 ### Videos
@@ -297,7 +297,7 @@ Processing Unit (GPU).
 
 #### Particles
 
-*   [NixieFX (⭐19)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
+*   [NixieFX (⭐26)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 *   [Phenomenon (⭐1.8k)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
@@ -308,9 +308,9 @@ Processing Unit (GPU).
 *   [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 *   [leaflet-webgl-markers (⭐3)](https://github.com/tang-tc/leaflet-webgl-markers) - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
 *   [MapMetrics GL (⭐2)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
-*   [TradeCanvas (⭐28)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
+*   [TradeCanvas (⭐52)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
 *   [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
-*   [WorldSeed (⭐1)](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
+*   [WorldSeed (⭐2)](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
 
 ### Math
 
@@ -320,9 +320,9 @@ Processing Unit (GPU).
 
 ### Rendering
 
-*   [GLBoost (⭐108)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+*   [GLBoost (⭐107)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
-*   [Hilo3d (⭐667)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+*   [Hilo3d (⭐668)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
 ### Physics
 
@@ -335,9 +335,9 @@ Processing Unit (GPU).
 
 ### WebGL 2
 
-*   [dither-flow (⭐1)](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
+*   [dither-flow (⭐2)](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
-*   [textmode.js (⭐174)](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
+*   [textmode.js (⭐175)](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
 *   [Vysmo Transitions (⭐9)](https://github.com/vysmodev/vysmo) - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, \~5 KB gzipped.
 
 ### WebVR
@@ -347,7 +347,7 @@ Processing Unit (GPU).
 *   [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 *   [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 *   [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
-*   [Primrose (⭐534)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
+*   [Primrose (⭐535)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
 ### Others
 
@@ -356,8 +356,9 @@ Processing Unit (GPU).
 *   [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 *   [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
-*   [img2threejs (⭐19k)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
+*   [img2threejs (⭐21k)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
 *   [Lightgl.js (⭐1.6k)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
+*   [Novaframe Engine (⭐0)](https://github.com/novaframe-hq/novaframe-engine) - Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.
 *   [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 *   [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 *   [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
@@ -393,7 +394,7 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-*   [awesome (⭐521k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐529k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐2.5k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 *   [awesome-vulkan (⭐3.7k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 *   [gamedev (⭐18k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
@@ -406,7 +407,7 @@ Please see [CONTRIBUTING (⭐1.5k)](https://github.com/sjfricke/awesome-webgl/bl
 
 ## Testing
 
-Travis CI testing automation thanks to [awesome\_bot (⭐899)](https://github.com/dkhamsing/awesome_bot)!
+Travis CI testing automation thanks to [awesome\_bot (⭐904)](https://github.com/dkhamsing/awesome_bot)!
 
 ## License
 

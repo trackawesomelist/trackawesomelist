@@ -8,9 +8,22 @@ A curated list of testing resources
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Software / AI & LLM Testing
+
+*   [Bite (⭐1)](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
+*   [judge-check (⭐0)](https://github.com/dylanpulver/judge-check) - Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.
+
 ### Software / Service Virtualization
 
 *   [Buggregator (⭐1.1k)](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
+
+### Software / UI & End-to-End Testing
+
+*   [e2e (⭐14k)](https://github.com/tester-army/e2e) - Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.
+
+### Software / Test Report Diagnostics
+
+*   [coverage (⭐4)](https://github.com/xseman/coverage) - GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.
 
 ### Software / Test Automation Frameworks
 
@@ -65,7 +78,7 @@ A curated list of testing resources
 
 ### Software / Security Testing
 
-*   [Darkmoon (⭐1.1k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+*   [Darkmoon (⭐1.2k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### Software / AI & LLM Testing
 
@@ -97,7 +110,7 @@ A curated list of testing resources
 *   [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
 *   [Clousd](https://clousd.com) - Cloud Android phones (150+ device models, Android 12-17) for app testing in a browser tab, over ADB, or through a REST API and MCP server for AI-driven tests.
 *   [ContextQA MCP](https://mcp.contextqa.com/docs) - Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in.
-*   [Device Hub Pro (⭐136)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+*   [Device Hub Pro (⭐172)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 *   [Drengr](https://drengr.dev) - Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.
 *   [Drengr Runner (⭐1)](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
@@ -339,7 +352,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐773)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐784)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
