@@ -6,6 +6,12 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ Daily / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Nov 10, 2026](/content/2026/11/10/README.md)
+
+### Table of Contents / Libraries, SDKs, and Programming Models
+
+*   [bus (⭐1)](https://github.com/korableg/bus) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Event bus framework for Apache Kafka with protobuf-typed producers and consumer groups, retries, batch handlers, and automatic offset commits.
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### Table of Contents / Engines and Platforms

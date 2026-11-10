@@ -97,6 +97,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 *   [Apache Pekko (⭐1.7k)](https://github.com/apache/pekko) <sub>![Scala/Java][language-scala-java]</sub> - Open-source toolkit for concurrent, distributed, resilient applications, forked from Akka 2.6.
 *   [Apache SAMOA (⭐252)](https://github.com/apache/incubator-samoa) <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Retired distributed streaming machine learning framework.
 *   [Apache StormCrawler (⭐1k)](https://github.com/apache/stormcrawler) <sub>![Java][language-java]</sub> - Scalable web crawler SDK based on Apache Storm.
+*   [bus (⭐1)](https://github.com/korableg/bus) <sub>![Go][language-go]</sub> - Event bus framework for Apache Kafka with protobuf-typed producers and consumer groups, retries, batch handlers, and automatic offset commits.
 *   [CapyMOA (⭐152)](https://github.com/adaptive-machine-learning/CapyMOA) <sub>![Python/Java][language-python-java]</sub> - Machine learning library for data streams with a Python API and MOA backend.
 *   [coast (⭐60)](https://github.com/bkirwi/coast) <sub>![Archived][archived-badge]</sub> <sub>![Scala][language-scala]</sub> - DSL that builds exactly-once dataflow graphs on top of Apache Samza.
 *   [Daggy (⭐166)](https://github.com/synacker/daggy) <sub>![C++][language-cpp]</sub> - Utility and developer library for aggregating and capturing data streams.
