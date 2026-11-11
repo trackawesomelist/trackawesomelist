@@ -6,6 +6,59 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Nov 11, 2026](/content/2026/11/11/README.md)
+
+### 3D
+
+*   [objekto.io](https://objekto.io/en) - Turns a few words, a photo or a sketch into a multi-part, print-ready 3D model designed by AI, then has it 3D printed and delivered (France only for now). `#freemium`
+
+### Design
+
+*   [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - FREE desktop design studio where your own AI agent designs on .fig files and you refine on a GPU canvas. `#free` `#design`
+
+### Developer Tools
+
+*   [Continua](https://continua-nu.vercel.app/) - Experimental macOS 13+ companion designed to resume interrupted Codex Desktop coding tasks after supported usage resets, with local task history; unsigned/not notarized, manual updates, and genuine unattended recovery unverified. `#free`
+*   [HopBase](https://hop-base.com/) - AI API gateway with one base URL for Claude, GPT, Gemini, DeepSeek and Qwen text models plus image and video models such as Seedream, Seedance and Kling, compatible with OpenAI, Anthropic and Gemini endpoints. `#paid` `#api` `#llm`
+*   [MailVeri MCP (⭐1)](https://github.com/mailveri/mailveri-mcp) - Open-source MCP server that lets Claude, Cursor and other agents verify single emails and bulk lists via the MailVeri API (SMTP, catch-all, disposable and role detection). `#freemium` `#opensource` `#mcp`
+
+### Human Resources
+
+*   [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher that emails you new AI jobs from 1,300+ AI companies' career pages and hiring posts on X and LinkedIn, scored against your resume. `#paid`
+
+### Image Generator
+
+*   [AI Anime Generator](https://ai-anime-generator.io/) - Create anime portraits and original characters from text or reference images, with 40 one-time signup credits. `#freemium`
+*   [ThumbnailSnap](https://thumbnailsnap.com/youtube-thumbnail-maker) - Generates YouTube, Shorts and TikTok thumbnails with AI and keeps the title as an editable text layer; cropping your own photo and adding text is free. `#freemium`
+
+### Marketing
+
+*   [Revenue Scout](https://revenuescout.ai/) - Finds public posts where people need what you sell and drafts replies for you to review and post. `#freemium` `#lead-generation`
+
+### Meeting
+
+*   [Meetini](https://meetini.net/) - Meeting and interview assistant for Apple Silicon Macs with local captions, transcripts, meeting notes, and metered AI assistance. `#paid`
+
+### Prompts
+
+*   [AgentCraft Nano Banana 2.1 Prompts](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/) - 90 Nano Banana 2.1 image prompts, each shown with its output, in a free library of 2,473 image and video prompts that also covers Seedance 2.5 and Kling 4.0. `#free`
+*   [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more), with 10 free prompts a day and no sign-up. `#freemium` `#writing`
+
+### Real Estate
+
+*   [EmptyRoom AI](https://emptyroomai.com/) - Furnish vacant listing photos in any style for agents and sellers, with unlimited free restages. `#paid`
+*   [MotionCasa](https://motioncasa.com/) - Creates listing videos from property photos with AI motion and reel templates; AI generation requires purchased credits. `#paid`
+
+### SEO
+
+*   [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) - Audits sites, checks links, plans content, and adds JSON-LD with a free Claude Code plugin. `#free` `#opensource` `#seo`
+
+### Video
+
+*   [AI Rap Video](https://airapvideo.us/) - AI rap video generator: write or draft rap lyrics, pick a photo, original character or duo, and get a short lip-synced rap clip (8-15s); packs from $4.99. `#paid`
+*   [EasyRap](https://easyrapvideo.com/) - Creates short rap music videos from one or two photos using paid credits. `#paid`
+*   [Valmera](https://valmera.io/) - Edits uploaded footage through natural-language instructions in a browser studio or a connected AI assistant over MCP, with cuts, captions, reframing, preview review and MP4 export. `#paid` `#video` `#mcp`
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Audio & Speech
@@ -172,7 +225,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Marketing
 
-*   [MarketMirror (⭐4)](https://github.com/DarkWorldCoder/market-mirror) - Tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report; runs locally from coding agents as an MCP server. `#free` `#opensource`
+*   [MarketMirror (⭐15)](https://github.com/DarkWorldCoder/market-mirror) - Tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report; runs locally from coding agents as an MCP server. `#free` `#opensource`
 
 ### Music
 
@@ -322,7 +375,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [Archcore (⭐71)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
+*   [Archcore (⭐75)](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
 *   [Jet Browser (⭐2)](https://github.com/masakaai/jet-browser) - Portable WPE WebKit runtime for agents with isolated Docker sessions, native input, DOM/text reads, fresh screenshots, and ordered JSONL, MCP, and JavaScript SDK interfaces. `#free` `#opensource`
 *   [Masaka for Codex (⭐1)](https://github.com/masakaai/codex-multiple-env) - Local macOS and Linux CLI that keeps each ChatGPT account and workspace in an isolated CODEX\_HOME, shows Codex usage windows, and switches future native Codex sessions without copying tokens. `#free` `#opensource`
 
@@ -402,7 +455,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Travel
 
-*   [SkyAccess MCP (⭐2)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
+*   [SkyAccess MCP (⭐3)](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. `#free` `#mcp`
 
 ## [Oct 05, 2026](/content/2026/10/05/README.md)
 
@@ -536,7 +589,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Developer Tools
 
-*   [OrcaReplay (⭐281)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
+*   [OrcaReplay (⭐403)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run and replays it back to the agent with no model called, or forks a checkpoint onto other models to compare. `#free`
 
 ### Image Generator
 
@@ -888,7 +941,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Codex CLI (⭐133k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
-*   [Gemini CLI (⭐108k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
+*   [Gemini CLI (⭐109k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`

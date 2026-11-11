@@ -8,6 +8,11 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Tools/Debugging
+
+*   [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) - GLSL language support extension for Visual Studio Code.
+*   [KTX2 Texture Compressor](https://app.cinevva.com/tools/ktx2-compressor) - Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.
+
 ### Others / Particles
 
 *   [Novaframe Engine (⭐0)](https://github.com/novaframe-hq/novaframe-engine) - Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.
