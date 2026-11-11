@@ -20,6 +20,7 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [e2e (⭐14k)](https://github.com/tester-army/e2e) - Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.
+*   [Momentic](https://momentic.ai) - End-to-end tests for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, written as YAML that mixes preset steps with natural-language AI steps and run from a CLI locally or in CI. Includes Mo, an agent that explores a running app from a brief and reports findings with evidence.
 
 ### Software / Test Report Diagnostics
 

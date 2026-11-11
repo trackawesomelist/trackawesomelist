@@ -6,6 +6,344 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 11, 2026](/content/2026/11/11/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Company Facts](https://companyfacts.dev)
+
+  Description: New US businesses from state registers, company registers, tech stack and hiring, each sourced
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=dev.companyfacts) · [Glama](https://glama.ai/mcp/servers/groundtruthtools/ats-jobs-mcp)
+
+
+- Name: [RealMarket](https://realmarketapi.com/docs/mcp)
+
+  Description: Live gold, forex, crypto and stock prices, indicators and market analysis for AI agents
+
+  Auth: `apiKey`
+
+  Transport: `HTTP`
+
+  Install: –
+
+
+- Name: [Signal Lab](https://signal-lab-jet.vercel.app/mcp)
+
+  Description: Catalog of free market, macro, weather, news and OSINT data sources, with terms links and skills
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/io.github.QDThead/signal-lab) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.QDThead/signal-lab)
+
+
+- Name: [Transcript Dock (⭐0)](https://github.com/TranscriptDock/transcriptdock-mcp)
+
+  Description: Transcripts of YouTube, TikTok and Instagram videos in one tool call, with SRT and VTT exports
+
+  Auth: `OAuth`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.transcriptdock/mcp) · [npm](https://www.npmjs.com/package/@transcriptdock/mcp)
+
+
+
+### Books
+
+- API: [Bayan](https://bayan.alwa7i.com/api)
+
+  Description: Arabic Islamic encyclopedia: hadith with grades and takhrij, Quran with tafsir, narrators
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Buku Indonesia (⭐1)](https://github.com/khrlanamm/buku-indonesia#api)
+
+  Description: Open data for Indonesian books by ISBN, author, and category
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Currency Exchange
+
+- API: [DolarKaç](https://dolarkac.com/gelistirici-api)
+
+  Description: Turkish lira exchange rates, gold and crypto prices from the Istanbul free market
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [latest@](https://latestat.com/api)
+
+  Description: Latest versions and end-of-life dates for 500+ software products
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [MacVendorCheck](https://macvendorcheck.com/mac-address-lookup-api)
+
+  Description: MAC address and OUI vendor lookup from the IEEE MA-L, MA-M and MA-S registries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [ConvertFly](https://convertfly.io/docs/api)
+
+  Description: Convert documents, images, audio, video, ebooks and archives between formats
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [DocSpring](https://docspring.com/docs/api/)
+
+  Description: Fill PDF forms, generate PDFs and Word documents, and collect e-signatures. Free plan
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [FynePDF](https://fynepdf.com/developers/docs)
+
+  Description: Compress, convert, OCR, redact, merge, split and generate PDFs, and read them with AI
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [The Drive AI](https://dev.thedrive.ai/docs)
+
+  Description: Extract and analyze data from 107+ file types and URLs into structured JSON, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Email
+
+- API: [StopMailing](https://stopmailing.net/developer-guide)
+
+  Description: Disposable email addresses with a free, no-signup REST API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TrustLookup](https://trustlookup.io/docs)
+
+  Description: Verify email syntax, MX and live mailbox; detect disposable, role and catch-all addresses
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Environment
+
+- API: [PixelGust Soil](https://pixelgust.com/docs#soil)
+
+  Description: Soil properties at 6 depths for any point (SoilGrids 2.0, 250 m), ISRIC-compatible
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [TILLA](https://tillacrypto.com/docs)
+
+  Description: Crypto, US stocks, FX, macro and spot ETF flows on one UTC clock, with 280,675 derived indicators
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : [Postman](https://www.postman.com/tillacrypto/tilla)
+
+
+
+### Geocoding
+
+- API: [IPSnapshot](https://ipsnapshot.com/ip-lookup-api)
+
+  Description: IP geolocation, ASN and ISP, plus VPN, datacenter and Tor detection for IPv4 and IPv6
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [PropRaven](https://propraven.com/developers)
+
+  Description: US parcel, owner and permit records for all 50 states, with an OpenAPI 3.1 spec
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Photography
+
+- API: [CropDen (⭐2)](https://github.com/geektao1024/social-media-image-sizes#json-over-http)
+
+  Description: Image sizes, safe zones and upload limits for 14 social platforms and passport photos
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [SoldSignal](https://www.aiplannermail.com/free-resale-price-api/)
+
+  Description: Weekly resale prices for sneakers, consoles and watches with sample size and fees
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [disdex](https://disdex.io/api)
+
+  Description: Search public Discord servers by name, language, guild tag and size, with member history
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LurkAPI](https://lurkapi.com/docs)
+
+  Description: Public posts, profiles, ads and transcripts from 16 social platforms as JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [DeepChamp for Agents](https://deepchampai.com/docs/agents)
+
+  Description: Free sports slate and matchup research context for AI agents, over REST and MCP; research only
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Vehicle
+
+- API: [FuelEconomy](https://www.fueleconomy.gov/feg/ws/index.shtml)
+
+  Description: US EPA fuel economy data by year, make and model
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Video
+
+- API: [Transcript Dock](https://www.transcriptdock.com/docs)
+
+  Description: Transcripts of YouTube, TikTok and Instagram videos, with timing and SRT or VTT exports
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Nov 08, 2026](/content/2026/11/08/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -2219,7 +2557,7 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
-- Name: [crawlbrulee (⭐0)](https://github.com/crawlbrulee/crawlbrulee-mcp)
+- Name: [crawlbrulee (⭐1)](https://github.com/crawlbrulee/crawlbrulee-mcp)
 
   Description: EU-native web scraping for AI agents & developers: turn any page into markdown, screenshots and more
 
@@ -4350,7 +4688,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [sensor.community (⭐126)](https://github.com/opendata-stuttgart/meta/wiki/EN-APIs)
+- API: [sensor.community (⭐127)](https://github.com/opendata-stuttgart/meta/wiki/EN-APIs)
 
   Description: Community air quality sensor network data worldwide
 
@@ -4543,7 +4881,7 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/servers/TheHiddenPandaDev/catastro_gps_mcp)
 
 
-- Name: [Edgepedia (⭐0)](https://github.com/EdgePlat/edgepedia-mcp)
+- Name: [Edgepedia (⭐1)](https://github.com/EdgePlat/edgepedia-mcp)
 
   Description: Search and read Edgepedia, a free and growing encyclopedia with citations
 
@@ -4554,7 +4892,7 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/ai.edgechat/edgepedia)
 
 
-- Name: [Monocrawl (⭐10)](https://github.com/monocrawl/monocrawl-mcp)
+- Name: [Monocrawl (⭐13)](https://github.com/monocrawl/monocrawl-mcp)
 
   Description: Public posts, profiles, comments and products from 70+ social, shopping and search platforms
 
@@ -9054,7 +9392,7 @@ A collective list of free APIs
 
 ### Art & Design
 
-- API: [Smithsonian Open Access (⭐7)](https://github.com/Smithsonian/smithsonian-openaccess)
+- API: [Smithsonian Open Access (⭐8)](https://github.com/Smithsonian/smithsonian-openaccess)
 
   Description: Smithsonian collection metadata and open-access digital media
 

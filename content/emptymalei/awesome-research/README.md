@@ -1,10 +1,58 @@
 # Track Awesome Research Updates Daily
 
-:seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]
+:seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.8K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/emptymalei/awesome-research/week/README.md) / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
+
+## [Nov 11, 2026](/content/2026/11/11/README.md)
+
+### Plotting and Charting Online / Enterprise Git Service
+
+*   [Scientific Figure](https://scientificfigure.com/): AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.
+
+### Datasets / Social Sciences
+
+*   [twtData X Trends Archive](https://twtdata.com/twitter-trends/) (`Lookup`): X (Twitter) trending topics by country and city, with a page for each past day; the largest countries are recorded hourly.
+
+### Writing / Social Sciences
+
+*   [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
+
+### Notebooks for Researchers / Social Sciences
+
+*   [Glasp](https://glasp.co): Web and YouTube highlighter with AI summaries and notes, plus Kindle highlights import. Browser extensions, iOS and Android apps, and an MCP server; export to Notion, Obsidian and Zotero.
+
+### Editors / Markdown
+
+*   [markon](https://metaory.github.io/markon/) (`Cloud`, `Local PWA`): Minimal distraction-free live Markdown editor.
+
+### Editors / LaTeX
+
+*   [Manulyx](https://manulyx.com/)(`Cloud`): Online LaTeX editor for writing and revising papers with co-authors: real-time co-editing, track changes, publisher templates, submission stages, response-to-reviewers letters and marked manuscripts. Free plan available.
+*   [Oleafly](https://oleafly.com) - Open-source desktop editor for LaTeX, Typst and Markdown with a built-in LaTeX engine, live PDF preview and Zotero citations. Runs offline on macOS, Windows and Linux.
+
+### Code Editors / HTML+CSS+JS
+
+*   [neovim](https://neovim.io/)(`Free`,`Cross-platform`,`Plugins`): Vim-fork focused on extensibility and usability.
+
+### Investigate Papers / HTML+CSS+JS
+
+*   [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
+
+### Bibliography / HTML+CSS+JS
+
+*   [citeguard (⭐1)](https://github.com/wedo911/citeguard): Checks a `.bib`/`.ris` bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key. `pip install citeguard-cli`
+*   [Reference Verifier (⭐0)](https://github.com/the-aurora-lab/reference-verifier): Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).
+
+### Tips for Researchers / HTML+CSS+JS
+
+*   [ProfScout](https://profscout.com): Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
+
+### More / HTML+CSS+JS
+
+*   [ToolStack](https://tools.mindutil.com/en): a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.
 
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
@@ -14,8 +62,8 @@
 
 ### Investigate Papers / HTML+CSS+JS
 
-*   [citracer (⭐20)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
-*   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository (⭐20)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
+*   [citracer (⭐39)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
+*   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 
 ## [Apr 08, 2026](/content/2026/04/08/README.md)
 
@@ -34,18 +82,18 @@
 ### Investigate Papers / HTML+CSS+JS
 
 *   [Uncited](https://uncited.org): Keeping up with the literature.
-*   [ODataMap (⭐7)](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
+*   [ODataMap (⭐10)](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
 ### Scientific Computing / HTML+CSS+JS
 
-*   [dna-claude-analysis (⭐38)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+*   [dna-claude-analysis (⭐60)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Bibliography / HTML+CSS+JS
 
 *   [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
-*   [ScholarRef (⭐0)](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
+*   [ScholarRef (⭐3)](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
 ## [Aug 15, 2023](/content/2023/08/15/README.md)
 
@@ -192,7 +240,7 @@
 
 ### Graph Making / HTML+CSS+JS
 
-*   [colorcet (⭐741)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐752)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ### More / HTML+CSS+JS
 
@@ -203,10 +251,10 @@
 ### Writing / Social Sciences
 
 *   [rtd theme (⭐5.1k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐773)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [Alabaster (⭐779)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
-*   [proselint (⭐4.5k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
+*   [proselint (⭐4.6k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
 *   [write good (⭐5.1k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
 *   [artbollocks-mode (⭐78)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
@@ -331,7 +379,7 @@
 
 ### Tips for Researchers / HTML+CSS+JS
 
-*   Check the [Academic Resources and Grey Literature List (⭐26k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐26k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐31k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐31k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## [Oct 23, 2017](/content/2017/10/23/README.md)
 
@@ -353,7 +401,7 @@
 *   [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 *   [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 *   [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-*   [vim (⭐40k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+*   [vim (⭐41k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
     *   [Vundle (⭐24k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
     *   [vimrc from amix (⭐32k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
@@ -417,7 +465,7 @@
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
-*   [duecredit (⭐242)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+*   [duecredit (⭐247)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ## [Oct 16, 2016](/content/2016/10/16/README.md)
 
@@ -489,7 +537,7 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐50)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐52)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐11)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
@@ -515,7 +563,7 @@
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
-*   [ReText (⭐2k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+*   [ReText (⭐2.1k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 
 ### Editors / LaTeX
 
@@ -523,7 +571,7 @@
 
 ### IPython Notebook / LaTeX
 
-*   [Scientific Python Lectures (⭐3.6k)](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Scientific Python Lectures (⭐3.7k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [Reproduced Papers](http://reproduced-papers.github.io/)
 *   [More (⭐17k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -541,7 +589,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐452)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -592,7 +640,7 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [fuck (⭐398)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐399)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ## [Dec 02, 2015](/content/2015/12/02/README.md)
 
@@ -638,7 +686,7 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Ghost (⭐54k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐56k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 ### Editors / LaTeX
@@ -661,7 +709,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐233)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐235)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -698,16 +746,16 @@
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐710)](https://github.com/harish-io/Impressionist)
+*   [Impressionist (⭐705)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source / HTML+CSS+JS
 
 *   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐38k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-*   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
+*   [Reveal.js (⭐72k)](https://github.com/hakimel/reveal.js)
 *   [CSSS (⭐1.8k)](https://github.com/LeaVerou/CSSS)
-*   [Scrolldeck (⭐663)](https://github.com/johnpolacek/scrolldeck.js)
+*   [Scrolldeck (⭐662)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
@@ -722,7 +770,7 @@
 *   [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-    *   [jiffylab (⭐187)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+    *   [jiffylab (⭐186)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
     *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 

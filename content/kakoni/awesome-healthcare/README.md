@@ -6,6 +6,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 [ Daily / [Weekly](/content/kakoni/awesome-healthcare/week/README.md) / [Overview](/content/kakoni/awesome-healthcare/readme/README.md) ]
 
+## [Nov 11, 2026](/content/2026/11/11/README.md)
+
+### Contents / Imaging
+
+*   [Dicoogle (⭐536)](https://github.com/dicoogle/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
+
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
 ### Contents / EHR
@@ -362,10 +368,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Contents / EHR
 
 *   [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
-
-### Contents / Imaging
-
-*   [Dicoogle (⭐535)](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
 
 ### Contents / Machine learning
 
