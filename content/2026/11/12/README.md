@@ -1,19 +1,167 @@
 # Awesome List Updates on Nov 12, 2026
 
-7 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Audio & Video / Players
+
+*   [szeremeta1/Vespertine (⭐21)](https://github.com/szeremeta1/Vespertine) — Free, open-source, surround bit-perfect music player for Mac ☆`18`
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Email Search / Email Check / GitHub
+
+*   [SpoofCheck](https://spoofchecker.online/) - Free email spoofing test: checks a domain's SPF, DKIM, DMARC, MTA-STS and MX records and grades how easily it can be impersonated (A to F).
+
+## [3. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Database clients
+
+*   [vsql (⭐358)](https://github.com/elliotchance/vsql) - Single-file SQL database written in pure V, following the SQL standard, with a CLI, a PostgreSQL-compatible server and an ORM.
+
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### Admin Interface
+
+*   [Avo](https://avohq.io/rails-admin) - Admin panel framework for Ruby on Rails. Build admins, internal tools, dashboards and back offices in plain Ruby inside your own app; an optional paid MCP add-on lets AI agents work on the same records within your Pundit policies.
+
+### CMS
+
+*   [Avo](https://avohq.io/rails-cms) - Admin framework for Ruby on Rails. Build admin panels, internal tools and CMS back offices by configuring resources in Ruby, inside your own app.
+
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [alexsergivan/kwant (⭐530)](https://github.com/alexsergivan/kwant) - Self-hosted team of AI bots in one binary, with spaces, handoffs, approvals and routines [![CI](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml)
+
+### Applications / Video
+
+*   [yuxino/mimi (⭐851)](https://github.com/yuxino/mimi) - Live bilingual subtitle overlay for videos and streams, built with Rust and Tauri. [![CI](https://github.com/yuxino/mimi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yuxino/mimi/actions/workflows/ci.yml)
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [Rizamo](https://rizamo.com) - Social media publishing API: schedule and publish to Instagram, Facebook, TikTok, Threads, YouTube and more over REST, webhooks or an MCP server for AI agents, with comment inbox and analytics. Free forever for 2 connected accounts, unlimited posts, every feature included, no credit card.
+
+### Analytics, Events and Statistics
+
+*   [Spreelytics](https://spreelytics.com) - Privacy first website and product analytics SaaS that can trace your revenue sources. Free plan: 1 million events per month, unlimited projects and team members with most of the needed features like dashboard, goal, funnel, ai crawler, revenue, and much more.
+
+## [7. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+
+### VLC native plugins
+
+*   [vlc-waveform (⭐0)](https://github.com/ChrizzElabs/vlc-waveform) - Full-file audio waveform visualization with click-to-seek for VLC on Windows.
+
+## [8. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Adventure
+
+*   [OpenHP1 (⭐4)](https://github.com/artemnikonov/openhp1) - Engine reimplementation of Harry Potter and the Philosopher's Stone (PC, KnowWonder, 2001) that runs the game's own UnrealScript; native on Apple Silicon Macs, Windows and Linux. Requires the original game files.
+
+## [9. Magictools](/content/ellisonleao/magictools/README.md)
+
+### Graphics / Spritesheet Tools
+
+*   :moneybag: [Border Kit for Tiled](https://frenkitchio.itch.io/border-kit-for-tiled) - Python CLI to extrude PNG tilesets and update external TSX files while preserving tile IDs, animations and collision objects.
+
+### Graphics / Vector/Image Editor
+
+*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐162)](https://github.com/klad-app/klad)
+
+### AI / Voxel Editors
+
+*   :moneybag: [Buildaloo](https://buildaloo.com/?utm_source=magictools\&utm_medium=directory) - AI game maker for kids 5–12: a kid says a game idea out loud and plays the game in the browser. Parent account, no ads, no stranger chat.
+*   :money\_with\_wings: [PlayDrop](https://www.playdrop.ai/create) - Make a browser game by describing it, or publish one your AI app made, and share it with a link.
+
+### Blogs and Portals / Voxel Editors
+
+*   [Gamealia](https://gamealia.app/) - Free HTML5 web games portal in 32 languages; developers publish their web games (HTML5, Unity WebGL, Godot) with no exclusivity and an ad revenue share (ads are not live yet).
+
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Games
+
+*   [TabletopCardEngine demo (⭐1)](https://github.com/DigitalAbsurd/TabletopCardEngine) - ![stars](https://img.shields.io/github/stars/DigitalAbsurd/TabletopCardEngine?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DigitalAbsurd/TabletopCardEngine?style=flat-square\&cacheSeconds=86400) Texas Hold'em played and replayed in Blazor WebAssembly, with a live view of the database rows each action writes. [Demo](https://digitalabsurd.github.io/TabletopCardEngine/).
+
+### Component bundles
+
+*   [Radzen.Blazor (⭐4.4k)](https://github.com/radzenhq/radzen-blazor) - ![GitHub stars](https://img.shields.io/github/stars/radzenhq/radzen-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/radzenhq/radzen-blazor?style=flat-square\&cacheSeconds=86400) Free and open-source (MIT, including commercial use) library of 155+ native Blazor components: DataGrid, Scheduler, Gantt, PivotDataGrid, Spreadsheet with XLSX import/export, 30+ chart types, HtmlEditor and more, with Material, Standard, Default, Humanistic and Software themes in light and dark. ([Demos](https://blazor.radzen.com/)).
+
+### Routing & Navigation / Modal, Toast & Notifications
+
+*   [Routeables (⭐0)](https://github.com/cedric56/Routeables) - ![stars](https://img.shields.io/github/stars/cedric56/Routeables?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cedric56/Routeables?style=flat-square\&cacheSeconds=86400) Route-based MVVM navigation for Blazor (Server, WebAssembly and MAUI Hybrid): view models declare routes (`[Routeable("/dogs/{name}")]`) and navigate through a single `IRouter`, with typed route methods, regions and navigation guards. The same view models also run on MAUI, Avalonia, Uno and WPF. [NuGet](https://www.nuget.org/packages/Routeables.Razor).
+
+### Routing & Navigation / Others
+
+*   [WebFilez (⭐0)](https://github.com/gordon-matt/WebFilez) - ![stars](https://img.shields.io/github/stars/gordon-matt/WebFilez?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gordon-matt/WebFilez?style=flat-square\&cacheSeconds=86400) Open source file manager for web written in Blazor. Demos available for Blazor, MVC and React.
+
+### Articles / Others
+
+*   [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/) - November 10, 2026 - .NET 11 is here with C# 15, faster developer tools, runtime and library improvements, and new capabilities for web, mobile, desktop, and AI apps.
+*   [Get Ready for .NET Conf 2026!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/) - November 3, 2026 - Join Microsoft November 10-13 for this free, four-day virtual conference and the official launch of .NET 11. We’ll kick things off with two days of sessions from Microsoft product teams, followed by two days of community-led talks from developers around the world.
+
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Plugin Manager
+
+*   [jtprogru/pack-ui.nvim (⭐40)](https://github.com/jtprogru/pack-ui.nvim) - A simple UI on top of `vim.pack` for managing plugins.
+
+### AI / Diagnostics
+
+*   [kova1max/float-claude.nvim (⭐2)](https://github.com/kova1max/float-claude.nvim) - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
+
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [eigenkit (⭐25)](https://github.com/eigenorbit/eigenkit) - Quantum machine learning in Python: hybrid quantum neural networks as PyTorch modules and quantum kernel models (QSVC/QSVR) with a scikit-learn API, run on PennyLane, Qiskit, CUDA-Q and other simulators or on IBM, IQM and Amazon Braket QPUs.
+
+## [13. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### JavaScript / Svelte
+
+*   [Svelte Tutorial](https://svelte.jp/tutorial) - Svelte.dev
+
+### Julia / Vue.js
+
+*   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/julia/index.html) - 広井誠
+
+## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+### Commands & Extensions
+
+*   [bulkhead (⭐34)](https://github.com/dooly6276/claude-bulkhead) - Gemini CLI extension for machines that run many agent sessions at once (several Gemini CLI, Claude Code or Codex sessions in separate worktrees of one app). A `BeforeTool` hook on `run_shell_command` blocks name-based kills of another session's processes, port collisions, git commands that would switch, stash or delete another session's worktree, whole-disk scans and long foreground sleeps, and holds heavy commands back when RAM runs low; each block tells the agent the safe command instead. No dependencies, MIT. Install with `gemini extensions install https://github.com/dooly6276/claude-bulkhead`.
+*   [Bravos (⭐2)](https://github.com/Bugb-Technologies/bravos-plugins) - Gemini CLI extension (14 skills, the GuardLink MCP server and a `GEMINI.md` context file) for continuous threat modeling as code that proves the threats: built on GuardLink, it drives Gemini through the threat model, code graph, SAST and authorized pentests (cert-x-gen, against targets you own, loopback by default) that show which exposures are exploitable, then gates PRs and keeps a retest per fix. Runs locally; your code is not sent to Bugb (the licence check contacts account.bugb.io). Commercial; needs the `bravos` CLI (`npm install -g @bugb-technologies/bravos`, Node 20+) and a Bugb account. Install: `gemini extensions install https://github.com/Bugb-Technologies/bravos-plugins`.
+
+### Development Tools & Utilities
+
+*   [Align CLI (⭐11)](https://github.com/aligndottech/align-cli) - Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.
+
+### MCP Servers
+
+*   [KissMyPost (⭐2)](https://github.com/krutytskyi/kissmypost-gemini) - Reddit audience data for Gemini CLI over a remote MCP server: subreddit finder, best time to post, brand mentions.
+*   [CloudGPU MCP (⭐1)](https://github.com/mrhy7176/cloudgpu-mcp) - MIT-licensed local (stdio) MCP server that lets Gemini CLI rent a GPU by the minute on CloudGPU, run a job, download the results and shut the machine down; the same key also works with an OpenAI-compatible API for open models. Needs a CloudGPU account with prepaid balance.
+*   [GuardLink (⭐21)](https://github.com/Bugb-Technologies/guardlink) - Continuous threat modeling as code for Gemini CLI: security annotations in source comments are the threat model, parsed deterministically and validated in CI, so it updates as the code changes. `guardlink init --agent gemini` adds its instructions to `.gemini/GEMINI.md`, and the MCP server lets Gemini read the threats, exposures and data flows behind a file, check its annotations, find untrusted-entry-to-sink paths with no control, and turn open exposures into cert-x-gen test templates so they can be proven. Local stdio. MIT. Install: `npm install -g guardlink`, then `gemini mcp add guardlink guardlink mcp`.
+*   [memgit](https://memgit.dev/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Versioned memory that Gemini CLI shares with Claude Code, Cursor and Codex: every change is a checkpoint with diff and rollback, and the store syncs end-to-end encrypted between machines. Install: `pip install memgit` or `npx -y memgit-mcp`.
+*   [AgentMart (⭐3)](https://github.com/mustafaakmese/agentmart-plugins) - Hosted MCP server and Gemini CLI extension: a shop of ready parts for coding agents, such as a webhook inbox, memory shared across sessions, schedules that fire after the session ends, uptime watch and a task queue. Searching the catalog is free and needs no sign-in; purchases are paid from a prepaid balance you top up, and the agent asks you before each one. Install: `gemini extensions install https://github.com/mustafaakmese/agentmart-plugins`, then `/mcp auth agentmart`.
+*   [ScrapingBee](https://mcp.scrapingbee.com/?utm_source=awesome-gemini-cli\&utm_medium=referral#tools) - Hosted MCP server for the ScrapingBee web scraping API: Gemini CLI can fetch any page as HTML, text or a screenshot with JavaScript rendering and proxy rotation, extract fields described in plain English, and get JSON results from Google, Amazon, Walmart, YouTube, ChatGPT and Gemini. 18 tools; the server is closed source. Remote Streamable HTTP with a ScrapingBee API key; free trial of 1,000 credits, no card. Add with: `gemini mcp add --transport http scrapingbee https://mcp.scrapingbee.com/mcp --header "Authorization: Bearer $SCRAPINGBEE_API_KEY"`.
+
+## [15. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
 *   [gatling-dummy-sampler (⭐8)](https://github.com/i-nahornyi/gatling-dummy-sampler) - Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.
 *   [gatling-playwright-plugin (⭐3)](https://github.com/i-nahornyi/gatling-playwright-plugin) - A simple Gatling plugin for UI performance testing using Playwright.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Sets
 
@@ -23,7 +171,11 @@
 
 *   [bus (⭐1)](https://github.com/korableg/bus) - Kafka event bus framework with protobuf-typed producer and consumer groups, retries, batch handlers and automatic offset commits.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [pattyGraph (⭐5)](https://github.com/jwminton/pattyGraph) - Real-time NGINX log analyzer with an interactive TUI and JSONL output.
+
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -31,7 +183,13 @@
 
 ### AI Tools / Other Tools
 
+*   [o8](https://o8.run) - Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/o8-run/o8)
 *   [MoMo Agent (⭐15)](https://github.com/Miri-Labs/MoMo-Agent) - Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Quarters](https://quarters.amithgc.com) - Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/amithgc/quarters) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / Audio Record and Process
+
+*   [VoiceStudio](https://saadmsft.github.io/VoiceStudio/) - Real-time broadcast voice rack in Swift and CoreAudio with subtle pitch depth, sub-harmonic warmth, 6-band EQ, de-esser, and compressor for Discord, Zoom, Teams, and OBS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saadmsft/VoiceStudio) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -41,7 +199,23 @@
 
 *   [TocaPad (⭐2)](https://github.com/getguruhat/tocapad-macos) - Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/tocapad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+### Utilities / Cleanup and Uninstall
+
+*   [DiskPilot](https://diskpilot.live) - Free, open-source storage analyzer for developers that explains each folder (Docker, node\_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Devanshgoel-123/diskpilot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
+*   [Yado](https://yado.house/) - Native Mac app for managing an iPhone: clear duplicate photos, large videos and unused apps, arrange the Home Screen, move files and keep backups on the Mac. ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Productivity
+
+*   [LinkUnbound](https://www.linkunbound.app/) - Open-source browser picker that asks which browser or browser profile should open each link, with rules by site or by the app the link came from. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rgdevment/LinkUnbound) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Finder Tools
+
+*   [PC Mode (⭐5)](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/PCMode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -60,13 +234,13 @@
 *   [evident-charts (⭐62)](https://github.com/rhiever/evident-charts) - Agent skill that makes explanatory charts and checks them for misleading axes, overlapping labels, and color problems.
 *   [RustGIS (⭐2.6k)](https://github.com/opengeos/RustGIS) - Fast, free and open-source GIS for mapping, analyzing and sharing geospatial data, native and in the browser.
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Proprietary (non-standard) vendor APIs / Rust
 
 *   [InfraNode](https://infranode.dev) - Keyless REST (and MCP) API for 84+ German cities. Includes public-transport stops and live departures with real-time delays (DELFI/GTFS, HVV, VGN), alongside weather, air quality, traffic and roadworks. No API key.
 
-## [6. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [20. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Boardgame
 
@@ -87,7 +261,7 @@
 *   [World Chase (⭐0)](https://github.com/JezKirkpatrick/WorldChase) - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week.
 *   [Kids World Chase (⭐0)](https://github.com/JezKirkpatrick/kids-world-chase) - Weekly geography adventure for children aged 8-13. Solve riddles, explore real locations via Google Street View.
 
-## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [21. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Agents
 

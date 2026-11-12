@@ -133,7 +133,7 @@ Thanks to our main contributors
 
 *   [AtDork (⭐54)](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
 *   [DorkCraft (⭐10)](https://github.com/juandresrodca/DorkCraft) - Google dork generator that builds advanced search queries for OSINT and reconnaissance.
-*   [DorkEye (⭐155)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+*   [DorkEye (⭐162)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 *   [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 *   [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 *   [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -557,7 +557,7 @@ Thanks to our main contributors
 *   [Telepahty (⭐1.3k)](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
 *   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
-*   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+*   [Telegram-Archive (⭐252)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 *   [Telegram Nearby Map (⭐1.2k)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 *   [Telegram channels scraper TeleGraphite  (⭐290)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 *   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
@@ -669,7 +669,7 @@ Thanks to our main contributors
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 *   [NexFil (⭐2.6k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 *   [Seekr (⭐888)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
-*   [Sherlock (⭐95k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐111k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
 *   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
 *   [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Username — Instantly. Scans thousands of sites for username presence.
@@ -760,6 +760,7 @@ Thanks to our main contributors
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 *   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 *   [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
+*   [SpoofCheck](https://spoofchecker.online/) - Free email spoofing test: checks a domain's SPF, DKIM, DMARC, MTA-STS and MX records and grades how easily it can be impersonated (A to F).
 *   [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 *   [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 *   [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly. Scans hundreds of sites for email presence, breaches and more.
@@ -1158,7 +1159,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
-*   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
+*   [Aleph (⭐875)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
 *   [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Atlas](https://atlas.co)
@@ -1366,7 +1367,7 @@ Thanks to our main contributors
 *   [Awasu](https://www.awasu.com)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐35k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐36k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetection](https://www.changedetection.com)
 *   [Deltafeed](https://bitreading.com/deltafeed)
 *   [DiggReader](https://digg.com/login?next=%2Freader)

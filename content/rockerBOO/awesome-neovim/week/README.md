@@ -8,6 +8,14 @@ Collections of awesome neovim plugins.
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Plugin Manager
+
+*   [jtprogru/pack-ui.nvim (⭐40)](https://github.com/jtprogru/pack-ui.nvim) - A simple UI on top of `vim.pack` for managing plugins.
+
+### AI / Diagnostics
+
+*   [kova1max/float-claude.nvim (⭐2)](https://github.com/kova1max/float-claude.nvim) - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
+
 ### Project / Markdown and LaTeX
 
 *   [tiagovla/projet.nvim (⭐2)](https://github.com/tiagovla/projet.nvim) - A minimalist tool for managing your projects, with just enough French to feel fancy.
@@ -89,7 +97,7 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Tmux
 
-*   [minhyeoky/tmux-oil.nvim (⭐10)](https://github.com/minhyeoky/tmux-oil.nvim) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
+*   [minhyeoky/tmux-oil.nvim (⭐16)](https://github.com/minhyeoky/tmux-oil.nvim) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
 
 ### Pre-made Configuration / Stats Tracking
 
@@ -5042,7 +5050,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐402)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐404)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 

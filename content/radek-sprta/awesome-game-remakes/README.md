@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Adventure
+
+*   [OpenHP1 (⭐4)](https://github.com/artemnikonov/openhp1) - Engine reimplementation of Harry Potter and the Philosopher's Stone (PC, KnowWonder, 2001) that runs the game's own UnrealScript; native on Apple Silicon Macs, Windows and Linux. Requires the original game files.
+
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
 ### RPG
@@ -16,13 +22,13 @@ Actively maintained open-source game remakes.
 
 ### Racing
 
-*   [OpenMCM2 (⭐0)](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
+*   [OpenMCM2 (⭐17)](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
 
 ## [Oct 26, 2026](/content/2026/10/26/README.md)
 
 ### Strategy
 
-*   [OpenSGolf (⭐35)](https://github.com/crspytopgn/opensgolf) - Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower\_playing\_cards:
+*   [OpenSGolf (⭐54)](https://github.com/crspytopgn/opensgolf) - Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower\_playing\_cards:
 
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
@@ -63,37 +69,37 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [Earthworm Jim HD Recompiled (⭐93)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Recomp of Earthworm Jim HD (Xbox 360) to PC.
-*   [King Kong Recompiled (⭐218)](https://github.com/TekRantGaming/king-kong-recompiled) - Recomp of King Kong (Xbox 360) to PC.
-*   [MDK Sdl (⭐54)](https://github.com/nemo22/mdk-sdl) - Port of MDK (Shiny) to SDL. Includes enhancements.
-*   [Simpsons Wrestling Recompiled (⭐31)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Recomp of Simpsons Wrestling (PS1) to PC.
-*   [Starfox Recomp (⭐31)](https://github.com/mstan/StarFoxSNESRecomp) - Recomp + enhancement of Starfox (SNES).
-*   [Ultimate MK3 iOS (⭐50)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp) - Recomp of Ultimate Mortal Kombat 3 iOS to PC.
+*   [Earthworm Jim HD Recompiled (⭐120)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Recomp of Earthworm Jim HD (Xbox 360) to PC.
+*   [King Kong Recompiled (⭐291)](https://github.com/TekRantGaming/king-kong-recompiled) - Recomp of King Kong (Xbox 360) to PC.
+*   [MDK Sdl (⭐86)](https://github.com/nemo22/mdk-sdl) - Port of MDK (Shiny) to SDL. Includes enhancements.
+*   [Simpsons Wrestling Recompiled (⭐37)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Recomp of Simpsons Wrestling (PS1) to PC.
+*   [Starfox Recomp (⭐38)](https://github.com/mstan/StarFoxSNESRecomp) - Recomp + enhancement of Starfox (SNES).
+*   [Ultimate MK3 iOS (⭐68)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp) - Recomp of Ultimate Mortal Kombat 3 iOS to PC.
 
 ### Adventure
 
-*   [Titanic: Adventure Out of Time (⭐11)](https://github.com/itskenny0/titanic-godot) - Recomp of Titanic Adventure Out of Time to Godot.
+*   [Titanic: Adventure Out of Time (⭐12)](https://github.com/itskenny0/titanic-godot) - Recomp of Titanic Adventure Out of Time to Godot.
 
 ### RPG
 
-*   [DQ8 Recompiled (⭐85)](https://github.com/Sinan-Karakaya/DQ8-Recompiled) - Recomp of Dragon's Quest 8 (PS2) to PC.
-*   [Earthbound Companion (⭐37)](https://github.com/rages4calm/earthbound-companion) - Recomp of Earthbound (SNES) to PC.
-*   [Ultima 5 (⭐27)](https://github.com/synthwave-pixel/ultima5) - Modern engine for Ultima 5.
+*   [DQ8 Recompiled (⭐128)](https://github.com/Sinan-Karakaya/DQ8-Recompiled) - Recomp of Dragon's Quest 8 (PS2) to PC.
+*   [Earthbound Companion (⭐50)](https://github.com/rages4calm/earthbound-companion) - Recomp of Earthbound (SNES) to PC.
+*   [Ultima 5 (⭐59)](https://github.com/synthwave-pixel/ultima5) - Modern engine for Ultima 5.
 
 ### Platformer
 
-*   [Conker's Bad Fur Day Reloaded (⭐129)](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) - Recomp and enhancements for Conker's Bad Fur Day (N64).
+*   [Conker's Bad Fur Day Reloaded (⭐185)](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) - Recomp and enhancements for Conker's Bad Fur Day (N64).
 
 ### Racing
 
-*   [Daytona Arcade Recomp (⭐223)](https://github.com/alphanu1/daytona-arcade-recomp) - Recomp of Daytona Racing to PC.
+*   [Daytona Arcade Recomp (⭐249)](https://github.com/alphanu1/daytona-arcade-recomp) - Recomp of Daytona Racing to PC.
 *   [Rollcage Redux](https://www.codemonkey.me.uk/rollcage_redux.php) - Port of the classic game Rollcage.
 *   [RVGL](https://rvgl.org/) - Cross-platform engine for Re-Volt.
-*   [SpeedBreaker (⭐487)](https://github.com/SpeedBreakerProject/speedbreaker) - Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.
+*   [SpeedBreaker (⭐674)](https://github.com/SpeedBreakerProject/speedbreaker) - Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.
 
 ### Simulator
 
-*   [OpenReliant (⭐40)](https://github.com/OpenReliant/openreliant) - Rebuild of Starlancer in Zig and SDL3.
+*   [OpenReliant (⭐49)](https://github.com/OpenReliant/openreliant) - Rebuild of Starlancer in Zig and SDL3.
 
 ## [Oct 08, 2026](/content/2026/10/08/README.md)
 
@@ -113,7 +119,7 @@ Actively maintained open-source game remakes.
 *   [Parasite Eve HD Remaster (⭐231)](https://github.com/faligame/Parasite-Eve-HD-Remaster) - Recomp and enhancement of the PS1 game Parasite Eve.
 *   [Edge Of Time Recomp (⭐494)](https://github.com/goliathret/EdgeOfTimeRecomp) - Recomp of Spider Man: Edge of Time from Xbox 360.
 *   [ZeldaWWHDRecomp (⭐1.4k)](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Recomp of Zelda: The Wind Waker HD to PC and Android.
-    *   [ZeldaWWHDRecompAndroid (⭐84)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
+    *   [ZeldaWWHDRecompAndroid (⭐95)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
 *   [X-Men Mutant Academy 2 (⭐23)](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - Recomp of the PS1 game X-Men Mutant Academy 2.
 
 ### FPS
@@ -824,7 +830,7 @@ Actively maintained open-source game remakes.
 ### Adventure
 
 *   [ScummVM (⭐2.9k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
-    *   [ScummVM AI Upscale (⭐3)](https://github.com/fleccy/scummvm-ai-upscale/) - Fork of ScummVM that uses AI to upscale in real-time.
+    *   [ScummVM AI Upscale (⭐6)](https://github.com/fleccy/scummvm-ai-upscale/) - Fork of ScummVM that uses AI to upscale in real-time.
 
 ### Arcade
 
@@ -973,7 +979,7 @@ Actively maintained open-source game remakes.
 *   [KeeperRL (⭐1k)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [openage (⭐15k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 *   [OpenLoco (⭐2k)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
-*   [OpenTTD (⭐8.4k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
+*   [OpenTTD (⭐8.5k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
 *   [Sourcehold (⭐283)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 *   [VCMI (⭐6k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 *   [Wargus (⭐450)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.

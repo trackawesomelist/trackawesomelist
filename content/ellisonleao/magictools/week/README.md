@@ -12,6 +12,10 @@
 
 *   :free: [pixelfx.io](https://pixelfx.io/) - Free animated pixel art effects for games, with browser previews, recoloring, and transparent PNG sprite sheet and animation JSON downloads; MIT-licensed library assets.
 
+### Graphics / Spritesheet Tools
+
+*   :moneybag: [Border Kit for Tiled](https://frenkitchio.itch.io/border-kit-for-tiled) - Python CLI to extrude PNG tilesets and update external TSX files while preserving tile IDs, animations and collision objects.
+
 ### Graphics / Texture Tools
 
 *   :free: [Normal Map Bench](https://normalmapbench.com/) - Generate tangent-space normal maps for game textures from height images in the browser, with a live lighting preview and OpenGL or DirectX PNG export.
@@ -22,16 +26,23 @@
 
 ### Graphics / Vector/Image Editor
 
+*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐162)](https://github.com/klad-app/klad)
 *   :free: [PixelArtHive Sprite Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Resize sprites for 2D games at whole-number scales without blur. Runs in the browser without uploading the sprite.
 
 ### AI / Voxel Editors
 
 *   :tada: [AI Art Engine (⭐268)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
+*   :moneybag: [Buildaloo](https://buildaloo.com/?utm_source=magictools\&utm_medium=directory) - AI game maker for kids 5–12: a kid says a game idea out loud and plays the game in the browser. Parent account, no ads, no stranger chat.
+*   :money\_with\_wings: [PlayDrop](https://www.playdrop.ai/create) - Make a browser game by describing it, or publish one your AI app made, and share it with a link.
 
 ### Board Games / Voxel Editors
 
 *   :money\_with\_wings: [Game Piece Studio](https://gamepiece.studio/) - Browser-based designer for board game cards, boards, tiles and tokens that binds layouts to spreadsheet data and exports print-ready PDF/PNG.
 *   :free: [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks for tabletop RPG preparation.
+
+### Blogs and Portals / Voxel Editors
+
+*   [Gamealia](https://gamealia.app/) - Free HTML5 web games portal in 32 languages; developers publish their web games (HTML5, Unity WebGL, Godot) with no exclusivity and an ad revenue share (ads are not live yet).
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
@@ -198,7 +209,7 @@
 *   :tada: [Planck.js](https://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 *   :tada: [PuzzleScript](https://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 *   :tada: [Ren'Py](https://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
-*   :tada: [Rpgboss (⭐328)](https://github.com/rpgboss/rpgboss) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
+*   :tada: [Rpgboss (⭐325)](https://github.com/rpgboss/rpgboss) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 *   :moneybag: [RPGMaker](https://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 *   :tada: [SDL](https://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 *   :tada: [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
@@ -206,7 +217,7 @@
 *   :tada: [Stage.js](https://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 *   :tada: [Starling](https://gamua.com/starling/) - The GPU powered 2D Flash API
 *   :money\_with\_wings: [Stencyl](https://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
-*   :tada: [Supernova Engine (⭐896)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
+*   :tada: [Supernova Engine (⭐920)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 *   :tada: [Three.js](https://threejs.org/) - Javascript 3D Library.
 *   :tada: [Turbulenz](https://ga.me/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 *   :tada: [Twine](https://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.

@@ -6,6 +6,29 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Games
+
+*   [TabletopCardEngine demo (⭐1)](https://github.com/DigitalAbsurd/TabletopCardEngine) - ![stars](https://img.shields.io/github/stars/DigitalAbsurd/TabletopCardEngine?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DigitalAbsurd/TabletopCardEngine?style=flat-square\&cacheSeconds=86400) Texas Hold'em played and replayed in Blazor WebAssembly, with a live view of the database rows each action writes. [Demo](https://digitalabsurd.github.io/TabletopCardEngine/).
+
+### Component bundles
+
+*   [Radzen.Blazor (⭐4.4k)](https://github.com/radzenhq/radzen-blazor) - ![GitHub stars](https://img.shields.io/github/stars/radzenhq/radzen-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/radzenhq/radzen-blazor?style=flat-square\&cacheSeconds=86400) Free and open-source (MIT, including commercial use) library of 155+ native Blazor components: DataGrid, Scheduler, Gantt, PivotDataGrid, Spreadsheet with XLSX import/export, 30+ chart types, HtmlEditor and more, with Material, Standard, Default, Humanistic and Software themes in light and dark. ([Demos](https://blazor.radzen.com/)).
+
+### Routing & Navigation / Modal, Toast & Notifications
+
+*   [Routeables (⭐0)](https://github.com/cedric56/Routeables) - ![stars](https://img.shields.io/github/stars/cedric56/Routeables?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cedric56/Routeables?style=flat-square\&cacheSeconds=86400) Route-based MVVM navigation for Blazor (Server, WebAssembly and MAUI Hybrid): view models declare routes (`[Routeable("/dogs/{name}")]`) and navigate through a single `IRouter`, with typed route methods, regions and navigation guards. The same view models also run on MAUI, Avalonia, Uno and WPF. [NuGet](https://www.nuget.org/packages/Routeables.Razor).
+
+### Routing & Navigation / Others
+
+*   [WebFilez (⭐0)](https://github.com/gordon-matt/WebFilez) - ![stars](https://img.shields.io/github/stars/gordon-matt/WebFilez?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gordon-matt/WebFilez?style=flat-square\&cacheSeconds=86400) Open source file manager for web written in Blazor. Demos available for Blazor, MVC and React.
+
+### Articles / Others
+
+*   [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/) - November 10, 2026 - .NET 11 is here with C# 15, faster developer tools, runtime and library improvements, and new capabilities for web, mobile, desktop, and AI apps.
+*   [Get Ready for .NET Conf 2026!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/) - November 3, 2026 - Join Microsoft November 10-13 for this free, four-day virtual conference and the official launch of .NET 11. We’ll kick things off with two days of sessions from Microsoft product teams, followed by two days of community-led talks from developers around the world.
+
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
 ### Articles / Others
@@ -117,7 +140,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### ToDos
 
-*   [OpenHabitTracker (⭐302)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
+*   [OpenHabitTracker (⭐308)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
 
 ### Component bundles
 
@@ -759,7 +782,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Radzen.Blazor (⭐4.4k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
 *   [Blazority (⭐110)](https://github.com/blazority/support) - ![GitHub stars](https://img.shields.io/github/stars/blazority/support?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazority/support?style=flat-square\&cacheSeconds=86400) Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view ([Docs & Demos](https://blazority.com)).
 *   [Start Blazoring](https://startblazoring.com) - A Blazor starter template built using your choice of [Blazorise](https://blazorise.com/) or [MudBlazor](https://mudblazor.com), with more UI library integration coming. It offers a myriad of features such as user registration, login, password reset, two factor; user management, roles, permissioning; background workers, logging, caching, email templates, localization and many more.
 *   [TabBlazor (⭐563)](https://github.com/joadan/TabBlazor) - ![GitHub stars](https://img.shields.io/github/stars/joadan/tabblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐42k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
@@ -1096,7 +1118,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐714)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐68k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [ChartJs.Blazor (⭐714)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐68k)](https://github.com/chartjs/Chart.js) charts to Blazor.
 *   [GG.Net Data Visualization (⭐87)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
 *   [Plotly.Blazor (⭐431)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐18k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 

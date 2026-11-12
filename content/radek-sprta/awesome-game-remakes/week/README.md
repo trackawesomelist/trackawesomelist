@@ -8,6 +8,10 @@ Actively maintained open-source game remakes.
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Adventure
+
+*   [OpenHP1 (⭐4)](https://github.com/artemnikonov/openhp1) - Engine reimplementation of Harry Potter and the Philosopher's Stone (PC, KnowWonder, 2001) that runs the game's own UnrealScript; native on Apple Silicon Macs, Windows and Linux. Requires the original game files.
+
 ### RPG
 
 *   [d2d (⭐44)](https://github.com/psi29a/d2decomped) - Diablo II: Lord of Destruction 1.14d reimplemented in C++ from traces of the original game.exe.
@@ -16,11 +20,11 @@ Actively maintained open-source game remakes.
 
 ### Racing
 
-*   [OpenMCM2 (⭐0)](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
+*   [OpenMCM2 (⭐17)](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
 
 ### Strategy
 
-*   [OpenSGolf (⭐35)](https://github.com/crspytopgn/opensgolf) - Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower\_playing\_cards:
+*   [OpenSGolf (⭐54)](https://github.com/crspytopgn/opensgolf) - Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower\_playing\_cards:
 
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
@@ -63,29 +67,29 @@ Actively maintained open-source game remakes.
 *   [BloodBorne for Windows (⭐5.3k)](https://github.com/Supermedo/bloodborne_pc) - Recomp of BloodBorne (PS4) to Windows.
 *   [CTW-Native (⭐72)](https://github.com/official-kryo-to/ctw-native) - Recomp of GTA: Chinatown Wars from Android to Windows.
 *   [DPRecomp (⭐187)](https://github.com/LittleBitUA/DPRecomp) - Recomp of Deadly Premonition from Xbox 360.
-*   [Earthworm Jim HD Recompiled (⭐93)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Recomp of Earthworm Jim HD (Xbox 360) to PC.
+*   [Earthworm Jim HD Recompiled (⭐120)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Recomp of Earthworm Jim HD (Xbox 360) to PC.
 *   [Herculan (⭐20)](https://github.com/kevinfoley/Herculan) - Recomp of Earthsiege 2 by Dynamix.
 *   [Ico-PC (⭐512)](https://github.com/nathanialf/ico-pc) - Recomp of ICO (PS2) to PC.
-*   [King Kong Recompiled (⭐218)](https://github.com/TekRantGaming/king-kong-recompiled) - Recomp of King Kong (Xbox 360) to PC.
+*   [King Kong Recompiled (⭐291)](https://github.com/TekRantGaming/king-kong-recompiled) - Recomp of King Kong (Xbox 360) to PC.
 *   [LCS Recomp (⭐295)](https://github.com/elmasas/lcs-recomp) - Recomp of the PSP game GTA: Liberty City Stories to PC.
-*   [MDK Sdl (⭐54)](https://github.com/nemo22/mdk-sdl) - Port of MDK (Shiny) to SDL. Includes enhancements.
+*   [MDK Sdl (⭐86)](https://github.com/nemo22/mdk-sdl) - Port of MDK (Shiny) to SDL. Includes enhancements.
 *   [MeleePC (⭐595)](https://github.com/999sian/melee-pc) - Recomp of Super Smash Bros Melee to PC.
 *   [Metal Mutant-web (⭐3)](https://github.com/kznsq/metal-mutant-web) - Recomp of the Silmarils game Metal Mutant to Javascript.
 *   [Metroid Prime Port (⭐673)](https://github.com/Odrannnn/MetroidPrimePort) - Recomp of Metroid Prime to PC and Android.
-*   [Simpsons Wrestling Recompiled (⭐31)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Recomp of Simpsons Wrestling (PS1) to PC.
+*   [Simpsons Wrestling Recompiled (⭐37)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Recomp of Simpsons Wrestling (PS1) to PC.
 *   [OpenSpideyPS1 (⭐63)](https://github.com/GTTeancum/SpideyPS1recomp) - Recomp of Spider-Man PS1 and Spider-Man 2: Enter Electro to PC.
 *   [Parasite Eve HD Remaster (⭐231)](https://github.com/faligame/Parasite-Eve-HD-Remaster) - Recomp and enhancement of the PS1 game Parasite Eve.
 *   [Edge Of Time Recomp (⭐494)](https://github.com/goliathret/EdgeOfTimeRecomp) - Recomp of Spider Man: Edge of Time from Xbox 360.
-*   [Starfox Recomp (⭐31)](https://github.com/mstan/StarFoxSNESRecomp) - Recomp + enhancement of Starfox (SNES).
+*   [Starfox Recomp (⭐38)](https://github.com/mstan/StarFoxSNESRecomp) - Recomp + enhancement of Starfox (SNES).
 *   [ZeldaWWHDRecomp (⭐1.4k)](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Recomp of Zelda: The Wind Waker HD to PC and Android.
-    *   [ZeldaWWHDRecompAndroid (⭐84)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
+    *   [ZeldaWWHDRecompAndroid (⭐95)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
 *   [X-Men Mutant Academy 2 (⭐23)](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - Recomp of the PS1 game X-Men Mutant Academy 2.
-*   [Ultimate MK3 iOS (⭐50)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp) - Recomp of Ultimate Mortal Kombat 3 iOS to PC.
+*   [Ultimate MK3 iOS (⭐68)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp) - Recomp of Ultimate Mortal Kombat 3 iOS to PC.
 
 ### Adventure
 
 *   [Flipendo (⭐31)](https://github.com/kroplabeskidu/flipendo) - Source port of Harry Potter and the Philosopher's Stone and Chamber of Secrets (PC, KnowWonder) on SurrealEngine. Requires the original game files.
-*   [Titanic: Adventure Out of Time (⭐11)](https://github.com/itskenny0/titanic-godot) - Recomp of Titanic Adventure Out of Time to Godot.
+*   [Titanic: Adventure Out of Time (⭐12)](https://github.com/itskenny0/titanic-godot) - Recomp of Titanic Adventure Out of Time to Godot.
 
 ### FPS
 
@@ -97,10 +101,10 @@ Actively maintained open-source game remakes.
 ### RPG
 
 *   [Bak-Again (⭐15)](https://github.com/stellargames/bakagain) - Recomp + enhancement of Betrayal At Krondor by Dynamix.
-*   [DQ8 Recompiled (⭐85)](https://github.com/Sinan-Karakaya/DQ8-Recompiled) - Recomp of Dragon's Quest 8 (PS2) to PC.
-*   [Earthbound Companion (⭐37)](https://github.com/rages4calm/earthbound-companion) - Recomp of Earthbound (SNES) to PC.
+*   [DQ8 Recompiled (⭐128)](https://github.com/Sinan-Karakaya/DQ8-Recompiled) - Recomp of Dragon's Quest 8 (PS2) to PC.
+*   [Earthbound Companion (⭐50)](https://github.com/rages4calm/earthbound-companion) - Recomp of Earthbound (SNES) to PC.
 *   [Goldbox Companion (⭐5)](https://github.com/gschmidl/goldbox-staging) - Companion tools for Eye of the Beholder 1-3, Goldbox games, Ultima V combined and ported to work on DOSBox Staging via its html browser feature.
-*   [Ultima 5 (⭐27)](https://github.com/synthwave-pixel/ultima5) - Modern engine for Ultima 5.
+*   [Ultima 5 (⭐59)](https://github.com/synthwave-pixel/ultima5) - Modern engine for Ultima 5.
 *   [Ultima 7 Decomp (⭐101)](https://github.com/Kitrinx/Ultima7_Decomp) - Recomp of Ultima 7. Bit exact to original.
 *   [Underworld Exhumed (⭐85)](https://github.com/abedegno/underworld-exhumed) - Bit-exact recomp of Ultima Underworld I and II.
 *   [Underworld Revisited (⭐36)](https://github.com/PQMarine/UnderworldRevisited) - Ultima Underworld ported to Unity, faithful to the original with optional enhancements.
@@ -108,12 +112,12 @@ Actively maintained open-source game remakes.
 
 ### Platformer
 
-*   [Conker's Bad Fur Day Reloaded (⭐129)](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) - Recomp and enhancements for Conker's Bad Fur Day (N64).
+*   [Conker's Bad Fur Day Reloaded (⭐185)](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) - Recomp and enhancements for Conker's Bad Fur Day (N64).
 *   [SMS Launcher (⭐568)](https://github.com/chasem-dev/sms-launcher) - Recomp of Super Mario Sunshine.
 
 ### Racing
 
-*   [Daytona Arcade Recomp (⭐223)](https://github.com/alphanu1/daytona-arcade-recomp) - Recomp of Daytona Racing to PC.
+*   [Daytona Arcade Recomp (⭐249)](https://github.com/alphanu1/daytona-arcade-recomp) - Recomp of Daytona Racing to PC.
 *   [Interstate 82 Widescreen Fix (⭐14)](https://github.com/SputnikKaputtnik/interstate82-widescreen-4k-fix) - Critical fixes to the game Interstate 82.
 *   [PlayStunts (⭐44)](https://github.com/ACatWithEbola/playstunts) - Recomp of Stunts to TypeScript, playable online.
 *   [re-stunts (⭐21)](https://github.com/CommonLoon102/restunts-bb11) - Recomp of the game Stunts. Original and enhanced versions.
@@ -121,7 +125,7 @@ Actively maintained open-source game remakes.
 *   [Rollcage Redux](https://www.codemonkey.me.uk/rollcage_redux.php) - Port of the classic game Rollcage.
 *   [RVGL](https://rvgl.org/) - Cross-platform engine for Re-Volt.
 *   [Scale Miniatures (⭐7)](https://github.com/hivvu/scale-miniatures) - Open source recomp of Micro Machines in TypeScript.
-*   [SpeedBreaker (⭐487)](https://github.com/SpeedBreakerProject/speedbreaker) - Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.
+*   [SpeedBreaker (⭐674)](https://github.com/SpeedBreakerProject/speedbreaker) - Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.
 *   [Street Rod (⭐11)](https://github.com/kylofon/street-rod-sdl3) - Recomp of Street Rod.
 *   [Street Rod Enhanced (⭐16)](https://github.com/kylofon/streetrod-enhanced) - Enhanced version of Street Rod.
 *   [Test Drive (⭐17)](https://github.com/kylofon/test-drive-sdl3) - Open-source recomp of Test Drive (1987).
@@ -141,7 +145,7 @@ Actively maintained open-source game remakes.
 *   [F-19 (⭐4)](https://github.com/xor2003/f19re) - Recomp of MicroProse F-19.
 *   [Gunboat (⭐3)](https://github.com/PlasticCog/Gunboat) - Open-source recomp of the game Gunboat.
 *   [OpenPrivateer](https://openprivateer.org/) - Open-source remake of Wing Commander: Privateer (1993). Requires original game files.
-*   [OpenReliant (⭐40)](https://github.com/OpenReliant/openreliant) - Rebuild of Starlancer in Zig and SDL3.
+*   [OpenReliant (⭐49)](https://github.com/OpenReliant/openreliant) - Rebuild of Starlancer in Zig and SDL3.
 *   [OpenTIE (⭐358)](https://github.com/elyosh/Opentie) - Open-source recomp of TIE Fighter.
 *   [OpenXvT (⭐65)](https://github.com/elyosh/Openxvt) - Open-source recomp of X-Wing vs Tie Fighter.
 *   [OpenXW (⭐130)](https://github.com/elyosh/OpenXW) - Open-source recomp of X-Wing.
@@ -731,7 +735,7 @@ Actively maintained open-source game remakes.
 ### Adventure
 
 *   [ScummVM (⭐2.9k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
-    *   [ScummVM AI Upscale (⭐3)](https://github.com/fleccy/scummvm-ai-upscale/) - Fork of ScummVM that uses AI to upscale in real-time.
+    *   [ScummVM AI Upscale (⭐6)](https://github.com/fleccy/scummvm-ai-upscale/) - Fork of ScummVM that uses AI to upscale in real-time.
 
 ### Arcade
 
@@ -848,7 +852,7 @@ Actively maintained open-source game remakes.
 *   [OpenRCT2 (⭐17k)](https://github.com/OpenRCT2/OpenRCT2) - Recreation of RollerCoaster Tycoon 2.
 *   [OpenSAGE (⭐1.7k)](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 *   [OpenSC2K (⭐5.3k)](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis in Godot engine.
-*   [OpenTTD (⭐8.4k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
+*   [OpenTTD (⭐8.5k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
 *   [OpenXcom (⭐2.3k)](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
 *   [OutpostHD (⭐148)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
 *   [Race into Space (⭐238)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.

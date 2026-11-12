@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Email Search / Email Check / GitHub
+
+*   [SpoofCheck](https://spoofchecker.online/) - Free email spoofing test: checks a domain's SPF, DKIM, DMARC, MTA-STS and MX records and grades how easily it can be impersonated (A to F).
+
 ## [Nov 09, 2026](/content/2026/11/09/README.md)
 
 ### Domain and IP Research / GitHub
@@ -63,7 +69,7 @@
 
 ### Geospatial Research and Mapping Tools / GitHub
 
-*   [Aleph (⭐466)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
+*   [Aleph (⭐875)](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
 
 ## [Oct 25, 2026](/content/2026/10/25/README.md)
 
@@ -129,13 +135,13 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram-Archive (⭐232)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
+*   [Telegram-Archive (⭐252)](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 
 ## [Oct 10, 2026](/content/2026/10/10/README.md)
 
 ### Google Dorks Tools
 
-*   [DorkEye (⭐155)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
+*   [DorkEye (⭐162)](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 
 ### Image Analysis / GitHub
 
@@ -2026,7 +2032,7 @@
 ### Web Monitoring / GitHub
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐35k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐36k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / GitHub
 
@@ -2709,7 +2715,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐95k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐111k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ## [Oct 09, 2020](/content/2020/10/09/README.md)
 

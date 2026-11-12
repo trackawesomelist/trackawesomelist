@@ -2,27 +2,33 @@
 
 👻 A curated list of awesome VLC and LibVLC resources. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 263 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 308 · 🏷️ Media
 
 [ Daily / [Weekly](/content/mfkl/awesome-vlc/week/README.md) / [Overview](/content/mfkl/awesome-vlc/readme/README.md) ]
+
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### VLC native plugins
+
+*   [vlc-waveform (⭐0)](https://github.com/ChrizzElabs/vlc-waveform) - Full-file audio waveform visualization with click-to-seek for VLC on Windows.
 
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 
 ### VLC web & lua extensions
 
-*   [vlc-auto-dir-enqueue-prev-next (⭐2)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
+*   [vlc-auto-dir-enqueue-prev-next (⭐10)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Tutorials
 
-*   [LibVLC LLM Skill (⭐2)](https://github.com/mfkl/libvlc-skill) - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
+*   [LibVLC LLM Skill (⭐3)](https://github.com/mfkl/libvlc-skill) - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
 
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### VLC web & lua extensions
 
-*   [vlc-mcp-server (⭐11)](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
+*   [vlc-mcp-server (⭐14)](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
@@ -40,23 +46,23 @@
 
 ### VLC native plugins
 
-*   [vlc-mixer (⭐2)](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
+*   [vlc-mixer (⭐5)](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
 
 ## [Nov 17, 2021](/content/2021/11/17/README.md)
 
 ### VLC web & lua extensions
 
 *   [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
-*   [vlc-delete (⭐109)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
-*   [TraktForVLC (⭐313)](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
-*   [playlist-youtube-vlc (⭐7)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
-*   [vlc-super-skipper (⭐16)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
+*   [vlc-delete (⭐123)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
+*   [TraktForVLC (⭐315)](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
+*   [playlist-youtube-vlc (⭐9)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
+*   [vlc-super-skipper (⭐19)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 
 ## [Oct 28, 2021](/content/2021/10/28/README.md)
 
 ### VLC native plugins
 
-*   [vlc-win10smtc (⭐105)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+*   [vlc-win10smtc (⭐144)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -81,7 +87,7 @@
 
 ### Bindings
 
-*   [WebChimera.js (⭐664)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
+*   [WebChimera.js (⭐665)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
 ## [May 12, 2021](/content/2021/05/12/README.md)
 
@@ -91,7 +97,7 @@
 
 ### VLC native plugins
 
-*   [vlc-plugin-marker (⭐11)](https://github.com/nemosharma6/vlc-plugin-marker) - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
+*   [vlc-plugin-marker (⭐14)](https://github.com/nemosharma6/vlc-plugin-marker) - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 
 ### Bindings
 
@@ -122,7 +128,7 @@
 
 *   [vlc-pause-click-plugin (⭐1.2k)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
 *   [vlc-tip-plugin (⭐60)](https://github.com/aklexel/vlc-tip-plugin) - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
-*   [vlc-bittorrent (⭐473)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
+*   [vlc-bittorrent (⭐509)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 
 ### Apps
 
@@ -133,9 +139,9 @@
 ### Bindings
 
 *   [vlc-unity](https://code.videolan.org/videolan/vlc-unity) - Unity3D integration for VLC.
-*   [python-vlc (⭐433)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
+*   [python-vlc (⭐448)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
 *   [vlcj (⭐1.2k)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
 *   [LibVLCSharp (⭐1.8k)](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC.
-*   [libvlc-go (⭐505)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
+*   [libvlc-go (⭐510)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 *   [libvlcpp](https://code.videolan.org/videolan/libvlcpp/) - C++ bindings for libvlc.
-*   [dart\_vlc (⭐527)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
+*   [dart\_vlc (⭐526)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.

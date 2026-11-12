@@ -2,9 +2,19 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 399K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 401K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/readme/README.md) ]
+
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### JavaScript / Svelte
+
+*   [Svelte Tutorial](https://svelte.jp/tutorial) - Svelte.dev
+
+### Julia / Vue.js
+
+*   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/julia/index.html) - 広井誠
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -80,7 +90,6 @@
 
 ### JavaScript / Svelte
 
-*   [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
 *   [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
@@ -94,7 +103,7 @@
 ### Git / 理論計算機科学
 
 *   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
-*   [GitHubカンニング・ペーパー (⭐59k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [GitHubカンニング・ペーパー (⭐60k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
 *   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 *   [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
@@ -682,10 +691,6 @@
 
 *   [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, `trl:` Yuki Kawashima
 
-### Julia / Vue.js
-
-*   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
-
 ### LaTeX / Vue.js
 
 *   [TeX入門 TeX Wiki](https://texwiki.texjp.org/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
@@ -819,7 +824,7 @@
 
 ### Android / 理論計算機科学
 
-*   [Android Open Text book (⭐252)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android Open Text book (⭐251)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 *   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
 ### AppleScript / 理論計算機科学
@@ -939,7 +944,7 @@
 
 ### JavaScript / Backbone.js
 
-*   [Backboneドキュメント日本語訳 (⭐213)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
+*   [Backboneドキュメント日本語訳 (⭐212)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 ## [Nov 04 - Nov 10, 2013](/content/2013/44/README.md)
 
