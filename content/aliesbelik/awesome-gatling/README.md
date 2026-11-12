@@ -6,6 +6,13 @@ A collection of resources covering different aspects of Gatling load testing too
 
 [ Daily / [Weekly](/content/aliesbelik/awesome-gatling/week/README.md) / [Overview](/content/aliesbelik/awesome-gatling/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Tools / Plugins
+
+*   [gatling-dummy-sampler (⭐8)](https://github.com/i-nahornyi/gatling-dummy-sampler) - Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.
+*   [gatling-playwright-plugin (⭐3)](https://github.com/i-nahornyi/gatling-playwright-plugin) - A simple Gatling plugin for UI performance testing using Playwright.
+
 ## [Aug 09, 2026](/content/2026/08/09/README.md)
 
 ### Tools / Plugins
@@ -60,10 +67,10 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Plugins
 
-*   [gatling-kafka-plugin (⭐22)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐7)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-*   [gatling-jdbc-plugin (⭐9)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐12)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-kafka-plugin (⭐25)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-amqp-plugin (⭐9)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+*   [gatling-jdbc-plugin (⭐11)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+*   [gatling-picatinny (⭐14)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 
 ### Tools / Miscellaneous
 
@@ -106,7 +113,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Distributed Testing
 
-*   [gatling-operator (⭐85)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
+*   [gatling-operator (⭐86)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## [Aug 08, 2022](/content/2022/08/08/README.md)
 
@@ -122,8 +129,8 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Other
 
-*   [How They Load Test (⭐167)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐251)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐168)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐253)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [May 17, 2022](/content/2022/05/17/README.md)
 
@@ -158,7 +165,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Distributed Testing
 
-*   [Distributed Gatling (⭐103)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+*   [Distributed Gatling (⭐102)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ### Tools / Plugins
 
@@ -181,7 +188,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐771)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐784)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [Jun 14, 2021](/content/2021/06/14/README.md)
 
@@ -207,7 +214,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 *   [gatling-bolt (⭐2)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 *   [gatling-zeromq (⭐5)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
-*   [gatling-dubbo (⭐153)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+*   [gatling-dubbo (⭐152)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
 
 ### Tools / Miscellaneous
 
@@ -245,7 +252,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Awesome Lists
 
-*   [Awesome JMeter (⭐795)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome JMeter (⭐808)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 *   [Awesome Tsung (⭐23)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
@@ -268,7 +275,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Official Resources
 
-*   [Source code (⭐6.9k)](https://github.com/gatling/gatling)
+*   [Source code (⭐7k)](https://github.com/gatling/gatling)
 
 ### Getting Started
 
@@ -287,4 +294,4 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐2.3k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐2.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.

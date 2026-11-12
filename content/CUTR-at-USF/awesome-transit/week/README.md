@@ -12,6 +12,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [GTFS Zone RT Visualizer](https://viz.rt.gtfs.zone) - Static web application to analyze GTFS Realtime feeds. No login needed, fast, and transparent to the specification. Open-source (AGPL-3.0) on [GitHub (⭐1)](https://github.com/gtfs-zone/gtfs-zone-rt-viewer).
 
+### Proprietary (non-standard) vendor APIs / Rust
+
+*   [InfraNode](https://infranode.dev) - Keyless REST (and MCP) API for 84+ German cities. Includes public-transport stops and live departures with real-time delays (DELFI/GTFS, HVV, VGN), alongside weather, air quality, traffic and roadworks. No API key.
+
 ### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [GTFS·X](https://www.gtfsx.com/editor) - Fast, free, web-based GTFS editor. GNU licensed ([GitHub (⭐3)](https://github.com/markegge/gtfsx)).

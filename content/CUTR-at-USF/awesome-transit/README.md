@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Proprietary (non-standard) vendor APIs / Rust
+
+*   [InfraNode](https://infranode.dev) - Keyless REST (and MCP) API for 84+ German cities. Includes public-transport stops and live departures with real-time delays (DELFI/GTFS, HVV, VGN), alongside weather, air quality, traffic and roadworks. No API key.
+
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
 ### GTFS Realtime Utilities / Rust

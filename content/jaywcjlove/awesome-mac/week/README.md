@@ -8,6 +8,10 @@
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Reading and Writing Tools / Note-taking
+
+*   [Noteriv](https://www.noteriv.com/) - Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/thejacedev/Noteriv) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Terminal Apps / Databases
 
 *   [Cue](https://cue.8starlabs.com) - IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/8starlabs/cue) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -25,6 +29,7 @@
 
 *   [Airbag (⭐3)](https://github.com/a1murt/airbag) - Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/a1murt/airbag) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [TurboFieldfare (⭐7.2k)](https://github.com/drumih/turbo-fieldfare) - Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/drumih/turbo-fieldfare) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [MoMo Agent (⭐15)](https://github.com/Miri-Labs/MoMo-Agent) - Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Audio and Video Tools / File Sharing
 
@@ -42,6 +47,10 @@
 
 *   [AI Access Auditor](https://dirmedmr-alt.github.io/ai-access-auditor/) - See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dirmedmr-alt/ai-access-auditor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [LockPlus (⭐15)](https://github.com/steiale/lockplus) - WireGuard and OpenVPN client with a kill switch that macOS itself enforces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/steiale/lockplus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Utilities / Clipboard Tools
 
 *   [Cue](https://cue.hridya.tech) - Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hridaya423/cue) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -53,6 +62,7 @@
 *   [LogoLight](https://logolight.app) - Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ark0N/LogoLight) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Menew](https://menew.web.app) - All-in-one menu bar app with a command palette, clipboard history, window snapping, screenshots, a system monitor, meeting minutes and Claude Code/Codex usage limits, using on-device AI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Quost/menew) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [NØTH (⭐2)](https://github.com/manugowda19/noth) - Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/manugowda19/noth) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [TocaPad (⭐2)](https://github.com/getguruhat/tocapad-macos) - Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/tocapad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [twistel (⭐4)](https://github.com/jonasnlt/twistel) - Menu bar file converter: drag files, hold a key and drop them on a ring menu to convert images, audio, video and documents, compress, OCR, redact or sign PDFs, fully offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jonasnlt/twistel) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Cleanup and Uninstall
@@ -309,7 +319,7 @@
 *   [HideNotch](https://hidenotch.app) - Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/niklasravnsborg/HideNotch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Netty](https://alvaldes.github.io/netty/) - Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alvaldes/netty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Pulse (⭐33)](https://github.com/emgeorrk/pulse) - Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/emgeorrk/pulse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Stash (⭐6)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Stash (⭐11)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [StableBar](https://stablebar.app) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Seb-GRAF/StableBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Swamp Converter (⭐4)](https://github.com/aansonsa/swamp-converter) - Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aansonsa/swamp-converter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Tarn (⭐1)](https://github.com/jakeantelis/Tarn) - A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jakeantelis/Tarn) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -3375,7 +3385,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [MiaoYan](https://miaoyan.app/) - Lightweight Markdown app to help you write great sentences.
+*   [MiaoYan](https://miaoyan.app/) - Native Markdown notes app that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and a presentation mode, also on iPhone and iPad. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tw93/MiaoYan) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 

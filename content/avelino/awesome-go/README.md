@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Sets
+
+*   [readyset (⭐0)](https://github.com/kastolars/readyset) - Generic sets, including sets of records identified by a key, with an opt-in thread-safe variant.
+
+### Messaging
+
+*   [bus (⭐1)](https://github.com/korableg/bus) - Kafka event bus framework with protobuf-typed producer and consumer groups, retries, batch handlers and automatic offset commits.
+
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
 ### File Handling
@@ -2814,7 +2824,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Testing Frameworks
 
 *   [envite (⭐5)](https://github.com/PerimeterX/envite) - Dev and testing environment management framework.
-*   [keploy (⭐19k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
+*   [keploy (⭐20k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
 
 ### Third-party APIs
 
@@ -2881,7 +2891,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Images
 
-*   [imagor (⭐4k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+*   [imagor (⭐4.1k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
@@ -4619,10 +4629,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jul 10, 2022](/content/2022/07/10/README.md)
 
+### Standard CLI
+
+*   [kong (⭐3.2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures (successor to `kingpin`).
+
 ### Configuration
 
 *   [harvester (⭐132)](https://github.com/beatlabs/harvester) - Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
-*   [kong (⭐3.2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 
 ### Caches
 
@@ -4824,7 +4837,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Bot Building
 
-*   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐2.3k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -5580,7 +5593,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocmd (⭐67)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐180)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
 *   [job (⭐151)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
-*   [kingpin (⭐3.6k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
+*   [kingpin (⭐3.6k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`).
 *   [liner (⭐1.1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mow.cli (⭐883)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 *   [ops (⭐1.5k)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
@@ -6246,7 +6259,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Machine Learning
 
 *   [bayesian (⭐816)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
-*   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐749)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐907)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [evoli (⭐33)](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
@@ -6255,7 +6268,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-deep (⭐554)](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 *   [go-fann (⭐120)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
-*   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+*   [go-pr (⭐69)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 *   [gobrain (⭐569)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐44)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐224)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
@@ -6701,7 +6714,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [algernon (⭐3k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐78k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐79k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐141)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.5k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -7485,7 +7498,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐525)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
-*   [Awesome Remote Job (⭐50k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+*   [Awesome Remote Job (⭐51k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 *   [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐27)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.

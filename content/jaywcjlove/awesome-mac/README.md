@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Reading and Writing Tools / Note-taking
+
+*   [Noteriv](https://www.noteriv.com/) - Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/thejacedev/Noteriv) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### AI Tools / Other Tools
+
+*   [MoMo Agent (⭐15)](https://github.com/Miri-Labs/MoMo-Agent) - Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [LockPlus (⭐15)](https://github.com/steiale/lockplus) - WireGuard and OpenVPN client with a kill switch that macOS itself enforces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/steiale/lockplus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Menu Bar Tools
+
+*   [TocaPad (⭐2)](https://github.com/getguruhat/tocapad-macos) - Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/tocapad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
 ### Design and Product / Screenshot Tools
@@ -458,7 +476,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [HideNotch](https://hidenotch.app) - Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/niklasravnsborg/HideNotch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Stash (⭐6)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Stash (⭐11)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
@@ -4177,7 +4195,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [MiaoYan](https://miaoyan.app/) - Lightweight Markdown app to help you write great sentences.
+*   [MiaoYan](https://miaoyan.app/) - Native Markdown notes app that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and a presentation mode, also on iPhone and iPad. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tw93/MiaoYan) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Nov 25, 2022](/content/2022/11/25/README.md)
 

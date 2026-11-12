@@ -383,7 +383,7 @@ Please take a quick gander at the [contribution guidelines (⭐191k)](https://gi
 *   [telego (⭐1.1k)](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 *   [telegram-bot-api (⭐6.4k)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 *   [TG (⭐57)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
-*   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐2.3k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 *   [Wisp (⭐14)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 *   [ymsdk (⭐6)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
 
@@ -505,7 +505,8 @@ Please take a quick gander at the [contribution guidelines (⭐191k)](https://gi
 *   [hashicorp/cli (⭐43)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 *   [hiboot cli (⭐180)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
 *   [job (⭐151)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
-*   [kingpin (⭐3.6k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
+*   [kingpin (⭐3.6k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`).
+*   [kong (⭐3.2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures (successor to `kingpin`).
 *   [liner (⭐1.1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mcli (⭐47)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
 *   [memsh (⭐15)](https://github.com/amjadjibon/memsh) - Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.
@@ -588,7 +589,6 @@ Please take a quick gander at the [contribution guidelines (⭐191k)](https://gi
 *   [koanf (⭐4.2k)](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
 *   [konf (⭐397)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 *   [konfig (⭐646)](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
-*   [kong (⭐3.2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 *   [nasermirzaei89/env (⭐22)](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
 *   [nfigure (⭐12)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 *   [onion (⭐119)](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
@@ -749,6 +749,7 @@ additional ordered map implementations.
 *   [dsu (⭐18)](https://github.com/ihebu/dsu) - Disjoint Set data structure implementation in Go.
 *   [golang-set (⭐4.8k)](https://github.com/deckarep/golang-set) - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 *   [goset (⭐52)](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
+*   [readyset (⭐0)](https://github.com/kastolars/readyset) - Generic sets, including sets of records identified by a key, with an opt-in thread-safe variant.
 *   [set (⭐30)](https://github.com/StudioSol/set) - Simple set data structure implementation in Go using LinkedHashMap.
 
 ### Text Analysis
@@ -1634,7 +1635,7 @@ additional ordered map implementations.
 *   [imagick (⭐1.9k)](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API.
 *   [imaginary (⭐6.1k)](https://github.com/h2non/imaginary) - Fast and simple HTTP microservice for image resizing.
 *   [imaging (⭐5.8k)](https://github.com/disintegration/imaging) - Simple Go image processing package.
-*   [imagor (⭐4k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+*   [imagor (⭐4.1k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 *   [img (⭐158)](https://github.com/hawx/img) - Selection of image manipulation tools.
 *   [ln (⭐3.5k)](https://github.com/fogleman/ln) - 3D line art rendering in Go.
 *   [mergi (⭐244)](https://github.com/noelyahan/mergi) - Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).
@@ -1841,7 +1842,7 @@ additional ordered map implementations.
 *   [bayesian (⭐816)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [born (⭐138)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 *   [catboost-cgo (⭐26)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
-*   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐749)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [datatrax (⭐10)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐907)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -1851,7 +1852,7 @@ additional ordered map implementations.
 *   [go-deep (⭐554)](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 *   [go-fann (⭐120)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
-*   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+*   [go-pr (⭐69)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 *   [gobrain (⭐569)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐44)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐224)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
@@ -1892,6 +1893,7 @@ additional ordered map implementations.
 *   [backlite (⭐156)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 *   [Beaver (⭐1.6k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 *   [broker (⭐12)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+*   [bus (⭐1)](https://github.com/korableg/bus) - Kafka event bus framework with protobuf-typed producer and consumer groups, retries, batch handlers and automatic offset commits.
 *   [Bus (⭐368)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
 *   [Centrifugo (⭐11k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.3k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
@@ -2604,7 +2606,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 ## Server Applications
 
 *   [algernon (⭐3k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐78k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐79k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [Casdoor (⭐15k)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐141)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
@@ -2750,7 +2752,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [httpexpect (⭐2.7k)](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
 *   [is (⭐2k)](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 *   [jsonassert (⭐145)](https://github.com/kinbiko/jsonassert) - Package for verifying that your JSON payloads are serialized correctly.
-*   [keploy (⭐19k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
+*   [keploy (⭐20k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
 *   [omg.testingtools (⭐1)](https://github.com/dedalqq/omg.testingtools) - The simple library for change a values of private fields for testing.
 *   [prettycov (⭐3)](https://github.com/screwyprof/prettycov) - Draws a Go coverage profile as a package tree with a total on every row.
 *   [restit (⭐54)](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
@@ -4065,7 +4067,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐525)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
-*   [Awesome Remote Job (⭐50k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+*   [Awesome Remote Job (⭐51k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 *   [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐27)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Code with Mukesh](https://codewithmukesh.com/categories/golang) - Software Engineer and Blogs @ codewithmukesh.com.
