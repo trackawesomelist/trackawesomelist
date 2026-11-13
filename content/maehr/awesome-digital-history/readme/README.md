@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 352 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 366 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -106,6 +106,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Global
 
+*   [Allmaps](https://allmaps.org/) - Curate, georeference and explore collections of digitized IIIF maps.
 *   [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 *   [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 *   [Castlemap](https://thecastlemap.com/) - Interactive world map and downloadable CC0 dataset of castles, fortresses, palaces, and ruins around the world.
@@ -233,7 +234,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ## More Awesome
 
 *   [Computer History (⭐3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐4.4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization (⭐4.5k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
 *   [Scientific Writing (⭐1k)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
@@ -241,5 +242,5 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐352)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐352)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐366)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first. To propose a new resource, open an [Addition issue (⭐366)](https://github.com/maehr/awesome-digital-history/issues/new?template=addition.yml) and wait for maintainer approval.
 

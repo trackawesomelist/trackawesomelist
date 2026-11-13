@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### Platforms
+
+*   [AyMON](https://www.aymon.ca) - Industrial monitoring and automation engine with a built-in MQTT 3.1.1 / 5 broker and client: Modbus, OPC UA, SNMP and SQL devices in one live tree with alarms, history, web pages and clustering, configured in XML. A free edition and runnable examples are on [GitHub (⭐13)](https://github.com/akya-dev/AyMON).
+
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
 ### Platforms
@@ -32,7 +38,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
-*   [mqtt2matter (⭐0)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
+*   [mqtt2matter (⭐1)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
 
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
@@ -82,7 +88,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Monitoring / Firmwares for ESP based Devices
 
-*   [SolidPing (⭐26)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+*   [SolidPing (⭐33)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 

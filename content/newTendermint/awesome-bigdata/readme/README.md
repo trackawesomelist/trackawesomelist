@@ -12,7 +12,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php (⭐33k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐331k)](https://github.com/vinta/awesome-python), [awesome-ruby (⭐1.3k)](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
+A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php (⭐33k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐334k)](https://github.com/vinta/awesome-python), [awesome-ruby (⭐1.3k)](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
 Your contributions are always welcome!
 
@@ -169,6 +169,7 @@ Your contributions are always welcome!
 ## Distributed Tracing Platform
 
 *   [Jaeger](https://www.jaegertracing.io/) - Jaeger: open source, distributed tracing platform for monitor and troubleshoot workflows in complex distributed systems
+*   [Zipkin](https://zipkin.io/) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.
 
 ## Document Data Model
 
@@ -233,7 +234,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [SummitDB (⭐1.4k)](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistence and using the Raft consensus algorithm.
 *   [Tarantool (⭐3.7k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 *   [TiKV (⭐17k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
-*   [Tile38 (⭐9.7k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
+*   [Tile38 (⭐9.8k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 *   [TreodeDB (⭐177)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 ## Graph Data Model
@@ -369,6 +370,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Google BigQuery](https://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
 *   [Materialize (⭐6.4k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
 *   [Invantive SQL](https://documentation.invantive.com/2017R2/invantive-sql-grammar/invantive-sql-grammar-17.30.html) - SQL engine for online and on-premise use with integrated local data replication and 70+ connectors.
+*   [Opteryx](https://opteryx.app/) - hosted single-node SQL engine that queries Parquet and JSONL files where they live (GCS, S3, HTTP), with Iceberg and PostgreSQL sources.
 *   [PipelineDB](https://www.pipelinedb.com/) - an open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 *   [Pivotal HDB](https://pivotal.io/pivotal-hdb) - SQL-like data warehouse system for Hadoop.
 *   [rawquery](https://rawquery.dev/) - managed lakehouse query service using DuckDB over Apache Iceberg tables on object storage.
@@ -379,6 +381,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [StarRocks](https://www.starrocks.io/) - high-performance MPP SQL engine for real-time analytics and lakehouse queries.
 *   [Stinger](https://hortonworks.com/innovation/stinger/) - interactive query for Hive.
 *   [Tajo](http://tajo.apache.org/) - distributed data warehouse system on Hadoop.
+*   [Timeplus Proton (⭐2.3k)](https://github.com/timeplus-io/proton) - streaming SQL engine in a single C++ binary, powered by ClickHouse, for streaming ETL, windowed aggregations, joins and materialized views over Kafka and other sources.
 *   [Trafodion](https://wiki.trafodion.org/wiki/index.php/Main_Page) - enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads.
 *   [Trino](https://trino.io/) - distributed SQL query engine for querying large datasets across heterogeneous data sources.
 
@@ -446,8 +449,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 *   [Data Contract CLI](https://cli.datacontract.com) - open-source CLI for testing data in Spark, Databricks, Snowflake, BigQuery, Kafka and other sources against data contracts in the Open Data Contract Standard (ODCS).
 *   [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/observability/get-started/) - open-source data observability for monitoring data journeys, data quality, and pipeline events.
-*   [DataOps TestGen (⭐80)](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
-*   [Dex (⭐92)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
+*   [DataOps TestGen (⭐81)](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
+*   [Dex (⭐116)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
 *   [Great Expectations](https://greatexpectations.io/) - open-source framework for validating, documenting, and testing data quality.
 *   [OpenLineage](https://openlineage.io/) - open standard and reference implementation for collecting lineage metadata from data pipelines.
 *   [Soda Core](https://docs.soda.io/soda-core/overview-main.html) - open-source Python library and CLI for data quality tests.
@@ -499,7 +502,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [ENCOG](http://www.heatonresearch.com/encog/) - machine learning framework that supports a variety of advanced algorithms, as well as support classes to normalize and process data.
 *   [etcML](http://www.etcml.com/) - text classification with machine learning.
 *   [Etsy Conjecture (⭐358)](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
-*   [Feast (⭐7.3k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐7.4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 *   [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 *   [H2O (⭐7.5k)](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
 *   [isolation-forest (⭐265)](https://github.com/linkedin/isolation-forest) - distributed Spark and Scala implementation of isolation forest for unsupervised outlier detection.
@@ -530,7 +533,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Velox (⭐110)](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
 *   [Vowpal Wabbit (⭐8.7k)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 *   [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
-*   [BidMach (⭐918)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BidMach (⭐916)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ## Benchmarking
 
@@ -789,6 +792,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 *   [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) - Guide to monitoring Apache Kafka, including native methods for metrics collection.
 *   [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection.
 *   [Monitoring Cassandra performance](https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/?ref=awesome) - Guide to monitoring Cassandra, including native methods for metrics collection.
+*   [WebSocket fan-out with Redis pub/sub](https://sifting.io/blog/websocket-fan-out-redis-pub-sub-one-market-data-connection) - Practical guide to sharing one upstream data stream across services, with subscription budgets, last-value caching and reconnect handling.
 
 ## Interesting Papers
 

@@ -6,6 +6,21 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 [ [Daily](/content/newTendermint/awesome-bigdata/README.md) / Weekly / [Overview](/content/newTendermint/awesome-bigdata/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Distributed Tracing Platform
+
+*   [Zipkin](https://zipkin.io/) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.
+
+### SQL-like processing
+
+*   [Opteryx](https://opteryx.app/) - hosted single-node SQL engine that queries Parquet and JSONL files where they live (GCS, S3, HTTP), with Iceberg and PostgreSQL sources.
+*   [Timeplus Proton (⭐2.3k)](https://github.com/timeplus-io/proton) - streaming SQL engine in a single C++ binary, powered by ClickHouse, for streaming ETL, windowed aggregations, joins and materialized views over Kafka and other sources.
+
+### Interesting Readings
+
+*   [WebSocket fan-out with Redis pub/sub](https://sifting.io/blog/websocket-fan-out-redis-pub-sub-one-market-data-connection) - Practical guide to sharing one upstream data stream across services, with subscription budgets, last-value caching and reconnect handling.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Distributed Programming
@@ -32,7 +47,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Data Quality and Observability
 
-*   [Dex (⭐92)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
+*   [Dex (⭐116)](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
 
 ### Business Intelligence
 
@@ -55,7 +70,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Data Quality and Observability
 
-*   [DataOps TestGen (⭐80)](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
+*   [DataOps TestGen (⭐81)](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
 
 ### Benchmarking
 
@@ -590,7 +605,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Machine Learning
 
-*   [Feast (⭐7.3k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐7.4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ## [Nov 12 - Nov 18, 2018](/content/2018/46/README.md)
 
@@ -1132,7 +1147,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 ### Key-value Data Model
 
 *   [SummitDB (⭐1.4k)](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistence and using the Raft consensus algorithm.
-*   [Tile38 (⭐9.7k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
+*   [Tile38 (⭐9.8k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 
 ### Graph Data Model
 
@@ -1359,7 +1374,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ### Machine Learning
 
-*   [BidMach (⭐918)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BidMach (⭐916)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
 

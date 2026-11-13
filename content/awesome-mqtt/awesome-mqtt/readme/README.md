@@ -141,6 +141,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 
 ## Platforms
 
+*   [AyMON](https://www.aymon.ca) - Industrial monitoring and automation engine with a built-in MQTT 3.1.1 / 5 broker and client: Modbus, OPC UA, SNMP and SQL devices in one live tree with alarms, history, web pages and clustering, configured in XML. A free edition and runnable examples are on [GitHub (⭐13)](https://github.com/akya-dev/AyMON).
 *   [DeviceChain](https://devicechain.io) - Apache-2.0, multi-tenant IoT platform for Kubernetes with a built-in MQTT 3.1.1 broker (TLS, QoS 0/1, per-device credentials or client certificates), plus Sparkplug B, LwM2M and HTTP ingest, rules, alarms, commands and dashboards.
 *   [Iotellect](https://iotellect.com/) - Low-code IoT/IIoT platform for industrial automation, SCADA, BMS and remote monitoring. Supports MQTT, OPC-UA, Modbus and 100+ protocols with visual development tools and edge-cloud integration.
 *   [mainflux](https://www.mainflux.com/) - Device management, data aggregation, data management, data analytics,connectivity and message routing and event management. Supported by Linux Software Foundation.
@@ -405,7 +406,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 *   [mqttwarn](https://mqttwarn.readthedocs.io/) - Route and transform MQTT notifications, with 70+ built-in adapters for databases, messaging and other notification sinks.
 *   [snmp2mqtt](https://c0d3.sh/andre/snmp2mqtt) - Python based SNMP v2 and v3 bridge to MQTT, active project in late 2025.
-*   [SolidPing (⭐26)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+*   [SolidPing (⭐33)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 *   [ccusage-mqtt (⭐1)](https://github.com/george-vice/ccusage-mqtt) - Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.
 *   [check-mqtt (⭐66)](https://github.com/jpmens/check-mqtt) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
 *   [nag2mqtt (⭐7)](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.
@@ -458,7 +459,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 *   [knx-mqtt-bridge (⭐43)](https://github.com/pakerfeldt/knx-mqtt-bridge) - Bridges KNX and MQTT using the knx.js library.
 *   [knx2mqtt (⭐50)](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT.
 *   [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) - Plug-in for HS3 (HomeSeer).
-*   [mqtt2matter (⭐0)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
+*   [mqtt2matter (⭐1)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
 *   [mqtt-dss-bridge (⭐5)](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
 *   [mqtt-unifi-protect-bridge (⭐24)](https://github.com/terafin/mqtt-unifi-protect-bridge) - Adding motion-status from UniFi Protect Cameras to MQTT.
 

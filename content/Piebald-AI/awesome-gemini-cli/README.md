@@ -6,6 +6,16 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### Commands & Extensions
+
+*   [Wavegrain (⭐1)](https://github.com/wavegrain/wavegrain-mcp) - Curated slideshows and carousels for your brand on autopilot, from Gemini CLI: plan posts for a brand, make TikTok slideshows and Instagram carousels, change slide text, put posts on the Wavegrain Calendar and export them; Wavegrain schedules and posts them for you. Remote MCP server with OAuth sign-in; requires a Wavegrain account. Remote endpoint: `https://wavegrain.com/api/mcp`. Install: `gemini extensions install https://github.com/wavegrain/wavegrain-mcp`, then `/mcp auth wavegrain`.
+
+### MCP Servers
+
+*   [ScanMalware (⭐2)](https://github.com/scanmalware/scanmalware-plugin) - Keyless remote MCP server and Gemini CLI extension for investigating phishing and malicious URLs. Gemini CLI can submit a link to be run in isolated analysis environments and checked against YARA, antivirus and IDS rules, threat feeds and AI (suspicious pages get an AI verdict with a scam type such as credential phishing), then pivot across the public scan archive by domain, IP, ASN, JARM, favicon hash or script hash. A bundled skill walks from one phishing URL to the rest of its campaign. Install: `gemini extensions install https://github.com/scanmalware/scanmalware-plugin`
+
 ## [Nov 12, 2026](/content/2026/11/12/README.md)
 
 ### Commands & Extensions
@@ -193,13 +203,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [Recommerce (⭐10)](https://github.com/budna-marketplace/recommerce) - Agent Skills (SKILL.md) for new and pre-owned purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with `npx skills add budna-marketplace/recommerce -y -a gemini-cli`.
+*   [Recommerce (⭐14)](https://github.com/budna-marketplace/recommerce) - Agent Skills (SKILL.md) for new and pre-owned purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with `npx skills add budna-marketplace/recommerce -y -a gemini-cli`.
 
 ### Development Tools & Utilities
 
-*   [Scarwise (⭐0)](https://github.com/DomitorAI/scarwise) - Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).
-*   [self-host (⭐5)](https://github.com/ajnart/self-host) - Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.
-*   [Agent Notifications (⭐822)](https://github.com/777genius/agent-notifications) - Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.
+*   [Scarwise (⭐1)](https://github.com/DomitorAI/scarwise) - Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).
+*   [self-host (⭐1.6k)](https://github.com/ajnart/self-host) - Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.
+*   [Agent Notifications (⭐831)](https://github.com/777genius/agent-notifications) - Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.
 
 ### Education & Study Tools
 
@@ -210,7 +220,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [Carbon Forge](https://carbonforge.dev/docs/p/guides/mcp-anonymous-access?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted MCP server for source control and a shared record: Gemini CLI can read and write code, files and prose in one record on the server, open a lane instead of cloning, and land a change as one all-or-nothing changeset. Remote Streamable HTTP at `https://carbonforge.dev/api/mcp`; public workspaces read without a token, writing needs a bearer token.
 *   [Tera Studio](https://terastudio.co/ai-assistants/) - Hosted MCP server for singers over remote Streamable HTTP, no key or sign-in: `find_song_key` looks up a well-known song's key, tempo and typical vocal range by title, and the other tools return links to free browser tools that find a song file's key and BPM or move it up to 6 semitones. Add with `gemini mcp add --transport http tera-studio https://terastudio.co/mcp`.
 *   [MCP Probe Kit (⭐41)](https://github.com/mybolide/mcp-probe-kit) - Diagnostics and self-test toolkit for MCP servers: enumerates every tool, resource and prompt, exercises them, and reports health, latency and schema drift between runs. Read-only against the target server, so you can point it at any server you connect Gemini CLI to and see what it actually exposes. MIT, `npx -y mcp-probe-kit`, official MCP Registry `io.github.mybolide/mcp-probe-kit`.
-*   [Coding Tools MCP (⭐435)](https://github.com/mybolide/coding-tools-mcp) - Desktop MCP workspace for coding agents: file edits, command execution, Git status and resumable history sessions behind one local stdio interface, so Gemini CLI gets project scaffolding and code search without four separate servers. Apache-2.0, official MCP Registry `io.github.mybolide/coding-tools-mcp`.
+*   [Coding Tools MCP (⭐438)](https://github.com/mybolide/coding-tools-mcp) - Desktop MCP workspace for coding agents: file edits, command execution, Git status and resumable history sessions behind one local stdio interface, so Gemini CLI gets project scaffolding and code search without four separate servers. Apache-2.0, official MCP Registry `io.github.mybolide/coding-tools-mcp`.
 *   [Budna MCP (⭐3)](https://github.com/budna-marketplace/mcp) - Read-only MCP server for Budna, a Swedish marketplace for new and pre-owned items: search and inspect public listings, categories, filters, seller profiles, and bid and rating summaries from Gemini CLI. 23 tools, interactive listing cards in MCP Apps clients. Local stdio, no API key, no account. MIT. Run with `npx --yes @budna-marketplace/mcp`.
 *   [BankBridge](https://bankbridge.money/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosted MCP server that lets Gemini CLI answer questions about your own US bank, credit card and investment accounts: spending by category or merchant, recurring charges, monthly cashflow, holdings. 12 read-only tools, data fetched live on each call; it can't move money. Remote Streamable HTTP with OAuth sign-in. Paid, $5/mo per connected bank. Install: `gemini extensions install https://github.com/bankbridge-money/bankbridge-plugin`, then `/mcp auth bankbridge`.
 *   [Tavero (⭐3)](https://github.com/baccaraaa/tavero) - MCP server and CLI that finds UI inconsistencies (spacing, colors, typography, component drift) in running React apps and gives coding agents fixes with file/line references. Works with Gemini CLI as an MCP server. Run: `npx -y tavero mcp`. Free, MIT.
@@ -427,7 +437,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [magents (⭐15)](https://github.com/abnegate/magents) - Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: `gemini extensions install https://github.com/abnegate/magents`. Rust, MIT.
+*   [magents (⭐16)](https://github.com/abnegate/magents) - Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: `gemini extensions install https://github.com/abnegate/magents`. Rust, MIT.
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -542,7 +552,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Hyperconsciousness (⭐8)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and stdio MCP server. Gives agents scoped, expiring access to notes and supports device sync. MIT licensed.
+*   [Hyperconsciousness (⭐10)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and stdio MCP server. Gives agents scoped, expiring access to notes and supports device sync. MIT licensed.
 *   [Bestax (⭐14)](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
 *   [Court Rules (⭐4)](https://github.com/foklepoint/court-rules-mcp) - U.S. federal court rules, local rules, judge standing orders and court holidays with filing deadline checks, over a hosted MCP server. Install: `gemini extensions install https://github.com/foklepoint/court-rules-mcp`.
 
@@ -654,7 +664,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [iOS Agent Skill (⭐40)](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
+*   [iOS Agent Skill (⭐41)](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
 
 ## [Sep 09, 2026](/content/2026/09/09/README.md)
 

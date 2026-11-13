@@ -6,6 +6,441 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [CartViral](https://cartviral.com/mcp)
+
+  Description: AI product videos, photos and ads for e-commerce from a product link or photos
+
+  Auth: `OAuth`
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.cartviral/cartviral) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.cartviral/cartviral)
+
+
+- Name: [EU Nordic Open Data (⭐0)](https://github.com/itulo/eu-nordic-open-data-mcp)
+
+  Description: EU tenders, sanctions, VIES VAT, ECB FX, ENISA EUVD, GLEIF LEI and Finnish/Norwegian registries
+
+  Auth: No
+
+  Transport: `stdio`
+
+  Install: [npm](https://www.npmjs.com/package/eu-nordic-open-data-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.itulo/eu-nordic-open-data-mcp) · [Glama](https://glama.ai/mcp/servers/itulo/eu-nordic-open-data-mcp)
+
+
+- Name: [HEY Research Lab](https://heyresearch.xyz/developers/agents)
+
+  Description: Is a Robinhood Chain token or project still being built? Ships and contracts, each with its source
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Anthropic](https://claude.ai/directory/hey-research-lab) · [Glama](https://glama.ai/mcp/servers/hey-research-lab/hey-research-open) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.hey-research-lab/hey-research) · [npm](https://www.npmjs.com/package/@hey-research-lab/mcp)
+
+
+- Name: [OptimistFi](https://optimistfi.com/mcp)
+
+  Description: Perps funding, open interest, liquidations, Hyperliquid positions, prop firms and US stock theses
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.optimistfi/optimistfi) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.optimistfi)
+
+
+- Name: [Site-Shot (⭐3)](https://github.com/site-shot/site-shot-mcp)
+
+  Description: Website screenshots for AI agents: full-page, country proxies, ad and cookie removal; free plan
+
+  Auth: `apiKey`
+
+  Transport: `stdio`
+
+  Install: [Glama](https://glama.ai/mcp/servers/site-shot/site-shot-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.site-shot/site-shot-mcp)
+
+
+
+### Calendar
+
+- API: [HolidayExplore](https://holidayexplore.com/api-docs/)
+
+  Description: Global public holidays and bank closures
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [VaultX](https://vaultx.llc/api)
+
+  Description: Token scam/rug risk checks, whale trades, exchange rates for 3,000+ coins, AI outlook
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [xAxios](https://xaxios.com/docs/stream)
+
+  Description: Live Solana and Robinhood Chain token prices, trades and launches over a public WebSocket
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Currency Exchange
+
+- API: [Central Bank of Uzbekistan](https://cbu.uz/uz/arkhiv-kursov-valyut/)
+
+  Description: Official exchange rates and currency conversion
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [Shareglint](https://shareglint.com/en/docs)
+
+  Description: Open Graph and social images from HTML/CSS templates, page screenshots, GIF and MP4; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Shotlane](https://shotlane.dev/docs)
+
+  Description: Screenshots, PDFs and Markdown of any web page in Chrome, with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Site-Shot](https://www.site-shot.com/start/)
+
+  Description: Website screenshots in real Chromium: full-page, country proxies, ad and cookie removal; free plan
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Stophy](https://docs.stophy.dev)
+
+  Description: One API to search the web, read what people say, and look up products, places, jobs and homes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [TimeFoo](https://time.foo/api/)
+
+  Description: Current time, timestamp format conversion and IANA time zone conversion, no key needed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Dictionaries
+
+- API: [VocaFlare Clips](https://clips.vocaflare.com/)
+
+  Description: YouTube clips where a word is spoken, with the exact second and transcript line
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [AI Form](https://aiformapi.com/docs/quickstart)
+
+  Description: Create forms, share a link and read responses as JSON or CSV
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SlipKiln](https://slipkiln.com/docs/)
+
+  Description: Render HTML or JSON templates (invoice, receipt, certificate) to PDF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Email
+
+- API: [Sequenzy](https://docs.sequenzy.com)
+
+  Description: Email campaigns, subscribers and transactional email with 2,500 free emails/month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Unitpost](https://www.unitpost.com/docs/email)
+
+  Description: Send transactional email, campaigns and SMS; free for 5,000 emails a month
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Environment
+
+- API: [Spotwatts](https://spotwatts.com/en/api)
+
+  Description: Nordic and Baltic day-ahead electricity prices, 15-minute and hourly, with VAT, for 15 price areas
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [Duceus](https://duceusapi.com/docs)
+
+  Description: Insider (PDMR) trades and major shareholdings from EU, EEA and UK registers, in one schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Nubra](https://nubra.io/products/api/docs/)
+
+  Description: Indian broker API: orders, quotes, historical data, option chains with Greeks and live feeds
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Games & Comics
+
+- API: [NeoSatoshi Card Recognition](https://neosatoshi.com/developers/detection-api)
+
+  Description: Recognize Pokémon, One Piece, Lorcana, Yu-Gi-Oh! and Magic cards from photos
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [BabyData](https://babydata.co.uk/api/)
+
+  Description: UK pregnancy due date, ovulation and Statutory Maternity Pay calculators
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [MusedIn](https://musedin.com/docs)
+
+  Description: Job network for AI agents: open jobs, agent profiles, hire records and a feed
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [US State Government Jobs](https://apify.com/founder-experiment/us-state-government-jobs)
+
+  Description: State civil service job postings for California, New York, Wisconsin and North Dakota in one schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [fixRAgent](https://fixragent.com/docs)
+
+  Description: Triage a building maintenance photo: asset, urgency, trade to call and a line for the resident
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [hexplace](https://hexplace.org/developers/)
+
+  Description: Climate by month, rents, home prices, amenities and rankings for 800 towns in Portugal
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ImmoAnalyse](https://immoanalyse.pro/api-docs)
+
+  Description: German property valuations (ImmoWertV), address geocoding and asking rents for all municipalities
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [VettedHome](https://vettedhome.co.uk/api/)
+
+  Description: UK guides to property problems and home energy decisions, each with its primary sources
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Phone
+
+- API: [Fax for Agents](https://faxforagents.com/docs/)
+
+  Description: Fax API, hosted MCP server and SDKs so AI agents send and receive faxes, free sandbox
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Security
+
+- API: [Compliance Assessment Tool](https://banks.complianceassessmenttool.com/docs)
+
+  Description: PCI DSS self-assessment for merchants: picks the SAQ type, returns filled SAQ + AoC PDFs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Social
+
+- API: [ShortsIntel](https://www.shortsintel.com/docs)
+
+  Description: TikTok, Instagram Reels, YouTube Shorts and Meta ad data, plus AI video analysis
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Sports & Fitness
+
+- API: [Clutch](https://clutchledger.com/data/)
+
+  Description: Pregame NBA win probabilities for every game, graded after the final, as JSON and CSV
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -2215,7 +2650,7 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
-- Name: [ContextFetch (⭐0)](https://github.com/lachy3433/contextfetch-mcp)
+- Name: [ContextFetch (⭐2)](https://github.com/lachy3433/contextfetch-mcp)
 
   Description: Web search and any page as Markdown pruned to the query, plus research, crawl and site maps
 
@@ -11067,7 +11502,7 @@ A collective list of free APIs
 
 ### Machine Learning
 
-- API: [BRAINIALL (⭐0)](https://github.com/fasuizu-br/brainiall-transcription-skill)
+- API: [BRAINIALL](https://github.com/fasuizu-br/brainiall-transcription-skill)
 
   Description: PT-BR and Spanish audio transcription with diarization and SRT/VTT
 
@@ -13861,7 +14296,7 @@ A collective list of free APIs
 
 ### Cloud Storage & File Sharing
 
-- API: [FileUp (⭐0)](https://github.com/RealSinaSnp/FileUp)
+- API: [FileUp (⭐1)](https://github.com/RealSinaSnp/FileUp)
 
   Description: Temporary file hosting with upload API, expiration times, and view limits
 
@@ -13944,7 +14379,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐222)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐206)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -26873,7 +27308,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [GW2Spidy (⭐230)](https://github.com/rubensayshi/gw2spidy/wiki)
+- API: [GW2Spidy (⭐231)](https://github.com/rubensayshi/gw2spidy/wiki)
 
   Description: GW2Spidy API, Items data on the Guild Wars 2 Trade Market
 

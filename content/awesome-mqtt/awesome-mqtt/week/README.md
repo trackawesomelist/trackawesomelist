@@ -10,6 +10,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Platforms
 
+*   [AyMON](https://www.aymon.ca) - Industrial monitoring and automation engine with a built-in MQTT 3.1.1 / 5 broker and client: Modbus, OPC UA, SNMP and SQL devices in one live tree with alarms, history, web pages and clustering, configured in XML. A free edition and runnable examples are on [GitHub (⭐13)](https://github.com/akya-dev/AyMON).
 *   [DeviceChain](https://devicechain.io) - Apache-2.0, multi-tenant IoT platform for Kubernetes with a built-in MQTT 3.1.1 broker (TLS, QoS 0/1, per-device credentials or client certificates), plus Sparkplug B, LwM2M and HTTP ingest, rules, alarms, commands and dashboards.
 
 ### Tools
@@ -48,7 +49,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
-*   [mqtt2matter (⭐0)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
+*   [mqtt2matter (⭐1)](https://github.com/hobbyquaker/mqtt2matter) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
 
 ### Lighting / Firmwares for ESP based Devices
 
@@ -76,7 +77,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Monitoring / Firmwares for ESP based Devices
 
-*   [SolidPing (⭐26)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
+*   [SolidPing (⭐33)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 

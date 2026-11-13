@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### Graphics / Animation
+
+*   :moneybag: [Animate4Me](https://animate4me.com/) - Turns a text prompt or an image into a Spine 4.2 animation with bones and weighted meshes for 2D game symbols, objects and characters; previews in the browser and exports skeleton.json, atlas and PNG pages.
+
 ## [Nov 12, 2026](/content/2026/11/12/README.md)
 
 ### Graphics / Spritesheet Tools
@@ -556,7 +562,7 @@
 
 ### Graphics / Vector/Image Editor
 
-*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.4k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.5k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 
 ### AI / Voxel Editors
 
@@ -901,7 +907,7 @@
 
 *   :free: [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 *   :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-*   :tada: [nuklear (⭐11k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
+*   :tada: [nuklear (⭐12k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
 *   :tada: [OpenXRay (⭐3.6k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [Pixel Vision 8 (⭐1.8k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 

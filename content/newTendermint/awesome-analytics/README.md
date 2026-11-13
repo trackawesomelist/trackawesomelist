@@ -6,6 +6,41 @@ A curated list of analytics frameworks, software and other tools.
 
 [ Daily / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### General analytics
+
+*   [Pug](https://pug.sh) - Open-source product analytics with autocapture, trends, funnels, retention, user flows, unified user profiles and an MCP server for AI assistants. ([Demo](https://demo.pug.sh), [Source Code (⭐110)](https://github.com/pug-sh/pug)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
+
+### Website analytics
+
+*   [Betterloop](https://betterloopai.com/) - Frontend analytics for rage clicks, dead controls, JavaScript errors and slow pages, with ranked insights accessible over MCP. Security and SEO findings use site audits or connected sources alongside the browser snippet. `©` `SaaS`
+
+### SEO
+
+*   [looot-seo (⭐0)](https://github.com/loootai/looot-seo) - Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of each refresh shown before it runs. Data comes from the paid looot API; a demo mode runs without an account. ([Source Code (⭐0)](https://github.com/loootai/looot-seo)) `MIT` `Self-Hosted` `TypeScript`
+
+### Privacy focused analytics
+
+*   [invisit](https://invisit.dev/) - Cookieless web analytics that shows where visits come from (ChatGPT and other AI assistants included), which AI crawlers read your pages, plus funnels, heatmaps and an MCP server. Free plan. ([Demo](https://app.invisit.dev/demo)) `©` `SaaS`
+
+### Analytics layers
+
+*   [AnalyticsProof](https://analyticsproof.com/) - Automated tracking QA: replays recorded website journeys and alerts when a step's dataLayer push or GA4 hit changes, and checks which tools send data before cookie consent or after rejection. Free plan. `©` `SaaS` `EU`
+
+### Attribution tracking
+
+*   [AttriKit](https://attrikit.io/) - Web-to-app attribution for iOS and Android, with verified and matched attribution, aggregate estimates, and organic/unknown results; campaign recommendations account for costs. `©` `SaaS`
+*   [Airbridge](https://www.airbridge.io/en?utm_source=github\&utm_medium=awesome_list\&utm_campaign=get_found_w46\&utm_content=awesome_analytics) - Mobile attribution SDK for subscription apps: ties Meta, Google, Apple Ads and TikTok spend to trials and revenue. Paid, 30-day free trial. `©` `SaaS`
+
+### Social media analytics
+
+*   [Engagement Rate Calculator](https://engagementrate.app/) - Free Chrome extension for checking engagement and standout posts on public Instagram profiles while logged in. `Free`
+
+### Analytics dashboards
+
+*   [Ditchly: Google Analytics alternatives](https://ditchly.co/alternatives/google-analytics) - Free and open-source Google Analytics alternatives, scored on one checklist from public docs, with switch guides to Plausible, Matomo, and Umami.
+
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### SEO
@@ -77,7 +112,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### SEO
 
-*   [gsc-hub (⭐22)](https://github.com/izzipizzy/gsc-hub) - Local self-hosted multi-account hub for Google Search Console: all sites from several Google accounts in one table, aggregated queries and pages, per-site SEO analytics. ([Source Code (⭐22)](https://github.com/izzipizzy/gsc-hub)) `MIT` `Self-Hosted` `TypeScript`
+*   [gsc-hub (⭐24)](https://github.com/izzipizzy/gsc-hub) - Local self-hosted multi-account hub for Google Search Console: all sites from several Google accounts in one table, aggregated queries and pages, per-site SEO analytics. ([Source Code (⭐24)](https://github.com/izzipizzy/gsc-hub)) `MIT` `Self-Hosted` `TypeScript`
 
 ### Developer analytics
 

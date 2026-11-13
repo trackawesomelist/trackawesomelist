@@ -164,6 +164,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Animation
 
+*   :moneybag: [Animate4Me](https://animate4me.com/) - Turns a text prompt or an image into a Spine 4.2 animation with bones and weighted meshes for 2D game symbols, objects and characters; previews in the browser and exports skeleton.json, atlas and PNG pages.
 *   :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
 *   :money\_with\_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 *   :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
@@ -207,7 +208,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *   :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 *   :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
-*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.4k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.5k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 *   :free: [Spritemate](https://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 *   :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser.
 *   :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
@@ -347,7 +348,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 *   :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 *   :money\_with\_wings: [Nu Game Engine (⭐1.4k)](https://github.com/bryanedds/Nu) - Functional 2D/3D game engine in F# (free for noncommercial use; paid commercial license).
-*   :tada: [nuklear (⭐11k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
+*   :tada: [nuklear (⭐12k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
 *   :tada: [ODE](https://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 *   :tada: [Ogre3D](https://www.ogre3d.org/) - is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 *   :tada: [OpenFL](https://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
