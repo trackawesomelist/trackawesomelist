@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 13, 2026](/content/2026/11/13/README.md)
+
+### Colorscheme / Markdown and LaTeX
+
+*   [thesimonho/kanagawa-paper (⭐407)](https://github.com/thesimonho/kanagawa-paper) - ***`[TS][LSP][L/D][Lua]`*** Remixed light and dark Kanagawa colourschemes with muted colors.
+
 ## [Nov 12, 2026](/content/2026/11/12/README.md)
 
 ### Plugin Manager
@@ -178,11 +184,11 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [daaanny90/interlinked.nvim (⭐2)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
+*   [daaanny90/interlinked.nvim (⭐3)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 
 ### Game / Competitive Programming
 
-*   [FrancescoDerme/tuna.nvim (⭐19)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
+*   [FrancescoDerme/tuna.nvim (⭐33)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
 
@@ -2719,12 +2725,6 @@ Collections of awesome neovim plugins.
 ### Buffers / Markdown and LaTeX
 
 *   [francescarpi/buffon.nvim (⭐34)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
-
-## [Feb 23, 2025](/content/2025/02/23/README.md)
-
-### Colorscheme / Markdown and LaTeX
-
-*   [thesimonho/kanagawa-paper.nvim (⭐405)](https://github.com/thesimonho/kanagawa-paper.nvim) - ***`[TS][LSP][L/D][Lua]`*** Remixed light and dark Kanagawa colourschemes with muted colors.
 
 ## [Feb 17, 2025](/content/2025/02/17/README.md)
 
