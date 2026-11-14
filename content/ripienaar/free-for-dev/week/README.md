@@ -12,6 +12,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Beliq](https://beliq.eu) - European REST API platform for e-invoicing, including generating, validating and delivering e-invoices. The free plan includes 20 live documents/month, plus 400 sandbox documents/month (no card required).
 *   [Rizamo](https://rizamo.com) - Social media publishing API: schedule and publish to Instagram, Facebook, TikTok, Threads, YouTube and more over REST, webhooks or an MCP server for AI agents, with comment inbox and analytics. Free forever for 2 connected accounts, unlimited posts, every feature included, no credit card.
+*   [VPNDetection](https://vpndetection.io) - VPN, proxy and hosting detection API for any IP address. The free plan answers the VPN, Tor and relay flags, country and ASN, with no API key, signup or monthly cap.
 
 ### Messaging and Streaming
 
@@ -24,7 +25,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
+*   [Alias Email](https://alias.email) - Free 10 Bump email addresses, one custom domain
 *   [Groundmail](https://groundmail.dev) - Transactional email API and SMTP relay. 3,000 emails/month free (100/day), three domains, three agent mailboxes, inbound email included.
+*   [UserCheck](https://www.usercheck.com) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
+
+### Forms
+
+*   [WaiverCat](https://waivercat.com) - Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.
 
 ### Web Hosting
 
@@ -2337,7 +2344,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
-*   [Mailcheck.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
 
 ### Issue Tracking and Project Management
 
@@ -2641,10 +2647,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
 
-### Search
-
-*   [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
-
 ### Email
 
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
@@ -2723,12 +2725,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Payment and Billing Integration
 
 *   [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
-
-## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Quidlo Timesheets](https://www.quidlo.com/timesheets) - A simple timesheet and time tracking app for teams. The free plan has time tracking and generating reports features for up to 10 users.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -3018,7 +3014,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
     *   [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users
     *   [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
-    *   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) - 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
+    *   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) - 1 free job limited to 60 minutes per job, 1800 minutes per month for Linux, macOS, and Windows
     *   [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
     *   [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 750 hours, 15GB data processing and 5 rules (12mo)
     *   [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
@@ -3824,7 +3820,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
 *   [temp-mail.io](https://temp-mail.io) - Free disposable temporary email service with multiple emails at once and forwarding
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
@@ -4128,10 +4123,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Translation Management
 
 *   [localizely.com](https://localizely.com/) - Free for Open Source
-
-### Forms
-
-*   [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.
 
 ### Commenting Platforms
 

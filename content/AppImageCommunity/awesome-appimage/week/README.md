@@ -2,9 +2,19 @@
 
 Lovingly crafted AppImage tools and resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AppImageCommunity/awesome-appimage/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) · ⭐ 513 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AppImageCommunity/awesome-appimage/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) · ⭐ 616 · 🏷️ Platforms
 
 [ [Daily](/content/AppImageCommunity/awesome-appimage/README.md) / Weekly / [Overview](/content/AppImageCommunity/awesome-appimage/readme/README.md) ]
+
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### AppImage discovery / App catalogs
+
+*   [Get AppImage](https://srevinsaju.github.io/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
+
+### AppImage developer tools / Deployment tools for Windows applications
+
+*   [GameImage (⭐348)](https://github.com/gameimage/gameimage) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
@@ -16,45 +26,37 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [GMAppImager (⭐1)](https://github.com/samuelvenable/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
+*   [GMAppImager (⭐2)](https://github.com/samuelvenable/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### AppImage developer tools / Deployment tools for compiled applications
 
-*   [XojoToAppImage (⭐5)](https://github.com/AlwaysOfflineSoftware/XojoToAppImage) - Graphical tool for packaging compiled Xojo Linux programs into AppImages.
-
-### Resources / Expired links
-
-*   [Get AppImage](https://g.sreve/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
+*   [XojoToAppImage (⭐6)](https://github.com/AlwaysOfflineSoftware/XojoToAppImage) - Graphical tool for packaging compiled Xojo Linux programs into AppImages.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [DotnetPackaging (⭐77)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
+*   [DotnetPackaging (⭐133)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
-*   [Gear lever (⭐1.3k)](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
+*   [Gear lever (⭐2.4k)](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [AppImaGen (⭐30)](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
+*   [AppImaGen (⭐39)](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [PupNet Deploy (⭐233)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+*   [PupNet Deploy (⭐261)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
-
-### AppImage developer tools / Deployment tools for Windows applications
-
-*   [GameImage](https://gitlab.com/formigoni/gameimage) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
@@ -62,47 +64,40 @@ Lovingly crafted AppImage tools and resources
 
 ### Resources / Miscellaneous
 
-*   [appdwarf (⭐30)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
+*   [appdwarf (⭐33)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [Bread (⭐40)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
+*   [Bread (⭐43)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
+*   [AppImage-Integrator (⭐5)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
 *   [gnome\_appimage\_installer (⭐3)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
-
-### AppImage consumption tools / Package managers
-
-*   [leap (⭐13)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [Package-to-appimage (⭐5)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
+*   [Package-to-appimage (⭐7)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
 
 ### AppImage developer tools / Libraries
 
 *   [appenv (⭐0)](https://github.com/TheMarlboroMan/appenv) - Small C++ library telling where the app data resides and where the user data is by using `readlink("/proc/self/exe")`), thus allowing C++ applications to become relocatable in the filesystem.
 
-### Resources / Expired links
-
-*   [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
 ### AppImage developer tools / Build systems
 
-*   [rules\_appimage (⭐30)](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang\_binary target as AppImage.
+*   [rules\_appimage (⭐39)](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang\_binary target as AppImage.
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
-*   [XApp Thumbnailers (⭐49)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
+*   [XApp Thumbnailers (⭐57)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 
 ### AppImage consumption tools / Linux distributions
 
@@ -112,25 +107,13 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [appimage-bash (⭐11)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
-
-## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
-
-### AppImage developer tools / Tools to convert from other package formats
-
-*   [arch2appimage (⭐329)](https://github.com/hanzala123/arch2appimage) - Python script to convert any Arch Linux package (official/AUR) to an AppImage.
-
-## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
-
-### AppImage discovery / App stores
-
-*   [Manjaro Software Discover](https://software.manjaro.org/appimages) - Web-based app store that contains applications in multiple formats, including AppImage.
+*   [appimage-bash (⭐20)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [ayy (⭐19)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+*   [ayy (⭐21)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -142,13 +125,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage consumption tools / Linux distributions
 
-*   [Linux Mint](https://linuxmint.com/) - Has an [AppImage thumbnailer (⭐49)](https://github.com/linuxmint/xapp-thumbnailers) to show application icons on AppImage files.
-
-## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
-
-### AppImage developer tools / Deployment tools for Electron applications
-
-*   [electron-forge-maker-appimage (⭐10)](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
+*   [Linux Mint](https://linuxmint.com/) - Has an [AppImage thumbnailer (⭐57)](https://github.com/linuxmint/xapp-thumbnailers) to show application icons on AppImage files.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -158,7 +135,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage consumption tools / Sandboxes
 
-*   [AppImage Sandboxing Project (⭐57)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
+*   [AppImage Sandboxing Project (⭐64)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -170,13 +147,13 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage consumption tools / Package managers
 
-*   [AppMan (⭐225)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
+*   [AppMan (⭐373)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
 ### AppImage discovery / App centers
 
-*   [AppImagePool (⭐687)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
+*   [AppImagePool (⭐729)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### AppImage consumption tools / Desktop integration
 
@@ -184,7 +161,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Build systems
 
-*   [AppImage.cmake (⭐25)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
+*   [AppImage.cmake (⭐27)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
 
 ### AppImage developer tools / Deployment tools for Flash applications
 
@@ -192,23 +169,19 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Deployment tools for Rust applications
 
-*   [Cargo AppImage (⭐70)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
+*   [Cargo AppImage (⭐80)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [RookiePM (⭐5)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
-
-### AppImage developer tools / Deployment tools for Windows applications
-
-*   [ferion11/Wine\_Appimage (⭐44)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
+*   [RookiePM (⭐6)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [Appnativefy (⭐152)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
+*   [Appnativefy (⭐159)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ### Resources / Community
 
@@ -224,7 +197,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Libraries
 
-*   [QAppImageUpdate (⭐29)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
+*   [QAppImageUpdate (⭐28)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -240,7 +213,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [PyAppImage (⭐24)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
+*   [PyAppImage (⭐29)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -251,7 +224,7 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Templates
 
-*   [mini-qml (⭐47)](https://github.com/patrickelectric/mini-qml) - Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.
+*   [mini-qml (⭐46)](https://github.com/patrickelectric/mini-qml) - Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
@@ -263,19 +236,19 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage Desktop Maker (⭐18)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+*   [AppImage Desktop Maker (⭐20)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐6.8k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐7.7k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐561)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐608)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [.NET Core AppImage example (⭐53)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
+*   [.NET Core AppImage example (⭐57)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 
 ### AppImage developer tools / Metadata tools
 
@@ -285,18 +258,9 @@ Lovingly crafted AppImage tools and resources
 
 *   [appimage-testsuite (⭐20)](https://github.com/aferrero2707/appimage-testsuite) - AppImage testing environment based on Docker containers for various Linux distributions.
 
-### AppImage developer tools / Continuous integration
-
-*   [GitHub Actions example (⭐53)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-*   [appimage.yml (⭐662)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
-
 ### Resources / Miscellaneous
 
 *   [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen\&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
-
-### Resources / Expired links
-
-*   [AppStream Generator](https://output.jsbin.com/qoqukof) - Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -309,68 +273,62 @@ Lovingly crafted AppImage tools and resources
 *   [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/).
 *   [pling.com](https://www.pling.com/) - Open store where creators can publish their libre products and creative content including AppImages.
 
-### AppImage discovery / App centers
-
-*   [NX Software Center (⭐153)](https://github.com/Nitrux/nx-software-center) - Portable Software Center for portable AppImage applications.
-
 ### AppImage discovery / App scrapers
 
-*   [appimages.scraper (⭐12)](https://github.com/azubieta/appimages.scraper) - Search for AppImage releases over the web.
-*   [AppImageRadar (⭐15)](https://github.com/AppImage/AppImageRadar) - Search for AppImage-related activity on GitHub using Travis CI.
+*   [appimages.scraper (⭐14)](https://github.com/azubieta/appimages.scraper) - Search for AppImage releases over the web.
 
 ### AppImage consumption tools / Desktop integration
 
-*   [go-appimaged (⭐1.1k)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - Optional daemon that integrates AppImages into the system (experimental).
-*   [AppImageLauncher (⭐7.2k)](https://github.com/TheAssassin/AppImageLauncher) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
+*   [go-appimaged (⭐1.2k)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - Optional daemon that integrates AppImages into the system (experimental).
+*   [AppImageLauncher (⭐8.5k)](https://github.com/TheAssassin/AppImageLauncher) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
 *   [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - Program for creating, deleting, controlling and organizing shortcuts to AppImage.
-*   [LinuxPA (⭐39)](https://github.com/CalebQ42/LinuxPA) - PortableApps.com type launcher for Linux with AppImage support.
+*   [LinuxPA (⭐42)](https://github.com/CalebQ42/LinuxPA) - PortableApps.com type launcher for Linux with AppImage support.
 
 ### AppImage consumption tools / Updaters
 
-*   [AppImageUpdate (⭐667)](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
-*   [AppImageUpdater (⭐46)](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
-*   [appimage-update (⭐7)](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
+*   [AppImageUpdate (⭐765)](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
+*   [AppImageUpdater (⭐47)](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
+*   [appimage-update (⭐9)](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
 
 ### AppImage consumption tools / Package managers
 
-*   [appimage-manager (⭐115)](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
-*   [bauh (⭐1.3k)](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
-*   [homebrew-appimage (⭐10)](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
-*   [AIPM (⭐18)](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages.
+*   [appimage-manager (⭐120)](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
+*   [bauh (⭐1.4k)](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
+*   [homebrew-appimage (⭐12)](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
 
 ### AppImage developer tools / Low-level tools
 
-*   [appimagetool (⭐9.2k)](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
-*   [nix-bundle (⭐786)](https://github.com/matthewbauer/nix-bundle) - Converts Nix derivations into AppImages.
+*   [appimagetool (⭐9.5k)](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
+*   [nix-bundle (⭐861)](https://github.com/matthewbauer/nix-bundle) - Converts Nix derivations into AppImages.
 
 ### AppImage developer tools / Build systems
 
-*   [appimagecraft (⭐45)](https://github.com/TheAssassin/appimagecraft) - Recipe based AppImage creation tool working from source.
-*   [appimage-builder (⭐354)](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source.
+*   [appimagecraft (⭐56)](https://github.com/TheAssassin/appimagecraft) - Recipe based AppImage creation tool working from source.
+*   [appimage-builder (⭐392)](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source.
 *   [KDE Craft](https://invent.kde.org/packaging/craft) - Build system used by KDE that can produce AppImages and other formats.
 *   [appimage-tooling](https://gitlab.com/sgclarkkde/appimage-tooling) - Ruby tooling to generate Appimages.
 
 ### AppImage developer tools / Deployment tools for compiled applications
 
-*   [go-appimagetool (⭐1.1k)](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
-*   [linuxdeployqt (⭐2.4k)](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
-*   [linuxdeploy (⭐687)](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins.
+*   [go-appimagetool (⭐1.2k)](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
+*   [linuxdeployqt (⭐2.5k)](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
+*   [linuxdeploy (⭐838)](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins.
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [python-appimage (⭐204)](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application).
-*   [linuxdeploy-plugin-python (⭐26)](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy.
+*   [python-appimage (⭐223)](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application).
+*   [linuxdeploy-plugin-python (⭐27)](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy.
 *   [linuxdeploy-plugin-conda (⭐31)](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy.
 *   [Briefcase](https://briefcase.readthedocs.io/) - Convert Python project into a standalone native application, e.g., using AppImage.
 *   [pycharm-appimage-support](https://gitlab.com/chezmurray/pycharm-appimage-support) - Deploy Python project as an AppImage directly from the PyCharm IDE.
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [electron-builder (⭐14k)](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format.
+*   [electron-builder (⭐15k)](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format.
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
-*   [wine32-deploy (⭐58)](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
+*   [wine32-deploy (⭐62)](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
 *   [AppImage For WINE (⭐477)](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD\_PRELOAD based patches to launch WINE from AppImages.
 
 ### AppImage developer tools / Deployment tools for Java applications
@@ -379,15 +337,14 @@ Lovingly crafted AppImage tools and resources
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [pkg2appimage (⭐748)](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.
+*   [pkg2appimage (⭐795)](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.
 *   [appimage2pkg](https://gitlab.com/nixtux-packaging/appimage2pkg) - Repack AppImage and make rpm/deb which does not require FUSE.
-*   [flatpak2appdir (⭐28)](https://github.com/sudo-give-me-coffee/flatpak2appdir) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
-*   [make-portable (⭐39)](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
-*   [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
+*   [flatpak2appdir (⭐33)](https://github.com/sudo-give-me-coffee/flatpak2appdir) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
+*   [make-portable (⭐38)](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
 
 ### AppImage developer tools / QC tools
 
-*   [appimagelint (⭐53)](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
+*   [appimagelint (⭐59)](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
 
 ### AppImage developer tools / Continuous integration
 
@@ -397,20 +354,20 @@ Lovingly crafted AppImage tools and resources
 ### AppImage developer tools / Libraries
 
 *   [AppImageServices (⭐4)](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools.
-*   [libappimage (⭐51)](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost.
+*   [libappimage (⭐57)](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost.
 *   [libzsync-go (⭐13)](https://github.com/AppImageCrafters/libzsync-go) - Zsync implementation written in Go that can be used to update AppImages.
 
 ### AppImage developer tools / Templates
 
 *   [Qt Desktop Template (⭐0)](https://github.com/stemoretti/qt-desktop-template) - Template for creating Qt Widgets desktop applications with AppImage generation using linuxdeployqt.
 *   [qt-hello-world (⭐2)](https://github.com/AppImageCrafters/qt-hello-world) - Qt Hello World project for AppImage creation using appimage-builder.
-*   [qt-qml-project-template-with-ci (⭐63)](https://github.com/219-design/qt-qml-project-template-with-ci) - Template for a Qt/QML application with batteries included: GitHub CI, automated GUI testing, automatic code-format checks and more. Compiles for Linux (AppImage), Mac, and Android.
-*   [wxWidgetsTemplate (⭐16)](https://github.com/Ravbug/wxWidgetsTemplate) - Cross-platform application template for wxWidgets C++, with pre-set files and IDE projects, supporting AppImage.
-*   [Briefcase Linux AppImage Template (⭐21)](https://github.com/beeware/briefcase-linux-appimage-template) - Cookiecutter template for building Python apps that will run under Linux, packaged as an AppImage.
+*   [qt-qml-project-template-with-ci (⭐67)](https://github.com/219-design/qt-qml-project-template-with-ci) - Template for a Qt/QML application with batteries included: GitHub CI, automated GUI testing, automatic code-format checks and more. Compiles for Linux (AppImage), Mac, and Android.
+*   [wxWidgetsTemplate (⭐15)](https://github.com/Ravbug/wxWidgetsTemplate) - Cross-platform application template for wxWidgets C++, with pre-set files and IDE projects, supporting AppImage.
+*   [Briefcase Linux AppImage Template (⭐23)](https://github.com/beeware/briefcase-linux-appimage-template) - Cookiecutter template for building Python apps that will run under Linux, packaged as an AppImage.
 
 ### Resources / Specs
 
-*   [AppImageSpec (⭐83)](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format.
+*   [AppImageSpec (⭐94)](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format.
 *   [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/latest/) - Specification for the matadata used inside AppImages.
 
 ### Resources / Documentation
@@ -452,25 +409,13 @@ Lovingly crafted AppImage tools and resources
 
 ### Resources / Miscellaneous
 
-*   [AppImage wiki (⭐9.2k)](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
-*   [AppImageZip (⭐6)](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
+*   [AppImage wiki (⭐9.5k)](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
 
 ### Resources / Related
 
-*   [Similar projects (⭐9.2k)](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems.
+*   [Similar projects (⭐9.5k)](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems.
 
 ### Resources / Other awesome lists
 
-*   [awesome-linuxdeploy (⭐54)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
+*   [awesome-linuxdeploy (⭐58)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
 *   [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-
-### Resources / Expired links
-
-*   [App Outlet](https://app-outlet.github.io/) - Universal app store that works with AppImages, Flatpaks and Snaps.
-*   [appimage2desktop](https://github.com/me1ting/appimage2desktop) - Creates a desktop file and an icon in the system for an AppImage, nothing else.
-
-## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
-
-### AppImage consumption tools / Desktop integration
-
-*   [appimaged (⭐300)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).

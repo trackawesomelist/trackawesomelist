@@ -16,6 +16,22 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [vessel (⭐0)](https://github.com/xraph/vessel) - Generics-based dependency injection container with constructor injection, value groups, scopes and service lifecycle management.
 
+### Translation
+
+*   [go-translator (⭐14)](https://github.com/donseba/go-translator) - Gettext PO catalogues with plural forms, contexts and html/template helpers.
+
+### Security
+
+*   [ITB (⭐11)](https://github.com/everanium/itb) - Experimental symmetric cipher construction with Lean 4 formal proofs of its design.
+
+### Template Engines
+
+*   [go-partial (⭐24)](https://github.com/donseba/go-partial) - Render full pages or targeted partials from one html/template tree, for htmx, Turbo and Unpoly.
+
+### Utilities
+
+*   [go-importmap (⭐17)](https://github.com/donseba/go-importmap) - Generate import maps and stylesheet tags for Go templates from CDN packages, with optional vendoring.
+
 ## [Nov 13, 2026](/content/2026/11/13/README.md)
 
 ### Interfaces to Multiple Backends

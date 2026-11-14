@@ -2,9 +2,15 @@
 
 A hub of Free and open-source software for developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tvvocold/FOSS-for-Dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) · ⭐ 965 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tvvocold/FOSS-for-Dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) · ⭐ 1.5K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/tvvocold/FOSS-for-Dev/week/README.md) / [Overview](/content/tvvocold/FOSS-for-Dev/readme/README.md) ]
+
+## [Nov 14, 2026](/content/2026/11/14/README.md)
+
+### File Management
+
+*   [Glim (⭐37)](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
 
 ## [Feb 02, 2024](/content/2024/02/02/README.md)
 
@@ -14,11 +20,11 @@ A hub of Free and open-source software for developers
 
 ### Security and PKI
 
-*   [Selefra (⭐479)](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+*   [Selefra (⭐547)](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ### PaaS
 
-*   [Preevy (⭐1.9k)](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
+*   [Preevy (⭐2.2k)](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
 *   [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ### Backend
@@ -34,10 +40,10 @@ A hub of Free and open-source software for developers
 
 ### File Management
 
-*   [Bat (⭐45k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
-*   [Clifm (⭐1.1k)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
-*   [Clipboard (⭐4.2k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
-*   [fzf (⭐57k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+*   [Bat (⭐61k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+*   [Clifm (⭐1.7k)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
+*   [Clipboard (⭐5.9k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+*   [fzf (⭐84k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
 
 ## [Mar 21, 2022](/content/2022/03/21/README.md)
 
@@ -74,7 +80,7 @@ A hub of Free and open-source software for developers
 
 ### IDE
 
-*   [Atom (⭐60k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
+*   [Atom (⭐61k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 
 ## [Dec 15, 2020](/content/2020/12/15/README.md)
 
@@ -86,19 +92,19 @@ A hub of Free and open-source software for developers
 
 ### Documentation
 
-*   [Log4brains (⭐1k)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
+*   [Log4brains (⭐1.6k)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
 ## [Sep 28, 2020](/content/2020/09/28/README.md)
 
 ### Feature management
 
-*   [Unleash (⭐9.9k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
+*   [Unleash (⭐14k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## [Aug 20, 2020](/content/2020/08/20/README.md)
 
 ### Bug trackers
 
-*   [Trac (⭐468)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
+*   [Trac (⭐547)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 
 ## [Dec 04, 2019](/content/2019/12/04/README.md)
 
@@ -110,13 +116,13 @@ A hub of Free and open-source software for developers
 
 ### IDE
 
-*   [Visual Studio Code (⭐156k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+*   [Visual Studio Code (⭐194k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 
 ## [Jan 15, 2017](/content/2017/01/15/README.md)
 
 ### Source Code Repos
 
-*   [Package Drone (⭐66)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
+*   [Package Drone (⭐68)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
 ## [Sep 17, 2016](/content/2016/09/17/README.md)
 
@@ -128,11 +134,11 @@ A hub of Free and open-source software for developers
 
 ### Source Code Repos
 
-*   [Gogs (⭐44k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
+*   [Gogs (⭐48k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
 
 ### Collaboration Tools
 
-*   [ssh chat (⭐5.2k)](https://github.com/shazow/ssh-chat) - Chat over SSH
+*   [ssh chat (⭐5.9k)](https://github.com/shazow/ssh-chat) - Chat over SSH
 
 ### CI / CD
 
@@ -154,7 +160,7 @@ A hub of Free and open-source software for developers
 
 ### Project management
 
-*   [Redmine (⭐5k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+*   [Redmine (⭐6.1k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
 *   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
@@ -162,7 +168,7 @@ A hub of Free and open-source software for developers
 
 ### Source Code Repos
 
-*   [GitLab (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Version control for your server
+*   [GitLab (⭐25k)](https://github.com/gitlabhq/gitlabhq) - Version control for your server
 
 ### IDE
 
@@ -170,29 +176,29 @@ A hub of Free and open-source software for developers
 
 ### Collaboration Tools
 
-*   [SparkleShare (⭐4.8k)](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
-*   [lets chat (⭐9.7k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+*   [SparkleShare (⭐5k)](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
+*   [lets chat (⭐9.8k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 
 ### Code Quality
 
-*   [sonarqube (⭐8.4k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐11k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 
 ### CI / CD
 
-*   [Jenkins (⭐22k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
-*   [Travis CI (⭐8.4k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
+*   [Jenkins (⭐27k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
+*   [Travis CI (⭐8.5k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
 
 ### Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI (⭐492)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐703)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ### Bug trackers
 
-*   [Bugzilla (⭐608)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis (⭐1.6k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Bugzilla (⭐865)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.8k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 
 ### PaaS
 
-*   [OpenShift (⭐8.4k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.7k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes

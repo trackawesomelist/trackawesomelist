@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Nov 14, 2026](/content/2026/11/14/README.md)
+
+### Notes and Tasks / Useful Tools
+
+*   **[AFFiNE](https://affine.pro)** - Local-first knowledge base that keeps docs, a whiteboard and databases on your device, as an alternative to Notion and Miro. `⚠️ source-available` `⚠️ telemetry opt-out` `⚠️ website trackers`
+
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
 ### VPNs / Apps
@@ -776,7 +782,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Automation / Apps and services
 
-*   **[Huginn (⭐50k)](https://github.com/huginn/huginn)** - Self-hosted agents that watch websites, feeds and APIs and act for you, an alternative to IFTTT and Zapier. <sub>self-host · MIT</sub>
+*   **[Huginn (⭐51k)](https://github.com/huginn/huginn)** - Self-hosted agents that watch websites, feeds and APIs and act for you, an alternative to IFTTT and Zapier. <sub>self-host · MIT</sub>
 
 ## [Oct 01, 2026](/content/2026/10/01/README.md)
 
@@ -1233,7 +1239,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video Editing / Deezer alternative clients
 
-*   **[LosslessCut (⭐45k)](https://github.com/mifi/lossless-cut)** - FFmpeg front end for fast, lossless trimming and cutting of video and audio files. <sub>Linux · macOS · Windows · GPL-2.0</sub>
+*   **[LosslessCut (⭐46k)](https://github.com/mifi/lossless-cut)** - FFmpeg front end for fast, lossless trimming and cutting of video and audio files. <sub>Linux · macOS · Windows · GPL-2.0</sub>
 
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
@@ -1501,7 +1507,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Password Managers / Useful Tools
 
 *   **[Bitwarden](https://bitwarden.com)** - Password manager with end-to-end encrypted sync across all your devices. `⚠️ website trackers` <sub>self-host</sub>
-    *   **[Vaultwarden (⭐70k)](https://github.com/dani-garcia/vaultwarden)** - Lightweight, unofficial Bitwarden-compatible server you can host yourself. <sub>self-host · AGPL-3.0</sub>
+    *   **[Vaultwarden (⭐71k)](https://github.com/dani-garcia/vaultwarden)** - Lightweight, unofficial Bitwarden-compatible server you can host yourself. <sub>self-host · AGPL-3.0</sub>
 
 ### Other useful tools / Useful Tools
 

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [anirbanchakraborty-dev/swara (⭐0)](https://github.com/anirbanchakraborty-dev/swara) - LilyPond support with its own Tree-sitter grammar and LSP server.
 
+### Utility / Cursorline
+
+*   [leblocks/treetags.nvim (⭐0)](https://github.com/leblocks/treetags.nvim) - Fast, Tree-sitter-based code tags and symbol navigation.
+
 ## [Nov 13, 2026](/content/2026/11/13/README.md)
 
 ### Colorscheme / Markdown and LaTeX

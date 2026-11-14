@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Notes and Tasks / Useful Tools
+
+*   **[AFFiNE](https://affine.pro)** - Local-first knowledge base that keeps docs, a whiteboard and databases on your device, as an alternative to Notion and Miro. `⚠️ source-available` `⚠️ telemetry opt-out` `⚠️ website trackers`
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Video and Audio Conferencing / Desktop
@@ -622,7 +628,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **IFTTT**: your workflows run on its servers, holding tokens to all your connected accounts. <sub>[ToS;DR](https://tosdr.org/en/service/236)</sub>
 *   **Zapier**: in 2025 an intruder got into its code repositories, where some customer data had been copied. <sub>[ToS;DR](https://tosdr.org/en/service/2131) · [Source](https://threats.wiz.io/all-incidents/zapier-data-breach)</sub>
-*   **[Huginn (⭐50k)](https://github.com/huginn/huginn)** - Self-hosted agents that watch websites, feeds and APIs and act for you, an alternative to IFTTT and Zapier. <sub>self-host · MIT</sub>
+*   **[Huginn (⭐51k)](https://github.com/huginn/huginn)** - Self-hosted agents that watch websites, feeds and APIs and act for you, an alternative to IFTTT and Zapier. <sub>self-host · MIT</sub>
 
 ### Payments / Apps and services
 
@@ -1171,7 +1177,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video Editing / Deezer alternative clients
 
-*   **[LosslessCut (⭐45k)](https://github.com/mifi/lossless-cut)** - FFmpeg front end for fast, lossless trimming and cutting of video and audio files. <sub>Linux · macOS · Windows · GPL-2.0</sub>
+*   **[LosslessCut (⭐46k)](https://github.com/mifi/lossless-cut)** - FFmpeg front end for fast, lossless trimming and cutting of video and audio files. <sub>Linux · macOS · Windows · GPL-2.0</sub>
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -1429,7 +1435,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Password Managers / Useful Tools
 
 *   **[Bitwarden](https://bitwarden.com)** - Password manager with end-to-end encrypted sync across all your devices. `⚠️ website trackers` <sub>self-host</sub>
-    *   **[Vaultwarden (⭐70k)](https://github.com/dani-garcia/vaultwarden)** - Lightweight, unofficial Bitwarden-compatible server you can host yourself. <sub>self-host · AGPL-3.0</sub>
+    *   **[Vaultwarden (⭐71k)](https://github.com/dani-garcia/vaultwarden)** - Lightweight, unofficial Bitwarden-compatible server you can host yourself. <sub>self-host · AGPL-3.0</sub>
 
 ### Other useful tools / Useful Tools
 
