@@ -6,6 +6,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 15, 2026](/content/2026/11/15/README.md)
+
+### Commands & Extensions
+
+*   [Telegram Bot UI (⭐11)](https://github.com/hlibsuslov/telegram-bot-ui) - Agent Skill that runs in Gemini CLI (from `~/.agents/skills/` or `~/.gemini/skills/`) and other agents. Makes Telegram bots look and feel like real products: messages, keyboards, buttons, navigation, streaming AI replies with Stop, HTML widgets and premium emoji; also audits an existing bot's interface. Ships an offline Bot API catalog and is updated with every new Bot API release. Install with `python scripts/install.py --host gemini` from a clone. MIT.
+*   [AI Agent Templates (⭐2)](https://github.com/workspace-templates/ai-agent-templates) - Hundreds of MIT-licensed skills, subagents, custom commands, MCP setups and GEMINI.md rules in Gemini CLI's own file layout (500 templates in all, also for Claude Code, Codex, Cursor and Copilot), installable with `npx workspacetemplates add <name> --tool gemini-cli`.
+
 ## [Nov 14, 2026](/content/2026/11/14/README.md)
 
 ### Commands & Extensions
@@ -179,11 +186,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Interfaces
 
-*   [OpenCode Mobile (⭐16)](https://github.com/Eslamasabry/opencode-mobile-next) - Independent, unofficial, open-source (MIT) Android app that runs Gemini CLI, with Claude Code, Codex, Qwen Code and other agents, on the phone itself in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve tool requests from a notification or widget, review diffs, preview the dev server. Made by its owner with substantial AI assistance.
+*   [OpenCode Mobile (⭐109)](https://github.com/Eslamasabry/opencode-mobile-next) - Independent, unofficial, open-source (MIT) Android app that runs Gemini CLI, with Claude Code, Codex, Qwen Code and other agents, on the phone itself in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve tool requests from a notification or widget, review diffs, preview the dev server. Made by its owner with substantial AI assistance.
 
 ### Commands & Extensions
 
-*   [Mobbin (⭐57)](https://github.com/mobbin/skills) - Gemini CLI extension that gives Gemini 600,000+ real app screens, flows and website sections from Mobbin as UI references, plus skills to search them and redesign a screen from patterns real apps ship, in your own design system. Remote MCP `https://api.mobbin.com/mcp` with OAuth sign-in (Pro, Team or Enterprise plan). Install: `gemini extensions install https://github.com/mobbin/skills`, then `/mcp auth mobbin`.
+*   [Mobbin (⭐72)](https://github.com/mobbin/skills) - Gemini CLI extension that gives Gemini 600,000+ real app screens, flows and website sections from Mobbin as UI references, plus skills to search them and redesign a screen from patterns real apps ship, in your own design system. Remote MCP `https://api.mobbin.com/mcp` with OAuth sign-in (Pro, Team or Enterprise plan). Install: `gemini extensions install https://github.com/mobbin/skills`, then `/mcp auth mobbin`.
 
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
@@ -197,13 +204,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [DESIGN:OS (⭐34)](https://github.com/jangtrinh/design-os) - Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with `npx @easestart/design-os init`. Source-available (PolyForm Shield).
-*   [Ironheights (⭐2)](https://github.com/Frank-Masciopinto/ironheights) - Offline security scanner that protects any AI bot's skills: scans any skill folder with a `SKILL.md` (including Gemini CLI skills in `~/.gemini/skills/`) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run `npx ironheights scan ./path/to/skill`. Apache-2.0.
+*   [DESIGN:OS (⭐37)](https://github.com/jangtrinh/design-os) - Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with `npx @easestart/design-os init`. Source-available (PolyForm Shield).
+*   [Ironheights (⭐4)](https://github.com/Frank-Masciopinto/ironheights) - Offline security scanner that protects any AI bot's skills: scans any skill folder with a `SKILL.md` (including Gemini CLI skills in `~/.gemini/skills/`) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run `npx ironheights scan ./path/to/skill`. Apache-2.0.
 
 ### MCP Servers
 
-*   [GetYouTubeTranscript (⭐23)](https://github.com/tubeagentkit/youtube-mcp) - YouTube transcripts and data for Gemini CLI: fetch a video's transcript (pick the language, optional timestamps), search YouTube, browse a channel's videos, playlists and posts, search inside a channel, list a playlist, find related videos, and read a channel banner or estimated dislikes. 13 tools. Hosted Streamable HTTP; tool calls need an API key from the [dashboard](https://getyoutubetranscript.com/dashboard?utm_source=awesome-gemini-cli\&utm_medium=referral) (1 credit per call, 100 credits on sign-up, paid plans from $5/month). MIT. Add with: `gemini mcp add --transport http --header "Authorization: Bearer <API_KEY>" getyoutubetranscript https://getyoutubetranscript.com/api/mcp`.
-*   [recall (⭐2)](https://github.com/fainir/recall) - MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with `[[wiki-links]]`), so Gemini CLI, Codex and Cursor share the same memories. `memory_recall` follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with `gemini extensions install https://github.com/fainir/recall` (serves the memory of the folder you start Gemini in) or run `npx -y @fainir/recall`.
+*   [GetYouTubeTranscript (⭐10)](https://github.com/tubeagentkit/youtube-mcp) - YouTube transcripts and data for Gemini CLI: fetch a video's transcript (pick the language, optional timestamps), search YouTube, browse a channel's videos, playlists and posts, search inside a channel, list a playlist, find related videos, and read a channel banner or estimated dislikes. 13 tools. Hosted Streamable HTTP; tool calls need an API key from the [dashboard](https://getyoutubetranscript.com/dashboard?utm_source=awesome-gemini-cli\&utm_medium=referral) (1 credit per call, 100 credits on sign-up, paid plans from $5/month). MIT. Add with: `gemini mcp add --transport http --header "Authorization: Bearer <API_KEY>" getyoutubetranscript https://getyoutubetranscript.com/api/mcp`.
+*   [recall (⭐3)](https://github.com/fainir/recall) - MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with `[[wiki-links]]`), so Gemini CLI, Codex and Cursor share the same memories. `memory_recall` follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with `gemini extensions install https://github.com/fainir/recall` (serves the memory of the folder you start Gemini in) or run `npx -y @fainir/recall`.
 
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
@@ -360,7 +367,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [SpaceApp (⭐16)](https://github.com/oll4com/spaceapp) - Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: `npx --yes run-spaceapp@latest install`. Source-available (BSL 1.1).
+*   [SpaceApp (⭐19)](https://github.com/oll4com/spaceapp) - Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: `npx --yes run-spaceapp@latest install`. Source-available (BSL 1.1).
 
 ### Commands & Extensions
 
@@ -369,14 +376,14 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Development Tools & Utilities
 
 *   [Check (⭐0)](https://github.com/golproductions/check-gemini) - Extension with a `BeforeTool` hook that checks each file write on your own machine before Gemini CLI makes it (and, on Linux, each shell command): files, folders, programs, git refs and packages it names must exist, and scripts must parse; what the machine proves wrong is blocked with the machine's message. Install: `gemini extensions install https://github.com/golproductions/check-gemini`. Paid, 14-day free trial.
-*   [agy-powerline (⭐30)](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Antigravity CLI (agy), the successor to Gemini CLI, with real-time 5h/7d Gemini quota meters, pace markers, context usage, and interactive TUI editor. Zero dependencies, MIT.
+*   [agy-powerline (⭐39)](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Antigravity CLI (agy), the successor to Gemini CLI, with real-time 5h/7d Gemini quota meters, pace markers, context usage, and interactive TUI editor. Zero dependencies, MIT.
 
 ### MCP Servers
 
 *   [Pethost](https://pethost.dev?utm_source=awesome-gemini-cli\&utm_medium=referral) - Hosting for Docker Compose projects with a remote MCP server (OAuth): Gemini CLI deploys a project, reads its logs and HTTP traffic, and rolls it back. Add it with `gemini mcp add --transport http pethost https://mcp.pethost.dev/mcp`.
 *   [DC Hub (⭐3)](https://github.com/azmartone67/dchub-mcp-server) - Live data for data-center site selection: a daily Data Center Power Index (DCPI) of where data centers can get grid power across 300+ markets, live grid feeds from the seven US ISOs, plus fiber, gas and electricity prices. Answers carry an as-of timestamp and a citation line. 94 tools, remote Streamable HTTP, free tier needs no key. Install: `gemini extensions install https://github.com/azmartone67/dchub-mcp-server`.
 *   [Google Hotels MCP (⭐1)](https://github.com/huynhtanan/google-hotels-mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search Google Hotels and Google Vacation Rentals from Gemini CLI: per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers), 3-month daily price calendars, amenities, nearby places and review topics. Local stdio server (3 tools) wrapping Apify Google Hotels actors; `uvx --from "git+https://github.com/huynhtanan/google-hotels-mcp.git@v0.1.2" google-hotels-mcp`.
-*   [AltoRank](https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable ([source (⭐5)](https://github.com/AltoRank/altorank)). Remote Streamable HTTP with OAuth sign-in. Add with `gemini mcp add --transport http altorank https://app.altorank.co/api/mcp`.
+*   [AltoRank](https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable ([source (⭐6)](https://github.com/AltoRank/altorank)). Remote Streamable HTTP with OAuth sign-in. Add with `gemini mcp add --transport http altorank https://app.altorank.co/api/mcp`.
 
 ## [Oct 15, 2026](/content/2026/10/15/README.md)
 
@@ -647,7 +654,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [Bifrost (⭐9.3k)](https://github.com/maximhq/bifrost) - Self-hosted gateway for Gemini CLI that unifies cloud and local model providers with routing, fallbacks, load balancing, and MCP support.
+*   [Bifrost (⭐9.6k)](https://github.com/maximhq/bifrost) - Self-hosted gateway for Gemini CLI that unifies cloud and local model providers with routing, fallbacks, load balancing, and MCP support.
 
 ### MCP Servers
 
@@ -837,7 +844,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [nika (⭐95)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
+*   [nika (⭐100)](https://github.com/supernovae-st/nika) - Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args \[mcp]).
 
 ## [Jul 10, 2026](/content/2026/07/10/README.md)
 
@@ -855,7 +862,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [llm-box (⭐15)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
+*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 

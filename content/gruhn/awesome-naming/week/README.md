@@ -2,9 +2,15 @@
 
 A curated list for when naming things is done right.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
+
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [ratatui](https://ratatui.rs/) - A framework for creating TUIs. Also a pun on the movie Ratatouille about a chef rat, which is itself a pun on the french vegetable dish Ratatouille.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -33,14 +39,14 @@ A curated list for when naming things is done right.
 *   [Attention](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)) - A mechanism allowing models to selectively focus on the most relevant parts of their input, just as humans direct their attention to what matters most.
 *   [Dropout](https://en.wikipedia.org/wiki/Dropout_\(neural_networks\)) - Randomly disabling neurons during training to prevent overfitting. Like a sports team that improves by practicing with random members absent.
 
+### Tools, Applications, Libraries, Frameworks
+
+*   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep macOS from "sleeping".
+*   [go-brrr (⭐151)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the \_br\_otli compression algorithm. Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
+
 ### User Interface Design
 
 *   [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
-
-### Tools, Applications, Libraries, Frameworks
-
-*   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
-*   [go-brrr (⭐51)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 
 ### Other
 
@@ -51,7 +57,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Baysian inferance.
+*   [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Bayesian inference.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -62,11 +68,11 @@ A curated list for when naming things is done right.
 ### IT Security
 
 *   [Phishing](https://en.wikipedia.org/wiki/Phishing) - Refers to the use of lures to "fish" for sensitive information.
-*   [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate
+*   [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
+*   [bubblewrap (⭐9.5k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -78,7 +84,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [corrosion](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
+*   [corrosion (⭐1.5k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -108,7 +114,7 @@ A curated list for when naming things is done right.
 
 ### Design Patterns and Anti-Patterns
 
-*   [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
+*   [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow structure.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -148,7 +154,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐5.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
@@ -207,13 +213,13 @@ A curated list for when naming things is done right.
 ### Tools, Applications, Libraries, Frameworks
 
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
-*   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
+*   [yarn](https://yarnpkg.com/) - Node.js dependency manager.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐95k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐96k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -310,7 +316,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [uppy](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐31k)](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -328,7 +334,7 @@ A curated list for when naming things is done right.
 
 ### Data Structures and Algorithms
 
-*   [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *have already waiting friends*.
+*   [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *already have waiting friends*.
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
@@ -340,8 +346,8 @@ A curated list for when naming things is done right.
 
 ### Data Structures and Algorithms
 
-*   [Stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)) - Like with a stack of pancakes, you can only add and remove items from the top of this data structure.
 *   [Queue](https://en.wikipedia.org/wiki/Queue_\(abstract_data_type\)) - In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.
+*   [Stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)) - Like with a stack of pancakes, you can only add and remove items from the top of this data structure.
 
 ### Design Patterns and Anti-Patterns
 

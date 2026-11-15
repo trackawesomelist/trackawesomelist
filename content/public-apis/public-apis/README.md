@@ -6,6 +6,259 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 15, 2026](/content/2026/11/15/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Bewary](https://bewary.app/mcp)
+
+  Description: Scam checks for links, domains, phone numbers, emails, wallets and IBANs before an agent acts
+
+  Auth: `OAuth`
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/app.bewary/bewary) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.bewary)
+
+
+- Name: [Octocrawl](https://octocrawl.dev/docs/connect-mcp/)
+
+  Description: Web pages as Markdown or JSON with an Evidence Record; a blocked or empty page returns a reason
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/77777R7/Octocrawl) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.77777R7/octocrawl)
+
+
+- Name: [Sofya (⭐2)](https://github.com/sofya-co/sofya-mcp)
+
+  Description: Web search with its own index, pages as Markdown, AI extraction and cited research reports
+
+  Auth: `apiKey`
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Anthropic](https://claude.ai/directory/connectors/sofya) · [Glama](https://glama.ai/mcp/connectors/co.sofya/sofya) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=co.sofya/sofya)
+
+
+
+### Anime
+
+- API: [FillerLists](https://fillerlists.com/data)
+
+  Description: Filler, mixed and canon labels for every episode of 13 long anime (JSON and CSV)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Anti-Malware
+
+- API: [Bewary](https://bewary.app/docs)
+
+  Description: Scam checks for links, domains, phone numbers, emails, crypto wallets and IBANs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Calendar
+
+- API: [Kalenderblick](https://kalenderblick.de/api/)
+
+  Description: Public holidays and school holidays for Germany, Austria and Switzerland as static JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [Cosmos Pay](https://dev.cosmospay.lat/docs/api/)
+
+  Description: Stablecoin payment links, checkout and swaps on Stellar, Solana and Monad
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [CryptoDataAPI](https://cryptodataapi.com/api/docs)
+
+  Description: Prices, derivatives, funding, liquidations, Hyperliquid, ETF flows, volatility index and regimes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Development
+
+- API: [Octocrawl](https://octocrawl.dev/docs/reference/)
+
+  Description: Web pages as Markdown or JSON with an Evidence Record: final URL, HTTP status, robots.txt, hashes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [QR Kept](https://qrkept.com/free-qr-code-api)
+
+  Description: Free QR code API: one GET request returns an SVG, no key or account
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [MailTester Ninja](https://mailtester.ninja/api/)
+
+  Description: Verify email addresses live with the mail server, catch-all and disposable detection, free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [Green Screen Memes](https://api.greenscreenmemes.app/docs)
+
+  Description: Search 2,000+ green screen meme video clips, most with sound, new clips daily
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Games & Comics
+
+- API: [Valo.Data](https://valotcg.com/developers/api/pokemon)
+
+  Description: Pokémon TCG cards in EN/FR/JA/ZH, Cardmarket, US market and eBay prices, PSA populations, 14 TCGs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [GetParcelData](https://getparceldata.com/api)
+
+  Description: US parcel boundaries, owners and assessor values by APN, point or polygon
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [AI Rate Card](https://airatecard.com/docs)
+
+  Description: Daily-checked AI model API prices from 120+ providers, price history and cost estimates
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Music
+
+- API: [Open Guitar Chords](https://openguitarchords.com/data)
+
+  Description: Free JSON data for guitar chords, scales and fretboard positions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [openshield](https://www.openshield.dev/docs)
+
+  Description: Image and text moderation, plus fraud scoring for sign-ups, logins and payments
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Video
+
+- API: [Galaxy Movies](https://galaxymovies.app/api/streaming-changes?provider=netflix)
+
+  Description: Daily arrivals and departures per US streaming service
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [VidSmaller](https://vidsmaller.com/api-docs)
+
+  Description: Compress videos to an exact target file size, with estimates and async jobs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Nov 13, 2026](/content/2026/11/13/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -6819,7 +7072,7 @@ A collective list of free APIs
 
 - API: [TickerMint](https://tickermint.cards/developers)
 
-  Description: Daily market prices and price history for Pokémon, One Piece, Lorcana and Yu-Gi-Oh cards
+  Description: Daily card prices and history for Pokémon, One Piece, Lorcana, Riftbound, Yu-Gi-Oh and Gundam
 
   Auth: No
 
@@ -6986,7 +7239,7 @@ A collective list of free APIs
   Install: [npm](https://www.npmjs.com/package/corpus-cloud-pricing-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=corpus-cloud-pricing)
 
 
-- Name: [OpenSwissData (⭐0)](https://github.com/cammac-creator/openswissdata/tree/main/sdks/mcp-server)
+- Name: [OpenSwissData (⭐1)](https://github.com/cammac-creator/openswissdata/tree/main/sdks/mcp-server)
 
   Description: Swiss customs tariff (TARES), FINMA register and warnings, NOGA/NACE/ISIC code crosswalks
 

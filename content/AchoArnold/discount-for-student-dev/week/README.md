@@ -6,6 +6,16 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
+
+### SaaS
+
+*   [Recordist](https://recordist.app/students?from=edu) \[DISCOUNT] - Records and transcribes lectures and calls on your own devices, and recording, transcription and search stay free. Confirm a college or university email for 14 days of Pro and a student discount on Pro.
+
+### Lists and trackers
+
+*   [StudentStack](https://studentstack-gamma.vercel.app) \[FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### SaaS

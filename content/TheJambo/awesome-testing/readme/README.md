@@ -80,7 +80,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 *   [Evaliphy (⭐18)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 *   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
-*   [nika (⭐95)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐100)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 *   [crilio (⭐2)](https://github.com/mukundzha/crilio) - An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.
 *   [geokit-cli (⭐0)](https://github.com/gstar-byte/geokit-cli) - Open-source CLI for automated AI search engine readiness testing, `/llms.txt` validation, and crawler access audits.
 *   [aiexpect (⭐2)](https://github.com/dmsehgal/aiexpect) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
@@ -122,6 +122,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
 
 *   [OutageFence (⭐0)](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
+
+*   [atrezzo (⭐1)](https://github.com/zeta92/atrezzo) - Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.
 
 ### Visual Testing
 

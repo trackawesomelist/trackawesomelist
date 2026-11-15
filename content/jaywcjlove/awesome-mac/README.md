@@ -32,6 +32,12 @@
 
 *   [Louppe](https://louppe.eu/) - Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/murlexander/louppe-media-culler) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/louppe/id6820131477)
 
+### AI Tools / Other Tools
+
+*   [Tendbar (⭐2)](https://github.com/DabuSoft-pl/tendbar) - Native menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DabuSoft-pl/tendbar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [JoeBro](https://joexk1.github.io/joebro/) - Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joexk1/JoeBro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [kwant](https://kwant.si) - Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexsergivan/kwant) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Voice-to-Text / Audio Record and Process
 
 *   [Earshot (⭐16)](https://github.com/Bouliw/earshot) - Menu bar app that transcribes the audio of any app you pick, fully on-device, with speaker names in Microsoft Teams. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Bouliw/earshot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -57,7 +63,6 @@
 
 *   [AppleAi (⭐143)](https://github.com/bunnysayzz/AppleAI) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bunnysayzz/AppleAI)
 *   [BaseHalf](https://basehalf.com) - Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Pointa-Labs/basehalf) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [JoeBro (⭐94)](https://github.com/joexk1/JoeBro) - Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joexk1/JoeBro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Communication / Collaboration and Team Tools
 
@@ -486,7 +491,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [Swamp Converter (⭐5)](https://github.com/aansonsa/swamp-converter) - Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aansonsa/swamp-converter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Tarn (⭐1)](https://github.com/jakeantelis/Tarn) - A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jakeantelis/Tarn) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tarn (⭐2)](https://github.com/jakeantelis/Tarn) - A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jakeantelis/Tarn) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 

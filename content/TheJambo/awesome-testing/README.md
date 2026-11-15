@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 15, 2026](/content/2026/11/15/README.md)
+
+### Software / Service Virtualization
+
+*   [atrezzo (⭐1)](https://github.com/zeta92/atrezzo) - Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.
+
 ## [Nov 14, 2026](/content/2026/11/14/README.md)
 
 ### Software / AI & LLM Testing
@@ -368,7 +374,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [nika (⭐95)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐100)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 

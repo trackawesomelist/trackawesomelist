@@ -17,6 +17,7 @@ A curated list of testing resources
 ### Software / Service Virtualization
 
 *   [Buggregator (⭐1.1k)](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
+*   [atrezzo (⭐1)](https://github.com/zeta92/atrezzo) - Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.
 
 ### Software / UI & End-to-End Testing
 
@@ -275,7 +276,7 @@ A curated list of testing resources
 ### Software / AI & LLM Testing
 
 *   [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
-*   [nika (⭐95)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+*   [nika (⭐100)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Software / Test Data Management
 

@@ -46,6 +46,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Learning Resources](#learning-resources)
 *   [Data science](#data-science)
 *   [Screen Recorders](#screen-recorders)
+*   [Lists and trackers](#lists-and-trackers)
 
 ## Source Code Repos
 
@@ -183,6 +184,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Glasp](https://glasp.co/students) \[FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
 
 *   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior) \[FREE] - Every remote junior and internship developer job from dozens of job boards in one place, with junior email alerts. Sign up with your school email and Pro is free for 2 months: jobs 24 hours early, daily picks with the reasons they match, and AI search. Also for [backend](https://www.remotebackendjobs.com/junior) and [Java](https://www.remotejavajobs.com/junior).
+
+*   [Recordist](https://recordist.app/students?from=edu) \[DISCOUNT] - Records and transcribes lectures and calls on your own devices, and recording, transcription and search stay free. Confirm a college or university email for 14 days of Pro and a student discount on Pro.
 
 ## PaaS
 
@@ -397,6 +400,10 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 ## Screen Recorders
 
 *   [1001 Record](https://1001record.com/educational-discount) \[DISCOUNT] - 1001 Record is the best screen recording app for Mac with a built-in annotation tool and more. 60% Discount for students.
+
+## Lists and trackers
+
+*   [StudentStack](https://studentstack-gamma.vercel.app) \[FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
 
 # License
 

@@ -10,7 +10,8 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Productivity
 
-*   [ParrotFlow](https://openappscout.com/apps/parrotflow/) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links. ([Source (⭐22)](https://github.com/znat/parrotflow))
+*   [ManaWG](https://openappscout.com/apps/manawg/) - Self-hostable shared-flat app with expense splitting, a cleaning rota, shopping list, calendar, notice board and chat. ([Source (⭐1)](https://github.com/Abuarchiv/manawg))
+*   [ParrotFlow](https://openappscout.com/apps/parrotflow/) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links. ([Source (⭐18)](https://github.com/znat/parrotflow))
 
 ### Tools
 
@@ -18,6 +19,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Developer Tools
 
+*   [Kaeso](https://openappscout.com/apps/kaeso/) - MIT-licensed, self-hosted AI gateway in Rust, with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs. ([Source (⭐6)](https://github.com/logicplanes/kaeso))
 *   [RunWisp](https://openappscout.com/apps/runwisp/) - crond and supervisord in one binary, with a web dashboard and a TUI. ([Source (⭐85)](https://github.com/runwisp/runwisp))
 
 ### Communication
@@ -32,7 +34,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Productivity
 
-*   [Voltip](https://openappscout.com/apps/voltip/) - An AGPL-3.0 push-to-talk dictation app for Windows, macOS, Linux and Android that types speech at the cursor, recognised on-device or by a cloud service. ([Source (⭐60)](https://github.com/sunerpy/voltip))
+*   [Voltip](https://openappscout.com/apps/voltip/) - An AGPL-3.0 push-to-talk dictation app for Windows, macOS, Linux and Android that types speech at the cursor, recognised on-device or by a cloud service. ([Source (⭐106)](https://github.com/sunerpy/voltip))
 
 ### Tools
 
@@ -44,7 +46,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Communication
 
-*   [Aster Mail](https://openappscout.com/apps/aster-mail/) - End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains. ([Source (⭐87)](https://github.com/Aster-Privacy/Aster-Mail))
+*   [Aster Mail](https://openappscout.com/apps/aster-mail/) - End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains. ([Source (⭐115)](https://github.com/Aster-Privacy/Aster-Mail))
 
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
@@ -78,7 +80,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [iSH](https://openappscout.com/apps/ish/) - Run a Linux shell and command-line tools on your iPhone and iPad. ([Source (⭐21k)](https://github.com/ish-app/ish))
 *   [Local Codex & Claude Analytics Ledger](https://openappscout.com/apps/codex-claude-analytics-ledger/) - See your Codex and Claude Code sessions, token usage and API-equivalent cost on a local dashboard. ([Source (⭐2)](https://github.com/imnakul/codex-analytics))
 *   [Roxum IDE](https://openappscout.com/apps/roxum-ide/) - A code editor for Android phones with a file tree, terminal, code completion, Git and offline AI chat. ([Source (⭐669)](https://github.com/heckmon/roxum-ide))
-*   [RustDesk](https://openappscout.com/apps/rustdesk/) - A self-hostable remote desktop app for screen sharing, file transfer and unattended access, like TeamViewer. ([Source (⭐127k)](https://github.com/rustdesk/rustdesk))
+*   [RustDesk](https://openappscout.com/apps/rustdesk/) - A self-hostable remote desktop app for screen sharing, file transfer and unattended access, like TeamViewer. ([Source (⭐129k)](https://github.com/rustdesk/rustdesk))
 
 ### Communication
 
@@ -128,7 +130,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 *   [Device Hub Pro](https://openappscout.com/apps/device-hub-pro/) - Mirror and control Android emulators, phones, iOS simulators and iPhones side by side on your Mac. ([Source (⭐172)](https://github.com/gitemre/device-hub-pro))
 *   [Orbi](https://openappscout.com/apps/orbi/) - Self-hosted AI agent that turns labelled GitHub issues into reviewed, merged pull requests and releases. ([Source (⭐242)](https://github.com/orbi-build/orbi))
-*   [SolidPing](https://openappscout.com/apps/solidping/) - Uptime monitoring with alerts and status pages, self-hosted as one server or on a free hosted plan. ([Source (⭐26)](https://github.com/fclairamb/solidping))
+*   [SolidPing](https://openappscout.com/apps/solidping/) - Uptime monitoring with alerts and status pages, self-hosted as one server or on a free hosted plan. ([Source (⭐33)](https://github.com/fclairamb/solidping))
 
 ### Games
 
@@ -154,7 +156,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 ### Productivity
 
-*   [AFFiNE](https://openappscout.com/apps/affine/) - Docs, databases and a whiteboard on one local-first canvas, with desktop apps and Docker self-hosting. ([Source (⭐74k)](https://github.com/toeverything/AFFiNE))
+*   [AFFiNE](https://openappscout.com/apps/affine/) - Docs, databases and a whiteboard on one local-first canvas, with desktop apps and Docker self-hosting. ([Source (⭐75k)](https://github.com/toeverything/AFFiNE))
 *   [AgenticSeek](https://openappscout.com/apps/agenticseek/) - An AI agent that browses, codes and plans tasks on your own computer with local models, no API bills. ([Source (⭐28k)](https://github.com/Fosowl/agenticSeek))
 *   [Amical](https://openappscout.com/apps/amical/) - Local-first AI dictation for Mac and Windows that formats your speech for the app you're typing in. ([Source (⭐1.6k)](https://github.com/amicalhq/amical))
 *   [AnythingLLM](https://openappscout.com/apps/anythingllm/) - Chat with your own documents and run AI agents with local or cloud models, on desktop or Docker. ([Source (⭐68k)](https://github.com/Mintplex-Labs/anything-llm))
@@ -170,8 +172,8 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [HeyForm](https://openappscout.com/apps/heyform/) - Build conversational forms, surveys, quizzes and polls on your own server or HeyForm's hosted service. ([Source (⭐9.1k)](https://github.com/heyform/heyform))
 *   [It's a Plan](https://openappscout.com/apps/itsaplan/) - A self-hosted issue tracker where AI agents take issues on the same board as your team. ([Source (⭐2.3k)](https://github.com/croffasia/itsaplan))
 *   [Jan](https://openappscout.com/apps/jan/) - Chat with open AI models offline on Mac, Windows and Linux, a ChatGPT alternative. ([Source (⭐45k)](https://github.com/janhq/jan))
-*   [Kanboard](https://openappscout.com/apps/kanboard/) - A minimal self-hosted Kanban board with WIP limits, subtasks and automatic actions. ([Source (⭐9.9k)](https://github.com/kanboard/kanboard))
-*   [Kaneo](https://openappscout.com/apps/kaneo/) - Lightweight project management with boards, lists, calendars and Gantt charts, self-hosted or cloud. ([Source (⭐9.7k)](https://github.com/usekaneo/kaneo))
+*   [Kanboard](https://openappscout.com/apps/kanboard/) - A minimal self-hosted Kanban board with WIP limits, subtasks and automatic actions. ([Source (⭐10k)](https://github.com/kanboard/kanboard))
+*   [Kaneo](https://openappscout.com/apps/kaneo/) - Lightweight project management with boards, lists, calendars and Gantt charts, self-hosted or cloud. ([Source (⭐9.8k)](https://github.com/usekaneo/kaneo))
 *   [Khoj](https://openappscout.com/apps/khoj/) - A personal AI that answers from the web and your own documents, self-hosted or in the cloud. ([Source (⭐38k)](https://github.com/khoj-ai/khoj))
 *   [Kinetic Life OS](https://openappscout.com/apps/kinetic-life-os/) - Projects, daily tasks, health, workouts and ideas in one local-first web app, with no account. ([Source (⭐0)](https://github.com/daoyi2026/kinetic-life-os))
 *   [Leantime](https://openappscout.com/apps/leantime/) - Self-hosted project management for non-project-managers, with tasks, goals, timesheets and docs. ([Source (⭐12k)](https://github.com/Leantime/leantime))
@@ -188,7 +190,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [OpenWhispr](https://openappscout.com/apps/openwhispr/) - Voice dictation and meeting transcription for Mac, Windows and Linux, on-device or with your own cloud key. ([Source (⭐11k)](https://github.com/OpenWhispr/openwhispr))
 *   [OpenWork](https://openappscout.com/apps/openwork/) - Desktop app for Mac, Windows and Linux where AI agents work on your files with the model you choose. ([Source (⭐24k)](https://github.com/different-ai/openwork))
 *   [OpenWorker](https://openappscout.com/apps/openworker/) - Desktop AI coworker for Mac and Windows that finishes reports and documents and asks before acting. ([Source (⭐19k)](https://github.com/andrewyng/openworker))
-*   [OpnForm](https://openappscout.com/apps/opnform/) - No-code form builder with unlimited forms, logic and embeds, self-hosted or cloud, a Typeform alternative. ([Source (⭐3.9k)](https://github.com/OpnForm/OpnForm))
+*   [OpnForm](https://openappscout.com/apps/opnform/) - No-code form builder with unlimited forms, logic and embeds, self-hosted or cloud, a Typeform alternative. ([Source (⭐4k)](https://github.com/OpnForm/OpnForm))
 *   [Plane](https://openappscout.com/apps/plane/) - Self-hostable project management and issue tracker, a Linear and Jira alternative. ([Source (⭐62k)](https://github.com/makeplane/plane))
 *   [Presenton](https://openappscout.com/apps/presenton/) - AI presentation maker that exports editable PowerPoint files, self-hosted or desktop, with any model. ([Source (⭐12k)](https://github.com/presenton/presenton))
 *   [Rakazo](https://openappscout.com/apps/rakazo/) - Self-hosted AI teammates with their own memory and computer, used from web, desktop or mobile. ([Source (⭐7.9k)](https://github.com/elie222/rakazo))
@@ -199,7 +201,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [Teable](https://openappscout.com/apps/teable/) - A self-hosted Airtable-style spreadsheet database with views, formulas, automations and an API. ([Source (⭐22k)](https://github.com/teableio/teable))
 *   [Vane](https://openappscout.com/apps/vane/) - A self-hosted Perplexity-style AI search engine that answers with sources, using local or cloud models. ([Source (⭐38k)](https://github.com/ItzCrazyKns/Vane))
 *   [Vicinae](https://openappscout.com/apps/vicinae/) - A Raycast-style keyboard launcher for Linux, macOS and Windows that runs many Raycast extensions. ([Source (⭐11k)](https://github.com/vicinaehq/vicinae))
-*   [Vikunja](https://openappscout.com/apps/vikunja/) - A self-hosted to-do and project app with list, Kanban and Gantt views and import from Todoist and Trello. ([Source (⭐5.9k)](https://github.com/go-vikunja/vikunja))
+*   [Vikunja](https://openappscout.com/apps/vikunja/) - A self-hosted to-do and project app with list, Kanban and Gantt views and import from Todoist and Trello. ([Source (⭐6.1k)](https://github.com/go-vikunja/vikunja))
 *   [VoiceInk](https://openappscout.com/apps/voiceink/) - Mac dictation that transcribes on your device and adapts the text to the app you are typing in. ([Source (⭐7.1k)](https://github.com/Beingpax/VoiceInk))
 *   [Voicetypr](https://openappscout.com/apps/voicetypr/) - Offline dictation for Windows and Mac that types at your cursor, with optional AI formatting. ([Source (⭐745)](https://github.com/ideaplexa/voicetypr))
 *   [Voquill](https://openappscout.com/apps/voquill/) - Voice typing for Mac, Windows and Linux with AI cleanup and a personal glossary for names and terms. ([Source (⭐1k)](https://github.com/voquill/voquill))
@@ -221,11 +223,11 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [Cline](https://openappscout.com/apps/cline/) - An AI coding agent for VS Code, the terminal and desktop that asks before every edit and command. ([Source (⭐72k)](https://github.com/cline/cline))
 *   [Dyad](https://openappscout.com/apps/dyad/) - Build apps from prompts on your own computer with your own AI keys or local models, no sign-up. ([Source (⭐22k)](https://github.com/dyad-sh/dyad))
 *   [Emdash](https://openappscout.com/apps/emdash/) - Run several AI coding agents side by side and review their diffs and pull requests in one app. ([Source (⭐6.2k)](https://github.com/generalaction/emdash))
-*   [Goose](https://openappscout.com/apps/goose/) - An AI agent for Mac, Windows and Linux that codes, researches and automates tasks with any model. ([Source (⭐56k)](https://github.com/aaif-goose/goose))
+*   [Goose](https://openappscout.com/apps/goose/) - An AI agent for Mac, Windows and Linux that codes, researches and automates tasks with any model. ([Source (⭐57k)](https://github.com/aaif-goose/goose))
 *   [Keycloak](https://openappscout.com/apps/keycloak/) - Add single sign-on, social login and user management to your apps with a self-hosted server. ([Source (⭐38k)](https://github.com/keycloak/keycloak))
 *   [Kilo Code](https://openappscout.com/apps/kilo-code/) - An AI coding agent and autocomplete for VS Code, JetBrains and the terminal, with any model. ([Source (⭐28k)](https://github.com/Kilo-Org/kilocode))
 *   [NextCoWork](https://openappscout.com/apps/nextcowork/) - Desktop app for Mac, Windows and Linux that runs AI coding agents side by side and asks before each action. ([Source (⭐643)](https://github.com/AIDotNet/NextCoWork))
-*   [Oh My Android](https://openappscout.com/apps/oh-my-android/) - Mac control panel for the Android Emulator and phones, with an MCP server for AI coding agents. ([Source (⭐73)](https://github.com/ateymoori/oh-my-android))
+*   [Oh My Android](https://openappscout.com/apps/oh-my-android/) - Mac control panel for the Android Emulator and phones, with an MCP server for AI coding agents. ([Source (⭐149)](https://github.com/ateymoori/oh-my-android))
 *   [OpenCode](https://openappscout.com/apps/opencode/) - AI coding agent for the terminal that works with any model, including local ones, plus a desktop app. ([Source (⭐224k)](https://github.com/anomalyco/opencode))
 *   [opendray](https://openappscout.com/apps/opendray/) - Self-hosted gateway that keeps AI coding agents running on your server so you can resume from browser, phone or chat. ([Source (⭐69)](https://github.com/Opendray/opendray))
 *   [OpenHands](https://openappscout.com/apps/openhands/) - Self-hosted control center for AI coding agents, with tasks triggered on a schedule or from Slack and GitHub. ([Source (⭐93k)](https://github.com/OpenHands/OpenHands))
@@ -235,14 +237,14 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [Supabase](https://openappscout.com/apps/supabase/) - A Firebase-style app backend with a Postgres database, auth, APIs, realtime and storage, hosted or self-hosted. ([Source (⭐114k)](https://github.com/supabase/supabase))
 *   [ToolJet](https://openappscout.com/apps/tooljet/) - A low-code builder for internal tools, admin panels and dashboards, self-hosted or in the cloud. ([Source (⭐41k)](https://github.com/ToolJet/ToolJet))
 *   [twinny](https://openappscout.com/apps/twinny/) - An AI coding assistant for VS Code that runs on your own model server instead of GitHub Copilot. ([Source (⭐3.7k)](https://github.com/twinnydotdev/twinny))
-*   [Zed](https://openappscout.com/apps/zed/) - A fast AI code editor for macOS, Windows and Linux with agents, edit prediction and live collaboration. ([Source (⭐92k)](https://github.com/zed-industries/zed))
+*   [Zed](https://openappscout.com/apps/zed/) - A fast AI code editor for macOS, Windows and Linux with agents, edit prediction and live collaboration. ([Source (⭐95k)](https://github.com/zed-industries/zed))
 
 ### Business
 
 *   [aiFetchly](https://openappscout.com/apps/aifetchly/) - A desktop AI agent for lead generation, outreach and scheduled business workflows on Windows, macOS and Linux. ([Source (⭐3)](https://github.com/robertzengcn/aiFetchly))
 *   [Chatwoot](https://openappscout.com/apps/chatwoot/) - One support inbox for live chat, email, WhatsApp and social channels, with a help centre. ([Source (⭐40k)](https://github.com/chatwoot/chatwoot))
 *   [Frappe Helpdesk](https://openappscout.com/apps/frappe-helpdesk/) - A customer service and ticketing app from the makers of ERPNext, self-hosted or on Frappe Cloud. ([Source (⭐3.5k)](https://github.com/frappe/helpdesk))
-*   [FreeScout](https://openappscout.com/apps/freescout/) - A self-hosted help desk and shared inbox with unlimited agents, a free Zendesk and Help Scout alternative. ([Source (⭐4.6k)](https://github.com/freescout-help-desk/freescout))
+*   [FreeScout](https://openappscout.com/apps/freescout/) - A self-hosted help desk and shared inbox with unlimited agents, a free Zendesk and Help Scout alternative. ([Source (⭐4.7k)](https://github.com/freescout-help-desk/freescout))
 *   [InvoiceFlowAI](https://openappscout.com/apps/invoiceflowai/) - Collect emailed invoices, read them with OCR and export an Excel expense summary, on Windows and Mac. ([Source (⭐549)](https://github.com/EthanYoQ/Invoice-Downloader))
 *   [Matomo](https://openappscout.com/apps/matomo/) - Full-featured web and app analytics on your own server, a Google Analytics alternative. ([Source (⭐22k)](https://github.com/matomo-org/matomo))
 *   [OpenPanel](https://openappscout.com/apps/openpanel/) - Self-hostable web and product analytics, a Mixpanel and Google Analytics alternative with funnels and replay. ([Source (⭐7.3k)](https://github.com/Openpanel-dev/openpanel))
@@ -257,7 +259,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [ComfyUI](https://openappscout.com/apps/comfyui/) - Generate images, video and audio with open AI models on your own GPU by wiring nodes into a workflow. ([Source (⭐145k)](https://github.com/Comfy-Org/ComfyUI))
 *   [Invoke](https://openappscout.com/apps/invokeai/) - Generate and edit images on your own GPU with Stable Diffusion, Flux and other open models. ([Source (⭐29k)](https://github.com/invoke-ai/InvokeAI))
 *   [SwarmUI](https://openappscout.com/apps/swarmui/) - A beginner-friendly web app for generating AI images and video locally, built on ComfyUI. ([Source (⭐4.7k)](https://github.com/mcmonkeyprojects/SwarmUI))
-*   [Vibe](https://openappscout.com/apps/vibe/) - Offline transcription for audio and video on Mac, Windows and Linux, with speaker labels and subtitles. ([Source (⭐8k)](https://github.com/thewh1teagle/vibe))
+*   [Vibe](https://openappscout.com/apps/vibe/) - Offline transcription for audio and video on Mac, Windows and Linux, with speaker labels and subtitles. ([Source (⭐8.1k)](https://github.com/thewh1teagle/vibe))
 *   [VoiceStudio](https://openappscout.com/apps/voicestudio/) - A local voice studio for voice cloning, video dubbing, dictation and audiobooks on Mac, Windows and Linux. ([Source (⭐108k)](https://github.com/debpalash/VoiceStudio))
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
@@ -266,7 +268,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 *   [AI Novel Writer](https://openappscout.com/apps/ai-novel-writer/) - A desktop workspace for novelists that keeps characters, outlines, chapters and AI drafting in one project. ([Source (⭐2.2k)](https://github.com/EthanYoQ/AI-Novel-Writer))
 *   [anarlog](https://openappscout.com/apps/anarlog/) - Local-first AI meeting notes for Mac, Windows and Linux, with no bot joining your call. ([Source (⭐9.8k)](https://github.com/fastrepl/anarlog))
-*   [AppFlowy](https://openappscout.com/apps/appflowy/) - A Notion-style workspace for pages, wikis and databases, with your data on your own devices or server. ([Source (⭐78k)](https://github.com/AppFlowy-IO/AppFlowy))
+*   [AppFlowy](https://openappscout.com/apps/appflowy/) - A Notion-style workspace for pages, wikis and databases, with your data on your own devices or server. ([Source (⭐79k)](https://github.com/AppFlowy-IO/AppFlowy))
 *   [Authier](https://openappscout.com/apps/authier/) - An experimental password manager with encrypted sync, 2FA codes, browser extensions and mobile apps. ([Source (⭐23)](https://github.com/authier-pm/authier))
 *   [Butterfly](https://openappscout.com/apps/butterfly/) - Take notes and sketch on an infinite canvas with ink, text, shapes and images, with WebDAV sync. ([Source (⭐2.1k)](https://github.com/LinwoodDev/Butterfly))
 *   [Feather](https://openappscout.com/apps/feather/) - Install and manage apps on iPhone and iPad on the device, signed with your Apple Developer certificate. ([Source (⭐5k)](https://github.com/claration/Feather))
@@ -328,7 +330,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [Rockxy](https://openappscout.com/apps/rockxy/) - A Mac app that captures and inspects HTTP and HTTPS traffic so developers can debug and mock API calls. ([Source (⭐1.5k)](https://github.com/RockxyApp/Rockxy))
 *   [SwiftHub](https://openappscout.com/apps/swifthub/) - A GitHub app for iPhone to browse repositories, issues, pull requests and users. ([Source (⭐3.1k)](https://github.com/khoren93/SwiftHub))
 *   [SwiftTerm](https://openappscout.com/apps/swiftterm/) - A Swift terminal emulator library for adding an Xterm/VT100 terminal to iOS and macOS apps. ([Source (⭐1.8k)](https://github.com/migueldeicaza/SwiftTerm))
-*   [Tracexy](https://openappscout.com/apps/tracexy/) - A Mac app that captures live network traffic and opens PCAP files for analysis, all locally. ([Source (⭐236)](https://github.com/RockxyApp/Tracexy))
+*   [Tracexy](https://openappscout.com/apps/tracexy/) - A Mac app that captures live network traffic and opens PCAP files for analysis, all locally. ([Source (⭐506)](https://github.com/RockxyApp/Tracexy))
 *   [Tura](https://openappscout.com/apps/tura/) - A coding agent for desktop and terminal built to finish tasks in fewer tokens and model turns. ([Source (⭐660)](https://github.com/Tura-AI/tura))
 
 ### Communication
@@ -350,7 +352,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 *   [OpenPost](https://openappscout.com/apps/openpost/) - Self-hosted social media scheduler to prepare, review, schedule and track posts across networks. ([Source (⭐868)](https://github.com/getopenpost/openpost))
 *   [Orvaket](https://openappscout.com/apps/orvaket/) - Browser app that turns an invoice CSV export into a follow-up plan for unpaid invoices. ([Source (⭐0)](https://github.com/Akam1123/orvaket))
 *   [Posnic POS](https://openappscout.com/apps/posnic-pos/) - Free offline POS and billing software for shops and restaurants, with inventory, reports and receipts. ([Source (⭐16)](https://github.com/Posnic/POS))
-*   [Twenty](https://openappscout.com/apps/twenty/) - A modern Salesforce-style CRM with custom objects, workflows and AI agents, self-hosted or in the cloud. ([Source (⭐60k)](https://github.com/twentyhq/twenty))
+*   [Twenty](https://openappscout.com/apps/twenty/) - A modern Salesforce-style CRM with custom objects, workflows and AI agents, self-hosted or in the cloud. ([Source (⭐61k)](https://github.com/twentyhq/twenty))
 
 ### Games
 
@@ -360,7 +362,7 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 *   [AudioKit](https://openappscout.com/apps/audiokit/) - A Swift framework for audio synthesis, processing and analysis in iOS, macOS and tvOS apps. ([Source (⭐11k)](https://github.com/AudioKit/AudioKit))
 *   [EhPanda](https://openappscout.com/apps/ehpanda/) - An unofficial iPhone and iPad client for browsing and reading the E-Hentai galleries. ([Source (⭐4k)](https://github.com/EhPanda-Team/EhPanda))
-*   [Immich](https://openappscout.com/apps/immich/) - Back up photos and videos from your phone to your own server, a self-hosted Google Photos alternative. ([Source (⭐117k)](https://github.com/immich-app/immich))
+*   [Immich](https://openappscout.com/apps/immich/) - Back up photos and videos from your phone to your own server, a self-hosted Google Photos alternative. ([Source (⭐119k)](https://github.com/immich-app/immich))
 *   [Voicebox](https://openappscout.com/apps/voicebox/) - A local AI voice studio for voice cloning, text-to-speech and dictation on Mac, Windows and Linux. ([Source (⭐59k)](https://github.com/jamiepine/voicebox))
 
 ### Shopping

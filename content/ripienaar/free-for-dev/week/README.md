@@ -11,12 +11,26 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Beliq](https://beliq.eu) - European REST API platform for e-invoicing, including generating, validating and delivering e-invoices. The free plan includes 20 live documents/month, plus 400 sandbox documents/month (no card required).
+*   [CurrencyBeacon](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
+*   [CustomJS](https://www.customjs.space) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
 *   [Rizamo](https://rizamo.com) - Social media publishing API: schedule and publish to Instagram, Facebook, TikTok, Threads, YouTube and more over REST, webhooks or an MCP server for AI agents, with comment inbox and analytics. Free forever for 2 connected accounts, unlimited posts, every feature included, no credit card.
 *   [VPNDetection](https://vpndetection.io) - VPN, proxy and hosting detection API for any IP address. The free plan answers the VPN, Tor and relay flags, country and ASN, with no API key, signup or monthly cap.
+
+### Tools for Teams and Collaboration
+
+*   [Stoat](https://stoat.chat/) - An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Stoat is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
+
+### Code Quality
+
+*   [SonarQube Cloud](https://sonarsouce.com) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 
 ### CI and CD
 
 *   [Stategraph](https://stategraph.com) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+
+### Authentication, Authorization, and User Management
+
+*   [Hexclave](https://stack-auth.com) - Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
 
 ### Messaging and Streaming
 
@@ -31,18 +45,25 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [measure.sh](https://measure.sh/) - Mobile app monitoring with errors, performance tracking and session replays. 5 GB data per month free. No limits if self-hosted.
 
+### Education and Career Development
+
+*   [Cisco Networking Academy](https://netacad.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
+
 ### Email
 
 *   [Alias Email](https://alias.email) - Free 10 Bump email addresses, one custom domain
 *   [Groundmail](https://groundmail.dev) - Transactional email API and SMTP relay. 3,000 emails/month free (100/day), three domains, three agent mailboxes, inbound email included.
 *   [UserCheck](https://www.usercheck.com) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
+*   [Mailkube](https://mailkube.com/) - Email infrastructure for developers, 4,000 emails/month free, unlimited domains included
 
 ### Forms
 
+*   [Backforms](https://backforms.com) - Multi-channel headless form backend offering 300 submissions per month, spam protection, and instant alerts via WhatsApp (BYOK), Telegram, Discord, and email on the free plan.
 *   [WaiverCat](https://waivercat.com) - Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.
 
 ### Web Hosting
 
+*   [readthedocs.com](https://readthedocs.com/) - Free documentation hosting with versioning, PDF generation, and more
 *   [Reliant](https://reliantlabs.io) - Host, monitor, and deploy your services with production best practices. Tracing, continuous profiling, metrics, and logs fully baked in and correlated with each release allow you to identify and auto rollback on demand. One free static site per organization, 1 GiB of storage, 10 GiB of traffic a month, CDN with HTTPS, custom domains, no card needed, deployed with the open-source forge CLI.
 
 ### DNS
@@ -54,8 +75,26 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Out Plane](https://outplane.com) - Cloud sandboxes for coding agents (Hangars) plus app hosting in Germany. Free: Hangars, cloud machines where agents like Claude Code, Codex and Cursor run, with no credit card required; the agent uses your own plan or API key. App hosting is paid, from $9/month with a 14-day free trial.
 
+### Managed Data Services
+
+*   [SeaTable](https://seatable.com/) - Flexible, Spreadsheet-like Database built by the Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
+
+### Storage and Media Processing
+
+*   [We.Team](https://www.we.team/en) - Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
+
+### Design and UI
+
+*   [Canva](https://www.canva.com/mockups/) - Create product mockups, 200 free mockups.
+
+### IDE and Code Editing
+
+*   [cocalc.ai](https://cocalc.ai/) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
+
 ### Analytics, Events and Statistics
 
+*   [FiveTran](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
+*   [Row Zero](https://rowzero.com) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
 *   [RudderStack](https://rudderstack.com/) - Event streaming to 200+ destinations and data warehouse, plus reverse ETL. Comes with MCP server and CLI for AI agents. Free forever for 250k events/month.
 *   [Spreelytics](https://spreelytics.com) - Privacy first website and product analytics SaaS that can trace your revenue sources. Free plan: 1 million events per month, unlimited projects and team members with most of the needed features like dashboard, goal, funnel, ai crawler, revenue, and much more.
 
@@ -665,7 +704,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [Cohesivity](https://cohesivity.ai) - Headless backend and services, purpose built for AI agents. Includes hosting, databases, storage, LLMs, and third-party APIs. Agentic signup. Free tier includes 10 projects, 100K edge requests, 10 GB object storage, 100 emails, and 5 USD/month in credits for AI and search.
-*   [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
 
 ### BaaS
 
@@ -998,7 +1036,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 *   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
 
 ### Tools for Teams and Collaboration
@@ -1174,7 +1211,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [CarAPI.dev](https://carapi.dev) - Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.
-*   [CustomJS](https://www.customjs.io) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
 *   [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
 *   [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
 *   [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
@@ -1653,10 +1689,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
-### Tools for Teams and Collaboration
-
-*   [Revolt.chat](https://revolt.chat/) - An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
-
 ### Authentication, Authorization, and User Management
 
 *   [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
@@ -1690,11 +1722,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Authentication, Authorization, and User Management
 
 *   [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
-*   [Stack Auth](https://stack-auth.com) - Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
-
-### Education and Career Development
-
-*   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
 
 ### Email
 
@@ -2314,12 +2341,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [OpenReplay.com](https://www.openreplay.com) - Open-source session replay with dev tools for bug reproduction, live session for real-time support, and product analytics suite. One thousand sessions/month with access to all features and 7-day retention.
 
-## [May 22 - May 28, 2023](/content/2023/21/README.md)
-
-### Analytics, Events and Statistics
-
-*   [Row Zero](https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
-
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
 ### APIs, Data, and ML
@@ -2717,7 +2738,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge worldwide. The free tier includes 100,000 requests per day and 100 GiB data transfers per month.
 *   [domcloud.co](https://domcloud.co) - Linux hosting service that provides CI/CD with GitHub, SSH, and MariaDB/Postgres database. The free version has 1 GB storage and 1 GB network/month limit and is limited to a free domain.
 
 ### Storage and Media Processing
@@ -2975,10 +2995,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
-
-### Analytics, Events and Statistics
-
-*   [Census](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -3456,7 +3472,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Design and UI
 
-*   [smartmockups.com](https://smartmockups.com/) - Create product mockups, 200 free mockups.
 *   [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
 
 ### Privacy Management
@@ -3757,7 +3772,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [SeaTable](https://seatable.io/) - Flexible, Spreadsheet-like Database built by the Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
 *   [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
 
 ### Issue Tracking and Project Management
@@ -4174,8 +4188,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir,
-    Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
 *   [Virgil Security](https://virgilsecurity.com/) - Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
@@ -4226,10 +4238,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [SimpleLogin](https://simplelogin.io/) - Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
-
-### APIs, Data, and ML
-
-*   [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
 
 ### Managed Data Services
 
@@ -4360,7 +4368,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [mail-tester.com](https://www.mail-tester.com) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.
 *   [mailcatcher.me](https://mailcatcher.me/) - Catches mail and serves it through a web interface.
 *   [mailinator.com](https://www.mailinator.com/) - Free, public email system where you can use any inbox you want
-*   [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
 
 ### Feature Toggles Management Platforms
 
@@ -4438,7 +4445,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [gumlet.com](https://www.gumlet.com/) - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
 *   [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
-*   [otixo.com](https://www.otixo.com/) - Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
 *   [packagecloud.io](https://packagecloud.io/) - Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
 *   [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
 *   [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
@@ -4467,7 +4473,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages.
-*   [cocalc.com](https://cocalc.com/) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [JDoodle](https://www.jdoodle.com) - Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
 *   [jetbrains.com](https://jetbrains.com/products.html) - Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
 *   [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
@@ -4728,12 +4733,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [embed.ly](https://embed.ly/) - Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
-## [Aug 27 - Sep 02, 2018](/content/2018/35/README.md)
-
-### Code Quality
-
-*   [sonarcloud.io](https://sonarcloud.io) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
-
 ## [Aug 20 - Aug 26, 2018](/content/2018/34/README.md)
 
 ### Testing
@@ -4848,10 +4847,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### BaaS
 
 *   [simperium.com](https://simperium.com/) - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
-
-### Web Hosting
-
-*   [readthedocs.org](https://readthedocs.org/) - Free documentation hosting with versioning, PDF generation, and more
 
 ### DNS
 
