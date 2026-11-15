@@ -8,70 +8,122 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
+### Bug Reporting
+
+*   [Chrome Bug Report](https://issues.chromium.org/issues) - Chrome related bugs
+*   [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?product=WebKit\&component=WebGL) - Safari related bugs
+
+### GLSL Editors
+
+*   [GLSL Sandbox](https://glslsandbox.com) - Online live editor for fragment shaders.
+*   [ShaderExpo](https://anuraghazra.dev/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
+*   [WebGL Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
+
+### References
+
+*   [Khronos Official Wiki](https://wikis.khronos.org/webgl/) - The official wiki for WebGL.
+*   [WebGL Errata](https://wikis.khronos.org/webgl/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
+*   [WebGL Extensions](https://registry.khronos.org/webgl/extensions/) - List of extensions for WebGL
+*   [WebGL Spec Sheet](https://registry.khronos.org/webgl/specs/1.0/) - All the detailed information about WebGL.
+
+### Talks
+
+*   [List of Presentations](https://wikis.khronos.org/webgl/Presentations) - List presented by Khronos of various WebGL related presentations.
+
 ### Tools/Debugging
 
 *   [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) - GLSL language support extension for Visual Studio Code.
-*   [KTX2 Texture Compressor](https://app.cinevva.com/tools/ktx2-compressor) - Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.
+*   [WebGL Report](https://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
+*   [WebGL Support Stats](https://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 
-### Others / Particles
+### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Novaframe Engine (⭐0)](https://github.com/novaframe-hq/novaframe-engine) - Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.
+*   [Spector.js Extension](https://chromewebstore.google.com/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
 
-## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
+### Tools/Debugging / Firefox Specific Tools/Debugger
 
-### Articles / Firefox Specific Tools/Debugger
-
-*   [Building a Browser Solar System Explorer with NASA Data and Raw WebGL2](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj) - Engineering case study on rendering the [Space Simulator Online](https://spacesimulator.online/) 3D Solar System, Milky Way, and 6,000+ NASA exoplanets at 60 FPS using raw WebGL 2 shaders without Three.js.
-
-## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
-
-### Articles
-
-*   [Houdini to Three.js: Testing glTF Compression and Instancing](https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/) - Case study of geometry, texture compression and instancing with WebGPU and WebGL2 checks.
-
-### Tools/Debugging
-
-*   [Fast3D](https://www.fast3d.org/en) - Browser-based 3D toolbox: convert between GLB, GLTF, OBJ, STL, FBX and PLY, compress models and preview them in a full-featured viewer. Everything runs client-side.
-*   [Web3D Viewer](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
+*   [Firefox Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html) - The official list of all of Firefox's debugger tools.
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
-*   [TutorialSearch](https://tutorialsearch.io/browse/web-development/webgl-graphics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+*   [Directional Shadow Mapping](https://chinedufn.com/webgl-shadow-mapping-tutorial/) - Concepts behind real time directional light shadow mapping.
+*   [Get Started Tutorial](https://wikis.khronos.org/webgl/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
+*   [Multitexturing using a Blendmap](https://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
+*   [Particle Effects via Billboards](https://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
+*   [WebGL Workshop](https://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
+
+### References / Firefox Specific Tools/Debugger
+
+*   [WebGL 2 Spec Sheet (Editor Draft)](https://registry.khronos.org/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
+*   [Immersive Web Community Group](https://www.w3.org/community/immersive-web/) - Group whose goal is to help bring high-performance Virtual Reality and Augmented Reality to the open Web.
+
+### Engines and Frameworks / Firefox Specific Tools/Debugger
+
+*   [ClayGL](https://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
+
+### 2D / Firefox Specific Tools/Debugger
+
+*   [PixiJS](https://pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+
+### Low-level Rendering / Firefox Specific Tools/Debugger
+
+*   [Regl](https://regl-project.github.io/regl/) - Light declarative and stateless library, functional abstraction for WebGL.
+
+### Math / Firefox Specific Tools/Debugger
+
+*   [glMatrix](https://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
+
+### Maps and Visualizations / Firefox Specific Tools/Debugger
+
+*   [Cesium](https://cesium.com/) - Open-source library for world-class 3D globes and maps.
+
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
+
+*   [React 360 (⭐8.7k)](https://github.com/facebookarchive/react-360) - Build VR websites and interactive 360 experiences with React (archived by Facebook).
+
+### Community / Firefox Specific Tools/Debugger
+
+*   [Twitter / X](https://x.com/webgl)
+*   [Khronos Forum](https://community.khronos.org/c/other-standards/webgl/17)
+*   Active Meetup Groups
+    *   [San Francisco, CA](https://www.meetup.com/webgl-developers-meetup/)
+    *   [Mountain View, CA](https://www.meetup.com/silicon-valley-html5-webgl-meetup/)
+    *   [London, United Kingdom](https://www.meetup.com/webgl-workshop-london/)
+    *   [New York, NY](https://www.meetup.com/nyc-webgl-developers/)
+
+## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
+
+### Tutorials / Firefox Specific Tools/Debugger
+
 *   [A tutorial on infinite canvas with WebGL](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
 
 ### Articles / Firefox Specific Tools/Debugger
 
 *   [Zero Bytes of Geometry: A Metal Lattice Sphere-Traced in a 14.9 KB Page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) - Ray marching a signed distance field in raw WebGL 2, with an analytic environment in place of an HDR file and resolution adapted against the display refresh period.
 
-### Compute (GPGPU) / Computer Vision
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
-*   [Speedy Vision (⭐193)](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
+*   [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 
-### Compute (GPGPU) / Particles
-
-*   [NixieFX (⭐26)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
-
-### Maps and Visualizations / Particles
+### Maps and Visualizations / Firefox Specific Tools/Debugger
 
 *   [Globedots (⭐2)](https://github.com/swamoth/globedots) - Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.
 *   [leaflet-webgl-markers (⭐3)](https://github.com/tang-tc/leaflet-webgl-markers) - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
 *   [TradeCanvas (⭐52)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
-*   [WorldSeed (⭐2)](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
 
-### WebAR / Particles
+### Computer Vision (GPGPU) / Firefox Specific Tools/Debugger
 
-*   [encantar.js (⭐125)](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
+*   [Speedy Vision (⭐193)](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
 
-### WebGL 2 / Particles
+### Particles and Effects / Firefox Specific Tools/Debugger
 
-*   [dither-flow (⭐2)](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
+*   [NixieFX (⭐26)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 *   [textmode.js (⭐175)](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
 *   [Vysmo Transitions (⭐9)](https://github.com/vysmodev/vysmo) - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, \~5 KB gzipped.
 
-### Others / Particles
+### WebAR / Firefox Specific Tools/Debugger
 
-*   [img2threejs (⭐21k)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
-*   [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
+*   [encantar.js (⭐125)](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -79,21 +131,15 @@ A curated list of awesome WebGL libraries, resources and much more
 
 *   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐74)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 
-## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
-
-### Maps and Visualizations / Particles
-
-*   [MapMetrics GL (⭐2)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
-
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
-### Maps and Visualizations / Particles
+### Maps and Visualizations / Firefox Specific Tools/Debugger
 
 *   [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
-### Blog Series
+### Tutorials / Firefox Specific Tools/Debugger
 
 *   [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
@@ -105,7 +151,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
-### Others / Particles
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
 
 *   [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 
@@ -121,15 +167,18 @@ A curated list of awesome WebGL libraries, resources and much more
 
 *   [Optimizing Scenes for Better WebGL Performance](https://www.soft8soft.com/docs/manual/en/introduction/Optimizing-WebGL-performance.html) - optimization techniques that proved to work well for creating WebGL-based interactives.
 
-### Others / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
 *   [Verge3D](https://www.soft8soft.com/verge3d/) - an artist-friendly toolkit for creating 3D web experiences.
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
-### Blog Series
+### References
 
-*   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
+*   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's official set of best practices.
+
+### Tutorials / Firefox Specific Tools/Debugger
+
 *   [WebGL Month (⭐226)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
@@ -140,17 +189,9 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
 
-### GLSL Editors
-
-*   [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
-
-### Others / Particles
+### Low-level Rendering / Firefox Specific Tools/Debugger
 
 *   [Pocket.gl (⭐123)](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
-
-### Community / Particles
-
-*   [Khronos Forum](https://community.khronos.org/c/other-standards/webgl)
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
 
@@ -162,78 +203,41 @@ A curated list of awesome WebGL libraries, resources and much more
 
 *   [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 
-## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
-
-### References
-
-*   [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
-
-### Tools/Debugging / Firefox Specific Tools/Debugger
-
-*   [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - The official list of all of Firefox's debugger tools.
-
-### References / Firefox Specific Tools/Debugger
-
-*   [Mozilla VR](https://mixedreality.mozilla.org/) - Mozilla's official WebVR page.
-
 ## [Aug 20 - Aug 26, 2018](/content/2018/34/README.md)
 
-### Maps and Visualizations / Particles
-
-*   [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
-
-### WebVR / Particles
+### Frameworks / Firefox Specific Tools/Debugger
 
 *   [Primrose (⭐535)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
+### Low-level Rendering / Firefox Specific Tools/Debugger
+
+*   [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
-
-### References
-
-*   [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
 *   [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
-### Compute (GPGPU) / Computer Vision
-
-*   [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
-
-### Compute (GPGPU) / Particles
-
-*   [Phenomenon (⭐1.8k)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
-
-### Maps and Visualizations / Particles
-
-*   [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
-
-### WebVR / Particles
-
-*   [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
-
-### Others / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
+### Maps and Visualizations / Firefox Specific Tools/Debugger
 
-### Community / Particles
+*   [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 
-*   Active Meetup Groups
-    *   [San Francisco, CA](https://www.meetup.com/WebGL-Developers-Meetup/)
-    *   [Mountain View, CA](https://www.meetup.com/Silicon-Valley-HTML5-WebGL-Meetup/)
-    *   [London, United Kingdom](https://www.meetup.com/WebGL-Workshop-London/)
-    *   [New York, NY](https://www.meetup.com/NYC-WebGL-Developers/)
+### Computer Vision (GPGPU) / Firefox Specific Tools/Debugger
+
+*   [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
+
+### Particles and Effects / Firefox Specific Tools/Debugger
+
+*   [Phenomenon (⭐1.8k)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ## [Mar 26 - Apr 01, 2018](/content/2018/13/README.md)
 
-### References
-
-*   [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
-*   [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
-
-### Related lists / Particles
+### Related lists / Firefox Specific Tools/Debugger
 
 *   [glTF (⭐7.9k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
@@ -245,47 +249,34 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
 
-### 2D / Firefox Specific Tools/Debugger
-
-*   [p2.js (⭐2.7k)](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
-
-### Physics / Particles
+### Physics / Firefox Specific Tools/Debugger
 
 *   [Ammo.js (⭐4.6k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
-## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
-
-### Others / Particles
-
-*   [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
-
 ## [Jan 01 - Jan 07, 2018](/content/2018/1/README.md)
 
-### Rendering / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
-*   [GLBoost (⭐107)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
-*   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 *   [Hilo3d (⭐668)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
+### Low-level Rendering / Firefox Specific Tools/Debugger
+
+*   [GLBoost (⭐107)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+
 ## [Dec 25 - Dec 31, 2017](/content/2017/52/README.md)
-
-### Bug Reporting
-
-*   [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
-*   [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com\&attachurl=\&blocked=\&bug_file_loc=http%3A%2F%2F\&bug_severity=Normal\&bug_status=NEW\&comment=\&component=WebGL\&contenttypeentry=\&contenttypemethod=autodetect\&contenttypeselection=text%2Fplain\&data=\&dependson=\&description=\&flag_type-1=X\&flag_type-3=X\&form_name=enter_bug\&keywords=\&maketemplate=Remember%20values%20as%20bookmarkable%20template\&op_sys=Mac%20OS%20X%2010.5\&priority=P2\&product=WebKit\&rep_platform=PC\&short_desc=\&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
 
 ### Tools/Debugging
 
 *   [Khronos Dev Tools (⭐223)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 
-### Others / Particles
+### Low-level Rendering / Firefox Specific Tools/Debugger
 
 *   [Lightgl.js (⭐1.6k)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
-### Others / Particles
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
 
 *   [Turbulenz (⭐5.1k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
@@ -299,15 +290,11 @@ A curated list of awesome WebGL libraries, resources and much more
 
 *   [WebGL 2 Compatible Chart](https://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
 
-### WebVR / Particles
-
-*   [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
-
-### Others / Particles
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
 
 *   [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
 
-### Community / Particles
+### Community / Firefox Specific Tools/Debugger
 
 *   [Facebook](https://www.facebook.com/groups/webgl/about/)
 
@@ -315,21 +302,11 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### GLSL Editors
 
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.3k)](https://github.com/glslify/glslify).
 *   [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
-
-### 2D / Firefox Specific Tools/Debugger
-
-*   [Planck.js (⭐5.3k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
-*   [Stage.js (⭐2.6k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
-
-### Maps and Visualizations / Particles
-
-*   [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
-### Others / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
 *   [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 *   [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
@@ -345,39 +322,17 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### References / Firefox Specific Tools/Debugger
 
-*   [Browser Support](https://webvr.rocks/) - Shows support by browser, headset, and OS.
-*   [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in WebVR.
-
-### WebVR / Particles
-
-*   [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
-
-## [Aug 21 - Aug 27, 2017](/content/2017/34/README.md)
-
-### Tutorials / Firefox Specific Tools/Debugger
-
-*   [Directional Shadow Mapping](http://chinedufn.com/webgl-shadow-mapping-tutorial/) - Concepts behind real time directional light shadow mapping.
-*   [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
-*   [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
+*   [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in VR.
 
 ## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
-
-### Tools/Debugging
-
-*   [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
-
-### Blog Series / Firefox Specific Tools/Debugger
-
-*   [Mozilla VR Blog](https://blog.mozvr.com/) - WebVR focused blog from makers of Firefox.
 
 ### Platforms / Firefox Specific Tools/Debugger
 
 *   [JanusVR](https://janusvr.com/) - Webpages as collaborative 3D webspaces interconnected by portals.
 
-### Community / Particles
+### Community / Firefox Specific Tools/Debugger
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
-*   [WebVR Slack](http://webvr-slack.herokuapp.com/)
 *   [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
@@ -385,24 +340,17 @@ A curated list of awesome WebGL libraries, resources and much more
 ### 2D / Firefox Specific Tools/Debugger
 
 *   [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
-*   [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
-### WebVR / Particles
+### Frameworks / Firefox Specific Tools/Debugger
 
 *   [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
     *   [Awesome-AFrame (⭐1.3k)](https://github.com/aframevr/awesome-aframe)
 
-## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
-
-### Tutorials / Firefox Specific Tools/Debugger
-
-*   [WebGL Workshop](http://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
-
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
-### Others / Particles
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
 
 *   [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 
@@ -428,7 +376,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### GLSL Editors
 
-*   [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
+*   [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 3D fractals.
 *   [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 
 ### References
@@ -436,23 +384,14 @@ A curated list of awesome WebGL libraries, resources and much more
 *   [Google Project ANGLE (⭐4.1k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 *   [WebGL Source Code (⭐2.9k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
-### Tools/Debugging
-
-*   [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
-
-### Tools/Debugging / Chrome Specific Tools/Debugger
-
-*   [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
-
 ### Tutorials / Firefox Specific Tools/Debugger
 
 *   [Getting Started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) - Mozilla Foundation guide to getting started with WebGL.
-*   [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of *WebGL Up and Running*.
 *   [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 *   [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
 *   [WebGL 2 Examples (⭐579)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
-### WebGL 2 / Particles
+### Low-level Rendering / Firefox Specific Tools/Debugger
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
@@ -471,27 +410,24 @@ A curated list of awesome WebGL libraries, resources and much more
 
 *   [WebGL 2 Lands in Firefox](https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/) - Information the support for WebGL 2 starting with Firefox 51.
 *   [WebGL 2 Basics](http://www.realtimerendering.com/blog/webgl-2-basics/) - Blog post about getting started with WebGL 2.
-*   [WebGL 2 New Features](http://www.realtimerendering.com/blog/webgl-2-new-features/) - Blog post about whats new and cool in WebGl 2.
+*   [WebGL 2 New Features](http://www.realtimerendering.com/blog/webgl-2-new-features/) - Blog post about whats new and cool in WebGL 2.
 
-### Others / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
 *   [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 
 ## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
 
-### Community / Particles
+### Community / Firefox Specific Tools/Debugger
 
 *   [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
-### Community / Particles
+### Community / Firefox Specific Tools/Debugger
 
 *   [Reddit](https://www.reddit.com/r/webgl/)
-*   [Twitter](https://twitter.com/webgl)
-*   [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
 *   [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
-*   [Google Plus](https://plus.google.com/communities/114915309361980512257)
 
 ## [Feb 20 - Feb 26, 2017](/content/2017/8/README.md)
 
@@ -500,10 +436,6 @@ A curated list of awesome WebGL libraries, resources and much more
 *   [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/Interactive-Computer-Graphics-Top-Down-Approach/dp/0133574849) by **Edward Angel** and **Dave Shreiner** - Suitable for undergraduate students in computer science and engineering, for students in other disciplines who have good programming skills, and for professionals interested in computer animation and graphics using the latest version of WebGL.
 *   [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) by **Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
 
-### Talks
-
-*   [List of Presentations](https://www.khronos.org/webgl/wiki/Presentations) - List presented by Khronos of various WebGL related presentations.
-
 ### Tools/Debugging
 
 *   [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
@@ -511,11 +443,6 @@ A curated list of awesome WebGL libraries, resources and much more
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
 *   [GLSL Shader Editor Extension (⭐636)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
-
-### Tools/Debugging / Firefox Specific Tools/Debugger
-
-*   [Canvas Debugger](https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
-*   [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 
 ### Videos / Firefox Specific Tools/Debugger
 
@@ -528,19 +455,18 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
-*   [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
+*   [WebGL 2 Fundamentals](https://webgl2fundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
 *   [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 
-### Math / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
-*   [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
-
-### Others / Particles
-
-*   [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 *   [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 
-### Related lists / Particles
+### Legacy / Unmaintained / Firefox Specific Tools/Debugger
+
+*   [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
+
+### Related lists / Firefox Specific Tools/Debugger
 
 *   [awesome (⭐529k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐2.5k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
@@ -566,11 +492,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Videos / Firefox Specific Tools/Debugger
 
-*   [Fun with WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - Video tutorial series on getting started with WebGL 2, still actively adding videos.
-
-### Others / Particles
-
-*   [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
+*   [Fun with WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - Video tutorial series on getting started with WebGL 2.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
 
@@ -585,37 +507,25 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### GLSL Editors
 
-*   [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 *   [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
-
-### References
-
-*   [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 ### Tools/Debugging
 
-*   [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 *   [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 *   [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) - Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
-*   [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
 *   [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
 
 ### Articles / Firefox Specific Tools/Debugger
 
 *   [WebGL 2 SIGGRAPH Asia 2015](https://docs.google.com/presentation/d/1Orx0GB0cQcYhHkYsaEcoo5js3c5-pv7ahPniIRIzzfg/edit#slide=id.p) - Presentation by Zhenyao Mo, Ken Russell of Google during SIGGRAPH Asia 2015.
 
-### References / Firefox Specific Tools/Debugger
-
-*   [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
-
-### Math / Particles
-
-*   [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
-*   [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
-
-### Others / Particles
+### Engines and Frameworks / Firefox Specific Tools/Debugger
 
 *   [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
+
+### Low-level Rendering / Firefox Specific Tools/Debugger
+
+*   [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.

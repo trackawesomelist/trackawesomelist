@@ -12,19 +12,45 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [objekto.io](https://objekto.io/en) - Turns a few words, a photo or a sketch into a multi-part, print-ready 3D model designed by AI, then has it 3D printed and delivered (France only for now). `#freemium`
 
+### Audio & Speech
+
+*   [SFXMint](https://sfxmint.com/) - CC0 library of 10,300+ AI-generated or synthesized sound effects for games, apps and videos, with a JSON API and MCP server. `#freemium` `#mcp`
+
+### Avatars
+
+*   [FotoApta](https://fotoapta.com/en/ai-headshot/) - Generates professional AI portraits from one selfie, with a free watermarked preview and an optional one-time HD pack. `#freemium`
+
 ### Design
 
 *   [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - FREE desktop design studio where your own AI agent designs on .fig files and you refine on a GPU canvas. `#free` `#design`
 
 ### Developer Tools
 
+*   [Atlas Cloud](https://www.atlascloud.ai) - AI API gateway with one API key for LLM, image, video and audio models, including an OpenAI-compatible chat completions endpoint. `#paid` `#api` `#llm`
+*   [CloudGPU](https://cloudgpu.app/) - Per-minute GPU rental and an OpenAI-compatible model API, plus an MCP server that quotes a job and starts it only after confirmation. `#paid` `#mcp` `#api`
 *   [Continua](https://continua-nu.vercel.app/) - Experimental macOS 13+ companion designed to resume interrupted Codex Desktop coding tasks after supported usage resets, with local task history; unsigned/not notarized, manual updates, and genuine unattended recovery unverified. `#free`
 *   [HopBase](https://hop-base.com/) - AI API gateway with one base URL for Claude, GPT, Gemini, DeepSeek and Qwen text models plus image and video models such as Seedream, Seedance and Kling, compatible with OpenAI, Anthropic and Gemini endpoints. `#paid` `#api` `#llm`
+*   [Kling AI MCP](https://kling.ai/mcp/plugin) - Connect AI agents to Kling image/video generation via the Global plugin MCP endpoint; OAuth and paid personal credits required. [Setup guide](https://kling.ai/app/mcp/guide). `#paid` `#mcp`
 *   [MailVeri MCP (⭐1)](https://github.com/mailveri/mailveri-mcp) - Open-source MCP server that lets Claude, Cursor and other agents verify single emails and bulk lists via the MailVeri API (SMTP, catch-all, disposable and role detection). `#freemium` `#opensource` `#mcp`
+*   [OpenHands (⭐93k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous AI software development agents that can write code, fix bugs, and run shell commands. `#free` `#opensource`
+*   [Vectoree](https://vectoree.ai/) - Hosted backend for coding agents with one project key for models from xAI, OpenAI, Google, Anthropic and DeepSeek through an OpenAI-compatible gateway, plus auth, Postgres, object storage, a CLI and an agent skill, billed pay-as-you-go. `#paid` `#api` `#llm`
+
+### Finance
+
+*   [BeliefState](https://beliefstate.ai/) - Gives AI assistants dated, source-linked investor theses, catalysts, risks and revisions through a research API and hosted MCP. Company coverage is free to check. `#freemium` `#mcp` `#research`
 
 ### Human Resources
 
 *   [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher that emails you new AI jobs from 1,300+ AI companies' career pages and hiring posts on X and LinkedIn, scored against your resume. `#paid`
+
+### Image Classification
+
+*   [SightRadar Face Recognition API MCP](https://sightradar.com/mcp) - Official MCP server for the SightRadar face recognition API: index photos, find every photo of a person from one selfie, and compare or detect faces from Claude, ChatGPT, Cursor or VS Code. Add <https://mcp.sightradar.com/mcp> as an MCP server, or run it locally with npx. `#paid` `#mcp` `#opensource`
+
+### Image Editing
+
+*   [Nano Banana (nanobananana.com)](https://nanobananana.com/zh) - Independent third-party image creation tool for text-to-image generation, natural-language reference image editing, and multi-image blending, with a Chinese interface. `#freemium`
+*   [RemixThatPhoto](https://remixthatphoto.com/) - Edits a photo from a reference image or a written instruction for targeted changes. `#freemium`
 
 ### Image Generator
 
@@ -33,7 +59,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Marketing
 
-*   [Revenue Scout](https://revenuescout.ai/) - Finds public posts where people need what you sell and drafts replies for you to review and post. `#freemium` `#lead-generation`
+*   [Revenue Scout](https://revenuescout.ai/) - Sales Prospecting Assistant that finds public posts where people need what you sell and drafts replies for you to review and post. `#freemium` `#lead-generation`
 
 ### Meeting
 
@@ -49,14 +75,29 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [EmptyRoom AI](https://emptyroomai.com/) - Furnish vacant listing photos in any style for agents and sellers, with unlimited free restages. `#paid`
 *   [MotionCasa](https://motioncasa.com/) - Creates listing videos from property photos with AI motion and reel templates; AI generation requires purchased credits. `#paid`
 
+### Resume
+
+*   [Resume Claim Guard (⭐1)](https://github.com/korey2028-prog/resume-claim-guard) - Open-source agent skill that writes a job-tailored resume from confirmed facts only, then audits claims and previews interview follow-ups. `#free` `#opensource`
+
 ### SEO
 
 *   [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) - Audits sites, checks links, plans content, and adds JSON-LD with a free Claude Code plugin. `#free` `#opensource` `#seo`
+*   [Verand](https://verand.ai/) - Writes articles from your own expertise, blocks non-compliant claims before they publish, and tracks your rankings and mentions in AI answers. `#paid` `#seo`
+
+### Social Media
+
+*   [Wavegrain](https://wavegrain.com/) - Curated slideshows and carousels for your brand on autopilot: writes TikTok slideshows and Instagram carousels in your brand's voice, then schedules and posts them; hosted MCP server for AI agents. `#social-media` `#mcp`
+
+### Summarizer
+
+*   [Glasp](https://glasp.co/) - Browser extension and web app that shows YouTube video transcripts with AI summaries and highlights web pages and PDFs. `#freemium`
+*   [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) - Chrome extension that shows a YouTube video as a timestamped transcript, with key points and chat about the video. Free AI credits available. `#freemium` `#video`
 
 ### Video
 
 *   [AI Rap Video](https://airapvideo.us/) - AI rap video generator: write or draft rap lyrics, pick a photo, original character or duo, and get a short lip-synced rap clip (8-15s); packs from $4.99. `#paid`
 *   [EasyRap](https://easyrapvideo.com/) - Creates short rap music videos from one or two photos using paid credits. `#paid`
+*   [ToHD](https://tohd.video/) - Free AI video upscaler that runs in the browser on your own GPU (WebGPU): turns 360p/480p clips into 720p or 1080p without uploading them, no signup, no watermark. `#freemium` `#video`
 *   [Valmera](https://valmera.io/) - Edits uploaded footage through natural-language instructions in a browser studio or a connected AI assistant over MCP, with cuts, captions, reframing, preview review and MP4 export. `#paid` `#video` `#mcp`
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
@@ -187,7 +228,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [FindAIforWork](https://findaiforwork.com/) - Human-reviewed AI tools directory organized by work scenario, with a free read-only remote MCP server. `#free` `#mcp`
 *   [ml0x](https://ml0x.com/) - Open-source pipeline that wraps Claude Code in four stages (analyze, implement, test, review) with hard budget caps and quality gates that run before output is shown; MIT-licensed core, paid full system. `#freemium` `#opensource`
-*   [Oh My Android (⭐73)](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and real phones, with a built-in MCP server (18 tools) so Claude Code, Codex and Cursor can see and drive the emulator. `#mcp` `#free` `#opensource`
+*   [Oh My Android (⭐149)](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and real phones, with a built-in MCP server (18 tools) so Claude Code, Codex and Cursor can see and drive the emulator. `#mcp` `#free` `#opensource`
 *   [SitePatent](https://sitepatent.com/) - Discovery directory for newly launched startups, SaaS tools and online products, with a free read-only remote MCP server (<https://sitepatent.com/api/mcp>) that lets AI assistants search listings, read full profiles and find alternatives, no API key. `#free` `#mcp`
 *   [UI Verify](https://uiverify.ai/) - Visual regression testing for coding agents: screenshots your Storybook, Playwright or Vitest tests on each pull request, an AI judge labels each change, and an MCP server lets Claude Code, Cursor or Codex review the diffs. `#freemium` `#testing`
 *   [WebExtract](https://webextract.dev/) - Turns one web page into Markdown or structured JSON, as a REST API or a remote MCP server (`https://api.webextract.dev/mcp`); the first 20 calls a day per IP are free, then pay per call in USDC over x402 or with prepaid credits. `#freemium` `#api` `#mcp`
@@ -413,7 +454,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [Heabsy](https://heabsy.com/) - OpenAI- and Anthropic-compatible inference API for open models, with an EEA tier on dedicated GPUs in EEA data centres and zero data retention. `#paid`
-*   [Hyperconsciousness (⭐8)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
+*   [Hyperconsciousness (⭐10)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
 *   [molt](https://solvyx.xyz/work/molt) - Coding agent that won't say done on a false claim — on-disk verification and receipts for accepts/refusals. `#free` `#opensource`
 *   [ONE](https://one.workrr.ai/) - Free API-first commons where externally run AI agents discover collaborators, exchange reusable work, and join public discussions with human-readable live logs. `#free`
 *   [RAG Citation Coverage Auditor (⭐0)](https://github.com/edilec/rag-citation-coverage-auditor) - Offline CLI that checks declared RAG answer citations against approved retrieval sources and explicit claim support in local exports. `#free` `#opensource` `#rag`
@@ -474,7 +515,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [AIVG](https://ai-video-generators.com/image-to-video) - Animate a photo into a short video with a choice of AI video models. `#paid`
 *   [Flow AI Video](https://www.flowaivideo.org/) - AI video generation workspace for text-to-video and image-to-video creative workflows. `#freemium`
-*   [Magic Hour](https://magichour.ai/) - AI video creation platform for text-to-video, image-to-video, lip sync, face swap, and production APIs. `#freemium`
+*   [Magic Hour](https://magichour.ai/) - AI video creation platform for text-to-video, image-to-video, lip sync, face swap, and production APIs. Use [MCP setup](https://magichour.ai/mcp) or the [ChatGPT plugin](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c). `#freemium`
 *   [Video Background Remover](https://www.videobgremover.org/) - AI tool to remove video backgrounds online and export background-free clips. `#free`
 *   [Video Watermark Remover](https://www.videowatermarkremover.org/) - AI video watermark remover for MP4, AVI, and MOV with online export. `#free`
 

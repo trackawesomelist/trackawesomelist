@@ -33,6 +33,10 @@ Collections of awesome neovim plugins.
 *   [thesimonho/kanagawa-paper (⭐407)](https://github.com/thesimonho/kanagawa-paper) - ***`[TS][LSP][L/D][Lua]`*** Remixed light and dark Kanagawa colourschemes with muted colors.
 *   [tiagovla/tokyodark.nvim (⭐619)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
 
+### Note Taking / Cursorline
+
+*   [xheisenbugx/org.nvim (⭐132)](https://github.com/xheisenbugx/org.nvim) - Fully-featured reimplementation of Emacs' `org-mode`.
+
 ### Utility / Cursorline
 
 *   [leblocks/treetags.nvim (⭐0)](https://github.com/leblocks/treetags.nvim) - Fast, Tree-sitter-based code tags and symbol navigation.

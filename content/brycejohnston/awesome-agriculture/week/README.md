@@ -55,10 +55,13 @@ Open source technology for agriculture, farming, and gardening
 *   [OperationsCenterAPI-OAuth2-NodeJS-Example (⭐3)](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-NodeJS-Example) - Node.js example for the John Deere Operations Center API.
 *   [OperationsCenterAPI-OAuth2-Python-Example (⭐22)](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Python-Example) - Python example for the John Deere Operations Center API.
 *   [Tilth](https://www.tilth.uk/data) - Free daily UK fertiliser price index API for nine grades, CC BY 4.0 licensed.
+*   [Trefle (⭐589)](https://github.com/treflehq/trefle-api) - Open source botanical REST API for querying plant species, taxonomy, and growing information.
 
 ### Farm Management Systems and Record Keeping / United States
 
 *   [GrowerHub (⭐7)](https://github.com/aspinozaxxx-lab/growerhub) - Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.
+*   [HortusFox (⭐1.7k)](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
+*   [Plant-it (⭐1.4k)](https://github.com/MDeLuise/plant-it) - Android gardening companion for logging plant care, keeping photos, and setting reminders.
 *   [Soil Mate (⭐29)](https://github.com/Open-Source-Agriculture/soil_logr) - Helper app designed to assist the collection of soil data.
 *   [Tania (⭐825)](https://github.com/usetania/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 

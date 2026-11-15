@@ -6,6 +6,24 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 15, 2026](/content/2026/11/15/README.md)
+
+### CI and CD
+
+*   [Stategraph](https://stategraph.com) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+
+### Monitoring
+
+*   [Pingzen](https://pingzen.dev) - Free uptime and API monitoring with up to 55 monitors, 1-minute check intervals, and instant alerts.
+
+### DNS
+
+*   [nip.io](https://nip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
+
+### IaaS
+
+*   [Out Plane](https://outplane.com) - Cloud sandboxes for coding agents (Hangars) plus app hosting in Germany. Free: Hangars, cloud machines where agents like Claude Code, Codex and Cursor run, with no credit card required; the agent uses your own plan or API key. App hosting is paid, from $9/month with a 14-day free trial.
+
 ## [Nov 14, 2026](/content/2026/11/14/README.md)
 
 ### APIs, Data, and ML
@@ -1858,10 +1876,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
-### CI and CD
-
-*   [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
-
 ### Education and Career Development
 
 *   [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
@@ -2471,10 +2485,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Tavily AI](https://tavily.com/) - API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
 
 ## [Jan 28, 2024](/content/2024/01/28/README.md)
-
-### Analytics, Events and Statistics
-
-*   [LogSpot](https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.
 
 ### Privacy Management
 
@@ -3504,12 +3514,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Hookdeck](https://hookdeck.com/pricing) - Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 
-## [Jun 10, 2022](/content/2022/06/10/README.md)
-
-### DNS
-
-*   [sslip.io](https://sslip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
-
 ## [May 30, 2022](/content/2022/05/30/README.md)
 
 ### APIs, Data, and ML
@@ -3529,12 +3533,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
-
-## [May 14, 2022](/content/2022/05/14/README.md)
-
-### Font
-
-*   [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
 
 ## [May 13, 2022](/content/2022/05/13/README.md)
 
@@ -4300,10 +4298,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DNS
 
 *   [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
-
-### Miscellaneous
-
-*   [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
 
 ## [Apr 10, 2021](/content/2021/04/10/README.md)
 

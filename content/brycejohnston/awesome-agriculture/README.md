@@ -6,6 +6,17 @@ Open source technology for agriculture, farming, and gardening
 
 [ Daily / [Weekly](/content/brycejohnston/awesome-agriculture/week/README.md) / [Overview](/content/brycejohnston/awesome-agriculture/readme/README.md) ]
 
+## [Nov 15, 2026](/content/2026/11/15/README.md)
+
+### Data Standardization, Interoperability and APIs / United States
+
+*   [Trefle (⭐589)](https://github.com/treflehq/trefle-api) - Open source botanical REST API for querying plant species, taxonomy, and growing information.
+
+### Farm Management Systems and Record Keeping / United States
+
+*   [HortusFox (⭐1.7k)](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
+*   [Plant-it (⭐1.4k)](https://github.com/MDeLuise/plant-it) - Android gardening companion for logging plant care, keeping photos, and setting reminders.
+
 ## [Nov 14, 2026](/content/2026/11/14/README.md)
 
 ### Automation and Robotics

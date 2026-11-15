@@ -127,6 +127,7 @@ Country and location-specific reference data for markets, land records, and grow
 *   [SampleData (⭐39)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
 *   [SencropAPI-JavaScript-Client (⭐3)](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 *   [Tilth](https://www.tilth.uk/data) - Free daily UK fertiliser price index API for nine grades, CC BY 4.0 licensed.
+*   [Trefle (⭐589)](https://github.com/treflehq/trefle-api) - Open source botanical REST API for querying plant species, taxonomy, and growing information.
 
 ## Farm Management Systems and Record Keeping
 
@@ -134,7 +135,9 @@ Country and location-specific reference data for markets, land records, and grow
 *   [farmOS (⭐1.4k)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
 *   [GrowerHub (⭐7)](https://github.com/aspinozaxxx-lab/growerhub) - Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.
 *   [GrowGood](https://gitlab.com/growgood) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
+*   [HortusFox (⭐1.7k)](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
 *   [LiteFarm (⭐253)](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+*   [Plant-it (⭐1.4k)](https://github.com/MDeLuise/plant-it) - Android gardening companion for logging plant care, keeping photos, and setting reminders.
 *   [Soil Mate (⭐29)](https://github.com/Open-Source-Agriculture/soil_logr) - Helper app designed to assist the collection of soil data.
 *   [Tania (⭐825)](https://github.com/usetania/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 
