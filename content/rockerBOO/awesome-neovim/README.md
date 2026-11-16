@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 16, 2026](/content/2026/11/16/README.md)
+
+### AI / Diagnostics
+
+*   [vshulcz/deja-vu (⭐1.5k)](https://github.com/vshulcz/deja-vu) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [dybdeskarphet/min.nvim (⭐19)](https://github.com/dybdeskarphet/min.nvim) - ***`[TS][LSP][L/D][Lua]`*** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.
+
 ## [Nov 15, 2026](/content/2026/11/15/README.md)
 
 ### Note Taking / Cursorline
@@ -108,7 +118,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [kryptamine/gruber-darker-renaissance (⭐10)](https://github.com/kryptamine/gruber-darker-renaissance) - ***`[TS][LSP][Lua]`*** A dark, minimal colorscheme based on Gruber Darker.
+*   [kryptamine/gruber-darker-renaissance (⭐14)](https://github.com/kryptamine/gruber-darker-renaissance) - ***`[TS][LSP][Lua]`*** A dark, minimal colorscheme based on Gruber Darker.
 
 ## [Oct 30, 2026](/content/2026/10/30/README.md)
 
@@ -260,7 +270,7 @@ Collections of awesome neovim plugins.
 
 ### Debugging / CSV Files
 
-*   [JarnDev/autodap.nvim (⭐29)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
+*   [JarnDev/autodap.nvim (⭐31)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
@@ -1465,12 +1475,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Markdown and LaTeX
 
 *   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
-
-## [Jan 01, 2026](/content/2026/01/01/README.md)
-
-### Colorscheme / Markdown and LaTeX
-
-*   [dybdeskarphet/gruvbox-minimal.nvim (⭐17)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 
@@ -2824,7 +2828,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [laktak/tome (⭐177)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
+*   [laktak/tome (⭐178)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
 
 ## [Jan 16, 2025](/content/2025/01/16/README.md)
 

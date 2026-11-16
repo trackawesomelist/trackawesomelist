@@ -6,6 +6,183 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [aamio](https://aamio.at/)
+
+  Description: Ephemeral rendezvous for agents: expiring threads, receipts and an open board
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/at.aamio/aamio)
+
+
+
+### Blockchain
+
+- API: [Verifyum](https://verifyum.com/agents)
+
+  Description: File timestamp proofs anchored on Solana from a locally computed commitment, no file upload
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Books
+
+- API: [Readark](https://readark.app/developers/)
+
+  Description: Dark romance books with spice and darkness ratings, subgenres, tropes and authors
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Calendar
+
+- API: [SalahTable](https://salahtable.com/prayer-times-api)
+
+  Description: Islamic prayer times for 400+ cities, by day or month, with six calculation methods
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TradingCalendars](https://tradingcalendars.com/documentation)
+
+  Description: Market holidays and business days for FX, banks, payment systems and exchanges, with early closes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Cryptocurrency
+
+- API: [Gasrent](https://gasrent.click/api.html)
+
+  Description: TRON energy and bandwidth rental aggregator with public price and health endpoints
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [AI SENSE](https://aisense.no/free-public-apis)
+
+  Description: Utility endpoints: time, hashing, encoding, QR, JSON, images, webhooks, temporary storage
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SuprSend](https://docs.suprsend.com/reference/overview)
+
+  Description: Multi-channel notifications: workflows, templates and preferences for email, SMS, push and in-app
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [KaijuConverter](https://kaijuconverter.com/api-docs)
+
+  Description: Convert 201+ file formats, OCR, PDF/A & exact KB compression
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [AIR Stock Discovery](https://www.aistockradars.com/developers)
+
+  Description: AI-scored SEC filing events for small and mid-cap US companies
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+- API: [IBANforge](https://ibanforge.com/docs)
+
+  Description: IBAN checks and sourced bank/BIC references; free format checks and a keyless validation trial
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Government
+
+- API: [Election Night Results](https://pushbuild.com/apis/election-night-results.html)
+
+  Description: Live US election results from official state feeds, statewide and by county; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Transportation
+
+- API: [VakayMood](https://vakaymood.com/developers)
+
+  Description: Live timeshare resort rental inventory: stay dates, nightly rates, resort fees and booking URLs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -2278,9 +2455,9 @@ A collective list of free APIs
 
 - API: [Boxerbook](https://boxerbook.com/developers)
 
-  Description: Professional boxing: boxers, bouts, schedule, results, world titles and rankings, ODbL
+  Description: Professional boxing: boxers, bouts, schedule, results, world titles and rankings
 
-  Auth: No
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -13838,17 +14015,6 @@ A collective list of free APIs
   CORS: Yes
 
   : 
-
-
-- API: [IBANforge](https://api.ibanforge.com)
-
-  Description: IBAN validation and BIC/SWIFT lookup for 89 countries with 121k+ BIC entries
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
 
 
 
