@@ -6,6 +6,36 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Financial
+
+*   [canary (⭐11)](https://github.com/osauer/canary) - Clean-room client for the Interactive Brokers TWS socket protocol, in pkg/ibkr.
+
+### Forms
+
+*   [go-form (⭐46)](https://github.com/donseba/go-form) - Render HTML forms from Go structs with struct tags, bind and validate submissions.
+
+### Security
+
+*   [Quantum-Go (⭐1)](https://github.com/sara-star-quant/Quantum-Go) - Post-quantum encrypted tunnels over TCP and UDP using a hybrid ML-KEM-1024 and X25519 handshake.
+
+### Web Frameworks
+
+*   [BunGo (⭐3)](https://github.com/piotr-nierobisz/BunGo) - Full-stack framework pairing Go handlers with React (JSX/TSX) views compiled by an embedded esbuild, with no Node.js toolchain required.
+
+### Routers / Libraries for creating HTTP middlewares
+
+*   [go-router (⭐1)](https://github.com/donseba/go-router) - Router on top of net/http's ServeMux with named routes, groups, mounts, host routing and middleware.
+
+### Workflow Frameworks / Libraries for creating HTTP middlewares
+
+*   [Dagu (⭐4.5k)](https://github.com/dagucloud/dagu) - Workflow engine that runs DAGs of commands, containers, and HTTP calls defined in YAML.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [nightingale (⭐13k)](https://github.com/ccfos/nightingale) - Self-hosted monitoring and alerting platform for metrics, logs, and databases.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Sets
@@ -715,7 +745,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [llm-box (⭐15)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
+*   [llm-box (⭐16)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [skillreaper (⭐64)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
 ### File Handling
@@ -1165,10 +1195,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gox (⭐66)](https://github.com/doors-dev/gox) - HTML templates as first-class Go expressions, with seamless editor support.
 
-### Version Control
-
-*   [gitty](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
-
 ### Video
 
 *   [manifestor (⭐11)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
@@ -1494,7 +1520,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [colima (⭐31k)](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup.
+*   [colima (⭐32k)](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup.
 *   [kubefwd (⭐4.2k)](https://github.com/txn2/kubefwd) - Bulk Kubernetes port forwarding with unique IPs per service for local development.
 
 ### Other Software / Libraries for creating HTTP middlewares
@@ -2256,7 +2282,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐556)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐557)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
@@ -3082,7 +3108,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [go-peer (⭐327)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐328)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐78)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -4075,10 +4101,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [abbreviate (⭐222)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
 
-### Websites / Libraries for creating HTTP middlewares
-
-*   [Golang Developer Jobs](https://golangjob.xyz) - Developer Jobs exclusively for Golang related Roles.
-
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
 ### Database Tools
@@ -4209,10 +4231,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Goroutines
 
 *   [async-job (⭐12)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
-
-### Workflow Frameworks / Libraries for creating HTTP middlewares
-
-*   [Dagu (⭐4.5k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -4981,7 +4999,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Maps
 
-*   [cmap (⭐105)](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
+*   [cmap (⭐104)](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -5051,7 +5069,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [avro (⭐49)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [darwin (⭐150)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [go-fixtures (⭐32)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
-*   [go-pg-migrate (⭐11)](https://github.com/lawzava/go-pg-migrate) - CLI-friendly package for go-pg migrations management.
+*   [go-pg-migrate (⭐11)](https://github.com/lawzava/go-pg-migrate) - PostgreSQL schema migrations for Go, with no dependencies outside the standard library.
 *   [go-pg-migrations (⭐87)](https://github.com/robinjoseph08/go-pg-migrations) - A Go package to help write migrations with go-pg/pg.
 *   [goavro (⭐1.1k)](https://github.com/linkedin/goavro) - A Go package that encodes and decodes Avro data.
 *   [goose (⭐12k)](https://github.com/pressly/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
@@ -5676,10 +5694,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Project Layout
 
 *   [ardanlabs/service (⭐4.1k)](https://github.com/ardanlabs/service) - A [starter kit (⭐4.1k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
-*   [cookiecutter-golang (⭐736)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+*   [cookiecutter-golang (⭐737)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-sample (⭐139)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐625)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
-*   [go-todo-backend (⭐338)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
+*   [go-todo-backend (⭐340)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
 *   [gobase (⭐66)](https://github.com/wajox/gobase) - A simple skeleton for golang application with basic setup for real golang application.
 *   [golang-standards/project-layout (⭐57k)](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see [this issue (⭐57k)](https://github.com/golang-standards/project-layout/issues/117) for more information. Nonetheless, some may find the layout useful.
 *   [golang-templates/seed (⭐566)](https://github.com/golang-templates/seed) - Go application GitHub repository template.

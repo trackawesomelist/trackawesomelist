@@ -14,13 +14,29 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Design
 
-*   [Cross-Stitch Studio](https://cross-stitch.erwan-boehm.fr/photo-to-cross-stitch?utm_source=directory) - Turn photos into editable cross-stitch charts with DMC thread colors and optional AI photo preparation. `#freemium` `#design`
+*   [Cross-Stitch Studio](https://cross-stitch.erwan-boehm.fr/photo-to-cross-stitch/) - Turn photos into editable cross-stitch charts with DMC thread colors and optional AI photo preparation. `#freemium` `#design`
 
 ### Developer Tools
 
 *   [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching 2,200+ North American live-music venues, load-in stairs, drive-time routing, and booking contacts. `#freemium` `#mcp`
 *   [Sage (⭐1.2k)](https://github.com/ZHangZHengEric/Sage) - Open-source agent harness with Desktop, Server and Python hosts, MCP tools, and task-feedback evaluation with user-selected version adoption; configured model providers may charge usage fees. `#opensource` `#agents`
 *   [Shazeus](https://www.shazeus.com/en/skills) - Free English and Turkish directory of agent skills for Claude Code, Codex and Cursor with source repositories, pinned revisions, license links, and install commands. `#free`
+
+### E-Commerce
+
+*   [PlushSource MCP (⭐0)](https://github.com/quickman924/plushsource-mcp) - MCP server that lets AI assistants search and compare the 55 custom plush manufacturers in the PlushSource directory (plushsource.com) by MOQ, lead time and OEM/ODM, with facts compiled from each manufacturer's website. `#opensource` `#mcp` `#free`
+
+### Psychology
+
+*   [Adoree](https://adoree.ai/) - AI relationship assistant for couples where each partner talks privately, helping you both communicate without escalating. `#freemium`
+
+### Search Engine
+
+*   [search-console-mcp (⭐8)](https://github.com/sudomichael/search-console-mcp) - Google Search Console for any MCP client - 30-second login, no Google Cloud project. Read-only. `#opensource` `#mcp`
+
+### Video
+
+*   [Twistavo](https://twistavo.com/) - AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99. `#paid`
 
 ## [Nov 15, 2026](/content/2026/11/15/README.md)
 
@@ -378,7 +394,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 ### Data & BI
 
-*   [DC Hub](https://dchub.cloud/) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. `#freemium` `#mcp`
+*   [DC Hub](https://dchub.cloud/) - DC Hub is the orchestration layer for data center and energy intelligence: start with execute\_plan for electricity prices and power grid questions. It also publishes the Data Center Power Index (DCPI), a daily score of where data centers can get grid power across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. DCHUB\_API\_KEY is optional. `#mcp`
 
 ### Dating
 
@@ -1006,7 +1022,7 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 ### Developer Tools
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
-*   [Codex CLI (⭐133k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐136k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Gemini CLI (⭐109k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`

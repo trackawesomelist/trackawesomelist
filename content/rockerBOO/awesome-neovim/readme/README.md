@@ -923,7 +923,7 @@ then it is not supported:
 *   [pebeto/dookie.nvim (⭐17)](https://github.com/pebeto/dookie.nvim) - ***`[TS][Lua]`*** A color scheme inspired by Plan9's acme editor.
 *   [metalelf0/jellybeans-nvim (⭐128)](https://github.com/metalelf0/jellybeans-nvim) - ***`[TS][Lua]`*** A port of jellybeans colorscheme.
 *   [lalitmee/cobalt2.nvim (⭐115)](https://github.com/lalitmee/cobalt2.nvim) - ***`[Lua]`*** A port of cobalt2 colorscheme using colorbuddy.
-*   [dybdeskarphet/min.nvim (⭐19)](https://github.com/dybdeskarphet/min.nvim) - ***`[TS][LSP][L/D][Lua]`*** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.
+*   [dybdeskarphet/min.nvim (⭐20)](https://github.com/dybdeskarphet/min.nvim) - ***`[TS][LSP][L/D][Lua]`*** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.
 *   [taigrr/cyberpunk.nvim (⭐5)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 *   [ankushbhagats/pastel.nvim (⭐35)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐11)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.

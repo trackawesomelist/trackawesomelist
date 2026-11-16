@@ -6,6 +6,24 @@
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / Weekly / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Pomodoro / Enterprise Git Service
+
+*   [Yellow Tomato](https://yellowtomato.app/) (`Chrome`,`iOS`): Pomodoro timer that blocks distracting sites and apps only during focus sessions, with a task list and focus stats \[Free].
+
+### Writing / Social Sciences
+
+*   [research-kit (⭐0)](https://github.com/zch6a/research-kit): Open command-line tools that check a paper before submission (references, numbers, anonymity, page limits), with a map of the best open projects for each stage of research.
+
+### Investigate Papers / HTML+CSS+JS
+
+*   [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server (⭐70)](https://github.com/tiptreesystems/lacuna-research-mcp) for AI assistants.
+
+### Open Science / HTML+CSS+JS
+
+*   [AutoResearch](https://autoresearch.me/en/): Browser-based AI research system that connects literature exploration, research ideas, model implementation, GPU experiments and manuscript drafting. Private beta: apply on the site, wait for administrator approval, then set a password from the follow-up email and sign in; approved members receive 5,000 starter credits. Official pages say access is free during the beta, but this is a limited allowance, not unlimited use and not access without an account. Prices for future plans are not yet announced.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Plotting and Charting Online / Enterprise Git Service
@@ -740,7 +758,7 @@
 
 *   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐38k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-*   [Reveal.js (⭐72k)](https://github.com/hakimel/reveal.js)
+*   [Reveal.js (⭐73k)](https://github.com/hakimel/reveal.js)
 *   [CSSS (⭐1.8k)](https://github.com/LeaVerou/CSSS)
 *   [Scrolldeck (⭐662)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)

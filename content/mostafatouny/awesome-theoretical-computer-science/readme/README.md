@@ -65,7 +65,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     *   [Learning-augmented](#algorithms_learning-augmented)
         *   [Lecture Notes](#algorithms_learning-augmented_lecture_notes) | [Big List](#algorithms_learning-augmented_big_list)
 *   [Information/Coding Theory](#informationcoding_theory)
-    *   [Lecture Notes](#informationcoding_theory_lecture_notes)
+    *   [Lecture Notes](#informationcoding_theory_lecture_notes) | [Big Lists](#informationcoding_theory_big_lists)
 *   [Cryptography](#cryptography)
     *   [Books](#cryptography_books)
 *   [AI Safety](#ai_safety)
@@ -365,6 +365,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
 *   Scott Aaronson. Quantum Information Science. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf) - Part I: Presuppose only linear algebra and a bit of classical algorithms. Topics include quantum circuits, density matrices, entanglement entropy, Wiesner’s quantum money, QKD, quantum teleportation, the Bell inequality, interpretations of QM, the Shor 9-qubit code, and the algorithms of Deutsch-Jozsa, Bernstein-Vazirani, Simon, Shor, and Grover. Part II: Perspectives on quantum computing that go beyond the bare quantum circuit model, like Hamiltonians, Stabilizer formalism, Bosons and Fermions, Cluster states, and Matrix product states.
 
+## Big Lists<a name=informationcoding_theory_big_lists></a>
+
+*   [Error Correction Zoo](https://errorcorrectionzoo.org/) - Catalog of classical and quantum error-correcting codes, organized by their relations, with references.
+
 # Cryptography<a name=cryptography></a>
 
 ## Books<a name=cryptography_books></a>
@@ -658,5 +662,5 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.5k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
 *   [Cryptography (⭐7.2k)](https://github.com/sobolevn/awesome-cryptography).
 *   [Quantum Computing (⭐3.3k)](https://github.com/desireevl/awesome-quantum-computing).
-*   [Math (⭐9.3k)](https://github.com/ossu/math) and [CS (⭐210k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Math (⭐9.4k)](https://github.com/ossu/math) and [CS (⭐211k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 

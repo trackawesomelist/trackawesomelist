@@ -6,6 +6,12 @@ Lovingly crafted AppImage tools and resources
 
 [ Daily / [Weekly](/content/AppImageCommunity/awesome-appimage/week/README.md) / [Overview](/content/AppImageCommunity/awesome-appimage/readme/README.md) ]
 
+## [Nov 16, 2026](/content/2026/11/16/README.md)
+
+### AppImage developer tools / Deployment tools for compiled applications
+
+*   [AppImage Packaging (⭐1)](https://github.com/AppImageCommunity/AppImagePackaging) - Skills for Claude and other coding agents (Codex, Cursor, OpenCode, ...) that package Linux applications as self-contained AppImages, build and publish them from GitHub Actions, and verify and troubleshoot them on other distributions.
+
 ## [Nov 14, 2026](/content/2026/11/14/README.md)
 
 ### AppImage discovery / App catalogs

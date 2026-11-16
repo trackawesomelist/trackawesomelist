@@ -333,7 +333,7 @@ Use these hashtags in search to filter out the tools
 *   [CSV-GPT](https://getluminal.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
 *   [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. `#free` `#mcp`
 *   [Dataspot](https://dataspot.com/) - Understand any data instantly using AI `#freemium`
-*   [DC Hub](https://dchub.cloud/) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. `#freemium` `#mcp`
+*   [DC Hub](https://dchub.cloud/) - DC Hub is the orchestration layer for data center and energy intelligence: start with execute\_plan for electricity prices and power grid questions. It also publishes the Data Center Power Index (DCPI), a daily score of where data centers can get grid power across 300+ markets. Add <https://dchub.cloud/mcp> as an MCP server in Claude, ChatGPT or Cursor. DCHUB\_API\_KEY is optional. `#mcp`
 *   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
 *   [Excelly-AI](https://excelly-ai.io/) - Text-to-formula for Excel and Google Sheets. `#free`
 *   [Excelmatic](https://excelmatic.ai/) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
@@ -378,7 +378,7 @@ Use these hashtags in search to filter out the tools
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 *   [Canva AI](https://www.canva.com/ai-image-generator/) - AI-powered design platform with image generation and editing tools. `#freemium`
-*   [Cross-Stitch Studio](https://cross-stitch.erwan-boehm.fr/photo-to-cross-stitch?utm_source=directory) - Turn photos into editable cross-stitch charts with DMC thread colors and optional AI photo preparation. `#freemium` `#design`
+*   [Cross-Stitch Studio](https://cross-stitch.erwan-boehm.fr/photo-to-cross-stitch/) - Turn photos into editable cross-stitch charts with DMC thread colors and optional AI photo preparation. `#freemium` `#design`
 *   [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's advanced AI image generator with improved quality and safety. `#freemium`
 *   [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - FREE desktop design studio where your own AI agent designs on .fig files and you refine on a GPU canvas. `#free` `#design`
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
@@ -451,7 +451,7 @@ Use these hashtags in search to filter out the tools
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CloudGPU](https://cloudgpu.app/) - Per-minute GPU rental and an OpenAI-compatible model API, plus an MCP server that quotes a job and starts it only after confirmation. `#paid` `#mcp` `#api`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
-*   [Codex CLI (⭐133k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI (⭐136k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [Codex Quota Overlay (⭐4)](https://github.com/cpys/codex-quota-overlay) - Independent desktop companion showing Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS. `#free` `#opensource`
 *   [codex-profiles (⭐194)](https://github.com/Ducksss/codex-profiles) - Selects named CODEX\_HOME profiles and, on macOS, named ChatGPT Desktop windows with separate local state, without copying tokens. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
@@ -600,6 +600,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Etsy Search & Shop Sales MCP (⭐3)](https://github.com/GeminiGeorge22/etsy-sales-mcp) - MCP server that gives AI assistants Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop; runs on your own Apify token. `#opensource` `#mcp`
 *   [EverAlice AI](https://everalice.studio/) - All-in-one AI studio for Etsy and digital-product sellers: turns one artwork or idea into listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing videos, a launch marketing pack and a customer delivery ZIP, with bulk runs of up to 100 products. `#freemium`
+*   [PlushSource MCP (⭐0)](https://github.com/quickman924/plushsource-mcp) - MCP server that lets AI assistants search and compare the 55 custom plush manufacturers in the PlushSource directory (plushsource.com) by MOQ, lead time and OEM/ODM, with facts compiled from each manufacturer's website. `#opensource` `#mcp` `#free`
 *   [Shop Guru AI](https://www.shopguru.io/) - Analyze customer reviews, providing you with trusted answers based on specific product information. `#free`
 *   [Xiyu](https://xiyu.taobao.com/) - Taobao ecosystem secure login entry gateway. 87 `#free`
 *   [YOO Resume](https://yooresume.com/) - Taoist cultural products and ritual services. `#paid`
@@ -1103,6 +1104,7 @@ Use these hashtags in search to filter out the tools
 
 ## Psychology
 
+*   [Adoree](https://adoree.ai/) - AI relationship assistant for couples where each partner talks privately, helping you both communicate without escalating. `#freemium`
 *   [Selfgazer](https://www.selfgazer.com/) - Provides psychological tarot readings for users seeking self-exploration and personal insights through classic tarot symbolism. `#free`
 *   [Wysa](https://www.wysa.com/) - AI mental health chatbot offering CBT-based coping tools and mood tracking. `#freemium`
 
@@ -1205,6 +1207,7 @@ Use these hashtags in search to filter out the tools
 *   [Opera One Browser](https://www.opera.com/one) - Opera One offers a liquid navigation experience with a focus on modular design and AI-powered web services. `#free`
 *   [Quark (CueMe)](https://quark.sm.cn/)%20AI%20Tool) - All-in-one search, browser, and scanner. 78 `#free`
 *   [Not Human Search](https://nothumansearch.ai/) - Agent-first search engine indexing 8,000+ MCP servers and AI tools, ranked by agentic readiness. REST API + MCP server. `#free`
+*   [search-console-mcp (⭐8)](https://github.com/sudomichael/search-console-mcp) - Google Search Console for any MCP client - 30-second login, no Google Cloud project. Read-only. `#opensource` `#mcp`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1373,6 +1376,7 @@ Use these hashtags in search to filter out the tools
 *   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
 *   [ToHD](https://tohd.video/) - Free AI video upscaler that runs in the browser on your own GPU (WebGPU): turns 360p/480p clips into 720p or 1080p without uploading them, no signup, no watermark. `#freemium` `#video`
 *   [Tongyi Wanxiang AI](https://wanxiang.aliyun.com/) - Alibaba high-definition film-quality videos. `#free`
+*   [Twistavo](https://twistavo.com/) - AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99. `#paid`
 *   [Unforgettable Car AI](https://unforgettablecarai.cc/) - One selfie to \~10s 24 card car reveal; packs from $8.88. `#paid`
 *   [Unscreen](https://www.unscreen.com/) - 100% automatic online background removal. `#free`
 *   [Valmera](https://valmera.io/) - Edits uploaded footage through natural-language instructions in a browser studio or a connected AI assistant over MCP, with cuts, captions, reframing, preview review and MP4 export. `#paid` `#video` `#mcp`

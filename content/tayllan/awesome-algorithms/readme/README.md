@@ -41,8 +41,7 @@ If you want to contribute, please read the [contribution guidelines (⭐26k)](ht
 
 *   [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 *   [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
-*   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
-*   [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
+*   [leetcode-py (⭐148)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 *   [DSA View View](https://dsa-view-view.vercel.app/) - Runs your own TypeScript algorithm functions in the browser and shows arrays, matrices, trees, linked lists, stacks, and pointers changing step by step, with built-in LeetCode-style examples.
 
 ## Programming Contest
@@ -107,13 +106,13 @@ If you want to contribute, please read the [contribution guidelines (⭐26k)](ht
 *   [Tech Interview Cheat Sheet (⭐4.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 *   [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
-*   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
+*   [Rice university DS course in short](https://web.archive.org/web/20260204101050/https://www.clear.rice.edu/comp160/data1.html)
 *   [Algo Deck (⭐5.8k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Related Awesome List
 
 *   [Theoretical Computer Science (⭐1.2k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
-*   [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐17k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## License
 

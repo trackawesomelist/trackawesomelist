@@ -6,6 +6,12 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
 
+## [Nov 16, 2026](/content/2026/11/16/README.md)
+
+### Cheat Sheet / YouTube Playlist
+
+*   [Rice university DS course in short](https://web.archive.org/web/20260204101050/https://www.clear.rice.edu/comp160/data1.html)
+
 ## [Oct 11, 2026](/content/2026/10/11/README.md)
 
 ### Beginner-Friendly / Interactive Learning & Visualization
@@ -16,13 +22,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Beginner-Friendly / Interactive Learning & Visualization
 
-*   [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
-
-## [Apr 19, 2026](/content/2026/04/19/README.md)
-
-### Beginner-Friendly / Interactive Learning & Visualization
-
-*   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
+*   [leetcode-py (⭐148)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -92,7 +92,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Cheat Sheet / YouTube Playlist
 
-*   [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [Tech Interview Cheat Sheet (⭐4.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [May 06, 2022](/content/2022/05/06/README.md)
 
@@ -128,13 +128,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
-
-## [Sep 11, 2020](/content/2020/09/11/README.md)
-
-### Cheat Sheet / YouTube Playlist
-
-*   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
+*   [Math (⭐17k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Aug 11, 2020](/content/2020/08/11/README.md)
 

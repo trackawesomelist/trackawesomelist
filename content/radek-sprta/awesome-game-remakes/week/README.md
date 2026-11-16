@@ -6,6 +6,19 @@ Actively maintained open-source game remakes.
 
 [ [Daily](/content/radek-sprta/awesome-game-remakes/README.md) / Weekly / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Action
+
+*   [Lantern Engine (⭐1.8k)](https://github.com/Awakenchan/LanternEngine) - Bloodborne recomp to Windows and Linux.
+*   [Parasite Eve 2 HD Remaster (⭐278)](https://github.com/faligame/Parasite-Eve-2-HD-Remaster) - Parasite aeve 2 recomp to Windows.
+*   [Edge of Time Recomp (⭐494)](https://github.com/goliathret/EdgeOfTimeRecomp) - Spider Man: Edge of Time (Xbox 360) recomp to desktop.
+*   [TRX (⭐1k)](https://github.com/LostArtefacts/TRX) - Open-source reimplementation of Tomb Raider I, Tomb Raider II, and Tomb Raider III, along with additional enhancements and bugfixes, for desktop.
+*   [Zelda Wind Waker HD Recomp (⭐1.4k)](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Zelda: The Wind Waker HD recomp to desktop and Android.
+    *   [ZeldaWWHDRecompAndroid (⭐95)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
+*   [X-Men Mutant Academy 2 PC (⭐23)](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - X-Men Mutant Academy 2 recomp to Windows.
+*   [Ultimate MK3 PC (⭐73)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) - Ultimate Mortal Kombat 3 (iOS) decomp to Windows and Linux.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Adventure
@@ -63,28 +76,21 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [Airborn Ranger (⭐1)](https://github.com/xor2003/airborn-ranger) - Recomp of Airborn Ranger by MicroProse.
-*   [BloodBorne for Windows (⭐5.3k)](https://github.com/Supermedo/bloodborne_pc) - Recomp of BloodBorne (PS4) to Windows.
-*   [CTW-Native (⭐72)](https://github.com/official-kryo-to/ctw-native) - Recomp of GTA: Chinatown Wars from Android to Windows.
-*   [DPRecomp (⭐187)](https://github.com/LittleBitUA/DPRecomp) - Recomp of Deadly Premonition from Xbox 360.
-*   [Earthworm Jim HD Recompiled (⭐120)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Recomp of Earthworm Jim HD (Xbox 360) to PC.
-*   [Herculan (⭐20)](https://github.com/kevinfoley/Herculan) - Recomp of Earthsiege 2 by Dynamix.
-*   [Ico-PC (⭐512)](https://github.com/nathanialf/ico-pc) - Recomp of ICO (PS2) to PC.
-*   [King Kong Recompiled (⭐291)](https://github.com/TekRantGaming/king-kong-recompiled) - Recomp of King Kong (Xbox 360) to PC.
-*   [LCS Recomp (⭐295)](https://github.com/elmasas/lcs-recomp) - Recomp of the PSP game GTA: Liberty City Stories to PC.
-*   [MDK Sdl (⭐86)](https://github.com/nemo22/mdk-sdl) - Port of MDK (Shiny) to SDL. Includes enhancements.
-*   [MeleePC (⭐595)](https://github.com/999sian/melee-pc) - Recomp of Super Smash Bros Melee to PC.
-*   [Metal Mutant-web (⭐3)](https://github.com/kznsq/metal-mutant-web) - Recomp of the Silmarils game Metal Mutant to Javascript.
-*   [Metroid Prime Port (⭐673)](https://github.com/Odrannnn/MetroidPrimePort) - Recomp of Metroid Prime to PC and Android.
-*   [Simpsons Wrestling Recompiled (⭐37)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Recomp of Simpsons Wrestling (PS1) to PC.
-*   [OpenSpideyPS1 (⭐63)](https://github.com/GTTeancum/SpideyPS1recomp) - Recomp of Spider-Man PS1 and Spider-Man 2: Enter Electro to PC.
-*   [Parasite Eve HD Remaster (⭐231)](https://github.com/faligame/Parasite-Eve-HD-Remaster) - Recomp and enhancement of the PS1 game Parasite Eve.
-*   [Edge Of Time Recomp (⭐494)](https://github.com/goliathret/EdgeOfTimeRecomp) - Recomp of Spider Man: Edge of Time from Xbox 360.
-*   [Starfox Recomp (⭐38)](https://github.com/mstan/StarFoxSNESRecomp) - Recomp + enhancement of Starfox (SNES).
-*   [ZeldaWWHDRecomp (⭐1.4k)](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Recomp of Zelda: The Wind Waker HD to PC and Android.
-    *   [ZeldaWWHDRecompAndroid (⭐95)](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) - Enhanced Android port.
-*   [X-Men Mutant Academy 2 (⭐23)](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - Recomp of the PS1 game X-Men Mutant Academy 2.
-*   [Ultimate MK3 iOS (⭐68)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp) - Recomp of Ultimate Mortal Kombat 3 iOS to PC.
+*   [Airborn Ranger (⭐1)](https://github.com/xor2003/airborn-ranger) - Airborn Ranger recomp to Windows, Linux, and Android.
+*   [CTW-Native (⭐72)](https://github.com/official-kryo-to/ctw-native) - GTA: Chinatown Wars (Android) recomp to Windows and Linux.
+*   [DPRecomp (⭐187)](https://github.com/LittleBitUA/DPRecomp) - Deadly Premonition (Xbox 360) recomp to Windows.
+*   [Earthworm Jim HD Recompiled (⭐120)](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) - Earthworm Jim HD (Xbox 360) recomp to Windows and Linux.
+*   [Herculan (⭐20)](https://github.com/kevinfoley/Herculan) - Reimplementation of Earthsiege 2 to Windows and Linux.
+*   [Ico-PC (⭐512)](https://github.com/nathanialf/ico-pc) - ICO (PS2) recomp to desktop and mobile.
+*   [King Kong Recompiled (⭐291)](https://github.com/TekRantGaming/king-kong-recompiled) - King Kong (Xbox 360) recomp to Windows and Linux.
+*   [LCS Recomp (⭐295)](https://github.com/elmasas/lcs-recomp) - GTA: Liberty City Stories (PSP) recomp to Windows.
+*   [MDK Sdl (⭐86)](https://github.com/nemo22/mdk-sdl) - Port of MDK to SDL. Includes enhancements.
+*   [MeleePC (⭐595)](https://github.com/999sian/melee-pc) - Super Smash Bros. Melee recomp to desktop and mobile.
+*   [Metal Mutant-web (⭐3)](https://github.com/kznsq/metal-mutant-web) - Metal Mutant recomp to JavaScript.
+*   [Simpsons Wrestling Recompiled (⭐37)](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) - Simpsons Wrestling recomp to Windows and Linux.
+*   [OpenSpideyPS1 (⭐63)](https://github.com/GTTeancum/SpideyPS1recomp) - Spider-Man (PS1) and Spider-Man 2: Enter Electro (PS1) recomps to Windows.
+*   [Parasite Eve HD Remaster (⭐231)](https://github.com/faligame/Parasite-Eve-HD-Remaster) - Parasite Eve recomp to Windows.
+*   [Starfox Recomp (⭐38)](https://github.com/mstan/StarFoxSNESRecomp) - Starfox (SNES) recomp to Windows.
 
 ### Adventure
 
@@ -215,8 +221,7 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [OpenChaos (⭐3)](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
-*   [Sunny-Survival-Remake-Code (⭐0)](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
+*   [OpenChaos (⭐3)](https://github.com/lndpj/OpenChaos) - Unofficial modernization of Urban Chaos.
 
 ### Arcade
 
@@ -370,8 +375,8 @@ Actively maintained open-source game remakes.
 ### Action
 
 *   [heretic2 (⭐33)](https://github.com/0lvin/heretic2) - Heretic2 playground sandbox.
-*   [Speed-Academy (⭐22)](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
-*   [Speed-Outcast (⭐18)](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
+*   [Speed-Academy (⭐22)](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy to Windows.
+*   [Speed-Outcast (⭐18)](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast to Windows.
 
 ### Adventure
 
@@ -392,7 +397,7 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [Heretic2R (⭐278)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
+*   [Heretic2R (⭐278)](https://github.com/m-x-d/Heretic2R) - Heretic II decomp to Windows.
 
 ### Platformer
 
@@ -457,7 +462,7 @@ Actively maintained open-source game remakes.
 *   [hi-octane202x (⭐16)](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
 *   [HiOctaneTools (⭐34)](https://github.com/movAX13h/HiOctaneTools) - Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).
 *   [retruxx (⭐9)](https://github.com/mindflower/retruxx) - Reverse engineered Hard Truck Apocalypse.
-*   [tube64 (⭐27)](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
+*   [tube64 (⭐27)](https://github.com/rep-stosw/tube64) - 64-bit version of DOS game Tube (Bullfrog, 1994)
 
 ### Strategy
 
@@ -585,19 +590,13 @@ Actively maintained open-source game remakes.
 
 ### Action
 
-*   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
+*   [OpenRW](https://openrw.org/) - A cross-platform, open-source reimplementation of Rockstar Games' Grand Theft Auto III.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### RPG
 
 *   [Abyss Engine (⭐331)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
-
-## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
-
-### Action
-
-*   [TR1X (⭐1k)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -609,7 +608,7 @@ Actively maintained open-source game remakes.
 
 ### Racing
 
-*   [wipEout Rewrite (⭐3k)](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
+*   [wipEout Rewrite (⭐3k)](https://github.com/phoboslab/wipeout-rewrite) - Reimplementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
 
 ### Strategy
 
@@ -724,7 +723,7 @@ Actively maintained open-source game remakes.
 ### Action
 
 *   [Carnage3D (⭐574)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
-*   [donut (⭐488)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
+*   [donut (⭐488)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run to Windows and Linux.
 *   [OpenJK (⭐2.3k)](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 *   [OpenLara (⭐5.1k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 *   [OpenMB (⭐146)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.

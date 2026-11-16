@@ -6,6 +6,12 @@ Awesome online talks and screencasts
 
 [ [Daily](/content/JanVanRyswyck/awesome-talks/README.md) / Weekly / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Cognitive Development
+
+*   [Grokking the Brain: What AI Reveals About How You Really Learn](https://www.youtube.com/watch?v=vD7fLhkU0lc) by **Barbara Oakly** (GOTO Copenhagen 2026) \[49:55]
+
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
 ### Cognitive Development

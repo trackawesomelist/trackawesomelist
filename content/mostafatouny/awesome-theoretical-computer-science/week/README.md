@@ -6,6 +6,12 @@ Math & CS awesome List, distinguished by proof and logic technique
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Big Lists / Monograph
+
+*   [Error Correction Zoo](https://errorcorrectionzoo.org/) - Catalog of classical and quantum error-correcting codes, organized by their relations, with references.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Other / Monograph
@@ -273,7 +279,7 @@ Math & CS awesome List, distinguished by proof and logic technique
 ### Cheat Sheets / Lecture Videos Playlist
 
 *   [Mathematics (⭐17k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐9.3k)](https://github.com/ossu/math) and [CS (⭐210k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Math (⭐9.4k)](https://github.com/ossu/math) and [CS (⭐211k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 

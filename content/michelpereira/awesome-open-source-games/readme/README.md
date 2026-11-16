@@ -154,6 +154,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Survivor (⭐129)](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 *   [WPilot (⭐164)](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 *   [Wave Rider Nusantara (⭐6)](https://github.com/abusofianid/game-wave-rider-nusantara) - Arcade game inspired by Indonesian culture, featuring the legendary character Gatot Kaca and traditional Batik patterns. Built with React and JavaScript.
+*   [XPilot TNG (⭐0)](https://github.com/birgander2/XPilot-TNG) - Modernized SDL3 fork of the classic 90s multiplayer space combat game XPilot, featuring improved graphics, smartbots, and voice chat.
 *   [Zedinvaders (⭐8)](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 *   [111 one-button games (⭐91)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
@@ -318,8 +319,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Ioquake3 (⭐2.9k)](https://github.com/ioquake/ioq3) - Free software FPS engine that can be used to play Quake 3, or make your own game.
 *   [Nazi Zombies Portable (⭐870)](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 *   [OpenLara (⭐5.1k)](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine.
-*   [Openspades (⭐1.2k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
-*   [Red Eclipse (⭐542)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
+*   [Openspades (⭐1.3k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
+*   [Red Eclipse (⭐545)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 *   [Urban Terror (⭐77)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 *   [Warsow (⭐80)](https://github.com/Warsow/qfusion) - Fast-paced FPS in a futuristic cartoonish world.
@@ -459,7 +460,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Wargus (⭐450)](https://github.com/Wargus/wargus) - Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 *   [Warzone 2100 (⭐4.1k)](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 *   [Wyrmsun (⭐334)](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
-*   [Zero-K (⭐877)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐884)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
 *   [Standard of Iron (⭐63)](https://github.com/djeada/Standard-of-Iron) - Single-player real-time strategy game set during an alternate Second Punic War, with formation command, direct commander control, and settlement management.
 
@@ -546,7 +547,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [GemRB (⭐1.3k)](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 *   [GenesisEngine (⭐46)](https://github.com/SaintGimp/GenesisEngine) - Allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 *   [Gladiator 3D (⭐32)](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
-*   [Godot (⭐119k)](https://github.com/godotengine/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+*   [Godot (⭐120k)](https://github.com/godotengine/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
 *   [HaxeFlixel (⭐2.2k)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 *   [Ikemen GO (⭐1.7k)](https://github.com/ikemen-engine/Ikemen-GO/) - Open-source fighting game engine that supports MUGEN resources. Written in Go.
 *   [JiGS (⭐87)](https://github.com/Techbot/JiGS-RPG-engine) - Online RPG and Trading Game Engine built in PHP.

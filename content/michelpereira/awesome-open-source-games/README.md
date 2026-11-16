@@ -6,6 +6,12 @@ Collection of Games that have the source code available on GitHub
 
 [ Daily / [Weekly](/content/michelpereira/awesome-open-source-games/week/README.md) / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 
+## [Nov 16, 2026](/content/2026/11/16/README.md)
+
+### Browser-Based / Arcade
+
+*   [XPilot TNG (⭐0)](https://github.com/birgander2/XPilot-TNG) - Modernized SDL3 fork of the classic 90s multiplayer space combat game XPilot, featuring improved graphics, smartbots, and voice chat.
+
 ## [Nov 12, 2026](/content/2026/11/12/README.md)
 
 ### Browser-Based / Boardgame
@@ -145,7 +151,7 @@ Collection of Games that have the source code available on GitHub
 *   [Cocos2d for iPhone (⭐4k)](https://github.com/cocos2d/cocos2d-objc) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
 *   [CutJavaScript (⭐2.6k)](https://github.com/piqnt/stage.js) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 *   [Flashpunk (⭐396)](https://github.com/useflashpunk/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
-*   [Godot (⭐119k)](https://github.com/godotengine/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+*   [Godot (⭐120k)](https://github.com/godotengine/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
 *   [JiGS (⭐87)](https://github.com/Techbot/JiGS-RPG-engine) - Online RPG and Trading Game Engine built in PHP.
 *   [MonoGame (⭐15k)](https://github.com/MonoGame/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 *   [panda.js (⭐771)](https://github.com/ekelokorpi/panda-engine) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
@@ -222,7 +228,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / FPS
 
-*   [Red Eclipse (⭐542)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
+*   [Red Eclipse (⭐545)](https://github.com/redeclipse/base) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 *   [Warsow (⭐80)](https://github.com/Warsow/qfusion) - Fast-paced FPS in a futuristic cartoonish world.
 *   [Xonotic (⭐553)](https://github.com/xonotic/xonotic) - Addictive arena-style first person shooter with crisp movement and a wide array of weapons.
 
@@ -386,7 +392,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Strategy
 
-*   [Zero-K (⭐877)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐884)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
 
 ## [Mar 31, 2022](/content/2022/03/31/README.md)
@@ -693,7 +699,7 @@ Collection of Games that have the source code available on GitHub
 *   [Freedoom (⭐1.4k)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 *   [GlPortal (⭐389)](https://github.com/GlPortal/glPortal) - Modern 3D game and engine with portals written in C++.
 *   [Ioquake3 (⭐2.9k)](https://github.com/ioquake/ioq3) - Free software FPS engine that can be used to play Quake 3, or make your own game.
-*   [Openspades (⭐1.2k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
+*   [Openspades (⭐1.3k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 
 ### Native / RPG
