@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Nov 17, 2026](/content/2026/11/17/README.md)
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [PicoShare](https://codefloe.com/mtlynch/picoshare) - Minimalist, easy-to-host service for sharing images and other files. ([Clients](https://codefloe.com/mtlynch/picoshare#third-party-clients)) `AGPL-3.0` `Go/Docker`
+
+### Software / Search Engines
+
+*   [Hister](https://nogon.eu/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐6.3k)](https://github.com/asciimoo/nogon)) `AGPL-3.0` `Go/Docker`
+
 ## [Nov 16, 2026](/content/2026/11/16/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
@@ -567,10 +577,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [flowctl](https://flowctl.net) - Self-service workflow execution platform with approvals, remote execution and scheduling. ([Demo](https://demo.flowctl.net), [Source Code (⭐346)](https://github.com/cvhariharan/flowctl)) `Apache-2.0` `Go/Docker`
 
-### Software / Search Engines
-
-*   [Hister](https://hister.org/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐6.3k)](https://github.com/asciimoo/hister)) `AGPL-3.0` `Go/Docker`
-
 ### Software / Software Development - Testing
 
 *   [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code (⭐6)](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`
@@ -698,10 +704,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Inkheart](https://gitlab.com/Nystik/inkheart) - Lightweight PDF library and reader. `Apache-2.0` `Docker`
 *   [kiwix-serve (⭐1k)](https://github.com/kiwix/kiwix-tools) - HTTP daemon for serving wikis from ZIM files. `GPL-3.0` `C++`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [PicoShare (⭐3.1k)](https://github.com/mtlynch/picoshare) - Minimalist, easy-to-host service for sharing images and other files. ([Clients (⭐3.1k)](https://github.com/mtlynch/picoshare#third-party-clients)) `AGPL-3.0` `Go/Docker`
 
 ### Software / Games
 

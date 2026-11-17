@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [seed-poet (⭐0)](https://github.com/abkvme/seed-poet) - BIP39 mnemonic generator that arranges 12 or 24-word seed phrases as rhyming couplets, with a JavaScript port that produces identical output.
 
+### Networking
+
+*   [go-socket.io (⭐2)](https://github.com/sshaplygin/go-socket.io) - Socket.IO server and client with namespaces, rooms and acknowledgements, for socket.io-client 1.x and 2.x.
+
 ## [Nov 16, 2026](/content/2026/11/16/README.md)
 
 ### Financial

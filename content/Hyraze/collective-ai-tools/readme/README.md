@@ -765,6 +765,7 @@ Use these hashtags in search to filter out the tools
 *   [Cortexa](https://cortexanote.com/en/scribe/) - AI medical scribe that generates reviewable clinical notes, with a free tier for unlimited transcription and an optional clip-on recorder. `#freemium`
 *   [Enlitic](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
 *   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
+*   [Telo](https://telo.ferryman.app/) - iPhone and Apple Watch health dashboard with optional read-only MCP access for authorized questions about synced sleep, activity, readiness scores, and health logs. `#freemium` `#mcp`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -987,6 +988,7 @@ Use these hashtags in search to filter out the tools
 ## Music
 
 *   [AIVA](https://www.aiva.ai/) - AI composer that creates original music for various purposes `#freemium`
+*   [AudioMIDI](https://audiomidi.app/) - Converts short melodies or solo-instrument audio into editable MIDI with browser note preview and export; no-signup Quick mode and three free Deep transcriptions per day. `#free` `#music` `#midi`
 *   [Boomy](https://boomy.com/) - Create and share AI-generated music in seconds `#freemium`
 *   [Mubert](https://mubert.com/) - AI-generated music for content creators and businesses `#freemium`
 *   [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. `#free`

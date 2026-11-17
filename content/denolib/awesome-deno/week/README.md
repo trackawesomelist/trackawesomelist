@@ -8,13 +8,23 @@ Curated list of awesome things related to Deno
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Modules / CLI utils
+
+*   [clinfer (⭐10)](https://github.com/jersou/clinfer) - Automatically generate CLIs from JS objects, classes or ES modules.
+
 ### Modules / Database
 
 *   [kvdock (⭐4)](https://github.com/zisam-glitch/kvdock) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
+*   [nessie (⭐519)](https://github.com/lmxrd/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+
+### Modules / Frontend framework
+
+*   [fresh (⭐14k)](https://github.com/freshframework/fresh) - The next-gen web framework.
 
 ### Modules / Image
 
 *   [aigifmaker (⭐0)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
+*   [ImageScript (⭐685)](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Modules / Social Platform APIs
 
@@ -24,6 +34,10 @@ Curated list of awesome things related to Deno
 
 *   [injecute (⭐5)](https://github.com/Masyaka/injecute) - Type-safe dependency injection container with explicit wiring and no decorators.
 *   [json-schema-for-llms (⭐1)](https://github.com/carmenaresearch/json-schema-for-llms) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
+
+### Modules / Validation
+
+*   [is-kit (⭐196)](https://github.com/necoz-oss/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 
 ### Modules / Web utils
 
@@ -61,12 +75,6 @@ Curated list of awesome things related to Deno
 ### Showcases / XML
 
 *   [globnotes (⭐6)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
-
-## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
-
-### Modules / Validation
-
-*   [is-kit (⭐192)](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
@@ -141,7 +149,6 @@ Curated list of awesome things related to Deno
 ### Modules / Testing
 
 *   [superdeno (⭐123)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-*   [superoak (⭐121)](https://github.com/cmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 
 ### Modules / Utils
 
@@ -237,10 +244,6 @@ Curated list of awesome things related to Deno
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
-### Modules / CLI utils
-
-*   [clite (⭐10)](https://github.com/jersou/clite-parser) - Automatic CLI generation from a class.
-
 ### Tools / XML
 
 *   [studio-pack-generator (⭐128)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
@@ -330,12 +333,6 @@ Curated list of awesome things related to Deno
 
 *   [colors (⭐7)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 
-## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
-
-### Modules / Frontend framework
-
-*   [fresh (⭐14k)](https://github.com/denoland/fresh) - The next-gen web framework.
-
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Modules / Testing
@@ -364,10 +361,6 @@ Curated list of awesome things related to Deno
 ### Modules / Web framework
 
 *   [hono (⭐33k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-
-### Modules / Web utils
-
-*   [fresh\_chart (⭐153)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 
 ### Showcases / XML
 
@@ -533,12 +526,6 @@ Curated list of awesome things related to Deno
 
 *   [solc (⭐72)](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 
-## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
-
-### Modules / Image
-
-*   [ImageScript (⭐685)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
-
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
 ### Modules / Template engine
@@ -565,19 +552,12 @@ Curated list of awesome things related to Deno
 ### Modules / Testing
 
 *   [deno-puppeteer (⭐457)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
-*   [rhum (⭐90)](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
 *   [unexpected (⭐367)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Modules / Utils
 
 *   [computed\_types (⭐358)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [wu-diff-js (⭐19)](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
-
-### Modules / Web framework
-
-*   [oak (⭐5.4k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
-    *   [oak-http-proxy (⭐42)](https://github.com/cmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
-    *   [oak-routing-ctrl (⭐10)](https://github.com/Thesephi/oak-routing-ctrl) - TypeScript Decorators for easy scaffolding API services with the oak framework.
 
 ### Modules / WebSocket
 
@@ -768,10 +748,6 @@ Curated list of awesome things related to Deno
 *   [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
-
-### Modules / Database
-
-*   [nessie (⭐518)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ### Modules / Utils
 

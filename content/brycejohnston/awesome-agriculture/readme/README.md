@@ -33,6 +33,7 @@ Contributions welcome! Please follow the [contributing guidelines (⭐1.9k)](htt
 *   [IoT, Hardware](#iot-hardware)
 *   [Knowledgebases and Learning Resources](#knowledgebases-and-learning-resources)
 *   [Machine Learning and AI](#machine-learning-and-ai)
+*   [Markets and Food Systems](#markets-and-food-systems)
 *   [Remote Sensing and Imagery](#remote-sensing-and-imagery)
 
 ## Automation and Robotics
@@ -47,6 +48,7 @@ Contributions welcome! Please follow the [contributing guidelines (⭐1.9k)](htt
 *   [Fields2Cover (⭐929)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 *   [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project
 *   [ROS Agriculture](https://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.
+*   [Sowbot (⭐104)](https://github.com/Agroecology-Lab/Sowbot) - Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.
 *   [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
 
 ## Calculators
@@ -65,13 +67,22 @@ Contributions welcome! Please follow the [contributing guidelines (⭐1.9k)](htt
 *   [frostline (⭐165)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
 *   [GSODR (⭐98)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
 *   [iem (⭐196)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
+*   [MAgPIE (⭐145)](https://github.com/magpiemodel/magpie) - Global land-use allocation model linking agricultural production, land use and environmental impacts.
 *   [PyETo (⭐179)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
 *   [pyTSEB (⭐172)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
 *   [soilDB (⭐102)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+*   [SoilHive Core (⭐9)](https://github.com/varda-ag/soilhive-core) - Federated platform for discovering, harmonising and sharing soil datasets across institutions.
 
 ## Crop Modeling, Phenotyping, and Pathology
 
+*   [apsimNGpy (⭐37)](https://github.com/MAGALA-RICHARD/apsimNGpy) - Python interface for running and analysing APSIM Next Generation simulations.
+*   [CroptimizR (⭐32)](https://github.com/SticsRPacks/CroptimizR) - R package for parameter estimation and uncertainty analysis of crop models.
+*   [DSSAT (⭐240)](https://github.com/DSSAT/dssat-csm-os) - Decision Support System for Agrotechnology Transfer cropping system model.
+*   [Epicrop.jl](https://codeberg.org/adamhsparks/Epicrop.jl) - Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.
+*   [FielDHub (⭐60)](https://github.com/DidierMurilloF/FielDHub) - R/Shiny app for designing agricultural field experiments.
 *   [Open Plant Pathology](https://openplantpathology.netlify.app/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
+*   [Phenomenal (⭐45)](https://github.com/openalea/phenomenal) - 3D plant phenotyping and organ segmentation from multi-view images.
+*   [PlantGL (⭐81)](https://github.com/openalea/plantgl) - Geometric library for modelling and visualising plant architecture.
 
 ## Datasets
 
@@ -116,6 +127,7 @@ Country and location-specific reference data for markets, land records, and grow
 *   [Botanica (⭐21)](https://github.com/Michael-A-Kuykendall/botanica) - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 *   [ClearAg API Examples (⭐2)](https://github.com/DTNClearAg/clearag_api_examples) - A collection of code examples using the ClearAg APIs.
 *   [Fiware AgriFood](https://www.fiware.org/community/smart-agrifood/) - Open Source data standards and IoT framework that help connect farm systems and enable practical smart farming and agrifood solutions—part of the larger Fiware.org project.
+*   [FoodOn (⭐249)](https://github.com/FoodOntology/foodon) - Open ontology for food, food sources and food processing.
 *   [ISO-15143-3-API-OAuth2-CSharp-Example (⭐0)](https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example) - C# example for the John Deere ISO 15143-3 machine data API.
 *   [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
 *   [Open Agri Common Semantic Model (OCSM) (⭐7)](https://github.com/agstack/OpenAgri-OCSM) - Ontology reusing existing standards to support semantic interoperability across smart farming solutions.
@@ -131,6 +143,8 @@ Country and location-specific reference data for markets, land records, and grow
 
 ## Farm Management Systems and Record Keeping
 
+*   [AnimalTrakker](https://gitlab.com/animaltrakker_system/animaltrakker_farm_mobile) - Mobile record keeping for sheep and goat flocks.
+*   [DigiAgriApp](https://gitlab.com/digiagriapp/digiagriapp-server) - Field and orchard data management server with sensor and remote-sensing integration.
 *   [Ekylibre (⭐496)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 *   [farmOS (⭐1.4k)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
 *   [GrowerHub (⭐7)](https://github.com/aspinozaxxx-lab/growerhub) - Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.
@@ -162,12 +176,15 @@ Country and location-specific reference data for markets, land records, and grow
 *   [AgOpenGPS (⭐984)](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag precision mapping and section control software.
 *   [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
 *   [Farm-Data-Relay-System (⭐631)](https://github.com/timmbogner/Farm-Data-Relay-System) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
+*   [Mycodo (⭐3.3k)](https://github.com/kizniche/Mycodo) - Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.
 *   [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 *   [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS
 *   [OpenMinder (⭐47)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+*   [OpenSprinkler (⭐569)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - Firmware for the open irrigation controller.
 *   [OpenWeedLocator (⭐509)](https://github.com/geezacoleman/OpenWeedLocator) - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 *   [Simplesteer (⭐6)](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 *   [Smart Farming Thingsboard (⭐7)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
+*   [Smart Irrigation (⭐572)](https://github.com/altmenorg/HAsmartirrigation) - Home Assistant integration that schedules irrigation from evapotranspiration.
 
 ## Knowledgebases and Learning Resources
 
@@ -184,12 +201,27 @@ Country and location-specific reference data for markets, land records, and grow
 *   [HealthyCropping (⭐4)](https://github.com/keylorpineda/healthycropping) - Android crop disease diagnosis application in development, using on-device computer vision for offline use.
 *   [PlantCV (⭐841)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
+## Markets and Food Systems
+
+Software for moving food beyond the farm gate: farmer marketplaces, food co-ops, community-supported agriculture (CSA) administration and food rescue.
+
+*   [FoodCoopShop (⭐124)](https://github.com/foodcoopshop/foodcoopshop) - Ordering and stock software for food co-ops and local farm shops.
+*   [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) - Platform behind foodsharing.de, coordinating volunteers who rescue surplus food.
+*   [Foodsoft (⭐360)](https://github.com/foodcoops/foodsoft) - Ordering, accounting and member management for non-profit food co-ops.
+*   [Juntagrico (⭐55)](https://github.com/juntagrico/juntagrico) - Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.
+*   [Karrot](https://codeberg.org/karrot/karrot-frontend) - Organising tool for grassroots groups that save and share food.
+*   [Open Food Network (⭐1.3k)](https://github.com/openfoodfoundation/openfoodnetwork) - Online marketplace for farmers and food hubs to sell directly to eaters.
+*   [OpenOlitor (⭐20)](https://github.com/OpenOlitor/openolitor-server) - Administration software for community-supported agriculture initiatives.
+*   [Teikei (⭐66)](https://github.com/teikei/teikei) - Map platform connecting consumers with community-supported agriculture (CSA) farms.
+
 ## Remote Sensing and Imagery
 
 *   [Awesome Sentinel (⭐587)](https://github.com/kr-stn/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 *   [Awesome Vegetation Index (⭐85)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
+*   [OpenDroneMap (⭐6.6k)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
 *   [Raster Vision (⭐2.2k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 *   [Sen2Agri (⭐133)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+*   [WebODM (⭐4.3k)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
 
 ## License
 

@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [CheezyPizza](https://www.cheezypizza.in) - Send files directly between browsers using WebRTC. No uploads, no cloud storage, and no middleman. Fast, secure, peer-to-peer file sharing. Forked from file.pizza. ([Demo](https://www.cheezypizza.in), [Source Code (⭐187)](https://github.com/hariharjeevan/cheezypizza)) `BSD-3-Clause` `Docker`
 
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [PicoShare](https://codefloe.com/mtlynch/picoshare) - Minimalist, easy-to-host service for sharing images and other files. ([Clients](https://codefloe.com/mtlynch/picoshare#third-party-clients)) `AGPL-3.0` `Go/Docker`
+
 ### Software / Media Streaming - Multimedia Streaming
 
 *   [RelayTV](https://relaytv.app) - Turns a Linux box connected to a television into a local playback endpoint. Send links from a phone, browse Jellyfin or Emby libraries, play IPTV channels, and drive playback from Home Assistant or HTTP (alternative to Chromecast). ([Source Code (⭐99)](https://github.com/mcgeezy/relaytv), [Clients (⭐1)](https://github.com/mcgeezy/relaytv-android)) `GPL-3.0` `Docker`
@@ -19,6 +23,10 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Personal Dashboards
 
 *   [Homer (⭐12k)](https://github.com/homer-dashboard/homer) - Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. ([Demo](https://homer-demo.netlify.app)) `Apache-2.0` `Docker/K8S/Nodejs`
+
+### Software / Search Engines
+
+*   [Hister](https://nogon.eu/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐6.3k)](https://github.com/asciimoo/nogon)) `AGPL-3.0` `Go/Docker`
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
@@ -503,10 +511,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐856)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 *   [Youtarr (⭐1.8k)](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
 
-### Software / Search Engines
-
-*   [Hister](https://hister.org/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐6.3k)](https://github.com/asciimoo/hister)) `AGPL-3.0` `Go/Docker`
-
 ### Software / Software Development - Testing
 
 *   [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code (⭐6)](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`
@@ -616,10 +620,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Inkheart](https://gitlab.com/Nystik/inkheart) - Lightweight PDF library and reader. `Apache-2.0` `Docker`
 *   [kiwix-serve (⭐1k)](https://github.com/kiwix/kiwix-tools) - HTTP daemon for serving wikis from ZIM files. `GPL-3.0` `C++`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [PicoShare (⭐3.1k)](https://github.com/mtlynch/picoshare) - Minimalist, easy-to-host service for sharing images and other files. ([Clients (⭐3.1k)](https://github.com/mtlynch/picoshare#third-party-clients)) `AGPL-3.0` `Go/Docker`
 
 ### Software / Games
 

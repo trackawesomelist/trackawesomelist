@@ -168,7 +168,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [gauravnumber/move.zig (⭐6)](https://github.com/gauravnumber/move.zig) - Zig-based mv with auto conflict resolution.
 *   [xcaeser/zig-dotenv (⭐31)](https://github.com/xcaeser/zig-dotenv) - A powerful Zig library for loading, parsing, and managing environment variables from .env files.
 *   [deatil/zig-dotenv (⭐2)](https://github.com/deatil/zig-dotenv) - A parse and set env library for Zig.
-*   [ktarasov/zigrep](https://github.com/ktarasov/zigrep) - A training project on the implementation of the similarity of the grep utility in Linux in the Zig language.
+*   [ktarasov/zigrep (⭐3)](https://github.com/ktarasov/zigrep) - A training project on the implementation of the similarity of the grep utility in Linux in the Zig language.
 *   [hspak/geteltorito-zig (⭐6)](https://github.com/hspak/geteltorito-zig) - Re-write of geteltorito in Zig.
 *   [NilsIrl/dockerc (⭐4.9k)](https://github.com/NilsIrl/dockerc) - Container image to single executable compiler.
 *   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
@@ -212,7 +212,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Memory Allocator and Management
 
 *   [Aandreba/zigrc (⭐95)](https://github.com/Aandreba/zigrc) - Zig reference-counted pointers inspired by Rust's Rc and Arc. [aandreba.github.io/zigrc/](https://aandreba.github.io/zigrc/).
-*   [DutchGhost/zorrow](https://github.com/DutchGhost/zorrow) - Borrowchecker in Zig. This is a userlevel implementation of borrowchk in Zig.
+*   [DutchGhost/zorrow (⭐119)](https://github.com/DutchGhost/zorrow) - Borrowchecker in Zig. This is a userlevel implementation of borrowchk in Zig.
 *   [mdsteele/ziegfried (⭐28)](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator for Zig.
 *   [fengb/zee\_alloc (⭐95)](https://github.com/fengb/zee_alloc) - Tiny Zig allocator primarily targeting WebAssembly.
 *   [suirad/Seal (⭐8)](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage.
@@ -233,11 +233,11 @@ A collaborative list of awesome Zig libraries and resources.
 *   [TheAlgorithms/Zig (⭐421)](https://github.com/TheAlgorithms/Zig) - Collection of Algorithms implemented in Zig.
 *   [ramsyana/Zig-Math-Algorithms (⭐21)](https://github.com/ramsyana/Zig-Math-Algorithms) - A collection of math algorithms in Zig—primes, Fibonacci, GCD, Euler's Totient, & more! Perfect for learning Zig & math.
 *   [alichraghi/zort (⭐81)](https://github.com/alichraghi/zort) - Zort: Sorting algorithms in Zig.
-*   [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - Sparse sets for Zig, supporting both SOA and AOS style.
+*   [Srekel/zig-sparse-set (⭐82)](https://github.com/Srekel/zig-sparse-set) - Sparse sets for Zig, supporting both SOA and AOS style.
 *   [mitchellh/zig-graph (⭐123)](https://github.com/mitchellh/zig-graph) - Directed graph data structure for Zig.
 *   [ok-ryoko/multiring.zig](https://github.com/ok-ryoko/multiring.zig) - Singly linked, cyclic and hierarchical abstract data type in Zig.
 *   [jakubgiesler/VecZig (⭐13)](https://github.com/jakubgiesler/VecZig) - Vector implementation in Zig.
-*   [JacobCrabill/btree.zig](https://github.com/JacobCrabill/btree.zig) - Behavior Tree library written in Zig.
+*   [JacobCrabill/btree.zig (⭐5)](https://github.com/JacobCrabill/btree.zig) - Behavior Tree library written in Zig.
 *   [DutchGhost/ArrayVec (⭐17)](https://github.com/DutchGhost/ArrayVec) - A library with an ArrayList-like API, except its a static array.
 *   [emekoi/deque.zig (⭐17)](https://github.com/emekoi/deque.zig) - A lock free chase-lev deque for Zig.
 *   [kristoff-it/zig-cuckoofilter (⭐83)](https://github.com/kristoff-it/zig-cuckoofilter) - Production-ready Cuckoo Filters for any C ABI compatible target.
@@ -267,7 +267,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Parser Library
 
 *   [OrlovEvgeny/zigquery (⭐13)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
-*   [tree-sitter/zig-tree-sitter](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+*   [tree-sitter/zig-tree-sitter (⭐128)](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 *   [eoan-ermine/zig-strparse (⭐1)](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
 
 ### Logging Processing
@@ -286,7 +286,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [shaik-abdul-thouhid/ezi-gex (⭐5)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 *   [zoptia/zoptia0regex (⭐6)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
 *   [xcaeser/glob.zig (⭐19)](https://github.com/xcaeser/glob.zig) - Fast and reliable glob pattern matching in pure Zig.
-*   [jecolon/ziglyph](https://github.com/jecolon/ziglyph) - Unicode text processing for the Zig programming language.
+*   [jecolon/ziglyph (⭐215)](https://github.com/jecolon/ziglyph) - Unicode text processing for the Zig programming language.
 *   [kubkon/zig-yaml (⭐294)](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
 *   [ezequielramis/zimdjson (⭐176)](https://github.com/ezequielramis/zimdjson) - Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.
 *   [nektro/zig-json (⭐18)](https://github.com/nektro/zig-json) - A JSON library for inspecting arbitrary values.
@@ -320,6 +320,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [pedronaugusto/strand (⭐0)](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 *   [JacobCrabill/zigdown (⭐139)](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
 *   [guanchzhou/zig-pkl (⭐0)](https://github.com/guanchzhou/zig-pkl) - Bindings for Apple Pkl over the Message Passing API, with typed evaluation, custom and external readers, and a Pkl-to-Zig code generator. AI-assisted.
+*   [h0rv/jsonschema.zig (⭐2)](https://github.com/h0rv/jsonschema.zig) - JSON Schema Draft 2020-12 validation and schema generation from Zig types. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -491,6 +492,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [guanchzhou/zig-klient (⭐2)](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
 *   [zig-nostr/deed (⭐5)](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
 *   [guanchzhou/zig-telegram (⭐1)](https://github.com/guanchzhou/zig-telegram) - Telegram Bot API 10.3 client, pure-Zig MTProto 2.0 core, and TDLib bridge for Zig 0.17. AI-assisted.
+*   [ANODs/blackwall (⭐2)](https://github.com/ANODs/blackwall) - VPN client for macOS, Windows, Linux and Android with its own TCP/IP stack, TLS 1.3, REALITY, VLESS, Trojan, VMess and Shadowsocks, and a route per application. AI-generated.
 
 ### Browser
 
@@ -520,6 +522,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [GuneshRaj/zigar (⭐3)](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 *   [llllOllOOll/spider (⭐53)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 *   [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
+*   [h0rv/zchema (⭐4)](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
 
 ### Web3 Framework
 
@@ -632,6 +635,10 @@ A collaborative list of awesome Zig libraries and resources.
 *   [guanchzhou/zig-lsh (⭐0)](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
 *   [guanchzhou/zig-rabitq (⭐0)](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
 *   [guanchzhou/zig-pq (⭐0)](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
+*   [h0rv/instructor.zig (⭐2)](https://github.com/h0rv/instructor.zig) - Structured LLM output with validation and retries for OpenAI and Anthropic. AI-assisted.
+*   [h0rv/openai.zig (⭐1)](https://github.com/h0rv/openai.zig) - Generated SDK for the OpenAI API. AI-assisted.
+*   [h0rv/anthropic.zig (⭐0)](https://github.com/h0rv/anthropic.zig) - Generated SDK for the Anthropic API. AI-assisted.
+*   [h0rv/openresponses.zig (⭐0)](https://github.com/h0rv/openresponses.zig) - Generated SDK for the Open Responses API specification. AI-assisted.
 
 ### Machine Learning
 

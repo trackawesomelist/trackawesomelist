@@ -38,6 +38,7 @@
 
 ### Operations / Monitoring
 
+*   [sip-exporter (⭐58)](https://github.com/aibudaevv/sip-exporter) - Open-source eBPF sensor exporting Prometheus metrics and Grafana dashboards for host-observed IPv4/UDP SIP and correlated RTP/RTCP.
 *   [rtcStats (⭐47)](https://github.com/rtcstats/rtcstats) - WebRTC API trace and getStats collection, storage and feature extraction tooling.
 *   [SIP3 Community Edition](https://sip3.io/docs/InstallationGuide.html) - Open source SIP/RTP capture, analysis and monitoring components with community deployment tooling.
 

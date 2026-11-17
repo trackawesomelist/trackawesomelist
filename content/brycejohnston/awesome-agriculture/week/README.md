@@ -6,6 +6,58 @@ Open source technology for agriculture, farming, and gardening
 
 [ [Daily](/content/brycejohnston/awesome-agriculture/README.md) / Weekly / [Overview](/content/brycejohnston/awesome-agriculture/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Automation and Robotics
+
+*   [Sowbot (⭐104)](https://github.com/Agroecology-Lab/Sowbot) - Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.
+
+### Climate, Environment and Weather
+
+*   [MAgPIE (⭐145)](https://github.com/magpiemodel/magpie) - Global land-use allocation model linking agricultural production, land use and environmental impacts.
+*   [SoilHive Core (⭐9)](https://github.com/varda-ag/soilhive-core) - Federated platform for discovering, harmonising and sharing soil datasets across institutions.
+
+### Crop Modeling, Phenotyping, and Pathology
+
+*   [apsimNGpy (⭐37)](https://github.com/MAGALA-RICHARD/apsimNGpy) - Python interface for running and analysing APSIM Next Generation simulations.
+*   [CroptimizR (⭐32)](https://github.com/SticsRPacks/CroptimizR) - R package for parameter estimation and uncertainty analysis of crop models.
+*   [DSSAT (⭐240)](https://github.com/DSSAT/dssat-csm-os) - Decision Support System for Agrotechnology Transfer cropping system model.
+*   [Epicrop.jl](https://codeberg.org/adamhsparks/Epicrop.jl) - Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.
+*   [FielDHub (⭐60)](https://github.com/DidierMurilloF/FielDHub) - R/Shiny app for designing agricultural field experiments.
+*   [Phenomenal (⭐45)](https://github.com/openalea/phenomenal) - 3D plant phenotyping and organ segmentation from multi-view images.
+*   [PlantGL (⭐81)](https://github.com/openalea/plantgl) - Geometric library for modelling and visualising plant architecture.
+
+### Data Standardization, Interoperability and APIs / United States
+
+*   [FoodOn (⭐249)](https://github.com/FoodOntology/foodon) - Open ontology for food, food sources and food processing.
+
+### Farm Management Systems and Record Keeping / United States
+
+*   [AnimalTrakker](https://gitlab.com/animaltrakker_system/animaltrakker_farm_mobile) - Mobile record keeping for sheep and goat flocks.
+*   [DigiAgriApp](https://gitlab.com/digiagriapp/digiagriapp-server) - Field and orchard data management server with sensor and remote-sensing integration.
+
+### IoT, Hardware / United States
+
+*   [Mycodo (⭐3.3k)](https://github.com/kizniche/Mycodo) - Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.
+*   [OpenSprinkler (⭐569)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - Firmware for the open irrigation controller.
+*   [Smart Irrigation (⭐572)](https://github.com/altmenorg/HAsmartirrigation) - Home Assistant integration that schedules irrigation from evapotranspiration.
+
+### Markets and Food Systems / United States
+
+*   [FoodCoopShop (⭐124)](https://github.com/foodcoopshop/foodcoopshop) - Ordering and stock software for food co-ops and local farm shops.
+*   [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) - Platform behind foodsharing.de, coordinating volunteers who rescue surplus food.
+*   [Foodsoft (⭐360)](https://github.com/foodcoops/foodsoft) - Ordering, accounting and member management for non-profit food co-ops.
+*   [Juntagrico (⭐55)](https://github.com/juntagrico/juntagrico) - Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.
+*   [Karrot](https://codeberg.org/karrot/karrot-frontend) - Organising tool for grassroots groups that save and share food.
+*   [Open Food Network (⭐1.3k)](https://github.com/openfoodfoundation/openfoodnetwork) - Online marketplace for farmers and food hubs to sell directly to eaters.
+*   [OpenOlitor (⭐20)](https://github.com/OpenOlitor/openolitor-server) - Administration software for community-supported agriculture initiatives.
+*   [Teikei (⭐66)](https://github.com/teikei/teikei) - Map platform connecting consumers with community-supported agriculture (CSA) farms.
+
+### Remote Sensing and Imagery / United States
+
+*   [OpenDroneMap (⭐6.6k)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
+*   [WebODM (⭐4.3k)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Automation and Robotics

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Nov 17, 2026](/content/2026/11/17/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Verified Supplement Evidence](https://huggingface.co/datasets/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
+
 ## [Nov 16, 2026](/content/2026/11/16/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -405,7 +411,6 @@
 ### Datasets / Book Deals (Affiliated)
 
 *   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
-*   [Verified Supplement Evidence (⭐3)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 ## [Jun 28, 2026](/content/2026/06/28/README.md)
 
@@ -1894,7 +1899,6 @@
 *   [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 *   [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
 *   [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
-*   [datascopeanalytics](https://datascopeanalytics.com/blog/)
 *   [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
 *   [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
 *   [Hilary Parker](https://hilaryparker.com/)
