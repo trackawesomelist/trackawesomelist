@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Blockchain
+
+*   [seed-poet (⭐0)](https://github.com/abkvme/seed-poet) - BIP39 mnemonic generator that arranges 12 or 24-word seed phrases as rhyming couplets, with a JavaScript port that produces identical output.
+
 ### Financial
 
 *   [canary (⭐11)](https://github.com/osauer/canary) - Clean-room client for the Interactive Brokers TWS socket protocol, in pkg/ibkr.

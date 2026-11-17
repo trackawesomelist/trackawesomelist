@@ -6,6 +6,34 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Modules / Database
+
+*   [kvdock (⭐4)](https://github.com/zisam-glitch/kvdock) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
+
+### Modules / Image
+
+*   [aigifmaker (⭐0)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
+
+### Modules / Social Platform APIs
+
+*   [Circe (⭐1)](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
+
+### Modules / Utils
+
+*   [injecute (⭐5)](https://github.com/Masyaka/injecute) - Type-safe dependency injection container with explicit wiring and no decorators.
+*   [json-schema-for-llms (⭐1)](https://github.com/carmenaresearch/json-schema-for-llms) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
+
+### Modules / Web utils
+
+*   [linkpeek (⭐18)](https://github.com/thegruber/linkpeek) - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
+
+### Tools / XML
+
+*   [bare-devcontainer/templates (⭐3)](https://github.com/bare-devcontainer/templates/tree/main/src/deno) - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images (⭐3)](https://github.com/bare-devcontainer/images/tree/main/src/deno).
+*   [copilotz (⭐6)](https://github.com/copilotzhq/copilotz) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Modules / Static site generator
@@ -38,13 +66,13 @@ Curated list of awesome things related to Deno
 
 ### Modules / Validation
 
-*   [is-kit (⭐139)](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
+*   [is-kit (⭐192)](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 
 ## [Oct 19 - Oct 25, 2026](/content/2026/42/README.md)
 
 ### Modules / Testing
 
-*   [keploy (⭐19k)](https://github.com/keploy/keploy) - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
+*   [keploy (⭐20k)](https://github.com/keploy/keploy) - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
 
 ### Tools / XML
 
@@ -70,7 +98,7 @@ Curated list of awesome things related to Deno
 
 ### Showcases / XML
 
-*   [Chobble Tickets (⭐36)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
+*   [Chobble Tickets (⭐37)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -94,7 +122,7 @@ Curated list of awesome things related to Deno
 ### Modules / Database
 
 *   [aloedb (⭐144)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
-*   [deno\_mongo (⭐511)](https://github.com/denodrivers/mongo) - MongoDB database driver.
+*   [deno\_mongo (⭐512)](https://github.com/denodrivers/mongo) - MongoDB database driver.
 *   [maxminddb (⭐18)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 
 ### Modules / Markdown
@@ -509,7 +537,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐680)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐685)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 

@@ -6,6 +6,12 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ [Daily](/content/manuzhang/awesome-streaming/README.md) / Weekly / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Table of Contents / Applications and Tools
+
+*   [stream-fraud (⭐1)](https://github.com/RishabhPande/stream-fraud) \[Python] - Teaching demo of simulated transaction scoring, sliding-window features, and PSI/KS drift replay; not production stream processing infrastructure.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
@@ -42,7 +48,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
 
-*   [PySAD (⭐315)](https://github.com/selimfirat/pysad) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Python library for anomaly detection on streaming data, with online detectors, stream simulators, and evaluators.
+*   [PySAD (⭐320)](https://github.com/selimfirat/pysad) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Python library for anomaly detection on streaming data, with online detectors, stream simulators, and evaluators.
 
 ## [Sep 28 - Oct 04, 2026](/content/2026/39/README.md)
 
@@ -65,7 +71,7 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Apache Pulsar (⭐15k)](https://github.com/apache/pulsar) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed pub-sub messaging and event streaming platform.
 *   [Apache StreamPipes (⭐756)](https://github.com/apache/streampipes) <sub>![Java/Python/TypeScript](https://img.shields.io/badge/language-Java%2FPython%2FTypeScript-blue)</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
 *   [AthenaX (⭐1.2k)](https://github.com/uber-archive/AthenaX) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Uber's retired SQL-based streaming analytics platform.
-*   [eKuiper (⭐1.7k)](https://github.com/lf-edge/ekuiper) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
+*   [eKuiper (⭐1.8k)](https://github.com/lf-edge/ekuiper) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
 *   [Fluvio (⭐5.3k)](https://github.com/fluvio-community/fluvio) <sub>![Rust/WASM](https://img.shields.io/badge/language-Rust%2FWASM-blue)</sub> - Composable, stateful data streaming system with programmable in-line computation.
 *   [LaminarDB (⭐52)](https://github.com/laminardb/laminardb) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Embeddable streaming SQL engine built on Apache Arrow and DataFusion.
 *   [LogDevice (⭐1.9k)](https://github.com/facebookarchive/LogDevice) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Facebook's archived distributed storage system for sequential data.
@@ -112,10 +118,10 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Brooklin (⭐973)](https://github.com/linkedin/Brooklin) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed system for reliable nearline data streaming between heterogeneous systems at scale.
 *   [Camus (⭐879)](https://github.com/LinkedInAttic/camus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - LinkedIn's retired, previous-generation Kafka-to-HDFS pipeline.
 *   [Databus (⭐3.7k)](https://github.com/linkedin/databus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - LinkedIn source-agnostic distributed change data capture system.
-*   [faucet-stream (⭐20)](https://github.com/faucet-hq/faucet-stream) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Config-driven platform and embeddable library for ETL, CDC, and streaming data movement.
+*   [faucet-stream (⭐22)](https://github.com/faucet-hq/faucet-stream) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Config-driven platform and embeddable library for ETL, CDC, and streaming data movement.
 *   [inGestr (⭐4k)](https://github.com/bruin-data/ingestr) <sub>![Go/Python](https://img.shields.io/badge/language-Go%2FPython-blue)</sub> - Command-line application and Python SDK for copying data between databases, SaaS applications, and data warehouses.
 *   [Redpanda Connect (⭐8.8k)](https://github.com/redpanda-data/connect) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Declarative stream processor for moving, enriching, transforming, and filtering data between sources and sinks.
-*   [Suro (⭐798)](https://github.com/Netflix/suro) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Netflix data pipeline for collecting, aggregating, and dispatching application events.
+*   [Suro (⭐799)](https://github.com/Netflix/suro) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Netflix data pipeline for collecting, aggregating, and dispatching application events.
 *   [yasdb (⭐4)](https://github.com/JayJamieson/yasdb) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Durable Streams protocol server backed by SlateDB object storage, with offset-based catch-up reads and SSE or long-poll tailing.
 
 ### Table of Contents / Applications and Tools
@@ -143,7 +149,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Wingfoil (⭐231)](https://github.com/wingfoil-io/wingfoil) <sub>![Rust/Python/TypeScript](https://img.shields.io/badge/language-Rust%2FPython%2FTypeScript-blue)</sub> - Graph-based stream processing engine for latency-critical systems.
+*   [Wingfoil (⭐232)](https://github.com/wingfoil-io/wingfoil) <sub>![Rust/Python/TypeScript](https://img.shields.io/badge/language-Rust%2FPython%2FTypeScript-blue)</sub> - Graph-based stream processing engine for latency-critical systems.
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
 
@@ -236,7 +242,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Applications and Tools
 
-*   [Substation (⭐409)](https://github.com/brexhq/substation) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Toolkit for routing, normalizing, and enriching security event and audit logs.
+*   [Substation (⭐410)](https://github.com/brexhq/substation) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Toolkit for routing, normalizing, and enriching security event and audit logs.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -309,7 +315,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [ksqlDB (⭐316)](https://github.com/confluentinc/ksql) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Source-available database purpose-built for stream processing applications.
+*   [ksqlDB (⭐318)](https://github.com/confluentinc/ksql) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Source-available database purpose-built for stream processing applications.
 *   [Materialize](https://materialize.com) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Incremental SQL engine for maintaining continuously updated views over changing data.
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
@@ -340,7 +346,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Gazette (⭐798)](https://github.com/gazette/core) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Cloud-storage-backed streaming infrastructure that combines SQL, batch, and millisecond-latency stream processing.
+*   [Gazette (⭐799)](https://github.com/gazette/core) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Cloud-storage-backed streaming infrastructure that combines SQL, batch, and millisecond-latency stream processing.
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
 
