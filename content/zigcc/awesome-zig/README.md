@@ -8,6 +8,14 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Nov 18, 2026](/content/2026/11/18/README.md)
 
+### Fundamentals / Text Editors
+
+*   [jinzhongjia/zig-analyzer (⭐4)](https://github.com/jinzhongjia/zig-analyzer) - A language server (LSP) for Zig, built on an incremental query engine. AI-generated.
+
+### Network & Web / Web Framework
+
+*   [deatil/zig-vin (⭐1)](https://github.com/deatil/zig-vin) - A template render library like jinja2 for zig. AI-assisted.
+
 ### Multimedia & Graphics / GUI
 
 *   [JonathanRiche/verde (⭐35)](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace. Use with Claude Code, Codex, Cursor, Grok and OpenCode. AI-generated.

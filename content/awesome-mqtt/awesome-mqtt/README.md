@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Nov 18, 2026](/content/2026/11/18/README.md)
+
+### Tools
+
+*   [Katman MQTT](https://www.katmanmqtt.com/) - MQTT client for Windows and Linux with reusable publish templates, selected-topic logging, and request/response debugging tools.
+
 ## [Nov 13, 2026](/content/2026/11/13/README.md)
 
 ### Platforms
@@ -78,7 +84,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [MockForge (⭐12)](https://github.com/SaaSy-Solutions/mockforge) - Open-source multi-protocol mock server written in Rust with a built-in MQTT 3.1.1/5.0 broker for testing, alongside HTTP, gRPC, GraphQL, WebSocket, Kafka and AMQP mocks.
+*   [MockForge (⭐13)](https://github.com/SaaSy-Solutions/mockforge) - Open-source multi-protocol mock server written in Rust with a built-in MQTT 3.1.1/5.0 broker for testing, alongside HTTP, gRPC, GraphQL, WebSocket, Kafka and AMQP mocks.
 
 ## [Oct 16, 2026](/content/2026/10/16/README.md)
 

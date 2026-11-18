@@ -10,6 +10,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
+*   [lthoangg/openagentd (⭐216)](https://github.com/lthoangg/openagentd) - A local coding agent as a desktop app (Tauri) and CLI with a native Rust backend; shows every tool call, diff and shell command, and works with your own model keys or local models [![CI](https://github.com/lthoangg/openagentd/actions/workflows/appv3.yml/badge.svg?branch=main)](https://github.com/lthoangg/openagentd/actions/workflows/appv3.yml)
 *   [VinceGHER/openwren (⭐121)](https://github.com/VinceGHER/openwren) - Privacy-first desktop mail client for Gmail and IMAP that keeps mail encrypted on your computer, built with Tauri [![CI](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml)
 
 ### Applications / Audio and Music
@@ -25,6 +26,10 @@ A curated list of Rust code and resources.
     *   [mohanson/gameboy (⭐1.4k)](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator. Forever boys!.
     *   [mvdnes/rboy (⭐667)](https://github.com/mvdnes/rboy) - A Gameboy Emulator
 
+### Applications / File manager
+
+*   [Koimsurai/Arke (⭐233)](https://github.com/Koimsurai/Arke) - A file explorer for Windows that never freezes, GPU-rendered with GPUI [![CI](https://github.com/Koimsurai/Arke/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Koimsurai/Arke/actions/workflows/ci.yml)
+
 ### Applications / Social networks
 
 *   XMPP
@@ -32,7 +37,12 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
+*   [Multron-Community/Multron-Download-Manager (⭐63)](https://github.com/Multron-Community/Multron-Download-Manager) - Cross-platform download manager built with Tauri that splits files into parallel connections, with browser integration, yt-dlp, FFmpeg, and BitTorrent support.
 *   [PaperPilot (⭐787)](https://github.com/KrushnaVardhanReddy/PaperPilot) - Privacy-first, local document toolkit, WebAssembly engine, and Model Context Protocol (MCP) server written in pure Rust. [![CI](https://github.com/KrushnaVardhanReddy/PaperPilot/actions/workflows/rust.yml/badge.svg)](https://github.com/KrushnaVardhanReddy/PaperPilot/actions)
+
+### Applications / Virtualization
+
+*   [libracoder/kiri (⭐11k)](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux that runs Docker images in a tiny Linux VM and speaks the Docker Engine API [![GitHub release](https://img.shields.io/github/v/release/libracoder/kiri)](https://github.com/libracoder/kiri/releases)
 
 ### Development tools / Workflow Automation
 
@@ -41,6 +51,10 @@ A curated list of Rust code and resources.
 ### Development tools / Static analysis
 
 *   [mokevnin/easement (⭐57)](https://github.com/mokevnin/easement) \[[easement](https://crates.io/crates/easement)] - Architecture quality gate for polyglot codebases: declare components and their allowed dependencies, and fail the build when Go, TypeScript, Python, Rust, Java or other code drifts from them [![CI](https://github.com/mokevnin/easement/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mokevnin/easement/actions/workflows/ci.yml)
+
+### Libraries / Audio and Music
+
+*   [gradium-ai/xn-ptts (⭐509)](https://github.com/gradium-ai/xn-ptts) \[[ptts](https://crates.io/crates/ptts)] - Streaming inference for Phonon text-to-speech models on CPU, GPU, mobile devices, and browsers [![Rust CI](https://github.com/gradium-ai/xn-ptts/actions/workflows/rust-ci.yml/badge.svg?branch=main)](https://github.com/gradium-ai/xn-ptts/actions/workflows/rust-ci.yml)
 
 ### Libraries / Home automation
 
@@ -6072,6 +6086,7 @@ A curated list of Rust code and resources.
     *   [cargo-rdme (⭐223)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] - Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
     *   [cargo-release](https://crates.io/crates/cargo-release) - tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
     *   [cargo-script](https://crates.io/crates/cargo-script) - lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
+    *   [cargo-semver-checks (⭐1.7k)](https://github.com/obi1kenobi/cargo-semver-checks) \[[cargo-semver-checks](https://crates.io/crates/cargo-semver-checks)] - Scan your Rust crate for semver violations [![CI](https://github.com/obi1kenobi/cargo-semver-checks/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/obi1kenobi/cargo-semver-checks/actions)
     *   [cargo-udeps (⭐2.1k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
     *   [cargo-update](https://crates.io/crates/cargo-update) - cargo subcommand for checking and applying updates to installed executables
     *   [cargo-watch](https://crates.io/crates/cargo-watch) - utility for cargo to compile projects when sources change

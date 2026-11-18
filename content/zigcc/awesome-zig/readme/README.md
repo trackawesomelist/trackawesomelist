@@ -118,6 +118,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [zed-extensions/Zig (⭐98)](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
 *   [jinzhongjia/zig-lamp (⭐41)](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig development experience in Neovim.
 *   [neurocyte/flow (⭐2.6k)](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
+*   [jinzhongjia/zig-analyzer (⭐4)](https://github.com/jinzhongjia/zig-analyzer) - A language server (LSP) for Zig, built on an incremental query engine. AI-generated.
 
 ### Linters
 
@@ -523,6 +524,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [llllOllOOll/spider (⭐53)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 *   [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
 *   [h0rv/zchema (⭐4)](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
+*   [deatil/zig-vin (⭐1)](https://github.com/deatil/zig-vin) - A template render library like jinja2 for zig. AI-assisted.
 
 ### Web3 Framework
 

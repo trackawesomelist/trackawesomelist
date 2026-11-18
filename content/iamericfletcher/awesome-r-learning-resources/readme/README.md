@@ -2,7 +2,7 @@
 
 A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) · ⭐ 566 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) · ⭐ 671 · 🏷️ Programming Languages
 
 [ [Daily](/content/iamericfletcher/awesome-r-learning-resources/README.md) / [Weekly](/content/iamericfletcher/awesome-r-learning-resources/week/README.md) / Overview ]
 
@@ -74,7 +74,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Shiny
 
-*   [Awesome R Shiny (⭐805)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
+*   [Awesome R Shiny (⭐875)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
 *   [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. Author: RStudio.
 *   [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
 *   [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. Author: Garrett Grolemund.
@@ -92,7 +92,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 *   [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) - A comprehensive and easy to follow tutorial that covers working with axes, titles, legends, backgrounds, grid lines, margins, multi-panel plots, colors, themes, lines, text, coordinates, chart types, ribbons, smoothings, and interactive plots. Author: Cédric Scherer.
 *   [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
-*   [Awesome ggplot2 (⭐1.6k)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
+*   [Awesome ggplot2 (⭐1.8k)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 *   [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 *   [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 *   [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
@@ -102,7 +102,7 @@ A curated collection of free resources to help deepen your understanding of the 
 *   [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
 *   [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
 *   [htmlwidgets for R](https://www.htmlwidgets.org/) - Showcase and gallery of the various interactive web visualizations you can build using R.
-*   [r-color-palettes (⭐1.5k)](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
+*   [r-color-palettes (⭐1.7k)](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
 *   [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualization Catalogue is a project developed by Severino Ribecca to create a library of different information visualization types.
 *   [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. Authors: Jonathan Schwabish, and Severino Ribecca.
 *   [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
@@ -111,7 +111,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Web Scraping
 
-*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐390)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐396)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
 
 ### Wrangling
 
@@ -149,6 +149,7 @@ A curated collection of free resources to help deepen your understanding of the 
 *   [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI and VOCA data pipelines, create R packages, reproducible reports, dashboards, and Shiny apps to communicate how his projects worldwide are progressing.
 *   [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 *   [Stats and R](https://www.statsandr.com/) - Through his blog, Antoine Soetewey (PhD in statistics) aims at helping academics and professionals working with data to grasp important statistical concepts, and shows how to apply them in R.
+*   [Tidy Ecology](https://tidyecology.com/) - Free R tutorials for ecologists, from diversity indices and ordination to occupancy, capture-recapture and population models, each with runnable code and a downloadable R script.
 
 ## Books
 
@@ -172,7 +173,7 @@ A curated collection of free resources to help deepen your understanding of the 
 *   [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. Author: Professor Robert Hijmans.
 *   [JavaScript for R](https://book.javascript-for-r.com/) - The ultimate aim of this work is to demonstrate to the reader the many great benefits one can reap by inviting JavaScript into their data science workflow. Author: John Coene.
 *   [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. Author: Danielle Navarro.
-*   [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book currently under early development and intended for a late 2020 release. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
+*   [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book published in April 2021. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
 *   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
 *   [Modern Statistics with R](http://www.modernstatisticswithr.com/) - From wrangling and exploring data to inference and predictive modelling. The book includes plenty of examples and more than 200 exercises with worked solutions. Author: Måns Thulin.
 *   [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc) - The intent of this book is to present data science from a pragmatic, practice-oriented viewpoint. The book concentrates on the process of data science, from the planning stages of a project, through the data collection and exploration, to the modeling, and finally to deployment and the sharing of results. Authors: Nina Zumel and John Mount.
@@ -198,7 +199,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 > A community of practice is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
 
-*   [TidyTuesday (⭐7k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐8.5k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 *   [R for Data Science (R4DS) Online Learning Community](https://www.rfordatasci.com/) - Founded by Jessie Mostipak (@kierisi) to create a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science book by Garrett Grolemund and Hadley Wickham. Grown into a community of R learners at all skill levels working together to improve their skills.
 
 ## Podcasts
@@ -215,7 +216,7 @@ A curated collection of free resources to help deepen your understanding of the 
 *   [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - Topics for the online course Data Analysis and Visualization Using R.
 *   [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - Topics include time series, analyzing word relationships with ggraph and tidytext, and tidymodels.
 *   [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - The UC Berkeley R Bootcamp playlists include videos on R basics, handling data, performing calculations, programming, graphics, workflows, and statistics.
-*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐381)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
+*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐385)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
 *   [Dean Attali](https://www.youtube.com/c/DAattali/videos) - Shiny, including several videos on debugging Shiny.
 *   [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) - Topics include numerical computing, generating random walks, markov chains, encoding categorical variables, probability, correlation plots, feature engineering, time series, binary classifiers, models, data.table, confusion matrices, machine learning, geocoding, summary statistics, and simulation.
 *   [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) - Do More with R playlist includes tutorials on shiny, data.table, getting API data, using Git and Github with R, writing your own packages, run Python in R code, RStudio addins and keyboard shortcuts, dashboards and flexdashboards.
@@ -235,7 +236,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ## Contributing
 
-*   Your contributions are always welcome! Please visit our [contributing.md (⭐566)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
+*   Your contributions are always welcome! Please visit our [contributing.md (⭐671)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 [Back to Top](#contents)
 

@@ -2,9 +2,15 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 448 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 459 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
+
+## [Nov 18, 2026](/content/2026/11/18/README.md)
+
+### Product Research and Pre-Launch
+
+*   [okdata](https://okdata.online/) - REST API and MCP server for Amazon product search, details, reviews and Best Sellers in 22 Amazon stores, plus 1688, Taobao and AliExpress listings, suppliers and buyer reviews. Pay per call. [GitHub (⭐0)](https://github.com/okdataapi/okdata)
 
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
@@ -24,11 +30,11 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Product Research and Pre-Launch
 
-*   [Trends MCP](https://www.trendsmcp.ai) - MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. [GitHub (⭐44)](https://github.com/trendsmcp-ai/Trends-MCP)
+*   [Trends MCP](https://www.trendsmcp.ai) - MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. [GitHub (⭐48)](https://github.com/trendsmcp-ai/Trends-MCP)
 
 ### Other
 
-*   [Awesome Agentic Commerce (⭐65)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
+*   [Awesome Agentic Commerce (⭐66)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
 
 ## [Oct 29, 2026](/content/2026/10/29/README.md)
 
@@ -120,7 +126,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Other
 
-*   [Awesome China Sourcing (⭐2)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
+*   [Awesome China Sourcing (⭐4)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 
 ## [Jul 12, 2026](/content/2026/07/12/README.md)
 
@@ -138,7 +144,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ### Software and Tools
 
-*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [GitHub (⭐15)](https://github.com/BuyWhere/buywhere-mcp)
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [GitHub (⭐14)](https://github.com/BuyWhere/buywhere-mcp)
 
 ## [Jun 19, 2026](/content/2026/06/19/README.md)
 

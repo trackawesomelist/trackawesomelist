@@ -21,6 +21,64 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/at.aamio/aamio)
 
 
+- Name: [Inbox eSIM](https://inboxesim.com/llms.txt)
+
+  Description: Find and buy travel data eSIMs for 195 countries, compare eSIM prices across brands, check a phone
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/com.inboxesim/esim) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.inboxesim/esim)
+
+
+- Name: [Ironflow (⭐1)](https://github.com/ironflowsh/mcp)
+
+  Description: Hyperliquid trades, liquidations, funding and wallet data, SQL and liquidation alerts
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/servers/ironflowsh/mcp)
+
+
+- Name: [Loupe](https://loupe.legal/support#assistants)
+
+  Description: US legal citations checked: existence, the case named, pin cites; free lookup, filings by sign-in
+
+  Auth: No
+
+  Transport: `HTTP`
+
+  Install: [Anthropic](https://claude.ai/directory/connectors/loupe) · [Glama](https://glama.ai/mcp/connectors/legal.loupe/citation-lookup)
+
+
+- Name: [VesselAPI MCP (⭐1)](https://github.com/vessel-api/vesselapi-mcp)
+
+  Description: Vessel search, positions, ETAs, port events and EU MRV emissions as 19 tools for AI agents
+
+  Auth: `apiKey`
+
+  Transport: `stdio`
+
+  Install: [Glama](https://glama.ai/mcp/servers/vessel-api/vesselapi-mcp) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.vessel-api/vesselapi-mcp)
+
+
+
+### Authentication & Authorization
+
+- API: [SignOps](https://signops.dev/docs/)
+
+  Description: Push notifications, login approval, passkeys, authenticator codes and email OTP on one API key
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Blockchain
 
@@ -37,6 +95,17 @@ A collective list of free APIs
 
 
 ### Books
+
+- API: [Greek Mythology](https://acenes-of-sparta.pages.dev/api/)
+
+  Description: Greek gods, monsters, heroes, places and Spartan customs, with ancient source citations
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Readark](https://readark.app/developers/)
 
@@ -88,12 +157,103 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Nansen](https://docs.nansen.ai/api/overview)
+
+  Description: Labeled wallets, Smart Money flows, token holders and flows, wallet PnL, perps and Polymarket data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Swiftedge](https://swiftedge.uk/developers)
+
+  Description: Live order book walls, resting liquidity, funding, open interest and large trades for 9 markets
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [The River](https://app.theriver.markets/docs?s=public-apis)
+
+  Description: Tokenized US stock prices across issuers on Base and Robinhood Chain, plus unsigned trade builds
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Currency Exchange
+
+- API: [Quotelinks Exchange Rates](https://www.quotelinks.com/api/exchange-rates/)
+
+  Description: ECB daily euro reference rates for 30 currencies since 1999, with conversion; Frankfurter v1 format
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Development
+
+- API: [The Networkery](https://thenetworkery.com/api)
+
+  Description: DNS, email authentication, TLS, BGP/RPKI, WHOIS and subnet checks with plain-English findings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [AI SENSE](https://aisense.no/free-public-apis)
 
   Description: Utility endpoints: time, hashing, encoding, QR, JSON, images, webhooks, temporary storage
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Dahono Free Proxy](https://router.dahono.com/proxy/free)
+
+  Description: Live-tested HTTP/HTTPS/SOCKS4/SOCKS5 proxies with country, protocol, latency and uptime filters
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Keirolabs](https://docs.keirolabs.cloud)
+
+  Description: Web search, Google results, page extraction to Markdown and cited answers for AI agents
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [QRdx](https://qrdx.dev/docs/developers/image-api)
+
+  Description: Styled QR codes as SVG, PNG or EPS from a URL, with gradients, frames and logos
 
   Auth: No
 
@@ -115,6 +275,17 @@ A collective list of free APIs
 
 
 ### Documents & Productivity
+
+- API: [emissaoja](https://emissaoja.com.br/docs/)
+
+  Description: Issue Brazilian NFS-e service invoices via Emissor Nacional, no digital certificate; free sandbox
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [KaijuConverter](https://kaijuconverter.com/api-docs)
 
@@ -143,6 +314,32 @@ A collective list of free APIs
   : 
 
 
+- API: [AuraStream](https://aurastream.unbiased-alpha.com/docs/)
+
+  Description: Crypto, FX, macro, COT, SEC filings and alt data from 47 sources through one endpoint and one schema
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+  : 
+
+
+- API: [Billionaire Tracker](https://billionairetracker.us/developers)
+
+  Description: Live net worth, rank and daily change for 3,400+ billionaires, free tier for the top 25
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
 - API: [IBANforge](https://ibanforge.com/docs)
 
   Description: IBAN checks and sourced bank/BIC references; free format checks and a keyless validation trial
@@ -154,14 +351,150 @@ A collective list of free APIs
   CORS: No
 
 
+- API: [Quotelinks SEC Fundamentals](https://www.quotelinks.com/api/sec-fundamentals/)
+
+  Description: Standardized financial statements, profiles and filings for 21,000+ companies from SEC EDGAR
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Games & Comics
+
+- API: [LLMPvP](https://www.llmpvp.com/docs)
+
+  Description: Ranked chess and Go arena for AI agents: move validation, clocks, matchmaking and Glicko-2 ratings
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [WOK](https://woksteamapi.com/docs)
+
+  Description: Steam inventories, item prices and player profiles for CS2, Rust, TF2 and Dota 2
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 
 ### Government
+
+- API: [Canada Service Map](https://canadaservicemap.ca/developers)
+
+  Description: Canadian public services, who handles them, official links and offices
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Crime Data](https://crimedata.dev/docs)
+
+  Description: US police-reported incidents for 12 cities: radius search, stats, GeoJSON, MCP
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Election Night Results](https://pushbuild.com/apis/election-night-results.html)
 
   Description: Live US election results from official state feeds, statewide and by county; free tier
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Loupe](https://loupe.legal/data#agents)
+
+  Description: US case citations: does one exist, which case does it name, is the pin cite inside the opinion
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [SchoolAPI](https://schoolapi.org/docs)
+
+  Description: Every US public, charter and private school and district, with search and enrollment history
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Health
+
+- API: [Meducate](https://meducateapi.com/docs)
+
+  Description: Structured MedlinePlus health topics with ICD-11 codes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Kite](https://platform.kite.sa/docs)
+
+  Description: Saudi Arabia property listings for rent and sale, neighborhood prices, rental yield and projects
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Science & Math
+
+- API: [Cazimi](https://cazimi.live/methodology#api)
+
+  Description: Planetary retrograde stations, shadows and cazimi to the minute (JPL DE421)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [AU Odds](https://lucasfox.dev/odds/docs/)
+
+  Description: Timestamped odds from 11 Australian bookmakers, with line history and devigged consensus
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -180,6 +513,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [VesselAPI](https://vesselapi.com/docs)
+
+  Description: Vessel positions, vessel search, port events, port lookup and EU MRV emissions by IMO or MMSI
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -11958,7 +12302,7 @@ A collective list of free APIs
 
 - API: [Odds-API](https://docs.odds-api.io)
 
-  Description: Real-time sports betting odds from 415+ bookmakers across 34 sports via REST and WebSocket
+  Description: Real-time sports betting odds from 450+ bookmakers across 34 sports via REST and WebSocket
 
   Auth: `apiKey`
 

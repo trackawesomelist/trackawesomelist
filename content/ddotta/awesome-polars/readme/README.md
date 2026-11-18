@@ -229,6 +229,8 @@ You can also try to [Polars plugins Cookiecutter (⭐82)](https://github.com/Mar
 
 *   [fastitch (⭐2)](https://github.com/ArkaKhorchidian/fastitch) - Fast NASDAQ TotalView-ITCH 5.0 parser that decodes full trading days straight into Polars DataFrames, with order-book reconstruction by [@ArkaKhorchidian](https://github.com/ArkaKhorchidian).
 
+*   [fin-primitives (⭐18)](https://github.com/Mattbusel/fin-primitives) - Trading indicators from a Rust core with a `pl.col(...).fp` expression namespace (SMA, EMA, RSI, MACD, works per group with `.over()`) and a `df.fp` DataFrame namespace (ATR, MACD, Bollinger Bands) by [@Mattbusel](https://github.com/Mattbusel).
+
 #### Networking
 
 [httpolars (⭐2)](https://github.com/lmmx/httpolars) - Polars plugin for HTTP operations on columns by [@lmmx](https://github.com/lmmx).

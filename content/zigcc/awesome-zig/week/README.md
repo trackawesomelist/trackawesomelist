@@ -8,6 +8,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Fundamentals / Text Editors
+
+*   [jinzhongjia/zig-analyzer (⭐4)](https://github.com/jinzhongjia/zig-analyzer) - A language server (LSP) for Zig, built on an incremental query engine. AI-generated.
+
 ### Language Essentials / File Format Processing
 
 *   [h0rv/jsonschema.zig (⭐2)](https://github.com/h0rv/jsonschema.zig) - JSON Schema Draft 2020-12 validation and schema generation from Zig types. AI-assisted.
@@ -19,6 +23,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Network & Web / Web Framework
 
 *   [h0rv/zchema (⭐4)](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
+*   [deatil/zig-vin (⭐1)](https://github.com/deatil/zig-vin) - A template render library like jinja2 for zig. AI-assisted.
 
 ### Data & Science / Large Language Model
 

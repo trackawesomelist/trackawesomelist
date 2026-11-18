@@ -17,6 +17,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars-bigquery-client (⭐15)](https://github.com/pola-rs/polars-bigquery-client) - BigQuery client for Polars by [@pola-rs](https://github.com/pola-rs).
 
+### Polars plugins / Finance
+
+*   [fin-primitives (⭐18)](https://github.com/Mattbusel/fin-primitives) - Trading indicators from a Rust core with a `pl.col(...).fp` expression namespace (SMA, EMA, RSI, MACD, works per group with `.over()`) and a `df.fp` DataFrame namespace (ATR, MACD, Bollinger Bands) by [@Mattbusel](https://github.com/Mattbusel).
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Polars plugins / Finance

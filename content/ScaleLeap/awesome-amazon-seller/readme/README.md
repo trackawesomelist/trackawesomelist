@@ -2,7 +2,7 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 448 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 459 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / Overview ]
 
@@ -35,7 +35,7 @@ A curated list of tools and resources for Amazon sellers.
 *   [B2B Supplier Hub](https://b2bsupplierhub.com) - Supplier discovery for Amazon wholesale sellers and resellers. Search by brand, product or UPC to see which distributors carry an item, wholesale cost ranges, stock levels and last-updated dates; pay only to reveal a distributor. Chrome extension shows distributors behind Amazon listings. Free plan.
 *   [BQool](https://www.bqool.com/) - Scheduled repricing, compete against buy box price, comprehensive dashboard & reports, repricing history log.
 *   [BulkBarcode Generator](https://bulkbarcode-generator.com) - Makes FNSKU, UPC, EAN-13, Code 128 and QR labels in bulk from an Excel or CSV file, and exports print-ready PDF rolls for thermal printers. Runs in the browser. Free plan.
-*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [GitHub (⭐15)](https://github.com/BuyWhere/buywhere-mcp)
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [GitHub (⭐14)](https://github.com/BuyWhere/buywhere-mcp)
 *   [Calcmatic](https://calcmatic.app) - Free profit calculator for Amazon FBA/FBM with full fee breakdown with graphs.
 *   [Calcrux FBA Profit Calculator](https://calcrux.com/tools/ecommerce/amazon-fba-profit-calculator) - Free multi-marketplace FBA profit + fee breakdown calculator. Covers inbound placement fees. No sign-up required.
 *   [ChineseCheck](https://chinesecheck.com) - Verify a Chinese supplier before paying: look up the company by English name, Chinese name or Unified Social Credit Code and read its registration record in English for free; paid reports add court enforcement, litigation and penalty records.
@@ -87,8 +87,9 @@ A curated list of tools and resources for Amazon sellers.
 *   [Amazon Product Opportunity Explorer](https://sell.amazon.com/tools/product-opportunity-explorer) - Official Amazon tool for exploring product opportunity niches and reviewing demand, competition, and search trends.
 *   [Amazon Revenue Calculator](https://sell.amazon.com/tools) - Official Amazon tool for estimating selling fees, fulfillment costs, and revenue by fulfillment method.
 *   [CPSC Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here) - U.S. Consumer Product Safety Commission tool that helps identify basic consumer product safety requirements.
+*   [okdata](https://okdata.online/) - REST API and MCP server for Amazon product search, details, reviews and Best Sellers in 22 Amazon stores, plus 1688, Taobao and AliExpress listings, suppliers and buyer reviews. Pay per call. [GitHub (⭐0)](https://github.com/okdataapi/okdata)
 *   [Ryndix Amazon category data (⭐0)](https://github.com/Ryndix/ryndix-category-data) - Free CC BY 4.0 dataset of Amazon US category snapshots: units, price bands, review distribution, cost per click, fee load and pre-advertising unit economics for five categories.
-*   [Trends MCP](https://www.trendsmcp.ai) - MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. [GitHub (⭐44)](https://github.com/trendsmcp-ai/Trends-MCP)
+*   [Trends MCP](https://www.trendsmcp.ai) - MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. [GitHub (⭐48)](https://github.com/trendsmcp-ai/Trends-MCP)
 *   [USPTO Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) - Official USPTO search tool for U.S. patents and patent application publications.
 
 ## Podcasts
@@ -114,8 +115,8 @@ A curated list of tools and resources for Amazon sellers.
 ## Other
 
 *   [500K ASIN Lists](https://app.turbopiranha.com/Download/bestselleritems) - Weekly FREE 500K ASIN lists in popular categories of 8 marketplaces (US, CA, MX, UK, DE, ES, FR, IT).
-*   [Awesome Agentic Commerce (⭐65)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
-*   [Awesome China Sourcing (⭐2)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
+*   [Awesome Agentic Commerce (⭐66)](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.
+*   [Awesome China Sourcing (⭐4)](https://github.com/assassinationss/awesome-china-sourcing) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 *   [chdh-tools-dataset (⭐5)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 *   [EcomPick](https://ecompick.com/) - Directory of AI tools, MCP servers and agent skills for ecommerce sellers, including Amazon seller operations and advertising.
 *   [FBA Monthly](https://fbamonthly.com) - Newsletter with an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.
