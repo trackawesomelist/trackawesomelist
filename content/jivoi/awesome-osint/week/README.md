@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Data Breach Search Engines
+
+*   [Vendor History](https://vendorhistory.com/) - Check whether a software vendor a business uses has been breached: state breach notices, SEC cyber filings, CISA exploited flaws and ransomware claims for 255 vendors, each linked to its source. Free, no signup.
+
+### Company Research / GitHub
+
+*   [Lacis](https://c4seus.github.io/lacis/) - Free, open-source desktop tool for Linux and Windows that maps French companies, their directors and addresses into a sourced link graph from the national company register and the BODACC, and flags patterns such as mass domiciliation or phoenix schemes. Interface in French.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Email Search / Email Check / GitHub
@@ -24,7 +38,7 @@
 
 ### Web Monitoring / GitHub
 
-*   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
+*   [Topic Watch (⭐17)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
 
 ### Other Tools / GitHub
 
@@ -38,16 +52,16 @@
 
 ### Username Check / GitHub
 
-*   [Helix (⭐26)](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
+*   [Helix (⭐46)](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
 
 ### People Investigations / GitHub
 
-*   [recap-cli (⭐0)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
+*   [recap-cli (⭐3)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
 
 ### Company Research / GitHub
 
-*   [capitol-cli (⭐0)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
-*   [govint (⭐0)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
+*   [capitol-cli (⭐2)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
+*   [govint (⭐2)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
 
 ### Geospatial Research and Mapping Tools / GitHub
 
@@ -55,7 +69,7 @@
 
 ### Privacy and Encryption Tools / GitHub
 
-*   [Free Proxy List (⭐7k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
+*   [Free Proxy List (⭐7.1k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
 
 ### Maritime / GitHub
 
@@ -93,11 +107,11 @@
 
 ### Social Media Tools / Facebook
 
-*   [Facebook GraphQL Scraper (⭐54)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
+*   [Facebook GraphQL Scraper (⭐64)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
 
 ### Email Search / Email Check / GitHub
 
-*   [OpenLeads (⭐51)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
+*   [OpenLeads (⭐74)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 
 ### Domain and IP Research / GitHub
 
@@ -1959,7 +1973,7 @@
 *   [awesome-threat-intelligence (⭐11k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 *   [infosec reference (⭐6k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
 *   [personal-security-checklist (⭐23k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐74k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [SecLists (⭐75k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
 *   [security-list (⭐1.9k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
@@ -2032,7 +2046,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐521)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐204k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐208k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -2171,13 +2185,13 @@
 
 ### Other Tools / GitHub
 
-*   [CrowdSec (⭐15k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐16k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
 ### Username Check / GitHub
 
-*   [Maigret (⭐40k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐41k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -2552,7 +2566,7 @@
 
 ### Phone Number Research / GitHub
 
-*   [PhoneInfoga (⭐18k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
+*   [PhoneInfoga (⭐19k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 

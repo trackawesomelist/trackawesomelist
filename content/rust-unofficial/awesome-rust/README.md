@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 18, 2026](/content/2026/11/18/README.md)
+
+### Applications
+
+*   [VinceGHER/openwren (⭐121)](https://github.com/VinceGHER/openwren) - Privacy-first desktop mail client for Gmail and IMAP that keeps mail encrypted on your computer, built with Tauri [![CI](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml)
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Applications / Audio and Music
@@ -190,11 +196,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [0xS4N4TG/kinetograph (⭐443)](https://github.com/0xS4N4TG/kinetograph) - Programmatic video engine: a Skia and wgpu compositor, called from Node, that renders Remotion-style TypeScript and HTML to video without a browser. [![build badge](https://github.com/0xS4N4TG/kinetograph/actions/workflows/native.yml/badge.svg?branch=main)](https://github.com/0xS4N4TG/kinetograph/actions/workflows/native.yml)
+*   [0xS4N4TG/kinetograph (⭐531)](https://github.com/0xS4N4TG/kinetograph) - Programmatic video engine: a Skia and wgpu compositor, called from Node, that renders Remotion-style TypeScript and HTML to video without a browser. [![build badge](https://github.com/0xS4N4TG/kinetograph/actions/workflows/native.yml/badge.svg?branch=main)](https://github.com/0xS4N4TG/kinetograph/actions/workflows/native.yml)
 
 ### Applications / Virtualization
 
-*   [terrarium-sh/terrarium (⭐52)](https://github.com/terrarium-sh/terrarium) - Portable minimal microVM sandbox for agents and development tools on Linux, macOS and Windows [Terrarium](https://terrarium.sh/) [![GitHub release](https://img.shields.io/github/v/release/terrarium-sh/terrarium)](https://github.com/terrarium-sh/terrarium/releases) [![build badge](https://github.com/terrarium-sh/terrarium/actions/workflows/build.yml/badge.svg)](https://github.com/terrarium-sh/terrarium/actions)
+*   [terrarium-sh/terrarium (⭐57)](https://github.com/terrarium-sh/terrarium) - Portable minimal microVM sandbox for agents and development tools on Linux, macOS and Windows [Terrarium](https://terrarium.sh/) [![GitHub release](https://img.shields.io/github/v/release/terrarium-sh/terrarium)](https://github.com/terrarium-sh/terrarium/releases) [![build badge](https://github.com/terrarium-sh/terrarium/actions/workflows/build.yml/badge.svg)](https://github.com/terrarium-sh/terrarium/actions)
 
 ### Libraries / Game development
 
@@ -379,7 +385,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Graphicle-AI/graphicle (⭐496)](https://github.com/Graphicle-AI/graphicle) - A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file [![CI](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml)
+*   [Graphicle-AI/graphicle (⭐581)](https://github.com/Graphicle-AI/graphicle) - A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file [![CI](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Graphicle-AI/graphicle/actions/workflows/ci.yml)
 
 ### Applications / Text editors
 
@@ -387,7 +393,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [bigfish1913/pi-rust (⭐188)](https://github.com/bigfish1913/pi-rust) \[[rpi-agent](https://crates.io/crates/rpi-agent)] - Embeddable coding-agent runtime and terminal agent with composable providers, tools, durable sessions, and a native plugin ABI. [![CI](https://github.com/bigfish1913/pi-rust/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bigfish1913/pi-rust/actions/workflows/ci.yml?query=branch%3Amain)
+*   [bigfish1913/pi-rust (⭐279)](https://github.com/bigfish1913/pi-rust) \[[rpi-agent](https://crates.io/crates/rpi-agent)] - Embeddable coding-agent runtime and terminal agent with composable providers, tools, durable sessions, and a native plugin ABI. [![CI](https://github.com/bigfish1913/pi-rust/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bigfish1913/pi-rust/actions/workflows/ci.yml?query=branch%3Amain)
 
 ## [Oct 17, 2026](/content/2026/10/17/README.md)
 

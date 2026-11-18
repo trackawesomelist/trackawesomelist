@@ -202,6 +202,7 @@ Thanks to our main contributors
 *   [NOX (⭐339)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 *   [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 *   [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
+*   [Vendor History](https://vendorhistory.com/) - Check whether a software vendor a business uses has been breached: state breach notices, SEC cyber filings, CISA exploited flaws and ransomware claims for 255 vendors, each linked to its source. Free, no signup.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
@@ -469,7 +470,7 @@ Thanks to our main contributors
 ### [↑](#-table-of-contents) Facebook
 
 *   [Facebook Friend List Scraper (⭐339)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
-*   [Facebook GraphQL Scraper (⭐54)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
+*   [Facebook GraphQL Scraper (⭐64)](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
 *   [Facebook Search](https://search.fb.com/)
 *   [Fanpage Karma](https://www.fanpagekarma.com)
 *   [Fb-sleep-stats (⭐1.7k)](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
@@ -662,9 +663,9 @@ Thanks to our main contributors
 *   [Blackbird (⭐9.7k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 *   [Cupidcr4wl (⭐190)](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
-*   [Helix (⭐26)](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
+*   [Helix (⭐46)](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
 *   [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
-*   [Maigret (⭐40k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐41k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 *   [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 *   [NexFil (⭐2.6k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
@@ -711,7 +712,7 @@ Thanks to our main contributors
 *   [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 *   [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 *   [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
-*   [recap-cli (⭐0)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
+*   [recap-cli (⭐3)](https://github.com/NPCmillionaire/recap-cli) - Free, open-source CLI to search and download U.S. federal court dockets and documents from the RECAP archive (CourtListener). Free API token required.
 *   [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 *   [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 *   [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
@@ -753,7 +754,7 @@ Thanks to our main contributors
 *   [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 *   [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
 *   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
-*   [OpenLeads (⭐51)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
+*   [OpenLeads (⭐74)](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 *   [OSINTEye (⭐34)](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 *   [Pipl](https://pipl.com) - a provider of identity solutions.
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
@@ -775,7 +776,7 @@ Thanks to our main contributors
 *   [Infobel](https://www.infobel.com/) - Search 164+ million records across 73 countries for companies and individuals. Find places, local service providers, their contact details, reviews, opening hours and more.
 *   [InMobPrefix (⭐7)](https://github.com/hstsethi/in-mob-prefix) - Dataset, charts, models about mobile phone numbers prefixes in India along with their respective state, operator.
 *   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
-*   [PhoneInfoga (⭐18k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
+*   [PhoneInfoga (⭐19k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 *   [Reverse Phone Lookup](https://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 *   [SearchPeopleFREE](https://www.searchpeoplefree.com/phone-lookup) - a reverse name, address, email address, or phone lookup that allows you to discover the owner of a phone number or who lives at an address.
 *   [Spy Dialer](https://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
@@ -821,7 +822,7 @@ Thanks to our main contributors
 *   [Bureau Van Dijk](https://www.bvdinfo.com)
 *   [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 *   [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
-*   [capitol-cli (⭐0)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
+*   [capitol-cli (⭐2)](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
 *   [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
 *   [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 *   [Company Research Resources by Country Comparably](https://www.comparably.com)
@@ -839,12 +840,13 @@ Thanks to our main contributors
 *   [Glassdoor](https://www.glassdoor.com)
 *   [globalEdge](https://globaledge.msu.edu)
 *   [GoodFirms](https://www.goodfirms.co/)
-*   [govint (⭐0)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
+*   [govint (⭐2)](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
 *   [GuideStar](https://www.guidestar.org)
 *   [Hoovers](https://www.hoovers.com)
 *   [Inc. 5000](https://www.inc.com/inc5000)
 *   [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 *   [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+*   [Lacis](https://c4seus.github.io/lacis/) - Free, open-source desktop tool for Linux and Windows that maps French companies, their directors and addresses into a sourced link graph from the national company register and the BODACC, and flags patterns such as mass domiciliation or phoenix schemes. Interface in French.
 *   [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 *   [Mergent Intellect](https://www.mergentintellect.com)
 *   [Mergent Online](https://www.mergentonline.com/login.php)
@@ -1116,7 +1118,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐204k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐208k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1219,6 +1221,7 @@ Thanks to our main contributors
 *   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 *   [SOAR](https://soar.earth/)
 *   [StoryMaps](https://storymaps.arcgis.com/en)
+*   [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
 *   [SunCalc](https://www.suncalc.org/)
 *   [Tableau](https://www.tableausoftware.com)
 *   [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
@@ -1393,7 +1396,7 @@ Thanks to our main contributors
 *   [Selfoss](https://selfoss.aditu.de)
 *   [Silobreaker](https://www.silobreaker.com)
 *   [Talkwalker](https://www.talkwalker.com)
-*   [Topic Watch (⭐15)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
+*   [Topic Watch (⭐17)](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
 *   [The Old Reader](https://theoldreader.com)
 *   [versionista](https://versionista.com)
 *   [visualping](https://visualping.io)
@@ -1536,7 +1539,7 @@ Thanks to our main contributors
 *   [Epic Privacy Browser](https://www.epicbrowser.com)
 *   [Eraser](https://eraser.heidi.ie)
 *   [FileVault](https://support.apple.com/en-us/HT204837)
-*   [Free Proxy List (⭐7k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
+*   [Free Proxy List (⭐7.1k)](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
 *   [Ghostery](https://www.ghostery.com)
 *   [GNU PG](https://www.gnupg.org/download/index.html)
 *   [GPG Tools](https://gpgtools.org)
@@ -1608,7 +1611,7 @@ Thanks to our main contributors
 *   [btc-toolkit (⭐3)](https://github.com/devdavidejesus/btc-toolkit) - Command line tool to read Bitcoin on-chain data: decode OP\_RETURN messages and inscriptions, inspect addresses and transactions, and verify a transaction against its block's Merkle proof.
 *   [Cyberbro (⭐700)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
-*   [CrowdSec (⭐15k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐16k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 *   [Datasploit (⭐3.3k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 *   [Dehashed CLI (⭐286)](https://github.com/hmaverickadams/DeHashed-API-Tool) - Command-line tool for searching breach databases via DeHashed API.
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
@@ -1754,7 +1757,7 @@ Thanks to our main contributors
 *   [infosec reference (⭐6k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
 *   [OSINT-BIBLE (⭐996)](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 *   [personal-security-checklist (⭐23k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐74k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [SecLists (⭐75k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
 *   [security-list (⭐1.9k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## License

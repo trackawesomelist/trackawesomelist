@@ -1,18 +1,38 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2026
 
-34 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Data Breach Search Engines
+
+*   [Vendor History](https://vendorhistory.com/) - Check whether a software vendor a business uses has been breached: state breach notices, SEC cyber filings, CISA exploited flaws and ransomware claims for 255 vendors, each linked to its source. Free, no signup.
+
+### Company Research / GitHub
+
+*   [Lacis](https://c4seus.github.io/lacis/) - Free, open-source desktop tool for Linux and Windows that maps French companies, their directors and addresses into a sourced link graph from the national company register and the BODACC, and flags patterns such as mass domiciliation or phoenix schemes. Interface in French.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
+
+## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+
+### Customization
+
+*   [Multiload-Qubes (⭐3)](https://github.com/dimonomid/multiload-qubes) - Qubes OS XFCE panel plugin: system monitor with scrolling charts for CPU, RAM, swap, network, and disk i/o
+
+## [3. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / UI & End-to-End Testing
 
 *   [ShipShape (⭐0)](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
 
-## [2. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [4. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
@@ -64,13 +84,13 @@
 *   [OpenDroneMap (⭐6.6k)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
 *   [WebODM (⭐4.3k)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
 
-## [3. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [5. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [Tapo (⭐877)](https://github.com/mihai-dinculescu/tapo) - Rust API, Python API, and MCP Server for TP-Link Tapo smart devices.
 
-## [4. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Action
 
@@ -92,13 +112,13 @@
 
 *   Grim Hand - [Android](https://play.google.com/store/apps/details?id=com.andreyrub.grim_hand), [iOS](https://apps.apple.com/us/app/grim-hand-roguelike-deck-rpg/id6791943856) - A turn-based dark fantasy roguelike deckbuilder where your cards come from your weapon and shield. By [HedgeCat Studios](https://hedgecatstudios.com/)
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [KosmoWorld](https://www.kosmoworld.com/) - Explore and share 3D scenes captured with Hesai's Kosmo.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [8. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -108,7 +128,7 @@
 
 *   [TeleGapper (⭐19)](https://github.com/Mobile-IoT-Security-Lab/TeleGapper) - An open-source black-box dynamic analysis framework for analyzing Telegram Mini Apps on Android, capturing network traffic, and checking data-flow disclosures against privacy policies.
 
-## [7. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [9. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
@@ -133,7 +153,11 @@
 
 *   [Defense-Exploration-Holdings/crypto-api-ng (⭐0)](https://github.com/Defense-Exploration-Holdings/crypto-api-ng) - Zero-dependency hashing library (MD/SHA/SHA-3/BLAKE/RIPEMD/Whirlpool/Streebog/SM3, HMAC, PBKDF2, HKDF) in Zig, shipped to npm as WebAssembly. AI-generated.
 
-## [8. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+### Multimedia & Graphics / GUI
+
+*   [JonathanRiche/verde (⭐35)](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace. Use with Claude Code, Codex, Cursor, Grok and OpenCode. AI-generated.
+
+## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
@@ -175,7 +199,7 @@
 *   [bare-devcontainer/templates (⭐3)](https://github.com/bare-devcontainer/templates/tree/main/src/deno) - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images (⭐3)](https://github.com/bare-devcontainer/images/tree/main/src/deno).
 *   [copilotz (⭐6)](https://github.com/copilotzhq/copilotz) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
 
-## [9. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [11. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / General Purpose
 
@@ -284,13 +308,13 @@
 *   [Awesome Asterisk (⭐13)](https://github.com/ictinnovations/awesome-asterisk) - Asterisk tooling: ARI, AMI and AGI libraries, call audio streaming, voice AI and testing.
 *   [Awesome FreeSWITCH (⭐4)](https://github.com/ictinnovations/awesome-freeswitch) - FreeSWITCH tooling: Event Socket libraries, call audio streaming, distributions and monitoring.
 
-## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Applications and Tools
 
 *   [stream-fraud (⭐1)](https://github.com/RishabhPande/stream-fraud) \[Python] - Teaching demo of simulated transaction scoring, sliding-window features, and PSI/KS drift replay; not production stream processing infrastructure.
 
-## [11. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### File Management / File Utilities
 
@@ -309,7 +333,7 @@
 *   [Bouliw/earshot (⭐16)](https://github.com/Bouliw/earshot) — Live, on-device transcription of any app on your Mac, with speaker names ☆`17`
 *   [jedbrnth-eng/lucid-live-wallpaper (⭐16)](https://github.com/jedbrnth-eng/lucid-live-wallpaper) — Free live 4K wallpapers for Mac: about 590 space and ☆`16`
 
-## [12. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [14. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### App Builder
 
@@ -349,7 +373,7 @@
 
 *   [Twistavo](https://twistavo.com/) - AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99. `#paid`
 
-## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Import / Export
 
@@ -360,19 +384,23 @@
 
 *   [polars-bigquery-client (⭐15)](https://github.com/pola-rs/polars-bigquery-client) - BigQuery client for Polars by [@pola-rs](https://github.com/pola-rs).
 
-## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheet / YouTube Playlist
 
 *   [Rice university DS course in short](https://web.archive.org/web/20260204101050/https://www.clear.rice.edu/comp160/data1.html)
 
-## [15. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [17. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Cognitive Development
 
 *   [Grokking the Brain: What AI Reveals About How You Really Learn](https://www.youtube.com/watch?v=vD7fLhkU0lc) by **Barbara Oakly** (GOTO Copenhagen 2026) \[49:55]
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [gleann (⭐43)](https://github.com/tevfik/gleann) - Local vector search engine, codebase intelligence graph, and persistent memory with MCP support.
 
 ### Blockchain
 
@@ -410,7 +438,11 @@
 
 *   [nightingale (⭐13k)](https://github.com/ccfos/nightingale) - Self-hosted monitoring and alerting platform for metrics, logs, and databases.
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [VinceGHER/openwren (⭐121)](https://github.com/VinceGHER/openwren) - Privacy-first desktop mail client for Gmail and IMAP that keeps mail encrypted on your computer, built with Tauri [![CI](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/VinceGHER/openwren/actions/workflows/ci.yml)
 
 ### Applications / Audio and Music
 
@@ -446,16 +478,22 @@
 
 *   [mihai-dinculescu/tapo (⭐877)](https://github.com/mihai-dinculescu/tapo) \[[tapo](https://crates.io/crates/tapo)] - Client for TP-Link Tapo smart devices (plugs, lights, hubs, sensors and cameras), with Python bindings and an MCP server [![Tapo Rust](https://github.com/mihai-dinculescu/tapo/actions/workflows/tapo-rs.yml/badge.svg?branch=main)](https://github.com/mihai-dinculescu/tapo/actions/workflows/tapo-rs.yml)
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
 *   [zest (⭐26)](https://github.com/rostik32/zest) - Autocomplete popup for zsh with descriptions for 1,500 commands, in Terminal.app, iTerm2, Ghostty, VS Code and Cursor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rostik32/zest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClaudeTTY (⭐22)](https://github.com/aqilc/ClaudeTTY) - Native macOS terminal for running lots of Claude Code at once, where every tab keeps running after the app quits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aqilc/ClaudeTTY) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Escale (⭐9)](https://github.com/ATTILA-KRB/escale) - Native SSH client with tabs, an SFTP browser beside the terminal, tunnels, multi-execution and a built-in X11 server. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ATTILA-KRB/escale) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Inkstone (砚台) (⭐0)](https://github.com/raistlinsha-plus/inkstone) - Open-source Markdown workspace with a wiki built from selected notes and AI answers that cite original passages (source preview for Apple Silicon). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/raistlinsha-plus/inkstone) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Note-taking
 
 *   [EdgeEver](https://edgeever.org/) - Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tianma-if/edgeever) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Pinto Notes](https://pintonotes.com/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pinto-notes/pinto-notes) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Reading and Writing Tools / Others
 
@@ -468,6 +506,7 @@
 ### Design and Product / Screenshot Tools
 
 *   [AInnotator (⭐3)](https://github.com/porco-rs/ainnotator) - Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/porco-rs/ainnotator) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Velinshot (⭐2)](https://github.com/Jacknelson6/Velinshot) - Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Jacknelson6/Velinshot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Design and Product / Other Tools
 
@@ -477,6 +516,7 @@
 
 *   [Aris](https://arismac.app) - Open-source AI agent in the MacBook notch that you talk or type to, which acts in your apps with the AI you already use and asks before anything that sends, writes or deletes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LumenJSN/Aris) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Gesher (⭐2)](https://github.com/EphraimElgrabli/gesher) - Open-source MCP servers and CLIs that let AI assistants read and edit Apple Notes, Reminders, Calendar, Contacts, Maps, Weather and Freeform. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EphraimElgrabli/gesher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Seshka](https://seshka.dev) - Open-source menu bar app that finds the dev servers, watchers, and browsers closed Claude Code sessions left running, and kills them. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jigjoy-ai/seshka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Communication / Email Clients
 
@@ -496,7 +536,13 @@
 
 ### Voice-to-Text / Audio Record and Process
 
+*   [Point](https://point-site-opal.vercel.app) - Open-source push-to-talk dictation that also lets you circle part of the screen while you talk, sending your words plus a marked-up screenshot to Claude Code, Cursor, or any chat, transcribed on-device. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sksareen/point) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Purr](https://purr.arunbrahma.com) - Open-source on-device dictation that types into any app with Parakeet or Whisper, plus meeting notes with speaker labels and summaries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iamarunbrahma/purr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [WhisPaste](https://whispaste.de/en/) - Push-to-talk dictation for macOS, Windows and Linux that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/whispaste/whispaste) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Translation Tools / Audio Record and Process
+
+*   [Tomoru](https://tomoru.acane.dev) - Live bilingual subtitles for streams, anime, games, and meetings, plus instant screen text translation — works offline on your Mac or in the cloud, with glossaries that keep character names right. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ACAne0320/Tomoru) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -507,7 +553,9 @@
 *   [Bar27 (⭐24)](https://github.com/ATTILA-KRB/bar27) - Menu bar manager for macOS 27 that hides icons per app and reveals them with a click, hover, or shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ATTILA-KRB/bar27) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Convrt (⭐5)](https://github.com/atuuuuuuu/Convrt) - Offline menu bar file converter: hold Shift while dragging files and drop them on a wheel that only shows the formats and tools that fit them, with a command-line version. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/atuuuuuuu/Convrt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Music Router (⭐4)](https://github.com/drumandbytes/music-router) - Stops Music.app from auto-launching and routes media keys to the app you're actually using. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/drumandbytes/music-router) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [NotchDeck (⭐5)](https://github.com/systemAdmin-ai/NotchDeck) - Control center around the MacBook notch with system metrics, media controls, quick notes, screen recording and task profiles. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/systemAdmin-ai/NotchDeck) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [SoundLadder (⭐2)](https://github.com/dirkkredinger/SoundLadder) - Menu bar app that picks the audio output from a ranked list and falls back to the next connected device automatically. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dirkkredinger/SoundLadder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [YANA (⭐2)](https://github.com/veaceslavmafteiaevoluta/yana) - Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers, and a file shelf. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / File Organization Tools
 
@@ -520,18 +568,19 @@
 ### Utilities / Finder Tools
 
 *   [FileMint (⭐171)](https://github.com/FileMintApp/FileMint) - Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use. ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Treewise](https://treewise.m-domain.me) - File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mag243/treewise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Quality of Life Improvements
 
 *   [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - Moves and restyles notification banners and can replace the Notification Center panel with a customizable one. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chessper53/NotificationNanny) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [19. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [21. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for compiled applications
 
 *   [AppImage Packaging (⭐1)](https://github.com/AppImageCommunity/AppImagePackaging) - Skills for Claude and other coding agents (Codex, Cursor, OpenCode, ...) that package Linux applications as self-contained AppImages, build and publish them from GitHub Actions, and verify and troubleshoot them on other distributions.
 
-## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [22. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -708,7 +757,7 @@
 
 
 
-## [21. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [23. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Drug Response & Perturbation
 
@@ -743,7 +792,7 @@
 *   [TxGemma](https://deepmind.google/models/gemma/txgemma/) — Open Gemma-based therapeutic-development model family (2B, 9B, and 27B) for property prediction and interactive scientific reasoning.
 *   [NVIDIA Nemotron for Science](https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents) — Scientific-agent development stack based on Nemotron 3.5 Super VL, with post-training recipes and chemistry reasoning benchmark LitmusBench v0.2.
 
-## [22. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [24. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 
@@ -761,7 +810,7 @@
 
 *   [AutoResearch](https://autoresearch.me/en/): Browser-based AI research system that connects literature exploration, research ideas, model implementation, GPU experiments and manuscript drafting. Private beta: apply on the site, wait for administrator approval, then set a password from the follow-up email and sign in; approved members receive 5,000 starter credits. Official pages say access is free during the beta, but this is a limited allowance, not unlimited use and not access without an account. Prices for future plans are not yet announced.
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -783,7 +832,7 @@
 
 *   [Hister](https://nogon.eu/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐6.3k)](https://github.com/asciimoo/nogon)) `AGPL-3.0` `Go/Docker`
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -811,7 +860,7 @@
 *   [Eclipse Che](https://www.eclipse.dev/che/) - Web-based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community-driven. An online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
 *   [OnlineCompiler.io](https://onlinecompiler.io/) - Online compiler and code execution API for 46 languages. The editor is free with no sign-in, and the free API plan includes 100,000 runs a month.
 
-## [25. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [27. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -824,13 +873,13 @@
 *   [X-Men Mutant Academy 2 PC (⭐23)](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - X-Men Mutant Academy 2 recomp to Windows.
 *   [Ultimate MK3 PC (⭐73)](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) - Ultimate Mortal Kombat 3 (iOS) decomp to Windows and Linux.
 
-## [26. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [28. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
 *   [XPilot TNG (⭐0)](https://github.com/birgander2/XPilot-TNG) - Modernized SDL3 fork of the classic 90s multiplayer space combat game XPilot, featuring improved graphics, smartbots, and voice chat.
 
-## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [29. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
@@ -851,14 +900,14 @@
 
 *   :money\_with\_wings: [CSAF Sound Library](https://csaf.itch.io/sound-library) - 13,315 royalty free game sound effects in 91 packs, WAV and OGG, with a free demo download. Every sound is synthesized in code with no samples or generative audio model; the code was written with AI tools.
 
-## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [Promptless AI-First Blazor Apps](https://www.telerik.com/blogs/promptless-ai-first-blazor-apps) - October 6, 2026 - Normally when we think about AI-based applications, we often think of chat-style apps. These apps consist mainly of a text box, some buttons to add context like images, and a button to start a conversation with an LLM model. However, we can talk about another type of AI-based applications, with a Promptless AI-First approach. Let’s see what it’s about.
     \*[Build Agentic UI with the new Blazor AI components](https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/) - September 28, 2026 - Build Agentic UI with the new Blazor AI components for streamed content, tools, approvals, shared state, and generative experiences.
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -868,7 +917,7 @@
 
 *   [dybdeskarphet/min.nvim (⭐20)](https://github.com/dybdeskarphet/min.nvim) - ***`[TS][LSP][L/D][Lua]`*** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.
 
-## [30. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [32. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -877,7 +926,7 @@
 *   [steam-recent-games-box (⭐1)](https://github.com/YunJuho0010/Steam-Recent-Games-Box) - Update a pinned gist to contain your most recently played Steam game.
 *   [storygraph-box (⭐2)](https://github.com/chindris-mihai-alexandru/storygraph-box) - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -893,20 +942,20 @@
 
 *   [hexagon (⭐5)](https://github.com/dio-az/hexagon) - Minimalist ZSH theme based on [geometry (⭐1k)](https://github.com/geometry-zsh/geometry).
 
-## [32. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [34. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Big Lists / Monograph
 
 *   [Error Correction Zoo](https://errorcorrectionzoo.org/) - Catalog of classical and quantum error-correcting codes, organized by their relations, with references.
 
-## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [openradar research dataset](https://openradar.fun/research) - Live and monthly frozen pay medians for IT jobs and freelance orders (CC BY 4.0), with methodology and CSV/JSON downloads.
 *   [Verified Supplement Evidence](https://huggingface.co/datasets/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
-## [34. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [36. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 

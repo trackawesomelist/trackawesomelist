@@ -730,6 +730,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 *   [guanchzhou/c3s (⭐1)](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 *   [zig-nostr/plaza (⭐9)](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
+*   [JonathanRiche/verde (⭐35)](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace. Use with Claude Code, Codex, Cursor, Grok and OpenCode. AI-generated.
 
 ### Game Development
 

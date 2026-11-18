@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Nov 18, 2026](/content/2026/11/18/README.md)
+
+### Multimedia & Graphics / GUI
+
+*   [JonathanRiche/verde (⭐35)](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace. Use with Claude Code, Codex, Cursor, Grok and OpenCode. AI-generated.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Language Essentials / File Format Processing

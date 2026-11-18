@@ -31,6 +31,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [Defense-Exploration-Holdings/crypto-api-ng (⭐0)](https://github.com/Defense-Exploration-Holdings/crypto-api-ng) - Zero-dependency hashing library (MD/SHA/SHA-3/BLAKE/RIPEMD/Whirlpool/Streebog/SM3, HMAC, PBKDF2, HKDF) in Zig, shipped to npm as WebAssembly. AI-generated.
 
+### Multimedia & Graphics / GUI
+
+*   [JonathanRiche/verde (⭐35)](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace. Use with Claude Code, Codex, Cursor, Grok and OpenCode. AI-generated.
+
 ## [Nov 02 - Nov 08, 2026](/content/2026/44/README.md)
 
 ### Fundamentals / Utility
