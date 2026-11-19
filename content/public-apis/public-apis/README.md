@@ -6,7 +6,7 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### APIs Covered Under APILayer Suite!
 

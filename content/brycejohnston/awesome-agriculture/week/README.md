@@ -20,12 +20,17 @@ Open source technology for agriculture, farming, and gardening
 ### Crop Modeling, Phenotyping, and Pathology
 
 *   [apsimNGpy (⭐37)](https://github.com/MAGALA-RICHARD/apsimNGpy) - Python interface for running and analysing APSIM Next Generation simulations.
+*   [Contour Alley Designer (⭐0)](https://github.com/viridisconservation/contour-alley-designer) - Field-scale agroforestry design model (contour alley cropping, shelterbelts, silvopasture) that simulates 40 years on real terrain and soils. Research software in development.
 *   [CroptimizR (⭐32)](https://github.com/SticsRPacks/CroptimizR) - R package for parameter estimation and uncertainty analysis of crop models.
 *   [DSSAT (⭐240)](https://github.com/DSSAT/dssat-csm-os) - Decision Support System for Agrotechnology Transfer cropping system model.
 *   [Epicrop.jl](https://codeberg.org/adamhsparks/Epicrop.jl) - Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.
 *   [FielDHub (⭐60)](https://github.com/DidierMurilloF/FielDHub) - R/Shiny app for designing agricultural field experiments.
 *   [Phenomenal (⭐45)](https://github.com/openalea/phenomenal) - 3D plant phenotyping and organ segmentation from multi-view images.
 *   [PlantGL (⭐81)](https://github.com/openalea/plantgl) - Geometric library for modelling and visualising plant architecture.
+
+### Regional Data / Nepal
+
+*   [Nepal Open Farm Data (⭐0)](https://github.com/ashiskharel/nepal-open-farm-data) - District figures for coffee, tea, large cardamom, apple, plum and related crops from the Nepal agriculture ministry (MoALD) statistical yearbooks, as CC BY 4.0 CSV.
 
 ### Data Standardization, Interoperability and APIs / United States
 
@@ -56,6 +61,7 @@ Open source technology for agriculture, farming, and gardening
 ### Remote Sensing and Imagery / United States
 
 *   [OpenDroneMap (⭐6.6k)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
+*   [sentinel-crop-pipeline (⭐5)](https://github.com/muend/sentinel-crop-pipeline) - Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.
 *   [WebODM (⭐4.3k)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)

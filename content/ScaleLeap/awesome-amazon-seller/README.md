@@ -6,7 +6,7 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Product Research and Pre-Launch
 

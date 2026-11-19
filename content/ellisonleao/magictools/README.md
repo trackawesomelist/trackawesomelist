@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Graphics / Assets/Placeholders
 

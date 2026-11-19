@@ -55,7 +55,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### System Tools / System Utilities
 
-*   [GianlucaBave/murmury (⭐4)](https://github.com/GianlucaBave/murmury) — The open-source Cluely alternative for Mac: live answers from your ☆`25`
+*   [GianlucaBave/murmury (⭐27)](https://github.com/GianlucaBave/murmury) — The open-source Cluely alternative for Mac: live answers from your ☆`25`
 *   [Kanevry/tethercam (⭐16)](https://github.com/Kanevry/tethercam) — Use your iPhone as a USB camera for Mac video calls and OBS. Two ☆`18`
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
@@ -224,7 +224,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 *   [ivg-design/SidebarFavorites (⭐216)](https://github.com/ivg-design/SidebarFavorites) — Add custom folders to macOS Finder sidebar Favorites with ☆`243`
 *   [Manan-Santoki/OpenShelf (⭐198)](https://github.com/Manan-Santoki/OpenShelf) — Free, open-source Mac utility: start dragging any file, tap a ☆`219`
 *   [WizenPainter/shuffle (⭐178)](https://github.com/WizenPainter/shuffle) — Fast, open-source, GPU-rendered file manager for macOS. A Finder ☆`185`
-*   [phalladar/MacDirStat (⭐114)](https://github.com/phalladar/MacDirStat) — Free, open-source disk space analyzer for macOS, inspired by ☆`127`
+*   [phalladar/MacDirStat (⭐127)](https://github.com/phalladar/MacDirStat) — Free, open-source disk space analyzer for macOS, inspired by ☆`127`
 *   [KeplSiv/FolderForge (⭐108)](https://github.com/KeplSiv/FolderForge) — Open-source macOS folder customization with presets, rules, and ☆`118`
 *   [gentpan/LiteZip (⭐94)](https://github.com/gentpan/LiteZip) — macOS ZIP / 7Z RAR Finder ☆`97`
 *   [ololx/quick-symlink (⭐103)](https://github.com/ololx/quick-symlink) — Quick Symlink is a Finder extension, which allows to quickly ☆`103`
@@ -317,7 +317,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 *   [jamiedavenport/capd (⭐88)](https://github.com/jamiedavenport/capd) — Private, native macOS app to capture pages, text, notes, links ☆`89`
 *   [AlexW00/Zettel (⭐70)](https://github.com/AlexW00/Zettel) — Zettel - Quick Notes for iOS/macOS ☆`70`
 *   [alkalim/Knopo (⭐50)](https://github.com/alkalim/Knopo) — A native macOS outliner for structured thinking, local-first notes, and ☆`50`
-*   [tancheng33/tingo (⭐6)](https://github.com/tancheng33/tingo) — AI / /Zoom Local-first AI meeting notes for Mac: on-device ☆`47`
+*   [tancheng33/tingo (⭐48)](https://github.com/tancheng33/tingo) — AI / /Zoom Local-first AI meeting notes for Mac: on-device ☆`47`
 *   [Zer0codestuff/Rapid-Reader (⭐37)](https://github.com/Zer0codestuff/Rapid-Reader) — Free, open-source native macOS speed reader. RSVP for EPUB ☆`38`
 *   [pinto-notes/pinto-notes (⭐30)](https://github.com/pinto-notes/pinto-notes) — Notes for iPhone and Mac that ChatGPT, Claude, Claude Code and ☆`34`
 *   [gentpan/LiteMD (⭐28)](https://github.com/gentpan/LiteMD) — macOS Markdown 20 .md ☆`28`
@@ -698,7 +698,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 *   [ricardoleal/TimeMachineTrimmer (⭐54)](https://github.com/ricardoleal/TimeMachineTrimmer) — A lightweight macOS utility to trim old Time Machine ☆`55`
 *   [parasxos/apple-mail-mcp (⭐34)](https://github.com/parasxos/apple-mail-mcp) — MCP server for Apple Mail: sub-ms search over 300k+ messages ☆`37`
 *   [tryskilly/skilly (⭐35)](https://github.com/tryskilly/skilly) — Skilly : A voice-first AI tutor that watches your screen ☆`35`
-*   [firstfu/Liftoff (⭐34)](https://github.com/firstfu/Liftoff) — The Launchpad that macOS 26 took away - back, faster, with live window ☆`35`
+*   [firstfu/Liftoff (⭐35)](https://github.com/firstfu/Liftoff) — The Launchpad that macOS 26 took away - back, faster, with live window ☆`35`
 *   [rimusz/grok-build-desktop (⭐33)](https://github.com/rimusz/grok-build-desktop) — GrokBuild Desktop App is a native SwiftUI macOS shell for ☆`34`
 *   [lifedever/TabFlick (⭐35)](https://github.com/lifedever/TabFlick) — An Arc-style most-recently-used tab switcher for Google Chrome ☆`35`
 *   [ShunmeiCho/cmd-ime (⭐34)](https://github.com/ShunmeiCho/cmd-ime) — Deterministic macOS input-source switcher: tap a modifier or press ☆`34`
@@ -767,7 +767,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Audio & Video / Utilities
 
-*   [GeiserX/akou (⭐17)](https://github.com/GeiserX/akou) — Call recorder with on-device transcription and speaker labels ☆`21`
+*   [GeiserX/akou (⭐21)](https://github.com/GeiserX/akou) — Call recorder with on-device transcription and speaker labels ☆`21`
 
 ### Developer Tools / Developer Utilities
 
@@ -794,7 +794,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### Security / System Security
 
-*   [RockxyApp/Shieldxy (⭐18)](https://github.com/RockxyApp/Shieldxy) — Auditable application firewall and connection monitor for macOS ☆`21`
+*   [RockxyApp/Shieldxy (⭐21)](https://github.com/RockxyApp/Shieldxy) — Auditable application firewall and connection monitor for macOS ☆`21`
 
 ### Window Management / Shell Utilities
 
@@ -848,7 +848,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### System Tools / Desktop & System
 
-*   [matthewrball/abendrot (⭐34)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`34`
+*   [matthewrball/abendrot (⭐35)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`34`
 
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
@@ -894,7 +894,7 @@ Curated collection of awesome macOS applications, tools, and resources. Auto-upd
 
 ### System Tools / System Utilities
 
-*   [yagcioglutoprak/dusty (⭐79)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`80`
+*   [yagcioglutoprak/dusty (⭐80)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`80`
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 

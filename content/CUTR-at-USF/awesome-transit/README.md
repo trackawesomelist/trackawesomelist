@@ -6,7 +6,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### GTFS Realtime Libraries & Demo Apps / Rust
 

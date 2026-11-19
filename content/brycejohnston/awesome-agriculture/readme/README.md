@@ -26,6 +26,7 @@ Contributions welcome! Please follow the [contributing guidelines (⭐1.9k)](htt
     *   [Research and General Data](#research-and-general-data)
     *   [Regional Data](#regional-data)
         *   [India](#india)
+        *   [Nepal](#nepal)
         *   [United States](#united-states)
 *   [Data Standardization, Interoperability and APIs](#data-standardization-interoperability-and-apis)
 *   [Farm Management Systems and Record Keeping](#farm-management-systems-and-record-keeping)
@@ -76,6 +77,7 @@ Contributions welcome! Please follow the [contributing guidelines (⭐1.9k)](htt
 ## Crop Modeling, Phenotyping, and Pathology
 
 *   [apsimNGpy (⭐37)](https://github.com/MAGALA-RICHARD/apsimNGpy) - Python interface for running and analysing APSIM Next Generation simulations.
+*   [Contour Alley Designer (⭐0)](https://github.com/viridisconservation/contour-alley-designer) - Field-scale agroforestry design model (contour alley cropping, shelterbelts, silvopasture) that simulates 40 years on real terrain and soils. Research software in development.
 *   [CroptimizR (⭐32)](https://github.com/SticsRPacks/CroptimizR) - R package for parameter estimation and uncertainty analysis of crop models.
 *   [DSSAT (⭐240)](https://github.com/DSSAT/dssat-csm-os) - Decision Support System for Agrotechnology Transfer cropping system model.
 *   [Epicrop.jl](https://codeberg.org/adamhsparks/Epicrop.jl) - Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.
@@ -111,6 +113,10 @@ Country and location-specific reference data for markets, land records, and grow
 *   [India Agri Export Price Index](https://nidhi-bhai.github.io/india-agri-export-prices/) - Weekly reference prices for Indian agri exports (USD/kg from UN Comtrade, INR/quintal mandi prices from Agmarknet) with sources, an append-only history and CSV/JSON downloads.
 *   [India Land Data (⭐1)](https://github.com/Vyzma-AI/india-land-data) - Official land-record portals for 11 Indian states and Indian land area units (gunta, bigha, kanal and others) with state variations, as CC BY 4.0 JSON.
 *   [VarshaKrishi Field NDVI](https://www.varshakrishi.com/open-data) - One year of Sentinel-2 NDVI for a farm field near Katol, India, with field-level cloud and haze flags (CC BY 4.0, CSV/JSON).
+
+#### Nepal
+
+*   [Nepal Open Farm Data (⭐0)](https://github.com/ashiskharel/nepal-open-farm-data) - District figures for coffee, tea, large cardamom, apple, plum and related crops from the Nepal agriculture ministry (MoALD) statistical yearbooks, as CC BY 4.0 CSV.
 
 #### United States
 
@@ -221,6 +227,7 @@ Software for moving food beyond the farm gate: farmer marketplaces, food co-ops,
 *   [OpenDroneMap (⭐6.6k)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
 *   [Raster Vision (⭐2.2k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 *   [Sen2Agri (⭐133)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+*   [sentinel-crop-pipeline (⭐5)](https://github.com/muend/sentinel-crop-pipeline) - Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.
 *   [WebODM (⭐4.3k)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
 
 ## License

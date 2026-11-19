@@ -6,6 +6,16 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Nov 19, 2026](/content/2026/11/19/README.md)
+
+### Tools / Static Analysis Tools
+
+*   [REA (⭐469k)](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.
+
+### Tools / App Repackaging Detectors
+
+*   [Detect-Any (⭐1)](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Tools / Static Analysis Tools

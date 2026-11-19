@@ -6,6 +6,22 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [php-speller (⭐68)](https://github.com/mekras/php-speller) — PHP spell check library.
+
+### Other / [Other](#other-1)
+
+*   [glsec](https://glsec.github.io) — Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.
+*   [GuardLink](https://guardlink.bugb.io/) — Continuous threat modeling as code. Security annotations in source comments (threats, exposures, mitigations, flows) form a threat model that updates with the code and is validated and diffed against the base branch in CI. Without an LLM, it reports untrusted-entry-to-sink paths with no control, citing file:line, and tracks which claims are verified or stale. Open exposures become test templates to prove them. Any comment syntax; coding agents maintain it via MCP. Optional LLM threat reports.
+*   [djLint](https://djlint.com) — Linter and formatter for HTML templates. It understands the template syntax together with the markup and has profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. The linter reports accessibility, correctness and style problems. Runs as a CLI, a language server (LSP), a pre-commit hook and a VS Code extension.
+
+### More collections / [Other](#other-1)
+
+*   [Dev Quality Gates (⭐391)](https://github.com/mokevnin/dev-quality-gates) — An opinionated list of quality gates for a dozen languages, CI, infrastructure and git workflows, with one recommended tool per job and its limits
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -59,7 +75,7 @@
 ### Other / [Other](#other-1)
 
 *   [compose-lint](https://tmatens.github.io/compose-lint/) — Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.
-*   [GitStats (⭐97)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
+*   [GitStats (⭐99)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 ## [Oct 12 - Oct 18, 2026](/content/2026/41/README.md)
 
@@ -159,7 +175,6 @@
 *   **Parse** :warning: — A Static Security Scanner.
 *   **PHP Assumptions** :warning: — Checks for weak assumptions.
 *   **PHP Refactoring Browser** :warning: — Refactoring helper.
-*   **php-speller** :warning: — PHP spell check library.
 *   **phpqa - jmolivas** :warning: — PHPQA all-in-one Analyzer CLI tool.
 *   **Progpilot** :warning: — A static analysis tool for security purposes.
 *   **Qafoo Quality Analyzer** :warning: — Visualizes metrics and source code.
@@ -329,7 +344,7 @@
 ### Multiple languages / [Other](#other-1)
 
 *   [Code-Graph-RAG](https://code-graph-rag.com) — Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and stores them in Memgraph. Supports 11 programming languages with a unified graph schema and enables natural language querying and editing of code structure and relationships. Functions as an MCP server for AI assistant integration.
-*   [diesel-guard (⭐121)](https://github.com/ayarotsky/diesel-guard) — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
+*   [diesel-guard (⭐122)](https://github.com/ayarotsky/diesel-guard) — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
 *   [jQAssistant](https://jqassistant.org/) — jQAssistant is a plugin based software analytics platform which allows scanning code structures and metadata from repositories into a Neo4j graph database.  The gathered data can be used for ad-hoc exploration using queries, visualization or defining rules for continuous architecture validation.
 
 ### Other / [Other](#other-1)

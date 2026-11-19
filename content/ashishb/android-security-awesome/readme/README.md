@@ -100,6 +100,7 @@ If you find this project useful, please consider [supporting it](https://github.
 27. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 28. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 29. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~
+30. [REA (⭐469k)](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.
 
 ### App Vulnerability Scanners
 
@@ -220,6 +221,7 @@ If you find this project useful, please consider [supporting it](https://github.
 ### App Repackaging Detectors
 
 1.  [FSquaDRA (⭐76)](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resource hash comparison.
+2.  [Detect-Any (⭐1)](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
 
 ### Market Crawlers
 

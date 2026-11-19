@@ -6,7 +6,7 @@ A curation of prompts, plugins & other Fish treasures 🐚💎
 
 [ Daily / [Weekly](/content/jorgebucaran/awsm.fish/week/README.md) / [Overview](/content/jorgebucaran/awsm.fish/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Plugins
 

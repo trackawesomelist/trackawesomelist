@@ -6,6 +6,20 @@ Open source technology for agriculture, farming, and gardening
 
 [ Daily / [Weekly](/content/brycejohnston/awesome-agriculture/week/README.md) / [Overview](/content/brycejohnston/awesome-agriculture/readme/README.md) ]
 
+## [Nov 19, 2026](/content/2026/11/19/README.md)
+
+### Crop Modeling, Phenotyping, and Pathology
+
+*   [Contour Alley Designer (⭐0)](https://github.com/viridisconservation/contour-alley-designer) - Field-scale agroforestry design model (contour alley cropping, shelterbelts, silvopasture) that simulates 40 years on real terrain and soils. Research software in development.
+
+### Regional Data / Nepal
+
+*   [Nepal Open Farm Data (⭐0)](https://github.com/ashiskharel/nepal-open-farm-data) - District figures for coffee, tea, large cardamom, apple, plum and related crops from the Nepal agriculture ministry (MoALD) statistical yearbooks, as CC BY 4.0 CSV.
+
+### Remote Sensing and Imagery / United States
+
+*   [sentinel-crop-pipeline (⭐5)](https://github.com/muend/sentinel-crop-pipeline) - Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Automation and Robotics

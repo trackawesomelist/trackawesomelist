@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/rtckit/awesome-rtc/week/README.md) / [Overview](/content/rtckit/awesome-rtc/readme/README.md) ]
 
+## [Nov 19, 2026](/content/2026/11/19/README.md)
+
+### Developer Resources / JavaScript Libraries
+
+*   [Longpipe](https://longpipe.dev) - Real-time video effects for WebRTC streams in the browser: virtual background, background blur, face touch-up and auto-reframe.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Server Software / General Purpose

@@ -66,6 +66,7 @@
 *   [JsSIP](https://jssip.net/) - Open source JavaScript SIP library with WebRTC media support.
 *   [Peerix (⭐7)](https://github.com/meefik/peerix) - TypeScript WebRTC library for peer-to-peer media and data with pluggable signalling drivers.
 *   [werift (⭐649)](https://github.com/shinyoshiaki/werift-webrtc) - TypeScript WebRTC implementation for Node.js with media, data channels and RTP/RTCP APIs.
+*   [Longpipe](https://longpipe.dev) - Real-time video effects for WebRTC streams in the browser: virtual background, background blur, face touch-up and auto-reframe.
 
 ### Developer Resources / C/C++ Libraries
 

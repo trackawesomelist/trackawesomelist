@@ -110,7 +110,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [section83/MacYTDL (⭐1.1k)](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`1,065`
 *   [writingmate/aidictation (⭐53)](https://github.com/writingmate/aidictation) — Native voice-to-text with offline and cloud cleanup ☆`138`
 *   [TheAcharya/MarkerData (⭐69)](https://github.com/TheAcharya/MarkerData) — Marker extraction tool for Final Cut Pro ☆`69`
-*   [GeiserX/akou (⭐17)](https://github.com/GeiserX/akou) — Call recorder with on-device transcription and speaker labels ☆`21`
+*   [GeiserX/akou (⭐21)](https://github.com/GeiserX/akou) — Call recorder with on-device transcription and speaker labels ☆`21`
 
 ## Communication
 
@@ -318,7 +318,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [ivg-design/SidebarFavorites (⭐216)](https://github.com/ivg-design/SidebarFavorites) — Add custom folders to macOS Finder sidebar Favorites with ☆`243`
 *   [Manan-Santoki/OpenShelf (⭐198)](https://github.com/Manan-Santoki/OpenShelf) — Free, open-source Mac utility: start dragging any file, tap a ☆`219`
 *   [WizenPainter/shuffle (⭐178)](https://github.com/WizenPainter/shuffle) — Fast, open-source, GPU-rendered file manager for macOS. A Finder ☆`185`
-*   [phalladar/MacDirStat (⭐114)](https://github.com/phalladar/MacDirStat) — Free, open-source disk space analyzer for macOS, inspired by ☆`127`
+*   [phalladar/MacDirStat (⭐127)](https://github.com/phalladar/MacDirStat) — Free, open-source disk space analyzer for macOS, inspired by ☆`127`
 *   [KeplSiv/FolderForge (⭐108)](https://github.com/KeplSiv/FolderForge) — Open-source macOS folder customization with presets, rules, and ☆`118`
 *   [gentpan/LiteZip (⭐94)](https://github.com/gentpan/LiteZip) — macOS ZIP / 7Z RAR Finder ☆`97`
 *   [RobinNaumann/disko (⭐121)](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`121`
@@ -459,7 +459,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [jamiedavenport/capd (⭐88)](https://github.com/jamiedavenport/capd) — Private, native macOS app to capture pages, text, notes, links ☆`89`
 *   [AlexW00/Zettel (⭐70)](https://github.com/AlexW00/Zettel) — Zettel - Quick Notes for iOS/macOS ☆`70`
 *   [alkalim/Knopo (⭐50)](https://github.com/alkalim/Knopo) — A native macOS outliner for structured thinking, local-first notes, and ☆`50`
-*   [tancheng33/tingo (⭐6)](https://github.com/tancheng33/tingo) — AI / /Zoom Local-first AI meeting notes for Mac: on-device ☆`47`
+*   [tancheng33/tingo (⭐48)](https://github.com/tancheng33/tingo) — AI / /Zoom Local-first AI meeting notes for Mac: on-device ☆`47`
 *   [Zer0codestuff/Rapid-Reader (⭐37)](https://github.com/Zer0codestuff/Rapid-Reader) — Free, open-source native macOS speed reader. RSVP for EPUB ☆`38`
 *   [pinto-notes/pinto-notes (⭐30)](https://github.com/pinto-notes/pinto-notes) — Notes for iPhone and Mac that ChatGPT, Claude, Claude Code and ☆`34`
 *   [gentpan/LiteMD (⭐28)](https://github.com/gentpan/LiteMD) — macOS Markdown 20 .md ☆`28`
@@ -525,7 +525,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [sane-apps/SaneClip (⭐34)](https://github.com/sane-apps/SaneClip) — Privacy-first clipboard manager for macOS. Local-only history ☆`34`
 *   [olivierzol/fob (⭐26)](https://github.com/olivierzol/fob) — Your Mac as a key fob: SSH keys that live in the Secure Enclave, open ☆`28`
 *   [shenxianpeng/keelhaven (⭐24)](https://github.com/shenxianpeng/keelhaven) — Privacy-first backups for your Mac, to storage you own ☆`24`
-*   [RockxyApp/Shieldxy (⭐18)](https://github.com/RockxyApp/Shieldxy) — Auditable application firewall and connection monitor for macOS ☆`21`
+*   [RockxyApp/Shieldxy (⭐21)](https://github.com/RockxyApp/Shieldxy) — Auditable application firewall and connection monitor for macOS ☆`21`
 *   [sonor-studio/Sonor (⭐35)](https://github.com/sonor-studio/Sonor) — Privacy-first, on-device voice intelligence for macOS ☆`35`
 
 ## System Tools
@@ -541,7 +541,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [wflixu/RClick (⭐1.2k)](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`1,169`
 *   [glinford/dns-easy-switcher (⭐364)](https://github.com/glinford/dns-easy-switcher) — DNS Easy Switcher (for MacOS) ☆`366`
 *   [Silvertree2010/ApolloShell (⭐129)](https://github.com/Silvertree2010/ApolloShell) — macOS shell with a dock, launcher, dashboard and controls ☆`134`
-*   [matthewrball/abendrot (⭐34)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`34`
+*   [matthewrball/abendrot (⭐35)](https://github.com/matthewrball/abendrot) — Warms built-in and external Mac displays around local sunset. ☆`34`
 
 ### Menu Bar
 
@@ -899,7 +899,7 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [MidZai/aman\_check (⭐84)](https://github.com/MidZai/aman_check) — Dated, honest condition report for a used Mac: locks, battery, SSD ☆`86`
 *   [chentao1006/Quitty (⭐81)](https://github.com/chentao1006/Quitty) — Quitty is a lightweight, modern macOS utility that automatically ☆`84`
 *   [haplollc/Vesalius (⭐81)](https://github.com/haplollc/Vesalius) — A map of your codebase for Claude Code: an on-device code graph with ☆`82`
-*   [yagcioglutoprak/dusty (⭐79)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`80`
+*   [yagcioglutoprak/dusty (⭐80)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`80`
 *   [AssemblyAI/blurt (⭐71)](https://github.com/AssemblyAI/blurt) — Open-source macOS dictation that turns speech into polished text in ☆`72`
 *   [alphaArgon/ScrollToZoom (⭐85)](https://github.com/alphaArgon/ScrollToZoom) — A Mac utility that emulates zoom gestures using mouse wheel ☆`87`
 *   [yaroshevych/desktopctl (⭐71)](https://github.com/yaroshevych/desktopctl) — OSX launcher and GPU-accelerated CLI tool for AI agents ☆`71`
@@ -921,13 +921,13 @@ macOS software and tools from the open-source community. This awesome list is au
 *   [ricardoleal/TimeMachineTrimmer (⭐54)](https://github.com/ricardoleal/TimeMachineTrimmer) — A lightweight macOS utility to trim old Time Machine ☆`55`
 *   [parasxos/apple-mail-mcp (⭐34)](https://github.com/parasxos/apple-mail-mcp) — MCP server for Apple Mail: sub-ms search over 300k+ messages ☆`37`
 *   [tryskilly/skilly (⭐35)](https://github.com/tryskilly/skilly) — Skilly : A voice-first AI tutor that watches your screen ☆`35`
-*   [firstfu/Liftoff (⭐34)](https://github.com/firstfu/Liftoff) — The Launchpad that macOS 26 took away - back, faster, with live window ☆`35`
+*   [firstfu/Liftoff (⭐35)](https://github.com/firstfu/Liftoff) — The Launchpad that macOS 26 took away - back, faster, with live window ☆`35`
 *   [rimusz/grok-build-desktop (⭐33)](https://github.com/rimusz/grok-build-desktop) — GrokBuild Desktop App is a native SwiftUI macOS shell for ☆`34`
 *   [lifedever/TabFlick (⭐35)](https://github.com/lifedever/TabFlick) — An Arc-style most-recently-used tab switcher for Google Chrome ☆`35`
 *   [ShunmeiCho/cmd-ime (⭐34)](https://github.com/ShunmeiCho/cmd-ime) — Deterministic macOS input-source switcher: tap a modifier or press ☆`34`
 *   [rcourtman/presspeech (⭐34)](https://github.com/rcourtman/presspeech) — Fast, private push-to-talk dictation for Apple Silicon Macs ☆`34`
 *   [ox01024/MacHead (⭐32)](https://github.com/ox01024/MacHead) — MacBook Turn any MacBook (broken screen OK) into a headless server ☆`33`
-*   [GianlucaBave/murmury (⭐4)](https://github.com/GianlucaBave/murmury) — The open-source Cluely alternative for Mac: live answers from your ☆`25`
+*   [GianlucaBave/murmury (⭐27)](https://github.com/GianlucaBave/murmury) — The open-source Cluely alternative for Mac: live answers from your ☆`25`
 *   [HSMM/MacroSIP (⭐28)](https://github.com/HSMM/MacroSIP) — MicroSIP-style SIP softphone for macOS on Apple Silicon. Swift, SwiftUI ☆`31`
 *   [Blinks44/monny (⭐31)](https://github.com/Blinks44/monny) — See what your Mac is doing and keep its battery healthy with a charge ☆`31`
 *   [ryleighnewman/YapToText (⭐29)](https://github.com/ryleighnewman/YapToText) — Free, open-source Mac dictation built for accessibility. Press ☆`29`

@@ -6,7 +6,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 [ Daily / [Weekly](/content/iamericfletcher/awesome-r-learning-resources/week/README.md) / [Overview](/content/iamericfletcher/awesome-r-learning-resources/readme/README.md) ]
 
-## [Nov 18, 2026](/content/2026/11/18/README.md)
+## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Blogs / Uncategorized
 

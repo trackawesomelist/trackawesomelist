@@ -11,10 +11,15 @@ A collection of android security related resources
 ### Tools / Static Analysis Tools
 
 *   [LLMObfuscDetection (⭐23)](https://github.com/Mobile-IoT-Security-Lab/LLMObfuscDetection) - An open-source framework for detecting and classifying Android code obfuscation techniques using Large Language Models.
+*   [REA (⭐469k)](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.
 
 ### Tools / Dynamic Analysis Tools
 
 *   [TeleGapper (⭐19)](https://github.com/Mobile-IoT-Security-Lab/TeleGapper) - An open-source black-box dynamic analysis framework for analyzing Telegram Mini Apps on Android, capturing network traffic, and checking data-flow disclosures against privacy policies.
+
+### Tools / App Repackaging Detectors
+
+*   [Detect-Any (⭐1)](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
 
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
