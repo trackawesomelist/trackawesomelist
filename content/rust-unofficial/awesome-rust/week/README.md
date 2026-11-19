@@ -30,6 +30,10 @@ A curated list of Rust code and resources.
 
 *   [Koimsurai/Arke (⭐256)](https://github.com/Koimsurai/Arke) - A file explorer for Windows that never freezes, GPU-rendered with GPUI [![CI](https://github.com/Koimsurai/Arke/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Koimsurai/Arke/actions/workflows/ci.yml)
 
+### Applications / Productivity
+
+*   [stevyhacker/LokalBot](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP server with a native Rust + GPUI desktop app for Linux and Windows. [![Linux & Windows](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml/badge.svg?branch=master)](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml)
+
 ### Applications / Social networks
 
 *   XMPP
@@ -46,6 +50,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
+*   [HyunSeob/iphone-cli (⭐109)](https://github.com/HyunSeob/iphone-cli) \[[iphone-cli](https://crates.io/crates/iphone-cli)] - Single-binary CLI and MCP server letting AI agents read and operate apps on a real iPhone (iOS 27+) via the accessibility tree without Xcode or WebDriverAgent. [![CI](https://github.com/HyunSeob/iphone-cli/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HyunSeob/iphone-cli/actions/workflows/ci.yml)
 *   [mokevnin/heavy (⭐55)](https://github.com/mokevnin/heavy) \[[heavy](https://crates.io/crates/heavy)] - A machine-wide counting semaphore for heavy commands: tests, type checks and builds started by parallel coding agents and checkouts take turns instead of starving the machine [![CI](https://github.com/mokevnin/heavy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mokevnin/heavy/actions/workflows/ci.yml)
 
 ### Development tools / Static analysis
@@ -289,7 +294,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [Hugo-Dz/spritefusion-sprite-normals (⭐755)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
+*   [Hugo-Dz/spritefusion-sprite-normals (⭐841)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).
 
 ### Applications / MLOps
 
