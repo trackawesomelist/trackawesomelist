@@ -6,6 +6,43 @@ A curated list of analytics frameworks, software and other tools.
 
 [ Daily / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### General analytics
+
+*   [Eventkiwi](https://eventkiwi.com/) - Event aggregation and reporting platform: send events from any service through one HTTP API and get scheduled reports, with an AI summary built on exact counts, by email or Telegram. `©` `SaaS`
+*   [North Metric](https://www.northmetric.io/) - Churn analytics for SaaS on Stripe. Scores each customer's churn risk and ranks them by revenue at risk. `©` `SaaS`
+
+### SEO
+
+*   [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/web-analytics-marketing) - Website traffic and engagement (Similarweb) and Wayback Machine snapshots as tools AI agents can call through one Firecrawl API key, CLI or MCP server. `©` `SaaS`
+
+### Privacy focused analytics
+
+*   [Owlytics](https://kyrylo.org/owlytics) - Small, cookieless web analytics with one Rust executable and one SQLite database. No stored raw IP addresses. ([Source Code (⭐5)](https://github.com/kyrylo/owlytics)) `MIT` `Self-Hosted` `Rust`
+*   [Highseat](https://highseat.com/) - Cookieless web analytics with revenue by source: connects to your payment provider and shows which traffic sources bring paying customers. Public API and MCP server. `©` `SaaS`
+
+### Analytics layers
+
+*   [hypequery](https://hypequery.com) - Open-source embedded analytics layer for ClickHouse. Define metrics and dimensions once in TypeScript or Python, then serve them as type-safe queries, authenticated HTTP APIs, React hooks and MCP tools for AI agents from your own backend. ([Source Code (⭐106)](https://github.com/hypequery/hypequery)) `Apache-2.0` `TypeScript/Python`
+
+### Attribution tracking
+
+*   [Improvado](https://improvado.io/) - Marketing analytics platform that combines ad, web analytics and CRM data for cross-channel reporting and attribution, with an MCP server for AI agents. `©` `SaaS`
+
+### Social media analytics
+
+*   [Social Fetch](https://www.socialfetch.dev) - Social media data API: public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn as JSON. `©` `SaaS`
+
+### Developer analytics
+
+*   [Aidealy](https://aidealy.ai) - Measures the productivity of engineers and AI agents from the code they ship: a rank per engineer, how much of the code AI wrote, and AI token cost per pull request. `©` `SaaS`
+*   [Weave](https://weaveos.com/) - Engineering analytics for code output, review quality, and AI-tool usage and costs. `©` `SaaS`
+
+### Analytics dashboards
+
+*   [Web-to-Web BI Board](https://www.roimobi.com/open-source/cohort-roas-ltv-dashboard) - Cohort ROAS and LTV dashboard for subscription web funnels: payback from day 0 to day 360, sBG forecasts with 80 % intervals, real-time spend and a funnel map. Static, reads one JSON file, no backend. ([Demo](https://ua5er.github.io/web2web-bi-board/), [Source Code (⭐0)](https://github.com/ua5er/web2web-bi-board)) `MIT` `JavaScript`
+
 ## [Nov 13, 2026](/content/2026/11/13/README.md)
 
 ### General analytics
@@ -87,7 +124,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### App store analytics
 
-*   [AsoBeast](https://asobeast.com) - Open-source ASO tool and keyword rank tracker for the App Store and Google Play: daily rankings, competitors, reviews and an MCP server. ([Source Code (⭐115)](https://github.com/AsoBeast/asobeast)) `AGPL-3.0` `TypeScript` `Self-Hosted` `SaaS`
+*   [AsoBeast](https://asobeast.com) - Open-source ASO tool and keyword rank tracker for the App Store and Google Play: daily rankings, competitors, reviews and an MCP server. ([Source Code (⭐149)](https://github.com/AsoBeast/asobeast)) `AGPL-3.0` `TypeScript` `Self-Hosted` `SaaS`
 
 ### Attribution tracking
 
@@ -137,15 +174,15 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Analytics dashboards
 
-*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐212)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
+*   [Edalitics](https://www.edalitics.com) - Open source analytics/BI tool.  ([Source Code (⭐215)](https://github.com/jortilles/EDA)) `©` `SaaS` `AGPL-3.0` `Angular/Nodejs`
 *   [DataPallas (⭐81)](https://github.com/flowkraft/datapallas) - Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation. `SSPL-1.0` `Source Available`
 *   [GoatCounter Dashboard (⭐15)](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. ([Demo](https://abhishekhsingh.github.io/goatcounter-dashboard), [Source Code (⭐15)](https://github.com/abhishekhsingh/goatcounter-dashboard)) `MIT` `JavaScript`
 *   [Conyso Lens](https://conyso.com/lens.html?utm_source=github\&utm_medium=directory\&utm_campaign=listing) - General-purpose data-visualization studio: point it at any dataset and get publication-quality charts across 112 chart types, each with a plain-English, rule-based read (never AI-generated). Runs entirely in the browser; nothing you load ever leaves it. Self-host option available. `©` `SaaS` `Self-Hosted`
-*   [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code (⭐801)](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
+*   [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code (⭐805)](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
 *   [AppRankly (⭐37)](https://github.com/zmsp/AppRankly) - Self-hosted dashboard bringing together iOS App Store Connect and Google Play Console metrics.
 *   [DataHub Pro](https://www.datahubpro.co.uk/) - AI analytics for spreadsheets: turn an Excel or CSV file into dashboards, forecasts and reports, with an audit trail for every number. Built for small teams without a data engineer. `SaaS`
 *   [GeoSQL (⭐684)](https://github.com/dekart-xyz/geosql) - AI-native geospatial analytics. Claude/Codex skill that turns natural language into validated SQL + maps on BigQuery and Snowflake. `MIT` `Python`
-*   [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code (⭐438)](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
+*   [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code (⭐444)](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
 *   [Analytics Compare](https://www.analytics-compare.com/tools/compare/) - An independent, interactive database comparing 30+ analytics tools based on features, hidden costs, and scalability risks.
 
 ### Mobile analytics
@@ -502,7 +539,7 @@ A curated list of analytics frameworks, software and other tools.
 ### Analytics dashboards
 
 *   Other awesome lists [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐529k)](https://github.com/sindresorhus/awesome).
+*   Even more lists [awesome (⭐538k)](https://github.com/sindresorhus/awesome).
 *   Another list? [list (⭐12k)](https://github.com/jnv/lists).
 *   WTF! [awesome-awesome-awesome (⭐2.3k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
 *   Analytics [awesome-bigdata (⭐15k)](https://github.com/onurakpolat/awesome-bigdata).

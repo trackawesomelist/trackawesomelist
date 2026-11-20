@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### AI / Diagnostics
 
 *   [vshulcz/deja-vu (⭐1.5k)](https://github.com/vshulcz/deja-vu) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
+*   [\~foosoft/boomer.nvim](https://git.sr.ht/~foosoft/boomer.nvim) - Minimalist agent chat buffer for Codex and ACP agents such as Copilot CLI, Gemini CLI, and Claude Agent.
 
 ### Language / Markdown and LaTeX
 

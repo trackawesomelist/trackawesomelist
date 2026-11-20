@@ -12,6 +12,10 @@
 
 *   [php-speller (⭐68)](https://github.com/mekras/php-speller) — PHP spell check library.
 
+### Multiple languages / [Other](#other-1)
+
+*   [REA](https://rea.tools/) — Local CLI and MCP server for static analysis of native binaries, .NET assemblies, and JavaScript and Electron bundles. Reports binary hardening flags, dependencies, and release exposure such as shipped source maps, with supporting evidence. The release audit can fail a build at a chosen severity.
+
 ### Other / [Other](#other-1)
 
 *   [glsec](https://glsec.github.io) — Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.

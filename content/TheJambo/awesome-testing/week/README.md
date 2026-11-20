@@ -14,6 +14,10 @@ A curated list of testing resources
 *   [ShipShape (⭐0)](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
 *   [sitelooper (⭐1)](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
 
+### Software / Test Report Diagnostics
+
+*   [pytest-glow-report (⭐4)](https://github.com/godhiraj-code/pytest-glow-report) - Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Software / AI & LLM Testing

@@ -14,10 +14,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [Context.dev](https://www.context.dev/) - Web scraping API with 1,000 API credits per month (1,000 standard scrapes) plus 10,000 one-time Logo Link requests, no credit card required.
+*   [CurrencyBeacon](https://currencybeacon.com/) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
 *   [Kardinal](https://kardinal.ai/) - Route optimization API for delivery and field service fleets: multi-vehicle routing with time windows, vehicle capacities and other real-world constraints, also usable by AI agents. Free tier includes 1,000 stops that never expire, no credit card required.
 
 ### Tools for Teams and Collaboration
 
+*   [Fibery](https://fibery.com/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
 *   [Notion](https://www.notion.com/) - Notion is a note-taking and collaboration application with markdown support that integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
 *   [zoom](https://zoom.com/) - Secure Video and Web conferencing add-ons available. The free plan is limited to 40 minutes.
 
@@ -27,6 +30,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Code Quality
 
+*   [DeepSource](https://deepsource.com/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
 *   [proofline.sh](https://proofline.sh/) - AI code review for GitHub pull requests, with infrastructure-aware checks when connected to a deployment environment. Free forever for open repos, and no subscription required if you BYOK on any private repo.
 
 ### Security and PKI
@@ -46,10 +50,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [addy.io](https://addy.io) - Open-source anonymous email forwarding, create unlimited email aliases for free
+*   [turboSMTP](https://serversmtp.com) - SMTP relay service, free for 200 emails per day or 6000 emails per month, free forever, no time limit, no expiry. Web API, SPF/DKIM authentication, suppression management, 1 sending domain, 2 API keys, 2FA, ticket and chat support, GDPR compliant.
 
 ### Forms
 
 *   [FormTango](https://formtango.com) - Form backend for static sites and AI-built apps. Free plan: 100 submissions a month, unlimited forms, spam filtering and email notifications. Endpoints can be created from the API with no account.
+*   [Kwes.io](https://kwesforms.com/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
 
 ### Generative AI
 
@@ -63,8 +69,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Ravion](https://www.ravion.com/) - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. The Individuals plan is free for one user with up to 50 modules, 2,000 pipeline minutes and $20 of AI tokens per month. AWS costs are billed through AWS, but you can use credits and the AWS free tier.
 
+### BaaS
+
+*   [IFTTT](https://ifttt.ai/) - Automate your favorite apps and devices. Free 2 Applets
+
 ### Managed Data Services
 
+*   [CrateDB](https://cratedb.com/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
 *   [Raff](https://rafftechnologies.com/products/managed-databases) - Managed PostgreSQL, MySQL and Valkey, 1 free database per account with no expiry, 1 vCPU, 1 GB RAM and 2 GB storage (Valkey: 512 MB memory), 20 direct and 200 pooled connections on PostgreSQL, TLS on every database, pauses after 7 days without connections and resumes in about a minute. No egress fees.
 
 ### Storage and Media Processing
@@ -95,7 +106,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Beliq](https://beliq.eu) - European REST API platform for e-invoicing, including generating, validating and delivering e-invoices. The free plan includes 20 live documents/month, plus 400 sandbox documents/month (no card required).
-*   [CurrencyBeacon](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
 *   [CustomJS](https://www.customjs.space) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
 *   [Rizamo](https://rizamo.com) - Social media publishing API: schedule and publish to Instagram, Facebook, TikTok, Threads, YouTube and more over REST, webhooks or an MCP server for AI agents, with comment inbox and analytics. Free forever for 2 connected accounts, unlimited posts, every feature included, no credit card.
 *   [VPNDetection](https://vpndetection.io) - VPN, proxy and hosting detection API for any IP address. The free plan answers the VPN, Tor and relay flags, country and ASN, with no API key, signup or monthly cap.
@@ -310,7 +320,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [DMARCmetric](https://dmarcmetric.com/) - DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.
-*   [SignupVet](https://www.signupvet.com) - An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.
 
 ### Forms
 
@@ -1436,7 +1445,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))
+*   [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://docs.cockroachlabs.com/docs/cockroachcloud/metrics-request-units))
 
 ### Issue Tracking and Project Management
 
@@ -2236,7 +2245,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
-*   [IFTTT](https://ifttt.com) - Automate your favorite apps and devices. Free 2 Applets
 *   [Integrately](https://integrately.com) - Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
 
 ### Design and UI
@@ -2460,7 +2468,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Managed Data Services
 
 *   [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service. It allows you to start building web applications quickly using a UI app builder and scale quickly, The Free tier includes rows: 2,500, Storage: 500, Serverless computing: 1Gb/h, and client app users: 5.
-*   [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
 
 ### Other Free Resources
 
@@ -3782,7 +3789,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [Braid](https://www.braidchat.com/) - Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
-*   [Fibery](https://fibery.io/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
 *   [wormhol.org](https://www.wormhol.org/) - Straightforward file sharing service. Share unlimited files up to 5GB with as many peers as you want.
 *   [Zulip](https://zulip.com/) - Real-time chat with a unique email-like threading model. The free plan includes 10,000 messages of search history and File storage up to 5 GB. also, it provides a self-hostable open-source version.
 
@@ -4068,10 +4074,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [element.io](https://element.io/) - A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
-
-### Code Quality
-
-*   [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
 
 ### Email
 
@@ -4412,7 +4414,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
 *   [formlets.com](https://formlets.com/) - Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.
-*   [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
 *   [Typeform.com](https://www.typeform.com/) - Include beautifully designed forms on websites.  The free plan allows only ten fields per form and 100 monthly responses.
 
 ### CDN and Protection

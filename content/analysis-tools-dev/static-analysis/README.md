@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [REA](https://rea.tools/) — Local CLI and MCP server for static analysis of native binaries, .NET assemblies, and JavaScript and Electron bundles. Reports binary hardening flags, dependencies, and release exposure such as shipped source maps, with supporting evidence. The release audit can fail a build at a chosen severity.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Programming Languages / [Other](#other-1)

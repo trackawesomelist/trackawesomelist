@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### App Releases / Arcade
+
+*   Egg Beat! - [Android](https://play.google.com/store/apps/details?id=com.luciosoft.eggbeat\&hl=en), [iOS](https://apps.apple.com/app/id6833969842) - A physics-based rhythm arcade game where you balance a tray on your head to catch falling eggs, pack cartons, dodge bombs, and master themed worlds with unique hazards plus a Daily Doodle challenge. By [LucioSoft](https://github.com/adlucio87)
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### App Releases / Action

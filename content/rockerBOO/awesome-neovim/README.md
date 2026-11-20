@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
+### AI / Diagnostics
+
+*   [\~foosoft/boomer.nvim](https://git.sr.ht/~foosoft/boomer.nvim) - Minimalist agent chat buffer for Codex and ACP agents such as Copilot CLI, Gemini CLI, and Claude Agent.
+
 ### Language / Markdown and LaTeX
 
 *   [refine-sh/refine.nvim (⭐6)](https://github.com/refine-sh/refine.nvim) - Grammar and fluency checks with a local LLM, powered by the `Refine` app for macOS.

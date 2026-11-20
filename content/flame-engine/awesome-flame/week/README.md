@@ -16,6 +16,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   PaddleX - [Android](https://play.google.com/store/apps/details?id=com.grabow.paddlex) - A paddle duel across 300 levels and ten ways to play: power-ups, building, a second ball, marble runs, foosball, table ice hockey and a shooting gallery, with a champion at the end of every world and two players on one device. By [Grabow Commuter](https://paddlex.drawla.app)
 *   Hungry Fish: Eat, Grow, Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.hungryfish) - A fish-eat-fish game: grow through 13 evolution stages across 11 ocean worlds and beat a giant boss in each. By [NewAgeDevs](https://newagedevs.com)
+*   Egg Beat! - [Android](https://play.google.com/store/apps/details?id=com.luciosoft.eggbeat\&hl=en), [iOS](https://apps.apple.com/app/id6833969842) - A physics-based rhythm arcade game where you balance a tray on your head to catch falling eggs, pack cartons, dodge bombs, and master themed worlds with unique hazards plus a Daily Doodle challenge. By [LucioSoft](https://github.com/adlucio87)
 
 ### App Releases / Puzzle Games
 

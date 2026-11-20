@@ -12,6 +12,10 @@ A curated list of testing resources
 
 *   [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.
 
+### Software / Test Report Diagnostics
+
+*   [pytest-glow-report (⭐4)](https://github.com/godhiraj-code/pytest-glow-report) - Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Software / UI & End-to-End Testing
