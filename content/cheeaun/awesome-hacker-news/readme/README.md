@@ -156,18 +156,32 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Browser Extensions
 
+*   [Vouch](https://vouch.rodneygainous.com)
+
 *   [Hacker News OnePage](https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj)
+
 *   [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid)
+
 *   [Hacker Smacker](https://hackersmacker.org)
+
 *   [HN Favourite Users (⭐2)](https://github.com/janhancic/hn-favourite-users)
+
 *   [HN Unread Comments (⭐4)](https://github.com/janhancic/hn-unread-comments)
+
 *   [hnHiringFilter (⭐4)](https://github.com/janhancic/hnHiringFilter)
+
 *   [hnlinks (⭐17)](https://github.com/dit7ya/hnlinks)
+
 *   [HNRank](https://www.jitbit.com/hacker-news-rank/)
+
 *   [ModernHN](https://www.modernhn.com)
+
 *   [HN discussions for the current page](https://discu.eu/extension/)
+
 *   [Drake Rossman's Extension written in Rust WASM](https://drakerossman.com/blog/hackernews-userscript-in-rust-wasm)
+
 *   [Hacker News Tools](https://chromewebstore.google.com/detail/hacker-news-tools/flhbhgflcehfhimejnjadbfpebhhaopi)
+
 *   [Comment Scraper](https://chromewebstore.google.com/detail/gblklncgcjcinpjaaeafmmkjnfkihmfn)
 
 ### Userscripts
@@ -187,7 +201,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Haiker](https://haiker.app)
-*   [HNReader (⭐195)](https://github.com/mattrighetti/HNReaderApp)
+*   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
 *   [touchHNews (⭐192)](https://github.com/mrmekon/toucHNews)
 
 ### Linux
@@ -199,7 +213,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 *   [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
-*   [Gem for Hacker News (⭐88)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐90)](https://github.com/Livinglist/Gem)
 *   [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 *   [Hack Later](http://brushedtype.co/apps/hack-later/)
 *   [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
@@ -217,9 +231,9 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐580)](https://github.com/Mosc/Glider)
 *   [HackerFlow](https://hackerflow.app)
-*   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
+*   [Hacker News client for Android (⭐228)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
@@ -266,7 +280,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Alfred workflows
 
-*   [Alfred Hacker News Workflow (⭐41)](https://github.com/loris/alfred-hackernews-workflow)
+*   [Alfred Hacker News Workflow (⭐42)](https://github.com/loris/alfred-hackernews-workflow)
 
 ### Smart Watch
 
@@ -279,7 +293,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-*   [Hacker News Groups (⭐124)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
 *   [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 *   [Hacker News Undocumented Features and Behaviors (⭐3.8k)](https://github.com/minimaxir/hacker-news-undocumented)
 *   [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)

@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Software / UI & End-to-End Testing

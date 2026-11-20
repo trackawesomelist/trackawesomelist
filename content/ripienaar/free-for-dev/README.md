@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Source Code Repos
+
+*   [Upstream](https://upstream.codes/) - Over 10,000 pushes/sec, the fastest Git host. 100 free repos, public or private, with LFS, merge checks, semantic code search, and AI
+
+### Forms
+
+*   [FormTango](https://formtango.com) - Form backend for static sites and AI-built apps. Free plan: 100 submissions a month, unlimited forms, spam filtering and email notifications. Endpoints can be created from the API with no account.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### APIs, Data, and ML

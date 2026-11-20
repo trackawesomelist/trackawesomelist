@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Browser Extensions / Nevix
+
+*   [Vouch](https://vouch.rodneygainous.com)
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Web
@@ -72,7 +78,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐88)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐90)](https://github.com/Livinglist/Gem)
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -294,7 +300,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐580)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -396,7 +402,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### macOS / Nevix
 
-*   [HNReader (⭐195)](https://github.com/mattrighetti/HNReaderApp)
+*   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
 *   [touchHNews (⭐192)](https://github.com/mrmekon/toucHNews)
 
 ### iOS / Nevix
@@ -411,7 +417,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
+*   [Hacker News client for Android (⭐228)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [HN-Android (⭐497)](https://github.com/manmal/hn-android/)
 *   [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
@@ -489,7 +495,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Alfred workflows / Nevix
 
-*   [Alfred Hacker News Workflow (⭐41)](https://github.com/loris/alfred-hackernews-workflow)
+*   [Alfred Hacker News Workflow (⭐42)](https://github.com/loris/alfred-hackernews-workflow)
 
 ### Smart Watch / Nevix
 
@@ -501,7 +507,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Resources / Nevix
 
-*   [Hacker News Groups (⭐124)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 

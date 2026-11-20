@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Language / Markdown and LaTeX
+
+*   [refine-sh/refine.nvim (⭐6)](https://github.com/refine-sh/refine.nvim) - Grammar and fluency checks with a local LLM, powered by the `Refine` app for macOS.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Code Runner / Quickfix

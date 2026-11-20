@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Search and Analytic Databases
+
+*   [riot (⭐6.1k)](https://github.com/vcaesar/riot) - Simple and fast text and vector index engine.
+
+### Messaging
+
+*   [goncordia (⭐70)](https://github.com/kirimatt/goncordia) - Background job queue on the database you already use (Postgres, MySQL, SQLite, MongoDB, Redis and more), with transactional enqueue and typed futures.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Authentication and Authorization

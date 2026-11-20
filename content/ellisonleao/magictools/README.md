@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Graphics / Assets/Placeholders
+
+*   :money\_with\_wings: [Gridwright](https://gridwright.store/) - Pixel-art game asset packs on one grid (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Each pack has a free sample.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Graphics / Assets/Placeholders
@@ -69,7 +75,7 @@
 
 ### Graphics / Spritesheet Tools
 
-*   :moneybag: [Gridwright](https://gridwright.dev/) - Pixel-art asset packs drawn on one grid, plus 31 browser tools for tilesets, maps, sprite sheets, effects and sound.
+*   :moneybag: [Gridwright](https://gridwright.dev/) - Pixel-art asset packs drawn on one grid, plus 35 browser tools for tilesets, autotiles, maps, sprite sheets, palettes, effects and sound, with Godot-ready exports.
 
 ### Graphics / Vector/Image Editor
 
@@ -174,7 +180,6 @@
 
 ### Graphics / Assets/Placeholders
 
-*   :money\_with\_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
 *   :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 
 ### Graphics / Spritesheet Tools
@@ -903,7 +908,7 @@
 
 ### Graphics / Tile/Level Editors
 
-*   :tada: [Material Maker (⭐6.2k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
+*   :tada: [Material Maker (⭐6.3k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 ### Graphics / Animation
 

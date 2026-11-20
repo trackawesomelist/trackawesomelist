@@ -1053,6 +1053,7 @@ additional ordered map implementations.
 *   [elastigo (⭐939)](https://github.com/mattbaird/elastigo) - Elasticsearch client library.
 *   [go-elasticsearch (⭐6.1k)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 *   [goes (⭐30)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
+*   [riot (⭐6.1k)](https://github.com/vcaesar/riot) - Simple and fast text and vector index engine.
 *   [skizze (⭐773)](https://github.com/skizzehq/skizze) - A probabilistic data structure service and storage.
 *   [zoekt (⭐2.1k)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
@@ -1923,6 +1924,7 @@ additional ordered map implementations.
 *   [GoEventBus (⭐75)](https://github.com/Raezil/GoEventBus) - A blazing‑fast, in‑memory, lock‑free event bus library
 *   [Gollum (⭐940)](https://github.com/trivago/gollum) - A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
 *   [golongpoll (⭐667)](https://github.com/jcuga/golongpoll) - HTTP longpoll server library that makes web pub-sub simple.
+*   [goncordia (⭐70)](https://github.com/kirimatt/goncordia) - Background job queue on the database you already use (Postgres, MySQL, SQLite, MongoDB, Redis and more), with transactional enqueue and typed futures.
 *   [gopush-cluster (⭐2.1k)](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster is a go push server cluster.
 *   [gorush (⭐8.8k)](https://github.com/appleboy/gorush) - Push notification server using [APNs2 (⭐3.2k)](https://github.com/sideshow/apns2) and google [GCM (⭐106)](https://github.com/google/go-gcm).
 *   [gosd (⭐26)](https://github.com/alexsniffin/gosd) - A library for scheduling when to dispatch a message to a channel.

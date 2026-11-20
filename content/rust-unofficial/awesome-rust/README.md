@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Development tools / Transpiling
+
+*   [erkamyaman/rust-anything (⭐5.6k)](https://github.com/erkamyaman/rust-anything) \[[rust-anything](https://crates.io/crates/rust-anything)] - Ports TypeScript, Python, C, Go, Ruby and Java apps to Rust piece by piece, checking each piece against the recorded behavior of the original. [![build badge](https://github.com/erkamyaman/rust-anything/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/erkamyaman/rust-anything/actions/workflows/ci.yml)
+
+### Libraries / Configuration
+
+*   [hyperi-io/scalo-rs (⭐0)](https://github.com/hyperi-io/scalo-rs) \[[scalo](https://crates.io/crates/scalo)] - Runtime for Rust services. It has layered config, redacted structured logs and health probes. It supports Prometheus and OpenTelemetry metrics. Its transports are Kafka, gRPC and HTTP.
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Applications
@@ -18,7 +28,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [stevyhacker/LokalBot](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP server with a native Rust + GPUI desktop app for Linux and Windows. [![Linux & Windows](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml/badge.svg?branch=master)](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml)
+*   [stevyhacker/LokalBot (⭐120)](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP server with a native Rust + GPUI desktop app for Linux and Windows. [![Linux & Windows](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml/badge.svg?branch=master)](https://github.com/stevyhacker/LokalBot/actions/workflows/linux-windows.yml)
 
 ### Applications / Utilities
 
@@ -218,7 +228,7 @@ A curated list of Rust code and resources.
 
 ### Applications / MLOps
 
-*   [vayungodara/cliproxy-rs (⭐59)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
+*   [vayungodara/cliproxy-rs (⭐78)](https://github.com/vayungodara/cliproxy-rs) \[[cliproxy](https://crates.io/crates/cliproxy)] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI. [![CI](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/vayungodara/cliproxy-rs/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
@@ -658,7 +668,7 @@ A curated list of Rust code and resources.
 
 *   Code Coverage
     *   [minikin/cargo-crap (⭐435)](https://github.com/minikin/cargo-crap) \[[cargo-crap](https://crates.io/crates/cargo-crap)] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score
-    *   [supercorp-ai/supercov (⭐160)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
+    *   [supercorp-ai/supercov (⭐167)](https://github.com/supercorp-ai/supercov) \[[supercov](https://crates.io/crates/supercov)] - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first [![CI](https://github.com/supercorp-ai/supercov/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/supercorp-ai/supercov/actions)
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) - A code coverage tool
 
 ### Libraries / Finance
@@ -1120,7 +1130,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [MoonProxyHQ/moonproxy-desktop (⭐64)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
+*   [MoonProxyHQ/moonproxy-desktop (⭐68)](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click. [![CI](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/MoonProxyHQ/moonproxy-desktop/actions/workflows/ci.yml)
 
 ## [Jul 30, 2026](/content/2026/07/30/README.md)
 

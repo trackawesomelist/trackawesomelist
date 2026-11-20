@@ -11,6 +11,7 @@
 ### Graphics / Assets/Placeholders
 
 *   :free: [CC0 Materials](https://cc0materials.com) - Free CC0 PBR textures for game environments, up to 4K with OpenGL and DirectX normal maps for Unity, Unreal and Godot.
+*   :money\_with\_wings: [Gridwright](https://gridwright.store/) - Pixel-art game asset packs on one grid (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Each pack has a free sample.
 *   :free: [Iconito Game Food Icons](https://iconi.to/game-food-icons) - Food icons for cooking, farming and cozy games, free under the MIT license as SVG, in Figma and on Iconify.
 *   :free: [SceneCrate Free 3D Game Assets](https://scenecrate.com/free-3d-game-assets) - Nine walkable CC0 1.0 3D browser-game scenes (buildings, heightfield terrain, and static props) in two measured GLB tiers, with JSON colliders and offline Three.js examples; no account required.
 *   :free: [Verdant 00 Free Tileset Sampler](https://csaf.itch.io/verdant-00-sample) - 878 top down 16x16 pixel art tiles, including 16 complete 47 mask autotile sets, with importers for RPG Maker MZ, Tiled and Godot; royalty free for commercial use, no credit required. Drawn by a procedural pixel engine written with an AI assistant, no image generators.
@@ -18,7 +19,7 @@
 ### Graphics / Spritesheet Tools
 
 *   :free: [GIF to Sprite Sheet](https://giftospritesheet.com/) - Browser tool that turns a GIF, animated WebP or video into a PNG sprite sheet, with JSON atlas, Godot .tres and Sparrow XML export. Also cuts sheets into frames and plays a sheet back as a GIF. Files stay on your device.
-*   :moneybag: [Gridwright](https://gridwright.dev/) - Pixel-art asset packs drawn on one grid, plus 31 browser tools for tilesets, maps, sprite sheets, effects and sound.
+*   :moneybag: [Gridwright](https://gridwright.dev/) - Pixel-art asset packs drawn on one grid, plus 35 browser tools for tilesets, autotiles, maps, sprite sheets, palettes, effects and sound, with Godot-ready exports.
 *   :free: [MakerGIF Sprite Sheet Converter](https://makergif.com/gif-to-sprite-sheet) - Free browser-based GIF and short-video to PNG sprite sheet converter with live WASD animation playtesting, Phaser 3 JSON, and Sparrow v2 XML export; files stay on your device with no account required.
 *   :money\_with\_wings: [Puff](https://cs5475.itch.io/puff) - Preview pixel-art explosions and spell hits in the browser. The paid offline tool exports PNG sprite sheets, Godot 4 SpriteFrames and RPG Maker MV/MZ animations.
 *   :free: [Sprite Sheet Slicer](https://capsulekit.pages.dev/sprite-sheet-slicer/) - Slice a sprite sheet by grid or cell size, preview the animation, and export PNG frames plus a Godot- and Unity-friendly JSON atlas.
@@ -108,7 +109,6 @@
 
 ### Graphics / Assets/Placeholders
 
-*   :money\_with\_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
 *   :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 
 ### Graphics / Spritesheet Tools
@@ -791,7 +791,7 @@
 
 ### Graphics / Tile/Level Editors
 
-*   :tada: [Material Maker (⭐6.2k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
+*   :tada: [Material Maker (⭐6.3k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 ### Graphics / Animation
 

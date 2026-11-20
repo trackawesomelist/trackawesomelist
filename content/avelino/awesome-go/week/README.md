@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [seed-poet (⭐0)](https://github.com/abkvme/seed-poet) - BIP39 mnemonic generator that arranges 12 or 24-word seed phrases as rhyming couplets, with a JavaScript port that produces identical output.
 
+### Search and Analytic Databases
+
+*   [riot (⭐6.1k)](https://github.com/vcaesar/riot) - Simple and fast text and vector index engine.
+
 ### Financial
 
 *   [canary (⭐11)](https://github.com/osauer/canary) - Clean-room client for the Interactive Brokers TWS socket protocol, in pkg/ibkr.
@@ -27,6 +31,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Forms
 
 *   [go-form (⭐46)](https://github.com/donseba/go-form) - Render HTML forms from Go structs with struct tags, bind and validate submissions.
+
+### Messaging
+
+*   [goncordia (⭐70)](https://github.com/kirimatt/goncordia) - Background job queue on the database you already use (Postgres, MySQL, SQLite, MongoDB, Redis and more), with transactional enqueue and typed futures.
 
 ### Networking
 

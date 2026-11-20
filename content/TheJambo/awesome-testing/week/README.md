@@ -10,6 +10,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
+*   [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.
 *   [ShipShape (⭐0)](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
 *   [sitelooper (⭐1)](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
 

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [vshulcz/deja-vu (⭐1.5k)](https://github.com/vshulcz/deja-vu) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
 
+### Language / Markdown and LaTeX
+
+*   [refine-sh/refine.nvim (⭐6)](https://github.com/refine-sh/refine.nvim) - Grammar and fluency checks with a local LLM, powered by the `Refine` app for macOS.
+
 ### Colorscheme / Markdown and LaTeX
 
 *   [dybdeskarphet/min.nvim (⭐20)](https://github.com/dybdeskarphet/min.nvim) - ***`[TS][LSP][L/D][Lua]`*** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.

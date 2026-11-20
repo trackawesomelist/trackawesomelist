@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 20, 2026](/content/2026/11/20/README.md)
+
+### Browsers / Audio Record and Process
+
+*   [Meridian](https://undermove.github.io/meridian-browser/) - Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Undermove/meridian-browser) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Menu Bar Tools
+
+*   [Deskbridge](https://getdeskbridge.com) - Menu bar app that opens a Samsung Galaxy phone's DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.
+
+### Utilities / General Tools
+
+*   [Driftwall](https://driftwall.kamaldhital.com) - Play any video file as a looping live wallpaper behind your desktop icons, on every display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dhitalkamal/driftwall) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Developer Tools / Developer Utilities
@@ -156,7 +170,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Copia](https://geragaraza.com/apps/copia/) - Open-source clipboard history that keeps everything copied (text, rich text, links, colors, images, video, audio, files) and pastes several picked items at once in the order picked; a paste queue pastes copies one by one with ⌘V. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/geragarazagh/copia) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Copia](https://geragaraza.com/apps/copia/) - Clipboard manager that keeps every copy and pastes several at once or one by one. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/geragarazagh/copia) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Menu Bar Tools
 
@@ -234,7 +248,7 @@
 
 ### AI Tools / Other Tools
 
-*   [AppleAi (⭐143)](https://github.com/bunnysayzz/AppleAI) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bunnysayzz/AppleAI)
+*   [AppleAi (⭐144)](https://github.com/bunnysayzz/AppleAI) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bunnysayzz/AppleAI)
 *   [BaseHalf](https://basehalf.com) - Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Pointa-Labs/basehalf) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
@@ -274,7 +288,7 @@
 
 *   [MacClean (⭐2)](https://github.com/jinglings/MacClean) - Free local Mac disk cleaner that lets you review WeChat media, System Data, and Xcode or AI caches before deleting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jinglings/MacClean) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MacSweep (⭐1)](https://github.com/nihal4/macsweep) - Free, open-source Mac cleaner written in Rust (\~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nihal4/macsweep) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Purge (⭐1.5k)](https://github.com/jithin-sabu/purge-app) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jithin-sabu/purge-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Purge (⭐2k)](https://github.com/jithin-sabu/purge-app) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jithin-sabu/purge-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -366,7 +380,7 @@
 ### AI Tools / Other Tools
 
 *   [Airbag (⭐3)](https://github.com/a1murt/airbag) - Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/a1murt/airbag) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [TurboFieldfare (⭐7.2k)](https://github.com/drumih/turbo-fieldfare) - Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/drumih/turbo-fieldfare) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [TurboFieldfare (⭐7.4k)](https://github.com/drumih/turbo-fieldfare) - Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/drumih/turbo-fieldfare) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Browsers / Audio Record and Process
 
@@ -519,7 +533,7 @@
 
 ### Design and Product / Other Tools
 
-*   [Flipic (⭐6)](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xmasdong/flipic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flipic (⭐16)](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xmasdong/flipic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
@@ -1274,15 +1288,15 @@
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Rapid Reader (⭐37)](https://github.com/Zer0codestuff/Rapid-Reader) - Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Rapid Reader (⭐38)](https://github.com/Zer0codestuff/Rapid-Reader) - Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [WhisperDrop 2 (⭐9)](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [WhisperDrop 2 (⭐10)](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
-*   [OpenNaga (⭐13)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/OpenNaga) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenNaga (⭐15)](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Zer0codestuff/OpenNaga) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Oct 04, 2026](/content/2026/10/04/README.md)
 
@@ -2171,7 +2185,7 @@
 
 ### Remote Login Software / System Related Tools
 
-*   [MoonProxy (⭐64)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MoonProxy (⭐68)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
@@ -3704,7 +3718,7 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Neovim (⭐103k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Neovim (⭐104k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 

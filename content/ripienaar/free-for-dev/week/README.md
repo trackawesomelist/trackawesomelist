@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Source Code Repos
+
+*   [Upstream](https://upstream.codes/) - Over 10,000 pushes/sec, the fastest Git host. 100 free repos, public or private, with LFS, merge checks, semantic code search, and AI
+
 ### APIs, Data, and ML
 
 *   [Kardinal](https://kardinal.ai/) - Route optimization API for delivery and field service fleets: multi-vehicle routing with time windows, vehicle capacities and other real-world constraints, also usable by AI agents. Free tier includes 1,000 stops that never expire, no credit card required.
@@ -42,6 +46,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [addy.io](https://addy.io) - Open-source anonymous email forwarding, create unlimited email aliases for free
+
+### Forms
+
+*   [FormTango](https://formtango.com) - Form backend for static sites and AI-built apps. Free plan: 100 submissions a month, unlimited forms, spam filtering and email notifications. Endpoints can be created from the API with no account.
 
 ### Generative AI
 
