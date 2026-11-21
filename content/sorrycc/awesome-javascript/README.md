@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Nov 21, 2026](/content/2026/11/21/README.md)
+
+### Data Visualization / Runner
+
+*   [d3-3d (⭐415)](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
+
 ## [Nov 10, 2026](/content/2026/11/10/README.md)
 
 ### Testing Frameworks / Runner
@@ -50,7 +56,7 @@
 
 ### Generative AI / Other
 
-*   [liter-llm (⭐263)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+*   [liter-llm (⭐266)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## [Aug 20, 2026](/content/2026/08/20/README.md)
 
@@ -267,7 +273,7 @@
 
 ### Benchmark / Runner
 
-*   [bencher (⭐923)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐932)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
@@ -1002,7 +1008,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐89k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐90k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
@@ -2343,7 +2349,7 @@
 
 ### Sliders / Runner
 
-*   [reveal.js (⭐72k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+*   [reveal.js (⭐73k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 
 ## [Oct 07, 2014](/content/2014/10/07/README.md)
 
@@ -2570,7 +2576,7 @@
 
 *   [emijrp/awesome-awesome (⭐3.2k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐529k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐538k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐12k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)

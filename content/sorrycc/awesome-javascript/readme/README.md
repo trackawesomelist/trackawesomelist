@@ -243,7 +243,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [meteor (⭐45k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
 *   [ractive (⭐5.9k)](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 *   [vue (⭐213k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
-*   [svelte (⭐89k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐90k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 *   [knockout (⭐11k)](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 *   [spine (⭐3.7k)](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 *   [espresso.js (⭐529)](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
@@ -387,6 +387,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [vizzu (⭐2k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 *   [G6 (⭐12k)](https://github.com/antvis/g6) - A graph visualization engine.
 *   [Infographic (⭐7.1k)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
+*   [d3-3d (⭐415)](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
@@ -697,7 +698,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
-*   [bencher (⭐923)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐932)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 
@@ -791,7 +792,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [sly (⭐2.8k)](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
 *   [vegas (⭐1.8k)](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
 *   [Sequence (⭐3.3k)](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
-*   [reveal.js (⭐72k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+*   [reveal.js (⭐73k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 *   [impress.js (⭐38k)](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 *   [bespoke.js (⭐4.8k)](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
@@ -1099,7 +1100,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 *   [KaibanJS (⭐1.5k)](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
-*   [liter-llm (⭐263)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+*   [liter-llm (⭐266)](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## Misc
 
@@ -1151,7 +1152,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [sotayamashita/awesome-css (⭐5.7k)](https://github.com/sotayamashita/awesome-css)
 *   [emijrp/awesome-awesome (⭐3.2k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐529k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐538k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐12k)](https://github.com/jnv/lists)
 *   [gianarb/angularjs (⭐2.4k)](https://github.com/gianarb/awesome-angularjs)
 *   [peterkokot/awesome-dojo (⭐99)](https://github.com/peterkokot/awesome-dojo)

@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 21, 2026](/content/2026/11/21/README.md)
+
+### MCP Servers
+
+*   [DankMachine Meme Sounds (⭐3)](https://github.com/HalberdLLC/dank-meme-sounds) - Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (`gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp`, no API key) or local with playback via `gemini mcp add dankmachine -- npx -y dank-meme-sounds`.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### Commands & Extensions

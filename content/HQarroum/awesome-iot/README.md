@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Nov 21, 2026](/content/2026/11/21/README.md)
+
+### Software / Middlewares
+
+*   [Voltrus SCADA (⭐2)](https://github.com/VoltrusID/voltrus-scada) - Self-hosted SCADA and industrial monitoring in a single Rust binary, with Modbus, OPC UA, S7, BACnet/IP drivers and an embedded MQTT broker.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Software / Libraries and Tools
@@ -50,7 +56,7 @@
 
 ### Software / Miscellaneous
 
-*   [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - An ESP32-S3 plugged into an iPhone acts as a Wi-Fi-controlled USB mouse and keyboard, so an AI vision model can operate the phone through AirPlay screen mirroring.
+*   [ESP32 iPhone Agent (⭐5.2k)](https://github.com/onehumanbeing/esp32-iphone-agent) - An ESP32-S3 plugged into an iPhone acts as a Wi-Fi-controlled USB mouse and keyboard, so an AI vision model can operate the phone through AirPlay screen mirroring.
 
 ### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
@@ -182,7 +188,7 @@
 
 ### Software / Libraries and Tools
 
-*   [ble-scale-sync (⭐215)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+*   [ble-scale-sync (⭐229)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
 
 ## [Jul 24, 2025](/content/2025/07/24/README.md)
 

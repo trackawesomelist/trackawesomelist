@@ -489,6 +489,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 *   [Lantern Works GPU Prices](https://thelanternworks.com/?ref=awesome-gemini-cli) - Free, read-only MCP server for GPU cloud rental prices, price changes and deals. Remote Streamable HTTP (`https://lantern-works-mcp.lantern-works.workers.dev/mcp`, no API key) or local via `uvx lantern-works-deals-mcp`. Works with Gemini CLI and other MCP clients.
 *   [ClickHouse Loom (⭐171)](https://github.com/ClickHouse/loom) - Shared long-term memory, document search and a code index for Gemini CLI through a self-hosted Loom MCP server. Install the release-candidate extension: `gemini extensions install https://github.com/ClickHouse/loom --ref v1.3.0-rc.1`.
 *   [Brilliant (⭐1)](https://github.com/brilliant-hq/brilliant-mcp) - MCP server that lets Gemini CLI create and edit vector designs on a Brilliant canvas you edit by hand at the same time. Install: `gemini mcp add brilliant -- npx -y @brilliant-hq/mcp`.
+*   [DankMachine Meme Sounds (⭐3)](https://github.com/HalberdLLC/dank-meme-sounds) - Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (`gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp`, no API key) or local with playback via `gemini mcp add dankmachine -- npx -y dank-meme-sounds`.
 
 ## Neovim Plugins
 

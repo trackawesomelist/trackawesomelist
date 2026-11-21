@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 21, 2026](/content/2026/11/21/README.md)
+
+### Libraries / Data visualization
+
+*   [dataviz-rs/dataviz (⭐12)](https://github.com/dataviz-rs/dataviz) \[[dataviz](https://crates.io/crates/dataviz)] - Fast plotting library with 120+ chart types (statistics, finance, genomics, maps, 3D), interactive windows, PNG/SVG/PDF/HTML output, and Python, JavaScript and C/C++ bindings. [![CI](https://github.com/dataviz-rs/dataviz/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/dataviz-rs/dataviz/actions/workflows/rust.yml)
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### Development tools / Transpiling
@@ -189,7 +195,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [kividbio/kividb (⭐952)](https://github.com/kividbio/kividb) - Redis-compatible in-memory database with built-in full-text and vector search [![CI](https://github.com/kividbio/kividb/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/kividbio/kividb/actions/workflows/ci.yml)
+*   [kividbio/kividb (⭐1.2k)](https://github.com/kividbio/kividb) - Redis-compatible in-memory database with built-in full-text and vector search [![CI](https://github.com/kividbio/kividb/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/kividbio/kividb/actions/workflows/ci.yml)
 
 ### Applications / Industrial automation
 
@@ -197,7 +203,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Skykeep (⭐137)](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline [![CI](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml)
+*   [Skykeep (⭐575)](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline [![CI](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/YashwanthKamireddi/Skykeep/actions/workflows/ci.yml)
 
 ### Libraries / Asynchronous
 
@@ -206,7 +212,7 @@ A curated list of Rust code and resources.
 ### Libraries / Network programming
 
 *   NetworkManager
-    *   [freedesktop-rs/nmrs (⭐327)](https://github.com/freedesktop-rs/nmrs) \[[nmrs](https://crates.io/crates/nmrs)] - NetworkManager bindings over D-Bus: Wi-Fi, VPN, saved profiles, secret agent, monitoring. [![CI](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml)
+    *   [freedesktop-rs/nmrs (⭐331)](https://github.com/freedesktop-rs/nmrs) \[[nmrs](https://crates.io/crates/nmrs)] - NetworkManager bindings over D-Bus: Wi-Fi, VPN, saved profiles, secret agent, monitoring. [![CI](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/freedesktop-rs/nmrs/actions/workflows/ci.yml)
 
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
@@ -216,7 +222,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [inbjo/MirrorProxy (⭐308)](https://github.com/inbjo/MirrorProxy) - A self-hosted caching proxy for package registries, container images, and source downloads, with a web console and cross-platform CLI. [![CI](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml)
+*   [inbjo/MirrorProxy (⭐330)](https://github.com/inbjo/MirrorProxy) - A self-hosted caching proxy for package registries, container images, and source downloads, with a web console and cross-platform CLI. [![CI](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/inbjo/MirrorProxy/actions/workflows/ci.yml)
 
 ## [Nov 04, 2026](/content/2026/11/04/README.md)
 
@@ -370,11 +376,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alexandrosnt/Reach (⭐124)](https://github.com/alexandrosnt/Reach) - Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri [![Build check](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml/badge.svg?branch=main)](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml)
+*   [alexandrosnt/Reach (⭐144)](https://github.com/alexandrosnt/Reach) - Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri [![Build check](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml/badge.svg?branch=main)](https://github.com/alexandrosnt/Reach/actions/workflows/build-check.yml)
 
 ### Applications / Games
 
-*   [1homsi/thehumanbox (⭐124)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
+*   [1homsi/thehumanbox (⭐141)](https://github.com/1homsi/thehumanbox) - A browser civilization sandbox where tribes invent their own languages, cultures and beliefs, compiled to WebAssembly
 
 ### Applications / Productivity
 
@@ -382,17 +388,17 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [AppachiTech/suvadu (⭐127)](https://github.com/AppachiTech/suvadu) \[[suvadu](https://crates.io/crates/suvadu)] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server [![CI](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml)
+*   [AppachiTech/suvadu (⭐131)](https://github.com/AppachiTech/suvadu) \[[suvadu](https://crates.io/crates/suvadu)] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server [![CI](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AppachiTech/suvadu/actions/workflows/ci.yml)
 
 ### Libraries / Data processing
 
-*   [marcomq/mq-bridge (⭐25)](https://github.com/marcomq/mq-bridge) \[[mq-bridge](https://crates.io/crates/mq-bridge)] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware [![CI](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml)
+*   [marcomq/mq-bridge (⭐28)](https://github.com/marcomq/mq-bridge) \[[mq-bridge](https://crates.io/crates/mq-bridge)] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware [![CI](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/marcomq/mq-bridge/actions/workflows/ci.yml)
 
 ## [Oct 20, 2026](/content/2026/10/20/README.md)
 
 ### Applications
 
-*   [datavzrd/datavzrd (⭐684)](https://github.com/datavzrd/datavzrd) \[[datavzrd](https://crates.io/crates/datavzrd)] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration [![build badge](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml)
+*   [datavzrd/datavzrd (⭐685)](https://github.com/datavzrd/datavzrd) \[[datavzrd](https://crates.io/crates/datavzrd)] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration [![build badge](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/datavzrd/datavzrd/actions/workflows/rust.yml)
 
 ### Applications / Database
 
@@ -404,7 +410,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [po0uyan/memsafe (⭐123)](https://github.com/po0uyan/memsafe) \[[memsafe](https://crates.io/crates/memsafe)] - Locked, sealed, zero-on-drop memory for secrets. [![CI](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml/badge.svg?branch=main)](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml)
+*   [po0uyan/memsafe (⭐124)](https://github.com/po0uyan/memsafe) \[[memsafe](https://crates.io/crates/memsafe)] - Locked, sealed, zero-on-drop memory for secrets. [![CI](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml/badge.svg?branch=main)](https://github.com/po0uyan/memsafe/actions/workflows/CI-CD.yml)
 
 ## [Oct 19, 2026](/content/2026/10/19/README.md)
 
@@ -612,7 +618,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [cmccomb/rust-automl (⭐39)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
+*   [cmccomb/rust-automl (⭐40)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
 
 ### Libraries / Computation
 
@@ -620,7 +626,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Scripting
 
-*   [cmccomb/mocktave (⭐3)](https://github.com/cmccomb/mocktave) \[[mocktave](https://crates.io/crates/mocktave)] - Run Octave or MATLAB code from Rust with native and bundled modes
+*   [cmccomb/mocktave (⭐4)](https://github.com/cmccomb/mocktave) \[[mocktave](https://crates.io/crates/mocktave)] - Run Octave or MATLAB code from Rust with native and bundled modes
 
 ### Libraries / Text processing
 
@@ -923,11 +929,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [teaql/teaql-rs (⭐14)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
+*   [teaql/teaql-rs (⭐15)](https://github.com/teaql/teaql-rs) \[[teaql-core](https://crates.io/crates/teaql-core)] - A model-driven runtime with typed queries, governed mutations, and SQL providers [![CI](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teaql/teaql-rs/actions/workflows/ci.yml)
 
 ### Applications / Video
 
-*   [Jorji49/streamtop (⭐123)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
+*   [Jorji49/streamtop (⭐130)](https://github.com/Jorji49/streamtop) \[[streamtop](https://crates.io/crates/streamtop)] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.
 
 ### Libraries / GUI
 
@@ -1108,11 +1114,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [GCWing/BitFun (⭐3.5k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
+*   [GCWing/BitFun (⭐4.1k)](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
 
 ### Applications / MLOps
 
-*   [Uteke (⭐284)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
+*   [Uteke (⭐289)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
 
@@ -3769,7 +3775,7 @@ A curated list of Rust code and resources.
     *   [fschutt/printpdf (⭐1.2k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [fullbleed-engine/fullbleed-official (⭐172)](https://github.com/fullbleed-engine/fullbleed-official) \[[fullbleed](https://crates.io/crates/fullbleed)] - Print-focused HTML/CSS-to-PDF engine with reusable templates, variable-data generation, and Python bindings. [![CI](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fullbleed-engine/fullbleed-official/actions/workflows/ci.yml)
     *   [gastongouron/ironpress (⭐603)](https://github.com/gastongouron/ironpress) \[[ironpress](https://crates.io/crates/ironpress)] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies. [![CI](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gastongouron/ironpress/actions/workflows/ci.yml)
-    *   [hayro (⭐848)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
+    *   [hayro (⭐879)](https://github.com/LaurenzV/hayro) - A PDF interpreter and renderer in pure Rust
     *   [J-F-Liu/lopdf (⭐2.3k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐150)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
     *   [yfedoseev/pdf\_oxide (⭐1.2k)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
@@ -6574,7 +6580,7 @@ A curated list of Rust code and resources.
     *   [actix/actix-web (⭐25k)](https://github.com/actix/actix-web) - A lightweight async web framework with websocket support
     *   [Anansi (⭐112)](https://github.com/saru-tora/anansi) - A simple full-stack web framework
     *   [loco-rs/loco (⭐9.6k)](https://github.com/loco-rs/loco) \[[loco-rs](https://crates.io/crates/loco-rs)] - The one-person framework for Rust for side-projects and startups, inspired by Rails. [![Build](https://github.com/loco-rs/loco/actions/workflows/ci.yml/badge.svg)](https://github.com/loco-rs/loco/actions)
-    *   [Proa-Labs/proa (⭐380)](https://github.com/Proa-Labs/proa) \[[proa\_framework\_axum](https://crates.io/crates/proa_framework_axum)] - Web framework with typed components, streaming server-side rendering, Axum integration, and HTML/Markdown render targets. [![CI](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml)
+    *   [Proa-Labs/proa (⭐395)](https://github.com/Proa-Labs/proa) \[[proa\_framework\_axum](https://crates.io/crates/proa_framework_axum)] - Web framework with typed components, streaming server-side rendering, Axum integration, and HTML/Markdown render targets. [![CI](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Proa-Labs/proa/actions/workflows/ci.yml)
     *   [Rocket (⭐26k)](https://github.com/rwf2/Rocket) - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
     *   [RustAPI (⭐64)](https://github.com/Tuntii/RustAPI) \[[rustapi-rs](https://crates.io/crates/rustapi-rs)] - Ergonomic web framework with compile-time OpenAPI and native MCP
     *   [summer-rs (⭐1k)](https://github.com/summer-rs/summer-rs) - summer-rs is a application framework written in rust inspired by java's spring-boot.
