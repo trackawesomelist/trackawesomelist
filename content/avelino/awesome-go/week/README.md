@@ -11,6 +11,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [gleann (⭐43)](https://github.com/tevfik/gleann) - Local vector search engine, codebase intelligence graph, and persistent memory with MCP support.
+*   [miro-mcp-server (⭐33)](https://github.com/olgasafonova/miro-mcp-server) - MCP server that lets AI assistants read and edit Miro boards, including sticky notes, shapes, connectors, frames, and mind maps.
 
 ### Authentication and Authorization
 
@@ -39,6 +40,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Networking
 
 *   [go-socket.io (⭐2)](https://github.com/sshaplygin/go-socket.io) - Socket.IO server and client with namespaces, rooms and acknowledgements, for socket.io-client 1.x and 2.x.
+*   [godownload (⭐6)](https://github.com/saromanov/godownload) - Resumable, multi-segment download manager with checksum verification, mirrors and HuggingFace model support.
 
 ### Science and Data Analysis
 

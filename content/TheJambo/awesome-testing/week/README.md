@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Software / Service Virtualization
+
+*   [ChronoStack (⭐2)](https://github.com/Asmodeus14/ChronoStack) - Open-source CLI that moves time forward across a Docker Compose stack (Postgres, Redis and your services together, no code changes) to test trials, renewals, scheduled jobs and outages in virtual time, with scenarios, seeded simulated users and JUnit reports.
+
 ### Software / UI & End-to-End Testing
 
 *   [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.
@@ -16,6 +20,7 @@ A curated list of testing resources
 
 ### Software / Test Report Diagnostics
 
+*   [Playwright State Lens (⭐5)](https://github.com/aichance/business-ai-recipes/tree/main/tools/playwright-state-lens) - Experimental Playwright helper showing selected browser-storage field changes and step screenshots in one local HTML report.
 *   [pytest-glow-report (⭐4)](https://github.com/godhiraj-code/pytest-glow-report) - Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.
 
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)

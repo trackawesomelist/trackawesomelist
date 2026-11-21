@@ -8,6 +8,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
+### Commands & Extensions
+
+*   [Kling AI Global Plugin (⭐5)](https://github.com/klingai-tech/claude-plugin) - Official Gemini CLI extension for Kling AI's Global OAuth MCP endpoint (`https://kling.ai/mcp/plugin`), with image and video generation, Elements, and task status. Kling 4.0 supports native 4K video and optional 10-bit HDR at 1080p or 4K when the account's live MCP tools expose those settings; HDR may incur additional usage charges ([official details](https://kling.ai/dev/model-release/kling-4)). Generation uses Global Kling credits. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin`. Related npm packages: [Plugin](https://www.npmjs.com/package/@klingai/plugin-global) · [CLI](https://www.npmjs.com/package/@klingai/cli-global).
+*   [Kling AI China Plugin (⭐3)](https://github.com/klingai-tech/claude-plugin-cn) - Official Gemini CLI extension for Kling AI's China OAuth MCP endpoint (`https://klingai.com/mcp/plugin`), with image and video generation, Elements, and task status. Kling 4.0 supports native 4K video and optional 10-bit HDR at 1080p or 4K when the account's live MCP tools expose those settings; HDR may incur additional usage charges ([official details](https://kling.ai/dev/model-release/kling-4)). Generation uses China Kling credits. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin-cn`. Related npm packages: [Plugin](https://www.npmjs.com/package/@klingai/plugin-cn) · [CLI](https://www.npmjs.com/package/@klingai/cli-cn).
+
 ### MCP Servers
 
 *   [DankMachine Meme Sounds (⭐3)](https://github.com/HalberdLLC/dank-meme-sounds) - Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (`gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp`, no API key) or local with playback via `gemini mcp add dankmachine -- npx -y dank-meme-sounds`.

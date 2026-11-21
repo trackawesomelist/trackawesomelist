@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 21, 2026](/content/2026/11/21/README.md)
+
+### Artificial Intelligence
+
+*   [miro-mcp-server (⭐33)](https://github.com/olgasafonova/miro-mcp-server) - MCP server that lets AI assistants read and edit Miro boards, including sticky notes, shapes, connectors, frames, and mind maps.
+
+### Networking
+
+*   [godownload (⭐6)](https://github.com/saromanov/godownload) - Resumable, multi-segment download manager with checksum verification, mirrors and HuggingFace model support.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### Search and Analytic Databases
