@@ -2,9 +2,15 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 625 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 702 · 🏷️ Miscellaneous
 
 [ [Daily](/content/zachflower/awesome-open-source-supporters/README.md) / Weekly / [Overview](/content/zachflower/awesome-open-source-supporters/readme/README.md) ]
+
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Continuous Integration
+
+*   [Latchkey](https://latchkey.dev/open-source) `requires-approval` - Self-healing GitHub Actions runners with a CLI and MCP server for coding agents.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -62,7 +68,6 @@
 
 ### Localization
 
-*   [Locale](https://www.localeapp.com/) - Localization and Translation.
 *   [Weblate](https://weblate.org/) `requires-approval` - Web-based continuous localization.
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
@@ -144,12 +149,10 @@
 *   [Better Code Hub](https://bettercodehub.com/) - Source code maintainability analysis.
 *   [Codacy](https://www.codacy.com/) - Automated code reviews & analytics.
 *   [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
-*   [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 *   [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
-*   [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 *   [StyleCI](https://styleci.io/) - PHP code style review.
 
 ### Continuous Integration
@@ -157,7 +160,6 @@
 *   [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
 *   [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 *   [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
-*   [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
 *   [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 *   [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 *   [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
@@ -176,7 +178,6 @@
 
 ### Project Management
 
-*   [Taiga.io](https://taiga.io/) - Project management for agile developers.
 *   [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 *   [Zube](https://zube.io/) - Project management for GitHub issues.
 
@@ -198,13 +199,10 @@
 
 *   [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 *   [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
-*   [BackHub](https://backhub.co/) - Automated GitHub repository backups.
 *   [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 *   [Cloud9](https://c9.io/) - Cloud-based development environments.
-*   [Codota](https://www.codota.com/) - AI pair programming assistant.
 *   [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 *   [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
-*   [Libraries.io](https://libraries.io/) - Open source discovery service.
 *   [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 *   [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 *   [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.

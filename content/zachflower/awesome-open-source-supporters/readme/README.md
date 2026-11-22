@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 625 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 702 · 🏷️ Miscellaneous
 
 [ [Daily](/content/zachflower/awesome-open-source-supporters/README.md) / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / Overview ]
 
@@ -37,13 +37,11 @@ A curated list of awesome companies that offer their tools and services for free
 *   [Better Code Hub](https://bettercodehub.com/) - Source code maintainability analysis.
 *   [Codacy](https://www.codacy.com/) - Automated code reviews & analytics.
 *   [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
-*   [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 *   [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
-*   [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 *   [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 *   [StyleCI](https://styleci.io/) - PHP code style review.
 
@@ -53,8 +51,8 @@ A curated list of awesome companies that offer their tools and services for free
 *   [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 *   [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 *   [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
-*   [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
 *   [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+*   [Latchkey](https://latchkey.dev/open-source) `requires-approval` - Self-healing GitHub Actions runners with a CLI and MCP server for coding agents.
 *   [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 *   [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 *   [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
@@ -84,7 +82,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Project Management
 
-*   [Taiga.io](https://taiga.io/) - Project management for agile developers.
 *   [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 *   [Zube](https://zube.io/) - Project management for GitHub issues.
 
@@ -97,7 +94,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 *   [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
 *   [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
-*   [Locale](https://www.localeapp.com/) - Localization and Translation.
 *   [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
 *   [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 *   [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
@@ -116,15 +112,12 @@ A curated list of awesome companies that offer their tools and services for free
 *   [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 *   [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 *   [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
-*   [BackHub](https://backhub.co/) - Automated GitHub repository backups.
 *   [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 *   [Cloud9](https://c9.io/) - Cloud-based development environments.
-*   [Codota](https://www.codota.com/) - AI pair programming assistant.
 *   [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
 *   [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 *   [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 *   [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
-*   [Libraries.io](https://libraries.io/) - Open source discovery service.
 *   [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
 *   [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 *   [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.

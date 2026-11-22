@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Developer Tools / IDEs
+
+*   [Sikemux](https://sikemux.com) - Open-source native workspace for coding agents (Claude Code, Codex, OpenCode, Pi), with terminals, Git, an editor and browser tabs beside each chat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nodelike/sikemux) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### AI Tools / Other Tools
+
+*   [Olympus Coder (⭐5)](https://github.com/martianacademy/olympus-coder) - Open-source desktop workbench and headless server for Claude Code, Codex, Antigravity, and 18+ ACP coding agents with shared project memory, parallel sub-sessions, Git worktrees, per-hunk diff review, embedded terminals, and E2E-encrypted phone access. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martianacademy/olympus-coder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [Smorza](https://smorza.app) - Menu bar volume mixer that gives each app its own volume, mute, and output device. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rokoov/smorza) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [TMOP](https://tekikaito.github.io/tmop/) - Task manager and system monitor with CPU, memory, disk and network graphs and process management; also runs on Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tekikaito/tmop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Reading and Writing Tools / Office
@@ -550,7 +568,7 @@
 
 ### Terminal Apps / Databases
 
-*   [lmux (⭐26)](https://github.com/sooftware/lmux) - Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sooftware/lmux) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [lmux (⭐36)](https://github.com/sooftware/lmux) - Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sooftware/lmux) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screen Recording
 
@@ -558,7 +576,7 @@
 
 ### Design and Product / Other Tools
 
-*   [Graphis (⭐3)](https://github.com/Campfire7/graphis) - Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Campfire7/graphis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Graphis (⭐6)](https://github.com/Campfire7/graphis) - Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Campfire7/graphis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Download Management Tools / Audio Record and Process
 

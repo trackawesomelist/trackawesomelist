@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### ORM / Other
+
+*   [Reylo (⭐1.6k)](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with types inferred from the database. Postgres, MySQL and SQLite.
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Data Visualization / Runner

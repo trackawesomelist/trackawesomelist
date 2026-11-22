@@ -2,9 +2,29 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 399K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 401K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
+
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
+
+*   [Breves Notas sobre Análisis de Algoritmos](https://web.archive.org/web/20230705151221/https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+*   [Temas selectos de estructuras de datos](https://web.archive.org/web/20230705150642/https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+
+### 1 - Agnósticos / Ciencia Computacional
+
+*   [Breves Notas sobre Complejidad](https://web.archive.org/web/20230225181058/https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+*   [Breves Notas sobre Teoría de la Computación](https://web.archive.org/web/20230705193355/https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+
+### Java / Sistemas Operativos
+
+*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://web.archive.org/web/20240411125154/https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+
+### Python / Yii
+
+*   [JJ\_PYTHON\_BOOK (⭐53)](https://github.com/joedejesus/JJ_PYTHON_BOOK) - Joe De Jesus
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -59,7 +79,7 @@
 
 ### JavaScript / Sistemas Operativos
 
-*   [JavaScript Definitivo Vol. I (⭐8)](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
+*   [JavaScript Definitivo Vol. I (⭐11)](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 
 ## [Dec 05, 2023](/content/2023/12/05/README.md)
 
@@ -139,7 +159,7 @@
 
 ### 0 - Meta-Listas
 
-*   [Gitbook - Libros útiles en español (⭐157)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
+*   [Gitbook - Libros útiles en español (⭐156)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
 *   [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal Galiano
 
 ### 1 - Agnósticos / Algoritmos y Estructuras de Datos
@@ -165,7 +185,7 @@
 ### 1 - Agnósticos / Misceláneos
 
 *   [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
-*   [Docker (⭐267)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
+*   [Docker (⭐270)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
 *   [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 *   [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
 *   [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
@@ -251,7 +271,7 @@
 
 ### NoSQL / MongoDB
 
-*   [El pequeño libro MongoDB (⭐107)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
+*   [El pequeño libro MongoDB (⭐109)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
 *   [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *( :construction: en proceso)*
 
 ### PHP / Redis
@@ -281,7 +301,7 @@
 *   [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
 *   [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
 *   [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
-*   [Python para ciencia e ingeniería (⭐174)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
+*   [Python para ciencia e ingeniería (⭐179)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
 *   [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 *   [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
 
@@ -328,7 +348,7 @@
 
 *   [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
-*   [TypeScript Deep Dive (⭐164)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
+*   [TypeScript Deep Dive (⭐163)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
 
 ### TypeScript / Angular
 
@@ -392,16 +412,6 @@
 ### 1 - Agnósticos / Algoritmos y Estructuras de Datos
 
 *   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
-*   [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-### 1 - Agnósticos / Ciencia Computacional
-
-*   [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-*   [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-### Java / Sistemas Operativos
-
-*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
 ## [Mar 14, 2022](/content/2022/03/14/README.md)
 
@@ -413,7 +423,7 @@
 
 ### 0 - Meta-Listas
 
-*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐678)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
+*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐680)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
 
 ### Java / Sistemas Operativos
 
@@ -434,12 +444,6 @@
 ### 1 - Agnósticos / Ciencia Computacional
 
 *   [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
-
-## [Oct 14, 2021](/content/2021/10/14/README.md)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
 ## [Oct 13, 2021](/content/2021/10/13/README.md)
 
@@ -477,7 +481,7 @@
 
 ### 0 - Meta-Listas
 
-*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐245)](https://github.com/ddd-espanol/asombroso-ddd)
+*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐246)](https://github.com/ddd-espanol/asombroso-ddd)
 
 ## [May 06, 2021](/content/2021/05/06/README.md)
 

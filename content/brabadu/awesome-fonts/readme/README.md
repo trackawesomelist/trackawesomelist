@@ -73,6 +73,7 @@ A curated list of fonts and typography resources.
 *   [Redacted (⭐5.4k)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 *   [SansBullshitSans (⭐324)](https://github.com/RoelN/SansBullshitSans)
 *   [Urbanist (⭐574)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+*   [Vazirmatn Soft (⭐2)](https://github.com/truthofmatthew/vazirmatn-soft) - A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis
 *   [Vigil (⭐4)](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 *   [WorkSans (⭐1.7k)](https://github.com/weiweihuanghuang/Work-Sans)
 
@@ -188,7 +189,7 @@ A curated list of fonts and typography resources.
 ## JavaScript libs
 
 *   [Beatrix (⭐49)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
-*   [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+*   [Font.js (⭐757)](https://github.com/Pomax/Font.js)
 *   [fontkit (⭐1.7k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 *   [fontmin (⭐6.2k)](https://github.com/ecomfe/fontmin) - Font minifier
 *   [Fontsource (⭐6.3k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages

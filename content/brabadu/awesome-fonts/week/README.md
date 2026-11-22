@@ -8,6 +8,14 @@ Curated list of fonts and everything
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
+### Free fonts / Fonts
+
+*   [Vazirmatn Soft (⭐2)](https://github.com/truthofmatthew/vazirmatn-soft) - A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis
+
+### JavaScript libs / Programming fonts with ligatures
+
+*   [Font.js (⭐757)](https://github.com/Pomax/Font.js)
+
 ### Other / Event listeners for fonts loading on a web page
 
 *   [Ductus](https://ductus.sorenblank.com/) - Turn your own handwriting into a font right in the browser
@@ -470,7 +478,3 @@ Curated list of fonts and everything
 ### Programming fonts / Fonts
 
 *   [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-
-### JavaScript libs / Programming fonts with ligatures
-
-*   [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)

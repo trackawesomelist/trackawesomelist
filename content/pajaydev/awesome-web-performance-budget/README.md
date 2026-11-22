@@ -2,262 +2,186 @@
 
 ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 131 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 132 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/pajaydev/awesome-web-performance-budget/week/README.md) / [Overview](/content/pajaydev/awesome-web-performance-budget/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Learn / Articles
+
+*   [Performance budgets 101](https://web.dev/articles/performance-budgets-101) - What a budget is and how to start setting one.
+*   [Your first performance budget](https://web.dev/articles/your-first-performance-budget) - Define your first performance budget in a few simple steps.
+*   [Incorporate performance budgets into your build process](https://web.dev/articles/incorporate-performance-budgets-into-your-build-tools) - Enforce budgets with webpack, bundlesize and Lighthouse.
+*   [Start Performance Budgeting](https://addyosmani.com/blog/performance-budgets/) - Addy Osmani's guide to choosing metrics and setting budgets.
+*   [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Alex Russell on deriving budgets from real devices and networks.
+*   [How to Make a Performance Budget](https://web.archive.org/web/20230224133739/http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Dan Mall's step-by-step approach to building a budget (archived).
+*   [Setting a Web Performance Budget](https://web.archive.org/web/20241110185738/https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - InVision's Inside Design guide to setting a budget (archived).
+*   [Web Performance Budget: How to Set Up, Calculate, and Apply](https://uxify.com/blog/web-performance-budget-guide/) - End-to-end guide from choosing metrics to applying the budget.
+*   [Performance as Design](https://bradfrost.com/blog/post/performance-as-design/) - Brad Frost on treating performance as an essential design feature.
+*   [Front-end Performance for Web Designers and Front-end Developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Harry Roberts' primer on front-end performance fundamentals.
+*   [How Angular CLI Budgets Saved My Day](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing performance budgets in Angular projects.
+
+### Learn / Videos
+
+*   [Implementing Performance Budgets](https://www.youtube.com/watch?v=vVlpCmK1l5k) - #AskChrome Live session on using budgets to prevent regressions.
+*   [Design Decisions Through the Lens of a Performance Budget](https://vimeo.com/108328247) - Making smarter design decisions from the start of a project so the site performs well.
+
+### Learn / Books
+
+*   [Designing for Performance](https://designingforperformance.com/) - Lara Hogan's book on weighing aesthetics and speed, free to read online.
+
+### Learn / Case Studies
+
+*   [WPO Stats](https://wpostats.com/) - Case studies and experiments showing the impact of web performance on user experience and business metrics.
+*   [Netflix: Shipping Less JavaScript](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix web performance case study.
+*   [Pinterest PWA](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154) - A Pinterest Progressive Web App performance case study.
+*   [Tinder PWA](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0) - A Tinder Progressive Web App performance case study.
+*   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) - Building a high-performance React PWA at scale.
+*   [Treebo PWA](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299) - A React and Preact PWA performance case study.
+*   [The Telegraph: Creating a Web Performance Culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party performance at The Telegraph.
+*   [Casper.com: Self-hosting Optimizely](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) - How Casper shaved 1.7 seconds off load time.
+*   [Smashing Magazine](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/) - Improving Smashing Magazine's web performance.
+*   [BBC: Cutting the Mustard](https://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - How BBC News served a lean core experience to every browser.
+
+### Learn / Blogs
+
+*   [Web Performance Calendar](https://calendar.perfplanet.com/) - Yearly advent calendar of web performance articles, a favorite of speed geeks.
+
+### Learn / Podcasts
+
+*   [Chasing Waterfalls](https://web.archive.org/web/20241208004024/https://chasingwaterfalls.io/) - Conversations with people making the web faster, hosted by [Tim Kadlec](https://timkadlec.com/) (archived).
+*   [ShopTalk Show](https://shoptalkshow.com/) - A podcast about building websites that often covers performance.
+
+### Tools / Build and CI Tools
+
+*   [Lighthouse Budgets](https://web.dev/articles/use-lighthouse-for-performance-budgets) - Set a performance budget with [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) and automate it with [Lighthouse Bot](https://web.dev/articles/using-lighthouse-bot-to-set-a-performance-budget).
+*   [webpack Performance Hints](https://webpack.js.org/configuration/performance/) - Built-in webpack warnings or errors when assets exceed size limits.
+*   [bundlesize (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+*   [size-plugin (⭐1.7k)](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed webpack asset sizes over time.
+*   [pr-bot (⭐183)](https://github.com/GoogleChromeLabs/pr-bot) - Compare your base branch with a pull request and report size differences.
+*   [grunt-perfbudget (⭐843)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting with WebPageTest.
+*   [pwmetrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - CLI for collecting Lighthouse metrics and asserting budgets (no longer maintained).
+*   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS Code extension that shows the size of imported packages inline.
+
+### Tools / Measurement Tools
+
+*   [Performance Budget Calculator](https://www.performancebudget.io/) - Calculate a performance budget for your site.
+*   [WebPageTest](https://www.webpagetest.org/easy) - Run lab tests from real browsers, devices and locations.
+*   [SpeedCurve](https://www.speedcurve.com/) - Synthetic and real-user monitoring with budget alerts.
+*   [sitespeed.io](https://www.sitespeed.io/) - Open source toolset to monitor and measure your site's performance.
+*   [lightest](https://lightest.app/) - Visualize your web performance against competitors.
+
+### Tools / Bundle Analyzers
+
+*   [webpack-bundle-analyzer (⭐13k)](https://github.com/webpack/webpack-bundle-analyzer) - Visualize webpack bundle contents as an interactive, zoomable treemap.
+*   [Parcel Bundle Visualiser (⭐270)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - Parcel plugin to visualise bundle contents.
+*   [lasso-analyzer (⭐4)](https://github.com/pajaydev/lasso-analyzer) - Analyze and visualise bundles created by Lasso.
+*   [analyze-css (⭐696)](https://github.com/macbre/analyze-css) - CSS selector complexity and performance analyzer.
+
+### Tools / Website Analyzers
+
+*   [dxsrc Site Check](https://dxsrc.org/tools/check/) - Test your website in more than 90 tools (web-based and free).
+*   [Betterloop](https://betterloopai.com/check) - Free website checker that ranks fixes and shows mobile and desktop PageSpeed Insights results. No signup required.
+
 ## [Aug 25, 2026](/content/2026/08/25/README.md)
 
-### Website Analyzers
+### Tools / Website Analyzers
 
-*   [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
+*   [Screpy](https://screpy.com/) - Track Core Web Vitals and page-speed changes across monitored pages.
 
 ## [Apr 27, 2026](/content/2026/04/27/README.md)
 
-### Website Analyzers
+### Tools / Website Analyzers
 
-*   [PageGuard](https://pageguard.org) - Free website health scanner. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), performance scores and provides AI-powered action plans. No signup required.
+*   [PageGuard](https://pageguard.org) - Free website health scanner that measures Core Web Vitals and suggests action plans. No signup required.
 
 ## [Jan 01, 2025](/content/2025/01/01/README.md)
 
-### Blogs
+### Learn / Videos
 
-*   [Web Performance Budget: How to Set up, Calculate, And Apply](https://uxify.com/blog/post/web-performance-budget-guide) - How to Set up budget, Calculate, And Apply
-
-### Videos
-
-*   [Revisiting Performance Budgets](https://www.youtube.com/watch?v=cnr3CJwpaps) - Revisiting Performance Budgets
+*   [Revisiting Performance Budgets](https://www.youtube.com/watch?v=cnr3CJwpaps) - Tammy Everts at performance.now() 2022 on what makes budgets work in practice.
 
 ## [Feb 19, 2022](/content/2022/02/19/README.md)
 
-### Tools to measure Performance Budget
+### Tools / Monitoring
 
-*   [lightest app](https://www.lightest.app/) - Visualize web performance against competitors.
-
-### Open source tools
-
-*   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
-*   [Falco (⭐767)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
-
-### Case Studies
-
-*   [Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/) - Improving Smashing Magazine's Web Performance Case Study.
-
-## [Feb 01, 2021](/content/2021/02/01/README.md)
-
-### Build Tools to set up performance budget
-
-*   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
+*   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny web performance monitoring library that reports field data to your analytics tool.
+*   [Falco (⭐763)](https://github.com/theodo/falco) - Open source dashboard to monitor, analyze and optimize your websites.
 
 ## [Dec 18, 2020](/content/2020/12/18/README.md)
 
-### Articles
+### Learn / Articles
 
-*   [Performance budgets 101](https://web.dev/performance-budgets-101/) - How to start a journey by setting up the performance budget.
-*   [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - Impact of Page Weight on Load Time.
-
-### Blogs
-
-*   [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
-
-## [Nov 30, 2020](/content/2020/11/30/README.md)
-
-### Case Studies
-
-*   [Web Performance Optimization case studies](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
+*   [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - Paul Calvano's HTTP Archive analysis of how page weight affects load time.
 
 ## [Sep 10, 2020](/content/2020/09/10/README.md)
 
-### Articles
+### Learn / Articles
 
-*   [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
+*   [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Why JavaScript parse and compile cost matters, by Addy Osmani.
 
-### Podcasts
+### Learn / Books
 
-*   [Shoptalk Show](https://shoptalkshow.com/) - A podcast about building websites.
-
-### Books
-
-*   [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
-*   [Designing for Performance](http://designingforperformance.com/)
+*   [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/) - Andy Still on building performance into your development process.
 
 ## [Aug 31, 2020](/content/2020/08/31/README.md)
 
-### Website Analyzers
+### Tools / Website Analyzers
 
-*   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
-*   [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
+*   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Run Lighthouse tests from multiple locations at once.
 
 ## [Jul 25, 2020](/content/2020/07/25/README.md)
 
-### Tools to measure Performance Budget
+### Tools / Measurement Tools
 
-*   [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale.
-
-## [Jul 17, 2020](/content/2020/07/17/README.md)
-
-### Podcasts
-
-*   [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
+*   [Perf Track](https://perf-track.web.app/) - Track framework performance at scale.
 
 ## [May 24, 2020](/content/2020/05/24/README.md)
 
-### Case Studies
+### Learn / Case Studies
 
-*   [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) - How we shaved 1.7 seconds off casper.com by self-hosting Optimizely.
-*   [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
-*   [Pinterest Web App Optimization](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/) - A Pinterest Progressive Web App Performance Case Study.
-*   [Tinder Web App Performance](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0/) - A Tinder Progressive Web App Performance Case Study.
-*   [Zillow's Performance Budget](https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/) - A true story of how Zillow uses performance budgeting.
-
-## [Mar 01, 2020](/content/2020/03/01/README.md)
-
-### Videos
-
-*   [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
-
-## [Feb 28, 2020](/content/2020/02/28/README.md)
-
-### Articles
-
-*   [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
+*   [Zillow's Performance Budget](https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/) - How Zillow uses performance budgeting.
 
 ## [Feb 05, 2020](/content/2020/02/05/README.md)
 
-### Bundle Analyzers
+### Tools / Bundle Analyzers
 
-*   [Rollup Visualizer (⭐2.4k)](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
+*   [Rollup Visualizer (⭐2.4k)](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules take up space.
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
-### Build Tools to set up performance budget
+### Tools / Build and CI Tools
 
-*   [Size Limit (⭐6.9k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-*   [Size Plugin (⭐1.7k)](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
+*   [Size Limit (⭐7k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or library and fail the pull request if it exceeds the limit.
 
 ## [Jan 27, 2020](/content/2020/01/27/README.md)
 
-### Bundle Analyzers
+### Tools / Bundle Analyzers
 
-*   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
-*   [Parcel plugin Visualizer (⭐272)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
-
-## [Jan 20, 2020](/content/2020/01/20/README.md)
-
-### Build Tools to set up performance budget
-
-*   [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
-
-### Bundle Analyzers
-
-*   [CSS Analyzer (⭐697)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
-
-## [Jan 07, 2020](/content/2020/01/07/README.md)
-
-### Articles
-
-*   [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
-
-## [Dec 24, 2019](/content/2019/12/24/README.md)
-
-### Tools to measure Performance Budget
-
-*   [Sitespeed.io](https://www.sitespeed.io/) - Easy to monitor and measure the performance of your web site.
+*   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - Find source code duplication across your JavaScript chunks.
 
 ## [Dec 17, 2019](/content/2019/12/17/README.md)
 
-### Tools to measure Performance Budget
+### Tools / Measurement Tools
 
-*   [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
-
-## [Oct 22, 2019](/content/2019/10/22/README.md)
-
-### Articles
-
-*   [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
-
-## [Aug 02, 2019](/content/2019/08/02/README.md)
-
-### Articles
-
-*   [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an essential design feature.
+*   [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speed up heavy web pages.
 
 ## [Jul 29, 2019](/content/2019/07/29/README.md)
 
-### Articles
+### Tools / Build and CI Tools
 
-*   [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
-*   [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
-*   [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
-*   [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
-*   [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
-
-### Tools to measure Performance Budget
-
-*   [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
-
-### Build Tools to set up performance budget
-
-*   [Performance Budget Builder (⭐183)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot (⭐166)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
-
-### Bundle Analyzers
-
-*   [lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
-
-### Videos
-
-*   [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
-
-## [May 24, 2019](/content/2019/05/24/README.md)
-
-### Case Studies
-
-*   [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
-
-## [Mar 22, 2019](/content/2019/03/22/README.md)
-
-### Case Studies
-
-*   [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
-*   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
+*   [rollup-plugin-size-snapshot (⭐166)](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track Rollup bundle sizes and treeshakability.
 
 ## [Mar 08, 2019](/content/2019/03/08/README.md)
 
-### Tools to measure Performance Budget
+### Tools / Bundle Analyzers
 
-*   [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
-
-### Build Tools to set up performance budget
-
-*   [Grunt-perfbudget (⭐847)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
-*   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
-
-### Bundle Analyzers
-
-*   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-*   [webpack-bundle-analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
-*   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
-
-### Case Studies
-
-*   [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) - Treebo - React And Preact PWA Performance Case Study.
+*   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding an npm package to your bundle.
+*   [Disc](http://hughsk.io/disc/) - Visualise the module tree of Browserify bundles and track down bloat.
 
 ## [Mar 07, 2019](/content/2019/03/07/README.md)
 
-### Articles
+### Learn / Videos
 
-*   [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
-
-### Tools to measure Performance Budget
-
-*   [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
-
-### Build Tools to set up performance budget
-
-*   [Bundle Size (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-
-### Videos
-
-*   [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ\&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
+*   [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ\&v=yqejmZrtmNg) - Performance budgets explained by Tim Kadlec.

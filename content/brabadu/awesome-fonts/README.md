@@ -6,6 +6,16 @@ Curated list of fonts and everything
 
 [ Daily / [Weekly](/content/brabadu/awesome-fonts/week/README.md) / [Overview](/content/brabadu/awesome-fonts/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Free fonts / Fonts
+
+*   [Vazirmatn Soft (⭐2)](https://github.com/truthofmatthew/vazirmatn-soft) - A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis
+
+### JavaScript libs / Programming fonts with ligatures
+
+*   [Font.js (⭐757)](https://github.com/Pomax/Font.js)
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Other / Event listeners for fonts loading on a web page
@@ -493,7 +503,3 @@ Curated list of fonts and everything
 ### Programming fonts / Fonts
 
 *   [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-
-### JavaScript libs / Programming fonts with ligatures
-
-*   [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)

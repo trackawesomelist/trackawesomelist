@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 399K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 401K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / Overview ]
 
@@ -67,10 +67,10 @@
 
 *   [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 *   [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
-*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐245)](https://github.com/ddd-espanol/asombroso-ddd)
-*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐678)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
+*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐246)](https://github.com/ddd-espanol/asombroso-ddd)
+*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐680)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
 *   [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
-*   [Gitbook - Libros útiles en español (⭐157)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
+*   [Gitbook - Libros útiles en español (⭐156)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
 *   [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal Galiano
 *   [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
 *   [Universidad Nacional Autónoma de México - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
@@ -82,11 +82,11 @@
 *   [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
 *   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
 *   [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
-*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Breves Notas sobre Análisis de Algoritmos](https://web.archive.org/web/20230705151221/https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
 *   [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
 *   [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 *   [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
-*   [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Temas selectos de estructuras de datos](https://web.archive.org/web/20230705150642/https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
 
 #### Base de Datos
 
@@ -99,8 +99,8 @@
 #### Ciencia Computacional
 
 *   [Breves Notas sobre Autómatas y Lenguajes](https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
-*   [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-*   [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Breves Notas sobre Complejidad](https://web.archive.org/web/20230225181058/https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
+*   [Breves Notas sobre Teoría de la Computación](https://web.archive.org/web/20230705193355/https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
 *   [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
 
 #### Inteligencia Artificial
@@ -119,7 +119,7 @@
 #### Misceláneos
 
 *   [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
-*   [Docker (⭐267)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
+*   [Docker (⭐270)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
 *   [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 *   [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
 *   [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app) - Majo Ledesma (PDF)
@@ -187,7 +187,7 @@
 *   [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 *   [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
 *   [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
-*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://web.archive.org/web/20240411125154/https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card\_file\_box: archived)*
 *   [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
 *   [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos (⭐92)](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
 *   [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
@@ -205,7 +205,7 @@
 *   [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 *   [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
 *   [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
-*   [JavaScript Definitivo Vol. I (⭐8)](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
+*   [JavaScript Definitivo Vol. I (⭐11)](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 *   [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
 *   [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
 *   [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
@@ -274,7 +274,7 @@
 
 #### MongoDB
 
-*   [El pequeño libro MongoDB (⭐107)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
+*   [El pequeño libro MongoDB (⭐109)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
 *   [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *( :construction: en proceso)*
 
 #### Redis
@@ -322,7 +322,8 @@
 *   [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
 *   [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
 *   [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
-*   [Python para ciencia e ingeniería (⭐174)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
+*   [JJ\_PYTHON\_BOOK (⭐53)](https://github.com/joedejesus/JJ_PYTHON_BOOK) - Joe De Jesus
+*   [Python para ciencia e ingeniería (⭐179)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
 *   [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 *   [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
 
@@ -384,7 +385,7 @@
 
 *   [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
-*   [TypeScript Deep Dive (⭐164)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
+*   [TypeScript Deep Dive (⭐163)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
 *   [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
 
 #### Angular

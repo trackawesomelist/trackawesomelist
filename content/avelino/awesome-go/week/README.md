@@ -19,7 +19,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Blockchain
 
+*   [erpc (⭐806)](https://github.com/erpc/erpc) - Fault-tolerant RPC proxy for EVM and Solana chains with caching, failover, hedging and rate limiting.
 *   [seed-poet (⭐0)](https://github.com/abkvme/seed-poet) - BIP39 mnemonic generator that arranges 12 or 24-word seed phrases as rhyming couplets, with a JavaScript port that produces identical output.
+
+### Continuous Integration
+
+*   [zanadir (⭐185)](https://github.com/MustacheCase/zanadir) - Reports which security and quality checks a repository's CI is missing, and which cannot fail the build.
 
 ### Search and Analytic Databases
 
@@ -61,7 +66,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
-*   [Dagu (⭐4.5k)](https://github.com/dagucloud/dagu) - Workflow engine that runs DAGs of commands, containers, and HTTP calls defined in YAML.
+*   [Dagu (⭐4.6k)](https://github.com/dagucloud/dagu) - Workflow engine that runs DAGs of commands, containers, and HTTP calls defined in YAML.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -2971,7 +2976,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [config-file-validator (⭐518)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐517)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -3295,7 +3300,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐275)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐276)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -6653,7 +6658,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐339)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐41k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐77)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.

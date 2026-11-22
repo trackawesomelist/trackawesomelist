@@ -1091,6 +1091,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 *   [MikroORM (⭐9.3k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 *   [Objection.js (⭐7.3k)](https://github.com/Vincit/objection.js) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
+*   [Reylo (⭐1.6k)](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with types inferred from the database. Postgres, MySQL and SQLite.
 
 ## WebSockets
 
