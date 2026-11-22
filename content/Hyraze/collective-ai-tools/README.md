@@ -6,6 +6,48 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Business
+
+*   [Ginta](https://ginta.app/) - AI website builder for small businesses: describe the business and get a live website with contact forms, bookings, an online shop and a blog; Claude and ChatGPT can build sites through its MCP server. `#freemium` `#nocode`
+
+### Chatbots
+
+*   [Castlori](https://castlori.com/chat) - AI character chat for adult writers to rehearse scenes and dialogue with a free Castlori account and a supported model connection. `#free` `#writing`
+
+### Developer Tools
+
+*   [Kling AI Plugin](https://kling.ai/mcp/plugin) - Official OAuth MCP Plugin for Kling image and video generation; choose the Global endpoint or [China endpoint](https://klingai.com/mcp/plugin). Usage consumes Kling credits. [Setup guide](https://kling.ai/app/mcp/guide). `#mcp` `#video` `#image`
+*   [Orbi](https://orbi.build/) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
+*   [Taskhold](https://taskhold.com/?ref=collective-ai-tools) - Hosted task list shared with Claude Code, Cursor and Codex over MCP: agents plan steps, report live progress and ask when stuck, and you watch a live board. Paid, 7-day trial. `#paid` `#mcp`
+
+### Finance
+
+*   [Options Matrix Pro](https://www.optionsmatrixpro.com/) - Connect Claude or ChatGPT via MCP to scan watchlists, check live quotes, or model strategies in plain English (paid plans from $10/month with a 7-day All Access trial, card required, and MCP access on All Access or the trial). `#paid` `#mcp`
+
+### Human Resources
+
+*   [Aethel](https://aethel.pro/practice) - Free AI interview practice for developers: four questions about your real work for your role and level, with a quick check on each answer, no account. `#free`
+
+### Productivity
+
+*   [Enhanciar](https://enhanciar.in/) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. `#paid`
+
+### Real Estate
+
+*   [October](https://www.october-ai.com/) - iPhone app that guides a walk through a home, rental or venue and returns listing photos and a walkthrough video; for agents, Airbnb hosts and small hotels. `#freemium`
+
+### SEO
+
+*   [Can AI Bots Read My Site? by Mydentify](https://mydentify.com/tools/ai-crawler-access-checker) - Free checker that reads robots.txt and page-level directives, then tests whether OpenAI and Anthropic crawlers can reach a public page; it reports search, user-requested retrieval, and training access separately. `#free` `#seo`
+
+### Video
+
+*   [Crisp Video](https://crispvideo.app/) - Restores, denoises and upscales old video and VHS transfers up to 4K offline on a Mac or Windows PC, with a timeline editor. `#freemium` `#video`
+*   [iArt](https://www.iart.ai/) - Creates motion graphics videos from a text prompt, refined through chat edits, for logo animations, kinetic typography and explainers. `#freemium`
+*   [i2v.ai](https://i2v.ai) - Image and video generation API for developers: one endpoint and one key covering 12 image models and 16 video models, with a USD quote returned before each paid task and an optional per-task spending cap. `#paid` `#api`
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Developer Tools
@@ -111,7 +153,6 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 
 *   [Atlas Cloud](https://www.atlascloud.ai) - AI API gateway with one API key for LLM, image, video and audio models, including an OpenAI-compatible chat completions endpoint. `#paid` `#api` `#llm`
 *   [CloudGPU](https://cloudgpu.app/) - Pay-as-you-go GPU rental and an OpenAI-compatible model API, plus an MCP server that quotes a job and starts it only after confirmation. `#paid` `#mcp` `#api`
-*   [Kling AI MCP](https://kling.ai/mcp/plugin) - Connect AI agents to Kling image/video generation via the Global plugin MCP endpoint; OAuth and paid personal credits required. [Setup guide](https://kling.ai/app/mcp/guide). `#paid` `#mcp`
 *   [OpenHands (⭐93k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous AI software development agents that can write code, fix bugs, and run shell commands. `#free` `#opensource`
 *   [Vectoree](https://vectoree.ai/) - Hosted backend for coding agents with one project key for models from xAI, OpenAI, Google, Anthropic and DeepSeek through an OpenAI-compatible gateway, plus auth, Postgres, object storage, a CLI and an agent skill, billed pay-as-you-go. `#paid` `#api` `#llm`
 
@@ -578,10 +619,6 @@ Search across curated tools, MCP servers, prompts, skills, and trending repos, o
 *   [Dearovo](https://www.dearovo.com/) - AI relationship message writer with context, tone, and length controls. `#freemium`
 
 ## [Oct 07, 2026](/content/2026/10/07/README.md)
-
-### Developer Tools
-
-*   [Orbi](https://orbi.build/?ref=oss-collective-ai-tools) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets. `#freemium` `#opensource`
 
 ### Fashion
 

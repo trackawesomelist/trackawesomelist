@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Functions
+
+*   [floor/ceiling](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) - Functions for rounding down and up.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Tools, Applications, Libraries, Frameworks

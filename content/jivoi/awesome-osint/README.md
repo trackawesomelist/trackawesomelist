@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Data and Statistics / GitHub
+
+*   [Palimpsest](https://www.palimpsest.info) - Open-source China economic observatory and verifiable censorship and erasure measurement registry, with public datasets, keyless MCP, and offline verification.
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Other Tools / GitHub

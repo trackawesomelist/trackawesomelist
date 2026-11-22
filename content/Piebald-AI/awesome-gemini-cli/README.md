@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### MCP Servers
+
+*   [i2v.ai (⭐1)](https://github.com/i2v-ai/i2v-mcp) - Hosted MCP server for image and video generation across 12 image and 16 video models, with a USD quote before every paid task and a caller-set spending ceiling. Remote Streamable HTTP with OAuth (`gemini mcp add --transport http i2v https://i2v.ai/api/mcp`) or an API key, or local from npm (`gemini mcp add i2v -- npx -y @i2v-ai/cli mcp`, Node 20+). Extension manifest: `gemini extensions install https://github.com/i2v-ai/i2v-mcp`.
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Commands & Extensions
@@ -182,24 +188,24 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [AI Meter (⭐4)](https://github.com/dichiara19/ai-meter) - Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.
+*   [AI Meter (⭐5)](https://github.com/dichiara19/ai-meter) - Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.
 *   [AI Usage Meter (VS Code) (⭐2)](https://github.com/theluckystrike/ai-usage-meter-vscode) - VS Code extension that reads Gemini CLI session files in `~/.gemini/tmp` and shows today's tokens and estimated cost in the status bar, with a dashboard split by project and model. Also covers Claude Code and Codex. Runs offline, no login or API key.
 
 ### MCP Servers
 
-*   [Sequenzy (⭐3)](https://github.com/Sequenzy/mcp) - Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: `gemini extensions install https://github.com/Sequenzy/mcp`, then `/mcp auth sequenzy`. Local stdio alternative: `npx -y @sequenzy/mcp` with `SEQUENZY_API_KEY`.
-*   [Imagera (⭐2)](https://github.com/alexadams6ix/imagera-skills) - Remote MCP server and Gemini CLI extension for image, video, voice and music generation and editing (OAuth sign-in, no API key), with 37 skills and the credit cost stated before each run. Install: `gemini extensions install https://github.com/alexadams6ix/imagera-skills`
+*   [Sequenzy (⭐4)](https://github.com/Sequenzy/mcp) - Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: `gemini extensions install https://github.com/Sequenzy/mcp`, then `/mcp auth sequenzy`. Local stdio alternative: `npx -y @sequenzy/mcp` with `SEQUENZY_API_KEY`.
+*   [Imagera](https://github.com/alexadams6ix/imagera-skills) - Remote MCP server and Gemini CLI extension for image, video, voice and music generation and editing (OAuth sign-in, no API key), with 37 skills and the credit cost stated before each run. Install: `gemini extensions install https://github.com/alexadams6ix/imagera-skills`
 *   [Vicem (⭐7)](https://github.com/RAKKUNN/vicem) - Zero-dependency MCP server and CLI that harvests live coding sessions (Gemini CLI chats and `GEMINI.md`, plus Claude Code, Codex, Cursor and 15+ agents), scores context salience (`0–100%`), skeletonizes code by 80–90% into a local SHA-256 ledger (`.vicem/ledger.json`) for lossless on-demand `vicem_rehydrate`, and writes a portable `.vicem/BATON.md` handoff. Runs locally with zero network calls. MIT. Add with `gemini mcp add vicem npx -y vicem-cli mcp`.
 *   [LinkJolt (⭐2)](https://github.com/Efesop/linkjolt-mcp-server) - Set up and run an affiliate program for your SaaS from Gemini CLI: plan a commission from published benchmarks, create campaigns, add and check tracking for Stripe, Paddle, Polar or Creem, invite affiliates, approve affiliates and sales, and see who you owe. 28 tools; it can't move money. Hosted Streamable HTTP with OAuth sign-in; needs a LinkJolt account (7-day free trial). MIT. Install: `gemini extensions install https://github.com/Efesop/linkjolt-mcp-server`, then `/mcp auth linkjolt`.
 *   [GSC PAP (⭐2)](https://github.com/aliarifsoydas/gsc-pap-claude-plugin) - Hosted, read-only MCP server and Gemini CLI extension for your own Google Search Console, Google Analytics 4, Bing Webmaster Tools, PageSpeed Insights and Chrome UX Report data, plus live Google results. Sign in with Google on first use; it keeps Search Console and Bing archives past their 16-month limits. Free. Install: `gemini extensions install https://github.com/aliarifsoydas/gsc-pap-claude-plugin`
-*   [gemini-pro-mcp (⭐4)](https://github.com/Muzaqil555/gemini-pro-mcp) - MCP server that brings a Google AI Pro subscription to Gemini CLI, Claude Code, Codex and the Antigravity CLI: Gemini through the Antigravity CLI on the plan's limits (no API bill), Deep Research, Google Flow videos of any length, Gemini Notebooks (Audio Overviews), AI Mode and Jules, plus Nano Banana images and Omni Flash video through the Gemini API. `gemini-pro-mcp setup` registers it with Gemini CLI and the other clients in one command, and `doctor` checks what works. MIT. Install: `uvx --from git+https://github.com/Muzaqil555/gemini-pro-mcp gemini-pro-mcp setup`.
+*   [gemini-pro-mcp (⭐12)](https://github.com/Muzaqil555/gemini-pro-mcp) - MCP server that brings a Google AI Pro subscription to Gemini CLI, Claude Code, Codex and the Antigravity CLI: Gemini through the Antigravity CLI on the plan's limits (no API bill), Deep Research, Google Flow videos of any length, Gemini Notebooks (Audio Overviews), AI Mode and Jules, plus Nano Banana images and Omni Flash video through the Gemini API. `gemini-pro-mcp setup` registers it with Gemini CLI and the other clients in one command, and `doctor` checks what works. MIT. Install: `uvx --from git+https://github.com/Muzaqil555/gemini-pro-mcp gemini-pro-mcp setup`.
 
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Commands & Extensions
 
-*   [Chisle (⭐743)](https://github.com/JayPokale/Chisle) - Gemini CLI extension whose `GEMINI.md` makes answers shorter without dropping decisive facts: no filler or hedging, the smallest code that works (reuse, stdlib and installed dependencies before new code), and reading less (grep before opening files, sliced reads). Benchmarks with raw transcripts are in the repo. `npx chisle mcp wrap` also trims oversized MCP tool output in Gemini CLI. Install with `gemini extensions install https://github.com/JayPokale/Chisle`. MIT.
-*   [Hermoso (⭐6)](https://github.com/hermoso-ai/hermoso) - Gemini CLI extension for marketing: research competitors' ads in the Meta, Google and LinkedIn ad libraries, generate image, video and UGC avatar ads, post and schedule to your own social channels, and manage Meta Ads, Google Ads and TikTok Ads campaigns, through skills that drive the `hermoso` CLI. Install: `gemini extensions install https://github.com/hermoso-ai/hermoso`.
+*   [Chisle (⭐1.3k)](https://github.com/JayPokale/Chisle) - Gemini CLI extension whose `GEMINI.md` makes answers shorter without dropping decisive facts: no filler or hedging, the smallest code that works (reuse, stdlib and installed dependencies before new code), and reading less (grep before opening files, sliced reads). Benchmarks with raw transcripts are in the repo. `npx chisle mcp wrap` also trims oversized MCP tool output in Gemini CLI. Install with `gemini extensions install https://github.com/JayPokale/Chisle`. MIT.
+*   [Hermoso (⭐9)](https://github.com/hermoso-ai/hermoso) - Gemini CLI extension for marketing: research competitors' ads in the Meta, Google and LinkedIn ad libraries, generate image, video and UGC avatar ads, post and schedule to your own social channels, and manage Meta Ads, Google Ads and TikTok Ads campaigns, through skills that drive the `hermoso` CLI. Install: `gemini extensions install https://github.com/hermoso-ai/hermoso`.
 
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
@@ -386,18 +392,18 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Super (⭐3)](https://github.com/fitzyracing1/Super) - Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; `pip install superuser`, then add the `superuser` command to your Gemini CLI MCP server config.
+*   [Super (⭐4)](https://github.com/fitzyracing1/Super) - Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; `pip install superuser`, then add the `superuser` command to your Gemini CLI MCP server config.
 *   [Cooper Email](https://cooperemail.com/docs/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Email inboxes for agents with a hosted Streamable HTTP MCP server at `https://cooperemail.com/mcp` (OAuth or API key): Gemini CLI gets its own `username@cooperemail.com` address to send, read, and reply to mail and wait for replies or sign-up codes. The free plan includes 5 inboxes.
 
 ## [Oct 22, 2026](/content/2026/10/22/README.md)
 
 ### Interfaces
 
-*   [Alchemist Coder (⭐7)](https://github.com/Alekla0126/alchemist-coder) - Open-source desktop app for Windows, macOS and Linux that indexes your Gemini CLI chats, together with Claude Code, Codex and Grok Build sessions, into one local, read-only full-text search. Running Gemini CLI over ACP inside the app is planned for its upcoming Pro edition; the free edition runs Claude Code and Codex on local models.
+*   [Alchemist Coder (⭐10)](https://github.com/Alekla0126/alchemist-coder) - Open-source desktop app for Windows, macOS and Linux that indexes your Gemini CLI chats, together with Claude Code, Codex and Grok Build sessions, into one local, read-only full-text search. Running Gemini CLI over ACP inside the app is planned for its upcoming Pro edition; the free edition runs Claude Code and Codex on local models.
 
 ### Agent Orchestration & CLI Tools
 
-*   [Concord MCP (⭐989)](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state MCP server (`npx -y @concord-ai/concord-mcp`) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.
+*   [Concord MCP (⭐1.5k)](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state MCP server (`npx -y @concord-ai/concord-mcp`) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.
 
 ### MCP Servers
 
@@ -608,7 +614,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [fakegreen (⭐5)](https://github.com/fitzyracing1/fakegreen) - Deterministic diff checker with an `AfterAgent` hook (`npx fakegreen install gemini`) that denies the turn when the agent skipped or deleted tests, weakened assertions, added suppressions, special-cased the test environment or forced CI green with `|| true`, and feeds the findings back so Gemini fixes them. No LLM or API key. MIT.
+*   [fakegreen (⭐6)](https://github.com/fitzyracing1/fakegreen) - Deterministic diff checker with an `AfterAgent` hook (`npx fakegreen install gemini`) that denies the turn when the agent skipped or deleted tests, weakened assertions, added suppressions, special-cased the test environment or forced CI green with `|| true`, and feeds the findings back so Gemini fixes them. No LLM or API key. MIT.
 
 ### MCP Servers
 

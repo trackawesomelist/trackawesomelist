@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
+
+### Start Here / Video Courses and Series
+
+*   [The Math District](https://www.youtube.com/@TheMathDistrict) - Worked-example videos on prealgebra, algebra, trigonometry, and geometry.
+
 ## [Oct 26 - Nov 01, 2026](/content/2026/43/README.md)
 
 ### Mathematical Practice / AI for Mathematics
@@ -18,17 +24,13 @@ A curated list of awesome mathematics resources
 
 *   [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Mathematics\&s=department_course_numbers.sort_coursenum) - Free MIT course materials, including notes, assignments, and exams for undergraduate and graduate mathematics.
 *   [Mathispower4u](https://mathispower4u.com/) - More than 9,000 free, closed-captioned video lessons and worked examples organized from middle-school mathematics through calculus, linear algebra, differential equations, and statistics, by James Sousa.
-*   [OSSU Math (⭐9.3k)](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
+*   [OSSU Math (⭐9.4k)](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
 *   [Waterloo Open Math](https://open.math.uwaterloo.ca/) - Free university-level courseware with lessons, exercises, and immediate feedback from the University of Waterloo.
 
 ### Start Here / Proof and Problem Solving
 
 *   [Basic Concepts of Mathematics](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp93727) - Elias Zakon.
 *   [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Paid textbook by Daniel J. Velleman.
-
-### Start Here / Video Courses and Series
-
-*   [The Math District](https://themathdistrict.com/) - Free guides and videos covering prealgebra, algebra, geometry, trigonometry, statistics, calculus, and technical mathematics.
 
 ### Start Here / Questions and Answers
 
@@ -96,7 +98,7 @@ A curated list of awesome mathematics resources
 ### Foundations and Logic / Formal Mathematics and Theorem Proving
 
 *   [Lean](https://lean-lang.org/) - Open-source interactive theorem prover and programming language based on dependent type theory, used for formal mathematics and software verification.
-*   [mathlib (⭐4.4k)](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
+*   [mathlib (⭐4.6k)](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
 *   [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - Free textbook with examples and exercises for mathematicians learning Lean 4 and mathlib.
 *   [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/) - Free official textbook on dependent type theory, propositions, tactics, inductive types, type classes, and constructing verified proofs in Lean 4.
 *   [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) - Interactive Lean 4 game that introduces theorem proving through guided exercises about natural numbers.
@@ -143,7 +145,6 @@ A curated list of awesome mathematics resources
 *   [Galois Theory](https://mreid.warwick.ac.uk/MA3D5/) - Miles Reid.
 *   [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth.
 *   [Surreal Numbers and Games](https://web.mit.edu/sp.268/www/2010/surreal.pdf) - Introductory notes on Conway's surreal numbers and their connection with combinatorial game theory.
-*   [Conway names, the simplicity hierarchy and the surreal number tree](https://doi.org/10.4115/jla.v3i0.88) - Philip Ehrlich.
 
 ### Algebra / Commutative Algebra
 
@@ -405,7 +406,7 @@ A curated list of awesome mathematics resources
 *   [b=M²L](https://bm2l.github.io/) - Barcelona Mathematics and Machine Learning colloquia on the interaction between mathematics and machine learning, with multi-year editions and recorded talks.
 *   [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
 *   [Mathematics and AI](https://sites.math.washington.edu/~jarod/math583E-fall25.html) - University of Washington Fall 2025 graduate course with public slides, Lean examples, projects, and readings on machine learning, formalization, autoformalization, mathematical discovery, and ethics.
-*   [AI-Assisted Mathematical Discovery (⭐122)](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
+*   [AI-Assisted Mathematical Discovery (⭐124)](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
 
 ### Mathematical Practice / Mathematical Software and Tools
 
@@ -437,9 +438,9 @@ A curated list of awesome mathematics resources
 ### Community and Further Reading / Related Curated Lists
 
 *   [Scientific Computing (⭐1.6k)](https://github.com/nschloe/awesome-scientific-computing) - Curated software for numerical analysis, scientific computing, meshing, solvers, and visualization.
-*   [Optimization (⭐752)](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
+*   [Optimization (⭐756)](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
 *   [Interactive Mathematics (⭐322)](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
-*   [AI for Mathematics (⭐98)](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
+*   [AI for Mathematics (⭐99)](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
@@ -459,12 +460,6 @@ A curated list of awesome mathematics resources
 
 *   [Numberphile](https://www.youtube.com/@numberphile) - Popular mathematics videos featuring mathematicians discussing problems, ideas, and curiosities.
 
-## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
-
-### Start Here / Reference Works
-
-*   [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Capelo Monteiro (freeCodeCamp).
-
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Combinatorics and Discrete Mathematics / Graph Theory
@@ -473,8 +468,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Practice / Mathematical Software and Tools
 
-*   [MathFlow (⭐59)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving).
-*   [RunMat (⭐264)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+*   [RunMat (⭐272)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 

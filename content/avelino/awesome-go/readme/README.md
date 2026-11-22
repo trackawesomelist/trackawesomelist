@@ -405,8 +405,8 @@ Please take a quick gander at the [contribution guidelines (⭐194k)](https://gi
 *   [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 *   [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
 *   [goyek (⭐703)](https://github.com/goyek/goyek) - Create build pipelines in Go.
+*   [grog (⭐73)](https://github.com/chrismatix/grog) - Language-agnostic monorepo build tool with caching and parallel execution.
 *   [mage (⭐4.7k)](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
-*   [mmake (⭐1.7k)](https://github.com/tj/mmake) - Modern Make.
 *   [realize (⭐4.4k)](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
 *   [rex (⭐8)](https://github.com/rexrun-dev/rex) - Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command.
 *   [Task (⭐16k)](https://github.com/go-task/task) - simple "Make" alternative.
@@ -3448,6 +3448,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### Routers
 
 *   [alien (⭐134)](https://github.com/gernest/alien) - Lightweight and fast http router from outer space.
+*   [apex (⭐4)](https://github.com/vroomy/apex) - High-performance, zero-allocation HTTP router with trie-based routing and SIMD-accelerated path matching.
 *   [bellt (⭐55)](https://github.com/GuilhermeCaruso/bellt) - A simple Go HTTP router.
 *   [Bone (⭐1.3k)](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer.
 *   [Bxog (⭐104)](https://github.com/claygod/Bxog) - Simple and fast HTTP router for Go. It works with routes of varying difficulty, length and nesting. And he knows how to create a URL from the received parameters.

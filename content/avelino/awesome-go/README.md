@@ -12,9 +12,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [erpc (⭐806)](https://github.com/erpc/erpc) - Fault-tolerant RPC proxy for EVM and Solana chains with caching, failover, hedging and rate limiting.
 
+### Build Automation
+
+*   [grog (⭐73)](https://github.com/chrismatix/grog) - Language-agnostic monorepo build tool with caching and parallel execution.
+
 ### Continuous Integration
 
 *   [zanadir (⭐185)](https://github.com/MustacheCase/zanadir) - Reports which security and quality checks a repository's CI is missing, and which cannot fail the build.
+
+### Routers / Libraries for creating HTTP middlewares
+
+*   [apex (⭐4)](https://github.com/vroomy/apex) - High-performance, zero-allocation HTTP router with trie-based routing and SIMD-accelerated path matching.
 
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
@@ -5663,7 +5671,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 *   [goyek (⭐703)](https://github.com/goyek/goyek) - Create build pipelines in Go.
 *   [mage (⭐4.7k)](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
-*   [mmake (⭐1.7k)](https://github.com/tj/mmake) - Modern Make.
 *   [Task (⭐16k)](https://github.com/go-task/task) - simple "Make" alternative.
 *   [taskctl (⭐437)](https://github.com/taskctl/taskctl) - Concurrent task runner.
 
