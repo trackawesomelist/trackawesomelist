@@ -6,6 +6,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ Daily / [Weekly](/content/typeddjango/awesome-python-typing/week/README.md) / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Nov 23, 2026](/content/2026/11/23/README.md)
+
+### Tools / Helper tools to add annotations to existing code
+
+*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### Stub packages
@@ -218,10 +224,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 *   [flake8-type-ignore](https://gitlab.com/jonafato/flake8-type-ignore/) - flake8 plugin to disallow type: ignore comments in your typed Python code.
 
-### Tools / Helper tools to add annotations to existing code
-
-*   [auto-optional (⭐20)](https://github.com/Luttik/auto-optional) - Makes typed arguments Optional when the default argument is `None`.
-
 ### Articles / Third-party articles
 
 *   [Python-typing-koans (⭐121)](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
@@ -360,7 +362,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Linters
 
-*   [flake8-typing-imports (⭐51)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
 *   [flake8-typing-only-imports (⭐128)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [Mar 03, 2021](/content/2021/03/03/README.md)
@@ -372,7 +373,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pytype annotate-ast (⭐5k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 

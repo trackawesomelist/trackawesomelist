@@ -6,6 +6,366 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Nov 23, 2026](/content/2026/11/23/README.md)
+
+### APIs Covered Under APILayer Suite!
+
+- Name: [Unique.domains (⭐0)](https://github.com/UniqueDomains/mcp-server)
+
+  Description: Find the strongest domain names you can still buy and analyse any one in depth with an AI assistant
+
+  Auth: No
+
+  Transport: `stdio`, `HTTP`
+
+  Install: [Glama](https://glama.ai/mcp/connectors/domains.unique/mcp-server) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=domains.unique/mcp-server)
+
+
+
+### Art & Design
+
+- API: [DummyImg](https://www.dummyimg.in/)
+
+  Description: Generate placeholder images of any size with custom text, colors, fonts and formats
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Logoapi Favicons](https://logoapi.sh/favicon)
+
+  Description: Favicon for any website by domain: curated SVG, else the site's own favicon, else a name tile
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Business
+
+- API: [CEA Digital](https://ceadigital.io/tools)
+
+  Description: Real estate LLC skip trace, video hook transcripts, eBay sold comps and building permits
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Vibe Manufacturing](https://vibe-manufacturing.com/agents)
+
+  Description: Manufacturer directory with supplier matching, cost estimates and prototype sourcing plans
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [DuckDuckGo](https://api.duckduckgo.com/)
+
+  Description: Instant answers, abstracts and definitions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [FreeQrly](https://freeqrly.com/developers/)
+
+  Description: Generate static QR codes (URL, WiFi, vCard, text, geo) as SVG or PNG. Free, no API key
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Hundredth Run GPU Prices](https://hundredthrun-compute-desk.pages.dev/open-data)
+
+  Description: GPU rental prices from 25 cloud providers with source URLs, as static JSON and CSV, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TradingAIHub](https://tradingaihub.com/developers/)
+
+  Description: Directory of finance and trading AI tools (MCP servers, agent skills, APIs), re-checked weekly
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Unique.domains](https://unique.domains/api)
+
+  Description: Analyse any domain name in depth and search 34 million one-word names for the right one to buy
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [PagedPDF](https://pagedpdf.com/docs/)
+
+  Description: Convert HTML to PDF in current Chrome, with repeating table headers and page numbers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+  : 
+
+
+
+### Email
+
+- API: [AgentiSend](https://agentisend.com/docs)
+
+  Description: Transactional email API for apps, with per-key send budgets and a kill switch for AI agents
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [MailMint](https://mailmint.app.mintapis.com/docs)
+
+  Description: Parse inbound emails into JSON fields you define, each with a confidence score and evidence
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Environment
+
+- API: [Rebase Grid](https://grid.rebase.energy/docs/v1)
+
+  Description: European electricity prices, load, generation, forecasts and cross-border flows
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [Danadresse](https://api.danadresse.dk/docs)
+
+  Description: Danish addresses: autocomplete, lookup, reverse geocoding, cleansing (DAWA-compatible)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Global law](https://lexifina.com/api/global-law)
+
+  Description: Legislation of 200+ countries as a dated history: find by citation, read as of a date, search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Political Polls](https://pushbuild.com/apis/political-polls.html)
+
+  Description: Election vote-intention polls and averages by country, each poll with its release link
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Jobs
+
+- API: [WARN Layoff Notices](https://pushbuild.com/apis/warn-layoff-notices.html)
+
+  Description: US state WARN Act layoff and plant-closure notices: employer, location, date, workers affected
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Photography
+
+- API: [AI GIF Maker](https://aigifmaker.readthedocs.io/en/latest/)
+
+  Description: Turn text into animated GIFs with AI GIF Maker
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Science & Math
+
+- API: [Astroletra](https://astroletra.com/datos/api/)
+
+  Description: Moon phase and sign, aspects, retrogrades and next lunation by time zone
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Shopping
+
+- API: [EverBee Research](https://research-open-api.everbee.com/docs/swagger.html)
+
+  Description: Etsy listing, shop and keyword analytics: estimated sales, revenue, search volume and competition
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [uglyHD](https://uglyhd.com/api-docs)
+
+  Description: Cost per TB of new, used and refurbished drives and per GB of server RAM, from eBay and retailers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [GolfCourse](https://api.golfcourseapi.com/docs/api/)
+
+  Description: Data for 30,000+ golf courses: location, tee boxes, par, yardages, course rating and slope rating
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PinnFeed](https://pinnfeed.io/docs)
+
+  Description: Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Sports Jedi](https://api.sportsjedi.com/v1/docs)
+
+  Description: Model picks, confidence scores, win probabilities and parlay scoring for NFL, NCAAF, NBA and MLB
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Tracking
+
+- API: [lastscanned](https://docs.lastscanned.com)
+
+  Description: Parcel and ocean-container tracking across 549 carriers with webhooks and a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Video
+
+- API: [GenMagic](https://genmagic.co/developers)
+
+  Description: One key for 90+ image and video models (Veo, Kling, Seedance, FLUX) plus speech, OpenAI-compatible
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [The Subtitle Database](https://thesubtitledb.org/developer/api)
+
+  Description: Subtitles for movies and TV episodes by IMDb or TMDB id
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### APIs Covered Under APILayer Suite!
@@ -2409,7 +2769,7 @@ A collective list of free APIs
 
 - API: [Logoapi](https://logoapi.sh/docs)
 
-  Description: Free SVG company logos by domain, plus search by name. No signup
+  Description: SVG logos by domain, stock ticker or crypto symbol, plus favicons and search by name. No signup
 
   Auth: No
 
@@ -5444,7 +5804,7 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
-- Name: [SkyAccess (⭐3)](https://github.com/sky-access/skyaccess-mcp)
+- Name: [SkyAccess (⭐6)](https://github.com/sky-access/skyaccess-mcp)
 
   Description: Search 5,000+ live empty leg flights, get charter price estimates and booking links
 
@@ -6685,7 +7045,7 @@ A collective list of free APIs
 
 - API: [Zornade](https://app.zornade.com/api/)
 
-  Description: Cadastral parcels, geocoding, OMI valuations, risk and demographics for Italy (85M parcels)
+  Description: Cadastral parcels, geocoding, OMI valuations, risk and demographics for Italy (88M parcels)
 
   Auth: `apiKey`
 

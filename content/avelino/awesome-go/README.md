@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 23, 2026](/content/2026/11/23/README.md)
+
+### Artificial Intelligence
+
+*   [codex-sdk-go (⭐25)](https://github.com/pmenglund/codex-sdk-go) - Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output.
+*   [KafClaw (⭐21)](https://github.com/KafClaw/KafClaw) - Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing.
+
+### Goroutines
+
+*   [agilePool (⭐321)](https://github.com/Yiming1997/agilePool) - Goroutine pool with adaptive worker scaling, bounded concurrency, and overflow task buffering.
+
 ## [Nov 22, 2026](/content/2026/11/22/README.md)
 
 ### Blockchain

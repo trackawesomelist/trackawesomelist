@@ -6,6 +6,48 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Applications
+
+*   [localixai/localix-cli (⭐369)](https://github.com/localixai/localix-cli) - A terminal coding agent and agent runtime for CI and scripts, on any hosted or local model; one binary, command `llx` [![CI](https://github.com/localixai/localix-cli/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/localixai/localix-cli/actions/workflows/ci.yml)
+
+### Applications / Text editors
+
+*   [FluxCode (⭐114)](https://github.com/MuaraAI/FluxCode) - A lightweight native code editor for Windows, macOS and Linux built on GPUI (\~50 ms startup, 1.4 MB idle RAM) with an integrated AI agent workspace (ACP), Git, and Python terminal. [![Build](https://github.com/MuaraAI/FluxCode/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MuaraAI/FluxCode/actions/workflows/build.yml)
+
+### Applications / Workflow Automation
+
+*   [holon-run/holon (⭐199)](https://github.com/holon-run/holon) \[[holon](https://crates.io/crates/holon)] - Local-first Rust workbench for always-on AI agents with explicit work items, event-driven wait/wake, and isolated git worktrees. [![CI](https://github.com/holon-run/holon/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/holon-run/holon/actions/workflows/ci.yml)
+
+### Development tools / Workflow Automation
+
+*   [gbenm/fire (⭐1)](https://github.com/gbenm/fire) \[[fire-cli](https://crates.io/crates/fire-cli)] - Config-first task runner: YAML commands with dynamic shell completion, detachable pty sessions, and an MCP server so AI agents run your project's commands [![build badge](https://github.com/gbenm/fire/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gbenm/fire/actions/workflows/ci.yml)
+
+### Libraries / Audio and Music
+
+*   [Remade-With-Rust/rusty-opus (⭐7)](https://github.com/Remade-With-Rust/rusty-opus) \[[rusty-opus](https://crates.io/crates/rusty-opus)] - Pure-Rust Opus audio codec (RFC 6716): encoder and decoder. [![build badge](https://github.com/Remade-With-Rust/rusty-opus/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty-opus/actions/workflows/ci.yml)
+*   [Remade-With-Rust/rusty\_flac (⭐2)](https://github.com/Remade-With-Rust/rusty_flac) \[[rusty\_flac](https://crates.io/crates/rusty_flac)] - Pure-Rust FLAC encoder and decoder.
+
+### Libraries / Image processing
+
+*   [Remade-With-Rust/rusty\_dds (⭐3)](https://github.com/Remade-With-Rust/rusty_dds) \[[rusty\_dds](https://crates.io/crates/rusty_dds)] - Pure-Rust DDS texture toolkit: container parse, decode, encode, and GPU upload plans.
+*   [Remade-With-Rust/rusty\_jpeg (⭐2)](https://github.com/Remade-With-Rust/rusty_jpeg) \[[rusty\_jpeg](https://crates.io/crates/rusty_jpeg)] - Pure-Rust JPEG/MJPEG decoder and encoder.
+
+### Libraries / Memory management
+
+*   [Remade-With-Rust/rusty\_alloc (⭐20)](https://github.com/Remade-With-Rust/rusty_alloc) \[[rusty\_alloc](https://crates.io/crates/rusty_alloc)] - Pure-Rust allocator (a remake of mimalloc) with a no\_std core. [![build badge](https://github.com/Remade-With-Rust/rusty_alloc/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty_alloc/actions/workflows/ci.yml)
+
+### Libraries / Parsing
+
+*   [Mattbusel/remoteid (⭐1)](https://github.com/Mattbusel/remoteid) \[[remoteid](https://crates.io/crates/remoteid)] - `no_std` decoder for ASTM F3411 / ASD-STAN drone Remote ID broadcast frames (Bluetooth and Wi-Fi), with DRIP authentication (RFC 9575) checks. [![build badge](https://github.com/Mattbusel/remoteid/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mattbusel/remoteid/actions/workflows/ci.yml)
+
+### Libraries / Video
+
+*   [Remade-With-Rust/remade\_ffmpeg\_rs (⭐18)](https://github.com/Remade-With-Rust/remade_ffmpeg_rs) \[[rff-core](https://crates.io/crates/rff-core)] - Ground-up Rust remake of FFmpeg for decode, encode, transcode, mux, and probe. [![build badge](https://github.com/Remade-With-Rust/remade_ffmpeg_rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/remade_ffmpeg_rs/actions/workflows/ci.yml)
+*   [Remade-With-Rust/rusty\_h264 (⭐15)](https://github.com/Remade-With-Rust/rusty_h264) \[[rusty\_h264](https://crates.io/crates/rusty_h264)] - Pure-Rust H.264 encoder and decoder. [![build badge](https://github.com/Remade-With-Rust/rusty_h264/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty_h264/actions/workflows/ci.yml)
+*   [Remade-With-Rust/rusty\_h265 (⭐4)](https://github.com/Remade-With-Rust/rusty_h265) \[[rusty\_h265](https://crates.io/crates/rusty_h265)] - Pure-Rust HEVC / H.265 video decoder. [![build badge](https://github.com/Remade-With-Rust/rusty_h265/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty_h265/actions/workflows/ci.yml)
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### Applications
@@ -104,7 +146,7 @@ A curated list of Rust code and resources.
 
 *   [ChrisVip001/joyczl-agent (⭐112)](https://github.com/ChrisVip001/joyczl-agent) - Local-first personal agent: Rust owns the agent loop, memory and tools, and stores one append-only ledger row per turn, so every memory is inspectable and the FTS5 index can be rebuilt from the ledger. TypeScript dashboard, Python SDK. [![CI](https://github.com/ChrisVip001/joyczl-agent/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ChrisVip001/joyczl-agent/actions/workflows/ci.yml)
 *   [glimpse-hq/Glimpse (⭐62)](https://github.com/glimpse-hq/Glimpse) - Local voice dictation and meeting transcription for macOS and Windows, built with Tauri. Speech recognition and speaker labels run on your computer.
-*   [madebyzan/knovum (⭐35)](https://github.com/madebyzan/knovum) - Local-first desktop 2D spatial AI knowledge workspace built with Tauri 2, Rust, and Vue 3, featuring infinite canvas, embedded LanceDB vector search, and on-device Whisper transcription.
+*   [madebyzan/knovum (⭐63)](https://github.com/madebyzan/knovum) - Local-first desktop 2D spatial AI knowledge workspace built with Tauri 2, Rust, and Vue 3, featuring infinite canvas, embedded LanceDB vector search, and on-device Whisper transcription.
 
 ### Applications / Security tools
 
@@ -163,7 +205,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Industrial automation
 
-*   [cerulion-inc/cerulion (⭐101)](https://github.com/cerulion-inc/cerulion) \[[cerulion\_cli](https://crates.io/crates/cerulion_cli)] - Robot runtime with zero-copy shared memory and a graph-aware scheduler. Records a run and re-executes supported native recordings against new code, with an exit code for CI. [![CI](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml)
+*   [cerulion-inc/cerulion (⭐122)](https://github.com/cerulion-inc/cerulion) \[[cerulion\_cli](https://crates.io/crates/cerulion_cli)] - Robot runtime with zero-copy shared memory and a graph-aware scheduler. Records a run and re-executes supported native recordings against new code, with an exit code for CI. [![CI](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml)
 
 ### Applications / MLOps
 
@@ -195,7 +237,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Asynchronous
 
-*   [tellus-rs/tellus (⭐62)](https://github.com/tellus-rs/tellus) \[[tellus](https://crates.io/crates/tellus)] - Actors for Rust with synchronous handlers, ordered death watch, supervision, event sourcing and clustering [![CI](https://github.com/tellus-rs/tellus/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tellus-rs/tellus/actions/workflows/ci.yml)
+*   [tellus-rs/tellus (⭐81)](https://github.com/tellus-rs/tellus) \[[tellus](https://crates.io/crates/tellus)] - Actors for Rust with synchronous handlers, ordered death watch, supervision, event sourcing and clustering [![CI](https://github.com/tellus-rs/tellus/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tellus-rs/tellus/actions/workflows/ci.yml)
 
 ### Libraries / Game development
 
@@ -227,7 +269,6 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [emanuele-em/kanzo (⭐1.2k)](https://github.com/emanuele-em/kanzo) \[[kanzo](https://crates.io/crates/kanzo)] - Self-hosted kanban board for humans and coding agents: a web board and an MCP server in one binary, with data in a local SQLite folder [![CI](https://github.com/emanuele-em/kanzo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/emanuele-em/kanzo/actions/workflows/ci.yml)
-*   [ipavlin98/traydex (⭐99)](https://github.com/ipavlin98/traydex) - Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload [![CI](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ipavlin98/traydex/actions/workflows/ci.yml)
 *   [sunerpy/voltip (⭐106)](https://github.com/sunerpy/voltip) - Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri [![CI](https://github.com/sunerpy/voltip/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sunerpy/voltip/actions/workflows/ci.yml)
 *   [zhixuli0406/DuDuClaw (⭐51)](https://github.com/zhixuli0406/DuDuClaw) - Self-hosted platform that runs AI coding CLIs (Claude Code, Codex, Antigravity) as AI employees on LINE, Telegram, Discord, Slack and 7 more chat apps, with result review, cost logging, local memory and a standalone MCP memory server [![CI](https://github.com/zhixuli0406/DuDuClaw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zhixuli0406/DuDuClaw/actions/workflows/ci.yml)
 
@@ -944,10 +985,6 @@ A curated list of Rust code and resources.
 ### Applications / Image processing
 
 *   [Sprite Fusion Pixel Snapper (⭐3.5k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).
-
-### Applications / Security tools
-
-*   [santhreal/keyhog (⭐114)](https://github.com/santhreal/keyhog) \[[keyhog](https://crates.io/crates/keyhog)] - Detects leaked credentials and API keys across source trees, git history, archives, and remote sources, with live verification of found secrets [![CI](https://github.com/santhreal/keyhog/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/santhreal/keyhog/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
@@ -3225,7 +3262,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.9k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐43k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐44k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Applications / Graphics
 
@@ -4009,11 +4046,6 @@ A curated list of Rust code and resources.
     *   [SeaQL/sea-orm (⭐10k)](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
     *   [SeaQL/seaography (⭐537)](https://github.com/SeaQL/seaography) - 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
     *   [thegenius/taitan-orm (⭐122)](https://github.com/thegenius/taitan-orm) - The State of Art ORM for Rust, Async & Compile Time Generation.
-
-### Libraries / Network programming
-
-*   Raknet
-    *   [b23r0/rust-raknet (⭐251)](https://github.com/b23r0/rust-raknet) - RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
 ### Libraries / Virtualization
 
@@ -4898,6 +4930,7 @@ A curated list of Rust code and resources.
     *   [svix/svix-webhooks (⭐3.5k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)] - A library for sending webhooks and verifying signatures.
     *   [tbot](https://gitlab.com/SnejUgal/tbot) \[[tbot](https://crates.io/crates/tbot)] - Make cool Telegram bots easily [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
     *   [teloxide/teloxide (⭐4.3k)](https://github.com/teloxide/teloxide/) - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/actions/workflows/ci.yml/badge.svg)](https://github.com/teloxide/teloxide/actions)
+    *   [thepartly/reflectapi (⭐25)](https://github.com/thepartly/reflectapi) \[[reflectapi](https://crates.io/crates/reflectapi)] - Define a web API as plain Rust functions and generate typed TypeScript, Python and Rust clients, typed streams included [![CI](https://github.com/thepartly/reflectapi/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/thepartly/reflectapi/actions/workflows/ci.yaml)
     *   [tu6ge/valitron (⭐60)](https://github.com/tu6ge/valitron) \[[valitron](https://crates.io/crates/valitron)] - An ergonomic, functional and configurable validator
     *   [utkarshkukreti/select.rs (⭐1k)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
     *   [Utoipa (⭐4.2k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
@@ -5797,7 +5830,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐40k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐41k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐3k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)

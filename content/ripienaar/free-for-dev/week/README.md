@@ -2,9 +2,15 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 142K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 143K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
+
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Mobile App Distribution and Feedback
+
+*   [BetaLobby](https://betalobby.com) - Closed testing platform for Android developers to distribute pre-release Google Play builds across 16-developer teams, verify installs, and track 14-day daily check-ins to meet the 12-tester production requirement. Free, no paid plans.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
@@ -665,10 +671,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [ShipStatic](https://shipstatic.com) - Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.
 *   [Stormkit](https://www.stormkit.io) - Self-hostable Vercel alternative for building, hosting, and deploying modern frontend and JavaScript applications. Free plan includes 1 app, 50 GB bandwidth, unlimited custom domains, and free SSL.
 
-### Storage and Media Processing
-
-*   [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 10 videos, 200 MB per file, and 50 GB bandwidth per month.
-
 ## [Aug 10 - Aug 16, 2026](/content/2026/32/README.md)
 
 ### APIs, Data, and ML
@@ -682,7 +684,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
-*   [ZeroSMTP (⭐5)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
+*   [ZeroSMTP (⭐4)](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
 
 ### Generative AI
 
@@ -888,7 +890,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.7k)](https://github.com/latitude-dev/latitude-llm)
+*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.8k)](https://github.com/latitude-dev/latitude-llm)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -1540,7 +1542,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐5k)](https://github.com/langwatch/langwatch)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐5.1k)](https://github.com/langwatch/langwatch)
 *   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
@@ -2371,7 +2373,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 1GB storage. Easy migration to more extensive plans or across clouds.
+*   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and 1GB storage. Easy migration to more extensive plans or across clouds.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -2845,17 +2847,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Major Cloud Providers
 
 *   [Google Cloud Platform](https://cloud.google.com)
-    *   App Engine - 28 frontend instance hours per day, nine backend instance hours per day
-    *   Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    *   Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    *   Cloud Storage - 5GB, 1GB network egress
-    *   Cloud Shell - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
-    *   Cloud Pub/Sub - 10GB of messages per month
-    *   Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    *   Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    *   Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    *   BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    *   Cloud Build - 120 build-minutes per day
+    *   [App Engine](https://cloud.google.com/appengine) - 28 frontend instance hours per day, nine backend instance hours per day
+    *   [Cloud Firestore](https://cloud.google.com/firestore) - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
+    *   [Compute Engine](https://cloud.google.com/compute) - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
+    *   [Cloud Storage](https://cloud.google.com/storage) - 5GB, 1GB network egress
+    *   [Cloud Shell](https://cloud.google.com/shell) - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
+    *   [Cloud Pub/Sub](https://cloud.google.com/pubsub) - 10GB of messages per month
+    *   [Cloud Functions](https://cloud.google.com/functions) - 2 million invocations per month (includes both background and HTTP invocations)
+    *   [Cloud Run](https://cloud.google.com/run) - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
+    *   [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
+    *   [BigQuery](https://cloud.google.com/bigquery) - 1 TB of querying per month, 10 GB of storage each month
+    *   [Cloud Build](https://cloud.google.com/build) - 120 build-minutes per day
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     *   [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with a usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with a usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     *   [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.
