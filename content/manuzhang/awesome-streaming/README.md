@@ -6,6 +6,13 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ Daily / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Nov 23, 2026](/content/2026/11/23/README.md)
+
+### Table of Contents / Data Integration and Pipelines
+
+*   [Filament (⭐346)](https://github.com/galaxy-io/filament) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Data replication engine that moves data between databases, SaaS APIs, streams and object storage with full and incremental sync.
+*   [OLake (⭐2.3k)](https://github.com/datazip-inc/olake-go) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Table of Contents / Applications and Tools
@@ -26,7 +33,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Data Integration and Pipelines
 
-*   [mq-bridge (⭐25)](https://github.com/marcomq/mq-bridge) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Embeddable library and CLI for moving data between brokers, databases incl. CDC, object storage and HTTP, usable from Rust, Python and Node.js.
+*   [mq-bridge (⭐28)](https://github.com/marcomq/mq-bridge) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Embeddable library and CLI for moving data between brokers, databases incl. CDC, object storage and HTTP, usable from Rust, Python and Node.js.
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -38,11 +45,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Clink (⭐5)](https://github.com/orhaugh/clink) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Embedded-first, Arrow-native stream processing engine with streaming SQL and exactly-once checkpoints.
-
-### Table of Contents / Data Integration and Pipelines
-
-*   [OLake (⭐1.6k)](https://github.com/datazip-inc/olake) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.
+*   [Clink (⭐6)](https://github.com/orhaugh/clink) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Embedded-first, Arrow-native stream processing engine with streaming SQL and exactly-once checkpoints.
 
 ## [Sep 28, 2026](/content/2026/09/28/README.md)
 
@@ -60,7 +63,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [SQLFlow (⭐805)](https://github.com/turbolytics/sql-flow) <sub>![Go/Python](https://img.shields.io/badge/language-Go%2FPython-blue)</sub> - Stream processing engine that runs DuckDB SQL over Kafka, WebSocket, and webhook streams.
+*   [SQLFlow (⭐808)](https://github.com/turbolytics/sql-flow) <sub>![Go/Python](https://img.shields.io/badge/language-Go%2FPython-blue)</sub> - Stream processing engine that runs DuckDB SQL over Kafka, WebSocket, and webhook streams.
 
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
@@ -75,7 +78,7 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Aeron (⭐9k)](https://github.com/aeron-io/aeron) <sub>![Java/C++](https://img.shields.io/badge/language-Java%2FC%2B%2B-blue)</sub> - Reliable UDP unicast, multicast, and IPC message transport.
 *   [Apache Heron (⭐3.6k)](https://github.com/apache/incubator-heron) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Retired distributed, fault-tolerant stream processing engine originally developed at Twitter.
 *   [Apache Pulsar (⭐15k)](https://github.com/apache/pulsar) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed pub-sub messaging and event streaming platform.
-*   [Apache StreamPipes (⭐756)](https://github.com/apache/streampipes) <sub>![Java/Python/TypeScript](https://img.shields.io/badge/language-Java%2FPython%2FTypeScript-blue)</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
+*   [Apache StreamPipes (⭐763)](https://github.com/apache/streampipes) <sub>![Java/Python/TypeScript](https://img.shields.io/badge/language-Java%2FPython%2FTypeScript-blue)</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
 *   [AthenaX (⭐1.2k)](https://github.com/uber-archive/AthenaX) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Uber's retired SQL-based streaming analytics platform.
 *   [eKuiper (⭐1.8k)](https://github.com/lf-edge/ekuiper) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
 *   [Fluvio (⭐5.3k)](https://github.com/fluvio-community/fluvio) <sub>![Rust/WASM](https://img.shields.io/badge/language-Rust%2FWASM-blue)</sub> - Composable, stateful data streaming system with programmable in-line computation.
@@ -102,7 +105,7 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Apache Pekko (⭐1.7k)](https://github.com/apache/pekko) <sub>![Scala/Java](https://img.shields.io/badge/language-Scala%2FJava-blue)</sub> - Open-source toolkit for concurrent, distributed, resilient applications, forked from Akka 2.6.
 *   [Apache SAMOA (⭐252)](https://github.com/apache/incubator-samoa) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Retired distributed streaming machine learning framework.
 *   [Apache StormCrawler (⭐1k)](https://github.com/apache/stormcrawler) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Scalable web crawler SDK based on Apache Storm.
-*   [DataSketches (⭐958)](https://github.com/apache/datasketches-java) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Apache library of stochastic streaming algorithms known as sketches.
+*   [DataSketches (⭐961)](https://github.com/apache/datasketches-java) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Apache library of stochastic streaming algorithms known as sketches.
 *   [FastStream (⭐5.4k)](https://github.com/ag2ai/faststream) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Asynchronous framework for building event-driven applications with Kafka, RabbitMQ, NATS, Redis, and MQTT.
 *   [FS2 (⭐2.5k)](https://github.com/typelevel/fs2) <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - Compositional streaming I/O library for Scala.
 *   [Jubatus (⭐706)](https://github.com/jubatus/jubatus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Distributed processing framework and library for online machine learning.
@@ -116,13 +119,13 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Summingbird (⭐2.1k)](https://github.com/twitter/summingbird) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - Retired library for expressing streaming MapReduce computations over Storm and Scalding.
 *   [Tributary (⭐467)](https://github.com/1kbgz/tributary) <sub>![Python](https://img.shields.io/badge/language-Python-blue)</sub> - Python library for constructing synchronous, reactive, and lazy dataflow graphs.
 *   [WindFlow (⭐89)](https://github.com/ParaGroup/WindFlow) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Data stream processing parallel library for multi-core CPUs and GPUs.
-*   [Yurita (⭐109)](https://github.com/paypal/yurita) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - PayPal anomaly detection framework built on Spark Structured Streaming.
+*   [Yurita (⭐110)](https://github.com/paypal/yurita) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - PayPal anomaly detection framework built on Spark Structured Streaming.
 
 ### Table of Contents / Data Integration and Pipelines
 
 *   [Apache Flume (⭐2.6k)](https://github.com/apache/logging-flume) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed service for collecting, aggregating, and moving large amounts of log-like data.
 *   [Brooklin (⭐973)](https://github.com/linkedin/Brooklin) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed system for reliable nearline data streaming between heterogeneous systems at scale.
-*   [Camus (⭐879)](https://github.com/LinkedInAttic/camus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - LinkedIn's retired, previous-generation Kafka-to-HDFS pipeline.
+*   [Camus (⭐878)](https://github.com/LinkedInAttic/camus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - LinkedIn's retired, previous-generation Kafka-to-HDFS pipeline.
 *   [Databus (⭐3.7k)](https://github.com/linkedin/databus) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - LinkedIn source-agnostic distributed change data capture system.
 *   [faucet-stream (⭐22)](https://github.com/faucet-hq/faucet-stream) <sub>![Rust](https://img.shields.io/badge/language-Rust-blue)</sub> - Config-driven platform and embeddable library for ETL, CDC, and streaming data movement.
 *   [inGestr (⭐4k)](https://github.com/bruin-data/ingestr) <sub>![Go/Python](https://img.shields.io/badge/language-Go%2FPython-blue)</sub> - Command-line application and Python SDK for copying data between databases, SaaS applications, and data warehouses.
@@ -160,7 +163,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
 
-*   [CapyMOA (⭐152)](https://github.com/adaptive-machine-learning/CapyMOA) <sub>![Python/Java](https://img.shields.io/badge/language-Python%2FJava-blue)</sub> - Machine learning library for data streams with a Python API and MOA backend.
+*   [CapyMOA (⭐153)](https://github.com/adaptive-machine-learning/CapyMOA) <sub>![Python/Java](https://img.shields.io/badge/language-Python%2FJava-blue)</sub> - Machine learning library for data streams with a Python API and MOA backend.
 
 ## [May 14, 2026](/content/2026/05/14/README.md)
 
@@ -189,7 +192,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [NebulaStream (⭐103)](https://github.com/nebulastream/nebulastream) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Data management system for cloud-edge-sensor environments.
+*   [NebulaStream (⭐105)](https://github.com/nebulastream/nebulastream) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Data management system for cloud-edge-sensor environments.
 
 ## [May 11, 2025](/content/2025/05/11/README.md)
 
@@ -243,7 +246,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Applications and Tools
 
-*   [javactrl-kafka (⭐18)](https://github.com/javactrl/javactrl-kafka) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Code-first distributed workflow engine for microservice orchestration and business process automation.
+*   [javactrl-kafka (⭐19)](https://github.com/javactrl/javactrl-kafka) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Code-first distributed workflow engine for microservice orchestration and business process automation.
 
 ## [May 10, 2023](/content/2023/05/10/README.md)
 
@@ -271,7 +274,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Scramjet Cloud Platform (⭐71)](https://github.com/scramjetorg/transform-hub) <sub>![TypeScript/Python](https://img.shields.io/badge/language-TypeScript%2FPython-blue)</sub> - Distributed runtime for running and managing data processing programs on edge, server, and cloud infrastructure.
+*   [Scramjet Cloud Platform (⭐70)](https://github.com/scramjetorg/transform-hub) <sub>![TypeScript/Python](https://img.shields.io/badge/language-TypeScript%2FPython-blue)</sub> - Distributed runtime for running and managing data processing programs on edge, server, and cloud infrastructure.
 
 ### Table of Contents / Libraries, SDKs, and Programming Models
 
@@ -282,13 +285,13 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Engines and Platforms
 
-*   [Redpanda (⭐13k)](https://github.com/redpanda-data/redpanda) <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Kafka API-compatible streaming data platform without ZooKeeper or a JVM.
+*   [Redpanda (⭐13k)](https://github.com/redpanda-data/redpanda) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![C++](https://img.shields.io/badge/language-C%2B%2B-blue)</sub> - Kafka API-compatible streaming data platform without ZooKeeper or a JVM. Releases from 26.3.1 onward are closed source.
 
 ## [Feb 09, 2022](/content/2022/02/09/README.md)
 
 ### Table of Contents / Applications and Tools
 
-*   [Nussknacker (⭐745)](https://github.com/TouK/nussknacker) <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - Visual tool for defining and running real-time decision algorithms.
+*   [Nussknacker (⭐746)](https://github.com/TouK/nussknacker) <sub>![Scala](https://img.shields.io/badge/language-Scala-blue)</sub> - Visual tool for defining and running real-time decision algorithms.
 
 ## [Feb 07, 2022](/content/2022/02/07/README.md)
 
@@ -408,10 +411,10 @@ a curated list of awesome streaming frameworks, applications, etc
 *   [Apache Apex (⭐350)](https://github.com/apache/apex-core) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Unified platform for big data stream and batch processing.
 *   [Apache Flink (⭐26k)](https://github.com/apache/flink) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed engine for stateful computation over bounded and unbounded data streams.
 *   [Apache Kafka (⭐34k)](https://github.com/apache/kafka) <sub>![Java/Scala](https://img.shields.io/badge/language-Java%2FScala-blue)</sub> - Distributed event streaming platform for high-performance data pipelines and applications.
-*   [Apache Samza (⭐844)](https://github.com/apache/samza) <sub>![Java/Scala](https://img.shields.io/badge/language-Java%2FScala-blue)</sub> - Distributed stream processing framework built on Apache Kafka with standalone and YARN deployment options.
+*   [Apache Samza (⭐845)](https://github.com/apache/samza) <sub>![Java/Scala](https://img.shields.io/badge/language-Java%2FScala-blue)</sub> - Distributed stream processing framework built on Apache Kafka with standalone and YARN deployment options.
 *   [Apache Spark Streaming (⭐44k)](https://github.com/apache/spark) <sub>![Scala/Java/Python/R](https://img.shields.io/badge/language-Scala%2FJava%2FPython%2FR-blue)</sub> - Scalable, fault-tolerant stream processing on Apache Spark.
 *   [Apache Storm (⭐6.7k)](https://github.com/apache/storm) <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Distributed real-time computation system for reliably processing unbounded streams of data.
-*   [Esper (⭐876)](https://github.com/espertechinc/esper) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Complex event processing, Streaming SQL, and event series analysis engine.
+*   [Esper (⭐874)](https://github.com/espertechinc/esper) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Complex event processing, Streaming SQL, and event series analysis engine.
 *   [hailstorm (⭐93)](https://github.com/hailstorm-hs/hailstorm) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Haskell](https://img.shields.io/badge/language-Haskell-blue)</sub> - Distributed stream processing with exactly-once semantics based on Storm.
 *   [Hazelcast Jet (⭐1.1k)](https://github.com/hazelcast/hazelcast-jet) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Java](https://img.shields.io/badge/language-Java-blue)</sub> - Stream and batch processing engine whose development moved into Hazelcast Platform.
 *   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) <sub>![Archived](https://img.shields.io/badge/status-archived-lightgrey)</sub> <sub>![Clojure](https://img.shields.io/badge/language-Clojure-blue)</sub> - Distributed, masterless, fault-tolerant data processing platform.

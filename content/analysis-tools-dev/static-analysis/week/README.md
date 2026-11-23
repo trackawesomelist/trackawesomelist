@@ -6,6 +6,17 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [GitGalaxy](https://squid-protocol.github.io/gitgalaxy/) — Offline static analysis that needs no build, compiler, AST or LLM. Scans a whole repository (59 languages, including fixed-format COBOL, JCL, PL/I and CICS) and reports per-function structure, call and import graphs, risk scores and security findings. Outputs SARIF, a CycloneDX SBOM and a SQLite knowledge graph. Runs as a CLI and as a GitHub Action.
+
+### Other / [Other](#other-1)
+
+*   [MemBrowse](https://membrowse.com) — Analyzes ELF firmware binaries together with their GNU LD linker scripts or map files to report flash and RAM usage per memory region, section, and symbol. Uses DWARF debug info to attribute symbols to source files. The CLI runs locally without an account. An optional hosted service tracks memory usage across commits and targets, comments on pull requests with per-region and per-symbol changes, and fails CI when memory budgets are exceeded.
+*   **terrascan** :warning: — Collection of security and best practice tests for static code analysis of Terraform templates.
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -1229,7 +1240,7 @@
 *   [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 *   [pytype](https://google.github.io/pytype) — A static type analyzer for Python code.
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
-*   [vulture (⭐4.9k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
+*   [vulture (⭐5k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 *   [lintr (⭐1.3k)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 *   [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 *   [bundler-audit (⭐2.8k)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database (⭐1.1k)](https://github.com/rubysec/ruby-advisory-db).
@@ -1303,7 +1314,6 @@
 *   [cfn-lint (⭐2.6k)](https://github.com/awslabs/cfn-python-lint) — AWS Labs CloudFormation linter.
 *   [checkov](https://www.checkov.io) — Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
 *   [terraform-compliance](https://terraform-compliance.com) — A lightweight, compliance- and security focused, BDD test framework against Terraform.
-*   [terrascan (⭐4)](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
 *   [tflint (⭐0)](https://github.com/wata727/tflint) — A Terraform linter for detecting errors that can not be detected by `terraform plan`.
 *   [tfsec (⭐7.1k)](https://github.com/tfsec/tfsec) — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
 *   [clair (⭐11k)](https://github.com/coreos/clair) — Vulnerability Static Analysis for Containers.

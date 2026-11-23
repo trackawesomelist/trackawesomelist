@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ [Daily](/content/matiassingers/awesome-readme/README.md) / Weekly / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Examples
+
+*   [QuangquyNguyenvo/Sameko-Dev-CPP (⭐116)](https://github.com/QuangquyNguyenvo/Sameko-Dev-CPP#readme) - A cute ocean-themed README with animated custom illustrations, playful section headers, a GIF demo and live download badges.
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Examples
@@ -132,7 +138,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [dsplce-co/supabase-plus (⭐73)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
+*   [dsplce-co/supabase-plus (⭐74)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
 *   [hmpl-language/hmpl (⭐970)](https://github.com/hmpl-language/hmpl#readme) - Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.
 
 ### Tools
@@ -230,11 +236,11 @@ A curated list of awesome READMEs
 *   [Flutter Engine (⭐181k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
 *   [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
 *   [Linux cryptography (⭐255k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
-*   [Neovim (⭐103k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
-*   [Oh My Zsh (⭐190k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
+*   [Neovim (⭐104k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
+*   [Oh My Zsh (⭐191k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐77k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
-*   [Tauri (⭐112k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
-*   [VS Code (⭐194k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
+*   [Tauri (⭐113k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
+*   [VS Code (⭐196k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ### Articles
 
@@ -258,7 +264,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [hywax/mafl (⭐759)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐762)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 *   [Owloops/updo (⭐1.1k)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
@@ -348,7 +354,7 @@ A curated list of awesome READMEs
 ### Examples
 
 *   [alichtman/shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐368)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
+*   [aregtech/areg-sdk (⭐369)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

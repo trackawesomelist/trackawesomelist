@@ -6,6 +6,20 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 23, 2026](/content/2026/11/23/README.md)
+
+### Games
+
+*   [Govern (⭐2)](https://github.com/andy-dendy-repo/govern) - ![stars](https://img.shields.io/github/stars/andy-dendy-repo/govern?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/andy-dendy-repo/govern?style=flat-square\&cacheSeconds=86400) Turn-based hex strategy game with a Blazor WebAssembly client, a Three.js 3D board, live updates over SSE and a .NET 10 Clean Architecture API.
+
+### Hybrid
+
+*   [ZYC.Framework (⭐9)](https://github.com/ZiYuCai1984/ZYC.Framework) - ![stars](https://img.shields.io/github/stars/ZiYuCai1984/ZYC.Framework?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZYC.Framework?style=flat-square\&cacheSeconds=86400) Modular WPF desktop framework for .NET 10 that hosts Blazor Server components in-process and shows them in WebView2 tabs alongside native WPF modules.
+
+### Routing & Navigation / Others
+
+*   [Formidable (⭐5)](https://github.com/xfunc-pty-ltd/formidable) - ![stars](https://img.shields.io/github/stars/xfunc-pty-ltd/formidable?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/xfunc-pty-ltd/formidable?style=flat-square\&cacheSeconds=86400) Form validation for Blazor on FluentValidation, with draft and submit rule sets, messages that wait until a field has been edited, and a headless component kit. [Demo](https://xfunc-pty-ltd.github.io/formidable/).
+
 ## [Nov 16, 2026](/content/2026/11/16/README.md)
 
 ### Articles / Others
@@ -139,7 +153,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### ToDos
 
-*   [OpenHabitTracker (⭐308)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
+*   [OpenHabitTracker (⭐311)](https://github.com/Jinjinov/OpenHabitTracker) - ![stars](https://img.shields.io/github/stars/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/OpenHabitTracker?style=flat-square\&cacheSeconds=86400) Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. [Demo](https://pwa.openhabittracker.net).
 
 ### Component bundles
 

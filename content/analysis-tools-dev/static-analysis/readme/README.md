@@ -1034,7 +1034,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
-*   [vulture (⭐4.9k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
+*   [vulture (⭐5k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 
 *   [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
@@ -1559,6 +1559,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
+*   [GitGalaxy](https://squid-protocol.github.io/gitgalaxy/) — Offline static analysis that needs no build, compiler, AST or LLM. Scans a whole repository (59 languages, including fixed-format COBOL, JCL, PL/I and CICS) and reports per-function structure, call and import graphs, risk scores and security findings. Outputs SARIF, a CycloneDX SBOM and a SQLite knowledge graph. Runs as a CLI and as a GitHub Action.
+
 *   [Goodcheck](https://sider.github.io/goodcheck) — Regexp based customizable linter.
 
 *   [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
@@ -1880,6 +1882,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [Manalyze (⭐1.2k)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
 
+*   [MemBrowse](https://membrowse.com) — Analyzes ELF firmware binaries together with their GNU LD linker scripts or map files to report flash and RAM usage per memory region, section, and symbol. Uses DWARF debug info to attribute symbols to source files. The CLI runs locally without an account. An optional hosted service tracks memory usage across commits and targets, comments on pull requests with per-region and per-symbol changes, and fails CI when memory budgets are exceeded.
+
 *   [Nauz File Detector (⭐586)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
 
 *   [rhabdomancer](https://crates.io/crates/rhabdomancer) — IDA Pro headless plugin that locates calls to potentially insecure API functions in a binary file.
@@ -1992,8 +1996,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [terraform-compliance](https://terraform-compliance.com) — A lightweight, compliance- and security focused, BDD test framework against Terraform.
 
-*   [terrascan (⭐4)](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
-
 *   [tflint (⭐0)](https://github.com/wata727/tflint) — A Terraform linter for detecting errors that can not be detected by `terraform plan`.
 
 *   [tfsec (⭐7.1k)](https://github.com/tfsec/tfsec) — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
@@ -2008,6 +2010,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   **foodcritic** :warning: — A lint tool that checks Chef cookbooks for common problems.
 
 *   **Puppet Lint** :warning: — Check that your Puppet manifests conform to the style guide.
+
+*   **terrascan** :warning: — Collection of security and best practice tests for static code analysis of Terraform templates.
 
 </details>
 
@@ -2140,6 +2144,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 <a id="embedded"></a>
 
 <h2>Embedded</h2>
+
+*   [MemBrowse](https://membrowse.com) — Analyzes ELF firmware binaries together with their GNU LD linker scripts or map files to report flash and RAM usage per memory region, section, and symbol. Uses DWARF debug info to attribute symbols to source files. The CLI runs locally without an account. An optional hosted service tracks memory usage across commits and targets, comments on pull requests with per-region and per-symbol changes, and fails CI when memory budgets are exceeded.
 
 *   [oelint-adv (⭐87)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
 

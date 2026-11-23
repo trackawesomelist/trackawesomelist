@@ -17,6 +17,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [agilePool (⭐321)](https://github.com/Yiming1997/agilePool) - Goroutine pool with adaptive worker scaling, bounded concurrency, and overflow task buffering.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [glsec (⭐25)](https://github.com/glsec/glsec) - Static security linter for GitLab CI/CD pipelines (.gitlab-ci.yml).
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### Artificial Intelligence

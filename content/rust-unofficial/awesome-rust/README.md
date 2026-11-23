@@ -12,8 +12,13 @@ A curated list of Rust code and resources.
 
 *   [localixai/localix-cli (⭐369)](https://github.com/localixai/localix-cli) - A terminal coding agent and agent runtime for CI and scripts, on any hosted or local model; one binary, command `llx` [![CI](https://github.com/localixai/localix-cli/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/localixai/localix-cli/actions/workflows/ci.yml)
 
+### Applications / File manager
+
+*   [gelenmedya/rustyfiles (⭐567)](https://github.com/gelenmedya/rustyfiles) - A file manager for Windows that never freezes, GPU-rendered with GPUI
+
 ### Applications / Text editors
 
+*   [Erkinbek/bigtext (⭐53)](https://github.com/Erkinbek/bigtext) \[[bigtext](https://crates.io/crates/bigtext)] - A desktop editor for multi-gigabyte text, log, CSV and SQL dump files on Windows, Linux and macOS. It never loads a whole file into memory: a sparse line index and streaming search, replace and save keep memory use bounded. [![build](https://github.com/Erkinbek/bigtext/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Erkinbek/bigtext/actions/workflows/build.yml)
 *   [FluxCode (⭐114)](https://github.com/MuaraAI/FluxCode) - A lightweight native code editor for Windows, macOS and Linux built on GPUI (\~50 ms startup, 1.4 MB idle RAM) with an integrated AI agent workspace (ACP), Git, and Python terminal. [![Build](https://github.com/MuaraAI/FluxCode/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MuaraAI/FluxCode/actions/workflows/build.yml)
 
 ### Applications / Workflow Automation
@@ -23,6 +28,10 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [gbenm/fire (⭐1)](https://github.com/gbenm/fire) \[[fire-cli](https://crates.io/crates/fire-cli)] - Config-first task runner: YAML commands with dynamic shell completion, detachable pty sessions, and an MCP server so AI agents run your project's commands [![build badge](https://github.com/gbenm/fire/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gbenm/fire/actions/workflows/ci.yml)
+
+### Libraries / Artificial Intelligence
+
+*   [brekkylab/ailoy (⭐181)](https://github.com/brekkylab/ailoy) \[[ailoy](https://crates.io/crates/ailoy)] - Agent SDK that gives every agent its own Linux microVM sandbox, with Python and Node.js bindings
 
 ### Libraries / Audio and Music
 
@@ -607,7 +616,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [burakdede/aisw (⭐143)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
+*   [burakdede/aisw (⭐156)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
 
 ### Applications / Video
 
@@ -1308,6 +1317,7 @@ A curated list of Rust code and resources.
 
 *   Argument parsing
     *   [aisk/rust-fire (⭐11)](https://github.com/aisk/rust-fire) \[[fire](https://crates.io/crates/fire)] - Turn your function(s) to a command line app with one line of code [![CI](https://github.com/aisk/rust-fire/actions/workflows/ci.yml/badge.svg)](https://github.com/aisk/rust-fire/actions/workflows/ci.yml)
+    *   [AlixANNERAUD/getargs\_derive (⭐1)](https://github.com/AlixANNERAUD/getargs_derive) \[[getargs-derive](https://crates.io/crates/getargs-derive)] - Clap-style derive argument parser for `no_std` and embedded Rust: zero allocation, compile-time help, subcommands and shell completions. [![build badge](https://github.com/AlixANNERAUD/getargs_derive/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/AlixANNERAUD/getargs_derive/actions/workflows/check.yml)
     *   [clap-rs (⭐17k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] - A simple to use, full featured command-line argument parser
     *   [cliparser](https://crates.io/crates/cliparser) - Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/actions/workflows/ci.yml/badge.svg)](https://github.com/sagiegurari/cliparser/actions)
     *   [docopt/docopt.rs (⭐747)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] - Implementation of DocOpt
