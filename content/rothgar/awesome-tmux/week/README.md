@@ -17,6 +17,8 @@ A list of awesome resources for tmux
 ### AI agent management
 
 *   [ccb (⭐3.6k)](https://github.com/SeemSeam/claude_codex_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
+*   [forestui (⭐26)](https://github.com/flipbit03/forestui) A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration
+*   [tmux-claude-status-tabs (⭐5)](https://github.com/LiveNL/tmux-claude-status-tabs) Per-window Claude Code session state in the tab bar: animated spinner, input, permission and done indicators. Event-driven via hooks, no polling.
 *   [tmux-ide (⭐570)](https://github.com/wavyrai/tmux-ide) Terminal app for tmux that shows which coding agents (Claude Code, Codex, etc.) are working, blocked or done across sessions, with notifications and session restore
 
 ### Themes

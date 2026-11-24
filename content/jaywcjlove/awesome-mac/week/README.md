@@ -16,15 +16,27 @@
 
 *   [ContextRing (⭐1)](https://github.com/vladsboev-web/ContextRing) - Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/ContextRing) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Developer Tools / API Development and Analysis
+
+*   [CurlGo](https://curlgo.echovic.com/en/) - Open-source API client for HTTP, SSE and WebSocket that keeps workspaces on your Mac and imports curl, Postman and Bruno collections. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/echoVic/curlgo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Other Tools
+
+*   [Vaquero (⭐0)](https://github.com/BitWise-0x/Vaquero) - Learns a face from a few photos, then finds every photo and video of that person in your folders, fully offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BitWise-0x/Vaquero) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### AI Tools / Other Tools
 
 *   [Hush (⭐8)](https://github.com/OgnjenAdzic28/hush) - Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/OgnjenAdzic28/hush) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Relay (⭐6)](https://github.com/ahmetcankacar54/relay) - Switch the Claude app between accounts, keep Claude Code history on all of them, and see every account’s 5-hour and weekly limits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ahmetcankacar54/relay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SpecWithCode](https://specwithcode.com) - Open-source (MIT) desktop app that runs Claude Code, Codex and GitHub Copilot threads side by side, with a project coordinator and one git worktree per task. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anton-abyzov/specwithcode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Tally](https://tally-site.vercel.app) - Open-source menu bar app that shows usage limits, reset times, pace and spend for Claude Code, Codex, Cursor, Grok and OpenCode, plus a Wrapped-style recap of your AI coding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/PratikRai0101/tally) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [JoeBro](https://joebro.pages.dev) - Native SwiftUI workspace for coding agents (Claude Code, Codex, OpenCode) with your files open beside them, shared memory over MCP, overnight tasks, and local or API models. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joexk1/JoeBro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Kapitsa (⭐871)](https://github.com/nace-ai/kapitsa) - Open-source LLM inference engine for Apple silicon, built on native Metal kernels and the Neural Engine, with OpenAI- and Anthropic-compatible APIs and one-command local coding agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nace-ai/kapitsa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
+*   [Nuclear](https://nuclearplayer.com/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/margbug01/MySpotify) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [SpatialAudio (⭐5)](https://github.com/vladsboev-web/SpatialAudio) - System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/SpatialAudio) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
@@ -34,11 +46,17 @@
 ### Utilities / Menu Bar Tools
 
 *   [Iris](https://harshwardhangalande.github.io/Iris/) - Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harshwardhangalande/Iris) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Roomie](https://lesheess.github.io/small-living-things/) - A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [MenuBarHome (⭐46)](https://github.com/jryang2026-code/MenuBarHome) - Control Xiaomi Mi Home and Home Assistant devices from the menu bar, with keyboard search and voice commands (formerly MenuBarMijia). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang2026-code/MenuBarHome) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Cleanup and Uninstall
 
 *   [Breathing Room](https://breathing-room.chatic.ai/) - See what is using your Mac's disk space, group busy apps, and review a measured cleanup plan before anything changes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bucabay/breathing-room-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
+*   [Verticar (⭐3)](https://github.com/sarogreco/Verticar) - Open-source app for using an iPad as a portrait second display over Sidecar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarogreco/Verticar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Finder Tools
 
@@ -3852,7 +3870,6 @@
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MacYTDL (⭐1.1k)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process

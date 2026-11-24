@@ -6,6 +6,13 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### AI agent management
+
+*   [forestui (⭐26)](https://github.com/flipbit03/forestui) A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration
+*   [tmux-claude-status-tabs (⭐5)](https://github.com/LiveNL/tmux-claude-status-tabs) Per-window Claude Code session state in the tab bar: animated spinner, input, permission and done indicators. Event-driven via hooks, no polling.
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Tools and session management

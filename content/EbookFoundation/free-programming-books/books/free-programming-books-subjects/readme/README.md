@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 400K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 401K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / Overview ]
 
@@ -70,7 +70,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 *   [Bento](https://www.bento.io)
 *   [Bitsavers.org](http://bitsavers.trailing-edge.com)
-*   [Build your own X (⭐558k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐565k)](https://github.com/codecrafters-io/build-your-own-x)
 *   [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 *   [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 *   [dBooks - Free download open books](https://www.dbooks.org)
@@ -88,7 +88,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 *   [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
 *   [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
-*   [Papers we love (⭐111k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐112k)](https://github.com/papers-we-love/papers-we-love)
 *   [Red Gate Books](https://www.red-gate.com/hub/books/)
 *   [Rip Tutorials](https://riptutorial.com/ebook)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
@@ -114,6 +114,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
 *   [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 *   [Algorithms for Decision Making](https://algorithmsbook.com/decisionmaking/) - Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray (HTML, PDF) (CC BY-NC-ND)
+*   [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Sergey Slotin (HTML) *( :construction: in process)*
 *   [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 *   [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 *   [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance (⭐1.3k)](https://github.com/mdipierro/nlib) - Massimo Di Pierro
@@ -159,7 +160,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 *   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 *   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
+*   [Clever Algorithms Nature-Inspired Programming Recipes](https://raw.githubusercontent.com/Jason2Brownlee/CleverAlgorithms/master/release/clever_algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 *   [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 *   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 *   [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton (PDF)
@@ -171,12 +172,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 *   [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
 *   [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
+*   [Open LLM: From Nothing to the Frontier of Language Models](https://open-llm.saatvik333.workers.dev) - Open LLM Project (HTML, PDF, EPUB) (CC BY)
 *   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.5k)](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 *   [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 *   [PyLLM: Build your own GPT from scratch in Python](https://robcox2910.github.io/pyllm/) - Rob Cox (HTML)
 *   [RAG + Knowledge Graph Master Course](https://www.thequery.in/books/rag-kg-master-course) - Addy (HTML, EPUB)
 *   [Research, Rewritten](https://hallieren.github.io/research-rewritten/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
-*   [Spec-Driven Development: The Definitive Guide to Building Software with AI Agents (⭐29)](https://github.com/felipefontoura/spec-driven-development-book) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
+*   [Spec-Driven Development: The Definitive Guide to Building Software with AI Agents (⭐46)](https://github.com/felipefontoura/spec-driven-development-book) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
 *   [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 *   [The Agentic AI Hub](https://daily.dev/agentic-ai-hub/) - daily.dev (HTML) (CC BY)
 *   [The Claude Code Book (⭐3)](https://github.com/bartek-890/the-claude-code-book) - Bartłomiej Krupa (Markdown) (CC BY-NC-ND)
@@ -190,7 +192,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 *   [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 *   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐556)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐557)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 *   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *( :card\_file\_box: archived)*
 *   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 *   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML) `(CC BY-NC-SA)`
@@ -343,13 +345,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 *   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
-*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide (⭐603)](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) - freertos.org (PDF)
+*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide (⭐612)](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) - freertos.org (PDF)
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐465)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐472)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
-*   [AI Workflow for Game Designers (⭐5)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
+*   [AI Workflow for Game Designers (⭐9)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game AI Pro](https://www.gameaipro.com) - Steve Rabin
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -393,7 +395,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 *   [Programming with gtkmm 4](https://developer.gnome.org/gtkmm-tutorial/stable/)
 *   [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst
-*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
+*   [Web Design Primer](https://pressbooks.library.torontomu.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 *   [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
 
 ### IDE and editors
@@ -445,7 +447,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 *   [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - David Malan (Harvard)
 *   [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐25k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐26k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Dive into Deep Learning](https://d2l.ai)
 *   [Elements of AI](https://www.elementsofai.com) - MinnaLearn, University of Helsinki
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
@@ -495,7 +497,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 *   [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
 *   [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
-*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 *   [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 *   [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 *   [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
@@ -543,7 +545,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
 *   [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
 *   [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
-*   [Kalman and Bayesian Filters in Python (⭐19k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐20k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 *   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
@@ -643,7 +645,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Misc
 
-*   [10 Keys to Great Landing Pages](https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF)
+*   [10 Keys to Great Landing Pages](https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF) *( :card\_file\_box: archived)*
 *   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
 *   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
 *   [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
@@ -685,7 +687,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
 *   [Image Processing in C: Analyzing and Enhancing Digital Images](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 *   [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *( :card\_file\_box: archived)*
-*   [Introduction to Scientific Programming in C++ and Fortran (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [Introduction to Scientific Programming in C++ and Fortran (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
 *   [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 *   [Learn Programming](https://progbook.org) - Antti Salonen
 *   [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
@@ -714,8 +716,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 *   [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
 *   [The Web Development Glossary (⭐7)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 *   [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
@@ -862,7 +864,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐450)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐448)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Prompt Engineering
@@ -906,7 +908,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
 *   [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
-*   [Solr for newbies workshop (2019) (⭐90)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐90)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐89)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐89)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -935,8 +937,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) -  by Linux Professional Institute (PDF)
 *   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 *   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
-*   [The SELINUX Coloring Book (⭐541)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
-*   [The SELinux Notebook (⭐762)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
+*   [The SELINUX Coloring Book (⭐540)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+*   [The SELinux Notebook (⭐759)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 ### Software Architecture
 
@@ -944,7 +946,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐1.1k)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 *   [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 *   [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-*   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
+*   [Building Secure & Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
 *   [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 *   [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
 *   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
@@ -980,7 +982,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 *   [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐371)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐370)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree (⭐3.9k)](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
 *   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 *   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
@@ -1034,7 +1036,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *( :card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐386)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐383)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 *   [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Chris Bourke (PDF)
 *   [Introduction to Git and GitHub eBook (⭐1.1k)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)

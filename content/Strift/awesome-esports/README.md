@@ -6,6 +6,12 @@ A curated list of open-source projects related to esports.
 
 [ Daily / [Weekly](/content/Strift/awesome-esports/week/README.md) / [Overview](/content/Strift/awesome-esports/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Applications & Tools / Tournaments management
+
+*   [Clips Kitty (⭐639)](https://github.com/ColinGPT9/clips-studio) - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
+
 ## [Oct 20, 2026](/content/2026/10/20/README.md)
 
 ### Libraries / APIs & Web Services
@@ -35,7 +41,7 @@ A curated list of open-source projects related to esports.
 ### Libraries / APIs & Web Services
 
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js (⭐75)](https://github.com/DoctorMcKay/node-steamid)
+    *   [Node.js (⭐74)](https://github.com/DoctorMcKay/node-steamid)
     *   [PHP (⭐11)](https://github.com/DoctorMcKay/php-steamid)
 
 ## [Feb 20, 2022](/content/2022/02/20/README.md)
@@ -58,7 +64,7 @@ A curated list of open-source projects related to esports.
 
 ### Libraries / Data parsing and analysis
 
-*   [awpy (⭐618)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
+*   [awpy (⭐639)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
 
 ## [Jan 22, 2022](/content/2022/01/22/README.md)
 
@@ -66,7 +72,7 @@ A curated list of open-source projects related to esports.
 
 *   [Blizzard.js (⭐154)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
 *   [HLTV (⭐496)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
-*   [liquipediapy (⭐70)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
+*   [liquipediapy (⭐71)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 *   [valorant.js (⭐111)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
 ### Libraries / Data parsing and analysis
@@ -76,15 +82,15 @@ A curated list of open-source projects related to esports.
 ### Unofficial documentation / Tournaments management
 
 *   [BNETDocs (⭐36)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
-*   [Rift Explorer (⭐567)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
-*   [valorant-api-docs (⭐593)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
+*   [Rift Explorer (⭐566)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
+*   [valorant-api-docs (⭐597)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
 
 ### Applications & Tools / Tournaments management
 
 *   [Esport Team Logos (⭐32)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
-*   [Boltobserv (⭐387)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
+*   [Boltobserv (⭐388)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 *   [Open Dota (⭐1.6k)](https://github.com/odota/core) - A website for Dota 2 esports stats.
-*   [LeagueStats (⭐496)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+*   [LeagueStats (⭐495)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
 ## [Dec 30, 2021](/content/2021/12/30/README.md)
 
@@ -95,14 +101,14 @@ A curated list of open-source projects related to esports.
 
 ### Libraries / Data parsing and analysis
 
-*   [Boxcars (⭐151)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
-*   [Clarity (⭐770)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
+*   [Boxcars (⭐154)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
+*   [Clarity (⭐775)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
 *   [demoinfocs-golang (⭐1.1k)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 *   [Rattletrap (⭐158)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
 ### Libraries / Tournaments management
 
-*   [brackets-manager.js (⭐335)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
+*   [brackets-manager.js (⭐332)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
 *   [brackets-viewer.js (⭐231)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
 
 ### Applications & Tools / Tournaments management
@@ -113,4 +119,4 @@ A curated list of open-source projects related to esports.
 
 ### Developer tools / Tournaments management
 
-*   [Fortnite VSCode Theme (⭐173)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
+*   [Fortnite VSCode Theme (⭐174)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.

@@ -6,6 +6,35 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Developer Tools / API Development and Analysis
+
+*   [CurlGo](https://curlgo.echovic.com/en/) - Open-source API client for HTTP, SSE and WebSocket that keeps workspaces on your Mac and imports curl, Postman and Bruno collections. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/echoVic/curlgo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Other Tools
+
+*   [Vaquero (⭐0)](https://github.com/BitWise-0x/Vaquero) - Learns a face from a few photos, then finds every photo and video of that person in your folders, fully offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BitWise-0x/Vaquero) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### AI Tools / Other Tools
+
+*   [SpecWithCode](https://specwithcode.com) - Open-source (MIT) desktop app that runs Claude Code, Codex and GitHub Copilot threads side by side, with a project coordinator and one git worktree per task. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anton-abyzov/specwithcode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kapitsa (⭐871)](https://github.com/nace-ai/kapitsa) - Open-source LLM inference engine for Apple silicon, built on native Metal kernels and the Neural Engine, with OpenAI- and Anthropic-compatible APIs and one-command local coding agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nace-ai/kapitsa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [Nuclear](https://nuclearplayer.com/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/margbug01/MySpotify) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Menu Bar Tools
+
+*   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Roomie](https://lesheess.github.io/small-living-things/) - A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / General Tools
+
+*   [Verticar (⭐3)](https://github.com/sarogreco/Verticar) - Open-source app for using an iPad as a portrait second display over Sidecar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarogreco/Verticar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Developer Tools / IDEs
@@ -4882,7 +4911,6 @@
 ### Audio and Video Tools / File Sharing
 
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jul 12, 2022](/content/2022/07/12/README.md)
 

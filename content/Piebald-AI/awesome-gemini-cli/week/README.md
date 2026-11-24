@@ -13,6 +13,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [last30days (⭐73k)](https://github.com/mvanhorn/last30days-skill) - Gemini CLI extension and Agent Skill that researches any topic across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub and the web from the last 30 days, ranks results by real engagement (upvotes, likes, prediction-market odds), and writes one cited brief. Reddit, Hacker News, Polymarket and GitHub work with no API key. MIT. Install: `gemini extensions install https://github.com/mvanhorn/last30days-skill`
 *   [HyperFrames (⭐89k)](https://github.com/heygen-com/hyperframes) - Official Gemini CLI extension for HeyGen's open-source AI video editor (88K+ GitHub stars): make launch videos, explainers and motion graphics, caption your own footage and remake any video, rendered from HTML, CSS and GSAP to MP4. Install: `gemini extensions install https://github.com/heygen-com/hyperframes --auto-update`
 *   [WaveSpeedAI (⭐1)](https://github.com/WaveSpeedAI/wavespeed-gemini-extension) - Gemini CLI extension with an Agent Skill that uses the open-source `wavespeed` CLI to search WaveSpeedAI image, video, audio and 3D generation models, read their input schemas and run them, including local file uploads. Install with `gemini extensions install https://github.com/WaveSpeedAI/wavespeed-gemini-extension`.
+*   [ultrafast (⭐1)](https://github.com/ultrafastmov/ultrafast) - Gemini CLI extension for ultrafast, an open-source GPU video engine where a video is a JSON document: bundles the local `uf mcp` server (20 tools) and the ultrafast skill, so Gemini CLI can write a video, check it, look at its frames and export H.264, HEVC, AV1 or ProRes, rendered on Metal or Vulkan without a browser. Needs the `uf` CLI (macOS on Apple silicon, or Linux). Apache-2.0 or MIT. Install: `gemini extensions install https://github.com/ultrafastmov/ultrafast`
 
 ### Development Tools & Utilities
 
@@ -75,7 +76,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [tech-to-motion (⭐1)](https://github.com/georgesmomo/tech-to-motion) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/tech-to-motion`). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with Hyper
+*   [tech-to-motion (⭐2)](https://github.com/georgesmomo/tech-to-motion) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/tech-to-motion`). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with Hyper
 *   [idea-to-motion (⭐0)](https://github.com/georgesmomo/idea-to-motion) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add georgesmomo/idea-to-motion`). Turns any idea into a motion-design video (MP4) with procedural music, synthesised sound effects and an optional local voice-over with captions; asks up to 3 questions only when the brief is incomplete. 14 styles, rendered locally with HyperFrames, no API key.Frames.
 *   [Publora (⭐2)](https://github.com/publora-team/gemini-cli-publora) - Gemini CLI extension that schedules and publishes social media posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram through the hosted Publora MCP server, with browser sign-in. Install: `gemini extensions install https://github.com/publora-team/gemini-cli-publora`.
 *   [ClipUGC (⭐4)](https://github.com/clipugc/ClipUGC-CLI) - Gemini CLI extension that makes UGC style vertical videos for your app with AI influencers who keep the same face: describe an AI influencer, add a screen recording of your app, and get a ready-to-post video with a hook line for TikTok, Reels and Shorts. Bundles the hosted ClipUGC MCP server (OAuth sign-in, no API key), four Agent Skills and a `GEMINI.md` context file; needs a ClipUGC account, with free credits to try. Local stdio alternative: `npx -y clipugc mcp` with `CLIPUGC_API_KEY` (paid plans). MIT. Install: `gemini extensions install https://github.com/clipugc/ClipUGC-CLI`.
@@ -236,7 +237,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [BlockVectra (⭐3)](https://github.com/blockvectra/mcp) - MCP server for Robinhood Chain and multiple EVM networks. Connect over remote Streamable HTTP to discover chains and read docs without a key; RPC access follows each chain's policy, while Data API and account tools need an API key. Install: `gemini extensions install https://github.com/blockvectra/mcp --ref main`.
 *   [MEDIAPRONET](https://mediapronet.com/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search the MEDIAPRONET launch and discovery directory from Gemini CLI: keyword search over newly launched startups, SaaS tools and online products (category and pricing filters), full listing profiles, alternatives to a named product, categories and what is trending. 7 read-only tools. Remote Streamable HTTP, no API key, no account. Works with any MCP client including Gemini CLI: `gemini mcp add --transport http mediapronet https://mediapronet.com/api/mcp`.
 *   [LLMSlim (⭐27)](https://github.com/Thanatos9404/llmslim) - Long-term memory for Gemini CLI and other MCP clients over a local stdio MCP server. Five tools (`remember`, `recall`, `list_memories`, `forget`, `fit_context`): messages are stored word for word in local SQLite or your own Postgres, and `recall` returns the stored messages that answer a question within a token budget, with no LLM call inside. MIT. Install: `pip install "llmslim[mcp]"`, then `gemini mcp add --scope user llmslim llmslim mcp`.
-*   [Aria Icons (⭐106)](https://github.com/LeulAria/Aria-Icons) - MCP server with 12 tools for searching \~1.4M open-source SVG icons and adding them as SVG or React/Vue/Svelte/Solid components; remote endpoint needs no auth. Add with `gemini mcp add --transport http aria-icons https://icons.leularia.com/api/mcp`.
+*   [Aria Icons (⭐110)](https://github.com/LeulAria/Aria-Icons) - MCP server with 12 tools for searching \~1.4M open-source SVG icons and adding them as SVG or React/Vue/Svelte/Solid components; remote endpoint needs no auth. Add with `gemini mcp add --transport http aria-icons https://icons.leularia.com/api/mcp`.
 *   [SitePatent](https://sitepatent.com/mcp?utm_source=awesome-gemini-cli\&utm_medium=referral) - Search SitePatent, a screened discovery platform for newly launched startups, tools and online products, from Gemini CLI: keyword search with category and pricing filters, full listing profiles, alternatives to a named product, categories and trending listings. 7 read-only tools. Remote Streamable HTTP, no API key, no account: `gemini mcp add --transport http sitepatent https://sitepatent.com/api/mcp`.
 
 ### Documentation & Examples
@@ -400,8 +401,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Archcore (⭐75)](https://github.com/archcore-ai/archcore) - Git-native context engineering CLI and MCP server for AI coding agents; `archcore init --agent gemini-cli` wires Gemini CLI hooks and MCP.
-*   [anotifier (⭐35)](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) - Desktop toasts, ntfy phone push and webhooks when Gemini CLI finishes a task or needs input, wired through its hooks by a one-command setup. Zero-dependency Node CLI whose single config also covers Claude Code, Codex CLI and Cursor.
+*   [Archcore (⭐78)](https://github.com/archcore-ai/archcore) - Git-native context engineering CLI and MCP server for AI coding agents; `archcore init --agent gemini-cli` wires Gemini CLI hooks and MCP.
+*   [anotifier (⭐36)](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) - Desktop toasts, ntfy phone push and webhooks when Gemini CLI finishes a task or needs input, wired through its hooks by a one-command setup. Zero-dependency Node CLI whose single config also covers Claude Code, Codex CLI and Cursor.
 
 ### Prompts
 
@@ -409,7 +410,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Vestige (⭐660)](https://github.com/samvallad33/vestige) - Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: `gemini extensions install https://github.com/samvallad33/vestige-gemini`.
+*   [Vestige (⭐664)](https://github.com/samvallad33/vestige) - Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: `gemini extensions install https://github.com/samvallad33/vestige-gemini`.
 *   [Oh My Android (⭐149)](https://github.com/ateymoori/oh-my-android) - MCP server that lets Gemini CLI see and drive the Android Emulator on macOS: screenshots, UI tree in dp, tap/type, dark mode, RTL, font scale, logcat. Free, MIT, native macOS app (macOS 26+, Apple silicon) with a built-in stdio server. Install: `gemini mcp add --scope user oh-my-android ohmyandroid-mcp`.
 
 ## [Sep 21 - Sep 27, 2026](/content/2026/38/README.md)
@@ -491,7 +492,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [deja-vu (⭐1.5k)](https://github.com/vshulcz/deja-vu) - Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: `deja install gemini-auto`.
+*   [deja-vu (⭐1.7k)](https://github.com/vshulcz/deja-vu) - Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: `deja install gemini-auto`.
 
 ## [Aug 24 - Aug 30, 2026](/content/2026/34/README.md)
 
@@ -583,7 +584,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Unity-MCP (⭐4.6k)](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (including Gemini CLI) to the Unity Editor and runtime, with 100+ built-in tools.
+*   [Unity-MCP (⭐4.7k)](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (including Gemini CLI) to the Unity Editor and runtime, with 100+ built-in tools.
 *   [Godot-MCP (⭐335)](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 *   [Unreal-MCP (⭐58)](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 *   [GameDev-MCP-Server (⭐19)](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
@@ -898,7 +899,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [geminicli2api (⭐590)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
+*   [geminicli2api (⭐591)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
 *   [gemini-openai-proxy (⭐60)](https://github.com/Brioch/gemini-openai-proxy) - Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.
 
 ### MCP Servers

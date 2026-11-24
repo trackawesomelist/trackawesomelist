@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [gelenmedya/rustyfiles (⭐567)](https://github.com/gelenmedya/rustyfiles) - A file manager for Windows that never freezes, GPU-rendered with GPUI
 
+### Applications / Productivity
+
+*   [naxhq/NexQ (⭐151)](https://github.com/naxhq/NexQ) - Live transcription of both sides of a call, with answers from your own notes, for Windows and macOS. [![CI](https://github.com/naxhq/NexQ/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/naxhq/NexQ/actions/workflows/ci.yml)
+
 ### Applications / Text editors
 
 *   [Erkinbek/bigtext (⭐53)](https://github.com/Erkinbek/bigtext) \[[bigtext](https://crates.io/crates/bigtext)] - A desktop editor for multi-gigabyte text, log, CSV and SQL dump files on Windows, Linux and macOS. It never loads a whole file into memory: a sparse line index and streaming search, replace and save keep memory use bounded. [![build](https://github.com/Erkinbek/bigtext/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Erkinbek/bigtext/actions/workflows/build.yml)
@@ -137,7 +141,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [ModernRelay/omnigraph (⭐1.9k)](https://github.com/ModernRelay/omnigraph) - Typed property graph database that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query. [![CI](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml)
+*   [ModernRelay/omnigraph (⭐3.2k)](https://github.com/ModernRelay/omnigraph) - Typed property graph database that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query. [![CI](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ModernRelay/omnigraph/actions/workflows/ci.yml)
 
 ### Applications / Graphics
 
@@ -372,7 +376,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [l0ng-ai/openidea (⭐8k)](https://github.com/l0ng-ai/openidea) - A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2. [![CI](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml)
+*   [l0ng-ai/openidea (⭐10k)](https://github.com/l0ng-ai/openidea) - A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2. [![CI](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/l0ng-ai/openidea/actions/workflows/ci.yml)
 
 ### Applications / Web Servers
 
@@ -471,11 +475,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [aimdb-dev/aimdb (⭐101)](https://github.com/aimdb-dev/aimdb) \[[aimdb-core](https://crates.io/crates/aimdb-core)] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. [![CI](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml)
+*   [aimdb-dev/aimdb (⭐103)](https://github.com/aimdb-dev/aimdb) \[[aimdb-core](https://crates.io/crates/aimdb-core)] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. [![CI](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimdb-dev/aimdb/actions/workflows/ci.yml)
 
 ### Applications / Graphics
 
-*   [storytold/cadcraft (⭐7.8k)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
+*   [storytold/cadcraft (⭐8.4k)](https://github.com/storytold/cadcraft) - An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.
 
 ### Applications / Image processing
 
@@ -485,12 +489,12 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [burakdede/aisw (⭐156)](https://github.com/burakdede/aisw) \[[aisw](https://crates.io/crates/aisw)] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards [![CI](https://github.com/burakdede/aisw/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/burakdede/aisw/actions/workflows/ci.yml)
-*   [leepokai/Codync (⭐2k)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
+*   [leepokai/Codync (⭐2.4k)](https://github.com/leepokai/Codync) - A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui) [![build badge](https://github.com/leepokai/Codync/actions/workflows/host.yml/badge.svg?branch=main)](https://github.com/leepokai/Codync/actions/workflows/host.yml)
 
 ### Applications / Social networks
 
 *   Matrix
-    *   [poljar/weechat-matrix-rs (⭐409)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
+    *   [poljar/weechat-matrix-rs (⭐408)](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 
 ### Applications / Text editors
 
@@ -516,7 +520,7 @@ A curated list of Rust code and resources.
 
 *   [cmccomb/rust-automl (⭐40)](https://github.com/cmccomb/rust-automl) \[[automl](https://crates.io/crates/automl)] - Automated classification, regression, and clustering workflows built on SmartCore
 *   [Mattbusel/tokio-prompt-orchestrator (⭐60)](https://github.com/Mattbusel/tokio-prompt-orchestrator) \[[tokio-prompt-orchestrator](https://crates.io/crates/tokio-prompt-orchestrator)] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.
-*   [samvallad33/vestige (⭐660)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
+*   [samvallad33/vestige (⭐664)](https://github.com/samvallad33/vestige) - Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it [![CI](https://github.com/samvallad33/vestige/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/samvallad33/vestige/actions/workflows/ci.yml)
 
 ### Libraries / Computation
 
@@ -578,7 +582,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Authentication
 
-*   [tenuo-ai/tenuo (⭐105)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
+*   [tenuo-ai/tenuo (⭐109)](https://github.com/tenuo-ai/tenuo) \[[tenuo](https://crates.io/crates/tenuo)] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated [![CI](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tenuo-ai/tenuo/actions/workflows/ci.yml)
 
 ### Libraries / Data processing
 
@@ -790,7 +794,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [lamco-admin/lamco-rdp-server (⭐147)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
+*   [lamco-admin/lamco-rdp-server (⭐151)](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.
 
 ### Applications / Video
 
@@ -4546,7 +4550,7 @@ A curated list of Rust code and resources.
     *   [LMDB](https://www.symas.com/lmdb.php) \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [meilisearch/heed (⭐920)](https://github.com/meilisearch/heed) \[[heed](https://crates.io/crates/heed)] - Fully typed LMDB wrappers with minimum overhead
         *   [vhbit/lmdb-rs (⭐113)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - Rust bindings for LMDB
-    *   [Minigraf (⭐225)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
+    *   [Minigraf (⭐230)](https://github.com/project-minigraf/minigraf) \[[minigraf](https://crates.io/crates/minigraf)] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [MongrelDB](https://www.mongreldb.com)

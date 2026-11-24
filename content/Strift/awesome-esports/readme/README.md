@@ -39,11 +39,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 *   [Discord.js (⭐27k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
 *   [esportsodds-python (⭐0)](https://github.com/esportsodds/esportsodds-python) - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 *   [HLTV (⭐496)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
-*   [liquipediapy (⭐70)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
+*   [liquipediapy (⭐71)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 *   [steam (⭐1.3k)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
 *   [Steam Community (⭐578)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js (⭐75)](https://github.com/DoctorMcKay/node-steamid)
+    *   [Node.js (⭐74)](https://github.com/DoctorMcKay/node-steamid)
     *   [PHP (⭐11)](https://github.com/DoctorMcKay/php-steamid)
 *   [SteamUser (⭐1.1k)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the Steam client protocol.
 *   [Steam TOTP (⭐257)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
@@ -55,10 +55,10 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-*   [awpy (⭐618)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
-*   [Boxcars (⭐151)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
+*   [awpy (⭐639)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
+*   [Boxcars (⭐154)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
 *   [Cassiopeia (⭐581)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
-*   [Clarity (⭐770)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
+*   [Clarity (⭐775)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
 *   [demoinfocs-golang (⭐1.1k)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 *   [Rattletrap (⭐158)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
@@ -68,33 +68,34 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Tournaments management
 
-*   [brackets-manager.js (⭐335)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
+*   [brackets-manager.js (⭐332)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
 *   [brackets-viewer.js (⭐231)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
 
 ## Developer tools
 
 > Tooling for developers.
 
-*   [Fortnite VSCode Theme (⭐173)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
+*   [Fortnite VSCode Theme (⭐174)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
 
 ## Unofficial documentation
 
 > Community-maintained documentation of editor APIs.
 
 *   [BNETDocs (⭐36)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
-*   [Rift Explorer (⭐567)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
-*   [valorant-api-docs (⭐593)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
+*   [Rift Explorer (⭐566)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
+*   [valorant-api-docs (⭐597)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
 
 ## Applications & Tools
 
 > Applications and general-purpose tooling.
 
+*   [Clips Kitty (⭐639)](https://github.com/ColinGPT9/clips-studio) - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
 *   [Esport Team Logos (⭐32)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
 *   [TeamTavern (⭐13)](https://github.com/bklaric/team-tavern) - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
 
-*   [Boltobserv (⭐387)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
+*   [Boltobserv (⭐388)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -104,7 +105,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 *   [Foldy Sheet (⭐2)](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
 *   [LeagueDirector (⭐1k)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
-*   [LeagueStats (⭐496)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+*   [LeagueStats (⭐495)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
 ## Education
 

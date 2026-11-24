@@ -2,9 +2,45 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 400K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 401K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
+
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Misc / Mathematics For Computer Science
+
+*   [10 Keys to Great Landing Pages](https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF) *( :card\_file\_box: archived)*
+
+## [Nov 22, 2026](/content/2026/11/22/README.md)
+
+### Algorithms & Data Structures
+
+*   [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Sergey Slotin (HTML) *( :construction: in process)*
+
+## [Nov 12, 2026](/content/2026/11/12/README.md)
+
+### Artificial Intelligence
+
+*   [Clever Algorithms Nature-Inspired Programming Recipes](https://raw.githubusercontent.com/Jason2Brownlee/CleverAlgorithms/master/release/clever_algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
+
+### Graphical User Interfaces
+
+*   [Web Design Primer](https://pressbooks.library.torontomu.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
+
+### Mathematics
+
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+
+### Software Architecture / Mathematics For Computer Science
+
+*   [Building Secure & Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
+
+## [Nov 08, 2026](/content/2026/11/08/README.md)
+
+### Artificial Intelligence
+
+*   [Open LLM: From Nothing to the Frontier of Language Models](https://open-llm.saatvik333.workers.dev) - Open LLM Project (HTML, PDF, EPUB) (CC BY)
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
@@ -32,7 +68,7 @@
 
 ### Embedded Systems
 
-*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide (⭐603)](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) - freertos.org (PDF)
+*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide (⭐612)](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) - freertos.org (PDF)
 
 ### Software Architecture / Mathematics For Computer Science
 
@@ -43,7 +79,7 @@
 ### Artificial Intelligence
 
 *   [AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1)](https://cdn.shoemoney.com/aibook/AiBook.pdf) - Jeremy Schoemaker (PDF)
-*   [Spec-Driven Development: The Definitive Guide to Building Software with AI Agents (⭐29)](https://github.com/felipefontoura/spec-driven-development-book) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
+*   [Spec-Driven Development: The Definitive Guide to Building Software with AI Agents (⭐46)](https://github.com/felipefontoura/spec-driven-development-book) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
 
 ### Mathematics
 
@@ -53,7 +89,7 @@
 
 ### Misc / Mathematics For Computer Science
 
-*   [Introduction to Scientific Programming in C++ and Fortran (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [Introduction to Scientific Programming in C++ and Fortran (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
 
 ### Security & Privacy / Mathematics For Computer Science
 
@@ -184,7 +220,7 @@
 
 ### Game Development
 
-*   [AI Workflow for Game Designers (⭐5)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
+*   [AI Workflow for Game Designers (⭐9)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
@@ -365,7 +401,7 @@
 
 ### 0 - Meta-Lists
 
-*   [Build your own X (⭐558k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐565k)](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Security & Privacy / Mathematics For Computer Science
 
@@ -381,14 +417,14 @@
 
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐915)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐919)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 
 ## [Oct 06, 2025](/content/2025/10/06/README.md)
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [The SELINUX Coloring Book (⭐541)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+*   [The SELINUX Coloring Book (⭐540)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
 
 ## [Oct 05, 2025](/content/2025/10/05/README.md)
 
@@ -413,7 +449,7 @@
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [The SELinux Notebook (⭐762)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
+*   [The SELinux Notebook (⭐759)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 ## [Oct 03, 2025](/content/2025/10/03/README.md)
 
@@ -526,7 +562,7 @@
 
 ### Blockchain
 
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐556)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐557)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
@@ -605,12 +641,6 @@
 ### Programming / Mathematics For Computer Science
 
 *   [The Super Programmer (⭐141)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
-
-## [Apr 15, 2024](/content/2024/04/15/README.md)
-
-### Artificial Intelligence
-
-*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
@@ -710,12 +740,6 @@
 ### Programming / Mathematics For Computer Science
 
 *   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
-
-## [Oct 23, 2023](/content/2023/10/23/README.md)
-
-### Mathematics
-
-*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 
 ## [Oct 21, 2023](/content/2023/10/21/README.md)
 
@@ -1636,7 +1660,6 @@
 
 ### Software Architecture / Mathematics For Computer Science
 
-*   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
 *   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 
 ## [Aug 25, 2022](/content/2022/08/25/README.md)
@@ -1695,7 +1718,7 @@
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *( :card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐386)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐383)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 *   [Introduction to Git and GitHub eBook (⭐1.1k)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
@@ -1996,10 +2019,6 @@
 
 *   [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
 
-### Graphical User Interfaces
-
-*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
-
 ## [Oct 02, 2021](/content/2021/10/02/README.md)
 
 ### Cloud Computing
@@ -2027,7 +2046,7 @@
 *   [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
-*   [Papers we love (⭐111k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐112k)](https://github.com/papers-we-love/papers-we-love)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 *   [Theassayer.org](http://theassayer.org)
 
@@ -2096,7 +2115,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐465)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐472)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 
@@ -2127,7 +2146,7 @@
 *   [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 *   [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐25k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐26k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 *   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 *   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -2165,7 +2184,7 @@
 *   [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 *   [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
-*   [Kalman and Bayesian Filters in Python (⭐19k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐20k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 *   [Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Anderson (PDF)
 *   [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman
@@ -2216,7 +2235,6 @@
 
 ### Misc / Mathematics For Computer Science
 
-*   [10 Keys to Great Landing Pages](https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF)
 *   [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 *   [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 *   [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
@@ -2296,7 +2314,7 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐450)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐448)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions / Mathematics For Computer Science
@@ -2314,7 +2332,7 @@
 ### Search Engines / Mathematics For Computer Science
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐90)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐90)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐89)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐89)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy / Mathematics For Computer Science
 
@@ -2340,7 +2358,7 @@
 *   [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 *   [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐371)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐370)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran

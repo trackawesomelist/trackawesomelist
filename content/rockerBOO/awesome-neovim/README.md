@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [harukikuri/tsconfig-lens.nvim (⭐1)](https://github.com/harukikuri/tsconfig-lens.nvim) - Show which `tsconfig` file applies to the current file, its `extends` chain and final compiler options.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### AI / Diagnostics
@@ -34,7 +40,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [vshulcz/deja-vu (⭐1.5k)](https://github.com/vshulcz/deja-vu) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
+*   [vshulcz/deja-vu (⭐1.7k)](https://github.com/vshulcz/deja-vu) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
 
 ### Colorscheme / Markdown and LaTeX
 
@@ -90,13 +96,13 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [tiagovla/tokyodark.nvim (⭐619)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
+*   [tiagovla/tokyodark.nvim (⭐621)](https://github.com/tiagovla/tokyodark.nvim) - ***`[TS][LSP][Lua]`*** A clean and customizable dark colorscheme.
 
 ## [Nov 08, 2026](/content/2026/11/08/README.md)
 
 ### Dependency Management / Quickfix
 
-*   [alessandropietrobelli/nuget.nvim (⭐6)](https://github.com/alessandropietrobelli/nuget.nvim) - NuGet package manager for .NET solutions.
+*   [alessandropietrobelli/nuget.nvim (⭐7)](https://github.com/alessandropietrobelli/nuget.nvim) - NuGet package manager for .NET solutions.
 
 ### Scrolling / Tree-sitter Based
 
@@ -106,7 +112,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [alessandropietrobelli/dotnet-counters.nvim (⭐4)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
+*   [alessandropietrobelli/dotnet-counters.nvim (⭐7)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
 
 ### Pre-made Configuration / Stats Tracking
 
@@ -334,7 +340,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [carldaws/miser.nvim (⭐34)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
+*   [carldaws/miser.nvim (⭐36)](https://github.com/carldaws/miser.nvim) - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 
 ### AI / Diagnostics
 
@@ -540,7 +546,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [Aejkatappaja/cendre (⭐181)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
+*   [Aejkatappaja/cendre (⭐183)](https://github.com/Aejkatappaja/cendre) - ***`[TS][LSP][Lua]`*** Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.
 *   [art220/dancheong.nvim (⭐2)](https://github.com/art220/dancheong.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 
 ## [Aug 03, 2026](/content/2026/08/03/README.md)
@@ -557,7 +563,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Markdown and LaTeX
 
-*   [mitander/flume.nvim (⭐75)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
+*   [mitander/flume.nvim (⭐76)](https://github.com/mitander/flume.nvim) - ***`[TS][LSP][L/D][Lua]`*** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 
 ## [Aug 01, 2026](/content/2026/08/01/README.md)
 
@@ -777,7 +783,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [gunasekar/markview-smart-tables.nvim (⭐13)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐15)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 
 ### Database / Stats Tracking
 
@@ -4092,7 +4098,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Markdown and LaTeX
 
-*   [rolv-apneseth/tfm.nvim (⭐102)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐43k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐102)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐44k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Markdown and LaTeX
 
@@ -6289,7 +6295,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Markdown and LaTeX
 
-*   [jvgrootveld/telescope-zoxide (⭐371)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐40k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐371)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐41k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

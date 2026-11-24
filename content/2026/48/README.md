@@ -1,59 +1,105 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2026
 
-24 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [1. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+
+### Applications & Tools / Tournaments management
+
+*   [Clips Kitty (⭐639)](https://github.com/ColinGPT9/clips-studio) - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [harukikuri/tsconfig-lens.nvim (⭐1)](https://github.com/harukikuri/tsconfig-lens.nvim) - Show which `tsconfig` file applies to the current file, its `extends` chain and final compiler options.
+
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Misc / Mathematics For Computer Science
+
+*   [10 Keys to Great Landing Pages](https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF) *( :card\_file\_box: archived)*
+
+## [4. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+
+### ⚙️ Middlewares / 🧬 Core
+
+*   [Deprecation (⭐40k)](https://github.com/gofiber/fiber/tree/main/middleware/deprecation) - Marks routes as deprecated or scheduled for removal with the `Deprecation` (RFC 9745) and `Sunset` (RFC 8594) headers.
+
+## [5. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Gems / Other external resources
+
+*   [openreceive-rails (⭐32)](https://github.com/OpenReceive/openreceive/tree/master/packages/ruby/openreceive-rails) - A gem to accept Bitcoin Lightning payments in Rails apps, paid straight into your own wallet. [:red\_circle:](https://rubygems.org/gems/openreceive-rails)
+
+## [6. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [hAcKlyc/MyAgents (⭐597)](https://github.com/hAcKlyc/MyAgents) — Desktop workspace for AI agents, runtimes, and scheduled tasks ☆`596`
+*   [hAcKlyc/MyAgents (⭐597)](https://github.com/hAcKlyc/MyAgents) — Desktop workspace for AI agents, runtimes, and scheduled tasks ☆`597`
 
 ### System Tools / QuickLook Plugins
 
+*   [justadityaraj/folderglass (⭐16)](https://github.com/justadityaraj/folderglass) — Quick Look a folder for its size, types, and recent files ☆`16`
 *   [armamut/md-quicklook (⭐16)](https://github.com/armamut/md-quicklook) — Quick Look for Markdown, with highlighting and math ☆`16`
+
+### System Tools / System Utilities
+
+*   [Zer0codestuff/OpenNaga (⭐15)](https://github.com/Zer0codestuff/OpenNaga) — Free, open-source Razer Synapse alternative for the Naga V2 ☆`16`
+*   [yangzichao/JustSessions (⭐14)](https://github.com/yangzichao/JustSessions) — Native macOS app to find, read, and resume Claude Code, Codex ☆`16`
+
+### Window Management / Shell Utilities
+
+*   [zshnb/open-contexts (⭐72)](https://github.com/zshnb/open-contexts) — Switch individual windows on macOS with search, a persistent app bar, and saved window groups. ☆`72`
 
 ### 🌱 50 rising / Shell Utilities
 
+*   [QuentinCar0n/multiclaude (⭐15)](https://github.com/QuentinCar0n/multiclaude) — Run several Claude desktop accounts side by side on one Mac ☆`15`
+*   [wzz6423/zisla (⭐12)](https://github.com/wzz6423/zisla) — macOS workspace for files, media, and local AI activity ☆`12`
+*   [bcourbage/unison-ui-mac (⭐10)](https://github.com/bcourbage/unison-ui-mac) — Native macOS GUI for the Unison File Synchronizer (Swift + ☆`10`
 *   [Round-Tower/M1K3 (⭐6)](https://github.com/Round-Tower/M1K3) — Local, offline AI for your Machine. Punk intelligence - no data ☆`6`
+*   [Blinks44/rebind (⭐8)](https://github.com/Blinks44/rebind) — Remap keys, mouse buttons and trackpad gestures to shortcuts and macOS ☆`8`
+*   [krisbradley/clawpypaste (⭐6)](https://github.com/krisbradley/clawpypaste) — Copy code blocks out of the active Claude Code session ☆`6`
+*   [a692570/bolo (⭐9)](https://github.com/a692570/bolo) — Voice dictation for macOS, powered by Telnyx AI. Hold Right Option ☆`9`
+*   [KeepCoolCH/DockAMP (⭐8)](https://github.com/KeepCoolCH/DockAMP) — Mac app and web UI for Apache, PHP, and database containers ☆`8`
+*   [michalstrnadel/AgentBar (⭐15)](https://github.com/michalstrnadel/AgentBar) — Approve agent permission prompts from the menu bar or notch ☆`15`
+*   [jordan-cod/pullo (⭐5)](https://github.com/jordan-cod/pullo) — Your GitHub pull requests and Actions in the MacBook notch ☆`5`
+*   [chengffei/leaf (⭐8)](https://github.com/chengffei/leaf) — Read like a Kindle on your Mac. Open-source EPUB, MOBI and AZW3 reader ☆`8`
+*   [Xiye88/NotchMuse (⭐10)](https://github.com/Xiye88/NotchMuse) — NotchMuse v0.8.0: synced macOS lyrics for Spotify, Apple Music ☆`10`
+*   [UmarSiddiqui/heymate (⭐9)](https://github.com/UmarSiddiqui/heymate) — Talk about your screen and get spoken step-by-step guidance ☆`9`
+*   [murlexander/louppe-media-culler (⭐14)](https://github.com/murlexander/louppe-media-culler) — Free, open-source photo viewer and sorter for Mac ☆`14`
+*   [Anubhavdxt/scrap (⭐5)](https://github.com/Anubhavdxt/scrap) — Free, open-source, keyboard-first scratchpad for macOS ☆`5`
+*   [sown-oss/MemStats (⭐11)](https://github.com/sown-oss/MemStats) — Menu-bar memory monitor for several macOS users ☆`11`
+*   [teconomix/local-transcriber (⭐12)](https://github.com/teconomix/local-transcriber) — Transcribe meetings locally, with speaker names ☆`12`
 *   [seifip/kilobat-cli (⭐7)](https://github.com/seifip/kilobat-cli) — macOS network diagnostics CLI with an interactive monitor ☆`6`
 *   [BitmatchApp/Bitmatch (⭐15)](https://github.com/BitmatchApp/Bitmatch) — Camera-card backups to several drives, verified with SHA-256 ☆`15`
 *   [Shuail135/CamiTune (⭐5)](https://github.com/Shuail135/CamiTune) — A native macOS app for tuning system audio. Powered by CamillaDSP ☆`5`
+*   [NikOneZ1/cinenotch (⭐2)](https://github.com/NikOneZ1/cinenotch) — Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work. ☆`2`
 *   [alfital2/FlicKey (⭐10)](https://github.com/alfital2/FlicKey) — Detect a wrong keyboard layout and convert what you typed ☆`10`
-*   [wzz6423/zisla (⭐12)](https://github.com/wzz6423/zisla) — macOS workspace for files, media, and local AI activity ☆`13`
 *   [vitaly-kashtalyan/vocula (⭐6)](https://github.com/vitaly-kashtalyan/vocula) — Hold a key and paste local dictation at the cursor ☆`6`
-*   [wilu222/tripleclick (⭐6)](https://github.com/wilu222/tripleclick) — Three-finger trackpad click as middle click ☆`7`
+*   [wilu222/tripleclick (⭐6)](https://github.com/wilu222/tripleclick) — Three-finger trackpad click as middle click ☆`8`
 *   [AntonMazur/SmoothWheel (⭐7)](https://github.com/AntonMazur/SmoothWheel) — Smooth mouse-wheel scrolling with adjustable speed ☆`7`
 *   [ixiehao/ShotMap (⭐11)](https://github.com/ixiehao/ShotMap) — Turn videos into storyboard images with smart frame selection ☆`11`
 *   [ixiehao/Any2WebP (⭐3)](https://github.com/ixiehao/Any2WebP) — Batch-convert images to WebP or GIF and animate stills or clips ☆`3`
-*   [chengffei/leaf (⭐8)](https://github.com/chengffei/leaf) — Read like a Kindle on your Mac. Open-source EPUB, MOBI and AZW3 reader ☆`8`
 *   [HaiTrung-Workspace/tidymint (⭐9)](https://github.com/HaiTrung-Workspace/tidymint) — Mac cleaner that only moves files to the Trash ☆`9`
 *   [fratayaydn/nightkeys (⭐6)](https://github.com/fratayaydn/nightkeys) — Light the keyboard only while you type on it ☆`6`
-*   [a692570/bolo (⭐9)](https://github.com/a692570/bolo) — Voice dictation for macOS, powered by Telnyx AI. Hold Right Option ☆`9`
-*   [QuentinCar0n/multiclaude (⭐15)](https://github.com/QuentinCar0n/multiclaude) — Run several Claude desktop accounts side by side on one Mac ☆`15`
 *   [maxthegray/Perch (⭐5)](https://github.com/maxthegray/Perch) — A free, open-source drag-and-drop shelf for macOS ☆`5`
-*   [yangzichao/JustSessions (⭐14)](https://github.com/yangzichao/JustSessions) — Native macOS app to find, read, and resume Claude Code, Codex ☆`14`
-*   [Xiye88/NotchMuse (⭐10)](https://github.com/Xiye88/NotchMuse) — NotchMuse v0.8.0: synced macOS lyrics for Spotify, Apple Music ☆`10`
 *   [zjy4fun/HotkeyLauncher (⭐11)](https://github.com/zjy4fun/HotkeyLauncher) — Launch apps and commands from global hotkeys ☆`11`
 *   [jedbrnth-eng/rave-live (⭐5)](https://github.com/jedbrnth-eng/rave-live) — Festival light show for your Mac that locks to the beat ☆`6`
-*   [Anubhavdxt/scrap (⭐5)](https://github.com/Anubhavdxt/scrap) — Free, open-source, keyboard-first scratchpad for macOS ☆`5`
 *   [ixiehao/LumaView (⭐13)](https://github.com/ixiehao/LumaView) — Native image viewer for folders, EXIF, and multipage PDFs ☆`13`
 *   [fexxdev/Mystral (⭐11)](https://github.com/fexxdev/Mystral) — A native macOS menu bar app for controlling fan curves on Apple ☆`11`
 *   [wata/AudioAnchor (⭐9)](https://github.com/wata/AudioAnchor) — A Mac menu bar app that keeps your sound output anchored to the device ☆`9`
 *   [xw-meow/mie-iconner (⭐7)](https://github.com/xw-meow/mie-iconner) — A cozy macOS app that turns folder icons into stickers - browse ☆`7`
-*   [sown-oss/MemStats (⭐11)](https://github.com/sown-oss/MemStats) — Menu-bar memory monitor for several macOS users ☆`11`
-*   [Malik1942/CalmMouse (⭐14)](https://github.com/Malik1942/CalmMouse) — Magic Mouse UX fixes for macOS - stop the page scrolling every time ☆`14`
+*   [Malik1942/CalmMouse (⭐14)](https://github.com/Malik1942/CalmMouse) — Magic Mouse UX fixes for macOS - stop the page scrolling every time ☆`15`
 *   [christofilojohn/MacPercept (⭐13)](https://github.com/christofilojohn/MacPercept) — A Mac OS menu bar utility that runs on-device Computer ☆`13`
-*   [murlexander/louppe-media-culler (⭐14)](https://github.com/murlexander/louppe-media-culler) — Free, open-source photo viewer and sorter for Mac ☆`13`
 *   [saihgupr/SmartClipboard (⭐12)](https://github.com/saihgupr/SmartClipboard) — Menu-bar clipboard manager with local search ☆`12`
 *   [ercanatay/cybokron-dock-groups (⭐11)](https://github.com/ercanatay/cybokron-dock-groups) — Open or hide a group of apps from a Dock popup ☆`11`
 *   [OrtexIsArtem/vortex (⭐12)](https://github.com/OrtexIsArtem/vortex) — Free, open-source notch app for Mac: a focus timer, clipboard ☆`12`
-*   [UmarSiddiqui/heymate (⭐9)](https://github.com/UmarSiddiqui/heymate) — Talk about your screen and get spoken step-by-step guidance ☆`9`
 *   [deeplabua/deepshrink (⭐3)](https://github.com/deeplabua/deepshrink) — Compress video or audio to a size limit in one command ☆`3`
-*   [jordan-cod/pullo (⭐5)](https://github.com/jordan-cod/pullo) — Your GitHub pull requests and Actions in the MacBook notch ☆`5`
 *   [ramazanberkozbek/kaskas (⭐14)](https://github.com/ramazanberkozbek/kaskas) — Break reminder and focus tracker for macOS ☆`14`
 *   [MaquinaTech/Vauta (⭐9)](https://github.com/MaquinaTech/Vauta) — AI meeting notes on your Mac, with no bot and no cloud ☆`9`
 *   [leeleelee3264/spyhop (⭐11)](https://github.com/leeleelee3264/spyhop) — Every AI coding session on one board, each with its own progress ☆`11`
@@ -61,15 +107,9 @@
 *   [melissa-pereira-deel/home-rec (⭐15)](https://github.com/melissa-pereira-deel/home-rec) — Capture whatever your Mac is playing as a lossless WAV ☆`15`
 *   [jettoai/tally (⭐10)](https://github.com/jettoai/tally) — Menu-bar limits for several Claude and Codex accounts ☆`10`
 *   [tobymarks/inlaut (⭐7)](https://github.com/tobymarks/inlaut) — Free, open-source macOS menu bar dictation that never leaves your Mac ☆`7`
-*   [teconomix/local-transcriber (⭐12)](https://github.com/teconomix/local-transcriber) — Transcribe meetings locally, with speaker names ☆`12`
 *   [gshipman223/IconCraft (⭐15)](https://github.com/gshipman223/IconCraft) — Give any Mac app the name and icon you already know. The app ☆`15`
-*   [roypadina/SmartHiddenBar (⭐8)](https://github.com/roypadina/SmartHiddenBar) — Hide, list and open macOS 27 menu bar items - a Hidden Bar ☆`8`
-*   [yuraist/just-md (⭐12)](https://github.com/yuraist/just-md) — Native macOS minimalist markdown editor ☆`12`
-*   [Yvsleyen00941/Needle (⭐4)](https://github.com/Yvsleyen00941/Needle) — Now Playing album cover and title in the corner beside the Dock ☆`4`
-*   [Yvsleyen00941/Rime (⭐4)](https://github.com/Yvsleyen00941/Rime) — Minimalist macOS PDF reader with frosted-ice distraction-free focus ☆`4`
-*   [Yvsleyen00941/Tape (⭐7)](https://github.com/Yvsleyen00941/Tape) — Stock ticker in the empty corner beside the Dock ☆`7`
 
-## [2. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [7. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### AI & Machine Learning / Machine Learning
 
@@ -80,49 +120,49 @@
 *   [balinomad/go-mockfs (⭐9)](https://github.com/balinomad/go-mockfs) — Filesystem mocks for Go tests, with errors and latency ☆`9`
 *   [yanet-platform/xnetip (⭐1)](https://github.com/yanet-platform/xnetip) — Fast IPv4/IPv6 set operations with arbitrary masks ☆`1`
 
-## [3. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
 *   [cloud-drift-report (⭐3)](https://github.com/orchesterra/cloud-drift-report) - Read-only drift report for OpenTofu and Terraform (`plan -refresh-only`), plus AWS resources that no state file covers.
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Tools Built with Polars / Miscellaneous
 
 *   [Batchseam (⭐1)](https://github.com/yyzquwu/batchseam) - A Python tool by [@yyzquwu](https://github.com/yyzquwu) that finds Polars expressions whose results change across batch boundaries and saves failing examples as pytest regressions.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
 *   [exif.cr (⭐3)](https://github.com/Sija/exif.cr) - Bindings for the [libexif (⭐381)](https://github.com/libexif/libexif) library
 
-## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Ansible Lint GitHub Actions: Fail PRs on Bad Playbooks](https://devtoolhub.com/ansible-lint-github-actions/) - Wires ansible-lint into a pull request check, compares the profiles on a real playbook, and shows how an ignore file can hide new violations.
 
-## [7. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Development Utilities
 
 *   [Loki Components (⭐10)](https://github.com/LokiExtensions/Loki_Components) 🫡 - A library for building AJAX-driven form components with ease. Used by the Loki Checkout.
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [QuangquyNguyenvo/Sameko-Dev-CPP (⭐116)](https://github.com/QuangquyNguyenvo/Sameko-Dev-CPP#readme) - A cute ocean-themed README with animated custom illustrations, playful section headers, a GIF demo and live download badges.
 
-## [9. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [14. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### JavaScript Clients
 
 *   [HyperFetch (⭐1.3k)](https://github.com/BetterTyped/hyper-fetch) - Type-safe TypeScript client for REST APIs with caching, retries, request deduplication, offline queue and React hooks.
 
-## [10. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [15. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
@@ -148,7 +188,7 @@
 
 *   :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix (with Poland PLN fix), 30-day discount cooldown planner, W-8BEN tax & publisher deal calculators, local capsule resizer/previewer, BBCode editor, SteamPipe VDF generator, and 60-item pre-launch QA checklist.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -162,7 +202,7 @@
 
 *   [Formidable (⭐5)](https://github.com/xfunc-pty-ltd/formidable) - ![stars](https://img.shields.io/github/stars/xfunc-pty-ltd/formidable?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/xfunc-pty-ltd/formidable?style=flat-square\&cacheSeconds=86400) Form validation for Blazor on FluentValidation, with draft and submit rule sets, messages that wait until a field has been edited, and a headless component kit. [Demo](https://xfunc-pty-ltd.github.io/formidable/).
 
-## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [17. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -173,6 +213,8 @@
 ### AI agent management
 
 *   [ccb (⭐3.6k)](https://github.com/SeemSeam/claude_codex_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
+*   [forestui (⭐26)](https://github.com/flipbit03/forestui) A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration
+*   [tmux-claude-status-tabs (⭐5)](https://github.com/LiveNL/tmux-claude-status-tabs) Per-window Claude Code session state in the tab bar: animated spinner, input, permission and done indicators. Event-driven via hooks, no polling.
 *   [tmux-ide (⭐570)](https://github.com/wavyrai/tmux-ide) Terminal app for tmux that shows which coding agents (Claude Code, Codex, etc.) are working, blocked or done across sessions, with notifications and session restore
 
 ### Themes
@@ -198,7 +240,7 @@
 *   [tmux-fzf-links (⭐66)](https://github.com/alberti42/tmux-fzf-links) Search the pane for URLs, files, git addresses and code errors, pick one with fzf, and open it in your editor or browser. Resolves OSC 8 hyperlinks and accepts user-defined schemes.
 *   [tmux-spotify (⭐127)](https://github.com/ilya-manin/tmux-spotify) Show a nice menu to manage Spotify application
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -209,33 +251,34 @@
 *   [MemBrowse](https://membrowse.com) — Analyzes ELF firmware binaries together with their GNU LD linker scripts or map files to report flash and RAM usage per memory region, section, and symbol. Uses DWARF debug info to attribute symbols to source files. The CLI runs locally without an account. An optional hosted service tracks memory usage across commits and targets, comments on pull requests with per-region and per-symbol changes, and fails CI when memory budgets are exceeded.
 *   **terrascan** :warning: — Collection of security and best practice tests for static code analysis of Terraform templates.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [aidflow (⭐5)](https://github.com/aigensys-labs/aidflow) - Pipeline-first framework for building reproducible, audit-ready production credit scorecards in regulated finance (banking, insurance, fintech). One call — or an interactive UI — drives the whole pipeline (stabilize, WOE-encode, train an ensemble, promote a champion) and exports a self-contained scoring artifact with full feature lineage and SHAP for regulatory review.
 
-## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [20. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Integration and Pipelines
 
 *   [Filament (⭐346)](https://github.com/galaxy-io/filament) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Data replication engine that moves data between databases, SaaS APIs, streams and object storage with full and incremental sync.
 *   [OLake (⭐2.3k)](https://github.com/datazip-inc/olake-go) <sub>![Go](https://img.shields.io/badge/language-Go-blue)</sub> - Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.
 
-## [16. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
 *   [last30days (⭐73k)](https://github.com/mvanhorn/last30days-skill) - Gemini CLI extension and Agent Skill that researches any topic across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub and the web from the last 30 days, ranks results by real engagement (upvotes, likes, prediction-market odds), and writes one cited brief. Reddit, Hacker News, Polymarket and GitHub work with no API key. MIT. Install: `gemini extensions install https://github.com/mvanhorn/last30days-skill`
 *   [HyperFrames (⭐89k)](https://github.com/heygen-com/hyperframes) - Official Gemini CLI extension for HeyGen's open-source AI video editor (88K+ GitHub stars): make launch videos, explainers and motion graphics, caption your own footage and remake any video, rendered from HTML, CSS and GSAP to MP4. Install: `gemini extensions install https://github.com/heygen-com/hyperframes --auto-update`
 *   [WaveSpeedAI (⭐1)](https://github.com/WaveSpeedAI/wavespeed-gemini-extension) - Gemini CLI extension with an Agent Skill that uses the open-source `wavespeed` CLI to search WaveSpeedAI image, video, audio and 3D generation models, read their input schemas and run them, including local file uploads. Install with `gemini extensions install https://github.com/WaveSpeedAI/wavespeed-gemini-extension`.
+*   [ultrafast (⭐1)](https://github.com/ultrafastmov/ultrafast) - Gemini CLI extension for ultrafast, an open-source GPU video engine where a video is a JSON document: bundles the local `uf mcp` server (20 tools) and the ultrafast skill, so Gemini CLI can write a video, check it, look at its frames and export H.264, HEVC, AV1 or ProRes, rendered on Metal or Vulkan without a browser. Needs the `uf` CLI (macOS on Apple silicon, or Linux). Apache-2.0 or MIT. Install: `gemini extensions install https://github.com/ultrafastmov/ultrafast`
 
 ### Development Tools & Utilities
 
 *   [Calyban](https://calyban.com/?utm_source=awesome-gemini-cli\&utm_medium=referral) - Free Windows app that installs MCP servers and skills into Gemini CLI (and five other agents), checks them for prompt injection and known-malicious npm/PyPI packages first, and can undo each install.
 *   [Spellwarden](https://spellwarden.ai/docs/instruction-files?utm_source=piebald-awesome-gemini-cli\&utm_medium=listing\&utm_campaign=growth-listings\&utm_content=owner) - Open source (Apache-2.0) scanner for what Gemini CLI loads: `GEMINI.md` files in a repository, and with `scan --user` the MCP servers, hooks, extensions and skills under `~/.gemini`. Reads them without running them, flags injected instructions, hidden characters and unpinned packages, and runs in CI and before each commit.
 
-## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -250,7 +293,7 @@
 
 *   [glsec (⭐25)](https://github.com/glsec/glsec) - Static security linter for GitLab CI/CD pipelines (.gitlab-ci.yml).
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -259,6 +302,10 @@
 ### Applications / File manager
 
 *   [gelenmedya/rustyfiles (⭐567)](https://github.com/gelenmedya/rustyfiles) - A file manager for Windows that never freezes, GPU-rendered with GPUI
+
+### Applications / Productivity
+
+*   [naxhq/NexQ (⭐151)](https://github.com/naxhq/NexQ) - Live transcription of both sides of a call, with answers from your own notes, for Windows and macOS. [![CI](https://github.com/naxhq/NexQ/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/naxhq/NexQ/actions/workflows/ci.yml)
 
 ### Applications / Text editors
 
@@ -301,18 +348,143 @@
 *   [Remade-With-Rust/rusty\_h264 (⭐15)](https://github.com/Remade-With-Rust/rusty_h264) \[[rusty\_h264](https://crates.io/crates/rusty_h264)] - Pure-Rust H.264 encoder and decoder. [![build badge](https://github.com/Remade-With-Rust/rusty_h264/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty_h264/actions/workflows/ci.yml)
 *   [Remade-With-Rust/rusty\_h265 (⭐4)](https://github.com/Remade-With-Rust/rusty_h265) \[[rusty\_h265](https://crates.io/crates/rusty_h265)] - Pure-Rust HEVC / H.265 video decoder. [![build badge](https://github.com/Remade-With-Rust/rusty_h265/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Remade-With-Rust/rusty_h265/actions/workflows/ci.yml)
 
-## [19. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [24. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
 
-## [20. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [25. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+
+### ⏱️ Productivity (283) / ✏️ Text (20)
+
+*   [Amical (⭐1.6k)](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
+*   [Carbon (⭐9)](https://github.com/AlexDemzz/carbon) - Menu bar app that transcribes your meetings on device and saves each one as a Markdown file, with no bot and no cloud. ([Website](https://carbon.alexandrejoly.me)) — `Swift`
+*   [Digisensus Recorder (⭐19)](https://github.com/Digisensus/digisensus-recorder) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. ([Website](https://digisensus.com/call-recorder-mac/)) — `Swift`
+*   [Glimpse (⭐62)](https://github.com/glimpse-hq/Glimpse) - Local dictation and meeting transcription with speaker labels, free and unlimited for dictation. ([Website](https://tryglimpse.cc/)) — `Rust` `TypeScript`
+*   [LokalBot (⭐120)](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP for coding agents. ([Website](https://www.lokalbot.com)) — `Swift` `Rust`
+*   [Lowspeak (⭐7)](https://github.com/sventmueller/lowspeak) - Ultrafast native AI speech-to-text for every Mac app: hold fn, talk, let go. Free online with your own Groq key or offline with Whisper and NVIDIA Parakeet, written in Rust, 35 languages. — `Rust`
+*   [MacroSIP (⭐30)](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website (⭐30)](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
+*   [Minute (⭐31)](https://github.com/mraza007/minute) - Records meetings without a bot, transcribes them on-device with Whisper, labels speakers, and writes summaries and action items with a local LLM. ([Website](https://minutenotes.app)) — `Rust` `TypeScript`
+*   [mm2t (⭐22)](https://github.com/yuzen9622/mm2t) - Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries. ([Website](https://mm2t.yuzen.dev/en/)) — `Swift`
+*   [Purr (⭐108)](https://github.com/iamarunbrahma/purr) - Dictation that types into any app, plus meeting notes with speaker labels and summaries, all on-device with Parakeet or Whisper. ([Website](https://purr.arunbrahma.com)) — `Swift`
+*   [Shiyin (⭐184)](https://github.com/juinwei7/Shiyin) - Meeting notes app that records Zoom, Meet and Teams without a bot, transcribes on-device with whisper.cpp, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT. ([Website](https://shiyin.weibuilds.com)) — `Swift`
+*   [Tamka (⭐5)](https://github.com/piedol/tamka) - On-device dictation that runs NVIDIA's Parakeet speech models on the Neural Engine and types at the cursor in any app. ([Website](https://www.piedol.top/tamka/)) — `Rust` `Swift`
+*   [ThunderTalk (⭐18)](https://github.com/realAllenSong/ThunderTalk) - On-device voice input: press a key, speak Chinese or English, text lands at the cursor. Also transcribes links, reads aloud and composes songs. ([Website](https://realallensong.github.io/ThunderTalk/)) — `Python`
+*   [Tingo (⭐48)](https://github.com/tancheng33/tingo) - Local-first meeting notes: records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose. ([Website (⭐48)](https://github.com/tancheng33/tingo)) — `Rust` `TypeScript` `Swift`
+*   [Voltip (⭐106)](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
+*   [Wavo (⭐39)](https://github.com/vladkens/wavo-app) - Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview. — `Rust`
+*   [WhisPaste (⭐87)](https://github.com/whispaste/whispaste) - Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app. ([Website](https://whispaste.de/en/)) — `Dart` `C++` `Swift`
+*   [WhisperDrop 2 (⭐10)](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website (⭐10)](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
+*   [Yogurt (⭐3.1k)](https://github.com/FrigadeHQ/yogurt) - Meeting notes that stay on your Mac: records calls without joining them, transcribes locally with Whisper and writes summaries with an on-device model. ([Website](https://yogurt.so)) — `TypeScript` `Swift`
+*   [CoWork OS (⭐554)](https://github.com/CoWork-OS/CoWork-OS) - Open-source desktop AI agent for files, browser and chat-app tasks that works with your own API keys or local models through Ollama and MLX. ([Website](https://coworkosapp.com)) — `TypeScript`
+*   [Tarn (⭐6)](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://tarn-ai.vercel.app)) — `Swift`
+*   [Trina AX (⭐419)](https://github.com/trina-app/trina-ax) - Team AI workspace with one shared drive, chat rooms and per-person folder permissions, run on your own server. ([Website](https://ax.trina.app)) — `TypeScript`
+*   [Agent Hive (⭐27)](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
+*   [AI Juggler (⭐8)](https://github.com/figurehead-ai/AI-juggler) - Manage Claude Code and Codex sessions, accounts, usage limits, and resource usage in one local-first dashboard. ([Website](https://figurehead.ai/ai-juggler)) — `Rust` `TypeScript`
+*   [Brigade (⭐20)](https://github.com/gmpetrov/brigade) - Open-source app that runs a team of AI teammates for support, marketing, sales and code, each one Claude Code or Codex signed in with your own Claude or ChatGPT plan. ([Website](https://www.brigade.lol)) — `TypeScript` `Rust` `Swift`
+*   [Caprock (⭐50)](https://github.com/dspv/caprock) - Desktop app that runs Claude Code, Codex, OpenCode and Gemini CLI side by side and shows what every session and pull request costs, read from the agents' local logs. ([Website](https://caprock.dev)) — `Go` `TypeScript` `Rust`
+*   [Codealong (⭐73)](https://github.com/codealong/codealong) - Mac app that tracks every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine, grouped by repo, worktree and PR, with notch and floating-bar approvals, automated draft PR reviews, and plan usage per account. ([Website](https://www.codealong.com)) — `Rust` `TypeScript`
+*   [Friday (⭐85)](https://github.com/splashxmoon/friday) - Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit. ([Website](https://www.tryfridaywork.com)) — `TypeScript`
+*   [HarnessBridge (⭐7)](https://github.com/Larrtroffen/harnessbridge) - Open-source app for migrating AI coding-agent sessions between Claude Code, Codex, DeepSeek Harness, OMP, Qoder, and 40+ harnesses. ([Website (⭐7)](https://github.com/Larrtroffen/harnessbridge)) — `Swift`
+*   [MightyMouse (⭐8)](https://github.com/royherma/mightymouse) - Voice typing in any app with local Whisper, Claude Code and Codex agents that keep working while you're out, and your Mac on your phone. ([Website](https://getmightymouse.com)) — `TypeScript` `Swift`
+*   [OmegaStar (⭐6)](https://github.com/itsfutsy/OmegaStar) - Turns the Claude Code you already use, with its browser, models and logins, into a team of AI employees with scoped objectives, who learn by talking and keep each lesson as a skill. ([Website](https://abramindustries.com/#omega-star)) — `Rust` `TypeScript`
+*   [Orca (⭐133k)](https://github.com/stablyai/orca) - AI orchestrator that runs Codex, Claude Code, OpenCode or Pi side-by-side, each in its own git worktree and tracked in one place. ([Website](https://onorca.dev)) — `TypeScript`
+*   [Perch (⭐31)](https://github.com/asafofer/perch) - Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact window or terminal pane. ([Website](https://perchapp.dev)) — `Swift` `JavaScript`
+*   [reshelf (⭐27)](https://github.com/aka-kika/reshelf) - Catalogs open-source GitHub repos on shelves, clones them by category, and shows when a clone has updates to pull. ([Website](https://aka-kika.github.io/reshelf/)) — `Swift`
+*   [SeshBuddy (⭐9)](https://github.com/huangy7/seshbuddy) - Desktop workbench and session explorer for AI coding agents (Claude Code, OpenCode, Codex). ([Website](https://seshbuddy.huangy.top)) — `Rust` `Vue` `TypeScript`
+*   [Solenta (⭐20)](https://github.com/currentbits/solenta) - Local-first desktop app for running coding-agent CLIs (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) with shared memory across sessions, a GitHub-issues planboard and one git worktree per thread. ([Website](https://solenta.app)) — `JavaScript` `TypeScript`
+*   [Spyhop (⭐11)](https://github.com/leeleelee3264/spyhop) - Board that shows every running Claude Code, Codex and OMP session with its progress as steps (done, now, next), putting sessions that wait for input on top. ([Website](https://leeleelee3264.github.io/spyhop/)) — `Python` `Swift`
+*   [Yardlet (⭐46)](https://github.com/zzunkie/yardlet) - Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. ([Website](https://yardlet.app)) — `Swift`
+*   [Agent Standup (⭐383)](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
+*   [DartPDF (⭐103)](https://github.com/ben-milanko/dart-pdf) - Free PDF editor for macOS with annotations, form filling and signatures. ([Website](https://apps.apple.com/app/dartpdf/id6780083686?platform=mac)) — `Dart`
+*   [Musset (⭐12)](https://github.com/Musset-App/musset) - Writing app for books: chapters and scenes as plain Markdown files, versions kept in git, manuscript and EPUB export, and an optional AI editor that annotates but never writes for you. ([Website](https://musset.app)) — `Swift`
+*   [Slowth (⭐8)](https://github.com/skar404/slowth) - Safari extension for macOS that hides YouTube Shorts and Reels from Instagram and Facebook and limits distracting feeds. ([Website](https://slowth.app/)) — `Swift` `JavaScript`
+*   [neatly (⭐15)](https://github.com/alpozaydin/neatly) - AI file renamer that gives downloads, screenshots and photos clear names by their content, on-device with Apple Intelligence. ([Website](https://alpozaydin.github.io/neatly/)) — `Swift`
+*   [NewFile (⭐90)](https://github.com/mariusgm/newfile) - Finder extension that adds New File to the right-click menu and toolbar, with custom file types and starter templates. ([Website](https://newfile.dev)) — `Swift`
+*   [PrimeSnap (⭐7)](https://github.com/nivohavi/primesnap) - Menu bar app to capture, frame, annotate and redact screenshots, with on-device auto-redaction of emails and API keys. ([Website (⭐7)](https://github.com/nivohavi/primesnap)) — `Swift`
+*   [GigaMail (⭐20)](https://github.com/adecubed/gigamail) - Mail client your AI agent can use, for Microsoft 365, Gmail and IMAP: nothing is sent until you approve it with Touch ID. ([Website](https://gigamail.ai)) — `Python` `JavaScript`
+*   [Annotator (⭐18)](https://github.com/dorlugasigal/annotator) - Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable. ([Website](https://getannotator.app)) — `Swift`
+*   [bot-inator (⭐6)](https://github.com/Bforsyth1234/bot-inator) - Local-first menu bar agent that notices what you do, offers help on approval cards, and writes its own sandboxed tools. — `Swift` `Python`
+*   [Brink (⭐8)](https://github.com/StepanBlaha/Brink) - A notch on your screen edge that keeps your Notion pages and tasks one hover away. ([Website](https://brinknotch.site)) — `Swift`
+*   [Cockpit (⭐15)](https://github.com/Yvsleyen00941/Cockpit) - Unified productivity heads-up display for macOS and iPadOS consolidating Calendar, Music, Notion, and Mail into a modular control surface. ([Website](https://yorben.me)) — `Swift`
+*   [Dayside (⭐10)](https://github.com/ninondev/Dayside) - Menu bar world clock that paints each city's row in its real sky color and finds meeting times across time zones. — `Swift` `Rust`
+*   [Easy Write (⭐36)](https://github.com/onekapisch/easy-write) - Menu bar app that translates and rewrites selected text in place with on-device Apple Intelligence, in a formal or informal tone. ([Website](https://www.onekapisch.com/products/easy-write/)) — `Swift`
+*   [Griasa (⭐7)](https://github.com/Stari-am/griasa) - Local-first meeting recorder that finds who promised what, with pre-meeting briefs, dictation and a read-only MCP server. ([Website](https://stari-am.github.io/griasa/)) — `Swift`
+*   [Hourmint (⭐8)](https://github.com/abdurrahmanriyad/hourmint) - Menu bar time tracker for freelancers with a work log, timesheets and PDF invoices. Local-first, no account needed. ([Website](https://hourmint.abdur.tech)) — `Rust` `TypeScript`
+*   [Kurenai (⭐6)](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted. ([Website](https://lorder19.github.io/kurenai/)) — `Swift`
+*   [OpenValet (⭐10)](https://github.com/SamarthY06/OpenValet) - Voice and WhatsApp agent that runs Claude Code on your own Claude login, with local wake word, speech recognition and voices, and a gate that asks before anything irreversible. ([Website (⭐10)](https://github.com/SamarthY06/OpenValet)) — `Swift` `Python` `Go`
+*   [Point (⭐11)](https://github.com/sksareen/point) - Hold a key, talk, and circle part of the screen. Point sends your words plus a screenshot of what you circled to Claude Code, Cursor, or any chat, with on-device transcription. ([Website](https://www.pointandtell.app)) — `Swift`
+*   [Polka (⭐5)](https://github.com/romabmstu/polka) - Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. ([Website](https://romabmstu.github.io/polka/)) — `Swift`
+*   [Reed Dictation (⭐7)](https://github.com/w20labs/reed) - Free, local-only hold-to-talk dictation for Apple Silicon Macs, with on-device Parakeet speech recognition and cleanup of filler words and restarts. ([Website](https://reed.w20.ai/)) — `Swift`
+*   [StockDock (⭐55)](https://github.com/simonsruggi/StockDock) - Menu bar app that tracks stocks, ETFs, indices, crypto and your portfolio P\&L in real time, with pre-market and after-hours prices, alerts and a full desktop window. ([Website](https://stockdockapp.com)) — `Swift`
+*   [Tapestry (⭐5)](https://github.com/HMDRAMS-DEV/tapestry) - Lightweight trackpad gestures that press keys, run Shortcuts, and open apps. ([Website](https://tapestry.ramihmd.com)) — `Swift`
+*   [Tendedero (⭐3.4k)](https://github.com/alejandrobujan/tendedero) - Every screenshot you take hangs on a line just above your screen, ready to drag into any app or folder. ([Website](https://tendedero.app)) — `Swift`
+*   [AFFiNE (⭐75k)](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
+*   [BaseHalf (⭐18)](https://github.com/Pointa-Labs/basehalf) - Opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it. ([Website](https://basehalf.com)) — `TypeScript`
+*   [EdgeEver (⭐3.5k)](https://github.com/tianma-if/edgeever) - Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration. ([Website](https://edgeever.org)) — `TypeScript` `JavaScript`
+*   [Knovum (⭐63)](https://github.com/madebyzan/knovum) - Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription. ([Website (⭐63)](https://github.com/madebyzan/knovum)) — `Rust` `TypeScript`
+*   [Koru (⭐46)](https://github.com/koruworks/mono) - Local-first workspace for notes, docs and files with terminal tabs and a local MCP server. No account required; imports Evernote, Notion, OneNote, Google Docs and Markdown. ([Website](https://www.koru.do)) — `Rust`
+*   [Lemma (⭐15)](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write. ([Website (⭐15)](https://github.com/fus3r/lemma)) — `Swift`
+*   [Lotti (⭐1.2k)](https://github.com/matthiasn/lotti) - Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents. ([Website](https://matthiasn.github.io/lotti/)) — `Dart`
+*   [Platypus Notes (⭐43)](https://github.com/pixelsmasher13/platypus) - Local-first notes app that records meetings without a bot, transcribes them on-device with Whisper, and lets you chat with your notes using your own AI provider or Ollama. ([Website](https://platypusnotes.com)) — `Rust` `TypeScript`
+*   [SoloPDF (⭐14)](https://github.com/zhitongblog/solopdf) - Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes (.annotations.md), with on-device OCR, visual blink diff, and a 56-tool MCP server. ([Website](https://solopdf.doaipm.com)) — `Rust`
+*   [GlideDeck (⭐18)](https://github.com/nirlotan/GlideDeck) - Zooming presentations on an infinite canvas, with PowerPoint import and export. ([Website (⭐18)](https://github.com/nirlotan/GlideDeck)) — `Rust`
+*   [Little Reef (⭐6)](https://github.com/echoVic/little-reef) - Open-source focus timer that grows a reef as you finish sessions, with menu bar controls, ambient sounds and a desktop widget. ([Website](https://reef.echovic.com/en/)) — `Go` `TypeScript`
+*   [Murmury (⭐27)](https://github.com/GianlucaBave/murmury) - Answers questions from your own documents during video calls, in a floating window hidden from screen sharing. ([Website](https://murmury.pages.dev)) — `Python` `Swift`
+*   [OpenIntelligence (⭐30)](https://github.com/Gunnarguy/OpenIntelligence) - Chat with your own PDFs, notes and scans using Apple Intelligence, with retrieval on the device, offline use and a cited page for every answer. ([Website](https://openintelligence.me)) — `Swift`
+*   [Rapid Reader (⭐38)](https://github.com/Zer0codestuff/Rapid-Reader) - RSVP speed reader for EPUB, PDF, DOCX, Markdown and web articles, with a full-text view. ([Website (⭐38)](https://github.com/Zer0codestuff/Rapid-Reader)) — `Swift`
+
+### 📊 Menubar (314) / ✏️ Text (20)
+
+*   [AudioAnchor (⭐9)](https://github.com/wata/AudioAnchor) - Menu bar app that keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else. ([Website (⭐9)](https://github.com/wata/AudioAnchor)) — `Swift`
+*   [AudioSync (⭐8)](https://github.com/yassersutojoyo/audiosync) - Play your Mac's audio on AirPlay, Google Cast and local speakers at once, with a delay per speaker so they stay in sync. — `Swift` `Rust`
+*   [EQ (⭐12)](https://github.com/dylenq/macos-parametric-eq) - System-wide parametric equalizer for macOS that needs no audio driver, with AutoEq import and per-output curves. ([Website](https://dylenq.github.io/macos-parametric-eq/)) — `Rust`
+*   [jdsp4mac (⭐8)](https://github.com/Tekkiech/jdsp4mac) - Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio. ([Website (⭐8)](https://github.com/Tekkiech/jdsp4mac)) — `Swift` `C`
+*   [OpenSpatial (⭐31)](https://github.com/dortanes/openspatial) - Spatial audio for any headphones that plays every app as 7.1 surround, with head tracking through the camera. — `Swift`
+*   [Smorza (⭐13)](https://github.com/rokoov/smorza) - Per-app volume, mute and output device for every Mac app, from the menu bar. No audio driver. ([Website](https://smorza.app)) — `Swift`
+*   [Stelix (⭐24)](https://github.com/stelix-app/stelix) - Live stem separation for your Mac: splits what any app is playing into vocals, drums, bass and other in real time, so you can turn each one up or down or hear it alone. ([Website](https://getstelix.com)) — `Swift` `Python`
+*   [Volumist (⭐5)](https://github.com/jpdominguez/volumist) - Menu bar mixer with per-app volume, output, EQ and leveling, and automatic lowering during calls. ([Website (⭐5)](https://github.com/jpdominguez/volumist)) — `Swift` `C`
+*   [TimeMachineEjector (⭐5)](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. ([Website (⭐5)](https://github.com/wata/TimeMachineEjector)) — `Swift`
+*   [Browserdoor (⭐5)](https://github.com/schowave/browserdoor) - Link picker that asks which browser, Chrome profile or Zen space a link should open in. — `Swift`
+*   [Switchboard (⭐6)](https://github.com/justadityaraj/switchboard-browser-picker) - Menu-bar browser picker that opens each link in the right browser, Chrome or Brave profile, or private window, with rules by site, URL or source app and built-in link cleanup. ([Website](https://dev.adityarajsingh.com/switchboard/)) — `Swift`
+*   [Onebox (⭐3)](https://github.com/stek765/OneBox) - Menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, with regex notification filters and quiet hours. ([Website (⭐3)](https://github.com/stek765/OneBox)) — `JavaScript`
+*   [Agent Monitor (⭐3)](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website (⭐3)](https://github.com/paveler/agent-monitor)) — `Swift`
+*   [AgentBar (⭐15)](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
+*   [CCSwitcher (⭐216)](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website (⭐216)](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
+*   [DevCheck (⭐6)](https://github.com/iihao/devcheck) - Menu bar port map: see who holds a port, which project it belongs to, and why your server won't start. ([Website (⭐6)](https://github.com/iihao/devcheck)) — `Swift`
+*   [gas (⭐15)](https://github.com/gilador/gas) - Menu bar app and floating panel that show Claude Code, Codex and Grok plan usage limits and reset times. ([Website (⭐15)](https://github.com/gilador/gas)) — `Swift`
+*   [Kiteline (⭐49)](https://github.com/hon6/kiteline) - Follow, reply to and approve Claude Code, Codex and OpenCode sessions running on your Mac from iPhone, iPad and Apple Watch. ([Website](https://tars.betac.cn/en/)) — `Swift` `Python`
+*   [OpusBar (⭐13)](https://github.com/kushalBanda/OpusBar) - A cat in your menu bar that watches your Claude Code and Codex sessions: it takes on the state of the most urgent one, flags the session that needs you, and tracks plan limits and billing. ([Website](https://kushalbanda.com/opusbar/)) — `Swift`
+*   [Runout Bar (⭐14)](https://github.com/RobinVivant/runout-bar) - Menu bar app that shows Claude and Codex usage for several accounts pooled by a local TeamClaude proxy, with pace forecasts and the time the pool runs out. — `Swift`
+*   [Seshka (⭐27)](https://github.com/jigjoy-ai/seshka) - Menu bar app that finds the dev servers, watchers and browsers closed Claude Code sessions left running, and kills them. ([Website](https://seshka.dev)) — `Swift`
+*   [ThinkWatch Lite (⭐1.1k)](https://github.com/ThinkWatchProject/ThinkWatch-Lite) - Local gateway for Claude Code, Codex and other AI coding clients, with upstream switching, per-request cost records and redaction of API keys before requests leave. ([Website](https://thinkwat.ch/lite/)) — `Rust` `TypeScript`
+*   [Usagebar (⭐16)](https://github.com/betoxf/Usagebar) - Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset. ([Website](https://bullfighterstudio.com/usagebar)) — `Swift`
+*   [PRty Time (⭐8)](https://github.com/fragkakis/prty-time) - Lists the GitHub pull requests waiting on your review in the menu bar, and notifies you when something happens on them. — `Swift`
+*   [AI Usage (⭐10)](https://github.com/neoromantic/ai-usage) - Menu bar app and CLI that show how much Claude Code, Codex and Grok quota is left on each machine and whether it lasts until the reset. ([Website](https://au.sergeybaus.com)) — `Go` `Swift`
+*   [ccx (⭐16)](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website (⭐16)](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
+*   [Loom (⭐4)](https://github.com/chaiwithcode/Loom) - Native read-only macOS menu-bar monitor for Codex, Claude Code and Antigravity sessions, repositories, lifecycle states and provider health. ([Website](https://chaiwithcode.github.io/Loom/)) — `Swift`
+*   [Arras (⭐59)](https://github.com/yashashwi-s/Arras) - Desktop photo widgets and editable collages with slideshows and adjustable layers. ([Website](https://tryarras.tech/)) — `Swift`
+*   [Keyameleon (⭐9)](https://github.com/mastro993/keyameleon) - Menu bar app that gives each physical keyboard its own input source and switches to it automatically as you type. ([Website](https://keyameleon.app)) — `Swift`
+*   [Bar27 (⭐24)](https://github.com/ATTILA-KRB/bar27) - Menu bar manager for macOS 27 that hides menu bar items per app and reveals them with a click, hover or shortcut. — `Swift`
+*   [Chime 4 Breakfast (⭐10)](https://github.com/onekapisch/chime-4-breakfast) - Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention. ([Website](https://www.onekapisch.com/products/chime-4-breakfast/)) — `Swift`
+*   [Deploylight (⭐32)](https://github.com/andrewk17/deploylight) - Vercel and Cloudflare deploy status in your Mac menu bar. ([Website](https://deploylight.akim.workers.dev/)) — `Swift`
+*   [Frost (⭐39)](https://github.com/frostbar/frost) - Menu bar manager that shows icons hidden by the MacBook notch in a drop-down panel. — `Swift`
+*   [SpotAsk (⭐22)](https://github.com/shiquda/SpotAsk) - One hotkey to ask any AI from the Mac menu bar: in-app answers with your own API key, or smart routing to web AI, CLI agents and desktop apps. ([Website](https://shiquda.github.io/SpotAsk/)) — `Swift`
+
+### 🎵 Audio (117)
+
+*   [AudioEnhancerMAX (⭐8)](https://github.com/sev7enITA/AudioEnhancerMAX) - Audio editor with local processing, reviewable non-destructive edits, and traceable processing reports. ([Website](https://fabriziodegni.com/AudioEnhancerMAX/)) — `Python` `JavaScript`
+*   [AudioSmith (⭐256)](https://github.com/hehehai/AudioSmith) - Offline voice studio for Apple silicon: text to speech, voice cloning, audiobooks, video dubbing and transcripts with speakers. ([Website](https://actnow.dev/audiosmith)) — `Go` `Swift`
+*   [VoiceInk (⭐7.1k)](https://github.com/Beingpax/VoiceInk) - Open-source macOS dictation with on-device speech recognition and app-specific modes. ([Website](https://tryvoiceink.com/)) — `Swift`
+
+### ▶️ Player (18) / ✏️ Text (20)
+
+*   [BitSpring (⭐5)](https://github.com/crash2bash/bitspring) - Bit-perfect music player: native DSD, each track at its own sample rate up to 768 kHz, exclusive (hog) mode, gapless playback, and an optional parametric EQ with AutoEQ headphone profiles, crossfeed and upsampling. ([Website](https://bitspring.app)) — `Rust` `TypeScript`
+*   [Vibe (⭐52)](https://github.com/cmicali/vibe) - Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output. ([Website](https://vibeplayer.app)) — `Objective-C`
 
 ### 🛠️ Utilities (389) / ✏️ Text (20)
 
-*   [Hush (⭐8)](https://github.com/OgnjenAdzic28/hush) - Lets AI agents see and use any Mac app in the background, about 178 ms per action, without taking focus or moving your pointer. ([Website (⭐8)](https://github.com/OgnjenAdzic28/hush)) — `Rust`
-*   [Clipy (Cross-Platform) (⭐122)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows, and Android, file transfer, Android notification mirroring, screenshots, and on-device OCR. ([Website (⭐122)](https://github.com/JunWeiUp/Clipy)) — `Swift` `Dart`
 *   [hark (⭐26)](https://github.com/PhantomYdn/hark) - Capture microphone, system or per-app audio and transcribe it on-device from a single native CLI. ([Website (⭐26)](https://github.com/PhantomYdn/hark)) — `Swift`
 *   [Mimi (⭐851)](https://github.com/yuxino/mimi) - Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services. ([Website](https://mimi.yuxino.cn/en/)) — `Rust` `TypeScript`
 *   [TTS (⭐6)](https://github.com/geragarazagh/tts) - Text to speech app that reads text aloud with the voices of macOS, Siri’s included, and saves it as MP3. ([Website](https://geragaraza.com/apps/tts/)) — `Swift`
@@ -454,134 +626,6 @@
 *   [Unison UI for macOS (⭐10)](https://github.com/bcourbage/unison-ui-mac) - Native macOS GUI for the Unison file synchronizer, with two-way sync over SSH and conflict review. ([Website](https://bcourbage.github.io/unison-ui-mac/)) — `Swift`
 *   [WhimsyDesk (⭐12)](https://github.com/Electrofist/WhimsyDesk) - Real-feeling desktop objects that hold your files: a fridge, a drawer, a post box and a vending machine. ([Website](https://whimsydesk.art)) — `Swift`
 
-### ⏱️ Productivity (283) / ✏️ Text (20)
-
-*   [Relay (⭐6)](https://github.com/ahmetcankacar54/relay) - Menu bar app that switches the Claude app between accounts, shares Claude Code history across them and shows every account's 5-hour and weekly usage limits. ([Website (⭐6)](https://github.com/ahmetcankacar54/relay)) — `TypeScript` `Swift`
-*   [Amical (⭐1.6k)](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
-*   [Carbon (⭐9)](https://github.com/AlexDemzz/carbon) - Menu bar app that transcribes your meetings on device and saves each one as a Markdown file, with no bot and no cloud. ([Website](https://carbon.alexandrejoly.me)) — `Swift`
-*   [Digisensus Recorder (⭐19)](https://github.com/Digisensus/digisensus-recorder) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. ([Website](https://digisensus.com/call-recorder-mac/)) — `Swift`
-*   [Glimpse (⭐62)](https://github.com/glimpse-hq/Glimpse) - Local dictation and meeting transcription with speaker labels, free and unlimited for dictation. ([Website](https://tryglimpse.cc/)) — `Rust` `TypeScript`
-*   [LokalBot (⭐120)](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP for coding agents. ([Website](https://www.lokalbot.com)) — `Swift` `Rust`
-*   [Lowspeak (⭐7)](https://github.com/sventmueller/lowspeak) - Ultrafast native AI speech-to-text for every Mac app: hold fn, talk, let go. Free online with your own Groq key or offline with Whisper and NVIDIA Parakeet, written in Rust, 35 languages. — `Rust`
-*   [MacroSIP (⭐30)](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website (⭐30)](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
-*   [Minute (⭐31)](https://github.com/mraza007/minute) - Records meetings without a bot, transcribes them on-device with Whisper, labels speakers, and writes summaries and action items with a local LLM. ([Website](https://minutenotes.app)) — `Rust` `TypeScript`
-*   [mm2t (⭐22)](https://github.com/yuzen9622/mm2t) - Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries. ([Website](https://mm2t.yuzen.dev/en/)) — `Swift`
-*   [Purr (⭐108)](https://github.com/iamarunbrahma/purr) - Dictation that types into any app, plus meeting notes with speaker labels and summaries, all on-device with Parakeet or Whisper. ([Website](https://purr.arunbrahma.com)) — `Swift`
-*   [Shiyin (⭐184)](https://github.com/juinwei7/Shiyin) - Meeting notes app that records Zoom, Meet and Teams without a bot, transcribes on-device with whisper.cpp, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT. ([Website](https://shiyin.weibuilds.com)) — `Swift`
-*   [Tamka (⭐5)](https://github.com/piedol/tamka) - On-device dictation that runs NVIDIA's Parakeet speech models on the Neural Engine and types at the cursor in any app. ([Website](https://www.piedol.top/tamka/)) — `Rust` `Swift`
-*   [ThunderTalk (⭐18)](https://github.com/realAllenSong/ThunderTalk) - On-device voice input: press a key, speak Chinese or English, text lands at the cursor. Also transcribes links, reads aloud and composes songs. ([Website](https://realallensong.github.io/ThunderTalk/)) — `Python`
-*   [Tingo (⭐48)](https://github.com/tancheng33/tingo) - Local-first meeting notes: records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose. ([Website (⭐48)](https://github.com/tancheng33/tingo)) — `Rust` `TypeScript` `Swift`
-*   [Voltip (⭐106)](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
-*   [Wavo (⭐39)](https://github.com/vladkens/wavo-app) - Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview. — `Rust`
-*   [WhisPaste (⭐87)](https://github.com/whispaste/whispaste) - Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app. ([Website](https://whispaste.de/en/)) — `Dart` `C++` `Swift`
-*   [WhisperDrop 2 (⭐10)](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website (⭐10)](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
-*   [Yogurt (⭐3.1k)](https://github.com/FrigadeHQ/yogurt) - Meeting notes that stay on your Mac: records calls without joining them, transcribes locally with Whisper and writes summaries with an on-device model. ([Website](https://yogurt.so)) — `TypeScript` `Swift`
-*   [CoWork OS (⭐554)](https://github.com/CoWork-OS/CoWork-OS) - Open-source desktop AI agent for files, browser and chat-app tasks that works with your own API keys or local models through Ollama and MLX. ([Website](https://coworkosapp.com)) — `TypeScript`
-*   [Tarn (⭐6)](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://tarn-ai.vercel.app)) — `Swift`
-*   [Trina AX (⭐419)](https://github.com/trina-app/trina-ax) - Team AI workspace with one shared drive, chat rooms and per-person folder permissions, run on your own server. ([Website](https://ax.trina.app)) — `TypeScript`
-*   [Agent Hive (⭐27)](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
-*   [AI Juggler (⭐8)](https://github.com/figurehead-ai/AI-juggler) - Manage Claude Code and Codex sessions, accounts, usage limits, and resource usage in one local-first dashboard. ([Website](https://figurehead.ai/ai-juggler)) — `Rust` `TypeScript`
-*   [Brigade (⭐20)](https://github.com/gmpetrov/brigade) - Open-source app that runs a team of AI teammates for support, marketing, sales and code, each one Claude Code or Codex signed in with your own Claude or ChatGPT plan. ([Website](https://www.brigade.lol)) — `TypeScript` `Rust` `Swift`
-*   [Caprock (⭐50)](https://github.com/dspv/caprock) - Desktop app that runs Claude Code, Codex, OpenCode and Gemini CLI side by side and shows what every session and pull request costs, read from the agents' local logs. ([Website](https://caprock.dev)) — `Go` `TypeScript` `Rust`
-*   [Codealong (⭐73)](https://github.com/codealong/codealong) - Mac app that tracks every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine, grouped by repo, worktree and PR, with notch and floating-bar approvals, automated draft PR reviews, and plan usage per account. ([Website](https://www.codealong.com)) — `Rust` `TypeScript`
-*   [Friday (⭐85)](https://github.com/splashxmoon/friday) - Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit. ([Website](https://www.tryfridaywork.com)) — `TypeScript`
-*   [HarnessBridge (⭐7)](https://github.com/Larrtroffen/harnessbridge) - Open-source app for migrating AI coding-agent sessions between Claude Code, Codex, DeepSeek Harness, OMP, Qoder, and 40+ harnesses. ([Website (⭐7)](https://github.com/Larrtroffen/harnessbridge)) — `Swift`
-*   [MightyMouse (⭐8)](https://github.com/royherma/mightymouse) - Voice typing in any app with local Whisper, Claude Code and Codex agents that keep working while you're out, and your Mac on your phone. ([Website](https://getmightymouse.com)) — `TypeScript` `Swift`
-*   [OmegaStar (⭐6)](https://github.com/itsfutsy/OmegaStar) - Turns the Claude Code you already use, with its browser, models and logins, into a team of AI employees with scoped objectives, who learn by talking and keep each lesson as a skill. ([Website](https://abramindustries.com/#omega-star)) — `Rust` `TypeScript`
-*   [Orca (⭐133k)](https://github.com/stablyai/orca) - AI orchestrator that runs Codex, Claude Code, OpenCode or Pi side-by-side, each in its own git worktree and tracked in one place. ([Website](https://onorca.dev)) — `TypeScript`
-*   [Perch (⭐31)](https://github.com/asafofer/perch) - Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact window or terminal pane. ([Website](https://perchapp.dev)) — `Swift` `JavaScript`
-*   [reshelf (⭐27)](https://github.com/aka-kika/reshelf) - Catalogs open-source GitHub repos on shelves, clones them by category, and shows when a clone has updates to pull. ([Website](https://aka-kika.github.io/reshelf/)) — `Swift`
-*   [SeshBuddy (⭐9)](https://github.com/huangy7/seshbuddy) - Desktop workbench and session explorer for AI coding agents (Claude Code, OpenCode, Codex). ([Website](https://seshbuddy.huangy.top)) — `Rust` `Vue` `TypeScript`
-*   [Solenta (⭐20)](https://github.com/currentbits/solenta) - Local-first desktop app for running coding-agent CLIs (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) with shared memory across sessions, a GitHub-issues planboard and one git worktree per thread. ([Website](https://solenta.app)) — `JavaScript` `TypeScript`
-*   [Spyhop (⭐11)](https://github.com/leeleelee3264/spyhop) - Board that shows every running Claude Code, Codex and OMP session with its progress as steps (done, now, next), putting sessions that wait for input on top. ([Website](https://leeleelee3264.github.io/spyhop/)) — `Python` `Swift`
-*   [Yardlet (⭐46)](https://github.com/zzunkie/yardlet) - Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. ([Website](https://yardlet.app)) — `Swift`
-*   [Agent Standup (⭐383)](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
-*   [DartPDF (⭐103)](https://github.com/ben-milanko/dart-pdf) - Free PDF editor for macOS with annotations, form filling and signatures. ([Website](https://apps.apple.com/app/dartpdf/id6780083686?platform=mac)) — `Dart`
-*   [Musset (⭐12)](https://github.com/Musset-App/musset) - Writing app for books: chapters and scenes as plain Markdown files, versions kept in git, manuscript and EPUB export, and an optional AI editor that annotates but never writes for you. ([Website](https://musset.app)) — `Swift`
-*   [Slowth (⭐8)](https://github.com/skar404/slowth) - Safari extension for macOS that hides YouTube Shorts and Reels from Instagram and Facebook and limits distracting feeds. ([Website](https://slowth.app/)) — `Swift` `JavaScript`
-*   [neatly (⭐15)](https://github.com/alpozaydin/neatly) - AI file renamer that gives downloads, screenshots and photos clear names by their content, on-device with Apple Intelligence. ([Website](https://alpozaydin.github.io/neatly/)) — `Swift`
-*   [NewFile (⭐90)](https://github.com/mariusgm/newfile) - Finder extension that adds New File to the right-click menu and toolbar, with custom file types and starter templates. ([Website](https://newfile.dev)) — `Swift`
-*   [PrimeSnap (⭐7)](https://github.com/nivohavi/primesnap) - Menu bar app to capture, frame, annotate and redact screenshots, with on-device auto-redaction of emails and API keys. ([Website (⭐7)](https://github.com/nivohavi/primesnap)) — `Swift`
-*   [GigaMail (⭐20)](https://github.com/adecubed/gigamail) - Mail client your AI agent can use, for Microsoft 365, Gmail and IMAP: nothing is sent until you approve it with Touch ID. ([Website](https://gigamail.ai)) — `Python` `JavaScript`
-*   [Annotator (⭐18)](https://github.com/dorlugasigal/annotator) - Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable. ([Website](https://getannotator.app)) — `Swift`
-*   [bot-inator (⭐6)](https://github.com/Bforsyth1234/bot-inator) - Local-first menu bar agent that notices what you do, offers help on approval cards, and writes its own sandboxed tools. — `Swift` `Python`
-*   [Brink (⭐8)](https://github.com/StepanBlaha/Brink) - A notch on your screen edge that keeps your Notion pages and tasks one hover away. ([Website](https://brinknotch.site)) — `Swift`
-*   [Cockpit (⭐15)](https://github.com/Yvsleyen00941/Cockpit) - Unified productivity heads-up display for macOS and iPadOS consolidating Calendar, Music, Notion, and Mail into a modular control surface. ([Website](https://yorben.me)) — `Swift`
-*   [Dayside (⭐10)](https://github.com/ninondev/Dayside) - Menu bar world clock that paints each city's row in its real sky color and finds meeting times across time zones. — `Swift` `Rust`
-*   [Easy Write (⭐36)](https://github.com/onekapisch/easy-write) - Menu bar app that translates and rewrites selected text in place with on-device Apple Intelligence, in a formal or informal tone. ([Website](https://www.onekapisch.com/products/easy-write/)) — `Swift`
-*   [Griasa (⭐7)](https://github.com/Stari-am/griasa) - Local-first meeting recorder that finds who promised what, with pre-meeting briefs, dictation and a read-only MCP server. ([Website](https://stari-am.github.io/griasa/)) — `Swift`
-*   [Hourmint (⭐8)](https://github.com/abdurrahmanriyad/hourmint) - Menu bar time tracker for freelancers with a work log, timesheets and PDF invoices. Local-first, no account needed. ([Website](https://hourmint.abdur.tech)) — `Rust` `TypeScript`
-*   [Kurenai (⭐6)](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted. ([Website](https://lorder19.github.io/kurenai/)) — `Swift`
-*   [OpenValet (⭐10)](https://github.com/SamarthY06/OpenValet) - Voice and WhatsApp agent that runs Claude Code on your own Claude login, with local wake word, speech recognition and voices, and a gate that asks before anything irreversible. ([Website (⭐10)](https://github.com/SamarthY06/OpenValet)) — `Swift` `Python` `Go`
-*   [Point (⭐11)](https://github.com/sksareen/point) - Hold a key, talk, and circle part of the screen. Point sends your words plus a screenshot of what you circled to Claude Code, Cursor, or any chat, with on-device transcription. ([Website](https://www.pointandtell.app)) — `Swift`
-*   [Polka (⭐5)](https://github.com/romabmstu/polka) - Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. ([Website](https://romabmstu.github.io/polka/)) — `Swift`
-*   [Reed Dictation (⭐7)](https://github.com/w20labs/reed) - Free, local-only hold-to-talk dictation for Apple Silicon Macs, with on-device Parakeet speech recognition and cleanup of filler words and restarts. ([Website](https://reed.w20.ai/)) — `Swift`
-*   [StockDock (⭐55)](https://github.com/simonsruggi/StockDock) - Menu bar app that tracks stocks, ETFs, indices, crypto and your portfolio P\&L in real time, with pre-market and after-hours prices, alerts and a full desktop window. ([Website](https://stockdockapp.com)) — `Swift`
-*   [Tapestry (⭐5)](https://github.com/HMDRAMS-DEV/tapestry) - Lightweight trackpad gestures that press keys, run Shortcuts, and open apps. ([Website](https://tapestry.ramihmd.com)) — `Swift`
-*   [Tendedero (⭐3.4k)](https://github.com/alejandrobujan/tendedero) - Every screenshot you take hangs on a line just above your screen, ready to drag into any app or folder. ([Website](https://tendedero.app)) — `Swift`
-*   [AFFiNE (⭐75k)](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
-*   [BaseHalf (⭐18)](https://github.com/Pointa-Labs/basehalf) - Opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it. ([Website](https://basehalf.com)) — `TypeScript`
-*   [EdgeEver (⭐3.5k)](https://github.com/tianma-if/edgeever) - Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration. ([Website](https://edgeever.org)) — `TypeScript` `JavaScript`
-*   [Knovum (⭐63)](https://github.com/madebyzan/knovum) - Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription. ([Website (⭐63)](https://github.com/madebyzan/knovum)) — `Rust` `TypeScript`
-*   [Koru (⭐46)](https://github.com/koruworks/mono) - Local-first workspace for notes, docs and files with terminal tabs and a local MCP server. No account required; imports Evernote, Notion, OneNote, Google Docs and Markdown. ([Website](https://www.koru.do)) — `Rust`
-*   [Lemma (⭐15)](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write. ([Website (⭐15)](https://github.com/fus3r/lemma)) — `Swift`
-*   [Lotti (⭐1.2k)](https://github.com/matthiasn/lotti) - Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents. ([Website](https://matthiasn.github.io/lotti/)) — `Dart`
-*   [Platypus Notes (⭐43)](https://github.com/pixelsmasher13/platypus) - Local-first notes app that records meetings without a bot, transcribes them on-device with Whisper, and lets you chat with your notes using your own AI provider or Ollama. ([Website](https://platypusnotes.com)) — `Rust` `TypeScript`
-*   [SoloPDF (⭐14)](https://github.com/zhitongblog/solopdf) - Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes (.annotations.md), with on-device OCR, visual blink diff, and a 56-tool MCP server. ([Website](https://solopdf.doaipm.com)) — `Rust`
-*   [GlideDeck (⭐18)](https://github.com/nirlotan/GlideDeck) - Zooming presentations on an infinite canvas, with PowerPoint import and export. ([Website (⭐18)](https://github.com/nirlotan/GlideDeck)) — `Rust`
-*   [Little Reef (⭐6)](https://github.com/echoVic/little-reef) - Open-source focus timer that grows a reef as you finish sessions, with menu bar controls, ambient sounds and a desktop widget. ([Website](https://reef.echovic.com/en/)) — `Go` `TypeScript`
-*   [Murmury (⭐27)](https://github.com/GianlucaBave/murmury) - Answers questions from your own documents during video calls, in a floating window hidden from screen sharing. ([Website](https://murmury.pages.dev)) — `Python` `Swift`
-*   [OpenIntelligence (⭐30)](https://github.com/Gunnarguy/OpenIntelligence) - Chat with your own PDFs, notes and scans using Apple Intelligence, with retrieval on the device, offline use and a cited page for every answer. ([Website](https://openintelligence.me)) — `Swift`
-*   [Rapid Reader (⭐38)](https://github.com/Zer0codestuff/Rapid-Reader) - RSVP speed reader for EPUB, PDF, DOCX, Markdown and web articles, with a full-text view. ([Website (⭐38)](https://github.com/Zer0codestuff/Rapid-Reader)) — `Swift`
-
-### 📊 Menubar (314) / ✏️ Text (20)
-
-*   [AudioAnchor (⭐9)](https://github.com/wata/AudioAnchor) - Menu bar app that keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else. ([Website (⭐9)](https://github.com/wata/AudioAnchor)) — `Swift`
-*   [AudioSync (⭐8)](https://github.com/yassersutojoyo/audiosync) - Play your Mac's audio on AirPlay, Google Cast and local speakers at once, with a delay per speaker so they stay in sync. — `Swift` `Rust`
-*   [EQ (⭐12)](https://github.com/dylenq/macos-parametric-eq) - System-wide parametric equalizer for macOS that needs no audio driver, with AutoEq import and per-output curves. ([Website](https://dylenq.github.io/macos-parametric-eq/)) — `Rust`
-*   [jdsp4mac (⭐8)](https://github.com/Tekkiech/jdsp4mac) - Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio. ([Website (⭐8)](https://github.com/Tekkiech/jdsp4mac)) — `Swift` `C`
-*   [OpenSpatial (⭐31)](https://github.com/dortanes/openspatial) - Spatial audio for any headphones that plays every app as 7.1 surround, with head tracking through the camera. — `Swift`
-*   [Smorza (⭐13)](https://github.com/rokoov/smorza) - Per-app volume, mute and output device for every Mac app, from the menu bar. No audio driver. ([Website](https://smorza.app)) — `Swift`
-*   [Stelix (⭐24)](https://github.com/stelix-app/stelix) - Live stem separation for your Mac: splits what any app is playing into vocals, drums, bass and other in real time, so you can turn each one up or down or hear it alone. ([Website](https://getstelix.com)) — `Swift` `Python`
-*   [Volumist (⭐5)](https://github.com/jpdominguez/volumist) - Menu bar mixer with per-app volume, output, EQ and leveling, and automatic lowering during calls. ([Website (⭐5)](https://github.com/jpdominguez/volumist)) — `Swift` `C`
-*   [TimeMachineEjector (⭐5)](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. ([Website (⭐5)](https://github.com/wata/TimeMachineEjector)) — `Swift`
-*   [Browserdoor (⭐5)](https://github.com/schowave/browserdoor) - Link picker that asks which browser, Chrome profile or Zen space a link should open in. — `Swift`
-*   [Switchboard (⭐6)](https://github.com/justadityaraj/switchboard-browser-picker) - Menu-bar browser picker that opens each link in the right browser, Chrome or Brave profile, or private window, with rules by site, URL or source app and built-in link cleanup. ([Website](https://dev.adityarajsingh.com/switchboard/)) — `Swift`
-*   [Onebox (⭐3)](https://github.com/stek765/OneBox) - Menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, with regex notification filters and quiet hours. ([Website (⭐3)](https://github.com/stek765/OneBox)) — `JavaScript`
-*   [Agent Monitor (⭐3)](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website (⭐3)](https://github.com/paveler/agent-monitor)) — `Swift`
-*   [AgentBar (⭐15)](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
-*   [CCSwitcher (⭐216)](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website (⭐216)](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
-*   [DevCheck (⭐6)](https://github.com/iihao/devcheck) - Menu bar port map: see who holds a port, which project it belongs to, and why your server won't start. ([Website (⭐6)](https://github.com/iihao/devcheck)) — `Swift`
-*   [gas (⭐15)](https://github.com/gilador/gas) - Menu bar app and floating panel that show Claude Code, Codex and Grok plan usage limits and reset times. ([Website (⭐15)](https://github.com/gilador/gas)) — `Swift`
-*   [Kiteline (⭐49)](https://github.com/hon6/kiteline) - Follow, reply to and approve Claude Code, Codex and OpenCode sessions running on your Mac from iPhone, iPad and Apple Watch. ([Website](https://tars.betac.cn/en/)) — `Swift` `Python`
-*   [OpusBar (⭐13)](https://github.com/kushalBanda/OpusBar) - A cat in your menu bar that watches your Claude Code and Codex sessions: it takes on the state of the most urgent one, flags the session that needs you, and tracks plan limits and billing. ([Website](https://kushalbanda.com/opusbar/)) — `Swift`
-*   [Runout Bar (⭐14)](https://github.com/RobinVivant/runout-bar) - Menu bar app that shows Claude and Codex usage for several accounts pooled by a local TeamClaude proxy, with pace forecasts and the time the pool runs out. — `Swift`
-*   [Seshka (⭐27)](https://github.com/jigjoy-ai/seshka) - Menu bar app that finds the dev servers, watchers and browsers closed Claude Code sessions left running, and kills them. ([Website](https://seshka.dev)) — `Swift`
-*   [ThinkWatch Lite (⭐1.1k)](https://github.com/ThinkWatchProject/ThinkWatch-Lite) - Local gateway for Claude Code, Codex and other AI coding clients, with upstream switching, per-request cost records and redaction of API keys before requests leave. ([Website](https://thinkwat.ch/lite/)) — `Rust` `TypeScript`
-*   [Usagebar (⭐16)](https://github.com/betoxf/Usagebar) - Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset. ([Website](https://bullfighterstudio.com/usagebar)) — `Swift`
-*   [PRty Time (⭐8)](https://github.com/fragkakis/prty-time) - Lists the GitHub pull requests waiting on your review in the menu bar, and notifies you when something happens on them. — `Swift`
-*   [AI Usage (⭐10)](https://github.com/neoromantic/ai-usage) - Menu bar app and CLI that show how much Claude Code, Codex and Grok quota is left on each machine and whether it lasts until the reset. ([Website](https://au.sergeybaus.com)) — `Go` `Swift`
-*   [ccx (⭐16)](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website (⭐16)](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
-*   [Loom (⭐4)](https://github.com/chaiwithcode/Loom) - Native read-only macOS menu-bar monitor for Codex, Claude Code and Antigravity sessions, repositories, lifecycle states and provider health. ([Website](https://chaiwithcode.github.io/Loom/)) — `Swift`
-*   [Arras (⭐59)](https://github.com/yashashwi-s/Arras) - Desktop photo widgets and editable collages with slideshows and adjustable layers. ([Website](https://tryarras.tech/)) — `Swift`
-*   [Keyameleon (⭐9)](https://github.com/mastro993/keyameleon) - Menu bar app that gives each physical keyboard its own input source and switches to it automatically as you type. ([Website](https://keyameleon.app)) — `Swift`
-*   [Bar27 (⭐24)](https://github.com/ATTILA-KRB/bar27) - Menu bar manager for macOS 27 that hides menu bar items per app and reveals them with a click, hover or shortcut. — `Swift`
-*   [Chime 4 Breakfast (⭐10)](https://github.com/onekapisch/chime-4-breakfast) - Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention. ([Website](https://www.onekapisch.com/products/chime-4-breakfast/)) — `Swift`
-*   [Deploylight (⭐32)](https://github.com/andrewk17/deploylight) - Vercel and Cloudflare deploy status in your Mac menu bar. ([Website](https://deploylight.akim.workers.dev/)) — `Swift`
-*   [Frost (⭐39)](https://github.com/frostbar/frost) - Menu bar manager that shows icons hidden by the MacBook notch in a drop-down panel. — `Swift`
-*   [SpotAsk (⭐22)](https://github.com/shiquda/SpotAsk) - One hotkey to ask any AI from the Mac menu bar: in-app answers with your own API key, or smart routing to web AI, CLI agents and desktop apps. ([Website](https://shiquda.github.io/SpotAsk/)) — `Swift`
-
-### 🎵 Audio (117)
-
-*   [AudioEnhancerMAX (⭐8)](https://github.com/sev7enITA/AudioEnhancerMAX) - Audio editor with local processing, reviewable non-destructive edits, and traceable processing reports. ([Website](https://fabriziodegni.com/AudioEnhancerMAX/)) — `Python` `JavaScript`
-*   [AudioSmith (⭐256)](https://github.com/hehehai/AudioSmith) - Offline voice studio for Apple silicon: text to speech, voice cloning, audiobooks, video dubbing and transcripts with speakers. ([Website](https://actnow.dev/audiosmith)) — `Go` `Swift`
-*   [VoiceInk (⭐7.1k)](https://github.com/Beingpax/VoiceInk) - Open-source macOS dictation with on-device speech recognition and app-specific modes. ([Website](https://tryvoiceink.com/)) — `Swift`
-
-### ▶️ Player (18) / ✏️ Text (20)
-
-*   [BitSpring (⭐5)](https://github.com/crash2bash/bitspring) - Bit-perfect music player: native DSD, each track at its own sample rate up to 768 kHz, exclusive (hog) mode, gapless playback, and an optional parametric EQ with AutoEQ headphone profiles, crossfeed and upsampling. ([Website](https://bitspring.app)) — `Rust` `TypeScript`
-*   [Vibe (⭐52)](https://github.com/cmicali/vibe) - Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output. ([Website](https://vibeplayer.app)) — `Objective-C`
-
 ### 🎧 Music (34) / ✏️ Text (20)
 
 *   [LazyTune (⭐2)](https://github.com/Vic3z/LazyTune) - Lightweight menu bar per-app audio mixer and universal media key controller (F7/F8/F9) for web browsers and desktop media players. ([Website (⭐2)](https://github.com/Vic3z/LazyTune)) — `Swift`
@@ -669,7 +713,6 @@
 *   [CurlGo (⭐5)](https://github.com/echoVic/curlgo) - Open-source API client for HTTP, SSE and WebSocket with local workspaces, curl, Postman and Bruno import, and response assertions. ([Website](https://curlgo.echovic.com/en/)) — `Go` `TypeScript`
 *   [Frink (⭐65)](https://github.com/benord-labs/frink) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. ([Website](https://frink.dev)) — `TypeScript`
 *   [Helicon (⭐116)](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs, one-at-a-time approvals and usage costs. Unofficial, not affiliated with Meta. ([Website](https://helicon.sh)) — `TypeScript` `Rust`
-*   [Kapitsa (⭐871)](https://github.com/nace-ai/kapitsa) - Native LLM inference engine for Apple silicon (Metal and the Neural Engine) that serves OpenAI- and Anthropic-compatible APIs and starts coding agents on a local model. — `C++`
 *   [mu (⭐615)](https://github.com/qybaihe/mu) - Coding agent with a CLI and a desktop app, in which a small, fast judge model makes routine decisions such as what enters the context and whether a command is safe. ([Website](https://usemu.dev)) — `TypeScript`
 *   [Orchestrator.inc (⭐15k)](https://github.com/OrchestratorInc/agent-orchestrator) - Desktop workspace for planning, running and supervising fleets of coding agents such as Claude Code and Codex, each in its own git worktree, from task to merged pull request. ([Website](https://orchestrator.inc)) — `TypeScript`
 *   [Rapid-MLX (⭐4.2k)](https://github.com/raullenchai/Rapid-MLX) - Native app and local inference server for Apple Silicon that runs MLX language, image and speech models behind OpenAI- and Anthropic-compatible APIs. ([Website](https://rapidmlx.com)) — `Swift` `Python`
@@ -848,7 +891,20 @@
 
 *   [Mosaic (⭐8)](https://github.com/vastunghia/mosaic-screensaver-revived) - The Mosaic screen saver from Mac OS X Leopard, rebuilt for macOS 15 and later, on your own photographs. ([Website](https://vastunghia.github.io/mosaic-screensaver-revived/)) — `Swift`
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### AI Tools / Other Tools
+
+*   [Hush (⭐8)](https://github.com/OgnjenAdzic28/hush) - Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/OgnjenAdzic28/hush) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kapitsa (⭐871)](https://github.com/nace-ai/kapitsa) - Open-source LLM inference engine for Apple silicon, built on native Metal kernels and the Neural Engine, with OpenAI- and Anthropic-compatible APIs and one-command local coding agents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nace-ai/kapitsa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Relay (⭐6)](https://github.com/ahmetcankacar54/relay) - Switch the Claude app between accounts, keep Claude Code history on all of them, and see every account’s 5-hour and weekly limits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ahmetcankacar54/relay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SpecWithCode](https://specwithcode.com) - Open-source (MIT) desktop app that runs Claude Code, Codex and GitHub Copilot threads side by side, with a project coordinator and one git worktree per task. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anton-abyzov/specwithcode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tally](https://tally-site.vercel.app) - Open-source menu bar app that shows usage limits, reset times, pace and spend for Claude Code, Codex, Cursor, Grok and OpenCode, plus a Wrapped-style recap of your AI coding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/PratikRai0101/tally) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [JoeBro](https://joebro.pages.dev) - Native SwiftUI workspace for coding agents (Claude Code, Codex, OpenCode) with your files open beside them, shared memory over MCP, overnight tasks, and local or API models. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joexk1/JoeBro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Clipboard Tools
+
+*   [Clipy (Cross-Platform) (⭐122)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows & Android, file transfer, Android notification mirroring, screenshots and OCR. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JunWeiUp/Clipy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Developer Tools / IDEs
 
@@ -858,23 +914,34 @@
 
 *   [ContextRing (⭐1)](https://github.com/vladsboev-web/ContextRing) - Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/ContextRing) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-### AI Tools / Other Tools
+### Developer Tools / API Development and Analysis
 
-*   [Tally](https://tally-site.vercel.app) - Open-source menu bar app that shows usage limits, reset times, pace and spend for Claude Code, Codex, Cursor, Grok and OpenCode, plus a Wrapped-style recap of your AI coding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/PratikRai0101/tally) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [JoeBro](https://joebro.pages.dev) - Native SwiftUI workspace for coding agents (Claude Code, Codex, OpenCode) with your files open beside them, shared memory over MCP, overnight tasks, and local or API models. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/joexk1/JoeBro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [CurlGo](https://curlgo.echovic.com/en/) - Open-source API client for HTTP, SSE and WebSocket that keeps workspaces on your Mac and imports curl, Postman and Bruno collections. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/echoVic/curlgo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Other Tools
+
+*   [Vaquero (⭐0)](https://github.com/BitWise-0x/Vaquero) - Learns a face from a few photos, then finds every photo and video of that person in your folders, fully offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BitWise-0x/Vaquero) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
+*   [Nuclear](https://nuclearplayer.com/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/margbug01/MySpotify) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [SpatialAudio (⭐5)](https://github.com/vladsboev-web/SpatialAudio) - System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/SpatialAudio) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
 *   [Iris](https://harshwardhangalande.github.io/Iris/) - Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harshwardhangalande/Iris) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Roomie](https://lesheess.github.io/small-living-things/) - A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [MenuBarHome (⭐46)](https://github.com/jryang2026-code/MenuBarHome) - Control Xiaomi Mi Home and Home Assistant devices from the menu bar, with keyboard search and voice commands (formerly MenuBarMijia). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang2026-code/MenuBarHome) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Cleanup and Uninstall
 
 *   [Breathing Room](https://breathing-room.chatic.ai/) - See what is using your Mac's disk space, group busy apps, and review a measured cleanup plan before anything changes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bucabay/breathing-room-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
+*   [Verticar (⭐3)](https://github.com/sarogreco/Verticar) - Open-source app for using an iPad as a portrait second display over Sidecar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarogreco/Verticar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Finder Tools
 
@@ -893,7 +960,7 @@
 
 *   [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - Tiny menu-bar launcher for remote Macs, Tailscale discovery, Screen Sharing, and SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [22. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APIs Covered Under APILayer Suite!
 
@@ -1253,13 +1320,13 @@
 
 
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Mobile App Distribution and Feedback
 
 *   [BetaLobby](https://betalobby.com) - Closed testing platform for Android developers to distribute pre-release Google Play builds across 16-developer teams, verify installs, and track 14-day daily check-ins to meet the 12-tester production requirement. Free, no paid plans.
 
-## [24. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [29. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Mobile
 
