@@ -2,7 +2,7 @@
 
 :art: A curated contents of amazing CSS :)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awesome-css-group/awesome-css/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) · ⭐ 5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awesome-css-group/awesome-css/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) · ⭐ 5.7K · 🏷️ Front-End Development
 
 [ [Daily](/content/awesome-css-group/awesome-css/README.md) / [Weekly](/content/awesome-css-group/awesome-css/week/README.md) / Overview ]
 
@@ -80,19 +80,19 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-*   [W3c/csswg-drafts (⭐4.5k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
-*   [W3c/css-houdini-drafts (⭐1.8k)](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository.
+*   [W3c/csswg-drafts (⭐4.9k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
+*   [W3c/css-houdini-drafts (⭐1.9k)](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
 
-*   [CSSOM (⭐752)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
-*   [CSSTree (⭐1.9k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
-*   [Gonzales PE (⭐330)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
-*   [Mensch (⭐113)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
-*   [ParserLib (⭐287)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
+*   [CSSOM (⭐758)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+*   [CSSTree (⭐2.1k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
+*   [Gonzales PE (⭐327)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
+*   [Mensch (⭐115)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
+*   [ParserLib (⭐293)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 *   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
-*   [Rework (⭐2.8k)](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-*   [Stylecow (⭐163)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
+*   [Rework (⭐2.7k)](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
+*   [Stylecow (⭐164)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -103,7 +103,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *   [LESS (⭐17k)](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 *   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 *   [Sass (⭐15k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
-*   [STYLIS (⭐1.7k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
+*   [STYLIS (⭐1.8k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 *   [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 *   [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
 
@@ -122,7 +122,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *   [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 *   [Gralig](http://gralig.com/) - A modest, grayish CSS library.
 *   [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework with a built-in dark mode.
-*   [Hasser CSS (⭐3)](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
+*   [Hasser CSS (⭐5)](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
 *   [Inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 *   [Material-components-web (⭐17k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
 *   [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
@@ -132,16 +132,16 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *   [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 *   [Shorthand Framework (⭐256)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 *   [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
-*   [Strawberry (⭐73)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
+*   [Strawberry (⭐76)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 *   [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 *   [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
-*   [Tailwindcss (⭐83k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [Tailwindcss (⭐99k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [Tronic247 Material](https://material.pages.dev/) - A responsive framework based on CSS and some JS while following Material Design guidelines.
 *   [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 *   [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 *   [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 
-*[You can find more frameworks at "awesome-css-frameworks" (⭐8k)](https://github.com/troxler/awesome-css-frameworks)*
+*[You can find more frameworks at "awesome-css-frameworks" (⭐9.6k)](https://github.com/troxler/awesome-css-frameworks)*
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -153,14 +153,14 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-*   [CSS Checker (⭐578)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+*   [CSS Checker (⭐588)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 *   [MiniReset.css (⭐2.8k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
-*   [Normalize-OpenType (⭐795)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
-*   [Normalize (⭐52k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+*   [Normalize-OpenType (⭐777)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+*   [Normalize (⭐53k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 *   [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS Tools: Reset CSS.
-*   [Reseter.css (⭐1.2k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
-*   [Sanitize.css (⭐5.2k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
-*   [Unstyle.css (⭐29)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
+*   [Reseter.css (⭐1.3k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
+*   [Sanitize.css (⭐5.3k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
+*   [Unstyle.css (⭐32)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -185,7 +185,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *   [CSS Styleguide (⭐418)](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
 *   [Dropbox (S)CSS Style Guide (⭐1.2k)](https://github.com/dropbox/css-style-guide) by Dropbox
 *   [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
-*   [Idiomatic CSS (⭐6.7k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+*   [Idiomatic CSS (⭐6.6k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 *   [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 *   [Sass Guidelines](https://sass-guidelin.es/) by [Kitty Giraudel](https://twitter.com/KittyGiraudel)
 *   [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
@@ -198,7 +198,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *   [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 *   [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-*   [Fluent UI (⭐18k)](https://github.com/microsoft/fluentui) by Microsoft
+*   [Fluent UI (⭐20k)](https://github.com/microsoft/fluentui) by Microsoft
 *   [GitHub CSS Style Guide](https://primer.github.io/) by Github
 *   [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 *   [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -213,12 +213,12 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 ## Style Guide Generators :slot\_machine:
 
 *   [Hologram (⭐2.2k)](https://github.com/trulia/hologram)
-*   [mdcss (⭐686)](https://github.com/jonathantneal/mdcss)
-*   [Source (⭐548)](https://github.com/sourcejs/Source)
+*   [mdcss (⭐675)](https://github.com/jonathantneal/mdcss)
+*   [Source (⭐543)](https://github.com/sourcejs/Source)
 *   [Styledoc (⭐7)](https://github.com/Joony/styledoc/)
 *   [Styledocco (⭐1.1k)](https://github.com/jacobrask/styledocco)
-*   [Styledown (⭐667)](https://github.com/styledown/styledown)
-*   [Sc5-styleguide (⭐1.3k)](https://github.com/SC5/sc5-styleguide)
+*   [Styledown (⭐666)](https://github.com/styledown/styledown)
+*   [Sc5-styleguide (⭐1.2k)](https://github.com/SC5/sc5-styleguide)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -242,16 +242,16 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 ## CSS in JS
 
 *   [Aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite)
-*   [Babel-plugin-css-in-js (⭐298)](https://github.com/martinandert/babel-plugin-css-in-js)
-*   [Classy (⭐24)](https://github.com/inturn/classy)
-*   [Csjs (⭐575)](https://github.com/rtsao/csjs)
+*   [Babel-plugin-css-in-js (⭐294)](https://github.com/martinandert/babel-plugin-css-in-js)
+*   [Classy (⭐23)](https://github.com/inturn/classy)
+*   [Csjs (⭐571)](https://github.com/rtsao/csjs)
 *   [Css-loader (⭐4.3k)](https://github.com/webpack/css-loader)
-*   [JSS (⭐7.1k)](https://github.com/cssinjs/jss)
-*   [React-styled (⭐39)](https://github.com/bloodyowl/react-styled)
+*   [JSS (⭐7k)](https://github.com/cssinjs/jss)
+*   [React-styled (⭐38)](https://github.com/bloodyowl/react-styled)
 *   [React-with-styles (⭐1.7k)](https://github.com/airbnb/react-with-styles)
-*   [Styled-jsx (⭐7.7k)](https://github.com/zeit/styled-jsx)
-*   [Styled-components (⭐40k)](https://github.com/styled-components/styled-components)
-*   [Stylin (⭐181)](https://github.com/sultan99/stylin)
+*   [Styled-jsx (⭐7.8k)](https://github.com/zeit/styled-jsx)
+*   [Styled-components (⭐41k)](https://github.com/styled-components/styled-components)
+*   [Stylin (⭐180)](https://github.com/sultan99/stylin)
 
 Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/MicheleBertoli/css-in-js)
 
@@ -271,14 +271,21 @@ Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/Michele
 
 *   [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 *   [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+
+<!---->
+
+*   [CSSnippets](https://cssnippets.shefali.dev/) - A collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.
+
+<!---->
+
 *   [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 *   [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
-*   [Live editor for CSS and LESS (⭐276)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-*   [RevengeCSS (⭐834)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+*   [Live editor for CSS and LESS (⭐318)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+*   [RevengeCSS (⭐879)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 *   [Single Div Project (⭐1.6k)](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 *   [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-*   [Xpath-to-selector (⭐11)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+*   [Xpath-to-selector (⭐14)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -346,7 +353,7 @@ Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/Michele
 
 ## Videos :tv:
 
-\*Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css).
+\*Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css (⭐4.9k)](https://github.com/AllThingsSmitty/must-watch-css).
 
 [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.\*
 

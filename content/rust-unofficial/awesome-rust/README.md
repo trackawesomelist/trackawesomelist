@@ -12,6 +12,12 @@ A curated list of Rust code and resources.
 
 *   [naxhq/NexQ (⭐151)](https://github.com/naxhq/NexQ) - Live transcription of both sides of a call, with answers from your own notes, for Windows and macOS. [![CI](https://github.com/naxhq/NexQ/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/naxhq/NexQ/actions/workflows/ci.yml)
 
+### Libraries / Graphics
+
+*   Fonts
+    *   [harfbuzz/harfrust (⭐332)](https://github.com/harfbuzz/harfrust) \[[harfrust](https://crates.io/crates/harfrust)] - A port of HarfBuzz's text shaping engine to Rust
+    *   [redox-os/rusttype (⭐640)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Applications
@@ -241,7 +247,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [glimpse-hq/Glimpse (⭐62)](https://github.com/glimpse-hq/Glimpse) - Local voice dictation and meeting transcription for macOS and Windows, built with Tauri. Speech recognition and speaker labels run on your computer.
+*   [glimpse-hq/Glimpse (⭐65)](https://github.com/glimpse-hq/Glimpse) - Local voice dictation and meeting transcription for macOS and Windows, built with Tauri. Speech recognition and speaker labels run on your computer.
 
 ### Libraries / GUI
 
@@ -409,15 +415,15 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [jangtrinh/design-os-studio (⭐87)](https://github.com/jangtrinh/design-os-studio) - GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.
+*   [jangtrinh/design-os-studio (⭐106)](https://github.com/jangtrinh/design-os-studio) - GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.
 
 ### Applications / MLOps
 
-*   [respanai/respan-gateway (⭐655)](https://github.com/respanai/respan-gateway) \[[respan-gateway](https://crates.io/crates/respan-gateway)] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI. [![CI](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml)
+*   [respanai/respan-gateway (⭐1k)](https://github.com/respanai/respan-gateway) \[[respan-gateway](https://crates.io/crates/respan-gateway)] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI. [![CI](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/respanai/respan-gateway/actions/workflows/ci.yml)
 
 ### Applications / Web Servers
 
-*   [biandratti/huginn-proxy (⭐62)](https://github.com/biandratti/huginn-proxy) - Reverse proxy that forwards open-standard fingerprints (JA4 TLS, Akamai HTTP/2, and p0f TCP via an XDP/TC eBPF program) to backends as headers [![CI](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml)
+*   [biandratti/huginn-proxy (⭐64)](https://github.com/biandratti/huginn-proxy) - Reverse proxy that forwards open-standard fingerprints (JA4 TLS, Akamai HTTP/2, and p0f TCP via an XDP/TC eBPF program) to backends as headers [![CI](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/biandratti/huginn-proxy/actions/workflows/ci.yml)
 
 ## [Oct 24, 2026](/content/2026/10/24/README.md)
 
@@ -626,7 +632,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [storytold/effectcraft (⭐8.6k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
+*   [storytold/effectcraft (⭐9.2k)](https://github.com/storytold/effectcraft) - An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.
 
 ### Libraries / Data processing
 
@@ -1274,7 +1280,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [PodFetch (⭐523)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
+*   [PodFetch (⭐526)](https://github.com/SamTV12345/PodFetch) - A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod. [![build badge](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml/badge.svg)](https://github.com/SamTV12345/PodFetch/actions/workflows/rust.yml)
 
 ## [Jul 17, 2026](/content/2026/07/17/README.md)
 
@@ -2590,7 +2596,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [CookCLI (⭐1.4k)](https://github.com/cooklang/CookCLI) - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
+*   [CookCLI (⭐1.5k)](https://github.com/cooklang/CookCLI) - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
 *   [flusterIO/fluster (⭐203)](https://github.com/flusterIO/fluster) - An all-in-one note taking application built for STEM students and professionals. [![publish](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml/badge.svg)](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml)
 *   [graves/awful\_aj (⭐15)](https://github.com/graves/awful_aj) \[[awful\_aj](https://crates.io/crates/awful_aj)] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.
 *   [kruseio/hygg (⭐364)](https://github.com/kruseio/hygg) \[[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
@@ -3275,12 +3281,6 @@ A curated list of Rust code and resources.
 *   [rust-cli/config-rs (⭐3.2k)](https://github.com/rust-cli/config-rs) \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
 
 ## [Oct 21, 2024](/content/2024/10/21/README.md)
-
-### Libraries / Graphics
-
-*   Fonts
-    *   [redox-os/rusttype (⭐640)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
-    *   [rustybuzz (⭐667)](https://github.com/harfbuzz/rustybuzz) - An incremental harfbuzz port
 
 ### Libraries / System
 

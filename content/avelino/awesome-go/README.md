@@ -6,6 +6,28 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Financial
+
+*   [openbymadata (⭐4)](https://github.com/carvalab/openbymadata) - Client for the BYMA (Buenos Aires stock exchange) Open Data API with stocks, CEDEARs, bonds, options, quotes and historical OHLCV.
+
+### Messaging
+
+*   [KafScale (⭐59)](https://github.com/KafScale/platform) - Kafka-compatible streaming platform with stateless brokers that store data in S3.
+
+### Project Layout
+
+*   [go-rest-template (⭐176)](https://github.com/antoniopaya22/go-rest-template) - REST API template with chi, an OpenAPI 3.1 contract, JWT authentication, PostgreSQL or SQLite, and an init tool that removes the features you do not need.
+
+### Validation
+
+*   [shak (⭐64)](https://github.com/yashx/shak) - Type-safe validation built from generic, composable rule functions, without reflection or struct tags.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [go-smart-proxy (⭐0)](https://github.com/apeironlab/go-smart-proxy) - Local HTTP and SOCKS5 proxy that routes by network, destination rules and proxy chains, built for working behind NTLM proxies.
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Artificial Intelligence
@@ -513,7 +535,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [hypermatch (⭐39)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
+*   [hypermatch (⭐40)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
 
 ### Security
 
@@ -1949,21 +1971,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [authgate](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
 *   [go-jwt (⭐3)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 
-### Bot Building
-
-*   [TG](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
-
-### Miscellaneous Data Structures and Algorithms
-
-*   [FSM](https://github.com/enetx/fsm) - FSM for Go.
-
 ### Date and Time
 
 *   [go-date-fns (⭐6)](https://github.com/chmenegatti/go-date-fns) - A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions.
-
-### Functional
-
-*   [g](https://github.com/enetx/g) - Functional programming framework for Go.
 
 ### Logging
 
@@ -2028,10 +2038,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Networking
 
 *   [nodepass (⭐293)](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
-
-### HTTP Clients
-
-*   [surf](https://github.com/enetx/surf) - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
 
 ## [Dec 09, 2025](/content/2025/12/09/README.md)
 

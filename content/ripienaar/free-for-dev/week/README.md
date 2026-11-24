@@ -8,9 +8,21 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
+### APIs, Data, and ML
+
+*   [TemplateFox](https://templatefox.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
+
 ### Mobile App Distribution and Feedback
 
 *   [BetaLobby](https://betalobby.com) - Closed testing platform for Android developers to distribute pre-release Google Play builds across 16-developer teams, verify installs, and track 14-day daily check-ins to meet the 12-tester production requirement. Free, no paid plans.
+
+### Email
+
+*   [Buttondown](https://buttondown.com/) - Newsletter service. Up to 100 subscribers free
+
+### Analytics, Events and Statistics
+
+*   [Hotjar](https://contentsquare.com/) - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
@@ -962,7 +974,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Web Hosting
 
-*   [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
+*   [Mirin](https://mirin.com) - Website platform and hosting for small businesses with an AI website builder and visual editor. Starts with a free homepage redesign; the free plan includes 1 hosted site on a mymirin.com address, up to 3 pages, visual editing, and 10 AI credits every 30 days with a Made with Mirin credit (no card required).
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -1112,10 +1124,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
-
-### APIs, Data, and ML
-
-*   [TemplateFox](https://pdftemplateapi.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
 
 ### Security and PKI
 
@@ -2240,10 +2248,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered.
-
-### Feature Toggles Management Platforms
-
-*   [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
 
 ### BaaS
 
@@ -3637,7 +3641,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [Google Analytics](https://analytics.google.com/) - Google Analytics
-*   [Hotjar](https://hotjar.com) - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
 *   [StatCounter](https://statcounter.com/) - Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
 
 ### Other Free Resources
@@ -4400,7 +4403,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
 *   [Burnermail](https://burnermail.io/) - Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
-*   [Buttondown](https://buttondown.email/) - Newsletter service. Up to 100 subscribers free
 *   [Contact.do](https://contact.do/) - Contact form in a link (bitly for contact forms)
 *   [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
 *   [ImprovMX](https://improvmx.com) - Free email forwarding.

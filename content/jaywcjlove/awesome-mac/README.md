@@ -26,6 +26,10 @@
 *   [Nuclear](https://nuclearplayer.com/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/margbug01/MySpotify) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Voice-to-Text / Audio Record and Process
+
+*   [Cue](https://heycue.io) - Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using context you provide.
+
 ### Utilities / Menu Bar Tools
 
 *   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -631,11 +635,11 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Nimbus (⭐4)](https://github.com/Dearonski/Nimbus) - Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Dearonski/Nimbus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Nimbus (⭐8)](https://github.com/Dearonski/Nimbus) - Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Dearonski/Nimbus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [Lowspeak (⭐7)](https://github.com/sventmueller/lowspeak) - Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sventmueller/lowspeak) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Lowspeak (⭐14)](https://github.com/sventmueller/lowspeak) - Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sventmueller/lowspeak) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -643,14 +647,14 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Claude Accounts (⭐3)](https://github.com/jomonkj/claude-accounts) - Switches the Claude desktop app between your accounts with one click, without losing sessions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jomonkj/claude-accounts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Claude Accounts (⭐7)](https://github.com/jomonkj/claude-accounts) - Switches the Claude desktop app between your accounts with one click, without losing sessions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jomonkj/claude-accounts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Polka](https://romabmstu.github.io/polka/) - Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/romabmstu/polka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [LogoLight](https://logolight.app) - Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ark0N/LogoLight) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [NØTH (⭐2)](https://github.com/manugowda19/noth) - Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/manugowda19/noth) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [NØTH (⭐3)](https://github.com/manugowda19/noth) - Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/manugowda19/noth) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / System Related Tools
 
-*   [FixStat (⭐12)](https://github.com/BurakFixLab/fixstat) - Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BurakFixLab/fixstat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [FixStat (⭐21)](https://github.com/BurakFixLab/fixstat) - Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BurakFixLab/fixstat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Nov 08, 2026](/content/2026/11/08/README.md)
 
@@ -907,7 +911,7 @@
 
 ### AI Tools / Other Tools
 
-*   [Mudroom (⭐18)](https://github.com/Kernel-Hunter/mudroom) - Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kernel-Hunter/mudroom) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Mudroom (⭐21)](https://github.com/Kernel-Hunter/mudroom) - Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kernel-Hunter/mudroom) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Audio and Video Tools / File Sharing
 
@@ -1423,7 +1427,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [FreeAudio (⭐9)](https://github.com/hakanotal/FreeAudio) - Per-app volume and mute, output device switching, and volume control for HDMI/DisplayPort monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hakanotal/FreeAudio) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [FreeDisplay (⭐26)](https://github.com/hakanotal/FreeDisplay) - Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hakanotal/FreeDisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FreeDisplay (⭐25)](https://github.com/hakanotal/FreeDisplay) - Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hakanotal/FreeDisplay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 
@@ -1840,11 +1844,11 @@
 
 ### AI Tools / Other Tools
 
-*   [SpotAsk (⭐22)](https://github.com/shiquda/SpotAsk) - Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shiquda/SpotAsk)
+*   [SpotAsk (⭐25)](https://github.com/shiquda/SpotAsk) - Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shiquda/SpotAsk)
 
 ### Utilities / Menu Bar Tools
 
-*   [WandelBar (⭐22)](https://github.com/alexiosus/WandelBar) - Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexiosus/WandelBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [WandelBar (⭐23)](https://github.com/alexiosus/WandelBar) - Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexiosus/WandelBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Aug 21, 2026](/content/2026/08/21/README.md)
 
@@ -1878,7 +1882,7 @@
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
-*   [Imark (⭐116)](https://github.com/migsilva89/imark) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/migsilva89/imark) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Imark (⭐128)](https://github.com/migsilva89/imark) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/migsilva89/imark) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Window Management
 
@@ -1894,7 +1898,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [MacOSCleaner (⭐132)](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacOSCleaner (⭐161)](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Aug 05, 2026](/content/2026/08/05/README.md)
 
@@ -2476,13 +2480,13 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Mole Widget (⭐87)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mole Widget (⭐86)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jun 05, 2026](/content/2026/06/05/README.md)
 
 ### Developer Tools / Virtualization
 
-*   [Gantry (⭐83)](https://github.com/getgantry/gantry) - Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getgantry/gantry) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Gantry (⭐92)](https://github.com/getgantry/gantry) - Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getgantry/gantry) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screenshot Tools
 
@@ -2490,7 +2494,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Fader (⭐81)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pantafive/fader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Fader (⭐91)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pantafive/fader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -2554,7 +2558,7 @@
 
 ### Reading and Writing Tools / RSS
 
-*   [Papr (⭐593)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Papr (⭐600)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
@@ -2620,7 +2624,7 @@
 
 ### Gaming Software / System Related Tools
 
-*   [Whisky (⭐1.1k)](https://github.com/frankea/Whisky) - A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/frankea/Whisky)
+*   [Whisky (⭐1.2k)](https://github.com/frankea/Whisky) - A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/frankea/Whisky)
 
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
@@ -2638,11 +2642,11 @@
 
 ### Security Tools / Audio Record and Process
 
-*   [MakLock (⭐159)](https://github.com/dutkiewiczmaciej/MakLock) - Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MakLock (⭐167)](https://github.com/dutkiewiczmaciej/MakLock) - Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
-*   [Clippy (⭐69)](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yarasaa/Clippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Clippy (⭐68)](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yarasaa/Clippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
@@ -3014,7 +3018,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [ClearDisk (⭐754)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClearDisk (⭐766)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 

@@ -12,6 +12,18 @@ Collections of awesome neovim plugins.
 
 *   [harukikuri/tsconfig-lens.nvim (⭐1)](https://github.com/harukikuri/tsconfig-lens.nvim) - Show which `tsconfig` file applies to the current file, its `extends` chain and final compiler options.
 
+### Fuzzy Finder / Markdown and LaTeX
+
+*   [Irdis/swimd (⭐2)](https://github.com/Irdis/swimd) - A fast C-based fuzzy file finder with SIMD acceleration, Git integration, and file watching.
+
+### Colorscheme / Colorscheme Creation
+
+*   [Malick-Tammal/chroma.nvim (⭐17)](https://github.com/Malick-Tammal/chroma.nvim) - Fast, customizable Lua theming engine for Neovim with 99+ base46-compatible colorschemes.
+
+### Utility / Cursorline
+
+*   [kochetkov-ma/brewpage-nvim (⭐2)](https://github.com/kochetkov-ma/brewpage-nvim) - Publish buffers or selections to BrewPage as shareable web pages and copy the link.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### AI / Diagnostics

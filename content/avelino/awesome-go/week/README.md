@@ -13,13 +13,33 @@ A curated list of awesome Go frameworks, libraries and software
 *   [codex-sdk-go (⭐25)](https://github.com/pmenglund/codex-sdk-go) - Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output.
 *   [KafClaw (⭐21)](https://github.com/KafClaw/KafClaw) - Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing.
 
+### Financial
+
+*   [openbymadata (⭐4)](https://github.com/carvalab/openbymadata) - Client for the BYMA (Buenos Aires stock exchange) Open Data API with stocks, CEDEARs, bonds, options, quotes and historical OHLCV.
+
 ### Goroutines
 
 *   [agilePool (⭐321)](https://github.com/Yiming1997/agilePool) - Goroutine pool with adaptive worker scaling, bounded concurrency, and overflow task buffering.
 
+### Messaging
+
+*   [KafScale (⭐59)](https://github.com/KafScale/platform) - Kafka-compatible streaming platform with stateless brokers that store data in S3.
+
+### Project Layout
+
+*   [go-rest-template (⭐176)](https://github.com/antoniopaya22/go-rest-template) - REST API template with chi, an OpenAPI 3.1 contract, JWT authentication, PostgreSQL or SQLite, and an init tool that removes the features you do not need.
+
+### Validation
+
+*   [shak (⭐64)](https://github.com/yashx/shak) - Type-safe validation built from generic, composable rule functions, without reflection or struct tags.
+
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [glsec (⭐25)](https://github.com/glsec/glsec) - Static security linter for GitLab CI/CD pipelines (.gitlab-ci.yml).
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [go-smart-proxy (⭐0)](https://github.com/apeironlab/go-smart-proxy) - Local HTTP and SOCKS5 proxy that routes by network, destination rules and proxy chains, built for working behind NTLM proxies.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
@@ -405,7 +425,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [hypermatch (⭐39)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
+*   [hypermatch (⭐40)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
 
 ### Dependency Injection
 
@@ -1523,21 +1543,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [authgate](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
 *   [go-jwt (⭐3)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 
-### Bot Building
-
-*   [TG](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
-
-### Miscellaneous Data Structures and Algorithms
-
-*   [FSM](https://github.com/enetx/fsm) - FSM for Go.
-
 ### Date and Time
 
 *   [go-date-fns (⭐6)](https://github.com/chmenegatti/go-date-fns) - A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions.
-
-### Functional
-
-*   [g](https://github.com/enetx/g) - Functional programming framework for Go.
 
 ### Logging
 
@@ -1602,10 +1610,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Networking
 
 *   [nodepass (⭐293)](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
-
-### HTTP Clients
-
-*   [surf](https://github.com/enetx/surf) - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

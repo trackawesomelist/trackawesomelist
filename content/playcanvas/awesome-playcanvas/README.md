@@ -6,6 +6,27 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### PlayCanvas Products
+
+*   [create-playcanvas (⭐63)](https://github.com/playcanvas/create-playcanvas) - CLI that scaffolds a Vite-powered PlayCanvas project with TypeScript.
+*   [Model Viewer](https://playcanvas.com/model-viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+*   [SuperSplat (⭐11k)](https://github.com/playcanvas/supersplat) - Open source editor for 3D Gaussian Splats.
+*   [SplatTransform (⭐1.5k)](https://github.com/playcanvas/splat-transform) - Open source CLI tool and library for processing and converting 3D Gaussian Splats.
+
+### Tutorials
+
+*   [Official Tutorials](https://developer.playcanvas.com/tutorials/) - Large collection of official PlayCanvas tutorials.
+*   [Publishing on Wavedash](https://developer.playcanvas.com/user-manual/publishing/wavedash/) - Official guide to publishing PlayCanvas games on Wavedash.
+*   [YouTube Playables Template (⭐133)](https://github.com/google/web-game-samples/tree/main/playcanvas) - Official starter project for building YouTube Playables.
+
+### Games / IO Games
+
+*   [Bullet Bonanza](https://www.kiloo.com/play/bullet-bonanza) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
+*   [Fields of Fury](https://www.kiloo.com/play/fields-of-fury) - Capture the flag set during WW2.
+*   [Warbands](https://www.kiloo.com/play/warbands) - 3D multiplayer first-person shooter.
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
@@ -191,8 +212,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Games / IO Games
 
 *   [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
-*   [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
 *   [Simply City](https://simplycity.live) - An open-world multiplayer GTA-like driving game.
+*   [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
 
 ### Product Configurators / YouTube Playables
 
@@ -202,7 +223,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 *   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
-*   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 *   [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
 *   [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Portable human 3DGS capture platform.
@@ -245,7 +265,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
-*   [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 *   [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 
 ## [May 28, 2025](/content/2025/05/28/README.md)
@@ -260,12 +279,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
 
-## [May 17, 2025](/content/2025/05/17/README.md)
-
-### Games / Browser Games
-
-*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
-
 ## [Mar 16, 2025](/content/2025/03/16/README.md)
 
 ### Product Configurators / YouTube Playables
@@ -274,14 +287,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
 
-### Games / Browser Games
-
-*   [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
-
 ### Generative AI / YouTube Playables
 
-*   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 *   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
+*   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 
 ## [Feb 23, 2025](/content/2025/02/23/README.md)
 
@@ -291,7 +300,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 *   [PlayCanvas React (⭐553)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 *   [PlayCanvas Web Components (⭐114)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-*   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 *   [Texture Tool (⭐17)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
 *   [PCUI (⭐796)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -309,12 +317,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
-
-## [Feb 21, 2025](/content/2025/02/21/README.md)
-
-### Games / IO Games
-
-*   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 
 ## [Oct 24, 2024](/content/2024/10/24/README.md)
 
@@ -429,12 +431,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 
-## [Oct 23, 2023](/content/2023/10/23/README.md)
-
-### Games / IO Games
-
-*   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
-
 ## [Oct 06, 2023](/content/2023/10/06/README.md)
 
 ### Games / IO Games
@@ -469,7 +465,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Interactive Experiences
 
-*   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
@@ -483,7 +478,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Games / IO Games
 
 *   [Tribals](https://tribals.io/) - First-person multiplayer survival game.
-*   [Warbands](https://www.warbands.io/) - 3D multiplayer first-person shooter.
 
 ### Automotive / YouTube Playables
 
@@ -513,12 +507,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
 
-## [Mar 17, 2022](/content/2022/03/17/README.md)
-
-### Games / IO Games
-
-*   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first-person shooter.
-
 ## [Feb 25, 2022](/content/2022/02/25/README.md)
 
 ### Product Configurators / YouTube Playables
@@ -531,27 +519,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 
-## [Jan 19, 2022](/content/2022/01/19/README.md)
-
-### Games / IO Games
-
-*   [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
-
 ## [Dec 07, 2021](/content/2021/12/07/README.md)
-
-### Interactive Experiences
-
-*   [Party Space](https://www.party.space/) - Virtual events platform.
 
 ### Automotive / YouTube Playables
 
 *   [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - Blog article that embeds a technical overview of the new i4.
-
-## [Nov 17, 2021](/content/2021/11/17/README.md)
-
-### Interactive Experiences
-
-*   [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
 ## [Nov 13, 2021](/content/2021/11/13/README.md)
 
@@ -595,18 +567,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 
-## [Sep 17, 2021](/content/2021/09/17/README.md)
-
-### Blockchain/Crypto/NFT / YouTube Playables
-
-*   [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
-
-## [Aug 23, 2021](/content/2021/08/23/README.md)
-
-### Interactive Experiences
-
-*   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
-
 ## [Jul 06, 2021](/content/2021/07/06/README.md)
 
 ### Games / IO Games
@@ -642,12 +602,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - Interactive exploration of BMW design.
 
-## [Jun 02, 2021](/content/2021/06/02/README.md)
-
-### Games / IO Games
-
-*   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
-
 ## [May 07, 2021](/content/2021/05/07/README.md)
 
 ### Interactive Experiences
@@ -659,8 +613,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### AR/VR/XR / YouTube Playables
 
-*   [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
 *   [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
+*   [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
 *   [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
 ## [Apr 15, 2021](/content/2021/04/15/README.md)
@@ -675,18 +629,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics-based puzzle game.
 
-## [Feb 25, 2021](/content/2021/02/25/README.md)
-
-### Games / Browser Games
-
-*   [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
-
-## [Jan 13, 2021](/content/2021/01/13/README.md)
-
-### Games / Browser Games
-
-*   [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
-
 ## [Jan 09, 2021](/content/2021/01/09/README.md)
 
 ### Automotive / YouTube Playables
@@ -699,12 +641,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
 
-## [Jan 03, 2021](/content/2021/01/03/README.md)
-
-### Games / Browser Games
-
-*   [Monopoly](https://benbean.tech/monopoly-io/) - The classic board game recreated in a 3D video game.
-
 ## [Jan 02, 2021](/content/2021/01/02/README.md)
 
 ### Games / IO Games
@@ -715,7 +651,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / IO Games
 
-*   [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 *   [TANX](https://tanx.io) - Online multiplayer tank battle game.
 
 ## [Dec 30, 2020](/content/2020/12/30/README.md)
@@ -795,7 +730,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
 *   [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
-*   [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
 
 ### Extensions and Utilities
 

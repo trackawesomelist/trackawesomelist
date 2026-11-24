@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Nov 24, 2026](/content/2026/11/24/README.md)
+
+### Books / Visualization Tools
+
+*   [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science) - Early Access
+
 ## [Nov 17, 2026](/content/2026/11/17/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -22,7 +28,7 @@
 
 ### Miscellaneous Tools / Visualization Tools
 
-*   [PredictorLab (⭐67)](https://github.com/MarkIvor/predictorlab) - Self-hosted tabular ML: leakage guard, conformal intervals, profit-optimized thresholds, counterfactuals, drift monitoring. Docker, REST API, MCP server. MIT.
+*   [PredictorLab (⭐3)](https://github.com/MarkIvor/predictorlab) - Self-hosted tabular ML: leakage guard, conformal intervals, profit-optimized thresholds, counterfactuals, drift monitoring. Docker, REST API, MCP server. MIT.
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 
@@ -202,7 +208,7 @@
 
 ### Tools
 
-*   [Dex (⭐116)](https://github.com/exmergo/dex) - Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.
+*   [Dex (⭐143)](https://github.com/exmergo/dex) - Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.
 
 ### Tutorials
 
@@ -276,7 +282,7 @@
 ### Tools
 
 *   [YYLO Benchmark (⭐2)](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
-*   [YYLO (⭐66)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
+*   [YYLO (⭐69)](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 
 ## [Sep 27, 2026](/content/2026/09/27/README.md)
 
@@ -491,12 +497,6 @@
 ### Free Courses
 
 *   [Data Science (⭐22k)](https://github.com/ossu/data-science) - Open Source Society University
-
-## [May 08, 2026](/content/2026/05/08/README.md)
-
-### Tools
-
-*   [CAJAL (⭐24)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
@@ -913,7 +913,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐63k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐64k)](https://github.com/ultralytics/ultralytics)
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
@@ -1349,12 +1349,6 @@
 
 *   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early Access
 
-## [Jun 09, 2022](/content/2022/06/09/README.md)
-
-### Books / Visualization Tools
-
-*   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early Access
-
 ## [May 30, 2022](/content/2022/05/30/README.md)
 
 ### Books / Visualization Tools
@@ -1595,7 +1589,7 @@
 
 ### Books / Visualization Tools
 
-*   [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+*   [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) - Early Access
 *   [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 
 ## [Aug 14, 2021](/content/2021/08/14/README.md)
@@ -1706,7 +1700,7 @@
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐422)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐709)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐521)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-bayes (⭐522)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐441)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
@@ -1725,7 +1719,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐105k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐106k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐3k)](https://github.com/pytorch/audio)
@@ -1736,7 +1730,7 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐201k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐202k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐735)](https://github.com/itdxer/neupy)
@@ -1899,7 +1893,6 @@
 *   [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 *   [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
 *   [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
-*   [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
 *   [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
 *   [Hilary Parker](https://hilaryparker.com/)
 *   [Data Science Lab](https://datasciencelab.wordpress.com/)

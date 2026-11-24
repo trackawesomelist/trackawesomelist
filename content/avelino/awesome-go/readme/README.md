@@ -389,7 +389,6 @@ Please take a quick gander at the [contribution guidelines (⭐194k)](https://gi
 *   [teleflow (⭐5)](https://github.com/kslamph/teleflow) - Simple, type-safe Telegram bot framework with fluent flows and automatic state management.
 *   [telego (⭐1.1k)](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 *   [telegram-bot-api (⭐6.4k)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
-*   [TG](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 *   [wayback (⭐2.3k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 *   [Wisp (⭐14)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 *   [ymsdk (⭐6)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
@@ -716,7 +715,6 @@ additional ordered map implementations.
 *   [combo (⭐5)](https://github.com/bobg/combo) - Combinatorial operations including permutations, combinations, and combinations-with-replacement.
 *   [concurrent-writer (⭐62)](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
 *   [count-min-log (⭐70)](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
-*   [FSM](https://github.com/enetx/fsm) - FSM for Go.
 *   [fsm (⭐88)](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
 *   [genfuncs (⭐51)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 *   [go-generics (⭐87)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
@@ -1345,6 +1343,7 @@ additional ordered map implementations.
 *   [money (⭐57)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 *   [ofxgo (⭐152)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
 *   [okx-go (⭐34)](https://github.com/tigusigalpa/okx-go) - Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.
+*   [openbymadata (⭐4)](https://github.com/carvalab/openbymadata) - Client for the BYMA (Buenos Aires stock exchange) Open Data API with stocks, CEDEARs, bonds, options, quotes and historical OHLCV.
 *   [orderbook (⭐558)](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
 *   [orderbook (⭐30)](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
 *   [payme (⭐92)](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments.
@@ -1387,7 +1386,6 @@ additional ordered map implementations.
 *   [fpGo (⭐356)](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
 *   [fuego (⭐145)](https://github.com/seborama/fuego) - Functional Experiment in Go.
 *   [FuncFrog (⭐286)](https://github.com/koss-null/FuncFrog) - Functional helpers library providing Map, Filter, Reduce and other stream operations on generic slices Go1.18+ with lazy evaluation and error handling mechanisms.
-*   [g](https://github.com/enetx/g) - Functional programming framework for Go.
 *   [go-functional (⭐538)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 *   [go-underscore (⭐1.3k)](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 *   [gofp (⭐152)](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
@@ -1937,8 +1935,9 @@ additional ordered map implementations.
 *   [guble (⭐161)](https://github.com/smancke/guble) - Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence.
 *   [hare (⭐55)](https://github.com/leozz37/hare) - A user friendly library for sending messages and listening to TCP sockets.
 *   [hub (⭐150)](https://github.com/leandro-lugaresi/hub) - A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
-*   [hypermatch (⭐39)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
+*   [hypermatch (⭐40)](https://github.com/SchwarzDigits/hypermatch) - Matches events against large sets of rules, with rules written in Go or as JSON.
 *   [jazz (⭐18)](https://github.com/socifi/jazz) - A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
+*   [KafScale (⭐59)](https://github.com/KafScale/platform) - Kafka-compatible streaming platform with stateless brokers that store data in S3.
 *   [kiln (⭐8)](https://github.com/rafaelaugustos/kiln) - Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.
 *   [machinery (⭐8k)](https://github.com/RichardKnop/machinery) - Asynchronous task queue/job queue based on distributed message passing.
 *   [mangos (⭐764)](https://github.com/nanomsg/mangos) - Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.
@@ -2037,6 +2036,7 @@ additional ordered map implementations.
 *   [go-grpc-bazel-example (⭐2)](https://github.com/esurdam/go-grpc-bazel-example) - Example monorepo for Go gRPC microservices with Bazel, grpc-gateway, OpenAPI, and Kubernetes.
 *   [go-module (⭐40)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 *   [go-rest-api-boilerplate (⭐73)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+*   [go-rest-template (⭐176)](https://github.com/antoniopaya22/go-rest-template) - REST API template with chi, an OpenAPI 3.1 contract, JWT authentication, PostgreSQL or SQLite, and an init tool that removes the features you do not need.
 *   [go-sample (⭐138)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐625)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
 *   [go-todo-backend (⭐340)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
@@ -2340,7 +2340,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [resty (⭐12k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 *   [rq (⭐52)](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 *   [sling (⭐1.7k)](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
-*   [surf](https://github.com/enetx/surf) - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
 *   [tls-client (⭐1.9k)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 **[⬆ back to top](#contents)**
@@ -3312,6 +3311,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [hvalid (⭐14)](https://github.com/lyonnee/hvalid) hvalid is a lightweight validation library written in Go language. It provides a custom validator interface and a series of common validation functions to help developers quickly implement data validation.
 *   [jio (⭐126)](https://github.com/faceair/jio) - jio is a json schema validator similar to [joi (⭐21k)](https://github.com/hapijs/joi).
 *   [ozzo-validation (⭐4.2k)](https://github.com/go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
+*   [shak (⭐64)](https://github.com/yashx/shak) - Type-safe validation built from generic, composable rule functions, without reflection or struct tags.
 *   [validate (⭐1.2k)](https://github.com/gookit/validate) - Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features.
 *   [validate (⭐94)](https://github.com/gobuffalo/validate) - This package provides a framework for writing validations for Go applications.
 *   [validator (⭐20k)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
@@ -3817,6 +3817,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gfile (⭐763)](https://github.com/Antonito/gfile) - Securely transfer files between two computers, without any third party, over WebRTC.
 *   [Go Package Store (⭐891)](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 *   [go-peerflix (⭐478)](https://github.com/Sioro-Neoku/go-peerflix) - Video streaming torrent client.
+*   [go-smart-proxy (⭐0)](https://github.com/apeironlab/go-smart-proxy) - Local HTTP and SOCKS5 proxy that routes by network, destination rules and proxy chains, built for working behind NTLM proxies.
 *   [goblin](https://goblin.run) - Cloud builder for CLI's written in go lang
 *   [GoBoy (⭐2.6k)](https://github.com/Humpheh/goboy) - Nintendo Game Boy Color emulator written in Go.
 *   [gocc (⭐665)](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
