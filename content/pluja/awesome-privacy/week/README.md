@@ -12,6 +12,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **[AB Download Manager](https://abdownloadmanager.com/)** - Download manager with queues, scheduling and a browser extension that hands downloads to the app. <sub>Desktop · Android · Apache-2.0</sub>
 
+### Speech to Text / Apps and services
+
+*   **[Amical](https://amical.ai/)** - Desktop dictation app that transcribes offline with open Whisper or Parakeet models and no account, with an optional paid cloud service. `⚠️ closed server` <sub>macOS · Windows · MIT</sub>
+
 ## [Nov 16 - Nov 22, 2026](/content/2026/46/README.md)
 
 ### Notes and Tasks / Useful Tools
@@ -229,7 +233,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android / iOS / Apps
 
-*   **[Cromite (⭐8.5k)](https://github.com/uazo/cromite)** - Chromium fork, successor to Bromite, with built-in ad blocking and anti-fingerprinting measures. <sub>Android · Linux · Windows · GPL-3.0</sub>
 *   **[Firefox](https://www.firefox.com/en-US/mobile/)** - Mozilla's browser, with its own engine on Android and Enhanced Tracking Protection on by default. `⚠️ website trackers` `⚠️ telemetry opt-out`
     *   **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Hardened Firefox for Android with proprietary blobs removed, a fork of the discontinued Mull. <sub>Android</sub>
 *   **[Privacy Browser](https://www.stoutner.com/privacy-browser-android/)** - Browser that keeps JavaScript, cookies and other tracking features off until you allow them per site. <sub>Android</sub>
@@ -738,10 +741,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   **[mailbox.org](https://mailbox.org/)** - Paid email, calendar and office suite from Germany, with built-in PGP encryption and no ads.
 
-### Email verification required, accepting monero / Desktop
-
-*   **[Onlinesim](https://onlinesim.io/)** - Temporary virtual numbers for receiving verification codes. `⚠️ website trackers`
-
 ### Teamworking Tools / Desktop
 
 *   **[Stoat](https://stoat.chat/)** - Discord-like chat platform with servers and channels, which you can host yourself, formerly Revolt. <sub>self-host</sub>
@@ -1199,7 +1198,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
-### No email verification, accepting monero / Desktop
+### Online Phone Providers / Desktop
 
 *   **[MoneroSMS](https://monerosms.com/)** - Virtual numbers for sending and receiving SMS, paid in Monero, with a web app, a CLI and Tor support.
 
@@ -1294,13 +1293,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
-### No email verification, accepting monero / Desktop
+### Online Phone Providers / Desktop
 
 *   **[Crypton](https://crypton.sh/)** - Rents real SIM cards hosted in the cloud, with incoming SMS encrypted under a key you choose.
-
-### Email verification required, accepting crypto / Desktop
-
-*   **[SmsPVA](https://smspva.com/)** - Temporary virtual numbers in many countries for receiving verification codes. `⚠️ website trackers`
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 

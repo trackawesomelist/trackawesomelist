@@ -2,9 +2,16 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 708 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 725 · 🏷️ Front-End Development
 
 [ [Daily](/content/deanhume/typography/README.md) / Weekly / [Overview](/content/deanhume/typography/readme/README.md) ]
+
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Tools
+
+*   [Fonts Ninja - Free browser extension that identifies the fonts used on any website, with size, line height, letter spacing and color.](https://fonts.ninja/tools)
+*   [A1 Fonts - The 570+ typefaces used on hand-picked live websites, most used first, with the real sites that use each font.](https://www.a1.gallery/fonts)
 
 ## [Aug 17 - Aug 23, 2026](/content/2026/33/README.md)
 
@@ -223,7 +230,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐786)](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐777)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 
 ## [Jul 27 - Aug 02, 2015](/content/2015/30/README.md)

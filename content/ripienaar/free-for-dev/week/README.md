@@ -12,17 +12,27 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [TemplateFox](https://templatefox.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
 
+### Code Quality
+
+*   [CodePeel](https://www.codepeel.com) - Automated code reviews for GitHub pull requests that catch bugs and open fix PRs. Free forever for unlimited public and private repositories (30 reviews/month).
+
+### CI and CD
+
+*   [BuildPulse](https://buildpulse.io/products/runners) - Faster runners for GitHub Actions, CircleCI and Semaphore. 3,000 free minutes every month, no credit card required.
+
 ### Mobile App Distribution and Feedback
 
 *   [BetaLobby](https://betalobby.com) - Closed testing platform for Android developers to distribute pre-release Google Play builds across 16-developer teams, verify installs, and track 14-day daily check-ins to meet the 12-tester production requirement. Free, no paid plans.
 
 ### Monitoring
 
+*   [12happy](https://www.12hpy.com/) - Free uptime service monitoring with status page for your product. Apps for both iOS and Android, notifications via Slack, Telegram and E-mail. Various locations. Free plan includes 50 monitors checked every 5 minutes.
 *   [Pingaroo](https://pingaroo.dev/) - 1 website, 2 URLs, uptime check with 15 minutes interval, SSL/DNS/domain checks, email alerts, no credit card needed.
 
 ### Education and Career Development
 
 *   [SharpSkill](https://sharpskill.dev/) - Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.
+*   [TCM Academy Free Tier](https://tcm-sec.com/academy/tcm-academy-free-tier/) - Free, full six course tier with over 40 hours of training for IT beginners.
 
 ### Email
 
@@ -3237,7 +3247,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [localhost.run](https://localhost.run/) - Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐22k)](https://github.com/localtunnel/localtunnel).
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐23k)](https://github.com/localtunnel/localtunnel).
 *   [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
 *   [Tailscale](https://tailscale.com/) - Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
 

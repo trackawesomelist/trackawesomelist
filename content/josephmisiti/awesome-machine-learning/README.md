@@ -6,6 +6,12 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### R / General-Purpose Machine Learning
+
+*   [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Python / General-Purpose Machine Learning
@@ -846,7 +852,6 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### R / General-Purpose Machine Learning
 
 *   [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
-    -\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
 
 ## [Mar 24, 2022](/content/2022/03/24/README.md)
 
@@ -866,7 +871,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐778)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐777)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [Jan 31, 2022](/content/2022/01/31/README.md)
 
@@ -1181,7 +1186,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐6.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐6.2k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [Mar 09, 2021](/content/2021/03/09/README.md)
 
@@ -2397,7 +2402,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [cerebro2](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC. **\[Deprecated]**
 *   [NuPIC Studio (⭐95)](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool! **\[Deprecated]**
 *   [Seaborn](https://seaborn.pydata.org/) - A python visualization library based on matplotlib.
-*   [Superset (⭐75k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
+*   [Superset (⭐76k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
 *   [visualize\_ML (⭐208)](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis. **\[Deprecated]**
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -3758,7 +3763,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐44k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐45k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 

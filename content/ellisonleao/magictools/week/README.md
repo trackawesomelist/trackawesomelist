@@ -11,22 +11,43 @@
 ### Graphics / Assets/Placeholders
 
 *   :free: [JadeRealms](https://3dmodelhub.io/models/) - Free GLB/Blender game models with browser previews; AI-assisted JadeRealms assets use custom commercial-use terms restricting raw redistribution. Other collections keep their source licenses.
+*   :free: [SpriteForge Image to Pixel Art](https://www.spriteforge.tech/image-to-pixel-art) - Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.
 
 ### Graphics / Spritesheet Tools
 
 *   :free: [SpriteSheet.dev](https://spritesheet.dev/gif-to-spritesheet) - Browser tools that pack frames or a GIF into a sprite sheet (named animations per row, per-frame timing kept, pivot written to the data) with TexturePacker JSON, Aseprite JSON or Sparrow XML using FNF frame names, cut sheets back into frames by grid, data file or automatically, and turn sheets into GIFs. Exports tested loading in Phaser 3.90/4.2 and PixiJS 8.22. Files stay on your device.
 
+### Graphics / Texture Tools
+
+*   :free: [SpriteForge Pixel Art Normal Map](https://www.spriteforge.tech/pixel-art-normal-map) - Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.
+
 ### Graphics / Character Generators
 
 *   :free: [AvatarSay Fantasy NPC Generator](https://avatarsay.com/fantasy-npc-generator?ref=awesome-magictools\&utm_medium=awesome-list\&utm_campaign=mcp) - Browser-based fantasy and RPG NPC character generator with randomized ancestry, roles, traits, and portrait prompts for game development and tabletop campaigns (no signup required).
 
+### Graphics / Vector/Image Editor
+
+*   :money\_with\_wings: [RBXGFX](https://rbxgfx.com/) - AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).
+*   :free: [SpriteForge Pixel Art Maker](https://www.spriteforge.tech/pixel-art-maker) - Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.
+
+### Graphics / Modeling
+
+*   :free: [Mint Polycount Checker](https://mint.gg/polycount-checker) - Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.
+
 ### AI / Voxel Editors
 
 *   :tada: [Genex (⭐909)](https://github.com/genex-games/genex-desktop) - Open-source desktop app where AI agents set up Unreal Engine, Unity, Godot, Roblox or Three.js, build the game, play-test it and publish it to Mac, Windows, Linux and the web. Works with Claude Code, Codex, Antigravity (Gemini models), OpenCode or local models.
+*   :money\_with\_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
 
 ### Collections / Voxel Editors
 
+*   :money\_with\_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
 *   :free: [Ember Audio Free Sampler](https://lidorxl.itch.io/ember-audio-free-sampler) - 30 game audio files in OGG, with one music track, one seamless ambience loop and one SFX from each of 10 settings (dungeon, cyberpunk, cozy farm, western, cosmic horror, tavern, sci-fi, feudal Japan, post-apocalypse, pirates); royalty-free for commercial use, no attribution required. AI-generated (Suno for music, Stable Audio Open for loops and SFX) and hand-curated.
+*   :money\_with\_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
+
+### Music and Audio Editors / Voxel Editors
+
+*   :money\_with\_wings: [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).
 
 ### Blogs and Portals / Voxel Editors
 
@@ -35,6 +56,7 @@
 
 ### Project Management / Voxel Editors
 
+*   :free: [Overheard Calendar](https://getoverheard.com/calendar/) - Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page
 *   :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix (with Poland PLN fix), 30-day discount cooldown planner, W-8BEN tax & publisher deal calculators, local capsule resizer/previewer, BBCode editor, SteamPipe VDF generator, and 60-item pre-launch QA checklist.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)

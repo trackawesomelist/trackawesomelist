@@ -105,6 +105,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Reiner's Tilesets](https://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 *   :free: [SceneCrate Free 3D Game Assets](https://scenecrate.com/free-3d-game-assets) - Nine walkable CC0 1.0 3D browser-game scenes (buildings, heightfield terrain, and static props) in two measured GLB tiers, with JSON colliders and offline Three.js examples; no account required.
 *   :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
+*   :free: [SpriteForge Image to Pixel Art](https://www.spriteforge.tech/image-to-pixel-art) - Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.
 *   :free: [SpriteLib](https://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 *   :free: [StickyPNG](https://www.stickpng.com/) - Free transparent PNG images.
 *   :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
@@ -155,6 +156,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 *   :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 *   :tada: [Sprite Fusion Sprite Normals (⭐841)](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
+*   :free: [SpriteForge Pixel Art Normal Map](https://www.spriteforge.tech/pixel-art-normal-map) - Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.
 
 #### Character Generators
 
@@ -220,10 +222,12 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open source pixel art editor with animation support, made with Godot.
 *   :moneybag: [Pixen (⭐932)](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 *   :moneybag: [PyxelEdit](https://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+*   :money\_with\_wings: [RBXGFX](https://rbxgfx.com/) - AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).
 *   :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *   :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 *   :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
 *   :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source (⭐3.5k)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+*   :free: [SpriteForge Pixel Art Maker](https://www.spriteforge.tech/pixel-art-maker) - Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.
 *   :free: [Spritemate](https://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 *   :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser.
 *   :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
@@ -241,6 +245,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Inca](https://incacad.com) - Free, open-source 3D modeling, animation and rendering app that works like Maya 2020, with OBJ, FBX, glTF and STL import.
 *   :free: [MakeHuman](http://www.makehumancommunity.org/)
 *   :moneybag: [Maya](https://www.autodesk.com/products/maya/overview)
+*   :free: [Mint Polycount Checker](https://mint.gg/polycount-checker) - Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.
 *   :moneybag: [modo](https://www.foundry.com/products/modo)
 *   :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 *   :money\_with\_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
@@ -449,6 +454,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :money\_with\_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 *   :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 *   :money\_with\_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools\&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
+*   :money\_with\_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
 *   :money\_with\_wings: [Voidless](https://voidless.dev) - AI game assets: pixel art sprites from 32 to 384 px, sprite animation, 8-direction sprites, tilesets, 3D models, sound and music. Includes an MCP server so Claude Code or Cursor can generate art straight into a project. 60 free credits on sign-up, no subscription.
 *   :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
 *   :money\_with\_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
@@ -462,6 +468,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [8-Bit Arcade SFX Free Lite](https://yetiancai.itch.io/8-bit-arcade-sfx-free-lite-24-sounds) - 24 free 8-bit sound effects (UI, coins, jumps, lasers, jingles) synthesized by code; free for commercial use, no attribution required.
 *   :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 *   :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
+*   :money\_with\_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
 *   :money\_with\_wings: [CSAF Sound Library](https://csaf.itch.io/sound-library) - 13,315 royalty free game sound effects in 91 packs, WAV and OGG, with a free demo download. Every sound is synthesized in code with no samples or generative audio model; the code was written with AI tools.
 *   :free: [DailySounds](https://dailysounds.org/?ref=magictools) - Searchable sound effects for games, with browser previews and downloadable audio; free for commercial projects under the DailySounds license.
 *   :free: [Ember Audio Free Sampler](https://lidorxl.itch.io/ember-audio-free-sampler) - 30 game audio files in OGG, with one music track, one seamless ambience loop and one SFX from each of 10 settings (dungeon, cyberpunk, cozy farm, western, cosmic horror, tavern, sci-fi, feudal Japan, post-apocalypse, pirates); royalty-free for commercial use, no attribution required. AI-generated (Suno for music, Stable Audio Open for loops and SFX) and hand-curated.
@@ -473,12 +480,14 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Overture Free Game Music Sampler](https://csaf.itch.io/free-game-music-sampler) - 68 game music tracks from 34 albums (fantasy, retro, horror, science fiction, cozy) as OGG, 67 of them with loop points in the file, plus the MIDI source of every track; royalty free for commercial use, no credit required. Composed by code written with an AI assistant, no AI audio models.
 *   :free: [PacDV](https://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 *   :free: [PulseLite UI SFX](https://bigshadex.itch.io/pulselite-ui-sfx-free) - 20 free UI sounds (clicks, hovers, confirms, errors, rewards) in WAV/OGG, procedurally synthesized with no samples or AI audio models, sounds CC BY 4.0, plus an optional Godot 4 drop-in script (MIT).
+*   :money\_with\_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
 *   :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 *   :free: [SoundBible.com](https://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 *   :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
 
 ### Music and Audio Editors
 
+*   :money\_with\_wings: [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).
 *   :tada: [Audacity](https://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 *   :free: [Audiosauna](https://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 *   :free: [Audiotool](https://www.audiotool.com/app) - Online music producer.
@@ -602,6 +611,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :money\_with\_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 *   :money\_with\_wings: [HacknPlan](https://hacknplan.com/) - Project management for game developers
 *   :money\_with\_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
+*   :free: [Overheard Calendar](https://getoverheard.com/calendar/) - Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page
 *   :money\_with\_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
 *   :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix (with Poland PLN fix), 30-day discount cooldown planner, W-8BEN tax & publisher deal calculators, local capsule resizer/previewer, BBCode editor, SteamPipe VDF generator, and 60-item pre-launch QA checklist.
 *   :money\_with\_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers

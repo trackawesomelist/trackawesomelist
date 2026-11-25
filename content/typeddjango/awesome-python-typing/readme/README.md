@@ -56,7 +56,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 *   [boto3-stubs (⭐6)](https://github.com/youtype/types-boto3) - Stubs for [boto3 (⭐9.9k)](https://github.com/boto/boto3).
 *   [botostubs (⭐91)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐785)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐786)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
 *   [django-stubs (⭐2k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐92k)](https://github.com/django/django).
 *   [djangorestframework-stubs (⭐542)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐30k)](https://github.com/encode/django-rest-framework).
 *   [lxml-stubs (⭐51)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
@@ -132,7 +132,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 *   [pytest-annotate (⭐113)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐46)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 *   [RightTyper (⭐361)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
-*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
 
 ### Mypy plugins
 
@@ -150,6 +149,8 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 *   [pylance (⭐2.2k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 *   [vim-mypy (⭐102)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 *   [nbQA (⭐1.2k)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [typeshed-stats (⭐15)](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on [typeshed (⭐5.2k)](https://github.com/python/typeshed) packages.
+*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from [typeshed (⭐5.2k)](https://github.com/python/typeshed) and other typing stubs.
 
 ## Articles
 

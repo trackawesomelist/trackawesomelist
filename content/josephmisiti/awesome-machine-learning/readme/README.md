@@ -710,7 +710,7 @@ Further resources:
 *   [Flink](https://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
 *   [Hadoop (⭐16k)](https://github.com/apache/hadoop) - Hadoop/HDFS.
 *   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing. Written entirely in Clojure.
-*   [Spark (⭐44k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐45k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 *   [Storm](https://storm.apache.org/) - Storm is a distributed realtime computation system.
 *   [Impala (⭐34)](https://github.com/cloudera/impala) - Real-time Query for Hadoop.
 *   [DataMelt](https://jwork.org/dmelt/) - Mathematics software for numeric computation, statistics, symbolic calculations, data analysis and data visualization.
@@ -1477,7 +1477,7 @@ Further resources:
 *   [Synthia (⭐71)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 *   [ByteHub (⭐61)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 *   [Backprop (⭐240)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
-*   [River (⭐6.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐6.2k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 *   [FEDOT (⭐714)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 *   [Sklearn-genetic-opt (⭐393)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 *   [Evidently (⭐8.1k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
@@ -1557,7 +1557,7 @@ Further resources:
 *   [ipychart (⭐133)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 *   [bqplot (⭐3.7k)](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython).
 *   [pastalog (⭐420)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
-*   [Superset (⭐75k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
+*   [Superset (⭐76k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
 *   [Dora (⭐649)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 *   [SOMPY (⭐551)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
@@ -1842,7 +1842,7 @@ Further resources:
 *   [CatBoost (⭐9.2k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 *   [Clever Algorithms For Machine Learning](https://machinelearningmastery.com/)
 *   [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
-    -\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
+*   [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
 *   [Cubist](https://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modelling.
 *   [e1071](https://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
 *   [earth](https://cran.r-project.org/web/packages/earth/index.html) - earth: Multivariate Adaptive Regression Spline Models
@@ -2126,7 +2126,7 @@ Further resources:
 *   [Pythonizr](https://pythonizr.com) - An online tool to generate boilerplate machine learning code that uses scikit-learn.
 *   [Flyte](https://flyte.org/) - Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 *   [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across 30+ providers.
-*   [Chaos Genius (⭐778)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐777)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 *   [MLEM (⭐720)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 *   [DockerDL (⭐86)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 *   [Aqueduct (⭐519)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.

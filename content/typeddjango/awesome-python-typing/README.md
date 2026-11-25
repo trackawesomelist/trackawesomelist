@@ -6,11 +6,17 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ Daily / [Weekly](/content/typeddjango/awesome-python-typing/week/README.md) / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Integrations / Mypy plugins
+
+*   [typeshed-stats (⭐15)](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on [typeshed (⭐5.2k)](https://github.com/python/typeshed) packages.
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
-### Tools / Helper tools to add annotations to existing code
+### Integrations / Mypy plugins
 
-*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
+*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from [typeshed (⭐5.2k)](https://github.com/python/typeshed) and other typing stubs.
 
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
@@ -198,7 +204,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Stub packages
 
-*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐785)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐786)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 

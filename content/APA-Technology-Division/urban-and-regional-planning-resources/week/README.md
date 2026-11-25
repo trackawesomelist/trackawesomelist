@@ -8,6 +8,10 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
+### Public Data Resources / Demographic
+
+*   [LandScan](https://landscan.ornl.gov/about) - ORNL's annual, high-resolution global population dataset (since 2000) mapping where people are likely to be over a 24-hour period.
+
 ### Public Data Resources / Resilience and Natural Hazards
 
 *   [SHIELDUS](https://cemhs.asu.edu/sheldus) - This is a county-level U.S. database of natural hazard events from 1960 to the present. It covers thunderstorms, hurricanes, floods, wildfires, tornadoes, flash floods and heavy rainfall, and records each event's date, the affected county and state, and its direct losses in property damage, crop damage, injuries and fatalities.

@@ -8,9 +8,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
-### Tools / Helper tools to add annotations to existing code
+### Integrations / Mypy plugins
 
-*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
+*   [typeshed-stats (⭐15)](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on [typeshed (⭐5.2k)](https://github.com/python/typeshed) packages.
+*   [typeshed\_client (⭐32)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from [typeshed (⭐5.2k)](https://github.com/python/typeshed) and other typing stubs.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
@@ -194,7 +195,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Stub packages
 
-*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐785)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐159)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐786)](https://github.com/celery/django-celery-results), [ampq (⭐316)](https://github.com/celery/py-amqp), [kombu (⭐3.2k)](https://github.com/celery/kombu), [billiard (⭐437)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐903)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 

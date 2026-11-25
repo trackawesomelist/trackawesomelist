@@ -1204,7 +1204,7 @@ additional ordered map implementations.
 *   [MailHog (⭐16k)](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
 *   [Mailpit (⭐11k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 *   [mailx (⭐23)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
-*   [mox (⭐5.9k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
+*   [mox (⭐6k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
 *   [SendGrid (⭐1.1k)](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 *   [smtp (⭐76)](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
 *   [smtpmock (⭐170)](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
@@ -2548,6 +2548,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [FCaptcha (⭐234)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
 *   [firewalld-rest (⭐345)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 *   [fort (⭐82)](https://github.com/djadmin/fort) - Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
+*   [gmrtd (⭐38)](https://github.com/gmrtd/gmrtd) - Library for reading and verifying ePassports and ID cards (ICAO Doc 9303) over NFC, including PACE/BAC access control and passive, active and chip authentication.
 *   [go-generate-password (⭐57)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 *   [go-htpasswd (⭐49)](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
 *   [go-password-validator (⭐593)](https://github.com/lane-c-wagner/go-password-validator) - Password validator based on raw cryptographic entropy values.
@@ -3855,7 +3856,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Orbit (⭐186)](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plakar (⭐2.1k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
-*   [Plik (⭐1.8k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+*   [Plik (⭐1.9k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [portal (⭐1.8k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 *   [restic (⭐37k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐755)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.

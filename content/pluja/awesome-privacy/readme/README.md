@@ -171,20 +171,10 @@ An alias service gives you a different address for each website, forwarded to yo
 
 ### Online Phone Providers
 
-Many sites demand a phone number for verification, which ties your account to your real identity. These paid services give you a number to receive (and sometimes send) SMS without handing over your own.
-
-#### No email verification, accepting monero
+Many sites ask for a phone number, which ties your account to your identity. These paid services give you a number to receive SMS so you don't have to share your own. Numbers can be recycled and the provider sees every message, so don't use them for two-factor codes or account recovery.
 
 *   **[Crypton](https://crypton.sh/)** - Rents real SIM cards hosted in the cloud, with incoming SMS encrypted under a key you choose.
 *   **[MoneroSMS](https://monerosms.com/)** - Virtual numbers for sending and receiving SMS, paid in Monero, with a web app, a CLI and Tor support.
-
-#### Email verification required, accepting monero
-
-*   **[Onlinesim](https://onlinesim.io/)** - Temporary virtual numbers for receiving verification codes. `⚠️ website trackers`
-
-#### Email verification required, accepting crypto
-
-*   **[SmsPVA](https://smspva.com/)** - Temporary virtual numbers in many countries for receiving verification codes. `⚠️ website trackers`
 
 ***
 
@@ -512,7 +502,6 @@ Your browser sees everything you do online, and the big ones are built by ad and
 #### Android / iOS
 
 *   **[Brave](https://brave.com/)** - Chromium-based browser that blocks ads and trackers out of the box. `⚠️ telemetry opt-out` <sub>MPL-2.0</sub>
-*   **[Cromite (⭐8.5k)](https://github.com/uazo/cromite)** - Chromium fork, successor to Bromite, with built-in ad blocking and anti-fingerprinting measures. <sub>Android · Linux · Windows · GPL-3.0</sub>
 *   **[Firefox](https://www.firefox.com/en-US/mobile/)** - Mozilla's browser, with its own engine on Android and Enhanced Tracking Protection on by default. `⚠️ website trackers` `⚠️ telemetry opt-out`
     *   **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Hardened Firefox for Android with proprietary blobs removed, a fork of the discontinued Mull. <sub>Android</sub>
 *   **[Privacy Browser](https://www.stoutner.com/privacy-browser-android/)** - Browser that keeps JavaScript, cookies and other tracking features off until you allow them per site. <sub>Android</sub>
@@ -1654,6 +1643,7 @@ Cloud AI services see everything you type, tie it to your account and payment de
 
 ##### Apps and services
 
+*   **[Amical](https://amical.ai/)** - Desktop dictation app that transcribes offline with open Whisper or Parakeet models and no account, with an optional paid cloud service. `⚠️ closed server` <sub>macOS · Windows · MIT</sub>
 *   **[FUTO Voice Input](https://voiceinput.futo.org/)** - Voice input for Android that works with other keyboards and runs entirely on the device. `⚠️ source-available` <sub>Android</sub>
 *   **[Minutes](https://useminutes.app/)** - Records and transcribes meetings and voice memos on your device, with search over the history for local AI tools.
 *   **[OpenWhispr](https://openwhispr.com/)** - Desktop dictation app that can transcribe fully offline with local models, with cloud processing as an option. `⚠️ website trackers` <sub>Linux · macOS · Windows · MIT</sub>

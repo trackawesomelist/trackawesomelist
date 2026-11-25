@@ -2,7 +2,7 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 708 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 725 · 🏷️ Front-End Development
 
 [ [Daily](/content/deanhume/typography/README.md) / [Weekly](/content/deanhume/typography/week/README.md) / Overview ]
 
@@ -77,18 +77,20 @@ A curated collection of awesome web typography articles.
 *   [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 *   [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 *   [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐786)](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐777)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 *   [brick.im (⭐2.8k)](https://github.com/alfredxing/brick)
 *   [Typebase.css](http://devinhunt.github.io/typebase.css/)
 *   [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
 *   [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
 *   [What Font Finder - Identify a font from an image in the browser, with a confidence score and no upload.](https://whatfontfinder.com/font-identifier/)
+*   [Fonts Ninja - Free browser extension that identifies the fonts used on any website, with size, line height, letter spacing and color.](https://fonts.ninja/tools)
 *   [Using Custom Fonts in Emails (⭐132)](https://github.com/ladjs/custom-fonts-in-emails)
 *   [Typographist — Modular scale calculator API with config validation](https://github.com/typographist)
 *   [Font Face Observer is a fast and simple web font loader](https://fontfaceobserver.com/)
 *   [MixFont A Modern Font Generator](https://www.mixfont.com/)
 *   [How to use custom fonts in emails (⭐132)](https://github.com/forwardemail/custom-fonts-in-emails)
+*   [A1 Fonts - The 570+ typefaces used on hand-picked live websites, most used first, with the real sites that use each font.](https://www.a1.gallery/fonts)
 
 ## Books
 

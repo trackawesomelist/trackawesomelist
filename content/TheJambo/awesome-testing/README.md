@@ -6,6 +6,36 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Software / Security Testing
+
+*   [VibeRaven (⭐65)](https://github.com/ohad6k/VibeRaven) - Open-source CLI that checks Supabase migrations for missing RLS and grants, and replays two concurrent requests on a fresh PostgreSQL to reproduce a bug and confirm its fix.
+
+### Software / AI & LLM Testing
+
+*   [EvalShift (⭐16)](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
+
+### Software / Visual Testing
+
+*   [pdf-snapshot-testing (⭐0)](https://github.com/adilsoncruz/pdf-snapshot-testing) - Visual snapshot testing library for PDFs on the JVM (Kotlin & Java / JUnit 5).
+
+### Software / UI & End-to-End Testing
+
+*   [Agentic Test Explorer (⭐37)](https://github.com/srbarrios/agentic-test-explorer) - Open-source (MIT) AI exploratory testing framework: LangGraph persona agents drive a real browser through a deterministic Playwright engine, and every bug found becomes a reproducible Playwright spec. Can generate test missions from a GitHub pull request.
+
+### Software / Test Management
+
+*   [Gitoza (⭐4)](https://github.com/gitoza-io/gitoza) - Open-source desktop test and task management that stores tickets, wiki, cases, and runs as Markdown in Git.
+
+### Software / Browser Extensions & Utilities
+
+*   [Deep Link Tester](https://bestlatestapps.com/tools/deep-link-tester/) - Builds shell-safe adb and xcrun simctl commands and a QR code for testing Android and iOS deep links, and shows which intent filter in a pasted manifest catches a link.
+
+### Blogs / Static Analysis
+
+*   [AI Testing Guide](https://aitestingguide.com/)
+
 ## [Nov 21, 2026](/content/2026/11/21/README.md)
 
 ### Software / Service Virtualization
@@ -99,13 +129,13 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [ScopeHaven (⭐0)](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
+*   [ScopeHaven (⭐2)](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
 
 ## [Nov 06, 2026](/content/2026/11/06/README.md)
 
 ### Software / Test Automation Frameworks
 
-*   [Cerulion (⭐101)](https://github.com/cerulion-inc/cerulion) - Open-source robot runtime that records each run and re-executes supported native recordings against new code, exiting 1 with the name of the topic that changed, so a recorded robot run becomes a CI regression test.
+*   [Cerulion (⭐122)](https://github.com/cerulion-inc/cerulion) - Open-source robot runtime that records each run and re-executes supported native recordings against new code, exiting 1 with the name of the topic that changed, so a recorded robot run becomes a CI regression test.
 
 ## [Nov 05, 2026](/content/2026/11/05/README.md)
 
@@ -171,13 +201,13 @@ A curated list of testing resources
 
 ### Software / Security Testing
 
-*   [Darkmoon (⭐1.2k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+*   [Darkmoon (⭐1.3k)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### Software / AI & LLM Testing
 
 *   [geokit-cli (⭐0)](https://github.com/gstar-byte/geokit-cli) - Open-source CLI for automated AI search engine readiness testing, `/llms.txt` validation, and crawler access audits.
 *   [aiexpect (⭐2)](https://github.com/dmsehgal/aiexpect) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
-*   [OrcaReplay (⭐403)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
+*   [OrcaReplay (⭐1.2k)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
 *   [flight-recorder (⭐1)](https://github.com/xag/flight-recorder) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
 *   [OrcaPromptVault (⭐133)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 *   [fanout-check (⭐1)](https://github.com/sunxiuguo/fanout-check) - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
@@ -198,11 +228,11 @@ A curated list of testing resources
 
 *   [ai-wright (⭐1)](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
-*   [Browser Use (⭐120k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+*   [Browser Use (⭐122k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
 *   [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
 *   [Clousd](https://clousd.com) - Cloud Android phones (150+ device models, Android 12-17) for app testing in a browser tab, over ADB, or through a REST API and MCP server for AI-driven tests.
 *   [ContextQA MCP](https://mcp.contextqa.com/docs) - Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in.
-*   [Device Hub Pro (⭐172)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+*   [Device Hub Pro (⭐192)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 *   [Drengr](https://drengr.dev) - Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.
 *   [Drengr Runner (⭐1)](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
@@ -254,7 +284,7 @@ A curated list of testing resources
 *   [telegym (⭐6)](https://github.com/kolomiichenko/telegym) - Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.
 *   [k6 (⭐32k)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 *   [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
-*   [Locust Kubernetes Operator (⭐93)](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
+*   [Locust Kubernetes Operator (⭐96)](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 *   [check-proxy-tax (⭐0)](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.
 
 ### Software / Test Automation Frameworks
@@ -335,7 +365,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [Bats (⭐6.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [Bats (⭐6.4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 
 ## [Aug 06, 2026](/content/2026/08/06/README.md)
@@ -370,7 +400,7 @@ A curated list of testing resources
 
 ### Software / Screen Recording & Session Replays
 
-*   [rrweb (⭐20k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+*   [rrweb (⭐21k)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ## [Jul 20, 2026](/content/2026/07/20/README.md)
 
@@ -472,7 +502,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐784)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐800)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
@@ -963,7 +993,7 @@ A curated list of testing resources
 
 *   [Falsehoods (⭐28k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐990)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐989)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 

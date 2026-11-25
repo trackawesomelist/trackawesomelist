@@ -31,6 +31,7 @@
 
 ### AI Tools / Other Tools
 
+*   [AppuBot](https://appubot.com) - Open-source (Apache 2.0) team of AI bots, each with its own job, that hand tasks to each other and work in your real apps and files, on the Claude, ChatGPT, Cursor, Grok or Copilot plan you already have. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarthakguptadev/AppuBot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Hush (⭐8)](https://github.com/OgnjenAdzic28/hush) - Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/OgnjenAdzic28/hush) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Relay (⭐6)](https://github.com/ahmetcankacar54/relay) - Switch the Claude app between accounts, keep Claude Code history on all of them, and see every account’s 5-hour and weekly limits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ahmetcankacar54/relay) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SpecWithCode](https://specwithcode.com) - Open-source (MIT) desktop app that runs Claude Code, Codex and GitHub Copilot threads side by side, with a project coordinator and one git worktree per task. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/anton-abyzov/specwithcode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -57,6 +58,7 @@
 
 *   [Iris](https://harshwardhangalande.github.io/Iris/) - Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harshwardhangalande/Iris) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Relaycat (⭐1)](https://github.com/krutikJain/relaycat) - Runs several Claude desktop accounts, switches between them in one click, brings chats along and shows each account's session and weekly limits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/krutikJain/relaycat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Roomie](https://lesheess.github.io/small-living-things/) - A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [CablePeek](https://cablepeek.pages.dev) - Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/diegobruegger-prog/cablepeek) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MenuBarHome (⭐46)](https://github.com/jryang2026-code/MenuBarHome) - Control Xiaomi Mi Home and Home Assistant devices from the menu bar, with keyboard search and voice commands (formerly MenuBarMijia). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang2026-code/MenuBarHome) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -64,6 +66,10 @@
 ### Utilities / Cleanup and Uninstall
 
 *   [Breathing Room](https://breathing-room.chatic.ai/) - See what is using your Mac's disk space, group busy apps, and review a measured cleanup plan before anything changes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bucabay/breathing-room-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / File Organization Tools
+
+*   [Tidywise (⭐3)](https://github.com/floorianmb/tidywise) - Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/floorianmb/tidywise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / General Tools
 
@@ -574,7 +580,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Loupe (⭐114)](https://github.com/britchie4/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/britchie4/Loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Loupe (⭐117)](https://github.com/britchie4/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/britchie4/Loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SpawnSweep (⭐3)](https://github.com/samirmaikap/spawnsweep) - Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/samirmaikap/spawnsweep) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [tapflow](https://tapflow.dev) - Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jo-duchan/tapflow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

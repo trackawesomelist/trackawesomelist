@@ -16,13 +16,22 @@
 
 *   [Alook](https://alook.ai/) - Open-source, local-first group chat where people and coding agents such as Claude Code and Codex work together in shared rooms. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alookai/alook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### AI Tools / Other Tools
+
+*   [AppuBot](https://appubot.com) - Open-source (Apache 2.0) team of AI bots, each with its own job, that hand tasks to each other and work in your real apps and files, on the Claude, ChatGPT, Cursor, Grok or Copilot plan you already have. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarthakguptadev/AppuBot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / File Sharing
 
 *   [CutVoke (⭐49)](https://github.com/frankShan001/CutVoke) - Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/frankShan001/CutVoke) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
+*   [Relaycat (⭐1)](https://github.com/krutikJain/relaycat) - Runs several Claude desktop accounts, switches between them in one click, brings chats along and shows each account's session and weekly limits. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/krutikJain/relaycat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [CablePeek](https://cablepeek.pages.dev) - Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/diegobruegger-prog/cablepeek) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / File Organization Tools
+
+*   [Tidywise (⭐3)](https://github.com/floorianmb/tidywise) - Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/floorianmb/tidywise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Productivity
 
@@ -1090,7 +1099,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Loupe (⭐114)](https://github.com/britchie4/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/britchie4/Loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Loupe (⭐117)](https://github.com/britchie4/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/britchie4/Loupe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 

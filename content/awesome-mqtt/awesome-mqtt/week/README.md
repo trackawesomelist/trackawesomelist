@@ -6,6 +6,37 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ [Daily](/content/awesome-mqtt/awesome-mqtt/README.md) / Weekly / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Brokers
+
+*   [PLCcom MQTT Standalone Broker](https://www.indi-an.com/en/plccom/mqtt/mqtt-standalone-broker/) - Free MQTT broker for Windows. MQTT 3.1.1 and 5.0 over TLS, TCP and WebSocket, several listeners, access control.
+
+### Tools
+
+*   [PLCcom MQTT Client Tool](https://www.indi-an.com/en/plccom/mqtt/mqtt-client-tool/) - Free MQTT client for Windows. MQTT 3.1.1 and 5.0 over TLS, TCP and WebSocket, publish, subscribe and request/response.
+
+### Java
+
+*   [PLCcom MQTT for Java](https://www.indi-an.com/en/plccom/mqtt/mqtt-overview/) - Commercial MQTT client and broker SDK for Java with MQTT 3.1.1 and 5.0, TLS, WebSocket and an embeddable broker.
+
+### C# / .NET
+
+*   [PLCcom MQTT for .NET](https://www.indi-an.com/en/plccom/mqtt/mqtt-overview/) - Commercial MQTT client and broker SDK for .NET with MQTT 3.1.1 and 5.0, TLS, WebSocket and an embeddable broker.
+
+### Industry / Firmwares for ESP based Devices
+
+*   [tagbridge (⭐0)](https://github.com/DanShinde/tagbridge) - Config-driven Modbus and OPC UA to MQTT gateway with Sparkplug B and Unified Namespace output.
+
+### Monitoring / Firmwares for ESP based Devices
+
+*   [iotaudit (⭐13)](https://github.com/emirmrkaljevic/iotaudit) - Local CLI that grades your own smart home devices and publishes the results to MQTT with Home Assistant discovery.
+
+### Visualization, Dashboards / Firmwares for ESP based Devices
+
+*   [MQTT Dash 2](https://play.google.com/store/apps/details?id=net.routix.mqttdash2) - Android app for building dashboards for MQTT smart home devices and applications. Successor of MQTT Dash, by the same developer.
+*   [Routix Dash](https://routix-dash.com) - iPhone and iPad app for live dashboards from MQTT brokers, HTTP APIs, WebSocket and Server-Sent Events, with charts, gauges, switches and sliders that publish back.
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### Platforms
@@ -43,7 +74,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [LibreDB Studio (⭐1.3k)](https://github.com/libredb/libredb-studio) - Open source web database IDE with a read-only MQTT 5.0 connection: browse a broker's live topic tree with retained messages and read topics, including Sparkplug B payloads.
+*   [LibreDB Studio (⭐1.4k)](https://github.com/libredb/libredb-studio) - Open source web database IDE with a read-only MQTT 5.0 connection: browse a broker's live topic tree with retained messages and read topics, including Sparkplug B payloads.
 *   [MQTTProbe (⭐41)](https://github.com/bluegrassiot/mqttprobe) - Cross platform MQTT diagnostic client for IIoT with live topic browsing, payload decoding across multiple formats, charting, built in emulators, and advanced Sparkplug B integration.
 *   [TrailTransfer (⭐0)](https://github.com/RainerGewalt/trailtransfer) - MQTT-controlled rclone worker for edge file transfers with a local policy and a hash-chained, independently verifiable evidence journal.
 
@@ -105,7 +136,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Rust
 
-*   [AimDB (⭐101)](https://github.com/aimdb-dev/aimdb) - Typed, versioned data contracts over MQTT from `no_std` microcontrollers (Embassy) to the cloud (Tokio), with schema migrations at the hub.
+*   [AimDB (⭐103)](https://github.com/aimdb-dev/aimdb) - Typed, versioned data contracts over MQTT from `no_std` microcontrollers (Embassy) to the cloud (Tokio), with schema migrations at the hub.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -730,7 +761,6 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 *   [HOMR-REACT (⭐18)](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
 *   [Linear MQTT Dashboard (⭐56)](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 *   [MMM-mqtt (⭐16)](https://github.com/javiergayala/MMM-mqtt) - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them.
-*   [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash\&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
 *   [MQTT-Hyperdash (⭐11)](https://github.com/kollokollo/MQTT-Hyperdash) - A universal independent MQTT Dashboard for Linux/Raspberry Pi.
 *   [MQTT.Cool Test Client](https://testclient-cloud.mqtt.cool) - A web interface for testing interaction between MQTT.Cool and any MQTT broker.
 *   [mqtt-panel (⭐438)](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.

@@ -6,6 +6,42 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Graphics / Assets/Placeholders
+
+*   :free: [SpriteForge Image to Pixel Art](https://www.spriteforge.tech/image-to-pixel-art) - Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.
+
+### Graphics / Texture Tools
+
+*   :free: [SpriteForge Pixel Art Normal Map](https://www.spriteforge.tech/pixel-art-normal-map) - Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.
+
+### Graphics / Vector/Image Editor
+
+*   :money\_with\_wings: [RBXGFX](https://rbxgfx.com/) - AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).
+*   :free: [SpriteForge Pixel Art Maker](https://www.spriteforge.tech/pixel-art-maker) - Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.
+
+### Graphics / Modeling
+
+*   :free: [Mint Polycount Checker](https://mint.gg/polycount-checker) - Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.
+
+### AI / Voxel Editors
+
+*   :money\_with\_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
+
+### Collections / Voxel Editors
+
+*   :money\_with\_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
+*   :money\_with\_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
+
+### Music and Audio Editors / Voxel Editors
+
+*   :money\_with\_wings: [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).
+
+### Project Management / Voxel Editors
+
+*   :free: [Overheard Calendar](https://getoverheard.com/calendar/) - Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page
+
 ## [Nov 24, 2026](/content/2026/11/24/README.md)
 
 ### Collections / Voxel Editors

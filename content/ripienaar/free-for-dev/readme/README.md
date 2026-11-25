@@ -515,6 +515,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket, and GitLab (even self-hosted). In addition to standard languages, it also analyzes Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
 *   [codecov.io](https://codecov.io/) - Code coverage tool (SaaS), free for Open Source and one free private repo
 *   [CodeFactor](https://www.codefactor.io) - Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
+*   [CodePeel](https://www.codepeel.com) - Automated code reviews for GitHub pull requests that catch bugs and open fix PRs. Free forever for unlimited public and private repositories (30 reviews/month).
 *   [coderabbit.ai](https://coderabbit.ai) - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.
 *   [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
 *   [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
@@ -556,6 +557,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [bitrise.io](https://www.bitrise.io/) - A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [Buildkite](https://buildkite.com) - CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free
     developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
+*   [BuildPulse](https://buildpulse.io/products/runners) - Faster runners for GitHub Actions, CircleCI and Semaphore. 3,000 free minutes every month, no credit card required.
 *   [bytebase.com](https://www.bytebase.com/) - Database CI/CD and DevOps. Free under 20 users and ten database instances
 *   [CircleCI](https://circleci.com/) - Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
 *   [cirun.io](https://cirun.io) - Free for public GitHub repositories
@@ -788,6 +790,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Monitoring
 
+*   [12happy](https://www.12hpy.com/) - Free uptime service monitoring with status page for your product. Apps for both iOS and Android, notifications via Slack, Telegram and E-mail. Various locations. Free plan includes 50 monitors checked every 5 minutes.
 *   [Uptimeify](https://uptimeify.io/status-pages) - Permament free status pages including custom domain, subscribers (mail, slack, teams, webhook and rss) and maintenance with postmortems. Fully hosted inside the EU.
 *   [Pingzen](https://pingzen.dev) - Free uptime and API monitoring with up to 55 monitors, 1-minute check intervals, and instant alerts.
 *   [Pingzo](https://www.pingzoapp.com) - Free tier offers 1 uptime/API monitor with 15-minute check intervals and instant email alerts.
@@ -914,6 +917,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
 *   [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
 *   [SharpSkill](https://sharpskill.dev/) - Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.
+*   [TCM Academy Free Tier](https://tcm-sec.com/academy/tcm-academy-free-tier/) - Free, full six course tier with over 40 hours of training for IT beginners.
 *   [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
 *   [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
 *   [WebTerm Learn](https://learn.webterm.app) - Learn the Linux terminal, Git and Vim in a simulated terminal in the browser. All 129 lessons are free; the first lesson of each course needs no account.
@@ -1330,7 +1334,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Hookdeck](https://hookdeck.com/pricing) - Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 *   [localhost.run](https://localhost.run/) - Expose locally running servers over a tunnel to a public URL.
 *   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐22k)](https://github.com/localtunnel/localtunnel).
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐23k)](https://github.com/localtunnel/localtunnel).
 *   [LocalXpose](https://localxpose.io) - Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
 *   [ngrok.com](https://ngrok.com/) - Expose locally running servers over a tunnel to a public URL.
 *   [Pinggy](https://pinggy.io) - Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.

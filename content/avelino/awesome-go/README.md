@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Security
+
+*   [gmrtd (⭐38)](https://github.com/gmrtd/gmrtd) - Library for reading and verifying ePassports and ID cards (ICAO Doc 9303) over NFC, including PACE/BAC access control and passive, active and chip authentication.
+
 ## [Nov 24, 2026](/content/2026/11/24/README.md)
 
 ### Financial
@@ -2971,7 +2977,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Email
 
-*   [mox (⭐5.9k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
+*   [mox (⭐6k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
 
 ### Dependency Injection
 
@@ -7480,7 +7486,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [nes (⭐5.7k)](https://github.com/fogleman/nes) - Nintendo Entertainment System (NES) emulator written in Go.
 *   [Orbit (⭐186)](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
-*   [Plik (⭐1.8k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+*   [Plik (⭐1.9k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐37k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.9k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐45)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
