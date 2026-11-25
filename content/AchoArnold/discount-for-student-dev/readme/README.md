@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐142k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐143k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -390,6 +390,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
 
 *   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
+
+*   [TCM Security](https://certifications.tcm-sec.com/) \[DISCOUNT] - Practical, hands-on cybersecurity certifications (PNPT, PJPT and more). Students get a 20% off coupon.
 
 ## Data science
 

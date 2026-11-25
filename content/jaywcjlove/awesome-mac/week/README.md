@@ -8,8 +8,13 @@
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
+### Reading and Writing Tools / Writing
+
+*   [Meboki](https://meboki.com) - Open-source grammar checker that runs a local model on your Mac and fixes text in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mebokihq/meboki) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ### Developer Tools / IDEs
 
+*   [Alook](https://alook.ai/) - Open-source, local-first group chat where people and coding agents such as Claude Code and Codex work together in shared rooms. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alookai/alook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Traycer](https://traycer.ai) - Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/traycerai/traycer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
@@ -35,6 +40,7 @@
 
 ### Audio and Video Tools / File Sharing
 
+*   [CutVoke (⭐49)](https://github.com/frankShan001/CutVoke) - Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/frankShan001/CutVoke) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclearplayer.com/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/margbug01/MySpotify) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [SpatialAudio (⭐5)](https://github.com/vladsboev-web/SpatialAudio) - System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/SpatialAudio) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -52,6 +58,7 @@
 *   [Iris](https://harshwardhangalande.github.io/Iris/) - Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/harshwardhangalande/Iris) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Out to Sea](https://sea.cwdx.md) - Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cwdx/out-to-sea) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Roomie](https://lesheess.github.io/small-living-things/) - A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [CablePeek](https://cablepeek.pages.dev) - Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/diegobruegger-prog/cablepeek) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MenuBarHome (⭐46)](https://github.com/jryang2026-code/MenuBarHome) - Control Xiaomi Mi Home and Home Assistant devices from the menu bar, with keyboard search and voice commands (formerly MenuBarMijia). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jryang2026-code/MenuBarHome) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Cleanup and Uninstall
@@ -61,6 +68,14 @@
 ### Utilities / General Tools
 
 *   [Verticar (⭐3)](https://github.com/sarogreco/Verticar) - Open-source app for using an iPad as a portrait second display over Sidecar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarogreco/Verticar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Productivity
+
+*   [VYSHYVKA BAR](https://sapio-sat.github.io/vyshyvka-bar/) - Open-source Touch Bar replacement with animated Ukrainian embroidery, weather forecast, and system controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sapio-sat/vyshyvka-bar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Utilities / Window Management
+
+*   [AutoWindow](https://zein.nl/autowindow/) - Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Carpe-Futurum/autowindow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Finder Tools
 
@@ -934,7 +949,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Device Hub Pro (⭐172)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gitemre/device-hub-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Device Hub Pro (⭐192)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gitemre/device-hub-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [TunnelFlow (⭐9)](https://github.com/XRSec/TunnelFlow) - Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/XRSec/TunnelFlow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Terminal Apps / Databases
@@ -947,7 +962,7 @@
 
 ### Design and Product / Screen Recording
 
-*   [Caplo (⭐320)](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
+*   [Caplo (⭐329)](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
 
 ### AI Tools / Other Tools
 
@@ -975,7 +990,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [Boost (⭐24)](https://github.com/Kernel-Hunter/boost) - Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kernel-Hunter/boost) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Boost (⭐27)](https://github.com/Kernel-Hunter/boost) - Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Kernel-Hunter/boost) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Menu bar cleaner for developer caches (Xcode, Docker, simulators, node\_modules) with a 2D/3D disk usage treemap. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alexkads/MAC-LIMPO) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
@@ -985,7 +1000,7 @@
 
 ### Utilities / Finder Tools
 
-*   [FinderRight (⭐58)](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/funny-dog/FinderRight) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FinderRight (⭐72)](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/funny-dog/FinderRight) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)
 
@@ -3026,7 +3041,7 @@
 
 *   [Moonlight (⭐19k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonlight-stream/moonlight-qt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Parsec](https://parsec.app) - Low-latency remote desktop and game streaming tool.
-*   [Sunshine (⭐43k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LizardByte/Sunshine) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sunshine (⭐44k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LizardByte/Sunshine) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 

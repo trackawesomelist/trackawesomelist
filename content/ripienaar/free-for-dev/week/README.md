@@ -16,6 +16,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [BetaLobby](https://betalobby.com) - Closed testing platform for Android developers to distribute pre-release Google Play builds across 16-developer teams, verify installs, and track 14-day daily check-ins to meet the 12-tester production requirement. Free, no paid plans.
 
+### Monitoring
+
+*   [Pingaroo](https://pingaroo.dev/) - 1 website, 2 URLs, uptime check with 15 minutes interval, SSL/DNS/domain checks, email alerts, no credit card needed.
+
+### Education and Career Development
+
+*   [SharpSkill](https://sharpskill.dev/) - Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.
+
 ### Email
 
 *   [Buttondown](https://buttondown.com/) - Newsletter service. Up to 100 subscribers free

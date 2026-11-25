@@ -6,6 +6,12 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Tools / Misc Tools
+
+*   [rasp (⭐10)](https://github.com/Ostorlab/rasp) - Open-source RASP runtime that protects a built APK or AAB without source changes: root, debugger, Frida and hook, emulator and app-cloning checks
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Tools / Static Analysis Tools
@@ -34,7 +40,7 @@ A collection of android security related resources
 
 ### Tools / Misc Tools
 
-*   [MobShield (⭐13)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
+*   [MobShield (⭐16)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
 
 ## [Nov 01, 2026](/content/2026/11/01/README.md)
 

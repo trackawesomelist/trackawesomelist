@@ -6,6 +6,12 @@ Open source technology for agriculture, farming, and gardening
 
 [ Daily / [Weekly](/content/brycejohnston/awesome-agriculture/week/README.md) / [Overview](/content/brycejohnston/awesome-agriculture/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Research and General Data
+
+*   [Genomes to Fields Maize GxE Prediction Data](https://doi.org/10.25739/78mn-4394) - Plot-level maize yield and agronomic traits from multi-environment hybrid trials, 2014 to 2024, with weather, soil, management and hybrid genotypes, published by the Genomes to Fields Initiative under ODC PDDL ([2022 edition](https://doi.org/10.25739/tq5e-ak26)).
+
 ## [Nov 19, 2026](/content/2026/11/19/README.md)
 
 ### Crop Modeling, Phenotyping, and Pathology

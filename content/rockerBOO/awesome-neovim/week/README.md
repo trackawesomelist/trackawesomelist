@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [kochetkov-ma/brewpage-nvim (⭐2)](https://github.com/kochetkov-ma/brewpage-nvim) - Publish buffers or selections to BrewPage as shareable web pages and copy the link.
 
+### Remote Development / Indent
+
+*   [mistgc/sshdev.nvim (⭐3)](https://github.com/mistgc/sshdev.nvim) - Happily develop on a remote machine, similar to VSCode's "Remote-SSH" plugin.
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### AI / Diagnostics

@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Monitoring
+
+*   [Pingaroo](https://pingaroo.dev/) - 1 website, 2 URLs, uptime check with 15 minutes interval, SSL/DNS/domain checks, email alerts, no credit card needed.
+
+### Education and Career Development
+
+*   [SharpSkill](https://sharpskill.dev/) - Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.
+
 ## [Nov 24, 2026](/content/2026/11/24/README.md)
 
 ### APIs, Data, and ML

@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
+
+### Language Essentials / Command Line and Argument Parser
+
+*   [sirkon/dap (⭐3)](https://github.com/sirkon/dap) - Declarative command-line argument parser for Zig with compile-time validation, subcommands, help, shell completions, extensive i18n support and command composition. AI-assisted.
+
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 
 ### Fundamentals / Text Editors
@@ -76,7 +82,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Web3 Framework
 
-*   [okcontract/oksolc (⭐115)](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that aims for byte-compatible output with solc 0.8.36 on its supported path, optimized via-IR compilation through Standard JSON, intended for development rather than production deployment. AI-assisted.
+*   [okcontract/oksolc (⭐115)](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that targets byte-for-byte compatibility with solc 0.8.36 to 0.8.39 on its supported path, optimized via-IR compilation through Standard JSON. AI-assisted.
 *   [omerfirmak/zevm (⭐22)](https://github.com/omerfirmak/zevm) - An alpha Ethereum Virtual Machine in Zig that dispatches opcodes with threaded code, usable as a library with a pluggable state backend. AI-assisted.
 
 ### Data & Science / Database
@@ -1328,7 +1334,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 *   [speed2exe/myzql (⭐83)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
-*   [karlseguin/pg.zig (⭐605)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
+*   [karlseguin/pg.zig (⭐606)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐192)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)

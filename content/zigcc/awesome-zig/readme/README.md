@@ -354,6 +354,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [plutowang/zlap (⭐6)](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 *   [muhammad-fiaz/args.zig (⭐27)](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 *   [hgrsd/zopt](https://codeberg.org/hgrsd/zopt) - Low-ceremony schemaless command line argument parser for the Zig ecosystem. No-AI.
+*   [sirkon/dap (⭐3)](https://github.com/sirkon/dap) - Declarative command-line argument parser for Zig with compile-time validation, subcommands, help, shell completions, extensive i18n support and command composition. AI-assisted.
 
 ### Finite State Machine
 
@@ -546,7 +547,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [keep-starknet-strange/ziggy-starkdust (⭐88)](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 *   [iskyd/walle (⭐25)](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
 *   [ryo-zen/zeicoin (⭐3)](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
-*   [okcontract/oksolc (⭐115)](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that aims for byte-compatible output with solc 0.8.36 on its supported path, optimized via-IR compilation through Standard JSON, intended for development rather than production deployment. AI-assisted.
+*   [okcontract/oksolc (⭐115)](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that targets byte-for-byte compatibility with solc 0.8.36 to 0.8.39 on its supported path, optimized via-IR compilation through Standard JSON. AI-assisted.
 *   [omerfirmak/zevm (⭐22)](https://github.com/omerfirmak/zevm) - An alpha Ethereum Virtual Machine in Zig that dispatches opcodes with threaded code, usable as a library with a pluggable state backend. AI-assisted.
 
 ### WebAssembly
@@ -579,7 +580,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [kristoff-it/zig-okredis (⭐295)](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
 *   [vrischmann/zig-cassandra (⭐16)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 *   [speed2exe/myzql (⭐83)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
-*   [karlseguin/pg.zig (⭐605)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
+*   [karlseguin/pg.zig (⭐606)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig.
 *   [karlseguin/zuckdb.zig (⭐192)](https://github.com/karlseguin/zuckdb.zig) - A DuckDB driver for Zig.
 *   [thanos/couchbase-zig-client (⭐2)](https://github.com/thanos/couchbase-zig-client) - A wrapper around Couchbase's c library libcoucbase.
 *   [mailmug/zentropy (⭐51)](https://github.com/mailmug/zentropy) - High-performance, lightweight key-value store (Redis alternative).

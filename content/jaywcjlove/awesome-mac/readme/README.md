@@ -339,6 +339,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [AI Novel Writer (⭐2.7k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 *   [Drifting](https://drifting.cc/) - Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
+*   [Meboki](https://meboki.com) - Open-source grammar checker that runs a local model on your Mac and fixes text in any app. [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 *   [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 *   [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Rewrite text, fix grammar, and edit Word, LaTeX and PDF files. ![Freeware][Freeware Icon]
 *   [novelWriter (⭐3.2k)](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
@@ -413,6 +414,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### IDEs
 
+*   [Alook](https://alook.ai/) - Open-source, local-first group chat where people and coding agents such as Claude Code and Codex work together in shared rooms. [![Open-Source Software][OSS Icon]](https://github.com/alookai/alook) ![Freeware][Freeware Icon]
 *   [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](https://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 *   [Cate](https://cate.cero-ai.com) - Open-source IDE on an infinite zoomable canvas, with editor, terminal, browser, and AI agent panels arranged in a spatial workspace. [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
 *   [CodeRunner](https://coderunnerapp.com) - Lightweight, multi-language programming text editor and IDE.
@@ -474,7 +476,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [DevHub](https://wangchujiang.com/DevHub/) - Feature-rich offline app for developers. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 *   [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware][Freeware Icon]
 *   [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
-*   [Device Hub Pro (⭐172)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+*   [Device Hub Pro (⭐192)](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [DiffMerge](https://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
 *   [Eleven (⭐1k)](https://github.com/Zfinix/eleven) - Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you. [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 *   [EnvPane (⭐840)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
@@ -853,7 +855,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Back to Bug (⭐0)](https://github.com/skarpovdev/backtobug) - Menu bar replay recorder that saves recent screen activity as video for bug reports. [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 *   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 *   [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
-*   [Caplo (⭐320)](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
+*   [Caplo (⭐329)](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
 *   [Capso (⭐1.5k)](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 *   [Gifox](https://gifox.app) - Gif Recording and Sharing.
 *   [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
@@ -1114,6 +1116,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Camera Preview](https://sindresorhus.com/camera-preview) - Preview your webcam, take photos, and use it as a mirror. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1632827132?platform=mac)
 *   [Carol (⭐140)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 *   [Cog](https://cogx.org/) - Free, open-source audio player. [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622?platform=mac)
+*   [CutVoke (⭐49)](https://github.com/frankShan001/CutVoke) - Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline. [![Open-Source Software][OSS Icon]](https://github.com/frankShan001/CutVoke) ![Freeware][Freeware Icon]
 *   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - Free, cross-platform video editing, color grading, video effects and audio editing software.
 *   [Elmedia Player](https://mac.eltima.com/media-player.html) - Media player with broad audio and video format support.
 *   [Fader (⭐91)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
@@ -1531,6 +1534,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Blink (⭐194)](https://github.com/megootronic/Blink) - A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Boring Notch](https://theboring.name/) - Turn your MacBook notch into a music and file control center. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 *   [Bye AppQuit (⭐92)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal menu bar app to quickly view and kill running processes. [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
+*   [CablePeek](https://cablepeek.pages.dev) - Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover. [![Open-Source Software][OSS Icon]](https://github.com/diegobruegger-prog/cablepeek) ![Freeware][Freeware Icon]
 *   [Daily Wallpaper](https://itsnajam.github.io/daily-wallpaper/) - Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/itsnajam/daily-wallpaper) ![Freeware][Freeware Icon]
 *   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 *   [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107?platform=mac)
@@ -1635,7 +1639,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 *   [App Uninstaller (⭐36)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 *   [App Vanish](https://appvanish.pages.dev) - Drop an app on the bin to remove it and the files it left behind. Unsure files start unticked and everything goes to the Trash. The App Store edition finds leftovers of apps you already deleted. [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/appvanish) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/app-vanish/id6831544178?platform=mac) ![Native App][Native Icon]
-*   [Boost (⭐24)](https://github.com/Kernel-Hunter/boost) - Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
+*   [Boost (⭐27)](https://github.com/Kernel-Hunter/boost) - Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
 *   [Breathing Room](https://breathing-room.chatic.ai/) - See what is using your Mac's disk space, group busy apps, and review a measured cleanup plan before anything changes. [![Open-Source Software][OSS Icon]](https://github.com/bucabay/breathing-room-app) ![Freeware][Freeware Icon]
 *   [Burrow (⭐95)](https://github.com/khan-umirzakoff/Mole-GUI) - Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole's safety checks. [![Open-Source Software][OSS Icon]](https://github.com/khan-umirzakoff/Mole-GUI) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Cleaner](https://ciromaciel.click/tools/cleaner) - Open-source cleaner that shows every item before removal, keeps its rules in one public file, and holds what you remove in a 7-day quarantine you can restore from. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/cleaner) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1860,6 +1864,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add. [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
 *   [Volant](https://usevolant.com) - Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents. [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+*   [VYSHYVKA BAR](https://sapio-sat.github.io/vyshyvka-bar/) - Open-source Touch Bar replacement with animated Ukrainian embroidery, weather forecast, and system controls. [![Open-Source Software][OSS Icon]](https://github.com/sapio-sat/vyshyvka-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 *   [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 *   [xScope](https://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 *   [Z (⭐17k)](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
@@ -1870,6 +1875,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 *   [Amethyst](https://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 *   [Assignee](https://assignee.app) - Simple, instant app switcher.
+*   [AutoWindow](https://zein.nl/autowindow/) - Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop. [![Open-Source Software][OSS Icon]](https://github.com/Carpe-Futurum/autowindow) ![Freeware][Freeware Icon]
 *   [Convoker (⭐22)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 *   [contexts](https://contexts.co/) - App switcher for faster window and app switching across multiple screens.
 *   [Dimsum (⭐34)](https://github.com/nshi/dimsum) - Minimalist menu bar app that dims inactive windows to highlight the focused one. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
@@ -1942,7 +1948,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [FileMint (⭐171)](https://github.com/FileMintApp/FileMint) - Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use. ![Native App][Native Icon]
 *   [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon].
-*   [FinderRight (⭐58)](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
+*   [FinderRight (⭐72)](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 *   [Findly](https://findly.rocavence.com) - Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps. [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 *   [SaneClick](https://saneclick.com) - Finder extension that adds right-click actions for file tasks, conversion, and developer tools. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 *   [FlowVision (⭐1.4k)](https://github.com/netdcy/FlowVision) - RWaterfall-style Image Viewer for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
@@ -2081,7 +2087,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Remote connection manager for multiple protocols. ![Freeware][Freeware Icon]
 *   [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 *   [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - The Steam Link app allows you to play your Steam games across all your computers. ![Freeware][Freeware Icon]
-*   [Sunshine (⭐43k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
+*   [Sunshine (⭐44k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 *   [TeamViewer](https://www.teamviewer.com/en) - Remote support and screen sharing tool. ![Freeware][Freeware Icon]
 *   [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware][Freeware Icon]
 

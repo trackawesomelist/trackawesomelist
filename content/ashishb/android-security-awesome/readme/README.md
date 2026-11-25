@@ -253,11 +253,12 @@ If you find this project useful, please consider [supporting it](https://github.
 15. [Spectre (⭐207)](https://github.com/thomasbuilds/Spectre) - Radio frequency scanner with recon and offensive capabilities. Monitors cellular, Wi-Fi, Bluetooth LE, and GNSS on-device, with a BLE GATT inspector, iBeacon broadcaster, and local-network discovery.
 16. [SecureCheck (⭐5)](https://github.com/muhammedalikcb/securecheck) - Open-source app that runs root, Frida, Xposed, tampering, Play Integrity, SSL pinning and other runtime checks, handy for testing bypass techniques against a known target
 17. [WPAForge (⭐180)](https://github.com/wlmosv-png/wpaforge) - Wi-Fi audit tool for rooted Android that builds candidates from the target SSID and hints and verifies each one against a real association; includes WPS PIN and split-halving attacks, LAN recon and offline `.cap`/`.hc22000` checks.
-18. [MobShield (⭐13)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
-19. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
-20. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
-21. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
-22. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+18. [MobShield (⭐16)](https://github.com/Inforaam/MobShield-Android) - Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.
+19. [rasp (⭐10)](https://github.com/Ostorlab/rasp) - Open-source RASP runtime that protects a built APK or AAB without source changes: root, debugger, Frida and hook, emulator and app-cloning checks
+20. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
+21. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
+22. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+23. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
 ### Vulnerable Applications for practice
 

@@ -1891,6 +1891,7 @@ then it is not supported:
 *   [esensar/nvim-dev-container (⭐743)](https://github.com/esensar/nvim-dev-container) - Provide functionality similar to VSCode's [remote container development](https://code.visualstudio.com/docs/remote/containers) plugin, with other functionalities that enable development in Docker containers.
 *   [miversen33/netman.nvim (⭐378)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 *   [niuiic/remote.nvim (⭐45)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [mistgc/sshdev.nvim (⭐3)](https://github.com/mistgc/sshdev.nvim) - Happily develop on a remote machine, similar to VSCode's "Remote-SSH" plugin.
 *   [uhs-robert/sshfs.nvim (⭐165)](https://github.com/uhs-robert/sshfs.nvim) - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 *   [nosduco/remote-sshfs.nvim (⭐430)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
 *   [azratul/live-share.nvim (⭐294)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.

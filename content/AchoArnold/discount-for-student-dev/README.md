@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 25, 2026](/content/2026/11/25/README.md)
+
+### Learning Resources
+
+*   [TCM Security](https://certifications.tcm-sec.com/) \[DISCOUNT] - Practical, hands-on cybersecurity certifications (PNPT, PJPT and more). Students get a 20% off coupon.
+
 ## [Nov 15, 2026](/content/2026/11/15/README.md)
 
 ### SaaS
