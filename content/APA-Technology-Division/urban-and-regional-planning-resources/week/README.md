@@ -16,6 +16,10 @@ Community list of data & technology resources concerning the built environment a
 
 *   [SHIELDUS](https://cemhs.asu.edu/sheldus) - This is a county-level U.S. database of natural hazard events from 1960 to the present. It covers thunderstorms, hurricanes, floods, wildfires, tornadoes, flash floods and heavy rainfall, and records each event's date, the affected county and state, and its direct losses in property damage, crop damage, injuries and fatalities.
 
+### Vendor Data Resources / Land Use and Land Cover
+
+*   [BatchData](https://batchdata.io) - U.S. property and parcel data (ownership, assessor, sales, mortgage, permits) by API, bulk files or MCP. License: Proprietary. Geographic Coverage: United States.
+
 ## [Nov 09 - Nov 15, 2026](/content/2026/45/README.md)
 
 ### Other Resources / Other Technology Resource Aggregators

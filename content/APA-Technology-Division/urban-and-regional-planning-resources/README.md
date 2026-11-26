@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### Vendor Data Resources / Land Use and Land Cover
+
+*   [BatchData](https://batchdata.io) - U.S. property and parcel data (ownership, assessor, sales, mortgage, permits) by API, bulk files or MCP. License: Proprietary. Geographic Coverage: United States.
+
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 
 ### Public Data Resources / Demographic

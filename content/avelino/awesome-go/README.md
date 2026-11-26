@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### HTTP Clients
+
+*   [failnext (⭐27)](https://github.com/yermakovsa/failnext) - HTTP transport for client-side failover across priority-ordered endpoints.
+
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 
 ### Security
@@ -322,7 +328,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [FCaptcha (⭐234)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
+*   [FCaptcha (⭐286)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
 
 ### Testing Frameworks
 
@@ -630,7 +636,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Plakar (⭐2.1k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+*   [Plakar (⭐2.2k)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 
 ## [Sep 04, 2026](/content/2026/09/04/README.md)
 

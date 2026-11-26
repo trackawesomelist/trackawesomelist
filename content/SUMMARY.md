@@ -2146,6 +2146,7 @@
 - [Days](daily/README.md)
   - [2026](2026/month/README.md)
     - [11](2026/11/day/README.md)
+      - [Nov 26, 2026](2026/11/26/README.md)
       - [Nov 25, 2026](2026/11/25/README.md)
       - [Nov 24, 2026](2026/11/24/README.md)
       - [Nov 23, 2026](2026/11/23/README.md)
