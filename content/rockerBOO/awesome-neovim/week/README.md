@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [harukikuri/tsconfig-lens.nvim (⭐1)](https://github.com/harukikuri/tsconfig-lens.nvim) - Show which `tsconfig` file applies to the current file, its `extends` chain and final compiler options.
+*   [drumandbytes/dbt-lens.nvim (⭐0)](https://github.com/drumandbytes/dbt-lens.nvim) - Run dbt models, read compiled SQL, and jump to `ref()`, `source()` and macro definitions.
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -19,6 +20,10 @@ Collections of awesome neovim plugins.
 ### Fuzzy Finder / Markdown and LaTeX
 
 *   [Irdis/swimd (⭐2)](https://github.com/Irdis/swimd) - A fast C-based fuzzy file finder with SIMD acceleration, Git integration, and file watching.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [ryanjayleyva/kasumi.nvim (⭐0)](https://github.com/ryanjayleyva/kasumi.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme of dusty pinks, sages and greys, with matching themes for Ghostty, WezTerm, tmux and Zsh.
 
 ### Colorscheme / Colorscheme Creation
 

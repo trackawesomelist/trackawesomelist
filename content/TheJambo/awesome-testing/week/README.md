@@ -15,6 +15,7 @@ A curated list of testing resources
 ### Software / AI & LLM Testing
 
 *   [EvalShift (⭐16)](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
+*   [Apex verify (⭐4)](https://github.com/apex-engine-dev/apex-verify) - Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.
 
 ### Software / Visual Testing
 
@@ -23,10 +24,13 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [Agentic Test Explorer (⭐37)](https://github.com/srbarrios/agentic-test-explorer) - Open-source (MIT) AI exploratory testing framework: LangGraph persona agents drive a real browser through a deterministic Playwright engine, and every bug found becomes a reproducible Playwright spec. Can generate test missions from a GitHub pull request.
+*   [Chromium Builds (⭐2)](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86\_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).
+*   [Selenia (⭐3)](https://github.com/penielny/selenia) - Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.
 
 ### Software / Test Management
 
 *   [Gitoza (⭐4)](https://github.com/gitoza-io/gitoza) - Open-source desktop test and task management that stores tickets, wiki, cases, and runs as Markdown in Git.
+*   [wardenIQ (⭐18)](https://github.com/adlerqa/wardeniq) - Open-source (MIT), self-hosted test intelligence: generates test cases from requirement documents with an LLM and checks the real code against them for coverage.
 
 ### Software / Browser Extensions & Utilities
 
@@ -213,7 +217,6 @@ A curated list of testing resources
 
 *   [telegym (⭐6)](https://github.com/kolomiichenko/telegym) - Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.
 *   [k6 (⭐32k)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
-*   [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 *   [Locust Kubernetes Operator (⭐96)](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 *   [check-proxy-tax (⭐0)](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.
 

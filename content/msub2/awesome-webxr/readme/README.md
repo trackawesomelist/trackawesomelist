@@ -2,7 +2,7 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 282 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 287 · 🏷️ Miscellaneous
 
 [ [Daily](/content/msub2/awesome-webxr/README.md) / [Weekly](/content/msub2/awesome-webxr/week/README.md) / Overview ]
 
@@ -58,6 +58,8 @@ All things WebXR.
 *   [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 *   [NeoFables](https://neofables.com/) - A dynamically-generated VR storytelling experience utilizing GenAI. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards and is the first GenAI VR experience featured by Meta.
 *   [XRSH](https://xrsh.isvery.ninja) - Linux virtual machines running inside WebXR to enable live-scripting, packages and prototyping inside an in-VR shell. [\[repo\]](https://codeberg.org/xrsh/xrsh)
+*   [Meows Freaky Fishstick Factory](https://www.nxtwebxr.com/fishstickfactory/) - A mixed reality rage game by Morten Haulik: you are a cat on a fish stick conveyor belt, swatting the weird fish sticks before your boss sees.
+*   [die Hände](https://www.nxtwebxr.com/diehaende/) - A mixed reality experience by NXT/WebXR played with your bare hands: a dead hand under glass copies yours, until it wants to play you.
 
 ## Art
 
@@ -135,6 +137,7 @@ All things WebXR.
 
 *   [dmnshd.gg](https://dmnshd.gg) - A platform for discovering and playing WebXR games.
 *   [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+*   [NXT/WebXR](https://www.nxtwebxr.com/) - A free catalogue of WebXR games and experiences for Meta Quest and Pico, browsed as a feed of 3D trailers in your own room, in English and Japanese.
 *   [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 *   [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
@@ -160,7 +163,7 @@ All things WebXR.
 
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
     *   [WebXR Export (⭐1.3k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐608)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [SimpleWebXR (⭐612)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
@@ -173,13 +176,13 @@ All things WebXR.
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
 
-*   [JanusWeb (⭐202)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐208)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 
-*   [JSAR-DOM (⭐84)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+*   [JSAR-DOM (⭐87)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
-*   [react-three-fiber (⭐32k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.6k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐34k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.6k)](https://github.com/pmndrs/react-xr) as well.
 
 *   [reactylon](https://www.reactylon.com/) - A powerful multiplatform framework built on top of Babylon.js and React, designed to create 3D/XR experiences.
     *   [Official Documentation](https://www.reactylon.com/docs)
@@ -226,7 +229,7 @@ All things WebXR.
 
 ### Engines
 
-*   [Hyperfy (⭐298)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
+*   [Hyperfy (⭐313)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
 
 ### Galleries
 

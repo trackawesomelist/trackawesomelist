@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### Collections / Voxel Editors
+
+*   :free: [Circuit UI SFX Free Sample](https://secondwindmc.github.io/circuit-ui-sfx.html) - 12 CC0 procedural retro game sound effects in WAV, plus a free browser-based retro sound generator.
+
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 
 ### Graphics / Assets/Placeholders
@@ -199,7 +205,7 @@
 
 ### AI / Voxel Editors
 
-*   :tada: [AI Art Engine (⭐268)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
+*   :tada: [AI Art Engine (⭐292)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
 
 ## [Nov 10, 2026](/content/2026/11/10/README.md)
 

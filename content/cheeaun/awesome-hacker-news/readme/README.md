@@ -74,6 +74,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker-News.news](https://www.hacker-news.news)
 *   [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 *   [Hacker News for busy web developers](https://lessnews.dev/)
+*   [HackerPage](https://hackerpage.org) – Papers, hardware, and blogs frequently recommended in HN comments
 *   [hcker.news](http://hcker.news/) - Story and Best Comments Timeline
 *   [HCKR news](http://hckrnews.com/)
 *   [hn30](https://hn30.yamanlabs.com)
@@ -203,6 +204,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Haiker](https://haiker.app)
 *   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
+*   [Nautilus](https://apps.apple.com/us/app/nautilus-tech-news-reader/id6787639053)
 *   [touchHNews (⭐192)](https://github.com/mrmekon/toucHNews)
 
 ### Linux
@@ -225,6 +227,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
 *   [Haiker](https://haiker.app)
 *   [iHNews (⭐3)](https://github.com/guidefreitas/iHNews)
+*   [Nautilus](https://apps.apple.com/us/app/nautilus-tech-news-reader/id6787639053)
 *   [Octal](https://itunes.apple.com/us/app/id1308885491)
 *   [SwiftHN](http://dimillian.github.io/SwiftHN/)
 *   [Top Now](https://apps.apple.com/us/app/top-now/id1486916333?ls=1)

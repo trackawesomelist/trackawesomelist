@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / [Overview](/content/zachflower/awesome-open-source-supporters/readme/README.md) ]
 
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### Miscellaneous
+
+*   [Fixa](https://fixa.dev/open-source) - AI software engineer that turns GitHub issues into tested pull requests, free on public repositories with 50+ stars.
+
 ## [Nov 22, 2026](/content/2026/11/22/README.md)
 
 ### Continuous Integration

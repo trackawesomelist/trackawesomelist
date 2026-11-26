@@ -95,6 +95,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [judge-check (⭐0)](https://github.com/dylanpulver/judge-check) - Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.
 *   [agentest (⭐2)](https://github.com/srpadmanabhuni/agentest) - Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.
 *   [EvalShift (⭐16)](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
+*   [Apex verify (⭐4)](https://github.com/apex-engine-dev/apex-verify) - Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.
 
 ### Service Virtualization
 
@@ -236,6 +237,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [sitelooper (⭐1)](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
 
+*   [Chromium Builds (⭐2)](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86\_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).
+
+*   [Selenia (⭐3)](https://github.com/penielny/selenia) - Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.
+
 ### Test Report Diagnostics
 
 *   [coverage (⭐4)](https://github.com/xseman/coverage) - GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.
@@ -251,6 +256,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [skipper (⭐3)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 *   [TestLink (⭐1.6k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 *   [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+*   [wardenIQ (⭐18)](https://github.com/adlerqa/wardeniq) - Open-source (MIT), self-hosted test intelligence: generates test cases from requirement documents with an LLM and checks the real code against them for coverage.
 
 ### Test Data Management
 
@@ -317,7 +323,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Load Testing Hub Panel (⭐23)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 *   [telegym (⭐6)](https://github.com/kolomiichenko/telegym) - Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.
 *   [k6 (⭐32k)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
-*   [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 *   [Locust Kubernetes Operator (⭐96)](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 *   [check-proxy-tax (⭐0)](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.
 

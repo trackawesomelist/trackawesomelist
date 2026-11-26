@@ -18,9 +18,9 @@ This is a collaborative community curated list of awesome Ansible resources, too
 
 [Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
 
-:warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
+:warning: Ansible Collections/Roles: By design, we don't include collections and roles in the list, that's what [Ansible Galaxy](https://galaxy.ansible.com/) is for. You can also open a discussion about your collection on [forum.ansible.com](https://forum.ansible.com/).
 
-<!--lint enable double-link-->
+:warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
 
 <!--lint disable-->
 
@@ -37,10 +37,11 @@ This is a collaborative community curated list of awesome Ansible resources, too
     *   [Blog posts and opinions](#blog-posts-and-opinions)
         *   [German](#german)
         *   [French](#french)
-    *   [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
     *   [Editor and IDE Integrations](#editor-and-ide-integrations)
 
 <!--lint enable-->
+
+<!--lint disable double-link-->
 
 ## Official resources
 
@@ -53,8 +54,6 @@ This is a collaborative community curated list of awesome Ansible resources, too
 ## Community
 
 Join the Ansible forum:
-
-<!--lint disable double-link-->
 
 *   [Get Help](https://forum.ansible.com/c/help/6) - Forum for asking and answering questions. Please add appropriate tags if you start new discussions.
 *   [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn) - Used to announce releases and important changes.
@@ -127,7 +126,7 @@ For more information about communication, see the [Ansible communication guide](
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
 *   [ansible-runner (⭐1.1k)](https://github.com/ansible/ansible-runner) - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
-*   [kics (⭐2.7k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+*   [kics (⭐2.8k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 *   [ansible-security-scanner (⭐17)](https://github.com/cpeoples/ansible-security-scanner) - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 *   [php-ansible Library (⭐215)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
 *   [TD4A (⭐223)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
@@ -143,6 +142,7 @@ For more information about communication, see the [Ansible communication guide](
 *   [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
 *   [speedrunner (⭐22)](https://github.com/anthonyGosme/speedrunner) - Cuts the start-up time of `ansible`, `ansible-doc` and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.
 *   [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator and formatter with Ansible JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.
+*   [Netforge.ai](https://netforge.ai) - Network design tool that turns a topology drawing into a ready-to-run Ansible project: inventory grouped by platform, per-device host\_vars, per-platform group\_vars and a playbook per platform.
 
 ## Blog posts and opinions
 
@@ -164,23 +164,6 @@ For more information about communication, see the [Ansible communication guide](
 ### French
 
 *   [Apprendre et Maitriser Ansible l'outil de gestion de configuration](https://blog.stephane-robert.info/post/introduction-ansible/) - A large of courses on Ansible in French.
-
-## Playbooks, Roles and Collections
-
-> Awesome production ready Playbooks, Roles and Collections to get you up and running.
-
-*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
-*   [Ansible playbook for Linux machine setup (⭐113)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
-*   [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
-*   [DevSec Hardening Framework](https://dev-sec.io/) - The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
-*   [T.A.D.S. boilerplate (⭐779)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
-*   [Openstack Ansible (⭐1.6k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
-*   [Robert de Bock](https://robertdebock.nl) - A extensive collection of Ansible roles.
-*   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
-*   [ansible-ssm (⭐8)](https://github.com/HQarroum/ansible-ssm) - An Ansible role to provision physical and virtual hosts with the AWS SSM agent.
-*   [BlueBanquise (⭐165)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
-*   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with Ansible topic of the Red Hat Communities of Practice project.
-*   [Linuxfabrik LFOps (⭐97)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 
 ## Editor and IDE Integrations
 

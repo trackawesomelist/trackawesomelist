@@ -2,7 +2,7 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 422 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 426 · 🏷️ Front-End Development
 
 [ [Daily](/content/lauthieb/awesome-storybook/README.md) / [Weekly](/content/lauthieb/awesome-storybook/week/README.md) / Overview ]
 
@@ -39,14 +39,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [GitHub](https://github.com/storybookjs)
 *   [Medium](https://medium.com/storybookjs)
 *   [Discord](https://discord.gg/storybook)
-*   [Brand's materials (⭐110)](https://github.com/storybookjs/brand)
+*   [Brand's materials (⭐112)](https://github.com/storybookjs/brand)
 *   [Design system](https://master--5ccbc373887ca40020446347.chromatic.com/)
 
 ## Community resources
 
+*   [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/storybook) - Visual regression testing for Storybook in the Buddy.Works cloud. Upload the built Storybook to compare every story with approved baselines across browsers and devices, and get a hosted Storybook for each tested version.
 *   [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 *   [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 *   [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.
+*   [UI Verify](https://uiverify.ai) - Visual testing for coding agents: screenshots your Storybook stories on every pull request so Claude Code or Cursor can see what their change did to the UI.
 
 ## Examples
 
@@ -62,6 +64,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Mística - Design system](https://mistica-web.vercel.app/?path=/story/welcome--welcome)
 *   [Recharts - Storybook](https://recharts.org/en-US/storybook)
 *   [Bestax - Storybook](https://bestax.io/storybook/)
+*   [ElementsKit UI - Storybook](https://elements-kit.com/storybook/)
 
 ## Tutorials
 

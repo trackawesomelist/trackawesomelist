@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### Tools
+
+*   [Netforge.ai](https://netforge.ai) - Network design tool that turns a topology drawing into a ready-to-run Ansible project: inventory grouped by platform, per-device host\_vars, per-platform group\_vars and a playbook per platform.
+
 ## [Nov 23, 2026](/content/2026/11/23/README.md)
 
 ### Blog posts and opinions
@@ -58,12 +64,6 @@ Awesome Ansible List
 
 *   [Ansible DocSmith (⭐26)](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 
-## [May 18, 2026](/content/2026/05/18/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [Linuxfabrik LFOps (⭐97)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
-
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Tools
@@ -88,12 +88,6 @@ Awesome Ansible List
 ### Blog posts and opinions
 
 *   [Enhancing Ansible Development with SOLID Principles (⭐6)](https://github.com/kksat/SOLID-Ansible) - Discover how the fundamental principles of SOLID—Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—can significantly elevate your Ansible role and playbook development.
-
-## [Feb 11, 2025](/content/2025/02/11/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
 
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
@@ -153,12 +147,6 @@ Awesome Ansible List
 
 *   [antsichaut (⭐5)](https://github.com/ansible-community/antsichaut) - Automate the filling of a changelog.yaml used by antsibull-changelog.
 
-## [Jun 09, 2023](/content/2023/06/09/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with Ansible topic of the Red Hat Communities of Practice project.
-
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Tools
@@ -198,10 +186,6 @@ Awesome Ansible List
 
 *   [Ansible Semaphore (⭐14k)](https://github.com/ansible-semaphore/semaphore) - Modern UI for managing and running Ansible playbooks.
 
-### Playbooks, Roles and Collections / French
-
-*   [Robert de Bock](https://robertdebock.nl) - A extensive collection of Ansible roles.
-
 ## [Jun 03, 2022](/content/2022/06/03/README.md)
 
 ### Blog posts and opinions / German
@@ -219,12 +203,6 @@ Awesome Ansible List
 *   [Getting started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/) - Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.
 *   [Taking Ansible apart](https://steampunk.si/blog/taking-ansible-apart/) - Describes and shows how most commonly used Ansible components work.
 
-## [May 04, 2022](/content/2022/05/04/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [DevSec Hardening Framework](https://dev-sec.io/) - The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
-
 ## [Apr 02, 2022](/content/2022/04/02/README.md)
 
 ### Tools
@@ -232,12 +210,6 @@ Awesome Ansible List
 *   [php-ansible Library (⭐215)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
 *   [TD4A (⭐223)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
 *   [Ansible Playbook Grapher (⭐767)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
-
-## [Apr 01, 2022](/content/2022/04/01/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [BlueBanquise (⭐165)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -255,7 +227,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [kics (⭐2.7k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+*   [kics (⭐2.8k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
@@ -276,12 +248,6 @@ Awesome Ansible List
 ### Tools
 
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Automation Controller job templates.
-
-## [Sep 20, 2021](/content/2021/09/20/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [ansible-ssm (⭐8)](https://github.com/HQarroum/ansible-ssm) - An Ansible role to provision physical and virtual hosts with the AWS SSM agent.
 
 ## [Aug 05, 2021](/content/2021/08/05/README.md)
 
@@ -380,30 +346,11 @@ Awesome Ansible List
 
 *   [Excel Ansible Inventory (⭐103)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
-## [Aug 20, 2020](/content/2020/08/20/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [Ansible playbook for Linux machine setup (⭐113)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
-
-## [Nov 26, 2019](/content/2019/11/26/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [T.A.D.S. boilerplate (⭐779)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
-
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
 ### Tools
 
 *   [Ansible Lint (⭐3.9k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
-
-## [Oct 08, 2018](/content/2018/10/08/README.md)
-
-### Playbooks, Roles and Collections / French
-
-*   [Openstack Ansible (⭐1.6k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
-*   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
 ## [Jun 19, 2018](/content/2018/06/19/README.md)
 
@@ -433,7 +380,3 @@ Awesome Ansible List
 ### Blog posts and opinions
 
 *   [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
-
-### Playbooks, Roles and Collections / French
-
-*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.

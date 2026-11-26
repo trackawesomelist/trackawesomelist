@@ -41,6 +41,7 @@
 
 ### Collections / Voxel Editors
 
+*   :free: [Circuit UI SFX Free Sample](https://secondwindmc.github.io/circuit-ui-sfx.html) - 12 CC0 procedural retro game sound effects in WAV, plus a free browser-based retro sound generator.
 *   :money\_with\_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
 *   :free: [Ember Audio Free Sampler](https://lidorxl.itch.io/ember-audio-free-sampler) - 30 game audio files in OGG, with one music track, one seamless ambience loop and one SFX from each of 10 settings (dungeon, cyberpunk, cozy farm, western, cosmic horror, tavern, sci-fi, feudal Japan, post-apocalypse, pirates); royalty-free for commercial use, no attribution required. AI-generated (Suno for music, Stable Audio Open for loops and SFX) and hand-curated.
 *   :money\_with\_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
@@ -145,7 +146,7 @@
 
 ### AI / Voxel Editors
 
-*   :tada: [AI Art Engine (⭐268)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
+*   :tada: [AI Art Engine (⭐292)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
 *   :moneybag: [Buildaloo](https://buildaloo.com/?utm_source=magictools\&utm_medium=directory) - AI game maker for kids 5–12: a kid says a game idea out loud and plays the game in the browser. Parent account, no ads, no stranger chat.
 *   :money\_with\_wings: [PlayDrop](https://www.playdrop.ai/create) - Make a browser game by describing it, or publish one your AI app made, and share it with a link.
 

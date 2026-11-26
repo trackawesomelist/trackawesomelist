@@ -380,6 +380,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [jgonmor16/hdlsnip.nvim (⭐5)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 *   [upyesp/epher.nvim (⭐2)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 *   [dobsontom/dbt-ft.nvim (⭐3)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
+*   [drumandbytes/dbt-lens.nvim (⭐0)](https://github.com/drumandbytes/dbt-lens.nvim) - Run dbt models, read compiled SQL, and jump to `ref()`, `source()` and macro definitions.
 *   [alessandropietrobelli/dotnet-tree.nvim (⭐21)](https://github.com/alessandropietrobelli/dotnet-tree.nvim) - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
 *   [alessandropietrobelli/dotnet-counters.nvim (⭐7)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
 *   [anirbanchakraborty-dev/swara (⭐0)](https://github.com/anirbanchakraborty-dev/swara) - LilyPond support with its own Tree-sitter grammar and LSP server.
@@ -783,6 +784,7 @@ then it is not supported:
 
 <!--lint enable awesome-list-item-->
 
+*   [ryanjayleyva/kasumi.nvim (⭐0)](https://github.com/ryanjayleyva/kasumi.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme of dusty pinks, sages and greys, with matching themes for Ghostty, WezTerm, tmux and Zsh.
 *   [heritage-themes/heritage-themes.nvim (⭐4)](https://github.com/heritage-themes/heritage-themes.nvim) - ***`[TS][LSP][L/D][Lua]`*** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 *   [zacesshq/zacess.nvim (⭐1)](https://github.com/zacesshq/zacess.nvim) - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 *   [daaanny90/interlinked.nvim (⭐3)](https://github.com/daaanny90/interlinked.nvim) - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.

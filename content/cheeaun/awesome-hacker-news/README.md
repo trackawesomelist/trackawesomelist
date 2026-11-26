@@ -10,7 +10,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Web
 
+*   [HackerPage](https://hackerpage.org) – Papers, hardware, and blogs frequently recommended in HN comments
 *   *   [HN Digest](https://o-server.main.jp/hacker-news/en/) - Daily digest of the top 30 Hacker News stories with AI-written summaries and analysis. Available in English, Japanese, Chinese and Spanish, with daily rankings and an RSS feed.
+
+### iOS / Nevix
+
+*   [Nautilus](https://apps.apple.com/us/app/nautilus-tech-news-reader/id6787639053)
 
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 

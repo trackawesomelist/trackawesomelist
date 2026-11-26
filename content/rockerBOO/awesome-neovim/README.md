@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Nov 26, 2026](/content/2026/11/26/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [drumandbytes/dbt-lens.nvim (⭐0)](https://github.com/drumandbytes/dbt-lens.nvim) - Run dbt models, read compiled SQL, and jump to `ref()`, `source()` and macro definitions.
+
 ### Programming Languages Support / Markdown and LaTeX
 
 *   [Kepler2024/iterm-preview.nvim (⭐11)](https://github.com/Kepler2024/iterm-preview.nvim) - Route `markdown-preview.nvim` live previews into an iTerm2 browser split pane instead of an external browser window, with scroll sync.
+
+### Colorscheme / Markdown and LaTeX
+
+*   [ryanjayleyva/kasumi.nvim (⭐0)](https://github.com/ryanjayleyva/kasumi.nvim) - ***`[TS][LSP][Lua]`*** Muted dark colorscheme of dusty pinks, sages and greys, with matching themes for Ghostty, WezTerm, tmux and Zsh.
 
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 

@@ -2,9 +2,25 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 422 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 426 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/lauthieb/awesome-storybook/week/README.md) / [Overview](/content/lauthieb/awesome-storybook/readme/README.md) ]
+
+## [Nov 26, 2026](/content/2026/11/26/README.md)
+
+### Community resources
+
+*   [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/storybook) - Visual regression testing for Storybook in the Buddy.Works cloud. Upload the built Storybook to compare every story with approved baselines across browsers and devices, and get a hosted Storybook for each tested version.
+
+## [Oct 21, 2026](/content/2026/10/21/README.md)
+
+### Community resources
+
+*   [UI Verify](https://uiverify.ai) - Visual testing for coding agents: screenshots your Storybook stories on every pull request so Claude Code or Cursor can see what their change did to the UI.
+
+### Examples
+
+*   [ElementsKit UI - Storybook](https://elements-kit.com/storybook/)
 
 ## [Oct 09, 2026](/content/2026/10/09/README.md)
 
@@ -75,7 +91,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Official resources
 
-*   [Brand's materials (⭐110)](https://github.com/storybookjs/brand)
+*   [Brand's materials (⭐112)](https://github.com/storybookjs/brand)
 
 ### Blog posts
 
