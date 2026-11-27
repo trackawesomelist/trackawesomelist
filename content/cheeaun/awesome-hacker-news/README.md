@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Email
+
+*   [Taco Digest](https://tacodigest.com/hackernews-to-email)
+
 ## [Nov 26, 2026](/content/2026/11/26/README.md)
 
 ### Web

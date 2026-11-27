@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Artificial Intelligence
+
+*   [Foundation Model Engineering](https://sungeuns.github.io/foundation-model-engineering/) - Seongeun So (HTML) *( :construction: in process)*
+
+### Computer Vision
+
+*   [Foundations of Computer Vision](https://visionbook.mit.edu) - Antonio Torralba, Phillip Isola, William T. Freeman (HTML)
+
 ## [Nov 24, 2026](/content/2026/11/24/README.md)
 
 ### Misc / Mathematics For Computer Science

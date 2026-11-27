@@ -42,13 +42,13 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 *   [Preact CLI (⭐4.7k)](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 *   [Vite (⭐84k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
-*   [PreactPress (⭐4)](https://github.com/kamod-ch/preactpress) - Vite and Preact powered static site generator for docs, blogs, and marketing sites *([demo](https://kamod-ch.github.io/preactpress/))*.
+*   [PreactPress (⭐5)](https://github.com/kamod-ch/preactpress) - Vite and Preact powered static site generator for docs, blogs, and marketing sites *([demo](https://kamod-ch.github.io/preactpress/))*.
 *   [EviKit](https://codeberg.org/nykula/evikit) - Vite/Preact SSR framework for small web apps. SQLite ORM, OpenAPI validation, translation, SEO.
 *   [nwb (⭐5.5k)](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 *   [React App Rewire Preact (⭐9.8k)](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 *   [Preact CLI PostCSS (⭐15)](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
 *   [Create Preact App (⭐94)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
-*   [Storybook Preact (⭐91k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
+*   [Storybook Preact (⭐92k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ### Boilerplates
 
@@ -61,11 +61,11 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Modern Startupper (⭐18)](https://github.com/kolodziejczakM/preact-modern-startupper) - PWA boilerplate with support for TypeScript, Goober, Unistore and Plop.
 *   [Preact Redux SSR Example (⭐32)](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
 *   [Preact PWA (⭐503)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
-*   [Preact Chrome Extension (⭐690)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
+*   [Preact Chrome Extension (⭐689)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 *   [Preact Web Extension (⭐22)](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 *   [Preact Neutralino TypeScript Starter (⭐2)](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - Starter project for building lightweight desktop applications with Preact and neutralino.js.
 *   [Simple Deno Starter (⭐0)](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
-*   [Extension.js Templates (⭐12)](https://github.com/extension-js/examples) - Preact starters for popup, new tab, content script and devtools pages, ready to run in Chrome, Edge, Firefox and Safari.
+*   [Extension.js Templates (⭐13)](https://github.com/extension-js/examples) - Preact starters for popup, new tab, content script and devtools pages, ready to run in Chrome, Edge, Firefox and Safari.
 
 ### Routing
 
@@ -76,13 +76,13 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Components
 
-*   [Preact Material Components (⭐553)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐552)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 *   [Preact Scroll Header (⭐43)](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
 *   [Preact Progress (⭐49)](https://github.com/lukeed/preact-progress) - Simple and lightweight (\~590 bytes gzip) progress bar component for Preact.
 *   [Preact Compat (⭐943)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐53)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐729)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
-*   [Preact Markup (⭐207)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
-*   [Preact Portal (⭐183)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
+*   [Preact Render To String (⭐731)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Markup (⭐206)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+*   [Preact Portal (⭐180)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
 *   [Preact Richtextarea (⭐43)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
 *   [Preact Token Input (⭐64)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
 *   [Preact Virtual List (⭐230)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
@@ -115,7 +115,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Component Console (⭐30)](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 *   [Preact Translate (⭐68)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 *   [Preact Dock (⭐22)](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
-*   [Preact Particles (⭐9k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
+*   [Preact Particles (⭐9.1k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
 *   [Pant (⭐31)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐24k)](https://github.com/youzan/vant).
 *   [Preact Transitioning (⭐52)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 *   [Preact Nominal Allocator (⭐1)](https://github.com/TimDaub/preact-nominal-allocator) - A numerical input element that can also manipulated with two buttons (-/+).
@@ -124,16 +124,18 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 *   [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 *   [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
-*   [Kamod UI (⭐14)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
+*   [Kamod UI (⭐15)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
 *   [Preact Filter Builder (⭐0)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
-*   [I18n Micro (⭐254)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
+*   [I18n Micro (⭐255)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 *   [@zikojs/preact-console (⭐22)](https://github.com/zikojs/console/tree/main/packages/integrations/preact) - A console-like UI component for Preact that renders JavaScript console output directly inside your application.
-*   [RevoGrid Kanban (⭐10)](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` custom element. Commercial with a 30-day trial.
-*   [RevoGrid Gantt (⭐10)](https://github.com/revolist/gantt) - Project tasks, dependencies, and Gantt timelines for the `<revo-grid>` custom element. Commercial with a 30-day trial.
-*   [RevoGrid Pivot (⭐10)](https://github.com/revolist/pivot) - Pivot tables and analytical reporting for the `<revo-grid>` custom element. Commercial with a 30-day trial.
-*   [RevoGrid Charts (⭐1)](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
-*   [RevoGrid Scheduler (⭐10)](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
-*   [Revo UI (⭐9)](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+*   [RevoGrid Kanban (⭐11)](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Gantt (⭐11)](https://github.com/revolist/gantt) - Project tasks, dependencies, and Gantt timelines for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Pivot (⭐12)](https://github.com/revolist/pivot) - Pivot tables and analytical reporting for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [RevoGrid Charts (⭐2)](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
+*   [RevoGrid Scheduler (⭐12)](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
+*   [Revo UI (⭐133)](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+*   [QRdx (⭐39)](https://github.com/qrdxinc/qrdx/tree/main/packages/qrdx) - Styled QR code components for Preact (`qrdx/preact`) with dot and eye patterns, gradients, logos and frames, drawn as SVG without `preact/compat`.
+*   [Clio.css Preact (⭐2)](https://github.com/surfine/clio.css/tree/main/packages/preact) - Preact components for clio.css, which draws Classic Mac OS and NeXTSTEP windows, menus and controls.
 
 ### Libraries
 
@@ -145,10 +147,10 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact-urql (⭐9k)](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql (⭐9k)](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 *   [hooked-head (⭐341)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 *   [Kamod Hooks (⭐4)](https://github.com/kamod-ch/kamod-hooks) - Preact hooks library ported from [ahooks (⭐15k)](https://github.com/alibaba/hooks).
-*   [Teaful (⭐713)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
-*   [Nano Stores (⭐7.6k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
+*   [Teaful (⭐714)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
+*   [Nano Stores (⭐7.7k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 *   [Modular Forms (⭐1.2k)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
-*   [exome (⭐283)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐282)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 *   [Fastro](https://fastro.deno.dev) - Fast & Modular SSR Web Framework for Deno, TypeScript, Preact & Tailwind.
 *   [Jotai (⭐21k)](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React & Preact.
 *   [Pretch (⭐15)](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
@@ -162,7 +164,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 *   [Preact Test Utils (⭐7)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 *   [Preact Testing Library (⭐159)](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices.
-*   [Preact Island (⭐237)](https://github.com/mwood23/preact-island) - Render your Preact component as a widget on any web page with ease.
+*   [Preact Island (⭐236)](https://github.com/mwood23/preact-island) - Render your Preact component as a widget on any web page with ease.
 
 ### Articles
 
@@ -186,11 +188,11 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Code and Comment (⭐17)](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
 *   [Play.cash](https://play.cash) :notes: *([GitHub Project (⭐91)](https://github.com/feross/play.cash))*
 *   [Songsterr](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
-*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐620)](https://github.com/feross/bitmidi.com))*
+*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐622)](https://github.com/feross/bitmidi.com))*
 *   [Ultimate Guitar](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
 *   [ESBench](http://esbench.com) is built using Preact.
 *   [BigWebQuiz](https://bigwebquiz.com) *([GitHub Project (⭐107)](https://github.com/jakearchibald/big-web-quiz))*
-*   [Nectarine.rocks](http://nectarine.rocks) *([GitHub Project (⭐63)](https://github.com/developit/nectarine))* :peach:
+*   [Nectarine.rocks](http://nectarine.rocks) *([GitHub Project (⭐64)](https://github.com/developit/nectarine))* :peach:
 *   [OSS.Ninja](https://oss.ninja) *([GitHub Project (⭐148)](https://github.com/developit/oss.ninja))*
 *   [GuriVR](https://gurivr.com) *([GitHub Project (⭐195)](https://github.com/opennewslabs/guri-vr))*
 *   [Offline Gallery](https://use-the-platform.com/offline-gallery/) *([GitHub Project (⭐95)](https://github.com/vaneenige/offline-gallery/))* :balloon:
@@ -208,17 +210,20 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Passwords Fountain](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere *([Github project (⭐65)](https://github.com/kolodziejczakM/passwords-fountain))*.
 *   [macOS Web](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite *([Github project (⭐1k)](https://github.com/PuruVJ/macos-preact))*.
 *   [Cinemate](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
-*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐600)](https://github.com/PiyushSuthar/Windows-11-Web))*.
+*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐599)](https://github.com/PiyushSuthar/Windows-11-Web))*.
 *   [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app *([GitHub Project (⭐2)](https://github.com/MiftikCZ/idea-keeper-2))*.
 *   [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project (⭐15)](https://github.com/sakihet/trellith)).
 *   [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project (⭐3.3k)](https://github.com/GladysAssistant/Gladys))*.
 *   [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
-*   [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project (⭐23)](https://github.com/authier-pm/authier))*.
+*   [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project (⭐24)](https://github.com/authier-pm/authier))*.
 *   [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.
+*   [ligungi](https://ligungi.org) - Play Gungi, the HUNTER×HUNTER strategy board game, online: real-time games over WebSockets, a bot in a Web Worker and a framework-free board, with prerendered public pages *([GitHub Project (⭐2)](https://github.com/beater-studios/ligungi))*.
+*   [Ellaz](https://ellaz.fun/) - Free browser games for kids and grown-ups, an offline-capable PWA built on Preact (via preact/compat) and Phaser. *([GitHub project (⭐1)](https://github.com/Sigmafier/ellaz-games))*.
+*   [Wiro AI Browser Extension](https://wiro.ai/browser-extension) - Runs AI models on images, video, audio and text from the right-click menu; its side panel is a Preact app shared by the Chromium, Firefox and Safari builds *([GitHub Project (⭐0)](https://github.com/wiroai/Wiro-Extension-Core))*.
 
 ### Related Libraries
 
-*   [React (⭐252k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐253k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 *   [Rax (⭐8k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 *   [Zikojs (⭐136)](https://github.com/zakarialaoui10/zikojs) - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.

@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Software / Screen Recording & Session Replays
+
+*   [Ghostframe Replay (⭐1)](https://github.com/zakariagharzouli/project-ghostframe) - A screenshot that replays its own steps: clicks, timings and notes are encoded in a strip of pixels at the bottom of a JPEG, then replayed in the browser, with no account. MIT.
+
 ## [Nov 26, 2026](/content/2026/11/26/README.md)
 
 ### Software / AI & LLM Testing

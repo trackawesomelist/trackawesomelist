@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Security Tools / Audio Record and Process
+
+*   [IPA-Decrypt (⭐34)](https://github.com/Re13orn/IPA-Decrypt) - Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Re13orn/IPA-Decrypt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Menu Bar Tools
+
+*   [Nook (⭐6)](https://github.com/siliconile/Nook) - Open-source notch app with Now Playing for any player including browsers, a volume and brightness HUD, a focus timer, Reminders, tasks, Markdown notes and a file shelf. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siliconile/Nook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [FestiveLights](https://www.blackbox.ms/festive/en/) - Christmas lights under the menu bar and on the Dock, with snow that settles on your windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/krystofbe/festive-lights) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [holzBar](https://holzcloud.ch/holzbar) - Open-source menu bar manager, a fork of Ice, that hides menu bar icons and adds profiles, widgets, system readouts and a notch hub. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/holzcloud/holzBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
 ## [Nov 26, 2026](/content/2026/11/26/README.md)
 
 ### Developer Tools / IDEs
@@ -597,7 +609,7 @@
 ### AI Tools / Other Tools
 
 *   [o8](https://o8.run) - Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/o8-run/o8)
-*   [MoMo Agent (⭐15)](https://github.com/Miri-Labs/MoMo-Agent) - Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [MoMo Agent (⭐28)](https://github.com/Miri-Labs/MoMo-Agent) - Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Quarters](https://quarters.amithgc.com) - Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/amithgc/quarters) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
@@ -606,11 +618,11 @@
 
 ### Proxy and VPN Tools / Audio Record and Process
 
-*   [LockPlus (⭐15)](https://github.com/steiale/lockplus) - WireGuard and OpenVPN client with a kill switch that macOS itself enforces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/steiale/lockplus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [LockPlus (⭐33)](https://github.com/steiale/lockplus) - WireGuard and OpenVPN client with a kill switch that macOS itself enforces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/steiale/lockplus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Menu Bar Tools
 
-*   [TocaPad (⭐2)](https://github.com/getguruhat/tocapad-macos) - Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/tocapad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [TocaPad (⭐8)](https://github.com/getguruhat/tocapad-macos) - Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/tocapad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Cleanup and Uninstall
 
@@ -1080,7 +1092,7 @@
 ### Utilities / Menu Bar Tools
 
 *   [HideNotch](https://hidenotch.app) - Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/niklasravnsborg/HideNotch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Stash (⭐11)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Stash (⭐12)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 

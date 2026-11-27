@@ -719,6 +719,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Highlight.js (⭐25k)](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
 *   [PrismJS (⭐13k)](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 *   [shiki (⭐14k)](https://github.com/shikijs/shiki) - Code highlighter powered by VS Code TextMate grammars. Accurate, themeable, works in Node or browser, great for JS and TS.
+*   [speed-highlight (⭐418)](https://github.com/speed-highlight/core) - Tiny syntax highlighter for the web and the terminal.
 
 ## Loading Status
 

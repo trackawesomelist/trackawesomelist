@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [IPDatum](https://www.ipdatum.com) - IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast classification API with confidence radius. Free tier includes 1,000 requests/day without signup or 50,000 requests/day with a free API key (batch up to 100 IPs).
 *   [TemplateFox](https://templatefox.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
 
 ### Code Quality

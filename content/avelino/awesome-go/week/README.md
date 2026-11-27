@@ -11,7 +11,21 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [codex-sdk-go (⭐25)](https://github.com/pmenglund/codex-sdk-go) - Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output.
+*   [graymatter (⭐489)](https://github.com/angelnicolasc/graymatter) - Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI.
 *   [KafClaw (⭐21)](https://github.com/KafClaw/KafClaw) - Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing.
+
+### Search and Analytic Databases
+
+*   [zedsearch (⭐4)](https://github.com/vcaesar/zedsearch) - Faster lightweight hybrid search engine with Elasticsearch-compatible ingestion APIs and an embedded web UI.
+
+### Distributed Systems
+
+*   [ghoti (⭐32)](https://github.com/dankomiocevic/ghoti) - Centralized server for shared state across distributed instances: rate limiters, leases, atomic counters and broadcast signals.
+*   [ygo (⭐95)](https://github.com/Deln0r/ygo) - Pure Go port of the Yjs CRDT, wire-compatible with JavaScript yjs clients.
+
+### Embeddable Scripting Languages
+
+*   [evie (⭐4)](https://github.com/hxkhan/evie) - Embeddable scripting language with classes, fibers and per-engine sandboxing.
 
 ### Financial
 
@@ -29,6 +43,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-rest-template (⭐176)](https://github.com/antoniopaya22/go-rest-template) - REST API template with chi, an OpenAPI 3.1 contract, JWT authentication, PostgreSQL or SQLite, and an init tool that removes the features you do not need.
 
+### Uncategorized
+
+*   [fejkdata (⭐1)](https://github.com/larvit/fejkdata) - CLI and library that render fake test data from JSON templates, with related values that match.
+
 ### HTTP Clients
 
 *   [failnext (⭐27)](https://github.com/yermakovsa/failnext) - HTTP transport for client-side failover across priority-ordered endpoints.
@@ -36,6 +54,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [gmrtd (⭐38)](https://github.com/gmrtd/gmrtd) - Library for reading and verifying ePassports and ID cards (ICAO Doc 9303) over NFC, including PACE/BAC access control and passive, active and chip authentication.
+
+### Server Applications
+
+*   [Hugo Admin (⭐6)](https://github.com/sun-praise/hugo-admin) - Self-hosted web admin interface for Hugo static sites with a Markdown editor, dev-server control, full-text search, theme management and gRPC-based plugins.
 
 ### Validation
 
@@ -160,7 +182,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Mock
 
-*   [auth0-mock (⭐8)](https://github.com/sergiught/auth0-mock) - Mock Auth0 server for tests and local development, with signed JWTs, OIDC login flows and the Management API.
+*   [auth0-mock (⭐9)](https://github.com/sergiught/auth0-mock) - Mock Auth0 server for tests and local development, with signed JWTs, OIDC login flows and the Management API.
 
 ### Third-party APIs
 
@@ -1548,7 +1570,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Authentication and Authorization
 
-*   [authgate](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
 *   [go-jwt (⭐3)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 
 ### Date and Time
@@ -1848,7 +1869,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [The Little Go Book (⭐2.3k)](https://github.com/karlseguin/the-little-go-book)
+*   [The Little Go Book (⭐2.4k)](https://github.com/karlseguin/the-little-go-book)
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -1893,7 +1914,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### File Handling
 
-*   [fastwalk (⭐145)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐84k)](https://github.com/junegunn/fzf)).
+*   [fastwalk (⭐145)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐85k)](https://github.com/junegunn/fzf)).
 
 ### Job Scheduler
 
@@ -3184,7 +3205,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [langchaingo (⭐9.8k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [LocalAI (⭐50k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [LocalAI (⭐51k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [Ollama (⭐187k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 ### Email
@@ -3213,7 +3234,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐144)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐145)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -5650,7 +5671,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Machine Learning
 
 *   [bayesian (⭐817)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
-*   [CloudForest (⭐749)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐908)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [evoli (⭐33)](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
@@ -5659,7 +5680,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-deep (⭐555)](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 *   [go-fann (⭐120)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
-*   [go-pr (⭐69)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+*   [go-pr (⭐70)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 *   [gobrain (⭐569)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐44)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐224)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
@@ -6105,7 +6126,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [algernon (⭐3k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐79k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐80k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐141)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.5k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -6282,7 +6303,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 *   [filler (⭐18)](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
 *   [filter (⭐151)](https://github.com/gookit/filter) - provide filtering, sanitizing, and conversion of Go data.
-*   [fzf (⭐84k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
+*   [fzf (⭐85k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐31)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐59)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 *   [git-time-metric (⭐1k)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
@@ -6650,7 +6671,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [jcli (⭐432)](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 *   [kala (⭐2.2k)](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 *   [kcli (⭐225)](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
-*   [kool (⭐728)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
+*   [kool (⭐726)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐129k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 *   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.

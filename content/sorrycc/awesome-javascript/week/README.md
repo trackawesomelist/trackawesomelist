@@ -8,6 +8,10 @@
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
+### Code highlighting / Runner
+
+*   [speed-highlight (⭐418)](https://github.com/speed-highlight/core) - Tiny syntax highlighter for the web and the terminal.
+
 ### Scroll / Other
 
 *   [simpleParallax.js (⭐2.2k)](https://github.com/geosigno/simpleParallax.js) - Lightweight React & vanilla JavaScript library that adds a parallax effect to any image.

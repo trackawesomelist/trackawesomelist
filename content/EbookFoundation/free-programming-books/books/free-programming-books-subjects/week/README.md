@@ -8,6 +8,14 @@
 
 ## [Nov 30 - Dec 06, 2026](/content/2026/48/README.md)
 
+### Artificial Intelligence
+
+*   [Foundation Model Engineering](https://sungeuns.github.io/foundation-model-engineering/) - Seongeun So (HTML) *( :construction: in process)*
+
+### Computer Vision
+
+*   [Foundations of Computer Vision](https://visionbook.mit.edu) - Antonio Torralba, Phillip Isola, William T. Freeman (HTML)
+
 ### Misc / Mathematics For Computer Science
 
 *   [10 Keys to Great Landing Pages](https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF) *( :card\_file\_box: archived)*

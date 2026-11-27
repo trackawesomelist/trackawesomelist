@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Code highlighting / Runner
+
+*   [speed-highlight (⭐418)](https://github.com/speed-highlight/core) - Tiny syntax highlighter for the web and the terminal.
+
 ## [Nov 26, 2026](/content/2026/11/26/README.md)
 
 ### Scroll / Other
